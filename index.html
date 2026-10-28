@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>ふたりの安否</title>
+<meta name="theme-color" content="#24486b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="ふたりの安否">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>ふたりの安否</h1>
+    <span class="sub" id="net">オンライン</span>
+  </header>
+
+  <!-- 初回設定 -->
+  <section class="panel" id="setup" hidden>
+    <h2>はじめの設定（二人とも同じ合言葉）</h2>
+    <div>
+      <label for="myName">あなたの呼び名</label>
+      <input type="text" id="myName" maxlength="12" placeholder="例：たける">
+    </div>
+    <div>
+      <label for="room">合言葉（12文字以上）</label>
+      <input type="text" id="room" maxlength="64" autocomplete="off" placeholder="下のボタンで作れます">
+    </div>
+    <div class="row">
+      <button class="sm" id="genRoom">合言葉を作る</button>
+      <button class="sm" id="copyRoom">合言葉をコピー</button>
+    </div>
+    <p class="sub">片方が作った合言葉を、もう片方に直接伝えて同じものを入れてください。知っている人だけが二人の状況を見られます。</p>
+    <button class="primary" id="saveSetup">はじめる</button>
+    <div class="toast" id="setupMsg" hidden></div>
+  </section>
+
+  <main id="main" hidden>
+    <section class="panel" aria-label="安否を送る">
+      <h2>いまの状態を送る</h2>
+      <div class="btns">
+        <button class="sbtn ok" data-s="ok">無事</button>
+        <button class="sbtn hurt" data-s="hurt">ケガあり</button>
+        <button class="sbtn help" data-s="help">助けて</button>
+      </div>
+      <div>
+        <label for="note">ひとことメモ（任意・40字まで）</label>
+        <input type="text" id="note" maxlength="40" placeholder="例：家にいる／水が足りない">
+      </div>
+      <div class="row">
+        <span class="lbl">電池</span>
+        <div class="chips" id="batt">
+          <button class="chip" data-b="100">十分</button>
+          <button class="chip" data-b="50">半分</button>
+          <button class="chip" data-b="20">20%</button>
+          <button class="chip" data-b="5">ほぼゼロ</button>
+        </div>
+      </div>
+      <div class="toast" id="toast" hidden></div>
+    </section>
+
+    <section class="panel" aria-label="ふたりの状況">
+      <h2>ふたりの状況</h2>
+      <div id="people" class="people"><p class="empty">まだ誰も送っていません。上のボタンを押すと、ここに表示されます。</p></div>
+    </section>
+
+    <section class="panel" aria-label="有事モード">
+      <div class="mode">
+        <div>
+          <b>有事モード</b>
+          <div class="sub" id="modeText">オンにすると、6時間ごとに安否の送り直しを促します</div>
+        </div>
+        <button class="switch" id="modeBtn" aria-pressed="false">オフ</button>
+      </div>
+    </section>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab" role="tab" aria-selected="true" data-t="rules">ルール</button>
+      <button class="tab" role="tab" aria-selected="false" data-t="shel">避難所</button>
+      <button class="tab" role="tab" aria-selected="false" data-t="conf">設定</button>
+    </nav>
+
+    <section class="panel" id="rules">
+      <h2>まずやること</h2>
+      <ol>
+        <li>自分の身の安全を確保する。家が無事なら家に留まってよい</li>
+        <li>家にいられなければ、自分の区の避難所へ。着いたら「避難所」タブで「ここにいる」を押す</li>
+        <li>このアプリで安否を送る。相手のところへ無理に向かわない</li>
+      </ol>
+      <h2>移動するときの注意</h2>
+      <ul>
+        <li><b>生野区</b>：木造住宅が密集した地域は火災に注意。煙が見えたら早めに広い場所へ。大火災時の広域避難場所は大阪城公園・天王寺公園など</li>
+        <li><b>旭区</b>：浸水に注意。大宮西小・旭陽中・旭高は、地震時は浸水していないか確かめてから入る。大火災時の広域避難場所は城北公園・鶴見緑地など</li>
+      </ul>
+      <h2>このアプリが使えないとき</h2>
+      <ol>
+        <li>SMSで送る
+          <div class="toast" id="smsText">【安否】まだ送っていません</div>
+          <div class="row">
+            <a class="sm" id="smsLink" href="sms:">SMSを開く</a>
+            <button class="sm" id="copyBtn">文をコピー</button>
+          </div>
+        </li>
+        <li>災害用伝言ダイヤル <a class="code" href="tel:171">171</a>
+          <ul>
+            <li>録音：171 → <span class="code">1</span> → 自分の電話番号</li>
+            <li>再生：171 → <span class="code">2</span> → 相手の電話番号</li>
+          </ul>
+        </li>
+        <li>公衆電話は災害時もつながりやすい。自分の避難所の近くの場所を、平時に歩いて確かめておく</li>
+      </ol>
+    </section>
+
+    <section class="panel" id="shel" hidden>
+      <div class="chips" id="ward">
+        <button class="chip" data-w="生野区" aria-pressed="true">生野区</button>
+        <button class="chip" data-w="旭区" aria-pressed="false">旭区</button>
+      </div>
+      <p class="sub">大阪市が公表している災害時避難所の一覧です。「地図」で場所を開けます（地図はネットが必要）。</p>
+      <div id="shelList"></div>
+    </section>
+
+    <section class="panel" id="conf" hidden>
+      <h2>設定</h2>
+      <p class="sub" id="confInfo"></p>
+      <div class="row">
+        <button class="sm" id="copyRoom2">合言葉をコピー</button>
+        <button class="sm" id="resetSetup">呼び名・合言葉を変える</button>
+      </div>
+      <p class="sub">ホーム画面に追加しておくと、ネットがなくてもこのアプリを開けます（iPhoneはSafariの共有ボタン →「ホーム画面に追加」）。</p>
+    </section>
+  </main>
+</div>
+<script type="module" src="app.js"></script>
+</body>
+</html>
