@@ -25,7 +25,8 @@ header{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
 #net.off{color:var(--sos);font-weight:700}
 .panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:12px}
 .btns{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
-.sbtn{font:inherit;font-weight:800;font-size:19px;border:0;border-radius:10px;padding:20px 4px;color:var(--ink-on);cursor:pointer}
+.sbtn{font:inherit;font-weight:800;font-size:18px;line-height:1.3;border:0;border-radius:10px;padding:16px 4px;color:var(--ink-on);cursor:pointer;display:flex;flex-wrap:wrap;justify-content:center;align-content:center;min-height:76px}
+.sbtn span{white-space:nowrap}
 .sbtn.ok{background:var(--ok)} .sbtn.hurt{background:var(--warn)} .sbtn.help{background:var(--sos)}
 @media (prefers-reduced-motion:no-preference){.sbtn{transition:transform .08s}.sbtn:active{transform:scale(.97)}}
 :focus-visible{outline:3px solid var(--accent);outline-offset:2px}
