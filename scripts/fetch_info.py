@@ -219,7 +219,11 @@ def parse_rss(xml_bytes):
 
 
 def norm(t):
-    return re.sub(r"[\s　「」『』【】（）()〈〉“”\"'、。・:：,，]", "", t)[:24]
+    """同じ記事の転載を1つにまとめるための比較用の文字列"""
+    t = re.split(r"\s[–—-]\s", t)[0]                      # 末尾の「 – 媒体名」を落とす
+    t = re.sub(r"^[^：:]{1,10}[：:]", "", t)                  # 先頭の「WSJ日本版：」などを落とす
+    t = re.sub(r"^【[^】]{1,10}】", "", t)
+    return re.sub(r"[\s　「」『』【】（）()〈〉“”\"'、。・:：,，!！?？…]", "", t)[:16]
 
 
 def collect_news(feeds, keywords, limit, max_age_h, must=None, extra=None):
