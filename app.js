@@ -348,6 +348,11 @@ function renderInfo(info, fromCache) {
   }
   if (!topics.length) emptyRow(g, "取得できていません");
 
+  // 日本：Jアラート・弾道ミサイル
+  const jp = $("#infoJapan"); jp.innerHTML = "";
+  for (const n of (info.japan || [])) jp.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  if (!jp.children.length) emptyRow(jp, info.japan ? "ここ2日、該当するニュースはありません" : "取得できていません");
+
   // 南海トラフ
   const nk = $("#infoNankai"); nk.innerHTML = "";
   for (const n of (info.nankai || [])) nk.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
@@ -380,7 +385,14 @@ function timeLine(info) {
   if (info.updated) parts.push(`ニュース ${fmtAt(info.updated)} 時点`);
   return parts.join("／");
 }
-for (const id of ["#stOsaka", "#stJapan", "#stWorld"]) $(id).onclick = e => { e.preventDefault(); openTab("info"); };
+// カードを押すと、情報タブの該当する場所（大阪市・日本・世界）まで移動する
+for (const [id, grp] of [["#stOsaka", "#grpOsaka"], ["#stJapan", "#grpJapan"], ["#stWorld", "#grpWorld"]]) {
+  $(id).onclick = e => {
+    e.preventDefault();
+    const t = document.querySelector('.tab[data-t="info"]'); if (t) t.click();
+    requestAnimationFrame(() => $(grp).scrollIntoView({ behavior: "smooth", block: "start" }));
+  };
+}
 
 /* 気象庁から警報・地震を直接取る（GitHubの定時実行が遅れても最新になるように） */
 const JMA_WARN = ["https://www.jma.go.jp/bosai/warning/data/r8/270000.json", "https://www.jma.go.jp/bosai/warning/data/warning/270000.json"];
@@ -451,7 +463,7 @@ async function fetchJMA() {
 // 判定（scripts/fetch_info.py と同じ基準）
 const within = (at, h) => { const t = new Date(at).getTime(); return !isNaN(t) && Date.now() - t <= h * 3600e3; };
 // 「Jアラートの訓練」「爆発を想定」のような見出しで緊急にしないための除外語（scripts/fetch_info.py と同じ）
-const RED_EXCLUDE = ["偽", "誤報", "誤って", "訓練", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"];
+const RED_EXCLUDE = ["偽", "誤報", "誤って", "訓練", "試験", "テスト", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"];
 const realOnly = list => list.filter(n => !RED_EXCLUDE.some(x => n.title.includes(x)));
 const newsHits = (list, words, h = 24) => (list || []).filter(n => within(n.at, h) && words.some(w => n.title.includes(w)));
 const result = (red, yel, ok) => red.length ? { level: "red", reasons: [...red, ...yel] } : yel.length ? { level: "yellow", reasons: yel } : { level: "green", reasons: [ok] };

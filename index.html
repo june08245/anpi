@@ -10,7 +10,7 @@
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="ふたりの安否">
-<link rel="stylesheet" href="style.css?v=16">
+<link rel="stylesheet" href="style.css?v=17">
 </head>
 <body>
 <div class="wrap">
@@ -148,17 +148,12 @@
         <button class="sm" id="infoReload">更新</button>
       </div>
 
-      <h2>大阪市の警報・注意報</h2>
+      <h3 class="grp" id="grpOsaka">大阪市</h3>
+      <h2>警報・注意報</h2>
       <div id="infoWarn" class="ilist"></div>
 
-      <h2>大阪市のニュース（避難指示・断水・火災など）</h2>
+      <h2>避難指示・断水・火災などのニュース</h2>
       <div id="infoOsaka" class="ilist"></div>
-
-      <h2>最近の地震</h2>
-      <div id="infoQuake" class="ilist"></div>
-
-      <h2>南海トラフ</h2>
-      <div id="infoNankai" class="ilist"></div>
 
       <h2>停電</h2>
       <div class="row">
@@ -167,11 +162,21 @@
       </div>
       <div id="infoOutage" class="ilist"></div>
 
-      <h2>国際ニュース</h2>
-      <div id="infoWorld" class="ilist"></div>
+      <h3 class="grp" id="grpJapan">日本</h3>
+      <h2>Jアラート・弾道ミサイル</h2>
+      <div id="infoJapan" class="ilist"></div>
+
+      <h2>最近の地震</h2>
+      <div id="infoQuake" class="ilist"></div>
+
+      <h2>南海トラフ</h2>
+      <div id="infoNankai" class="ilist"></div>
 
       <h2>サイバー攻撃・通信障害</h2>
       <div id="infoCyber" class="ilist"></div>
+
+      <h3 class="grp" id="grpWorld">世界</h3>
+      <div id="infoWorld" class="ilist"></div>
 
       <h2>公式の情報源</h2>
       <div class="row">
@@ -186,7 +191,7 @@
         <li><b>日本</b>：全国のどこかで震度5弱以上、弾道ミサイルの報道、南海トラフ地震臨時情報（巨大地震注意・調査中）のどれかがあれば注意。全国のどこかで震度6弱以上、Jアラートの報道、南海トラフ地震臨時情報（巨大地震警戒）のどれかがあれば緊急</li>
         <li><b>世界</b>：24時間以内のイラン・アメリカ、中国・台湾、北朝鮮、ロシアの見出しに「攻撃」「空爆」「ミサイル」「大規模演習」などがあれば注意。「核攻撃」「全面戦争」「日本を攻撃」「台湾に侵攻」などがあれば緊急</li>
       </ul>
-      <p class="sub">「訓練」「想定」「偽」「可能性」などを含む見出しでは、緊急にしません。</p>
+      <p class="sub">「訓練」「試験」「想定」「偽」「可能性」などを含む見出しでは、緊急にしません。</p>
       <p class="sub">30分ごとに自動で集めています。速報はスマホの緊急速報やテレビ・ラジオのほうが早く届きます。ミサイルなどの国民保護情報（Jアラート）は、スマホの緊急速報メールで自動的に届きます。</p>
     </section>
 
@@ -201,6 +206,6 @@
     </section>
   </main>
 </div>
-<script type="module" src="app.js?v=16"></script>
+<script type="module" src="app.js?v=17"></script>
 </body>
 </html>

@@ -108,3 +108,8 @@ a.irow .t{text-decoration:underline;text-decoration-color:var(--line);text-under
 
 .topic{font-size:14px;margin:10px 0 4px;color:var(--fg)}
 #infoWorld .topic:first-child{margin-top:0}
+
+/* 情報タブの大見出し（大阪市・日本・世界） */
+.grp{font-size:18px;font-weight:800;margin:14px 0 0;padding-top:12px;border-top:2px solid var(--fg);color:var(--fg);scroll-margin-top:calc(12px + env(safe-area-inset-top,0px))}
+#info .infohead + .grp{margin-top:0}
+.ilist .irow.hit .t{background:var(--warn-bg);box-shadow:0 0 0 4px var(--warn-bg);border-radius:2px}
