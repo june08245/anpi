@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:30+09:00",
+ "updated": "2026-11-04T01:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,12 +179,6 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "免許証は「1枚20円」…“ダークウェブ”で売買される個人情報 「新しい情報は高値で取引」 サイバー攻撃の影に北朝鮮系ハッカー【news23】",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2UjZfeXBpZm1BaUx3UEJ3ZEt5Y285OXlZSTZnWTR0a25aZXBoMTBUU29MRG9oZW1fZDhqRzJMbFc5czlKYWlJWDVQRzQ1VDBDNUhPMlBHbw?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-04T00:59+09:00"
-    },
-    {
      "title": "北朝鮮はなぜサイバー攻撃大国になったのか 制裁下の外貨獲得戦略 - 日経FTザ・ワールド",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mRUdiWHpVVzVqZ3o0Y2dEMjM0WWV1b2J2ZmRrUVExdnFKanR2b0UwbzRoYWtqSGRGQ19DZl9JaXpoMGl0OVU5RnlNbzBSbVVvT0szeTliUjN2UDJndEtMb29jVmJnc3Z4QjkydXhmYVF0QjAxd0Qw?oc=5",
      "source": "日本経済新聞",
@@ -201,6 +195,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSXy0yTTZoc05GbmRxZXRkdk5MdTJoeHUwQUhIV3RNZGphQnduaFBtUXktOU9sUDFLbm9TUVNkbERUblQxY2ZXY0lLQU9yLWNXSmRkbEktN1UtZXlsTmN0cEhSTVpqRzd3aDBRWjR1WXVTUHZFZmIyWUdsVEZmbGs?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-03T17:33+09:00"
+    },
+    {
+     "title": "【写真・画像】北朝鮮、対韓国の任務待機 軍事境界線、宣伝放送も | | 全国のニュース",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lZTdsd2M1Z21OUDFDa2tpa3hIM3QzcVQ4WWxXQWtsQXVVcU12UDBsNFpZWThCTFF2S2Jacnc0WkFDN3VEeWhZYjMzRFFLTXk0ako4aVNtLW1RZUpxUWN5QVRfOTU?oc=5",
+     "source": "佐賀新聞",
+     "at": "2026-11-03T17:32+09:00"
     },
     {
      "title": "北朝鮮が巡航ミサイルの発射実験を実施",
@@ -222,7 +222,7 @@
    "items": [
     {
      "title": "プーチン氏をキーウに招くことや、私をモスクワに招くことは有害＝ゼレンシキー宇大統領",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ1JoaUN4c0hhbnc0UUM4Q1hSa2RBeURBUHpJTlUtMDdZYnJXYU1feWRkT2x6TGdDOTFWWWFUU1JrZnJqeWJIMURnUU5qNGV5WnNCbVlsdkNlZkV0d0pXOTEtSmhHc0dwMERWY0JkNjY3QzkyVXpZYkZibDZ2QTRHQzg4Y29hTDI2aloybzc3ZWtiNFgxTDVlR2JQSVZzS2NwR2lpQjNzSHF1cE1XZW1yTVVuRERZcjZ0NTdxUWhJV0xaS1BBS254dzFid1lnMTh6Y0NxYnRQc2FtSUhwekU00gHkAUFVX3lxTE05dUdNWnMwRWtJcVoxSVdoTnZ2ckc5RkdONE00S3diTlpZMmRWbTMwbG9oQXhvZXAwMlU2QXcyUjQwN2FubjBHcDQtMGRtQkNhbXJfb3pXN283VzZTdGdJY1RpWE1BckdNaXhOdTQ2MzZaTUkzOXRIS0p2ZnNTaFlEallnSVppUjh1aXQ2RHkyZTdDLVAwSC12eE5sY2drb1dCZW5UZDdLQ1hqcFBNTjFTdmRzbHk3eW40MHU0dmVHYk5PZzJQb2VhYmNEWVNCb1R1SE5rLXZwUHdGZG5JRXdMNTdiSQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOXVHTVpzMEVrSXFaMUlXaE52dnJHOUZHTjRNNEt3Yk5aWTJkVm0zMGxvaEF4b2VwMDJVNkF3MlI0MDdhbm4wR3A0LTBkbUJDYW1yX296VzdvN1c2U3RnSWNUaVhNQXJHTWl4TnU0NjM2Wk1JMzl0SEtKdmZzU2hZRGpZZ0laaVI4dWl0NkR5MmU3Qy1QMEgtdnhObGNna29XQmVuVGQ3S0NYanBQTU4xU3Zkc2x5N3luNDB1NHZlR2JOT2cyUG9lYWJjRFlTQm9UdUhOay12cFB3RmRuSUV3TDU3YknSAeQBQVVfeXFMTTl1R01aczBFa0lxWjFJV2hOdnZyRzlGR040TTRLd2JOWlkyZFZtMzBsb2hBeG9lcDAyVTZBdzJSNDA3YW5uMEdwNC0wZG1CQ2Ftcl9velc3bzdXNlN0Z0ljVGlYTUFyR01peE51NDYzNlpNSTM5dEhLSnZmc1NoWURqWWdJWmlSOHVpdDZEeTJlN0MtUDBILXZ4TmxjZ2tvV0JlblRkN0tDWGpwUE1OMVN2ZHNseTd5bjQwdTR2ZUdiTk9nMlBvZWFiY0RZU0JvVHVITmstdnBQd0ZkbklFd0w1N2JJ?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-04T00:11+09:00"
     },
@@ -251,26 +251,20 @@
      "at": "2026-11-03T23:20+09:00"
     },
     {
-     "title": "ウクライナとロシアで警報アプリ攻撃受ける",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NME9QN0FKMnFxT282dVZudjVDYXk2Q1E4RWxtdi00MEcxS1hXam5adXROQndSQnk3SS1jWWlBQlpRMFc2VERGVng5cnpEZ2lNNzExTURQQjFmakxyRlE?oc=5",
-     "source": "テレ東BIZ",
-     "at": "2026-11-03T22:49+09:00"
+     "title": "メラニア・トランプ米大統領夫人、ホワイトハウスでウクライナとロシアの代表者と会談すると発表",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN1Y3em1XbFhFX0lDNXduU0FQZHkwYkx3cWtOY3pWcU1ia3lsbk1SdVh6SGtYZWxtX2dYQS1RWkFNaXVRUmtDQ1B3alpkRW5MVmVVV2lkMG1SSUhxblV3UHNjblVpRU1fNnFwaVJjeTA4bkRsVUV3dVJKTmRvbFVnUUo1NWZZdmdGajBJQmY1cmRBelhheEZmeGVDN0xNUmdUbDFvalNVWlpQaGFPbjJtVGhoREdyTERJd1A5WDAtZ3ZBSUREZWVINlhGM1NIZmMxUzBRUS1iNUpDcXVhVkRUcTY2cjdreVdUZW93aGpzY2xVU1hJMmxB0gH3AUFVX3lxTE03Vjd6bVdsWEVfSUM1d25TQVBkeTBiTHdxa05jelZxTWJreWxuTVJ1WHpIa1hlbG1fZ1hBLVFaQU1pdVFSa0NDUHdqWmRFbkxWZVVXaWQwbVJJSHFuVXdQc2NuVWlFTV82cXBpUmN5MDhuRGxVRXd1UkpOZG9sVWdRSjU1Zll2Z0ZqMElCZjVyZEF6WGF4RmZ4ZUM3TE1SZ1RsMW9qU1VaWlBoYU9uMm1UaGhER3JMREl3UDlYMC1ndkFJRERlZUg2WEYzU0hmYzFTMFFRLWI1SkNxdWFWRFRxNjZyN2t5V1Rlb3doanNjbFVTWEkybEE?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-03T23:03+09:00"
     }
    ]
   }
  ],
  "nankai": [
   {
-   "title": "新設・防災庁の細野大臣が熊本地震の被災地を初視察 南九州道の復旧状況を確認し 南海トラフなど巨大地震への技術応用を目指す",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRGRFOTd0QVZTNlE4ck5GeHgtOHp1TzNnXzZael94S21MR0pld0hTLU5RLXp5LU5jNG9DX2pTc0F0YjNrUURycGNwVHlUWTNjSTlIUWNSTmtudXdTNENyem1rZ3d5X1ZEamRKbVN4eFNVb05iVXBhZWFhV041dVVJYjhkeGJWRUVTbFlXdHBYZmZxOUlUZ19WeVUyRHdvb2hKU0VsYXJNSUJmbFRuZG54U3BYeFFQTmhWUkhCcHUtU2FpbkJGZ3Q3dmkwa1pFR3RvcHQ3ODN1SjEzLVpucjQ4bWJ4Nlcta2M3djdYV0V5S3FVa2J2QVE?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-03T22:18+09:00"
-  },
-  {
-   "title": "写真・図版（1枚目）| レクビィ、内閣府の「南海トラフ地震を想定したキャンピングカー実証運用」に参加",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNejh5MjNVWk80WXBvTjJsRDg4SU1rY09QczdlcnVNSmQzdTQ1TjRQbEpWc2pNYktpNWRPVFAtT3RmR2Nvb0VtaDVIWHVGbzNsZWo0UG9n?oc=5",
-   "source": "AERA DIGITAL",
-   "at": "2026-11-03T22:07+09:00"
+   "title": "新設・防災庁の細野大臣が熊本地震の被災地を初視察 南九州道の復旧状況を確認し 南海トラフなど巨大地震への技術応用を目指す (2026年11月3日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16UXRDZkNCazlNMDBKNFlyUmhMUlFna3Q5TkFSTkJ5YkJhaWJ0VkZLQ1JXZTFfQWtIOGIwbm5NeUJ1RktTTEFqX1pqTFVnQnlRcWtLdVdoLXItVldRQWc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-03T20:25+09:00"
   },
   {
    "title": "「世界津波の日」前に南海トラフ巨大地震想定し訓練 和歌山",
@@ -279,10 +273,10 @@
    "at": "2026-11-03T15:07+09:00"
   },
   {
-   "title": "「世界津波の日」（5日）を前に津波避難訓練 マグニチュード9.1の「南海トラフ巨大地震」が発生 和歌山県に「大津波警報」が発表された想定 和歌山・串本町 | TBS NEWS DIG",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzZHNOR3VCbEljN0FiQUFVRnVwYmE4VUg3OWxOdHZxaEM1OHVlQmR3WTJhNTZ2bjhpNldrNmVxV0lIYXh1UDZnaGR1aXBnZncwWTRzV1BYWWZXaWFL?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-03T14:37+09:00"
+   "title": "「世界津波の日」（5日）を前に津波避難訓練 マグニチュード9.1の「南海トラフ巨大地震」が発生 和歌山県に「大津波警報」が発表された想定 和歌山・串本町",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FUG9aNUM4SU1yaWpmNy1DTUViODBrOE1tdDF6Q1pQNzNZNkxveGRNUmY2WktUaEtJSktjYWRVNzhuN0tpZnYtY1RpdmhyNVhFbkRZNjJrQ0N4ZGNZMEZoNjdNOGFKdUFBMGV2SDF6ek1Yd0E?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-03T14:12+09:00"
   },
   {
    "title": "レクビィ、内閣府の「南海トラフ地震を想定したキャンピングカー実証運用」に参加",
@@ -291,10 +285,16 @@
    "at": "2026-11-03T06:16+09:00"
   },
   {
-   "title": "｢国家の命運をかけた戦いになる｣ 防災庁発足で一人一人の備えを呼びかけ 南海トラフ巨大地震や首都直下地震への“事前防災”を | TBS NEWS DIG",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EdFpPQTMyZjJLWU1IRVotX2NzVW5aMGk4UFVZMG9wZEx0LWNwTTM2emM3QTliTk9KZDR2OFZDRUV4a3pjV05MNUVjM28tTFNiNXBQbVVTNU5yYnhV?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-03T00:04+09:00"
+   "title": "防災庁が挑む｢国の防災改革｣ 南海トラフ、富士山噴火…災害被害軽減へ“官庁の縦割り”打破なるか",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55LUY1NWtnTlpQZjJfSWtzWGtqanNFeGtKVEM2VndWVnh3S25kU2VyREZiUW5POVhUSTBvTUhMa1FhaEtJbHNuT1phQ2ktZw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "at": "2026-11-02T21:01+09:00"
+  },
+  {
+   "title": "防災庁発足 南海トラフ警戒地域の声 国による具体的な支援を",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42SzBUSXN4VXVZZDhHd05ITTgwU0sxSDA4UlBDUEZTbF9IdWNNTTk1ZDVFQWc4WG82R0tuUHp5Q1I3QUFQNlRjdlFZek5aRjl3OXRvSXJkeEZOak5QWkJPMWNrRnJ3RENGeDBlM1M0Ym9GZw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-02T20:58+09:00"
   }
  ],
  "outage": [],
@@ -344,10 +344,10 @@
    "at": "2026-11-04T00:00+09:00"
   },
   {
-   "title": "セブン‐イレブン・ジャパンの委託先が不正アクセス（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yRmpmYllxemRWd01GRVVnT1UwV2hZMkJDeXJ0b05PWGF2UC1NRkQ1aFZ1aXBOc3NoclZmZ2xnd1RNa1FNNmw5NzBhUk9iM0JGaTdaMUJCOEFBT2lwOXNVenZzanhETnlDNTc4eFJ1YmFHU2FTTUZiSjlTRnNkUUU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-03T23:54+09:00"
+   "title": "セブン‐イレブン・ジャパンの委託先が不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KX05pc3FGakdicnpKMEZMSTJtTFRSdi1JT0gtSE5EcjFZNExLNHAtUlM4UU5ERmxSM2tDaDNpY0JKdFRuVEMyQVZCTE9HbWcyMW0waFJNM1h0SjlKRWZj?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-03T23:56+09:00"
   },
   {
    "title": "CBcloud「ピックゴー」に不正アクセス、7NOW・出前館の顧客の情報流出の恐れ 配送委託先1社から複数サービスへ波及",
@@ -380,22 +380,8 @@
    "at": "2026-11-03T23:42+09:00"
   }
  ],
- "osaka": [
-  {
-   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42T0FwbWh1cG9NTnMzb0Q2cnM5VlJVUjJINFh1Mk8xYXZkMWp3Q003MDBFcEE0aFlLUE9EVnUyNHloc0ZTMmJPckxmRWpwdmhDZnc?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-03T18:03+09:00"
-  }
- ],
+ "osaka": [],
  "world": [
-  {
-   "title": "免許証は「1枚20円」…“ダークウェブ”で売買される個人情報 「新しい情報は高値で取引」 サイバー攻撃の影に北朝鮮系ハッカー【news23】",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2UjZfeXBpZm1BaUx3UEJ3ZEt5Y285OXlZSTZnWTR0a25aZXBoMTBUU29MRG9oZW1fZDhqRzJMbFc5czlKYWlJWDVQRzQ1VDBDNUhPMlBHbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-04T00:59+09:00",
-   "topic": "北朝鮮"
-  },
   {
    "title": "米イラン合意なお隔たり、トランプ氏は軍事行動示唆 カタール仲介続く",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXFFZnNMV2xIdWswQU5aa1RabkFwbjJSdTBScEVfOUtzWVdSX0Z5S2R3SVYzS1NuQzF4LVhMT2oxRk5udzkwOWhfdXdKVFFxcXFhdlZNdGVBZXNmZGJxNnNKNWtEUUFiUmJlak9OSjJoVmNtX2k4RFNGZFZ0UzdXYi1QM0w1eEU?oc=5",
@@ -405,7 +391,7 @@
   },
   {
    "title": "プーチン氏をキーウに招くことや、私をモスクワに招くことは有害＝ゼレンシキー宇大統領",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ1JoaUN4c0hhbnc0UUM4Q1hSa2RBeURBUHpJTlUtMDdZYnJXYU1feWRkT2x6TGdDOTFWWWFUU1JrZnJqeWJIMURnUU5qNGV5WnNCbVlsdkNlZkV0d0pXOTEtSmhHc0dwMERWY0JkNjY3QzkyVXpZYkZibDZ2QTRHQzg4Y29hTDI2aloybzc3ZWtiNFgxTDVlR2JQSVZzS2NwR2lpQjNzSHF1cE1XZW1yTVVuRERZcjZ0NTdxUWhJV0xaS1BBS254dzFid1lnMTh6Y0NxYnRQc2FtSUhwekU00gHkAUFVX3lxTE05dUdNWnMwRWtJcVoxSVdoTnZ2ckc5RkdONE00S3diTlpZMmRWbTMwbG9oQXhvZXAwMlU2QXcyUjQwN2FubjBHcDQtMGRtQkNhbXJfb3pXN283VzZTdGdJY1RpWE1BckdNaXhOdTQ2MzZaTUkzOXRIS0p2ZnNTaFlEallnSVppUjh1aXQ2RHkyZTdDLVAwSC12eE5sY2drb1dCZW5UZDdLQ1hqcFBNTjFTdmRzbHk3eW40MHU0dmVHYk5PZzJQb2VhYmNEWVNCb1R1SE5rLXZwUHdGZG5JRXdMNTdiSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOXVHTVpzMEVrSXFaMUlXaE52dnJHOUZHTjRNNEt3Yk5aWTJkVm0zMGxvaEF4b2VwMDJVNkF3MlI0MDdhbm4wR3A0LTBkbUJDYW1yX296VzdvN1c2U3RnSWNUaVhNQXJHTWl4TnU0NjM2Wk1JMzl0SEtKdmZzU2hZRGpZZ0laaVI4dWl0NkR5MmU3Qy1QMEgtdnhObGNna29XQmVuVGQ3S0NYanBQTU4xU3Zkc2x5N3luNDB1NHZlR2JOT2cyUG9lYWJjRFlTQm9UdUhOay12cFB3RmRuSUV3TDU3YknSAeQBQVVfeXFMTTl1R01aczBFa0lxWjFJV2hOdnZyRzlGR040TTRLd2JOWlkyZFZtMzBsb2hBeG9lcDAyVTZBdzJSNDA3YW5uMEdwNC0wZG1CQ2Ftcl9velc3bzdXNlN0Z0ljVGlYTUFyR01peE51NDYzNlpNSTM5dEhLSnZmc1NoWURqWWdJWmlSOHVpdDZEeTJlN0MtUDBILXZ4TmxjZ2tvV0JlblRkN0tDWGpwUE1OMVN2ZHNseTd5bjQwdTR2ZUdiTk9nMlBvZWFiY0RZU0JvVHVITmstdnBQd0ZkbklFd0w1N2JJ?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-04T00:11+09:00",
    "topic": "ロシア"
@@ -474,10 +460,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ウクライナとロシアで警報アプリ攻撃受ける",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NME9QN0FKMnFxT282dVZudjVDYXk2Q1E4RWxtdi00MEcxS1hXam5adXROQndSQnk3SS1jWWlBQlpRMFc2VERGVng5cnpEZ2lNNzExTURQQjFmakxyRlE?oc=5",
-   "source": "テレ東BIZ",
-   "at": "2026-11-03T22:49+09:00",
+   "title": "メラニア・トランプ米大統領夫人、ホワイトハウスでウクライナとロシアの代表者と会談すると発表",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN1Y3em1XbFhFX0lDNXduU0FQZHkwYkx3cWtOY3pWcU1ia3lsbk1SdVh6SGtYZWxtX2dYQS1RWkFNaXVRUmtDQ1B3alpkRW5MVmVVV2lkMG1SSUhxblV3UHNjblVpRU1fNnFwaVJjeTA4bkRsVUV3dVJKTmRvbFVnUUo1NWZZdmdGajBJQmY1cmRBelhheEZmeGVDN0xNUmdUbDFvalNVWlpQaGFPbjJtVGhoREdyTERJd1A5WDAtZ3ZBSUREZWVINlhGM1NIZmMxUzBRUS1iNUpDcXVhVkRUcTY2cjdreVdUZW93aGpzY2xVU1hJMmxB0gH3AUFVX3lxTE03Vjd6bVdsWEVfSUM1d25TQVBkeTBiTHdxa05jelZxTWJreWxuTVJ1WHpIa1hlbG1fZ1hBLVFaQU1pdVFSa0NDUHdqWmRFbkxWZVVXaWQwbVJJSHFuVXdQc2NuVWlFTV82cXBpUmN5MDhuRGxVRXd1UkpOZG9sVWdRSjU1Zll2Z0ZqMElCZjVyZEF6WGF4RmZ4ZUM3TE1SZ1RsMW9qU1VaWlBoYU9uMm1UaGhER3JMREl3UDlYMC1ndkFJRERlZUg2WEYzU0hmYzFTMFFRLWI1SkNxdWFWRFRxNjZyN2t5V1Rlb3doanNjbFVTWEkybEE?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-03T23:03+09:00",
    "topic": "ロシア"
   },
   {
@@ -523,6 +509,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "【写真・画像】北朝鮮、対韓国の任務待機 軍事境界線、宣伝放送も | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lZTdsd2M1Z21OUDFDa2tpa3hIM3QzcVQ4WWxXQWtsQXVVcU12UDBsNFpZWThCTFF2S2Jacnc0WkFDN3VEeWhZYjMzRFFLTXk0ako4aVNtLW1RZUpxUWN5QVRfOTU?oc=5",
+   "source": "佐賀新聞",
+   "at": "2026-11-03T17:32+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "【分析】中共の台湾侵攻に「食料の壁」　大豆輸入途絶が招く国内危機",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uc3FYcXhTd1JiM1FqVUlhZHJ5eXB6VmNQOVpZdGVyeXdSZW9SeWdmdnVhTk9kREYwckdpUVJFMFRIR29YdDFydGdaSUJVekxyOFNkazlwdFXSAV5BVV95cUxNWDFTVnZjc3lnd1lKOTdJWHl4czBnU2tmRm5GUUJxeHNKaHh6OVVOSDMwU25SajFjbDR5QVkyZ0U1bHF1cWEtMnFBV0ZOZlM4RjlVZU90Mm9RREtqXy1B?oc=5",
    "source": "大紀元 エポックタイムズ",
@@ -548,8 +541,8 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「侵攻」1件",
-    "北朝鮮：「攻撃」「ミサイル」5件",
-    "ロシア：「攻撃」「空爆」5件"
+    "北朝鮮：「攻撃」「ミサイル」4件",
+    "ロシア：「攻撃」「空爆」4件"
    ],
    "items": [
     {
@@ -565,10 +558,10 @@
      "at": "2026-11-03T15:24+09:00"
     },
     {
-     "title": "免許証は「1枚20円」…“ダークウェブ”で売買される個人情報 「新しい情報は高値で取引」 サイバー攻撃の影に北朝鮮系ハッカー【news23】",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2UjZfeXBpZm1BaUx3UEJ3ZEt5Y285OXlZSTZnWTR0a25aZXBoMTBUU29MRG9oZW1fZDhqRzJMbFc5czlKYWlJWDVQRzQ1VDBDNUhPMlBHbw?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-04T00:59+09:00"
+     "title": "北朝鮮はなぜサイバー攻撃大国になったのか 制裁下の外貨獲得戦略 - 日経FTザ・ワールド",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mRUdiWHpVVzVqZ3o0Y2dEMjM0WWV1b2J2ZmRrUVExdnFKanR2b0UwbzRoYWtqSGRGQ19DZl9JaXpoMGl0OVU5RnlNbzBSbVVvT0szeTliUjN2UDJndEtMb29jVmJnc3Z4QjkydXhmYVF0QjAxd0Qw?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-04T00:00+09:00"
     }
    ]
   }
