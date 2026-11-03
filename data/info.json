@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:01+09:00",
+ "updated": "2026-11-03T12:07+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -109,6 +109,12 @@
    "at": "2026-11-03T11:26+09:00"
   },
   {
+   "title": "トランプ大統領はイランへの空爆を急いでいないと断言",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFNHemI3TFQtVm00c3A4amdieGZvak15aWFfTzVLTnp1VlZNOUdNZVJMdnl2bUVaS0RFZC1OLUN3dy1LVjhuMnM5UlI1cmRwenlhZnVXcXBXUU5mSUE0dzVsS1FfdGx3bkNKeXRNaGkxQTVINkRpYUN0ejVSdDA4MlJTWm1KcGR2RTRQcm9mUkpXc1kzWDFuN18xYVA?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-03T10:48+09:00"
+  },
+  {
    "title": "米軍、イランのケシュム島を攻撃＝ウォール・ストリート・ジャーナル 執筆",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lWVVrakZyYXNjU1FWLWU1Q0tDNTlNUXM5WEpTeEV6TW5XT2ZBSV9SaFlBWnZhNjRMLXpvYVlFQllUOXRITFlWU3l6dnJKQi1oRS1BWUxQLWlTY0Z5a3VfWWkyaFp2NC04ZFE?oc=5",
    "source": "Investing.com - FX",
@@ -146,15 +152,9 @@
   },
   {
    "title": "米軍、イランのケシム島を攻撃＝報道",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5MXhUR3UxbzBmeDZaTTEtVEZyZTY0Y0JPNWs2Rkw5RTdsbUJITXU0dlp3ZEgwRFNqN2U2SS1EeWpvTDhhdWZFY1hrQlYtTk1fWWZzZTJZQnBkNGc0RFo4?oc=5",
-   "source": "Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tTEZoYm00bDg2bFN5V0tiLXB1OWxRYWVuWkpLODg2ZmtvX3VrWV93ZGpLZHpmcUxXQWl0SFItWU83WEdYZDNMYURiYkxfNEdYbnBydExWNE9IYmVScUZlTkcwMHVLUlRadGtR0gFrQVVfeXFMTm1MRmhibTRsODZsU3lXS2ItcHU5bFFhZW5aSks4ODZma29fdWtZX3dkaktkemZxTFdBaXRIUi1ZTzdYR1hkM0xhRGJiTF80R1hucHJ0TFY0T0hiZVJxRmVORzAwdUtSVFp0a1E?oc=5",
+   "source": "Infoseek",
    "at": "2026-11-03T10:14+09:00"
-  },
-  {
-   "title": "◎米軍、イランのケシム島を攻撃＝報道",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YRmVuWXRNVkdGX3dHLWdmZWlVeHlCRWlJS3BxRlVZSTJmSHg0RUVHYmZNQzMzYkt0b1ZfelhBc3FtMU9MekltYU4xMFNzbUdzUzRhUw?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-03T10:13+09:00"
   },
   {
    "title": "米、イラン南部の島を限定攻撃か",
@@ -202,11 +202,24 @@
    "at": "2026-11-02T12:39+09:00"
   }
  ],
+ "osaka": [],
  "status": {
+  "osaka": {
+   "level": "green",
+   "reasons": [
+    "警報なし・大きな揺れや停電の報道なし"
+   ]
+  },
+  "japan": {
+   "level": "yellow",
+   "reasons": [
+    "弾道ミサイルの報道（北朝鮮が弾道ミサイルなど十数発を発射、日本のＥＥＺ外へ落下…）"
+   ]
+  },
   "world": {
    "level": "yellow",
    "reasons": [
-    "24時間以内に「攻撃」の報道が14件"
+    "24時間以内に「攻撃」「空爆」の報道が14件"
    ],
    "items": [
     {
@@ -227,12 +240,6 @@
      "source": "時事ドットコム",
      "at": "2026-11-03T11:26+09:00"
     }
-   ]
-  },
-  "japan": {
-   "level": "yellow",
-   "reasons": [
-    "弾道ミサイルの報道（北朝鮮が弾道ミサイルなど十数発を発射、日本のＥＥＺ外へ落下…）"
    ]
   }
  }
