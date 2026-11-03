@@ -105,3 +105,6 @@ a.irow .t{text-decoration:underline;text-decoration-color:var(--line);text-under
 .locbtn{font:inherit;font-weight:800;font-size:16px;border:2px solid var(--accent);background:var(--surface);color:var(--accent);border-radius:10px;padding:12px;cursor:pointer}
 .locbtn:disabled{opacity:.6;cursor:wait}
 .locrow{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:4px}
+
+.topic{font-size:14px;margin:10px 0 4px;color:var(--fg)}
+#infoWorld .topic:first-child{margin-top:0}

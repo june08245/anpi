@@ -42,13 +42,19 @@ WARN_CODES = {
 }
 INACTIVE = {"解除", "発表警報・注意報はなし"}
 
-WORLD_FEEDS = [
-    "https://news.google.com/rss/search?q=" + urllib.parse.quote("イラン アメリカ when:3d") + "&hl=ja&gl=JP&ceid=JP:ja",
-    "https://news.google.com/rss/search?q=" + urllib.parse.quote("イラン 米軍 when:3d") + "&hl=ja&gl=JP&ceid=JP:ja",
-    "https://www3.nhk.or.jp/rss/news/cat6.xml",  # NHK 国際
+# 国際ニュースを話題ごとに分けて集める（key, 表示名, 検索, 見出しに必要な言葉）
+NHK_WORLD = "https://www3.nhk.or.jp/rss/news/cat6.xml"
+WORLD_TOPICS = [
+    ("iran", "イラン・アメリカ", ["イラン アメリカ when:3d", "イラン 米軍 when:3d"], ["イラン"]),
+    ("china", "中国・台湾", ["中国軍 台湾 when:3d", "台湾海峡 when:3d", "中国 軍事 日本 when:3d"], ["台湾", "中国軍", "中国海警", "習近平", "中国"]),
+    ("nk", "北朝鮮", ["北朝鮮 when:3d"], ["北朝鮮", "金正恩"]),
+    ("russia", "ロシア", ["ロシア ウクライナ when:3d", "ロシア軍 when:3d"], ["ロシア", "プーチン"]),
 ]
-WORLD_KEYWORDS = ["イラン", "米国", "アメリカ", "米軍", "トランプ", "イスラエル", "中東", "ミサイル",
-                  "攻撃", "空爆", "停戦", "ホルムズ", "核"]
+WORLD_NEWS_WORDS = ["攻撃", "空爆", "爆撃", "ミサイル", "軍", "侵攻", "停戦", "核", "演習", "封鎖", "衝突", "交戦",
+                    "戦争", "制裁", "首脳", "会談", "協議", "大統領", "発射", "領海", "領空", "防衛", "緊張", "威嚇"]
+# 南海トラフ（臨時情報などは大阪にも直接関わる）
+NANKAI_FEEDS = ["https://news.google.com/rss/search?q=" + urllib.parse.quote("南海トラフ when:7d") + "&hl=ja&gl=JP&ceid=JP:ja"]
+
 OUTAGE_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("停電 大阪 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
@@ -85,8 +91,9 @@ CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つなが�
 
 # ---------- 危険度の判定（目安） ----------
 # 世界：直近24時間のニュース見出しに出てくる言葉で判定
-WORLD_RED = ["核攻撃", "核兵器を使用", "核兵器使用", "全面戦争", "宣戦布告", "日本を攻撃", "在日米軍基地を攻撃", "在日米軍基地に攻撃"]
-WORLD_YELLOW = ["攻撃", "空爆", "爆撃", "軍事衝突", "交戦", "報復", "ミサイル", "封鎖", "侵攻"]
+WORLD_RED = ["核攻撃", "核兵器を使用", "核兵器使用", "全面戦争", "宣戦布告", "日本を攻撃", "在日米軍基地を攻撃", "在日米軍基地に攻撃",
+             "台湾に侵攻", "台湾を攻撃", "台湾へ攻撃", "台湾に上陸"]
+WORLD_YELLOW = ["攻撃", "空爆", "爆撃", "軍事衝突", "交戦", "報復", "ミサイル", "封鎖", "侵攻", "大規模演習"]
 
 
 def get(url, timeout=20):
@@ -213,8 +220,8 @@ def norm(t):
     return re.sub(r"[\s　「」『』【】（）()、。・:：]", "", t)[:40]
 
 
-def collect_news(feeds, keywords, limit, max_age_h, must=None):
-    items, errors = [], 0
+def collect_news(feeds, keywords, limit, max_age_h, must=None, extra=None):
+    items, errors = list(extra or []), 0
     for url in feeds:
         try:
             items += parse_rss(get(url))
@@ -262,11 +269,41 @@ def assess_world(r, now):
     red = hits(r.get("world"), WORLD_RED, now)
     if red:
         return {"level": "red", "reasons": [f"「{red[0]['title'][:40]}」などの報道"], "items": red[:3]}
-    yel = hits(r.get("world"), WORLD_YELLOW, now)
-    if yel:
-        words = [w for w in WORLD_YELLOW if any(w in n["title"] for n in yel)][:3]
-        return {"level": "yellow", "reasons": [f"24時間以内に「{'」「'.join(words)}」の報道が{len(yel)}件"], "items": yel[:3]}
+    reasons, items = [], []
+    for t in r.get("world_topics") or []:
+        yel = hits(t.get("items"), WORLD_YELLOW, now)
+        if yel:
+            words = [w for w in WORLD_YELLOW if any(w in n["title"] for n in yel)][:2]
+            reasons.append(f"{t['label']}：「{'」「'.join(words)}」{len(yel)}件")
+            items += yel[:1]
+    if not reasons:  # 話題別がまだない古いデータ用
+        yel = hits(r.get("world"), WORLD_YELLOW, now)
+        if yel:
+            words = [w for w in WORLD_YELLOW if any(w in n["title"] for n in yel)][:3]
+            reasons.append(f"24時間以内に「{'」「'.join(words)}」の報道が{len(yel)}件")
+            items = yel[:3]
+    if reasons:
+        return {"level": "yellow", "reasons": reasons, "items": items[:3]}
     return {"level": "green", "reasons": ["24時間以内に、攻撃や衝突の報道は見当たりません"], "items": []}
+
+
+def nankai_level(news, now):
+    """南海トラフ地震臨時情報の発表を見出しから拾う（巨大地震警戒→red、巨大地震注意・調査中→yellow）"""
+    for n in news or []:
+        t = n["title"]
+        if "臨時情報" not in t or "発表" not in t:
+            continue
+        if "巨大地震警戒" in t and within(n.get("at"), 24 * 7, now):
+            return "red", f"南海トラフ地震臨時情報（巨大地震警戒）"
+    for n in news or []:
+        t = n["title"]
+        if "臨時情報" not in t or "発表" not in t:
+            continue
+        if "巨大地震注意" in t and within(n.get("at"), 24 * 7, now):
+            return "yellow", "南海トラフ地震臨時情報（巨大地震注意）"
+        if "調査中" in t and within(n.get("at"), 24, now):
+            return "yellow", "南海トラフ地震臨時情報（調査中）"
+    return None, None
 
 
 def quake_when(q):
@@ -283,6 +320,11 @@ def assess_japan(r, now):
             red.append(f"{q['place']}で震度{q['maxi']}（{quake_when(q)}）")
         elif q.get("maxiRank", 0) >= 5:
             yel.append(f"{q['place']}で震度{q['maxi']}（{quake_when(q)}）")
+    nl, nr = nankai_level(r.get("nankai"), now)
+    if nl == "red":
+        red.append(nr)
+    elif nl == "yellow":
+        yel.append(nr)
     jn = r.get("japan") or []
     ja = hits(jn, ["Jアラート", "国民保護"], now, 12)
     if ja:
@@ -337,6 +379,11 @@ def assess_osaka(r, now):
         ly = hits(loc, OSAKA_YELLOW, now, 24)
         if ly:
             yel.append(f"「{ly[0]['title'][:40]}」")
+    nl, nr = nankai_level(r.get("nankai"), now)
+    if nl == "red":
+        red.append(nr)
+    elif nl == "yellow":
+        yel.append(nr)
     cy = local_cyber(r.get("cyber"), now)
     if cy:
         yel.append(f"「{cy[0]['title'][:40]}」")
@@ -345,6 +392,25 @@ def assess_osaka(r, now):
     if yel:
         return {"level": "yellow", "reasons": yel}
     return {"level": "green", "reasons": ["警報なし・大きな揺れや停電の報道なし"]}
+
+
+def collect_world_topics():
+    out, ok = [], 0
+    try:
+        nhk = parse_rss(get(NHK_WORLD))
+    except Exception:
+        nhk = []
+    for key, label, queries, must in WORLD_TOPICS:
+        feeds = ["https://news.google.com/rss/search?q=" + urllib.parse.quote(q) + "&hl=ja&gl=JP&ceid=JP:ja" for q in queries]
+        try:
+            items = collect_news(feeds, must, 6, 72, WORLD_NEWS_WORDS, extra=nhk)
+            ok += 1
+        except Exception:
+            items = []
+        out.append({"key": key, "label": label, "items": items})
+    if not ok:
+        raise RuntimeError("all topics failed")
+    return out
 
 
 # ---------- まとめ ----------
@@ -359,7 +425,8 @@ def main():
     jobs = {
         "warnings": fetch_warnings,
         "quakes": fetch_quakes,
-        "world": lambda: collect_news(WORLD_FEEDS, WORLD_KEYWORDS, 15, 72),
+        "world_topics": collect_world_topics,
+        "nankai": lambda: collect_news(NANKAI_FEEDS, ["南海トラフ"], 6, 24 * 7),
         "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48, OUTAGE_PLACES),
         "japan": lambda: collect_news(JAPAN_FEEDS, JAPAN_KEYWORDS, 6, 48),
         "cyber": lambda: collect_news(CYBER_FEEDS, CYBER_KEYWORDS, 10, 48),
@@ -372,6 +439,15 @@ def main():
             print(f"[{key}] 取得失敗: {e}", file=sys.stderr)
             result["errors"].append(key)
             result[key] = prev.get(key)  # 前回の内容を残す
+
+    # 話題別をまとめた一覧（新しい順・20件）も残す
+    merged, seen = [], set()
+    for t in result.get("world_topics") or []:
+        for n in t["items"]:
+            if n["link"] not in seen:
+                seen.add(n["link"]); merged.append(dict(n, topic=t["label"]))
+    merged.sort(key=lambda n: n.get("at") or "", reverse=True)
+    result["world"] = merged[:20]
 
     now = datetime.now(timezone.utc)
     result["status"] = {"osaka": assess_osaka(result, now), "japan": assess_japan(result, now), "world": assess_world(result, now)}

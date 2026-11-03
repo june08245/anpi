@@ -337,10 +337,21 @@ function renderInfo(info, fromCache) {
   for (const n of (info.cyber || [])) cy.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
   if (!cy.children.length) emptyRow(cy, info.cyber ? "ここ2日、該当するニュースはありません" : "次の更新から表示されます");
 
-  // 国際ニュース
+  // 国際ニュース（話題ごと）
   const g = $("#infoWorld"); g.innerHTML = "";
-  for (const n of (info.world || [])) g.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
-  if (!g.children.length) emptyRow(g, "取得できていません");
+  const topics = info.world_topics || (info.world ? [{ label: "イラン・アメリカなど", items: info.world }] : []);
+  for (const t of topics) {
+    const h = document.createElement("h3"); h.className = "topic"; h.textContent = t.label; g.appendChild(h);
+    const box = document.createElement("div"); box.className = "ilist"; g.appendChild(box);
+    for (const n of (t.items || []).slice(0, 5)) box.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+    if (!box.children.length) emptyRow(box, "ここ3日、該当するニュースはありません");
+  }
+  if (!topics.length) emptyRow(g, "取得できていません");
+
+  // 南海トラフ
+  const nk = $("#infoNankai"); nk.innerHTML = "";
+  for (const n of (info.nankai || [])) nk.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  if (!nk.children.length) emptyRow(nk, info.nankai ? "ここ1週間、該当するニュースはありません" : "次の更新から表示されます");
 
   renderStatus(info);
 }
@@ -467,10 +478,19 @@ function assessOsaka(info) {
   const lr = newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"]);
   if (lr.length) red.push(`「${lr[0].title.slice(0, 40)}」`);
   else { const ly = newsHits(info.osaka, ["断水", "大規模火災", "延焼", "高齢者等避難"]); if (ly.length) yel.push(`「${ly[0].title.slice(0, 40)}」`); }
+  pushNankai(info, red, yel);
   const cy = localCyber(info.cyber);
   if (cy.length) yel.push(`「${cy[0].title.slice(0, 40)}」`);
   return result(red, yel, "警報なし・大きな揺れや停電の報道なし");
 }
+function nankaiLevel(news) {
+  const list = (news || []).filter(n => n.title.includes("臨時情報") && n.title.includes("発表"));
+  if (list.some(n => n.title.includes("巨大地震警戒") && within(n.at, 24 * 7))) return ["red", "南海トラフ地震臨時情報（巨大地震警戒）"];
+  if (list.some(n => n.title.includes("巨大地震注意") && within(n.at, 24 * 7))) return ["yellow", "南海トラフ地震臨時情報（巨大地震注意）"];
+  if (list.some(n => n.title.includes("調査中") && within(n.at, 24))) return ["yellow", "南海トラフ地震臨時情報（調査中）"];
+  return [null, null];
+}
+function pushNankai(info, red, yel) { const [l, r] = nankaiLevel(info.nankai); if (l === "red") red.push(r); else if (l === "yellow") yel.push(r); }
 function assessJapan(info) {
   const red = [], yel = [];
   for (const q of info.quakes || []) {
@@ -478,6 +498,7 @@ function assessJapan(info) {
     if (q.maxiRank >= 7) red.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`);
     else if (q.maxiRank >= 5) yel.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`);
   }
+  pushNankai(info, red, yel);
   const ja = newsHits(info.japan, ["Jアラート", "国民保護"], 12);
   if (ja.length) red.push(`「${ja[0].title.slice(0, 40)}」`);
   else { const mi = newsHits(info.japan, ["弾道ミサイル"]); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
