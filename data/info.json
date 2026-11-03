@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:06+09:00",
+ "updated": "2026-11-03T13:26+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -89,96 +89,212 @@
    "title": "震源・震度情報"
   }
  ],
- "world": [
+ "world_topics": [
   {
-   "title": "米軍、公表せずイランの島を小規模攻撃か 米紙報道「防衛的措置」",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kQTczbTFiTUR6SUJuTTJrSGFzT0VTdWd5Uy05clBMTzlwZzFPOWZEUkI1RXhBMUUxT3JINmNrNHNqZkthSmxNdEUtczBTWnNnWUhTdlBzX2J3UGVjSEtqWGVCUXpvVm8?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-03T12:57+09:00"
+   "key": "iran",
+   "label": "イラン・アメリカ",
+   "items": [
+    {
+     "title": "米軍、公表せずイランの島を小規模攻撃か 米紙報道「防衛的措置」",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kQTczbTFiTUR6SUJuTTJrSGFzT0VTdWd5Uy05clBMTzlwZzFPOWZEUkI1RXhBMUUxT3JINmNrNHNqZkthSmxNdEUtczBTWnNnWUhTdlBzX2J3UGVjSEtqWGVCUXpvVm8?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-03T12:57+09:00"
+    },
+    {
+     "title": "米軍、公表せずイランの島を小規模攻撃か 米紙報道「防衛的措置」（朝日新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04NEx3ZWxMSlpOZ2tfdUJJVVNrUXlVcncyOUp3UnMzSkh3dnVKWkFPRW1KU2RaVmRXU3l5N0pHMzZNNEpUNmlfeUlGUlJzdUNCUm9QWDRUR1pXNDZkYk1nUWVyNlMwZ0hxNDhZY19XeTdUUllQQ1p6cUhrNGZZb2c?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-03T12:57+09:00"
+    },
+    {
+     "title": "米軍がイランの島を攻撃 WSJ報道、トランプ氏「ここ数カ月は戦闘を行っていない」（産経新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKWjRmdUxIYmh5Q2ttTk1kSTZrdkl0aVdKVXNEZVJkcE1tWjlQRUd6M1dEQXVkdXpkWjA3cEFTS0JMcHhGU0ptN2wwUjhQUHJDUnEzSW41cjJNOUZfV2FFaDg4SlpwWHEwc2FUdHl1N1pkNTBXX2ppRGgwNDlsUWM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-03T12:56+09:00"
+    },
+    {
+     "title": "米軍がイランの島を攻撃　WSJ報道、トランプ氏「ここ数カ月は戦闘を行っていない」",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3ZiNm1kZ29GNy1nQzI5Y3pQYmtPOWlWQlA3SWtRbFo0SVpVUDVTdzI2S1JoZUFuSk1fdk1CYmtNdl9vRHNGR1ltRVJ4YkFrNDRfY3kzWFJHSS03bkVEclNrdHpfaUx3YldlVVJQbWw0MWN5UkRlR0djQ1QwWFJwOTBZSkRmRTF2Y3pPeVVMd3FTQ2Qyb1hzU294S0c4VmFhOFd30gGoAUFVX3lxTFBZblh3M0YzaDBsY2ZDbU9BdTRVNW5yRmVqa0NmR0NObHhQWU5DZ2JwMnNodEx2NElfeHRkODhsa3NoQjYxUFZUd3AyaGcwd3V2V3M2Q05FZ0F1VVhjTjhmQUgwQ0FPTzFNTTB3RVRzZjJaMTB4OHU3UnRhSTY0QmtNWFZGM1ZzUnJ1clFKMXEwMFl3cEQ4Ty02WjRQY0ZrM2pUZG1vcXh2Rg?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-03T12:54+09:00"
+    },
+    {
+     "title": "米軍がイランの島攻撃、トランプ氏は交渉進展示唆 米紙報道（ＡＦＰ＝時事）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lWjY4WXltV09pTUJFNWhyLWFxWEhyRFB4a2tlSjdpWHdnRWZ6OXBkZEdvWVFBQWRlNWYzWWxZbFgwYlNtbjc2ZFNhVFR0Q050SzItaUY0dklJRlg5cHAtalRoMTlicldfOTNaX2xqU3EtcVNXUl8yNW5aMlNvMXc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-03T12:28+09:00"
+    },
+    {
+     "title": "米軍がイランの島攻撃、トランプ氏は交渉進展示唆 米紙報道",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSHFRT0d5aUswcXNuT3oxOFdBRXhVLUVRTWR2MTA4OUNybExlMGFmT0tVaE83amU0UVFXUG1CeWRLdWltVHFqN1RFVHY0RElyRWRIRFE2Z252bks1U3ZMcC13dk1vLWRy0gFUQVVfeXFMTXllM3hQakdtRzFjQ0d6V2t0WGNodWxrS0hFT0xkS0ctdXgwSHc3c0lRR3RrNFotN3FlSVI0cTZYSXVERnpONk9VelhwMUl6cmQ1aUUt?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-03T12:25+09:00"
+    }
+   ]
   },
   {
-   "title": "米軍、公表せずイランの島を小規模攻撃か 米紙報道「防衛的措置」（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04NEx3ZWxMSlpOZ2tfdUJJVVNrUXlVcncyOUp3UnMzSkh3dnVKWkFPRW1KU2RaVmRXU3l5N0pHMzZNNEpUNmlfeUlGUlJzdUNCUm9QWDRUR1pXNDZkYk1nUWVyNlMwZ0hxNDhZY19XeTdUUllQQ1p6cUhrNGZZb2c?oc=5",
+   "key": "china",
+   "label": "中国・台湾",
+   "items": [
+    {
+     "title": "WSJ日本版：中国、台湾周辺海域でデータ収集強化 軍事利用の可能性",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jQW9BcnB4c25HOHJfQV95ZFEzXzdwQ1dvRGlkazFSeG1zdHk5dlJOOWplakx1d3lzYUk0MUNDMldlakZ0eW9nUXJxdFZnQk9tV1I2RXljbWwzVEpIOS1nTE5IM0dFUk93?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-03T08:42+09:00"
+    },
+    {
+     "title": "軍調達ドローンに中国部品、納入元創業者を勾留",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DalBWRjA2bzBfMU1ha0hIVWRsZ3lIcmhqM0NnR2dZQ3hRLVJwM2JKUGkzaWxxc1NONmk0ZmVfb1EzZmVrWXc?oc=5",
+     "source": "NNAアジア",
+     "at": "2026-11-03T00:00+09:00"
+    },
+    {
+     "title": "台湾侵攻、習近平氏に「やる勇気はない」 柯隆氏が読む中国経済の実力と対中ビジネスの要諦",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSFMwTXdWemRab2wzeDlNaWMwWkRjYUt0WGlRUzRKWEpQUVpkVzc2a2otbURYN2JCcllSd0VCUGt4aGt4Y0RhdDNOaTVnMWlINkpyWlNn?oc=5",
+     "source": "西日本新聞me",
+     "at": "2026-11-02T18:59+09:00"
+    },
+    {
+     "title": "中国軍、汚職で幹部空洞化　共産党会議、補充なし",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUTNSN012WWZQQUtkdHFmYWt6bGtaY0ZlLV8zbWcyMU9hVS1FTUdkS0dVOTZFeG0zTzdlQUZpTDI4aDUwX3JnbG4zQV81RTRXWk1uaDI3VGVOUWZXZVJROFVpUDJQemZKSFpTMDd0dERuZ2E0WHU5ejNpRTJOd2tJaWtObkc0V0NLbHfSAY8BQVVfeXFMT21oVjZlMEVrU1R1YXBHdUszWmNWeHhHRGtiMUxYVVVwTHBIVDF1X1J3RkJzbk9MMVA5cHllbElDSU43R1pObWhTZkZGOU81NEVrVjRrdXBpYThEaXBqUXMzTjladG9jMUgyU05yMVRkRkI0VGVJdDJrTTM4QllObzJ0UmFBaEVwd1YwaVRfcEE?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-02T18:08+09:00"
+    },
+    {
+     "title": "無人機に、戦闘機が緊急発進。台湾と与那国島の間で何が？｜日本の防衛最前線",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xc0w1dnJLcHlJenl6U0VqelVJZE1MTEZ5SzlJZ2dTejU4X3pTcXhYOXFnS3hWOEYwWHV6dW9qSC1Xekd6bWEwTzJ2Yl9aQjJKbUE0OV9rUjh4TlVY?oc=5",
+     "source": "YouTube",
+     "at": "2026-11-02T16:15+09:00"
+    },
+    {
+     "title": "プロペラ逆向き「異形の中国軍機」日本に接近！ 沖縄を通り越して太平洋まで飛行 防衛省が画像を公開",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SR00ybFNpb2x3M1lwWmtFcGhBVW9kdDMwYlpPRFhsNE4tSHBsSXkzVVp3TlFEX19BeWJ6Ql9RSnRjV2NVd1VLSzlIbGdrWUdGbENjcA?oc=5",
+     "source": "ニコニコニュース",
+     "at": "2026-11-02T12:00+09:00"
+    }
+   ]
+  },
+  {
+   "key": "nk",
+   "label": "北朝鮮",
+   "items": [
+    {
+     "title": "北朝鮮“巡航ミサイルに搭載したクラスター弾の威力を評価する試験を実施”（日テレNEWS NNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzamFrVEZOUzMyc1JWd0pLMmhZWTdBd20tazhYeGZPVVdhU0h5empXdGxEbFU2RnlPTmdIcnFpazVJRkxDaXZubEFmUm0yNVI3NVQ0Um5QSmZKcjVIcXBUbThUbENLZzdrSUpPOXI4cmZDUHNOOXJjVktITG1TUUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-03T11:55+09:00"
+    },
+    {
+     "title": "北朝鮮が〈20分で1兆円の暗号資産を強奪〉､サイバー攻撃で外貨調達し兵器近代化を加速する｢核だけではない脅威｣",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nZ25oY1RBY3l2ck9pYzN0aTQ4R2ZaZzM2VHBLTGpGV1lCMDUzUlNpOHhVb1plUGpWVDdWUkxSRW5hSlJMUkNxNUd4NW5XT3FFblhYaWlLZ1JVQkNTdGNR?oc=5",
+     "source": "東洋経済オンライン",
+     "at": "2026-11-03T11:30+09:00"
+    },
+    {
+     "title": "北朝鮮が弾道ミサイルに続き、巡航ミサイルにもクラスター弾頭を搭載して威力デモを行い、巡航ミサイルの垂直打撃能力を誇示した。 韓国内の飛行場と弾薬庫·油類貯蔵庫など主要地上軍事施設に対する広域·精密打撃..",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zUDdSc0dNSUxyWEVPVTdlVXF2cHhjUnRFdDVyTW9nVjcxZmlQOVoza2N3R3RPNVlXUWhtNVVFb2tldUt3b3RyNjdYNlZhT24zTGhv?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-03T11:18+09:00"
+    },
+    {
+     "title": "北朝鮮、2隻目の駆逐艦が就役 日本海管轄、核武装化方針",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEhLeEQ2VGpOZUwybmdiWWFpdy1wLVFLZlpmZHlIMlBrY1l6VWlnb1A5X3F6azExY2UxWlFlb2xtWFVUSUltUS1wck9yMkZCTjdReWtzT2NDemJwN1VoOWRGY1ZsMDRaLU8zVHFPcEFrSlczZThTS1lHNDBHZENhbGRRbUlucEJP?oc=5",
+     "source": "北海道新聞デジタル",
+     "at": "2026-11-03T10:58+09:00"
+    },
+    {
+     "title": "北朝鮮、またクラスター弾試験＝巡航ミサイルに搭載",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VcFJ5dm5iOGVwMXdrMGF3SWlOY20wUWRKOTBBT0o1NUc0RGdudzR6TnBsOXcybXkyX2lvYUxtWXAySTE3QTFnQ0ZvUEdJbk5JcTlDRQ?oc=5",
+     "source": "時事通信ニュース",
+     "at": "2026-11-03T10:37+09:00"
+    },
+    {
+     "title": "北朝鮮 巡航ミサイル搭載のクラスター弾実験＝「5～6ヘクタール焦土化」",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaDNacDRSbE94aElnMEhNSmZZMUxOUGtpY0trMElMQW1KQ0psMUZMVm8wT2hiS0NwWmJnWXdwWVdkeUpZYTgxZTBkWnN0RC1GcnFfa2lkTjhramllb3Q5UFJpUXpoQUtEUnpDdkw1UE03am9LeHdDaDdFUmp6UTA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-03T10:25+09:00"
+    }
+   ]
+  },
+  {
+   "key": "russia",
+   "label": "ロシア",
+   "items": [
+    {
+     "title": "建設現場で働くはずが「ロシア軍のわな」で戦地へ…脅され暴行された外国人契約兵「動物のような扱い」",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VZUZJVTFadHdRQXRiMU9UWXJOdW04T2gtRWZwU0NZY3NWd1hjTUtRZ084OGx3eW94MnR0cVR1MkZ6MS00UjVKYkNWNmlQMmZNYkptOHdqc2w1TjhqenktNFBR?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-03T13:10+09:00"
+    },
+    {
+     "title": "アメリカ・ロシア・ウクライナの3か国協議 今月10日～11日で実施へ 米・ウィットコフ特使が発表",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FV2Z4cmpVMzNDSXMyTXNMX2JadHNKcEJWelhrVGNraF9IeTZhZnhfdnpUWHpxSHVpOVZqRGp3aHhYYk1DUmRJRnJhSFJnd3pSVG5WbTRmVQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-03T12:52+09:00"
+    },
+    {
+     "title": "ロシア軍、外国人兵士に「入れ墨」で識別番号…「遺体確認に必要」と深く刻まれ「胸の痛み５日間続いた」",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVWw5dlpab0trYnlTTTV4Vl9HbU9QQjJZT1UzaElWRm5TOHJ0N2pGb2s4MVM5ZXE5WjYxQWFLd3hrVWxGN210T1d0N3dqMGJCd0VJLXk4d2g4aGhDaUZzeElR?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-03T12:50+09:00"
+    },
+    {
+     "title": "ウクライナとロシアで「核攻撃の偽警報」 緊急警報アプリへのサイバー攻撃が相次ぐ",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRXdpckxIbTFySV9ZTUNYUmR3azJBNHBYOGhCWjVldVAxU0E2Mzh6cDhBNWNLTmh2OXl3VkxKUmZVVU1QV2VycWVPT0FzbjREWGRjdGZaMFJPZDhwa2RYN2FwWUZmMkVzRkdnck5uSnJ2NzRuQWtvQTREYU1Bcjg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-03T11:00+09:00"
+    },
+    {
+     "title": "ロシア軍が人道支援物資の配布場所を攻撃 ウクライナで31人死傷 ゼレンスキー大統領が強く非難",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xR0hPMURwcjNCcmpoLU5jLW9LM3BrUjJ4ZFJzMnp3ZDhKZ2hnX21IX3N6cWZPcmV2Tmc5SjVYd2tSRTN4V2ExRXlGNDJoWTBVeEtkdzdwVi0wdVp1cVk0?oc=5",
+     "source": "千葉テレビ放送株式会社",
+     "at": "2026-11-03T10:58+09:00"
+    },
+    {
+     "title": "ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QV1lXOHl3bGFIaHZxdzExdkFRSWNFNmY1ZmNDcWRBZE9lR2tUdzZodWNvUzhWWGFoVElHbGhhYjF5TWtQWXE5OGFGdG80VUdOU1NheGxydGxEU0dQX21od3ZEVGFEQdIBZkFVX3lxTE9QV1lXOHl3bGFIaHZxdzExdkFRSWNFNmY1ZmNDcWRBZE9lR2tUdzZodWNvUzhWWGFoVElHbGhhYjF5TWtQWXE5OGFGdG80VUdOU1NheGxydGxEU0dQX21od3ZEVGFEQQ?oc=5",
+     "source": "BBC",
+     "at": "2026-11-03T10:53+09:00"
+    }
+   ]
+  }
+ ],
+ "nankai": [
+  {
+   "title": "「世界津波の日」前に南海トラフ巨大地震想定し訓練 和歌山",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CVWhMQURkY2taaWxqSjdUc3YtMXQ0N1dDNDFjbHRua1ItS2M5N2U4NDgtS2hvTm9WUFJoSXhtdHpmRkVSY2xtdFNpamlzRmMwenZ5bzJqRDhIOGhELXI0?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-03T12:24+09:00"
+  },
+  {
+   "title": "レクビィ、内閣府の「南海トラフ地震を想定したキャンピングカー実証運用」に参加",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aVWZxYWNCM19vOUs4cmI1dzV0Z0piRDQxMkgyNy0tLXhTM0llRUxDLWRMX29fd3Z6Snh2Q211VGd0eF9ncFpabGJyR2pQR2VH?oc=5",
+   "source": "AERA DIGITAL",
+   "at": "2026-11-03T06:16+09:00"
+  },
+  {
+   "title": "防災庁が挑む｢国の防災改革｣ 南海トラフ、富士山噴火…災害被害軽減へ“官庁の縦割り”打破なるか",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55LUY1NWtnTlpQZjJfSWtzWGtqanNFeGtKVEM2VndWVnh3S25kU2VyREZiUW5POVhUSTBvTUhMa1FhaEtJbHNuT1phQ2ktZw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "at": "2026-11-02T21:01+09:00"
+  },
+  {
+   "title": "防災庁発足 南海トラフ警戒地域の声 国による具体的な支援を",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42SzBUSXN4VXVZZDhHd05ITTgwU0sxSDA4UlBDUEZTbF9IdWNNTTk1ZDVFQWc4WG82R0tuUHp5Q1I3QUFQNlRjdlFZek5aRjl3OXRvSXJkeEZOak5QWkJPMWNrRnJ3RENGeDBlM1M0Ym9GZw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-02T20:58+09:00"
+  },
+  {
+   "title": "防災庁発足 南海トラフ警戒地域の声 国による具体的な支援を（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qT2ZzUThXZ2NyQjB2VlQxSmRlM2lTd050cXNxaXpoNmpaZldHOTFiVHdhVWxLdFV4R3pxbGJsUHY1U2NaNWRXR01wOGt5TGZkam5ETjlCRGo4WDc3S1JnX19YTHczUGRKbmJWdTJuWmZuNW5YcG5mVm9oYWdYRkE?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-03T12:57+09:00"
+   "at": "2026-11-02T20:58+09:00"
   },
   {
-   "title": "米軍がイランの島を攻撃　WSJ報道、トランプ氏「ここ数カ月は戦闘を行っていない」",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3ZiNm1kZ29GNy1nQzI5Y3pQYmtPOWlWQlA3SWtRbFo0SVpVUDVTdzI2S1JoZUFuSk1fdk1CYmtNdl9vRHNGR1ltRVJ4YkFrNDRfY3kzWFJHSS03bkVEclNrdHpfaUx3YldlVVJQbWw0MWN5UkRlR0djQ1QwWFJwOTBZSkRmRTF2Y3pPeVVMd3FTQ2Qyb1hzU294S0c4VmFhOFd30gGoAUFVX3lxTFBZblh3M0YzaDBsY2ZDbU9BdTRVNW5yRmVqa0NmR0NObHhQWU5DZ2JwMnNodEx2NElfeHRkODhsa3NoQjYxUFZUd3AyaGcwd3V2V3M2Q05FZ0F1VVhjTjhmQUgwQ0FPTzFNTTB3RVRzZjJaMTB4OHU3UnRhSTY0QmtNWFZGM1ZzUnJ1clFKMXEwMFl3cEQ4Ty02WjRQY0ZrM2pUZG1vcXh2Rg?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-03T12:54+09:00"
-  },
-  {
-   "title": "米軍がイランの島攻撃、トランプ氏は交渉進展示唆 米紙報道（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lWjY4WXltV09pTUJFNWhyLWFxWEhyRFB4a2tlSjdpWHdnRWZ6OXBkZEdvWVFBQWRlNWYzWWxZbFgwYlNtbjc2ZFNhVFR0Q050SzItaUY0dklJRlg5cHAtalRoMTlicldfOTNaX2xqU3EtcVNXUl8yNW5aMlNvMXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-03T12:28+09:00"
-  },
-  {
-   "title": "米国がイランの戦略島を奇襲攻撃",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjRQclNXSHdncG4xQkRlMi1IQjFpN0ZYTWRxU1pHYUJIYjlDcmlQa1VJeFI5ck5Wek9rb3dEWkJOVEpSS0l2dTRoOGd5anZ4V1czX3ZVZnY3c1JCN1p3WWIycUVzQmFEZ3NWLWhoanRBQlJ6NkhoeGFmRmdkbEJSU0lFSmgwb3Vuai1adTdGNA?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-03T12:13+09:00"
-  },
-  {
-   "title": "米軍、イランのゲシュム島に「防衛目的」の限定攻撃 中間選挙前夜",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12M3lEaVBwcUgtRmsxMFR2YW13NTNLNFIxVmhEaEZBc0xrMTFMMjdIRE5SeU4yaFJ4akFnYXA2SDBpdVlVMTFBWGpxbWRmVW9n?oc=5",
-   "source": "CNN",
-   "at": "2026-11-03T11:27+09:00"
-  },
-  {
-   "title": "米軍がイラン・ケシム島攻撃 トランプ氏、大規模作戦再開「急がず」―報道",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpdGljRUdaZ0pGT2pETUd5eGpKLWZCQWVkWHhFdzFxTmxjbW5hZE8tTExfZXFrUUZCTUF0SjAtMkc1aGgtVjE4TmVpUjhEMWduRkNYakFkLXFMRWFuQUFYR3Ztbw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-03T11:26+09:00"
-  },
-  {
-   "title": "米軍、イランのケシュム島を攻撃＝ウォール・ストリート・ジャーナル 執筆",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lWVVrakZyYXNjU1FWLWU1Q0tDNTlNUXM5WEpTeEV6TW5XT2ZBSV9SaFlBWnZhNjRMLXpvYVlFQllUOXRITFlWU3l6dnJKQi1oRS1BWUxQLWlTY0Z5a3VfWWkyaFp2NC04ZFE?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-03T10:48+09:00"
-  },
-  {
-   "title": "【図解】米軍、イラン・ケシム島を攻撃＝報道（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90SDF6RnhVWThwSDB3WU9mbHpYMGxVV3hqVnRFQW5sQ29YZzg0QWRvamttdGlKMGxGVTk0Q25TVmpyR2xpRnZXSkdVUTcyTnhmVHZyZHd1UTFtM1dVWXlrOXlnUGl3NG1jbU5xWlVSZUtWTk1VWnlibmNnM1RueTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-03T10:40+09:00"
-  },
-  {
-   "title": "米軍がイランのケシュム島を攻撃と報道、原油価格が上昇 執筆",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWSTFQb2I5T19mODNuaTNGOEM1a1RKZXBua0RmNV8xS3RDTDk4QXV5OWpwYTBOMlk4Z3ZoZlBEaVJ4a0RLWnIwT1k1OV9XaXFWS1BsNG5vLXU5Rzc4dFZuaDl3RzBicUp3bTlkQ3cyUQ?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-03T10:33+09:00"
-  },
-  {
-   "title": "米がイランのケシム島攻撃、限定的攻撃を秘密裏に継続と米紙",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZjEtSXdPR284UnQ2b1Z6ZF9SMFRXVjdfZ2tpYWFydUNFQm1tR0VETlgxTDc2bFJMMFJEdkZ1Y2NVVnZnbS1PYlAxNm42MDVKb3J2UWUzNFJBMHRvWjlPd1MtQk5qSVo0dlQ0c1ZXUzRPc3lQeXcyaEFKN3Vvd2s?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-03T10:27+09:00"
-  },
-  {
-   "title": "米、イランのゲシュム島を攻撃 トランプ氏は戦争再開否定",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnhNV3dJMVFPb19FcGhDZW02c19hY0sxOVBwN3JRUjlZeVhqQ3UtYnM2cVZWdXJ1T2hmWVB4b0RPYmw4cVd6cklQV0t6d1VDS19pZHFJY1ZNVjV6UVZfRHRxRTkzRUkzYmg2N0dkdUFldWZVR3EybGNZaWxHT25EcU16WmVORlVrLVFpNkdtRVd2ZE9YWkNpS1BXZnRkdw?oc=5",
-   "source": "WSJ",
-   "at": "2026-11-03T10:27+09:00"
-  },
-  {
-   "title": "米軍、イランのケシム島を攻撃＝報道",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5MXhUR3UxbzBmeDZaTTEtVEZyZTY0Y0JPNWs2Rkw5RTdsbUJITXU0dlp3ZEgwRFNqN2U2SS1EeWpvTDhhdWZFY1hrQlYtTk1fWWZzZTJZQnBkNGc0RFo4?oc=5",
+   "title": "《防災庁》発足受け、南海トラフ地震に備える高知・浜田知事「財源含め強力なバックアップを期待」",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qZlg0YXNwS3l2Tkc2Nk5sVFNwRUJwR2VRa2tubnoxRnB3ZXdVYUZZZmZza21CY0dmVHNIZnNxY2J6aEZxS0FfUEZLdllmaGY5UXdTcXByQWp2eGY5aDE2dDI2enV1SWw3b05pOG9jc0IxdDdT?oc=5",
    "source": "Excite エキサイト",
-   "at": "2026-11-03T10:14+09:00"
-  },
-  {
-   "title": "米、イラン南部の島を限定攻撃か",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IZ0x4MG1kTXFZZms4V1R6a3VBc3pTb1hKTlR3UUh3aW9EelF6M1prTGVpYmNtTGowY3RNX0pNQ1lPX0V0SHVBMVBmY0pyWXZuT0R3eXp2dE5IcVl2cTVHOWlrZTFMaGpQSEl5aWl4dHU?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-03T10:12+09:00"
-  },
-  {
-   "title": "【速報】米紙ウォール・ストリート・ジャーナルは、米軍がイランのケシム島を攻撃したと報じた",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZ0hqTUJQS1Y5UmU2cENkQkl0WDJDX3ZmY25rZ0xkdl91VlR6cUtLcWRtUFY4Z2hucFBlS2lRWXJCMnZhV0lvVXFJcUZoTXJxTmswU3prNnRZb21leWxCQldsVW5UZw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-03T10:10+09:00"
+   "at": "2026-11-02T19:41+09:00"
   }
  ],
  "outage": [],
@@ -198,16 +314,34 @@
  ],
  "cyber": [
   {
+   "title": "欧州9か国のスーパー冷蔵設備にサイバー攻撃か 食品廃棄被害も",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQTzYzMHoyaU0xRGVGWTRzV2ZWb2RwMFhhVnZSSndtcnRSUFBaT2lHRlhhM1MydWVfWlNyWDRpV1BBWlFWeU1GVGo4UzZiOGRucEdrTWVMM0VwWU5NY0ozSGd0Mk5oeFl4VXp4ZEg1Q1k1U2fSAXhBVV95cUxPRVV1THc3QVd2MjNaVnhLT0h1aUZrNEp2Q21WYjdfQUFJZUtrWWpiX1JwNlRpQURfX1JVN3hNREM2dFJDeDllOEF1WEl2X0pmWHNERGVlcUp0aE5Yem84c3pPbm9iUWpudVVDTDBWSnppMDNGNWswMUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-03T12:59+09:00"
+  },
+  {
+   "title": "ホワイトハッカーが明かすサイバー攻撃の実態 進化するＡＩは攻守の要因に パスワードは「６桁だと２秒で解ける」 では１２桁だと？【岩本計介ニュースの現場から】",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SRlNFVFlMSmNsQnRjZDRjLVNxalhwY2VZOGc2RHlHa0Y3WEdaOEFZUzU2SW5SelZ2bWp6TmFKNG5aUnpvMWM5OUNwa3d4b2RHRmJUeVl3MmFEQUNiZy1BdXZB?oc=5",
+   "source": "朝日放送",
+   "at": "2026-11-03T12:32+09:00"
+  },
+  {
    "title": "ウクライナ首都に「核警報」？ アプリに不正アクセス | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOYzZfa2dIdFRvanBPZnNERXZGTDViRUpHZVJGRkFoSl94aHZwdEtjd3ZKLXZJM2M4Q2ZjNGN1VGxmajk3RDF5OEVxVUdTNzNadmRKNF9iUFF1SkwxWS1FbzVrS185YlJiMDVjSzdwNUJiYVdCS256NGpnRFF4bS1oWFYtdnhPZjZBV1FKMk9BS2ZJUTVSX0JzVjk2eEFWQzF5SkN1N04xVE9UaFdKakIwd3BWSS02NXhORm1xd3ZRSmQzS3R4TWU0N1ZkeEsza2syQUUwNDFDcEFRazBQRHhIZ3p2aWliWV83NWtnbnc1Z00wdGxhcDA3UnROanJlMUd3QWNQa0MxUmNqMk9Wd3FXZlEwbFJuQmxFSTcwaXY5YUpiMncwU2lVUmZuTjl0eENNZ3pRbjVyVExwems5TmFCOFZvNTBtTm53dDlSMDk0VHp4R3BJTmhaZ0xUbU5oaFlxQl9sNlZ0TzlZS3NpcWlmMGVoTzlid3ViVURBVG9acE1YSzVUTEpfaVJjSnMtemtPclJuMVZUUQ?oc=5",
    "source": "SmartNews",
    "at": "2026-11-03T12:32+09:00"
   },
   {
-   "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃 大量の食品が廃棄に（BBC News）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NGhzZXJoSjFad2ExOWVpd2RBeDZKUlRNckxDYW9FSDhuMk1vQ1d3aWRNdGYyUVVHZF9OXzZPWjQ0UGR1SThGUzhHVGVlT2JTR1NSNWpYMGdVNGl4dVVOZFRMZEw1akliYjhSeWNNQUlybzBKdTd2NDlRTUkzR1U?oc=5",
+   "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃　大量の食品が廃棄に",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03YnpTS2xxdUtDTk8zaEVlSG10bFFkVkY2VXFfMTRpS3dCeG5naFZGSGwwZ2FoTTlZLXR4cGRtMGFKYzVydm9NWWh3dlBDTUNTOFl0VW1iOWtUVzBtRFlQQdIBZkFVX3lxTFBmYTg4Y3Q5UVdjaDZLYnVWZ0ZpVEVvSDlrVV9RTEt1SUZrcFBFcnpvS0RDWnpndG44X2tvYmJqaTJNdGdZY3dzRWtjc19BaG9jbVZpeF9Fb2pCc3VtTDFmQVJQNEVGQQ?oc=5",
+   "source": "BBC",
+   "at": "2026-11-03T12:17+09:00"
+  },
+  {
+   "title": "北陸電力「ほくリンク」メールアドレス約55万件流出 外部運営会社に不正アクセス その他個人情報流出は確認されず 富山",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NzdncnQ2eGtnOWNOUDc4bVVUQmJSSG1OODg3U1RMWWlpNjZfMVQ2cF9WLUVnYUVOMV9nSTNoRlBmWl92bS1TQ3ZjMElDV3dOd0NYVDdxbGlOZ3BiX1BNVlQzUkJrTUM5ajR1N0x5bGJtbEJZaldKMkpVV0ZsS0k?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-03T12:14+09:00"
+   "at": "2026-11-03T12:15+09:00"
   },
   {
    "title": "【GMO不正アクセス】熊谷社長が初の会見で“涙の謝罪”…2年前に“システム脆弱性”指摘も防げなかった背景は?被害者からは「誠実に見えない」【news23】（TBS NEWS DIG Powered by JNN）",
@@ -220,12 +354,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NaWxBdWcwNGhjRkttSGRjQWNaVjJVVjN0ejZsbVp5T3JpMTBsenpNbk5kdWxpT1Vidm83VlhNaUJVVzM4QlAzbVFrTndwY00zWVFvajBDZi1ydzlGNjY4aEdOU0ZGbTRweDAwTDlYUXZoUHFIdlp1UkxXU0x0a0U?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-03T12:05+09:00"
-  },
-  {
-   "title": "ホワイトハッカーが明かすサイバー攻撃の実態 進化するＡＩは攻守の要因に パスワードは「６桁だと２秒で解ける」 では１２桁だと？【岩本計介ニュースの現場から】（ABCニュース）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1ZEdFT1pDT3U2ODd6QVZzcjcycEdjZ0FKazdzc1ZMRlVsOHdaVnRFSW9JQUZRTHVNekZ2dGNoMmJMR01neERhRkhGX1VfbERST25ibS1JX3Rsakl0U2dNNkN3X2lGNW9yZ295Mi1SR1F2ZGkwQnhvZHZWWktQSzA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-03T12:00+09:00"
   },
   {
    "title": "食料品店では「何もかもが台無し」に 冷蔵庫へのサイバー攻撃、欧州各国に拡大",
@@ -244,21 +372,151 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjVi1HYk1kQllaQjk0eG9LdjZHR092WmQ2ZC1oYndlMnhNblNMc280b0dRbUUzTndvckh6WGxBVmNuVk1GRGswdEdIRzZGRGZzTjkyS2tvWEhBb2dWeG5MOURtbi1HTndMUHJNZkZSTlI3TUdsM0MwT2tkVkxLbFk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-03T11:57+09:00"
-  },
-  {
-   "title": "大阪府警が不正アクセス禁止法違反の疑いで捜査 300万件以上の個人情報が流出したおそれのあるIT企業「アルカディア」が被害まとめた調書を提出（関西テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Oek1ZNS1hRWxNN0JhZnQyTEg1VUlvV3ZYcWU1WWVrZThpaDhBN2hIVjZNV0VxRlEyQXpvQ19sdjNBLVY3cVA3VW94YnA4V01hU1lzYXZacWFNbDBGYTZJc0JQSmdsWnRvc2IyazVMLUVrU0hGNmR6X0R6QlpzN0E?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-03T11:51+09:00"
-  },
-  {
-   "title": "北陸電力の会員サービス｢ほくリンク｣ 利用者メアド55万件が流出 配信業者が不正アクセス被害（2026年11月2日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQTNITGgzMERvVDlpSEhDU0hSWUNEVFExNFJfN2RnUnRaNlBGay1xZzA1S0FWVWpmaHV0NEszYkxDRFFKSktVLVNHSzVVZGtTd1c5cFJLZTZNMWNWS3M5Rlp2OU9pbUhCaWUtcjZBbjAxWGMtNTNyYThNSWVNRDFlZXdsbEFrdUU?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-03T11:50+09:00"
   }
  ],
  "osaka": [],
+ "world": [
+  {
+   "title": "建設現場で働くはずが「ロシア軍のわな」で戦地へ…脅され暴行された外国人契約兵「動物のような扱い」",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VZUZJVTFadHdRQXRiMU9UWXJOdW04T2gtRWZwU0NZY3NWd1hjTUtRZ084OGx3eW94MnR0cVR1MkZ6MS00UjVKYkNWNmlQMmZNYkptOHdqc2w1TjhqenktNFBR?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-03T13:10+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "米軍、公表せずイランの島を小規模攻撃か 米紙報道「防衛的措置」",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kQTczbTFiTUR6SUJuTTJrSGFzT0VTdWd5Uy05clBMTzlwZzFPOWZEUkI1RXhBMUUxT3JINmNrNHNqZkthSmxNdEUtczBTWnNnWUhTdlBzX2J3UGVjSEtqWGVCUXpvVm8?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-03T12:57+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米軍、公表せずイランの島を小規模攻撃か 米紙報道「防衛的措置」（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04NEx3ZWxMSlpOZ2tfdUJJVVNrUXlVcncyOUp3UnMzSkh3dnVKWkFPRW1KU2RaVmRXU3l5N0pHMzZNNEpUNmlfeUlGUlJzdUNCUm9QWDRUR1pXNDZkYk1nUWVyNlMwZ0hxNDhZY19XeTdUUllQQ1p6cUhrNGZZb2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T12:57+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米軍がイランの島を攻撃 WSJ報道、トランプ氏「ここ数カ月は戦闘を行っていない」（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKWjRmdUxIYmh5Q2ttTk1kSTZrdkl0aVdKVXNEZVJkcE1tWjlQRUd6M1dEQXVkdXpkWjA3cEFTS0JMcHhGU0ptN2wwUjhQUHJDUnEzSW41cjJNOUZfV2FFaDg4SlpwWHEwc2FUdHl1N1pkNTBXX2ppRGgwNDlsUWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T12:56+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米軍がイランの島を攻撃　WSJ報道、トランプ氏「ここ数カ月は戦闘を行っていない」",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3ZiNm1kZ29GNy1nQzI5Y3pQYmtPOWlWQlA3SWtRbFo0SVpVUDVTdzI2S1JoZUFuSk1fdk1CYmtNdl9vRHNGR1ltRVJ4YkFrNDRfY3kzWFJHSS03bkVEclNrdHpfaUx3YldlVVJQbWw0MWN5UkRlR0djQ1QwWFJwOTBZSkRmRTF2Y3pPeVVMd3FTQ2Qyb1hzU294S0c4VmFhOFd30gGoAUFVX3lxTFBZblh3M0YzaDBsY2ZDbU9BdTRVNW5yRmVqa0NmR0NObHhQWU5DZ2JwMnNodEx2NElfeHRkODhsa3NoQjYxUFZUd3AyaGcwd3V2V3M2Q05FZ0F1VVhjTjhmQUgwQ0FPTzFNTTB3RVRzZjJaMTB4OHU3UnRhSTY0QmtNWFZGM1ZzUnJ1clFKMXEwMFl3cEQ4Ty02WjRQY0ZrM2pUZG1vcXh2Rg?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-03T12:54+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "アメリカ・ロシア・ウクライナの3か国協議 今月10日～11日で実施へ 米・ウィットコフ特使が発表",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FV2Z4cmpVMzNDSXMyTXNMX2JadHNKcEJWelhrVGNraF9IeTZhZnhfdnpUWHpxSHVpOVZqRGp3aHhYYk1DUmRJRnJhSFJnd3pSVG5WbTRmVQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-03T12:52+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア軍、外国人兵士に「入れ墨」で識別番号…「遺体確認に必要」と深く刻まれ「胸の痛み５日間続いた」",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVWw5dlpab0trYnlTTTV4Vl9HbU9QQjJZT1UzaElWRm5TOHJ0N2pGb2s4MVM5ZXE5WjYxQWFLd3hrVWxGN210T1d0N3dqMGJCd0VJLXk4d2g4aGhDaUZzeElR?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-03T12:50+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "米軍がイランの島攻撃、トランプ氏は交渉進展示唆 米紙報道（ＡＦＰ＝時事）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lWjY4WXltV09pTUJFNWhyLWFxWEhyRFB4a2tlSjdpWHdnRWZ6OXBkZEdvWVFBQWRlNWYzWWxZbFgwYlNtbjc2ZFNhVFR0Q050SzItaUY0dklJRlg5cHAtalRoMTlicldfOTNaX2xqU3EtcVNXUl8yNW5aMlNvMXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T12:28+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米軍がイランの島攻撃、トランプ氏は交渉進展示唆 米紙報道",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSHFRT0d5aUswcXNuT3oxOFdBRXhVLUVRTWR2MTA4OUNybExlMGFmT0tVaE83amU0UVFXUG1CeWRLdWltVHFqN1RFVHY0RElyRWRIRFE2Z252bks1U3ZMcC13dk1vLWRy0gFUQVVfeXFMTXllM3hQakdtRzFjQ0d6V2t0WGNodWxrS0hFT0xkS0ctdXgwSHc3c0lRR3RrNFotN3FlSVI0cTZYSXVERnpONk9VelhwMUl6cmQ1aUUt?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-03T12:25+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "北朝鮮“巡航ミサイルに搭載したクラスター弾の威力を評価する試験を実施”（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzamFrVEZOUzMyc1JWd0pLMmhZWTdBd20tazhYeGZPVVdhU0h5empXdGxEbFU2RnlPTmdIcnFpazVJRkxDaXZubEFmUm0yNVI3NVQ0Um5QSmZKcjVIcXBUbThUbENLZzdrSUpPOXI4cmZDUHNOOXJjVktITG1TUUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T11:55+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮が〈20分で1兆円の暗号資産を強奪〉､サイバー攻撃で外貨調達し兵器近代化を加速する｢核だけではない脅威｣",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nZ25oY1RBY3l2ck9pYzN0aTQ4R2ZaZzM2VHBLTGpGV1lCMDUzUlNpOHhVb1plUGpWVDdWUkxSRW5hSlJMUkNxNUd4NW5XT3FFblhYaWlLZ1JVQkNTdGNR?oc=5",
+   "source": "東洋経済オンライン",
+   "at": "2026-11-03T11:30+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮が弾道ミサイルに続き、巡航ミサイルにもクラスター弾頭を搭載して威力デモを行い、巡航ミサイルの垂直打撃能力を誇示した。 韓国内の飛行場と弾薬庫·油類貯蔵庫など主要地上軍事施設に対する広域·精密打撃..",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zUDdSc0dNSUxyWEVPVTdlVXF2cHhjUnRFdDVyTW9nVjcxZmlQOVoza2N3R3RPNVlXUWhtNVVFb2tldUt3b3RyNjdYNlZhT24zTGhv?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-03T11:18+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ウクライナとロシアで「核攻撃の偽警報」 緊急警報アプリへのサイバー攻撃が相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRXdpckxIbTFySV9ZTUNYUmR3azJBNHBYOGhCWjVldVAxU0E2Mzh6cDhBNWNLTmh2OXl3VkxKUmZVVU1QV2VycWVPT0FzbjREWGRjdGZaMFJPZDhwa2RYN2FwWUZmMkVzRkdnck5uSnJ2NzRuQWtvQTREYU1Bcjg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T11:00+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "北朝鮮、2隻目の駆逐艦が就役 日本海管轄、核武装化方針",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEhLeEQ2VGpOZUwybmdiWWFpdy1wLVFLZlpmZHlIMlBrY1l6VWlnb1A5X3F6azExY2UxWlFlb2xtWFVUSUltUS1wck9yMkZCTjdReWtzT2NDemJwN1VoOWRGY1ZsMDRaLU8zVHFPcEFrSlczZThTS1lHNDBHZENhbGRRbUlucEJP?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-03T10:58+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシア軍が人道支援物資の配布場所を攻撃 ウクライナで31人死傷 ゼレンスキー大統領が強く非難",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xR0hPMURwcjNCcmpoLU5jLW9LM3BrUjJ4ZFJzMnp3ZDhKZ2hnX21IX3N6cWZPcmV2Tmc5SjVYd2tSRTN4V2ExRXlGNDJoWTBVeEtkdzdwVi0wdVp1cVk0?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-03T10:58+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QV1lXOHl3bGFIaHZxdzExdkFRSWNFNmY1ZmNDcWRBZE9lR2tUdzZodWNvUzhWWGFoVElHbGhhYjF5TWtQWXE5OGFGdG80VUdOU1NheGxydGxEU0dQX21od3ZEVGFEQdIBZkFVX3lxTE9QV1lXOHl3bGFIaHZxdzExdkFRSWNFNmY1ZmNDcWRBZE9lR2tUdzZodWNvUzhWWGFoVElHbGhhYjF5TWtQWXE5OGFGdG80VUdOU1NheGxydGxEU0dQX21od3ZEVGFEQQ?oc=5",
+   "source": "BBC",
+   "at": "2026-11-03T10:53+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "北朝鮮、またクラスター弾試験＝巡航ミサイルに搭載",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VcFJ5dm5iOGVwMXdrMGF3SWlOY20wUWRKOTBBT0o1NUc0RGdudzR6TnBsOXcybXkyX2lvYUxtWXAySTE3QTFnQ0ZvUEdJbk5JcTlDRQ?oc=5",
+   "source": "時事通信ニュース",
+   "at": "2026-11-03T10:37+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮 巡航ミサイル搭載のクラスター弾実験＝「5～6ヘクタール焦土化」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaDNacDRSbE94aElnMEhNSmZZMUxOUGtpY0trMElMQW1KQ0psMUZMVm8wT2hiS0NwWmJnWXdwWVdkeUpZYTgxZTBkWnN0RC1GcnFfa2lkTjhramllb3Q5UFJpUXpoQUtEUnpDdkw1UE03am9LeHdDaDdFUmp6UTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T10:25+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "WSJ日本版：中国、台湾周辺海域でデータ収集強化 軍事利用の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jQW9BcnB4c25HOHJfQV95ZFEzXzdwQ1dvRGlkazFSeG1zdHk5dlJOOWplakx1d3lzYUk0MUNDMldlakZ0eW9nUXJxdFZnQk9tV1I2RXljbWwzVEpIOS1nTE5IM0dFUk93?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-03T08:42+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "軍調達ドローンに中国部品、納入元創業者を勾留",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DalBWRjA2bzBfMU1ha0hIVWRsZ3lIcmhqM0NnR2dZQ3hRLVJwM2JKUGkzaWxxc1NONmk0ZmVfb1EzZmVrWXc?oc=5",
+   "source": "NNAアジア",
+   "at": "2026-11-03T00:00+09:00",
+   "topic": "中国・台湾"
+  }
+ ],
  "status": {
   "osaka": {
    "level": "green",
@@ -273,28 +531,17 @@
    ]
   },
   "world": {
-   "level": "yellow",
+   "level": "red",
    "reasons": [
-    "24時間以内に「攻撃」の報道が15件"
+    "「ウクライナとロシアで「核攻撃の偽警報」 緊急警報アプリへのサイバー攻撃が相次ぐ」などの報道"
    ],
    "items": [
     {
-     "title": "米軍、公表せずイランの島を小規模攻撃か 米紙報道「防衛的措置」",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kQTczbTFiTUR6SUJuTTJrSGFzT0VTdWd5Uy05clBMTzlwZzFPOWZEUkI1RXhBMUUxT3JINmNrNHNqZkthSmxNdEUtczBTWnNnWUhTdlBzX2J3UGVjSEtqWGVCUXpvVm8?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-03T12:57+09:00"
-    },
-    {
-     "title": "米軍、公表せずイランの島を小規模攻撃か 米紙報道「防衛的措置」（朝日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04NEx3ZWxMSlpOZ2tfdUJJVVNrUXlVcncyOUp3UnMzSkh3dnVKWkFPRW1KU2RaVmRXU3l5N0pHMzZNNEpUNmlfeUlGUlJzdUNCUm9QWDRUR1pXNDZkYk1nUWVyNlMwZ0hxNDhZY19XeTdUUllQQ1p6cUhrNGZZb2c?oc=5",
+     "title": "ウクライナとロシアで「核攻撃の偽警報」 緊急警報アプリへのサイバー攻撃が相次ぐ",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRXdpckxIbTFySV9ZTUNYUmR3azJBNHBYOGhCWjVldVAxU0E2Mzh6cDhBNWNLTmh2OXl3VkxKUmZVVU1QV2VycWVPT0FzbjREWGRjdGZaMFJPZDhwa2RYN2FwWUZmMkVzRkdnck5uSnJ2NzRuQWtvQTREYU1Bcjg?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-03T12:57+09:00"
-    },
-    {
-     "title": "米軍がイランの島を攻撃　WSJ報道、トランプ氏「ここ数カ月は戦闘を行っていない」",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3ZiNm1kZ29GNy1nQzI5Y3pQYmtPOWlWQlA3SWtRbFo0SVpVUDVTdzI2S1JoZUFuSk1fdk1CYmtNdl9vRHNGR1ltRVJ4YkFrNDRfY3kzWFJHSS03bkVEclNrdHpfaUx3YldlVVJQbWw0MWN5UkRlR0djQ1QwWFJwOTBZSkRmRTF2Y3pPeVVMd3FTQ2Qyb1hzU294S0c4VmFhOFd30gGoAUFVX3lxTFBZblh3M0YzaDBsY2ZDbU9BdTRVNW5yRmVqa0NmR0NObHhQWU5DZ2JwMnNodEx2NElfeHRkODhsa3NoQjYxUFZUd3AyaGcwd3V2V3M2Q05FZ0F1VVhjTjhmQUgwQ0FPTzFNTTB3RVRzZjJaMTB4OHU3UnRhSTY0QmtNWFZGM1ZzUnJ1clFKMXEwMFl3cEQ4Ty02WjRQY0ZrM2pUZG1vcXh2Rg?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-03T12:54+09:00"
+     "at": "2026-11-03T11:00+09:00",
+     "topic": "ロシア"
     }
    ]
   }
