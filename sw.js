@@ -1,8 +1,8 @@
 // オフラインでもアプリを開けるようにする
-const CACHE = "futari-anpi-v7";
+const CACHE = "futari-anpi-v8";
 const FB = "https://www.gstatic.com/firebasejs/10.12.2/";
 const ASSETS = [
-  "./", "index.html", "data/info.json", "style.css", "app.js", "firebase-config.js",
+  "./", "index.html", "data/info.json", "style.css?v=8", "app.js?v=8", "firebase-config.js",
   "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png", "icon-180.png",
   FB + "firebase-app.js", FB + "firebase-auth.js", FB + "firebase-firestore.js"
 ];
@@ -25,8 +25,13 @@ self.addEventListener("fetch", e => {
   if (!sameOrigin && !isFirebaseSdk) return; // Firestore通信などはそのまま通す
 
   // ネット優先、つながらなければ保存しておいたものを返す
+  // 自分のファイルは、ブラウザに残っている古い版を使わず毎回サーバーに確かめる
+  // （ページ本体の読み込みは Request を作り直せないので、URLで取り直す）
+  const net = !sameOrigin ? fetch(e.request)
+    : e.request.mode === "navigate" ? fetch(e.request.url, { cache: "no-cache", credentials: "same-origin" })
+    : fetch(new Request(e.request, { cache: "no-cache" }));
   e.respondWith(
-    fetch(e.request)
+    net
       .then(res => {
         if (res.ok) { const copy = res.clone(); caches.open(CACHE).then(c => c.put(e.request, copy)); }
         return res;
