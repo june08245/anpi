@@ -172,8 +172,10 @@ setInterval(paintMode, 30000);
 /* ---------- タブ ---------- */
 document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
   document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-selected", String(x === t)));
-  for (const id of ["rules", "shel", "conf"]) $("#" + id).hidden = t.dataset.t !== id;
+  for (const id of ["rules", "shel", "info", "conf"]) $("#" + id).hidden = t.dataset.t !== id;
+  if (t.dataset.t === "info") loadInfo();
 });
+function openTab(name) { const t = document.querySelector(`.tab[data-t="${name}"]`); if (t) { t.click(); t.scrollIntoView({ behavior: "smooth", block: "start" }); } }
 
 /* ---------- 避難所 ---------- */
 function renderShel() {
@@ -197,6 +199,103 @@ function renderShel() {
   }
 }
 document.querySelectorAll("#ward .chip").forEach(c => c.onclick = () => { ward = c.dataset.w; ls.set("ward", ward); renderShel(); });
+
+/* ---------- 情報（警報・地震・停電・国際ニュース） ---------- */
+// GitHub Actions が30分ごとに data/info.json を更新する。最新はリポジトリから直接読む
+const INFO_URLS = [
+  "https://raw.githubusercontent.com/june08245/anpi/main/data/info.json",
+  "data/info.json"
+];
+const fmtAt = s => { if (!s) return ""; const d = new Date(s); return isNaN(d) ? s : hm(d.getTime()); };
+function infoRow(title, meta, link) {
+  const el = document.createElement(link ? "a" : "div");
+  el.className = "irow";
+  if (link) { el.href = link; el.target = "_blank"; el.rel = "noopener"; }
+  const t = document.createElement("span"); t.className = "t"; t.textContent = title;
+  const m = document.createElement("span"); m.className = "m"; m.textContent = meta;
+  el.append(t, m); return el;
+}
+function emptyRow(box, text) { const p = document.createElement("p"); p.className = "empty"; p.textContent = text; box.appendChild(p); }
+
+function renderInfo(info, fromCache) {
+  if (!info) return;
+  const t = $("#infoTime");
+  t.textContent = (info.updated ? `${fmtAt(info.updated)} 時点` : "") + (fromCache ? "（保存していた情報）" : "")
+    + (info.errors && info.errors.length ? "・一部取得できず前回の内容" : "");
+
+  // 警報・注意報
+  const w = $("#infoWarn"); w.innerHTML = "";
+  const items = (info.warnings && info.warnings.items) || [];
+  if (items.length) {
+    const tags = document.createElement("div"); tags.className = "wtags";
+    for (const i of items) { const s = document.createElement("span"); s.className = "wtag l" + i.level; s.textContent = i.name; tags.appendChild(s); }
+    w.appendChild(tags);
+  } else if (info.warnings) emptyRow(w, "いま発表中の警報・注意報はありません");
+  else emptyRow(w, "取得できていません");
+  if (info.warnings && info.warnings.headline) { const p = document.createElement("p"); p.className = "sub"; p.textContent = info.warnings.headline; w.appendChild(p); }
+
+  // 地震
+  const q = $("#infoQuake"); q.innerHTML = "";
+  for (const e of (info.quakes || []).slice(0, 6)) {
+    const row = infoRow(e.place, `${fmtAt(e.at)}　M${e.mag || "-"}` + (e.osaka ? `　大阪 震度${e.osaka}` : ""));
+    const b = document.createElement("span");
+    b.className = "shindo" + (e.maxiRank >= 5 ? " hi" : e.maxiRank >= 4 ? " mid" : "");
+    b.textContent = "震度" + (e.maxi || "-");
+    row.querySelector(".t").prepend(b, " ");
+    q.appendChild(row);
+  }
+  if (!q.children.length) emptyRow(q, "取得できていません");
+
+  // 停電ニュース
+  const o = $("#infoOutage"); o.innerHTML = "";
+  for (const n of (info.outage || [])) o.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  if (!o.children.length) emptyRow(o, "ここ2日、大阪の停電のニュースはありません");
+
+  // 国際ニュース
+  const g = $("#infoWorld"); g.innerHTML = "";
+  for (const n of (info.world || [])) g.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  if (!g.children.length) emptyRow(g, "取得できていません");
+
+  renderAlert(info);
+}
+
+// 大阪で震度4以上（24時間以内）か、大阪市に警報以上が出ている時は、ホームに赤い帯を出す
+function renderAlert(info) {
+  const a = $("#alert"); const msgs = [];
+  const big = ((info.warnings && info.warnings.items) || []).filter(i => i.level >= 3);
+  if (big.length) msgs.push("大阪市に" + big.map(i => i.name).join("・"));
+  const day = Date.now() - 24 * 3600e3;
+  const eq = (info.quakes || []).find(e => e.osakaRank >= 4 && new Date(e.at).getTime() > day);
+  if (eq) msgs.push(`大阪で震度${eq.osaka}の地震（${fmtAt(eq.at)}）`);
+  if (!msgs.length) { a.hidden = true; return; }
+  a.innerHTML = ""; a.append(msgs.join(" ／ "));
+  const sm = document.createElement("small"); sm.textContent = "押すと詳しい情報を開きます"; a.appendChild(sm);
+  a.hidden = false;
+}
+$("#alert").onclick = e => { e.preventDefault(); openTab("info"); };
+
+let infoLoading = false, infoLoadedAt = 0;
+async function loadInfo(force) {
+  if (infoLoading || (!force && Date.now() - infoLoadedAt < 60e3)) return;
+  infoLoading = true;
+  const cached = ls.get("info");
+  if (cached && !infoLoadedAt) renderInfo(cached, true);
+  for (const url of INFO_URLS) {
+    try {
+      const r = await fetch(url + "?t=" + Math.floor(Date.now() / 60e3), { cache: "no-store" });
+      if (!r.ok) continue;
+      const info = await r.json();
+      if (cached && cached.updated && info.updated && info.updated < cached.updated) continue;
+      ls.set("info", info); renderInfo(info, false); infoLoadedAt = Date.now();
+      break;
+    } catch {}
+  }
+  if (!infoLoadedAt && !cached) $("#infoTime").textContent = "情報を取得できませんでした。ネットにつながったら「更新」を押してください";
+  infoLoading = false;
+}
+$("#infoReload").onclick = () => loadInfo(true);
+setInterval(() => loadInfo(true), 15 * 60e3);
+addEventListener("online", () => loadInfo(true));
 
 /* ---------- 共有（Firebase） ---------- */
 let unsub = null;
@@ -242,6 +341,7 @@ function start() {
   const last = ls.get("last"); if (last && !Object.keys(people).length) { people.me = last; }
   renderPeople(); renderShel(); smsText(); paintMode();
   connect();
+  loadInfo();
 }
 start();
 

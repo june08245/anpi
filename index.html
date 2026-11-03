@@ -40,6 +40,7 @@
   </section>
 
   <main id="main" hidden>
+    <a class="alert" id="alert" href="#" hidden></a>
     <section class="panel" aria-label="安否を送る">
       <h2>いまの状態を送る</h2>
       <div class="btns">
@@ -81,6 +82,7 @@
     <nav class="tabs" role="tablist">
       <button class="tab" role="tab" aria-selected="true" data-t="rules">ルール</button>
       <button class="tab" role="tab" aria-selected="false" data-t="shel">避難所</button>
+      <button class="tab" role="tab" aria-selected="false" data-t="info">情報</button>
       <button class="tab" role="tab" aria-selected="false" data-t="conf">設定</button>
     </nav>
 
@@ -122,6 +124,37 @@
       </div>
       <p class="sub">大阪市が公表している災害時避難所の一覧です。「地図」で場所を開けます（地図はネットが必要）。</p>
       <div id="shelList"></div>
+    </section>
+
+    <section class="panel" id="info" hidden>
+      <div class="infohead">
+        <span class="sub" id="infoTime">情報を読み込んでいます</span>
+        <button class="sm" id="infoReload">更新</button>
+      </div>
+
+      <h2>大阪市の警報・注意報</h2>
+      <div id="infoWarn" class="ilist"></div>
+
+      <h2>最近の地震</h2>
+      <div id="infoQuake" class="ilist"></div>
+
+      <h2>停電</h2>
+      <div class="row">
+        <a class="sm" href="https://teideninfo.kansai-td.co.jp/" target="_blank" rel="noopener">関西電力送配電の停電情報</a>
+      </div>
+      <div id="infoOutage" class="ilist"></div>
+
+      <h2>イラン・アメリカなど国際ニュース</h2>
+      <div id="infoWorld" class="ilist"></div>
+
+      <h2>公式の情報源</h2>
+      <div class="row">
+        <a class="sm" href="https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2710000" target="_blank" rel="noopener">気象庁 警報・注意報</a>
+        <a class="sm" href="https://www.jma.go.jp/bosai/map.html#contents=earthquake_map" target="_blank" rel="noopener">気象庁 地震情報</a>
+        <a class="sm" href="https://www.kokuminhogo.go.jp/" target="_blank" rel="noopener">国民保護ポータル（Jアラート）</a>
+        <a class="sm" href="https://www.nhk.or.jp/radio/" target="_blank" rel="noopener">NHKラジオ</a>
+      </div>
+      <p class="sub">30分ごとに自動で集めています。速報はスマホの緊急速報やテレビ・ラジオのほうが早く届きます。ミサイルなどの国民保護情報（Jアラート）は、スマホの緊急速報メールで自動的に届きます。</p>
     </section>
 
     <section class="panel" id="conf" hidden>
