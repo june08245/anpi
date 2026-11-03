@@ -416,6 +416,19 @@ async function fetchJMA() {
 const within = (at, h) => { const t = new Date(at).getTime(); return !isNaN(t) && Date.now() - t <= h * 3600e3; };
 const newsHits = (list, words, h = 24) => (list || []).filter(n => within(n.at, h) && words.some(w => n.title.includes(w)));
 const result = (red, yel, ok) => red.length ? { level: "red", reasons: [...red, ...yel] } : yel.length ? { level: "yellow", reasons: yel } : { level: "green", reasons: [ok] };
+// 自分たちに直接関わるサイバー攻撃・障害（scripts/fetch_info.py の local_cyber と同じ基準）
+const CYBER_LOCAL_PLACES = ["大阪", "関西", "近畿", "関電", "大阪ガス", "大阪メトロ", "生野", "旭区"];
+const CYBER_LOCAL_WORDS = ["サイバー攻撃", "ランサムウェア", "通信障害", "システム障害", "大規模障害", "つながりにくい"];
+const CARRIERS = ["ドコモ", "docomo", "au", "KDDI", "ソフトバンク", "SoftBank", "楽天モバイル", "LINE"];
+const CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つながらない"];
+function localCyber(news) {
+  return (news || []).filter(n => {
+    if (!within(n.at, 24)) return false;
+    const t = n.title;
+    if (CYBER_LOCAL_PLACES.some(p => t.includes(p)) && CYBER_LOCAL_WORDS.some(w => t.includes(w))) return true;
+    return CARRIERS.some(c => t.includes(c)) && CARRIER_WORDS.some(w => t.includes(w)) && !t.includes("流出");
+  });
+}
 function assessOsaka(info) {
   const red = [], yel = [];
   for (const w of (info.warnings && info.warnings.items) || []) { if (w.level >= 4) red.push(w.name); else if (w.level === 3) yel.push(w.name); }
@@ -429,6 +442,8 @@ function assessOsaka(info) {
   const lr = newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"]);
   if (lr.length) red.push(`「${lr[0].title.slice(0, 40)}」`);
   else { const ly = newsHits(info.osaka, ["断水", "大規模火災", "延焼", "高齢者等避難"]); if (ly.length) yel.push(`「${ly[0].title.slice(0, 40)}」`); }
+  const cy = localCyber(info.cyber);
+  if (cy.length) yel.push(`「${cy[0].title.slice(0, 40)}」`);
   return result(red, yel, "警報なし・大きな揺れや停電の報道なし");
 }
 function assessJapan(info) {

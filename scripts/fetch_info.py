@@ -72,9 +72,16 @@ OSAKA_YELLOW = ["断水", "大規模火災", "延焼", "高齢者等避難"]
 CYBER_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("サイバー攻撃 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("ランサムウェア OR 不正アクセス when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
-    "https://news.google.com/rss/search?q=" + urllib.parse.quote("通信障害 OR システム障害 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("通信障害 OR システム障害 OR つながりにくい when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
-CYBER_KEYWORDS = ["サイバー", "ランサムウェア", "不正アクセス", "ハッキング", "DDoS", "情報漏えい", "情報流出", "通信障害", "システム障害"]
+CYBER_KEYWORDS = ["サイバー", "ランサムウェア", "不正アクセス", "ハッキング", "DDoS", "情報漏えい", "情報流出", "通信障害", "システム障害", "つながりにくい"]
+# 自分たちに直接関わるサイバー攻撃・障害（大阪市を「注意」にする）
+#   1) 大阪・関西のライフラインなどへの攻撃や障害（情報流出だけのものは含めない）
+#   2) 携帯会社・LINEの通信障害（住んでいる場所に関係なく連絡に響く）
+CYBER_LOCAL_PLACES = ["大阪", "関西", "近畿", "関電", "大阪ガス", "大阪メトロ", "生野", "旭区"]
+CYBER_LOCAL_WORDS = ["サイバー攻撃", "ランサムウェア", "通信障害", "システム障害", "大規模障害", "つながりにくい"]
+CARRIERS = ["ドコモ", "docomo", "au", "KDDI", "ソフトバンク", "SoftBank", "楽天モバイル", "LINE"]
+CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つながらない"]
 
 # ---------- 危険度の判定（目安） ----------
 # 世界：直近24時間のニュース見出しに出てくる言葉で判定
@@ -291,6 +298,19 @@ def assess_japan(r, now):
     return {"level": "green", "reasons": ["大きな地震やミサイルの報道なし"]}
 
 
+def local_cyber(news, now):
+    out = []
+    for n in news or []:
+        if not within(n.get("at"), 24, now):
+            continue
+        t = n["title"]
+        if any(p in t for p in CYBER_LOCAL_PLACES) and any(w in t for w in CYBER_LOCAL_WORDS):
+            out.append(n)
+        elif any(c in t for c in CARRIERS) and any(w in t for w in CARRIER_WORDS) and "流出" not in t:
+            out.append(n)
+    return out
+
+
 def assess_osaka(r, now):
     """大阪市：警報、大阪の震度、停電・断水・避難指示などの報道"""
     red, yel = [], []
@@ -317,6 +337,9 @@ def assess_osaka(r, now):
         ly = hits(loc, OSAKA_YELLOW, now, 24)
         if ly:
             yel.append(f"「{ly[0]['title'][:40]}」")
+    cy = local_cyber(r.get("cyber"), now)
+    if cy:
+        yel.append(f"「{cy[0]['title'][:40]}」")
     if red:
         return {"level": "red", "reasons": red + yel}
     if yel:
