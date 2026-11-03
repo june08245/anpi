@@ -60,7 +60,7 @@ OUTAGE_FEEDS = [
 ]
 OUTAGE_KEYWORDS = ["停電"]
 OUTAGE_PLACES = ["大阪", "関西", "近畿", "関電", "生野", "旭区"]  # 見出しにどれかを含むものだけ
-BLOCK_SOURCES = ["Vietnam.vn"]
+BLOCK_SOURCES = ["Vietnam.vn", "YouTube", "ニコニコ"]  # ニュースではない動画サイトなど
 JAPAN_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("Jアラート when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("弾道ミサイル 日本 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
