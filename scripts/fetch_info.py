@@ -430,6 +430,24 @@ def collect_world_topics():
     return out
 
 
+OUTAGE_FIRST = ["障害", "支払いできない", "支払いができない", "決済できない", "利用できない", "使えない", "つながりにくい", "つながらない", "不具合"]
+
+
+def collect_cyber():
+    """生活に響く障害（決済・通信・システム）を先に、同じ媒体は3件までにして並べる"""
+    items = collect_news(CYBER_FEEDS, CYBER_KEYWORDS, 40, 48)
+    per_src, picked = {}, []
+    for n in items:
+        k = n.get("source") or ""
+        if per_src.get(k, 0) >= 3:
+            continue
+        per_src[k] = per_src.get(k, 0) + 1
+        picked.append(n)
+    first = [n for n in picked if any(w in n["title"] for w in OUTAGE_FIRST) and "流出" not in n["title"] and "漏えい" not in n["title"]]
+    rest = [n for n in picked if n not in first]
+    return (first + rest)[:15]
+
+
 # ---------- まとめ ----------
 def main():
     try:
@@ -446,7 +464,7 @@ def main():
         "nankai": lambda: collect_news(NANKAI_FEEDS, ["南海トラフ"], 6, 24 * 7),
         "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48, OUTAGE_PLACES),
         "japan": lambda: collect_news(JAPAN_FEEDS, JAPAN_KEYWORDS, 6, 48),
-        "cyber": lambda: collect_news(CYBER_FEEDS, CYBER_KEYWORDS, 15, 48),
+        "cyber": collect_cyber,
         "osaka": lambda: collect_news(OSAKA_FEEDS, OSAKA_RED + OSAKA_YELLOW, 6, 48, OSAKA_PLACES),
     }
     for key, fn in jobs.items():
