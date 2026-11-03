@@ -100,3 +100,8 @@ a.irow .t{text-decoration:underline;text-decoration-color:var(--line);text-under
 .scard.red{border-color:var(--sos);background:var(--sos-bg)} .scard.red .slevel{background:var(--sos);color:var(--ink-on)}
 .scard.red .sreason{color:var(--fg);font-weight:700}
 .stime.stale{color:var(--sos);font-weight:700}
+
+/* 今ここにいる */
+.locbtn{font:inherit;font-weight:800;font-size:16px;border:2px solid var(--accent);background:var(--surface);color:var(--accent);border-radius:10px;padding:12px;cursor:pointer}
+.locbtn:disabled{opacity:.6;cursor:wait}
+.locrow{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:4px}

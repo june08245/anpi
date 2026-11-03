@@ -83,12 +83,47 @@ async function readBattery() {
   return batt ?? null;
 }
 
+/* ---------- 今ここにいる（現在地） ---------- */
+// Firebaseのルールを変えずに済むよう、位置は shelter 欄の末尾に「@緯度,経度±誤差m~時刻」の形で入れる
+let myLoc = ls.get("loc");
+function joinShelter(name, loc) {
+  if (!loc) return (name || "").slice(0, 80);
+  const tag = `@${loc.lat.toFixed(5)},${loc.lng.toFixed(5)}±${Math.min(9999, Math.round(loc.acc || 0))}~${Math.floor(loc.t / 60000).toString(36)}`;
+  return ((name || "").slice(0, 80 - tag.length - 1) + " " + tag).trim();
+}
+function splitShelter(str) {
+  const m = /(?:^|\s)@(-?\d+\.\d+),(-?\d+\.\d+)±(\d+)~([0-9a-z]+)$/.exec(str || "");
+  if (!m) return { name: str || "", loc: null };
+  return { name: str.slice(0, m.index).trim(), loc: { lat: +m[1], lng: +m[2], acc: +m[3], t: parseInt(m[4], 36) * 60000 } };
+}
+const mapUrl = loc => `https://maps.google.com/?q=${loc.lat.toFixed(5)},${loc.lng.toFixed(5)}`;
+function sendLocation() {
+  const last = ls.get("last");
+  if (!last) return toast("先に上の3つのボタンのどれかで、いまの状態を送ってください");
+  if (!navigator.geolocation) return toast("この端末では現在地を取れません");
+  const b = $("#locBtn"); b.disabled = true; b.textContent = "現在地を調べています…";
+  navigator.geolocation.getCurrentPosition(pos => {
+    myLoc = { lat: pos.coords.latitude, lng: pos.coords.longitude, acc: pos.coords.accuracy, t: Date.now() };
+    ls.set("loc", myLoc); b.disabled = false; b.textContent = "今ここにいる（現在地を送る）";
+    send(last.state, true);
+  }, err => {
+    b.disabled = false; b.textContent = "今ここにいる（現在地を送る）";
+    toast(err.code === 1 ? "位置情報の利用が許可されていません。iPhoneは「設定」→「プライバシーとセキュリティ」→「位置情報サービス」で許可してください" : "現在地を取れませんでした。外に近い場所でもう一度押してください");
+  }, { enableHighAccuracy: true, timeout: 20000, maximumAge: 60000 });
+}
+function clearLocation() {
+  myLoc = null; ls.del("loc");
+  const last = ls.get("last"); if (last) send(last.state, true);
+}
+
 /* ---------- SMS文 ---------- */
 function smsText(st = ls.get("last")) {
   let t = "【安否】まだ送っていません";
   if (st) {
     t = `【安否】${LABEL[st.state]}（${hm(st.at)}）`;
-    if (st.shelter) t += ` ${st.shelter}にいる`;
+    const sh = splitShelter(st.shelter);
+    if (sh.name) t += ` ${sh.name}にいる`;
+    if (sh.loc) t += ` 現在地 ${mapUrl(sh.loc)}`;
     if (st.note) t += ` ${st.note}`;
     if (st.battery != null) t += ` 電池${st.battery}%`;
   }
@@ -98,9 +133,11 @@ function smsText(st = ls.get("last")) {
 $("#copyBtn").onclick = e => copyText($("#smsText").textContent, e.target, "文をコピー");
 
 /* ---------- 安否送信 ---------- */
-async function send(state) {
+async function send(state, keepNote) {
   const battery = await readBattery();
-  const st = { name: ls.get("name") || "", state, note: $("#note").value.trim().slice(0, 40), battery, shelter: myShelter, at: Date.now() };
+  const last = ls.get("last");
+  const note = keepNote && last && !$("#note").value.trim() ? last.note : $("#note").value.trim().slice(0, 40);
+  const st = { name: ls.get("name") || "", state, note, battery, shelter: joinShelter(myShelter, myLoc), at: Date.now() };
   ls.set("last", st); ls.set("lastSent", st.at); smsText(st);
   if (fb) {
     people[fb.uid] = { ...st, pending: true }; renderPeople();
@@ -116,6 +153,7 @@ async function send(state) {
   paintMode();
 }
 document.querySelectorAll(".sbtn").forEach(b => b.onclick = () => send(b.dataset.s));
+$("#locBtn").onclick = sendLocation;
 
 /* ---------- ふたりの状況 ---------- */
 function renderPeople() {
@@ -136,7 +174,21 @@ function renderPeople() {
     meta.textContent = `${hm(s.at)}（${ago(s.at)}）` + (s.battery != null ? ` ・ 電池 ${s.battery}%` : "");
     if (s.pending) { const w = document.createElement("span"); w.className = "pending"; w.textContent = " ・ 送信待ち"; meta.appendChild(w); }
     if (Date.now() - s.at > SIX_H) { const w = document.createElement("span"); w.className = "stale"; w.textContent = " ・ 6時間以上更新なし"; meta.appendChild(w); }
-    el.querySelector(".nt").textContent = [s.shelter ? "いる場所：" + s.shelter : "", s.note || ""].filter(Boolean).join("　");
+    const sh = splitShelter(s.shelter);
+    el.querySelector(".nt").textContent = [sh.name ? "いる場所：" + sh.name : "", s.note || ""].filter(Boolean).join("　");
+    if (sh.loc) {
+      const row = document.createElement("div"); row.className = "locrow";
+      const a = document.createElement("a"); a.href = mapUrl(sh.loc); a.target = "_blank"; a.rel = "noopener"; a.className = "sm";
+      a.textContent = "現在地を地図で見る";
+      const m = document.createElement("span"); m.className = "meta";
+      m.textContent = `${ago(sh.loc.t)}の位置・誤差 約${sh.loc.acc}m`;
+      row.append(a, m);
+      if (id === mine) {
+        const c = document.createElement("button"); c.className = "sm"; c.textContent = "位置を消す";
+        c.onclick = clearLocation; row.appendChild(c);
+      }
+      el.appendChild(row);
+    }
     box.appendChild(el);
   }
 }

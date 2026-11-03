@@ -10,7 +10,7 @@
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="ふたりの安否">
-<link rel="stylesheet" href="style.css?v=9">
+<link rel="stylesheet" href="style.css?v=10">
 </head>
 <body>
 <div class="wrap">
@@ -62,6 +62,8 @@
         <button class="sbtn hurt" data-s="hurt"><span>避難</span><span>した</span></button>
         <button class="sbtn help" data-s="help"><span>ケガ・</span><span>危ない</span></button>
       </div>
+      <button class="locbtn" id="locBtn">今ここにいる（現在地を送る）</button>
+      <p class="sub">押した時だけ現在地を送ります。いつも追いかけることはしません。</p>
       <div>
         <label for="note">ひとことメモ（任意・40字まで）</label>
         <input type="text" id="note" maxlength="40" placeholder="例：家にいる／水が足りない">
@@ -192,6 +194,6 @@
     </section>
   </main>
 </div>
-<script type="module" src="app.js?v=9"></script>
+<script type="module" src="app.js?v=10"></script>
 </body>
 </html>
