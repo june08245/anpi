@@ -114,16 +114,9 @@ function sendLocation() {
     if (watchId != null) navigator.geolocation.clearWatch(watchId);
     clearTimeout(timer);
     b.disabled = false; b.textContent = LOC_LABEL;
-    if (best) {
-      myLoc = best; ls.set("loc", myLoc);
-      const acc = Math.round(best.acc);
-      const extra = acc > 100 ? `・誤差 約${acc}m。地下や建物の奥では大きくずれることがあります。地図で確かめてください` : `・誤差 約${acc}m`;
-      send(last.state, true, true, extra);
-    } else if (err && err.code === 1) {
-      toast("位置情報の利用が許可されていません。iPhoneは「設定」→「プライバシーとセキュリティ」→「位置情報サービス」→「Safari Webサイト」で「使用中のみ」にしてください");
-    } else {
-      toast("現在地を取れませんでした。地下や建物の奥では取れないことがあります。地上や窓の近くでもう一度押してください");
-    }
+    if (err && err.code === 1 && !best) toast("位置情報の利用が許可されていません。地図で場所を選んで送れます（許可するには、iPhoneの「設定」→「プライバシーとセキュリティ」→「位置情報サービス」）");
+    // 取れた位置（取れなければ前回の位置か大阪の中心）から、地図で場所を合わせてもらう
+    openPicker(best, last.state);
   };
   watchId = navigator.geolocation.watchPosition(pos => {
     if (pos.timestamp && pos.timestamp < start - 2000) return; // 押す前の古い位置は使わない
@@ -131,9 +124,64 @@ function sendLocation() {
     if (!best || p.acc < best.acc) best = p;
     b.textContent = `現在地を調べています…（誤差 約${Math.round(best.acc)}m）`;
     if (best.acc <= 30) finish();
-  }, err => { if (err.code === 1) finish(err); }, { enableHighAccuracy: true, maximumAge: 0, timeout: 12000 });
-  timer = setTimeout(() => finish(), 12000);
+  }, err => { if (err.code === 1) finish(err); }, { enableHighAccuracy: true, maximumAge: 0, timeout: 8000 });
+  timer = setTimeout(() => finish(), 8000);
 }
+/* 地図で位置を合わせる（地図の真ん中が送る位置。地図は国土地理院の地理院タイル） */
+const LEAFLET = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/";
+let leafletReady = null, pickMap = null, pickCircle = null, pickState = null, pickGps = null;
+function loadLeaflet() {
+  if (window.L) return Promise.resolve();
+  if (leafletReady) return leafletReady;
+  leafletReady = new Promise((res, rej) => {
+    const css = document.createElement("link"); css.rel = "stylesheet"; css.href = LEAFLET + "leaflet.min.css"; document.head.appendChild(css);
+    const js = document.createElement("script"); js.src = LEAFLET + "leaflet.min.js"; js.onload = res;
+    js.onerror = () => { leafletReady = null; rej(new Error("leaflet")); };
+    document.head.appendChild(js);
+    setTimeout(() => { if (!window.L) { leafletReady = null; rej(new Error("timeout")); } }, 10000);
+  });
+  return leafletReady;
+}
+async function openPicker(gps, state) {
+  pickGps = gps; pickState = state;
+  const start = gps || myLoc || { lat: 34.6937, lng: 135.5023, acc: 0 }; // 取れない時は大阪市役所あたり
+  try { await loadLeaflet(); }
+  catch {
+    // 地図が読めない（電波が弱いなど）時は、取れた位置をそのまま送る
+    if (gps) { commitLocation(gps.lat, gps.lng, gps.acc, false); toast("地図を読み込めないので、GPSの位置をそのまま送ります"); }
+    else toast("現在地も地図も取れませんでした。電波のよい場所でもう一度押してください");
+    return;
+  }
+  const dlg = $("#mapDlg"); dlg.hidden = false; document.body.classList.add("noscroll");
+  $("#pickInfo").textContent = gps ? `GPSの位置（誤差 約${Math.round(gps.acc)}m）。ずれていたら地図を動かして、真ん中の印を今いる場所に合わせてください`
+    : "現在地を取れませんでした。地図を動かして、真ん中の印を今いる場所に合わせてください";
+  if (!pickMap) {
+    pickMap = L.map("pickMap", { zoomControl: true, attributionControl: true });
+    L.tileLayer("https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png", {
+      maxZoom: 18, attribution: '<a href="https://maps.gsi.go.jp/development/ichiran.html" target="_blank" rel="noopener">地理院タイル</a>'
+    }).addTo(pickMap);
+  }
+  pickMap.setView([start.lat, start.lng], gps ? 17 : 15);
+  if (pickCircle) { pickCircle.remove(); pickCircle = null; }
+  if (gps) pickCircle = L.circle([gps.lat, gps.lng], { radius: gps.acc, color: "#24486b", weight: 1, fillOpacity: .08 }).addTo(pickMap);
+  setTimeout(() => pickMap.invalidateSize(), 50);
+}
+function closePicker() { $("#mapDlg").hidden = true; document.body.classList.remove("noscroll"); }
+function commitLocation(lat, lng, acc, manual) {
+  myLoc = { lat, lng, acc: manual ? 0 : acc, t: Date.now() }; ls.set("loc", myLoc);
+  const extra = manual ? "・自分で合わせた位置" : `・誤差 約${Math.round(acc)}m`;
+  send(pickState || (ls.get("last") || {}).state || "ok", true, true, extra);
+}
+$("#pickSend").onclick = () => {
+  const c = pickMap.getCenter();
+  // GPSの位置からほとんど動かしていなければGPSの位置、動かしていれば「自分で合わせた位置」
+  const moved = !pickGps || pickMap.distance(c, [pickGps.lat, pickGps.lng]) > 5;
+  closePicker();
+  if (moved) commitLocation(c.lat, c.lng, 0, true); else commitLocation(pickGps.lat, pickGps.lng, pickGps.acc, false);
+};
+$("#pickGps").onclick = () => { if (pickGps) pickMap.setView([pickGps.lat, pickGps.lng], 17); };
+$("#pickCancel").onclick = closePicker;
+
 function clearLocation() {
   myLoc = null; ls.del("loc");
   const last = ls.get("last"); if (last) send(last.state, true);
@@ -206,7 +254,7 @@ function renderPeople() {
       const a = document.createElement("a"); a.href = mapUrl(sh.loc); a.target = "_blank"; a.rel = "noopener"; a.className = "sm";
       a.textContent = "現在地を地図で見る";
       const m = document.createElement("span"); m.className = "meta";
-      m.textContent = `${ago(sh.loc.t)}の位置・誤差 約${sh.loc.acc}m`;
+      m.textContent = sh.loc.acc === 0 ? `${ago(sh.loc.t)}・自分で合わせた位置` : `${ago(sh.loc.t)}の位置・誤差 約${sh.loc.acc}m`;
       row.append(a, m);
       if (id === mine) {
         const c = document.createElement("button"); c.className = "sm"; c.textContent = "位置を消す";
