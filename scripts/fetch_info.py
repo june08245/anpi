@@ -53,6 +53,8 @@ OUTAGE_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("停電 大阪 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
 OUTAGE_KEYWORDS = ["停電"]
+OUTAGE_PLACES = ["大阪", "関西", "近畿", "関電", "生野", "旭区"]  # 見出しにどれかを含むものだけ
+BLOCK_SOURCES = ["Vietnam.vn"]
 
 
 def get(url, timeout=20):
@@ -167,6 +169,7 @@ def parse_rss(xml_bytes):
             title, src = title.rsplit(" - ", 1)
         elif src and title.endswith(" - " + src):
             title = title[: -len(" - " + src)]
+        src = re.split(r"\s[|｜]\s", src)[0].strip()[:20]
         if "nhk.or.jp" in link and not src:
             src = "NHK"
         if title and link.startswith("http"):
@@ -178,7 +181,7 @@ def norm(t):
     return re.sub(r"[\s　「」『』【】（）()、。・:：]", "", t)[:40]
 
 
-def collect_news(feeds, keywords, limit, max_age_h):
+def collect_news(feeds, keywords, limit, max_age_h, must=None):
     items, errors = [], 0
     for url in feeds:
         try:
@@ -191,6 +194,10 @@ def collect_news(feeds, keywords, limit, max_age_h):
     out, seen = [], set()
     for i in sorted(items, key=lambda x: x["dt"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True):
         if not any(k in i["title"] for k in keywords):
+            continue
+        if must and not any(k in i["title"] for k in must):
+            continue
+        if any(b in i["source"] for b in BLOCK_SOURCES):
             continue
         if i["dt"] and now - i["dt"] > timedelta(hours=max_age_h):
             continue
@@ -217,7 +224,7 @@ def main():
         "warnings": fetch_warnings,
         "quakes": fetch_quakes,
         "world": lambda: collect_news(WORLD_FEEDS, WORLD_KEYWORDS, 15, 72),
-        "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48),
+        "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48, OUTAGE_PLACES),
     }
     for key, fn in jobs.items():
         try:

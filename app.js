@@ -232,7 +232,7 @@ function renderInfo(info, fromCache) {
     w.appendChild(tags);
   } else if (info.warnings) emptyRow(w, "いま発表中の警報・注意報はありません");
   else emptyRow(w, "取得できていません");
-  if (info.warnings && info.warnings.headline) { const p = document.createElement("p"); p.className = "sub"; p.textContent = info.warnings.headline; w.appendChild(p); }
+  if (items.length && info.warnings.headline) { const p = document.createElement("p"); p.className = "sub"; p.textContent = info.warnings.headline; w.appendChild(p); }
 
   // 地震
   const q = $("#infoQuake"); q.innerHTML = "";
