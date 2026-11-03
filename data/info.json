@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T05:30+09:00",
+ "updated": "2026-11-04T05:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-10-30T22:45:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-04T05:34:00+09:00",
+   "place": "千葉県東方沖",
+   "mag": "3.4",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-04T05:11:00+09:00",
    "place": "和歌山県北部",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-02T01:21:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "3.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -98,7 +98,7 @@
      "title": "イラン大統領、米国の攻撃報道後「戦争の再開は誰の利益にもならない」と発言",
      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQNmF3MTF6bDhyMWZNRTMzUWlrQ0pWTXdpUXR2cGZ3dXhTaDNiaXFOckY4dnI4R1JEUEV1Q0N2eDBVRTE5Vy1abWw5LTNVTEhreDVVTTBoWWczZFd0ZmFDOXVHYVQ1WVBiaEFHUWxwMEZfbHhFLVhZZEdKbXFrMlZkVWd3d2Z4R3VNZXRLZGNwSlZSQVpxU2diOElQdHVDUkZHLXZkek1BcDY1RGhRb0FTUDljMzk3d05IeC1CeFU2dDN1cE1Fb2IzQk1HMEpxUHlVcWVMMHl3M3VqSTY0V240LVZ5SXI1Vy1QcVlnWEFnVTJ0TV8xZFc5Ymktb2JwS3FYVVoxQXFQOVhsOW8tNENDMkJrQm9CYl9oVWtzUFNfMldpeG1jNG1VeWx6VkY4Nk5nNVY5LTQwOVdhOGtmdmZxYTRuc054cm1Eb0dDVHNBX1RsWklSVUppMDBILWZkSTJnU1VpUUlnTDk1ZDV6S0xxRy1ZTnl6akNFVUZuSl9MU1RWanV0c0tMMU5PUUY4aTUySVV4OGlUdU9ZX3V3UDJWeDExaThHdTl1Y3RIZjlmaVk2bk9PYThONEFoN0FlNFRraHJNZjFMdFRFMXdsaDBXWkg5VDhjMUh3M1U2aTM5Sm1uVnc?oc=5",
      "source": "アラブニュース",
-     "at": "2026-11-04T05:04+09:00"
+     "at": "2026-11-04T05:34+09:00"
     },
     {
      "title": "ドナルド・トランプ氏、イランへの米国による新たな攻撃を確認／標的：最近構築された防空システム",
@@ -191,12 +191,6 @@
      "at": "2026-11-04T00:00+09:00"
     },
     {
-     "title": "訪中を前に中国の王亜軍駐北朝鮮大使（左）に見送られる、北朝鮮の金成男朝鮮労働党書記＝3日、平壌国際空港（共同） - 北朝鮮の党代表団が訪中 金成男書記、関係強化か - 写真・画像(1/1)",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2NWZWWE9pNDA5WGY2Um84Qk5oN3ZaSEhzSURreTZuMXFzNnFkN0ZaTUxLaFZmUDFidTl1SklwWjUyQzRHUDQ0ZmpsWDJycmlPcnBOX1BIMA?oc=5",
-     "source": "西日本新聞me",
-     "at": "2026-11-03T17:44+09:00"
-    },
-    {
      "title": "北朝鮮のクラスター弾頭ミサイル試験、韓国軍が即時公表せず…「監視能力の保護を考慮」（KOREA WAVE）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSXy0yTTZoc05GbmRxZXRkdk5MdTJoeHUwQUhIV3RNZGphQnduaFBtUXktOU9sUDFLbm9TUVNkbERUblQxY2ZXY0lLQU9yLWNXSmRkbEktN1UtZXlsTmN0cEhSTVpqRzd3aDBRWjR1WXVTUHZFZmIyWUdsVEZmbGs?oc=5",
      "source": "Yahoo!ニュース",
@@ -213,6 +207,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBadXlDR0I2OVo3aUtyaWZzU2M5ZVVNUlFRQk1DUzBjS0VPQzUwWVNvYmlBSG84WUFLS1dybnRmbEVxT3hheG9ZSjdNYjZndGNGcFF5RlBBdFBTOW16STBwMnZYb2Rtck8wbWoxSHNVenpWMFk3YkpXSldOUEx2dVk?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-03T14:40+09:00"
+    },
+    {
+     "title": "北朝鮮、巡航ミサイルのクラスター弾頭試験と垂直攻撃試験を実施…「標的を壊滅」（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zc21td3M3YWQxekVxV2k2Q3hELVNxLUx5SXh4QklsQURTVEM2dWlFekVMaXVHLXRSdlVWMVRFZm1OSDJIa01EazFuX2RLd2g3RGQtblFhb2dLQ1BPa3Bud2k5Yl96a2VPVUZMU0pmREp2QlVTNElkaldVb25LTW8?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-03T14:01+09:00"
     }
    ]
   },
@@ -239,12 +239,6 @@
      "at": "2026-11-04T02:20+09:00"
     },
     {
-     "title": "プーチン氏をキーウに招くことや、私をモスクワに招くことは有害＝ゼレンシキー宇大統領",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ1JoaUN4c0hhbnc0UUM4Q1hSa2RBeURBUHpJTlUtMDdZYnJXYU1feWRkT2x6TGdDOTFWWWFUU1JrZnJqeWJIMURnUU5qNGV5WnNCbVlsdkNlZkV0d0pXOTEtSmhHc0dwMERWY0JkNjY3QzkyVXpZYkZibDZ2QTRHQzg4Y29hTDI2aloybzc3ZWtiNFgxTDVlR2JQSVZzS2NwR2lpQjNzSHF1cE1XZW1yTVVuRERZcjZ0NTdxUWhJV0xaS1BBS254dzFid1lnMTh6Y0NxYnRQc2FtSUhwekU00gHkAUFVX3lxTE05dUdNWnMwRWtJcVoxSVdoTnZ2ckc5RkdONE00S3diTlpZMmRWbTMwbG9oQXhvZXAwMlU2QXcyUjQwN2FubjBHcDQtMGRtQkNhbXJfb3pXN283VzZTdGdJY1RpWE1BckdNaXhOdTQ2MzZaTUkzOXRIS0p2ZnNTaFlEallnSVppUjh1aXQ2RHkyZTdDLVAwSC12eE5sY2drb1dCZW5UZDdLQ1hqcFBNTjFTdmRzbHk3eW40MHU0dmVHYk5PZzJQb2VhYmNEWVNCb1R1SE5rLXZwUHdGZG5JRXdMNTdiSQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-04T00:11+09:00"
-    },
-    {
      "title": "ロシア軍、人道支援物資配布拠点の学校など攻撃…31人死亡、5人負傷 ウクライナ南部",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PNUdlaThyRUdmdUZZMFNVTEFsOHBmZzY5dzJfZnpla1d1Q1VidVJkQ3J1VnQ1M3ZuLWJ1dWtUTTQyalZBZzlGUzlabVlfVjBiT1QyUUZPclNsM3d6M0NtZkJaUEo2cjZvYkRIZ3dB?oc=5",
      "source": "au Webポータル",
@@ -255,16 +249,28 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlpmYkxRbmlQcmlPWVZTODFEX19IckV2LW5Qc2lXNm1Ua1hwMm5xOG9BYUM3WU9Ec183dklmWWxwWndqZGV0SDhqRnVQXzdCTlBsM3ZCRGNwU25BT1h1WUNXRnVfR1kyTl9MZjJzMi14cmlMSHN2eDVWSmJYeVJLYmpIeVpMQQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-03T23:57+09:00"
+    },
+    {
+     "title": "ロシア軍、人道支援物資配給拠点の学校など攻撃…31人死亡、5人負傷 ウクライナ南部（日テレNEWS NNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sZ1hCNC11SlNVNEg3US1UNnpCclBjTmhfcnZSVWh5ZXE0cVc5ZzdlcnhocUZzOXNWa044VjdVUDFJRzV1Sk9rMGRqNTJ3TjhzYkF4M2pIRl9pYlExU3hFMEExWlY4THhQY1BIZmRHYll6SXhPeHF3d0RVTHZQWVU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-03T23:56+09:00"
     }
    ]
   }
  ],
  "nankai": [
   {
-   "title": "新設・防災庁の細野大臣が熊本地震の被災地を初視察 南九州道の復旧状況を確認し 南海トラフなど巨大地震への技術応用を目指す (2026年11月3日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16UXRDZkNCazlNMDBKNFlyUmhMUlFna3Q5TkFSTkJ5YkJhaWJ0VkZLQ1JXZTFfQWtIOGIwbm5NeUJ1RktTTEFqX1pqTFVnQnlRcWtLdVdoLXItVldRQWc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-03T20:25+09:00"
+   "title": "新設・防災庁の細野大臣が熊本地震の被災地を初視察 南九州道の復旧状況を確認し 南海トラフなど巨大地震への技術応用を目指す",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRGRFOTd0QVZTNlE4ck5GeHgtOHp1TzNnXzZael94S21MR0pld0hTLU5RLXp5LU5jNG9DX2pTc0F0YjNrUURycGNwVHlUWTNjSTlIUWNSTmtudXdTNENyem1rZ3d5X1ZEamRKbVN4eFNVb05iVXBhZWFhV041dVVJYjhkeGJWRUVTbFlXdHBYZmZxOUlUZ19WeVUyRHdvb2hKU0VsYXJNSUJmbFRuZG54U3BYeFFQTmhWUkhCcHUtU2FpbkJGZ3Q3dmkwa1pFR3RvcHQ3ODN1SjEzLVpucjQ4bWJ4Nlcta2M3djdYV0V5S3FVa2J2QVE?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-03T22:18+09:00"
+  },
+  {
+   "title": "写真・図版（1枚目）| レクビィ、内閣府の「南海トラフ地震を想定したキャンピングカー実証運用」に参加",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNejh5MjNVWk80WXBvTjJsRDg4SU1rY09QczdlcnVNSmQzdTQ1TjRQbEpWc2pNYktpNWRPVFAtT3RmR2Nvb0VtaDVIWHVGbzNsZWo0UG9n?oc=5",
+   "source": "AERA DIGITAL",
+   "at": "2026-11-03T22:07+09:00"
   },
   {
    "title": "「世界津波の日」前に南海トラフ巨大地震想定し訓練 和歌山",
@@ -273,10 +279,10 @@
    "at": "2026-11-03T15:07+09:00"
   },
   {
-   "title": "「世界津波の日」（5日）を前に津波避難訓練 マグニチュード9.1の「南海トラフ巨大地震」が発生 和歌山県に「大津波警報」が発表された想定 和歌山・串本町",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56S0ZnTUJURGFNM3hNeWtmbVBGdmdTaHFmMlZnVWNWQkFrS2lkZnUybXMzX2labDJSYWRXSGsxNlFsWDhsblVidWZnZGRZb1IzQ3QzVVhwQQ?oc=5",
+   "title": "「世界津波の日」（5日）を前に津波避難訓練 マグニチュード9.1の「南海トラフ巨大地震」が発生 和歌山県に「大津波警報」が発表された想定 和歌山・串本町 | TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzZHNOR3VCbEljN0FiQUFVRnVwYmE4VUg3OWxOdHZxaEM1OHVlQmR3WTJhNTZ2bjhpNldrNmVxV0lIYXh1UDZnaGR1aXBnZncwWTRzV1BYWWZXaWFL?oc=5",
    "source": "TBS NEWS DIG",
-   "at": "2026-11-03T13:46+09:00"
+   "at": "2026-11-03T14:37+09:00"
   },
   {
    "title": "レクビィ、内閣府の「南海トラフ地震を想定したキャンピングカー実証運用」に参加",
@@ -285,16 +291,10 @@
    "at": "2026-11-03T06:16+09:00"
   },
   {
-   "title": "防災庁が挑む｢国の防災改革｣ 南海トラフ、富士山噴火…災害被害軽減へ“官庁の縦割り”打破なるか",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55LUY1NWtnTlpQZjJfSWtzWGtqanNFeGtKVEM2VndWVnh3S25kU2VyREZiUW5POVhUSTBvTUhMa1FhaEtJbHNuT1phQ2ktZw?oc=5",
-   "source": "静岡新聞DIGITAL",
-   "at": "2026-11-02T21:01+09:00"
-  },
-  {
-   "title": "防災庁発足 南海トラフ警戒地域の声 国による具体的な支援を",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42SzBUSXN4VXVZZDhHd05ITTgwU0sxSDA4UlBDUEZTbF9IdWNNTTk1ZDVFQWc4WG82R0tuUHp5Q1I3QUFQNlRjdlFZek5aRjl3OXRvSXJkeEZOak5QWkJPMWNrRnJ3RENGeDBlM1M0Ym9GZw?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-02T20:58+09:00"
+   "title": "｢国家の命運をかけた戦いになる｣ 防災庁発足で一人一人の備えを呼びかけ 南海トラフ巨大地震や首都直下地震への“事前防災”を | TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EdFpPQTMyZjJLWU1IRVotX2NzVW5aMGk4UFVZMG9wZEx0LWNwTTM2emM3QTliTk9KZDR2OFZDRUV4a3pjV05MNUVjM28tTFNiNXBQbVVTNU5yYnhV?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-03T00:04+09:00"
   }
  ],
  "outage": [],
@@ -327,9 +327,9 @@
  "cyber": [
   {
    "title": "若者の「居場所」存続危機 サイバー攻撃、支援に影響",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16bmx0Y2JXTG1aaXp5VlctRDFUeE12ZlV2NjI4dnZIUG5wX3F2T2pkRUNuR2FhdVl2SlVUTXA0TWZlSXByUlJ3ZXhIcW5CbmR4VXpxLUI0NG5tZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-04T05:21+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfVjc4R19wZTFGWnRMTjlWTGtKRFpiR2diMjE1N2dtajZKWnI4WFFnOGtnX2p6RnlYS3VKb001TlN5clpvNFFGU1d1Vk9pU2ZQ?oc=5",
+   "source": "日本海新聞",
+   "at": "2026-11-04T05:15+09:00"
   },
   {
    "title": "アダルトサイトの利用履歴も流出する可能性…日本を襲うサイバー攻撃「放っておいたらこんなにヤバイ」",
@@ -344,12 +344,6 @@
    "at": "2026-11-04T05:00+09:00"
   },
   {
-   "title": "完全には防げないサイバー攻撃、「サイバーレジリエンス」を強化せよ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90bER4WUo4X1ZuOWVoeW5oVGZON1dmN1p0U09NSHBWZzl1WEZsRk1uSjJ0MkFoOHV5RFYwc0dxMWxjUnZPMHVWZk5UZ2ZjT3hSWjAtaUtvM2lrbzFjb01JclU5cWlkT2dPcHhaUw?oc=5",
-   "source": "日経クロステック",
-   "at": "2026-11-04T05:00+09:00"
-  },
-  {
    "title": "冷蔵庫にサイバー攻撃 先月、仏でも 欧州９カ国で被害確認",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYWDBsblZOQ1pxTVdNaEpHdWhhc3R5WnR5UmViY0l3MnBGTjNXUXRqRHpQLXNIOFJDSnotOGFZQ1pTdzJEQ2swVkNjVjlnZHpWbGVKMTZ3RHFscUZu?oc=5",
    "source": "朝日新聞",
@@ -359,6 +353,12 @@
    "title": "学生が地元企業へのサイバー攻撃防ぐ 金沢工業大とシスコが包括協定",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14SkxEU2RVUlZMYU54RmhzMkQ4Wmo1emZYSmJIODF3WXBOSVZjYnd4OFFJY2M2REwzNVhzQnhWNDV2cU9RQlZDTndiQ1F0ZkJjcDJ1TTdPQ1dRYXYwNV9hV1lCYVBoYUwzcG04Rg?oc=5",
    "source": "日本経済新聞",
+   "at": "2026-11-04T05:00+09:00"
+  },
+  {
+   "title": "完全には防げないサイバー攻撃、「サイバーレジリエンス」を強化せよ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90bER4WUo4X1ZuOWVoeW5oVGZON1dmN1p0U09NSHBWZzl1WEZsRk1uSjJ0MkFoOHV5RFYwc0dxMWxjUnZPMHVWZk5UZ2ZjT3hSWjAtaUtvM2lrbzFjb01JclU5cWlkT2dPcHhaUw?oc=5",
+   "source": "日経クロステック",
    "at": "2026-11-04T05:00+09:00"
   },
   {
@@ -399,7 +399,7 @@
    "title": "イラン大統領、米国の攻撃報道後「戦争の再開は誰の利益にもならない」と発言",
    "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQNmF3MTF6bDhyMWZNRTMzUWlrQ0pWTXdpUXR2cGZ3dXhTaDNiaXFOckY4dnI4R1JEUEV1Q0N2eDBVRTE5Vy1abWw5LTNVTEhreDVVTTBoWWczZFd0ZmFDOXVHYVQ1WVBiaEFHUWxwMEZfbHhFLVhZZEdKbXFrMlZkVWd3d2Z4R3VNZXRLZGNwSlZSQVpxU2diOElQdHVDUkZHLXZkek1BcDY1RGhRb0FTUDljMzk3d05IeC1CeFU2dDN1cE1Fb2IzQk1HMEpxUHlVcWVMMHl3M3VqSTY0V240LVZ5SXI1Vy1QcVlnWEFnVTJ0TV8xZFc5Ymktb2JwS3FYVVoxQXFQOVhsOW8tNENDMkJrQm9CYl9oVWtzUFNfMldpeG1jNG1VeWx6VkY4Nk5nNVY5LTQwOVdhOGtmdmZxYTRuc054cm1Eb0dDVHNBX1RsWklSVUppMDBILWZkSTJnU1VpUUlnTDk1ZDV6S0xxRy1ZTnl6akNFVUZuSl9MU1RWanV0c0tMMU5PUUY4aTUySVV4OGlUdU9ZX3V3UDJWeDExaThHdTl1Y3RIZjlmaVk2bk9PYThONEFoN0FlNFRraHJNZjFMdFRFMXdsaDBXWkg5VDhjMUh3M1U2aTM5Sm1uVnc?oc=5",
    "source": "アラブニュース",
-   "at": "2026-11-04T05:04+09:00",
+   "at": "2026-11-04T05:34+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -452,13 +452,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "プーチン氏をキーウに招くことや、私をモスクワに招くことは有害＝ゼレンシキー宇大統領",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ1JoaUN4c0hhbnc0UUM4Q1hSa2RBeURBUHpJTlUtMDdZYnJXYU1feWRkT2x6TGdDOTFWWWFUU1JrZnJqeWJIMURnUU5qNGV5WnNCbVlsdkNlZkV0d0pXOTEtSmhHc0dwMERWY0JkNjY3QzkyVXpZYkZibDZ2QTRHQzg4Y29hTDI2aloybzc3ZWtiNFgxTDVlR2JQSVZzS2NwR2lpQjNzSHF1cE1XZW1yTVVuRERZcjZ0NTdxUWhJV0xaS1BBS254dzFid1lnMTh6Y0NxYnRQc2FtSUhwekU00gHkAUFVX3lxTE05dUdNWnMwRWtJcVoxSVdoTnZ2ckc5RkdONE00S3diTlpZMmRWbTMwbG9oQXhvZXAwMlU2QXcyUjQwN2FubjBHcDQtMGRtQkNhbXJfb3pXN283VzZTdGdJY1RpWE1BckdNaXhOdTQ2MzZaTUkzOXRIS0p2ZnNTaFlEallnSVppUjh1aXQ2RHkyZTdDLVAwSC12eE5sY2drb1dCZW5UZDdLQ1hqcFBNTjFTdmRzbHk3eW40MHU0dmVHYk5PZzJQb2VhYmNEWVNCb1R1SE5rLXZwUHdGZG5JRXdMNTdiSQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-04T00:11+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "北朝鮮はなぜサイバー攻撃大国になったのか 制裁下の外貨獲得戦略 - 日経FTザ・ワールド",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mRUdiWHpVVzVqZ3o0Y2dEMjM0WWV1b2J2ZmRrUVExdnFKanR2b0UwbzRoYWtqSGRGQ19DZl9JaXpoMGl0OVU5RnlNbzBSbVVvT0szeTliUjN2UDJndEtMb29jVmJnc3Z4QjkydXhmYVF0QjAxd0Qw?oc=5",
    "source": "日本経済新聞",
@@ -477,6 +470,13 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlpmYkxRbmlQcmlPWVZTODFEX19IckV2LW5Qc2lXNm1Ua1hwMm5xOG9BYUM3WU9Ec183dklmWWxwWndqZGV0SDhqRnVQXzdCTlBsM3ZCRGNwU25BT1h1WUNXRnVfR1kyTl9MZjJzMi14cmlMSHN2eDVWSmJYeVJLYmpIeVpMQQ?oc=5",
    "source": "Reuters",
    "at": "2026-11-03T23:57+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア軍、人道支援物資配給拠点の学校など攻撃…31人死亡、5人負傷 ウクライナ南部（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sZ1hCNC11SlNVNEg3US1UNnpCclBjTmhfcnZSVWh5ZXE0cVc5ZzdlcnhocUZzOXNWa044VjdVUDFJRzV1Sk9rMGRqNTJ3TjhzYkF4M2pIRl9pYlExU3hFMEExWlY4THhQY1BIZmRHYll6SXhPeHF3d0RVTHZQWVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T23:56+09:00",
    "topic": "ロシア"
   },
   {
@@ -508,13 +508,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "訪中を前に中国の王亜軍駐北朝鮮大使（左）に見送られる、北朝鮮の金成男朝鮮労働党書記＝3日、平壌国際空港（共同） - 北朝鮮の党代表団が訪中 金成男書記、関係強化か - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2NWZWWE9pNDA5WGY2Um84Qk5oN3ZaSEhzSURreTZuMXFzNnFkN0ZaTUxLaFZmUDFidTl1SklwWjUyQzRHUDQ0ZmpsWDJycmlPcnBOX1BIMA?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-03T17:44+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "北朝鮮のクラスター弾頭ミサイル試験、韓国軍が即時公表せず…「監視能力の保護を考慮」（KOREA WAVE）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSXy0yTTZoc05GbmRxZXRkdk5MdTJoeHUwQUhIV3RNZGphQnduaFBtUXktOU9sUDFLbm9TUVNkbERUblQxY2ZXY0lLQU9yLWNXSmRkbEktN1UtZXlsTmN0cEhSTVpqRzd3aDBRWjR1WXVTUHZFZmIyWUdsVEZmbGs?oc=5",
    "source": "Yahoo!ニュース",
@@ -533,6 +526,13 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBadXlDR0I2OVo3aUtyaWZzU2M5ZVVNUlFRQk1DUzBjS0VPQzUwWVNvYmlBSG84WUFLS1dybnRmbEVxT3hheG9ZSjdNYjZndGNGcFF5RlBBdFBTOW16STBwMnZYb2Rtck8wbWoxSHNVenpWMFk3YkpXSldOUEx2dVk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-03T14:40+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮、巡航ミサイルのクラスター弾頭試験と垂直攻撃試験を実施…「標的を壊滅」（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zc21td3M3YWQxekVxV2k2Q3hELVNxLUx5SXh4QklsQURTVEM2dWlFekVMaXVHLXRSdlVWMVRFZm1OSDJIa01EazFuX2RLd2g3RGQtblFhb2dLQ1BPa3Bud2k5Yl96a2VPVUZMU0pmREp2QlVTNElkaldVb25LTW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T14:01+09:00",
    "topic": "北朝鮮"
   }
  ],
@@ -553,15 +553,15 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
-    "北朝鮮：「攻撃」「ミサイル」5件",
-    "ロシア：「攻撃」3件"
+    "北朝鮮：「攻撃」「ミサイル」6件",
+    "ロシア：「攻撃」4件"
    ],
    "items": [
     {
      "title": "イラン大統領、米国の攻撃報道後「戦争の再開は誰の利益にもならない」と発言",
      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQNmF3MTF6bDhyMWZNRTMzUWlrQ0pWTXdpUXR2cGZ3dXhTaDNiaXFOckY4dnI4R1JEUEV1Q0N2eDBVRTE5Vy1abWw5LTNVTEhreDVVTTBoWWczZFd0ZmFDOXVHYVQ1WVBiaEFHUWxwMEZfbHhFLVhZZEdKbXFrMlZkVWd3d2Z4R3VNZXRLZGNwSlZSQVpxU2diOElQdHVDUkZHLXZkek1BcDY1RGhRb0FTUDljMzk3d05IeC1CeFU2dDN1cE1Fb2IzQk1HMEpxUHlVcWVMMHl3M3VqSTY0V240LVZ5SXI1Vy1QcVlnWEFnVTJ0TV8xZFc5Ymktb2JwS3FYVVoxQXFQOVhsOW8tNENDMkJrQm9CYl9oVWtzUFNfMldpeG1jNG1VeWx6VkY4Nk5nNVY5LTQwOVdhOGtmdmZxYTRuc054cm1Eb0dDVHNBX1RsWklSVUppMDBILWZkSTJnU1VpUUlnTDk1ZDV6S0xxRy1ZTnl6akNFVUZuSl9MU1RWanV0c0tMMU5PUUY4aTUySVV4OGlUdU9ZX3V3UDJWeDExaThHdTl1Y3RIZjlmaVk2bk9PYThONEFoN0FlNFRraHJNZjFMdFRFMXdsaDBXWkg5VDhjMUh3M1U2aTM5Sm1uVnc?oc=5",
      "source": "アラブニュース",
-     "at": "2026-11-04T05:04+09:00"
+     "at": "2026-11-04T05:34+09:00"
     },
     {
      "title": "免許証は「1枚20円」…“ダークウェブ”で売買される個人情報 「新しい情報は高値で取引」 サイバー攻撃の影に北朝鮮系ハッカー【news23】",
