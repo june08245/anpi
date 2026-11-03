@@ -487,7 +487,7 @@ async function fetchJMA() {
 // 判定（scripts/fetch_info.py と同じ基準）
 const within = (at, h) => { const t = new Date(at).getTime(); return !isNaN(t) && Date.now() - t <= h * 3600e3; };
 // 「Jアラートの訓練」「爆発を想定」のような見出しで緊急にしないための除外語（scripts/fetch_info.py と同じ）
-const RED_EXCLUDE = ["偽", "誤報", "誤って", "訓練", "試験", "テスト", "？", "?", "のか", "か｜", "へ突入か", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"];
+const RED_EXCLUDE = ["回避", "避け", "防ぐ", "阻止", "食い止め", "偽", "誤報", "誤って", "訓練", "試験", "テスト", "？", "?", "のか", "か｜", "へ突入か", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"];
 const realOnly = list => list.filter(n => !RED_EXCLUDE.some(x => n.title.includes(x)));
 const newsHits = (list, words, h = 24) => (list || []).filter(n => within(n.at, h) && words.some(w => n.title.includes(w)));
 const result = (red, yel, ok, urgent = []) => red.length ? { level: "red", reasons: [...red, ...yel], urgent } : yel.length ? { level: "yellow", reasons: yel } : { level: "green", reasons: [ok] };
