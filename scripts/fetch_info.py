@@ -84,8 +84,12 @@ CYBER_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("サイバー攻撃 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("ランサムウェア OR 不正アクセス when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("通信障害 OR システム障害 OR つながりにくい when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
+    # 決済やサービスが使えない障害（コード決済、ATM、交通系ICなど）
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("決済 障害 OR 支払いできない OR 決済できない when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("利用できない 障害 OR 不具合 速報 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
-CYBER_KEYWORDS = ["サイバー", "ランサムウェア", "不正アクセス", "ハッキング", "DDoS", "情報漏えい", "情報流出", "通信障害", "システム障害", "つながりにくい"]
+CYBER_KEYWORDS = ["サイバー", "ランサムウェア", "不正アクセス", "ハッキング", "DDoS", "情報漏えい", "情報流出", "通信障害", "システム障害", "つながりにくい",
+                  "決済", "支払いできない", "支払いができない", "利用できない", "使えない", "障害", "不具合"]
 # 自分たちに直接関わるサイバー攻撃・障害（大阪市を「注意」にする）
 #   1) 大阪・関西のライフラインなどへの攻撃や障害（情報流出だけのものは含めない）
 #   2) 携帯会社・LINEの通信障害（住んでいる場所に関係なく連絡に響く）
@@ -442,7 +446,7 @@ def main():
         "nankai": lambda: collect_news(NANKAI_FEEDS, ["南海トラフ"], 6, 24 * 7),
         "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48, OUTAGE_PLACES),
         "japan": lambda: collect_news(JAPAN_FEEDS, JAPAN_KEYWORDS, 6, 48),
-        "cyber": lambda: collect_news(CYBER_FEEDS, CYBER_KEYWORDS, 10, 48),
+        "cyber": lambda: collect_news(CYBER_FEEDS, CYBER_KEYWORDS, 15, 48),
         "osaka": lambda: collect_news(OSAKA_FEEDS, OSAKA_RED + OSAKA_YELLOW, 6, 48, OSAKA_PLACES),
     }
     for key, fn in jobs.items():
