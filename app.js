@@ -279,9 +279,11 @@ document.querySelectorAll("#ward .chip").forEach(c => c.onclick = () => { ward =
 
 /* ---------- 情報（警報・地震・停電・国際ニュース） ---------- */
 // GitHub Actions が30分ごとに data/info.json を更新する。最新はリポジトリから直接読む
+// 1つ目：GitHubのAPI（配信の遅れがほぼない）。回数制限に当たった時は2つ目以降を使う
 const INFO_URLS = [
-  "https://raw.githubusercontent.com/june08245/anpi/main/data/info.json",
-  "data/info.json"
+  { url: "https://api.github.com/repos/june08245/anpi/contents/data/info.json?ref=main", headers: { Accept: "application/vnd.github.raw+json" } },
+  { url: "https://raw.githubusercontent.com/june08245/anpi/main/data/info.json" },
+  { url: "data/info.json" }
 ];
 const fmtAt = s => { if (!s) return ""; const d = new Date(s); return isNaN(d) ? s : hm(d.getTime()); };
 function infoRow(title, meta, link) {
@@ -574,9 +576,10 @@ async function loadInfo(force) {
   if (cached && !infoLoadedAt) renderInfo(cached, true);
   const livePromise = fetchJMA();
   let news = null;
-  for (const url of INFO_URLS) {
+  for (const src of INFO_URLS) {
     try {
-      const r = await fetch(url + "?t=" + Math.floor(Date.now() / 60e3), { cache: "no-store" });
+      const sep = src.url.includes("?") ? "&" : "?";
+      const r = await fetch(src.url + sep + "t=" + Math.floor(Date.now() / 60e3), { cache: "no-store", headers: src.headers || {} });
       if (!r.ok) continue;
       const n = await r.json();
       if (cached && cached.updated && n.updated && n.updated < cached.updated) continue;
