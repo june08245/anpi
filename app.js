@@ -450,6 +450,9 @@ async function fetchJMA() {
 
 // 判定（scripts/fetch_info.py と同じ基準）
 const within = (at, h) => { const t = new Date(at).getTime(); return !isNaN(t) && Date.now() - t <= h * 3600e3; };
+// 「Jアラートの訓練」「爆発を想定」のような見出しで緊急にしないための除外語（scripts/fetch_info.py と同じ）
+const RED_EXCLUDE = ["偽", "誤報", "誤って", "訓練", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"];
+const realOnly = list => list.filter(n => !RED_EXCLUDE.some(x => n.title.includes(x)));
 const newsHits = (list, words, h = 24) => (list || []).filter(n => within(n.at, h) && words.some(w => n.title.includes(w)));
 const result = (red, yel, ok) => red.length ? { level: "red", reasons: [...red, ...yel] } : yel.length ? { level: "yellow", reasons: yel } : { level: "green", reasons: [ok] };
 // 自分たちに直接関わるサイバー攻撃・障害（scripts/fetch_info.py の local_cyber と同じ基準）
@@ -475,7 +478,7 @@ function assessOsaka(info) {
   }
   const out = newsHits(info.outage, ["停電"]);
   if (out.length) yel.push(`停電の報道（${out[0].title.slice(0, 30)}）`);
-  const lr = newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"]);
+  const lr = realOnly(newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"]));
   if (lr.length) red.push(`「${lr[0].title.slice(0, 40)}」`);
   else { const ly = newsHits(info.osaka, ["断水", "大規模火災", "延焼", "高齢者等避難"]); if (ly.length) yel.push(`「${ly[0].title.slice(0, 40)}」`); }
   pushNankai(info, red, yel);
@@ -499,7 +502,7 @@ function assessJapan(info) {
     else if (q.maxiRank >= 5) yel.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`);
   }
   pushNankai(info, red, yel);
-  const ja = newsHits(info.japan, ["Jアラート", "国民保護"], 12);
+  const ja = realOnly(newsHits(info.japan, ["Jアラート", "国民保護"], 12));
   if (ja.length) red.push(`「${ja[0].title.slice(0, 40)}」`);
   else { const mi = newsHits(info.japan, ["弾道ミサイル"]); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
   return result(red, yel, "大きな地震やミサイルの報道なし");

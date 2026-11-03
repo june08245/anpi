@@ -93,6 +93,8 @@ CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つなが�
 # 世界：直近24時間のニュース見出しに出てくる言葉で判定
 WORLD_RED = ["核攻撃", "核兵器を使用", "核兵器使用", "全面戦争", "宣戦布告", "日本を攻撃", "在日米軍基地を攻撃", "在日米軍基地に攻撃",
              "台湾に侵攻", "台湾を攻撃", "台湾へ攻撃", "台湾に上陸"]
+# 「核攻撃の偽警報」「核攻撃を想定した訓練」のような見出しで緊急にしないための除外語
+RED_EXCLUDE = ["偽", "誤報", "誤って", "訓練", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"]
 WORLD_YELLOW = ["攻撃", "空爆", "爆撃", "軍事衝突", "交戦", "報復", "ミサイル", "封鎖", "侵攻", "大規模演習"]
 
 
@@ -217,7 +219,7 @@ def parse_rss(xml_bytes):
 
 
 def norm(t):
-    return re.sub(r"[\s　「」『』【】（）()、。・:：]", "", t)[:40]
+    return re.sub(r"[\s　「」『』【】（）()〈〉“”\"'、。・:：,，]", "", t)[:24]
 
 
 def collect_news(feeds, keywords, limit, max_age_h, must=None, extra=None):
@@ -266,7 +268,7 @@ def hits(news, words, now, hours=24):
 
 
 def assess_world(r, now):
-    red = hits(r.get("world"), WORLD_RED, now)
+    red = [n for n in hits(r.get("world"), WORLD_RED, now) if not any(x in n["title"] for x in RED_EXCLUDE)]
     if red:
         return {"level": "red", "reasons": [f"「{red[0]['title'][:40]}」などの報道"], "items": red[:3]}
     reasons, items = [], []
@@ -326,7 +328,7 @@ def assess_japan(r, now):
     elif nl == "yellow":
         yel.append(nr)
     jn = r.get("japan") or []
-    ja = hits(jn, ["Jアラート", "国民保護"], now, 12)
+    ja = [n for n in hits(jn, ["Jアラート", "国民保護"], now, 12) if not any(x in n["title"] for x in RED_EXCLUDE)]
     if ja:
         red.append(f"「{ja[0]['title'][:40]}」")
     else:
@@ -372,7 +374,7 @@ def assess_osaka(r, now):
     if out:
         yel.append(f"停電の報道（{out[0]['title'][:30]}）")
     loc = r.get("osaka") or []
-    lr = hits(loc, OSAKA_RED, now, 24)
+    lr = [n for n in hits(loc, OSAKA_RED, now, 24) if not any(x in n["title"] for x in RED_EXCLUDE)]
     if lr:
         red.append(f"「{lr[0]['title'][:40]}」")
     else:
