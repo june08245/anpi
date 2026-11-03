@@ -72,6 +72,7 @@ OSAKA_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("大阪市 避難指示 OR 断水 OR 大規模火災 OR 爆発 OR テロ when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
 OSAKA_PLACES = ["大阪市", "生野", "旭区", "大阪・", "大阪の", "大阪で", "大阪市内"]
+OSAKA_CITY_STRICT = ["大阪市", "生野", "旭区"]  # 緊急にするのは大阪市内とはっきり分かる時だけ
 OSAKA_RED = ["避難指示", "緊急安全確保", "テロ", "爆発"]
 OSAKA_YELLOW = ["断水", "大規模火災", "延焼", "高齢者等避難"]
 
@@ -95,7 +96,7 @@ CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つなが�
 WORLD_RED = ["核攻撃", "核兵器を使用", "核兵器使用", "全面戦争", "宣戦布告", "日本を攻撃", "在日米軍基地を攻撃", "在日米軍基地に攻撃",
              "台湾に侵攻", "台湾を攻撃", "台湾へ攻撃", "台湾に上陸"]
 # 「核攻撃の偽警報」「核攻撃を想定した訓練」のような見出しで緊急にしないための除外語
-RED_EXCLUDE = ["回避", "避け", "防ぐ", "阻止", "食い止め", "偽", "誤報", "誤って", "訓練", "試験", "テスト", "？", "?", "のか", "か｜", "へ突入か", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"]
+RED_EXCLUDE = ["危険なし", "被害なし", "けが人なし", "異常なし", "回避", "避け", "防ぐ", "阻止", "食い止め", "偽", "誤報", "誤って", "訓練", "試験", "テスト", "？", "?", "のか", "か｜", "へ突入か", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"]
 WORLD_YELLOW = ["攻撃", "空爆", "爆撃", "軍事衝突", "交戦", "報復", "ミサイル", "封鎖", "侵攻", "大規模演習"]
 
 
@@ -379,7 +380,8 @@ def assess_osaka(r, now):
     if out:
         yel.append(f"停電の報道（{out[0]['title'][:30]}）")
     loc = r.get("osaka") or []
-    lr = [n for n in hits(loc, OSAKA_RED, now, 24) if not any(x in n["title"] for x in RED_EXCLUDE)]
+    lr = [n for n in hits(loc, OSAKA_RED, now, 24)
+          if not any(x in n["title"] for x in RED_EXCLUDE) and any(p in n["title"] for p in OSAKA_CITY_STRICT)]
     if lr:
         red.append(f"「{lr[0]['title'][:40]}」")
     else:

@@ -487,7 +487,7 @@ async function fetchJMA() {
 // 判定（scripts/fetch_info.py と同じ基準）
 const within = (at, h) => { const t = new Date(at).getTime(); return !isNaN(t) && Date.now() - t <= h * 3600e3; };
 // 「Jアラートの訓練」「爆発を想定」のような見出しで緊急にしないための除外語（scripts/fetch_info.py と同じ）
-const RED_EXCLUDE = ["回避", "避け", "防ぐ", "阻止", "食い止め", "偽", "誤報", "誤って", "訓練", "試験", "テスト", "？", "?", "のか", "か｜", "へ突入か", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"];
+const RED_EXCLUDE = ["危険なし", "被害なし", "けが人なし", "異常なし", "回避", "避け", "防ぐ", "阻止", "食い止め", "偽", "誤報", "誤って", "訓練", "試験", "テスト", "？", "?", "のか", "か｜", "へ突入か", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"];
 const realOnly = list => list.filter(n => !RED_EXCLUDE.some(x => n.title.includes(x)));
 const newsHits = (list, words, h = 24) => (list || []).filter(n => within(n.at, h) && words.some(w => n.title.includes(w)));
 const result = (red, yel, ok, urgent = []) => red.length ? { level: "red", reasons: [...red, ...yel], urgent } : yel.length ? { level: "yellow", reasons: yel } : { level: "green", reasons: [ok] };
@@ -521,7 +521,8 @@ function assessOsaka(info) {
   }
   const out = newsHits(info.outage, ["停電"]);
   if (out.length) yel.push(`停電の報道（${out[0].title.slice(0, 30)}）`);
-  const lr = realOnly(newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"]));
+  // 緊急にするのは大阪市内とはっきり分かる時だけ
+  const lr = realOnly(newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"])).filter(n => ["大阪市", "生野", "旭区"].some(p => n.title.includes(p)));
   if (lr.length) { red.push(`「${lr[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(lr[0])); }
   else { const ly = newsHits(info.osaka, ["断水", "大規模火災", "延焼", "高齢者等避難"]); if (ly.length) yel.push(`「${ly[0].title.slice(0, 40)}」`); }
   pushNankai(info, red, yel, urgent);
