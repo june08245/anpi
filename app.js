@@ -220,8 +220,7 @@ function emptyRow(box, text) { const p = document.createElement("p"); p.classNam
 function renderInfo(info, fromCache) {
   if (!info) return;
   const t = $("#infoTime");
-  t.textContent = (info.updated ? `${fmtAt(info.updated)} 時点` : "") + (fromCache ? "（保存していた情報）" : "")
-    + (info.errors && info.errors.length ? "・一部取得できず前回の内容" : "");
+  t.textContent = timeLine(info) + (fromCache ? "（保存していた情報）" : "");
 
   // 警報・注意報
   const w = $("#infoWarn"); w.innerHTML = "";
@@ -275,13 +274,128 @@ function renderStatus(info) {
     card.querySelector(".sreason").textContent = s ? (s.reasons || []).slice(0, 2).join("／") : "";
   }
   const t = $("#stTime");
-  if (!info.updated) { t.textContent = "まだ情報がありません"; return; }
-  const old = Date.now() - new Date(info.updated).getTime() > 3 * 3600e3;
-  t.textContent = `${fmtAt(info.updated)} 時点` + (old ? "（3時間以上前の情報です。ネットにつながったら更新されます）" : "")
-    + "・ニュースの見出しなどから自動で判定した目安です。押すと詳しく見られます";
+  const newest = Math.max(info.live && info.live.at || 0, info.updated ? new Date(info.updated).getTime() : 0);
+  if (!newest) { t.textContent = "まだ情報がありません"; return; }
+  const old = Date.now() - newest > 3 * 3600e3;
+  t.textContent = timeLine(info) + (old ? "（3時間以上前の情報です。ネットにつながったら更新されます）" : "")
+    + "・自動で判定した目安です。押すと詳しく見られます";
   t.classList.toggle("stale", old);
 }
+function timeLine(info) {
+  const parts = [];
+  if (info.live && info.live.at) parts.push(`警報・地震 ${hm(info.live.at)}（気象庁から直接）`);
+  if (info.updated) parts.push(`ニュース ${fmtAt(info.updated)} 時点`);
+  return parts.join("／");
+}
 for (const id of ["#stOsaka", "#stJapan", "#stWorld"]) $(id).onclick = e => { e.preventDefault(); openTab("info"); };
+
+/* 気象庁から警報・地震を直接取る（GitHubの定時実行が遅れても最新になるように） */
+const JMA_WARN = ["https://www.jma.go.jp/bosai/warning/data/r8/270000.json", "https://www.jma.go.jp/bosai/warning/data/warning/270000.json"];
+const JMA_QUAKE = "https://www.jma.go.jp/bosai/quake/data/list.json";
+const OSAKA_CITY = "2710000", OSAKA_PREF_INT = "27";
+const WARN_CODES = {
+  "32": ["暴風雪特別警報", 5], "33": ["大雨特別警報", 5], "34": ["氾濫特別警報", 5], "35": ["暴風特別警報", 5], "36": ["大雪特別警報", 5],
+  "37": ["波浪特別警報", 5], "38": ["高潮特別警報", 5], "39": ["土砂災害特別警報", 5],
+  "43": ["大雨危険警報", 4], "44": ["氾濫危険警報", 4], "48": ["高潮危険警報", 4], "49": ["土砂災害危険警報", 4],
+  "02": ["暴風雪警報", 3], "03": ["大雨警報", 3], "04": ["氾濫警報", 3], "05": ["暴風警報", 3], "06": ["大雪警報", 3],
+  "07": ["波浪警報", 3], "08": ["高潮警報", 3], "09": ["土砂災害警報", 3],
+  "10": ["大雨注意報", 2], "12": ["大雪注意報", 2], "13": ["風雪注意報", 2], "14": ["雷注意報", 2], "15": ["強風注意報", 2],
+  "16": ["波浪注意報", 2], "17": ["融雪注意報", 2], "18": ["氾濫注意報", 2], "19": ["高潮注意報", 2], "20": ["濃霧注意報", 2],
+  "21": ["乾燥注意報", 2], "22": ["なだれ注意報", 2], "23": ["低温注意報", 2], "24": ["霜注意報", 2], "25": ["着氷注意報", 2],
+  "26": ["着雪注意報", 2], "27": ["その他の注意報", 2], "29": ["土砂災害注意報", 2]
+};
+const SHINDO_RANK = { "1": 1, "2": 2, "3": 3, "4": 4, "5-": 5, "5+": 6, "6-": 7, "6+": 8, "7": 9 };
+const shindoLabel = x => ({ "5-": "5弱", "5+": "5強", "6-": "6弱", "6+": "6強" })[x] || x || "";
+
+function kindsToList(kinds) {
+  const out = [];
+  for (const k of kinds || []) {
+    const code = String(k.code || ""), st = k.status || "";
+    if (!code || st === "解除" || st === "発表警報・注意報はなし") continue;
+    const [name, level] = WARN_CODES[code] || [`警報・注意報（コード${code}）`, 2];
+    out.push({ code, name, level });
+  }
+  return out;
+}
+function parseWarnings(data) {
+  let items = [], headline = "", reported = "";
+  if (Array.isArray(data)) {
+    for (const m of data) {
+      if (m.reportDatetime && m.reportDatetime > reported) { reported = m.reportDatetime; headline = (m.headlineText || "").trim() || headline; }
+      for (const it of (m.warning && m.warning.class20Items) || []) if (String(it.areaCode) === OSAKA_CITY) items.push(...kindsToList(it.kinds));
+    }
+  } else if (data && data.areaTypes) {
+    reported = data.reportDatetime; headline = (data.headlineText || "").trim();
+    for (const at of data.areaTypes) for (const a of at.areas || []) if (String(a.code) === OSAKA_CITY) items.push(...kindsToList(a.warnings));
+  } else throw new Error("unknown format");
+  const uniq = Object.values(Object.fromEntries(items.map(i => [i.code, i]))).sort((a, b) => b.level - a.level || a.code.localeCompare(b.code));
+  return { area: "大阪市", items: uniq, headline: headline.slice(0, 300), reported };
+}
+function parseQuakes(data) {
+  const out = [], seen = new Set();
+  for (const q of data || []) {
+    if (!q || !q.anm || !q.at) continue;
+    const id = q.eid || q.at; if (seen.has(id)) continue; seen.add(id);
+    const osaka = ((q.int || []).find(p => String(p.code) === OSAKA_PREF_INT) || {}).maxi || "";
+    out.push({ at: q.at, place: q.anm, mag: q.mag || "", maxi: shindoLabel(q.maxi), maxiRank: SHINDO_RANK[q.maxi] || 0,
+      osaka: shindoLabel(osaka), osakaRank: SHINDO_RANK[osaka] || 0 });
+    if (out.length >= 8) break;
+  }
+  return out;
+}
+async function getJSON(url) {
+  const r = await fetch(url + "?_=" + Math.floor(Date.now() / 30e3), { cache: "no-store" });
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+}
+async function fetchJMA() {
+  const live = { at: Date.now() };
+  for (const u of JMA_WARN) { try { live.warnings = parseWarnings(await getJSON(u)); break; } catch {} }
+  try { live.quakes = parseQuakes(await getJSON(JMA_QUAKE)); } catch {}
+  return (live.warnings || live.quakes) ? live : null;
+}
+
+// 判定（scripts/fetch_info.py と同じ基準）
+const within = (at, h) => { const t = new Date(at).getTime(); return !isNaN(t) && Date.now() - t <= h * 3600e3; };
+const newsHits = (list, words, h = 24) => (list || []).filter(n => within(n.at, h) && words.some(w => n.title.includes(w)));
+const result = (red, yel, ok) => red.length ? { level: "red", reasons: [...red, ...yel] } : yel.length ? { level: "yellow", reasons: yel } : { level: "green", reasons: [ok] };
+function assessOsaka(info) {
+  const red = [], yel = [];
+  for (const w of (info.warnings && info.warnings.items) || []) { if (w.level >= 4) red.push(w.name); else if (w.level === 3) yel.push(w.name); }
+  for (const q of info.quakes || []) {
+    if (!within(q.at, 24)) continue;
+    if (q.osakaRank >= 5) red.push(`震度${q.osaka}の地震（${fmtAt(q.at)}）`);
+    else if (q.osakaRank === 4) yel.push(`震度4の地震（${fmtAt(q.at)}）`);
+  }
+  const out = newsHits(info.outage, ["停電"]);
+  if (out.length) yel.push(`停電の報道（${out[0].title.slice(0, 30)}）`);
+  const lr = newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"]);
+  if (lr.length) red.push(`「${lr[0].title.slice(0, 40)}」`);
+  else { const ly = newsHits(info.osaka, ["断水", "大規模火災", "延焼", "高齢者等避難"]); if (ly.length) yel.push(`「${ly[0].title.slice(0, 40)}」`); }
+  return result(red, yel, "警報なし・大きな揺れや停電の報道なし");
+}
+function assessJapan(info) {
+  const red = [], yel = [];
+  for (const q of info.quakes || []) {
+    if (!within(q.at, 24)) continue;
+    if (q.maxiRank >= 7) red.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`);
+    else if (q.maxiRank >= 5) yel.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`);
+  }
+  const ja = newsHits(info.japan, ["Jアラート", "国民保護"], 12);
+  if (ja.length) red.push(`「${ja[0].title.slice(0, 40)}」`);
+  else { const mi = newsHits(info.japan, ["弾道ミサイル"]); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
+  return result(red, yel, "大きな地震やミサイルの報道なし");
+}
+function withLive(news, live) {
+  const info = { ...(news || {}) };
+  if (live) {
+    info.live = { at: live.at };
+    if (live.warnings) info.warnings = live.warnings;
+    if (live.quakes) info.quakes = live.quakes;
+  }
+  info.status = { ...(info.status || {}), osaka: assessOsaka(info), japan: assessJapan(info) };
+  return info;
+}
 
 let infoLoading = false, infoLoadedAt = 0;
 async function loadInfo(force) {
@@ -289,19 +403,28 @@ async function loadInfo(force) {
   infoLoading = true;
   const cached = ls.get("info");
   if (cached && !infoLoadedAt) renderInfo(cached, true);
+  const livePromise = fetchJMA();
+  let news = null;
   for (const url of INFO_URLS) {
     try {
       const r = await fetch(url + "?t=" + Math.floor(Date.now() / 60e3), { cache: "no-store" });
       if (!r.ok) continue;
-      const info = await r.json();
-      if (cached && cached.updated && info.updated && info.updated < cached.updated) continue;
-      ls.set("info", info); renderInfo(info, false); infoLoadedAt = Date.now();
-      break;
+      const n = await r.json();
+      if (cached && cached.updated && n.updated && n.updated < cached.updated) continue;
+      news = n; break;
     } catch {}
   }
-  if (!infoLoadedAt && !cached) $("#infoTime").textContent = "情報を取得できませんでした。ネットにつながったら「更新」を押してください";
+  const live = await livePromise;
+  if (news || live) {
+    const base = news || cached || {};
+    const info = withLive(base, live || (news ? null : cached && cached.live && { at: cached.live.at, warnings: cached.warnings, quakes: cached.quakes }));
+    ls.set("info", info); renderInfo(info, false); infoLoadedAt = Date.now();
+  } else if (!cached) {
+    $("#infoTime").textContent = "情報を取得できませんでした。ネットにつながったら「更新」を押してください";
+  }
   infoLoading = false;
 }
+document.addEventListener("visibilitychange", () => { if (!document.hidden) loadInfo(); });
 $("#infoReload").onclick = () => loadInfo(true);
 setInterval(() => loadInfo(true), 15 * 60e3);
 addEventListener("online", () => loadInfo(true));
