@@ -10,7 +10,7 @@
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="ふたりの安否">
-<link rel="stylesheet" href="style.css?v=23">
+<link rel="stylesheet" href="style.css?v=24">
 </head>
 <body>
 <div class="wrap">
@@ -59,6 +59,11 @@
       </a>
       <p class="sub stime" id="stTime">情報を読み込んでいます</p>
     </section>
+    <a class="weather" id="weather" href="https://www.jma.go.jp/bosai/forecast/#area_type=offices&amp;area_code=270000" target="_blank" rel="noopener" hidden>
+      <span class="wxhead"><b>大阪の天気</b><small>気象庁</small></span>
+      <span class="wxdays" id="wxDays"></span>
+    </a>
+
     <section class="panel" aria-label="安否を送る">
       <h2>いまの状態を送る</h2>
       <div class="btns">
@@ -153,6 +158,9 @@
       </div>
 
       <h3 class="grp" id="grpOsaka">大阪市</h3>
+      <h2>週間天気予報</h2>
+      <div id="weekWeather" class="wkscroll"></div>
+
       <h2>警報・注意報</h2>
       <div id="infoWarn" class="ilist"></div>
 
@@ -210,6 +218,6 @@
     </section>
   </main>
 </div>
-<script type="module" src="app.js?v=23"></script>
+<script type="module" src="app.js?v=24"></script>
 </body>
 </html>

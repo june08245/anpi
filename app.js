@@ -360,11 +360,56 @@ function renderInfo(info, fromCache) {
   for (const n of (info.nankai || [])) nk.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
   if (!nk.children.length) emptyRow(nk, info.nankai ? "ここ1週間、該当するニュースはありません" : "次の更新から表示されます");
 
+  renderWeather(info.forecast);
   renderStatus(info);
 }
 
 // 「大阪市」「日本」「世界」の状況を 安全／注意／緊急 で表示する（判定は scripts/fetch_info.py）
 const LEVEL = { green: "安全", yellow: "注意", red: "緊急" };
+const WD = ["日", "月", "火", "水", "木", "金", "土"];
+function dayLabel(t, i) {
+  const d = new Date(t), today = dateKey(Date.now()), tm = dateKey(Date.now() + 864e5), da = dateKey(Date.now() + 2 * 864e5);
+  const k = dateKey(t);
+  const rel = k === today ? "今日" : k === tm ? "明日" : k === da ? "明後日" : "";
+  return { rel, md: `${d.getMonth() + 1}/${d.getDate()}(${WD[d.getDay()]})` };
+}
+function renderWeather(fc) {
+  const box = $("#weather"), wk = $("#weekWeather");
+  if (!fc || !fc.days || !fc.days.length) { box.hidden = true; if (wk) { wk.innerHTML = ""; emptyRow(wk, "取得できていません"); } return; }
+  const rows = $("#wxDays"); rows.innerHTML = "";
+  for (const [i, d] of fc.days.slice(0, 3).entries()) {
+    const l = dayLabel(d.date, i);
+    const pmax = d.pops && d.pops.length ? Math.max(...d.pops.map(p => p.p)) : null;
+    const el = document.createElement("div"); el.className = "wxday";
+    el.innerHTML = '<span class="wxd"><b></b><small></small></span><span class="wxicon" aria-hidden="true"></span><span class="wxt"></span><span class="wxtemp"></span><span class="wxpop"></span>';
+    el.querySelector(".wxd b").textContent = l.rel || l.md;
+    el.querySelector(".wxd small").textContent = l.rel ? l.md : "";
+    el.querySelector(".wxicon").className = "wxicon " + wxKind(d.code);
+    el.querySelector(".wxt").textContent = wxName(d.code, d.text);
+    el.querySelector(".wxtemp").innerHTML = (d.max != null ? `<span class="hi">${d.max}°</span>` : "") + (d.min != null ? `<span class="lo">${d.min}°</span>` : "");
+    el.querySelector(".wxpop").textContent = pmax != null ? `☂ ${pmax}%` : "";
+    if (pmax != null && pmax >= 50) el.querySelector(".wxpop").classList.add("wet");
+    rows.appendChild(el);
+  }
+  box.hidden = false;
+  // 週間予報（情報タブ）
+  if (wk) {
+    wk.innerHTML = "";
+    const list = (fc.week || []).filter(d => d.code);
+    if (!list.length) emptyRow(wk, "取得できていません");
+    for (const [i, d] of list.entries()) {
+      const l = dayLabel(d.date, i);
+      const c = document.createElement("div"); c.className = "wkday";
+      c.innerHTML = '<b></b><span class="wxicon" aria-hidden="true"></span><span class="wkt"></span><span class="wktemp"></span><span class="wkpop"></span>';
+      c.querySelector("b").textContent = l.md;
+      c.querySelector(".wxicon").className = "wxicon " + wxKind(d.code);
+      c.querySelector(".wkt").textContent = wxName(d.code);
+      c.querySelector(".wktemp").textContent = [d.max != null ? d.max + "°" : "", d.min != null ? d.min + "°" : ""].filter(Boolean).join(" / ");
+      c.querySelector(".wkpop").textContent = d.pop != null ? `☂ ${d.pop}%` : "";
+      wk.appendChild(c);
+    }
+  }
+}
 function renderHeadline(st) {
   const box = $("#headline"), list = $("#headlineList");
   const items = [], seen = new Set();
@@ -479,11 +524,79 @@ async function getJSON(url) {
   if (!r.ok) throw new Error(r.status);
   return r.json();
 }
+/* 大阪の天気予報（気象庁） */
+const JMA_FORECAST = "https://www.jma.go.jp/bosai/forecast/data/forecast/270000.json";
+const JMA_FORECAST_PAGE = "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=270000";
+const OSAKA_FC_AREA = "270000", OSAKA_TEMP_AREA = "62078"; // 大阪府の予報区、大阪（気温の地点）
+const WX_NAMES = {
+  100: "晴れ", 101: "晴れ時々くもり", 102: "晴れ一時雨", 103: "晴れ時々雨", 104: "晴れ一時雪", 110: "晴れのちくもり", 111: "晴れのちくもり",
+  112: "晴れのち雨", 113: "晴れのち雨", 114: "晴れのち雨", 115: "晴れのち雪",
+  200: "くもり", 201: "くもり時々晴れ", 202: "くもり一時雨", 203: "くもり時々雨", 204: "くもり一時雪", 210: "くもりのち晴れ", 211: "くもりのち晴れ",
+  212: "くもりのち雨", 213: "くもりのち雨", 214: "くもりのち雨", 215: "くもりのち雪",
+  300: "雨", 301: "雨時々晴れ", 302: "雨時々止む", 303: "雨時々雪", 308: "大雨", 311: "雨のち晴れ", 313: "雨のちくもり", 314: "雨のち雪",
+  400: "雪", 401: "雪時々晴れ", 402: "雪時々止む", 403: "雪時々雨", 411: "雪のち晴れ", 413: "雪のちくもり", 414: "雪のち雨"
+};
+function wxName(code, text) {
+  const c = +code;
+  if (WX_NAMES[c]) return WX_NAMES[c];
+  if (text) return text.replace(/[\s　]+/g, " ").trim();
+  return { 1: "晴れ", 2: "くもり", 3: "雨", 4: "雪" }[Math.floor(c / 100)] || "—";
+}
+const wxKind = code => ({ 1: "sun", 2: "cloud", 3: "rain", 4: "snow" }[Math.floor(+code / 100)] || "cloud");
+const dateKey = t => { const d = new Date(t); return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`; };
+function parseForecast(data) {
+  const out = { days: [], week: [] };
+  const short = data && data[0], week = data && data[1];
+  if (!short || !short.timeSeries) throw new Error("format");
+  // 天気（今日・明日・明後日）
+  const ts0 = short.timeSeries[0], a0 = (ts0.areas || []).find(a => a.area && a.area.code === OSAKA_FC_AREA) || (ts0.areas || [])[0];
+  (ts0.timeDefines || []).forEach((t, i) => out.days.push({ date: t, code: a0.weatherCodes && a0.weatherCodes[i], text: a0.weathers && a0.weathers[i], wind: a0.winds && a0.winds[i] }));
+  // 降水確率（6時間ごと）→ 日ごとの最大と、時間帯の一覧
+  const ts1 = short.timeSeries[1], a1 = ts1 && ((ts1.areas || []).find(a => a.area && a.area.code === OSAKA_FC_AREA) || ts1.areas[0]);
+  if (a1) (ts1.timeDefines || []).forEach((t, i) => {
+    const day = out.days.find(d => dateKey(d.date) === dateKey(t)); const p = a1.pops && a1.pops[i];
+    if (!day || p === "" || p == null) return;
+    (day.pops = day.pops || []).push({ t, p: +p });
+  });
+  // 気温（00:00は最低、09:00は最高）
+  const ts2 = short.timeSeries[2], a2 = ts2 && ((ts2.areas || []).find(a => a.area && a.area.code === OSAKA_TEMP_AREA) || ts2.areas[0]);
+  if (a2) (ts2.timeDefines || []).forEach((t, i) => {
+    const day = out.days.find(d => dateKey(d.date) === dateKey(t)); const v = a2.temps && a2.temps[i];
+    if (!day || v === "" || v == null) return;
+    if (new Date(t).getHours() === 0) day.min = +v; else day.max = +v;
+  });
+  // 週間予報
+  if (week && week.timeSeries) {
+    const w0 = week.timeSeries[0], wa = (w0.areas || []).find(a => a.area && a.area.code === OSAKA_FC_AREA) || (w0.areas || [])[0];
+    const w1 = week.timeSeries[1], wt = w1 && ((w1.areas || []).find(a => a.area && a.area.code === OSAKA_TEMP_AREA) || w1.areas[0]);
+    (w0.timeDefines || []).forEach((t, i) => out.week.push({
+      date: t, code: wa.weatherCodes && wa.weatherCodes[i], pop: wa.pops && wa.pops[i] !== "" ? +wa.pops[i] : null,
+      min: wt && wt.tempsMin && wt.tempsMin[i] !== "" ? +wt.tempsMin[i] : null, max: wt && wt.tempsMax && wt.tempsMax[i] !== "" ? +wt.tempsMax[i] : null
+    }));
+  }
+  // 足りない気温・降水確率を、もう片方（3日間／週間）で埋める
+  for (const d of out.days) {
+    const w = out.week.find(x => dateKey(x.date) === dateKey(d.date)); if (!w) continue;
+    if (d.max == null && w.max != null) d.max = w.max;
+    if (d.min == null && w.min != null) d.min = w.min;
+    if (!d.pops && w.pop != null) d.pops = [{ t: w.date, p: w.pop }];
+  }
+  for (const w of out.week) {
+    const d = out.days.find(x => dateKey(x.date) === dateKey(w.date)); if (!d) continue;
+    if (w.max == null && d.max != null) w.max = d.max;
+    if (w.min == null && d.min != null) w.min = d.min;
+    if (w.pop == null && d.pops) w.pop = Math.max(...d.pops.map(p => p.p));
+  }
+  out.reported = short.reportDatetime;
+  return out;
+}
+
 async function fetchJMA() {
   const live = { at: Date.now() };
+  try { live.forecast = parseForecast(await getJSON(JMA_FORECAST)); } catch {}
   for (const u of JMA_WARN) { try { live.warnings = parseWarnings(await getJSON(u)); break; } catch {} }
   try { live.quakes = parseQuakes(await getJSON(JMA_QUAKE)); } catch {}
-  return (live.warnings || live.quakes) ? live : null;
+  return (live.warnings || live.quakes || live.forecast) ? live : null;
 }
 
 // 判定（scripts/fetch_info.py と同じ基準）
@@ -563,6 +676,7 @@ function withLive(news, live) {
     info.live = { at: live.at };
     if (live.warnings) info.warnings = live.warnings;
     if (live.quakes) info.quakes = live.quakes;
+    if (live.forecast) info.forecast = live.forecast;
   }
   info.status = { ...(info.status || {}), osaka: assessOsaka(info), japan: assessJapan(info) };
   return info;
@@ -590,6 +704,7 @@ async function loadInfo(force) {
   if (news || live) {
     const base = news || cached || {};
     const info = withLive(base, live || (news ? null : cached && cached.live && { at: cached.live.at, warnings: cached.warnings, quakes: cached.quakes }));
+    if (!info.forecast && cached && cached.forecast) info.forecast = cached.forecast; // 取れなかった時は前回の予報を使う
     ls.set("info", info); renderInfo(info, false); infoLoadedAt = Date.now();
   } else if (!cached) {
     $("#infoTime").textContent = "情報を取得できませんでした。ネットにつながったら「更新」を押してください";
