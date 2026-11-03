@@ -99,19 +99,40 @@ function splitShelter(str) {
 // 「家で無事」のまま現在地を送ると矛盾するので、位置付きの無事は「外で無事」と表示する
 const stateLabel = st => st.state === "ok" && splitShelter(st.shelter).loc ? "外で無事" : (LABEL[st.state] || "");
 const mapUrl = loc => `https://maps.google.com/?q=${loc.lat.toFixed(5)},${loc.lng.toFixed(5)}`;
+// 古い位置（地下鉄に乗る前の場所など）を使わないよう、押した後に取れた位置だけを使う。
+// 12秒まで待って、いちばん精度のよい位置を送る。
+const LOC_LABEL = "今ここにいる（現在地を送る）";
 function sendLocation() {
   const last = ls.get("last");
   if (!last) return toast("先に上の3つのボタンのどれかで、いまの状態を送ってください");
   if (!navigator.geolocation) return toast("この端末では現在地を取れません");
   const b = $("#locBtn"); b.disabled = true; b.textContent = "現在地を調べています…";
-  navigator.geolocation.getCurrentPosition(pos => {
-    myLoc = { lat: pos.coords.latitude, lng: pos.coords.longitude, acc: pos.coords.accuracy, t: Date.now() };
-    ls.set("loc", myLoc); b.disabled = false; b.textContent = "今ここにいる（現在地を送る）";
-    send(last.state, true, true);
-  }, err => {
-    b.disabled = false; b.textContent = "今ここにいる（現在地を送る）";
-    toast(err.code === 1 ? "位置情報の利用が許可されていません。iPhoneは「設定」→「プライバシーとセキュリティ」→「位置情報サービス」で許可してください" : "現在地を取れませんでした。外に近い場所でもう一度押してください");
-  }, { enableHighAccuracy: true, timeout: 20000, maximumAge: 60000 });
+  const start = Date.now();
+  let best = null, done = false, watchId = null, timer = null;
+  const finish = (err) => {
+    if (done) return; done = true;
+    if (watchId != null) navigator.geolocation.clearWatch(watchId);
+    clearTimeout(timer);
+    b.disabled = false; b.textContent = LOC_LABEL;
+    if (best) {
+      myLoc = best; ls.set("loc", myLoc);
+      const acc = Math.round(best.acc);
+      const extra = acc > 100 ? `・誤差 約${acc}m。地下や建物の奥では大きくずれることがあります。地図で確かめてください` : `・誤差 約${acc}m`;
+      send(last.state, true, true, extra);
+    } else if (err && err.code === 1) {
+      toast("位置情報の利用が許可されていません。iPhoneは「設定」→「プライバシーとセキュリティ」→「位置情報サービス」→「Safari Webサイト」で「使用中のみ」にしてください");
+    } else {
+      toast("現在地を取れませんでした。地下や建物の奥では取れないことがあります。地上や窓の近くでもう一度押してください");
+    }
+  };
+  watchId = navigator.geolocation.watchPosition(pos => {
+    if (pos.timestamp && pos.timestamp < start - 2000) return; // 押す前の古い位置は使わない
+    const p = { lat: pos.coords.latitude, lng: pos.coords.longitude, acc: pos.coords.accuracy, t: pos.timestamp || Date.now() };
+    if (!best || p.acc < best.acc) best = p;
+    b.textContent = `現在地を調べています…（誤差 約${Math.round(best.acc)}m）`;
+    if (best.acc <= 30) finish();
+  }, err => { if (err.code === 1) finish(err); }, { enableHighAccuracy: true, maximumAge: 0, timeout: 12000 });
+  timer = setTimeout(() => finish(), 12000);
 }
 function clearLocation() {
   myLoc = null; ls.del("loc");
@@ -135,7 +156,7 @@ function smsText(st = ls.get("last")) {
 $("#copyBtn").onclick = e => copyText($("#smsText").textContent, e.target, "文をコピー");
 
 /* ---------- 安否送信 ---------- */
-async function send(state, keepNote, withLoc) {
+async function send(state, keepNote, withLoc, extra = "") {
   // 「家で無事」を押した時は、家の場所を送らないよう現在地を消す
   if (state === "ok" && !withLoc && myLoc) { myLoc = null; ls.del("loc"); }
   const battery = await readBattery();
@@ -147,7 +168,7 @@ async function send(state, keepNote, withLoc) {
     people[fb.uid] = { ...st, pending: true }; renderPeople();
     // オフラインでも端末に保存され、電波が戻ると自動で送られる
     fb.setDoc(fb.doc(fb.db, roomPath, fb.uid), st)
-      .then(() => toast(`送信しました（${hm(st.at)}）`))
+      .then(() => toast(`送信しました（${hm(st.at)}）${extra}`))
       .catch(() => toast("送れませんでした。合言葉や設定を確認してください"));
     if (!navigator.onLine) toast("いまはオフラインです。電波が戻ったら自動で送ります");
   } else {
