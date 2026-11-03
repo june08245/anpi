@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T14:34+09:00",
+ "updated": "2026-11-03T14:48+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-10-30T22:45:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-03T14:40:00+09:00",
+   "place": "千葉県北東部",
+   "mag": "4.7",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-03T14:10:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-01T13:39:00+09:00",
-   "place": "愛知県西部",
-   "mag": "3.6",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -143,12 +143,6 @@
      "at": "2026-11-03T08:42+09:00"
     },
     {
-     "title": "EU｢中ロの支配を許してはならない｣中国のレアアース･インフラ投資や軍民融合の科学調査にEUが警鐘を鳴らす理由",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VDhwTWtjMURFdVZyYi1EU1JYNFdsZHhNTTM1VmhUSHpqb0tNMlFLUE5FVjVPVXhjLURzd2lKV2NmZW4tVmQwVVVCMXFZdk1JLVE?oc=5",
-     "source": "東洋経済オンライン",
-     "at": "2026-11-03T06:00+09:00"
-    },
-    {
      "title": "軍調達ドローンに中国部品、納入元創業者を勾留",
      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DalBWRjA2bzBfMU1ha0hIVWRsZ3lIcmhqM0NnR2dZQ3hRLVJwM2JKUGkzaWxxc1NONmk0ZmVfb1EzZmVrWXc?oc=5",
      "source": "NNAアジア",
@@ -167,6 +161,12 @@
      "at": "2026-11-02T19:12+09:00"
     },
     {
+     "title": "台湾と日本、包括的な貿易取り決め締結を協議＝メディア報道 林佳竜外相、実現に前向き (中央社フォーカス台湾)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFNRaU96Q0xxeGhSczE0dEJ1bnkyUVFjTmUtd0pubmlIbFZnMjRfU2xTbXE1aWJhVUxUYUJQcFU4UDVHS0pDVnM3aU5JaXF0T1ZSd0FVU2NWTEd4c1JmYmFIMU9oNGYzN0hVZGU1RVY3QmgzakVBR3JsMGJUU095b053N3I5bG9JaVdfRGhB?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-02T18:17+09:00"
+    },
+    {
      "title": "中国軍、汚職で幹部空洞化　共産党会議、補充なし",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUTNSN012WWZQQUtkdHFmYWt6bGtaY0ZlLV8zbWcyMU9hVS1FTUdkS0dVOTZFeG0zTzdlQUZpTDI4aDUwX3JnbG4zQV81RTRXWk1uaDI3VGVOUWZXZVJROFVpUDJQemZKSFpTMDd0dERuZ2E0WHU5ejNpRTJOd2tJaWtObkc0V0NLbHfSAY8BQVVfeXFMT21oVjZlMEVrU1R1YXBHdUszWmNWeHhHRGtiMUxYVVVwTHBIVDF1X1J3RkJzbk9MMVA5cHllbElDSU43R1pObWhTZkZGOU81NEVrVjRrdXBpYThEaXBqUXMzTjladG9jMUgyU05yMVRkRkI0VGVJdDJrTTM4QllObzJ0UmFBaEVwd1YwaVRfcEE?oc=5",
      "source": "ｄメニューニュース",
@@ -178,6 +178,18 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮、巡航ミサイル搭載のクラスター弾発射試験実施と発表 「5〜6ヘクタールを焦土化可能」と主張",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vUElHQWs3SXpyb3o0OTNaXzJuRlRvVV84YmU3ODRvUDdpV2p6V0J3SlZ4VDBqUnNfOExTMlNwOGdrTGdUbEY5UlFuZ0F4QQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-03T14:40+09:00"
+    },
+    {
+     "title": "李在明大統領「北朝鮮の三重鉄柵、イノシシも越えにくい」鄭東泳統一相「防疫にはプラス」",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWVMaVFKT1BvQl9WQUdhQzBWXzY4eURiTlJ1Y1UwZkVKbUVGNURLWEhaUWVSckVMUXQ5MXhaX25RY3lFZGdsOFFDRHN2Q2RLYjlrMGl1b0hBRENKQlF5YlZXR3JWakRVUHA2M2RfMWJaVjlsTDhBUmlSakY1eXJDNll2dWVKUFFVcUVoNVpR?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-03T14:24+09:00"
+    },
     {
      "title": "北朝鮮、巡航ミサイルのクラスター弾頭試験と垂直攻撃試験を実施…「標的を壊滅」（中央日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zc21td3M3YWQxekVxV2k2Q3hELVNxLUx5SXh4QklsQURTVEM2dWlFekVMaXVHLXRSdlVWMVRFZm1OSDJIa01EazFuX2RLd2g3RGQtblFhb2dLQ1BPa3Bud2k5Yl96a2VPVUZMU0pmREp2QlVTNElkaldVb25LTW8?oc=5",
@@ -198,21 +210,9 @@
     },
     {
      "title": "北朝鮮が〈20分で1兆円の暗号資産を強奪〉､サイバー攻撃で外貨調達し兵器近代化を加速する｢核だけではない脅威｣",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZGFOMk5iT0p4SlJENEYzS1FtMmNMUjBjNGYyaHhIUVE4RktwU2ZMSTZGRklSOVEwMjdTblhTeHpRWmJBdHFfRkNvbXozdjh4RU5TOXVfY1JITkk?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nZ25oY1RBY3l2ck9pYzN0aTQ4R2ZaZzM2VHBLTGpGV1lCMDUzUlNpOHhVb1plUGpWVDdWUkxSRW5hSlJMUkNxNUd4NW5XT3FFblhYaWlLZ1JVQkNTdGNR?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-03T11:30+09:00"
-    },
-    {
-     "title": "北朝鮮、2隻目の駆逐艦が就役 日本海管轄、核武装化方針",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEhLeEQ2VGpOZUwybmdiWWFpdy1wLVFLZlpmZHlIMlBrY1l6VWlnb1A5X3F6azExY2UxWlFlb2xtWFVUSUltUS1wck9yMkZCTjdReWtzT2NDemJwN1VoOWRGY1ZsMDRaLU8zVHFPcEFrSlczZThTS1lHNDBHZENhbGRRbUlucEJP?oc=5",
-     "source": "北海道新聞デジタル",
-     "at": "2026-11-03T10:58+09:00"
-    },
-    {
-     "title": "北朝鮮、またクラスター弾試験＝巡航ミサイルに搭載",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VcFJ5dm5iOGVwMXdrMGF3SWlOY20wUWRKOTBBT0o1NUc0RGdudzR6TnBsOXcybXkyX2lvYUxtWXAySTE3QTFnQ0ZvUEdJbk5JcTlDRQ?oc=5",
-     "source": "時事通信ニュース",
-     "at": "2026-11-03T10:37+09:00"
     }
    ]
   },
@@ -239,12 +239,6 @@
      "at": "2026-11-03T12:52+09:00"
     },
     {
-     "title": "ロシア衛星、中国製部品で量産 ウクライナ軍、戦局への影響警戒",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QVHZjWTVJa0Y1b3J0LXRvSUlERnNLYl94VGJEaUJVMjhkRHNmWElpa085eDBGX1NxTDR4RU9PRFZZbi1Tc0N3ZFJxLWlhMmpoc09mNkVCQnF5cHhOczZPdGNibw?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-03T12:21+09:00"
-    },
-    {
      "title": "ウクライナとロシアで「核攻撃の偽警報」 緊急警報アプリへのサイバー攻撃が相次ぐ",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRXdpckxIbTFySV9ZTUNYUmR3azJBNHBYOGhCWjVldVAxU0E2Mzh6cDhBNWNLTmh2OXl3VkxKUmZVVU1QV2VycWVPT0FzbjREWGRjdGZaMFJPZDhwa2RYN2FwWUZmMkVzRkdnck5uSnJ2NzRuQWtvQTREYU1Bcjg?oc=5",
      "source": "Yahoo!ニュース",
@@ -255,6 +249,12 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xR0hPMURwcjNCcmpoLU5jLW9LM3BrUjJ4ZFJzMnp3ZDhKZ2hnX21IX3N6cWZPcmV2Tmc5SjVYd2tSRTN4V2ExRXlGNDJoWTBVeEtkdzdwVi0wdVp1cVk0?oc=5",
      "source": "千葉テレビ放送株式会社",
      "at": "2026-11-03T10:58+09:00"
+    },
+    {
+     "title": "ロシア軍が学校攻撃、26人死亡 ウクライナ南部、5人負傷",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11ZDlGd252aEtYQnN5VmxuLThrRDZMdGd5MzZfMG94WmJQYWNQRExIRkVrZl8xOTNqZFFKa2xuMEpVNkhBM0k0ZUh2bw?oc=5",
+     "source": "47NEWS",
+     "at": "2026-11-03T10:45+09:00"
     }
    ]
   }
@@ -292,8 +292,8 @@
   },
   {
    "title": "防災庁発足 南海トラフ警戒地域の声 国による具体的な支援を",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42SzBUSXN4VXVZZDhHd05ITTgwU0sxSDA4UlBDUEZTbF9IdWNNTTk1ZDVFQWc4WG82R0tuUHp5Q1I3QUFQNlRjdlFZek5aRjl3OXRvSXJkeEZOak5QWkJPMWNrRnJ3RENGeDBlM1M0Ym9GZw?oc=5",
-   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tQjFoTU9pQkFKNlotOGVIYWdqMFJWNVcyR1ZOVnRlanZVNjB6OVlzamdtRVNrNmczamFPQUxwel9QR0ZScUdNQWFzY0p1Q1U?oc=5",
+   "source": "khb東日本放送",
    "at": "2026-11-02T20:58+09:00"
   }
  ],
@@ -313,6 +313,12 @@
   }
  ],
  "cyber": [
+  {
+   "title": "止まらない仁川空港のシステム障害…1週間で2度の「出国マヒ」",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmQXBWOGVWNVVjWUxXTVBNdkdicl9iVXBIcm9Kb0k0R0JDMXF0ZWNNWGJYdE1rV1d5WG1wenlVS3lIUjV1UDhkZG5HdEtrbE04TlhYZ1lTMlRkZ0hN?oc=5",
+   "source": "亜州日報",
+   "at": "2026-11-03T14:43+09:00"
+  },
   {
    "title": "【FXサイバー攻撃】「命の砂時計」珍発言を繰り出したGMO熊谷正寿会長の謝罪会見に「さすがの敏腕ぶり」同業者の絶賛ポイント",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PWEQ2aUFzTkJzWnB1MGN2bU5VNU5qLWpCMGdGRG1IYWZoRThoWktpdlVITTVWRU9ieXFfdjg2ZWxTd2pSMFBFTEFYb0drVGZ0eHFfbnJLc1ZNMWZFbUdiQy1CczdPMjhxY3F0Q2Nn?oc=5",
@@ -366,16 +372,24 @@
    "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOYzZfa2dIdFRvanBPZnNERXZGTDViRUpHZVJGRkFoSl94aHZwdEtjd3ZKLXZJM2M4Q2ZjNGN1VGxmajk3RDF5OEVxVUdTNzNadmRKNF9iUFF1SkwxWS1FbzVrS185YlJiMDVjSzdwNUJiYVdCS256NGpnRFF4bS1oWFYtdnhPZjZBV1FKMk9BS2ZJUTVSX0JzVjk2eEFWQzF5SkN1N04xVE9UaFdKakIwd3BWSS02NXhORm1xd3ZRSmQzS3R4TWU0N1ZkeEsza2syQUUwNDFDcEFRazBQRHhIZ3p2aWliWV83NWtnbnc1Z00wdGxhcDA3UnROanJlMUd3QWNQa0MxUmNqMk9Wd3FXZlEwbFJuQmxFSTcwaXY5YUpiMncwU2lVUmZuTjl0eENNZ3pRbjVyVExwems5TmFCOFZvNTBtTm53dDlSMDk0VHp4R3BJTmhaZ0xUbU5oaFlxQl9sNlZ0TzlZS3NpcWlmMGVoTzlid3ViVURBVG9acE1YSzVUTEpfaVJjSnMtemtPclJuMVZUUQ?oc=5",
    "source": "SmartNews",
    "at": "2026-11-03T12:32+09:00"
-  },
-  {
-   "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃　大量の食品が廃棄に",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03YnpTS2xxdUtDTk8zaEVlSG10bFFkVkY2VXFfMTRpS3dCeG5naFZGSGwwZ2FoTTlZLXR4cGRtMGFKYzVydm9NWWh3dlBDTUNTOFl0VW1iOWtUVzBtRFlQQdIBZkFVX3lxTFBmYTg4Y3Q5UVdjaDZLYnVWZ0ZpVEVvSDlrVV9RTEt1SUZrcFBFcnpvS0RDWnpndG44X2tvYmJqaTJNdGdZY3dzRWtjc19BaG9jbVZpeF9Fb2pCc3VtTDFmQVJQNEVGQQ?oc=5",
-   "source": "BBC",
-   "at": "2026-11-03T12:17+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮、巡航ミサイル搭載のクラスター弾発射試験実施と発表 「5〜6ヘクタールを焦土化可能」と主張",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vUElHQWs3SXpyb3o0OTNaXzJuRlRvVV84YmU3ODRvUDdpV2p6V0J3SlZ4VDBqUnNfOExTMlNwOGdrTGdUbEY5UlFuZ0F4QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-03T14:40+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "李在明大統領「北朝鮮の三重鉄柵、イノシシも越えにくい」鄭東泳統一相「防疫にはプラス」",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWVMaVFKT1BvQl9WQUdhQzBWXzY4eURiTlJ1Y1UwZkVKbUVGNURLWEhaUWVSckVMUXQ5MXhaX25RY3lFZGdsOFFDRHN2Q2RLYjlrMGl1b0hBRENKQlF5YlZXR3JWakRVUHA2M2RfMWJaVjlsTDhBUmlSakY1eXJDNll2dWVKUFFVcUVoNVpR?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-03T14:24+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "米軍がイランの島を攻撃 中間選挙前日「限定的空爆」",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84WWRyZEhLVm9nUXVSeW1tenZNckdVTzRLVThlaldXV1RTUWx0dGQwOU9ISkd4TVdjamJ1cHg3MWVKNTJfS3R2TmZJSnVfNGFEU3hORDk5a2RNQXVjbkI0eUppS1V1b3hDNjBNWUpza3pNWU14WlBWSV93?oc=5",
@@ -454,13 +468,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア衛星、中国製部品で量産 ウクライナ軍、戦局への影響警戒",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QVHZjWTVJa0Y1b3J0LXRvSUlERnNLYl94VGJEaUJVMjhkRHNmWElpa085eDBGX1NxTDR4RU9PRFZZbi1Tc0N3ZFJxLWlhMmpoc09mNkVCQnF5cHhOczZPdGNibw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-03T12:21+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "北朝鮮“巡航ミサイルに搭載したクラスター弾の威力を評価する試験を実施”（日テレNEWS NNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzamFrVEZOUzMyc1JWd0pLMmhZWTdBd20tazhYeGZPVVdhU0h5empXdGxEbFU2RnlPTmdIcnFpazVJRkxDaXZubEFmUm0yNVI3NVQ0Um5QSmZKcjVIcXBUbThUbENLZzdrSUpPOXI4cmZDUHNOOXJjVktITG1TUUk?oc=5",
    "source": "Yahoo!ニュース",
@@ -469,7 +476,7 @@
   },
   {
    "title": "北朝鮮が〈20分で1兆円の暗号資産を強奪〉､サイバー攻撃で外貨調達し兵器近代化を加速する｢核だけではない脅威｣",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZGFOMk5iT0p4SlJENEYzS1FtMmNMUjBjNGYyaHhIUVE4RktwU2ZMSTZGRklSOVEwMjdTblhTeHpRWmJBdHFfRkNvbXozdjh4RU5TOXVfY1JITkk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nZ25oY1RBY3l2ck9pYzN0aTQ4R2ZaZzM2VHBLTGpGV1lCMDUzUlNpOHhVb1plUGpWVDdWUkxSRW5hSlJMUkNxNUd4NW5XT3FFblhYaWlLZ1JVQkNTdGNR?oc=5",
    "source": "東洋経済オンライン",
    "at": "2026-11-03T11:30+09:00",
    "topic": "北朝鮮"
@@ -482,13 +489,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "北朝鮮、2隻目の駆逐艦が就役 日本海管轄、核武装化方針",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEhLeEQ2VGpOZUwybmdiWWFpdy1wLVFLZlpmZHlIMlBrY1l6VWlnb1A5X3F6azExY2UxWlFlb2xtWFVUSUltUS1wck9yMkZCTjdReWtzT2NDemJwN1VoOWRGY1ZsMDRaLU8zVHFPcEFrSlczZThTS1lHNDBHZENhbGRRbUlucEJP?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-03T10:58+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ロシア軍が人道支援物資の配布場所を攻撃 ウクライナで31人死傷 ゼレンスキー大統領が強く非難",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xR0hPMURwcjNCcmpoLU5jLW9LM3BrUjJ4ZFJzMnp3ZDhKZ2hnX21IX3N6cWZPcmV2Tmc5SjVYd2tSRTN4V2ExRXlGNDJoWTBVeEtkdzdwVi0wdVp1cVk0?oc=5",
    "source": "千葉テレビ放送株式会社",
@@ -496,11 +496,11 @@
    "topic": "ロシア"
   },
   {
-   "title": "北朝鮮、またクラスター弾試験＝巡航ミサイルに搭載",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VcFJ5dm5iOGVwMXdrMGF3SWlOY20wUWRKOTBBT0o1NUc0RGdudzR6TnBsOXcybXkyX2lvYUxtWXAySTE3QTFnQ0ZvUEdJbk5JcTlDRQ?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-03T10:37+09:00",
-   "topic": "北朝鮮"
+   "title": "ロシア軍が学校攻撃、26人死亡 ウクライナ南部、5人負傷",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11ZDlGd252aEtYQnN5VmxuLThrRDZMdGd5MzZfMG94WmJQYWNQRExIRkVrZl8xOTNqZFFKa2xuMEpVNkhBM0k0ZUh2bw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-03T10:45+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "中国、台湾周辺海域でデータ収集強化 軍事利用の可能性",
@@ -510,10 +510,10 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "EU｢中ロの支配を許してはならない｣中国のレアアース･インフラ投資や軍民融合の科学調査にEUが警鐘を鳴らす理由",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VDhwTWtjMURFdVZyYi1EU1JYNFdsZHhNTTM1VmhUSHpqb0tNMlFLUE5FVjVPVXhjLURzd2lKV2NmZW4tVmQwVVVCMXFZdk1JLVE?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-03T06:00+09:00",
+   "title": "軍調達ドローンに中国部品、納入元創業者を勾留",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DalBWRjA2bzBfMU1ha0hIVWRsZ3lIcmhqM0NnR2dZQ3hRLVJwM2JKUGkzaWxxc1NONmk0ZmVfb1EzZmVrWXc?oc=5",
+   "source": "NNAアジア",
+   "at": "2026-11-03T00:00+09:00",
    "topic": "中国・台湾"
   }
  ],
@@ -536,7 +536,7 @@
     "イラン・アメリカ：「攻撃」「空爆」5件",
     "中国・台湾：「侵攻」1件",
     "北朝鮮：「攻撃」「ミサイル」5件",
-    "ロシア：「攻撃」3件"
+    "ロシア：「攻撃」4件"
    ],
    "items": [
     {
@@ -552,10 +552,10 @@
      "at": "2026-11-02T20:32+09:00"
     },
     {
-     "title": "北朝鮮、巡航ミサイルのクラスター弾頭試験と垂直攻撃試験を実施…「標的を壊滅」（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zc21td3M3YWQxekVxV2k2Q3hELVNxLUx5SXh4QklsQURTVEM2dWlFekVMaXVHLXRSdlVWMVRFZm1OSDJIa01EazFuX2RLd2g3RGQtblFhb2dLQ1BPa3Bud2k5Yl96a2VPVUZMU0pmREp2QlVTNElkaldVb25LTW8?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-03T14:01+09:00"
+     "title": "北朝鮮、巡航ミサイル搭載のクラスター弾発射試験実施と発表 「5〜6ヘクタールを焦土化可能」と主張",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vUElHQWs3SXpyb3o0OTNaXzJuRlRvVV84YmU3ODRvUDdpV2p6V0J3SlZ4VDBqUnNfOExTMlNwOGdrTGdUbEY5UlFuZ0F4QQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-03T14:40+09:00"
     }
    ]
   }
