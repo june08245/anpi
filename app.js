@@ -574,6 +574,15 @@ function parseForecast(data) {
       min: wt && wt.tempsMin && wt.tempsMin[i] !== "" ? +wt.tempsMin[i] : null, max: wt && wt.tempsMax && wt.tempsMax[i] !== "" ? +wt.tempsMax[i] : null
     }));
   }
+  // 今日の最低気温：時間帯が過ぎていると気象庁は最高気温と同じ値を入れてくるので、出さない
+  const today = out.days.find(d => dateKey(d.date) === dateKey(Date.now()));
+  if (today && today.min != null && today.min === today.max) today.min = null;
+  // 朝の発表には明後日が入っていないので、週間予報から足す
+  for (const w of out.week) {
+    if (out.days.length >= 3) break;
+    if (!out.days.some(d => dateKey(d.date) === dateKey(w.date)) && new Date(w.date) > new Date(out.days[out.days.length - 1].date))
+      out.days.push({ date: w.date, code: w.code });
+  }
   // 足りない気温・降水確率を、もう片方（3日間／週間）で埋める
   for (const d of out.days) {
     const w = out.week.find(x => dateKey(x.date) === dateKey(d.date)); if (!w) continue;
