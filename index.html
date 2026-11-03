@@ -10,7 +10,7 @@
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="ふたりの安否">
-<link rel="stylesheet" href="style.css?v=27">
+<link rel="stylesheet" href="style.css?v=28">
 </head>
 <body>
 <div class="wrap">
@@ -109,6 +109,7 @@
       <button class="tab" role="tab" aria-selected="true" data-t="rules">ルール</button>
       <button class="tab" role="tab" aria-selected="false" data-t="shel">避難所</button>
       <button class="tab" role="tab" aria-selected="false" data-t="info">情報</button>
+      <button class="tab" role="tab" aria-selected="false" data-t="fav">保存</button>
       <button class="tab" role="tab" aria-selected="false" data-t="conf">設定</button>
     </nav>
 
@@ -208,6 +209,12 @@
       <p class="sub">30分ごとに自動で集めています。速報はスマホの緊急速報やテレビ・ラジオのほうが早く届きます。ミサイルなどの国民保護情報（Jアラート）は、スマホの緊急速報メールで自動的に届きます。</p>
     </section>
 
+    <section class="panel" id="fav" hidden>
+      <div class="infohead"><h2>保存したニュース</h2><span class="sub" id="favCount"></span></div>
+      <div id="favList" class="ilist"></div>
+      <p class="sub">保存したニュースは、この端末の中だけに残ります（相手には見えません）。☆をもう一度押すと外せます。</p>
+    </section>
+
     <section class="panel" id="conf" hidden>
       <h2>設定</h2>
       <p class="sub" id="confInfo"></p>
@@ -230,6 +237,6 @@
     </div>
   </div>
 </div>
-<script type="module" src="app.js?v=27"></script>
+<script type="module" src="app.js?v=28"></script>
 </body>
 </html>

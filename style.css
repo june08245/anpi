@@ -165,3 +165,12 @@ body.noscroll{overflow:hidden}
 .crosshair::after{content:"";position:absolute;left:11px;top:11px;width:12px;height:12px;border-radius:50%;background:#fff}
 .maprow{justify-content:space-between}
 .maprow .primary{flex:1}
+
+/* ニュースの保存 */
+.irw{display:flex;gap:8px;align-items:flex-start;padding:10px 0;border-top:1px solid var(--line);min-width:0}
+.irw:first-child{border-top:0;padding-top:0}
+.irw .irow{flex:1;padding:0;border:0}
+.star{flex:0 0 auto;font:inherit;font-size:22px;line-height:1;width:40px;height:40px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--muted);cursor:pointer}
+.star[aria-pressed=true]{color:#d99a00;border-color:#d99a00;background:var(--warn-bg)}
+.tabs{overflow-x:auto}
+.tab{white-space:nowrap}

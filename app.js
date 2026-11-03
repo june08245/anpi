@@ -307,7 +307,8 @@ setInterval(paintMode, 30000);
 /* ---------- タブ ---------- */
 document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
   document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-selected", String(x === t)));
-  for (const id of ["rules", "shel", "info", "conf"]) $("#" + id).hidden = t.dataset.t !== id;
+  for (const id of ["rules", "shel", "info", "fav", "conf"]) $("#" + id).hidden = t.dataset.t !== id;
+  if (t.dataset.t === "fav") renderFavs();
   if (t.dataset.t === "info") loadInfo();
 });
 function openTab(name) { const t = document.querySelector(`.tab[data-t="${name}"]`); if (t) { t.click(); t.scrollIntoView({ behavior: "smooth", block: "start" }); } }
@@ -344,13 +345,45 @@ const INFO_URLS = [
   { url: "data/info.json" }
 ];
 const fmtAt = s => { if (!s) return ""; const d = new Date(s); return isNaN(d) ? s : hm(d.getTime()); };
-function infoRow(title, meta, link) {
+function infoRow(title, meta, link, item) {
   const el = document.createElement(link ? "a" : "div");
   el.className = "irow";
   if (link) { el.href = link; el.target = "_blank"; el.rel = "noopener"; }
   const t = document.createElement("span"); t.className = "t"; t.textContent = title;
   const m = document.createElement("span"); m.className = "m"; m.textContent = meta;
-  el.append(t, m); return el;
+  el.append(t, m);
+  if (!link || !item) return el;
+  // ニュースには保存ボタン（☆）を付ける
+  const w = document.createElement("div"); w.className = "irw";
+  w.append(el, starButton(item));
+  return w;
+}
+
+/* ---------- ニュースの保存（この端末の中だけに残す） ---------- */
+const FAV_MAX = 200;
+const getFavs = () => ls.get("favs") || [];
+const isFav = link => getFavs().some(f => f.link === link);
+function toggleFav(item) {
+  let favs = getFavs();
+  if (favs.some(f => f.link === item.link)) favs = favs.filter(f => f.link !== item.link);
+  else favs = [{ title: item.title, link: item.link, source: item.source || "", at: item.at || "", savedAt: Date.now() }, ...favs].slice(0, FAV_MAX);
+  ls.set("favs", favs);
+  document.querySelectorAll(".star").forEach(b => paintStar(b, isFav(b.dataset.link)));
+  renderFavs();
+}
+function paintStar(b, on) { b.textContent = on ? "★" : "☆"; b.setAttribute("aria-pressed", String(on)); b.setAttribute("aria-label", on ? "保存を外す" : "保存する"); }
+function starButton(item) {
+  const b = document.createElement("button"); b.className = "star"; b.dataset.link = item.link;
+  paintStar(b, isFav(item.link));
+  b.onclick = e => { e.preventDefault(); e.stopPropagation(); toggleFav(item); };
+  return b;
+}
+function renderFavs() {
+  const box = $("#favList"); if (!box) return;
+  const favs = getFavs(); box.innerHTML = "";
+  $("#favCount").textContent = favs.length ? `${favs.length}件` : "";
+  if (!favs.length) { emptyRow(box, "まだ保存したニュースはありません。情報タブのニュースの右にある☆を押すと、ここに残ります。"); return; }
+  for (const f of favs) box.appendChild(infoRow(f.title, [f.source, fmtAt(f.at), `保存 ${hm(f.savedAt)}`].filter(Boolean).join("　"), f.link, f));
 }
 function emptyRow(box, text) { const p = document.createElement("p"); p.className = "empty"; p.textContent = text; box.appendChild(p); }
 
@@ -384,17 +417,17 @@ function renderInfo(info, fromCache) {
 
   // 大阪市のニュース
   const ok = $("#infoOsaka"); ok.innerHTML = "";
-  for (const n of (info.osaka || [])) ok.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  for (const n of (info.osaka || [])) ok.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link, n));
   if (!ok.children.length) emptyRow(ok, "ここ2日、該当するニュースはありません");
 
   // 停電ニュース
   const o = $("#infoOutage"); o.innerHTML = "";
-  for (const n of (info.outage || [])) o.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  for (const n of (info.outage || [])) o.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link, n));
   if (!o.children.length) emptyRow(o, "ここ2日、大阪の停電のニュースはありません");
 
   // サイバー攻撃・通信障害
   const cy = $("#infoCyber"); cy.innerHTML = "";
-  for (const n of (info.cyber || [])) cy.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  for (const n of (info.cyber || [])) cy.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link, n));
   if (!cy.children.length) emptyRow(cy, info.cyber ? "ここ2日、該当するニュースはありません" : "次の更新から表示されます");
 
   // 国際ニュース（話題ごと）
@@ -403,19 +436,19 @@ function renderInfo(info, fromCache) {
   for (const t of topics) {
     const h = document.createElement("h3"); h.className = "topic"; h.textContent = t.label; g.appendChild(h);
     const box = document.createElement("div"); box.className = "ilist"; g.appendChild(box);
-    for (const n of (t.items || []).slice(0, 5)) box.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+    for (const n of (t.items || []).slice(0, 5)) box.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link, n));
     if (!box.children.length) emptyRow(box, "ここ3日、該当するニュースはありません");
   }
   if (!topics.length) emptyRow(g, "取得できていません");
 
   // 日本：Jアラート・弾道ミサイル
   const jp = $("#infoJapan"); jp.innerHTML = "";
-  for (const n of (info.japan || [])) jp.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  for (const n of (info.japan || [])) jp.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link, n));
   if (!jp.children.length) emptyRow(jp, info.japan ? "ここ2日、該当するニュースはありません" : "取得できていません");
 
   // 南海トラフ
   const nk = $("#infoNankai"); nk.innerHTML = "";
-  for (const n of (info.nankai || [])) nk.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  for (const n of (info.nankai || [])) nk.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link, n));
   if (!nk.children.length) emptyRow(nk, info.nankai ? "ここ1週間、該当するニュースはありません" : "次の更新から表示されます");
 
   renderWeather(info.forecast);
