@@ -40,7 +40,19 @@
   </section>
 
   <main id="main" hidden>
-    <a class="alert" id="alert" href="#" hidden></a>
+    <section class="status" aria-label="いまの状況">
+      <a class="scard" id="stWorld" href="#">
+        <span class="slabel">世界の状況</span>
+        <span class="slevel">確認中</span>
+        <span class="sreason"></span>
+      </a>
+      <a class="scard" id="stJapan" href="#">
+        <span class="slabel">日本の状況</span>
+        <span class="slevel">確認中</span>
+        <span class="sreason"></span>
+      </a>
+      <p class="sub stime" id="stTime">情報を読み込んでいます</p>
+    </section>
     <section class="panel" aria-label="安否を送る">
       <h2>いまの状態を送る</h2>
       <div class="btns">
@@ -155,6 +167,11 @@
         <a class="sm" href="https://www.kokuminhogo.go.jp/" target="_blank" rel="noopener">国民保護ポータル（Jアラート）</a>
         <a class="sm" href="https://www.nhk.or.jp/radio/" target="_blank" rel="noopener">NHKラジオ</a>
       </div>
+      <h2>安全・注意・緊急の決め方</h2>
+      <ul class="sub">
+        <li><b>世界</b>：24時間以内のイラン・アメリカなどの見出しに「攻撃」「空爆」「ミサイル」などがあれば注意。「核攻撃」「全面戦争」「日本を攻撃」などがあれば緊急</li>
+        <li><b>日本</b>：大阪市に警報、大阪で震度4、全国のどこかで震度5弱以上、弾道ミサイルの報道、大阪・関西の停電の報道のどれかがあれば注意。大阪市に危険警報や特別警報、大阪で震度5弱以上、全国のどこかで震度6強以上、Jアラートの報道のどれかがあれば緊急</li>
+      </ul>
       <p class="sub">30分ごとに自動で集めています。速報はスマホの緊急速報やテレビ・ラジオのほうが早く届きます。ミサイルなどの国民保護情報（Jアラート）は、スマホの緊急速報メールで自動的に届きます。</p>
     </section>
 

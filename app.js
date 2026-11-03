@@ -256,23 +256,27 @@ function renderInfo(info, fromCache) {
   for (const n of (info.world || [])) g.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
   if (!g.children.length) emptyRow(g, "取得できていません");
 
-  renderAlert(info);
+  renderStatus(info);
 }
 
-// 大阪で震度4以上（24時間以内）か、大阪市に警報以上が出ている時は、ホームに赤い帯を出す
-function renderAlert(info) {
-  const a = $("#alert"); const msgs = [];
-  const big = ((info.warnings && info.warnings.items) || []).filter(i => i.level >= 3);
-  if (big.length) msgs.push("大阪市に" + big.map(i => i.name).join("・"));
-  const day = Date.now() - 24 * 3600e3;
-  const eq = (info.quakes || []).find(e => e.osakaRank >= 4 && new Date(e.at).getTime() > day);
-  if (eq) msgs.push(`大阪で震度${eq.osaka}の地震（${fmtAt(eq.at)}）`);
-  if (!msgs.length) { a.hidden = true; return; }
-  a.innerHTML = ""; a.append(msgs.join(" ／ "));
-  const sm = document.createElement("small"); sm.textContent = "押すと詳しい情報を開きます"; a.appendChild(sm);
-  a.hidden = false;
+// 「世界の状況」「日本の状況」を 安全／注意／緊急 で表示する（判定は scripts/fetch_info.py）
+const LEVEL = { green: "安全", yellow: "注意", red: "緊急" };
+function renderStatus(info) {
+  const st = info.status || {};
+  for (const [key, id] of [["world", "#stWorld"], ["japan", "#stJapan"]]) {
+    const card = $(id), s = st[key];
+    card.className = "scard" + (s && LEVEL[s.level] ? " " + s.level : "");
+    card.querySelector(".slevel").textContent = s ? (LEVEL[s.level] || "不明") : "確認中";
+    card.querySelector(".sreason").textContent = s ? (s.reasons || []).slice(0, 2).join("／") : "";
+  }
+  const t = $("#stTime");
+  if (!info.updated) { t.textContent = "まだ情報がありません"; return; }
+  const old = Date.now() - new Date(info.updated).getTime() > 3 * 3600e3;
+  t.textContent = `${fmtAt(info.updated)} 時点` + (old ? "（3時間以上前の情報です。ネットにつながったら更新されます）" : "")
+    + "・ニュースの見出しなどから自動で判定した目安です。押すと詳しく見られます";
+  t.classList.toggle("stale", old);
 }
-$("#alert").onclick = e => { e.preventDefault(); openTab("info"); };
+for (const id of ["#stWorld", "#stJapan"]) $(id).onclick = e => { e.preventDefault(); openTab("info"); };
 
 let infoLoading = false, infoLoadedAt = 0;
 async function loadInfo(force) {
