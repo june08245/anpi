@@ -60,6 +60,13 @@ JAPAN_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("弾道ミサイル 日本 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
 JAPAN_KEYWORDS = ["Jアラート", "弾道ミサイル", "国民保護"]
+# 大阪市：避難指示・断水・大きな火災などの報道（見出しに大阪市内の地名を含むもの）
+OSAKA_FEEDS = [
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("大阪市 避難指示 OR 断水 OR 大規模火災 OR 爆発 OR テロ when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
+]
+OSAKA_PLACES = ["大阪市", "生野", "旭区", "大阪・", "大阪の", "大阪で", "大阪市内"]
+OSAKA_RED = ["避難指示", "緊急安全確保", "テロ", "爆発"]
+OSAKA_YELLOW = ["断水", "大規模火災", "延焼", "高齢者等避難"]
 
 # ---------- 危険度の判定（目安） ----------
 # 世界：直近24時間のニュース見出しに出てくる言葉で判定
@@ -247,26 +254,20 @@ def assess_world(r, now):
     return {"level": "green", "reasons": ["24時間以内に、攻撃や衝突の報道は見当たりません"], "items": []}
 
 
+def quake_when(q):
+    return datetime.fromisoformat(q["at"]).astimezone(JST).strftime("%-m/%-d %H:%M")
+
+
 def assess_japan(r, now):
+    """日本全体：大きな地震、Jアラート・弾道ミサイル"""
     red, yel = [], []
-    warns = ((r.get("warnings") or {}).get("items")) or []
-    for w in warns:
-        if w["level"] >= 4:
-            red.append(f"大阪市に{w['name']}")
-        elif w["level"] == 3:
-            yel.append(f"大阪市に{w['name']}")
     for q in r.get("quakes") or []:
         if not within(q.get("at"), 24, now):
             continue
-        when = datetime.fromisoformat(q["at"]).astimezone(JST).strftime("%-m/%-d %H:%M")
-        if q.get("osakaRank", 0) >= 5:
-            red.append(f"大阪で震度{q['osaka']}（{when}）")
-        elif q.get("osakaRank", 0) == 4:
-            yel.append(f"大阪で震度4（{when}）")
-        elif q.get("maxiRank", 0) >= 7:
-            red.append(f"{q['place']}で震度{q['maxi']}（{when}）")
+        if q.get("maxiRank", 0) >= 7:
+            red.append(f"{q['place']}で震度{q['maxi']}（{quake_when(q)}）")
         elif q.get("maxiRank", 0) >= 5:
-            yel.append(f"{q['place']}で震度{q['maxi']}（{when}）")
+            yel.append(f"{q['place']}で震度{q['maxi']}（{quake_when(q)}）")
     jn = r.get("japan") or []
     ja = hits(jn, ["Jアラート", "国民保護"], now, 12)
     if ja:
@@ -275,14 +276,44 @@ def assess_japan(r, now):
         mi = hits(jn, ["弾道ミサイル"], now, 24)
         if mi:
             yel.append(f"弾道ミサイルの報道（{mi[0]['title'][:30]}）")
-    out = hits(r.get("outage"), ["停電"], now, 24)
-    if out:
-        yel.append(f"大阪・関西の停電の報道（{out[0]['title'][:30]}）")
     if red:
         return {"level": "red", "reasons": red + yel}
     if yel:
         return {"level": "yellow", "reasons": yel}
-    return {"level": "green", "reasons": ["大阪市に警報なし・大きな地震なし"]}
+    return {"level": "green", "reasons": ["大きな地震やミサイルの報道なし"]}
+
+
+def assess_osaka(r, now):
+    """大阪市：警報、大阪の震度、停電・断水・避難指示などの報道"""
+    red, yel = [], []
+    for w in ((r.get("warnings") or {}).get("items")) or []:
+        if w["level"] >= 4:
+            red.append(f"{w['name']}")
+        elif w["level"] == 3:
+            yel.append(f"{w['name']}")
+    for q in r.get("quakes") or []:
+        if not within(q.get("at"), 24, now):
+            continue
+        if q.get("osakaRank", 0) >= 5:
+            red.append(f"震度{q['osaka']}の地震（{quake_when(q)}）")
+        elif q.get("osakaRank", 0) == 4:
+            yel.append(f"震度4の地震（{quake_when(q)}）")
+    out = hits(r.get("outage"), ["停電"], now, 24)
+    if out:
+        yel.append(f"停電の報道（{out[0]['title'][:30]}）")
+    loc = r.get("osaka") or []
+    lr = hits(loc, OSAKA_RED, now, 24)
+    if lr:
+        red.append(f"「{lr[0]['title'][:40]}」")
+    else:
+        ly = hits(loc, OSAKA_YELLOW, now, 24)
+        if ly:
+            yel.append(f"「{ly[0]['title'][:40]}」")
+    if red:
+        return {"level": "red", "reasons": red + yel}
+    if yel:
+        return {"level": "yellow", "reasons": yel}
+    return {"level": "green", "reasons": ["警報なし・大きな揺れや停電の報道なし"]}
 
 
 # ---------- まとめ ----------
@@ -300,6 +331,7 @@ def main():
         "world": lambda: collect_news(WORLD_FEEDS, WORLD_KEYWORDS, 15, 72),
         "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48, OUTAGE_PLACES),
         "japan": lambda: collect_news(JAPAN_FEEDS, JAPAN_KEYWORDS, 6, 48),
+        "osaka": lambda: collect_news(OSAKA_FEEDS, OSAKA_RED + OSAKA_YELLOW, 6, 48, OSAKA_PLACES),
     }
     for key, fn in jobs.items():
         try:
@@ -310,7 +342,7 @@ def main():
             result[key] = prev.get(key)  # 前回の内容を残す
 
     now = datetime.now(timezone.utc)
-    result["status"] = {"world": assess_world(result, now), "japan": assess_japan(result, now)}
+    result["status"] = {"osaka": assess_osaka(result, now), "japan": assess_japan(result, now), "world": assess_world(result, now)}
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:

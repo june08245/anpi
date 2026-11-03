@@ -88,13 +88,15 @@ a.irow .t{text-decoration:underline;text-decoration-color:var(--line);text-under
 #info h2{margin-top:6px}
 #infoWarn{gap:8px}
 
-/* いまの状況（世界・日本） */
-.status{display:grid;grid-template-columns:1fr 1fr;gap:8px}
-.scard{display:flex;flex-direction:column;gap:4px;min-width:0;border-radius:10px;padding:12px;border:1px solid var(--line);background:var(--surface);color:var(--fg);text-decoration:none}
-.slabel{font-size:13px;font-weight:700;color:var(--muted);letter-spacing:.06em}
-.slevel{font-size:24px;font-weight:800;line-height:1.2}
-.sreason{font-size:12.5px;line-height:1.5;color:var(--fg);overflow-wrap:anywhere}
-.scard.green{background:var(--ok-bg);border-color:var(--ok)} .scard.green .slevel{color:var(--ok)}
-.scard.yellow{background:var(--warn-bg);border-color:var(--warn)} .scard.yellow .slevel{color:var(--warn)}
-.scard.red{background:var(--sos);border-color:var(--sos)} .scard.red .slevel,.scard.red .slabel,.scard.red .sreason{color:var(--ink-on)}
-.stime{grid-column:1/-1}
+/* いまの状況（大阪市・日本・世界） */
+.status{display:flex;flex-direction:column;gap:8px}
+.scard{display:flex;align-items:center;gap:12px;min-width:0;border-radius:10px;padding:10px 12px;border:1px solid var(--line);background:var(--surface);color:var(--fg);text-decoration:none}
+.slevel{flex:0 0 3.6em;text-align:center;font-size:20px;font-weight:800;line-height:1.2;border-radius:8px;padding:8px 0;background:var(--bg);color:var(--muted)}
+.sbody{display:flex;flex-direction:column;min-width:0}
+.slabel{font-size:15px;font-weight:800;color:var(--fg)}
+.sreason{font-size:13px;line-height:1.5;color:var(--muted);overflow-wrap:anywhere}
+.scard.green{border-color:var(--ok)} .scard.green .slevel{background:var(--ok);color:var(--ink-on)}
+.scard.yellow{border-color:var(--warn);background:var(--warn-bg)} .scard.yellow .slevel{background:var(--warn);color:var(--ink-on)}
+.scard.red{border-color:var(--sos);background:var(--sos-bg)} .scard.red .slevel{background:var(--sos);color:var(--ink-on)}
+.scard.red .sreason{color:var(--fg);font-weight:700}
+.stime.stale{color:var(--sos);font-weight:700}

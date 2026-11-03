@@ -246,6 +246,11 @@ function renderInfo(info, fromCache) {
   }
   if (!q.children.length) emptyRow(q, "取得できていません");
 
+  // 大阪市のニュース
+  const ok = $("#infoOsaka"); ok.innerHTML = "";
+  for (const n of (info.osaka || [])) ok.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  if (!ok.children.length) emptyRow(ok, "ここ2日、該当するニュースはありません");
+
   // 停電ニュース
   const o = $("#infoOutage"); o.innerHTML = "";
   for (const n of (info.outage || [])) o.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
@@ -259,11 +264,11 @@ function renderInfo(info, fromCache) {
   renderStatus(info);
 }
 
-// 「世界の状況」「日本の状況」を 安全／注意／緊急 で表示する（判定は scripts/fetch_info.py）
+// 「大阪市」「日本」「世界」の状況を 安全／注意／緊急 で表示する（判定は scripts/fetch_info.py）
 const LEVEL = { green: "安全", yellow: "注意", red: "緊急" };
 function renderStatus(info) {
   const st = info.status || {};
-  for (const [key, id] of [["world", "#stWorld"], ["japan", "#stJapan"]]) {
+  for (const [key, id] of [["osaka", "#stOsaka"], ["japan", "#stJapan"], ["world", "#stWorld"]]) {
     const card = $(id), s = st[key];
     card.className = "scard" + (s && LEVEL[s.level] ? " " + s.level : "");
     card.querySelector(".slevel").textContent = s ? (LEVEL[s.level] || "不明") : "確認中";
@@ -276,7 +281,7 @@ function renderStatus(info) {
     + "・ニュースの見出しなどから自動で判定した目安です。押すと詳しく見られます";
   t.classList.toggle("stale", old);
 }
-for (const id of ["#stWorld", "#stJapan"]) $(id).onclick = e => { e.preventDefault(); openTab("info"); };
+for (const id of ["#stOsaka", "#stJapan", "#stWorld"]) $(id).onclick = e => { e.preventDefault(); openTab("info"); };
 
 let infoLoading = false, infoLoadedAt = 0;
 async function loadInfo(force) {
