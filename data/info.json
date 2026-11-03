@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:52+09:00",
+ "updated": "2026-11-03T12:01+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -91,6 +91,12 @@
  ],
  "world": [
   {
+   "title": "米軍、イランのゲシュム島に「防衛目的」の限定攻撃 中間選挙前夜",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54SjZ3MWJzUkNocTVYcDVmUUc3YnhWV3lpY1ltZ284UHIwUmw3Sl9yaUoxVDNMa0p4WWVTLUdBRlJRYUJ6R3JLZGRIcE1SdDJPTlhtWHpDMzFqREVxdUloRjJ6bFpUVDZNNk91Z2xR?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-03T11:41+09:00"
+  },
+  {
    "title": "米軍、イランのゲシュム島に限定的な「防衛目的」の攻撃 中間選挙前夜",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12M3lEaVBwcUgtRmsxMFR2YW13NTNLNFIxVmhEaEZBc0xrMTFMMjdIRE5SeU4yaFJ4akFnYXA2SDBpdVlVMTFBWGpxbWRmVW9n?oc=5",
    "source": "CNN",
@@ -173,13 +179,61 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwNUpDODJRU1NmRFVtSlljaFEwb2hnZ3YyWEcweUtnTEh5OGtKeEJQemRiS0tsbG9ZaVh3QmJMQWhNR05SV1Y0c3h5ZnoySHNNVU1IVi1jNy1XdzhuekdB?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-03T10:04+09:00"
-  },
-  {
-   "title": "トランプ大統領 イランへの再攻撃判断「急いでいない」 原油価格高騰をめぐる有権者の不満を鎮めたい意向もあるか",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pODZ5Y0tBTFJpREZSTXh0VkdDamhqMld0ejZUOGtlR01QU291cnVwdW1kdTZLdVhrQ1N1b2xRel9ScVA5bk90R1pPUWJ0SzdkTDlVZG5rdHRSTlJQaVNiMm11a2VvTURCOTJFVm93?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-03T09:37+09:00"
   }
  ],
- "outage": []
+ "outage": [],
+ "japan": [
+  {
+   "title": "全国瞬時警報システム（Jアラート）の全国一斉情報伝達試験（第3回）を実施します",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzlhTGdNYVZxNDZ4NW1IMTJhQWw5ZDNlNDZmQzgtcXVkQlNVREVhcXdkUjFIX0pFQ1BkaF85SVEtMmd0R0pPb1BPdGtTQlVJemRzLXdmM1p0ZmtGZWdlWTRiTFpGMHpETUcwcGQ0dVpnakVMY1c5YjlKTlNmN3NMVmZuY1Mzc0JaeEtTZnIzTEJQRDBGQktLOGd3?oc=5",
+   "source": "仙台市公式ホームページ",
+   "at": "2026-11-02T19:16+09:00"
+  },
+  {
+   "title": "北朝鮮が弾道ミサイルなど十数発を発射、日本のＥＥＺ外へ落下…木原官房長官「断じて容認できない」（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yaXdQNExJTmxxekZLMTI0cXVvcTBDRHBiU2pUNC01SEVtVjFGSXB0d1Fzel9palRaZ2Fwek4zN3hnOFpwQ003RjJ1ejM2eXZpVXZBOTIxWGdzUHpmZWdoZ2xSSUx3QU96OUJwWHhpS0xlSGYwRl9tVDRJNG04QlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-02T19:07+09:00"
+  },
+  {
+   "title": "#佐久市【全国瞬時警報システム（Jアラート）の全国一斉緊急地震速報訓練】のお知らせ📣「防災行政...",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QZlpMNE5GYlBaZWtscjBGMGRPX2VCMUZhUS1fLTA4b0lSVzZNaGg4V29qeVg2Y29jNjNLb1ptb2poWmtmaUpPcVdIVjRFX3NSbzNEekVzSXVZV0FwTFE?oc=5",
+   "source": "選挙ドットコム",
+   "at": "2026-11-02T12:39+09:00"
+  }
+ ],
+ "status": {
+  "world": {
+   "level": "yellow",
+   "reasons": [
+    "24時間以内に「攻撃」の報道が14件"
+   ],
+   "items": [
+    {
+     "title": "米軍、イランのゲシュム島に「防衛目的」の限定攻撃 中間選挙前夜",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54SjZ3MWJzUkNocTVYcDVmUUc3YnhWV3lpY1ltZ284UHIwUmw3Sl9yaUoxVDNMa0p4WWVTLUdBRlJRYUJ6R3JLZGRIcE1SdDJPTlhtWHpDMzFqREVxdUloRjJ6bFpUVDZNNk91Z2xR?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-03T11:41+09:00"
+    },
+    {
+     "title": "米軍、イランのゲシュム島に限定的な「防衛目的」の攻撃 中間選挙前夜",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12M3lEaVBwcUgtRmsxMFR2YW13NTNLNFIxVmhEaEZBc0xrMTFMMjdIRE5SeU4yaFJ4akFnYXA2SDBpdVlVMTFBWGpxbWRmVW9n?oc=5",
+     "source": "CNN",
+     "at": "2026-11-03T11:27+09:00"
+    },
+    {
+     "title": "米軍がイラン・ケシム島攻撃 トランプ氏、大規模作戦再開「急がず」―報道",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpdGljRUdaZ0pGT2pETUd5eGpKLWZCQWVkWHhFdzFxTmxjbW5hZE8tTExfZXFrUUZCTUF0SjAtMkc1aGgtVjE4TmVpUjhEMWduRkNYakFkLXFMRWFuQUFYR3Ztbw?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-03T11:26+09:00"
+    }
+   ]
+  },
+  "japan": {
+   "level": "yellow",
+   "reasons": [
+    "弾道ミサイルの報道（北朝鮮が弾道ミサイルなど十数発を発射、日本のＥＥＺ外へ落下…）"
+   ]
+  }
+ }
 }
