@@ -307,6 +307,11 @@ function renderInfo(info, fromCache) {
   for (const n of (info.outage || [])) o.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
   if (!o.children.length) emptyRow(o, "ここ2日、大阪の停電のニュースはありません");
 
+  // サイバー攻撃・通信障害
+  const cy = $("#infoCyber"); cy.innerHTML = "";
+  for (const n of (info.cyber || [])) cy.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));
+  if (!cy.children.length) emptyRow(cy, info.cyber ? "ここ2日、該当するニュースはありません" : "次の更新から表示されます");
+
   // 国際ニュース
   const g = $("#infoWorld"); g.innerHTML = "";
   for (const n of (info.world || [])) g.appendChild(infoRow(n.title, [n.source, fmtAt(n.at)].filter(Boolean).join("　"), n.link));

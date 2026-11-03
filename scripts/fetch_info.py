@@ -68,6 +68,14 @@ OSAKA_PLACES = ["大阪市", "生野", "旭区", "大阪・", "大阪の", "大�
 OSAKA_RED = ["避難指示", "緊急安全確保", "テロ", "爆発"]
 OSAKA_YELLOW = ["断水", "大規模火災", "延焼", "高齢者等避難"]
 
+# サイバー攻撃・通信障害（通信障害は安否連絡に直接響くので一緒に見る）
+CYBER_FEEDS = [
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("サイバー攻撃 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("ランサムウェア OR 不正アクセス when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("通信障害 OR システム障害 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
+]
+CYBER_KEYWORDS = ["サイバー", "ランサムウェア", "不正アクセス", "ハッキング", "DDoS", "情報漏えい", "情報流出", "通信障害", "システム障害"]
+
 # ---------- 危険度の判定（目安） ----------
 # 世界：直近24時間のニュース見出しに出てくる言葉で判定
 WORLD_RED = ["核攻撃", "核兵器を使用", "核兵器使用", "全面戦争", "宣戦布告", "日本を攻撃", "在日米軍基地を攻撃", "在日米軍基地に攻撃"]
@@ -331,6 +339,7 @@ def main():
         "world": lambda: collect_news(WORLD_FEEDS, WORLD_KEYWORDS, 15, 72),
         "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48, OUTAGE_PLACES),
         "japan": lambda: collect_news(JAPAN_FEEDS, JAPAN_KEYWORDS, 6, 48),
+        "cyber": lambda: collect_news(CYBER_FEEDS, CYBER_KEYWORDS, 10, 48),
         "osaka": lambda: collect_news(OSAKA_FEEDS, OSAKA_RED + OSAKA_YELLOW, 6, 48, OSAKA_PLACES),
     }
     for key, fn in jobs.items():
