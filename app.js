@@ -551,7 +551,7 @@ function assessJapan(info) {
   pushNankai(info, red, yel, urgent);
   const ja = realOnly(newsHits(info.japan, ["Jアラート", "国民保護"], 12));
   if (ja.length) { red.push(`「${ja[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(ja[0])); }
-  else { const mi = newsHits(info.japan, ["弾道ミサイル"]); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
+  else { const mi = newsHits(info.japan, ["弾道ミサイル"]).filter(n => ["北朝鮮", "日本", "EEZ", "ＥＥＺ", "排他的経済水域", "防衛省", "官房長官", "日本海"].some(w => n.title.includes(w))); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
   return result(red, yel, "大きな地震やミサイルの報道なし", urgent);
 }
 function withLive(news, live) {

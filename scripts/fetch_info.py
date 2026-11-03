@@ -66,6 +66,7 @@ JAPAN_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("弾道ミサイル 日本 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
 JAPAN_KEYWORDS = ["Jアラート", "弾道ミサイル", "国民保護"]
+JAPAN_MISSILE_PLACES = ["北朝鮮", "日本", "EEZ", "ＥＥＺ", "排他的経済水域", "防衛省", "官房長官", "日本海"]  # 日本に関係する弾道ミサイルの報道だけ数える
 # 大阪市：避難指示・断水・大きな火災などの報道（見出しに大阪市内の地名を含むもの）
 OSAKA_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("大阪市 避難指示 OR 断水 OR 大規模火災 OR 爆発 OR テロ when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
@@ -336,7 +337,7 @@ def assess_japan(r, now):
     if ja:
         red.append(f"「{ja[0]['title'][:40]}」")
     else:
-        mi = hits(jn, ["弾道ミサイル"], now, 24)
+        mi = [n for n in hits(jn, ["弾道ミサイル"], now, 24) if any(w in n["title"] for w in JAPAN_MISSILE_PLACES)]
         if mi:
             yel.append(f"弾道ミサイルの報道（{mi[0]['title'][:30]}）")
     if red:
