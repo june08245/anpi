@@ -97,7 +97,15 @@ function splitShelter(str) {
   return { name: str.slice(0, m.index).trim(), loc: { lat: +m[1], lng: +m[2], acc: +m[3], t: parseInt(m[4], 36) * 60000 } };
 }
 // 「家で無事」のまま現在地を送ると矛盾するので、位置付きの無事は「外で無事」と表示する
-const stateLabel = st => st.state === "ok" && splitShelter(st.shelter).loc ? "外で無事" : (LABEL[st.state] || "");
+// 会社にいる時は、場所の欄に「会社」とだけ入れて送る（Firebaseのルールを変えずに済むように）
+const WORK = "会社";
+let myPlace = ls.get("place") || null; // "work" か null
+function stateLabel(st) {
+  if (st.state !== "ok") return LABEL[st.state] || "";
+  const sh = splitShelter(st.shelter);
+  if (sh.name === WORK) return "会社で無事";
+  return sh.loc ? "外で無事" : "家で無事";
+}
 const mapUrl = loc => `https://maps.google.com/?q=${loc.lat.toFixed(5)},${loc.lng.toFixed(5)}`;
 // 古い位置（地下鉄に乗る前の場所など）を使わないよう、押した後に取れた位置だけを使う。
 // 12秒まで待って、いちばん精度のよい位置を送る。
@@ -170,7 +178,7 @@ function closePicker() { $("#mapDlg").hidden = true; document.body.classList.rem
 function commitLocation(lat, lng, acc, manual) {
   myLoc = { lat, lng, acc: manual ? 0 : acc, t: Date.now() }; ls.set("loc", myLoc);
   const extra = manual ? "・自分で合わせた位置" : `・誤差 約${Math.round(acc)}m`;
-  send(pickState || (ls.get("last") || {}).state || "ok", true, true, extra);
+  send(pickState || (ls.get("last") || {}).state || "ok", true, true, extra, null); // 今ここにいる＝会社ではない扱い
 }
 $("#pickSend").onclick = () => {
   const c = pickMap.getCenter();
@@ -193,7 +201,7 @@ function smsText(st = ls.get("last")) {
   if (st) {
     t = `【安否】${stateLabel(st)}（${hm(st.at)}）`;
     const sh = splitShelter(st.shelter);
-    if (sh.name) t += ` ${sh.name}にいる`;
+    if (sh.name && sh.name !== WORK) t += ` ${sh.name}にいる`;
     if (sh.loc) t += ` 現在地 ${mapUrl(sh.loc)}`;
     if (st.note) t += ` ${st.note}`;
     if (st.battery != null) t += ` 電池${st.battery}%`;
@@ -204,13 +212,15 @@ function smsText(st = ls.get("last")) {
 $("#copyBtn").onclick = e => copyText($("#smsText").textContent, e.target, "文をコピー");
 
 /* ---------- 安否送信 ---------- */
-async function send(state, keepNote, withLoc, extra = "") {
-  // 「家で無事」を押した時は、家の場所を送らないよう現在地を消す
+async function send(state, keepNote, withLoc, extra = "", place) {
+  // 場所の扱い：「会社で無事」は会社、それ以外のボタンや「今ここにいる」では会社を外す
+  if (place !== undefined) { myPlace = place; place ? ls.set("place", place) : ls.del("place"); }
+  // 「家で無事」「会社で無事」を押した時は、家や会社の場所を送らないよう現在地を消す
   if (state === "ok" && !withLoc && myLoc) { myLoc = null; ls.del("loc"); }
   const battery = await readBattery();
   const last = ls.get("last");
   const note = keepNote && last && !$("#note").value.trim() ? last.note : $("#note").value.trim().slice(0, 40);
-  const st = { name: ls.get("name") || "", state, note, battery, shelter: joinShelter(myShelter, myLoc), at: Date.now() };
+  const st = { name: ls.get("name") || "", state, note, battery, shelter: joinShelter(myPlace === "work" ? WORK : myShelter, myLoc), at: Date.now() };
   ls.set("last", st); ls.set("lastSent", st.at); smsText(st);
   if (fb) {
     people[fb.uid] = { ...st, pending: true }; renderPeople();
@@ -225,7 +235,7 @@ async function send(state, keepNote, withLoc, extra = "") {
   }
   paintMode();
 }
-document.querySelectorAll(".sbtn").forEach(b => b.onclick = () => send(b.dataset.s));
+document.querySelectorAll(".sbtn").forEach(b => b.onclick = () => send(b.dataset.s, false, false, "", b.dataset.place || null));
 $("#locBtn").onclick = sendLocation;
 
 /* ---------- ふたりの状況 ---------- */
@@ -248,7 +258,7 @@ function renderPeople() {
     if (s.pending) { const w = document.createElement("span"); w.className = "pending"; w.textContent = " ・ 送信待ち"; meta.appendChild(w); }
     if (Date.now() - s.at > SIX_H) { const w = document.createElement("span"); w.className = "stale"; w.textContent = " ・ 6時間以上更新なし"; meta.appendChild(w); }
     const sh = splitShelter(s.shelter);
-    el.querySelector(".nt").textContent = [sh.name ? "いる場所：" + sh.name : "", s.note || ""].filter(Boolean).join("　");
+    el.querySelector(".nt").textContent = [sh.name && sh.name !== WORK ? "いる場所：" + sh.name : "", s.note || ""].filter(Boolean).join("　");
     if (sh.loc) {
       const row = document.createElement("div"); row.className = "locrow";
       const a = document.createElement("a"); a.href = mapUrl(sh.loc); a.target = "_blank"; a.rel = "noopener"; a.className = "sm";

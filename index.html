@@ -10,7 +10,7 @@
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="ふたりの安否">
-<link rel="stylesheet" href="style.css?v=26">
+<link rel="stylesheet" href="style.css?v=27">
 </head>
 <body>
 <div class="wrap">
@@ -68,11 +68,12 @@
       <h2>いまの状態を送る</h2>
       <div class="btns">
         <button class="sbtn ok" data-s="ok"><span>家で</span><span>無事</span></button>
+        <button class="sbtn ok" data-s="ok" data-place="work"><span>会社で</span><span>無事</span></button>
         <button class="sbtn hurt" data-s="hurt"><span>避難</span><span>した</span></button>
         <button class="sbtn help" data-s="help"><span>ケガ・</span><span>危ない</span></button>
       </div>
       <button class="locbtn" id="locBtn">今ここにいる（現在地を送る）</button>
-      <p class="sub">押した時だけ現在地を送ります（いつも追いかけることはしません）。押すと地図が開くので、ずれていたら場所を合わせてから送れます。外で押すと「外で無事」になり、「家で無事」を押すと位置は消えます。</p>
+      <p class="sub">押した時だけ現在地を送ります（いつも追いかけることはしません）。押すと地図が開くので、ずれていたら場所を合わせてから送れます。外で押すと「外で無事」になり、「家で無事」「会社で無事」を押すと位置は消えます。</p>
       <div>
         <label for="note">ひとことメモ（任意・40字まで）</label>
         <input type="text" id="note" maxlength="40" placeholder="例：家にいる／水が足りない">
@@ -229,6 +230,6 @@
     </div>
   </div>
 </div>
-<script type="module" src="app.js?v=26"></script>
+<script type="module" src="app.js?v=27"></script>
 </body>
 </html>
