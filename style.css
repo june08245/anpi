@@ -113,3 +113,13 @@ a.irow .t{text-decoration:underline;text-decoration-color:var(--line);text-under
 .grp{font-size:18px;font-weight:800;margin:14px 0 0;padding-top:12px;border-top:2px solid var(--fg);color:var(--fg);scroll-margin-top:calc(12px + env(safe-area-inset-top,0px))}
 #info .infohead + .grp{margin-top:0}
 .ilist .irow.hit .t{background:var(--warn-bg);box-shadow:0 0 0 4px var(--warn-bg);border-radius:2px}
+
+/* 緊急のヘッドライン */
+.headline{background:var(--sos);color:var(--ink-on);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:8px}
+.hltag{align-self:flex-start;font-size:13px;font-weight:800;letter-spacing:.1em;border:2px solid var(--ink-on);border-radius:6px;padding:0 8px}
+.hllist{display:flex;flex-direction:column;gap:10px}
+.hl{display:flex;flex-direction:column;gap:2px;color:var(--ink-on);text-decoration:none;min-width:0}
+.hl + .hl{border-top:1px solid color-mix(in srgb,var(--ink-on) 35%,transparent);padding-top:10px}
+.hlt{font-size:17px;font-weight:800;line-height:1.45;overflow-wrap:anywhere}
+a.hl .hlt{text-decoration:underline;text-underline-offset:3px}
+.hlm{font-size:12.5px;opacity:.9;font-variant-numeric:tabular-nums}

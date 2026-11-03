@@ -363,8 +363,32 @@ function renderInfo(info, fromCache) {
 
 // 「大阪市」「日本」「世界」の状況を 安全／注意／緊急 で表示する（判定は scripts/fetch_info.py）
 const LEVEL = { green: "安全", yellow: "注意", red: "緊急" };
+function renderHeadline(st) {
+  const box = $("#headline"), list = $("#headlineList");
+  const items = [], seen = new Set();
+  for (const [key, label] of [["osaka", "大阪市"], ["japan", "日本"], ["world", "世界"]]) {
+    const s = st[key];
+    if (!s || s.level !== "red") continue;
+    for (const n of (s.urgent || s.items || []).slice(0, 2)) {
+      if (!n || !n.title || seen.has(n.title)) continue;
+      seen.add(n.title); items.push({ ...n, area: label });
+    }
+  }
+  list.innerHTML = "";
+  for (const n of items.slice(0, 3)) {
+    const a = document.createElement(n.link ? "a" : "div");
+    a.className = "hl";
+    if (n.link) { a.href = n.link; a.target = "_blank"; a.rel = "noopener"; }
+    const t = document.createElement("span"); t.className = "hlt"; t.textContent = n.title;
+    const m = document.createElement("span"); m.className = "hlm";
+    m.textContent = [n.area, n.source, n.at ? fmtAt(n.at) : ""].filter(Boolean).join("　");
+    a.append(t, m); list.appendChild(a);
+  }
+  box.hidden = !items.length;
+}
 function renderStatus(info) {
   const st = info.status || {};
+  renderHeadline(st);
   for (const [key, id] of [["osaka", "#stOsaka"], ["japan", "#stJapan"], ["world", "#stWorld"]]) {
     const card = $(id), s = st[key];
     card.className = "scard" + (s && LEVEL[s.level] ? " " + s.level : "");
@@ -466,7 +490,11 @@ const within = (at, h) => { const t = new Date(at).getTime(); return !isNaN(t) &
 const RED_EXCLUDE = ["偽", "誤報", "誤って", "訓練", "試験", "テスト", "想定", "可能性", "恐れ", "おそれ", "シナリオ", "シミュレーション", "否定", "なら", "仮に", "警告", "懸念"];
 const realOnly = list => list.filter(n => !RED_EXCLUDE.some(x => n.title.includes(x)));
 const newsHits = (list, words, h = 24) => (list || []).filter(n => within(n.at, h) && words.some(w => n.title.includes(w)));
-const result = (red, yel, ok) => red.length ? { level: "red", reasons: [...red, ...yel] } : yel.length ? { level: "yellow", reasons: yel } : { level: "green", reasons: [ok] };
+const result = (red, yel, ok, urgent = []) => red.length ? { level: "red", reasons: [...red, ...yel], urgent } : yel.length ? { level: "yellow", reasons: yel } : { level: "green", reasons: [ok] };
+// 緊急の原因（ヘッドラインに出す）。title と link（押した先）を持つ
+const JMA_WARN_PAGE = "https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=2710000";
+const JMA_QUAKE_PAGE = "https://www.jma.go.jp/bosai/map.html#contents=earthquake_map";
+const newsUrgent = n => ({ title: n.title, link: n.link, source: n.source, at: n.at });
 // 自分たちに直接関わるサイバー攻撃・障害（scripts/fetch_info.py の local_cyber と同じ基準）
 const CYBER_LOCAL_PLACES = ["大阪", "関西", "近畿", "関電", "大阪ガス", "大阪メトロ", "生野", "旭区"];
 const CYBER_LOCAL_WORDS = ["サイバー攻撃", "ランサムウェア", "通信障害", "システム障害", "大規模障害", "つながりにくい"];
@@ -481,43 +509,50 @@ function localCyber(news) {
   });
 }
 function assessOsaka(info) {
-  const red = [], yel = [];
-  for (const w of (info.warnings && info.warnings.items) || []) { if (w.level >= 4) red.push(w.name); else if (w.level === 3) yel.push(w.name); }
+  const red = [], yel = [], urgent = [];
+  for (const w of (info.warnings && info.warnings.items) || []) {
+    if (w.level >= 4) { red.push(w.name); urgent.push({ title: `大阪市に${w.name}`, link: JMA_WARN_PAGE, source: "気象庁" }); }
+    else if (w.level === 3) yel.push(w.name);
+  }
   for (const q of info.quakes || []) {
     if (!within(q.at, 24)) continue;
-    if (q.osakaRank >= 5) red.push(`震度${q.osaka}の地震（${fmtAt(q.at)}）`);
+    if (q.osakaRank >= 5) { red.push(`震度${q.osaka}の地震（${fmtAt(q.at)}）`); urgent.push({ title: `大阪で震度${q.osaka}の地震（震源：${q.place}）`, link: JMA_QUAKE_PAGE, source: "気象庁", at: q.at }); }
     else if (q.osakaRank === 4) yel.push(`震度4の地震（${fmtAt(q.at)}）`);
   }
   const out = newsHits(info.outage, ["停電"]);
   if (out.length) yel.push(`停電の報道（${out[0].title.slice(0, 30)}）`);
   const lr = realOnly(newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"]));
-  if (lr.length) red.push(`「${lr[0].title.slice(0, 40)}」`);
+  if (lr.length) { red.push(`「${lr[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(lr[0])); }
   else { const ly = newsHits(info.osaka, ["断水", "大規模火災", "延焼", "高齢者等避難"]); if (ly.length) yel.push(`「${ly[0].title.slice(0, 40)}」`); }
-  pushNankai(info, red, yel);
+  pushNankai(info, red, yel, urgent);
   const cy = localCyber(info.cyber);
   if (cy.length) yel.push(`「${cy[0].title.slice(0, 40)}」`);
-  return result(red, yel, "警報なし・大きな揺れや停電の報道なし");
+  return result(red, yel, "警報なし・大きな揺れや停電の報道なし", urgent);
 }
 function nankaiLevel(news) {
   const list = (news || []).filter(n => n.title.includes("臨時情報") && n.title.includes("発表"));
-  if (list.some(n => n.title.includes("巨大地震警戒") && within(n.at, 24 * 7))) return ["red", "南海トラフ地震臨時情報（巨大地震警戒）"];
+  const w = list.find(n => n.title.includes("巨大地震警戒") && within(n.at, 24 * 7));
+  if (w) return ["red", "南海トラフ地震臨時情報（巨大地震警戒）", w];
   if (list.some(n => n.title.includes("巨大地震注意") && within(n.at, 24 * 7))) return ["yellow", "南海トラフ地震臨時情報（巨大地震注意）"];
   if (list.some(n => n.title.includes("調査中") && within(n.at, 24))) return ["yellow", "南海トラフ地震臨時情報（調査中）"];
   return [null, null];
 }
-function pushNankai(info, red, yel) { const [l, r] = nankaiLevel(info.nankai); if (l === "red") red.push(r); else if (l === "yellow") yel.push(r); }
+function pushNankai(info, red, yel, urgent) {
+  const [l, r, n] = nankaiLevel(info.nankai);
+  if (l === "red") { red.push(r); if (urgent && n) urgent.push(newsUrgent(n)); } else if (l === "yellow") yel.push(r);
+}
 function assessJapan(info) {
-  const red = [], yel = [];
+  const red = [], yel = [], urgent = [];
   for (const q of info.quakes || []) {
     if (!within(q.at, 24)) continue;
-    if (q.maxiRank >= 7) red.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`);
+    if (q.maxiRank >= 7) { red.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`); urgent.push({ title: `${q.place}で震度${q.maxi}の地震（M${q.mag || "-"}）`, link: JMA_QUAKE_PAGE, source: "気象庁", at: q.at }); }
     else if (q.maxiRank >= 5) yel.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`);
   }
-  pushNankai(info, red, yel);
+  pushNankai(info, red, yel, urgent);
   const ja = realOnly(newsHits(info.japan, ["Jアラート", "国民保護"], 12));
-  if (ja.length) red.push(`「${ja[0].title.slice(0, 40)}」`);
+  if (ja.length) { red.push(`「${ja[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(ja[0])); }
   else { const mi = newsHits(info.japan, ["弾道ミサイル"]); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
-  return result(red, yel, "大きな地震やミサイルの報道なし");
+  return result(red, yel, "大きな地震やミサイルの報道なし", urgent);
 }
 function withLive(news, live) {
   const info = { ...(news || {}) };
