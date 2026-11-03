@@ -9,6 +9,7 @@ on:
     paths:
       - "scripts/fetch_info.py"
       - ".github/workflows/info.yml"
+      - "data/refresh.txt"          # 手動で更新したい時はこのファイルを書き換える
 
 permissions:
   contents: write
