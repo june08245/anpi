@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:15+09:00",
+ "updated": "2026-11-04T00:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -191,7 +191,7 @@
      "at": "2026-11-03T17:33+09:00"
     },
     {
-     "title": "北朝鮮が巡航ミサイルの発射実験を実施",
+     "title": "北朝鮮が巡航ミサイルの発射実験を実施 | NHKニュース | 北朝鮮情勢、核・ミサイル",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kcTUyTUc0eks3Y3NXNGVCWHA1UkxLWDczbFEtS1JhY2lKLXVHUUZ0bWk2YUNxajRrbXlwSTUwcEtocUhISWU0a0h6YmFlaDBUR2huS2F2bVYxcWZpdExR?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-03T15:24+09:00"
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "プーチン氏をキーウに招くことや、私をモスクワに招くことは有害＝ゼレンシキー宇大統領",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ1JoaUN4c0hhbnc0UUM4Q1hSa2RBeURBUHpJTlUtMDdZYnJXYU1feWRkT2x6TGdDOTFWWWFUU1JrZnJqeWJIMURnUU5qNGV5WnNCbVlsdkNlZkV0d0pXOTEtSmhHc0dwMERWY0JkNjY3QzkyVXpZYkZibDZ2QTRHQzg4Y29hTDI2aloybzc3ZWtiNFgxTDVlR2JQSVZzS2NwR2lpQjNzSHF1cE1XZW1yTVVuRERZcjZ0NTdxUWhJV0xaS1BBS254dzFid1lnMTh6Y0NxYnRQc2FtSUhwekU00gHkAUFVX3lxTE05dUdNWnMwRWtJcVoxSVdoTnZ2ckc5RkdONE00S3diTlpZMmRWbTMwbG9oQXhvZXAwMlU2QXcyUjQwN2FubjBHcDQtMGRtQkNhbXJfb3pXN283VzZTdGdJY1RpWE1BckdNaXhOdTQ2MzZaTUkzOXRIS0p2ZnNTaFlEallnSVppUjh1aXQ2RHkyZTdDLVAwSC12eE5sY2drb1dCZW5UZDdLQ1hqcFBNTjFTdmRzbHk3eW40MHU0dmVHYk5PZzJQb2VhYmNEWVNCb1R1SE5rLXZwUHdGZG5JRXdMNTdiSQ?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-04T00:11+09:00"
+    },
+    {
      "title": "ロシア軍、人道支援物資配布拠点の学校など攻撃…31人死亡、5人負傷 ウクライナ南部",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PNUdlaThyRUdmdUZZMFNVTEFsOHBmZzY5dzJfZnpla1d1Q1VidVJkQ3J1VnQ1M3ZuLWJ1dWtUTTQyalZBZzlGUzlabVlfVjBiT1QyUUZPclNsM3d6M0NtZkJaUEo2cjZvYkRIZ3dB?oc=5",
      "source": "au Webポータル",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NME9QN0FKMnFxT282dVZudjVDYXk2Q1E4RWxtdi00MEcxS1hXam5adXROQndSQnk3SS1jWWlBQlpRMFc2VERGVng5cnpEZ2lNNzExTURQQjFmakxyRlE?oc=5",
      "source": "テレ東BIZ",
      "at": "2026-11-03T22:49+09:00"
-    },
-    {
-     "title": "死者31人に 不明も48人 ウクライナの学校空爆 ロシアは「軍部隊を攻撃し兵士殺害」",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NWlZqcXl4YWlDaF81OFlzOXVlUEpIVlBsem1UZ0EzVndmMHc0NGpaVEFudnI3MTBibFlWTkpxbVo5VlAtM0pheUtVdnNKbjFkSW95eXJFTWlQQW5kRUZvdXEzeVQtU2ZldWo3Ym5UOFVUODFtZHpxRldn?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-03T22:27+09:00"
     }
    ]
   }
@@ -338,12 +338,6 @@
    "at": "2026-11-03T23:53+09:00"
   },
   {
-   "title": "サーバーに「セキュリティ上の設計ミス」と関係者 GMO不正アクセス問題",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FSTA2R0lob3hpMllETkpwQndmenFBOHlxVVBXc09GOG5VakFpQUxyeWpxTjRMd2FKeDRxZ05CRG1sV3BKcG9oY0FfVTNCM0I2QVFSaV9xckRtRC1Q?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-03T23:45+09:00"
-  },
-  {
    "title": "「何のメリットが…」冷蔵設備が“50度”に…欧州9カ国でまたサイバー攻撃",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FeUs3X0dwT0JMcVZqSHpoaXB3N3ljYk5TME1lZm9WQktGTFRhZjNGRWdtX0xfNGNac0JZX19OVGozaS1kczJ5S2hYZDdLU2tPX2FzNA?oc=5",
    "source": "ABEMA TIMES",
@@ -354,6 +348,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZVcyc0dMZXhqVXFtWnVnSDJWQmtmTVNMbV9PMTlONDd3ckJBYUl6aDFwM201ZnFHbURqZFhnQWF2V0s4MXpzUlNKdzc1aUlaMFNYTThENmVrRlRLSnIyRnV6Q29tUnBYczFwb1JiUWlzX3Mxa19KTnpHbGlRSjQ?oc=5",
    "source": "日経メディカル",
    "at": "2026-11-03T23:45+09:00"
+  },
+  {
+   "title": "サーバーに「セキュリティ上の設計ミス」と関係者 GMO不正アクセス問題（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PQnpqblVGOThDVmRTRlpZNFhiTzNUTUVrSklzWldjSk9obnQ5RnZRTE1oUFdaQ2JtckRYLTk1dU5hTHp4SkRRbkR1R1pQTmxLTWxUTVRlODNzZExzX1Yxbk54dDZzaVlrZHV2V3UwVEY1c1RFbW8wYTJCdG5ta0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-03T23:42+09:00"
   },
   {
    "title": "セブン‐イレブン「7NOW」で16万9,151件の個人情報漏洩の恐れ、配送委託先CBcloud「ピックゴー」への不正アクセスが原因",
@@ -368,27 +368,27 @@
    "at": "2026-11-03T23:28+09:00"
   },
   {
+   "title": "GМОの熊谷会長兼社長、AI悪用のサイバー攻撃に危機感 防衛網整備を訴え",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80TmpXZEZVU1Jrc3FLWGt2Y3ItWE56ZmZibDd6OWdTWWdteGdXZkZnTDgwbTFWN1FKaWYwUjIzVkJhSU9iVmR1S0NvZm4yV09UQlE?oc=5",
+   "source": "電波新聞デジタル",
+   "at": "2026-11-03T23:26+09:00"
+  },
+  {
    "title": "「すべての冷凍食品を廃棄」ヨーロッパ各国のスーパーに再び大規模サイバー攻撃 冷蔵庫・冷凍庫が高温に 大量の食品が廃棄に スウェーデン・ベルギーなど",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLT1dpbnVNYjdBanZyeXo5aENwQTBKWDN1NXBKbzZTa1NKVlgyV0dUSkduWlNiZzQ0Vzd2SGtVX09FTlRCYjhuamQ5ODdRSU1Dc2d0c2hwMA?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-03T23:22+09:00"
-  },
-  {
-   "title": "欧州各国で冷蔵設備の遠隔操作によるサイバー攻撃が急拡大 9カ国で食品の大量廃棄が発生",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GWTlSeGxwbWdUNS1VY1huY2s2dDlKMHVhdk9qYWN4NDZLWHRocjZhdlFqNDhsdmZVclA3YU53UWpiUEhzOXppNy13Wi10NDlUU0Jr?oc=5",
-   "source": "東京報道新聞",
-   "at": "2026-11-03T23:02+09:00"
   }
  ],
- "osaka": [
-  {
-   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42T0FwbWh1cG9NTnMzb0Q2cnM5VlJVUjJINFh1Mk8xYXZkMWp3Q003MDBFcEE0aFlLUE9EVnUyNHloc0ZTMmJPckxmRWpwdmhDZnc?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-03T18:03+09:00"
-  }
- ],
+ "osaka": [],
  "world": [
+  {
+   "title": "プーチン氏をキーウに招くことや、私をモスクワに招くことは有害＝ゼレンシキー宇大統領",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ1JoaUN4c0hhbnc0UUM4Q1hSa2RBeURBUHpJTlUtMDdZYnJXYU1feWRkT2x6TGdDOTFWWWFUU1JrZnJqeWJIMURnUU5qNGV5WnNCbVlsdkNlZkV0d0pXOTEtSmhHc0dwMERWY0JkNjY3QzkyVXpZYkZibDZ2QTRHQzg4Y29hTDI2aloybzc3ZWtiNFgxTDVlR2JQSVZzS2NwR2lpQjNzSHF1cE1XZW1yTVVuRERZcjZ0NTdxUWhJV0xaS1BBS254dzFid1lnMTh6Y0NxYnRQc2FtSUhwekU00gHkAUFVX3lxTE05dUdNWnMwRWtJcVoxSVdoTnZ2ckc5RkdONE00S3diTlpZMmRWbTMwbG9oQXhvZXAwMlU2QXcyUjQwN2FubjBHcDQtMGRtQkNhbXJfb3pXN283VzZTdGdJY1RpWE1BckdNaXhOdTQ2MzZaTUkzOXRIS0p2ZnNTaFlEallnSVppUjh1aXQ2RHkyZTdDLVAwSC12eE5sY2drb1dCZW5UZDdLQ1hqcFBNTjFTdmRzbHk3eW40MHU0dmVHYk5PZzJQb2VhYmNEWVNCb1R1SE5rLXZwUHdGZG5JRXdMNTdiSQ?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-04T00:11+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "イラン大統領、米国の攻撃報道後「戦争の再開は誰の利益にもならない」と発言",
    "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQNmF3MTF6bDhyMWZNRTMzUWlrQ0pWTXdpUXR2cGZ3dXhTaDNiaXFOckY4dnI4R1JEUEV1Q0N2eDBVRTE5Vy1abWw5LTNVTEhreDVVTTBoWWczZFd0ZmFDOXVHYVQ1WVBiaEFHUWxwMEZfbHhFLVhZZEdKbXFrMlZkVWd3d2Z4R3VNZXRLZGNwSlZSQVpxU2diOElQdHVDUkZHLXZkek1BcDY1RGhRb0FTUDljMzk3d05IeC1CeFU2dDN1cE1Fb2IzQk1HMEpxUHlVcWVMMHl3M3VqSTY0V240LVZ5SXI1Vy1QcVlnWEFnVTJ0TV8xZFc5Ymktb2JwS3FYVVoxQXFQOVhsOW8tNENDMkJrQm9CYl9oVWtzUFNfMldpeG1jNG1VeWx6VkY4Nk5nNVY5LTQwOVdhOGtmdmZxYTRuc054cm1Eb0dDVHNBX1RsWklSVUppMDBILWZkSTJnU1VpUUlnTDk1ZDV6S0xxRy1ZTnl6akNFVUZuSl9MU1RWanV0c0tMMU5PUUY4aTUySVV4OGlUdU9ZX3V3UDJWeDExaThHdTl1Y3RIZjlmaVk2bk9PYThONEFoN0FlNFRraHJNZjFMdFRFMXdsaDBXWkg5VDhjMUh3M1U2aTM5Sm1uVnc?oc=5",
@@ -467,13 +467,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "死者31人に 不明も48人 ウクライナの学校空爆 ロシアは「軍部隊を攻撃し兵士殺害」",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NWlZqcXl4YWlDaF81OFlzOXVlUEpIVlBsem1UZ0EzVndmMHc0NGpaVEFudnI3MTBibFlWTkpxbVo5VlAtM0pheUtVdnNKbjFkSW95eXJFTWlQQW5kRUZvdXEzeVQtU2ZldWo3Ym5UOFVUODFtZHpxRldn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-03T22:27+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米国がホルムズ海峡で防御的攻撃を実施、イラン標的に対し",
    "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPNURkTjJIdjNkUkh2VXE1bzBtY1JrSG1OTS12VUh2cjFGZ04xXzdmRnZhU1BCRFRjMlNLTFNVS19FOUxOV2lvZFcxQnJ6QWdCazZxWWR2M244X3VEZW1QaW5LRmdnalhrcm9LSGNkWnd3aGZRX081WFhmQ1dqMHZBY0VsVWwtWmlhUGtGUk42UWNhMVFXMkpJUjkwZ24zRmNwSmxiU3o1Q3FXVnd6dEYzTzgzNVdwTUk3V2M1c1JCUVI2bUZyRlFabVNuZmd5ajUwM1FGMk1oYzgweUhza1U3MlNHNVVKaGZ0a2Fqakl1b1JnMV9ZS2EtaEhDNVF6cl9fd1RGRUdnbWE3VTh6X1dycDdnX1lndHhLN2tqU3NSczRFdXF1bm1GX2ZtZjBUQUd2VHQ1TkFTaHNOVEZycVlzVXAzbTU2NnI4OG55VEJWUDF1QkNyVk52VTI1Z2tXSG00WmdmZHMtUHN5RlU4dWVkX1lzWmFZdlNjNHZhWVMyQ0hHOGhzNG5DdkRSV2p3eGc?oc=5",
    "source": "アラブニュース",
@@ -502,7 +495,7 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮が巡航ミサイルの発射実験を実施",
+   "title": "北朝鮮が巡航ミサイルの発射実験を実施 | NHKニュース | 北朝鮮情勢、核・ミサイル",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kcTUyTUc0eks3Y3NXNGVCWHA1UkxLWDczbFEtS1JhY2lKLXVHUUZ0bWk2YUNxajRrbXlwSTUwcEtocUhISWU0a0h6YmFlaDBUR2huS2F2bVYxcWZpdExR?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-03T15:24+09:00",
@@ -548,7 +541,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」5件",
     "北朝鮮：「攻撃」「ミサイル」6件",
-    "ロシア：「攻撃」「空爆」6件"
+    "ロシア：「攻撃」「空爆」5件"
    ],
    "items": [
     {
