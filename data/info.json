@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T05:00+09:00",
+ "updated": "2026-11-05T05:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,16 +95,16 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "トランプ氏「イラン戦争が共和党に打撃」、 熱狂的支持を候補者に波及できず",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOGI5V0NHTzlybmVGSjRFdU4wWHRFZUVPbXVhQllqNXlETk9oQ3A5bVBtMnY4azB4UXpqUmZxZ2pIT2trY0tKYm9OSDBCWm9MZWZId3FPc0xsSzJPcThIQTBBSm5ZRld1QlhPMGRfMnRMYmhfalRNT0htX0p0TFU?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-05T04:21+09:00"
+    },
+    {
      "title": "中間選挙敗北はイラン戦争、トランプ大統領発言受け原油急落｜大橋ひろこ",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5icUZKVXNQWG14blRpY2Q0VmR2Q25rbThDcXYzUVZlTnd4dDcwYmlWNk5HVXdjZXdscUpnd3RjNFVtWHhGRGFSeWxGM0FTZnotVDE0RXVKN2k2UQ?oc=5",
      "source": "note",
      "at": "2026-11-05T03:44+09:00"
-    },
-    {
-     "title": "トランプ氏、イラン戦争「必要だった」 中間選挙敗北の一因と認める",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOGI5V0NHTzlybmVGSjRFdU4wWHRFZUVPbXVhQllqNXlETk9oQ3A5bVBtMnY4azB4UXpqUmZxZ2pIT2trY0tKYm9OSDBCWm9MZWZId3FPc0xsSzJPcThIQTBBSm5ZRld1QlhPMGRfMnRMYmhfalRNT0htX0p0TFU?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-05T03:31+09:00"
     },
     {
      "title": "イラン・ガリバフ議長「アメリカ国民が戦争に反対」と中間選挙結果を称賛 再攻撃に強い警告も",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮がミサイル 日本海へ数発発射 米韓両軍が探知",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zX0w4Mi1pRUFUVDdpLS1CX3B2LUV1Z2Rqd2txQk5ETW9ZS29pM1NESTNoRUUzcW9vMWF6S0xhbUQ4dEd4NlJiZ0lLUTZaUHFFWHluVXdvSDFRUW1INVE?oc=5",
+     "source": "福井新聞社",
+     "at": "2026-11-05T05:00+09:00"
+    },
+    {
      "title": "北朝鮮がミサイル数発発射 日本海へ、１週間で４度目 山陰両県に被害なし",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92RmxJd2lPY2pyZEpoY0c2cDFfQUt6Xzd6a1lmSWNUaWE5azBzdXh0TDVjejNmeUtBQ3ZabmJzSWVtSFhQVl9pZ2JpODAzQTZwU0ZQWGM5aUxReWc?oc=5",
      "source": "山陰中央新報デジタル",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFpGTlZKRl9nSW10ZmxFNmZ1YU5NdXlDak9rWUZaNzlqY0hvYTVzdE9rZXJHWmhZcmR4aFhDOW5iYVpUNld5bFBrQlBxUVVta19BTWQwZ3owUm1BS1dDWHZtaTRsLXdfNE4tenJReHBjRnFmOTFvc0J6ZmVudl9Lc1hVY3JRTUM4?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-04T15:58+09:00"
-    },
-    {
-     "title": "北朝鮮、4日朝に日本海へ弾道ミサイル数発を発射…先月31日以来の挑発",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVUmg5RUxjbG40OTVHMFJDY2czWnA3QjFvTUxrdXByV19Ya0kyZWVvY0NyVVY1TEROVWI3YlAzek1jeDY4WnZCWXlsTUFxclBPSmR5SFdhSFNXWjBo?oc=5",
-     "source": "亜州日報",
-     "at": "2026-11-04T15:38+09:00"
     }
    ]
   },
@@ -374,6 +374,12 @@
  ],
  "cyber": [
   {
+   "title": "２０市町村システム障害 オンライン申請できず",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ra0t6Q0Y3dkNsTXlIUFNjaXZCcmVSQ3FGR1JuRllnUEVBTmdoVzRabHRPMHhxbmZNTGE5NnRCTmxCR0FRX2VsaVNCV3RCS1RVQTRIbHltOVR0QlE2QkpUNQ?oc=5",
+   "source": "琉球新報デジタル",
+   "at": "2026-11-05T05:00+09:00"
+  },
+  {
    "title": "【システム障害】一部電子申請サービスを停止しています（11月3日12時ごろから）",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LYmR3SkVyUmxVRGx6VHBkNFd3cDdmc1F6eDhrWXlrT0dGUXQ4a0VwdmRYbko2cF9jU3ZMTHhaYnc5ckFWcV9CUlNtYWRPcDE1ei02S3BQTmN2Zw?oc=5",
    "source": "五條市",
@@ -416,56 +422,64 @@
    "at": "2026-11-04T22:11+09:00"
   },
   {
-   "title": "仙台市のオンライン申請サービスにシステム障害 復旧は5日以降の見通し 不正アクセスは否定",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5waXNLejVrdnZkSjhJdTl2aHJHUml1Qm9JaW1ySmxlbW9KUTlKbjFoQVdHOXJ4XzVKbHZINkFBRi1ONlIzb2pmNmozZERoVkJJVVRfdWpFNE5HMWc?oc=5",
-   "source": "河北新報オンライン",
-   "at": "2026-11-04T22:07+09:00"
+   "title": "「サイバー救援隊」創設へ、官民の専門人材を必要性高い企業に派遣…サイバー攻撃「緊急対策」の概要案判明",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON1VXRmxzWG9oeG9mWEh6UzZsdmJmX08waDZrR05walJLSUJmOTlMU1YteHVkVzdRbUdibk1fZUpQdnlMenJXb1VreTFlX0Z5TWpJZ1JZZ1l4WU9tazVLUWZGOFBUQkNPLW1KYkpZaG1OOVJkdi1NblhlNl85Y1hPdWpOWDdBc0nSAYwBQVVfeXFMT05EdU5GZS0wc3ppZmJVVjF6dTBUQXJMbkdMR3c2bjVCQ1lFUGUweUdtMjllTFlmS05Ia0ZlNGR5S2Jqb3JKUkU3V1ZEdzdiUTZRYlE2NDE4Q0RBY2FLLTZhY1dsckpCVVdoczBURlIwMnluRVMwMnU3bXVCMUVFYk1SYjBGSjBnMlNUQlU?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-05T05:12+09:00"
   },
   {
-   "title": "LoGoフォームの障害発生に関するお詫びとお知らせ",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yN1lSdTh4aWVVVHFvQXpBLW9RNnpnOVAtWGRGR25udTNRRDcybm9Dc2o5Xy00YkNsOFJ4X0wtaG9MeE91dnpqeVN4dlZpTlcyeXNZT3JhT2ZKbWxGLVdXSVBacw?oc=5",
-   "source": "株式会社トラストバンク",
-   "at": "2026-11-04T21:29+09:00"
-  },
-  {
-   "title": "フランスの銀行グループにサイバー攻撃 210億円流出か 銀行側「預金口座に影響はない」血液バンクも標的に…冷蔵室の温度が引き上げられる（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JclVyUVRMY3c3bENnLTUyZFdXRkhmWUl1RTRNWXczdG1uLVQ0bkttOGxpVElTcVRuYUlUMVhvNzBTUTdIbzJGaWFRWXVHcy1NNkNGRFgtSGdFSnlJaXJCdjJDS29tdGI2a041VXg4dEkzaU5Vcmw5Yzh5RHdsN1E?oc=5",
+   "title": "JR九州のメールマガジン配信先 約1万3000件のアドレスなどが漏えいか 「アララ」への不正アクセス影響 モデルルーム訪問客など 福岡（TNCテレビ西日本）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0hxSXBISVdKbzJhMXFyNTNSeDU3VFhxMWtJcmlfNjlnT2lkLVBaUnRYQ1QyVVJXVS0zSG9sSzVVMUFWNHdiU1QxaV9XZUp6RWpHOWRaS2pkRUpzNGNZODRhX0dMdVN2RWx2VS0yYWtuVkxkeWRWNVNXMTBsTTExTGM3U25oMzRmX0dHMmV3?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-05T04:12+09:00"
+   "at": "2026-11-05T05:06+09:00"
   },
   {
-   "title": "回線悪用のサーバー無害化 家庭用ネット機器 サイバー攻撃利用 警察庁、グーグルと連携",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ycGhWVWVDWHVJVmYzM04yNGJMNmpxMEh2anROYVNnVzdEblcxSGJOS21ZRjNzbmtFVWZuQWlFQi00OU1HLXI5amY1eUp5aFQ3X2JpVWxEbDhueTNMbGc?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-05T03:59+09:00"
+   "title": "「攻撃はまだ始まったばかり」「最新手法の正体とは」相次ぐ日本企業の情報漏洩にNICT・サイバーセキュリティ担当理事が緊急提言",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWbnBDSzNTR01wNHd3bjV3ZTFqTGRaQmg3bjNxV2FJZkNHX3AxejNzcjNFRGhQWjg3Vl9HUnY4OHBsLWJxTkdBbk02Z2xqVEtVS3o4WS1WTm9fR2ozZDlJ?oc=5",
+   "source": "デイリー新潮",
+   "at": "2026-11-05T05:02+09:00"
   },
   {
-   "title": "「無印」クレカ番号流出か／109万件 企業不正アクセス続く",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZZjZteWFOT21zT1RZenRVcjl0dkp5ekFxNE41MFhNZlJZeXFQSU5NLUEwdC1VMUFmV016eHRkaDRyeElHQWl1QU16eUpYOVZWWTNTQjFWV0wxaWRoTUE?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-05T03:57+09:00"
+   "title": "情報漏えい影響 コジマも可能性",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wUmF3YzRmZUFnNkVyaTFWazRzV2pUOVRMd2Z1RzBWX3VFaHhVcldvZTZZM0FJSmtXRVJLLVRNVkpVdWdZemtJbmxJY1pZdUhqSVBYQWQtY1FhTlU?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-05T05:02+09:00"
   },
   {
-   "title": "那覇市 情報流出恐れ メールアドレス 不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IVGdVME9QMGhwaS1QN003LUJKSnhsRWFEQi1SNUhNcHhMNkQ4U1IwTUp2S3BnaGlJRUltelZkN2VydmRPTjlCRHFZWlM0RVJKVTh2QTR3VFQ1cWk1Tnc?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-05T03:57+09:00"
+   "title": "中国ベンド、不正アクセスで設計・製作資料の流出を確認-ランサムウェア グループ Everestが約90GBのデータ窃取を主張、公開先も掲示|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzZYN0Nldmkwb2dySE81UTAwZDgzWTRZc2pXZDNsbDEwTzktUTJSVS1OSGY0cS1ZckxjU2Z6SWlUS1RkcUxIazFtWTdxVlE3czk5NkltYjMwNHVWWUJWMjdwTzVoWnpVRzFRWDZjMjJZWnBVOFNDR3ptbFlJMFcxanhVTzhmWXQ3bExLaQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T05:00+09:00"
   },
   {
-   "title": "フランスで血液製剤の冷蔵庫にサイバー攻撃 スーパーから広がる対象",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ubmxxVk5VQXg3aVQtQldCNjdlQjJJblViaEZ2VG9TME1YbEdCVUFldEozcktFd0VhU296M2VHUzR4YXFOSFM3WUlOcDlRTUlrdmxfMVRJbGtkRkR0UlFwdTFmaFpfX1dQWG0wMQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T02:28+09:00"
+   "title": "相次ぐサイバー攻撃、漏洩メアドが次の標的に 努力不足の企業に罰則強化論",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JNHlBb2MtN0twNldvZjF4TFdGbmZyZkljbEhTX09lY29jSWtHcFl4LW9qVEMxM1RacjIzZlNtVTExbmxiMzNOSk04OUNBU2pGclNfbm1LQWJxZE5IaWhHOFVjckZnWE0?oc=5",
+   "source": "日経ビジネス電子版",
+   "at": "2026-11-05T05:00+09:00"
   },
   {
-   "title": "日本郵便 サイバー攻撃で海外向け配送「UGX」一部停止",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fX1lndFVMZkY1RTRlQTBTM09abGRaelQtYUtOOXp4NmxDOTAtQ3ZNWEtxakZLTkZxbzFxSTJVZzRkZl8xcFJHbks1NXVBanN6dHR5U01Sd3RYaU5FVU04?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T02:20+09:00"
+   "title": "サイバー攻撃 中継指令サーバー無効化…警察庁・グーグル 家庭用機器悪用",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BcTdRNTlkWEQ5LWVlaUhpMGN6QkNLc2hwWWZIWF9TbU1JbExBUDAwVUo0ZzZOVENWSHpyak5zVjZ3cDdlNEJHcnNpak9ILVRMWDRMUlQ1ZFp1aEREN1hTcUpHNjVWdw?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-05T05:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮がミサイル 日本海へ数発発射 米韓両軍が探知",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zX0w4Mi1pRUFUVDdpLS1CX3B2LUV1Z2Rqd2txQk5ETW9ZS29pM1NESTNoRUUzcW9vMWF6S0xhbUQ4dEd4NlJiZ0lLUTZaUHFFWHluVXdvSDFRUW1INVE?oc=5",
+   "source": "福井新聞社",
+   "at": "2026-11-05T05:00+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "トランプ氏「イラン戦争が共和党に打撃」、 熱狂的支持を候補者に波及できず",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOGI5V0NHTzlybmVGSjRFdU4wWHRFZUVPbXVhQllqNXlETk9oQ3A5bVBtMnY4azB4UXpqUmZxZ2pIT2trY0tKYm9OSDBCWm9MZWZId3FPc0xsSzJPcThIQTBBSm5ZRld1QlhPMGRfMnRMYmhfalRNT0htX0p0TFU?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T04:21+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "北朝鮮がミサイル数発発射 日本海へ、１週間で４度目 山陰両県に被害なし",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92RmxJd2lPY2pyZEpoY0c2cDFfQUt6Xzd6a1lmSWNUaWE5azBzdXh0TDVjejNmeUtBQ3ZabmJzSWVtSFhQVl9pZ2JpODAzQTZwU0ZQWGM5aUxReWc?oc=5",
@@ -478,13 +492,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5icUZKVXNQWG14blRpY2Q0VmR2Q25rbThDcXYzUVZlTnd4dDcwYmlWNk5HVXdjZXdscUpnd3RjNFVtWHhGRGFSeWxGM0FTZnotVDE0RXVKN2k2UQ?oc=5",
    "source": "note",
    "at": "2026-11-05T03:44+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "トランプ氏、イラン戦争「必要だった」 中間選挙敗北の一因と認める",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOGI5V0NHTzlybmVGSjRFdU4wWHRFZUVPbXVhQllqNXlETk9oQ3A5bVBtMnY4azB4UXpqUmZxZ2pIT2trY0tKYm9OSDBCWm9MZWZId3FPc0xsSzJPcThIQTBBSm5ZRld1QlhPMGRfMnRMYmhfalRNT0htX0p0TFU?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T03:31+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -598,13 +605,6 @@
    "source": "大紀元 エポックタイムズ",
    "at": "2026-11-04T16:51+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ウクライナ防空戦力、ロシア軍発射の３１０機の無人機の内２７２機を阻止",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODZpRV85T1FmSWdUVU9qdWlaT3dtQ2FKeS12dXUtTW84TkJmdEc5Tm05dDdUOTBTWlZ3aENSNU9sN1VpOTlTVC01aVRvZl94ZjZSbDQ0czNUam9ELU9PSjBpdHRNQWoyS1RHSGhtVllHMi10bzFGNVVFTnppd1k1Y2t1aXZLYkwwZ21IRTZJV2JMSFNtR09zSHBSeEpuYlJVanQweVZ2OEZvUmF0eFo5OXBQc1FBcnAtdmlVS2RXaTFwSUJ5dFhqONIBzgFBVV95cUxOOFJfcnk3eDdOUUlqbkhjd0VsMFh2UmgtNzhpaG9sRkRkRDhyUnJCTVZRR1BBaklXajVFN3YzZGNJVlYzTjlOSE8ycVR6UkFpTFBtVnR1eG5KU2ROT3dlZENQRDQ3ZlgtQzc4UHVGMEZjNHl1QkNRcmR0RWtWNGJNeG5NU1ZlQnZwSmxRRndicUJsNWo4ZV9Mb2s3d2pLZjFZMmMxOU5sOW5Mc3IybmV6aUdhWVpkbjVScHJ4c3I1LV9iamQxWkdtVDV4VF82UQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-04T16:35+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -636,10 +636,10 @@
      "at": "2026-11-05T00:51+09:00"
     },
     {
-     "title": "北朝鮮がミサイル数発発射 日本海へ、１週間で４度目 山陰両県に被害なし",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92RmxJd2lPY2pyZEpoY0c2cDFfQUt6Xzd6a1lmSWNUaWE5azBzdXh0TDVjejNmeUtBQ3ZabmJzSWVtSFhQVl9pZ2JpODAzQTZwU0ZQWGM5aUxReWc?oc=5",
-     "source": "山陰中央新報デジタル",
-     "at": "2026-11-05T04:00+09:00"
+     "title": "北朝鮮がミサイル 日本海へ数発発射 米韓両軍が探知",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zX0w4Mi1pRUFUVDdpLS1CX3B2LUV1Z2Rqd2txQk5ETW9ZS29pM1NESTNoRUUzcW9vMWF6S0xhbUQ4dEd4NlJiZ0lLUTZaUHFFWHluVXdvSDFRUW1INVE?oc=5",
+     "source": "福井新聞社",
+     "at": "2026-11-05T05:00+09:00"
     },
     {
      "title": "ロシアは最大７００弾の弾道ミサイルと数千弾の巡航ミサイルを保有＝ウクライナ情報総局",
