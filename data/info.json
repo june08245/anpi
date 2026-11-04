@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:45+09:00",
+ "updated": "2026-11-05T08:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "11月2日、ヨーロッパで複数の航空便が爆破予告の標的になった。判明していることをまとめた。",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSG9HbEFGYkl6QVNBS1V3X0NPa3AxRjh5d2IwbXAtMDhqeVdHZmhfd0drU2VEa3NzcnM2elJRN2dvQTRVdGNQYWUyNUZFa3A3WGlOUUtWODRPMmxFLTI5UmJrZ1V4NkFETE55WmU3UEktVWZodHJFdXhuWVlDSEN6YnN5T0hGWWluOTNjM1hJeFpIOFJMWTVJTjBCQXhoTkwtV2h6d3dhM2xobk85NEE?oc=5",
+     "source": "Business Insider Jap",
+     "at": "2026-11-05T07:45+09:00"
+    },
+    {
      "title": "NATO、ロシア領内への通常兵器による縦深打撃を検討 加盟国への攻撃に備え",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU19yMXhTSFlJSFZvSHZUTU9nSHA4Q1Q0OExIa3U1dTBBRWtYSFUteFpjNmd1U2NfSVBvOXVURlkyVXBPS25oWWFpTnVOMjhIeHJ5QmNtNzlUY1Q5cFk0Um5jT1laeC1JT0xueXZjeExTLTQxU0l1cm1ua3RoYU5XRkFB?oc=5",
      "source": "Meta-Defense",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPUHZKSjBja0J6WXYwRHdMUVhwTW1FcG9nVk9mazFWWGFsLW1RN2YxZFZHQk40Njc5MFNsV2ZnMXV6ZWtGZUY5eWtiTXRCbnp5UHpETXRFMFVnWU1YVVNFeVpDaUZNN3dxdFBKVXdBc2NLd1BtN0NxekNtZllieEd3S0Q1Qjl3QTFtSS1fMklUM280ejlqbkMtalk2Uk03S2MwU0NvR0JxN0pReE52M2ZqWFVMSXZkZWtZd2pUdm1KVE9ZdWY3YnlJS2RObE9YOHlFRV9MV01CZ1hJWVd6N19UNUZpZ3pUMEEzdl90UXNXUU9hWXB5cXkybTlNUXMyMmk3SmZ0a0pvMlFKenFabE9IMk9ydWVpYm15QXkyanhuVE9mT0ppb3NzeTZselQ1SlpOcGtnZmxhSWk0OGFfcUxzT0pyUjNPRkktTHlkQTlGOFlva010cmtWUFhsbjFOY0JIaDBsWXBTcnV3UElIMFJ5VTF0ck9fdWZvS1dQcHdkWHpMZVk2SFRQekx1QQ?oc=5",
      "source": "SmartNews",
      "at": "2026-11-04T09:16+09:00"
-    },
-    {
-     "title": "NATOの「我々は戦う」新戦略…侵攻部隊を撃退する「阻止、打撃、粉砕」、強化される欧州の防衛力",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kcmt0b2piUGlOUGYwbTNyS2M2TE44NjBMMlZzLU9oMmtwcmdKMVpfUWdRMHlTQ0pzbkx5eVhNN2FkSC1hWERNUXh4TFFiZEV4UEp2TG9DeURLOW1waGFnMGtGanpVZDg5Y2lOeTdReEE?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-04T09:00+09:00"
     }
    ]
   }
@@ -342,12 +342,6 @@
  "outage": [],
  "japan": [
   {
-   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T03:31+09:00"
-  },
-  {
    "title": "北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイルの可能性」と韓国メディア アメリカの対北政策転換狙いか",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzEtT2ZRUElOZFJYX1lwUE0tTXZTZU42MVVJaExRRzFBa05Ia2t6RVVQTUMtUklwMmJiYnJsOEExT0xlNUttZFBKMmFVbHpRZnV4aWtGcTZPRkFrUHo0TGRUajZCTThFYUU1TDRB?oc=5",
    "source": "Excite エキサイト",
@@ -376,6 +370,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaLTBQdW80RWxPMXlVSl9IWW1laFo1SVR5OENzZ25EcmRiY0xWbTllU0QtaTFwcXBYS1hiSlJxdldHQ2tIb3RONlVsMEsxY1V0SW1GcVk0cXhhaWhpdEU4SzRwZEhWOElIRXVWSEc5OFJzQXNQX0treUx1YWZVSDA?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-04T10:59+09:00"
+  },
+  {
+   "title": "【2022年版】もしも「君の名は」が実在したら...【NHKニュース・Jアラートシミュレーション】 Paola Caruso Compagno (tgc8pXSv4X)",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6MDNrSHhBRFBUZFNaZ1dPdWhRRkQtTmF2ZHlRX1pRXzFEUzVuV3IxTHNNLXVwMDBBLVRwZHF1UmZQNHVYMVExZXM2Q3dabkdIVXBza2xidllUdGhSRWU1dVJOaHBoLW82ck13VA?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-04T10:32+09:00"
   }
  ],
  "cyber": [
@@ -393,7 +393,7 @@
   },
   {
    "title": "【システム障害】一部電子申請サービスを停止しています（11月3日12時ごろから）",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjTU9WQ1N6T0JXSDF4UUctdmc3X0g0Y0J2QVZSOThGSlQycXVNSUpja0hOelZKTVQzRUZvYUMxV1VKWFNRbDRIVHdPTG9FWkFIOVlHT29lcnU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LYmR3SkVyUmxVRGx6VHBkNFd3cDdmc1F6eDhrWXlrT0dGUXQ4a0VwdmRYbko2cF9jU3ZMTHhaYnc5ckFWcV9CUlNtYWRPcDE1ei02S3BQTmN2Zw?oc=5",
    "source": "五條市",
    "at": "2026-11-05T04:30+09:00"
   },
@@ -410,15 +410,33 @@
    "at": "2026-11-05T02:22+09:00"
   },
   {
+   "title": "GMO不正アクセス問題　知事「早急な対応と説明を」　アリーナ命名権 影響なし",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52V2pXSlY5WXNuQWRnck5fMkdUdHg5SkFRM2ZzS2RIS19vQ0hxdDlrU0pyLXJKeGtRcW5fNXphMmk0WWtwUDBheUxpSUxvTGczTkV2ZWswbjRLWHAzbXF4R0dIUkdzS2dBTHo0UU5YV051X2_SAXhBVV95cUxPRXVmZG9iQlJTR25ia1UzUndHa3Z2Nm8wNmVmdlUxRjQ1X3NJMHdfbjBxbFNxSWk1eXJWUUd0Tzh1NkRoQ3IwWFJOSndMMDB4V0l6NU5LamNGd1VfSmlqY0FjamhaV0xZY2xFWUVaMFRXMFhDbWZ2VHQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-05T07:51+09:00"
+  },
+  {
+   "title": "AIRDO（エア・ドゥ）、メールアドレス最大673,920件が流出 アララへのサイバー攻撃が原因、予約・運航通知も停止",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjI0azRWdHpEWGdDY2RxT3JNbFZUaVZCbWlxblNnSkhjTHppM1VOQlZLVllHNUxodVg5aHhIblpHVUR5MTB6a0M3eTNLRVZCNW5vU043VlUzZ05LTUFvQVVEUFhWa0F3NjdNelNuQ2xHSHgxcUF5aWNiUFFTSVZSLWtjNUVheGttVXlUcGlpUFI?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T07:50+09:00"
+  },
+  {
+   "title": "「サイバー救援隊」創設へ、官民の専門人材を必要性高い企業に派遣…サイバー攻撃「緊急対策」の概要案判明",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Tc2pzZFVnb3JJLXc3QUQ2X0ZHbFVoS0ZyOENTcE0tYVJpczFwOEs5ay1ueVR2WFItZk1vTjV2Q1Q5OE55TVJuMGR5Wkg5UVo1?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T07:46+09:00"
+  },
+  {
    "title": "Zaif、顧客メールアドレス380,536件が流出 アララへの不正アクセスが原因、暗号資産の被害は確認されず",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLWdDVC1fc1RBR3RHZUxPdGpkUWw5UHJyc19GUWhYb2VrZ0x5eWhtZ1Q5NjZlUXF4QXNyTFBEZUZ3cmw1MnhtUXQ0bndhMnJEWWdTRjgtOUR3eGFhYURMczFSMGIyY0tiMnVGWEFnOUhCalM4N2EwWDRkd2lReTNTQjdOMA?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-05T07:36+09:00"
   },
   {
-   "title": "GMO不正アクセス問題 知事「早急な対応と説明を」 アリーナ命名権 影響なし",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TMmJtNkhkTFQ1RkliT3ZleG1lZTQ1a1NfY19DVGdlcDBHSmZEMU5XN1VGazBkSWpRTTVFMjVQRUFlRllHc2pQemI1RTlQOFdNS1Nz?oc=5",
-   "source": "東京新聞",
+   "title": "英情報機関「2028年、AIランサムウェアが重要インフラを襲う」と警告",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ic0F5YVd4VlNsSVBTZGhvd3pWNVl1TmdkZlkzQmw3b3BKZ3ZfUUVWSTliNTNRUlBCYk1hRUctalloWEU2aGRxaWw2enVNSGlQOGtDcTQ0ajlneXBodVFrdWwwWWlFbmFnXzZXVW9YNFl2Zk14?oc=5",
+   "source": "BigGo ファイナンス",
    "at": "2026-11-05T07:35+09:00"
   },
   {
@@ -446,32 +464,21 @@
    "at": "2026-11-05T06:48+09:00"
   },
   {
-   "title": "2026年10月ランサムウェアの被害 事例 まとめ｜国内企業・大学への攻撃、犯行声明、情報流出と復旧状況",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOamY3dWt3TURnTEJVVHhvcVFBeTFvb25aXzEzOFhOS00xT1N4Ry1sRWlQdHl3eHU3YmEtcmxxN3NISkRGeFZwSEtSNzluUWJoalRsM2FqYUZQbGQyVG4wRmxxQzVOSGlTMnB5VmcyQ0dHRDFUMGx1QTV6cDVPU2pkNTJuZ052ckx4?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T06:30+09:00"
-  },
-  {
    "title": "“サイバー攻撃で新チーム運用” 対策パッケージで政府調整",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQWQwc1dNVmhwUmxwcTN5TzF0ejNsTTk0SHdJRExVZDhvS1RuV01XRnV2ejEzUThRYkRUSkV5UFVwUUl3eXo1SXlxNDRzVlZWZWhHazBhREZFVFhxTDZN?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T06:23+09:00"
-  },
-  {
-   "title": "「攻撃はまだ始まったばかり」「最新手法の正体とは」相次ぐ日本企業の情報漏洩にNICT・サイバーセキュリティ担当理事が緊急提言（デイリー新潮）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90OUttTXFyYzdzdzl6OWtxQUNwNzAyQTVjUTQxNUZ3cWwyZ05zZk5peWtPWXVPdjZzb1hLU3hyeF9hNU1KQkJybFh6cjNlUk9OTGxuZVU4SDRQMjdSRWhRdjctUmFGeXM4Q1NXTDJraFNmVVBqQjlXNklrNVNrbG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T06:22+09:00"
-  },
-  {
-   "title": "GMO熊谷代表の｢コント会見｣は結果的によかった…報道対策のプロが分析するサイバー攻撃犯の\"本当の狙い\"",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUHhtVDJmS3p0SE1fa2hsUV9tZmZrU2Y1ZHhYWWVFdGh3OHlaSTVLWXE3T1J2VVlYMkVaR3dyRXJJdUo3eGNRalJkN2daWXh1OHoyclhTZ1hsVGxONmc5cUQzMWdKWmk3eldzbElZVGFMcVRWcXBKX3FRQk5ySkE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T06:17+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "11月2日、ヨーロッパで複数の航空便が爆破予告の標的になった。判明していることをまとめた。",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSG9HbEFGYkl6QVNBS1V3X0NPa3AxRjh5d2IwbXAtMDhqeVdHZmhfd0drU2VEa3NzcnM2elJRN2dvQTRVdGNQYWUyNUZFa3A3WGlOUUtWODRPMmxFLTI5UmJrZ1V4NkFETE55WmU3UEktVWZodHJFdXhuWVlDSEN6YnN5T0hGWWluOTNjM1hJeFpIOFJMWTVJTjBCQXhoTkwtV2h6d3dhM2xobk85NEE?oc=5",
+   "source": "Business Insider Jap",
+   "at": "2026-11-05T07:45+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "【本日の材料と銘柄】ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ(フィスコ)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlBzZWNnUTFDZGY4YW5XaGJza3huWlgzTDN0WXRVT21GdWFBNDQxbS0yUTNIR0hDLWIteVp1R0lmVjlYdktjNEpPLVBEVHJsUzQ5cHRlNGZRYUN6VkxaT2lvemVmQ29hV0ljUEs5cWFaVEdGakVHcmIxemprNDNHOGZGckRLek0?oc=5",
@@ -604,13 +611,6 @@
    "source": "Mezha.net",
    "at": "2026-11-04T18:08+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナに対するロシアの大規模攻撃",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zLVRoWVFoalg4QzBCNnNPNGpPMXBlZ2ZENW5NRVAyXzk2OG53VHhRVWFsdkdrd3J6MTNRcTdUTkpodHhWS0RUaVc3MTBVVVM3dkgtM2hQQ294aDUzYnE3TUpUMDVob2gyN3BmUUpCbnBmM1FRcTk5YVZuNA?oc=5",
-   "source": "La France au Japon",
-   "at": "2026-11-04T17:55+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -623,7 +623,7 @@
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
+    "弾道ミサイルの報道（北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイ）"
    ]
   },
   "world": {
@@ -632,7 +632,7 @@
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「ミサイル」6件",
     "ロシア：「攻撃」「ミサイル」5件",
-    "欧州・NATO：「攻撃」「侵攻」5件"
+    "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
