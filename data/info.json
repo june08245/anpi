@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T05:30+09:00",
+ "updated": "2026-11-05T05:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "ミサイル数発 北朝鮮が発射 東部から日本海へ",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRmF5Wk9XR1hzSzdGXzRNbi1xX2kzNlRLM3MtLXA3Qkp3aEhBXzlWbFJRckdmNjFrYllTdXg3bXp3UDVZUlFUOHlaT2p2YS1TMV9YWmVrYnNnUQ?oc=5",
+     "source": "北海道新聞デジタル",
+     "at": "2026-11-05T05:08+09:00"
+    },
+    {
      "title": "北朝鮮がミサイル 日本海へ数発発射 米韓両軍が探知",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zX0w4Mi1pRUFUVDdpLS1CX3B2LUV1Z2Rqd2txQk5ETW9ZS29pM1NESTNoRUUzcW9vMWF6S0xhbUQ4dEd4NlJiZ0lLUTZaUHFFWHluVXdvSDFRUW1INVE?oc=5",
      "source": "福井新聞社",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rc09HMDllVzBDM3BSeFFHNW1leVM4ZzJoZTdmOGhFY2YweUZrcU1nQkZnYmo2cEFraE96TWVweDFtSGpheEJTNUR4dTdtSDExWFJZa2tLOA?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-04T17:52+09:00"
-    },
-    {
-     "title": "「巨大で威圧的な姿に満足」金正恩氏、新型軍艦の建造を視察（高英起） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFpGTlZKRl9nSW10ZmxFNmZ1YU5NdXlDak9rWUZaNzlqY0hvYTVzdE9rZXJHWmhZcmR4aFhDOW5iYVpUNld5bFBrQlBxUVVta19BTWQwZ3owUm1BS1dDWHZtaTRsLXdfNE4tenJReHBjRnFmOTFvc0J6ZmVudl9Lc1hVY3JRTUM4?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-04T15:58+09:00"
     }
    ]
   },
@@ -263,12 +263,6 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "NATO、ロシア領内への通常兵器による縦深打撃を検討 加盟国への攻撃に備え",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU19yMXhTSFlJSFZvSHZUTU9nSHA4Q1Q0OExIa3U1dTBBRWtYSFUteFpjNmd1U2NfSVBvOXVURlkyVXBPS25oWWFpTnVOMjhIeHJ5QmNtNzlUY1Q5cFk0Um5jT1laeC1JT0xueXZjeExTLTQxU0l1cm1ua3RoYU5XRkFB?oc=5",
-     "source": "Meta-Defense",
-     "at": "2026-11-05T02:37+09:00"
-    },
-    {
      "title": "WSJ：NATO、ロシア領深部への攻撃を含む防衛計画を策定",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczFKeUd2Ny1HOEhVM0xuenBMR1NqS25JaTVqaUtqRXlhcVNtWWhaUUVNdVBGejdvc2Z2b2ItVHZUUUlUWFhQbTk3UjlYNVhRRG42S3NHUWdLS214eWpLU3ZVVE45UndOdkRqcW8xTUVJYTlIT0FCNFRsa3IwYkxSb3RqOXhfSjZlbmVGbS1xTHJjRXhqR0NIRzRIUFlvcTg?oc=5",
      "source": "Mezha.net",
@@ -297,6 +291,12 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kcmt0b2piUGlOUGYwbTNyS2M2TE44NjBMMlZzLU9oMmtwcmdKMVpfUWdRMHlTQ0pzbkx5eVhNN2FkSC1hWERNUXh4TFFiZEV4UEp2TG9DeURLOW1waGFnMGtGanpVZDg5Y2lOeTdReEE?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-04T09:00+09:00"
+    },
+    {
+     "title": "欧州発着旅客機に爆発物の情報相次ぐ 緊急着陸や空港一時閉鎖も（毎日新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PTGVtTlNuLU54M0p2MmdoVlVDOTZaTTZscDdoNGdDajZEeF9xV0JRdGRkSmVOZVp6LXRyUVBhQjI1TUtCazRUS2RhdVNaOERJQTNUdTdjcEN3SHFVWjQ2bEt1blJlMVJ0OWFUdjJHMFo2ZWZKMlptd3Q4a040ZEE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-04T07:38+09:00"
     }
    ]
   }
@@ -404,10 +404,22 @@
    "at": "2026-11-05T00:53+09:00"
   },
   {
+   "title": "d払いで障害、クレジットカードでの支払いが利用しにくい事象が発生【復旧】（ITmedia Mobile）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wR1FFbndSOVg1S3RHRFhrVjNReTFvM0ZqUFJYRE5tT2ZjbFpXRVZTVlJNRkRhYlk5ek9HdnhtZHAwS2RlaldHOEdEQVdfVVRyYUVjZmxISlBsZTBLT29oaDNxTDduNGVwOVJDck8yb0RuR1JmYXZMd1ZBRWRqUWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T00:34+09:00"
+  },
+  {
    "title": "サイバー攻撃でCrédit Mutuel Arkéaのアプリに障害：利用者が知っておくべきこと",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTFdzU1VfVnl5YnVUSmNrY1E4SVpzTFpFZmR4dy1paXRBMEM1cUg4TXhONG9MR0ZmUWpDREthY1g2UVBxVHF3SkpaX2NFajVwbUJmYWpuMFhDM1I2Z1NKbUhoaFdVZXBYN3lVSGtCNUQzTFQwVzZmN2dPWWQzUU44dGJwVXJqUmtNWU4zMTR6SE1zNTVheTRGdnJqMkJQbXVLWjlnckJ5dTFVTWlmYzBDenNlckV5TUVUV2d4Zk1wNV82YlZfY0dtWGptaE1fOUdiV2phQ3EtQmtGb0E?oc=5",
    "source": "Sortir à Paris",
    "at": "2026-11-04T23:35+09:00"
+  },
+  {
+   "title": "【平将明･自民サイバー本部長に聞く(上)】｢誰もがハッカーになれる｣サイバーパンデミック前夜…インフラを守れ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81T0ZVSlJJVjNYLTZDazNBSDVUN0F2ZjNrVTJOekN3Z3dfakVaNjdpWkFnUnIycExfd3lwT1U2T2pEbTVDT281RERyUGp2ZmV1bFZ2M2l6Wl9QWVk3MUpr?oc=5",
+   "source": "東洋経済オンライン",
+   "at": "2026-11-05T05:30+09:00"
   },
   {
    "title": "観光業を襲う不正アクセス 観光庁、業界全体に注意喚起 政府方針踏まえ対応へ",
@@ -422,18 +434,6 @@
    "at": "2026-11-05T05:06+09:00"
   },
   {
-   "title": "「サイバー救援隊」創設へ、官民の専門人材を必要性高い企業に派遣…サイバー攻撃「緊急対策」の概要案判明",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FakNzMHhHMFBvTjZVa3JWQ296Qm1UbjhNSnVJZWVLVTN6eTVQMGhPZG14dkJNMC1QN2lqR09wdTVxN0lpUFJIWnpkVkFrRGlXempJVkMyUGZZblphV1V5cXRySjEtVkVUSW9ja1ZFdXdLSUNYVkdpbVZLS1VhbTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T05:02+09:00"
-  },
-  {
-   "title": "「攻撃はまだ始まったばかり」「最新手法の正体とは」相次ぐ日本企業の情報漏洩にNICT・サイバーセキュリティ担当理事が緊急提言",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWbnBDSzNTR01wNHd3bjV3ZTFqTGRaQmg3bjNxV2FJZkNHX3AxejNzcjNFRGhQWjg3Vl9HUnY4OHBsLWJxTkdBbk02Z2xqVEtVS3o4WS1WTm9fR2ozZDlJ?oc=5",
-   "source": "デイリー新潮",
-   "at": "2026-11-05T05:02+09:00"
-  },
-  {
    "title": "情報漏えい影響 コジマも可能性",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wUmF3YzRmZUFnNkVyaTFWazRzV2pUOVRMd2Z1RzBWX3VFaHhVcldvZTZZM0FJSmtXRVJLLVRNVkpVdWdZemtJbmxJY1pZdUhqSVBYQWQtY1FhTlU?oc=5",
    "source": "下野新聞社",
@@ -443,6 +443,12 @@
    "title": "中国ベンド、不正アクセスで設計・製作資料の流出を確認-ランサムウェア グループ Everestが約90GBのデータ窃取を主張、公開先も掲示|セキュリティニュースのセキュリティ対策Lab",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzZYN0Nldmkwb2dySE81UTAwZDgzWTRZc2pXZDNsbDEwTzktUTJSVS1OSGY0cS1ZckxjU2Z6SWlUS1RkcUxIazFtWTdxVlE3czk5NkltYjMwNHVWWUJWMjdwTzVoWnpVRzFRWDZjMjJZWnBVOFNDR3ptbFlJMFcxanhVTzhmWXQ3bExLaQ?oc=5",
    "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T05:00+09:00"
+  },
+  {
+   "title": "「サイバー救援隊」創設へ、官民の専門人材を必要性高い企業に派遣…サイバー攻撃「緊急対策」の概要案判明",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uMGRsUlZOaW50N3pQMEI3RjNxU09OY1p5Q2EwNUxHdjBTbDlDcW1QaVkyOFFzSlU2d2M2OHI1WmZoYnpMUzM0YUlHVUpkRW1KX3VFTFRsV3luZlVGZGdwSm5zN09EZw?oc=5",
+   "source": "読売新聞",
    "at": "2026-11-05T05:00+09:00"
   },
   {
@@ -462,12 +468,6 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ROEp3QS1wZ2trMWpWb3RnakMxa3psOENlXzRpeVhmNkVESTJERmVFRlhnWVBrN1lzdXlHYjUwS3pKdUJsTTRRX2ZCMUVCYUVLZVpKVTNvZnlpeFU4UzBycjI2QQ?oc=5",
    "source": "読売新聞",
    "at": "2026-11-05T05:00+09:00"
-  },
-  {
-   "title": "不正アクセス、個人情報「持たない」選択 ゆで太郎は会員制廃止",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSFY5UHVrY2dpNEtWbkdhOGhYanAzOHpNTkxTQ3BmbGloalRrLUdiTHprSkVBLUdZR1pxMlpfdG9nQThsRkdjaWRqdURRT1VLRVVQajhzaEp4V05GQ09tc2Rzanp4OVpGVnFuYw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T05:00+09:00"
   }
  ],
  "osaka": [],
@@ -478,6 +478,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T05:23+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ミサイル数発 北朝鮮が発射 東部から日本海へ",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRmF5Wk9XR1hzSzdGXzRNbi1xX2kzNlRLM3MtLXA3Qkp3aEhBXzlWbFJRckdmNjFrYllTdXg3bXp3UDVZUlFUOHlaT2p2YS1TMV9YWmVrYnNnUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-05T05:08+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "北朝鮮がミサイル 日本海へ数発発射 米韓両軍が探知",
@@ -506,13 +513,6 @@
    "source": "note",
    "at": "2026-11-05T03:44+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "NATO、ロシア領内への通常兵器による縦深打撃を検討 加盟国への攻撃に備え",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU19yMXhTSFlJSFZvSHZUTU9nSHA4Q1Q0OExIa3U1dTBBRWtYSFUteFpjNmd1U2NfSVBvOXVURlkyVXBPS25oWWFpTnVOMjhIeHJ5QmNtNzlUY1Q5cFk0Um5jT1laeC1JT0xueXZjeExTLTQxU0l1cm1ua3RoYU5XRkFB?oc=5",
-   "source": "Meta-Defense",
-   "at": "2026-11-05T02:37+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "イラン・ガリバフ議長「アメリカ国民が戦争に反対」と中間選挙結果を称賛 再攻撃に強い警告も",
@@ -630,7 +630,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」3件",
-    "北朝鮮：「ミサイル」5件",
+    "北朝鮮：「ミサイル」6件",
     "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「侵攻」5件"
    ],
@@ -642,10 +642,10 @@
      "at": "2026-11-05T05:23+09:00"
     },
     {
-     "title": "北朝鮮がミサイル 日本海へ数発発射 米韓両軍が探知",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zX0w4Mi1pRUFUVDdpLS1CX3B2LUV1Z2Rqd2txQk5ETW9ZS29pM1NESTNoRUUzcW9vMWF6S0xhbUQ4dEd4NlJiZ0lLUTZaUHFFWHluVXdvSDFRUW1INVE?oc=5",
-     "source": "福井新聞社",
-     "at": "2026-11-05T05:00+09:00"
+     "title": "ミサイル数発 北朝鮮が発射 東部から日本海へ",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRmF5Wk9XR1hzSzdGXzRNbi1xX2kzNlRLM3MtLXA3Qkp3aEhBXzlWbFJRckdmNjFrYllTdXg3bXp3UDVZUlFUOHlaT2p2YS1TMV9YWmVrYnNnUQ?oc=5",
+     "source": "北海道新聞デジタル",
+     "at": "2026-11-05T05:08+09:00"
     },
     {
      "title": "ロシアは最大７００弾の弾道ミサイルと数千弾の巡航ミサイルを保有＝ウクライナ情報総局",
