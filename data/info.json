@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T03:30+09:00",
+ "updated": "2026-11-05T03:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "トランプ氏、イラン戦争「必要だった」 中間選挙敗北の一因と認める",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOGI5V0NHTzlybmVGSjRFdU4wWHRFZUVPbXVhQllqNXlETk9oQ3A5bVBtMnY4azB4UXpqUmZxZ2pIT2trY0tKYm9OSDBCWm9MZWZId3FPc0xsSzJPcThIQTBBSm5ZRld1QlhPMGRfMnRMYmhfalRNT0htX0p0TFU?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-05T03:31+09:00"
+    },
+    {
      "title": "イラン・ガリバフ議長「アメリカ国民が戦争に反対」と中間選挙結果を称賛 再攻撃に強い警告も",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GYjZxaThadTIydEF3T2ZjRjBhbGNrWlZkbEtjR0JmaXcwdGs4LVpZN0xHbTZkd1dLU1lETlh4cUwtTWYxcnBMWDlCMDBkQjlDb3FZLXRzTWNpSWxzVGJ3amtfS0l0MkFIbndkcVRn?oc=5",
      "source": "Excite エキサイト",
@@ -119,16 +125,10 @@
      "at": "2026-11-04T22:00+09:00"
     },
     {
-     "title": "イラン、湾岸諸国に警告 「攻撃拠点なら米軍基地以外にも反撃」",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGgzaHZ4eVVlazFNZm5ic1Fpc29HNkRTUDJndldGa200R25uRVJ5VXZVTXd4YWY5OVZwY0RhNFZqYW9sdVo3MHRtMVVwTFJwYmRaempYblMydWgyYmpqUEc2T0gxLWFnbldldnB0OFVzbGRxbERnZk9hS1hWMWtHYnBpc0d4WTQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-04T20:35+09:00"
-    },
-    {
-     "title": "トランプ政権に「NO」アメリカ中間選挙で“激震” 野党・民主党が圧勝 「共和党の牙城」相次ぎ陥落 大統領「敗因はイラン」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wYUx2WkhlU2xGTjRacVdfbG9raWFIUkx1anJuMUdCcHhER2pWczlHUHg3OXEzN2k3a3hjMnBLbEdvVnhqa3JpNC0tNjR4NFlaaExCblVPQ0NjdDl3TDkzTmtobmxEdXdGb1lqZ1JB?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-04T20:35+09:00"
+     "title": "米の敵対姿勢変わらず＝イラン最高指導者、攻撃再開で「大規模な対応」",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hWHcyQTF0YnAwNDIwTDlQRE1UQm55QWdUTHcxaTNYOUIycXBRZXJ1MGh1eEtSWmtjOHdzbDJrZE5YbVB2Z1BCeDV4eF80RkhjcXo0TWR4ZzdueVFtZy1Xb0J3WDBVZVAzQ2dHN2k4WmRxMGdGdEJwQdIBfkFVX3lxTE5DMkdGNExkUkZ3Wk1OdGhmTTVGeW9MSFRvS1FLS3VCcGZVNVJwSG1nMjhzNndvWTJUb2VjbGRaT1dSTWxlaDVXNHZlbG93azRkYzJIcmlQcGc1TGZoT1RDV1JFVkg2WkU3QVFvREdYOXVpeFJlczJGMW1Wd3EyUQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-04T21:56+09:00"
     }
    ]
   },
@@ -380,10 +380,10 @@
  ],
  "cyber": [
   {
-   "title": "ドコモの「d払い」で障害、4日夜～【復旧】 (2026年11月5日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xekRXdEd5WHJvOTYya1VfRDdUQlFNR1FuN3Y0YkFNSHNvNEJFNWN3VHktdGgwcDRndGRFc1lfMFBrVS1CR1lqZ1JsN1pKMGlhWjB2YmpQM0I5TDJfS3c?oc=5",
+   "title": "ドコモの「d払い」で障害、4日夜～【復旧】",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nT01fX1JYRzg1V1ZjRjVJcXVsVmEzRFJlRDc2U3JKMmx1LXNhckZzUHlTZUk5WmVETU1RTEVEcjFUNEtZVzkwekQwQjFRbFNERW9OUm9ManBLM0tPcVhn?oc=5",
    "source": "ライブドアニュース",
-   "at": "2026-11-05T02:57+09:00"
+   "at": "2026-11-05T02:27+09:00"
   },
   {
    "title": "電子申請サービス「LoGoフォーム」の障害及びメンテナンス実施について",
@@ -473,6 +473,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "トランプ氏、イラン戦争「必要だった」 中間選挙敗北の一因と認める",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOGI5V0NHTzlybmVGSjRFdU4wWHRFZUVPbXVhQllqNXlETk9oQ3A5bVBtMnY4azB4UXpqUmZxZ2pIT2trY0tKYm9OSDBCWm9MZWZId3FPc0xsSzJPcThIQTBBSm5ZRld1QlhPMGRfMnRMYmhfalRNT0htX0p0TFU?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T03:31+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "イラン・ガリバフ議長「アメリカ国民が戦争に反対」と中間選挙結果を称賛 再攻撃に強い警告も",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GYjZxaThadTIydEF3T2ZjRjBhbGNrWlZkbEtjR0JmaXcwdGs4LVpZN0xHbTZkd1dLU1lETlh4cUwtTWYxcnBMWDlCMDBkQjlDb3FZLXRzTWNpSWxzVGJ3amtfS0l0MkFIbndkcVRn?oc=5",
    "source": "Excite エキサイト",
@@ -515,6 +522,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "米の敵対姿勢変わらず＝イラン最高指導者、攻撃再開で「大規模な対応」",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hWHcyQTF0YnAwNDIwTDlQRE1UQm55QWdUTHcxaTNYOUIycXBRZXJ1MGh1eEtSWmtjOHdzbDJrZE5YbVB2Z1BCeDV4eF80RkhjcXo0TWR4ZzdueVFtZy1Xb0J3WDBVZVAzQ2dHN2k4WmRxMGdGdEJwQdIBfkFVX3lxTE5DMkdGNExkUkZ3Wk1OdGhmTTVGeW9MSFRvS1FLS3VCcGZVNVJwSG1nMjhzNndvWTJUb2VjbGRaT1dSTWxlaDVXNHZlbG93azRkYzJIcmlQcGc1TGZoT1RDV1JFVkg2WkU3QVFvREdYOXVpeFJlczJGMW1Wd3EyUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-04T21:56+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "北朝鮮、日本海に向けて複数のミサイルを発射",
    "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOMmVOOGxfSEZTeGo5OU5UM3NpZlNrRFZMdmRRd2JCOE84X3Y2X1lIM1hsdGh5NW5BcWJoU29EZndsMS12UlRQa0tUaGVWZXVWdVRrelVVLXRfeWtLUnNicVc4VGpyNHZvR0dKcWhFQUVDaGxDdDY1ZXlNRzlyNS1MVlN0NmcwdUF5Tk9vRTBTRWx6QXJqREpUSmJ4cmdVcFAyVGFlcGtEWGFIekdBTllCY0JfUFJsWlZjQkkza3Q3NmJaeGxkQ291ZFc0aVY3eEpwR2FkdlYxUlZCb0p1Nnp5bkg5emhKVDczdlptN29LXy1sMEZJUERUTkl5WVBYUU9ZSW5RU2gzcnkyM0FmMEx1Y2RDMUJZTC1MV21oWFk3RWxhb2FNQi00ZEwzRzI5M2xlc2Y5WmV5cWRObU13RWpN?oc=5",
    "source": "アラブニュース",
@@ -527,20 +541,6 @@
    "source": "ウクルインフォルム通信",
    "at": "2026-11-04T20:55+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "イラン、湾岸諸国に警告 「攻撃拠点なら米軍基地以外にも反撃」",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGgzaHZ4eVVlazFNZm5ic1Fpc29HNkRTUDJndldGa200R25uRVJ5VXZVTXd4YWY5OVZwY0RhNFZqYW9sdVo3MHRtMVVwTFJwYmRaempYblMydWgyYmpqUEc2T0gxLWFnbldldnB0OFVzbGRxbERnZk9hS1hWMWtHYnBpc0d4WTQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-04T20:35+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "トランプ政権に「NO」アメリカ中間選挙で“激震” 野党・民主党が圧勝 「共和党の牙城」相次ぎ陥落 大統領「敗因はイラン」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wYUx2WkhlU2xGTjRacVdfbG9raWFIUkx1anJuMUdCcHhER2pWczlHUHg3OXEzN2k3a3hjMnBLbEdvVnhqa3JpNC0tNjR4NFlaaExCblVPQ0NjdDl3TDkzTmtobmxEdXdGb1lqZ1JB?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-04T20:35+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "米軍、嘉手納基地からBYD中国車の乗り入れ禁止　車載カメラによる情報収集を懸念か　民生技術と軍事リスクの区分と管理が問われる",
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモの「d払い」で障害、4日夜～【復旧】 (2026年11月5日掲載)」"
+    "「ドコモの「d払い」で障害、4日夜～【復旧】」"
    ]
   },
   "japan": {
