@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:15+09:00",
+ "updated": "2026-11-05T07:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米中間選挙 共和党が歴史的大敗 トランプ大統領 原因は“イランとの戦闘”",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NQ0FfR1JsSVFUV1RiblhOdGZHbWRNUktocm85X0VwVjU0dDBUSi1pLTFzbXZkall1UHRfRFRjUk9ObmlTMHMzX1V3NmY0Q2JFMjlodk9nODJKRHlKS1l5STJTMF9EMGFNLTZ4Q3piV0JCUFhYaFl0NVh3?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-05T07:08+09:00"
+    },
+    {
      "title": "中間選挙で歴史的大敗 トランプ大統領「イランとの戦闘がガソリン価格押し上げたから」 バンス副大統領「負けた理由は戦争」",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMVWFnQmtUZk5mNzlQMTNack9JTVFaMlU4WDVGWWd5ajFJekh3SWFFRGlrc0hCNk5HMHpQWVlwM1FiVUdIelhaRFFfdVJwcU1KZnhLRWZBX3FOemY2SG55NlRETnl0eUM4ZnhnS2pB?oc=5",
      "source": "au Webポータル",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wdTd4bmthR2dYUVpuS3ZDeWFxN2ZudFJqS3pDblFnSnJJWmtyLVE2bjh5c3FBOWZkTjJoNGRWdHA0c0U1VG9LT2ZoZWR3NE5RdmhWQjdQLVZMMzdYYl9Z?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-05T05:57+09:00"
-    },
-    {
-     "title": "トランプ大統領 中間選挙大敗の原因は“イラン攻撃によるガソリン高騰”との認識を示す バンス副大統領は政策の修正が必要との考えを示す",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UYUFQd3BOVWhQV3BpSlh0czB5akg2bmd6ZUhEZnVOWWNsMTJsbmVzMHc0RTl2LWs0UWNGUmtzdUwwZ3hWWWR5ajhiUWprWFcyNFVQWDhIaTQ3QlpwX3Q2NS1kamtKZ1N6b04zdVJn?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-05T05:54+09:00"
     }
    ]
   },
@@ -221,15 +221,15 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "「ハンガリー動乱」70年を機に考える、ソ連とプーチン・ロシアの共通点 「ウクライナ侵攻」正当化に見る「ソ連のスターリン」の論理",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zNEJJTzFUS1BEOGcyTjhoTEx5NENEaWtlMjR2YWpNcTJZajR4NERiZ0IxQ3Nib3h4b2RSUUY0UFhuQjd4SThSNmgxZl95WEc0TzJIV0pPVnJtR3pSZ1A5SDN6UkRUTTV2aV9CdGxn?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-05T07:15+09:00"
+    },
+    {
      "title": "ロシアが病院や支援物資の配布場所を空爆、民間人殺戮 ウは製油所攻撃を再開 侵攻1714日目",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUjZyczEySG5OSl90SV9xRlYzLUh1dFRVamMyWFZwR28zTWpzbzZxY2ZIOG9NNWxTaTJwSWxQOFR3NW9jeGZ1UV96eG5QYkNrUWFIbmg5SDc3QQ?oc=5",
      "source": "Forbes JAPAN",
-     "at": "2026-11-05T07:00+09:00"
-    },
-    {
-     "title": "「ハンガリー動乱」70年を機に考える、ソ連とプーチン・ロシアの共通点 「ウクライナ侵攻」正当化に見る「ソ連のスターリン」の論理",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IelVVb0g0dEo0VmhIMFVoVEhWQ282Tk4zLXUyOThabU5xTkpjc3ZNY0NhOGYtWVFHRURzdGhKWEZ1QlVfdVhoOUpLZC16UjQydjNoVFU4bXNwczZ3ZkpENlpfdG1aSkFoQ3BUcU5R?oc=5",
-     "source": "NEWSポストセブン",
      "at": "2026-11-05T07:00+09:00"
     },
     {
@@ -410,9 +410,9 @@
    "at": "2026-11-05T07:05+09:00"
   },
   {
-   "title": "フランスで血液管理の冷却設備にサイバー攻撃 設定温度マイナス30度から110度に｜Quebee キュエビー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LaWNCTTBMMXFSYUo4RXg2dlJoNEhaNVhDaGtLcW9BRngybHF2d3kybHVKTVlLNlZnS05nbzZkWWRFSjFNTUN6WE55d3FzQTdjMUtKRHlqVUc?oc=5",
-   "source": "QAB 琉球朝日放送",
+   "title": "フランスで血液管理の冷却設備にサイバー攻撃 設定温度マイナス30度から110度に",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VMzU3Q1ppNm0tQUdFcEU5dFB6QjU4MU1aeHQ2ZmhLcGxVbXZ4MndMUlJld1RsaDgyVHFITEc4SkJveXpKemF3YVk4UzZkcWI2YThOV0RRLXpBb1VvWUdVT3AwTGhKZ3lKQzhvN3I3M1I3STZDVkFHSkh3?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-05T07:00+09:00"
   },
   {
@@ -473,11 +473,25 @@
  "osaka": [],
  "world": [
   {
+   "title": "「ハンガリー動乱」70年を機に考える、ソ連とプーチン・ロシアの共通点 「ウクライナ侵攻」正当化に見る「ソ連のスターリン」の論理",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zNEJJTzFUS1BEOGcyTjhoTEx5NENEaWtlMjR2YWpNcTJZajR4NERiZ0IxQ3Nib3h4b2RSUUY0UFhuQjd4SThSNmgxZl95WEc0TzJIV0pPVnJtR3pSZ1A5SDN6UkRUTTV2aV9CdGxn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-05T07:15+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "北朝鮮、4日に新型の先進防空ミサイルシステムの発射実験＝ＫＣＮＡ",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5URzI2M1JDZzUtZDlmQmtpaElFbVY0c19BLU14YVpUT0hqeXRLY2RGTEpLSldiaG92cW1qOW9EdFV6RXVldVdOUkFwUGk3Ym5KTllfcXRpajVhV2hPZU41ZE1mZlJVTzVsa2R4NXBFRV9PQ1FxM2Z1b3MySWpWd9IBgwFBVV95cUxPdmpYVkFHaGR2a2thZ18zU3JvNzdMc3oxS0d5MlpVamtJdnJCelJPcHdhVnBfa0NlUUR4UnZBZkZtRzJIN296dXVfU3A1NGNtalVuOFJuMUZ0NkFTdU96VmJBbnVzZDdDRWlWaUJUdlFBOUt4ZUJtazdFb0ZjQUY2YlV5RQ?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-05T07:10+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "米中間選挙 共和党が歴史的大敗 トランプ大統領 原因は“イランとの戦闘”",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NQ0FfR1JsSVFUV1RiblhOdGZHbWRNUktocm85X0VwVjU0dDBUSi1pLTFzbXZkall1UHRfRFRjUk9ObmlTMHMzX1V3NmY0Q2JFMjlodk9nODJKRHlKS1l5STJTMF9EMGFNLTZ4Q3piV0JCUFhYaFl0NVh3?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-05T07:08+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "中間選挙で歴史的大敗 トランプ大統領「イランとの戦闘がガソリン価格押し上げたから」 バンス副大統領「負けた理由は戦争」",
@@ -490,13 +504,6 @@
    "title": "ロシアが病院や支援物資の配布場所を空爆、民間人殺戮 ウは製油所攻撃を再開 侵攻1714日目",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUjZyczEySG5OSl90SV9xRlYzLUh1dFRVamMyWFZwR28zTWpzbzZxY2ZIOG9NNWxTaTJwSWxQOFR3NW9jeGZ1UV96eG5QYkNrUWFIbmg5SDc3QQ?oc=5",
    "source": "Forbes JAPAN",
-   "at": "2026-11-05T07:00+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "「ハンガリー動乱」70年を機に考える、ソ連とプーチン・ロシアの共通点 「ウクライナ侵攻」正当化に見る「ソ連のスターリン」の論理",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IelVVb0g0dEo0VmhIMFVoVEhWQ282Tk4zLXUyOThabU5xTkpjc3ZNY0NhOGYtWVFHRURzdGhKWEZ1QlVfdVhoOUpLZC16UjQydjNoVFU4bXNwczZ3ZkpENlpfdG1aSkFoQ3BUcU5R?oc=5",
-   "source": "NEWSポストセブン",
    "at": "2026-11-05T07:00+09:00",
    "topic": "ロシア"
   },
@@ -526,13 +533,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wdTd4bmthR2dYUVpuS3ZDeWFxN2ZudFJqS3pDblFnSnJJWmtyLVE2bjh5c3FBOWZkTjJoNGRWdHA0c0U1VG9LT2ZoZWR3NE5RdmhWQjdQLVZMMzdYYl9Z?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T05:57+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "トランプ大統領 中間選挙大敗の原因は“イラン攻撃によるガソリン高騰”との認識を示す バンス副大統領は政策の修正が必要との考えを示す",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UYUFQd3BOVWhQV3BpSlh0czB5akg2bmd6ZUhEZnVOWWNsMTJsbmVzMHc0RTl2LWs0UWNGUmtzdUwwZ3hWWWR5ajhiUWprWFcyNFVQWDhIaTQ3QlpwX3Q2NS1kamtKZ1N6b04zdVJn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-05T05:54+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -629,7 +629,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」3件",
+    "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「ミサイル」6件",
     "ロシア：「攻撃」「空爆」5件",
     "欧州・NATO：「攻撃」「侵攻」5件"
@@ -648,10 +648,10 @@
      "at": "2026-11-05T07:10+09:00"
     },
     {
-     "title": "ロシアが病院や支援物資の配布場所を空爆、民間人殺戮 ウは製油所攻撃を再開 侵攻1714日目",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mUjZyczEySG5OSl90SV9xRlYzLUh1dFRVamMyWFZwR28zTWpzbzZxY2ZIOG9NNWxTaTJwSWxQOFR3NW9jeGZ1UV96eG5QYkNrUWFIbmg5SDc3QQ?oc=5",
-     "source": "Forbes JAPAN",
-     "at": "2026-11-05T07:00+09:00"
+     "title": "「ハンガリー動乱」70年を機に考える、ソ連とプーチン・ロシアの共通点 「ウクライナ侵攻」正当化に見る「ソ連のスターリン」の論理",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zNEJJTzFUS1BEOGcyTjhoTEx5NENEaWtlMjR2YWpNcTJZajR4NERiZ0IxQ3Nib3h4b2RSUUY0UFhuQjd4SThSNmgxZl95WEc0TzJIV0pPVnJtR3pSZ1A5SDN6UkRUTTV2aV9CdGxn?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-05T07:15+09:00"
     }
    ]
   }
