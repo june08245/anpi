@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:30+09:00",
+ "updated": "2026-11-05T04:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-10-30T22:45:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-05T04:28:00+09:00",
+   "place": "鹿児島県薩摩地方",
+   "mag": "3.1",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-05T04:21:00+09:00",
    "place": "宮城県沖",
@@ -72,16 +82,6 @@
    "at": "2026-11-03T14:10:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-03T02:50:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "1.6",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -293,10 +293,10 @@
      "at": "2026-11-04T09:00+09:00"
     },
     {
-     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも | | プライムニュース",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBycTdwM0Z3WHl0WmJmNGdUTUNOSGpiVUNiaTRUQUlHdUg5X2NOSTZ0eDFMRGZXN0prLVJxY0xoZXhTNHpfanpGbmpzSklLMXJ0YUpWczZKT0FQM0ZZSVE?oc=5",
-     "source": "佐賀新聞",
-     "at": "2026-11-04T08:37+09:00"
+     "title": "欧州発着旅客機に爆発物の情報相次ぐ 緊急着陸や空港一時閉鎖も（毎日新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PTGVtTlNuLU54M0p2MmdoVlVDOTZaTTZscDdoNGdDajZEeF9xV0JRdGRkSmVOZVp6LXRyUVBhQjI1TUtCazRUS2RhdVNaOERJQTNUdTdjcEN3SHFVWjQ2bEt1blJlMVJ0OWFUdjJHMFo2ZWZKMlptd3Q4a040ZEE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-04T07:38+09:00"
     }
    ]
   }
@@ -380,10 +380,10 @@
  ],
  "cyber": [
   {
-   "title": "ドコモの「d払い」で障害、4日夜～【復旧】 (2026年11月5日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xekRXdEd5WHJvOTYya1VfRDdUQlFNR1FuN3Y0YkFNSHNvNEJFNWN3VHktdGgwcDRndGRFc1lfMFBrVS1CR1lqZ1JsN1pKMGlhWjB2YmpQM0I5TDJfS3c?oc=5",
+   "title": "ドコモの「d払い」で障害、4日夜～【復旧】",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nT01fX1JYRzg1V1ZjRjVJcXVsVmEzRFJlRDc2U3JKMmx1LXNhckZzUHlTZUk5WmVETU1RTEVEcjFUNEtZVzkwekQwQjFRbFNERW9OUm9ManBLM0tPcVhn?oc=5",
    "source": "ライブドアニュース",
-   "at": "2026-11-05T02:57+09:00"
+   "at": "2026-11-05T02:27+09:00"
   },
   {
    "title": "電子申請サービス「LoGoフォーム」の障害及びメンテナンス実施について",
@@ -452,6 +452,12 @@
    "at": "2026-11-05T03:57+09:00"
   },
   {
+   "title": "急増するサイバー攻撃 情報漏洩相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-05T02:44+09:00"
+  },
+  {
    "title": "フランスで血液製剤の冷蔵庫にサイバー攻撃 スーパーから広がる対象",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ubmxxVk5VQXg3aVQtQldCNjdlQjJJblViaEZ2VG9TME1YbEdCVUFldEozcktFd0VhU296M2VHUzR4YXFOSFM3WUlOcDlRTUlrdmxfMVRJbGtkRkR0UlFwdTFmaFpfX1dQWG0wMQ?oc=5",
    "source": "日本経済新聞",
@@ -462,12 +468,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fX1lndFVMZkY1RTRlQTBTM09abGRaelQtYUtOOXp4NmxDOTAtQ3ZNWEtxakZLTkZxbzFxSTJVZzRkZl8xcFJHbks1NXVBanN6dHR5U01Sd3RYaU5FVU04?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T02:20+09:00"
-  },
-  {
-   "title": "欧州７ヵ国のスーパーで食品大量廃棄…冷蔵・冷凍設備にサイバー攻撃！",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlQ3k2aDR6cG9ZcVFUaWRmZTlNQkFBclVjV1BVRHVWcGk5aGRRdVNObk91c2RESmR1T1lxNUVZcWd0RkU2cWxscEhybDNiUVZFWWhzOWY3dWFWcWdCMGphMzNBc3BTbE1ZX1E?oc=5",
-   "source": "Onlineジャーニー",
-   "at": "2026-11-05T02:11+09:00"
   }
  ],
  "osaka": [],
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモの「d払い」で障害、4日夜～【復旧】 (2026年11月5日掲載)」"
+    "「ドコモの「d払い」で障害、4日夜～【復旧】」"
    ]
   },
   "japan": {
