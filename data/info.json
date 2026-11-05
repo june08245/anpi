@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:45+09:00",
+ "updated": "2026-11-05T21:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -363,6 +363,12 @@
  ],
  "cyber": [
   {
+   "title": "更新：ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には不正アクセス疑いでMy docomoも停止",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Rl91dHVTUW9Kb2ZEbEpjNVJoZTdHcTIwanlfQWxPcGlmazhjQWhQMkhkV1VfNGFMcVFfNXpVUzlsWWljeHdTRnBFcTBtcFdUV3pOVktCU0JCUjZFc1FOaUtSbmtpc1U?oc=5",
+   "source": "テクノエッジ TechnoEdge",
+   "at": "2026-11-05T20:45+09:00"
+  },
+  {
    "title": "ドコモの通信障害、発生から9時間経過も継続中 5日11時～",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tS1ZzdFg4YUVzWFR5N3RuNnJyOVAxN2NuQzhkMk5JdFFSbGQydURPOVM4Uk1QY1B5VGtqdGRyZGYzMkJYYk05N0s4dEFCNnk1OWkxS3gtcWRZZDA3bWlRZjRvX3dheDg?oc=5",
    "source": "ケータイ Watch",
@@ -375,22 +381,46 @@
    "at": "2026-11-05T20:01+09:00"
   },
   {
-   "title": "NTTドコモで通信障害「5G SA」とは？全国で通話や通信が利用しづらい状況が続く",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUZTZ5REdTR1V5dFNVVUpFX0doNmZxZ29ld21nbEEtbjYzU05MVEhraGtSb2ZZeUFTbVZTTFRQQmJOLUc3ZC1IWTFsQ2gwOEdEQktrS1VFQ0puQ19wamJ3QUF0a3NDbGdDRkVtUXh6MnNfTnM?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-05T19:07+09:00"
+   "title": "消防庁の安否確認システムに不正アクセス 情報漏洩は確認されず",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90MnRtQjIxZEhOSUdFZ2NLaEQ4X1Nhc251OGhPRFN1eV8yMC1xcjFtYWNrbTl1S0lpSjhoNmFFOVhfODU3STdpRnZOYnZ0YkpubXdKdUZOa1FFSVJUTXg0OVVvS2Y5QS1UR0Qxbg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T20:54+09:00"
   },
   {
-   "title": "八王子市「桑都物語」サイトに不正アクセス 問い合わせ情報流出か",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CZ3BFZmc1WXJVVks1MUZTSHlZOVg0akp0S0pmU1pQMjE5MzduaFBPSzN4WGRNZ3RMMXV2WVpCY2Z0c0ptcXp5VWtnU2F1MWZCZVRTZ3ZKX3E0TnMzNGlraDJwQW9EckpP?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-05T20:42+09:00"
-  },
-  {
-   "title": "総務省消防庁、有事の「住民安否確認システム」が不正アクセス受ける…システムの運用を停止（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ockt4ZFVaQW8tdTdyWjdOejlwTWNXb29ESkZLb1RSbzRwTDVGWUkyOXhHaWxlU0wxODhlVnJucFI2TTk2Z2lIRTl4TEhvV0lQZTcxM3g4QUN1XzhFYjNhM2FYQmdRTVVRaWd4ckIwbUV4MDJucU9TcmVkdmFSOUk?oc=5",
+   "title": "ドコモ、最大30万件の情報流出 不正アクセスで（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ybWZlUzVTbFZOaVZiaVJLWmdzV2VCRm1sbjZDZmhYRjJ2NTQyRjhqMVQyWHdnWjhoeTJaRnlNNmtEOGZOR3dUMFIxMnpxYVZlQ3dzZWJwWDdCcmwxd2hVZmJxeHc4TVJSZU9aNlZhMEd0Z1Jaa21BV0QySmxwOU0?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-05T20:41+09:00"
+   "at": "2026-11-05T20:54+09:00"
+  },
+  {
+   "title": "アイリスオーヤマ公式通販サイト「アイリスプラザ」 不正アクセスで約７７０万人分の個人情報が漏洩か（仙台放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TMmMxVkZiUUdUN0F2TFRFcVJYU0NxMDROTDNtT1Z4YjhpS3RjN0JDa05VZGx1bERYSDZNTmxLa3BIaVozTS1HS2g3NURLeUdjUXVmcG1odkNhNk42SG9aUDVhQkNhVTJ5UU5VWE4zdWp6dVZZZDhQZGxsY05vR2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T20:51+09:00"
+  },
+  {
+   "title": "楽天証券、顧客のメールアドレス2109件漏洩 アララに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mSzdLUXozT0RVZUxHTWJCS2w2ZE52SmNmY0YyUFBrX3VOT29xdWR5Sk9JcGEyaV9HalMyYzIwWTJaWm81ZHZIX0ViNFVkcmpvRk1VSTVIQmVSMS1rRjFzMW45RGllaF9KR2V0Tg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T20:50+09:00"
+  },
+  {
+   "title": "松井証券、顧客のメールアドレス最大83万件漏洩 アララに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUXF6ZjN5cWxHaUExS1YtSE9Nd0VTYzdHU00zbF91TWJhazVNdW9TQ3FmQnVsRW5QUGlkbXk2Y3ZabjJZVUdNcm5vdEF2Y3E5dkdtY0cxbHFmVXZqUllXbEtKUHhVRXRHMkVlSQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T20:48+09:00"
+  },
+  {
+   "title": "住民安否システムに不正アクセス 総務省消防庁（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92T3JLRWg0SUNrdGZjY3F5Tzd6RHF1R2dVaVpMWGJ0dm5Tb3I0YWRrbEw3aVl3QWE0eTNZMXBRbWN0Y2NmOS10STIwV1hGbWlnREpDN0N3NE05MXlZaWtvbEFPOENLSGlUMnRfeksza3VYMFZUQ3hZaExYRXJweG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T20:43+09:00"
+  },
+  {
+   "title": "総務省消防庁、有事の「住民安否確認システム」が不正アクセス受ける…システムの運用を停止",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55QkdpSF96REx5b2s5VDVtYk8tQTdjRGJLaWZSbHFhSmp3MkJYcG5VLUhQNjczM1ktdExpeFBOb1o1b2QxSnpvVTdYV1JpWWZldjVVUGNVbTNPUEdaTzFTa1NnOERJUQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-05T20:40+09:00"
   },
   {
    "title": "ドコモ、不正アクセスで顧客情報最大約30万件が流出。氏名・住所・生年月日・電話番号など、My docomoとオンラインショップは復旧めど立たず",
@@ -399,22 +429,16 @@
    "at": "2026-11-05T20:37+09:00"
   },
   {
-   "title": "アイリス公式通販サイトで最大770万人分の個人情報漏えいの可能性 不正アクセス被害で調査",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaFRvNm1wQ0JYUkR6TDBqMDZhSUxqMkNCcHBFeTNKS1pnbGRwUFQ3a0NiQ2xOcDRpTDczNFNuMDZqMHgxM2NFRFI1aUd1WXdadFV3WHFpRldCSFlndnZVWEZ1RG1KX0pIVnVDSk5QUUtBcS13UDdMVXBxTGdkWVRXU2VIT2VOWmc?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-05T20:36+09:00"
-  },
-  {
    "title": "アララ不正アクセス 宮崎県メール配信サービスで流出のおそれ",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56WUFkcDBwV2gyUUY0Uk9NYWEzNXI2VjBjYk5PNXlyeTBtdmFxRDVoMENJalp5Qjd2TVY1MEtvQlBLZlZZYkJtVW5qS2U2UllMZlQwamNjeVg1MGV1REVr?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T20:32+09:00"
   },
   {
-   "title": "NTTドコモ、自社サーバーに不正アクセス。最大約30万件の利用者の情報流出（INTERNET Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sX0tiX29wMmdXeEo3V2dRQzhjZmpPMHhoT1A5UjNVNkROdUNGNlBUOEh4QnUwUF8xWDhRLUFUazAzOEVrZzFKSm9tZmgwWExRSU9rUVNobkV5Q2pZdmQ0UjFvd2NlaGJaWUVCNDlnRTBfOFJnUnJOOFVvZnA3ZGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T20:27+09:00"
+   "title": "公共工事の測量委託会社に不正アクセス 情報漏えいのおそれ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90U1NQR3c1MkdQNXFCWi1tUjE5RXBqLTBkd09FZjFIUmtvUWdqcDJiMnhrdW00ZWhVVFc2cXBzcXZ5Y3R5Ym5SZnU3M0hVQlo1d05Gd0EwZlJZbDBZaVNn?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T20:22+09:00"
   },
   {
    "title": "総務省消防庁 「安否情報システム」への不正アクセス確認",
@@ -423,34 +447,10 @@
    "at": "2026-11-05T20:20+09:00"
   },
   {
-   "title": "ドコモ、不正アクセスで最大約30万件の個人情報流出 オンラインサービス復旧のめど立たず（ITmedia Mobile）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbDZUejZ0a2E4dThSZ2hzNHk0dWpvZE1UUEFQdDRZdTE5U1ZXUm1NU1dvdUU2aVgyQTJvbU1SQXMxNC1mWk5GbWF6VEhhTXZQQTNiSnpOTmg5MDg1ZnZMSlF1ZjVWdHZUUlVXdnhLS0VKd2xXX1c3TUxHVVlrUTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T20:16+09:00"
-  },
-  {
-   "title": "朝日生命、メールアドレス1.9万件が流出 アララ不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sWUNtMDZxdHIzQkszaW84OGFRRGN4bkJsXzZmOTQxM0YyaF9WcEFycC1jUDV4SU91WlFuOE1Ja0ctaGY0U21HV3ktSGNNTTg4UnFLdFJvem5mWmlWaUp4RTZ3TDlHQnM0Rmw3UA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T20:15+09:00"
-  },
-  {
-   "title": "KDDI、自転車サービスで顧客情報漏洩か 委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94SGhFaEdxel8tNm1GcGRHQlBqQU0wM2pOc0N0eG1hMmxiQ3Vpb2ZPNDljV0ZuSzhqZTlpUk10VDJqSkoyVVo5Qkt4RlVsYUVMQk5OZ3JBbDA4SUR3VUg1MldLNUlaekdTT1plMg?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T20:10+09:00"
-  },
-  {
    "title": "ドン・キホーテ委託先にランサムウェア攻撃、時計修理依頼者の個人情報が漏えいした可能性",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KY05wRkh0bHU2dXRKM1RiUnlTZnp4Q1VWVGFpRG9keWptaF9WZ3pPdXpiTmZVTWIxLWRLR0o2VWxFTk1kTm5CckxzQmFkODdlSWE3cEttQWpiVF9Qb1MwRTRZZ3dvdlRpSGFBWQ?oc=5",
    "source": "ScanNetSecurity",
    "at": "2026-11-05T20:05+09:00"
-  },
-  {
-   "title": "相模原市、サイバー攻撃想定し訓練 不正アクセス問題で対応方針急きょ策定",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CdjFQUlVRejJqdk02U3BJc1RIQ0lPWDRrVnhac25ZdHFqbkcweXE1dkc3SDNuenI0WlpVSUZpOTU5enlKczFtWDgtYTJhaEw4Z2hKVTRKNHQ4TUJWWlQxR1dBU0kxUWRzaDFiUA?oc=5",
-   "source": "カナロコ",
-   "at": "2026-11-05T20:00+09:00"
   }
  ],
  "osaka": [],
@@ -600,7 +600,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモの通信障害、発生から9時間経過も継続中 5日11時～」"
+    "「更新：ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には」"
    ]
   },
   "japan": {
