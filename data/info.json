@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:30+09:00",
+ "updated": "2026-11-06T03:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア・ウクライナ代表、メラニア夫人主催の式典に出席 オレシュキ停戦を評価",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1VjUkJ2S2JuTlpZeGtmX3pCWjdsNVhXTHJBdDhpTTVGTS1aUDFkWl8ya0ZyT1RhdGZvcVdfcjhaaHVtcFV2ZTdYOXZlemhrMFV1NGlVZHI3OGltdjF1ZWxNOEFJdWhoZGM0U0JqbzltcGZNUlFQa25ZemZtNWpFTWVKbUJ2aVNuSEFFampR?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-06T03:37+09:00"
+    },
+    {
      "title": "プーチン氏、ＪＴＩのロシア資産を一時管理下に 大統領令署名",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmRicWtHcDhjZ0pfTkItYURLdDduUnlWUzZiV013ajN0dFN5ZHV4SFNvTGYtZDhvcm9CejlBbi05b3BnZFo0Q3BkSmk3LWJ3LUtaYWZMY0ViNmRBY0FPUmozUElYSWVXekE1UzZ1TFZYaUhYSWQ0UnhUa2lpUnZSTDlPYmFCU0k?oc=5",
      "source": "Reuters",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTdRcE9MeUJUQzhZTEkyNGY3djRkamJOV3UxbUk3dzJVczVqckV2Y0xNeXQ0RGxNRVZkLThNa1hFaFZYQy1uYzZ4RFJ2LXp6bWlmT0c5Mm84U0VPTkYtYkQySHpYUlZsSlVJSQ?oc=5",
      "source": "日本経済新聞",
      "at": "2026-11-05T21:44+09:00"
-    },
-    {
-     "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-05T18:18+09:00"
     }
    ]
   },
@@ -423,6 +423,12 @@
    "at": "2026-11-06T01:47+09:00"
   },
   {
+   "title": "日本郵便、顧客の名前計３７６３件が漏えい…集荷・配達業務を委託している業者に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5taTlPUlV1cm9iTnZtd3NOcDFzOEtvakNjeFBtUWlkZGRPQUlKcnRrWU5yb0x1cVdvZmRBLXJlRzlwLWZJX2c1eldWMDBYdmIwUHB3WnBzcU5EeUxCTDJDaVZremc?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-06T01:47+09:00"
+  },
+  {
    "title": "フランスの銀行にサイバー攻撃による不正取引、１７８億円相当の資金流出…血液バンクで保冷庫の温度操作も",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHOEp3TnZZVnBVeHRfVW5vaktRb0lnb2wzdUlqck1lUzdOSW1qcVZieE9YeHg2MkRSdUhteEtUc1BsVEpsTnFqQUdsQ0V5VzVqSUJqM3diNUtvSTVGa2tIX0pR?oc=5",
    "source": "読売新聞",
@@ -445,16 +451,17 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNzlDX0MxYXhvRGZqT1pwYVYyWS11WGtjTnY1Y3pLck10ODRTbFYzNEMyNnJ0THNReUc0ajBZeHFiWllXQ0NzaU9YQmpQdWM2Wlp0WDJscnFHTU1nUjd1Vlhsei1ybEFxY1lfS0I2UnNPR25UOVhfMEtjNEYyUi1VOFFEMXBDT3M?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-06T00:38+09:00"
-  },
-  {
-   "title": "「au自転車サポート」で顧客情報漏えいの可能性、委託先に不正アクセス（ケータイ Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00OWQ4M3FWdXNiNVFqTEhqS1plWE5SLUhMcGtXbWVrcEpDZ0pPYXR1Y2d2OTNqRWRpa2UwOUotMDVRRDVTNjRhaGg4U1BKZ1V4cnFrUWtod2JtdnZ3dmtPckVkd25ZTWVNZkIwQ1pVX3ZsTW9KT1dwRnlHNlhJSTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T00:31+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア・ウクライナ代表、メラニア夫人主催の式典に出席 オレシュキ停戦を評価",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1VjUkJ2S2JuTlpZeGtmX3pCWjdsNVhXTHJBdDhpTTVGTS1aUDFkWl8ya0ZyT1RhdGZvcVdfcjhaaHVtcFV2ZTdYOXZlemhrMFV1NGlVZHI3OGltdjF1ZWxNOEFJdWhoZGM0U0JqbzltcGZNUlFQa25ZemZtNWpFTWVKbUJ2aVNuSEFFampR?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-06T03:37+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "欧州の旅客機25便超に爆破予告、目的地変更や戦闘機護衛",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ORDhnNHhMai1qQXdmMDUweldqV0lkYjc4Y2JPZG9TTVFkYmY5Y2lkdW1WdFgzYTlrNmRyNW9qZVF1dkIyZHc3Q0lkRzhzWEMtOHRJeFczWEVfc3pGcHM5TzJ3bVNIcExRV3NaVQ?oc=5",
@@ -587,13 +594,6 @@
    "source": "TradingView",
    "at": "2026-11-05T19:39+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "【更新中】「これからもトランプ大統領と協力」高市総理が初コメント 米中間選挙、民主党が上下両院の“多数派奪還” トランプ氏、大敗の原因は“イランとの戦闘”",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQ016Q1lpbUlvaUFYQVlZTFdGTS0zZmRZSndaRWlmZW9wWFFSVFJOMFlUcURtSmhoUmZZWFl5Ynl0NWdBMUgxeVg5eFlEbms5Z0xBQkVYNDF3RlJCTlhlX0dBZl9FaEFmdmNJLUdaZjBUTU9ZVkUtMkx3?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-05T19:00+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -614,7 +614,6 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
-    "ロシア：「攻撃」1件",
     "欧州・NATO：「爆破予告」「緊急着陸」5件"
    ],
    "items": [
@@ -631,10 +630,10 @@
      "at": "2026-11-05T23:59+09:00"
     },
     {
-     "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-05T18:18+09:00"
+     "title": "欧州の旅客機25便超に爆破予告、目的地変更や戦闘機護衛",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ORDhnNHhMai1qQXdmMDUweldqV0lkYjc4Y2JPZG9TTVFkYmY5Y2lkdW1WdFgzYTlrNmRyNW9qZVF1dkIyZHc3Q0lkRzhzWEMtOHRJeFczWEVfc3pGcHM5TzJ3bVNIcExRV3NaVQ?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-06T02:37+09:00"
     }
    ]
   }
