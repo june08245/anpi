@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:30+09:00",
+ "updated": "2026-11-05T11:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-10-30T22:45:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-05T11:35:00+09:00",
+   "place": "千葉県南東沖",
+   "mag": "3.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-05T04:28:00+09:00",
    "place": "鹿児島県薩摩地方",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-03T14:10:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -94,6 +94,18 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "原油先物4日続落、米中間選挙受けイラン戦争激化リスク後退観測",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50X1A4dlJOc29jSXUxR2lTdmVEMXA5dDk5eTZ2LVFITzJfUlgxSnhMcGdRNWdLdEh3dzdycjcwOVFXX1dwWmU5eHVPMnJEM0MzYVVIbk9BalZORWJ2V2Q0V3FtWU9JU2x5a29ybnRpZFdzcDlpNWhiOGh6UWxTdnc?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-05T11:36+09:00"
+    },
+    {
+     "title": "米中間選挙で上下両院を制した民主党、イラン戦争の制限を再始動か",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWVFNWR3BiN0hYeGV6VFA3ZTdVeU4wdXFuOU1Ia3h1RE8xbWp1Wi01YnFWSnpoZ0xRdlZ5bUdSb2lJemlka0JOWUNpekM4RHVYNEliMVUzMmNjLUdGaEhsTHFGa9IBaEFVX3lxTE5tb1BWUzJrcXpjVlp5eHlGWDRhTDdLMnVCRlpORTlST1UtRDN0UFVTcE9JOGhReDBvU3JodnVQSFF3eU04NUUxZFhkcHFsMWc4YWdONmJuaWNEMGlMWEthb0pCYXdPMkRz?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-05T11:29+09:00"
+    },
     {
      "title": "米軍撤収で影響力増すイラン",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UYmh4aGFDckVVb0JNVkRabFV5MU00YWlNUzVJWEU2M185Mm5QZ0h5b0E3dUpYckJiVERHaU5SLVBna1FLSGVHSGducTJNOUJjbi1aRU9xZmxFYmwxYzVSUEdqNlROdml3SFJuZ1pRcHU?oc=5",
@@ -117,18 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUxtYzZESzBIOU4tdDhCWTZIV2RQX2NTcnpKNGowYW5FNTltYmVtOGdKc1M4dG9SR1E5dlhhVHJ6dHNIR1VpWTJ2Y3dpUnlqRy04a1BWVWs3MFZiMFB3MTM1REo0bFdEWTFjeXMwQll6RXZheDBQVnA5cExFSzNSdlRCckYzaWM?oc=5",
      "source": "Reuters",
      "at": "2026-11-05T08:43+09:00"
-    },
-    {
-     "title": "なぜトランプ大統領は中間選挙の歴史的大敗を素直に受け入れたのか――イラン戦争の誤算と、アメリカという巨大な民主主義ショー｜仲島池哉＠仲池屋",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NbWRkai1oRGZGclMtajVfSGpqSXY1WUM3RnJ2MWZTRXRDbTl1U1B4WHJTVTdUcGdKS0VBNlpXX1pkcng4aWRBcXo5eFlfQlRjZzlBOQ?oc=5",
-     "source": "note",
-     "at": "2026-11-05T08:00+09:00"
-    },
-    {
-     "title": "焦点：交渉か軍事行動拡大か、トランプ氏が直面する対イラン選択肢",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jMTl2Wl9VR0g3eFdYVWFwSkk0eFJFR3Z6Sll3azRDU0JSYjhjM09ta0dVQ2QyUHBxUUVJNlMxOHh1WnFyS2JmNTluX1ZBNk4xblI1S1kxV29BdlY4RFhyQXFVSmdoYUMwcjIxZlBNbFkyRE5OcnV5OUJ6LUVDMVE?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-05T07:53+09:00"
     }
    ]
   },
@@ -179,6 +179,18 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮、米中間選挙の投票中にミサイル数発を発射…約1週間で4回目（KOREA WAVE）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMjgzT2JYdWtJWnBmYzgyZW54eW1HaHJPNkpxcFhlTVl2ZF9idTZubmNwTkhHbDNfOS1GbjdEWkI1RmVpNnF5MHhkNTBlTGJ0aUpsNFJDTERhbU9Cd08zNHlSQU55UVpNTXpVMlMyWmxzRFQyUWFBVHJ5eVNIWHM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T11:33+09:00"
+    },
+    {
+     "title": "北朝鮮メディア 「4日に対空ミサイルと巡航ミサイルを発射」",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tVzIyTm5hWXRuSDFhUGd1aVdoYUNYUktZbkNEMFpNT3ZTNFA4aTM0VHRfSUdJaEg1ZV9pSWpQQ1ptTlVlT0RCNUFfQmlUalp0eXZ3djlFeGtfby1QVC1Z?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-05T11:32+09:00"
+    },
+    {
      "title": "北朝鮮、4日の発射は新型対空ミサイル 長距離巡航弾の訓練も",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95akF1OHhmaUQ3aDJWSzZtbzJGTzhjVFd2QmdoLUc4djlQRlZralFlS2RGZ2dDNUpGWlRZUTJ4LUZkWklBZGFtRklwa1BoSkhtaUx2aWFXSGsxc2JiVHpYeW1GOUxoWDJvT2pWRA?oc=5",
      "source": "日本経済新聞",
@@ -201,18 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdnVybkppbzJVckt6Z1RFbDZLZzZScHNlRE9SekZDb1czS2tRQThiLUhUdlZHQXl6WnFuby00bXZYMWNxVGtsSGRhck9OSm8?oc=5",
      "source": "福島民報デジタル",
      "at": "2026-11-05T11:00+09:00"
-    },
-    {
-     "title": "北朝鮮、東海上に新型対空ミサイル試験発射…「技術的特性実証」（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94VHBqOGNsY1czcHFhWVhwMk9GdkdCV2FfRlhNNmE1ckp0Vl9lbzdkSDRFM3h4b002N1FRWW80LV9ldnlma0xUbF9mNUpaM1VsTjEzY19Mb0ZxOFU3Vm5RZWxiOHlRRDJDSmJZYU90cTFCQ1o0ZDR3V2V6SXpGYTA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-05T10:40+09:00"
-    },
-    {
-     "title": "北朝鮮、またも東海へミサイル発射…1週間で4回目の挑発",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU2VBYlhnNnJuLVFVVERoOHJwb2FOcHozRzNRQURWMHJNRmhjT2I3Q2ZlNzZ5R0EyWjRLeUpaOElLajVHcDJBaUs3cUQwdmw1eDFjZ29BbW45dGVhRzBOWlpOSWI1Sm5kakVmS0N2TU16WUJLVFpMR0ZGTGdaV0NUM0YwWdIBfEFVX3lxTE5XWHFQanh4eGpqUkJkZk03SVJrZ2xxY1QyZlBUQ3Z4QmYyNm5mNk9SQmFDQUc3T2EwdmRMTTZRS09iOGptX00yNElqZTZRYjBHYWNmNlNFU0o0MTFTQU5wenhDUHRySlRpY3U1eHp4UElNeEJuU0Jyd0hhdFI?oc=5",
-     "source": "朝鮮日報",
-     "at": "2026-11-05T10:40+09:00"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "残酷なロシア、救援物資待つウクライナ住民を爆撃…33人死亡（朝鮮日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwOXR1RDQxWU5zc1V6RExPZDFjbkE1OTl4cjczcU5pTmpBOVl3cnN4Vi1lVWlsa2UwR0psV1VkeUM0djAtUVR0YlhTNjBVV0g3enZCMmxIZzNSb3RCdFhsVWQ2WUlxa0JiTnV5N3Bpdnl0ZUVkaUl4RVdwWXl1bFk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T11:35+09:00"
+    },
     {
      "title": "ウクライナの支援物資配布拠点にロシア軍攻撃、死者40人に 数十人なお安否不明（ＡＦＰ＝時事）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91ZjR4X1JCMkNfeXBQdm5YcHIteDd1LUxiRl9KVno3azk5LUZqMVJwS0o2ZGthRDJXZWFGNGpaX1lrUzg1ZV8xd0ZZZ1pQTGZfdDRrdHVkM1NrZEJGV3MyQ0I1Y1lTVUZxb0otNkNxTUFTQnZuWkJyU3lPUTlIc0k?oc=5",
@@ -231,12 +237,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzlMY01YdnR3WUhrWjNBcDZqNDllOEQ1N0FITWN4Mk9iRXNyd21nTHJTUW1Fa00zM2xyV3g3Yi1sdXNkbmZDbHdzZFM5MU54bF8tQzBSWjZJWEZrVUhTUnVDcFUxSXNELTliM09NM3VxdEtHY3lzVXFGMzJTT200RUJWZ2l5dG9rZnZPeFF3?oc=5",
      "source": "Bloomberg.com",
      "at": "2026-11-05T09:49+09:00"
-    },
-    {
-     "title": "3日、ドイツ・ベルリンで連邦議会議長と会談するウクライナのゼレンスキー大統領（ロイター＝共同） - ウクライナ支援に追い風期待 欧州、米国巡りロシアと駆け引き - 写真・画像(1/1)",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ENW93b2kwb3BEeUtEVnRlejBhaG5LVFdHQkJyVXJuNjEycHE0OU9Va3p3QkRMMGJyMjZBeUFja241SkxpNHBSNzR5Sk0tVUVwTU1SclptNA?oc=5",
-     "source": "西日本新聞me",
-     "at": "2026-11-05T09:04+09:00"
     },
     {
      "title": "【本日の材料と銘柄】ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ(フィスコ)",
@@ -380,10 +380,58 @@
    "at": "2026-11-05T09:15+09:00"
   },
   {
-   "title": "フランス銀行にサイバー攻撃で不正取引",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZdEktQmJMQW4xeXdrczA1OWYzeW54SS1FRVdEaXc4enRwWktSMlpNX3hRY3QxcWlCb2h0SElWNjFhbW9nVHFSem1mWUJ1NnVpOHhVTGg2NmJDblk?oc=5",
+   "title": "栃木県内も企業、自治体に影響広がる コジマに漏えい可能性、2市でも恐れ 「アララ」不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbFhSS1NrRUNPZk9IREt5bzlaLVRpQUdFakdSUldNY3dvbENSUDdKNXhGNkw3dnQtZTZCM0hnMHVJYVR5bms1ZGU1VTZ1V1FJclZnUTV4cHZkV3M?oc=5",
    "source": "下野新聞社",
-   "at": "2026-11-05T11:28+09:00"
+   "at": "2026-11-05T11:43+09:00"
+  },
+  {
+   "title": "ドコモへ不正アクセス疑い、オンラインショップとMy docomoで緊急メンテ",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzT0N4WVZIRFp4RFpWQ1hGVWJPUkc0RW5hSzBHTkU5UDB0WEdWNjE3SnJob0VOMVVHaHF4Skd0YUFfcWpraVNQU2c5NF9LT21PN3ZQSEVSLVYxSjZsSXByTFVzN1pYZ1k?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-05T11:36+09:00"
+  },
+  {
+   "title": "ドコモで不正アクセスか 5日午前1時すぎから緊急メンテナンス（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSMkJYZi1kRWRfbDhQbWF0a2FwUGRzYVFqaThvVVF4Y190bDQ2MVQ2TnpEZE5hcVdJbU9CMVBZR1FRMC1tVk1kQzU4M0tickp1Q0JmQVdFNktldmowem4zRjlWYnlNNWc2M1AzcHpxeWxaS29NUFFlM2owQXZwTU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T11:32+09:00"
+  },
+  {
+   "title": "高速バス「VIPライナー」、サイバー攻撃でカード情報6,949件が漏えいの可能性 セキュリティコードも対象、不正利用の相談も",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTZPQjRNSmIxMFBZdndEa3Y4amhFb0FxalB3dmZuZWh3SmJQMFh3UE1xN1VMc3lyNXg4dUFxbTZKaUYxM0hWNG9hNjZqWnlkcVJpc3BoZnNCNkV5aXk5N2g2bUpRT0hid3FQRmF0Q05oVUdVeERZdnhoXzBxSHVPNDhhR2ItbENIcjhwNXRuWGlnYjhFS1JPYXN3?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T11:30+09:00"
+  },
+  {
+   "title": "ソニー銀行、デジタル証券の委託先に不正アクセス 顧客621人分の情報漏洩",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5FUE0wekQ1UkRwWm5CTmk2di1Gc3F5SEJ4ZWtYWXB6M2hrWms0bTR5akNCRm84RjlvTG1KM0RxX0MwakE?oc=5",
+   "source": "CoinPost",
+   "at": "2026-11-05T11:30+09:00"
+  },
+  {
+   "title": "サイバー攻撃「救援組織」創設で調整 政府が緊急対策パッケージ公表へ（2026年11月4日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5cFpvSkg0QWEwTUNXZFJrSWVjTUxpLXBJcHVfZ1A3a0Z1WWpiSHNCdlpnM2dqVnhRUVJhNlhTNGNZSlNaRm40RG9FckZYdlRrV3djZjR5WW1hb0hDUE40NVVNTkl6aHB6YmJwUVozbm9vR21YWkVSaG5yMjFYdw?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-05T11:30+09:00"
+  },
+  {
+   "title": "ＩＤホールディングス[4709]：相次ぐ情報漏えい・サイバー攻撃への備えは万全ですか？ 企業の大切な情報資産を守るために、IDグループがサポートします。 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZzdad2FIRUpCOXZvYXRTM1prYU1jV0RaV1FUeEZ3U1hOcUpLU2poSGl0YVo4RHVqeFcwcEstdGUxLW1leFB6aXBmR3dDM1FXZlZ4cnFsT0MyX1R0UTJFT0pWSmREN1NrQkRRa3dnVllnc2dFRnMzTUwwc0VuVDBJaGFRVnN3dGRoa200dEd2Z3d2VF9faDlldUF5allMeWo3ZGN2ek0wUG5tM0tpSDVLb0xkeXkzdi1EbmdYQThVa3ZlRnAtVmQ0Q0ZjcWU?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T11:30+09:00"
+  },
+  {
+   "title": "来年のヒット予測に「人間証明書」……サイバー攻撃に使える？ 2026年ヒット商品ベスト30が発表 1位は推し活のアイテム【#みんなのギモン】（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VaVJUd1FtTHlFXzlYNHR4aGMyd1ZQWXNwdDlnbmNoOHpCUFRDMW1RS25mbWhHMlJqRWRGM05QbTh0X1VXZEk2XzFJY1RDY1NobXhncFJQZTlCRmQ0N0p3Q2tQUjFpNlBPWVBOTDZsZ0xGN0pUdnQ4UHVpbEJROHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T11:30+09:00"
+  },
+  {
+   "title": "フランス銀行にサイバー攻撃で不正取引",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oX2g5WV84ZjU0TjZOSlpqZUw0aHhSTkl4V3pSUEE5TXpXcmwxeGNwTEFpcDBZVnlJRTNZM0RxZHBiMTZaMGFQcXZDby1TUmlfVEFZZnZ2MTQ?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-05T11:23+09:00"
   },
   {
    "title": "AIRDOに不正アクセス 67万件のメールアドレス流出 外部委託の会社が被害うける 北海道",
@@ -414,58 +462,45 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11ZExaUnR6MlhLeGdwU0l3RXlfU01feTFiYjhNXzlNcG0zMFh4TjBjdFhXa1VFWDJsc1FPQXBDZjRwOEU5dFZUbDE1cTVTdlcyQ0p4MHM3SkNxTGhqd1E?oc=5",
    "source": "下野新聞社",
    "at": "2026-11-05T11:02+09:00"
-  },
-  {
-   "title": "「アララ」不正アクセスで福島市にも影響 個人情報漏えいの可能性 最大で4700件（2026年11月4日掲載）｜中テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFBYWkp4Q1JQVFZWMDlEQlU4N1Y4cGJ6MW9Jc2h4aW9mMEJDSTBHSlBqSGJDRFFiQ3VibVF1R29DSS1nWGt2SmlsQTVtbFdDWHFuT191cnluUFVlRkVOdFF1STZVX3liOXJ0aVpXR1Jzb0otT3V4SWRmZzJRa3BJdjFSM3gxRDg?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-05T11:01+09:00"
-  },
-  {
-   "title": "KELA、サイバー攻撃の「予兆」を「先手の対策」へ──攻撃開始前の防御を支援する脅威インテリジェンスを進化 6つの新機能を発表",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wSEUtY3ZSb0xTeVpFQjV6T2FHRHZmTzhpTlhvSGtnMzlpUmdoT0ptTzhFaDk2M1lwM2ptOHNsMU5QZFVSbFRxa1RIRkNiaGFaSW9SbjhMQjBzbUpfOUR5Ug?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-05T11:00+09:00"
-  },
-  {
-   "title": "仏の血液バンクにもサイバー攻撃、欧州スーパー被害と同時期",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwcS1WNmJ0aHNYcmRBX3MyQTRfXzVTQmIxc3hmcnJNYS11bjZydjR6b3pZTXZhXzhYUmtMWkhOYjl2YTUtS0VmZ3hfTWsxelplS0hpZXZHaHd1NzRnOUJEUS1OMWozQjBRZDV4cy13?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-05T10:57+09:00"
-  },
-  {
-   "title": "ドコモに不正アクセスの可能性 オンラインサービス停止",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OS19iV0xaUmJpSFVDb0k4TENMdzBJTVh0WkhWelZlWUhQMkI0NEEtSVJmQnpIeXlQalpyMmE1bWx3cE15WVExVWdEUGtGVmt2QldOVUpTdi1tQnB3end3?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T10:54+09:00"
-  },
-  {
-   "title": "サイバー攻撃に官民チーム 企業派遣、初動対応支援（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kXzExYThJcHh3ZmZlbUFhZTVwQjNod2RGX2dId0JRQnRXUUkxTTZjMWU1Ty1tYVVIV1BEWlVnVHhwekpzLWdKbHN4V1R1NUUxdVhmM2pIUzNnbFN3X25lcENvb29POFFLdHBNNzlNTlZSNENpNmFBSmpHN1lKNE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T10:54+09:00"
-  },
-  {
-   "title": "データ連携プラットフォーム AirbyteにCVSS 9.9の重大脆弱性、実際のサイバー攻撃で悪用確認 旧環境では認証不要でコード実行の恐れ|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOVRMZzBQQmlScjFJeGgwT2x6bFV6Sm1OcE5yWW91bUR1QVg1Vm9RU3BzM1kwVW5KcnphbHBOb3FFQzZXSGF0NGZ5NjNGZEFPekFkUk5sbko4UnJpNTRSM2lZOXd6dEZQTjJObTlJQkZ1QTV2YjFNVjNkdzhoTzZGYVRrTWstOW1sT1lCTlRXUlg4WVBpdGc?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T10:48+09:00"
-  },
-  {
-   "title": "仏 血液の冷却設備にサイバー攻撃 一時110℃に",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0R2x2MG4wY0xTQ3lab0pwZ2d2bUdmRk9xZHc3TGhOdmZmTXZnTDA4ejBDdnQwOGlxN2I2enlpc2t1SlFQU0MxUXJLOU1fRkIxb2Mwaw?oc=5",
-   "source": "ABEMA TIMES",
-   "at": "2026-11-05T10:45+09:00"
-  },
-  {
-   "title": "【速報】政府、サイバー攻撃対策で官民チーム創設へ",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sSy03clRjRkhOam01YWE0WnJtV2pHOXg5ekRNX0Nxc05CMmFFTDE2SGhpM014ZF9QNFY4eHpscTdQQVFCZDdQSzNmYw?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-05T10:42+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "原油先物4日続落、米中間選挙受けイラン戦争激化リスク後退観測",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50X1A4dlJOc29jSXUxR2lTdmVEMXA5dDk5eTZ2LVFITzJfUlgxSnhMcGdRNWdLdEh3dzdycjcwOVFXX1dwWmU5eHVPMnJEM0MzYVVIbk9BalZORWJ2V2Q0V3FtWU9JU2x5a29ybnRpZFdzcDlpNWhiOGh6UWxTdnc?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T11:36+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "残酷なロシア、救援物資待つウクライナ住民を爆撃…33人死亡（朝鮮日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwOXR1RDQxWU5zc1V6RExPZDFjbkE1OTl4cjczcU5pTmpBOVl3cnN4Vi1lVWlsa2UwR0psV1VkeUM0djAtUVR0YlhTNjBVV0g3enZCMmxIZzNSb3RCdFhsVWQ2WUlxa0JiTnV5N3Bpdnl0ZUVkaUl4RVdwWXl1bFk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T11:35+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "北朝鮮、米中間選挙の投票中にミサイル数発を発射…約1週間で4回目（KOREA WAVE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMjgzT2JYdWtJWnBmYzgyZW54eW1HaHJPNkpxcFhlTVl2ZF9idTZubmNwTkhHbDNfOS1GbjdEWkI1RmVpNnF5MHhkNTBlTGJ0aUpsNFJDTERhbU9Cd08zNHlSQU55UVpNTXpVMlMyWmxzRFQyUWFBVHJ5eVNIWHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T11:33+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮メディア 「4日に対空ミサイルと巡航ミサイルを発射」",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tVzIyTm5hWXRuSDFhUGd1aVdoYUNYUktZbkNEMFpNT3ZTNFA4aTM0VHRfSUdJaEg1ZV9pSWpQQ1ptTlVlT0RCNUFfQmlUalp0eXZ3djlFeGtfby1QVC1Z?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T11:32+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "米中間選挙で上下両院を制した民主党、イラン戦争の制限を再始動か",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWVFNWR3BiN0hYeGV6VFA3ZTdVeU4wdXFuOU1Ia3h1RE8xbWp1Wi01YnFWSnpoZ0xRdlZ5bUdSb2lJemlka0JOWUNpekM4RHVYNEliMVUzMmNjLUdGaEhsTHFGa9IBaEFVX3lxTE5tb1BWUzJrcXpjVlp5eHlGWDRhTDdLMnVCRlpORTlST1UtRDN0UFVTcE9JOGhReDBvU3JodnVQSFF3eU04NUUxZFhkcHFsMWc4YWdONmJuaWNEMGlMWEthb0pCYXdPMkRz?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-05T11:29+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "北朝鮮、4日の発射は新型対空ミサイル 長距離巡航弾の訓練も",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95akF1OHhmaUQ3aDJWSzZtbzJGTzhjVFd2QmdoLUc4djlQRlZralFlS2RGZ2dDNUpGWlRZUTJ4LUZkWklBZGFtRklwa1BoSkhtaUx2aWFXSGsxc2JiVHpYeW1GOUxoWDJvT2pWRA?oc=5",
@@ -502,20 +537,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮、東海上に新型対空ミサイル試験発射…「技術的特性実証」（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94VHBqOGNsY1czcHFhWVhwMk9GdkdCV2FfRlhNNmE1ckp0Vl9lbzdkSDRFM3h4b002N1FRWW80LV9ldnlma0xUbF9mNUpaM1VsTjEzY19Mb0ZxOFU3Vm5RZWxiOHlRRDJDSmJZYU90cTFCQ1o0ZDR3V2V6SXpGYTA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T10:40+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮、またも東海へミサイル発射…1週間で4回目の挑発",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU2VBYlhnNnJuLVFVVERoOHJwb2FOcHozRzNRQURWMHJNRmhjT2I3Q2ZlNzZ5R0EyWjRLeUpaOElLajVHcDJBaUs3cUQwdmw1eDFjZ29BbW45dGVhRzBOWlpOSWI1Sm5kakVmS0N2TU16WUJLVFpMR0ZGTGdaV0NUM0YwWdIBfEFVX3lxTE5XWHFQanh4eGpqUkJkZk03SVJrZ2xxY1QyZlBUQ3Z4QmYyNm5mNk9SQmFDQUc3T2EwdmRMTTZRS09iOGptX00yNElqZTZRYjBHYWNmNlNFU0o0MTFTQU5wenhDUHRySlRpY3U1eHp4UElNeEJuU0Jyd0hhdFI?oc=5",
-   "source": "朝鮮日報",
-   "at": "2026-11-05T10:40+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "【速報】トランプ大統領「敗因はイラン」 アメリカ中間選挙 野党・民主党“上下両院で勝利” （FNNプライムオンライン（フジテレビ系））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdlVqMWZNR2VTdXJjSXctbGl2OG9VMG9YRmMtUEo3b1dERTNuaXNGTlZZeEpsUl9JNWxQcS1ueWdsUlRNVnFSQ29jRWpxeEY4ZFZudExwdmxnM1FFLXFucF9CYVd1Y1o2aWtWUnVxWXVMTEFsTmdHMDRhSVRyNjQ?oc=5",
    "source": "Yahoo!ニュース",
@@ -537,13 +558,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "3日、ドイツ・ベルリンで連邦議会議長と会談するウクライナのゼレンスキー大統領（ロイター＝共同） - ウクライナ支援に追い風期待 欧州、米国巡りロシアと駆け引き - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ENW93b2kwb3BEeUtEVnRlejBhaG5LVFdHQkJyVXJuNjEycHE0OU9Va3p3QkRMMGJyMjZBeUFja241SkxpNHBSNzR5Sk0tVUVwTU1SclptNA?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-05T09:04+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "【中継】トランプ大統領“敗因はイラン攻撃” 弾劾訴追の可能性は「少しも心配していない」 米中間選挙で共和党大敗",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOE5ySzh6XzFYWkpSWVZ3YnotMXlvMDV2aTJmdmxyVTNmOUl2MHRiNmNiVE0zTEhIaUEtV21IVlNqTWlKZ3pYek45TVk4Q01BSndzdF9TNEZVcl9lejAzX2NZS3V2d0ZxV0w3N1hscXpJSVFod1pfaWNvN0xrQXJzM0F2REg?oc=5",
    "source": "日テレNEWS NNN",
@@ -555,20 +569,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUxtYzZESzBIOU4tdDhCWTZIV2RQX2NTcnpKNGowYW5FNTltYmVtOGdKc1M4dG9SR1E5dlhhVHJ6dHNIR1VpWTJ2Y3dpUnlqRy04a1BWVWs3MFZiMFB3MTM1REo0bFdEWTFjeXMwQll6RXZheDBQVnA5cExFSzNSdlRCckYzaWM?oc=5",
    "source": "Reuters",
    "at": "2026-11-05T08:43+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "なぜトランプ大統領は中間選挙の歴史的大敗を素直に受け入れたのか――イラン戦争の誤算と、アメリカという巨大な民主主義ショー｜仲島池哉＠仲池屋",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NbWRkai1oRGZGclMtajVfSGpqSXY1WUM3RnJ2MWZTRXRDbTl1U1B4WHJTVTdUcGdKS0VBNlpXX1pkcng4aWRBcXo5eFlfQlRjZzlBOQ?oc=5",
-   "source": "note",
-   "at": "2026-11-05T08:00+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "焦点：交渉か軍事行動拡大か、トランプ氏が直面する対イラン選択肢",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jMTl2Wl9VR0g3eFdYVWFwSkk0eFJFR3Z6Sll3azRDU0JSYjhjM09ta0dVQ2QyUHBxUUVJNlMxOHh1WnFyS2JmNTluX1ZBNk4xblI1S1kxV29BdlY4RFhyQXFVSmdoYUMwcjIxZlBNbFkyRE5OcnV5OUJ6LUVDMVE?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T07:53+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -625,7 +625,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」1件",
     "北朝鮮：「ミサイル」4件",
-    "ロシア：「攻撃」「空爆」4件",
+    "ロシア：「攻撃」「空爆」5件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
    "items": [
@@ -636,16 +636,16 @@
      "at": "2026-11-05T08:56+09:00"
     },
     {
-     "title": "北朝鮮、4日の発射は新型対空ミサイル 長距離巡航弾の訓練も",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95akF1OHhmaUQ3aDJWSzZtbzJGTzhjVFd2QmdoLUc4djlQRlZralFlS2RGZ2dDNUpGWlRZUTJ4LUZkWklBZGFtRklwa1BoSkhtaUx2aWFXSGsxc2JiVHpYeW1GOUxoWDJvT2pWRA?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-05T11:22+09:00"
+     "title": "北朝鮮、米中間選挙の投票中にミサイル数発を発射…約1週間で4回目（KOREA WAVE）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMjgzT2JYdWtJWnBmYzgyZW54eW1HaHJPNkpxcFhlTVl2ZF9idTZubmNwTkhHbDNfOS1GbjdEWkI1RmVpNnF5MHhkNTBlTGJ0aUpsNFJDTERhbU9Cd08zNHlSQU55UVpNTXpVMlMyWmxzRFQyUWFBVHJ5eVNIWHM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T11:33+09:00"
     },
     {
-     "title": "ウクライナの支援物資配布拠点にロシア軍攻撃、死者40人に 数十人なお安否不明（ＡＦＰ＝時事）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91ZjR4X1JCMkNfeXBQdm5YcHIteDd1LUxiRl9KVno3azk5LUZqMVJwS0o2ZGthRDJXZWFGNGpaX1lrUzg1ZV8xd0ZZZ1pQTGZfdDRrdHVkM1NrZEJGV3MyQ0I1Y1lTVUZxb0otNkNxTUFTQnZuWkJyU3lPUTlIc0k?oc=5",
+     "title": "残酷なロシア、救援物資待つウクライナ住民を爆撃…33人死亡（朝鮮日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwOXR1RDQxWU5zc1V6RExPZDFjbkE1OTl4cjczcU5pTmpBOVl3cnN4Vi1lVWlsa2UwR0psV1VkeUM0djAtUVR0YlhTNjBVV0g3enZCMmxIZzNSb3RCdFhsVWQ2WUlxa0JiTnV5N3Bpdnl0ZUVkaUl4RVdwWXl1bFk?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-05T09:55+09:00"
+     "at": "2026-11-05T11:35+09:00"
     }
    ]
   }
