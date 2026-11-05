@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:45+09:00",
+ "updated": "2026-11-05T15:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮が新型対空ミサイル試射 巡航ミサイルで攻撃訓練も",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DUFJnWlRSaUhWNXFOME0wdE5lUE9EWmRkREVVZGVrWUVHLVZtOS05NGJ2eDZ3OFRhZHpFS3g5MkZ2clNnM05rV3FtLTRwUHdsTGZVb3dSVTZJbnRvM3FIQnJOYmt2bmFjY1paWUlR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-05T14:54+09:00"
+    },
+    {
      "title": "北朝鮮、4日に新型対空ミサイルの試験発射 長距離巡航ミサイルの訓練も",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIRG9tR0JTWlhSV3VaQWVrZVE5TFVURjFqMGxhNTBLcTloSnppekZ4TlpZNnlOaTlsdzBlamVMaDhGTkFlTWVvLU8zcE9MbTdZUC1ZSElsTQ?oc=5",
      "source": "TBS NEWS DIG",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTNIOG9UbEhCeFlUTGNjSjhrVHo3WExFZmpYTEh4MjB1ZEtJTGEzQVY1QWFwTEFzd2ZRVlJMS25WeWRDdVVJZmNEaGZYdm81X3dVbi04VjhvRFNjSnBQOU1SakhDRE1XWHVZdkdDbEd1ZEZKTF95U1RQYnhHc2o3SGdjOHQ?oc=5",
      "source": "日テレNEWS NNN",
      "at": "2026-11-05T11:56+09:00"
-    },
-    {
-     "title": "北朝鮮関連サイバー脅威と日本企業の備え",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aUnZaVTQyY1l1SGdNd3VMZVFZZUptTG41SWR5Q2hkUW4tYUdKVkJNc00zYndOa2tSQzN4SFJMUExvMFk4cEk0Q0dueExZUThiTUFxVlVJems0bmdfcTdFZzF1b19xbVdGdkFjM3pjMl8wVC1B?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-05T11:45+09:00"
     }
    ]
   },
@@ -374,16 +374,28 @@
  ],
  "cyber": [
   {
-   "title": "【速報】ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には不正アクセス疑いでMy docomoも停止",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Rl91dHVTUW9Kb2ZEbEpjNVJoZTdHcTIwanlfQWxPcGlmazhjQWhQMkhkV1VfNGFMcVFfNXpVUzlsWWljeHdTRnBFcTBtcFdUV3pOVktCU0JCUjZFc1FOaUtSbmtpc1U?oc=5",
-   "source": "テクノエッジ TechnoEdge",
-   "at": "2026-11-05T14:23+09:00"
+   "title": "「音声通話」「ドコモ携帯」トレンド入り、全国規模の通信障害にネット「不正アクセス？」「次はドコモか」",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEVGa0N1UTB0TUFrbllPWjB0TjlObkYxSWhuNHRCMEs4VVRTUW5CS3JWTjIxR3p4NmRJWW4wbjJRTEZrdXRCRDc3VUxOZkxqcmJKUkZvMUdlRmg4XzROZjQ3ZnQ5Y0FGTXNtcS12M0tySEh2MW5nZlE1S2RqOWdiaEI1eUxGOThuQk1mRF9R?oc=5",
+   "source": "スポニチ Sponichi Annex",
+   "at": "2026-11-05T14:56+09:00"
   },
   {
-   "title": "NTTドコモ、全国で通信障害 不正アクセスの影響か「確認中」",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wVEZaZG8xcUlNNGYwU2ZJV0c3eDczREluMlRSODdVUllRRXd0c3lOYTZzWGlxNkh1R0ozSlRnOTVQXy1GYnlfUnZQMjBqckJPSkhqWE1idVdqTzZWNlNaaDFnMjliTUE?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-05T14:01+09:00"
+   "title": "NTTドコモ通信障害　119番通報への影響なし　110番も現状影響確認されておらず",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jVHZSX3VQZHBTMUl5LXFPVzlpT19OYkhya3BtRkpsUWI1dGs4TC1TbGt2VmdlQ05VaGRPS1pDYzdRWDJ3dmtVR2FpVzRSR3JZc3JsTjNmRmZfS0x4VVZQMkU3OGpsRW5vRlV0MTc3MNIBdEFVX3lxTE5oZ3pDRlNJdlJseVdDMGhXOTVCTjJuRFNoMEZLbkNZV1g1cU9WaUdfLVpObURZMUhjTFcycnpwVHVTWmxSQ184SHRrMDdIS1R4cmlTUl81VE5nTXRGTkxWdHhSWVY4Z0lvWUhvR2R0b3JTa1JM?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-05T14:52+09:00"
+  },
+  {
+   "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRYzlzaXJPNXM4MXBLT2FPTndqbXUxUS1CTWRJcjRYMUVlYmpIeDhhTWh1ZGNjeGZPSUhhRUZNanhuTGdZelhtaFk3NzluRktTeEV6U2xyOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-05T14:48+09:00"
+  },
+  {
+   "title": "【速報】ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には不正アクセス疑いでMy docomoも停止",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBreDNhLWY4R3otenpWR3BTN1NiVHF1U1dBeHo1UWlzMFRNcnRMRW5HblZpejlsSUF5ejdhcUxCZmt5eERLM1dtVmxfbmhENnJvSjFmd3lseEJpN01aUjJCQTZiRFBzeE9WeWlKSGI1NFZwTVcyNGREQXRqb2FuVE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T14:23+09:00"
   },
   {
    "title": "ドコモの通信障害受け「119番通報」つながりにくく 復旧のめど立たず NTTドコモの携帯電話サービス全国で利用しづらい状況",
@@ -404,68 +416,63 @@
    "at": "2026-11-05T13:40+09:00"
   },
   {
-   "title": "NTTドコモ、全国で通信障害 通話・データ・SMSに影響",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPaDh6RVhROFoya2VndkhHUEhwWTVaNkpjN2dzZ1JqQll2UlRKZ19lQ1Y2NFVuN29kbEJKcUVndVZRdXFEZklUd01tY1FjSlFlQ1pYb0FVZ3Z3enRjMTlHOGh2NTFLTnl6UEdJX1BSUm9FbHg1?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-05T13:25+09:00"
-  },
-  {
-   "title": "NTTドコモ、全国で通信障害 音声通話やデータ通信に支障",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9seHBZTDc3NmNiNjI1QUxVS1JWMUYtNnI4Y3ZBcFJXS1BoZThkajBDSFJzV3oyVGJzaHc0R3RDUnRndXlzUmR2TUpBWEstSkRTYVQxWkp5ZDJWaG45OWN3b1VBNmt3TU9fdG1rYg?oc=5",
+   "title": "三井住友銀行、メールアドレス22万件が漏洩 アララ不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nTzU0Um5QRVNoTmVzdzlsdS00ZHQwMnNBMEFQNVlZajN6ZVpKU2lFaGJJWkE0cUxrSGNFZkpMVU9kRkhyMUhNX2RSdlVsUlJwRENMNTkzaG5PRS05Q1VvZ0ZsS1lUeldRdkhLcA?oc=5",
    "source": "日本経済新聞",
-   "at": "2026-11-05T13:06+09:00"
+   "at": "2026-11-05T14:55+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害 オンライン店も一時停止",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWbGJxQ0tHYmtWMzhpWDB6VGgxS2N2ZF9TZmdtYmtPRmRwdnJRZjA0SlBmcFp3RTFLcXpmdXp4SWtKV1BYdUtGejZGbHhlMVJqNndCUFRYQ1Q5bmFoZ3c?oc=5",
+   "title": "三井不、メアド１３万件流出 アララの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UQ0R1WUtMUU9DQV9NYjd3TGV5UFFMa0VQTUJaWUQ2X2hMWndUOWtPNUFhc1l0TWp6S1c4QUNaU1hkeDgwbzlQWmxiaXgxYWhHUFJrcVpEcWc3VEFoc0E?oc=5",
    "source": "沖縄タイムス社",
-   "at": "2026-11-05T13:05+09:00"
+   "at": "2026-11-05T14:51+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害 通話・データとも利用しづらく",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybE14a0VUU1FxVm5keGdnRUt6b2FXRkhlUEhQam95YmRockRnN01YZjM1ZU11Y0tQdDFCeFBzMlNYaXdkVVU1bTZXZTNVS3drSTZVS2ZXWU56Rm9EZXlBZTc5azlVYmRZM1E?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-05T13:04+09:00"
+   "title": "GMOイプシロン、加盟店のメールアドレス24,645件が流出 アララ「repica」への不正アクセスが波及、決済サービスに影響なし",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzl3WUstblp4WVBJOFRkQTF6ajE2X3NZQkROTUdjZS1oaEdWSHNXdnp1OS1BcVozYlpJa1ozWERlMW5FbGhkOF9KQV9IVE5xX19jRjdsS1Q3TXJBa3pFNGdnY3lTNlpqajZyZHJPcE1VczR0R0NkX1FORjBNVVhiVFVQTm84VDNoT2tpVGZCNVNWLTRNTEdLMnRQRWJpZ0pE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T14:48+09:00"
   },
   {
-   "title": "ドコモで全国的な通信障害 音声通話・データ通信・SMSが利用しづらく",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51WUlieWxNNnJmallQV1ZTTnRUbEs5aUFBaGlMSzRiZUk2TUVmRFZHeVhCQWEzb1FONk1xbnZiQlNvVTd0bGVwNTFIdl8xdTJvYXc?oc=5",
-   "source": "CNET Japan",
-   "at": "2026-11-05T13:03+09:00"
+   "title": "サイバー攻撃無害化、警察庁長官「戦略的に実行」 本部長会議で訓示",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kWjNjb2R1bk9RalRCeDZ3REdzS3lMU1ZEaXZOZ0NQMHBQeXlxSkVJMEF2d09PVWFTaXB6SGtWZWg4YVZXWG9UZWtlU3F2TnJ5TV9LNUxEWFJmS3RpcnBYQmNUaUxBWlpuWHlzYQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T14:46+09:00"
   },
   {
-   "title": "三井不動産、テナント企業従業員らのメアド１３万件漏えい…委託先「アララ」への不正アクセス影響（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JVXVzN1k5clFzZXJLSWk5R2xIUjN3X29LdmpHS093SGJqZl9mVnNyVEtYWUFZazNhYVIwNmYxalBQa2pMbmk2WFJiQllCZWFaRnJlZUpGR2pNNjNGWWVEYTBiLXZjaEU1ejFyQ2RWbXVZTWFvT3o5UHloUEUzSWM?oc=5",
+   "title": "AKB48、メール配信サービスへの不正アクセスに伴う個人情報の漏洩を報告（ENCOUNT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VVFAwT21xdzBxOUZ0cGIyVU9KeFZpTXNFbFRBLXcwSDhvTHR6NkNFdnFUX3pBVEIwZ2hULWZRM0xlRUdsRXdYVkVTMjhSS0lBT2ZvaG9LRklUSXp5VXBEZ2dkN0tETWt4TlhxcHZ3SjVkWnZFenM2QW41VFh0amc?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-05T14:25+09:00"
+   "at": "2026-11-05T14:46+09:00"
   },
   {
-   "title": "NTTドコモで不正アクセスか サービス一の一部停止 復旧のめど立たず",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY2ZzVWpkRTYwVm5hTlA1T2dkTHNicG80Y09PUkpkQkpoWm52M05zTVRzMDdTb2I4dGQ4MUc3N1pxZlRKelJta2JfNldBcWYzQURCTDVfaHFCLUI2c1E5ZTlxX0RlRXpXMHFXdmUxaWNMemVUVXZYbTJKVzNXbTA5eG85MV9Fd1UwOGQyOUU2YzRxcW5pMVpDWXVqc1lYX0NHZXBWeEtrS0VxbndGOUd4MkJGMVFIblg4aFlBVEdkT2pxMzAtdXp5aUVsVEpUM2VyLWlNWWUwRWlucGc4a0txQ1VIY1l5UjhZ?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-05T14:22+09:00"
+   "title": "ＮＴＴタウンページ、利用者のメアド１４万件流出…メール配信サービス「アララ」への不正アクセス影響",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoRzYzTnM5d3pMRkw2TjE5Yk0xeF9LVmhMNEktY3RKRENnbml4dnZQb2RMM2FNQkR3YzBrbzdXS0hwN2JlM1p2eDFLT1BpY2JkeEFpRGNNcnotb2RiTmdvRDJrWVY?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-05T14:46+09:00"
   },
   {
-   "title": "永豊銀行にサイバー攻撃 顧客418人が不正送金被害 総額約2億円／台湾",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FX0hfRUNvVFliRjlZRXlJdnp3T0xxcy01dENQN1BmalBRV3FaVFRCU01uSUZLbmtMS2NYNmowd0ZoX0p4eDF2ZFJmelk2Qm40ZWpza05BdXBxM3hCZUE?oc=5",
-   "source": "フォーカス台湾",
-   "at": "2026-11-05T14:22+09:00"
+   "title": "不正アクセス問題の影響で過酷な現状を投稿するゲーセン…『ガンダムEXVS.』『ツアマス』などプレイできず。オフラインでも稼働できなくなった『太鼓の達人』も",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iMFZoN1FReDFVUWh0UUtrY3dnZ2R4NXg3UmFWVks1ZnJ3RXpodUFfVjdXdktJeW1UUjRxUFY3UFFweUJEb29DV1hEMjEwb0FiX3Q1bkF5ZmloU3ZlUWc4VU9pNA?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-05T14:45+09:00"
   },
   {
-   "title": "苫小牧市でもマイナンバー予約者のメールアドレス3500件漏えいか システム不正アクセスで 北海道",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05RDJqTnNLWGlvamtMNUFsYnFlOGtpcm5TcFN2eHRJaDQtNlJTRkwwMnJWZzdYeTFyTUZlR0wxbEVfVnhSYnNsTWRWS1phbG9jRFVDMzFQd2p1WGIxVGJWczVWRDVIUWxmbnBiMkJqbzB4dHRILTVUNXNjSk1jcms?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T14:22+09:00"
-  },
-  {
-   "title": "医療機関のサイバーセキュリティー強化へ ランサムウエア攻撃で診療への長期影響リスク（産経新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYWluQ1FpZ19mSWpUemU5a1ZRMi0tM21wY2MyanU0UnIwUFVoRC1uX2l2aFB2RWFGRzlxdGxuWEdmdm16MjR0eVZvNWRVRHhqVjZjbnRnSkZGbGJkaVF4NnE4RmFOcjBaSWMxNnNTVWJwR29pRVQyWUxXZnZmRjQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T14:21+09:00"
+   "title": "ドコモ、オンラインサービスを停止＝不正アクセスの疑いで(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVFndzdhUUdwaVBPd3ZONnJqRXVFV2tybXJZT1Jsbzl6YUlYMFljZXh3Wjc0M1BVQkpQV3p3bW8xdW8zaHBSNVRWR2dHRXYyZ0FJcnNlR0FNV1ZBU0xDWDNScUxXZWlvSXFJN0FNYmotOWhRZVdRdjlmRVlXQ2VJWDJDN2x4MUU?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-05T14:41+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮が新型対空ミサイル試射 巡航ミサイルで攻撃訓練も",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DUFJnWlRSaUhWNXFOME0wdE5lUE9EWmRkREVVZGVrWUVHLVZtOS05NGJ2eDZ3OFRhZHpFS3g5MkZ2clNnM05rV3FtLTRwUHdsTGZVb3dSVTZJbnRvM3FIQnJOYmt2bmFjY1paWUlR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-05T14:54+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月5日の動き）",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hNW9lT2NIWVREUVgzaEFCVWVfOVBEb3NkNlhPRjF5eVMwdUFHM0lfaFVvOXFueXdRcngxelNsdTVRY09ITWxENHZMZzMtZGxxbXphWUhfYWk1azJXNHlV?oc=5",
@@ -565,13 +572,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "北朝鮮関連サイバー脅威と日本企業の備え",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aUnZaVTQyY1l1SGdNd3VMZVFZZUptTG41SWR5Q2hkUW4tYUdKVkJNc00zYndOa2tSQzN4SFJMUExvMFk4cEk0Q0dueExZUThiTUFxVlVJems0bmdfcTdFZzF1b19xbVdGdkFjM3pjMl8wVC1B?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-05T11:45+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "残酷なロシア、救援物資待つウクライナ住民を爆撃…33人死亡（朝鮮日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwOXR1RDQxWU5zc1V6RExPZDFjbkE1OTl4cjczcU5pTmpBOVl3cnN4Vi1lVWlsa2UwR0psV1VkeUM0djAtUVR0YlhTNjBVV0g3enZCMmxIZzNSb3RCdFhsVWQ2WUlxa0JiTnV5N3Bpdnl0ZUVkaUl4RVdwWXl1bFk?oc=5",
    "source": "Yahoo!ニュース",
@@ -611,7 +611,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「【速報】ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明に」"
+    "「「音声通話」「ドコモ携帯」トレンド入り、全国規模の通信障害にネット「不正アクセス」"
    ]
   },
   "japan": {
@@ -624,7 +624,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
-    "北朝鮮：「ミサイル」4件",
+    "北朝鮮：「攻撃」「ミサイル」5件",
     "ロシア：「攻撃」「爆撃」4件",
     "欧州・NATO：「攻撃」「爆破予告」2件"
    ],
@@ -636,10 +636,10 @@
      "at": "2026-11-05T12:17+09:00"
     },
     {
-     "title": "北朝鮮、4日に新型対空ミサイルの試験発射 長距離巡航ミサイルの訓練も",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIRG9tR0JTWlhSV3VaQWVrZVE5TFVURjFqMGxhNTBLcTloSnppekZ4TlpZNnlOaTlsdzBlamVMaDhGTkFlTWVvLU8zcE9MbTdZUC1ZSElsTQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-05T14:25+09:00"
+     "title": "北朝鮮が新型対空ミサイル試射 巡航ミサイルで攻撃訓練も",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DUFJnWlRSaUhWNXFOME0wdE5lUE9EWmRkREVVZGVrWUVHLVZtOS05NGJ2eDZ3OFRhZHpFS3g5MkZ2clNnM05rV3FtLTRwUHdsTGZVb3dSVTZJbnRvM3FIQnJOYmt2bmFjY1paWUlR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-05T14:54+09:00"
     },
     {
      "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月5日の動き）",
