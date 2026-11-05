@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:00+09:00",
+ "updated": "2026-11-05T23:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -144,12 +144,6 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
-     "source": "TradingView",
-     "at": "2026-11-05T19:39+09:00"
-    },
-    {
      "title": "「トランプ大統領の合意を議会が揺さぶるか」…米民主党圧勝受けた中国の計算",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTNIBbEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTA?oc=5",
      "source": "Infoseek",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjMy1qeXFGZVVEeDYzVEtRQVFFS29tTl9NQ25zY010d0xnZW5LVnRCaGRXU3dlT2NmUklNTDJuNzgxTnhOeFRxMlBNZWMxRGVFU2VsbmM2aGlzQXRRSXNEZ3Q3ZVg?oc=5",
      "source": "千葉テレビ放送",
      "at": "2026-11-04T22:05+09:00"
+    },
+    {
+     "title": "米軍、嘉手納基地からBYD中国車の乗り入れ禁止　車載カメラによる情報収集を懸念か　民生技術と軍事リスクの区分と管理が問われる",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmtkRVJGbmMwZFdKbjdtWjZWTUZIdmlWTFl2VzVuNk9GMUdPX3c0RVBlTkxFWUktLUdkbWlQYzYxZTI3T25sbkdyMkh0ZktHWEZDRXpCTVpBWnVCOTlQY013NzZFYnRMSWZFU1ozX3VNbjRRMlJzWDBVTnN1aG9ZeDFweGpfMmF4RWtaYXRn0gGOAUFVX3lxTE5Wa2RFUkZuYzBkV0puN21aNlZNRkh2aVZMWXZXNW42T0YxR09fdzRFUGVOTEVZSS0tR2RtaVBjNjFlMjdPbmxuR3IySHRmS0dYRkNFekJNWkFadUI5OVBjTXc3NkVidExJZkVTWjNfdU1uNFEyUnNYMFVOc3Vob1l4MXB4al8yYXhFa1phdGc?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-04T20:00+09:00"
     }
    ]
   },
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "JTロシア事業を暫定管理 大統領令に署名（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM1pTVHRZUTFGMk96Z0pWVE1qOURBeWF4LVNTV2huZ0xWY21uaTJfOXRaZHJLa2t0ejdtWHVWUmszOGVoZ2QyaGdGQU5qejRvd0VHZFlvRGxDZGtTTTExNFo0blpSRGJDOE95c2NZN3c2bVphUkpCWUgwX1ZHNXc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T21:55+09:00"
+    },
+    {
      "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
      "source": "NHKニュース",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hNW9lT2NIWVREUVgzaEFCVWVfOVBEb3NkNlhPRjF5eVMwdUFHM0lfaFVvOXFueXdRcngxelNsdTVRY09ITWxENHZMZzMtZGxxbXphWUhfYWk1azJXNHlV?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-05T14:42+09:00"
-    },
-    {
-     "title": "オフマトディトへの攻撃をめぐり、ロシア軍司令官三人に不在のまま容疑を通知",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcklEam4zb05pUnpfWjJNZmFvMk5maWN5MXRTZldSYzlZallsVDJSUGFZbGhiT09pVXJ5Z08tLTVVMXFQZW9KTEtXdkRESnRUYkdLN1dmU2szOS1vVHNwUFNjUDVBUGFSTmIySGVTaFdEcDBFTUFWWjNad2tQMFZVWTVRZmZGblNkMFhEYlJJR0gzQUVK?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-05T14:03+09:00"
     }
    ]
   },
@@ -269,6 +269,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "欧州各地で民間機に対する爆破予告、少なくとも１５件…緊急着陸など混乱広がる（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRnJZWE1uNkhqQlZncDF2VEN4YUlNRGVXdTFVVzFUZjBQekU5R0N4Yi1NSkhWQXJRUEVYUlJla0ZBajBVRmNvQS04Ml9tRmxQTDFITDR5TDg5TlBJdnRtMGt6SzdYNy02TlNSQlI3U2cyUEl6OGtEb1VGUGFUWVk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T23:01+09:00"
+    },
     {
      "title": "DIICOTは、ロシア情報機関にリクルートされたキューバ人が、2024年にルーマニアで未然に防がれた破壊工作計画を指揮したと告発／裁判官らは欠席のまま逮捕状を発行",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNi1yV1BhTWZpV2dJLVRoZXZqa1ZTclY5TE5ZdGFTMENabzI2RU9fd0dYSFRDMmljVnFfVE9ZWDRKSWJVN3lhTEt2V3VJazdSTHNGb2NBdW84T1o5cUZYOU14TmxyUlBhZHdidldLTE9XZ0dDZ0JveDZKaWx4LWhISTVkbmdVTWw5X1BqY2x1dUlHQm91Q2c5QTNCU2kweUh0eDdVVG8wYVFPM181MUc4dE1acFlmbVdzX01Md1Rlbw?oc=5",
@@ -298,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05dUxsU2V1Z1Q2SUY0ZzhGeDNza281ZHlYR0xLbnlnOGE2RmZqZWpqWDJ4QjZ5Z1FVRy1UZWI2Q053NnpWcV9tcmtBTGxUZTlyZHlyc3NKcEkxbVR3SmgwazlYLUZtMkk?oc=5",
      "source": "やさしい朝日新聞",
      "at": "2026-11-05T15:29+09:00"
-    },
-    {
-     "title": "11月2日、ヨーロッパで複数の航空便が爆破予告の標的になった。判明していることをまとめた。",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSG9HbEFGYkl6QVNBS1V3X0NPa3AxRjh5d2IwbXAtMDhqeVdHZmhfd0drU2VEa3NzcnM2elJRN2dvQTRVdGNQYWUyNUZFa3A3WGlOUUtWODRPMmxFLTI5UmJrZ1V4NkFETE55WmU3UEktVWZodHJFdXhuWVlDSEN6YnN5T0hGWWluOTNjM1hJeFpIOFJMWTVJTjBCQXhoTkwtV2h6d3dhM2xobk85NEE?oc=5",
-     "source": "Business Insider Jap",
-     "at": "2026-11-05T07:45+09:00"
     }
    ]
   }
@@ -353,14 +353,20 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wc21pSnFocllwRUREdHh4VFhYdzhnNHBLY3JManFhVVNHc2hYcGtySmVtM19sMXhkWWlZZjhaLTNFS0FhdHk5cnNtY2NpSGRHSHdtdUR5OEh2d3BfZ1lz?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T14:49+09:00"
+  },
+  {
+   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T03:31+09:00"
   }
  ],
  "cyber": [
   {
-   "title": "「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oUUtBNEdQVUg3T0V2cUwzZHp3SkcxZk1hUk9MMk1IQlVfNXNEU1h4VUN2MUp6ZFlQb1JDUWJjeUZucmdkbHhMVk91VmlFcXFoVzFUU1ByWU8xYlQ4Y3dkV3NUUXFTNEE?oc=5",
-   "source": "ケータイ Watch",
-   "at": "2026-11-05T22:26+09:00"
+   "title": "「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況（ケータイ Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YkVfUFVXRDZ4c1lsMk9FMG91US1ORC1Ea25zRy1Wek1UaU52RzItNGVvNGlPWWJVbno2blZqSXNTSmd1X1FvXzJuVWJOd1hVOTVVcG04RzdjcHNwMTZIQjB5dGExZy1IRTFBLVhlS3pROXNlN2pmRTZEWEFSRVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T22:56+09:00"
   },
   {
    "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
@@ -381,10 +387,34 @@
    "at": "2026-11-05T20:45+09:00"
   },
   {
+   "title": "アイリスオーヤマ公式通販サイトに不正アクセス 770万人分情報漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qeWsyQ2xybGhITmlhM1ZVN3BZZ3FKRF81elg2ajhLZ1k0dktjSG1FQ2JyZC12UV84eDN2MzI2SkFqMzRaN2hKcnJ0S3VFQjdsLTB5WHNyWXBzbnZpRTg4TWRwTWdNVGFWbkRwczR2Z2ZaRzhzdnc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-05T23:06+09:00"
+  },
+  {
+   "title": "フジテレビクラブ、会員情報2万6273人分流出 アララ不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NdXN0Z05PeTF6c2ZoYTMzV1ZwNXRscHllVTRBbjE1YU5TZmIwRkZfNGRHOWY4TkVyU09iZjFuMmRFM280ZTJQYnkxOFpGS3B6WlJYZUlsTG1DMVd3SHh2QmFoUEtyX3Z6ZjduMQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T22:59+09:00"
+  },
+  {
+   "title": "【速報】ドコモ 不正アクセスで顧客情報 最大約30万件流出の可能性（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRjUzUHIyRHNYYWFaU3U2S2FGMnlXWFhjUWFfbW1VSDkxNXZxUWtXM2ZPUnRUTDFHNWZhalZTNjBoSG45M2x6YUt2VGxRVVdYQXd1SUxjcjc0bEs3c0JKRU82ZVRJemhlazFxN01aY2RMc0xhSS0wY2JaTGhCeFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T22:58+09:00"
+  },
+  {
    "title": "ドコモ、最大30万件の情報流出＝不正アクセスで(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0pLWjF5b3FtakNObTBWbkNvYTFfXzZERnB6YkVvelNRU3lRM3ljUENRVWw1WnlFX05WcUJmZFg5V2RZazY2eDRsZnlaNXFub0czQmVGVnpZQnhOWGh4Ql8wSEZ2NWFYY0xEY3RWcnlkU2wwcVpjYlBMYXU3SlNZRHZNaWF0MjQ?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-05T22:53+09:00"
+  },
+  {
+   "title": "相次ぐサイバー攻撃に対応 政府が「救援組織」設置へ（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1POWN2LTRSRkdJRHhyLTlrelh6bXM1Zi1nNTFKdVhzWE9NMUIyc21vLV82ZklfLXlEbEQtTkVocHp2MUhWQUh2NXY3WFBKZUl5SGU2eVR0bVV1S1ZVZzdya0FtTVBXYmxHZVlzemRRM0xSLUU2bEh4RXJ3bkNES1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T22:48+09:00"
   },
   {
    "title": "サイバー攻撃がフランスと台湾の銀行を直撃、日本も緊急対策を発表へ 執筆",
@@ -405,12 +435,6 @@
    "at": "2026-11-05T22:29+09:00"
   },
   {
-   "title": "最大770万人分個人情報漏えいの可能性 アイリスオーヤマ公式通販サイト不正アクセス問題（tbc東北放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ORFg3VFJXVDRXODNLUFdMY2I4VFRDYlp0NWwyTi1QZVV2Y2dsa0tWYm1HMURLREZzeUttaHBySDh4Z0dLUDZZc3ZPNTkxd1Jsbk11Y0wwY2NhbzZqY1Y3UzNKbnRabzRFekp1SVBuQkdXdEVRV0dVX0hTQl9fcWs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T22:29+09:00"
-  },
-  {
    "title": "ドコモで不正アクセス およそ30万件の情報流出",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YQUd0WDhDekJMektVNEF1XzNjYlZUejdMb1otdGU1NkRTOS0yVHZEbWc3WXBxb1ZmYTdRdGJwdGxLcDNTdXdyUm0zMmNzTnJPOXVFZTRKU1ZTWldDNlYxdHpkd2FETXZDU0pSQ29NcHU5Zw?oc=5",
    "source": "テレ朝NEWS",
@@ -423,32 +447,28 @@
    "at": "2026-11-05T22:21+09:00"
   },
   {
-   "title": "東京海上ダイレクト損害保険 不正アクセス受け 契約者の証券番号や車の情報、口座情報なども漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IVTlLUkh5NV80M0VxQTBFZ1hoYzA1YzQycVpXOGFlTXlNZGJIZ3ozdENWN0hzcGFxYjJzRUExSE5CNS04LUJEdlVrTDlpMWhZYzZOVzBLSFdYcm44aElMVlVnX2dGb01jY1ZROW1WSl85Z3EtR3B1TEJPWnZRUVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T22:19+09:00"
-  },
-  {
    "title": "NTTドコモ 不正アクセスで顧客情報流出 携帯番号など最大約30万件（2026年11月5日掲載）｜日テレNEWS NNN",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTQVNBRUxFdXYyZHZDSG54MWRkXzdXZDZiSml3b2pDalZYQnd5UVB4c0hiNElWV1lESURkTXFSUmhMWkdSMmlYMkNqTF9iS1JiR2FFaE9WTzdiai1iaDV5RVJEOGVld1ZzUG44a2gzbjZnR0FULXgyUmd5VVU?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-05T22:18+09:00"
-  },
-  {
-   "title": "アイリスオーヤマ通販に不正アクセス、最大770万人分の顧客情報流出か",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaQXV1WjJOa29ueDhzMDRZWU1TMzVXOTliNTZtd0ZqZzU4Q2p6MU5YY3J4M0xOV29MOE43Wm9VV19aQmhLU3QtWGZIRlYxTkJ0UWNiWHBPZVcxUnQzbmFSWlk0bVk4TmlpZWdQaTEwUzRrU25U?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-05T22:05+09:00"
-  },
-  {
-   "title": "小田原市立総合医療センター、小児科の予約システムに不正アクセス 個人情報漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodE53czUyZWkyZkJmTUJoN0ZpbHJvbFFRbzlodTVWVnA4dy1PQWdTaG1WU1J4UHRpREZSLWVSN1U3am9lVlNVVXBpOA?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-05T22:01+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "欧州各地で民間機に対する爆破予告、少なくとも１５件…緊急着陸など混乱広がる（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRnJZWE1uNkhqQlZncDF2VEN4YUlNRGVXdTFVVzFUZjBQekU5R0N4Yi1NSkhWQXJRUEVYUlJla0ZBajBVRmNvQS04Ml9tRmxQTDFITDR5TDg5TlBJdnRtMGt6SzdYNy02TlNSQlI3U2cyUEl6OGtEb1VGUGFUWVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T23:01+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "JTロシア事業を暫定管理 大統領令に署名（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM1pTVHRZUTFGMk96Z0pWVE1qOURBeWF4LVNTV2huZ0xWY21uaTJfOXRaZHJLa2t0ejdtWHVWUmszOGVoZ2QyaGdGQU5qejRvd0VHZFlvRGxDZGtTTTExNFo0blpSRGJDOE95c2NZN3c2bVphUkpCWUgwX1ZHNXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T21:55+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "DIICOTは、ロシア情報機関にリクルートされたキューバ人が、2024年にルーマニアで未然に防がれた破壊工作計画を指揮したと告発／裁判官らは欠席のまま逮捕状を発行",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNi1yV1BhTWZpV2dJLVRoZXZqa1ZTclY5TE5ZdGFTMENabzI2RU9fd0dYSFRDMmljVnFfVE9ZWDRKSWJVN3lhTEt2V3VJazdSTHNGb2NBdW84T1o5cUZYOU14TmxyUlBhZHdidldLTE9XZ0dDZ0JveDZKaWx4LWhISTVkbmdVTWw5X1BqY2x1dUlHQm91Q2c5QTNCU2kweUh0eDdVVG8wYVFPM181MUc4dE1acFlmbVdzX01Md1Rlbw?oc=5",
@@ -490,13 +510,6 @@
    "source": "au Webポータル",
    "at": "2026-11-05T19:42+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
-   "source": "TradingView",
-   "at": "2026-11-05T19:39+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "イラン戦争の専門家：最も危険な8週間が今始まる！｜ロバート・ペイプ教授｜The Diary of a CEO",
@@ -581,26 +594,19 @@
    "source": "Reuters",
    "at": "2026-11-05T15:46+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "北朝鮮高官が中国外相と会談 両国関係強化で一致",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kbjJpdmFlUVJ2UXdWNHVxTWlsR21RRWstRFhNbWdVVDgyZkRialhQMW5wU2loTG5zakw0TVdOcWx6WE9SUlVYSWNkdmNvTTRTd3laaXJJbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-05T15:35+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況」"
+    "「「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況（ケ」"
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
    ]
   },
   "world": {
@@ -608,7 +614,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
-    "ロシア：「攻撃」「空爆」6件",
+    "ロシア：「攻撃」「空爆」5件",
     "欧州・NATO：「爆破予告」「破壊工作」6件"
    ],
    "items": [
