@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:00+09:00",
+ "updated": "2026-11-06T03:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-05T15:39:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-06T03:05:00+09:00",
+   "place": "福島県沖",
+   "mag": "4.3",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-05T14:16:00+09:00",
    "place": "鹿児島県薩摩地方",
@@ -79,16 +89,6 @@
    "at": "2026-11-04T05:11:00+09:00",
    "place": "和歌山県北部",
    "mag": "1.9",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-04T01:48:00+09:00",
-   "place": "硫黄島近海",
-   "mag": "5.4",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -162,12 +162,6 @@
      "at": "2026-11-05T17:57+09:00"
     },
     {
-     "title": "米民主党の上下両院掌握に中国緊張…台湾・半導体で対中圧力強まるか",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFU0R0h6ZUdUd1EyYldLd1Mzd2NLbl9HZmN5UWVGRGxTdmppeWJyTUt0U1lKSUJ3ZE42QVp4RkdCWEZlaXRzVFc4UmdHS0NTWjRDNnkwRzNEcjVRaWx2a3NzZDJKOVRSRTFDZ3c2SXVTRDlOZHVEYWllVF9GczgyR2tnTHcxR0lC?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-05T09:17+09:00"
-    },
-    {
      "title": "阿南 友亮：習近平の個人独裁と中国人民解放軍内部の粛清劇",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYndjaDN3UTNmR2hGaFpOSjFmZjdrRzNaQmtLNXJGU1VSVG1iTTROU01xdkh6TmsyanlJYzZPYnJNUjdxOU5KVGVMSThfUDN1X2VHM1BUZDVSNlhWQlFWZC14UEczRkdZU2Rpb0pnNVoxMXJpZU9jOEV5dEtSdDJsRWszMGZXcUF6?oc=5",
      "source": "慶應義塾",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pVDNfU1JDeDk0SzRwQUx1eDJ3UlVGMUVLdVN2OW9VUHV2M2llQ0JlYjJlYmg2X1JjdlI1eXJxc21JaThKclRkRzJsMWNyTTZXUDFOMWtMMFo4VDQ3LTZZd19IWXNIR3JlWDdndHJKQnZaN1VB?oc=5",
      "source": "BigGo ファイナンス",
      "at": "2026-11-05T03:55+09:00"
+    },
+    {
+     "title": "「日本が最軍事化を加速」と中国メディア＝原潜の導入検討、米専門家も後押し",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjMy1qeXFGZVVEeDYzVEtRQVFFS29tTl9NQ25zY010d0xnZW5LVnRCaGRXU3dlT2NmUklNTDJuNzgxTnhOeFRxMlBNZWMxRGVFU2VsbmM2aGlzQXRRSXNEZ3Q3ZVg?oc=5",
+     "source": "千葉テレビ放送",
+     "at": "2026-11-04T22:05+09:00"
     }
    ]
   },
@@ -370,8 +370,8 @@
  "cyber": [
   {
    "title": "NTTドコモの通信障害、6日午前1時20分頃に復旧",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RVmZZcEZLa05sZ2ZPeXVOWG5HTWFoNW93cDZGamc5RDlFcEI0QVNqQzVGNnE0WjJCSkVHdkUzU0ozLWtYZkt5Y0NZamlHTnVNbXZqaFpPdGNCbGo2XzN4NURYcWJiUUhlRmp4R2dn?oc=5",
-   "source": "au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GZllRNTdxNVJPaS1xSzZKLTY4XzIxbm8yTndLLWF2M2ZQSEE2V0Q3V2J0Z0Qyel82Z3Z4elFNbWthVkM4em1ZVjE1OWJOWjFKaDAzUXNSWFZkNXBi?oc=5",
+   "source": "マイナビニュース",
    "at": "2026-11-06T02:45+09:00"
   },
   {
