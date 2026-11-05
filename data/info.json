@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:00+09:00",
+ "updated": "2026-11-05T21:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -270,12 +270,6 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "ヨーロッパ各地で旅客機に対する爆破予告が相次ぐ、7機に影響",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RV2FyVlM2bEhpTWJyRzVWOEYyVXF6eXhYbllpMkVNUlJIRTg1bElfYVROM2xvVW9uZlpHYzI5eGdVR2Y3MlIyeVllU21VY2V3Z1hjRg?oc=5",
-     "source": "Switch news",
-     "at": "2026-11-05T20:05+09:00"
-    },
-    {
      "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHlQWl95bG1fTllNQ2NtYzVZTXZiUzZGTFhITmRITW1yVFExV0l3WW1UOU1WbDAtV3RiRXB4VXl2NmFxUTgyOW4tUkhHUXVCc1h1YU9xbU9lS2IwMEtFck1Jb09JTk9nTDhSQzltNkRyQXdBM25KaTNJT01oWDRVS0stLUFKSmc?oc=5",
      "source": "Reuters",
@@ -304,6 +298,12 @@
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU19yMXhTSFlJSFZvSHZUTU9nSHA4Q1Q0OExIa3U1dTBBRWtYSFUteFpjNmd1U2NfSVBvOXVURlkyVXBPS25oWWFpTnVOMjhIeHJ5QmNtNzlUY1Q5cFk0Um5jT1laeC1JT0xueXZjeExTLTQxU0l1cm1ua3RoYU5XRkFB?oc=5",
      "source": "Meta-Defense",
      "at": "2026-11-05T02:37+09:00"
+    },
+    {
+     "title": "WSJ：NATO、ロシア領深部への攻撃を含む防衛計画を策定",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczFKeUd2Ny1HOEhVM0xuenBMR1NqS25JaTVqaUtqRXlhcVNtWWhaUUVNdVBGejdvc2Z2b2ItVHZUUUlUWFhQbTk3UjlYNVhRRG42S3NHUWdLS214eWpLU3ZVVE45UndOdkRqcW8xTUVJYTlIT0FCNFRsa3IwYkxSb3RqOXhfSjZlbmVGbS1xTHJjRXhqR0NIRzRIUFlvcTg?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-04T14:45+09:00"
     }
    ]
   }
@@ -355,6 +355,12 @@
    "at": "2026-11-05T14:49+09:00"
   },
   {
+   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T03:31+09:00"
+  },
+  {
    "title": "北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイルの可能性」と韓国メディア アメリカの対北政策転換狙いか",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzEtT2ZRUElOZFJYX1lwUE0tTXZTZU42MVVJaExRRzFBa05Ia2t6RVVQTUMtUklwMmJiYnJsOEExT0xlNUttZFBKMmFVbHpRZnV4aWtGcTZPRkFrUHo0TGRUajZCTThFYUU1TDRB?oc=5",
    "source": "Excite エキサイト",
@@ -364,8 +370,8 @@
  "cyber": [
   {
    "title": "更新：ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には不正アクセス疑いでMy docomoも停止",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Rl91dHVTUW9Kb2ZEbEpjNVJoZTdHcTIwanlfQWxPcGlmazhjQWhQMkhkV1VfNGFMcVFfNXpVUzlsWWljeHdTRnBFcTBtcFdUV3pOVktCU0JCUjZFc1FOaUtSbmtpc1U?oc=5",
-   "source": "テクノエッジ TechnoEdge",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBreDNhLWY4R3otenpWR3BTN1NiVHF1U1dBeHo1UWlzMFRNcnRMRW5HblZpejlsSUF5ejdhcUxCZmt5eERLM1dtVmxfbmhENnJvSjFmd3lseEJpN01aUjJCQTZiRFBzeE9WeWlKSGI1NFZwTVcyNGREQXRqb2FuVE0?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-05T20:45+09:00"
   },
   {
@@ -381,15 +387,21 @@
    "at": "2026-11-05T20:01+09:00"
   },
   {
+   "title": "消防庁、武力攻撃時の「安否情報システム」に不正アクセス 富士ソフトが運用保守、サービス停止で懸念される危険性",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMG9uc05GaHJzM1Bna0dWWTRTXzFIbFNQYzROVWF3ZFIycWsyd2dpMGN1eU5HNXRuSWZsaXRucHQ3bUMyRjR4cHRUU0JYbHdXVEJfUzNPWTk1SGRGWVdkclA0N1pkNFZYQ0RJdTNrVThJbUFDOFhmYmtxbUloSTBGT2FFc3VHUVZkTTJ5ZnRPTGhOT2R6V2FSbmw1SmtUS1B6MFNKbGRn?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T21:00+09:00"
+  },
+  {
+   "title": "ドコモ「５Ｇ」の一部で障害発生…不正アクセスで「マイ ドコモ」などから最大３０万件の個人情報流出",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPaGZ5VGduWWREeUhsZDRwcEE5dnFSWkxMTW4xV3FjU0hGeFV0M2pDeG1sem1oV1h5YkdBOHZuWEwtMEpSRTA5RGtfd1dXUnZ4dXFsbDRZdFRrMXVJcDJmZzJsWmI?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-05T20:55+09:00"
+  },
+  {
    "title": "消防庁の安否確認システムに不正アクセス 情報漏洩は確認されず",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90MnRtQjIxZEhOSUdFZ2NLaEQ4X1Nhc251OGhPRFN1eV8yMC1xcjFtYWNrbTl1S0lpSjhoNmFFOVhfODU3STdpRnZOYnZ0YkpubXdKdUZOa1FFSVJUTXg0OVVvS2Y5QS1UR0Qxbg?oc=5",
    "source": "日本経済新聞",
-   "at": "2026-11-05T20:54+09:00"
-  },
-  {
-   "title": "ドコモ、最大30万件の情報流出 不正アクセスで（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ybWZlUzVTbFZOaVZiaVJLWmdzV2VCRm1sbjZDZmhYRjJ2NTQyRjhqMVQyWHdnWjhoeTJaRnlNNmtEOGZOR3dUMFIxMnpxYVZlQ3dzZWJwWDdCcmwxd2hVZmJxeHc4TVJSZU9aNlZhMEd0Z1Jaa21BV0QySmxwOU0?oc=5",
-   "source": "Yahoo!ニュース",
    "at": "2026-11-05T20:54+09:00"
   },
   {
@@ -417,6 +429,12 @@
    "at": "2026-11-05T20:43+09:00"
   },
   {
+   "title": "津市と伊勢市で個人のメルアド流出か マイナンバーカード交付予約システムに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KRGRoYlBIcUtJNWlFb3A0eFdSaWZtTHVSLUFYQnA3STZtMGo1TGl4UFZKVjdPd0NLU1ZfekJEdktYNGozaEFHYXROU1NaZWIta01sVA?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-05T20:42+09:00"
+  },
+  {
    "title": "総務省消防庁、有事の「住民安否確認システム」が不正アクセス受ける…システムの運用を停止",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55QkdpSF96REx5b2s5VDVtYk8tQTdjRGJLaWZSbHFhSmp3MkJYcG5VLUhQNjczM1ktdExpeFBOb1o1b2QxSnpvVTdYV1JpWWZldjVVUGNVbTNPUEdaTzFTa1NnOERJUQ?oc=5",
    "source": "読売新聞",
@@ -435,33 +453,14 @@
    "at": "2026-11-05T20:32+09:00"
   },
   {
-   "title": "公共工事の測量委託会社に不正アクセス 情報漏えいのおそれ",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90U1NQR3c1MkdQNXFCWi1tUjE5RXBqLTBkd09FZjFIUmtvUWdqcDJiMnhrdW00ZWhVVFc2cXBzcXZ5Y3R5Ym5SZnU3M0hVQlo1d05Gd0EwZlJZbDBZaVNn?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T20:22+09:00"
-  },
-  {
-   "title": "総務省消防庁 「安否情報システム」への不正アクセス確認",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMWnRMbFV1MlRMbTd0emhrS0hsUU4tbzNVMlhER3RrcDRSNkJIWFVhMFh4ZFV3NThHX3pFTlVxamZNUTFiM1lrUlVjOVdGUGVWVU9zc3dWbjAtWWlPWDdn?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T20:20+09:00"
-  },
-  {
-   "title": "ドン・キホーテ委託先にランサムウェア攻撃、時計修理依頼者の個人情報が漏えいした可能性",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KY05wRkh0bHU2dXRKM1RiUnlTZnp4Q1VWVGFpRG9keWptaF9WZ3pPdXpiTmZVTWIxLWRLR0o2VWxFTk1kTm5CckxzQmFkODdlSWE3cEttQWpiVF9Qb1MwRTRZZ3dvdlRpSGFBWQ?oc=5",
-   "source": "ScanNetSecurity",
-   "at": "2026-11-05T20:05+09:00"
+   "title": "NTTドコモ、自社サーバーに不正アクセス。最大約30万件の利用者の情報流出",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wM0FtSmpNUVFqUWoxQ0dJY2xnZnNBVHdTbktBRUxvUV94N1Q5Si1CTGEzN1kyZDhyX3RZb3laN2g1S0IzNXduQ0JUanlZNlo0cVg2R2UzVkwzdVpiWVQ3dm9fQnZ3SHBPVkd3?oc=5",
+   "source": "INTERNET Watch",
+   "at": "2026-11-05T20:27+09:00"
   }
  ],
  "osaka": [],
  "world": [
-  {
-   "title": "ヨーロッパ各地で旅客機に対する爆破予告が相次ぐ、7機に影響",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RV2FyVlM2bEhpTWJyRzVWOEYyVXF6eXhYbllpMkVNUlJIRTg1bElfYVROM2xvVW9uZlpHYzI5eGdVR2Y3MlIyeVllU21VY2V3Z1hjRg?oc=5",
-   "source": "Switch news",
-   "at": "2026-11-05T20:05+09:00",
-   "topic": "欧州・NATO"
-  },
   {
    "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHlQWl95bG1fTllNQ2NtYzVZTXZiUzZGTFhITmRITW1yVFExV0l3WW1UOU1WbDAtV3RiRXB4VXl2NmFxUTgyOW4tUkhHUXVCc1h1YU9xbU9lS2IwMEtFck1Jb09JTk9nTDhSQzltNkRyQXdBM25KaTNJT01oWDRVS0stLUFKSmc?oc=5",
@@ -594,6 +593,13 @@
    "source": "FNNプライムオンライン",
    "at": "2026-11-05T14:52+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月5日の動き）",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hNW9lT2NIWVREUVgzaEFCVWVfOVBEb3NkNlhPRjF5eVMwdUFHM0lfaFVvOXFueXdRcngxelNsdTVRY09ITWxENHZMZzMtZGxxbXphWUhfYWk1azJXNHlV?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T14:42+09:00",
+   "topic": "ロシア"
   }
  ],
  "status": {
@@ -606,7 +612,7 @@
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイ）"
+    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
    ]
   },
   "world": {
@@ -615,7 +621,7 @@
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
     "ロシア：「攻撃」「空爆」5件",
-    "欧州・NATO：「攻撃」「爆破予告」6件"
+    "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
