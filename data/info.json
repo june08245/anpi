@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:15+09:00",
+ "updated": "2026-11-05T19:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -369,10 +369,16 @@
  ],
  "cyber": [
   {
-   "title": "NTTドコモで通信障害「5G SA」とは?全国で通話や通信が利用しづらい状況が続く（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JNkhtV1VXZlZZa3VSY1ZPd2NqU0p5MDk1MzZlckZjYXplZGtvSmM0QWhvX0NzY2F1QU1wRmkxX25VNFQwV0RGV1RqWkdzNndNX1FOOVh3OFNxamlCNnlVeUZzOGt3Tk54R3llOEFOZFB4MVJBUFh3WjNTUXMzc28?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T19:00+09:00"
+   "title": "NTTドコモで通信障害「5G SA」とは？全国で通話や通信が利用しづらい状況が続く",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUZTZ5REdTR1V5dFNVVUpFX0doNmZxZ29ld21nbEEtbjYzU05MVEhraGtSb2ZZeUFTbVZTTFRQQmJOLUc3ZC1IWTFsQ2gwOEdEQktrS1VFQ0puQ19wamJ3QUF0a3NDbGdDRkVtUXh6MnNfTnM?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-05T19:07+09:00"
+  },
+  {
+   "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91Nkt0czc3ZEloQmFFZXVjdDQ0QldpT2JEMjhHNllvX3A0RXV0cVdqbUhOeWtENWVmMTNjTDdZOTc5aDBVNzFqWWFiMGFjSkI1NmZFTWdCRUEyRkJ2RG9Z?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-05T18:40+09:00"
   },
   {
    "title": "行政のデジタル化は「使いやすさ」が大切 電子申請の障害から考える",
@@ -381,22 +387,16 @@
    "at": "2026-11-05T18:40+09:00"
   },
   {
-   "title": "NTTドコモ 一部サービスで通信障害 不正アクセスの形跡確認されず（2026年11月5日掲載）｜日テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TTkFJRV9obHRMcGJFcGtRRVlvSFZUSVpVWHlaNkFtRVEzMkpDOFhLbGJtWjgwRmNrU0Z1WmNUUjdvcTAwQlZCZjBXZkdVYWI0bDUxYXZMSVpXSVNZZ1VYLUl0Q3BSSVI0dmZ1Y3hQMWlTd2xwOHZSeUdfZG8?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-05T18:23+09:00"
+   "title": "NTTドコモ 一部サービスで通信障害 不正アクセスの形跡確認されず",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXE3SVlmWGNZOXowZ1ROUHFhVmZ5VnpSNlQtRl84a25BR0tOT05HY3kxRmRHV2J1RWlfb1ZXT3EtcUs4SGROVk1EelU3enF6ZkVTTVU5cEZ3T05JNlZNQ2h6U2JyNktmTm1jcm1kYTFEaTZrQXNUTEpzOW01UHV2Yg?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-05T18:24+09:00"
   },
   {
    "title": "ドコモ、全国で通信障害＝一部契約者、つながりづらく(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVJQcXE5VWxkd19aOVJPQ1lhMEtLM2hQZGhVUE9hcF9KMEJQYW1wd1ZoV0pZTGMyMU9QSjBrQlFxLWpfdzVFMHBWZDJOSDh6SElHRm91bUJWQ29SYk5jdmxOWEw5TWQ4d2JNZ0ROdDZoVjFpN1ZYT1k2a1BaQklxT2sycmZZUTg?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-05T17:47+09:00"
-  },
-  {
-   "title": "更新：ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には不正アクセス疑いでMy docomoも停止",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Rl91dHVTUW9Kb2ZEbEpjNVJoZTdHcTIwanlfQWxPcGlmazhjQWhQMkhkV1VfNGFMcVFfNXpVUzlsWWljeHdTRnBFcTBtcFdUV3pOVktCU0JCUjZFc1FOaUtSbmtpc1U?oc=5",
-   "source": "テクノエッジ TechnoEdge",
-   "at": "2026-11-05T17:45+09:00"
   },
   {
    "title": "NTTドコモで通信障害続く 音声通話など不具合 原因確認中",
@@ -409,6 +409,12 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXdGlHWXdHM2JYcFQ1dmJQVjF0ZU5STDUyM3JRY3ZRU3N0Y3lEdTl3eGlmMktkMmZVdnRMRlBxQTd6RTIwZW45YzAzTWlicHlZTkRmR0EtNVdCUzdNd205MnRGcHVwVnp0Q3NQVnNtMmVielZ0Sk01Sw?oc=5",
    "source": "デイリースポーツ",
    "at": "2026-11-05T17:36+09:00"
+  },
+  {
+   "title": "【速報】愛媛銀行提携先が不正アクセス 運転免許証番号や勤務先など漏えいか（2026年11月5日掲載）｜南海放送NEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNU5IQzBZUTJ6Tkh1Z0lwNjRhajQ1RHh2anVzTkhOdHNlVmtGZTZsams3T1BycllYcHV1dEFuNFdzdmtwZDZILU9fN3drdFFOSElodmlaNi1lN3EtR3lVeVpoU0hMQjhmdF9kam9JdnB1QTE1dl9kbE1EYS12UE1KV3hwRlV1LU0?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-05T19:23+09:00"
   },
   {
    "title": "相次ぐサイバー攻撃の中小企業への脅威 名古屋銀行が挑む「サイバーセキュリティお助け隊」",
@@ -451,12 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82dXRCMXp6RG9XbTRwQUxnRXNnX0hXMExZLWYwdkhpMTFTSndKQUlyT3A3MDlfejh2ZGQ0ZHpYMmN3dlZaWjBWMlA5X2ptbWpKemNLSWxtZmZmcE5wSnNF?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T18:50+09:00"
-  },
-  {
-   "title": "約210億円…銀行にサイバー攻撃 仏の銀行で被害（2026年11月5日掲載）｜日テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHdFSUJvYlZ0ZkZhT2FsRGh4cG1FdDhvT2o0aWcwWkNjR0tPYmUwN1g0RWVYV2N0V0tQZ3dYTmZ1Y1hCTFhyVXpwbUlqT0xsMTZYak9GN0djYWxNaG9Lc0NQT1l2UlBRMS04OWkxRGp5Q1BBNEZSMUdRdnRxd3BqQnpwTFI?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-05T18:36+09:00"
   }
  ],
  "osaka": [],
@@ -606,7 +606,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモで通信障害「5G SA」とは?全国で通話や通信が利用しづらい状況が続」"
+    "「NTTドコモで通信障害「5G SA」とは？全国で通話や通信が利用しづらい状況が続」"
    ]
   },
   "japan": {
