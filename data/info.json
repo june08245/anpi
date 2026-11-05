@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:15+09:00",
+ "updated": "2026-11-06T05:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮の巡航ミサイルのクラスター弾頭型の威力評価試験と滑走路打撃訓練、および垂直打撃飛行特性試験",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmRfQk5PQ0RHREpuQW82bzhaOHluVUNxaGlRaDdzcDUxUUhaY0Zib1RiVmUxYzVpOElnSG1ZZ2tlX1ZJWERCVV9YUUNTaUFSd0xKM0lvYUc1dmVqbFE5OExZUXIzRXh0MzY3OHMxWHZCd29EYU9pQkRTU18tQmMwZnlEVU1XX0Vw?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-06T05:06+09:00"
+    },
+    {
      "title": "北朝鮮ミサイル 試射や発射訓練 新型や長距離巡航",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55VDl0bXpNa0ZBMGZ2bi1PMFMyTWp1eHVPSzlXcmRYSGt5NXFJZXlmWWN3eWJBZ1JVWm1EcHdTR0VDemdxa25mQmRBMzQ2YUxVWFBja3VVRTQxc0dyanc?oc=5",
      "source": "沖縄タイムス社",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZZGpDRGNoaUc2MjZTazlXanVqTG9QMDhndHhIaldWMGhGcjdPYzlqUV9jdHpQM0E2dXlFMFFweEtKRU1JNVJEdTRVc2NEM0dLZVluRkpFV1NXUnB1UElOeUtLLWZpTnIyVktjYzdfaVVSZ2NtdThGV3RYbUpDSWs?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-05T16:00+09:00"
-    },
-    {
-     "title": "北朝鮮高官が中国外相と会談 両国関係強化で一致",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kbjJpdmFlUVJ2UXdWNHVxTWlsR21RRWstRFhNbWdVVDgyZkRialhQMW5wU2loTG5zakw0TVdOcWx6WE9SUlVYSWNkdmNvTTRTd3laaXJJbw?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-05T15:35+09:00"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "メラニア大統領夫人の仲介外交 ロシア・ウクライナの局地停戦を誇示",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RYnhxSDRGZkhkVTlITzNCbjU0cnJ6S25kZm1vWXp6ZlRSSkxEeC1fREl6NkdJZF9id3VsMV9HY0lrZ3p3SXBCR2oxYk9NLVM2SFRlOFotS1RLU2NLLUtCRHNoZ3BQcFFNWXpSeA?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-06T05:25+09:00"
+    },
     {
      "title": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fcnpmLURWdWxwUE5wMXpFYzVtb2NTYlhMUWtha1VTYzNkSmJrd0p3eUtjT0JLdTVUNHNkZmlwWWxtTmJHLW9vUTRxNEw2WVVBOURkdUI1T0FDazBUMHU0?oc=5",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3RzUGJpSGRFNXlHY1F3bVRiTEMzQnZqdUZnWlJCbXp3anU5Tl9zRXE5X3JLZjd1ZTBHeVlYOC1lbVR3Zmw0S0c5dzdLWXgtcTBOM2tadEJRdWxaZ1E0Ni1zSGZvbVE?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-05T23:30+09:00"
-    },
-    {
-     "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQ0RGTE94Ui1pRmlOLWJ6a1FGc0EyVEdaYkZkdUhhNDJOOUNhZjFZU3hvUG1mLXZOcXVLdlM3c1EwRW1WSWp4STRIbFRudlNLQVRjazlZdUZjSDhpREY4N3pwUkNUSTR0?oc=5",
-     "source": "毎日新聞",
-     "at": "2026-11-05T23:12+09:00"
     }
    ]
   },
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "臨時情報後も防災進まず 南海トラフ地震、個人の実施率調査",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEd0JjZmlTNkZhSEk3dDE1TG41aVVGUmlULXppVk9UblNzVEp2WGtUMDlEWXVzQXIxMXR1TEVET3R3bXAwYk9pcl9yMA?oc=5",
+   "source": "北日本新聞webunプラス",
+   "at": "2026-11-06T05:00+09:00"
+  },
+  {
    "title": "頭を守って身を守る行動を 南海トラフ地震想定 岡山県初の県民参加型「防災チェック」７.５万人が訓練",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kdlY5QW5EZXZCY0tNMS0wWU8wTmRQcmxELTJzcWNUX1YtZHpoSTVodW9Id2YxYnRFVFZOUDBHWmR6N1hFV0h4YWhWNA?oc=5",
    "source": "47NEWS",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LcDFmZ0FpZWwtMGxoN2dEUFZlYXFPY3lmWUNIQ1ZEUWdrNUc1Umw2cnY0WFNoR3ZlUHdPQUxkX3BYRFVjYk93dFVxU3Y2TFh6TUFEYU9rY01vOUVwVkxWTFZVbkc4dDF2SGpLSG9B?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-05T17:03+09:00"
-  },
-  {
-   "title": "南海トラフ巨大地震を想定した防災訓練を実施しました",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tYURIVzZiM0JGWDBGRHYzelUyekVyUm41eWN1UGtkZ3h0aEg4UUx5clVEUFFqWnJENzBXdENtVTB6c2V2VzFDZV9jWEItMk1k?oc=5",
-   "source": "羽衣国際大学",
-   "at": "2026-11-05T15:50+09:00"
   }
  ],
  "outage": [],
@@ -449,6 +449,20 @@
  "osaka": [],
  "world": [
   {
+   "title": "メラニア大統領夫人の仲介外交 ロシア・ウクライナの局地停戦を誇示",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RYnhxSDRGZkhkVTlITzNCbjU0cnJ6S25kZm1vWXp6ZlRSSkxEeC1fREl6NkdJZF9id3VsMV9HY0lrZ3p3SXBCR2oxYk9NLVM2SFRlOFotS1RLU2NLLUtCRHNoZ3BQcFFNWXpSeA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-06T05:25+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "北朝鮮の巡航ミサイルのクラスター弾頭型の威力評価試験と滑走路打撃訓練、および垂直打撃飛行特性試験",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmRfQk5PQ0RHREpuQW82bzhaOHluVUNxaGlRaDdzcDUxUUhaY0Zib1RiVmUxYzVpOElnSG1ZZ2tlX1ZJWERCVV9YUUNTaUFSd0xKM0lvYUc1dmVqbFE5OExZUXIzRXh0MzY3OHMxWHZCd29EYU9pQkRTU18tQmMwZnlEVU1XX0Vw?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T05:06+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fcnpmLURWdWxwUE5wMXpFYzVtb2NTYlhMUWtha1VTYzNkSmJrd0p3eUtjT0JLdTVUNHNkZmlwWWxtTmJHLW9vUTRxNEw2WVVBOURkdUI1T0FDazBUMHU0?oc=5",
    "source": "NHKニュース",
@@ -554,13 +568,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQ0RGTE94Ui1pRmlOLWJ6a1FGc0EyVEdaYkZkdUhhNDJOOUNhZjFZU3hvUG1mLXZOcXVLdlM3c1EwRW1WSWp4STRIbFRudlNLQVRjazlZdUZjSDhpREY4N3pwUkNUSTR0?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-05T23:12+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "欧州、10以上の旅客機に爆破脅迫 イタリアでは軍機が護衛に 爆発物見つからず（産経新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95MVhZcGhieTZMdDlxLXJYcXFhREg3cHkxalUwaHVDQTU3UWtNVzZRRTVsMGFrM01NZjdhcmtkQl90cEltZm84ZG9EdWRuUkJyX2xvRF9wVzZ5VnVITnNzS3Q4NHNVZkdXOGxDbUdhRERqclllOVRLSE5RalNiZ2M?oc=5",
    "source": "Yahoo!ニュース",
@@ -580,13 +587,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T19:45+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "米中間選挙で大敗「イラン攻撃が敗因」トランプ大統領が認める “自分の人気は健在”自信も",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUaVRqcUZ0VnZWT3hJNHp5YUwtTDdvdGhocS1RUGQ5Zm1sdUtqYy1sbkJEc0dxeXFwZ3pubzduRkFDR3BTVUwzeUl2N2dFdW16ZHFpSzdrXzhRcVdJd3dUMjRPRU91ejdBREhUeURR?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-05T19:42+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -606,7 +606,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
-    "北朝鮮：「攻撃」「ミサイル」4件",
+    "北朝鮮：「攻撃」「ミサイル」5件",
     "ロシア：「攻撃」1件",
     "欧州・NATO：「爆破予告」「緊急着陸」5件"
    ],
@@ -618,10 +618,10 @@
      "at": "2026-11-05T19:42+09:00"
     },
     {
-     "title": "北朝鮮ミサイル 試射や発射訓練 新型や長距離巡航",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55VDl0bXpNa0ZBMGZ2bi1PMFMyTWp1eHVPSzlXcmRYSGt5NXFJZXlmWWN3eWJBZ1JVWm1EcHdTR0VDemdxa25mQmRBMzQ2YUxVWFBja3VVRTQxc0dyanc?oc=5",
-     "source": "沖縄タイムス社",
-     "at": "2026-11-06T03:57+09:00"
+     "title": "北朝鮮の巡航ミサイルのクラスター弾頭型の威力評価試験と滑走路打撃訓練、および垂直打撃飛行特性試験",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmRfQk5PQ0RHREpuQW82bzhaOHluVUNxaGlRaDdzcDUxUUhaY0Zib1RiVmUxYzVpOElnSG1ZZ2tlX1ZJWERCVV9YUUNTaUFSd0xKM0lvYUc1dmVqbFE5OExZUXIzRXh0MzY3OHMxWHZCd29EYU9pQkRTU18tQmMwZnlEVU1XX0Vw?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-06T05:06+09:00"
     },
     {
      "title": "ウクライナ、ロシア製油所攻撃を再開　燃料不足深刻化の恐れ",
