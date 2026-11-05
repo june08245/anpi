@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:15+09:00",
+ "updated": "2026-11-05T18:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-05T18:18+09:00"
+    },
+    {
      "title": "救助中に再び爆撃 ロシア軍の空爆で40人死亡",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVlg3RUFLZGhWMVhNV19OcGc3c3d0QWh6QmN2UU9pMktCc0RVZ1FZcFg4Tm9Rd1BmOTVqazlJTGp3aGZyZk43NmxzU1JtTnM5ZTRlRXdQNXRRLW1kUDJB?oc=5",
      "source": "千葉テレビ放送株式会社",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03a1JSQ2VFX0FjSlZnbVpqTzdZRGhtaXhQZVlVazQ5cjRQamlaNThDejhfMmNXeWZyd3U3SzJfSlJKaFAteHptSG9obDhGbS1ZSWpFbEx1SFF6QkFuNFplbldLVVVKQWx5SWRUandWM1hrcGZJ?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-05T13:32+09:00"
-    },
-    {
-     "title": "ロシア軍のドローンが迫り、兵士たちが一斉射撃…ウクライナ最前線で目撃した「無人戦争」の現実（ニューズウィーク日本版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdV95eE9ncTlTQXo1cHBqN3ZkOUNvRkoxckdZY3M1UU5WUDE4cVNULW5GZ2ZhSm51aUt2ZmJNWjNkTFc5Uk5RMlczR2hncFM5QUFvZFhsc0xublZfOFdPVXAzRGtOUmhVTmZ0aVpKUzdFX2w4cGZkY1J6TThqaGc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-05T11:56+09:00"
     }
    ]
   },
@@ -365,15 +365,27 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzEtT2ZRUElOZFJYX1lwUE0tTXZTZU42MVVJaExRRzFBa05Ia2t6RVVQTUMtUklwMmJiYnJsOEExT0xlNUttZFBKMmFVbHpRZnV4aWtGcTZPRkFrUHo0TGRUajZCTThFYUU1TDRB?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-04T22:52+09:00"
-  },
-  {
-   "title": "【11月11日11時】Jアラート全国一斉情報伝達試験放送の実施について",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWwtdkIyc0RveFE0Um40eEVJTFFLNV9TeGowQzlrenVGU3o2YnFCUlRnR0lTQmU5VVRBOV92Z3JpZXZiNXNXR0x1bVR6T2cxR1kyVFE0WVl4a3huVjVVdUFzNFE2Ul9RZkhKU2Y4OUdxN01aSjBPdGRtSjBHZlhEelRvQ1hLcWpwcGdib0V3?oc=5",
-   "source": "前橋市",
-   "at": "2026-11-04T18:26+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "NTTドコモ 一部サービスで通信障害 不正アクセスの形跡確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ucGlUN2FMMUlRaFpkbG1YWTVVTWJZeHNsd1pCYmhjcW8tblZsRnRQTUk2LTQxekMyQ3FTQXUwb0NBOTFsUlVCWXR5WmJMYWJTQU95YlByRjBHRkUyWGNycWxwbVhZblpr?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-05T18:23+09:00"
+  },
+  {
+   "title": "ドコモ5Gスタンドアローンで通信障害 電話やデータ利用しづらく (2026年11月5日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wR2lwalZYbnBwZDF1Z2VjclBkeDdBMTdnekh5SHFwaFhKRmdOWHRDOTRfZl94WXFxWmVJWjhKem5INGllQWNzSFhFQXFqWWZwR3o2YmwxTkRCY2ljTWc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-05T18:13+09:00"
+  },
+  {
+   "title": "災害時の通信障害の早期復旧目指しNTTと陸上自衛隊が合同で訓練 衛星を利用して電話やインターネットが使えるように【岡山・奈義町】（RSK山陽放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sLVhQRUVNNWxOWEh2WlBaVTlsUTVhVkhRV3FGYnN4eEhvMlFiVWI2Z0ZueW5VZUJsMkNENDZjZ0l0aERiZnZZOVpRN3hLc3poT2xuQ1M0Z2w1V25nNVV2amtxOGZUalJCYkxRTzlGVVMxeC0ycjUwcEY1Zk1mUmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T18:00+09:00"
+  },
   {
    "title": "ドコモ、全国で通信障害＝一部契約者、つながりづらく(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVJQcXE5VWxkd19aOVJPQ1lhMEtLM2hQZGhVUE9hcF9KMEJQYW1wd1ZoV0pZTGMyMU9QSjBrQlFxLWpfdzVFMHBWZDJOSDh6SElHRm91bUJWQ29SYk5jdmxOWEw5TWQ4d2JNZ0ROdDZoVjFpN1ZYT1k2a1BaQklxT2sycmZZUTg?oc=5",
@@ -387,40 +399,40 @@
    "at": "2026-11-05T17:45+09:00"
   },
   {
+   "title": "NTTドコモで通信障害続く 音声通話など不具合 原因確認中",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3lQYUx2SmZmNGxEQzhxWURodDM3V05QVEtnaUFHNnhYNTVDZ05KaGhkS0liZVhycFItOXdRTk9aRTFsYUQ0MEc2bHJCVVpRZzA5NDMtOG5WQ0I5ajRkOS1XcjdTaU5rTkNkZ2RoVVJxMUVSSUdDa2dPSDdSQ21TUQ?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-05T17:45+09:00"
+  },
+  {
    "title": "5日のドコモ通信障害、サイバー攻撃・不正アクセスは「確認されず」（ケータイ Watch）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80S2tULVVUdmtwWlYyS1FyZHI2UGl0MEZiZVFVbmV3bHYydkc1aE91bHRHMzFBbFluT2ExVXFyT2NhX2hNXzB4bUh4b3VpanhBOXNhN1RPRGFFNmJ6WWFBY200WmljVFFpaFZqWm1lcjUxX0RuRUp0T3JLaGRKSlE?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T17:40+09:00"
   },
   {
-   "title": "NTTドコモで通信障害続く 音声通話など不具合 原因確認中",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96WDVGSzROdmJWc1VaOGY0YW1lRWdBYUVOdUN6VE94SXhtQmFlb3JTMVplb1R3Nk9rbFo2aWJuUTY0TTgxemZWaXRYamF4Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-05T17:39+09:00"
-  },
-  {
    "title": "NTTドコモで通信障害 音声通話やデータ通信などしづらい状況 原因は確認中 「5G設備の故障やシステム更新不具合の可能性」専門家",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44TjZucWMxWW9TWmJsemo1anlXY1VMT2NWalVKbEdibWRISjdvRzhZZ2wyN3lZSmd2bWk5NVhKSUxkNElqOHZWUXZ4R2VCZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-05T17:20+09:00"
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOG90dFlENUVsak9rT011U3Aza29Sakd0c0FQeXhTX1pFTlM1X3dfaXFfQ0lqdnczUFdSbGI1QUhYWjZEWVZMTTE5Q290NWJQaHRWdjBtVXZBVkQ2bHRiMElTVXptaWpEaEFObVNFb2dJMTBLRjgzRWJ0bFF6YWZQNg?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-05T17:23+09:00"
   },
   {
-   "title": "【ドコモ通信障害】一部の5Gサービスで通話・通信が利用しづらい状況に。不正アクセスの可能性でオンラインサービスも停止",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oM1Rvb1hnUG03cDNXcm14bVZrdU5GMnhxX2hOckx0cUdRcUJLLWFZb2Y2M2RubXoyaVc1ejN3SWp3a1FzZ1FKNkNB?oc=5",
-   "source": "ふくおかナビ",
-   "at": "2026-11-05T17:02+09:00"
+   "title": "NTTドコモの一部の携帯電話サービスで通信障害も“不正アクセスとの関連性なかった”",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ESjF2a3dLTHJ6UWhhS0tuamIzTC1Fb1FJVFZWVGpHeFhJbkhYWEhaZkR1VTlIZzZETEFHaUEzUUFNTE5xTl82ZXQ2bw?oc=5",
+   "source": "TVer",
+   "at": "2026-11-05T17:18+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害　高速サービス通話しづらく",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlNhUXlJb1dtMU1pNEpXNThiWWxBVUVyNFRaS250ZENvRzkwcElrZy1QbnN0VmNPVnBsbFNPVXVaLUhJWmJKeFBBZWxHSjhDMmNWNzU5RWFVdGtxYm9TWE1ESTY1dWhWTzJXcGJFTXJRNFBCZ2JFbUY5REo3UDc0aE5PNlBIUTJ4Y3VHOTZn0gGTAUFVX3lxTFBMUHduS2llQjY1ZHVBTUo2Mk9Rd1kwTWVRNUd1N1QweE9NYklIM2dLQUNUYTk1VlZpbV83dHhqVWlzMDlzckpnam1TVWhaY2N4LVdXVE00M3djeFBuY25nMTAtOU9nRkctQkZ6MmJYUm5uNi1QTjVtc1ZoMTRHdmJvQkhaMU90a3RjWERTdndRR3liYw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-05T16:54+09:00"
+   "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T18:18+09:00"
   },
   {
-   "title": "NTTドコモ「5G」プランで通信障害 電話やデータ通信が利用しづらい状況 対処法をHPで呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05SU1EVHlkYkJ1dDdpLTlpdU04emlJWHM5ekhnRDVwSXJwOUNVRWExUDl3UEpFTjIwa3pIcTlWQ1VWa2Nad2p6SXdfYlNkcF9GazJOYUU3WQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-05T16:51+09:00"
+   "title": "ソニー、プレステサービスの不正アクセス「措置を講じている」 被害状況は公表せず（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZQ3JURW4tSURJUFh5V092Sk55aU9WeW44Zy0tS0NfWEdmbGQ5c0xaZ29yWm9mWUt3bjJnLVlDRmh3WXhKRlBjX2Q5UHZrSTBFcHVlbks2aGNkeGFmczVHZkd2SGEyd0pTd0g4NVRGRDljZk4wYmVkaDRsQ01JanM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T18:13+09:00"
   },
   {
    "title": "飲食店向けユニフォームなどを販売するオンラインショップ「ユニコレ」、不正アクセスで会員情報最大1万9,468人が情報漏えい、サイトは11月5日に再開|セキュリティニュースのセキュリティ対策Lab",
@@ -429,44 +441,33 @@
    "at": "2026-11-05T18:09+09:00"
   },
   {
+   "title": "ベルギーの大手スーパー、冷蔵庫温度70度に サイバー攻撃で食品被害 | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNUTFQUDVnU1FRZXJNVU1MM0gzUmljWmdzNVp6bjFIVnlGblN5aGhDenJub1lXNjRUWFRBRG96bW9sZ05OVWFCV2xJSmhKTTlCLXRxNjV6N01xZjNGdklRQzNBU3NDUkVGejg1UF80RzFXU2ZyYmd6cXYyOFBST01fZExDWThoVnZSaDZDbjdpbE5TZE4xYTFUQVRTUFFUX0p5aTg3bEJlOF90Z0xkVWl1b3FtRDludUVaWTIxZjBnTG9jbVlpSHg0ZkZnQllsaWoyMzNoSXE5VUdTRVdueGJ2ZlF0X1FDcTJJX09XQkdqR28yby15ZHdvRURIVFM2SU0tQWZRN3A3Q09xQ3dscWJFY0F1RFlyQ3ZXLU9BUzAzZzRCbnhvRGxGcFVZSjVFVUZjYmdncXBEOXZaZXdWTWF4ZVNiRERCc3NCMERyRnpVbWhoVWRsWjBCOEJwd1FvY05MQ2hEWUNWMlRxalFwdVRJZl93MDhxSjM3d1FtRUNuXzU3ZzBBZVNrNGVlUWU1WDVyczgtbXdIU1BDM1k2S2pBc0xYYjFOc1Y0SW5LM05zc3VnT09nbVYtNThFeVo3LTB6czhjQXRiNlZOU0RubVZ0M2xTcEFwUm5xaTlpZTNrcUE1dw?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-05T18:08+09:00"
+  },
+  {
    "title": "SMBCコンシューマーファイナンス、最大32万人情報漏えい＝不正アクセスで(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWmFSemkxQjFUV0t2eWM2TFZmS0JoR1pVMWo2eFYxaHJfV3FvYURoV3ZTcU9rUW9keksyQ0NpUkpzRFR4bmt6UEpsNm43c0Z4aEFhNmVvbGhMellTcXFFWENLR09LM1FlUGJpbS1fRDFBWXJCcF9YUUNLd2l0dzBSVVIta0d1T1U?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-05T18:07+09:00"
   },
   {
-   "title": "不正アクセス相次ぐ中 サイバー攻撃への対応訓練 旭川",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0QnpOQmhfV0NQUkJ0NmM5MWhTVmxqbWRYU1pRbXZoZWdOM0dMaFpGVnBYS3BQbmcwUkRDWVFTSkc3WGVSUGs1N09md1AzR21wdFhMaWM3TjRwUm5yaExZ?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T18:06+09:00"
-  },
-  {
-   "title": "ソニー、プレステサービスの不正アクセス「措置を講じている」　被害状況は公表せず",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0M3cnVhbzdhM2xzRlBnXzV6b01wQlRIY0phVHdtU0J5T3NBQmN4UmdLSWlfbDY2ZlBSTWk5cHZ5cjVXcWU1Uk9xb3k5ZUZpY1lNLVliMFRHcWlkUHlYeXlYNXhVYlg3cHNHZ3ItOHlzRkdzLThXQ0RLaWl1RnVJaU5CMW9ZbmhSZmgxWnc4ZzJjUHBnRnROTXBqdERZR1VBZTJF0gGoAUFVX3lxTE5RdWF5UlZzWG5GVzRMTS1MMF9XTGsycHByYVBvMTlSMkF4MUxMVFYtSk1SMXYxMjN3NXNhamY3bEJvQmZ5c0pIVU84X3BURXZMckMycW1qS0hoRlV5QV9wTFA0dXB1SF9IeEFFVjFadm5pOTRqMl80NDA5TkU2LWU3U1N3a2JjUHVqSmo4VkNVOWlIaWFFeFdCbWQxME93UV95ZUJRVmZ6UA?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-05T18:06+09:00"
-  },
-  {
-   "title": "フランスの銀行にサイバー攻撃、仮想通貨の盗難被害",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iazlXMDQwVmhKNEFRZWZJUjhOTUxaOHN2U3hsTUpEMk5VUzRiUmJJVmhmeXdBOGVOWmtuMGNITkJUUWtiZlNxSHFrNmpMd0RKbldmeVd2OTBjV3JrYXFmazdEQW1OWnJJcU1Ldw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T18:02+09:00"
-  },
-  {
-   "title": "サイバー攻撃「実態解明を」 全国警察本部長会議で楠長官が訓示（2026年11月5日掲載）｜日テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44dzhsb1JxeUF2WHlVSEV4b09ocF9wS3NWMGhWY0h4Nm14SUpiSzB1S2FSZ3hVVnBhS1lINEFLV0U2cGc2c3htVFpUSGloMnViaVM0OWdFRzBwZXdiSElreDdmZDF4R21mX01UOW1mdnFYekxSQVlGUWhKVW0?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-05T18:02+09:00"
-  },
-  {
-   "title": "コナカ、子会社でメールアドレス約43万件漏えい＝アララ不正アクセスで(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWVlwSW92OUhwZzNHREZCamMxYy13UUFEbUhMcE9IM0ZvZ2pMeHNZYzUxeVpFeEhFSTNxZEltUUU5b3AxNlROdEd0MVJGNTZ1dUFRTkpsdWx0Vmw4MVZfLWd6c2NWYUlJOU0xZUtHcE5LSk1KRUEwRXlKMmlwVG83cnpwYUdkcDg?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-05T18:00+09:00"
+   "title": "欧州各地の冷蔵設備サイバー攻撃、英に波及 食肉業者標的に | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNT3plajBGRDV2ZTBlRkpnOXNXUHV4eElRLWgtRFRObkpBaFJDbEVwZEU4LUZCb29NeVQxSE9faWs4d2FLRkNEdWxaRTRHWUNvSU1DODJOQWUwOG5Kb0dNNUJlcGZiWmpfQjJ4UjdiSmR2OUNPR01adlZfc1lPN01YRUY0RXVpclNibDlhQ1NQWWt3MjF1QTBzOXd3WW5RbW9aU0JhYnB6RUUzQVFFNEpGQll3NXdzQVppZW1pcUprY1dLcU1tZ2lfT3l2OUtkNVFpVWZ6QlU5VkFZblpfcVQxNW1BSm1aTXlHSk9ZaFcwTjdTdEhtbFZyQ255dHlhQ3RMcEtDaGVJcWVWTlRoVWZQelNYSlp2cm9FVHpnTEFDWjI3Sk1lQnRJcktESUhNYk1YSHB1WEhpaVdOME1fc21NSHY3UjlsYkhyMDNiWGlsS0tTeDFUUmg5cEpCSGEtcW5SM0w1c2h0UTI1X2FRejhkZk1Cc2R5cHBNY1gwT3RudU5fLVd1aUpGZEdQSTZ6aDZ3b0VnQ0wxSHlaX0VPNHk5b0FEYXZIemF3dFM1YnM4YV91RGFWYVhneXVtMA?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-05T18:07+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T18:18+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "欧州で旅客機への爆破予告相次ぐ　1日4便が目的地変更など、爆発物なし",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NTk4M0xQMkxLNklkeTZTV1d4aDI5OFN1SWF1enA5OXJTWmlfcjlKOHVHOUltNnBaNzN2YW93MGdhaFRmSGdMQkE0clg1ZTJMbUJDYlNHMFkzSFRYRGJMZ1ZWMEdoeE9weXJ4R3ByWkxFVG_SAXhBVV95cUxQUFNraWRiaXlhRTdGQ2JfTzVuN3ZfbDlJZk1rd01XbjhFREkxOHhfb1dudXkyd243bzR0UTBxcTlXOEYzd1I4VERCdjdkM05ydEFlR252OTBwSlZDVEtMR1M2cE9CR3ZpVy0wR2JoMUdaTXpzSnpZaVg?oc=5",
@@ -599,20 +600,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T14:01+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "米と欧州、ウクライナが復興・戦費を協議－ロシアとの会合控え",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03a1JSQ2VFX0FjSlZnbVpqTzdZRGhtaXhQZVlVazQ5cjRQamlaNThDejhfMmNXeWZyd3U3SzJfSlJKaFAteHptSG9obDhGbS1ZSWpFbEx1SFF6QkFuNFplbldLVVVKQWx5SWRUandWM1hrcGZJ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-05T13:32+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ、全国で通信障害＝一部契約者、つながりづらく(時事通信)」"
+    "「NTTドコモ 一部サービスで通信障害 不正アクセスの形跡確認されず」"
    ]
   },
   "japan": {
@@ -626,7 +620,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」1件",
     "北朝鮮：「攻撃」「ミサイル」3件",
-    "ロシア：「攻撃」「空爆」4件",
+    "ロシア：「攻撃」「空爆」5件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
@@ -643,10 +637,10 @@
      "at": "2026-11-05T16:03+09:00"
     },
     {
-     "title": "救助中に再び爆撃 ロシア軍の空爆で40人死亡",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVlg3RUFLZGhWMVhNV19OcGc3c3d0QWh6QmN2UU9pMktCc0RVZ1FZcFg4Tm9Rd1BmOTVqazlJTGp3aGZyZk43NmxzU1JtTnM5ZTRlRXdQNXRRLW1kUDJB?oc=5",
-     "source": "千葉テレビ放送株式会社",
-     "at": "2026-11-05T16:03+09:00"
+     "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-05T18:18+09:00"
     }
    ]
   }
