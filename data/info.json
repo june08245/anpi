@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:30+09:00",
+ "updated": "2026-11-05T13:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -180,8 +180,8 @@
    "items": [
     {
      "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tNGRRbC1YWHVqVFE0ZUVUQlFkNE9RcGhDNXNsSEIyenZrLU9QbkRnd29JSWo5Vnk2dEpDM1NyR2JQQ01yQl9MX3JzTTFtUjJSTk1HNndlQ3dfT2NOQmxzaWphUkRXN29BY3JrQzR3?oc=5",
-     "source": "au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGhtbFptczFxdEdsbHRUV0hvR3dWX3RxSFlHSE53VHgxdWg4WDVTQ05XRWJtUUVOYUN2NnZWUFN3c0hGWnA4LXMzTkV2LTVCSE1Oak4zemJwdmtKZ1Jma184NGI0MFIzOFlqeG1tYnNYS0haTDJoV0wzcUJRT2cyMC1vWdIBiAFBVV95cUxOZ01DamlmajNSeVMxMDc4c0phSUhOUTVUbVBpd0hfNG54ZnhBSFptX0hSTGVNNS13VEtBRVhhRVJrOFRyVE45N2U5N0ctRDlaTjRoTjhDYkJRWldUczl5Zm9mWkhQNUMtUjV2WHlCekpybE5BMWg1S3RJN052dC1SNGl6MDU4YmV2?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-05T13:22+09:00"
     },
     {
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "米と欧州、ウクライナが復興・戦費を協議－ロシアとの会合控え",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03a1JSQ2VFX0FjSlZnbVpqTzdZRGhtaXhQZVlVazQ5cjRQamlaNThDejhfMmNXeWZyd3U3SzJfSlJKaFAteHptSG9obDhGbS1ZSWpFbEx1SFF6QkFuNFplbldLVVVKQWx5SWRUandWM1hrcGZJ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-05T13:32+09:00"
+    },
+    {
      "title": "ロシア軍のドローンが迫り、兵士たちが一斉射撃…ウクライナ最前線で目撃した「無人戦争」の現実（ニューズウィーク日本版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdV95eE9ncTlTQXo1cHBqN3ZkOUNvRkoxckdZY3M1UU5WUDE4cVNULW5GZ2ZhSm51aUt2ZmJNWjNkTFc5Uk5RMlczR2hncFM5QUFvZFhsc0xublZfOFdPVXAzRGtOUmhVTmZ0aVpKUzdFX2w4cGZkY1J6TThqaGc?oc=5",
      "source": "Yahoo!ニュース",
@@ -231,12 +237,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwOXR1RDQxWU5zc1V6RExPZDFjbkE1OTl4cjczcU5pTmpBOVl3cnN4Vi1lVWlsa2UwR0psV1VkeUM0djAtUVR0YlhTNjBVV0g3enZCMmxIZzNSb3RCdFhsVWQ2WUlxa0JiTnV5N3Bpdnl0ZUVkaUl4RVdwWXl1bFk?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-05T11:35+09:00"
-    },
-    {
-     "title": "米と欧州、ウクライナが復興・戦費を協議－ロシアとの会合控え",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzlMY01YdnR3WUhrWjNBcDZqNDllOEQ1N0FITWN4Mk9iRXNyd21nTHJTUW1Fa00zM2xyV3g3Yi1sdXNkbmZDbHdzZFM5MU54bF8tQzBSWjZJWEZrVUhTUnVDcFUxSXNELTliM09NM3VxdEtHY3lzVXFGMzJTT200RUJWZ2l5dG9rZnZPeFF3?oc=5",
-     "source": "Bloomberg.com",
-     "at": "2026-11-05T09:49+09:00"
     },
     {
      "title": "ウクライナの支援物資配布拠点にロシア軍攻撃、死者40人に 数十人なお安否不明",
@@ -368,6 +368,24 @@
  ],
  "cyber": [
   {
+   "title": "NTTドコモで通信障害 全国で通話・SMS・データ通信利用しづらく",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82WVZ1dkh0VWVjNEdFR2U1MWRYN0NnZ0wzcnRiYm5YRXYtUk1mVUNiRldMa3FJQktJZk5Xa2dYb0pKQ1BVR0dGM3g4LUgxSF9qM01UTnRob1hRZnhpRnNWeA?oc=5",
+   "source": "ASCII.jp",
+   "at": "2026-11-05T13:40+09:00"
+  },
+  {
+   "title": "NTTドコモ 全国で通信障害が発生 音声通話・データ通信など利用しづらい状態に",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVbTZJVVlMODhTQXFyRERzdUw2WHgyUmFvVTRIMDVXWEpaQWI4a3RaN1BSTjdDX2VSZHU1RkVYN2E5UEdpdFNfQkZaLU1YMlZGWUhSMg?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-05T13:38+09:00"
+  },
+  {
+   "title": "NTTドコモ、全国で通信障害 通話・データ・SMSに影響",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPaDh6RVhROFoya2VndkhHUEhwWTVaNkpjN2dzZ1JqQll2UlRKZ19lQ1Y2NFVuN29kbEJKcUVndVZRdXFEZklUd01tY1FjSlFlQ1pYb0FVZ3Z3enRjMTlHOGh2NTFLTnl6UEdJX1BSUm9FbHg1?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-05T13:25+09:00"
+  },
+  {
    "title": "ドコモ携帯 全国で障害が発生",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHeVg0RWZOTWJHc3hQUDVqbGpSZUlpNGR1YlJqUXlMWVVpQmtzSGVuTnBRbG1sYzI5Sm9JUENLSDlJSDhPclY4a0s2dkpBSUNt?oc=5",
    "source": "Yahoo!ニュース",
@@ -386,12 +404,6 @@
    "at": "2026-11-05T13:05+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HaWlDcEhZd2IxNlVGN1htWmJ5eGw1R3FOMVJ1NTI4cVpYY3BmdUpJR25NUkFWODlXNU9rc19TQXNtckFRLXN3Rlprc0tnUVFoTGRkam9va2pLQQ?oc=5",
-   "source": "中国新聞デジタル",
-   "at": "2026-11-05T13:05+09:00"
-  },
-  {
    "title": "ドコモ、全国で通信障害 通話・データとも利用しづらく",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybE14a0VUU1FxVm5keGdnRUt6b2FXRkhlUEhQam95YmRockRnN01YZjM1ZU11Y0tQdDFCeFBzMlNYaXdkVVU1bTZXZTNVS3drSTZVS2ZXWU56Rm9EZXlBZTc5azlVYmRZM1E?oc=5",
    "source": "ITmedia",
@@ -404,10 +416,10 @@
    "at": "2026-11-05T13:03+09:00"
   },
   {
-   "title": "【速報】ドコモ携帯で通信障害、全国で通話やデータ通信しづらく",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByUVd4ZXNUeDY2LTBFRHZmWXBHUjZTck9SUFhDalVoSWdpcnlhdl9OY1lBclI5aEQ2VkM0UkN6SndOa3NSZHI1ZHdnTDhRQmdGeTJ1a1F4MUNLX0lFY1E?oc=5",
-   "source": "新潟日報",
-   "at": "2026-11-05T12:52+09:00"
+   "title": "【速報】ドコモ携帯で通信障害、不正アクセスとの関係は不明 全国で通話やデータ通信しづらく",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41dElvZ2d4VXF0T2JTUEc2THJCUG1aanlFNWw1MFpVTFpGM3kxNFFRUFRPX3VQU0x6YW8tMUdyd3dpbWhLTExXenZjbw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-05T13:02+09:00"
   },
   {
    "title": "【速報】NTTドコモで障害 一部ユーザーで利用しづらい状態に",
@@ -434,36 +446,31 @@
    "at": "2026-11-05T12:26+09:00"
   },
   {
-   "title": "相次ぐサイバー攻撃に対応　政府が「救援組織」設置へ",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNE9idGp2QnhXV1JMY2VFdkdNbXAwVzBCQ0lWcDRvOURkZ0FCS3VqNEh0Z1V2TUZXVmxQS2dNMURfT0RtV1Nvb3AzMnhUU1JLU28yZDJOSVptVW5IZlBkTWdOT3k4QzZ4djctLWdhcDNYTWtFa2xucEp3T2NiVDNhNzItdTdwd2JsUmZ4YUk0MUs5SEE1WFF5dHUwU2rSAY8BQVVfeXFMTkcwdVNnd1ZqOVZ0MXFBcWVOU3ozLVlmWFYyWnJqNUNWN3ZscUU0YU1QWVAzR21uR0J0RDMwcFFqNFJjLTVpcUc2NmlHVFJFTzBHSk1VN29qMHNRb0QzNUZOc0JlY1J5NjlwXzBxdUFqX0JjN0VLVDJSZUp3eFVlQjMtaEFRRzQ4TS1VTXlpSDg?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-05T13:17+09:00"
+   "title": "ハッカーのイメージ - サイバー攻撃、10月は4億件超 検知数最多更新、被害深刻 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94bUFTMjRPMXRka1NhRTZPc3dfOEo1dEhjeDE1QTl4RmlkRGUtS1RfTGd1cDRmUzZ0WWE4cXl3VUlkYUtpbU5KVm1nbTNVT1h0YnNUS0Jucw?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-05T13:41+09:00"
   },
   {
-   "title": "サイバー攻撃を想定 市役所のPC一斉シャットダウン訓練 相模原市（tvkニュース（テレビ神奈川））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TSWx1cnZfLUxuZzNVSlZ3WjZqd2NoanR1azl4eFZ4bWY5QjNkZlV1V2xvZ09SalpkWTh0cmdzVnVUVFFGNXVTTUlqVGNNUk5VNjlLZUNLRFZDLVlrNlVCQWVyanV2VXhrdWpSWkY0dEozUmQ1LU1ZZW9heHo5bmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T13:16+09:00"
-  },
-  {
-   "title": "インテージ、アンケート調査システムに不正アクセス 回答画面・関連サービス停止、個人情報漏えいは未確認",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1lldHNrMUJRME1EdUItQWQwVFhVdDlUQTRxeXA1TFNvQk1QNUhKcnJCUHZ2UW0zSVY5MGRRYlhadzNmMzJ4RE5YRktMMFZuZURPc1JyZlM2N0U4T1F2ZnVwdWRaZTFJaUZ0OXA1WElHTE1RMjdZRFFiM1JRSDZUYlh4eWNzUE50Z3B4V1hUeHpFWTVCelZVdXlaYW9PR3M?oc=5",
+   "title": "損保ジャパン、自動車保険の契約情報など約6万5,000件が漏えいの可能性 委託先「PremierNet2」に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUNXWkNtWi1yQ2hMcTY5WHZNMUVlWDZUcFNiYUE4Z3psOGxiME4zSXBNUk0zQTJOQjdBZTMzUjFqbDVpSF9WVE0wWUhMNWEzQk1KQW9aUW52bGRoNGJLTUgyWEY0QW9iLUp5TUkxMDNjanFKQTRSaUhTZ01WWl9Rdm9OOE9lR1ZWYVBlNl9fa3NTcWU1QVE?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T13:15+09:00"
-  },
-  {
-   "title": "NTTドコモ 不正アクセスの可能性 オンラインショップなど停止 影響について現在調査中",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uZUo2MWdsQ0Fza3cxaHRMTHRSa0pvYXhqaGRKSVpkYlZQWk45WUxaVjlDcFBEczVhZjBYOVNzR3RwZnNmaHJCVUJWeEJqeGg0Rm0zSjgxMA?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-05T13:02+09:00"
+   "at": "2026-11-05T13:39+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
+   "title": "米と欧州、ウクライナが復興・戦費を協議－ロシアとの会合控え",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03a1JSQ2VFX0FjSlZnbVpqTzdZRGhtaXhQZVlVazQ5cjRQamlaNThDejhfMmNXeWZyd3U3SzJfSlJKaFAteHptSG9obDhGbS1ZSWpFbEx1SFF6QkFuNFplbldLVVVKQWx5SWRUandWM1hrcGZJ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-05T13:32+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tNGRRbC1YWHVqVFE0ZUVUQlFkNE9RcGhDNXNsSEIyenZrLU9QbkRnd29JSWo5Vnk2dEpDM1NyR2JQQ01yQl9MX3JzTTFtUjJSTk1HNndlQ3dfT2NOQmxzaWphUkRXN29BY3JrQzR3?oc=5",
-   "source": "au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGhtbFptczFxdEdsbHRUV0hvR3dWX3RxSFlHSE53VHgxdWg4WDVTQ05XRWJtUUVOYUN2NnZWUFN3c0hGWnA4LXMzTkV2LTVCSE1Oak4zemJwdmtKZ1Jma184NGI0MFIzOFlqeG1tYnNYS0haTDJoV0wzcUJRT2cyMC1vWdIBiAFBVV95cUxOZ01DamlmajNSeVMxMDc4c0phSUhOUTVUbVBpd0hfNG54ZnhBSFptX0hSTGVNNS13VEtBRVhhRVJrOFRyVE45N2U5N0ctRDlaTjRoTjhDYkJRWldUczl5Zm9mWkhQNUMtUjV2WHlCekpybE5BMWg1S3RJN052dC1SNGl6MDU4YmV2?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-05T13:22+09:00",
    "topic": "北朝鮮"
   },
@@ -559,13 +566,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米と欧州、ウクライナが復興・戦費を協議－ロシアとの会合控え",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzlMY01YdnR3WUhrWjNBcDZqNDllOEQ1N0FITWN4Mk9iRXNyd21nTHJTUW1Fa00zM2xyV3g3Yi1sdXNkbmZDbHdzZFM5MU54bF8tQzBSWjZJWEZrVUhTUnVDcFUxSXNELTliM09NM3VxdEtHY3lzVXFGMzJTT200RUJWZ2l5dG9rZnZPeFF3?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-05T09:49+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ウクライナの支援物資配布拠点にロシア軍攻撃、死者40人に 数十人なお安否不明",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NMk1XM3JEaFBLYktDTEVCY3Fjc1dUTVhrRTNIWlY3dE5BdkUxUGpFMGhSMnBVMzhZX2R2cW1NQ1BxR0Z4bU5Rd0wxQWEtcXhCeWlZeThwUGgyRGVZckE?oc=5",
    "source": "Infoseek",
@@ -605,7 +605,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ携帯 全国で障害が発生」"
+    "「NTTドコモで通信障害 全国で通話・SMS・データ通信利用しづらく」"
    ]
   },
   "japan": {
@@ -631,8 +631,8 @@
     },
     {
      "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tNGRRbC1YWHVqVFE0ZUVUQlFkNE9RcGhDNXNsSEIyenZrLU9QbkRnd29JSWo5Vnk2dEpDM1NyR2JQQ01yQl9MX3JzTTFtUjJSTk1HNndlQ3dfT2NOQmxzaWphUkRXN29BY3JrQzR3?oc=5",
-     "source": "au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGhtbFptczFxdEdsbHRUV0hvR3dWX3RxSFlHSE53VHgxdWg4WDVTQ05XRWJtUUVOYUN2NnZWUFN3c0hGWnA4LXMzTkV2LTVCSE1Oak4zemJwdmtKZ1Jma184NGI0MFIzOFlqeG1tYnNYS0haTDJoV0wzcUJRT2cyMC1vWdIBiAFBVV95cUxOZ01DamlmajNSeVMxMDc4c0phSUhOUTVUbVBpd0hfNG54ZnhBSFptX0hSTGVNNS13VEtBRVhhRVJrOFRyVE45N2U5N0ctRDlaTjRoTjhDYkJRWldUczl5Zm9mWkhQNUMtUjV2WHlCekpybE5BMWg1S3RJN052dC1SNGl6MDU4YmV2?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-05T13:22+09:00"
     },
     {
