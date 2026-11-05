@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:15+09:00",
+ "updated": "2026-11-05T20:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -145,7 +145,7 @@
    "items": [
     {
      "title": "「トランプ大統領の合意を議会が揺さぶるか」…米民主党圧勝受けた中国の計算",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOVF95Mm5fMVFEWmltY3hTS0NtLXNHMjdNaHJ1QmhhWk9qSFh1WG54b0R1a0RKbHNBSGxKelVxNElFbWlVWDZjbm1HUVJsMDJISFNtQmZuYzM0MGpiS1U0NzFEX1JIV3PSAWxBVV95cUxQOElZRnlLNWEyY1RtYzFzTnVOYjFrTDZLNThfdU1zcHNnQkozYzIzQzNhdkZKRkRzclg2MUxfbmFRYUZwQjVfdkZxWEF1dDlCeVdHSW1DYkpnTGFyQnpMd3NWNUhBUkhuOGJNaUw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTNIBbEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTA?oc=5",
      "source": "Infoseek",
      "at": "2026-11-05T17:57+09:00"
     },
@@ -270,6 +270,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "ヨーロッパ各地で旅客機に対する爆破予告が相次ぐ、7機に影響",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RV2FyVlM2bEhpTWJyRzVWOEYyVXF6eXhYbllpMkVNUlJIRTg1bElfYVROM2xvVW9uZlpHYzI5eGdVR2Y3MlIyeVllU21VY2V3Z1hjRg?oc=5",
+     "source": "Switch news",
+     "at": "2026-11-05T20:05+09:00"
+    },
+    {
      "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHlQWl95bG1fTllNQ2NtYzVZTXZiUzZGTFhITmRITW1yVFExV0l3WW1UOU1WbDAtV3RiRXB4VXl2NmFxUTgyOW4tUkhHUXVCc1h1YU9xbU9lS2IwMEtFck1Jb09JTk9nTDhSQzltNkRyQXdBM25KaTNJT01oWDRVS0stLUFKSmc?oc=5",
      "source": "Reuters",
@@ -298,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU19yMXhTSFlJSFZvSHZUTU9nSHA4Q1Q0OExIa3U1dTBBRWtYSFUteFpjNmd1U2NfSVBvOXVURlkyVXBPS25oWWFpTnVOMjhIeHJ5QmNtNzlUY1Q5cFk0Um5jT1laeC1JT0xueXZjeExTLTQxU0l1cm1ua3RoYU5XRkFB?oc=5",
      "source": "Meta-Defense",
      "at": "2026-11-05T02:37+09:00"
-    },
-    {
-     "title": "WSJ：NATO、ロシア領深部への攻撃を含む防衛計画を策定",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczFKeUd2Ny1HOEhVM0xuenBMR1NqS25JaTVqaUtqRXlhcVNtWWhaUUVNdVBGejdvc2Z2b2ItVHZUUUlUWFhQbTk3UjlYNVhRRG42S3NHUWdLS214eWpLU3ZVVE45UndOdkRqcW8xTUVJYTlIT0FCNFRsa3IwYkxSb3RqOXhfSjZlbmVGbS1xTHJjRXhqR0NIRzRIUFlvcTg?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-04T14:45+09:00"
     }
    ]
   }
@@ -355,12 +355,6 @@
    "at": "2026-11-05T14:49+09:00"
   },
   {
-   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T03:31+09:00"
-  },
-  {
    "title": "北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイルの可能性」と韓国メディア アメリカの対北政策転換狙いか",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzEtT2ZRUElOZFJYX1lwUE0tTXZTZU42MVVJaExRRzFBa05Ia2t6RVVQTUMtUklwMmJiYnJsOEExT0xlNUttZFBKMmFVbHpRZnV4aWtGcTZPRkFrUHo0TGRUajZCTThFYUU1TDRB?oc=5",
    "source": "Excite エキサイト",
@@ -368,6 +362,12 @@
   }
  ],
  "cyber": [
+  {
+   "title": "ドコモの通信障害、発生から9時間経過も継続中 5日11時～",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tS1ZzdFg4YUVzWFR5N3RuNnJyOVAxN2NuQzhkMk5JdFFSbGQydURPOVM4Uk1QY1B5VGtqdGRyZGYzMkJYYk05N0s4dEFCNnk1OWkxS3gtcWRZZDA3bWlRZjRvX3dheDg?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-05T20:21+09:00"
+  },
   {
    "title": "外部サービスの障害に伴う暗号資産の送金の受付一時停止、および送金申請のキャンセルに関するお知らせ",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1Z2IyYzhJMEJ3MFhsblZKN3pPTzVnMmZ2MXpDS0ZpTE1ScGN3emw3YVl4WkZqQXlRRDBTMmZkU1lUdVJVdnk4QTlySEV4ekc4RVFObmNpU3k?oc=5",
@@ -393,10 +393,28 @@
    "at": "2026-11-05T18:40+09:00"
   },
   {
-   "title": "NTTドコモ 一部サービスで通信障害 不正アクセスの形跡確認されず",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXE3SVlmWGNZOXowZ1ROUHFhVmZ5VnpSNlQtRl84a25BR0tOT05HY3kxRmRHV2J1RWlfb1ZXT3EtcUs4SGROVk1EelU3enF6ZkVTTVU5cEZ3T05JNlZNQ2h6U2JyNktmTm1jcm1kYTFEaTZrQXNUTEpzOW01UHV2Yg?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-05T18:24+09:00"
+   "title": "総務省消防庁 「安否情報システム」への不正アクセス確認",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMWnRMbFV1MlRMbTd0emhrS0hsUU4tbzNVMlhER3RrcDRSNkJIWFVhMFh4ZFV3NThHX3pFTlVxamZNUTFiM1lrUlVjOVdGUGVWVU9zc3dWbjAtWWlPWDdn?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T20:20+09:00"
+  },
+  {
+   "title": "朝日生命、メールアドレス1.9万件が流出 アララ不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sWUNtMDZxdHIzQkszaW84OGFRRGN4bkJsXzZmOTQxM0YyaF9WcEFycC1jUDV4SU91WlFuOE1Ja0ctaGY0U21HV3ktSGNNTTg4UnFLdFJvem5mWmlWaUp4RTZ3TDlHQnM0Rmw3UA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T20:15+09:00"
+  },
+  {
+   "title": "ドコモ、不正アクセスで最大30万件の情報漏えい My docomoとオンラインショップ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15dERxN0tSQXFwVS1FdFJud0RZOTJHLUwxVmQ2WUZCZnBsZUpFZ283TktKbjcydUR1VkhZOVlrZFZ1QmJ5T1R6andqMS1Sa01nZTBMUS1lNkpISzY2NFR2OG1LTzg?oc=5",
+   "source": "Impress Watch",
+   "at": "2026-11-05T20:15+09:00"
+  },
+  {
+   "title": "個人情報流出の可能性 富士山の通行予約システムを使用した約27万人 受託企業のメール配信システムに不正アクセス 山梨",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teDAwWHFualZ2c2w5RkpBVVpUWTZjay1EWjNGRUhILVBqdDdJRXZEV0x0aWhXV0twc21JdExUODg3UFVlTFBnUEVocUtob3RENVFOZXV6elRiOUVWSGlHa0xEWTZ6T01nVUFWdGVycnB4LXZsWjg2R2pwM2RCTk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T20:12+09:00"
   },
   {
    "title": "KDDI、自転車サービスで顧客情報漏洩か 委託先に不正アクセス",
@@ -423,44 +441,27 @@
    "at": "2026-11-05T20:00+09:00"
   },
   {
+   "title": "関西企業中間決算ピーク 不正アクセスや米中間選挙に会社は",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94dElCeDNLUmttdFVXUFZmMFc1RXdhSkUyR3ZWWFYxMHVnMWtPNk5JZFZYc2MtX1BSNjVWU29nVHRqV0NZR3dkWlBwcDUtVy03dnRyV3JMVEllaENYUmdn?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T19:55+09:00"
+  },
+  {
    "title": "またもフランスで“温度操作”のサイバー攻撃 今度は“血液”を標的に",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81Smp3dFREbE8wUm11NTNLSUdSWXJpblowMTRwek1yN1J2Y0wwbXM4ak9jYXpCNlo3QTYyVmx0VXVMSTBkcmVLNGRwYnJiMkZ3ald2dUc1M3UwandMd1U2TnAzd3JGd1RWaEFETTNWRkE2WFg0ZFA0VTRn?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-05T19:54+09:00"
-  },
-  {
-   "title": "ドコモ「５Ｇ」の一部で障害発生…不正アクセスで「マイ　ドコモ」などから個人情報３０万件流出",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZHVHTVg2c1Z4UVFwcFR2S0l5SjdqTERTemtDWkptdUstLTB6YWVvdmVpc2pkZ3dld0FKQXhoTzBUTDNOY3FKM2xrQ1RjbkxoT3JxWFl0X3lJMWp0WkNvWHFtRGFXemYxZHNFMUg2eWFCNUpUU0JRUXZlNnpucVZYbGM4MjlEelXSAYwBQVVfeXFMT21WUW9EQ1lfQVJ0bmVKdlNjRTc5RnNEVG1Dd3NpVXU3akZTeWFaLVI1YXF5VmtqSjV6bnlHV2R6TWJXMGZmQWtpc1VoWDNZOE9FdnVCT0hVSFZMWEFoSGtWcm5xTWROczJkZTBweGZzd2lNdzIzSjVQQjJxWFdTVUxMTnQwWVotcDF4Uk8?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-05T19:54+09:00"
-  },
-  {
-   "title": "日本郵便、顧客情報3763件漏洩 委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42bmZNT3J0aUg1a0psZUhGZUhYc0RpbWFSUGcwcTlRTk5pTl81VFliR0MzY1BwZWxWVk9MbjczeDdPb3gtWFpVbk0tdmhsQ09LVHNEcU9OMV80NkI0N2ZIeVdNSTlOOEJJNUxicQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T19:51+09:00"
-  },
-  {
-   "title": "有事の安否確認に使う総務省システムに不正アクセス 漏洩確認されず（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PQzNfWmtQa3ozVGNKVm9Xb3FWOVdUMFF4NlFhR0JMWTJnQkgwR2NyNzkzSWRZQnZtSnltV1Y5NXptYm04M21iUnRKMmhzeEp6WV9DWWYzU1VOc1hoU1hpMjhwTmZoYzFxV3J2ZG5DWjlWc3JKWHU1Z3g4X29LajA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T19:51+09:00"
-  },
-  {
-   "title": "政府、６日にサイバー関係閣僚会議を開催",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vS2lmYjdWcnI1RWtFQ2hQUEQxcktlWjlOZVRwbmVFRWd2NlVXRXBPcTBXQkJwcWw0elY2dE5kR0lkUW04Z2tVRW82UDlJX19ZLUM1Z05HdGt0T0E?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-05T19:49+09:00"
-  },
-  {
-   "title": "カカクコム、個人情報約570万件流出 アララへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySFhiX0pFd2N1eGtJdVNCOWp0c01kd2hhZFRyN051UVBoeHRvYTJVVzdRaHFyRUpJc1N6WHVEQnhHVVNwSGJ3QmVURkc5VWlvY2hfVzRzRWdwMUVUclhoR3V3c29NNUkzQXREbg?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T19:49+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ヨーロッパ各地で旅客機に対する爆破予告が相次ぐ、7機に影響",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RV2FyVlM2bEhpTWJyRzVWOEYyVXF6eXhYbllpMkVNUlJIRTg1bElfYVROM2xvVW9uZlpHYzI5eGdVR2Y3MlIyeVllU21VY2V3Z1hjRg?oc=5",
+   "source": "Switch news",
+   "at": "2026-11-05T20:05+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHlQWl95bG1fTllNQ2NtYzVZTXZiUzZGTFhITmRITW1yVFExV0l3WW1UOU1WbDAtV3RiRXB4VXl2NmFxUTgyOW4tUkhHUXVCc1h1YU9xbU9lS2IwMEtFck1Jb09JTk9nTDhSQzltNkRyQXdBM25KaTNJT01oWDRVS0stLUFKSmc?oc=5",
@@ -519,7 +520,7 @@
   },
   {
    "title": "「トランプ大統領の合意を議会が揺さぶるか」…米民主党圧勝受けた中国の計算",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOVF95Mm5fMVFEWmltY3hTS0NtLXNHMjdNaHJ1QmhhWk9qSFh1WG54b0R1a0RKbHNBSGxKelVxNElFbWlVWDZjbm1HUVJsMDJISFNtQmZuYzM0MGpiS1U0NzFEX1JIV3PSAWxBVV95cUxQOElZRnlLNWEyY1RtYzFzTnVOYjFrTDZLNThfdU1zcHNnQkozYzIzQzNhdkZKRkRzclg2MUxfbmFRYUZwQjVfdkZxWEF1dDlCeVdHSW1DYkpnTGFyQnpMd3NWNUhBUkhuOGJNaUw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTNIBbEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTA?oc=5",
    "source": "Infoseek",
    "at": "2026-11-05T17:57+09:00",
    "topic": "中国・台湾"
@@ -593,26 +594,19 @@
    "source": "やさしい朝日新聞",
    "at": "2026-11-05T15:29+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "北朝鮮が新型対空ミサイル試射 巡航ミサイルで攻撃訓練も",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KbU56T1B4MlpNZDUtcWI4YTZUc1YwZ3NPYVdqdWZtbmNjY0pRUFp0X09jMEE1c2dIOGpoM2xCZTVVUmlsc3BUd2RfSERmdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-05T14:52+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモで通信障害「5G SA」とは？全国で通話や通信が利用しづらい状況が続」"
+    "「ドコモの通信障害、発生から9時間経過も継続中 5日11時～」"
    ]
   },
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
+    "弾道ミサイルの報道（北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイ）"
    ]
   },
   "world": {
@@ -621,7 +615,7 @@
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
     "ロシア：「攻撃」「空爆」5件",
-    "欧州・NATO：「攻撃」「爆破予告」5件"
+    "欧州・NATO：「攻撃」「爆破予告」6件"
    ],
    "items": [
     {
