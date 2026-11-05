@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:45+09:00",
+ "updated": "2026-11-06T02:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -103,8 +103,8 @@
    "items": [
     {
      "title": "バンス副大統領「大敗の理由は戦争」米政権中枢に“すきま風”？イラン戦争の行方は",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MbjlTU0UzOERkNjl0LVQ4cVVXTmJRMWY5RVZ4d1JuSWVMQXdGV3dEZi1vMFZVSVpGTkl3OXp4MEFSc1M5eUxXSnNJME5ZcGdkMl9QU3kyZjhDX1hwanJCTW5uME1tcUEtQ2dmNnVySS1Gb1RNT2xsQTBB?oc=5",
-     "source": "テレ朝NEWS",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEZzaEdBYlkyZ0taa2ZKaFVGYTl3bW9rb3FhbXliS0liSWlKdndUT2hPazl5VUR0VHExa2RNRXo5QkVPNVdOMEZOUnRiTHNINE9mV3NKMFA3RzRhUTZVOXR2Vi1zNUtGNTJ4QUR6Tk04UzhLSllXMXNvT0tzWF9tMUQ2cFRzd9IBiwFBVV95cUxQdjV6WUc2dFFiZ05DaWw1QXRFa0RvaWJmdGVOV1NVTHg2bHFzY1pFVTVBSDJxSVFMUzd6Zl9xMm9xVjJYcUdpT1pOV2hoaExQSlZCWWV5NjFjUzZMbXpabnBvblBSVW52TEpRNE9KaWMzTFI2eVBCSmIwQTFDMU45NUN1VkVmX3llQ1Br?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-05T23:44+09:00"
     },
     {
@@ -349,10 +349,22 @@
  "outage": [],
  "japan": [
   {
+   "title": "神戸市の試験放送は11月11日｜Jアラートの放送内容とスマホ通知について",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtdnl0QXA4d3NBVmpBcXJWWW1iTVZUNXU4VnBsNFJsalN3eFVzMFkxSUlTVGxKSlc0Vzlhd2o0NXd2UzFpb3BZbUh0Szgwa01QS3psTy15YUlld05jb0dN?oc=5",
+   "source": "選挙ドットコム",
+   "at": "2026-11-05T19:59+09:00"
+  },
+  {
    "title": "震度5弱の地震を想定 Jアラートの緊急地震速報の訓練 岡山",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wc21pSnFocllwRUREdHh4VFhYdzhnNHBLY3JManFhVVNHc2hYcGtySmVtM19sMXhkWWlZZjhaLTNFS0FhdHk5cnNtY2NpSGRHSHdtdUR5OEh2d3BfZ1lz?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T14:49+09:00"
+  },
+  {
+   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T03:31+09:00"
   }
  ],
  "cyber": [
@@ -387,16 +399,16 @@
    "at": "2026-11-05T22:15+09:00"
   },
   {
+   "title": "【サイバー攻撃】免許証・年収・ローン保証額も…三井住友G保証会社で最大32万件漏えい フランスでは血液バンクが標的に【news23】",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KUXJ6dGsteUYtYTJFMmxNSGExWUtRbkxtTFhBLU1nYkR4MEZPalp0cXA1OWRINVRZc3pDcnZ4VmFvWklkMHMxQjFNb2laSmNTbEpQMkJaejJhZmRJ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-06T01:47+09:00"
+  },
+  {
    "title": "フランスの銀行にサイバー攻撃による不正取引、１７８億円相当の資金流出…血液バンクで保冷庫の温度操作も",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNXRsa1YtcXVYa2FSbnV6V0NNb1RVczY5ZFFhX0U4T19YWk9iRnZVSU4xd0RzS3kzZDlaWVcxN25RWHFtNFlBbTVoOExObi1kTllOOGNaUWkxM3NJb09CZnc5OWswaDhocFhfZEw1WGJpVVJuazYwQjdBSzB0d3c?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-06T01:17+09:00"
-  },
-  {
-   "title": "ドコモに不正アクセス、「マイ ドコモ」などから最大３０万件の個人情報流出…サービスの復旧時期は未定",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPaGZ5VGduWWREeUhsZDRwcEE5dnFSWkxMTW4xV3FjU0hGeFV0M2pDeG1sem1oV1h5YkdBOHZuWEwtMEpSRTA5RGtfd1dXUnZ4dXFsbDRZdFRrMXVJcDJmZzJsWmI?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-06T01:02+09:00"
   },
   {
    "title": "【更新中】宝くじサイト 勝手にパスワード変更される 年収や保証額も漏えい 三井住友G保証会社 「無印良品」で約109万件流出か アソビューでは約1582万件流出 不正アクセス情報まとめ",
@@ -486,8 +498,8 @@
   },
   {
    "title": "バンス副大統領「大敗の理由は戦争」米政権中枢に“すきま風”？イラン戦争の行方は",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MbjlTU0UzOERkNjl0LVQ4cVVXTmJRMWY5RVZ4d1JuSWVMQXdGV3dEZi1vMFZVSVpGTkl3OXp4MEFSc1M5eUxXSnNJME5ZcGdkMl9QU3kyZjhDX1hwanJCTW5uME1tcUEtQ2dmNnVySS1Gb1RNT2xsQTBB?oc=5",
-   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEZzaEdBYlkyZ0taa2ZKaFVGYTl3bW9rb3FhbXliS0liSWlKdndUT2hPazl5VUR0VHExa2RNRXo5QkVPNVdOMEZOUnRiTHNINE9mV3NKMFA3RzRhUTZVOXR2Vi1zNUtGNTJ4QUR6Tk04UzhLSllXMXNvT0tzWF9tMUQ2cFRzd9IBiwFBVV95cUxQdjV6WUc2dFFiZ05DaWw1QXRFa0RvaWJmdGVOV1NVTHg2bHFzY1pFVTVBSDJxSVFMUzd6Zl9xMm9xVjJYcUdpT1pOV2hoaExQSlZCWWV5NjFjUzZMbXpabnBvblBSVW52TEpRNE9KaWMzTFI2eVBCSmIwQTFDMU45NUN1VkVmX3llQ1Br?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-05T23:44+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -598,9 +610,9 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
    ]
   },
   "world": {
