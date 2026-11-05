@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:15+09:00",
+ "updated": "2026-11-06T01:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -252,7 +252,7 @@
      "at": "2026-11-05T23:11+09:00"
     },
     {
-     "title": "JTロシア事業を暫定管理 大統領令に署名（共同通信）",
+     "title": "JTロシア事業を暫定管理 プーチン氏が大統領令（共同通信）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM1pTVHRZUTFGMk96Z0pWVE1qOURBeWF4LVNTV2huZ0xWY21uaTJfOXRaZHJLa2t0ejdtWHVWUmszOGVoZ2QyaGdGQU5qejRvd0VHZFlvRGxDZGtTTTExNFo0blpSRGJDOE95c2NZN3c2bVphUkpCWUgwX1ZHNXc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-05T21:55+09:00"
@@ -353,15 +353,15 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wc21pSnFocllwRUREdHh4VFhYdzhnNHBLY3JManFhVVNHc2hYcGtySmVtM19sMXhkWWlZZjhaLTNFS0FhdHk5cnNtY2NpSGRHSHdtdUR5OEh2d3BfZ1lz?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T14:49+09:00"
-  },
-  {
-   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T03:31+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "ドコモの5G SAで通信障害発生。5G SA以外のユーザーには影響なし。5G SA対応機種のチェックページも紹介",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wcHQxbEh3eUtLT3NGTTRpRUpSYmpadFg4TV85M2Y4MGx2aVVlWDdhT3k1MlN2bmh0LUZHQlpCMlpYckY5S3RPYVo1MkRmeTBlY1hTcFk4b29wdVg3ZWZIYzVCay03UmFoZkV6SmMxTQ?oc=5",
+   "source": "GAPSIS",
+   "at": "2026-11-06T01:18+09:00"
+  },
   {
    "title": "NTTドコモ、5G SAサービスで通信障害が発生",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RQTNoM2JacWd5c05SaFlnLUMzbFlCblNfS0hZVU1GaUdVN0MzUlpNQlBfWENnaUpkTUczOVljWFF1TldraUlwUkttM3Fwdmc?oc=5",
@@ -385,6 +385,12 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc25Ocm5DWVkxdUdIc0JJMm9OVUNtT0cwOTRaNk9feWNaUDdKUnZwb21UNlQ4U0NrNk5FbDFRd0R2b1Q2cnR5QkN4OHdWbERET1dZRjllNWhuUTFCenQxLTF2SnlVVjdweVZRQWZIakFuSGF4REExak1ObW1ZWGhTZHZsY1c2NmNkcTg0WUhjY0FuNkJuZmRkaTZNRVd5MjFfQ3ExbDBB?oc=5",
    "source": "携帯総合研究所",
    "at": "2026-11-05T22:15+09:00"
+  },
+  {
+   "title": "フランスの銀行にサイバー攻撃による不正取引、１７８億円相当の資金流出…血液バンクで保冷庫の温度操作も",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNXRsa1YtcXVYa2FSbnV6V0NNb1RVczY5ZFFhX0U4T19YWk9iRnZVSU4xd0RzS3kzZDlaWVcxN25RWHFtNFlBbTVoOExObi1kTllOOGNaUWkxM3NJb09CZnc5OWswaDhocFhfZEw1WGJpVVJuazYwQjdBSzB0d3c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T01:17+09:00"
   },
   {
    "title": "欧州揺るがすサイバー攻撃、スーパー冷蔵庫に続き血液保管施設も被害",
@@ -435,22 +441,10 @@
    "at": "2026-11-05T23:30+09:00"
   },
   {
-   "title": "松井証券、顧客のメールアドレス最大８３万件が漏えい…「アララ」に不正アクセスで（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XVmFkOHd2b3M0QlBBYmhfendUSHlqU01UMXVONGpkYlpWOHNQSnpINjJRTlVuYXRSelVRdXlPZE9VYkhud3ZCaXYteEVFdHFaSTJ4djN5aXpUNDNnQTFTVUxCY3BXY0EzOEFfSXFZdWNQM2g1dXVObTVtdkp5UEk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T23:28+09:00"
-  },
-  {
    "title": "アイリスオーヤマ公式通販サイトに不正アクセス 770万人分情報漏えいか",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qeWsyQ2xybGhITmlhM1ZVN3BZZ3FKRF81elg2ajhLZ1k0dktjSG1FQ2JyZC12UV84eDN2MzI2SkFqMzRaN2hKcnJ0S3VFQjdsLTB5WHNyWXBzbnZpRTg4TWRwTWdNVGFWbkRwczR2Z2ZaRzhzdnc?oc=5",
    "source": "産経ニュース",
    "at": "2026-11-05T23:06+09:00"
-  },
-  {
-   "title": "フジテレビクラブ、会員情報2万6273人分流出 アララ不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NdXN0Z05PeTF6c2ZoYTMzV1ZwNXRscHllVTRBbjE1YU5TZmIwRkZfNGRHOWY4TkVyU09iZjFuMmRFM280ZTJQYnkxOFpGS3B6WlJYZUlsTG1DMVd3SHh2QmFoUEtyX3Z6ZjduMQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T22:59+09:00"
   }
  ],
  "osaka": [],
@@ -540,7 +534,7 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "JTロシア事業を暫定管理 大統領令に署名（共同通信）",
+   "title": "JTロシア事業を暫定管理 プーチン氏が大統領令（共同通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM1pTVHRZUTFGMk96Z0pWVE1qOURBeWF4LVNTV2huZ0xWY21uaTJfOXRaZHJLa2t0ejdtWHVWUmszOGVoZ2QyaGdGQU5qejRvd0VHZFlvRGxDZGtTTTExNFo0blpSRGJDOE95c2NZN3c2bVphUkpCWUgwX1ZHNXc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T21:55+09:00",
@@ -600,13 +594,13 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモ、5G SAサービスで通信障害が発生」"
+    "「ドコモの5G SAで通信障害発生。5G SA以外のユーザーには影響なし。5G S」"
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
