@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-05T15:30+09:00",
+ "updated": "2026-11-05T15:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [],
-  "headline": "注意報を解除します。",
-  "reported": "2026-10-30T22:45:00+09:00"
+  "items": [
+   {
+    "code": "14",
+    "name": "雷注意報",
+    "level": 2,
+    "status": "発表"
+   }
+  ],
+  "headline": "大阪府では、急な強い雨や落雷に注意してください。",
+  "reported": "2026-11-05T15:39:00+09:00"
  },
  "quakes": [
   {
@@ -96,9 +103,9 @@
    "items": [
     {
      "title": "トランプ政権内で早くも「戦犯捜し」 アメリカ中間選挙惨敗でヘグセス長官交代説も バンス副大統領は敗因が「イランとの戦争」と断言",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Tl9kRWgtenBmUDBnWDJNa3FIeTdRRU1OUDZIRmtmZldmQWZHcThubkNQU0d5TXRiRUFGMEVWaEI2R3ZVdnNLQ1NsOXMwdG94LTd2cW0wajFDNGtKUldxQkFuTWN1clNxWFhqNkNn?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-05T14:24+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfOWZBNkZhOFVJVkVQcHFEdm5oLXNhZnBacElyV1BFZ2NOTl8yaW9KZXZXaXJkZS1nWDJrQnAtV19GVnVSWUdpOXlBU3E0UQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-05T14:13+09:00"
     },
     {
      "title": "共和党“歴史的敗北”なぜ？トランプ氏「ミスター拒否権に」経済・イラン戦争への影響（テレビ朝日系（ANN））",
@@ -161,16 +168,16 @@
      "at": "2026-11-04T20:00+09:00"
     },
     {
-     "title": "中共のグレーゾーン圧力激化 台湾は海上防衛を強化",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oYlM5QURSOEwtY3FXTWE0bUZoV0tWMkEzcmtTaUlwZVh1NjlhYUxnOHVoQ3RYeXNkWnlZR0QtLTRfVzQxZ2ZuOTFvNTVoYUpBeWNyVk0xQjVVV0NMa0HSAV5BVV95cUxNaGJTOUFEUjhMLWNxV01hNG1GaFdLVjJBM3JrU2lJcGVYdTY5YWFMZzh1aEN0WHlzZFp5WUdELS00X1c0MWdmbjkxbzU1aGFKQXljclZNMUI1VVdDTGtB?oc=5",
-     "source": "大紀元 エポックタイムズ",
-     "at": "2026-11-04T16:51+09:00"
-    },
-    {
      "title": "画像 | 中国の｢債務の罠｣に沈むラオス､日本の対中戦略にも暗雲､軍事拠点からレアアースまで握られた小国の現実とは",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IRjFOSTktVWpQVmdNN1ljYXRkWWRWUVQ4NkoxRVlNaVFpcjVra2QxV0R6TXFCZEIxTzdJeEI4cUY0SGQtRzJ5VWtzVEh0SUlPLTQ5cV8waw?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-04T16:30+09:00"
+    },
+    {
+     "title": "台湾「バラクーダ500」導入計画を見直し 米軍採用で商用ルート困難、代替候補に「Anthem」 | 張曜麟（チヨウ・ヨウリン） | ニュース",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qNTZSQlZ4aXFZalFhWWxBWXRmbElVTTJoWmtWTmZZNEU0X3NXTW9iaHJrbGpNNGVrT01XMDBwbHdYZXlxOUduQnpxeWxmckhG?oc=5",
+     "source": "風傳媒",
+     "at": "2026-11-04T15:17+09:00"
     }
    ]
   },
@@ -178,6 +185,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮高官が中国外相と会談 両国関係強化で一致 （TBS NEWS DIG Powered by JNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMVW5QNjZDM3Q1VG9UdXlobWZnUXlSa1owbWFybXh3dWpyY3dIeXNnbTQyeUFiempLN1JjLWhQWWRTT013clIyRTBVSF96NFo5SkFyLWJoMUhrQlQ0RGFpZlBGN2lXRk5ySUZjWmJpLWVQLWwySXptUkJGZGpXeGM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T15:34+09:00"
+    },
     {
      "title": "北朝鮮が新型対空ミサイル試射 巡航ミサイルで攻撃訓練も",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KbU56T1B4MlpNZDUtcWI4YTZUc1YwZ3NPYVdqdWZtbmNjY0pRUFp0X09jMEE1c2dIOGpoM2xCZTVVUmlsc3BUd2RfSERmdw?oc=5",
@@ -192,8 +205,8 @@
     },
     {
      "title": "米中間選挙受け 韓国メディア「北朝鮮がトランプ大統領にゆさぶりをかけるだろう」",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZ1B5UGE3bkpNTmpsTmM4NElPbGdja3NmZEhmbWh3SUNhTHV3SU5mQ0xKel9pWm1pRVA4NlNFYmE4RE1fU1M3cURMOVZ2WkdPWllsdzRYaw?oc=5",
-     "source": "TBS NEWS DIG",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9faHZjM3RCdThmOTlOblRhOEZ1bU5rc25XMGs0Sm1YOENzMDVnbXhLX3JqY1psQ2VweGpIMVcxZm9WMDA5aElDYVU1Z3JmLWNJZGMwS0FOWGRidW8?oc=5",
+     "source": "Infoseek",
      "at": "2026-11-05T14:18+09:00"
     },
     {
@@ -207,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QWkNBOXFFTXBreXo2SVB5RFlyamRZbm53WG9ES1V5czJkZTQxWWE1N2ZmRHVjeExfSUJGRXljcEJIcXQ3MVM1ZGxFUEJ4YlpFaHRHQXlLVVBneWtqTmRiRnZB?oc=5",
      "source": "読売新聞",
      "at": "2026-11-05T13:22+09:00"
-    },
-    {
-     "title": "北朝鮮 新型対空ミサイル発射実験と長距離巡航ミサイルの発射訓練を明らかに 4日の日本海への発射か",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTNIOG9UbEhCeFlUTGNjSjhrVHo3WExFZmpYTEh4MjB1ZEtJTGEzQVY1QWFwTEFzd2ZRVlJMS25WeWRDdVVJZmNEaGZYdm81X3dVbi04VjhvRFNjSnBQOU1SakhDRE1XWHVZdkdDbEd1ZEZKTF95U1RQYnhHc2o3SGdjOHQ?oc=5",
-     "source": "日テレNEWS NNN",
-     "at": "2026-11-05T11:56+09:00"
     }
    ]
   },
@@ -303,6 +310,12 @@
  ],
  "nankai": [
   {
+   "title": "【南海トラフ巨大地震】発生確率「80％程度」に引き上げ 冬に起きると危険？低体温・火災・感染症などの危険性も…専門家「避難や救助に支障」(放送局のニュース )",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqUWRKOGhYdlhPYzNhLWthOHR2VEpnd3YtNWVWN3JDZTIzM08xa3JGS0E0TnJrQ1N6c2dVSUhmMWNkZllnOUN3TXJMeHpWUEpnNDdPLTJZTkZvOUhIWVBKUDBXN0Q1RWVweVp3SEFlQmpzLWlER0E?oc=5",
+   "source": "tenki.jp",
+   "at": "2026-11-05T14:59+09:00"
+  },
+  {
    "title": "【世界津波の日】南海トラフ巨大地震を想定し避難訓練 走行中の列車から乗客を降ろし高台へ 児童ら約350人が参加 和歌山・広川町",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJOGFMdXRXUDlvTktkR0dXUVFONHptazJySW16VjB4cE9pVzBIeXRsTEt0dlI4Mk9rejdhRXVrOUpSVDloSG1qLWtCbw?oc=5",
    "source": "TVer",
@@ -331,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHNmbFJIcmpMaGVIVThnbGhnZmJTcGd6V1pFTTQ4a0xxcmhTOG9qUVFvV0JtemY4ci1BWUtmeWJTWnJ2OW15STFwUEo3SzVXNmNiOFhBeWNsUVhockJHclg4bXIxNGJ4U0hzaG1UVUdVbkRQNWxfQUNZczh3UXd1LWNsbWhfaEdv?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T06:00+09:00"
-  },
-  {
-   "title": "南海トラフ地震 液状化や地盤沈下備え復旧訓練 愛媛 新居浜",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tYUNkbi1wNVFhUFBZT0RnNGhwN083cDh5dXZNbGgtbE1JTDFxYmNjVDYwcUxUczktbXc0RWxRd2NfSTlqMkZaTDcxVFdSb0xPY21IaUVkMDZrSTRIY1RJ?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-04T17:21+09:00"
   }
  ],
  "outage": [],
@@ -370,15 +377,15 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcjNnR0t3QkZhd0ZMalUycjNhY19KZHA1Vk1QRnRVTFh1Q0FBeWUwQTRlOXk0SmI1N2lHdnFkYmNMdnp5Zm9Nd0dnRUpocmU2c2l6QlJPVlhDTnZJdlNyYzlDeVA2bl9RTWxYbDVIVlZIbENtZ2N0RVZhZWRYekk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-04T16:44+09:00"
-  },
-  {
-   "title": "北朝鮮、4日朝に日本海へ弾道ミサイル数発を発射…先月31日以来の挑発",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVUmg5RUxjbG40OTVHMFJDY2czWnA3QjFvTUxrdXByV19Ya0kyZWVvY0NyVVY1TEROVWI3YlAzek1jeDY4WnZCWXlsTUFxclBPSmR5SFdhSFNXWjBo?oc=5",
-   "source": "亜州日報",
-   "at": "2026-11-04T15:38+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "NTTドコモの携帯電話サービス、一部で通信障害…原因確認中（2026年11月4日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xSENpNnktOWNVR3d3b1FlcVZnN1lHSDc3WUdaYVAyem4zR2xZblJzRmVXQk5fQ0JvckNaQm5TTzBHNjZUNE5CZXdaZE5Sc0NQQUs4b3U1QTQtbUdERFlLQ3NSOHhPbHk4SnJ5RDVLMDlHeG5LbkRlU1duc2U?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-05T15:32+09:00"
+  },
   {
    "title": "ドコモ、5Gサービスの一部に全国で通信障害発生",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KbVVna2lGRU5tZjdLWlNLeFRsbmZnOXZaall1MTJxTTI0OVJjNFJ2dkI2TXRBVXM3WlN4WVdqSmpFd2piSzNfZjlSWQ?oc=5",
@@ -386,16 +393,10 @@
    "at": "2026-11-05T15:26+09:00"
   },
   {
-   "title": "ドコモ通信障害は「5G SA」契約者のみ 4G選択→再起動で利用できる可能性も（ITmedia NEWS）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTlNoLTV1X1JudzFmVjhOazZiMHJjWW1ERmNXdTMxdDVrRmNJdkhDQVJCWGNxMEFoZk4tMlNZSmFvc2lLUHpuclVrZmcwMnpiclNhLWhoclk2N0EzX2V2WVhrdkFFY1dQaW9XbUtEejdOQlhBMUtsamItd1hTMDA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T15:22+09:00"
-  },
-  {
-   "title": "NTTドコモ通信障害 119番通報への影響なし 110番も現状影響確認されておらず",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GaHVfU1ltNWZiQWdWQU1Vd0xLSWtIWDZXN3VpaHYyTjB1ckt2clRIeUE0cUZubDBvd1d1aVItTjNZODJKVzNwNG9OVjQ1M3E4UFU2NXU4eWctS1Z2ZmNfRjFNZHZsQmYzTlBZZFNNQ1R5OFU?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-05T15:11+09:00"
+   "title": "ドコモ通信障害は「5G SA」契約者のみ 4G選択→再起動で利用できる可能性も",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xdEhDNUZzcWhIdWhYMWpmX0ZhaDg0bXNSRTl0MFR5bkRBTVRPY1NxVTNtMkw3Tlk3U0NGQVk4WTUyWS1TRDZuaGpUTVdseFVtUGlPdENfajdTbXNmZzZUUi1acVpNMjM3SFE?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-05T15:20+09:00"
   },
   {
    "title": "ドコモ、5日午前からの通信障害は「5G SA」で発生",
@@ -410,6 +411,12 @@
    "at": "2026-11-05T15:00+09:00"
   },
   {
+   "title": "NTTドコモ通信障害 119番通報への影響なし 110番も現状影響確認されておらず",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfY2ZrSzRfLTJRSHNxWERtbmRSeDNfdDBWMU5GZ2NzQXcxbkJYVHpQTFY0N1BtckU1eGhKTTllMk0wQmhHX19fYjEwZC1aeHQxYWRYZEtpSQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-05T14:52+09:00"
+  },
+  {
    "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhOTVNX1VhSm5tVFp1bUZOUFhPRXhmbFc4VjdheXc0d2RndkRpT3cwOHFFZk1ENzV2SFB2WkpGU0FvbEsza1o2Vk5LazFZWDFGak12MHhBV1UtSDFO?oc=5",
    "source": "Infoseek",
@@ -422,6 +429,18 @@
    "at": "2026-11-05T14:23+09:00"
   },
   {
+   "title": "NTTドコモに不正アクセス疑い 「My docomo」などの各種手続き停止",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JbEJKQ1lBTFFhWGxpY0FZeG43TzRnb0RkZldnQmFnaGVXUGQ2bktnWnQtZk9uSXpCMTlsUkFuX04zYlBJU2paTXl4aUEtc1V4M2Y4a2Nsa0QyUDg4ZGNXMU4zVC0zZ1NQUjZiTmQ1QnFxSHpYU2FTUm5fd3Zwb1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T15:39+09:00"
+  },
+  {
+   "title": "明治学院大学、心理学部サイトが不正アクセスで改ざん Macに偽認証画面、旧iPhone・iPadも標的",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0RpQjlYb2xaM0lTektmdzNJY3JiTHdnbGhXbU03MTI0T01lX0NPM05CU1h5ZGtDZ0hDTTFVN1ZUc1dpY0tpS0RsTGZhNXMzNFgxc096ZS03M0VjcVk1OXg0Zk5wUHZEU0lOQzUyWUFmRVJiaGdWT05JWkwwNFVXR2FNNlNOYi1NLXRXbGlJcDNrRlRhdVpYazhDbzB0c2NkcUNKbDlkbVA0Slly?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T15:36+09:00"
+  },
+  {
    "title": "ボートレースまるがめ　メール配信サービスに不正アクセス 最大759件のアドレス漏えいか　香川",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13RVNVT2hPSm03STFWV01MWkFNQnc1OUFjM1hKVEsybU5aV2hoaG1tTTZqenAteUJuaUItNUIxQkxUZFh2T2pOdjBTX1ZhVWxOZExGeDN6SjJLVkJ1YWp2ZmhCMVRTV1NNLWhCNnJ3UDPSAXZBVV95cUxQa1dwUEZRVXpNTk1YRkFtV2N3TUg5ZkxLM09FQTlCM3lQME9QZUwtS1Y3LW9IdWlPN2Y0YWlmZ1VreFVnWVN0UnRsdTlqN2FUU1VMVlg2WEotbm12UzFUMW9naEhOalc0cTd2bkVWWnJSeG5fY2dR?oc=5",
    "source": "ｄメニューニュース",
@@ -429,8 +448,8 @@
   },
   {
    "title": "楽天証券、メールアドレス2109件が漏えいの可能性 委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LbG9TbU9obnF0OW5QdUxkc0lsYVl5T0FFZHkyYzE4a2N2R0JHNUkxdUNkQ081OFk3RWlINk1BVU54djNUNnpMZHFlaUZ3akxaeU5oWVZvcS05bUtqQzNLOFZ2MjlzX045d3Z2N2xMX1VmWklVTUJtSGlJWW5YWEk?oc=5",
-   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54dUNNdTAzbkN1TXpyLTB3RHlHNGRZT2RYNFB6MGlUZXdJSXYyNENUdjl2Z3d6dzlYMVV3RDB0Zm1qLWdTdFVSM2dlTTJwR0ZLNXc?oc=5",
+   "source": "CNET Japan",
    "at": "2026-11-05T15:13+09:00"
   },
   {
@@ -446,32 +465,21 @@
    "at": "2026-11-05T15:08+09:00"
   },
   {
-   "title": "不正アクセスで停止の「ふるさとチョイス」6日再開 まずWeb版から",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HOGYza2RnbDdOYUxkUHhFTEdyVmQ3aGFyV1ZYWmp2UkJjTmJVQkxZb3U5Q3FHV3U2VW1UM2d2MXBucVRQc0FMYzJoR1o5WEpSNC11b0FXZldwQmJJbXpXWnlWZmhwNHl0eEE?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-05T15:06+09:00"
-  },
-  {
-   "title": "IIJの個人向けサービス IIJmio、契約者のメールアドレス98万3,458件が情報流出 アララへの不正アクセスが波及、クレジットカード情報は対象外|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmc0ZVltN1JTeno5c0tLTlVCNDNhVWJqd19ZSHJ3dlhhOGUwQmtGQWJGSWNNYzJkUzFIaVJpX3gzZDVsTTk0U1VqTG9GRXEwTWc2QzhMRTdiY0NEalB2dmpHclVZOFkteW9QUnBDTlZ0NEJEdHNWd3FfRW1wN3pvaXVqeW1OWnJWVFlCQV95NkpVdw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T15:03+09:00"
-  },
-  {
-   "title": "サイバー攻撃による事業停止に備えるサイバーBCP～RISCON TOKYO 2026出展レポート",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mWGYzdnpJWTNQbjQxak10OTdqWGdKX18zUEdZQXhodWFvRE9hbWhWUzBOMWx0ZVhtR1dhcEk3R043T1IwcGN3cEZSQm5aY09XYUptaWNvZ0lSUkE1QldRYzFSUnhlWDRiUlA0?oc=5",
-   "source": "株式会社ラック",
-   "at": "2026-11-05T15:00+09:00"
-  },
-  {
-   "title": "コナカ[7494]：連結子会社のメール配信サービス提供元への不正アクセスによるメールアドレスの漏えいに関するお知らせ 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80MDN1dTUxdG0yOGpsSUNsUFJwZVpTbXR1M2NsalA0dy1VaEc2TF9vWXBHUks1dDRDMHVXYXV1clItMzAxMjloN2NaVnlHRk4zcTZiQl82elFMcFdPTERLeUNiUlRFWTBfS0E?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T15:00+09:00"
+   "title": "緊急通報への影響はなし ドコモで不正アクセスか 一部のサービスを停止 復旧のメドたたず （午後2時時点）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4Umd5cmxLRGJxcFIyaUduRjhxWFhUdlVFYU1NRDkzeFhER2dNOS1Sc0h4dzFqMUpaenk0NDhGR2tjVFVIYzNmNkFpXzItbDd5ckE4WVV1d1RjYjF6eTV0LXowQ2NjekJpQ3pQajdldUhOTmtXWnBXZFFEdnhJOGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T15:07+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮高官が中国外相と会談 両国関係強化で一致 （TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMVW5QNjZDM3Q1VG9UdXlobWZnUXlSa1owbWFybXh3dWpyY3dIeXNnbTQyeUFiempLN1JjLWhQWWRTT013clIyRTBVSF96NFo5SkFyLWJoMUhrQlQ0RGFpZlBGN2lXRk5ySUZjWmJpLWVQLWwySXptUkJGZGpXeGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T15:34+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "ヨーロッパで飛行機の爆破予告が相次ぎ、少なくとも8便に影響が出ました",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05dUxsU2V1Z1Q2SUY0ZzhGeDNza281ZHlYR0xLbnlnOGE2RmZqZWpqWDJ4QjZ5Z1FVRy1UZWI2Q053NnpWcV9tcmtBTGxUZTlyZHlyc3NKcEkxbVR3SmgwazlYLUZtMkk?oc=5",
@@ -501,18 +509,18 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "トランプ政権内で早くも「戦犯捜し」 アメリカ中間選挙惨敗でヘグセス長官交代説も バンス副大統領は敗因が「イランとの戦争」と断言",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Tl9kRWgtenBmUDBnWDJNa3FIeTdRRU1OUDZIRmtmZldmQWZHcThubkNQU0d5TXRiRUFGMEVWaEI2R3ZVdnNLQ1NsOXMwdG94LTd2cW0wajFDNGtKUldxQkFuTWN1clNxWFhqNkNn?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-05T14:24+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "米中間選挙受け 韓国メディア「北朝鮮がトランプ大統領にゆさぶりをかけるだろう」",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZ1B5UGE3bkpNTmpsTmM4NElPbGdja3NmZEhmbWh3SUNhTHV3SU5mQ0xKel9pWm1pRVA4NlNFYmE4RE1fU1M3cURMOVZ2WkdPWllsdzRYaw?oc=5",
-   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9faHZjM3RCdThmOTlOblRhOEZ1bU5rc25XMGs0Sm1YOENzMDVnbXhLX3JqY1psQ2VweGpIMVcxZm9WMDA5aElDYVU1Z3JmLWNJZGMwS0FOWGRidW8?oc=5",
+   "source": "Infoseek",
    "at": "2026-11-05T14:18+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "トランプ政権内で早くも「戦犯捜し」 アメリカ中間選挙惨敗でヘグセス長官交代説も バンス副大統領は敗因が「イランとの戦争」と断言",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfOWZBNkZhOFVJVkVQcHFEdm5oLXNhZnBacElyV1BFZ2NOTl8yaW9KZXZXaXJkZS1nWDJrQnAtV19GVnVSWUdpOXlBU3E0UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-05T14:13+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "共和党“歴史的敗北”なぜ？トランプ氏「ミスター拒否権に」経済・イラン戦争への影響（テレビ朝日系（ANN））",
@@ -555,13 +563,6 @@
    "source": "au Webポータル",
    "at": "2026-11-05T12:17+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "北朝鮮 新型対空ミサイル発射実験と長距離巡航ミサイルの発射訓練を明らかに 4日の日本海への発射か",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTNIOG9UbEhCeFlUTGNjSjhrVHo3WExFZmpYTEh4MjB1ZEtJTGEzQVY1QWFwTEFzd2ZRVlJMS25WeWRDdVVJZmNEaGZYdm81X3dVbi04VjhvRFNjSnBQOU1SakhDRE1XWHVZdkdDbEd1ZEZKTF95U1RQYnhHc2o3SGdjOHQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-05T11:56+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "ロシア軍のドローンが迫り、兵士たちが一斉射撃…ウクライナ最前線で目撃した「無人戦争」の現実（ニューズウィーク日本版）",
@@ -617,7 +618,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ、5Gサービスの一部に全国で通信障害発生」"
+    "「NTTドコモの携帯電話サービス、一部で通信障害…原因確認中（2026年11月4日」"
    ]
   },
   "japan": {
@@ -630,7 +631,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
-    "北朝鮮：「攻撃」「ミサイル」5件",
+    "北朝鮮：「攻撃」「ミサイル」4件",
     "ロシア：「攻撃」「爆撃」4件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
