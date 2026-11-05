@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:15+09:00",
+ "updated": "2026-11-05T13:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tNGRRbC1YWHVqVFE0ZUVUQlFkNE9RcGhDNXNsSEIyenZrLU9QbkRnd29JSWo5Vnk2dEpDM1NyR2JQQ01yQl9MX3JzTTFtUjJSTk1HNndlQ3dfT2NOQmxzaWphUkRXN29BY3JrQzR3?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-05T13:22+09:00"
+    },
+    {
      "title": "北朝鮮 新型対空ミサイル発射実験と長距離巡航ミサイルの発射訓練を明らかに 4日の日本海への発射か",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTNIOG9UbEhCeFlUTGNjSjhrVHo3WExFZmpYTEh4MjB1ZEtJTGEzQVY1QWFwTEFzd2ZRVlJMS25WeWRDdVVJZmNEaGZYdm81X3dVbi04VjhvRFNjSnBQOU1SakhDRE1XWHVZdkdDbEd1ZEZKTF95U1RQYnhHc2o3SGdjOHQ?oc=5",
      "source": "日テレNEWS NNN",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95akF1OHhmaUQ3aDJWSzZtbzJGTzhjVFd2QmdoLUc4djlQRlZralFlS2RGZ2dDNUpGWlRZUTJ4LUZkWklBZGFtRklwa1BoSkhtaUx2aWFXSGsxc2JiVHpYeW1GOUxoWDJvT2pWRA?oc=5",
      "source": "日本経済新聞",
      "at": "2026-11-05T11:22+09:00"
-    },
-    {
-     "title": "北朝鮮・金与正氏、平和を守る選択肢に「対話」…米に敵視政策の撤回要求、核保有国承認は明示せず（KOREA WAVE）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZmVnZ2dMZnZiYVViZ3lTVTJ6dm5SdHo4OVZ4UHZ3d0xUQUpJSXJYYlRSUThCZVpPYkVIT0otWkFSWVV2YTBqQnJ2OWZjNV8wbjlHdDdjNnNhSDU5ei1BZTlfSUs0aTlRN05haV9yUHM5X1FBVWJTUEZEdEhXV3c?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-05T11:12+09:00"
     }
    ]
   },
@@ -368,10 +368,10 @@
  ],
  "cyber": [
   {
-   "title": "ドコモ、全国で通信障害",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hU1FJdWI1YmZWc0dZRmNwNGVvcnVuR29EelhOWTVhczBTeDhjcnR6bEcydHJ0YXNnS3JmRjZnYTE0anYwUE5RWjJIM2ZxNDYtbVFVa3hwSVJ5a2c?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-05T13:12+09:00"
+   "title": "ドコモ携帯 全国で障害が発生",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHeVg0RWZOTWJHc3hQUDVqbGpSZUlpNGR1YlJqUXlMWVVpQmtzSGVuTnBRbG1sYzI5Sm9JUENLSDlJSDhPclY4a0s2dkpBSUNt?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T13:13+09:00"
   },
   {
    "title": "NTTドコモ、全国で通信障害 音声通話やデータ通信に支障",
@@ -380,9 +380,15 @@
    "at": "2026-11-05T13:06+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害 オンライン店も一時停止",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tYmxrZ1J2dHhodENELVlmRXc0Njd0YTdocUFrRnQ1VEI1VkdvbmxRUllNX1JlWm9QWllKOGpNb2pEalBYUUVYM2lnLVhsWTM1X3UwNmp0SFp5amJT?oc=5",
-   "source": "琉球新報デジタル",
+   "title": "ドコモ、全国で通信障害 オンライン店も一時停止（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBVlgtdjVVdFpYN2ttb0dkLVh3V3U4TEtQUk5zb09WcGFyalVDMWlhekJQaDlpTGlFdXQ5blZjLVQ3bEVPZUNpclYzN0l6WVAtUUoxSWhGcmJ5RmxrRkdPc1I3T01PN0lVX1hhYzYxVi1oMEpuakVCVmVkVERfSGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T13:05+09:00"
+  },
+  {
+   "title": "ドコモ、全国で通信障害",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HaWlDcEhZd2IxNlVGN1htWmJ5eGw1R3FOMVJ1NTI4cVpYY3BmdUpJR25NUkFWODlXNU9rc19TQXNtckFRLXN3Rlprc0tnUVFoTGRkam9va2pLQQ?oc=5",
+   "source": "中国新聞デジタル",
    "at": "2026-11-05T13:05+09:00"
   },
   {
@@ -393,8 +399,8 @@
   },
   {
    "title": "ドコモで全国的な通信障害 音声通話・データ通信・SMSが利用しづらく",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9acjgwLVoweGFIVDZ1YmppSDBuRHBqTS1Vek4yYmJhWnpZRFRuNVI2WVpBNFNtSHQ3eXNuUzBUMFNmUEh0bWFPNWZYWC0zNGJOalRSYkw0QWpGY0MxMjI5UUpwY3R5elpqVW1rbmZiWHVaRXl6SXpoekFBLVN5Rlk?oc=5",
-   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51WUlieWxNNnJmallQV1ZTTnRUbEs5aUFBaGlMSzRiZUk2TUVmRFZHeVhCQWEzb1FONk1xbnZiQlNvVTd0bGVwNTFIdl8xdTJvYXc?oc=5",
+   "source": "CNET Japan",
    "at": "2026-11-05T13:03+09:00"
   },
   {
@@ -428,38 +434,39 @@
    "at": "2026-11-05T12:26+09:00"
   },
   {
-   "title": "NTTドコモ 不正アクセスの可能性 オンラインショップなど停止 影響について現在調査中（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRN0tXSE9wX2dPdEF3LTctdFBXdmpGTHJndVkwTjd6YmxVaDJZZzBBYU1zdjV4bFpfVEY2bWRMU2FkSXQ5MHNOMWtKbUt4Ri1WMkowRFRqU1VEY0FCNWc1UGZaalFKTGt6NU90d2ZwTkx1dFZIRkhzUE9RNm1Dakk?oc=5",
+   "title": "相次ぐサイバー攻撃に対応　政府が「救援組織」設置へ",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNE9idGp2QnhXV1JMY2VFdkdNbXAwVzBCQ0lWcDRvOURkZ0FCS3VqNEh0Z1V2TUZXVmxQS2dNMURfT0RtV1Nvb3AzMnhUU1JLU28yZDJOSVptVW5IZlBkTWdOT3k4QzZ4djctLWdhcDNYTWtFa2xucEp3T2NiVDNhNzItdTdwd2JsUmZ4YUk0MUs5SEE1WFF5dHUwU2rSAY8BQVVfeXFMTkcwdVNnd1ZqOVZ0MXFBcWVOU3ozLVlmWFYyWnJqNUNWN3ZscUU0YU1QWVAzR21uR0J0RDMwcFFqNFJjLTVpcUc2NmlHVFJFTzBHSk1VN29qMHNRb0QzNUZOc0JlY1J5NjlwXzBxdUFqX0JjN0VLVDJSZUp3eFVlQjMtaEFRRzQ4TS1VTXlpSDg?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-05T13:17+09:00"
+  },
+  {
+   "title": "サイバー攻撃を想定 市役所のPC一斉シャットダウン訓練 相模原市（tvkニュース（テレビ神奈川））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TSWx1cnZfLUxuZzNVSlZ3WjZqd2NoanR1azl4eFZ4bWY5QjNkZlV1V2xvZ09SalpkWTh0cmdzVnVUVFFGNXVTTUlqVGNNUk5VNjlLZUNLRFZDLVlrNlVCQWVyanV2VXhrdWpSWkY0dEozUmQ1LU1ZZW9heHo5bmM?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-05T13:01+09:00"
+   "at": "2026-11-05T13:16+09:00"
   },
   {
-   "title": "フランスの銀行にサイバー攻撃、約177億円規模の不正送金 外部委託先経由で侵入、顧客預金に影響なし",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUZyLXlRSUwzZGU1RHh1TnEwekRpWjJ2aDZieThfc2FyV1FzTWF3NE54YW5PUDJ4azlCYlZ3NWR0RXZMYjFHNGNROGR0MFJENHVzNDdQWXZjNTVmNFFrZUFGUm1zQmYxNnJJbk5zOWx0QjR2MmIzazFqZ2FveEN2N2pfZXRBMWV4YUlKb2pGbXJUOTlrS2ZWRVl4ZE1HRm1TTzBlcXh3?oc=5",
+   "title": "インテージ、アンケート調査システムに不正アクセス 回答画面・関連サービス停止、個人情報漏えいは未確認",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1lldHNrMUJRME1EdUItQWQwVFhVdDlUQTRxeXA1TFNvQk1QNUhKcnJCUHZ2UW0zSVY5MGRRYlhadzNmMzJ4RE5YRktMMFZuZURPc1JyZlM2N0U4T1F2ZnVwdWRaZTFJaUZ0OXA1WElHTE1RMjdZRFFiM1JRSDZUYlh4eWNzUE50Z3B4V1hUeHpFWTVCelZVdXlaYW9PR3M?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T13:00+09:00"
+   "at": "2026-11-05T13:15+09:00"
   },
   {
-   "title": "トレードワークス、岩井コスモ証券の不正アクセス第3報 管理機能の設定不備を認め、検知5分以内の連絡・15分以内の判断を導入|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnY5R0RwVHB1cHI1OTJkdmwwZlczSTJlVk45VUN2RjhZTlVMN01QMkxkbjRWZ0tObnAtOEc3bHA3RHg0dk9UTlp4VDVxenZxcHNydUxzbGV1dlNWTFdsTU01cFBManExVjc3UVV4akJxN2FCdDFTdldYdlhWa1hySVo3bkdwOXpacFNWYzVUQklEb1pQSWtqSHhUVExiQQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T13:00+09:00"
-  },
-  {
-   "title": "「My docomo」「ドコモオンラインショップ」が緊急メンテ 外部からの不正アクセスの可能性で（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzTkh1S1NSQjM1V3JzU3JLWGtHazkzYnZvR3A1YnBpV2gtX3Q4eVlWNW1VMlJFa0p5NkxUa2VBZUt1ZnFKV1dVbU9pOV9hLUNTOEhjUEFZMVV4V2EwcHpYa1NSOVBrZXloa2c?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-05T12:55+09:00"
-  },
-  {
-   "title": "ソラシドエアで顧客のメールアドレス４９万件が漏えい…「アララ」不正アクセス、被害の情報は確認されず（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QX2NFSm5qQ0hOSkhoTU1PNVR1LWRaY3R6VzV2Ukx3STk0a1NNY3pISG54UzhUMjBBdmUxXzY3WFlmaVR4Q3RIajgwb0VEbkNuQlItdU10eFNpSmJsS01wUkx5QXEzVmlMejVGY1BrR1R0UkJZeVprM29UWjYzUHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T12:52+09:00"
+   "title": "NTTドコモ 不正アクセスの可能性 オンラインショップなど停止 影響について現在調査中",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uZUo2MWdsQ0Fza3cxaHRMTHRSa0pvYXhqaGRKSVpkYlZQWk45WUxaVjlDcFBEczVhZjBYOVNzR3RwZnNmaHJCVUJWeEJqeGg0Rm0zSjgxMA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-05T13:02+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tNGRRbC1YWHVqVFE0ZUVUQlFkNE9RcGhDNXNsSEIyenZrLU9QbkRnd29JSWo5Vnk2dEpDM1NyR2JQQ01yQl9MX3JzTTFtUjJSTk1HNndlQ3dfT2NOQmxzaWphUkRXN29BY3JrQzR3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-05T13:22+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」（BBC News）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16UlIwU2dtRGRraURNTnJpcW4wMVNka1diVkdITkJ0SHl2S2hJakZGZ3l3czJTVUQ0U0Z1YzJMenVFa01tUWo1U1ZDcGhKLV9NSkl2bHZncHlpUXdpNzVSTnJRakdhSGcxemNxR1YyZGdwUUtVeUxNRjF5TDhGcFk?oc=5",
@@ -552,13 +559,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮・金与正氏、平和を守る選択肢に「対話」…米に敵視政策の撤回要求、核保有国承認は明示せず（KOREA WAVE）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZmVnZ2dMZnZiYVViZ3lTVTJ6dm5SdHo4OVZ4UHZ3d0xUQUpJSXJYYlRSUThCZVpPYkVIT0otWkFSWVV2YTBqQnJ2OWZjNV8wbjlHdDdjNnNhSDU5ei1BZTlfSUs0aTlRN05haV9yUHM5X1FBVWJTUEZEdEhXV3c?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T11:12+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "米と欧州、ウクライナが復興・戦費を協議－ロシアとの会合控え",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzlMY01YdnR3WUhrWjNBcDZqNDllOEQ1N0FITWN4Mk9iRXNyd21nTHJTUW1Fa00zM2xyV3g3Yi1sdXNkbmZDbHdzZFM5MU54bF8tQzBSWjZJWEZrVUhTUnVDcFUxSXNELTliM09NM3VxdEtHY3lzVXFGMzJTT200RUJWZ2l5dG9rZnZPeFF3?oc=5",
    "source": "Bloomberg.com",
@@ -605,7 +605,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ、全国で通信障害」"
+    "「ドコモ携帯 全国で障害が発生」"
    ]
   },
   "japan": {
@@ -618,7 +618,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」3件",
-    "北朝鮮：「ミサイル」4件",
+    "北朝鮮：「ミサイル」5件",
     "ロシア：「攻撃」「空爆」4件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
@@ -630,10 +630,10 @@
      "at": "2026-11-05T12:17+09:00"
     },
     {
-     "title": "北朝鮮 新型対空ミサイル発射実験と長距離巡航ミサイルの発射訓練を明らかに 4日の日本海への発射か",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTNIOG9UbEhCeFlUTGNjSjhrVHo3WExFZmpYTEh4MjB1ZEtJTGEzQVY1QWFwTEFzd2ZRVlJMS25WeWRDdVVJZmNEaGZYdm81X3dVbi04VjhvRFNjSnBQOU1SakhDRE1XWHVZdkdDbEd1ZEZKTF95U1RQYnhHc2o3SGdjOHQ?oc=5",
-     "source": "日テレNEWS NNN",
-     "at": "2026-11-05T11:56+09:00"
+     "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tNGRRbC1YWHVqVFE0ZUVUQlFkNE9RcGhDNXNsSEIyenZrLU9QbkRnd29JSWo5Vnk2dEpDM1NyR2JQQ01yQl9MX3JzTTFtUjJSTk1HNndlQ3dfT2NOQmxzaWphUkRXN29BY3JrQzR3?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-05T13:22+09:00"
     },
     {
      "title": "残酷なロシア、救援物資待つウクライナ住民を爆撃…33人死亡（朝鮮日報日本語版）",
