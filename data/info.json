@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:15+09:00",
+ "updated": "2026-11-05T22:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -144,6 +144,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
+     "source": "TradingView",
+     "at": "2026-11-05T19:39+09:00"
+    },
+    {
      "title": "「トランプ大統領の合意を議会が揺さぶるか」…米民主党圧勝受けた中国の計算",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTNIBbEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTA?oc=5",
      "source": "Infoseek",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmtkRVJGbmMwZFdKbjdtWjZWTUZIdmlWTFl2VzVuNk9GMUdPX3c0RVBlTkxFWUktLUdkbWlQYzYxZTI3T25sbkdyMkh0ZktHWEZDRXpCTVpBWnVCOTlQY013NzZFYnRMSWZFU1ozX3VNbjRRMlJzWDBVTnN1aG9ZeDFweGpfMmF4RWtaYXRn0gGOAUFVX3lxTE5Wa2RFUkZuYzBkV0puN21aNlZNRkh2aVZMWXZXNW42T0YxR09fdzRFUGVOTEVZSS0tR2RtaVBjNjFlMjdPbmxuR3IySHRmS0dYRkNFekJNWkFadUI5OVBjTXc3NkVidExJZkVTWjNfdU1uNFEyUnNYMFVOc3Vob1l4MXB4al8yYXhFa1phdGc?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-04T20:00+09:00"
-    },
-    {
-     "title": "台湾「バラクーダ500」導入計画を見直し 米軍採用で商用ルート困難、代替候補に「Anthem」 | 張曜麟（チヨウ・ヨウリン） | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qNTZSQlZ4aXFZalFhWWxBWXRmbElVTTJoWmtWTmZZNEU0X3NXTW9iaHJrbGpNNGVrT01XMDBwbHdYZXlxOUduQnpxeWxmckhG?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-04T15:17+09:00"
     }
    ]
   },
@@ -355,12 +355,6 @@
    "at": "2026-11-05T14:49+09:00"
   },
   {
-   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T03:31+09:00"
-  },
-  {
    "title": "北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイルの可能性」と韓国メディア アメリカの対北政策転換狙いか",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzEtT2ZRUElOZFJYX1lwUE0tTXZTZU42MVVJaExRRzFBa05Ia2t6RVVQTUMtUklwMmJiYnJsOEExT0xlNUttZFBKMmFVbHpRZnV4aWtGcTZPRkFrUHo0TGRUajZCTThFYUU1TDRB?oc=5",
    "source": "Excite エキサイト",
@@ -369,16 +363,58 @@
  ],
  "cyber": [
   {
+   "title": "「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oUUtBNEdQVUg3T0V2cUwzZHp3SkcxZk1hUk9MMk1IQlVfNXNEU1h4VUN2MUp6ZFlQb1JDUWJjeUZucmdkbHhMVk91VmlFcXFoVzFUU1ByWU8xYlQ4Y3dkV3NUUXFTNEE?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-05T22:26+09:00"
+  },
+  {
+   "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91Nkt0czc3ZEloQmFFZXVjdDQ0QldpT2JEMjhHNllvX3A0RXV0cVdqbUhOeWtENWVmMTNjTDdZOTc5aDBVNzFqWWFiMGFjSkI1NmZFTWdCRUEyRkJ2RG9Z?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-05T22:15+09:00"
+  },
+  {
+   "title": "ドコモで全国規模の通信障害。5G SA契約者に影響、4Gへの切り替えで改善する場合も",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc25Ocm5DWVkxdUdIc0JJMm9OVUNtT0cwOTRaNk9feWNaUDdKUnZwb21UNlQ4U0NrNk5FbDFRd0R2b1Q2cnR5QkN4OHdWbERET1dZRjllNWhuUTFCenQxLTF2SnlVVjdweVZRQWZIakFuSGF4REExak1ObW1ZWGhTZHZsY1c2NmNkcTg0WUhjY0FuNkJuZmRkaTZNRVd5MjFfQ3ExbDBB?oc=5",
+   "source": "携帯総合研究所",
+   "at": "2026-11-05T22:15+09:00"
+  },
+  {
    "title": "更新：ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には不正アクセス疑いでMy docomoも停止",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Rl91dHVTUW9Kb2ZEbEpjNVJoZTdHcTIwanlfQWxPcGlmazhjQWhQMkhkV1VfNGFMcVFfNXpVUzlsWWljeHdTRnBFcTBtcFdUV3pOVktCU0JCUjZFc1FOaUtSbmtpc1U?oc=5",
    "source": "テクノエッジ TechnoEdge",
    "at": "2026-11-05T20:45+09:00"
   },
   {
-   "title": "ドコモの通信障害、発生から9時間経過も継続中 5日11時～",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tS1ZzdFg4YUVzWFR5N3RuNnJyOVAxN2NuQzhkMk5JdFFSbGQydURPOVM4Uk1QY1B5VGtqdGRyZGYzMkJYYk05N0s4dEFCNnk1OWkxS3gtcWRZZDA3bWlRZjRvX3dheDg?oc=5",
-   "source": "ケータイ Watch",
-   "at": "2026-11-05T20:21+09:00"
+   "title": "相次ぐ不正アクセス対策で予備費支出へ 政府",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXTFZRX0tmejlVNWxHWXdpYzRVc1pJdnlPbkI1V0s4VVdIbjNHMjlHSGRhVUVMZmsxTl9qVFZHcEVKTzBGM0VhN1Z3SWZSQ1VlRUNpeW1ZQ1JwUE85MHBZ?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T22:29+09:00"
+  },
+  {
+   "title": "NTTドコモで約30万件のユーザー情報が流出、通信障害も5日22時の時点で復旧せず",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yTS1YZEY0cHBScU9iQWpBdVp1ZE1JT2QwSjRqclowVVUzUGc4QjktSVluQ3lrN3ZwT0ZIU0dKUllrUlBsc0FoV19uZjdYZG1IYWd5RGJjQ2N3QnNGMkVaZA?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-05T22:21+09:00"
+  },
+  {
+   "title": "東京海上ダイレクト損害保険 不正アクセス受け 契約者の証券番号や車の情報、口座情報なども漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IVTlLUkh5NV80M0VxQTBFZ1hoYzA1YzQycVpXOGFlTXlNZGJIZ3ozdENWN0hzcGFxYjJzRUExSE5CNS04LUJEdlVrTDlpMWhZYzZOVzBLSFdYcm44aElMVlVnX2dGb01jY1ZROW1WSl85Z3EtR3B1TEJPWnZRUVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T22:19+09:00"
+  },
+  {
+   "title": "NTTドコモ 不正アクセスで顧客情報流出 携帯番号など最大約30万件（2026年11月5日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTQVNBRUxFdXYyZHZDSG54MWRkXzdXZDZiSml3b2pDalZYQnd5UVB4c0hiNElWV1lESURkTXFSUmhMWkdSMmlYMkNqTF9iS1JiR2FFaE9WTzdiai1iaDV5RVJEOGVld1ZzUG44a2gzbjZnR0FULXgyUmd5VVU?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-05T22:18+09:00"
+  },
+  {
+   "title": "アイリスオーヤマ通販に不正アクセス、最大770万人分の顧客情報流出か",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaQXV1WjJOa29ueDhzMDRZWU1TMzVXOTliNTZtd0ZqZzU4Q2p6MU5YY3J4M0xOV29MOE43Wm9VV19aQmhLU3QtWGZIRlYxTkJ0UWNiWHBPZVcxUnQzbmFSWlk0bVk4TmlpZWdQaTEwUzRrU25U?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-05T22:05+09:00"
   },
   {
    "title": "小田原市立総合医療センター、小児科の予約システムに不正アクセス 個人情報漏えいの可能性",
@@ -411,52 +447,10 @@
    "at": "2026-11-05T21:47+09:00"
   },
   {
-   "title": "「『アクセス・無害化措置』を含めた措置を戦略的に」 不正アクセスによる個人情報の流出めぐり 警察庁の楠長官が全国警察の本部長らに",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GOVZFTHQ3SGFQVkl4aWtMY1dTTGJxX2RDYUI4Sk55bHhGTWxzYTQ4bDU0NjZKY0o3aFh4T0lYMW56MEV6ZzVsQWlKOWRFSkVWSVFZVVRQTQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-05T21:43+09:00"
-  },
-  {
-   "title": "北洋銀行カードローン利用者の個人情報漏えい 保証会社への不正アクセスで年収や顧客番号など",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRzduYWlwZzhqdmh6YlFCcUxpdnhZQlZpM0xWMzZTVThMb0Jjd2dyUlFEdkQzWVM1V2hMYTgxeExaMWpjQnZXUGllT2tKcHk3aGZXY2ZzMi16WjJQeFpMc3ZWd01DV3IxYm1JcF9aUzdLb1N1eFNqTU5rUFJob2s?oc=5",
+   "title": "「『アクセス・無害化措置』を含めた措置を戦略的に」 不正アクセスによる個人情報の流出めぐり 警察庁の楠長官が全国警察の本部長らに（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwSUhidF9XcEgzeGczR0g4bEU1VFAtODEwTDdEOWNoZlM0MlVZeS1aNTJvTjR4VWlpOHVERUJwVjkzSnZsbFYyWXJPSUY1aDVZNXRGWUNxUGFYZ1MzSVpvODJGN3VMZEJWOUkwcmtyNktwT09qNzhhMHhDWE1zSUk?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-05T21:33+09:00"
-  },
-  {
-   "title": "総務省消防庁「安否情報システム」に不正アクセス、サービス停止中",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hc3NtZVhPX282b0Q2WmZWVi1XNE5hUnBwN3pMOFZaWUhFWHV4U2NDdmc0a1lCZERndGhNUDVnT0I0Q3M3M1hZZkJiMHdWODFBX1JsQlNUYWktWnpLd0E5UzE4TmZBTFZFX3ZR?oc=5",
-   "source": "INTERNET Watch",
-   "at": "2026-11-05T21:31+09:00"
-  },
-  {
-   "title": "フランス血液サービス機関の冷蔵設備がサイバー攻撃、ハクティビストが冷凍設備を標的に",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50bkVlZ25JLWk1c2NLbzFvMzN0V25BRGdPTHBia3FaZXRST2RuNFUyeGdwYmhzaE5ZeTZvRXVCdUNobE9fbmQtSUtHVktHMG9OYXlJOTZtWEtYd1dhaFU2SS1Ya0JqcXZZNmQ0bVZ3c2pBYTJ4?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-05T21:27+09:00"
-  },
-  {
-   "title": "「防災ゆうストレージ」で情報漏洩疑い、アララ不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lTXRzWG9meVZzdzVqNWR0S1FjUFZGQzJtakR1U2V4N2U4Q1U1eDhtQXFxb3AxSkFhMkQtUVA1cTRiSmEyYXhMTVZYYnduTzRrQWExX3ZGX1NXVUN4bjZiS1dCWmZaaFAwdjVuUw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T21:20+09:00"
-  },
-  {
-   "title": "【速報】ドコモ 不正アクセスで顧客情報 最大約30万件流出の可能性（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRjUzUHIyRHNYYWFaU3U2S2FGMnlXWFhjUWFfbW1VSDkxNXZxUWtXM2ZPUnRUTDFHNWZhalZTNjBoSG45M2x6YUt2VGxRVVdYQXd1SUxjcjc0bEs3c0JKRU82ZVRJemhlazFxN01aY2RMc0xhSS0wY2JaTGhCeFE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T21:09+09:00"
-  },
-  {
-   "title": "近鉄不動産、資料請求者らのメアド4万9213件漏洩 不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Bek5PTWZEdXFwVWNZV0R1ZC1yMDhqZjA1NG9Pc2ttUjdFZUwybUpFSFhsYWcwY2JORWpGcmpEQ19VSTJVRTRfUHN4UF9JaFNVeldUX0lyYk5NYXE2ODBncGk1U0FKajRzLWxsdQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T21:03+09:00"
-  },
-  {
-   "title": "消防庁、武力攻撃時の「安否情報システム」に不正アクセス 富士ソフトが運用保守、サービス停止で懸念される危険性",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMG9uc05GaHJzM1Bna0dWWTRTXzFIbFNQYzROVWF3ZFIycWsyd2dpMGN1eU5HNXRuSWZsaXRucHQ3bUMyRjR4cHRUU0JYbHdXVEJfUzNPWTk1SGRGWVdkclA0N1pkNFZYQ0RJdTNrVThJbUFDOFhmYmtxbUloSTBGT2FFc3VHUVZkTTJ5ZnRPTGhOT2R6V2FSbmw1SmtUS1B6MFNKbGRn?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T21:00+09:00"
+   "at": "2026-11-05T21:42+09:00"
   }
  ],
  "osaka": [],
@@ -509,6 +503,13 @@
    "source": "au Webポータル",
    "at": "2026-11-05T19:42+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
+   "source": "TradingView",
+   "at": "2026-11-05T19:39+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "イラン戦争の専門家：最も危険な8週間が今始まる！｜ロバート・ペイプ教授｜The Diary of a CEO",
@@ -593,26 +594,19 @@
    "source": "TBS NEWS DIG",
    "at": "2026-11-05T15:35+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "ヨーロッパで飛行機の爆破予告が相次ぎ、少なくとも8便に影響が出ました",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05dUxsU2V1Z1Q2SUY0ZzhGeDNza281ZHlYR0xLbnlnOGE2RmZqZWpqWDJ4QjZ5Z1FVRy1UZWI2Q053NnpWcV9tcmtBTGxUZTlyZHlyc3NKcEkxbVR3SmgwazlYLUZtMkk?oc=5",
-   "source": "やさしい朝日新聞",
-   "at": "2026-11-05T15:29+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「更新：ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には」"
+    "「「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況」"
    ]
   },
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
+    "弾道ミサイルの報道（北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイ）"
    ]
   },
   "world": {
