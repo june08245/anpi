@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:30+09:00",
+ "updated": "2026-11-05T23:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,8 +228,14 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア、JTの現地資産を一時管理下に プーチン氏が大統領令に署名",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3RzUGJpSGRFNXlHY1F3bVRiTEMzQnZqdUZnWlJCbXp3anU5Tl9zRXE5X3JLZjd1ZTBHeVlYOC1lbVR3Zmw0S0c5dzdLWXgtcTBOM2tadEJRdWxaZ1E0Ni1zSGZvbVE?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-05T23:30+09:00"
+    },
+    {
      "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhS2NjRlpaai16RU9ReUo2dTk4QjBmY2lzZGczXy1wSnBjNHJnVm5TWi1XWUFnY3VXQnVXWlhOUGNFMXlZMEZySmtQNngwWWhnYlBsTXMtZDAtVUN4TlBlTUtpdk5sM1U?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQ0RGTE94Ui1pRmlOLWJ6a1FGc0EyVEdaYkZkdUhhNDJOOUNhZjFZU3hvUG1mLXZOcXVLdlM3c1EwRW1WSWp4STRIbFRudlNLQVRjazlZdUZjSDhpREY4N3pwUkNUSTR0?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-05T23:12+09:00"
     },
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVlg3RUFLZGhWMVhNV19OcGc3c3d0QWh6QmN2UU9pMktCc0RVZ1FZcFg4Tm9Rd1BmOTVqazlJTGp3aGZyZk43NmxzU1JtTnM5ZTRlRXdQNXRRLW1kUDJB?oc=5",
      "source": "千葉テレビ放送株式会社",
      "at": "2026-11-05T16:03+09:00"
-    },
-    {
-     "title": "救助中に再び爆撃が…ロシア軍がウクライナの配給拠点を空爆 40人死亡 - 【アベマ厳選】注目の最新&独自ニュースをチェック! - 厳選 (ニュース) | 無料動画・見逃し配信を見るなら",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNGE1NFpjR3IwUXdXTFVFT2VYMHJadzdmbVF2ZUpJdGRGaU5SZjRjRHJORGVxb0pDMUZQTHBQRE1GSHhUdk0yTjJyZi15cjFZZjc0cUtlOUgtR0lUMEFiUUdXSkI2NG9lLVZuUmtNM0haUS1ZTGVWMjY5R1h6YThzcjNRdEVER3NidUE2WV9LaEw2ZDdHYnM3d3QzZWNrWkI2WXowSVZmNEdFdzBuQ0dzMWhFbzI1WWJNUFQ3VktqdzlJMHMyNFBkMV80TjdBTnBENmFCWHY4UXM4UkxyMXBQTUVndjZ5Q3k1?oc=5",
-     "source": "ABEMA",
-     "at": "2026-11-05T15:59+09:00"
     }
    ]
   },
@@ -353,14 +353,20 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wc21pSnFocllwRUREdHh4VFhYdzhnNHBLY3JManFhVVNHc2hYcGtySmVtM19sMXhkWWlZZjhaLTNFS0FhdHk5cnNtY2NpSGRHSHdtdUR5OEh2d3BfZ1lz?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T14:49+09:00"
+  },
+  {
+   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T03:31+09:00"
   }
  ],
  "cyber": [
   {
-   "title": "「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況（ケータイ Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YkVfUFVXRDZ4c1lsMk9FMG91US1ORC1Ea25zRy1Wek1UaU52RzItNGVvNGlPWWJVbno2blZqSXNTSmd1X1FvXzJuVWJOd1hVOTVVcG04RzdjcHNwMTZIQjB5dGExZy1IRTFBLVhlS3pROXNlN2pmRTZEWEFSRVk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T22:56+09:00"
+   "title": "NTTドコモ、5G SAサービスで通信障害が発生",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RQTNoM2JacWd5c05SaFlnLUMzbFlCblNfS0hZVU1GaUdVN0MzUlpNQlBfWENnaUpkTUczOVljWFF1TldraUlwUkttM3Fwdmc?oc=5",
+   "source": "blog of mobile",
+   "at": "2026-11-05T23:39+09:00"
   },
   {
    "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
@@ -375,16 +381,22 @@
    "at": "2026-11-05T22:15+09:00"
   },
   {
+   "title": "国民の安否を預かる消防庁のシステムに不正アクセス 委託先の報告で発覚、停止中（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZDRBV1hEZEZZcVoyaVNSYmwyNDhUUk5yY2xpTlJWNjlTeDhzZ00xTURxdkR3X1BoeUR0enZUUzFGcmp4TVlsd0RFQkdXZTVVVWdUdmsyMnA3WF9fQVFqN0ZiWTZqeE1JV1NQazVTbjdPNmlpdlBHWEdtWHdid2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T23:30+09:00"
+  },
+  {
+   "title": "松井証券、顧客のメールアドレス最大８３万件が漏えい…「アララ」に不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81TXg0ZEpjUEhfX3dnWlBlbHRyMllvd0RhMkJ4VVFDWHNGYkNBSHRxcGRieWJwcEhrcmlIeEtSMDhzYU1BX3FIaWx4THBaamJEbXBVVUZOb19YVkgzQU8zVTRoeGg?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-05T23:27+09:00"
+  },
+  {
    "title": "北洋銀行のカードローン「スーパーアルカ」利用者情報がカードローン保証会社への不正アクセスにより漏洩",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTVFHMzI0Y3lRa05GejBnNlg4VzJKYUlmeFAzb3FxNVN4NENfTnZjamJZY2J6YzlYTkhaZG52bVJwVXRTdXF5TVEwWFFQblQxeWFWVTU3NlFtVnJQSTliWnJZTHNHcnFBVVJ2Z192aTJncHpxZjdCaDAySGhENGs?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T23:26+09:00"
-  },
-  {
-   "title": "国民の安否を預かる消防庁のシステムに不正アクセス 委託先の報告で発覚、停止中",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05d29BeG9IR2ktTDJaOEVnNklaUjI0OUtNWnVmWDBkMDNlQVhwejV5cm9iY3JIbFBEUkJoUXNxekN2Zmk2d2FBUFBWbnV1S3ZXMGV3?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-05T23:18+09:00"
   },
   {
    "title": "アイリスオーヤマ公式通販サイトに不正アクセス 770万人分情報漏えいか",
@@ -439,19 +451,20 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LT2hWWWJDbnJSZkFZLTlsYi15VzdDM0UxdE5WcG44NDBOeFBET0NtMTNKdFB6aUJRTFY1OWNOUlF6TFFNMXpocXktc09zSUJLLXg0bFg0Tk9VdnRO?oc=5",
    "source": "マイナビニュース",
    "at": "2026-11-05T22:21+09:00"
-  },
-  {
-   "title": "NTTドコモ 不正アクセスで顧客情報流出 携帯番号など最大約30万件（2026年11月5日掲載）｜日テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTQVNBRUxFdXYyZHZDSG54MWRkXzdXZDZiSml3b2pDalZYQnd5UVB4c0hiNElWV1lESURkTXFSUmhMWkdSMmlYMkNqTF9iS1JiR2FFaE9WTzdiai1iaDV5RVJEOGVld1ZzUG44a2gzbjZnR0FULXgyUmd5VVU?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-05T22:18+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
+   "title": "ロシア、JTの現地資産を一時管理下に プーチン氏が大統領令に署名",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3RzUGJpSGRFNXlHY1F3bVRiTEMzQnZqdUZnWlJCbXp3anU5Tl9zRXE5X3JLZjd1ZTBHeVlYOC1lbVR3Zmw0S0c5dzdLWXgtcTBOM2tadEJRdWxaZ1E0Ni1zSGZvbVE?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-05T23:30+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhS2NjRlpaai16RU9ReUo2dTk4QjBmY2lzZGczXy1wSnBjNHJnVm5TWi1XWUFnY3VXQnVXWlhOUGNFMXlZMEZySmtQNngwWWhnYlBsTXMtZDAtVUN4TlBlTUtpdk5sM1U?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQ0RGTE94Ui1pRmlOLWJ6a1FGc0EyVEdaYkZkdUhhNDJOOUNhZjFZU3hvUG1mLXZOcXVLdlM3c1EwRW1WSWp4STRIbFRudlNLQVRjazlZdUZjSDhpREY4N3pwUkNUSTR0?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-05T23:12+09:00",
    "topic": "ロシア"
@@ -581,26 +594,19 @@
    "source": "ニューズウィーク日本版",
    "at": "2026-11-05T16:30+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "中国外相、北朝鮮高官と会談 党・国家の統治巡る相互学習で一致",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EemJwZEp6ck5KNnlORUZEX295U21Td21DenFfbnpTclI5ai1rZm5xOE54dWJuNmdHVFQ4QlN0UjJMSk9IU1JQTXkxQVd3MlY0elN1OHV2SXdrT0w3M0JXc3hNbl83SS1ndTg2TQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T16:29+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況（ケ」"
+    "「NTTドコモ、5G SAサービスで通信障害が発生」"
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
    ]
   },
   "world": {
@@ -608,7 +614,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
-    "ロシア：「攻撃」「空爆」3件",
+    "ロシア：「攻撃」「空爆」2件",
     "欧州・NATO：「爆破予告」「破壊工作」5件"
    ],
    "items": [
