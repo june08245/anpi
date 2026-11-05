@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:55+09:00",
+ "updated": "2026-11-06T07:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -380,12 +380,6 @@
    "at": "2026-11-06T02:45+09:00"
   },
   {
-   "title": "ドコモの通信障害が「復旧」 原因は「5G SA契約者を収容する交換機における輻輳」（ITmedia Mobile）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSzMyU2g3VGFtRmJWbkgzbUdBMnpaWVpCaE9XcFlhbGV6Q3NMM25lclVabFBEMXY3SWFCXzRGWF9YY1FVRHNWOUU4MlVFRld1OUsxTE91aGhFUWhiM29CNm5sOThJX19FYmNsaVNWSHppNHVUOEZ5Tjk1RFh3LXM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T02:44+09:00"
-  },
-  {
    "title": "ドコモの5G SAで通信障害発生。5G SA以外のユーザーには影響なし。5G SA対応機種のチェックページも紹介",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wcHQxbEh3eUtLT3NGTTRpRUpSYmpadFg4TV85M2Y4MGx2aVVlWDdhT3k1MlN2bmh0LUZHQlpCMlpYckY5S3RPYVo1MkRmeTBlY1hTcFk4b29wdVg3ZWZIYzVCay03UmFoZkV6SmMxTQ?oc=5",
    "source": "GAPSIS",
@@ -404,10 +398,22 @@
    "at": "2026-11-06T06:45+09:00"
   },
   {
+   "title": "カカクコム、食べログ・価格.comなど5サービスで約570万件の個人情報流出 誕生日・性別も約65万件が対象、アララへの不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGd4eWFLTWdubGNkMEZkaDNoT2s3b0xxWXVybUdaUmxPTXp3SVMtMllZVGlzMHZFWXFib1ZFTkFOR0lEOWpyelFEaVFRT3BhMnZ1OGJrUlRNY3UtLTlBZm84U2lubzlzNXVpcWRDRVdxVE9SclJwV0c2alZJT2V5b1hqbXg0ZWwxRjc3NjUzNG9oWUpfeFE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-06T06:41+09:00"
+  },
+  {
    "title": "アララ不正アクセス 県のメルマガ配信先、メアド11万656件漏えい（茨城新聞クロスアイ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YSFRyeUMwR2VJaGp3aURaRDhwamNYRWpPM2RmSURHcXhPSHNXN2c3a1F5Ui1WcjNxY2J2MHVOZnJFaEI2WjNCOVMyQVFiQU5OdzlBSEJLMFlRUjNzUEJFSFVPTXdPUjVBOUViWGtoM1IzaTJMZlhZdDQ1aGNpSFU?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-06T06:16+09:00"
+  },
+  {
+   "title": "止まらぬ情報漏洩 「能動的サイバー防御」とは 攻撃の未然防止が目的 政府の対応に限界（北海道新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXbGpxTnh0dnBNaU1PY1dhNGltVkxXV2FjSVJ2MmRRQ0ZQckJlN2dvcFRfR3FRTjlTOTJwOWFxbUtFVjdZcVNhQWRpSFQ2RC1wMHlMQ1FhZ1Q2QW9sc21ROS1STWoySlY3X3hqMWxMeC1BdkhtSlBFdW5pbEpXaXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T06:14+09:00"
   },
   {
    "title": "アイリス、770万人の情報漏えいの可能性＝不正アクセスで(時事通信)",
@@ -438,12 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTERMUktGR1hxODRJMjNtend0WlZ3X3hDamZuRi0wM1FjajhQZ1RFUTNGWnZiWXJkQUlDelZLaDFRVVhRNTJLM3JVdS1BZ01TcUpTczQzVFRCUFp6TG9rZ194OU8zUXpyaS1ES284bHZXNE13bmMteXZNRVlkSzRadkI0NTl1V2hhbUpGRi13?oc=5",
    "source": "スポニチ Sponichi Annex",
    "at": "2026-11-06T05:38+09:00"
-  },
-  {
-   "title": "ロシアの大手ホスティング会社に破壊型なサイバー攻撃-VPS・クラウドのデータ消失|安全保障のニュース-セキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0E2MzJzcFBmOFNGazg2QmVsRkVJOHBSOEpPaFozR2ZMZXpCOEJZanRtRTlYNGFCR1lfX3dzdHZhTEg5cmhVT0dmUjdlaDNnY0wzVmFYR3g3MFpOX292dThFd19xSWROYl9OcTdhVE11MzlfUmJaUHRkb0NEMUpsanpKLVRucXBkMmhXdnEyTWd1YkFnNmJjdFRtSmJNbXF3V0M4aG9nTnhHaEU?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-06T05:30+09:00"
   }
  ],
  "osaka": [],
