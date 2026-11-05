@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:45+09:00",
+ "updated": "2026-11-05T14:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,9 +179,15 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGhtbFptczFxdEdsbHRUV0hvR3dWX3RxSFlHSE53VHgxdWg4WDVTQ05XRWJtUUVOYUN2NnZWUFN3c0hGWnA4LXMzTkV2LTVCSE1Oak4zemJwdmtKZ1Jma184NGI0MFIzOFlqeG1tYnNYS0haTDJoV0wzcUJRT2cyMC1vWdIBiAFBVV95cUxOZ01DamlmajNSeVMxMDc4c0phSUhOUTVUbVBpd0hfNG54ZnhBSFptX0hSTGVNNS13VEtBRVhhRVJrOFRyVE45N2U5N0ctRDlaTjRoTjhDYkJRWldUczl5Zm9mWkhQNUMtUjV2WHlCekpybE5BMWg1S3RJN052dC1SNGl6MDU4YmV2?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "北朝鮮が新型対空ミサイルの発射試験 米韓合同訓練「フリーダムフラッグ」に対抗か（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yemhNc3pBdzVkRElQSDNXbTRUbXRBdk1FM3EtYTBXN2wyblJ5bFNpRklHaFNfS21TUjZfUmFNZFJ5N1ExWmpuVWNkMUZrYnVOWmp5ZWpxaURhVVhvNzd2azExWXZyWTNkUTFYbVd4clJtVDYwWFhHTUlYOTlGaEk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T13:41+09:00"
+    },
+    {
+     "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZFRlZW5MbURDbVJNSWpqcm9CckJfaVNVN0h1TFRHbmpvQ2o5bWRISFVRN0dCZ2ZTUVZpQUhPNUlQeDJXRGpWcncwdHNZRmpfUllrRTFWTnJLOGRCejBaQWF5Sl9ISThvVjdmRms1TWIyQVlVT0lzRFZoaEo4Z2M?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-05T13:22+09:00"
     },
     {
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tVzIyTm5hWXRuSDFhUGd1aVdoYUNYUktZbkNEMFpNT3ZTNFA4aTM0VHRfSUdJaEg1ZV9pSWpQQ1ptTlVlT0RCNUFfQmlUalp0eXZ3djlFeGtfby1QVC1Z?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-05T11:32+09:00"
-    },
-    {
-     "title": "北朝鮮、4日の発射は新型対空ミサイル 長距離巡航弾の訓練も",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95akF1OHhmaUQ3aDJWSzZtbzJGTzhjVFd2QmdoLUc4djlQRlZralFlS2RGZ2dDNUpGWlRZUTJ4LUZkWklBZGFtRklwa1BoSkhtaUx2aWFXSGsxc2JiVHpYeW1GOUxoWDJvT2pWRA?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-05T11:22+09:00"
     }
    ]
   },
@@ -342,6 +342,12 @@
  "outage": [],
  "japan": [
   {
+   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T03:31+09:00"
+  },
+  {
    "title": "北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイルの可能性」と韓国メディア アメリカの対北政策転換狙いか",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzEtT2ZRUElOZFJYX1lwUE0tTXZTZU42MVVJaExRRzFBa05Ia2t6RVVQTUMtUklwMmJiYnJsOEExT0xlNUttZFBKMmFVbHpRZnV4aWtGcTZPRkFrUHo0TGRUajZCTThFYUU1TDRB?oc=5",
    "source": "Excite エキサイト",
@@ -368,16 +374,34 @@
  ],
  "cyber": [
   {
-   "title": "NTTドコモで通信障害 全国で通話・SMS・データ通信利用しづらく",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82WVZ1dkh0VWVjNEdFR2U1MWRYN0NnZ0wzcnRiYm5YRXYtUk1mVUNiRldMa3FJQktJZk5Xa2dYb0pKQ1BVR0dGM3g4LUgxSF9qM01UTnRob1hRZnhpRnNWeA?oc=5",
-   "source": "ASCII.jp",
+   "title": "【障害継続中】ドコモで全国的に通信障害！通話・通信などが利用しづらい状況",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PblpUdzJoZ2xNdHJQazQ1d19CTE1BSmE5cjZ4RDR2SGlkUFliS254d0FsbmtBa0VGQVUybWFJRlRHSmdHNzAzeDYtZTJvTzlsRDFCSm56QXVZeDM3RjRuUVVCOGVzODMxRXc?oc=5",
+   "source": "週刊モバイル.com",
+   "at": "2026-11-05T13:47+09:00"
+  },
+  {
+   "title": "NTTドコモで通信障害 全国で通話・SMS・データ通信利用しづらく（アスキー）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BaU40NWpmUFVtS2FaZW0yZll4RnNJWWxTUjFKakF4N3gtOFhvSEpXRXI3Nm1RY2E1cjZHVVRINm4zTHJEY2pZWXpkekR0dnUtZ1pGVGs4WVNITDNOSDlrbUJTZlljNjBRMVdMQVBaNEJjclJoaER3dEpIVndWNkk?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-05T13:40+09:00"
   },
   {
-   "title": "NTTドコモ 全国で通信障害が発生 音声通話・データ通信など利用しづらい状態に",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVbTZJVVlMODhTQXFyRERzdUw2WHgyUmFvVTRIMDVXWEpaQWI4a3RaN1BSTjdDX2VSZHU1RkVYN2E5UEdpdFNfQkZaLU1YMlZGWUhSMg?oc=5",
-   "source": "ABEMA TIMES",
+   "title": "NTTドコモ 全国で通信障害が発生 音声通話・データ通信など利用しづらい状態に（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FTGFfcVhSMGVGYkZDX24tYXotd2QxbENjUWYyZDBkbWNMUmdySVU5NDY3VHc0U01taGNVeXdEMkRCZmFNcU10bkl3eTBvOEt4a0Y3NkQ4NDU0b21yYXJpNzBCVkp5YzAzOHk4UUdTbEltc0lTWjhDQmdkbnRhMTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T13:39+09:00"
+  },
+  {
+   "title": "ドコモで全国規模の通信障害が発生――「仕事や決済が使えない」SNSに悲鳴　MVNO各社にも影響",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hOUNfa0ZjcGN0VHVVR0NlUkJUMmxhTjAxNjVyTFFKVE5lb09RME5zVTRVX0dLYzAzTThMaks3cVdXYVB0b2ppY0tQVTJMaW9tU2JaT0NxczNnMHRhVFd5ajNUVFpRLTBvNGNmTlo1OC3SAXZBVV95cUxQSWZCei14bmg4RHF3VC05Smk4am4xNmplNFRmWVpsM2lPaExJa1AwbHJmQUV3WU1DcEV6d0pVcUFjcldUQ3R2MmRVY3VCZFQxSzJlcjRYekNHZndaOU5za1VBOVBtY3pHVUMyaXhsVVRoRnBUX3lB?oc=5",
+   "source": "Infoseek",
    "at": "2026-11-05T13:38+09:00"
+  },
+  {
+   "title": "NTTドコモ、全国で通信障害 不正アクセスの可能性含め調査 オンライン店も一時停止",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uVHQtY2lubEE1VlNORkdwMW8zdWVXQV9kYXQzRlJHb002Y3NveWtSMVloSm1BcE11cTNiWV9BM2FnblpJbUJKUnp4Z05jdGhDaXZZcDM3Q2hkdGdtdXdvajNqaDZMMVdPWEl3UjJHdFl3a0lORVE?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-05T13:30+09:00"
   },
   {
    "title": "NTTドコモ、全国で通信障害 通話・データ・SMSに影響",
@@ -386,22 +410,10 @@
    "at": "2026-11-05T13:25+09:00"
   },
   {
-   "title": "ドコモ携帯 全国で障害が発生",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHeVg0RWZOTWJHc3hQUDVqbGpSZUlpNGR1YlJqUXlMWVVpQmtzSGVuTnBRbG1sYzI5Sm9JUENLSDlJSDhPclY4a0s2dkpBSUNt?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T13:13+09:00"
-  },
-  {
    "title": "NTTドコモ、全国で通信障害 音声通話やデータ通信に支障",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9seHBZTDc3NmNiNjI1QUxVS1JWMUYtNnI4Y3ZBcFJXS1BoZThkajBDSFJzV3oyVGJzaHc0R3RDUnRndXlzUmR2TUpBWEstSkRTYVQxWkp5ZDJWaG45OWN3b1VBNmt3TU9fdG1rYg?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-05T13:06+09:00"
-  },
-  {
-   "title": "ドコモ、全国で通信障害 オンライン店も一時停止（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBVlgtdjVVdFpYN2ttb0dkLVh3V3U4TEtQUk5zb09WcGFyalVDMWlhekJQaDlpTGlFdXQ5blZjLVQ3bEVPZUNpclYzN0l6WVAtUUoxSWhGcmJ5RmxrRkdPc1I3T01PN0lVX1hhYzYxVi1oMEpuakVCVmVkVERfSGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T13:05+09:00"
   },
   {
    "title": "ドコモ、全国で通信障害 通話・データとも利用しづらく",
@@ -422,16 +434,22 @@
    "at": "2026-11-05T13:02+09:00"
   },
   {
+   "title": "NTTドコモの看板＝東京都千代田区 - ドコモ、全国で通信障害 オンライン店も一時停止 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5SS1IV0FqSFRXZDFfY01NMTJuekhhbGY3ek1aU3dRQ0YtT3NWd1BGSDhJQTlaUkcwYTZreWloZ3FHTWdyUXJXUEhKelRHWDNTQmRLRkt2cw?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-05T13:00+09:00"
+  },
+  {
    "title": "【速報】NTTドコモで障害 一部ユーザーで利用しづらい状態に",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HcWRSZzBzZFZkRFpkR0dqb0JjamY5SjVoYkk1OTlZOGVycEVTanA1MXpoUUlMVFVJaTVfTzRyUGtYV0tVRGRQbjg0M2FzOHRpN0dYLVBEMGxYM1p4REJ4dGZwNjY0TWNfM0F2aUxuYzE?oc=5",
    "source": "newsdigest.jp",
    "at": "2026-11-05T12:46+09:00"
   },
   {
-   "title": "【速報】ドコモ携帯、全国で通信障害",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13R2ZJemU4eEFKbV9LNndUSVBzY0kzaWpmWDkxOXRHQ0xTVjc0UnRNNXluREswZ01JTW1WZVVPZmRUcmNaVDRYOTdpcw?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-05T12:44+09:00"
+   "title": "ドコモ携帯、全国で通信障害",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREZObUlDVG1KOTVCbzROWm1pMXAtTTBRY3JrOWdCSjJQNjZiYlZVTTEzaWE3N1RPMkNNZVhCV1lzZmhhM2JaZWlyeWo4aE8xSHBYV3pOQ0lxUXZ0cS1oOGRGWmlrZnFQNE5MV1UzOHhVX2MyWmhXMENjc2FyZ09FZmFocFrSAYQBQVVfeXFMTURGTm1JQ1RtSjk1Qm80TlptaTFwLU0wUWNyazlnQkoyUDY2YmJWVU0xM2lhNzdUTzJDTWVYQldZc2ZoYTNiWmVpcnlqOGhPMUhwWFd6TkNJcVF2dHEtaDhkRlppa2ZxUDROTFdVMzh4VV9jMlpoVzBDY3NhcmdPRWZhaHBa?oc=5",
+   "source": "大分合同新聞",
+   "at": "2026-11-05T12:45+09:00"
   },
   {
    "title": "ドコモ回線の携帯電話サービスなど全国で通信障害 原因は調査中 (2026年11月5日掲載)",
@@ -440,26 +458,21 @@
    "at": "2026-11-05T12:44+09:00"
   },
   {
-   "title": "ドコモで通信障害、全国に影響 5日昼～",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1dW51LUE2Y09oUGpoNjhZbzV6MGwyQ3E4TTdMZE9RbmszcTV1TW1Yc3NJSzFDNUhueW9WUVk5TlVsQ0I5UjRDYk5wNzhlZ1RXRERwUkw2dmZ6bE9PZGw5MWZNWWhhMTQ?oc=5",
-   "source": "ケータイ Watch",
-   "at": "2026-11-05T12:26+09:00"
-  },
-  {
-   "title": "ハッカーのイメージ - サイバー攻撃、10月は4億件超 検知数最多更新、被害深刻 - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94bUFTMjRPMXRka1NhRTZPc3dfOEo1dEhjeDE1QTl4RmlkRGUtS1RfTGd1cDRmUzZ0WWE4cXl3VUlkYUtpbU5KVm1nbTNVT1h0YnNUS0Jucw?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-05T13:41+09:00"
-  },
-  {
-   "title": "損保ジャパン、自動車保険の契約情報など約6万5,000件が漏えいの可能性 委託先「PremierNet2」に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUNXWkNtWi1yQ2hMcTY5WHZNMUVlWDZUcFNiYUE4Z3psOGxiME4zSXBNUk0zQTJOQjdBZTMzUjFqbDVpSF9WVE0wWUhMNWEzQk1KQW9aUW52bGRoNGJLTUgyWEY0QW9iLUp5TUkxMDNjanFKQTRSaUhTZ01WWl9Rdm9OOE9lR1ZWYVBlNl9fa3NTcWU1QVE?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T13:39+09:00"
+   "title": "サイバー攻撃、１０月は４億件超",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVQ2JJd2RTeHo0QzVyQWJHZlJFZGhGandjRUJnLUVDY0lZNGh5ZlFLN0ZDdU11M3NXQWRJcHVVYzhHTm9rU2JlYk5wMDZCM0xvczA2QXdZYTVBeEhTbkE?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-05T13:44+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮が新型対空ミサイルの発射試験 米韓合同訓練「フリーダムフラッグ」に対抗か（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yemhNc3pBdzVkRElQSDNXbTRUbXRBdk1FM3EtYTBXN2wyblJ5bFNpRklHaFNfS21TUjZfUmFNZFJ5N1ExWmpuVWNkMUZrYnVOWmp5ZWpxaURhVVhvNzd2azExWXZyWTNkUTFYbVd4clJtVDYwWFhHTUlYOTlGaEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T13:41+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "米と欧州、ウクライナが復興・戦費を協議－ロシアとの会合控え",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03a1JSQ2VFX0FjSlZnbVpqTzdZRGhtaXhQZVlVazQ5cjRQamlaNThDejhfMmNXeWZyd3U3SzJfSlJKaFAteHptSG9obDhGbS1ZSWpFbEx1SFF6QkFuNFplbldLVVVKQWx5SWRUandWM1hrcGZJ?oc=5",
@@ -468,9 +481,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGhtbFptczFxdEdsbHRUV0hvR3dWX3RxSFlHSE53VHgxdWg4WDVTQ05XRWJtUUVOYUN2NnZWUFN3c0hGWnA4LXMzTkV2LTVCSE1Oak4zemJwdmtKZ1Jma184NGI0MFIzOFlqeG1tYnNYS0haTDJoV0wzcUJRT2cyMC1vWdIBiAFBVV95cUxOZ01DamlmajNSeVMxMDc4c0phSUhOUTVUbVBpd0hfNG54ZnhBSFptX0hSTGVNNS13VEtBRVhhRVJrOFRyVE45N2U5N0ctRDlaTjRoTjhDYkJRWldUczl5Zm9mWkhQNUMtUjV2WHlCekpybE5BMWg1S3RJN052dC1SNGl6MDU4YmV2?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZFRlZW5MbURDbVJNSWpqcm9CckJfaVNVN0h1TFRHbmpvQ2o5bWRISFVRN0dCZ2ZTUVZpQUhPNUlQeDJXRGpWcncwdHNZRmpfUllrRTFWTnJLOGRCejBaQWF5Sl9ISThvVjdmRms1TWIyQVlVT0lzRFZoaEo4Z2M?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-05T13:22+09:00",
    "topic": "北朝鮮"
   },
@@ -559,13 +572,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮、4日の発射は新型対空ミサイル 長距離巡航弾の訓練も",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95akF1OHhmaUQ3aDJWSzZtbzJGTzhjVFd2QmdoLUc4djlQRlZralFlS2RGZ2dDNUpGWlRZUTJ4LUZkWklBZGFtRklwa1BoSkhtaUx2aWFXSGsxc2JiVHpYeW1GOUxoWDJvT2pWRA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T11:22+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ウクライナの支援物資配布拠点にロシア軍攻撃、死者40人に 数十人なお安否不明",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NMk1XM3JEaFBLYktDTEVCY3Fjc1dUTVhrRTNIWlY3dE5BdkUxUGpFMGhSMnBVMzhZX2R2cW1NQ1BxR0Z4bU5Rd0wxQWEtcXhCeWlZeThwUGgyRGVZckE?oc=5",
    "source": "Infoseek",
@@ -605,13 +611,13 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモで通信障害 全国で通話・SMS・データ通信利用しづらく」"
+    "「【障害継続中】ドコモで全国的に通信障害！通話・通信などが利用しづらい状況」"
    ]
   },
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイ）"
+    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
    ]
   },
   "world": {
@@ -630,10 +636,10 @@
      "at": "2026-11-05T12:17+09:00"
     },
     {
-     "title": "北朝鮮「新型の対空ミサイル発射実験を実施」…飛距離や発射場所は明らかにせず",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGhtbFptczFxdEdsbHRUV0hvR3dWX3RxSFlHSE53VHgxdWg4WDVTQ05XRWJtUUVOYUN2NnZWUFN3c0hGWnA4LXMzTkV2LTVCSE1Oak4zemJwdmtKZ1Jma184NGI0MFIzOFlqeG1tYnNYS0haTDJoV0wzcUJRT2cyMC1vWdIBiAFBVV95cUxOZ01DamlmajNSeVMxMDc4c0phSUhOUTVUbVBpd0hfNG54ZnhBSFptX0hSTGVNNS13VEtBRVhhRVJrOFRyVE45N2U5N0ctRDlaTjRoTjhDYkJRWldUczl5Zm9mWkhQNUMtUjV2WHlCekpybE5BMWg1S3RJN052dC1SNGl6MDU4YmV2?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-05T13:22+09:00"
+     "title": "北朝鮮が新型対空ミサイルの発射試験 米韓合同訓練「フリーダムフラッグ」に対抗か（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yemhNc3pBdzVkRElQSDNXbTRUbXRBdk1FM3EtYTBXN2wyblJ5bFNpRklHaFNfS21TUjZfUmFNZFJ5N1ExWmpuVWNkMUZrYnVOWmp5ZWpxaURhVVhvNzd2azExWXZyWTNkUTFYbVd4clJtVDYwWFhHTUlYOTlGaEk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T13:41+09:00"
     },
     {
      "title": "残酷なロシア、救援物資待つウクライナ住民を爆撃…33人死亡（朝鮮日報日本語版）",
