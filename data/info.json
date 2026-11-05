@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:45+09:00",
+ "updated": "2026-11-06T06:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、ロ大統領に書簡 指導者、対米支援要請か（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNXBQQzZtMTlzVUQzUzdtYkc5RmNiWXFsR2FqU0VmWE5QTUJkTzlrZ2s2V3BBb29IekVtREluR29zVDl1WmQxeDNTdkU1amdKUDZKZlcyYXdqaXRvMDZuREUxT1VCWjRDalJTZXEyS3BNWk1oVEotSkZPSHpzcVE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-06T05:55+09:00"
+    },
+    {
      "title": "米中間選挙後にビットコインが8.1万ドルへ反発、企業による4.75億ドル移動とイラン緊張が上値を抑制",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyWGs4cHpfbEwzVmhXSVZHQWhXWXBXby1vNWZzcnJKOVpSQ3FESHdrVUNpSUxJVS1CSU9ncW5GcTRkc2JlcVVMSTRORGNQWUtnTHVVWWZoWnNObWkzQnp1V0lYVU1SVVBxLU9xRHBobUlJMllD?oc=5",
      "source": "BigGo ファイナンス",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQ016Q1lpbUlvaUFYQVlZTFdGTS0zZmRZSndaRWlmZW9wWFFSVFJOMFlUcURtSmhoUmZZWFl5Ynl0NWdBMUgxeVg5eFlEbms5Z0xBQkVYNDF3RlJCTlhlX0dBZl9FaEFmdmNJLUdaZjBUTU9ZVkUtMkx3?oc=5",
      "source": "テレ朝NEWS",
      "at": "2026-11-05T19:00+09:00"
-    },
-    {
-     "title": "イランの強硬派紙「ケイハン」によると、ルーマニアの米軍基地は新たな戦争が起きた場合のイランの攻撃目標となる可能性がある／ヨーロッパにある他の米軍施設も言及された",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmJNV29UYy1aTVVLaElvOGsyZnpyR1M5QzJqZHpoSXRmcTcyZEJGN3lPRW05VWt4RWo5c2I5QlE3cndNWDdLTmhvdVFKVkNvNkF3cE54bHZ0TEVXNy1jVGxFX2Mzc1ZJUzZVTU9rc0ZoZXZkQ09XS04yaVBOYVNCWEF5cGVnODU2RUVwY1UxN2RfdmZwQzhNZWVUNUtjbWlJSkoxdA?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-05T17:50+09:00"
     }
    ]
   },
@@ -398,30 +398,6 @@
    "at": "2026-11-05T23:39+09:00"
   },
   {
-   "title": "「au PAY カード」アプリで障害、一部arrows端末で利用しづらい状況",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oUUtBNEdQVUg3T0V2cUwzZHp3SkcxZk1hUk9MMk1IQlVfNXNEU1h4VUN2MUp6ZFlQb1JDUWJjeUZucmdkbHhMVk91VmlFcXFoVzFUU1ByWU8xYlQ4Y3dkV3NUUXFTNEE?oc=5",
-   "source": "ケータイ Watch",
-   "at": "2026-11-05T22:26+09:00"
-  },
-  {
-   "title": "ドコモで全国規模の通信障害。5G SA契約者に影響、4Gへの切り替えで改善する場合も",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc25Ocm5DWVkxdUdIc0JJMm9OVUNtT0cwOTRaNk9feWNaUDdKUnZwb21UNlQ4U0NrNk5FbDFRd0R2b1Q2cnR5QkN4OHdWbERET1dZRjllNWhuUTFCenQxLTF2SnlVVjdweVZRQWZIakFuSGF4REExak1ObW1ZWGhTZHZsY1c2NmNkcTg0WUhjY0FuNkJuZmRkaTZNRVd5MjFfQ3ExbDBB?oc=5",
-   "source": "携帯総合研究所",
-   "at": "2026-11-05T22:15+09:00"
-  },
-  {
-   "title": "ドコモの通信障害、発生から9時間経過も継続中 5日11時～",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tS1ZzdFg4YUVzWFR5N3RuNnJyOVAxN2NuQzhkMk5JdFFSbGQydURPOVM4Uk1QY1B5VGtqdGRyZGYzMkJYYk05N0s4dEFCNnk1OWkxS3gtcWRZZDA3bWlRZjRvX3dheDg?oc=5",
-   "source": "ケータイ Watch",
-   "at": "2026-11-05T20:21+09:00"
-  },
-  {
-   "title": "外部サービスの障害に伴う暗号資産の送金の受付一時停止、および送金申請のキャンセルに関するお知らせ",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1Z2IyYzhJMEJ3MFhsblZKN3pPTzVnMmZ2MXpDS0ZpTE1ScGN3emw3YVl4WkZqQXlRRDBTMmZkU1lUdVJVdnk4QTlySEV4ekc4RVFObmNpU3k?oc=5",
-   "source": "コインチェック株式会社",
-   "at": "2026-11-05T20:01+09:00"
-  },
-  {
    "title": "サイバー攻撃検知数の推移",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTERMUktGR1hxODRJMjNtend0WlZ3X3hDamZuRi0wM1FjajhQZ1RFUTNGWnZiWXJkQUlDelZLaDFRVVhRNTJLM3JVdS1BZ01TcUpTczQzVFRCUFp6TG9rZ194OU8zUXpyaS1ES284bHZXNE13bmMteXZNRVlkSzRadkI0NTl1V2hhbUpGRi13?oc=5",
    "source": "スポニチ Sponichi Annex",
@@ -434,20 +410,51 @@
    "at": "2026-11-06T05:30+09:00"
   },
   {
-   "title": "【平将明･自民サイバー本部長に聞く(中)】｢約80億円要求｣GMOへの攻撃…国にできることは､経営者の責任は",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VY2hEeGk0M0gtVXBLc2xrR3VVRjhlb3FXXzJ4R1hBcHBQcGJVbk1kRUx0U2pTTjdkcHhtaGpvZy1USDlkRmVBMlRieFlwMjV5dkpEZkVSNEZEQkNHdUNr?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-06T05:30+09:00"
-  },
-  {
    "title": "サイバー攻撃 10月だけで約4億7500万件 前年同月比2・5倍",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQczRiUF9RUW5LNnRZZktpY3pQZ2VQSEplR2ZoOERhUWhuYmdSWmlUQzc3SVBQLTRIVVVURjc2MGx6T3NsUVprN3Y5eVpqYzV2Y1EtN2pfc0R6VXFmeHFZSG5RV2NjWC1URXdDWVI2X09BU2xGeDhka1R0OUNfWUkwNUZQYzY4RjJrMVcxR29n?oc=5",
    "source": "スポニチ Sponichi Annex",
    "at": "2026-11-06T05:30+09:00"
+  },
+  {
+   "title": "関心高まる「サイバーBCP」 攻撃された後も事業継続へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJLVY2QmRLaEtVZDFYRlV1b0RyRWFmU2ZCemdhcGs5SHNWQ0N0dVBsOERNWGNlUktJMUt3dU9lSUllR0V6UTBOektZTmxqaThHazRLanVSWFpBN25HVWRR?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-06T05:05+09:00"
+  },
+  {
+   "title": "ドコモに不正アクセス 「アララ」原因流出も続く｜朝刊・夕刊ニュース｜下野新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12QWs1QV9ySlM5YVk3VUZiQ3lIZ3o5NjlobzBBdDJCbjVRcFJ6ZDQxNWhORnpQeXRRNmE1ODFWOWhBeUVnTlR6SlNwOFd1VzB5RkNNZEdHSHFscFU?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-06T05:01+09:00"
+  },
+  {
+   "title": "サイバー攻撃４億７５００万件",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hbjV3b1N5VXV1VFMxX1BMLXN2ZVZNQjg4YTFjT0JfMEpiWW9UTE9MTUdldzNnczJtWGNvVHNidU9HOEVkUUU5M1pFamhEM05kNDhZNWt4SGhtNEE?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-06T05:01+09:00"
+  },
+  {
+   "title": "（ＥＹＥ モニターの目）今月のテーマ：サイバー攻撃と情報漏洩",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYaXZ5dE9lRHJYMzhoY1RyMlIyMGNiaGdoeWE3TGdrdHRRLVA3Q3EwSktyU3RHRlc0bk9WWDl5NXJqY2p5RlB0dzVqRzRZXzV4bUF5bkZJRGVHVmN3?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-06T05:00+09:00"
+  },
+  {
+   "title": "国内サイバー攻撃 １０月で４億件超、過去最多 高性能ＡＩが後押しか",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMb01lbkh3cHNSVW0tQ0k0RTNUcHFveVAtSFBtQkI0eGE5WWJ2Yk9fcDlBcHBJUmhJbkZmUkE4a2g0MXB2dmJmY3Jja1RaaFRlUG5aUENCakUtTWZGYkE?oc=5",
+   "source": "福井新聞社",
+   "at": "2026-11-06T05:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イラン、ロ大統領に書簡 指導者、対米支援要請か（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNXBQQzZtMTlzVUQzUzdtYkc5RmNiWXFsR2FqU0VmWE5QTUJkTzlrZ2s2V3BBb29IekVtREluR29zVDl1WmQxeDNTdkU1amdKUDZKZlcyYXdqaXRvMDZuREUxT1VCWjRDalJTZXEyS3BNWk1oVEotSkZPSHpzcVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T05:55+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "メラニア大統領夫人の仲介外交 ロシア・ウクライナの局地停戦を誇示",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RYnhxSDRGZkhkVTlITzNCbjU0cnJ6S25kZm1vWXp6ZlRSSkxEeC1fREl6NkdJZF9id3VsMV9HY0lrZ3p3SXBCR2oxYk9NLVM2SFRlOFotS1RLU2NLLUtCRHNoZ3BQcFFNWXpSeA?oc=5",
@@ -580,13 +587,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T23:08+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "高物価・イラン戦争・反移民に怒り…金も戦略も通じなかった「トランプ審判」 : 日本•国際",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ES014RzhCYUhaQWlBZzFnXzBKNmQ2RGs5UHY3dEptcE1ZeFZpeTc4TFY1NnBTMjgzT3JaVjBwclJVWWdIakVUdUF0bU9CQUpFdTBBYl80VGFCRG1VWF9QdzFoWFk?oc=5",
-   "source": "ハンギョレ新聞",
-   "at": "2026-11-05T19:45+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -605,7 +605,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」2件",
+    "イラン・アメリカ：「攻撃」1件",
     "北朝鮮：「攻撃」「ミサイル」5件",
     "ロシア：「攻撃」1件",
     "欧州・NATO：「爆破予告」「緊急着陸」5件"
