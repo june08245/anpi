@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T04:45+09:00",
+ "updated": "2026-11-06T05:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,8 +102,8 @@
     },
     {
      "title": "バンス副大統領「大敗の理由は戦争」米政権中枢に“すきま風”？イラン戦争の行方は",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEZzaEdBYlkyZ0taa2ZKaFVGYTl3bW9rb3FhbXliS0liSWlKdndUT2hPazl5VUR0VHExa2RNRXo5QkVPNVdOMEZOUnRiTHNINE9mV3NKMFA3RzRhUTZVOXR2Vi1zNUtGNTJ4QUR6Tk04UzhLSllXMXNvT0tzWF9tMUQ2cFRzd9IBiwFBVV95cUxQdjV6WUc2dFFiZ05DaWw1QXRFa0RvaWJmdGVOV1NVTHg2bHFzY1pFVTVBSDJxSVFMUzd6Zl9xMm9xVjJYcUdpT1pOV2hoaExQSlZCWWV5NjFjUzZMbXpabnBvblBSVW52TEpRNE9KaWMzTFI2eVBCSmIwQTFDMU45NUN1VkVmX3llQ1Br?oc=5",
-     "source": "ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MbjlTU0UzOERkNjl0LVQ4cVVXTmJRMWY5RVZ4d1JuSWVMQXdGV3dEZi1vMFZVSVpGTkl3OXp4MEFSc1M5eUxXSnNJME5ZcGdkMl9QU3kyZjhDX1hwanJCTW5uME1tcUEtQ2dmNnVySS1Gb1RNT2xsQTBB?oc=5",
+     "source": "テレ朝NEWS",
      "at": "2026-11-05T23:44+09:00"
     },
     {
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナ、ロシア製油所攻撃を再開　燃料不足深刻化の恐れ",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zbHphV1VvLWtWblBnREFRRGlQQmtSY1Z3ZUk2Nl9xQzBPRk9nRGJPNmwtS05hQkRfUFFXLXJudkoyLUxrQ2hYOTNHWmdkYVoyWHd5TEZFb0hLRGRwd2EwQTl4Rlc3NmZieWhBanVrc0VjOF84STJUWktMRC1vQdIBgwFBVV95cUxOaVIxbDRmZ215eHJnX3FhelBmbi1DTWhsQ00wRkwtWWhCMjdnZHFlTkU0UTVQMHNoR2FsZjIwb3h5Y1JDWnNlYXVSUW00eUZyZllkWjNSVTJnMHhDQlZmbXpPNW4zVTF0a0lES3MxZmctcVJTeUhNSkhqZURkdkVxM0htOA?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-06T04:51+09:00"
+    },
+    {
      "title": "ロシア・ウクライナ代表、メラニア夫人主催の式典に出席 オレシュキ停戦を評価",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1VjUkJ2S2JuTlpZeGtmX3pCWjdsNVhXTHJBdDhpTTVGTS1aUDFkWl8ya0ZyT1RhdGZvcVdfcjhaaHVtcFV2ZTdYOXZlemhrMFV1NGlVZHI3OGltdjF1ZWxNOEFJdWhoZGM0U0JqbzltcGZNUlFQa25ZemZtNWpFTWVKbUJ2aVNuSEFFampR?oc=5",
      "source": "Reuters",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM1pTVHRZUTFGMk96Z0pWVE1qOURBeWF4LVNTV2huZ0xWY21uaTJfOXRaZHJLa2t0ejdtWHVWUmszOGVoZ2QyaGdGQU5qejRvd0VHZFlvRGxDZGtTTTExNFo0blpSRGJDOE95c2NZN3c2bVphUkpCWUgwX1ZHNXc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-05T21:55+09:00"
-    },
-    {
-     "title": "プーチン氏、JTのロシア法人を「一時管理下に」 大統領令に署名",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTdRcE9MeUJUQzhZTEkyNGY3djRkamJOV3UxbUk3dzJVczVqckV2Y0xNeXQ0RGxNRVZkLThNa1hFaFZYQy1uYzZ4RFJ2LXp6bWlmT0c5Mm84U0VPTkYtYkQySHpYUlZsSlVJSQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-05T21:44+09:00"
     }
    ]
   },
@@ -398,12 +398,6 @@
    "at": "2026-11-05T22:26+09:00"
   },
   {
-   "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91Nkt0czc3ZEloQmFFZXVjdDQ0QldpT2JEMjhHNllvX3A0RXV0cVdqbUhOeWtENWVmMTNjTDdZOTc5aDBVNzFqWWFiMGFjSkI1NmZFTWdCRUEyRkJ2RG9Z?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-05T22:15+09:00"
-  },
-  {
    "title": "ドコモで全国規模の通信障害。5G SA契約者に影響、4Gへの切り替えで改善する場合も",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc25Ocm5DWVkxdUdIc0JJMm9OVUNtT0cwOTRaNk9feWNaUDdKUnZwb21UNlQ4U0NrNk5FbDFRd0R2b1Q2cnR5QkN4OHdWbERET1dZRjllNWhuUTFCenQxLTF2SnlVVjdweVZRQWZIakFuSGF4REExak1ObW1ZWGhTZHZsY1c2NmNkcTg0WUhjY0FuNkJuZmRkaTZNRVd5MjFfQ3ExbDBB?oc=5",
    "source": "携帯総合研究所",
@@ -413,6 +407,12 @@
    "title": "サイバー攻撃、救援隊派遣 政府、官民専門家を被害企業に",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nbWg0TmVmNWNoNF9wSnJwTDdTZHVPdUljQmJ1NnhQTDQtaVFwX2w0MDBhS3JmdGs4bzBEbThWbHNneWxmS1oxVjlKbzJiRW5lNEFMWlQ2SGtNSGc?oc=5",
    "source": "山陰中央新報デジタル",
+   "at": "2026-11-06T04:00+09:00"
+  },
+  {
+   "title": "イチから！解説＞不正アクセスで注目 能動的サイバー防御 政府が先手打ち無害化 被害発生後の対応困難",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2R214SmVaYXNFdnF2OGowT21pZ3hLYm92bTJFWFYzUTFQS3c1dnd6NEs5RVpxU3JucUxaSV9FSUtCYU1rNm5vUTZrSm9VVk4xSEF0UW10ZjBIQQ?oc=5",
+   "source": "北海道新聞デジタル",
    "at": "2026-11-06T04:00+09:00"
   },
   {
@@ -448,6 +448,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ウクライナ、ロシア製油所攻撃を再開　燃料不足深刻化の恐れ",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zbHphV1VvLWtWblBnREFRRGlQQmtSY1Z3ZUk2Nl9xQzBPRk9nRGJPNmwtS05hQkRfUFFXLXJudkoyLUxrQ2hYOTNHWmdkYVoyWHd5TEZFb0hLRGRwd2EwQTl4Rlc3NmZieWhBanVrc0VjOF84STJUWktMRC1vQdIBgwFBVV95cUxOaVIxbDRmZ215eHJnX3FhelBmbi1DTWhsQ00wRkwtWWhCMjdnZHFlTkU0UTVQMHNoR2FsZjIwb3h5Y1JDWnNlYXVSUW00eUZyZllkWjNSVTJnMHhDQlZmbXpPNW4zVTF0a0lES3MxZmctcVJTeUhNSkhqZURkdkVxM0htOA?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T04:51+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "北朝鮮ミサイル 試射や発射訓練 新型や長距離巡航",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55VDl0bXpNa0ZBMGZ2bi1PMFMyTWp1eHVPSzlXcmRYSGt5NXFJZXlmWWN3eWJBZ1JVWm1EcHdTR0VDemdxa25mQmRBMzQ2YUxVWFBja3VVRTQxc0dyanc?oc=5",
@@ -513,8 +520,8 @@
   },
   {
    "title": "バンス副大統領「大敗の理由は戦争」米政権中枢に“すきま風”？イラン戦争の行方は",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEZzaEdBYlkyZ0taa2ZKaFVGYTl3bW9rb3FhbXliS0liSWlKdndUT2hPazl5VUR0VHExa2RNRXo5QkVPNVdOMEZOUnRiTHNINE9mV3NKMFA3RzRhUTZVOXR2Vi1zNUtGNTJ4QUR6Tk04UzhLSllXMXNvT0tzWF9tMUQ2cFRzd9IBiwFBVV95cUxQdjV6WUc2dFFiZ05DaWw1QXRFa0RvaWJmdGVOV1NVTHg2bHFzY1pFVTVBSDJxSVFMUzd6Zl9xMm9xVjJYcUdpT1pOV2hoaExQSlZCWWV5NjFjUzZMbXpabnBvblBSVW52TEpRNE9KaWMzTFI2eVBCSmIwQTFDMU45NUN1VkVmX3llQ1Br?oc=5",
-   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MbjlTU0UzOERkNjl0LVQ4cVVXTmJRMWY5RVZ4d1JuSWVMQXdGV3dEZi1vMFZVSVpGTkl3OXp4MEFSc1M5eUxXSnNJME5ZcGdkMl9QU3kyZjhDX1hwanJCTW5uME1tcUEtQ2dmNnVySS1Gb1RNT2xsQTBB?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-05T23:44+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -561,13 +568,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "プーチン氏、JTのロシア法人を「一時管理下に」 大統領令に署名",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTdRcE9MeUJUQzhZTEkyNGY3djRkamJOV3UxbUk3dzJVczVqckV2Y0xNeXQ0RGxNRVZkLThNa1hFaFZYQy1uYzZ4RFJ2LXp6bWlmT0c5Mm84U0VPTkYtYkQySHpYUlZsSlVJSQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T21:44+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "高物価・イラン戦争・反移民に怒り…金も戦略も通じなかった「トランプ審判」 : 日本•国際",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ES014RzhCYUhaQWlBZzFnXzBKNmQ2RGs5UHY3dEptcE1ZeFZpeTc4TFY1NnBTMjgzT3JaVjBwclJVWWdIakVUdUF0bU9CQUpFdTBBYl80VGFCRG1VWF9QdzFoWFk?oc=5",
    "source": "ハンギョレ新聞",
@@ -607,6 +607,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「爆破予告」「緊急着陸」5件"
    ],
    "items": [
@@ -623,10 +624,10 @@
      "at": "2026-11-06T03:57+09:00"
     },
     {
-     "title": "欧州の旅客機25便超に爆破予告、目的地変更や戦闘機護衛",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ORDhnNHhMai1qQXdmMDUweldqV0lkYjc4Y2JPZG9TTVFkYmY5Y2lkdW1WdFgzYTlrNmRyNW9qZVF1dkIyZHc3Q0lkRzhzWEMtOHRJeFczWEVfc3pGcHM5TzJ3bVNIcExRV3NaVQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-06T02:37+09:00"
+     "title": "ウクライナ、ロシア製油所攻撃を再開　燃料不足深刻化の恐れ",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zbHphV1VvLWtWblBnREFRRGlQQmtSY1Z3ZUk2Nl9xQzBPRk9nRGJPNmwtS05hQkRfUFFXLXJudkoyLUxrQ2hYOTNHWmdkYVoyWHd5TEZFb0hLRGRwd2EwQTl4Rlc3NmZieWhBanVrc0VjOF84STJUWktMRC1vQdIBgwFBVV95cUxOaVIxbDRmZ215eHJnX3FhelBmbi1DTWhsQ00wRkwtWWhCMjdnZHFlTkU0UTVQMHNoR2FsZjIwb3h5Y1JDWnNlYXVSUW00eUZyZllkWjNSVTJnMHhDQlZmbXpPNW4zVTF0a0lES3MxZmctcVJTeUhNSkhqZURkdkVxM0htOA?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-06T04:51+09:00"
     }
    ]
   }
