@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:45+09:00",
+ "updated": "2026-11-06T03:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -162,6 +162,12 @@
      "at": "2026-11-05T17:57+09:00"
     },
     {
+     "title": "米民主党の上下両院掌握に中国緊張…台湾・半導体で対中圧力強まるか",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFU0R0h6ZUdUd1EyYldLd1Mzd2NLbl9HZmN5UWVGRGxTdmppeWJyTUt0U1lKSUJ3ZE42QVp4RkdCWEZlaXRzVFc4UmdHS0NTWjRDNnkwRzNEcjVRaWx2a3NzZDJKOVRSRTFDZ3c2SXVTRDlOZHVEYWllVF9GczgyR2tnTHcxR0lC?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-05T09:17+09:00"
+    },
+    {
      "title": "阿南 友亮：習近平の個人独裁と中国人民解放軍内部の粛清劇",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYndjaDN3UTNmR2hGaFpOSjFmZjdrRzNaQmtLNXJGU1VSVG1iTTROU01xdkh6TmsyanlJYzZPYnJNUjdxOU5KVGVMSThfUDN1X2VHM1BUZDVSNlhWQlFWZC14UEczRkdZU2Rpb0pnNVoxMXJpZU9jOEV5dEtSdDJsRWszMGZXcUF6?oc=5",
      "source": "慶應義塾",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pVDNfU1JDeDk0SzRwQUx1eDJ3UlVGMUVLdVN2OW9VUHV2M2llQ0JlYjJlYmg2X1JjdlI1eXJxc21JaThKclRkRzJsMWNyTTZXUDFOMWtMMFo4VDQ3LTZZd19IWXNIR3JlWDdndHJKQnZaN1VB?oc=5",
      "source": "BigGo ファイナンス",
      "at": "2026-11-05T03:55+09:00"
-    },
-    {
-     "title": "「日本が最軍事化を加速」と中国メディア＝原潜の導入検討、米専門家も後押し",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjMy1qeXFGZVVEeDYzVEtRQVFFS29tTl9NQ25zY010d0xnZW5LVnRCaGRXU3dlT2NmUklNTDJuNzgxTnhOeFRxMlBNZWMxRGVFU2VsbmM2aGlzQXRRSXNEZ3Q3ZVg?oc=5",
-     "source": "千葉テレビ放送",
-     "at": "2026-11-04T22:05+09:00"
     }
    ]
   },
@@ -369,6 +369,18 @@
  ],
  "cyber": [
   {
+   "title": "NTTドコモの通信障害、6日午前1時20分頃に復旧",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RVmZZcEZLa05sZ2ZPeXVOWG5HTWFoNW93cDZGamc5RDlFcEI0QVNqQzVGNnE0WjJCSkVHdkUzU0ozLWtYZkt5Y0NZamlHTnVNbXZqaFpPdGNCbGo2XzN4NURYcWJiUUhlRmp4R2dn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-06T02:45+09:00"
+  },
+  {
+   "title": "ドコモの通信障害が「復旧」 原因は「5G SA契約者を収容する交換機における輻輳」（ITmedia Mobile）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSzMyU2g3VGFtRmJWbkgzbUdBMnpaWVpCaE9XcFlhbGV6Q3NMM25lclVabFBEMXY3SWFCXzRGWF9YY1FVRHNWOUU4MlVFRld1OUsxTE91aGhFUWhiM29CNm5sOThJX19FYmNsaVNWSHppNHVUOEZ5Tjk1RFh3LXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T02:44+09:00"
+  },
+  {
    "title": "ドコモの5G SAで通信障害発生。5G SA以外のユーザーには影響なし。5G SA対応機種のチェックページも紹介",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wcHQxbEh3eUtLT3NGTTRpRUpSYmpadFg4TV85M2Y4MGx2aVVlWDdhT3k1MlN2bmh0LUZHQlpCMlpYckY5S3RPYVo1MkRmeTBlY1hTcFk4b29wdVg3ZWZIYzVCay03UmFoZkV6SmMxTQ?oc=5",
    "source": "GAPSIS",
@@ -417,6 +429,12 @@
    "at": "2026-11-06T01:07+09:00"
   },
   {
+   "title": "【更新中】宝くじサイト 勝手にパスワード変更される 年収や保証額も漏えい 三井住友G保証会社 「無印良品」で約109万件流出か アソビューでは約1582万件流出 不正アクセス情報まとめ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-06T00:46+09:00"
+  },
+  {
    "title": "欧州揺るがすサイバー攻撃、スーパー冷蔵庫に続き血液保管施設も被害",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0xJZ3dqZm9YaWkwTURnUlNvdFVycUtOMjZxMTZNend5RV9wVWtxZ0RleDNrSE9fMXp5ZUxYR1NZVDBwOEhJYjF4Q3FvNndWZVdMeGVaWVBXTExXWG9qOWN1RWlmZlhrVzRGT2VEMXpBWGVBTXNPcjZycGgtclVmRE5zMm1meEpN?oc=5",
    "source": "조선일보",
@@ -439,24 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14aURSTmlpYk1iWXhVbWVUWVVoUTc4dUhQWlMzNXdMa1RUd2QzTUFubGJQaVJ6Q3hoN0I5RGtkQjVkQ1Z3dzFMQy1CNlpvNnF2UXlnTHNCYVNJcVdVZHU3S2FPX2QtWU5lc2NwVTQ3Q2RSR0dKOFFkZUxTcTY0b28?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-06T00:14+09:00"
-  },
-  {
-   "title": "アララ不正アクセス、影響広がる カカクコムや三井住友銀行でも漏洩",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uaGRKQjcyUGNtYWs1T05kcFRnZHh4TGN5T094blhENFpDSnVJb3o1M1lOZTlFYlhDT2J3ZUtNMjZZcWtuUkw0d1pnMFY1LTktV2Y1ak9YQ3k0azVoeWQtNDVUOTJkY1pmazJPUA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-06T00:01+09:00"
-  },
-  {
-   "title": "SMBCコンシューマーファイナンスのシステムに不正アクセス 提携している大垣共立銀行にカードローン申し込んだ人の情報も流出 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GaEZLTThZVjhzQkx5Z2pPOTl1alRMQTZwSGlpWmhCd0cyaWxXSTBsU2l6TmNjSXZQal9OLVpIRWtLQ1dEYS1KdnJJeEE5SlVhSlBMenhVZFhLZw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-06T00:00+09:00"
-  },
-  {
-   "title": "消防庁の国民保護システムに不正アクセス、富士ソフト経由で発覚し全面停止",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBva2pEZHF3dVBrSWVDb19WQWF3TmZuWFlnanpoUU5EcS0xTl9wbUVxcGZRMXJXR3h1YTJDdEFZV2RmdEtPMXVDbHpPVkRibHA4WVNxeGVpbFdOT3FodVBmbTZqbjJtR2pOdmJNSGRYYW5pNk9a?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-05T23:55+09:00"
   }
  ],
  "osaka": [],
@@ -606,7 +606,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモの5G SAで通信障害発生。5G SA以外のユーザーには影響なし。5G S」"
+    "「NTTドコモの通信障害、6日午前1時20分頃に復旧」"
    ]
   },
   "japan": {
