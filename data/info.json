@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:15+09:00",
+ "updated": "2026-11-05T23:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -144,6 +144,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
+     "source": "TradingView",
+     "at": "2026-11-05T19:39+09:00"
+    },
+    {
      "title": "「トランプ大統領の合意を議会が揺さぶるか」…米民主党圧勝受けた中国の計算",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTNIBbEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTA?oc=5",
      "source": "Infoseek",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjMy1qeXFGZVVEeDYzVEtRQVFFS29tTl9NQ25zY010d0xnZW5LVnRCaGRXU3dlT2NmUklNTDJuNzgxTnhOeFRxMlBNZWMxRGVFU2VsbmM2aGlzQXRRSXNEZ3Q3ZVg?oc=5",
      "source": "千葉テレビ放送",
      "at": "2026-11-04T22:05+09:00"
-    },
-    {
-     "title": "米軍、嘉手納基地からBYD中国車の乗り入れ禁止　車載カメラによる情報収集を懸念か　民生技術と軍事リスクの区分と管理が問われる",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmtkRVJGbmMwZFdKbjdtWjZWTUZIdmlWTFl2VzVuNk9GMUdPX3c0RVBlTkxFWUktLUdkbWlQYzYxZTI3T25sbkdyMkh0ZktHWEZDRXpCTVpBWnVCOTlQY013NzZFYnRMSWZFU1ozX3VNbjRRMlJzWDBVTnN1aG9ZeDFweGpfMmF4RWtaYXRn0gGOAUFVX3lxTE5Wa2RFUkZuYzBkV0puN21aNlZNRkh2aVZMWXZXNW42T0YxR09fdzRFUGVOTEVZSS0tR2RtaVBjNjFlMjdPbmxuR3IySHRmS0dYRkNFekJNWkFadUI5OVBjTXc3NkVidExJZkVTWjNfdU1uNFEyUnNYMFVOc3Vob1l4MXB4al8yYXhFa1phdGc?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-04T20:00+09:00"
     }
    ]
   },
@@ -228,6 +228,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhS2NjRlpaai16RU9ReUo2dTk4QjBmY2lzZGczXy1wSnBjNHJnVm5TWi1XWUFnY3VXQnVXWlhOUGNFMXlZMEZySmtQNngwWWhnYlBsTXMtZDAtVUN4TlBlTUtpdk5sM1U?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-05T23:12+09:00"
+    },
+    {
+     "title": "プーチン大統領、JTのロシア資産「一時管理下に」“事実上の接収”",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NUlSQllwaHRyN0xISGhNN2VDeGpsRFNjdm1WYW9ESXpXbzFxeGxTbDhSZzJGZkNwU0MyZ0hkdFRPRFczTmJXLU1OOVYwOEZHbTJTUThR?oc=5",
+     "source": "KSBニュース",
+     "at": "2026-11-05T23:11+09:00"
+    },
+    {
      "title": "JTロシア事業を暫定管理 大統領令に署名（共同通信）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM1pTVHRZUTFGMk96Z0pWVE1qOURBeWF4LVNTV2huZ0xWY21uaTJfOXRaZHJLa2t0ejdtWHVWUmszOGVoZ2QyaGdGQU5qejRvd0VHZFlvRGxDZGtTTTExNFo0blpSRGJDOE95c2NZN3c2bVphUkpCWUgwX1ZHNXc?oc=5",
      "source": "Yahoo!ニュース",
@@ -250,18 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNGE1NFpjR3IwUXdXTFVFT2VYMHJadzdmbVF2ZUpJdGRGaU5SZjRjRHJORGVxb0pDMUZQTHBQRE1GSHhUdk0yTjJyZi15cjFZZjc0cUtlOUgtR0lUMEFiUUdXSkI2NG9lLVZuUmtNM0haUS1ZTGVWMjY5R1h6YThzcjNRdEVER3NidUE2WV9LaEw2ZDdHYnM3d3QzZWNrWkI2WXowSVZmNEdFdzBuQ0dzMWhFbzI1WWJNUFQ3VktqdzlJMHMyNFBkMV80TjdBTnBENmFCWHY4UXM4UkxyMXBQTUVndjZ5Q3k1?oc=5",
      "source": "ABEMA",
      "at": "2026-11-05T15:59+09:00"
-    },
-    {
-     "title": "ロシア、西側衛星攻撃を予行演習か 別の接近も確認＝専門家",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUW5SN2dfMlhHOG9FYXQ2YVdaakZtdEZKVzhNRlg4SmlCMkNVOHVaUEtaRkFtSkFBQjlNN1lHWVZ3WF9uYk1tZU95YWVyMEg0UExrQjdwbGZBZDRKQ0xmeEN3WThPdmlTVnFJWGRNcW1zcHZlcjRRVEtzQlYyVkR4ZURjNWdBdw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-05T15:46+09:00"
-    },
-    {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月5日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hNW9lT2NIWVREUVgzaEFCVWVfOVBEb3NkNlhPRjF5eVMwdUFHM0lfaFVvOXFueXdRcngxelNsdTVRY09ITWxENHZMZzMtZGxxbXphWUhfYWk1azJXNHlV?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-05T14:42+09:00"
     }
    ]
   },
@@ -269,6 +269,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "欧州、10以上の旅客機に爆破脅迫 イタリアでは軍機が護衛に 爆発物見つからず（産経新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95MVhZcGhieTZMdDlxLXJYcXFhREg3cHkxalUwaHVDQTU3UWtNVzZRRTVsMGFrM01NZjdhcmtkQl90cEltZm84ZG9EdWRuUkJyX2xvRF9wVzZ5VnVITnNzS3Q4NHNVZkdXOGxDbUdhRERqclllOVRLSE5RalNiZ2M?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-05T23:08+09:00"
+    },
     {
      "title": "欧州各地で民間機に対する爆破予告、少なくとも１５件…緊急着陸など混乱広がる（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRnJZWE1uNkhqQlZncDF2VEN4YUlNRGVXdTFVVzFUZjBQekU5R0N4Yi1NSkhWQXJRUEVYUlJla0ZBajBVRmNvQS04Ml9tRmxQTDFITDR5TDg5TlBJdnRtMGt6SzdYNy02TlNSQlI3U2cyUEl6OGtEb1VGUGFUWVk?oc=5",
@@ -288,9 +294,9 @@
      "at": "2026-11-05T20:46+09:00"
     },
     {
-     "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44WlF6WmJaRGk5Y0p0d3JtNTR5UFVSMGpoV2k4TXpqU2xsTU5XdGhLbmZreDI2YUJmQjVCMjB2NThtSS05UUZ6WlhfQ2NrdHF3U0FWcWdZNHpqZFU0dHpyRUNsOXhhTzUwb21yV0NUaVE1cFdRMlBIc3JfQjdUSnM?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xVnUwTlQ3VGJmOEdKWjE1VnUxY1VidEV2RmhyWUUySkhyRmRFYjlqdFpSMVlPUlRHUmQ0N1V3VUpGeVZCUEFNUGxidEdYRXpoSnVUNG9paXd3RVZxQ1k2UXVrbnVyWWtLeWJYdjJkNmNJWTM2bFZucV9VaWZvQdIBgwFBVV95cUxPQlU4eENfZ3JRZXprZE9pSmhhN3BUWmNDeV9mS0hvRUJKZklCQlFxeFlCRlptc0dlR2ZlTHpSdFZBbzFRV1pRaHh3MTBlUEtjeUtOWm52WXhUZFN1XzZCTnVJc2dLQ3JaSUs5cjRNWUdNZlNBS0RiM1BqTG1qY3J3UHA0RQ?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-05T19:54+09:00"
     },
     {
@@ -298,23 +304,11 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01NTk4M0xQMkxLNklkeTZTV1d4aDI5OFN1SWF1enA5OXJTWmlfcjlKOHVHOUltNnBaNzN2YW93MGdhaFRmSGdMQkE0clg1ZTJMbUJDYlNHMFkzSFRYRGJMZ1ZWMEdoeE9weXJ4R3ByWkxFVG_SAXhBVV95cUxQUFNraWRiaXlhRTdGQ2JfTzVuN3ZfbDlJZk1rd01XbjhFREkxOHhfb1dudXkyd243bzR0UTBxcTlXOEYzd1I4VERCdjdkM05ydEFlR252OTBwSlZDVEtMR1M2cE9CR3ZpVy0wR2JoMUdaTXpzSnpZaVg?oc=5",
      "source": "Infoseek",
      "at": "2026-11-05T18:03+09:00"
-    },
-    {
-     "title": "ヨーロッパで飛行機の爆破予告が相次ぎ、少なくとも8便に影響が出ました",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05dUxsU2V1Z1Q2SUY0ZzhGeDNza281ZHlYR0xLbnlnOGE2RmZqZWpqWDJ4QjZ5Z1FVRy1UZWI2Q053NnpWcV9tcmtBTGxUZTlyZHlyc3NKcEkxbVR3SmgwazlYLUZtMkk?oc=5",
-     "source": "やさしい朝日新聞",
-     "at": "2026-11-05T15:29+09:00"
     }
    ]
   }
  ],
  "nankai": [
-  {
-   "title": "津波被害甚大の慶長地震 静岡県沿岸部の寺に未公開史料が存在… 南海トラフ巨大地震の解明へ 日本地震学会で発表",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tOW5GVDBIRUp0MU96d3Y4RS1FdTR4T1VjZGxTbzNNZTZ1V051QTBQSkxaOVRBdkUtQm1WY21wQldBOVU4S0NreUU4MVp2dw?oc=5",
-   "source": "静岡新聞DIGITAL",
-   "at": "2026-11-05T22:09+09:00"
-  },
   {
    "title": "頭を守って身を守る行動を 南海トラフ地震想定 岡山県初の県民参加型「防災チェック」７.５万人が訓練",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kdlY5QW5EZXZCY0tNMS0wWU8wTmRQcmxELTJzcWNUX1YtZHpoSTVodW9Id2YxYnRFVFZOUDBHWmR6N1hFV0h4YWhWNA?oc=5",
@@ -344,6 +338,12 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LcDFmZ0FpZWwtMGxoN2dEUFZlYXFPY3lmWUNIQ1ZEUWdrNUc1Umw2cnY0WFNoR3ZlUHdPQUxkX3BYRFVjYk93dFVxU3Y2TFh6TUFEYU9rY01vOUVwVkxWTFZVbkc4dDF2SGpLSG9B?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-05T17:03+09:00"
+  },
+  {
+   "title": "南海トラフ巨大地震を想定した防災訓練を実施しました",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tYURIVzZiM0JGWDBGRHYzelUyekVyUm41eWN1UGtkZ3h0aEg4UUx5clVEUFFqWnJENzBXdENtVTB6c2V2VzFDZV9jWEItMk1k?oc=5",
+   "source": "羽衣国際大学",
+   "at": "2026-11-05T15:50+09:00"
   }
  ],
  "outage": [],
@@ -353,12 +353,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wc21pSnFocllwRUREdHh4VFhYdzhnNHBLY3JManFhVVNHc2hYcGtySmVtM19sMXhkWWlZZjhaLTNFS0FhdHk5cnNtY2NpSGRHSHdtdUR5OEh2d3BfZ1lz?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-05T14:49+09:00"
-  },
-  {
-   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T03:31+09:00"
   }
  ],
  "cyber": [
@@ -381,10 +375,16 @@
    "at": "2026-11-05T22:15+09:00"
   },
   {
-   "title": "更新：ドコモで全国規模の通信障害、11月5日11時18分ごろから継続中。未明には不正アクセス疑いでMy docomoも停止",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Rl91dHVTUW9Kb2ZEbEpjNVJoZTdHcTIwanlfQWxPcGlmazhjQWhQMkhkV1VfNGFMcVFfNXpVUzlsWWljeHdTRnBFcTBtcFdUV3pOVktCU0JCUjZFc1FOaUtSbmtpc1U?oc=5",
-   "source": "テクノエッジ TechnoEdge",
-   "at": "2026-11-05T20:45+09:00"
+   "title": "北洋銀行のカードローン「スーパーアルカ」利用者情報がカードローン保証会社への不正アクセスにより漏洩",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTVFHMzI0Y3lRa05GejBnNlg4VzJKYUlmeFAzb3FxNVN4NENfTnZjamJZY2J6YzlYTkhaZG52bVJwVXRTdXF5TVEwWFFQblQxeWFWVTU3NlFtVnJQSTliWnJZTHNHcnFBVVJ2Z192aTJncHpxZjdCaDAySGhENGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T23:26+09:00"
+  },
+  {
+   "title": "国民の安否を預かる消防庁のシステムに不正アクセス 委託先の報告で発覚、停止中",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05d29BeG9IR2ktTDJaOEVnNklaUjI0OUtNWnVmWDBkMDNlQVhwejV5cm9iY3JIbFBEUkJoUXNxekN2Zmk2d2FBUFBWbnV1S3ZXMGV3?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-05T23:18+09:00"
   },
   {
    "title": "アイリスオーヤマ公式通販サイトに不正アクセス 770万人分情報漏えいか",
@@ -409,12 +409,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0pLWjF5b3FtakNObTBWbkNvYTFfXzZERnB6YkVvelNRU3lRM3ljUENRVWw1WnlFX05WcUJmZFg5V2RZazY2eDRsZnlaNXFub0czQmVGVnpZQnhOWGh4Ql8wSEZ2NWFYY0xEY3RWcnlkU2wwcVpjYlBMYXU3SlNZRHZNaWF0MjQ?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-05T22:53+09:00"
-  },
-  {
-   "title": "相次ぐサイバー攻撃に対応 政府が「救援組織」設置へ（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1POWN2LTRSRkdJRHhyLTlrelh6bXM1Zi1nNTFKdVhzWE9NMUIyc21vLV82ZklfLXlEbEQtTkVocHp2MUhWQUh2NXY3WFBKZUl5SGU2eVR0bVV1S1ZVZzdya0FtTVBXYmxHZVlzemRRM0xSLUU2bEh4RXJ3bkNES1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T22:48+09:00"
   },
   {
    "title": "サイバー攻撃がフランスと台湾の銀行を直撃、日本も緊急対策を発表へ 執筆",
@@ -442,8 +436,8 @@
   },
   {
    "title": "NTTドコモで約30万件のユーザー情報が流出、通信障害も5日22時の時点で復旧せず",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yTS1YZEY0cHBScU9iQWpBdVp1ZE1JT2QwSjRqclowVVUzUGc4QjktSVluQ3lrN3ZwT0ZIU0dKUllrUlBsc0FoV19uZjdYZG1IYWd5RGJjQ2N3QnNGMkVaZA?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LT2hWWWJDbnJSZkFZLTlsYi15VzdDM0UxdE5WcG44NDBOeFBET0NtMTNKdFB6aUJRTFY1OWNOUlF6TFFNMXpocXktc09zSUJLLXg0bFg0Tk9VdnRO?oc=5",
+   "source": "マイナビニュース",
    "at": "2026-11-05T22:21+09:00"
   },
   {
@@ -455,6 +449,27 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhS2NjRlpaai16RU9ReUo2dTk4QjBmY2lzZGczXy1wSnBjNHJnVm5TWi1XWUFnY3VXQnVXWlhOUGNFMXlZMEZySmtQNngwWWhnYlBsTXMtZDAtVUN4TlBlTUtpdk5sM1U?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-05T23:12+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "プーチン大統領、JTのロシア資産「一時管理下に」“事実上の接収”",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NUlSQllwaHRyN0xISGhNN2VDeGpsRFNjdm1WYW9ESXpXbzFxeGxTbDhSZzJGZkNwU0MyZ0hkdFRPRFczTmJXLU1OOVYwOEZHbTJTUThR?oc=5",
+   "source": "KSBニュース",
+   "at": "2026-11-05T23:11+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "欧州、10以上の旅客機に爆破脅迫 イタリアでは軍機が護衛に 爆発物見つからず（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95MVhZcGhieTZMdDlxLXJYcXFhREg3cHkxalUwaHVDQTU3UWtNVzZRRTVsMGFrM01NZjdhcmtkQl90cEltZm84ZG9EdWRuUkJyX2xvRF9wVzZ5VnVITnNzS3Q4NHNVZkdXOGxDbUdhRERqclllOVRLSE5RalNiZ2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-05T23:08+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "欧州各地で民間機に対する爆破予告、少なくとも１５件…緊急着陸など混乱広がる（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRnJZWE1uNkhqQlZncDF2VEN4YUlNRGVXdTFVVzFUZjBQekU5R0N4Yi1NSkhWQXJRUEVYUlJla0ZBajBVRmNvQS04Ml9tRmxQTDFITDR5TDg5TlBJdnRtMGt6SzdYNy02TlNSQlI3U2cyUEl6OGtEb1VGUGFUWVk?oc=5",
@@ -484,9 +499,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44WlF6WmJaRGk5Y0p0d3JtNTR5UFVSMGpoV2k4TXpqU2xsTU5XdGhLbmZreDI2YUJmQjVCMjB2NThtSS05UUZ6WlhfQ2NrdHF3U0FWcWdZNHpqZFU0dHpyRUNsOXhhTzUwb21yV0NUaVE1cFdRMlBIc3JfQjdUSnM?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xVnUwTlQ3VGJmOEdKWjE1VnUxY1VidEV2RmhyWUUySkhyRmRFYjlqdFpSMVlPUlRHUmQ0N1V3VUpGeVZCUEFNUGxidEdYRXpoSnVUNG9paXd3RVZxQ1k2UXVrbnVyWWtLeWJYdjJkNmNJWTM2bFZucV9VaWZvQdIBgwFBVV95cUxPQlU4eENfZ3JRZXprZE9pSmhhN3BUWmNDeV9mS0hvRUJKZklCQlFxeFlCRlptc0dlR2ZlTHpSdFZBbzFRV1pRaHh3MTBlUEtjeUtOWm52WXhUZFN1XzZCTnVJc2dLQ3JaSUs5cjRNWUdNZlNBS0RiM1BqTG1qY3J3UHA0RQ?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-05T19:54+09:00",
    "topic": "欧州・NATO"
   },
@@ -510,6 +525,13 @@
    "source": "au Webポータル",
    "at": "2026-11-05T19:42+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
+   "source": "TradingView",
+   "at": "2026-11-05T19:39+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "イラン戦争の専門家：最も危険な8週間が今始まる！｜ロバート・ペイプ教授｜The Diary of a CEO",
@@ -566,34 +588,6 @@
    "source": "日本経済新聞",
    "at": "2026-11-05T16:29+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "救助中に再び爆撃 ロシア軍の空爆で40人死亡",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVlg3RUFLZGhWMVhNV19OcGc3c3d0QWh6QmN2UU9pMktCc0RVZ1FZcFg4Tm9Rd1BmOTVqazlJTGp3aGZyZk43NmxzU1JtTnM5ZTRlRXdQNXRRLW1kUDJB?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-05T16:03+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "北朝鮮 新型対空ミサイルの発射実験（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZZGpDRGNoaUc2MjZTazlXanVqTG9QMDhndHhIaldWMGhGcjdPYzlqUV9jdHpQM0E2dXlFMFFweEtKRU1JNVJEdTRVc2NEM0dLZVluRkpFV1NXUnB1UElOeUtLLWZpTnIyVktjYzdfaVVSZ2NtdThGV3RYbUpDSWs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T16:00+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "救助中に再び爆撃が…ロシア軍がウクライナの配給拠点を空爆 40人死亡 - 【アベマ厳選】注目の最新&独自ニュースをチェック! - 厳選 (ニュース) | 無料動画・見逃し配信を見るなら",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNGE1NFpjR3IwUXdXTFVFT2VYMHJadzdmbVF2ZUpJdGRGaU5SZjRjRHJORGVxb0pDMUZQTHBQRE1GSHhUdk0yTjJyZi15cjFZZjc0cUtlOUgtR0lUMEFiUUdXSkI2NG9lLVZuUmtNM0haUS1ZTGVWMjY5R1h6YThzcjNRdEVER3NidUE2WV9LaEw2ZDdHYnM3d3QzZWNrWkI2WXowSVZmNEdFdzBuQ0dzMWhFbzI1WWJNUFQ3VktqdzlJMHMyNFBkMV80TjdBTnBENmFCWHY4UXM4UkxyMXBQTUVndjZ5Q3k1?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-05T15:59+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア、西側衛星攻撃を予行演習か 別の接近も確認＝専門家",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUW5SN2dfMlhHOG9FYXQ2YVdaakZtdEZKVzhNRlg4SmlCMkNVOHVaUEtaRkFtSkFBQjlNN1lHWVZ3WF9uYk1tZU95YWVyMEg0UExrQjdwbGZBZDRKQ0xmeEN3WThPdmlTVnFJWGRNcW1zcHZlcjRRVEtzQlYyVkR4ZURjNWdBdw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T15:46+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -604,9 +598,9 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
@@ -614,8 +608,8 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
-    "ロシア：「攻撃」「空爆」5件",
-    "欧州・NATO：「爆破予告」「破壊工作」6件"
+    "ロシア：「攻撃」「空爆」3件",
+    "欧州・NATO：「爆破予告」「破壊工作」5件"
    ],
    "items": [
     {
