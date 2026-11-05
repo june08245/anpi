@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:45+09:00",
+ "updated": "2026-11-05T11:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -113,16 +113,16 @@
      "at": "2026-11-05T08:43+09:00"
     },
     {
-     "title": "トランプ大統領が中間選挙の大敗の原因はイランとの戦闘と認める発言 (2026年11月5日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sMmI1X1ZHU0xobE5rV1l6eEwtbUJxRE9RVGp0YmZpMU9mdHQ3aTdEcnFDdy16Y2E4TU93a242ZXJfV1VJa2R6bUJKQ2FFRjZEYzhZUm5TeEE5Nm82S2c?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-05T08:18+09:00"
-    },
-    {
      "title": "対イラン作戦に終結圧力 トランプ氏、軍事・外交で行き詰まり―米中間選挙：時事ドットコム",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZ1RBNXZERmJPejNvNmp2Z1haOXJVQm5mQ1k4R2l2R3FnOWJ5TDN5ZG9Ca3MxcXJEYzdRQndLSmxySGRQbzdOZEU3cnlyaUQybzRGa1BUemF2Q0VOYTVkZ3d6MA?oc=5",
      "source": "時事ドットコム",
      "at": "2026-11-05T07:04+09:00"
+    },
+    {
+     "title": "バンス副大統領、共和党敗北は「イラン戦争が原因」 トランプ氏と一線",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWdKRFdEOEh2Sy1sX3VyeVREcG5SRGxSMDdSY0Fub0NxcTlmRjZOTVJMT2FUbUNzMVdvQ016NmJlUkdmTjd5WEU0eUgyUWUzY2ozMVppWFRFY2dJN0tLOTNxdGRpdW55bXI4QXlfbGhzZ3lxY1RTS0J2S0ZfaUxxMnV2Mk5aQXc?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-05T06:49+09:00"
     },
     {
      "title": "トランプ氏、イラン攻撃は「やらなければならなかったし、これからも続けていく」と釈明…バンス氏の「敗北の理由」投稿は問題視せず",
@@ -364,12 +364,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVUmg5RUxjbG40OTVHMFJDY2czWnA3QjFvTUxrdXByV19Ya0kyZWVvY0NyVVY1TEROVWI3YlAzek1jeDY4WnZCWXlsTUFxclBPSmR5SFdhSFNXWjBo?oc=5",
    "source": "亜州日報",
    "at": "2026-11-04T15:38+09:00"
-  },
-  {
-   "title": "北朝鮮、日本海へ弾道ミサイルを発射か…米韓両軍が詳細を分析（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaLTBQdW80RWxPMXlVSl9IWW1laFo1SVR5OENzZ25EcmRiY0xWbTllU0QtaTFwcXBYS1hiSlJxdldHQ2tIb3RONlVsMEsxY1V0SW1GcVk0cXhhaWhpdEU4SzRwZEhWOElIRXVWSEc5OFJzQXNQX0treUx1YWZVSDA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-04T10:59+09:00"
   }
  ],
  "cyber": [
@@ -380,10 +374,46 @@
    "at": "2026-11-05T09:15+09:00"
   },
   {
-   "title": "20市町村でシステム障害 オンライン申請できず 沖縄",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhaFFnM0lHazA3VUZRRURkbENXSWdnOTc4eDdodlpKUWVoT1h4am1ITFlJWWI3WGpSTTdKTUU0RUhiQ3kwSzZOY2dnRQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-05T07:21+09:00"
+   "title": "ドコモに不正アクセスの可能性 オンラインサービス停止",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OS19iV0xaUmJpSFVDb0k4TENMdzBJTVh0WkhWelZlWUhQMkI0NEEtSVJmQnpIeXlQalpyMmE1bWx3cE15WVExVWdEUGtGVmt2QldOVUpTdi1tQnB3end3?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-05T10:54+09:00"
+  },
+  {
+   "title": "サイバー攻撃に官民チーム 企業派遣、初動対応支援",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9weC1kVnZhamJmdUtDTVRlenZiYkt0RGw2NVpYQ1hhN041cXpjOVdNUjVabk5PRm5GUW01UlA3dnRYS3BSMjJORUU1TjlDSDlueUFsQ0lrX3QxUzVGcFBuMDV4UFdmX01fTGc?oc=5",
+   "source": "南日本新聞",
+   "at": "2026-11-05T10:54+09:00"
+  },
+  {
+   "title": "サイバー攻撃に官民チーム",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxNXVubVRvWWNyZjE5d0RTNzJYZzJPaWRhUlVNZHJPYkhwTmozcUlCNjdXdzlqYl8walZ5U2docWdLdE9oMk5WZHVib2VtNXhVTjMwZWl5WQ?oc=5",
+   "source": "埼玉新聞",
+   "at": "2026-11-05T10:54+09:00"
+  },
+  {
+   "title": "データ連携プラットフォーム AirbyteにCVSS 9.9の重大脆弱性、実際のサイバー攻撃で悪用確認 旧環境では認証不要でコード実行の恐れ|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOVRMZzBQQmlScjFJeGgwT2x6bFV6Sm1OcE5yWW91bUR1QVg1Vm9RU3BzM1kwVW5KcnphbHBOb3FFQzZXSGF0NGZ5NjNGZEFPekFkUk5sbko4UnJpNTRSM2lZOXd6dEZQTjJObTlJQkZ1QTV2YjFNVjNkdzhoTzZGYVRrTWstOW1sT1lCTlRXUlg4WVBpdGc?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T10:48+09:00"
+  },
+  {
+   "title": "仏 血液の冷却設備にサイバー攻撃 一時110℃に",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0R2x2MG4wY0xTQ3lab0pwZ2d2bUdmRk9xZHc3TGhOdmZmTXZnTDA4ejBDdnQwOGlxN2I2enlpc2t1SlFQU0MxUXJLOU1fRkIxb2Mwaw?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-05T10:45+09:00"
+  },
+  {
+   "title": "政府、サイバー攻撃対策で官民チーム創設へ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZdGpHUzZuTXM1alpNay1QX0VqcWlpemVLck45ZUVDcjNwd3JuSGRoVjBFWTJhZFd2ZVZPV2c2V2lkQlh6UG5IMXkzY09qR0lTVVRjQlVmX1FvM2VJaVE?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-05T10:42+09:00"
+  },
+  {
+   "title": "「あしたのサーベイ」209人のストレスチェック結果など不正取得 ラフールへの不正アクセスで顧客3社に影響",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3RPMlFyX29Oa0N1RkVIVTByTEVTbWVKS09jVllsZjFzMG9ENFd2MEJfQWVab1hHTGVlUHpXS2V6NEtQVTRoanNkRU5Palo4NEtFZlpPNjN5QW5idE8xdU9pZHk4ZVduRDVrZFdjc0NUQm5FWVZ4Uk91MXFtb25JOTZIdXRWa1B4WGZKQTlmU3gzb2pDRTBWUk9yRGFyU1lhQl9BVjhvTExMaV84SHlLVVFFcTJ2Zw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-05T10:30+09:00"
   },
   {
    "title": "福岡市でマイナンバー関連の手続きをネット予約した人のメールアドレス漏えいか…「アララ」不正アクセス（読売新聞オンライン）",
@@ -404,6 +434,12 @@
    "at": "2026-11-05T10:25+09:00"
   },
   {
+   "title": "欧州スーパーの冷蔵ケースがハッキングされ「加熱庫」に 英NCSCが警告：旧システムの脆弱性が更なる攻撃を誘発か",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SV3EtZnJXZ0cxemI5enUyLWZidUhNOWtlWHdOcG5wV0tIX0FhQkdad1d1MG1oeTVOYmxObFdLUkxUMmR5WE44N0tubjU3RU1kT21YcEhJU1BYWGNaZnVUR3Y2TW9GUEdfLUJPWjFaY0Rua3Z4?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-05T10:25+09:00"
+  },
+  {
    "title": "無印良品／不正アクセスでクレカ情報109万件流出の恐れ、当初は否定も新たに判明",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50a0dUS0NKZEs2YmNPT0g5LU5lTUswWmk1aVd6TmZtOWZxc3hxZk1xc1d1X0xSdml3NGJUMlNyZGVEdkRrSHdwQzFUeEJzX1hETlp0OTVVdUU?oc=5",
    "source": "流通ニュース",
@@ -420,48 +456,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jdDNieGV1aU9NaE9qQ2hycW1qTXIyYV9ETkVRU05FdjRxakVUVEdudHdDSVlqOFhCejE0eTRHUmZ2NWV3Rm5vOHJJUmRyREo5Q2dxTURiSVU5SmZGbzlMb21WdXR1N0Y3R043Qm9uam90by1MT2hFWW0wWFVmMHc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-05T10:21+09:00"
-  },
-  {
-   "title": "フランスの銀行にサイバー攻撃 資金流出の可能性",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PY0R4VjVqb210YjRZdmFWc3llM2hYUTFiRGY0UVI1NjEzbC1jVTNGRjBCalFCMlJjQmtWVC1ZazFHMFdUU3VmeDR1STZuWWx5TGY1eUhKVkM0YnRBdmN3?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T10:15+09:00"
-  },
-  {
-   "title": "Armored Likho－重要分野を標的とするAIを活用したサイバースパイ活動",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ZV92TmVzRk9OeWtXazAwN3dXS1dVdzRkX0pmdnVYeThrOEpUQm5rTzQ4aE1IazloVUlUTDFuNWpxTG9uQ0liS3dHMGlMZ0dQU3pPMDFoTW9rZGRTZnBKc19WNHhNaGtkbEptckdFSQ?oc=5",
-   "source": "kpmg.com",
-   "at": "2026-11-05T10:07+09:00"
-  },
-  {
-   "title": "仏銀行Credit Mutuel Arkeaにサイバー攻撃 委託先経由で侵入、不正送金の被害は約1億ユーロか",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3aHMwb2xoYlNmcmhNR1pBZ0Z4RmtkdnlKazE4Mk9FazJLZG15d3pDUzFiNTBZZHk0MVl1bk5NZGR2WGx1TVJQcG1BbXVOTE5CZWhvNHFuVXh3OGZVUkdmZUhhWEk2ZWZCeEE?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-05T09:56+09:00"
-  },
-  {
-   "title": "堀江貴文氏、GMO不正アクセス問題巡るひろゆき氏の“沈黙”を疑問視する声に4文字で反応",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUzIyTVRQRnBSaUs4V0xJNDZZZFJsc1lScmRlTDdkdlNrWXJVQzUzbXg0SnN2NEFRMWFrWTZGUHROb0JqOEV6SkpTcVd4WjA3SkJTUnRtZ1ZHYjhfTFd4NVdGcTh3Sld2WXRqdWtnZWhNeU1sdmFXRDg5bXczczduV3RMU2lDbkoxUGpzNGxMQ0tobC1sOTkwOE45SWNpN21icEpQWGN3c05lOWlPWlBpa0RJZ1I2T3Q0UzVVby1RQlpITC1HV0lpUjE1NzVpcHVBa3lHM1hn0gGGAUFVX3lxTE9PWDQ5TTNhT20xTG5XenJsNWtqWjY5eFd6T1M3UjBieGY3SE5pLVFtZ1p2UWxOUENmcUpYaVF5eFRENG16RXZuY2s3dl9FWUdQbDJ5NGZzVnVLT0V1WERXcUdIRjJkblZYUGZFLU01UTQ5Vi11UWFjS1BPMXFtZUFhUVIybTZ3?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-05T09:51+09:00"
-  },
-  {
-   "title": "不動産賃貸サービス「ウチコミ！」、ランサムウェアによるサイバー攻撃で14万2,591アカウントの個人情報漏洩の可能性",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXMwZlZTc3N0TTFHUnBmQXJJYnQ3aHRZeUdsYVQtOGRtenZ0bWFGS1pPVnhkZDRUZjI1Y1ZLSk5WZmg3czVJWnJfa2pIS1lXb3V6ZDk4U19uLWotMWJHbnZzLW4tYU0yZFZtNjRYaHVvc0hMMnd2UFFWeG5IcGxFQnZ3WkhFZ2Z2enQwVFNSWGRDTUtVTlN0WA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-05T09:30+09:00"
-  },
-  {
-   "title": "Zaif、委託先アララへの不正アクセスで顧客メール38万件流出",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JSlAyQkxBWk9vQ2ROVVI4THhHY2pxWVlUQzhTMFAxSVJzeEJLendZcG1ZM0VkVldqMW9KdzF4T2xWalp6cWRWdXAyQmc5czdUTXZjdVM5M2lIS3FGUXh0SUxCWTFqUDVMMXR6TUZ4UE1FVWMx?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-05T09:25+09:00"
-  },
-  {
-   "title": "仏血液センターの冷蔵設備にサイバー攻撃 温度設定を不正変更、血液製剤への被害は回避",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ERTJZTjNkM1lOZnMyekNsT2luQnMxRUQzR2wwT2JDVkdOc19TT05tZEYxOUduSlFmeUZ4ZDFhTDlBOXZkMElGM0VaU1JMQWhodmtvRkVfb05tUlczSTRhRk1kSEZEZ2pEZGc?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-05T09:19+09:00"
   }
  ],
  "osaka": [],
@@ -551,13 +545,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "トランプ大統領が中間選挙の大敗の原因はイランとの戦闘と認める発言 (2026年11月5日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sMmI1X1ZHU0xobE5rV1l6eEwtbUJxRE9RVGp0YmZpMU9mdHQ3aTdEcnFDdy16Y2E4TU93a242ZXJfV1VJa2R6bUJKQ2FFRjZEYzhZUm5TeEE5Nm82S2c?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-05T08:18+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "11月2日、ヨーロッパで複数の航空便が爆破予告の標的になった。判明していることをまとめた。",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSG9HbEFGYkl6QVNBS1V3X0NPa3AxRjh5d2IwbXAtMDhqeVdHZmhfd0drU2VEa3NzcnM2elJRN2dvQTRVdGNQYWUyNUZFa3A3WGlOUUtWODRPMmxFLTI5UmJrZ1V4NkFETE55WmU3UEktVWZodHJFdXhuWVlDSEN6YnN5T0hGWWluOTNjM1hJeFpIOFJMWTVJTjBCQXhoTkwtV2h6d3dhM2xobk85NEE?oc=5",
    "source": "Business Insider Jap",
@@ -584,6 +571,13 @@
    "source": "NEWSポストセブン",
    "at": "2026-11-05T07:00+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "バンス副大統領、共和党敗北は「イラン戦争が原因」 トランプ氏と一線",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWdKRFdEOEh2Sy1sX3VyeVREcG5SRGxSMDdSY0Fub0NxcTlmRjZOTVJMT2FUbUNzMVdvQ016NmJlUkdmTjd5WEU0eUgyUWUzY2ozMVppWFRFY2dJN0tLOTNxdGRpdW55bXI4QXlfbGhzZ3lxY1RTS0J2S0ZfaUxxMnV2Mk5aQXc?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T06:49+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "トランプ氏、イラン攻撃は「やらなければならなかったし、これからも続けていく」と釈明…バンス氏の「敗北の理由」投稿は問題視せず",
