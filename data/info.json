@@ -1,18 +1,11 @@
 {
- "updated": "2026-11-06T04:00+09:00",
+ "updated": "2026-11-06T04:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [
-   {
-    "code": "14",
-    "name": "雷注意報",
-    "level": 2,
-    "status": "発表"
-   }
-  ],
-  "headline": "大阪府では、急な強い雨や落雷に注意してください。",
-  "reported": "2026-11-05T15:39:00+09:00"
+  "items": [],
+  "headline": "注意報を解除します。",
+  "reported": "2026-11-06T04:13:00+09:00"
  },
  "quakes": [
   {
@@ -109,8 +102,8 @@
     },
     {
      "title": "バンス副大統領「大敗の理由は戦争」米政権中枢に“すきま風”？イラン戦争の行方は",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MbjlTU0UzOERkNjl0LVQ4cVVXTmJRMWY5RVZ4d1JuSWVMQXdGV3dEZi1vMFZVSVpGTkl3OXp4MEFSc1M5eUxXSnNJME5ZcGdkMl9QU3kyZjhDX1hwanJCTW5uME1tcUEtQ2dmNnVySS1Gb1RNT2xsQTBB?oc=5",
-     "source": "テレ朝NEWS",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEZzaEdBYlkyZ0taa2ZKaFVGYTl3bW9rb3FhbXliS0liSWlKdndUT2hPazl5VUR0VHExa2RNRXo5QkVPNVdOMEZOUnRiTHNINE9mV3NKMFA3RzRhUTZVOXR2Vi1zNUtGNTJ4QUR6Tk04UzhLSllXMXNvT0tzWF9tMUQ2cFRzd9IBiwFBVV95cUxQdjV6WUc2dFFiZ05DaWw1QXRFa0RvaWJmdGVOV1NVTHg2bHFzY1pFVTVBSDJxSVFMUzd6Zl9xMm9xVjJYcUdpT1pOV2hoaExQSlZCWWV5NjFjUzZMbXpabnBvblBSVW52TEpRNE9KaWMzTFI2eVBCSmIwQTFDMU45NUN1VkVmX3llQ1Br?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-05T23:44+09:00"
     },
     {
@@ -157,7 +150,7 @@
     },
     {
      "title": "「トランプ大統領の合意を議会が揺さぶるか」…米民主党圧勝受けた中国の計算",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOVF95Mm5fMVFEWmltY3hTS0NtLXNHMjdNaHJ1QmhhWk9qSFh1WG54b0R1a0RKbHNBSGxKelVxNElFbWlVWDZjbm1HUVJsMDJISFNtQmZuYzM0MGpiS1U0NzFEX1JIV3PSAWxBVV95cUxQOElZRnlLNWEyY1RtYzFzTnVOYjFrTDZLNThfdU1zcHNnQkozYzIzQzNhdkZKRkRzclg2MUxfbmFRYUZwQjVfdkZxWEF1dDlCeVdHSW1DYkpnTGFyQnpMd3NWNUhBUkhuOGJNaUw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTNIBbEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTA?oc=5",
      "source": "Infoseek",
      "at": "2026-11-05T17:57+09:00"
     },
@@ -185,6 +178,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮ミサイル 試射や発射訓練 新型や長距離巡航",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55VDl0bXpNa0ZBMGZ2bi1PMFMyTWp1eHVPSzlXcmRYSGt5NXFJZXlmWWN3eWJBZ1JVWm1EcHdTR0VDemdxa25mQmRBMzQ2YUxVWFBja3VVRTQxc0dyanc?oc=5",
+     "source": "沖縄タイムス社",
+     "at": "2026-11-06T03:57+09:00"
+    },
     {
      "title": "北朝鮮が「新型対空ミサイル」の試射と「クラスター弾頭付き巡航ミサイル」による滑走路攻撃訓練を実施（JSF） - エキスパート",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcExpeWxOY1lqcjhuUnpCT3RoTlJzb0QtWUdDbFdDd2Y3SFkzbTZGRVFrWFNIU1kwel9KbkJ3SHZwRVVOYVFxQk9feFpNeV9SdGZfMk96OHZyQVdDVE9QZEd6Sm9ZdVpodmlPVHlidURVOHZ6MUZRcHl5TE8xaS1ROWFxaEpjZTRV?oc=5",
@@ -214,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kbjJpdmFlUVJ2UXdWNHVxTWlsR21RRWstRFhNbWdVVDgyZkRialhQMW5wU2loTG5zakw0TVdOcWx6WE9SUlVYSWNkdmNvTTRTd3laaXJJbw?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-05T15:35+09:00"
-    },
-    {
-     "title": "北朝鮮が新型対空ミサイル試射 巡航ミサイルで攻撃訓練も",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KbU56T1B4MlpNZDUtcWI4YTZUc1YwZ3NPYVdqdWZtbmNjY0pRUFp0X09jMEE1c2dIOGpoM2xCZTVVUmlsc3BUd2RfSERmdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "at": "2026-11-05T14:52+09:00"
     }
    ]
   },
@@ -347,20 +340,7 @@
   }
  ],
  "outage": [],
- "japan": [
-  {
-   "title": "神戸市の試験放送は11月11日｜Jアラートの放送内容とスマホ通知について",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtdnl0QXA4d3NBVmpBcXJWWW1iTVZUNXU4VnBsNFJsalN3eFVzMFkxSUlTVGxKSlc0Vzlhd2o0NXd2UzFpb3BZbUh0Szgwa01QS3psTy15YUlld05jb0dN?oc=5",
-   "source": "選挙ドットコム",
-   "at": "2026-11-05T19:59+09:00"
-  },
-  {
-   "title": "震度5弱の地震を想定 Jアラートの緊急地震速報の訓練 岡山",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wc21pSnFocllwRUREdHh4VFhYdzhnNHBLY3JManFhVVNHc2hYcGtySmVtM19sMXhkWWlZZjhaLTNFS0FhdHk5cnNtY2NpSGRHSHdtdUR5OEh2d3BfZ1lz?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T14:49+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "【復旧】ドコモ通信障害の対象範囲を特定――「5G SA」契約が対象、4G設定への切り替えで回避も（ITmedia Mobile）",
@@ -417,6 +397,24 @@
    "at": "2026-11-05T22:15+09:00"
   },
   {
+   "title": "米当局、冷蔵・冷凍設備へのサイバー脅威警告 ＦＢＩなどが共同声明",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2M2VXcUxIbjJ5aGhLTEZtd0lkVkNtN2xGdW9MZFhZRnlPZE8yOURPQ1FGQU1PSWtjOFRDUFBiUlMtRHBTN2ViYUdHTlJOWTJjZ1h6RzNzcTgzZw?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-06T04:02+09:00"
+  },
+  {
+   "title": "サイバー攻撃、救援隊派遣 政府、官民専門家を被害企業に",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nbWg0TmVmNWNoNF9wSnJwTDdTZHVPdUljQmJ1NnhQTDQtaVFwX2w0MDBhS3JmdGs4bzBEbThWbHNneWxmS1oxVjlKbzJiRW5lNEFMWlQ2SGtNSGc?oc=5",
+   "source": "山陰中央新報デジタル",
+   "at": "2026-11-06T04:00+09:00"
+  },
+  {
+   "title": "三井住友銀で情報流出 アララ原因 ドコモに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FQTZuQTE4Q2pRVEtWVTVBMUhOX295YUlya1JEZGlQdFJEU2VJdlRNNnVtU1ZYcUJoYzJwbWF3X0tMOU9kZzJ0bFR6UnZxdXk4TzJ1RU90UFUyMVBlcmc?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-06T03:59+09:00"
+  },
+  {
    "title": "『次にランサムウェアに狙われる企業の特徴とは？』というテーマのウェビナーを開催",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93N2stVVN5V0lMVklCUjNpYnY0V0tQaV9maEJUV0ZaMkpMMi0xRl9zcmt6aVNXWEl3bjhNX253WUc2NDhmRnlCbzZaUF8tU3VzUlZSSkZiUGV6Vjc2dXpLLTlSSEdvZWI5NEN3SzM2UG92QQ?oc=5",
    "source": "Infoseek",
@@ -433,28 +431,17 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM3hOOFBBOGxTUU81Z0ZWMFpfV3lNZHdoNFY3TUxOY3VSSWhDSXJIekxWRE9GRUJxLWY5dEhUMnIxNDNpS01kOF9iNG4xWkN2UHJGZml2Yw?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-06T01:47+09:00"
-  },
-  {
-   "title": "日本郵便、顧客の名前計３７６３件が漏えい…集荷・配達業務を委託している業者に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5taTlPUlV1cm9iTnZtd3NOcDFzOEtvakNjeFBtUWlkZGRPQUlKcnRrWU5yb0x1cVdvZmRBLXJlRzlwLWZJX2c1eldWMDBYdmIwUHB3WnBzcU5EeUxCTDJDaVZremc?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-06T01:47+09:00"
-  },
-  {
-   "title": "フランスの銀行にサイバー攻撃による不正取引、１７８億円相当の資金流出…血液バンクで保冷庫の温度操作も",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHOEp3TnZZVnBVeHRfVW5vaktRb0lnb2wzdUlqck1lUzdOSW1qcVZieE9YeHg2MkRSdUhteEtUc1BsVEpsTnFqQUdsQ0V5VzVqSUJqM3diNUtvSTVGa2tIX0pR?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-06T01:07+09:00"
-  },
-  {
-   "title": "【更新中】宝くじサイト 勝手にパスワード変更される 年収や保証額も漏えい 三井住友G保証会社 「無印良品」で約109万件流出か アソビューでは約1582万件流出 不正アクセス情報まとめ",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-06T00:46+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮ミサイル 試射や発射訓練 新型や長距離巡航",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55VDl0bXpNa0ZBMGZ2bi1PMFMyTWp1eHVPSzlXcmRYSGt5NXFJZXlmWWN3eWJBZ1JVWm1EcHdTR0VDemdxa25mQmRBMzQ2YUxVWFBja3VVRTQxc0dyanc?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-06T03:57+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "ロシア・ウクライナ代表、メラニア夫人主催の式典に出席 オレシュキ停戦を評価",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1VjUkJ2S2JuTlpZeGtmX3pCWjdsNVhXTHJBdDhpTTVGTS1aUDFkWl8ya0ZyT1RhdGZvcVdfcjhaaHVtcFV2ZTdYOXZlemhrMFV1NGlVZHI3OGltdjF1ZWxNOEFJdWhoZGM0U0JqbzltcGZNUlFQa25ZemZtNWpFTWVKbUJ2aVNuSEFFampR?oc=5",
@@ -513,8 +500,8 @@
   },
   {
    "title": "バンス副大統領「大敗の理由は戦争」米政権中枢に“すきま風”？イラン戦争の行方は",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MbjlTU0UzOERkNjl0LVQ4cVVXTmJRMWY5RVZ4d1JuSWVMQXdGV3dEZi1vMFZVSVpGTkl3OXp4MEFSc1M5eUxXSnNJME5ZcGdkMl9QU3kyZjhDX1hwanJCTW5uME1tcUEtQ2dmNnVySS1Gb1RNT2xsQTBB?oc=5",
-   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEZzaEdBYlkyZ0taa2ZKaFVGYTl3bW9rb3FhbXliS0liSWlKdndUT2hPazl5VUR0VHExa2RNRXo5QkVPNVdOMEZOUnRiTHNINE9mV3NKMFA3RzRhUTZVOXR2Vi1zNUtGNTJ4QUR6Tk04UzhLSllXMXNvT0tzWF9tMUQ2cFRzd9IBiwFBVV95cUxQdjV6WUc2dFFiZ05DaWw1QXRFa0RvaWJmdGVOV1NVTHg2bHFzY1pFVTVBSDJxSVFMUzd6Zl9xMm9xVjJYcUdpT1pOV2hoaExQSlZCWWV5NjFjUzZMbXpabnBvblBSVW52TEpRNE9KaWMzTFI2eVBCSmIwQTFDMU45NUN1VkVmX3llQ1Br?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-05T23:44+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -587,13 +574,6 @@
    "source": "au Webポータル",
    "at": "2026-11-05T19:42+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
-   "source": "TradingView",
-   "at": "2026-11-05T19:39+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -624,10 +604,10 @@
      "at": "2026-11-05T19:42+09:00"
     },
     {
-     "title": "北朝鮮が「新型対空ミサイル」の試射と「クラスター弾頭付き巡航ミサイル」による滑走路攻撃訓練を実施（JSF） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcExpeWxOY1lqcjhuUnpCT3RoTlJzb0QtWUdDbFdDd2Y3SFkzbTZGRVFrWFNIU1kwel9KbkJ3SHZwRVVOYVFxQk9feFpNeV9SdGZfMk96OHZyQVdDVE9QZEd6Sm9ZdVpodmlPVHlidURVOHZ6MUZRcHl5TE8xaS1ROWFxaEpjZTRV?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-05T23:59+09:00"
+     "title": "北朝鮮ミサイル 試射や発射訓練 新型や長距離巡航",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55VDl0bXpNa0ZBMGZ2bi1PMFMyTWp1eHVPSzlXcmRYSGt5NXFJZXlmWWN3eWJBZ1JVWm1EcHdTR0VDemdxa25mQmRBMzQ2YUxVWFBja3VVRTQxc0dyanc?oc=5",
+     "source": "沖縄タイムス社",
+     "at": "2026-11-06T03:57+09:00"
     },
     {
      "title": "欧州の旅客機25便超に爆破予告、目的地変更や戦闘機護衛",
