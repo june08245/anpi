@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:00+09:00",
+ "updated": "2026-11-05T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -271,9 +271,9 @@
    "items": [
     {
      "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ockR3SGRoeVFMblpmcE0teF9seU5Wd1hkNnZoNXBuck1XQV93N3M5a1poNGxYT1ZYQl9wTnRqeTRzVTlUY2dNNWJ4SHg0QXhFcl8wUHNMQ1BKQQ?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-05T19:54+09:00"
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHlQWl95bG1fTllNQ2NtYzVZTXZiUzZGTFhITmRITW1yVFExV0l3WW1UOU1WbDAtV3RiRXB4VXl2NmFxUTgyOW4tUkhHUXVCc1h1YU9xbU9lS2IwMEtFck1Jb09JTk9nTDhSQzltNkRyQXdBM25KaTNJT01oWDRVS0stLUFKSmc?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-05T19:55+09:00"
     },
     {
      "title": "欧州で旅客機への爆破予告相次ぐ　1日4便が目的地変更など、爆発物なし",
@@ -355,6 +355,12 @@
    "at": "2026-11-05T14:49+09:00"
   },
   {
+   "title": "北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か（字幕・4日）",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PQWFPR1B5LTN0LTRnWF9iS3RORkg1dG5oRFJJZkpRR1dkNkVERm1HZjlROVlVdnd4NENGa2VhTTRnQUhwTjVDcW5fcXRWbjdwS3l0bTFqR3J6OFdrM1FrMl92NVpUM2VvUWhkbGNtVVNmdmkzVVVPMnpuNlp4dw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T03:31+09:00"
+  },
+  {
    "title": "北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイルの可能性」と韓国メディア アメリカの対北政策転換狙いか",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzEtT2ZRUElOZFJYX1lwUE0tTXZTZU42MVVJaExRRzFBa05Ia2t6RVVQTUMtUklwMmJiYnJsOEExT0xlNUttZFBKMmFVbHpRZnV4aWtGcTZPRkFrUHo0TGRUajZCTThFYUU1TDRB?oc=5",
    "source": "Excite エキサイト",
@@ -362,6 +368,12 @@
   }
  ],
  "cyber": [
+  {
+   "title": "外部サービスの障害に伴う暗号資産の送金の受付一時停止、および送金申請のキャンセルに関するお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1Z2IyYzhJMEJ3MFhsblZKN3pPTzVnMmZ2MXpDS0ZpTE1ScGN3emw3YVl4WkZqQXlRRDBTMmZkU1lUdVJVdnk4QTlySEV4ekc4RVFObmNpU3k?oc=5",
+   "source": "コインチェック株式会社",
+   "at": "2026-11-05T20:01+09:00"
+  },
   {
    "title": "NTTドコモで通信障害「5G SA」とは？全国で通話や通信が利用しづらい状況が続く",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUZTZ5REdTR1V5dFNVVUpFX0doNmZxZ29ld21nbEEtbjYzU05MVEhraGtSb2ZZeUFTbVZTTFRQQmJOLUc3ZC1IWTFsQ2gwOEdEQktrS1VFQ0puQ19wamJ3QUF0a3NDbGdDRkVtUXh6MnNfTnM?oc=5",
@@ -387,10 +399,46 @@
    "at": "2026-11-05T18:24+09:00"
   },
   {
+   "title": "KDDI、自転車サービスで顧客情報漏洩か 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94SGhFaEdxel8tNm1GcGRHQlBqQU0wM2pOc0N0eG1hMmxiQ3Vpb2ZPNDljV0ZuSzhqZTlpUk10VDJqSkoyVVo5Qkt4RlVsYUVMQk5OZ3JBbDA4SUR3VUg1MldLNUlaekdTT1plMg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T20:10+09:00"
+  },
+  {
+   "title": "ドン・キホーテ委託先にランサムウェア攻撃、時計修理依頼者の個人情報が漏えいした可能性",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KY05wRkh0bHU2dXRKM1RiUnlTZnp4Q1VWVGFpRG9keWptaF9WZ3pPdXpiTmZVTWIxLWRLR0o2VWxFTk1kTm5CckxzQmFkODdlSWE3cEttQWpiVF9Qb1MwRTRZZ3dvdlRpSGFBWQ?oc=5",
+   "source": "ScanNetSecurity",
+   "at": "2026-11-05T20:05+09:00"
+  },
+  {
+   "title": "相模原市、サイバー攻撃想定し訓練 不正アクセス問題で対応方針急きょ策定",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CdjFQUlVRejJqdk02U3BJc1RIQ0lPWDRrVnhac25ZdHFqbkcweXE1dkc3SDNuenI0WlpVSUZpOTU5enlKczFtWDgtYTJhaEw4Z2hKVTRKNHQ4TUJWWlQxR1dBU0kxUWRzaDFiUA?oc=5",
+   "source": "カナロコ",
+   "at": "2026-11-05T20:00+09:00"
+  },
+  {
+   "title": "サイバーテロへの対応学ぶ 徳島県警でセミナー開催、企業・団体の担当者や警察官ら約50人が参加",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zSF9tRnlvbHltYkEtQkR1M2ZtQ2dWRXhaZGl2aHUwbjJvRjNnWnBENC1zNURrajlYOHZocjJrMm9xanBIeV80dnNnUzNkUmtOWG1OQzNn?oc=5",
+   "source": "徳島新聞デジタル",
+   "at": "2026-11-05T20:00+09:00"
+  },
+  {
    "title": "またもフランスで“温度操作”のサイバー攻撃 今度は“血液”を標的に",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81Smp3dFREbE8wUm11NTNLSUdSWXJpblowMTRwek1yN1J2Y0wwbXM4ak9jYXpCNlo3QTYyVmx0VXVMSTBkcmVLNGRwYnJiMkZ3ald2dUc1M3UwandMd1U2TnAzd3JGd1RWaEFETTNWRkE2WFg0ZFA0VTRn?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-05T19:54+09:00"
+  },
+  {
+   "title": "ドコモ「５Ｇ」の一部で障害発生…不正アクセスで「マイ　ドコモ」などから個人情報３０万件流出",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZHVHTVg2c1Z4UVFwcFR2S0l5SjdqTERTemtDWkptdUstLTB6YWVvdmVpc2pkZ3dld0FKQXhoTzBUTDNOY3FKM2xrQ1RjbkxoT3JxWFl0X3lJMWp0WkNvWHFtRGFXemYxZHNFMUg2eWFCNUpUU0JRUXZlNnpucVZYbGM4MjlEelXSAYwBQVVfeXFMT21WUW9EQ1lfQVJ0bmVKdlNjRTc5RnNEVG1Dd3NpVXU3akZTeWFaLVI1YXF5VmtqSjV6bnlHV2R6TWJXMGZmQWtpc1VoWDNZOE9FdnVCT0hVSFZMWEFoSGtWcm5xTWROczJkZTBweGZzd2lNdzIzSjVQQjJxWFdTVUxMTnQwWVotcDF4Uk8?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-05T19:54+09:00"
+  },
+  {
+   "title": "日本郵便、顧客情報3763件漏洩 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42bmZNT3J0aUg1a0psZUhGZUhYc0RpbWFSUGcwcTlRTk5pTl81VFliR0MzY1BwZWxWVk9MbjczeDdPb3gtWFpVbk0tdmhsQ09LVHNEcU9OMV80NkI0N2ZIeVdNSTlOOEJJNUxicQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T19:51+09:00"
   },
   {
    "title": "有事の安否確認に使う総務省システムに不正アクセス 漏洩確認されず（朝日新聞）",
@@ -405,61 +453,19 @@
    "at": "2026-11-05T19:49+09:00"
   },
   {
-   "title": "仏血液公社の冷凍設備にサイバー攻撃",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DZmppNVlybV9hMV9PREp5TEEwR3ZlREhmdFFUWV9yWDNUUG5pdzlBMWdVdTV6T0VzbFluS0dwMWI3aWRBTWtQRjZqdHpHYjhsV2FGTnYySWhPYkRVeFE?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-05T19:46+09:00"
-  },
-  {
-   "title": "【速報】ドコモ 不正アクセスで顧客情報 最大約30万件流出の可能性",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zbTR2Ti11OGZ3UXNPN3pwQl9iQ0Z4M2lKTk90amNGSjQ0WWxkcV9tTW9WbE14bE96MzNkOGNxandHODVnWkh1aGQtQ3l6MXpDTzFab3V4VQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-05T19:45+09:00"
-  },
-  {
-   "title": "花巻市､マイナンバーカード予約のメールアドレス約5000人分流出の可能性 個人番号漏えいなし､不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50T0RVNjhyV1R4V3U0R3BQOHlFaXVVTkd6ZHpzZ3ZPVTRrWWdEMFJpNnA1WDVHUUFQQ25VdEQ1NmZ1WkEtaWhwM01RcFNtdHYxSUpqWWN0Y0FKdmdSc3phVA?oc=5",
-   "source": "岩手日報",
-   "at": "2026-11-05T19:40+09:00"
-  },
-  {
-   "title": "警察庁長官「無害化措置含め戦略的実行を」 不正アクセス対策で（毎日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQ2JXQ0g2MVZLUjVBbEE3NzcyR3RxWFVFOUJQZTBIYnhuTWdiNWllb3VNWm00VjRxcjBSQWx6Nl9kZXFNX21VT1NVdUhWZXY4MnZrajZBUW4wUzdzYkcwcTVENmJobzYxLW9zX0xfMldkb2J4emJIY1l1RWlLWVk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-05T19:38+09:00"
-  },
-  {
-   "title": "ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OS19iV0xaUmJpSFVDb0k4TENMdzBJTVh0WkhWelZlWUhQMkI0NEEtSVJmQnpIeXlQalpyMmE1bWx3cE15WVExVWdEUGtGVmt2QldOVUpTdi1tQnB3end3?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T19:31+09:00"
-  },
-  {
-   "title": "【速報】愛媛銀行提携先が不正アクセス 運転免許証番号や勤務先など漏えいか（2026年11月5日掲載）｜南海放送NEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNU5IQzBZUTJ6Tkh1Z0lwNjRhajQ1RHh2anVzTkhOdHNlVmtGZTZsams3T1BycllYcHV1dEFuNFdzdmtwZDZILU9fN3drdFFOSElodmlaNi1lN3EtR3lVeVpoU0hMQjhmdF9kam9JdnB1QTE1dl9kbE1EYS12UE1KV3hwRlV1LU0?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-05T19:23+09:00"
-  },
-  {
-   "title": "相次ぐサイバー攻撃の中小企業への脅威 名古屋銀行が挑む「サイバーセキュリティお助け隊」",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0U21NV3RKdlpYbXVuUExCMVBoZS01YTltRmlrVnhsV3BaSTMzdnVJT1RzazRfMldJbnoyNFNnTDdfSFFBQ3gyV0IzbFNqdzVuMVpBa0VDZHlUem8?oc=5",
-   "source": "愛知のニュース",
-   "at": "2026-11-05T19:19+09:00"
-  },
-  {
-   "title": "ECB決済戦略：デジタルユーロ、現金、トークン化の計画 - ニュースと統計",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaElFRUc2dVZHRFdwbWUwbG9acWs4MUk2TWNLN2FURGhsQng5REJTeUpUdGJiV3pKUzBpMFN6cDRFVFZZZU1SbV9LVTJ5dFBsaHM0cWhYOXJNUE9UeUQtSm9kOTRQYzlWMVlpc290aHBxaVRGTW5XRWU0WkdMeEw2d1pzd05CLUtBTmY3ZjRhQmVWR2pyZ09ZLWs4TDJwdXBuenloSDdobmJSSlZJ?oc=5",
-   "source": "IndexBox",
-   "at": "2026-11-05T19:02+09:00"
+   "title": "カカクコム、個人情報約570万件流出 アララへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySFhiX0pFd2N1eGtJdVNCOWp0c01kd2hhZFRyN051UVBoeHRvYTJVVzdRaHFyRUpJc1N6WHVEQnhHVVNwSGJ3QmVURkc5VWlvY2hfVzRzRWdwMUVUclhoR3V3c29NNUkzQXREbg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T19:49+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
    "title": "欧州でまた航空機爆破予告、仏・ベルギーなどで緊急着陸",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ockR3SGRoeVFMblpmcE0teF9seU5Wd1hkNnZoNXBuck1XQV93N3M5a1poNGxYT1ZYQl9wTnRqeTRzVTlUY2dNNWJ4SHg0QXhFcl8wUHNMQ1BKQQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-05T19:54+09:00",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHlQWl95bG1fTllNQ2NtYzVZTXZiUzZGTFhITmRITW1yVFExV0l3WW1UOU1WbDAtV3RiRXB4VXl2NmFxUTgyOW4tUkhHUXVCc1h1YU9xbU9lS2IwMEtFck1Jb09JTk9nTDhSQzltNkRyQXdBM25KaTNJT01oWDRVS0stLUFKSmc?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T19:55+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -606,7 +612,7 @@
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮が日本海に向けてミサイル数発を発射 「近距離弾道ミサイ）"
+    "弾道ミサイルの報道（北朝鮮が弾道ミサイル、日本上空通過し太平洋に落下 中距離弾か）"
    ]
   },
   "world": {
