@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:45+09:00",
+ "updated": "2026-11-06T01:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,10 +228,22 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "プーチン氏、ＪＴＩのロシア資産を一時管理下に 大統領令署名",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmRicWtHcDhjZ0pfTkItYURLdDduUnlWUzZiV013ajN0dFN5ZHV4SFNvTGYtZDhvcm9CejlBbi05b3BnZFo0Q3BkSmk3LWJ3LUtaYWZMY0ViNmRBY0FPUmozUElYSWVXekE1UzZ1TFZYaUhYSWQ0UnhUa2lpUnZSTDlPYmFCU0k?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-05T23:40+09:00"
+    },
+    {
      "title": "ロシア、JTの現地資産を一時管理下に プーチン氏が大統領令に署名",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3RzUGJpSGRFNXlHY1F3bVRiTEMzQnZqdUZnWlJCbXp3anU5Tl9zRXE5X3JLZjd1ZTBHeVlYOC1lbVR3Zmw0S0c5dzdLWXgtcTBOM2tadEJRdWxaZ1E0Ni1zSGZvbVE?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-05T23:30+09:00"
+    },
+    {
+     "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQ0RGTE94Ui1pRmlOLWJ6a1FGc0EyVEdaYkZkdUhhNDJOOUNhZjFZU3hvUG1mLXZOcXVLdlM3c1EwRW1WSWp4STRIbFRudlNLQVRjazlZdUZjSDhpREY4N3pwUkNUSTR0?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-05T23:12+09:00"
     },
     {
      "title": "プーチン大統領、JTのロシア資産「一時管理下に」“事実上の接収”",
@@ -240,28 +252,16 @@
      "at": "2026-11-05T23:11+09:00"
     },
     {
-     "title": "プーチン氏、JTのロシア資産「一時管理下に」 大統領令に署名",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTdRcE9MeUJUQzhZTEkyNGY3djRkamJOV3UxbUk3dzJVczVqckV2Y0xNeXQ0RGxNRVZkLThNa1hFaFZYQy1uYzZ4RFJ2LXp6bWlmT0c5Mm84U0VPTkYtYkQySHpYUlZsSlVJSQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-05T22:50+09:00"
-    },
-    {
      "title": "JTロシア事業を暫定管理 大統領令に署名（共同通信）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM1pTVHRZUTFGMk96Z0pWVE1qOURBeWF4LVNTV2huZ0xWY21uaTJfOXRaZHJLa2t0ejdtWHVWUmszOGVoZ2QyaGdGQU5qejRvd0VHZFlvRGxDZGtTTTExNFo0blpSRGJDOE95c2NZN3c2bVphUkpCWUgwX1ZHNXc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-05T21:55+09:00"
     },
     {
-     "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-05T18:18+09:00"
-    },
-    {
-     "title": "ハルキウ州、ロシア軍の砲撃・攻撃の被害への対応と重要インフラの防護強化を進める",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHVMS19fVDc2cWZGRjUwb1ZuV1JINmdvUE5MYzJWdm5UZnJDaFhuOU1FWmNMOVdjQlBzQWRVT3JsMEp6a3BzLUlwUnlRekhoeTZRblVXeXJiU2tySW5pM0pWeFVLZkl2dng3S1oydnozbENuZVJJQmhFODFudzBTNlFUb05wcnc0LW10bUVvMzdIWW4zcUVYcG53?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-05T16:22+09:00"
+     "title": "プーチン氏、JTのロシア法人を「一時管理下に」 大統領令に署名",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTdRcE9MeUJUQzhZTEkyNGY3djRkamJOV3UxbUk3dzJVczVqckV2Y0xNeXQ0RGxNRVZkLThNa1hFaFZYQy1uYzZ4RFJ2LXp6bWlmT0c5Mm84U0VPTkYtYkQySHpYUlZsSlVJSQ?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-05T21:44+09:00"
     }
    ]
   },
@@ -270,8 +270,14 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "欧州揺るがすサイバー攻撃、スーパー冷蔵庫に続き血液保管施設も被害",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0xJZ3dqZm9YaWkwTURnUlNvdFVycUtOMjZxMTZNend5RV9wVWtxZ0RleDNrSE9fMXp5ZUxYR1NZVDBwOEhJYjF4Q3FvNndWZVdMeGVaWVBXTExXWG9qOWN1RWlmZlhrVzRGT2VEMXpBWGVBTXNPcjZycGgtclVmRE5zMm1meEpN?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-06T00:39+09:00"
+    },
+    {
      "title": "欧州の航空会社に再び爆破予告相次ぐ－目的地変更や戦闘機護衛も",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNllnTGZUX3RocjQ5cVZyeGMtVlFKa1paZldDRGg4a3dMU2NlQkpZeTFQV1ZoeHY5cmlsZ0R5TWJvTmIyUWFCZVBhRFpNdVJlQVFlSzJsdXBwNGFOeXRxRFNmWUluVWQwSU5hSkc3YmVPWVhGblJ4bmxfMVBpMmV2bzZBbjBqc0gtMXpvQTF3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51MnREaUxPX2JHWFc1TDV4aGJNaEFnTUFnbXhKSzB5Q0NWbWlTd3dsNmNic05OZXRZbXZia19JT0pQQXBDdlVDblJ2eDZPMDRqN3FVT0tYVk15UkRSLW5PeGxuZUxHWHZwYUZkYUdZajFaeDJyZVNN?oc=5",
      "source": "Bloomberg.com",
      "at": "2026-11-06T00:29+09:00"
     },
@@ -298,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNi1yV1BhTWZpV2dJLVRoZXZqa1ZTclY5TE5ZdGFTMENabzI2RU9fd0dYSFRDMmljVnFfVE9ZWDRKSWJVN3lhTEt2V3VJazdSTHNGb2NBdW84T1o5cUZYOU14TmxyUlBhZHdidldLTE9XZ0dDZ0JveDZKaWx4LWhISTVkbmdVTWw5X1BqY2x1dUlHQm91Q2c5QTNCU2kweUh0eDdVVG8wYVFPM181MUc4dE1acFlmbVdzX01Md1Rlbw?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-05T21:11+09:00"
-    },
-    {
-     "title": "欧州各国で航空機に爆破予告、今週2度目 妨害工作の一環か",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHlQWl95bG1fTllNQ2NtYzVZTXZiUzZGTFhITmRITW1yVFExV0l3WW1UOU1WbDAtV3RiRXB4VXl2NmFxUTgyOW4tUkhHUXVCc1h1YU9xbU9lS2IwMEtFck1Jb09JTk9nTDhSQzltNkRyQXdBM25KaTNJT01oWDRVS0stLUFKSmc?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-05T20:46+09:00"
     }
    ]
   }
@@ -329,9 +329,9 @@
   },
   {
    "title": "南海トラフ巨大地震に備えよ！「津波防災の日」に県内各地で「シェイクアウト」約２５万人が参加【香川】",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PWGk4SWt4LV8xbERtVXZFWG90SldmLW5sbzZWWF9JNEhuSmstSkxleWNGOWxtaGV4Y3hDQXNnM0ZFOG5ETXBKRnZVZXJCQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-05T18:00+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfWFg0OS1XWk03YjR6NC1sc0ZtNzNpXzVZV3VzbmlCb3NjNU1kWkkwZXRaRnR2bDI3RkpqTmRDOE8zYjh0TnhsOS1WMEJGczV3?oc=5",
+   "source": "OHK 岡山放送",
+   "at": "2026-11-05T18:13+09:00"
   },
   {
    "title": "新発足・防災庁に高知県も“期待”財源を積極活用で対策強化へ 細野大臣「大規模災害で意識するべき第一は南海トラフ地震」述べる",
@@ -387,16 +387,28 @@
    "at": "2026-11-05T22:15+09:00"
   },
   {
+   "title": "欧州揺るがすサイバー攻撃、スーパー冷蔵庫に続き血液保管施設も被害",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0xJZ3dqZm9YaWkwTURnUlNvdFVycUtOMjZxMTZNend5RV9wVWtxZ0RleDNrSE9fMXp5ZUxYR1NZVDBwOEhJYjF4Q3FvNndWZVdMeGVaWVBXTExXWG9qOWN1RWlmZlhrVzRGT2VEMXpBWGVBTXNPcjZycGgtclVmRE5zMm1meEpN?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-06T00:39+09:00"
+  },
+  {
    "title": "アイリス、770万人の情報漏えいの可能性＝不正アクセスで(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNzlDX0MxYXhvRGZqT1pwYVYyWS11WGtjTnY1Y3pLck10ODRTbFYzNEMyNnJ0THNReUc0ajBZeHFiWllXQ0NzaU9YQmpQdWM2Wlp0WDJscnFHTU1nUjd1Vlhsei1ybEFxY1lfS0I2UnNPR25UOVhfMEtjNEYyUi1VOFFEMXBDT3M?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-06T00:38+09:00"
   },
   {
-   "title": "NTTドコモ 顧客情報約30万件流出 オンラインショップなど不正アクセス受け（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14aURSTmlpYk1iWXhVbWVUWVVoUTc4dUhQWlMzNXdMa1RUd2QzTUFubGJQaVJ6Q3hoN0I5RGtkQjVkQ1Z3dzFMQy1CNlpvNnF2UXlnTHNCYVNJcVdVZHU3S2FPX2QtWU5lc2NwVTQ3Q2RSR0dKOFFkZUxTcTY0b28?oc=5",
+   "title": "「au自転車サポート」で顧客情報漏えいの可能性、委託先に不正アクセス（ケータイ Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00OWQ4M3FWdXNiNVFqTEhqS1plWE5SLUhMcGtXbWVrcEpDZ0pPYXR1Y2d2OTNqRWRpa2UwOUotMDVRRDVTNjRhaGg4U1BKZ1V4cnFrUWtod2JtdnZ3dmtPckVkd25ZTWVNZkIwQ1pVX3ZsTW9KT1dwRnlHNlhJSTQ?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-06T00:14+09:00"
+   "at": "2026-11-06T00:31+09:00"
+  },
+  {
+   "title": "NTTドコモ 顧客情報約30万件流出 オンラインショップなど不正アクセス受け",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PLW5fVGRUUGtSQmNTa1ZlZERjZ0xFdDgxS3VLT3ZFekpqSXpOZlcwUVozYUpydUR2Z25rWlRDQVVGNkQ2bGNmWVJNZDZMdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-06T00:05+09:00"
   },
   {
    "title": "アララ不正アクセス、影響広がる カカクコムや三井住友銀行でも漏洩",
@@ -423,16 +435,10 @@
    "at": "2026-11-05T23:30+09:00"
   },
   {
-   "title": "松井証券、顧客のメールアドレス最大８３万件が漏えい…「アララ」に不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81TXg0ZEpjUEhfX3dnWlBlbHRyMllvd0RhMkJ4VVFDWHNGYkNBSHRxcGRieWJwcEhrcmlIeEtSMDhzYU1BX3FIaWx4THBaamJEbXBVVUZOb19YVkgzQU8zVTRoeGg?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-05T23:27+09:00"
-  },
-  {
-   "title": "北洋銀行のカードローン「スーパーアルカ」利用者情報がカードローン保証会社への不正アクセスにより漏洩",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTVFHMzI0Y3lRa05GejBnNlg4VzJKYUlmeFAzb3FxNVN4NENfTnZjamJZY2J6YzlYTkhaZG52bVJwVXRTdXF5TVEwWFFQblQxeWFWVTU3NlFtVnJQSTliWnJZTHNHcnFBVVJ2Z192aTJncHpxZjdCaDAySGhENGs?oc=5",
+   "title": "松井証券、顧客のメールアドレス最大８３万件が漏えい…「アララ」に不正アクセスで（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XVmFkOHd2b3M0QlBBYmhfendUSHlqU01UMXVONGpkYlpWOHNQSnpINjJRTlVuYXRSelVRdXlPZE9VYkhud3ZCaXYteEVFdHFaSTJ4djN5aXpUNDNnQTFTVUxCY3BXY0EzOEFfSXFZdWNQM2g1dXVObTVtdkp5UEk?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-05T23:26+09:00"
+   "at": "2026-11-05T23:28+09:00"
   },
   {
    "title": "アイリスオーヤマ公式通販サイトに不正アクセス 770万人分情報漏えいか",
@@ -445,19 +451,20 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NdXN0Z05PeTF6c2ZoYTMzV1ZwNXRscHllVTRBbjE1YU5TZmIwRkZfNGRHOWY4TkVyU09iZjFuMmRFM280ZTJQYnkxOFpGS3B6WlJYZUlsTG1DMVd3SHh2QmFoUEtyX3Z6ZjduMQ?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-05T22:59+09:00"
-  },
-  {
-   "title": "ドコモ、最大30万件の情報流出＝不正アクセスで(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0pLWjF5b3FtakNObTBWbkNvYTFfXzZERnB6YkVvelNRU3lRM3ljUENRVWw1WnlFX05WcUJmZFg5V2RZazY2eDRsZnlaNXFub0czQmVGVnpZQnhOWGh4Ql8wSEZ2NWFYY0xEY3RWcnlkU2wwcVpjYlBMYXU3SlNZRHZNaWF0MjQ?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-05T22:53+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
+   "title": "欧州揺るがすサイバー攻撃、スーパー冷蔵庫に続き血液保管施設も被害",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0xJZ3dqZm9YaWkwTURnUlNvdFVycUtOMjZxMTZNend5RV9wVWtxZ0RleDNrSE9fMXp5ZUxYR1NZVDBwOEhJYjF4Q3FvNndWZVdMeGVaWVBXTExXWG9qOWN1RWlmZlhrVzRGT2VEMXpBWGVBTXNPcjZycGgtclVmRE5zMm1meEpN?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-06T00:39+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "欧州の航空会社に再び爆破予告相次ぐ－目的地変更や戦闘機護衛も",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNllnTGZUX3RocjQ5cVZyeGMtVlFKa1paZldDRGg4a3dMU2NlQkpZeTFQV1ZoeHY5cmlsZ0R5TWJvTmIyUWFCZVBhRFpNdVJlQVFlSzJsdXBwNGFOeXRxRFNmWUluVWQwSU5hSkc3YmVPWVhGblJ4bmxfMVBpMmV2bzZBbjBqc0gtMXpvQTF3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51MnREaUxPX2JHWFc1TDV4aGJNaEFnTUFnbXhKSzB5Q0NWbWlTd3dsNmNic05OZXRZbXZia19JT0pQQXBDdlVDblJ2eDZPMDRqN3FVT0tYVk15UkRSLW5PeGxuZUxHWHZwYUZkYUdZajFaeDJyZVNN?oc=5",
    "source": "Bloomberg.com",
    "at": "2026-11-06T00:29+09:00",
    "topic": "欧州・NATO"
@@ -491,10 +498,24 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "プーチン氏、ＪＴＩのロシア資産を一時管理下に 大統領令署名",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmRicWtHcDhjZ0pfTkItYURLdDduUnlWUzZiV013ajN0dFN5ZHV4SFNvTGYtZDhvcm9CejlBbi05b3BnZFo0Q3BkSmk3LWJ3LUtaYWZMY0ViNmRBY0FPUmozUElYSWVXekE1UzZ1TFZYaUhYSWQ0UnhUa2lpUnZSTDlPYmFCU0k?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-05T23:40+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシア、JTの現地資産を一時管理下に プーチン氏が大統領令に署名",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Rb3RzUGJpSGRFNXlHY1F3bVRiTEMzQnZqdUZnWlJCbXp3anU5Tl9zRXE5X3JLZjd1ZTBHeVlYOC1lbVR3Zmw0S0c5dzdLWXgtcTBOM2tadEJRdWxaZ1E0Ni1zSGZvbVE?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-05T23:30+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "日本、ロシアに抗議へ JT事業の暫定管理受け 制裁への対抗か",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oQ0RGTE94Ui1pRmlOLWJ6a1FGc0EyVEdaYkZkdUhhNDJOOUNhZjFZU3hvUG1mLXZOcXVLdlM3c1EwRW1WSWp4STRIbFRudlNLQVRjazlZdUZjSDhpREY4N3pwUkNUSTR0?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-05T23:12+09:00",
    "topic": "ロシア"
   },
   {
@@ -519,13 +540,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "プーチン氏、JTのロシア資産「一時管理下に」 大統領令に署名",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTdRcE9MeUJUQzhZTEkyNGY3djRkamJOV3UxbUk3dzJVczVqckV2Y0xNeXQ0RGxNRVZkLThNa1hFaFZYQy1uYzZ4RFJ2LXp6bWlmT0c5Mm84U0VPTkYtYkQySHpYUlZsSlVJSQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-05T22:50+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "JTロシア事業を暫定管理 大統領令に署名（共同通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sM1pTVHRZUTFGMk96Z0pWVE1qOURBeWF4LVNTV2huZ0xWY21uaTJfOXRaZHJLa2t0ejdtWHVWUmszOGVoZ2QyaGdGQU5qejRvd0VHZFlvRGxDZGtTTTExNFo0blpSRGJDOE95c2NZN3c2bVphUkpCWUgwX1ZHNXc?oc=5",
    "source": "Yahoo!ニュース",
@@ -533,17 +547,17 @@
    "topic": "ロシア"
   },
   {
+   "title": "プーチン氏、JTのロシア法人を「一時管理下に」 大統領令に署名",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTdRcE9MeUJUQzhZTEkyNGY3djRkamJOV3UxbUk3dzJVczVqckV2Y0xNeXQ0RGxNRVZkLThNa1hFaFZYQy1uYzZ4RFJ2LXp6bWlmT0c5Mm84U0VPTkYtYkQySHpYUlZsSlVJSQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-05T21:44+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "DIICOTは、ロシア情報機関にリクルートされたキューバ人が、2024年にルーマニアで未然に防がれた破壊工作計画を指揮したと告発／裁判官らは欠席のまま逮捕状を発行",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNi1yV1BhTWZpV2dJLVRoZXZqa1ZTclY5TE5ZdGFTMENabzI2RU9fd0dYSFRDMmljVnFfVE9ZWDRKSWJVN3lhTEt2V3VJazdSTHNGb2NBdW84T1o5cUZYOU14TmxyUlBhZHdidldLTE9XZ0dDZ0JveDZKaWx4LWhISTVkbmdVTWw5X1BqY2x1dUlHQm91Q2c5QTNCU2kweUh0eDdVVG8wYVFPM181MUc4dE1acFlmbVdzX01Md1Rlbw?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-05T21:11+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "欧州各国で航空機に爆破予告、今週2度目 妨害工作の一環か",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHlQWl95bG1fTllNQ2NtYzVZTXZiUzZGTFhITmRITW1yVFExV0l3WW1UOU1WbDAtV3RiRXB4VXl2NmFxUTgyOW4tUkhHUXVCc1h1YU9xbU9lS2IwMEtFck1Jb09JTk9nTDhSQzltNkRyQXdBM25KaTNJT01oWDRVS0stLUFKSmc?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-05T20:46+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -580,20 +594,6 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-05T19:00+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-05T18:18+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "イラン戦争の専門家：最も危険な8週間が今始まる！｜ロバート・ペイプ教授｜The Diary of a CEO",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HZW5kNEV1VlJRdGZPektzbjBzNTdJVzUzZjNNT09MVTFVNVFLLUZteTRoYjU5Vk1QZXZST1BscHhFaVVyQ1JSNWpqZGRDbFU5WnE2aTVlWHN6UmdUNkE?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-05T17:58+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -614,8 +614,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
-    "ロシア：「攻撃」2件",
-    "欧州・NATO：「爆破予告」「破壊工作」5件"
+    "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
@@ -631,10 +630,10 @@
      "at": "2026-11-05T23:59+09:00"
     },
     {
-     "title": "ウクライナメディアにサイバー攻撃 ロシアによる工作か",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra3RPY2tWTzJrQ0JWemZuZmtBbHF0YzBHbVBGRVhEdlpNSHF3NHpyZXp5SDRJX1U1N0pCUjh2RTJ1RHctOFJPRnoxWTlmdUJaVk0xVzRTeU9nRXUzbmo4?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-05T18:18+09:00"
+     "title": "欧州揺るがすサイバー攻撃、スーパー冷蔵庫に続き血液保管施設も被害",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0xJZ3dqZm9YaWkwTURnUlNvdFVycUtOMjZxMTZNend5RV9wVWtxZ0RleDNrSE9fMXp5ZUxYR1NZVDBwOEhJYjF4Q3FvNndWZVdMeGVaWVBXTExXWG9qOWN1RWlmZlhrVzRGT2VEMXpBWGVBTXNPcjZycGgtclVmRE5zMm1meEpN?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-06T00:39+09:00"
     }
    ]
   }
