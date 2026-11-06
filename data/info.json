@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:00+09:00",
+ "updated": "2026-11-07T08:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、冬のガス不足に警戒 長引く経済圧力に戦争の打撃重なる",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Mk91MU5XTzRwakxiRjh5Wk9JUGpCb0lUOVBXNTRoLWU4bm5uN0FpWm9UOHdzRUFyREFDcVo3c01GR0NJRFEyZHAtdWpJS0xLMG5B?oc=5",
+     "source": "東京報道新聞",
+     "at": "2026-11-07T08:03+09:00"
+    },
+    {
      "title": "サウジアラビアとイランの外相が地域安全保障について協議、フーシ派の攻撃が激化",
      "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxNc3VFcXdOYUtyUW4zTnZuU1IxV1FDd2YzT09RcnRXejZ5elZmckNUTDdibGk4Q0xURjJ4anRvaWE5LXBpV0pRc29jQVBad0I0bEJxbDlrUC1hT19hQ0NUbHdoUVYzcmZZSmFFVmxDOXg0SFpnUGcxNE1halVtX25jLVZ0dUNkSjdBTFZDTmVWUHF0WV91LVlfajdBM1ZZVU9CcmpfX2tsUHZ3UGJ4RjQ2clRYMXNPTWwweF9xNDE0ZjFhd1FBcVh5RjNvdGFtU1NpZ3lrMWh5d3RQaFdkVklmcTRndkVXa285WVpxallhMVRTSG9UQy1jLURfZGlFb0VuLXRZS0lMUVBqVTNnY0JUenJFUUJEbHdJemhURW9uaDdGU2dnQk10Y1Zta1EyLUhEbVRMRS1IMXVvQU9QUTl2ajNfVkY5TUhLd0RTQmo4QXBzRlBnbm55Tm5wdXZnN0ozcVBjOVBqbWJfMWlzMHkzSklPWHNBRWpSaFB2Ym5FYkgwTHZGdXJnV0hBRjBXM1MxX0xJdDRYbHExcW5HSWhvaDhVVWt6MXN0RVZMT0E5R1k1ckZuWFMwdUhKZUFwbFdpLUcyekpObnRBaHA2eW5obmxJRGVYc2l5NlhEYno3c2x1eXpFX2ppSUEtX09SUW1SMXB3R0hLVVVXR0l6Uno4dWJ2Uk80LU1ya2R2ZTEzdlRfQjFs?oc=5",
      "source": "アラブニュース",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd25rMUhXemZBUEVXZ0R0MXEtOFlzOUExUjdRREFPdEppaFBYdW9mWWdBVHpGdDQ1RmZvMkdGYlk1azBDX0xQSFJqNGQzdVV6NjRMaTZ5RHhicUdzaGtuUkFJMnR4cjktVC1WQUJkN0dtSGY4VS1jLTlqNnJYRnBmbzNOQTZjdk5EMGJObjdVTTJWdHhXZ1J1Z0F5YkoyeDB6LWR1TEZ0T090WW1iVVdwbnNBR1l3LWNocjRXWkVvdVVrTFnSAXNBVV95cUxNUlIzM1ZyQWVKVUlndHcwZ0t1QnYxSW1TNGlmWDFELVl4MmVqay1IT0x1dkdIWHc5dVBLZ2dQZExsOGlPckliZkVWM3oybGZ4MXJyV2NWZ0wxWTNMV3N1TThvbjRJTl95aGN6S0xLQ3BlTml3?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-06T13:39+09:00"
-    },
-    {
-     "title": "イラン アメリカへ核に関する提案 提示の「7つの条件」受け入れ後に議論",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yOUdLeG5OR1FXekZ0V0k0MTczZVo2MzdZYk9qSTVvUkpvTkE4Snd6UmhFNFZ1SzBmWnYyWnY0ajN6R0x1endURDBNc2JhZnFlaFRLS1JOTmp6blgyZEloWWIyOVFjWldEU21qUmZxSnlpY2VuTDVqMDVB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-06T12:06+09:00"
     }
    ]
   },
@@ -362,6 +362,18 @@
  ],
  "cyber": [
   {
+   "title": "信金 システム障害は全面復旧 一部機器の故障が原因 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSld2RHZJVkpQY1ZRWVp2TkZMWnBOcHU3d2ZjcDFFNkhBVi1NZmg1XzNhNUNnLTZLWTVmTDZvN2FlZTRmck40aEUwZGh1ZXRhNjhMWFJocVNlN2ZyTDFKYXNQTkJERGw4MndiTms1OU92cmo1NzI2UGRJUk5QYzB0TEJoVVdyLVpZRWxhS1dqamxjTVNhVlhBZC1LS3NrWFlsY0kzTEktenA4ckNfbDRRMldxWXBBYm1pVFRmZDE2T2wxc3l1RVJEQmtEWTA2VG9BVTFPTzU3QmNBdnN3Y21KQjNUNTdMSjY5?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-07T08:01+09:00"
+  },
+  {
+   "title": "信金システム障害＞佐賀県内4信金、顧客への説明に追われ 大きなトラブルはなく | 行政・社会 | 佐賀県のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVmhHUGctbTExMWd4ZnFzSG96a1N2NHdIUGN0WDdOX3BuNEZ2RXJvLThSRnY0WWJlS3JuZm1KQVFScmRBLWZ4ODF1eVhYbFF1S0hrTjN3?oc=5",
+   "source": "佐賀新聞",
+   "at": "2026-11-07T08:00+09:00"
+  },
+  {
    "title": "128信金のシステム障害、完全復旧（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80b01VN2dDd2x0UXEzSVNPRlF6R3plTU5NbXpYeE42RDJkdEZSRVBFUjgyU1BESVJfVld5WFZBR1V0U3JyRU9QaHJmMUY0TktGakExTlVaNEZaZmFsc1Ffa3NmckFYUWlWRWtSSXZrWVFBdGxtaWY5ek1nT0xTYzQ?oc=5",
    "source": "Yahoo!ニュース",
@@ -398,16 +410,28 @@
    "at": "2026-11-06T23:11+09:00"
   },
   {
-   "title": "ドコモ社長、情報漏洩を謝罪 見舞金の支払い検討 通信障害は復旧に14時間",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUTV1N3IxUWgxRk9GVjlRWGluaUZMSEdHeHVfOV9XclFkZHZDUFF2ZjRhVktMVkdtQXQxMkpQRjdJUjUxbFpINXlZTURuZTJSV2FCM1A0cVNoOEYtUFFTdEpXVmRNcUp6QmFxOGlzM2lDRW45ekE?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-06T22:45+09:00"
+   "title": "政府、「サイバーセキュリティ緊急対策パッケージ」策定　予備費から100億円",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVkFta1NHZ3NlNVRFUnpMR1lsS0E4VW9VU3dCZFBJVHZHa3VSWExRZUw2bXN6dXBGTEY4X2Zhay1UalJOYTRQeXhqREZJcEI5WUMzdGpsZ0VDZkxrZXZVVGNTVVFuSjFHdzcyaklmb2taT1Z2T3kxeEpZRmxtWEFlQVlGa2E5ZnB1ZlR5WGcxVE5nMjhhdEFURGVXTFRZMEJoX2RkdUsyMEFhXzJ2ckZGelVib3lKUDNRdnl2dW1DYmJpWjBTUW16Sm1CLXZnQTJ5Wkd30gGDAUFVX3lxTE9qRkJjWHJBVENMN1I0LUE5VzE1dHJ3UWhSZDZ4cE81ckhrem9QSVMxdEM1Unh1NEktQS1IZW1xSVJHWWZzQ1JycFdlamVyMTYzWU5NQzFXWlVJNWs5eGpDRE5ZWFBKb3dycE54cDh4LUdRWWJfcVE2OEQ5M2I0UEJtNFNR?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-07T08:13+09:00"
   },
   {
-   "title": "警察庁と全国警察が連携 サイバー攻撃で合同捜査本部（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PNUFxR21ua1pPeDFrVm9YU3NNYUVVa2tlb3RNRVRTbUhTYVJUN25oZjdoV2MtV0IySU1VdWNHYkVzeG56NzVGeXFETlZjbFdtV0dCbXpLYk1WMDNVZ2VHMG5rZmpqMzR6elRNOXJHNnhfclhxd0xQLWxFYUJINjA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T07:56+09:00"
+   "title": "チーム乱立、人材確保が課題 急ごしらえ対策、実効性に疑問も―サイバー攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GaF9yUW1TTG0xRVh1ZXN5U2lqaUJKVzJtVGQ0YkJEVXJRS0hlZ2Mxa1ZJMlpOUUpyRnRCdWY4OHlyVzEyTC1SM3dxZWlnYXZCWkhjY1hTRmx2bDlQZXQzYUo0VQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-07T08:06+09:00"
+  },
+  {
+   "title": "【日本社会が壊れる日】銀行・鉄道に“サイバー奇襲”の現実味を検証…台湾有事で日本のインフラ危うし？",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdHRISlI3c1pfWHRncDFMQlNCRXlHS2p5SEFDUUowam52WWVhQmoxcThybmgtZ0xpanhqZVU3R1ZIS3J6TXpLaGtwRThLaEtVY0wwa25VM0pSZw?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-07T08:00+09:00"
+  },
+  {
+   "title": "警察庁と全国警察が連携 サイバー攻撃で合同捜査本部",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvNm1jMVV2S3dOVHp2ajVGN3UyYThSZkpkQ21GLUdmYzZwU2FXSVFhWld1R2c0dU1ZaDJCU1d6LW85U1NSOHZnLXZ1eDNQZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-07T07:50+09:00"
   },
   {
    "title": "不正アクセスで800万ポイントが不正交換 NTTスマイルエナジー「全ポイント補償へ」",
@@ -426,34 +450,17 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2hHX2J3bVptT1JaMGlDQjZqUzF5UE5OaEVkTHlRT3d1LU1sMUltN2tLWC13cW50RXh2UFptWUNKbkpTTTlhalc4dFVxX2Fvbjd6VXdVUlpoMVRsVnJEeWFDak5qaFQ3SjUyVnFhWjc3TVp4MXhVVkx4Z1J1bWQ1ZjBLenZMbEk?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-07T07:11+09:00"
-  },
-  {
-   "title": "サイバー攻撃で血液保管施設の温度設定が改ざん、医療インフラを脅かす「冷蔵設備の遠隔管理」の盲点",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xclJ3VUxwVUtrMU5iT25CbUFpcXlnallPQWZYd3pXSDJnTzdWRWJQNnprS3Z0MU1YNjZlUE1BSFhQQ1NkZ1lRZE51Uk1ldjVDQjE4U212RW1lOW1TSDkxS0VRZUFJdw?oc=5",
-   "source": "XenoSpectrum",
-   "at": "2026-11-07T06:58+09:00"
-  },
-  {
-   "title": "「たった2分で600万円を失った」GMO被害者が語る恐怖…急速に発展するAIサイバー攻撃の「新たな手口」とは（文春オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hQnl0blVEdmcwNHotSng3cjlpdUs4U3JoQlQxZTFHcXZLRkNRQ3lQZWltTlBoekxGSlF6eV9ubkVkVGFCSGdzSFFRbzJReVVtX0ZtcDVnb2huRklSR0V2QVlGR0hEcXRXY3Z0NkRYM3MxMXQwelVrdzNhVWxfb3M?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T06:15+09:00"
-  },
-  {
-   "title": "サイバー攻撃の脅威と対策； 自社・組織、個人で優先的に点検すべき項目とは｜濱田金男",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UMnNudlUxazFBZ211UGRfMkVfUWE2Wk9USWJMR3hJRFotams3VEZFVUxYVFAzejYtaGYwRWd6TkxIUzVFbzJianlvZHA1RG5HbjNSV3g5UWVfcXVCY1Q5RDV3d1c1ay0welBlR2cwMmg?oc=5",
-   "source": "JIJICO",
-   "at": "2026-11-07T06:08+09:00"
-  },
-  {
-   "title": "相次ぐサイバー攻撃 「ソフト最新でも被害」 対策は",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yNzlSazhVRG5ZekRQdGJ6bzd5SUltTmFEZ21HNG1vaURiSHRqZGdzZlRxMWl2U1ZsTUtrT2p0NWNDcFUwNkNGd3oxckJqeTM2U2V4NlFhckYxa00?oc=5",
-   "source": "河北新報オンライン",
-   "at": "2026-11-07T06:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イラン、冬のガス不足に警戒 長引く経済圧力に戦争の打撃重なる",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Mk91MU5XTzRwakxiRjh5Wk9JUGpCb0lUOVBXNTRoLWU4bm5uN0FpWm9UOHdzRUFyREFDcVo3c01GR0NJRFEyZHAtdWpJS0xLMG5B?oc=5",
+   "source": "東京報道新聞",
+   "at": "2026-11-07T08:03+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "英やアイルランド、ブルガリアのテレビ局に爆破予告相次ぐ 欧州の旅客機便への脅迫も（産経新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9haEJHcFNiQ1lWUnBKa2JqSjROVXRVLThVeUxGRnc2WHlZb3l4YXlRUnRCRkc2cWZsUlZUa29wMXpyVUtUbHJmbGU3QXZFMF9IekszenR5OUpCQTIxSXkzZHh6cjAyZWozQW9sT3ZuSFE5VUVPUzFfdERfOUM3dEU?oc=5",
@@ -586,20 +593,13 @@
    "source": "AFPBB News",
    "at": "2026-11-06T17:23+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "韓国の領海内で漂流する北朝鮮の漁船1隻を発見 韓国軍 乗組員の状況など確認中",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iQjc4M3gyTFJudXdXXy1pRDMyZ2JJM1I3OC1BZk5aRjZhTXdvQ3RpTzN6cWVyRDJyNE9kRnM0bThaRDFRS1BkT1h1VXl1a2RnbXlVV1FfWjROOFZEX1A1ZFNibHd6Y0x5ME00dmdOcGRfVlZrb243ZkFn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-06T16:17+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「128信金のシステム障害、完全復旧（時事通信）」"
+    "「信金 システム障害は全面復旧 一部機器の故障が原因 【アベマ厳選】注目の最新&独」"
    ]
   },
   "japan": {
