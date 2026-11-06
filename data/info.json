@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T03:00+09:00",
+ "updated": "2026-11-07T03:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-06T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-07T03:02:00+09:00",
+   "place": "和歌山県北部",
+   "mag": "3.5",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "2",
+   "osakaRank": 2,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-06T22:43:00+09:00",
    "place": "淡路島付近",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-05T04:28:00+09:00",
-   "place": "鹿児島県薩摩地方",
-   "mag": "3.1",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -137,10 +137,10 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "日本の防衛産業振興は「再軍事化」の口実 中国国防部",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uWGJWMVFGZ205eDdiNTRCcE03N3NLSkQ2cVd2RFBEYXRkQld0eGNBQWVTQmFkUlJVbGpJTXEtczBuN2ZxMFQwcVQzemR4R1o3MzRaclhhOEd1QWUtS0RmN0c4X1Jwd3FWa0tuZnl3?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-07T00:22+09:00"
+     "title": "日本の防衛産業振興は「再軍事化」の口実　中国国防部",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnZpbE1JS193Q0R2cEdmc3ctSjgyY1Z5Ymttdy1vdTdFakFkRkhXSEp5ZWFrXzBnalBhd2NWejhfdkhWMElyT2lxVDJJYUN3bFIzZHU0Mm5BTE15OXRha1dwOGZQWEVWQmZFT2U3S0FETmx6dzFjX3MtT2U2dTNYWlF0c05ZNFI0Z2tR0gGQAUFVX3lxTE1FcGhKZldmRGNnelhUTmF2WGRTVV95R01IeENGeTFfLXdIcjdHY1BNZWROQTdXdFRSdVEzOGE3endUdkFjNlgtdVZiOUJWbzI5aXdobnZSbVN1Z2w5SENoV3BtTjNWTUw0U0NNalU1VWl4TS1STHhSaUF5aEphaFVlSnhWdURLZW1pWU1tYnZXWA?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-07T00:53+09:00"
     },
     {
      "title": "高市総理“台湾有事発言”から1年 中国政府が改めて日本側を批判「誤った言動速やかに是正を」 APECでの日中首脳会談は厳しい見通し",
@@ -252,8 +252,8 @@
     },
     {
      "title": "ロシア軍の学校攻撃死者53人に ウクライナ、今年最悪規模",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUWVp1ZUhnYWRyRDQ1U1FYVEhoNnA4b0lFOWQ1UjRUS3FVQ0dnbDdveEtqbTZ1RkJuXzdBaW56VERSaGJTZWFySXQyOFZQcHZObUp0dmtJbUFnNVNOMjN6V2xHQlVKQVVWS2xB?oc=5",
-     "source": "信濃毎日新聞デジタル",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnd0E2aHJ4eTRHOGJNdXBxNWRBUDc1T1JtRWU2Z0piaGQzNzZrWFhHeTNteENpNUhfaE5KM1U3Rmp5dGNsUk82YW1IRQ?oc=5",
+     "source": "47NEWS",
      "at": "2026-11-06T20:27+09:00"
     }
    ]
@@ -362,6 +362,12 @@
  ],
  "cyber": [
   {
+   "title": "【復旧しました】オンライン申請システム（LoGoフォーム）のシステム障害について",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LMFZlbnRXME0yYklwU3ZFcjRoZXlhX3o4YkJYbjQ3LTVheU1RSDFJVUtvOEpqZngwVHBra3pPcmYxTkEyYWZxb0dyV0lONVJrbjg2YU9YRFQtVXZhZW1sSEV3ZHRIdlV5Q0RwTEZDSzFScE11NUE?oc=5",
+   "source": "福島市",
+   "at": "2026-11-07T01:08+09:00"
+  },
+  {
    "title": "信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金（中京テレビＮＥＷＳ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdmhRbjBhVlVYNElvQWhyeWJ5SHVGVHdLTTktSnlsWUNIMC1aTEFpX1gtdEpsYlhqM0FrMDdhdVpCYjdtM1JmUnV0cEZhY0FFV1dxbW8zTTJCY2FMMWhJdDA2OGRiQW5ST1pHMXFyc1ZhNk1ZT241OGdaLTdOOVU?oc=5",
    "source": "Yahoo!ニュース",
@@ -384,12 +390,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUTV1N3IxUWgxRk9GVjlRWGluaUZMSEdHeHVfOV9XclFkZHZDUFF2ZjRhVktMVkdtQXQxMkpQRjdJUjUxbFpINXlZTURuZTJSV2FCM1A0cVNoOEYtUFFTdEpXVmRNcUp6QmFxOGlzM2lDRW45ekE?oc=5",
    "source": "産経ニュース",
    "at": "2026-11-06T22:45+09:00"
-  },
-  {
-   "title": "東海以西の128信金でシステム障害、19時すぎ全面復旧 ホストコンピューター故障が原因：ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52WTRfZmtVY3VRSUVsWFFwR0JxZ2djakptTTJaRVkwemJyY2pCVE84bVE0YlBsTWpka3Nva2ZtTWZlZ3lLLTVXaFhGQW04WmVlTFJnYzRNNU84NnJBWFpR?oc=5",
-   "source": "中日BIZナビ",
-   "at": "2026-11-06T22:41+09:00"
   },
   {
    "title": "鹿児島県内３信金でもシステム障害 相信は窓口を延長",
@@ -469,10 +469,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "日本の防衛産業振興は「再軍事化」の口実 中国国防部",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uWGJWMVFGZ205eDdiNTRCcE03N3NLSkQ2cVd2RFBEYXRkQld0eGNBQWVTQmFkUlJVbGpJTXEtczBuN2ZxMFQwcVQzemR4R1o3MzRaclhhOEd1QWUtS0RmN0c4X1Jwd3FWa0tuZnl3?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-07T00:22+09:00",
+   "title": "日本の防衛産業振興は「再軍事化」の口実　中国国防部",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnZpbE1JS193Q0R2cEdmc3ctSjgyY1Z5Ymttdy1vdTdFakFkRkhXSEp5ZWFrXzBnalBhd2NWejhfdkhWMElyT2lxVDJJYUN3bFIzZHU0Mm5BTE15OXRha1dwOGZQWEVWQmZFT2U3S0FETmx6dzFjX3MtT2U2dTNYWlF0c05ZNFI0Z2tR0gGQAUFVX3lxTE1FcGhKZldmRGNnelhUTmF2WGRTVV95R01IeENGeTFfLXdIcjdHY1BNZWROQTdXdFRSdVEzOGE3endUdkFjNlgtdVZiOUJWbzI5aXdobnZSbVN1Z2w5SENoV3BtTjNWTUw0U0NNalU1VWl4TS1STHhSaUF5aEphaFVlSnhWdURLZW1pWU1tYnZXWA?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-07T00:53+09:00",
    "topic": "中国・台湾"
   },
   {
@@ -561,8 +561,8 @@
   },
   {
    "title": "ロシア軍の学校攻撃死者53人に ウクライナ、今年最悪規模",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUWVp1ZUhnYWRyRDQ1U1FYVEhoNnA4b0lFOWQ1UjRUS3FVQ0dnbDdveEtqbTZ1RkJuXzdBaW56VERSaGJTZWFySXQyOFZQcHZObUp0dmtJbUFnNVNOMjN6V2xHQlVKQVVWS2xB?oc=5",
-   "source": "信濃毎日新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnd0E2aHJ4eTRHOGJNdXBxNWRBUDc1T1JtRWU2Z0piaGQzNzZrWFhHeTNteENpNUhfaE5KM1U3Rmp5dGNsUk82YW1IRQ?oc=5",
+   "source": "47NEWS",
    "at": "2026-11-06T20:27+09:00",
    "topic": "ロシア"
   },
