@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:30+09:00",
+ "updated": "2026-11-07T01:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UNDBrOHpwNEZzMkFjZy1NY2NyMU9LZFc5SHZrREVDQXFXNjQtQ3B0TldYcWhBSk40dXFGNUpFdVMyUW9ibE9pemFoc1Qxdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-07T01:37+09:00"
+    },
+    {
      "title": "ロシア人のオートバイ運転者、ウクライナのドローンを軍用車両に誘導した後に一命を取り留める",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlZIYk5ORVYwak1ZLW9zRXJKOHBUQmZtOHBUU3Y2SVZTdGtUdFVFOEVpblFBZEZuUWhrNk9NWUZkTE1WYldOVHZXem8yQ3dnU1A2eE9XUGNsakVjOG0zZE1tUkxST24wREloRDlmdlc3WGlneTJ2bGQ1bW9wSjBVY3lRbWFTZkdRYjlmZW5NbEs3b1Y0VUJ4NFJvLU1mVFdrVmNWX3drdHdtUWJaa0k1NGJjaXJTdkxaaWV3NmtldThXY1RfaG4zVnpuS2o2QQ?oc=5",
      "source": "Informat.ro",
@@ -233,6 +239,12 @@
      "at": "2026-11-06T21:06+09:00"
     },
     {
+     "title": "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aLXJhcXp1aFV6YUJWejNqT3VrRnhlT05jSmRpVmtPVDRNbHA1aWFYTW5DNlF0aExESHBqTlhIUGgydVdWSURlNkZBdE4zNTlvMm5LRjFqenFkTkREcXZHUWZDMmF4LTZiU2YweUI4RUlSMW9OeHpYNmpnbFIyM1U?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-06T21:05+09:00"
+    },
+    {
      "title": "ロシア軍の爆弾が迫る…「地下シェルターへ逃げろ！」住民が駆け込んだ直後に爆発、ボディーカメラが捉えた衝撃映像",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVHlhYlhrWWppNlZFWUpqaTVnalJiWkFNaWhWeExaYklIczFEbDcwNC12SFVlOWl5QTFOT1ZjMWRUV3h0VDh6OHhtNEJ4RGY2dDhaZGtYVnV2ZDdhTkMtLVlTYmYtUEpkNnJzekZ4NkhhYUZiNDMyYmhvY2Jjb3M?oc=5",
      "source": "Yahoo!ニュース",
@@ -243,18 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnd0E2aHJ4eTRHOGJNdXBxNWRBUDc1T1JtRWU2Z0piaGQzNzZrWFhHeTNteENpNUhfaE5KM1U3Rmp5dGNsUk82YW1IRQ?oc=5",
      "source": "47NEWS",
      "at": "2026-11-06T20:27+09:00"
-    },
-    {
-     "title": "ロシア軍の学校攻撃死者５３人に ウクライナ、今年最悪規模 | | 全国のニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEZ0NQTkpzOVJxZlA5RHBUWlUyZ2pCdHBsSFZVY2EtODFoY00wUm9GUTZkYjEydkt6OFdIQUxhWkZfUm9ieHFxVEtycUZhdFJpenFjTVJ3?oc=5",
-     "source": "佐賀新聞",
-     "at": "2026-11-06T20:27+09:00"
-    },
-    {
-     "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-06T20:12+09:00"
     }
    ]
   },
@@ -333,8 +333,8 @@
    "at": "2026-11-06T10:45+09:00"
   },
   {
-   "title": "「備蓄は国が用意しろ」細野防災相の“緊急要請”が炎上…南海トラフ・首都直下地震で「助かったはずの命」が失われる衝撃の想定",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IazhlMG85dEhRWFdZZmdDUW14X09OTkNBZDh0SzUxQTl5N19QQTFyX0pfekFsRTlMcXlUamZRMmNXQnZlZEY4TVBMZ3ZhQWE1STE2amtn?oc=5",
+   "title": "「備蓄は国が用意しろ」細野防災相の“緊急要請”が炎上…南海トラフ・首都直下地震で「助かったはずの命」が失われる衝撃の想定 | 今週もナナメに考えた 鈴木貴博",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oRFd1d2w1ZXo3VDBMQnRkV28tWHl5Wm5vb3kxSHJZUHhCREwzLWxVanBGcmNJVlhCZTRZV0U1bkNvMHo5SnVrY3dtUkg?oc=5",
    "source": "ダイヤモンド・オンライン",
    "at": "2026-11-06T10:05+09:00"
   }
@@ -356,6 +356,12 @@
  ],
  "cyber": [
   {
+   "title": "信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金（中京テレビＮＥＷＳ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdmhRbjBhVlVYNElvQWhyeWJ5SHVGVHdLTTktSnlsWUNIMC1aTEFpX1gtdEpsYlhqM0FrMDdhdVpCYjdtM1JmUnV0cEZhY0FFV1dxbW8zTTJCY2FMMWhJdDA2OGRiQW5ST1pHMXFyc1ZhNk1ZT241OGdaLTdOOVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T01:06+09:00"
+  },
+  {
    "title": "128信金のシステム障害、完全復旧＝西日本地域、機器の故障が原因☆差替(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlVvWFgxT0xlOUNXZko2QnZUS2dXd0NseDZhSzhjdGdtdTJMWWdYYy1XNmNOR3NPQ3g4QTNyb0gyV1Q3WVBaM2RWZGxWcTkteFJ4VDZUY3JEZDR1Tl85WGVXUWUzbnRKVy13cHoxUEIxSVgybE5iRzM0N0RGNVRZNTFPdEM2STQ?oc=5",
    "source": "Yahoo!ファイナンス",
@@ -366,6 +372,12 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUTV1N3IxUWgxRk9GVjlRWGluaUZMSEdHeHVfOV9XclFkZHZDUFF2ZjRhVktMVkdtQXQxMkpQRjdJUjUxbFpINXlZTURuZTJSV2FCM1A0cVNoOEYtUFFTdEpXVmRNcUp6QmFxOGlzM2lDRW45ekE?oc=5",
    "source": "産経ニュース",
    "at": "2026-11-06T22:45+09:00"
+  },
+  {
+   "title": "東海以西の128信金でシステム障害、19時すぎ全面復旧 ホストコンピューター故障が原因：ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52WTRfZmtVY3VRSUVsWFFwR0JxZ2djakptTTJaRVkwemJyY2pCVE84bVE0YlBsTWpka3Nva2ZtTWZlZ3lLLTVXaFhGQW04WmVlTFJnYzRNNU84NnJBWFpR?oc=5",
+   "source": "中日BIZナビ",
+   "at": "2026-11-06T22:41+09:00"
   },
   {
    "title": "東海地方以西の信金のシステム障害が復旧 ストレージの故障が原因か 5時間半にわたってATMなど利用できず",
@@ -410,10 +422,10 @@
    "at": "2026-11-06T20:52+09:00"
   },
   {
-   "title": "りそな・関西みらい・みなとの３銀行、提携先の不正アクセスで解約済み顧客の個人情報５９３５件漏えい（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RVd2VG1BREk0VzlJbEgyV3VuYW5lazYtTV9ucy1SdDZ6aWNhWFNUd3lhS2hJNDZ0ZlNWV3RQcXJPMnBOUmtvb1RsYlc2Vy1ybGx1dlEtaVVDTEFMOHRUUXVnNjJWMDVUMUtpZUd6YWpIVGF6ZUNpTVNndC14cTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T01:18+09:00"
+   "title": "りそな・関西みらい・みなとの３銀行、提携先の不正アクセスで解約済み顧客の個人情報５９３５件漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MEQ0Q0ZwQXRpOUpiWVFQQWFXTzRZM1EyOEhlRExNZHlxemJBWVN6Y0xUb3RDLW9saG5WeFM5Rno0NUMwNHhud3h4cVFsbm56eG9DY2UtV3l2U01NYy1nNFFBSTh1Zw?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-07T01:13+09:00"
   },
   {
    "title": "NTTドコモが会見 不正アクセスで顧客の口座番号など流出…見舞金検討（2026年11月6日掲載）｜日テレNEWS NNN",
@@ -432,22 +444,17 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qbFdPbzVHSkFVLU15UVVSSkdUNmdGTVk3R283VENOZ25scDJBcUxKd1pOMVhfYkpwN1lVQkRmUGtGZXJhLUlLZnFOTGhXZU01ZUMwajk3aXBVdw?oc=5",
    "source": "いわき民報社",
    "at": "2026-11-06T23:05+09:00"
-  },
-  {
-   "title": "通信監視対象、国内間にも拡大検討へ 能動的サイバー防御",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93dE5kNFFwWDdBdWl3MEkzb0R2ckc0MUlMMGNpZHdneF9ONEVMbjhWNGdzeGJwZm1xQ1Y0a0lYb1BnZ3ZjdVFOcU9xWDRpOUFRX1AxeGl2NHI0Ui1wclpRamttODNVS3lF?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-06T23:02+09:00"
-  },
-  {
-   "title": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1ZC0zR2Z1M2dja0xwR0JFaF9UQnlqM0pPdGlhLWFDYmFvbTl4Tng4NUJabkFwUmJxYi1aX2wxb0NzdTBESXZfSFI2eGp5UUpYNnEzSlBBQU5TSDN6UUk0?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-06T22:42+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UNDBrOHpwNEZzMkFjZy1NY2NyMU9LZFc5SHZrREVDQXFXNjQtQ3B0TldYcWhBSk40dXFGNUpFdVMyUW9ibE9pemFoc1Qxdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-07T01:37+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "日本の防衛産業振興は「再軍事化」の口実　中国国防部",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0w2TXhNWURfR2FFM0l2Y0Y1MVJiYlc4UlJvc1NTcy1zYWhNeXdMTHRRWndyVWZ4djZPV0dhb1JMYzFTMXNnZHZ5aS1aQUlSVmNNX2YxdDVQeVR3UksxSzRBSVFTN3ZrSXlJSEN3ZjE3ZTdBUVNuWlp0YUZSRTZsXzVqbElSZ1ZFZU9qOTNhN3daNTN5S3c5empsQUkzd9IBkAFBVV95cUxNRXBoSmZXZkRjZ3pYVE5hdlhkU1VfeUdNSHhDRnkxXy13SHI3R2NQTWVkTkE3V3RUUnVRMzhhN3p3VHZBYzZYLXVWYjlCVm8yOWl3aG52Um1TdWdsOUhDaFdwbU4zVk1MNFNDTWpVNVVpeE0tUkx4UmlBeWhKYWhVZUp4VnVES2VtaVlNbWJ2V1g?oc=5",
@@ -512,6 +519,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aLXJhcXp1aFV6YUJWejNqT3VrRnhlT05jSmRpVmtPVDRNbHA1aWFYTW5DNlF0aExESHBqTlhIUGgydVdWSURlNkZBdE4zNTlvMm5LRjFqenFkTkREcXZHUWZDMmF4LTZiU2YweUI4RUlSMW9OeHpYNmpnbFIyM1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T21:05+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "【トランプ政権後のアメリカ】「景気回復しても支持戻らない」イラン戦争・物価高で支持者離反…中間選挙敗北の背景／北朝鮮巡り“ディール”は？／日本はどう対峙すべき？／米中の相互依存関係に着目【会田弘継氏】",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1heFRBUDJJdVZ0dU4tZkFkbklKRndOaWNhZVJGTGNldG5jM1lNOVI0SHFhMERHRF9iVlBRZGRjenlsN2xnaldVNmlFV3RINGpsSnJXZzZSRGxjWVFVdFY4?oc=5",
    "source": "東洋経済オンライン",
@@ -537,20 +551,6 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnd0E2aHJ4eTRHOGJNdXBxNWRBUDc1T1JtRWU2Z0piaGQzNzZrWFhHeTNteENpNUhfaE5KM1U3Rmp5dGNsUk82YW1IRQ?oc=5",
    "source": "47NEWS",
    "at": "2026-11-06T20:27+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア軍の学校攻撃死者５３人に ウクライナ、今年最悪規模 | | 全国のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEZ0NQTkpzOVJxZlA5RHBUWlUyZ2pCdHBsSFZVY2EtODFoY00wUm9GUTZkYjEydkt6OFdIQUxhWkZfUm9ieHFxVEtycUZhdFJpenFjTVJ3?oc=5",
-   "source": "佐賀新聞",
-   "at": "2026-11-06T20:27+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
-   "source": "乗りものニュース",
-   "at": "2026-11-06T20:12+09:00",
    "topic": "ロシア"
   },
   {
@@ -593,7 +593,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「128信金のシステム障害、完全復旧＝西日本地域、機器の故障が原因☆差替(時事通信」"
+    "「信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金（」"
    ]
   },
   "japan": {
@@ -607,7 +607,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」1件",
     "中国・台湾：「侵攻」2件",
-    "ロシア：「攻撃」2件",
+    "ロシア：「攻撃」「空爆」3件",
     "欧州・NATO：「爆破予告」「妨害工作」6件"
    ],
    "items": [
@@ -624,10 +624,10 @@
      "at": "2026-11-06T11:52+09:00"
     },
     {
-     "title": "ロシア軍の学校攻撃死者53人に ウクライナ、今年最悪規模",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnd0E2aHJ4eTRHOGJNdXBxNWRBUDc1T1JtRWU2Z0piaGQzNzZrWFhHeTNteENpNUhfaE5KM1U3Rmp5dGNsUk82YW1IRQ?oc=5",
-     "source": "47NEWS",
-     "at": "2026-11-06T20:27+09:00"
+     "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UNDBrOHpwNEZzMkFjZy1NY2NyMU9LZFc5SHZrREVDQXFXNjQtQ3B0TldYcWhBSk40dXFGNUpFdVMyUW9ibE9pemFoc1Qxdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-07T01:37+09:00"
     }
    ]
   }
