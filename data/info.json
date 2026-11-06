@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:00+09:00",
+ "updated": "2026-11-07T06:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -358,20 +358,26 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pc0RnY2FwNVozMjJnS0lsdm1PMmhhNEkyYkpqV3ZQWGg0QmdVWGJrRHg3OGNtWHBBVExIV3RJVVJreGx6S1pocUt5SEROdldua0hRN0ExWXNybFVvTWUzNWQ0VnhrZmU1UnI0QXZQcXY?oc=5",
    "source": "千葉県公式ホームページ",
    "at": "2026-11-06T14:10+09:00"
-  },
-  {
-   "title": "北朝鮮、短距離弾道ミサイルを約12発発射",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lRXBQeTNwRzdjLXF2NjJDVE5GZUtaM2lQSTUwOUhKZ3dvSHpCV1dldHpzMmg0N0Nua2xlMFZQT2dZb1XSAUJBVV95cUxPeXNCY1lxa2xyT19IcmJZOThQSXluMzBoOTJaUFpsSUxCZ3d0R0M5My0yWHhQclgtTDhSTGhjc0NROHc?oc=5",
-   "source": "VOI.ID",
-   "at": "2026-11-06T06:15+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "128信金のシステム障害、完全復旧（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80b01VN2dDd2x0UXEzSVNPRlF6R3plTU5NbXpYeE42RDJkdEZSRVBFUjgyU1BESVJfVld5WFZBR1V0U3JyRU9QaHJmMUY0TktGakExTlVaNEZaZmFsc1Ffa3NmckFYUWlWRWtSSXZrWVFBdGxtaWY5ek1nT0xTYzQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T06:02+09:00"
+  },
   {
    "title": "西日本にある128の信用金庫でシステム障害 約6時間後に復旧 一時ATMでの入出金などができず",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13Mlo3SlZMZU5XZTZIZ29HOWtYRGk1Z1VCcWxZRzVkM19OVGxIaTg1NGQ0c3lwd1hnbzdrelBHVmRzdlRsRnFPYWVfdU5ock1mZEJScXNuTQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-07T05:37+09:00"
+  },
+  {
+   "title": "西日本128信金でシステム障害、6時間後復旧 ATMなど休止 兵庫は9信金で影響|共同通信",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41dTdjeW03YTR5TW0yZHNzT1dGUXZ4LWhOSHFzY3IxOW5HUzdPdEpORUdIem9ORVBLRnBsUnpLMnVNMmh0cF9kM2g1OUZ6SDdsOERiejNFYWsxVnNGSXpCWXpISnJjZ3NITTYyVQ?oc=5",
+   "source": "神戸新聞",
+   "at": "2026-11-07T05:10+09:00"
   },
   {
    "title": "県内含む１２８信金 障害 決済、ＡＴＭ一時休止",
@@ -386,18 +392,6 @@
    "at": "2026-11-07T01:08+09:00"
   },
   {
-   "title": "信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金（中京テレビＮＥＷＳ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdmhRbjBhVlVYNElvQWhyeWJ5SHVGVHdLTTktSnlsWUNIMC1aTEFpX1gtdEpsYlhqM0FrMDdhdVpCYjdtM1JmUnV0cEZhY0FFV1dxbW8zTTJCY2FMMWhJdDA2OGRiQW5ST1pHMXFyc1ZhNk1ZT241OGdaLTdOOVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T01:06+09:00"
-  },
-  {
-   "title": "128信金のシステム障害、完全復旧＝西日本地域、機器の故障が原因☆差替(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlVvWFgxT0xlOUNXZko2QnZUS2dXd0NseDZhSzhjdGdtdTJMWWdYYy1XNmNOR3NPQ3g4QTNyb0gyV1Q3WVBaM2RWZGxWcTkteFJ4VDZUY3JEZDR1Tl85WGVXUWUzbnRKVy13cHoxUEIxSVgybE5iRzM0N0RGNVRZNTFPdEM2STQ?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-06T23:47+09:00"
-  },
-  {
    "title": "鹿児島信用金庫も復旧 信用金庫システム障害",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iVUFBOTdNRzFtLUhOUmRjWDlnR2hYekJYRXlMUUVMdFRsRFNjeHVxUF9NTXZmcDlwUVZqOG9PSDZHZFJOV0dpVEEtb1B5aFNWcWxsMGh2SFZBaWJxcC1iRXBzeUV1SEU?oc=5",
    "source": "TBS NEWS DIG",
@@ -410,28 +404,40 @@
    "at": "2026-11-06T22:45+09:00"
   },
   {
-   "title": "鹿児島県内３信金でもシステム障害 相信は窓口を延長",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZSGdaU2JGWVBfeDRIVW5xRmQzMDR5WHBFM2tLS1p2SGdXbXNFUjV2N1dJenVzRWZUNlg3dG84eEdNTDR3SG9acmVDanhPeldtRU1BQ09Tb0U?oc=5",
-   "source": "南日本新聞",
-   "at": "2026-11-06T22:31+09:00"
+   "title": "仮想通貨カードのGnosis Pay、不正アクセスで顧客情報流出 顧客資金に影響なし",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9IWUdDaVVFT1BFdHlqU2VudVZxb0VHOC14T2FkeVhKRmFCa2VsNkJpbEdUV2p3SHM4ZTlESXRLRDFqYjA?oc=5",
+   "source": "CoinPost",
+   "at": "2026-11-07T06:10+09:00"
   },
   {
-   "title": "○１２８信金のシステム障害、完全復旧",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OS24zZVpHaXZlSkFVNVpIN3gzTlBzZG1aM2pINm1qeGd5R1ZzVi1EOU1iLTFaOHBMRXZ4b0loSDlRZ1FLSXFyNG1HNHJHa1dHbE1BVw?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-06T21:47+09:00"
+   "title": "サイバー攻撃の脅威と対策； 自社・組織、個人で優先的に点検すべき項目とは｜濱田金男",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UMnNudlUxazFBZ211UGRfMkVfUWE2Wk9USWJMR3hJRFotams3VEZFVUxYVFAzejYtaGYwRWd6TkxIUzVFbzJianlvZHA1RG5HbjNSV3g5UWVfcXVCY1Q5RDV3d1c1ay0welBlR2cwMmg?oc=5",
+   "source": "mbp-japan.com",
+   "at": "2026-11-07T06:08+09:00"
   },
   {
-   "title": "北洋銀行カードローン「スーパーアルカ」の外部保証会社に不正アクセス…最大32万人分の名前・住所・電話番号・勤務先など漏えい…北洋銀行分は調査中で新規申し込み・増額の受け付け停止",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTUlBWWlCUnRjYmtBZzczYjZFeEQxaFByQW15ZnJmNU5SSTVTVTREZDM4Y05aMDhFaWpTYXFxNlVvbm5fSWlGUENuS2VUMzNBMkNKUzVDOGVQb0dzZ3FFTlV4S1pyM1NEWnBxYy1oN2RvU3hzd09vLV85UDR0QkE?oc=5",
+   "title": "利用していたWebサイト制作サービスが不正アクセス受け個人情報流出か 西日本FHへの不正アクセスなし（TNCテレビ西日本）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBld0E5UkZXNTk2SlFUMlhwRVdwWkRlZGlYbk96dzdxZXh1cEZQZmRpRlNpUUdCa0p6SXFJRDlLSGxJZGt1Qjhzemppd3NpT3QzLUdrTG5SelRPSmRUcmF3U0xDemcwUU9DVVF4YTFCVUZSVUNLMTU0cEduNFdVZVk?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-07T05:05+09:00"
+   "at": "2026-11-07T06:02+09:00"
   },
   {
-   "title": "(相次ぐサイバー攻撃)官民一体で対策強化 党戦略本部が初会合 2026.11.7付",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zNzBZY3MwbWJLRUdTZE1XRlVtM2dNWm1SeVM0ZUthQURrMkVBeVlISDFPWEQwdFZveTFQWHAtNlcxdW11ZkFGX2NNcExTc3NiZmQzdmZWdTFZRElvWXc4UDl5c2Rvb2I0ajZWeGV3?oc=5",
-   "source": "公明新聞電子版プラス",
-   "at": "2026-11-07T05:02+09:00"
+   "title": "「たった2分で600万円を失った」GMO被害者が語る恐怖…急速に発展するAIサイバー攻撃の「新たな手口」とは",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tNzE4X04yVkhJdEljM0V1OHEybmVsMEhKeEZvTHd1WEIzcWJWbXk0cXNwRENBWmU4TWxKMHZ5YzJSbnE4eHpBaDNyYw?oc=5",
+   "source": "文春オンライン",
+   "at": "2026-11-07T06:00+09:00"
+  },
+  {
+   "title": "［福岡県］筑後市HPに不正アクセス 利用者情報漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ZDJBRzdUd2NEemV4RzBjU01zLXZkZUg0VUtXSXZDeHFnbUpINE9aOTY2ZS12eGNtQ2VKZUdQY1E1OHBGRTlyWDYwdkRPblJJc085WVBR?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-07T06:00+09:00"
+  },
+  {
+   "title": "相次ぐサイバー攻撃 官民一体で対策強化",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fWjlqTUs2N0VWVEd0RVdqOUMtVTk1Z2J6bGs0TGVtUXFTX0kxMnl1OG90QnZHSUpWRWhlRjJPWV8yU091aldqZmNmckczdmlnM05jWjZWT3ZHdEI1aDMw?oc=5",
+   "source": "選挙ドットコム",
+   "at": "2026-11-07T05:47+09:00"
   },
   {
    "title": "米スーパーや病院の冷蔵庫にサイバー攻撃リスク FBI｢直ちに対策を｣",
@@ -443,18 +449,6 @@
    "title": "政府、サイバー攻撃対策に 100億円 予備費から支出",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tSW1zRlFMak1TYndOaGExTjJmdmlOQjR3TzZmekptS2RfNmtudThMc2FzakNySHJhdmlGRmRPMjBwVE83cWZzVEZvNjN3OUFJNlNKa1VzaGE?oc=5",
    "source": "日刊工業新聞",
-   "at": "2026-11-07T05:00+09:00"
-  },
-  {
-   "title": "サイバー攻撃に強い「基幹インフラ」病院 28年までに30施設、厚労省",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iNmdQNWVYY3YwZ05SZmVXRTB0VkZ6VHJIQlc0WnMxeEF1TGJJUUJxMlllWnJMbVdiaDRRUzBxMGVSbG4tbVg2UGk4ZTFQOGVaSVQtQTU2bk8wZ1ZqRkVYQkU1aVlyaV9mSUotRQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-07T05:00+09:00"
-  },
-  {
-   "title": "山口：サイバー攻撃 対応学ぶ 山口で講座 中小７０社の経営者参加 専門家「全権アカウント保護を」：地域ニュース",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlLTNhdk0yS2YyV2ZZNTZ1bWJ5QTliQ2pxbDNoajhqWUlvNzdLdkFuYjBTRjFLY1VvekYwajc0SkJzUUpPWFZMQUxMaVNwdVdWX1JaVU9Xb3JkN0ZPcHJzdVYyMzJIX3dTbHdMS1V3NTQ3U19DNHc?oc=5",
-   "source": "読売新聞",
    "at": "2026-11-07T05:00+09:00"
   }
  ],
@@ -605,13 +599,13 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「西日本にある128の信用金庫でシステム障害 約6時間後に復旧 一時ATMでの入出」"
+    "「128信金のシステム障害、完全復旧（時事通信）」"
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮、短距離弾道ミサイルを約12発発射）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
