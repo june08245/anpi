@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:30+09:00",
+ "updated": "2026-11-07T05:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -358,9 +358,27 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pc0RnY2FwNVozMjJnS0lsdm1PMmhhNEkyYkpqV3ZQWGg0QmdVWGJrRHg3OGNtWHBBVExIV3RJVVJreGx6S1pocUt5SEROdldua0hRN0ExWXNybFVvTWUzNWQ0VnhrZmU1UnI0QXZQcXY?oc=5",
    "source": "千葉県公式ホームページ",
    "at": "2026-11-06T14:10+09:00"
+  },
+  {
+   "title": "北朝鮮、短距離弾道ミサイルを約12発発射",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lRXBQeTNwRzdjLXF2NjJDVE5GZUtaM2lQSTUwOUhKZ3dvSHpCV1dldHpzMmg0N0Nua2xlMFZQT2dZb1XSAUJBVV95cUxPeXNCY1lxa2xyT19IcmJZOThQSXluMzBoOTJaUFpsSUxCZ3d0R0M5My0yWHhQclgtTDhSTGhjc0NROHc?oc=5",
+   "source": "VOI.ID",
+   "at": "2026-11-06T06:15+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "西日本にある128の信用金庫でシステム障害 約6時間後に復旧 一時ATMでの入出金などができず",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuLWVzR2p4MkNCWEQ0WFJBLTJjb2RsRW1BUEZfNC1rRXB6VGZsYkpabkw0dzg4ZjZiUjRxdmNmeEtJcnRMaEZKS19YaVpzOEx5SG5ZWWN3RkJmdXdjcm1lLUJydy1yVFBTUWd6OWJn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-07T05:37+09:00"
+  },
+  {
+   "title": "県内含む１２８信金 障害 決済、ＡＴＭ一時休止",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Z1Z6SnlWalNYUV93M2FUWXBOVW5tQjB1V2p4YkZvMFRCVkN2OTZPY3pRRHloNVRHc0RBS0ZVT0EzQXdKNU44c3otWXNyYUVnWUx6OEZqV2EzWTFqN1E?oc=5",
+   "source": "福井新聞社",
+   "at": "2026-11-07T05:00+09:00"
+  },
   {
    "title": "【復旧しました】オンライン申請システム（LoGoフォーム）のシステム障害について",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LMFZlbnRXME0yYklwU3ZFcjRoZXlhX3o4YkJYbjQ3LTVheU1RSDFJVUtvOEpqZngwVHBra3pPcmYxTkEyYWZxb0dyV0lONVJrbjg2YU9YRFQtVXZhZW1sSEV3ZHRIdlV5Q0RwTEZDSzFScE11NUE?oc=5",
@@ -392,12 +410,6 @@
    "at": "2026-11-06T22:45+09:00"
   },
   {
-   "title": "東海地方以西の信金のシステム障害が復旧 ストレージの故障が原因か 5時間半にわたってATMなど利用できず",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5USjFTaTdDSUh4bmwxOGpTVDVIUkRtVHNxY3J0QUZIT3lOZmZoY3luN2NYZVY5SmM0N0pGb2t3ck5SYVNKb0lvTkRZc0tiTFZPQjNFNWhlNUJteVYxc1FZak1oU05zMnFwa3FLejZEejZPemJ2S0Jobm5NUXZRZFE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T22:41+09:00"
-  },
-  {
    "title": "鹿児島県内３信金でもシステム障害 相信は窓口を延長",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZSGdaU2JGWVBfeDRIVW5xRmQzMDR5WHBFM2tLS1p2SGdXbXNFUjV2N1dJenVzRWZUNlg3dG84eEdNTDR3SG9acmVDanhPeldtRU1BQ09Tb0U?oc=5",
    "source": "南日本新聞",
@@ -410,10 +422,10 @@
    "at": "2026-11-06T21:47+09:00"
   },
   {
-   "title": "信用金庫のシステム障害は午後7時すぎに全面復旧 利用できなかったATMもネットバンキングも通常通りに",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53R1Voa25VcnB3T1E5NnZtOW16T0ZDU283ZVlwOHhIMUNrTXR4WnBoUWlucFRkS2VyWEpwSzQ5em40MFgzaDlMajdCSkZzZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-06T21:30+09:00"
+   "title": "北洋銀行カードローン「スーパーアルカ」の外部保証会社に不正アクセス…最大32万人分の名前・住所・電話番号・勤務先など漏えい…北洋銀行分は調査中で新規申し込み・増額の受け付け停止",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTUlBWWlCUnRjYmtBZzczYjZFeEQxaFByQW15ZnJmNU5SSTVTVTREZDM4Y05aMDhFaWpTYXFxNlVvbm5fSWlGUENuS2VUMzNBMkNKUzVDOGVQb0dzZ3FFTlV4S1pyM1NEWnBxYy1oN2RvU3hzd09vLV85UDR0QkE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T05:05+09:00"
   },
   {
    "title": "(相次ぐサイバー攻撃)官民一体で対策強化 党戦略本部が初会合 2026.11.7付",
@@ -443,12 +455,6 @@
    "title": "＜主張＞サイバー攻撃対策 官民連携し国難の克服を 社説",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ROVY0aERSRkljc3Q4NGNzYjEtVGFaRUJhVzRyRy1hdHB4REdxcDlDUFNhbFQyajVGNk9kOGk5VVhYVEdsM2VxakZGV2UzM1BKUHlxZWNmWGkya01VbV9wSTJKN0UyUHNXWTlEbDZEOUZfNUZqQmc?oc=5",
    "source": "産経ニュース",
-   "at": "2026-11-07T05:00+09:00"
-  },
-  {
-   "title": "山口：サイバー攻撃 対応学ぶ 山口で講座 中小７０社の経営者参加 専門家「全権アカウント保護を」：地域ニュース",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlLTNhdk0yS2YyV2ZZNTZ1bWJ5QTliQ2pxbDNoajhqWUlvNzdLdkFuYjBTRjFLY1VvekYwajc0SkJzUUpPWFZMQUxMaVNwdVdWX1JaVU9Xb3JkN0ZPcHJzdVYyMzJIX3dTbHdMS1V3NTQ3U19DNHc?oc=5",
-   "source": "読売新聞",
    "at": "2026-11-07T05:00+09:00"
   }
  ],
@@ -599,13 +605,13 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金（」"
+    "「西日本にある128の信用金庫でシステム障害 約6時間後に復旧 一時ATMでの入出」"
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（北朝鮮、短距離弾道ミサイルを約12発発射）"
    ]
   },
   "world": {
