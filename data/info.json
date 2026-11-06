@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T03:15+09:00",
+ "updated": "2026-11-07T03:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "アイルランド公共放送に爆破予告、英国テレビも 欧州各地で脅迫相次ぐ",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wTHpXSHNiOENtYkItaUpVNkdVb0x1VjBKeE9OanBCcEFNVjRpUGdFOElTUlYxaUpndlJuX2tvU0Y1aTlJTUVqV3ZzNlI2dllFMW5PTGJTRTdqZ0VucjRBY05pWV9PNEg1OXBMSA?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-07T03:24+09:00"
+    },
+    {
      "title": "欧州の報道機関にも爆破予告、航空会社への偽予告で犯行主張（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jM0p6UHExNzREOUdHTGVaQlhlMko0TVAxQmE5RGd2ZWx3akRkeVQwWlUzdjJqem1IX2M2aEY4UVE0UWQ5NnVzTUZPbmZPSEJnc1NBVURkQjRJcnMwVHJ1S29TMFlyVkhPQVp5Z3NESFBlTUJIdFlsR1hvUGRyeGs?oc=5",
      "source": "Yahoo!ニュース",
@@ -279,12 +285,6 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RWncyTUpKYk5EbWwydkEtbXJtR2piUFNPRWdHTy11a2Roc1ljYWx5TzRQbEtYdnJsOVpyNGhERUJsVzhXYVRXVG84NjdhSWlSTm9ZamFadTlWek42d2x2NDVRUkVqVUJXMEpTeHp3?oc=5",
      "source": "Infoseek",
      "at": "2026-11-06T23:48+09:00"
-    },
-    {
-     "title": "アイルランド公共放送に爆破予告、英テレビも 欧州各地で相次ぐ脅迫",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GQXUzLXpRWkI3X2llRTE1UjhWLV9YajhhQkpNLUlpZkdzb1hiNDBEb2N6elhSVWZFbEk1WVN5NWtwUjUxeGVxVl9QbEdGX0oxWkRkR2VacXR6VEp5Yk1XY2FaeC1tS2xabnIyRktiYV9LSVhDUVE?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-06T23:07+09:00"
     },
     {
      "title": "欧州各地で爆破予告、ロシアが関与か？",
@@ -352,21 +352,9 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pc0RnY2FwNVozMjJnS0lsdm1PMmhhNEkyYkpqV3ZQWGg0QmdVWGJrRHg3OGNtWHBBVExIV3RJVVJreGx6S1pocUt5SEROdldua0hRN0ExWXNybFVvTWUzNWQ0VnhrZmU1UnI0QXZQcXY?oc=5",
    "source": "千葉県公式ホームページ",
    "at": "2026-11-06T14:10+09:00"
-  },
-  {
-   "title": "北朝鮮、短距離弾道ミサイルを約12発発射",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lRXBQeTNwRzdjLXF2NjJDVE5GZUtaM2lQSTUwOUhKZ3dvSHpCV1dldHpzMmg0N0Nua2xlMFZQT2dZb1XSAUJBVV95cUxPeXNCY1lxa2xyT19IcmJZOThQSXluMzBoOTJaUFpsSUxCZ3d0R0M5My0yWHhQclgtTDhSTGhjc0NROHc?oc=5",
-   "source": "VOI.ID",
-   "at": "2026-11-06T06:15+09:00"
   }
  ],
  "cyber": [
-  {
-   "title": "【復旧しました】オンライン申請システム（LoGoフォーム）のシステム障害について",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LMFZlbnRXME0yYklwU3ZFcjRoZXlhX3o4YkJYbjQ3LTVheU1RSDFJVUtvOEpqZngwVHBra3pPcmYxTkEyYWZxb0dyV0lONVJrbjg2YU9YRFQtVXZhZW1sSEV3ZHRIdlV5Q0RwTEZDSzFScE11NUE?oc=5",
-   "source": "福島市",
-   "at": "2026-11-07T01:08+09:00"
-  },
   {
    "title": "信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金（中京テレビＮＥＷＳ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdmhRbjBhVlVYNElvQWhyeWJ5SHVGVHdLTTktSnlsWUNIMC1aTEFpX1gtdEpsYlhqM0FrMDdhdVpCYjdtM1JmUnV0cEZhY0FFV1dxbW8zTTJCY2FMMWhJdDA2OGRiQW5ST1pHMXFyc1ZhNk1ZT241OGdaLTdOOVU?oc=5",
@@ -428,6 +416,12 @@
    "at": "2026-11-06T20:52+09:00"
   },
   {
+   "title": "１２８信金のシステム障害復旧＝西日本地域、機器の故障原因",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nWlZtTlBLUTRqUHRvX3JOZ09RQmtLZ3Noc28zUUhYdmFTSWVuN29tOW9PejU3RUstaWFpbTNTRTc1akw0ZXkxRmx4b2dzOGh1b2NKamJKUmxxQXVIT245R0dWTUVkdkNXRXZfSE9EM0dHcVN4NmJjczlnQjXSAYIBQVVfeXFMT3BPTldzbnFjUk1ycjhDTzFHTG9yNi1qcEx5NTF0cVptWUt2Rlp4a0Z4bEIyMUhGbWlYT0lZVGR0LWNELXZqdGRROEZzSmJhZjRCSkJTbVJtVC1lNzZzNFZmSGo3Yl9wTUJ0anJUdUV3NFdxWjBNeUJDWkhic2lRaF9jQQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T20:51+09:00"
+  },
+  {
    "title": "警視庁職員のメールアドレス等が漏洩か 災害時の安否確認システムの運用委託先「アララ」が不正アクセス受けた影響",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SY201TkhTMUJjVm40Q0N0VjFLaEZSN3RoNk1GX2sxTzI3WlhUNmhXTUZ0dkE2bjdzVXllOFg2YzV0TC0wZkY0S2h6Wk5ycmVaTkwtM3JtcFR4aE9LeV9oQ0JVNkJPMnIwczRTNHAtREVCeUZiVlhHdm5pVk5YZjg?oc=5",
    "source": "Yahoo!ニュース",
@@ -454,6 +448,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "アイルランド公共放送に爆破予告、英国テレビも 欧州各地で脅迫相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wTHpXSHNiOENtYkItaUpVNkdVb0x1VjBKeE9OanBCcEFNVjRpUGdFOElTUlYxaUpndlJuX2tvU0Y1aTlJTUVqV3ZzNlI2dllFMW5PTGJTRTdqZ0VucjRBY05pWV9PNEg1OXBMSA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-07T03:24+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUXFKaXEtN25RZGlMS2dJQS1qSURfYmVjNEJuT3BMeVlaUWdTWXl4cmU0ak5wU2NUTmtDSEdmck51MEUwMlNrWV9keGgtWmc0b0RqemNWME9PNDR4TkF4dzZFci04QnFpTVpRSEZn?oc=5",
@@ -487,13 +488,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RWncyTUpKYk5EbWwydkEtbXJtR2piUFNPRWdHTy11a2Roc1ljYWx5TzRQbEtYdnJsOVpyNGhERUJsVzhXYVRXVG84NjdhSWlSTm9ZamFadTlWek42d2x2NDVRUkVqVUJXMEpTeHp3?oc=5",
    "source": "Infoseek",
    "at": "2026-11-06T23:48+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "アイルランド公共放送に爆破予告、英テレビも 欧州各地で相次ぐ脅迫",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GQXUzLXpRWkI3X2llRTE1UjhWLV9YajhhQkpNLUlpZkdzb1hiNDBEb2N6elhSVWZFbEk1WVN5NWtwUjUxeGVxVl9QbEdGX0oxWkRkR2VacXR6VEp5Yk1XY2FaeC1tS2xabnIyRktiYV9LSVhDUVE?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-06T23:07+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -603,9 +597,9 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮、短距離弾道ミサイルを約12発発射）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
