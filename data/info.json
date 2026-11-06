@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:45+09:00",
+ "updated": "2026-11-06T16:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "欧州各地で旅客機への爆破予告相次ぐ 少なくとも25便が緊急着陸",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSEdkR2dRT0pUdVFjekREVFROU0RuTnh2WlNLeUx0RHlmMFFQN0FrSVBhZS0wX2NxUHRnZGlYeGlKSGpJV3d0OGZ0Y1h2U0FwVlhQZVpRMXpFVy1rdy1YbVJJdWw4cTlHYWk1VFN2aGY2N3h2RjdNUE5JRDZPNGdmaHFSS3YteTdJYTl3ZUdxTlV4NnhaYlJIVm90M0UtX0J3eUFjSTJrWE5nSnN2R3JrV0FrMXVhN1ExcTB2cm9fenNILVpRVVVEbnNUSllUdXZHWkVuMmFDYzQwQldRT2Ryam4zNzdYQ053?oc=5",
+     "source": "ABEMA",
+     "at": "2026-11-06T15:38+09:00"
+    },
+    {
      "title": "画像・写真：欧州各地で旅客機爆破予告：時事ドットコム",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xSXQ2b2cteTBZN29rTHpWdldmRXFZdlNsOVBVeUQxX0tPZEdOeDhldk84UzFjZ2Z6QmZ2MnVMczZ4clpDbmxOa0dpQzJKbV9qRWg4dGwyWGp5WFV6TzNQYlpzN3k?oc=5",
      "source": "時事ドットコム",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mQU5Qay1JUGwxM1ZKMWc5TkZMQ1dTWDAtb0haaEFJaGpuak9YZlExMjZ0M0V4WTBwZUNtdkdoRk5kdFpzanRyN3hGQ190dU1JWU9Jbmp2QWVObEVPb1hNQtIBZkFVX3lxTE9EYTN0SkEwY1Znd1AwY0lMd3A4QnVHdjExMnhzSEoxSkVScmpFZ2ctVE9NRTJkV1FYZUo1QTc1Slk2M1JmeDItQU05VmZPS3VHVHVNU3BzU2hUWXJuTndBNExVWVFDZw?oc=5",
      "source": "BBC",
      "at": "2026-11-06T14:28+09:00"
-    },
-    {
-     "title": "ひろゆき氏が欧州で相次ぐ爆破予告に警戒感「そのうち本物を…」 (2026年11月6日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzc2VZRjhtQkNoWmwzOVdZYVlXckVPcTItbWdGRGJRSmNCNTZDQ1IxcDR3b1I4cXdIZnBjMk5Bd3RPS05ZN2FVTmZwNmtEREI2TU96NXA2UElJVjJzSEE?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-06T14:15+09:00"
     }
    ]
   }
@@ -356,22 +356,28 @@
  ],
  "cyber": [
   {
-   "title": "【速報】信用金庫でシステム障害 静岡県内9つの信用金庫でも一部の窓口業務やATMなど各種サービス停止 再開見通し立たず（11月6日午後3時15分現在）",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kamxmT2VNWTNvQy1DczlkOWZ6TEJ5YTlXQndGNS1XcUhPa1J1SVg4bTdFMjVUZXozdnpxQ1BfaWVTY3kyWFdGaUtYbWpYaldsOVdNMldSamxyTnM2QnJLQ0x3ZW0?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-06T15:26+09:00"
+   "title": "【速報】信用金庫でシステム障害　静岡県内9つの信用金庫でも一部の窓口業務やATMなど各種サービス停止　再開見通し立たず（11月6日午後3時15分現在）",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFZVd2UtdVBaUGZwYUlZVVlzN1QxOVY5N0Z1Q25LSkJNb3RPaDBualFrbndJODN0ZGlEd0ZQRGNIeG1oeXpPYU9Tb0UwLTg4UHhrSlpUZnpwYlJVZEZlSXM0SGRUOXJUVGx5ZDZwdG5Qa19vdEtOV1pGNnJNcjVia3p30gF0QVVfeXFMT1dELU41cm0xemFWRUVGZGhfc0ptNUk2QldJTEF5cG13WGpDYmNrMllPaEhwMTU2bTJBVWZURnhnNURsTDJlTDV5cjQwb0hWazczRlhndThkVjl6WnFEcXV4Y05QQkNTNkp3M0JzX1Y1SXlWcUY?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T15:38+09:00"
   },
   {
-   "title": "【速報】西日本128の信用金庫でシステム障害 ATMやネットバンキング使えず 通信機器故障か",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYYm9MM2tCd2dDWHRkX29zRVp4eWJ5Rmk1a3BXLVJRVi16LWQ2QUFjbzBVRHBDY2l2eDdIRF8wMEs1UjhNRTFlbi1IWVNXaExy?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T15:17+09:00"
+   "title": "西日本の128信用金庫で大規模なシステム障害-ATM・ネットバンキングが利用できず、共同センターの通信障害が影響",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjRhcEdGa2llMVhOYnJkdnExZFhJWlFreVRLZVhueVpOOTY4alBfb2ZWQ1dQZ083bzhKc0VYbTlZWTRWdDBVQWtZQWhMS2dQU3picHVJZTdfdXVUZ01WN0duempGV2VGblhYWUpJZnZJeUNxYkRyMXRHTnhZT1lOamN1eGhlX2l2Y0Z6ZlRmV1pmQ0doZzgzdFdn?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-06T15:36+09:00"
+  },
+  {
+   "title": "西日本の信用金庫でシステム障害、ATMなど利用できず",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2RHZ3enY2YkFIeU50VzRPYVFOUjZyeUFqeDVFR3UwaHY4NUlFMTU4ZEE4emVFaU1IampMQ0NfSTJDUGpWVVVtOEJkNmgxOXNUUlRlbzFjYXg5dw?oc=5",
+   "source": "中国新聞デジタル",
+   "at": "2026-11-06T15:35+09:00"
   },
   {
    "title": "【速報】東海地方から西の128の信用金庫でシステム障害　窓口業務やATM利用に影響",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsMzRrWkhnMXJ6X3FIbmg0Q0xhRlNmR1lteF9pWlIxMXhHQzZsQUpWbE9pMjZ0QWZreFViLU02NDFYd3JXeEVxNzB3RXNyZkdqZWhYVHFCTkZOOEd4ZmY0aENxX3pmenFsbzNDazM2aWdZM2E1eWNQMVdzRdIBgAFBVV95cUxOSTdEOEI3dUFGcnlROHkwM0NLaGhoX2g2c2dLazc0Zl9CMmllVEVRUWJPQkVaSm9iZnJkOVZUQVp6RHV4YldDNGRvN1JXMFhjeVVLbE9TVWd5OUtFYzNjbmJFb2FtelB2MXRpZWpwSXA2S3Y0V1duRHFTMmJ0enZkag?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-06T15:14+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GQ0lJY0h4Sjg3OXBtWXd2SFVlNl9fVmt6dTR4QS0teWNkc2lrRFhIdDdHU1hJUFZXN0pxeDZpWGNzcmNxV3pfaU5uQ3kyLVA5WkHSAWRBVV95cUxPTFJjSkJQaFlENFROZUlsM2Q4M2ZuaEF4NmswMG84OFhRWEJ0SkVqQmNlWFYzS2paMEV0dDM5RU9XMDJSZmlMQWkwdnhpaUkzLTZGbDFURUVRcF9mLTBuNG5kMU1V?oc=5",
+   "source": "名古屋テレビ【メ～テレ】",
+   "at": "2026-11-06T15:22+09:00"
   },
   {
    "title": "【速報】信用金庫でシステム障害 窓口やATMなどが利用できず 復旧のめど立たず 大阪",
@@ -393,14 +399,8 @@
   },
   {
    "title": "西日本地域の信金でシステム障害",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01dXRhbFZ6OC04NHRSMzRVbDg2aGIyU2tDRE9yM1N5WWM3dUZ6RnlKMlFfZmZxdXV5RktzZG5lazd6aS1FRVQ4NmVWaXB0RHFPRURWdmNUbXdDZF9QTkE?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-06T15:05+09:00"
-  },
-  {
-   "title": "西日本地域の信金でシステム障害（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02cktxOXdiSkZoUmRUZGpSMnJtZUI5Vi15aWRLZzBXMUdnU2tNY2lOMmR6SnRVTmo0VHZSZVBOMTNtdWVNSFRCUHhqNzBNTWswM2RYNXMzcHN6UUMxa2x2dFhvc2FsQUF0MnVLNG5tbGNPNnRGLWo2WUFoXzNPdm8?oc=5",
-   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnUGJvbGotX1NvN1NhTkNUVmROR2V5V1dGQUtTTDVTc2Nob0gyS0tKcU51bkcwc2hTMFZmNXpiMmcwMUV1eGR4YVgyaDg2a1VudzhybXNRcWk?oc=5",
+   "source": "京都新聞デジタル",
    "at": "2026-11-06T15:05+09:00"
   },
   {
@@ -440,14 +440,21 @@
    "at": "2026-11-06T13:55+09:00"
   },
   {
-   "title": "ユーグレナ「あきゅらいず」に不正アクセスによるサイバー攻撃、最大約90万件の個人情報、漏洩の恐れ-アララ・佐川経由でも被害|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2TVc2cUlaUEV0TF9YYjUxQmNoUGJpVUFaRjBGMGhMdDFpN3JYSGxXQjY3c2t6d29UT0ZrUl9NdXJiMnlBdUZldkNlTFN3WnRGaHhhVFFIZVNsbU80QkNTQ0cySnVhaWpscTIyUDk5QzBlcWg5LUF4Nmg5R05uNTN0SVg2NVp5ZFZ2U1E4WmxzTjRadl91VkVEcWo5TlBaQWc?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-06T15:28+09:00"
+   "title": "欧州7カ国のスーパーにサイバー攻撃、冷蔵庫が50度に上昇 - フランスに続き被害",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfd0pZMDduXzRGQ2tyclFFMDgtaDh0VC1CQ0lDSEVydmtCMGgwM3FVX2RERE14TnNPYnRhaGJ6OUZHckY1ODJvd2N0YUdmSXJVem5XZUVIc05KNEdCb2hmd0t6VHEzX3di?oc=5",
+   "source": "マイナビニュース",
+   "at": "2026-11-06T15:41+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "欧州各地で旅客機への爆破予告相次ぐ 少なくとも25便が緊急着陸",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSEdkR2dRT0pUdVFjekREVFROU0RuTnh2WlNLeUx0RHlmMFFQN0FrSVBhZS0wX2NxUHRnZGlYeGlKSGpJV3d0OGZ0Y1h2U0FwVlhQZVpRMXpFVy1rdy1YbVJJdWw4cTlHYWk1VFN2aGY2N3h2RjdNUE5JRDZPNGdmaHFSS3YteTdJYTl3ZUdxTlV4NnhaYlJIVm90M0UtX0J3eUFjSTJrWE5nSnN2R3JrV0FrMXVhN1ExcTB2cm9fenNILVpRVVVEbnNUSllUdXZHWkVuMmFDYzQwQldRT2Ryam4zNzdYQ053?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-06T15:38+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "画像・写真：欧州各地で旅客機爆破予告：時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xSXQ2b2cteTBZN29rTHpWdldmRXFZdlNsOVBVeUQxX0tPZEdOeDhldk84UzFjZ2Z6QmZ2MnVMczZ4clpDbmxOa0dpQzJKbV9qRWg4dGwyWGp5WFV6TzNQYlpzN3k?oc=5",
@@ -495,13 +502,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mQU5Qay1JUGwxM1ZKMWc5TkZMQ1dTWDAtb0haaEFJaGpuak9YZlExMjZ0M0V4WTBwZUNtdkdoRk5kdFpzanRyN3hGQ190dU1JWU9Jbmp2QWVObEVPb1hNQtIBZkFVX3lxTE9EYTN0SkEwY1Znd1AwY0lMd3A4QnVHdjExMnhzSEoxSkVScmpFZ2ctVE9NRTJkV1FYZUo1QTc1Slk2M1JmeDItQU05VmZPS3VHVHVNU3BzU2hUWXJuTndBNExVWVFDZw?oc=5",
    "source": "BBC",
    "at": "2026-11-06T14:28+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "ひろゆき氏が欧州で相次ぐ爆破予告に警戒感「そのうち本物を…」 (2026年11月6日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzc2VZRjhtQkNoWmwzOVdZYVlXckVPcTItbWdGRGJRSmNCNTZDQ1IxcDR3b1I4cXdIZnBjMk5Bd3RPS05ZN2FVTmZwNmtEREI2TU96NXA2UElJVjJzSEE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-06T14:15+09:00",
    "topic": "欧州・NATO"
   },
   {
