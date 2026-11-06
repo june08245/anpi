@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:30+09:00",
+ "updated": "2026-11-07T06:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-06T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-07T06:30:00+09:00",
+   "place": "山口県中部",
+   "mag": "2.9",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-07T03:54:00+09:00",
    "place": "和歌山県北部",
@@ -74,16 +84,6 @@
    "mag": "3.7",
    "maxi": "1",
    "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-06T03:05:00+09:00",
-   "place": "福島県沖",
-   "mag": "4.3",
-   "maxi": "2",
-   "maxiRank": 2,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-07T06:32+09:00"
+    },
+    {
      "title": "ロシアがウクライナ侵攻を停止しない限り、欧州は安全保障協議に応じない方針",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MGc4Q2w3OHJmU2N5UG9HNFRDTDFCaEs5d0NMNVBfQVloSjZPaGVpZlRIME82dWU0aFdUN2h3WERVYzZhSXF6Z29QUzJSQ3hBdnZPTERQOFBNNzV0am9NUW5pZmlIWWtKbTNpSGw0emY?oc=5",
      "source": "Investing.com - FX",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aLXJhcXp1aFV6YUJWejNqT3VrRnhlT05jSmRpVmtPVDRNbHA1aWFYTW5DNlF0aExESHBqTlhIUGgydVdWSURlNkZBdE4zNTlvMm5LRjFqenFkTkREcXZHUWZDMmF4LTZiU2YweUI4RUlSMW9OeHpYNmpnbFIyM1U?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-06T21:05+09:00"
-    },
-    {
-     "title": "ロシア軍の爆弾が迫る…「地下シェルターへ逃げろ！」住民が駆け込んだ直後に爆発、ボディーカメラが捉えた衝撃映像",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVHlhYlhrWWppNlZFWUpqaTVnalJiWkFNaWhWeExaYklIczFEbDcwNC12SFVlOWl5QTFOT1ZjMWRUV3h0VDh6OHhtNEJ4RGY2dDhaZGtYVnV2ZDdhTkMtLVlTYmYtUEpkNnJzekZ4NkhhYUZiNDMyYmhvY2Jjb3M?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T20:31+09:00"
     }
    ]
   },
@@ -455,6 +455,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-07T06:32+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシアがウクライナ侵攻を停止しない限り、欧州は安全保障協議に応じない方針",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MGc4Q2w3OHJmU2N5UG9HNFRDTDFCaEs5d0NMNVBfQVloSjZPaGVpZlRIME82dWU0aFdUN2h3WERVYzZhSXF6Z29QUzJSQ3hBdnZPTERQOFBNNzV0am9NUW5pZmlIWWtKbTNpSGw0emY?oc=5",
    "source": "Investing.com - FX",
@@ -560,13 +567,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシア軍の爆弾が迫る…「地下シェルターへ逃げろ！」住民が駆け込んだ直後に爆発、ボディーカメラが捉えた衝撃映像",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVHlhYlhrWWppNlZFWUpqaTVnalJiWkFNaWhWeExaYklIczFEbDcwNC12SFVlOWl5QTFOT1ZjMWRUV3h0VDh6OHhtNEJ4RGY2dDhaZGtYVnV2ZDdhTkMtLVlTYmYtUEpkNnJzekZ4NkhhYUZiNDMyYmhvY2Jjb3M?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T20:31+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "高市総理“台湾有事発言”から1年 中国政府が改めて日本側を批判「誤った言動速やかに是正を」 APECでの日中首脳会談は厳しい見通し",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CbE5xMDN3NTRJa1RodUFxMFhFQTRxQVF2eXRnbXgzT19JdVVqOWE0dmlxRjJGQ3FpUExxSmR1SGJpdjlTVEtBWnFKX2pwVzRxZ3dweEl3MG0wNUk?oc=5",
    "source": "Infoseek",
@@ -613,7 +613,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」1件",
     "中国・台湾：「侵攻」2件",
-    "ロシア：「攻撃」「空爆」3件",
+    "ロシア：「攻撃」「空爆」4件",
     "欧州・NATO：「爆破予告」「妨害工作」6件"
    ],
    "items": [
@@ -630,10 +630,10 @@
      "at": "2026-11-06T11:52+09:00"
     },
     {
-     "title": "ロシアがウクライナ侵攻を停止しない限り、欧州は安全保障協議に応じない方針",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MGc4Q2w3OHJmU2N5UG9HNFRDTDFCaEs5d0NMNVBfQVloSjZPaGVpZlRIME82dWU0aFdUN2h3WERVYzZhSXF6Z29QUzJSQ3hBdnZPTERQOFBNNzV0am9NUW5pZmlIWWtKbTNpSGw0emY?oc=5",
-     "source": "Investing.com - FX",
-     "at": "2026-11-07T04:45+09:00"
+     "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-07T06:32+09:00"
     }
    ]
   }
