@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:03+09:00",
+ "updated": "2026-11-06T17:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -168,7 +168,7 @@
     },
     {
      "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52SERPanZGUFozdUw2dk9sUU1YR0hCQjRCNHVDYW1CbGVHLWo1X3E3N3VnNG1DaFZqMTlPVXFqakVZX3hIMThtbHdGYjFTdHphNURRcWQxQXlXbjlTNUR3SDJad29wTE1adm5kVWtFWQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
      "source": "TradingView",
      "at": "2026-11-05T19:39+09:00"
     }
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNjZpcmZvQVpibjVJX1RPS1hJRDBJZ05acEtmOUtlb09oYm1ncmVTRkVCSXZHNUdhOExFUllMdjY3ek4ybFJub3hMZmxvdVg3bVNJZw?oc=5",
+     "source": "時事通信ニュース",
+     "at": "2026-11-06T15:37+09:00"
+    },
+    {
      "title": "ロシア製油所への攻撃再開、11月の軽油輸出計画約215万トンに影響も",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IVkppal9iVnBmQXpYMVI1MHQyaVFrekt6T1ZzOGlxd3Q4eUo4aHJDY19GaVpKNkRZa09ZVnlGWGpDaTBhRWZuZXRSRzBlazVaWWhJQklGZUdFMy1EUWw4N1Q4Q18?oc=5",
      "source": "NOVAIST",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TLWNBamhEX0p5cG8zb3BTeWpRcWJQNk1oMHB3VzFFa0dLT0RTTkZkN1B1UWk5NHRKR2JhazJfaGhGM1pNUHVyZ1dhUXpOMWVfTGh5ODIzMDF3TVZaUXVjTdIBZkFVX3lxTE01MHhUUXpLMkEzNVdnZzNMYXpqejh0LXBMZXMtdEpUc1lZVnZ4ODBvdkVxUDZWT2V2YVhITVNEb05tUWU5N0N1QVhPWUkzUENmem5laFR3c05Ia2NGeG9DUzBMYzRMQQ?oc=5",
      "source": "BBC",
      "at": "2026-11-06T09:55+09:00"
-    },
-    {
-     "title": "ドナルド·トランプ米大統領は、ロシア·ウクライナ戦争がまもなく終わるとし、ウクライナを越えて欧州全体を包括する広範囲な合意があり得ると示唆した。トランプ大統領は5日（現地時間）、ホワイトハウスで記者団..",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSRVBGYzBtOGRCbTJuRkJvbjJVRzZoeHEySGRQNC02b0xfOFZtUmVIaG5yV3E3SkpYNnRwWWh6ZmRQcHp6dTNsaGlzUGNmUzA?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-06T09:48+09:00"
     }
    ]
   },
@@ -356,16 +356,28 @@
  ],
  "cyber": [
   {
-   "title": "東海から西の信用金庫128庫でシステム障害 ATMや窓口で取引できず (2026年11月6日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UdHF6dmR4TlZrVGZxNjVzVloyQjhDZC02Uklnc1oxUVdDbXZoOEZTRG82UHRxMDQxSXc4TU5MLU83Vlltb3doYlFLaEpLSXpuS2pncGdyU0tvYXFaQ2c?oc=5",
+   "title": "「そうしん」「かしん」など信用金庫　システム障害でATMやネットバンキング使えず　鹿児島",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BeEppbE0wZzlaZU9SSHRsYmdCNXNzc3JFVjZrUTIxYlhrc0NKcGNmaGVjdVNDZmJMVk9Bd1hkNE1UVW1GTDlDSmVmcmNLTnRvbXhDbldfMmhHbUpqalhqcldnVU8zSEowMDZ3aG5oWdIBdEFVX3lxTE5NVUtuaE9qUk9ucFZNbGhvcjRyVWVHTExMWG9zUVBjd3VxLUI5RXo5aHpaRzhYV09wb3RmYlZhRXF0cHh6enozQVhWY3JfU0l1dHdoSVJLbkhoZDRXRUMwRVJHN25saUxMdXRRYXFVUURNZVRw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T16:37+09:00"
+  },
+  {
+   "title": "西日本 128の信用金庫でシステム障害",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WVzQ5bWFiUmFIYmg0OFZ4alpTYlRsRWVoMWl4Yi10QXVaa0Y1VHl1Z0pCbG9STkowMDJoQUlWTWN1aHJJa0cwcWFZeHd2RmtSLUtzSw?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-06T16:31+09:00"
+  },
+  {
+   "title": "【速報】信用金庫でシステム障害 東海地方から西側…全国の約半数が影響、ATMなど使えず 不正アクセスとの関係性はないとみられる",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jTjl4UFotX2RWZG5TSzZ4YnpDSDFxSmZCem9zdFpqLVBWVDBmVHFrWldTT0VfNmNXYVJCU2h5LW10MTk0MF9mSjd0Z0s4WGFFVGg1S1VYUU8zQUJ0YTY0?oc=5",
    "source": "ライブドアニュース",
-   "at": "2026-11-06T16:33+09:00"
+   "at": "2026-11-06T16:30+09:00"
   },
   {
    "title": "【速報】西日本の信用金庫でシステム障害 東海から九州にある128の信用金庫 復旧のめど立たず 不正アクセスが原因かは不明、調査中",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSdnlyMUhnLUE2QmdWWnlCNUNQVDVMRE1rRTlWTGtQYl9wZXVCZ1UxVmdQV2pXdENKN1hjM3pKRGJybS14b0V5N05oc2hDU0l5VUVDN3RNbHdTOUJJbk5MR3JTekFzODVqSW8yUjN3?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-06T16:28+09:00"
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVS1EU2lSeXFoZ2ZnSDlxZFh2RVhBX3hvTW5GbC0zVm5oeUo1UVpwZGhHWFRNbTRKMXdGeEJDVllPM2Vid1h0SHVLUjFTTjBHeVJzN214cjZiQk9NV1JyT0lya0xzSTdvcFo1OVdhWmJPTHhXOEJaTEswVFJSQk5iai1IblgwQVU?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-06T16:27+09:00"
   },
   {
    "title": "岡山・香川の信用金庫でもシステム障害 ATMやネットバンキングなどが使えない状態 通信機器の故障か",
@@ -432,18 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NTE82b3VIVVJtWnlLNzAyV3N1VFltTkxrUlV1RWNTa21iekVOdjFQMHFlSDNIZVh0aUcwTEFEZkgtcUdHd0t5ckRRU2pnNms4RnNTa0J1MFpyZ1VINGJOejh3NFJ2NHNHUFQzamg3Yw?oc=5",
    "source": "下野新聞社",
    "at": "2026-11-06T15:51+09:00"
-  },
-  {
-   "title": "１２８信金でＡＴＭ利用できず＝西日本地域、通信障害で",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50UUFiZlBSU195Mzh4UnpIcmJDaGN2eWhoYzJKYzU1aWRUZU1mWU9kNUJTV0R4TWxObENNX1ZDWWtKN0JjeVc0MTVURTlvS05laTV6YQ?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-06T15:51+09:00"
-  },
-  {
-   "title": "西日本の128の信用金庫でシステム障害、ATM利用できず 愛知や静岡でも",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTnc4YUM1cWFpTlFBT0ZwY2xodWhjSWNORU9wV0lsaUppaEF3U0gyRUVBODFBMHNtTGl3QnEybmcwQkwtTklGRXd6QQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-06T15:45+09:00"
   }
  ],
  "osaka": [],
@@ -468,6 +468,13 @@
    "source": "ABEMA",
    "at": "2026-11-06T15:38+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNjZpcmZvQVpibjVJX1RPS1hJRDBJZ05acEtmOUtlb09oYm1ncmVTRkVCSXZHNUdhOExFUllMdjY3ek4ybFJub3hMZmxvdVg3bVNJZw?oc=5",
+   "source": "時事通信ニュース",
+   "at": "2026-11-06T15:37+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "欧州の航空会社に爆破予告相次ぐ、今週2度目 27便以上に影響",
@@ -580,20 +587,13 @@
    "source": "アサ芸プラス",
    "at": "2026-11-06T11:30+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア、欧州冷蔵設備サイバー攻撃への関与否定 「証拠ない」",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnQ3UWtOUUM1emVmVDFyaTVSUVRselgxNVJJSWw5SnpiTzdGM1gtUU5jeGw2dVhUVHlyMzBmVTZvWjBZRVB3bkM2c05sUGZhSHRWOTdod3lWdC0wOVQ3Y01RUnEtekRONWxSaU1nUWtXZWwzY1VZNlRnVGV6ME9HdktiUUtJQQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-06T11:28+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「東海から西の信用金庫128庫でシステム障害 ATMや窓口で取引できず (2026」"
+    "「「そうしん」「かしん」など信用金庫　システム障害でATMやネットバンキング使えず」"
    ]
   },
   "japan": {
@@ -607,7 +607,7 @@
    "reasons": [
     "中国・台湾：「侵攻」2件",
     "北朝鮮：「ミサイル」2件",
-    "ロシア：「攻撃」3件",
+    "ロシア：「攻撃」4件",
     "欧州・NATO：「爆破予告」「緊急着陸」6件"
    ],
    "items": [
@@ -624,10 +624,10 @@
      "at": "2026-11-06T12:31+09:00"
     },
     {
-     "title": "ロシア製油所への攻撃再開、11月の軽油輸出計画約215万トンに影響も",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IVkppal9iVnBmQXpYMVI1MHQyaVFrekt6T1ZzOGlxd3Q4eUo4aHJDY19GaVpKNkRZa09ZVnlGWGpDaTBhRWZuZXRSRzBlazVaWWhJQklGZUdFMy1EUWw4N1Q4Q18?oc=5",
-     "source": "NOVAIST",
-     "at": "2026-11-06T14:33+09:00"
+     "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNjZpcmZvQVpibjVJX1RPS1hJRDBJZ05acEtmOUtlb09oYm1ncmVTRkVCSXZHNUdhOExFUllMdjY3ek4ybFJub3hMZmxvdVg3bVNJZw?oc=5",
+     "source": "時事通信ニュース",
+     "at": "2026-11-06T15:37+09:00"
     }
    ]
   }
