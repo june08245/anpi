@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:00+09:00",
+ "updated": "2026-11-07T00:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-06T23:57+09:00"
+    },
+    {
      "title": "ロシア人のオートバイ運転者、ウクライナのドローンを軍用車両に誘導した後に一命を取り留める",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlZIYk5ORVYwak1ZLW9zRXJKOHBUQmZtOHBUU3Y2SVZTdGtUdFVFOEVpblFBZEZuUWhrNk9NWUZkTE1WYldOVHZXem8yQ3dnU1A2eE9XUGNsakVjOG0zZE1tUkxST24wREloRDlmdlc3WGlneTJ2bGQ1bW9wSjBVY3lRbWFTZkdRYjlmZW5NbEs3b1Y0VUJ4NFJvLU1mVFdrVmNWX3drdHdtUWJaa0k1NGJjaXJTdkxaaWV3NmtldThXY1RfaG4zVnpuS2o2QQ?oc=5",
      "source": "Informat.ro",
@@ -243,12 +249,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEZ0NQTkpzOVJxZlA5RHBUWlUyZ2pCdHBsSFZVY2EtODFoY00wUm9GUTZkYjEydkt6OFdIQUxhWkZfUm9ieHFxVEtycUZhdFJpenFjTVJ3?oc=5",
      "source": "佐賀新聞",
      "at": "2026-11-06T20:27+09:00"
-    },
-    {
-     "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-06T20:12+09:00"
     },
     {
      "title": "【アメリカ中間選挙後のアブダビ協議が\"分水嶺\"に】防衛研究所・兵頭慎治／ロシアはトランプ氏と欧州を\"分断\"へ／メラニア夫人の仲介で\"恩を売った\"プーチン氏／日本への強硬姿勢は\"欧米並み\"に【1on1】",
@@ -293,10 +293,10 @@
      "at": "2026-11-06T19:04+09:00"
     },
     {
-     "title": "欧州の航空会社に爆破予告相次ぐ、今週2度目 27便以上に影響",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeGJZLXVFVV9va2c4OVltQUdZZ3A4cElYWnVZbDE1QVEwOW11UVhHNjZkY3A2YTZIazJXRElsazhuWHBkNkVKYUtaTmNLT2ZkOVA5ck1TRldlWGRSb1J4WW1JbE5SLWNIOGt5Qmk3ZXJndHlKTTRFaFNBSTBLZw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-06T19:01+09:00"
+     "title": "訂正（5日付配信記事）-欧州の航空会社に爆破予告相次ぐ、今週2度目 20便以上に影響（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44WlF6WmJaRGk5Y0p0d3JtNTR5UFVSMGpoV2k4TXpqU2xsTU5XdGhLbmZreDI2YUJmQjVCMjB2NThtSS05UUZ6WlhfQ2NrdHF3U0FWcWdZNHpqZFU0dHpyRUNsOXhhTzUwb21yV0NUaVE1cFdRMlBIc3JfQjdUSnM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-06T18:48+09:00"
     }
    ]
   }
@@ -440,14 +440,21 @@
    "at": "2026-11-06T22:42+09:00"
   },
   {
-   "title": "政府がサイバー攻撃「緊急対策パッケージ」決定、強制遮断「ブロッキング」や被害企業に「官民救援隊」派遣",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTjNiTDIyQ0stRlhsMWpsRVd1bk90aTBNVHd5TFA5MnhLZmxpMFNURk1KX0k2dGFVR09fdWF1c3g2QzVERVNQZklRRV9yclc0SXUzbGhrMFhXSVVQeGE1MXI3U1NiQQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-06T22:37+09:00"
+   "title": "駒ヶ根市のホテル千畳敷の予約サイトに不正アクセス 最大1万5000件の個人情報漏えい",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwcUdKcFF5emF2ZjgzQXgtcjhGbXBZelhKMEVXMnlMRzVOdEhqRVdnOUVXNEp0QnhtY004Z3lMVUJ6aWJyR0hISlhUZVFLX0NBN1FXbVJ6S21zbWl6N2VoWlVmNlhIWHhseVFHVThBU0Q?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "at": "2026-11-06T22:39+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-06T23:57+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "欧州の報道機関にも爆破予告、相次ぐ航空会社への偽予告の犯行主張",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0tlbUVBRFk3dlNDaklLZkRDQWk2Y1N1SVAyVFRCNVhmaDliRS1xZ3JPbS1hYVZwZEZGdjkyR1VGdEtsU2N4MWZMZ3VRdkxETy1ISzRZQWxDQ29LYjdMa05SRXFMZXctaFo4Q0Z6aC1xMU5nNXFBcTlxaHR4M3Z3WUtVTGUwbmRtX3BhbXQ2RQ?oc=5",
@@ -498,13 +505,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
-   "source": "乗りものニュース",
-   "at": "2026-11-06T20:12+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "【アメリカ中間選挙後のアブダビ協議が\"分水嶺\"に】防衛研究所・兵頭慎治／ロシアはトランプ氏と欧州を\"分断\"へ／メラニア夫人の仲介で\"恩を売った\"プーチン氏／日本への強硬姿勢は\"欧米並み\"に【1on1】",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pT3pzZG9FaTF4MUY4V0JFQVNwcWtZVkRMS2t1OTBDc1R2Tm50OUhMR05vLWhvVHpqZTJsNmVjWnlwemtmRVhua0ZTaWtMWVJ4emVRbTN2OV94T0czVXZQNjcxSEFicjFqUE04TnJwMHQ4UmpG?oc=5",
    "source": "TBS NEWS DIG",
@@ -526,10 +526,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "欧州の航空会社に爆破予告相次ぐ、今週2度目 27便以上に影響",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeGJZLXVFVV9va2c4OVltQUdZZ3A4cElYWnVZbDE1QVEwOW11UVhHNjZkY3A2YTZIazJXRElsazhuWHBkNkVKYUtaTmNLT2ZkOVA5ck1TRldlWGRSb1J4WW1JbE5SLWNIOGt5Qmk3ZXJndHlKTTRFaFNBSTBLZw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-06T19:01+09:00",
+   "title": "訂正（5日付配信記事）-欧州の航空会社に爆破予告相次ぐ、今週2度目 20便以上に影響（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44WlF6WmJaRGk5Y0p0d3JtNTR5UFVSMGpoV2k4TXpqU2xsTU5XdGhLbmZreDI2YUJmQjVCMjB2NThtSS05UUZ6WlhfQ2NrdHF3U0FWcWdZNHpqZFU0dHpyRUNsOXhhTzUwb21yV0NUaVE1cFdRMlBIc3JfQjdUSnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T18:48+09:00",
    "topic": "欧州・NATO"
   },
   {
