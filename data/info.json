@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:00+09:00",
+ "updated": "2026-11-06T16:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -168,7 +168,7 @@
     },
     {
      "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52SERPanZGUFozdUw2dk9sUU1YR0hCQjRCNHVDYW1CbGVHLWo1X3E3N3VnNG1DaFZqMTlPVXFqakVZX3hIMThtbHdGYjFTdHphNURRcWQxQXlXbjlTNUR3SDJad29wTE1adm5kVWtFWQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
      "source": "TradingView",
      "at": "2026-11-05T19:39+09:00"
     }
@@ -356,10 +356,22 @@
  ],
  "cyber": [
   {
+   "title": "西日本１２８信金でシステム障害 決済、ＡＴＭ利用できず",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tRUIyR3hTTDJCZWs3NmFUZzA5QnlCbmFlb2pfdW5IS3o4b09HS1FDYUlWcF9XdHowY0N6OEluS1ItdXhNSkRFNzBQYTVDMEFwdU5UWmJycl9URzdiZ3c?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-06T15:43+09:00"
+  },
+  {
    "title": "【速報】信用金庫でシステム障害　静岡県内9つの信用金庫でも一部の窓口業務やATMなど各種サービス停止　再開見通し立たず（11月6日午後3時15分現在）",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFZVd2UtdVBaUGZwYUlZVVlzN1QxOVY5N0Z1Q25LSkJNb3RPaDBualFrbndJODN0ZGlEd0ZQRGNIeG1oeXpPYU9Tb0UwLTg4UHhrSlpUZnpwYlJVZEZlSXM0SGRUOXJUVGx5ZDZwdG5Qa19vdEtOV1pGNnJNcjVia3p30gF0QVVfeXFMT1dELU41cm0xemFWRUVGZGhfc0ptNUk2QldJTEF5cG13WGpDYmNrMllPaEhwMTU2bTJBVWZURnhnNURsTDJlTDV5cjQwb0hWazczRlhndThkVjl6WnFEcXV4Y05QQkNTNkp3M0JzX1Y1SXlWcUY?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-06T15:38+09:00"
+  },
+  {
+   "title": "【速報】静岡県内全9信用金庫 システム障害でATMなど停止（静岡新聞DIGITAL）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNzF6NHpOWURjeUtsYUdpTzhhUF9rcWlaZzBUbzUwQklKQnJ4aTA2X2hwNTNBQ2lLNmNXV3FSRl93RmYtVFc1NkNZZk1DbEczVW1UNGJNNmtVdjJwaFgzUlBEdjF1eTBxT0JDUnFVSnRNcWttelhfelZUN0diYWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T15:37+09:00"
   },
   {
    "title": "西日本の128信用金庫で大規模なシステム障害-ATM・ネットバンキングが利用できず、共同センターの通信障害が影響",
@@ -375,9 +387,9 @@
   },
   {
    "title": "【速報】東海地方から西の128の信用金庫でシステム障害　窓口業務やATM利用に影響",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GQ0lJY0h4Sjg3OXBtWXd2SFVlNl9fVmt6dTR4QS0teWNkc2lrRFhIdDdHU1hJUFZXN0pxeDZpWGNzcmNxV3pfaU5uQ3kyLVA5WkHSAWRBVV95cUxPTFJjSkJQaFlENFROZUlsM2Q4M2ZuaEF4NmswMG84OFhRWEJ0SkVqQmNlWFYzS2paMEV0dDM5RU9XMDJSZmlMQWkwdnhpaUkzLTZGbDFURUVRcF9mLTBuNG5kMU1V?oc=5",
-   "source": "名古屋テレビ【メ～テレ】",
-   "at": "2026-11-06T15:22+09:00"
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsMzRrWkhnMXJ6X3FIbmg0Q0xhRlNmR1lteF9pWlIxMXhHQzZsQUpWbE9pMjZ0QWZreFViLU02NDFYd3JXeEVxNzB3RXNyZkdqZWhYVHFCTkZOOEd4ZmY0aENxX3pmenFsbzNDazM2aWdZM2E1eWNQMVdzRdIBgAFBVV95cUxOSTdEOEI3dUFGcnlROHkwM0NLaGhoX2g2c2dLazc0Zl9CMmllVEVRUWJPQkVaSm9iZnJkOVZUQVp6RHV4YldDNGRvN1JXMFhjeVVLbE9TVWd5OUtFYzNjbmJFb2FtelB2MXRpZWpwSXA2S3Y0V1duRHFTMmJ0enZkag?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T15:14+09:00"
   },
   {
    "title": "【速報】信用金庫でシステム障害 窓口やATMなどが利用できず 復旧のめど立たず 大阪",
@@ -432,18 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02cWU0M00tMmExa21abVdETUZZd1E1MU0tN0M0bTFWMWVBY1ZOWm5xeVp4Y0ZzWXlfYW51d0NPMU1POEVBOS1kbURVZVZhSDdhb0VMaw?oc=5",
    "source": "中日新聞Web",
    "at": "2026-11-06T14:43+09:00"
-  },
-  {
-   "title": "松屋公式アプリ、約9日間のシステム障害から復旧完了",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ueS1CcWVLZnJRdVhHdjhydmdFZTFaNzJSZkRVREU0d0JWdFBzWkpvbWZvT01CRHBEa1ZyaFdkMTJCUFhySzVFN25uT2k?oc=5",
-   "source": "ギュメシー",
-   "at": "2026-11-06T13:55+09:00"
-  },
-  {
-   "title": "欧州7カ国のスーパーにサイバー攻撃、冷蔵庫が50度に上昇 - フランスに続き被害",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfd0pZMDduXzRGQ2tyclFFMDgtaDh0VC1CQ0lDSEVydmtCMGgwM3FVX2RERE14TnNPYnRhaGJ6OUZHckY1ODJvd2N0YUdmSXJVem5XZUVIc05KNEdCb2hmd0t6VHEzX3di?oc=5",
-   "source": "マイナビニュース",
-   "at": "2026-11-06T15:41+09:00"
   }
  ],
  "osaka": [],
