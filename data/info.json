@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:45+09:00",
+ "updated": "2026-11-06T20:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -12,11 +12,11 @@
    "at": "2026-11-06T19:39:00+09:00",
    "place": "関東東方沖",
    "mag": "6.1",
-   "maxi": "",
-   "maxiRank": 0,
+   "maxi": "3",
+   "maxiRank": 3,
    "osaka": "",
    "osakaRank": 0,
-   "title": "震源に関する情報"
+   "title": "震源・震度情報"
   },
   {
    "at": "2026-11-06T09:06:00+09:00",
@@ -221,6 +221,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "【速報】ロシア軍の学校攻撃死者53人に",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFOXlVaVJIRzNvbnZMTVFNR1BYYXBDM25lSFdBMGU4bWxIdmJPWEVweFVSZ1RoSTZLQWJkdDhHQ2h2NkdPcU9FSGdEQQ?oc=5",
+     "source": "47NEWS",
+     "at": "2026-11-06T19:49+09:00"
+    },
+    {
+     "title": "ロシア軍の学校攻撃死者５３人に",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52WnBaMGtqME9XZEYxR3YyWlAzZHlra0tXMjFQa3F4TnFNTEMweWhmVWhtNnBIT0o5bHJpV3BPNHphZ3NmVTJ4aDdGUnpraG1KcEk1amhYWFdMUUE4Nnc?oc=5",
+     "source": "沖縄タイムス社",
+     "at": "2026-11-06T19:49+09:00"
+    },
+    {
      "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月6日の動き）",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RRjRGS2pVSTZNOHdEYVFnaWROUmtCaHpseC1vczUyajBrY3JYQ1gwMDhIbFF5U01ScUdmYzBsVXlIMVZCYUNSTFpVZjg3NW1YRGxUNTlQa1ItOXFPMDZV?oc=5",
      "source": "NHKニュース",
@@ -243,18 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNjZpcmZvQVpibjVJX1RPS1hJRDBJZ05acEtmOUtlb09oYm1ncmVTRkVCSXZHNUdhOExFUllMdjY3ek4ybFJub3hMZmxvdVg3bVNJZw?oc=5",
      "source": "時事通信ニュース",
      "at": "2026-11-06T15:37+09:00"
-    },
-    {
-     "title": "ロシアの攻撃受けた南部の集落 閉じ込められた30人以上の捜索（AP通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMDlXbkNjQk5kWEdlMFliRng3MmVjb0drVUw0Q3pObmdkU0ZkbUJJZjZPRFR4MjdPUV9LMm9VWTExTWZuMDV1bjI2dGlvZ3FWUUd3MUFPNUV4WTY4YUtOdFNud3FYYTRMNjJOdk5ZQUM5dXhwUTd4ZWhKMlZEUmc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T14:31+09:00"
-    },
-    {
-     "title": "メラニア氏、ウクライナとロシアの「より持続的な」停戦呼び掛け 両国首脳に書簡",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CLTBETlRJR0ExRDRULXNLQnhHS3ExaFhrLVJPMnNJMHN1b1NVNVBUYVB5YmFMTEJsbkNXWGRzOUIxejByWU1ZN1QxV3JidkZRYUhsN9IBVEFVX3lxTE1CLTBETlRJR0ExRDRULXNLQnhHS3ExaFhrLVJPMnNJMHN1b1NVNVBUYVB5YmFMTEJsbkNXWGRzOUIxejByWU1ZN1QxV3JidkZRYUhsNw?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-06T13:02+09:00"
     }
    ]
   },
@@ -264,8 +264,8 @@
    "items": [
     {
      "title": "ヨーロッパで旅客機への「爆破予告」相次ぐ 緊急着陸や欠航する事態に",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9neHZLTUJFTFNaVnkwYkoxdXdNV3ZVc2JEYjJTRmh2QzVCMVk2UmVMTDZKbnJUelFxRlhfWkk1NzdSLTI0UjlYZE1VVHdfY0F2dkk1Tld3?oc=5",
-     "source": "KAB 熊本朝日放送",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWjhxcGtMNkdtUmxXa2lmUjNBWVRDMi1FenhyYTVadUp4VWV4cWM1N0VrVGh3NkVXM1JaX0J4VlFlY25TSEZKMGtSMWYzZXJ2bmlwSEVn?oc=5",
+     "source": "KFB福島放送",
      "at": "2026-11-06T19:04+09:00"
     },
     {
@@ -303,10 +303,10 @@
  ],
  "nankai": [
   {
-   "title": "松山・道後を滞在中に「南海トラフ地震」発生したら 温泉街で避難訓練 増加する外国人にも対応【愛媛】",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CMUVjRHdkUElOSm9mcjg0cEZDeTJ2LWMyakJNaHpRYW9kM2hvaDBGcm1oZ2dXcVgzQlIxcExvU0VOVmZaZE1DdjJtU205dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-06T18:43+09:00"
+   "title": "松山・道後を滞在中に「南海トラフ地震」発生したら 温泉街で避難訓練 増加する外国人にも対応【愛媛】（テレビ愛媛）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuaFMySzR1ZjlET0lUNk9PdzR5b0RUQUxYeG1ZcVp6bmRFMDJXbWFxX3FKclgydXg3SmVhaXJ0SnJnaElVamdDX3NMX2Z5dW9veDBwejZUVzNkRHVfT2V6TnRTUmRPeGJhYWVMdFBCUFlMdDF0Y1c5ZnlBemUzZmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T18:45+09:00"
   },
   {
    "title": "迫る《南海トラフ地震》建物全壊想定は最大13万棟へ大幅増加 住宅耐震化を今こそチェック【高知】",
@@ -333,8 +333,8 @@
    "at": "2026-11-06T10:45+09:00"
   },
   {
-   "title": "「備蓄は国が用意しろ」細野防災相の“緊急要請”が炎上…南海トラフ・首都直下地震で「助かったはずの命」が失われる衝撃の想定",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IazhlMG85dEhRWFdZZmdDUW14X09OTkNBZDh0SzUxQTl5N19QQTFyX0pfekFsRTlMcXlUamZRMmNXQnZlZEY4TVBMZ3ZhQWE1STE2amtn?oc=5",
+   "title": "「備蓄は国が用意しろ」細野防災相の“緊急要請”が炎上…南海トラフ・首都直下地震で「助かったはずの命」が失われる衝撃の想定 | 今週もナナメに考えた 鈴木貴博",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oRFd1d2w1ZXo3VDBMQnRkV28tWHl5Wm5vb3kxSHJZUHhCREwzLWxVanBGcmNJVlhCZTRZV0U1bkNvMHo5SnVrY3dtUkg?oc=5",
    "source": "ダイヤモンド・オンライン",
    "at": "2026-11-06T10:05+09:00"
   }
@@ -352,32 +352,38 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pc0RnY2FwNVozMjJnS0lsdm1PMmhhNEkyYkpqV3ZQWGg0QmdVWGJrRHg3OGNtWHBBVExIV3RJVVJreGx6S1pocUt5SEROdldua0hRN0ExWXNybFVvTWUzNWQ0VnhrZmU1UnI0QXZQcXY?oc=5",
    "source": "千葉県公式ホームページ",
    "at": "2026-11-06T14:10+09:00"
-  },
-  {
-   "title": "神戸市の試験放送は11月11日｜Jアラートの放送内容とスマホ通知について",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtdnl0QXA4d3NBVmpBcXJWWW1iTVZUNXU4VnBsNFJsalN3eFVzMFkxSUlTVGxKSlc0Vzlhd2o0NXd2UzFpb3BZbUh0Szgwa01QS3psTy15YUlld05jb0dN?oc=5",
-   "source": "選挙ドットコム",
-   "at": "2026-11-05T19:59+09:00"
   }
  ],
  "cyber": [
   {
-   "title": "西日本を中心に128の信用金庫でシステム障害 しまね信用金庫や鳥取信用金庫でATMが停止 通信機器のトラブルか 鳥取県・島根県（2026年11月6日掲載）｜日本海テレビNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGZxQ1NHT1ZTQnF4cWZ6cE1EN3N4QjBsWVl1SUpsN1dJNUVOeUZFTS1yZDJpVW1rWGNzcDl2cjhqZ1FZVUxEdTNvSGpOSTFLWWQ0dFhuUmYxQlAyQ00xangtVTh4azk4Nm1HdW1kcnNWYm9GX1VSN1l4NWw2TVZSakhHQ09jaWc?oc=5",
-   "source": "日テレNEWS NNN",
+   "title": "奄美大島信用金庫は復旧 西日本の信用金庫でシステム障害 鹿児島（MBC南日本放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fcG1nYl94S2VzNWxDV3M3cVlTNXVDbXZaVURTSHFYaGZaTDZ4YV9kTWE5Qk04Q29CaFN2d2lLRGdDM294eXpPX3BrLXdxNzRZUGk2cXJzU0VZaVFDVXBpUEd2RVphdE1YbWQxakpHeUpUaElhSDJINndsdWRTQXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T19:43+09:00"
+  },
+  {
+   "title": "信用金庫のシステム障害 送金除き復旧 岡山",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lVUxENElWNWlJUVFicWU3NG5mWnAzMl92NC1YTUQ1OVpld0pKRUNwRU9jdVc5QUItS05ORjRoaTJwd3pBMlM3dWNkOWRZNVJMc2tFOFZGZTB5WHQ0cnBB?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-06T19:39+09:00"
+  },
+  {
+   "title": "西日本の128信金のシステム障害が復旧　「機器の故障」が原因か",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjJjQ3JyeVR3RzF4YXpScEt3akV6QW5sNXZFV1J5UGhYT2ZXWnZuOTFWWkRDT0llMWhYUEVSenpSZ1I3bDVIdld6QzZtVzVhMjRiVHRmV0RQVjlNZXg1TXdpamVlbjB1OXBWNXdaSVRXcUtCS3BFR0pUUUtfNDctUF96NEZ2WFR4Y0FzRGFlZGZHdmEzckNFMi1PUU00XzVPMUhkRkIxLV9tQdIBrwFBVV95cUxPN0NXSi0xLXJpeEdDY0RvUnZvQ0RwOGxhLVhXclhFTEZ3am1uMVlFYVZPTmtoT2RyZnhOZ2NmT243cXduVS0yeFFraFNaeXhlYVBVVWFuMTlaRTg5OHNtblJsYVhycWZnUjdWTERFVTdNMDNLSElSRV81Y0xyN1J4dl9pZmpGNDhuN0NBRnpWajNUNFg0ajg4QkhNdkRpdWpORi1fb2NCbWp0UW9DWmJz?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T19:34+09:00"
+  },
+  {
+   "title": "西日本を中心に128の信用金庫でシステム障害　しまね信用金庫や鳥取信用金庫でATMが停止　通信機器のトラブルか　鳥取県・島根県",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT3RvRERrd1FoQmh6OWVWRHhrNnJZS0ZDRTJPNHRVc19ieUhTdlBLRExWQTZSdUdTekM5TFQ2N1VMQjFPdDk4MXFhRzUwbDdLLS1YUE9uQmxiQUg0T1JkLWRGLVd0S0MzNllBQzR5eXE1US03N05saEl5ZGZkTUhhcmZha9IBiAFBVV95cUxNc2g1ZFZqaVFhaldxSkJxRkJNUmRHQWpwT0Y3VU0wYWtNZDNmYnNMQTlEOXFPZXJmVlktdzc4elRRU19fc2xGMVVybWMtNkNRSzVhZTc2Q1FjdWd1akNFb0U3amxnWDlSbk5OTEhWNDN2WDBPT2FmUnZlOGlyeVBfd2FCZC1zX05u?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-06T19:32+09:00"
   },
   {
-   "title": "信用金庫でシステム障害 復旧中も原因は機器の故障か",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lMllFTnVsbkNMdUZXelFHbm81SWVUZGhKM1E1RENuU2FFUXRKUTk2dGM0azVRdktiNVRrSHVZOVRnQVdBLXJ6Vk9LdzhZVUE5YnZDeWZYVEo5aDRFSEFldllmbGxTaDMtaXdNYkZGZlc5dw?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-06T19:31+09:00"
-  },
-  {
    "title": "１２８信金システム障害が復旧",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02OS1LLWtNYUFOU0JIam9CMTF1WVZSc3FhQWxGaUpvVmZzVWZHTnNrY09kdXFKeWVjakF4Y1BaY1czSlpmLXBZMGV2V3M2VFh2TmlVdWU5aFk?oc=5",
-   "source": "京都新聞デジタル",
-   "at": "2026-11-06T19:26+09:00"
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2dG85UTU1bjk5NXo2dUZTNEswVjdiQVhpN2t0Yzd1a3l5dU52TjBqRDJyb01nd0pwaXZabE5BcGRoRkFaQzE3aTJXYUMxQndFdmV6d2VtZ18wREhCOVN1NFM1bVYzWGRJS0VMY2xtVVduamc1ckt4RdIBhAFBVV95cUxQemNhckFqclduWkFJZHZuQXJNTGRtR2ZtSjhOSEdJMHI4Y2RTRkc5cUk0eldEalhaT25FdEhHNUhyZGI4d1JqTmd0TG9HTzZaQkotTDNGcng5Yjk4OVpmZHJtaTk2YzV5aWVVXy1Hd25TT2RZVXZUVl9DcE9wclFRZjNVdjE?oc=5",
+   "source": "大分合同新聞",
+   "at": "2026-11-06T19:27+09:00"
   },
   {
    "title": "128の信用金庫でシステム障害 ATMは午後5時半ごろ利用可能に 原因は調査中",
@@ -392,22 +398,34 @@
    "at": "2026-11-06T19:26+09:00"
   },
   {
-   "title": "西日本の信用金庫で通信障害、県内の3信用金庫でも一時取引できず",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nVGlqNlhkZlBwWHRsRlgzaS1OaFdfMTVDcGhqeWY4NGJ5ZUowSjQ5VTAzQUlGTHBwODdDNU5kRHZ3Tm5HMVd4Z2ZOb1JNQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-06T19:25+09:00"
-  },
-  {
-   "title": "西日本の信金でシステム障害 熊本県内4信金でもATM使えず…（熊本ニュース KAB ONLINE）",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42Q1FjQUo5V2pmTFRyNXVUS3ZLRUVGMkZFUGg1MFp1aENtUHJhMi13YVgzZDZ6bWtvUDlEX2N4RmY1eWF3LWgwSDg4NnlTMlQ1Rkc0cFBDMHlyWVNHYWhsaEZ6TU1UQUc4T0MzUC14bTY?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "西日本の信用金庫で通信障害、県内の3信用金庫でも一時取引できず（2026年11月6日掲載）｜UMK NEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tb0VZQVFRNDhxQVFzWnVYWmE5bUJ1WlJleUIwLVFmSjVtZmdVM3pHYm0xeVBkTHpIUk83RlVsUFFvMDNPTlpoQ0kwRDJXbUZiT1VRNDhaQ0VsX3cxdDVsQVV6SVVodG1Ld05Lel9BeE1tVC1aazVaSVgya1BobGs?oc=5",
+   "source": "日テレNEWS NNN",
    "at": "2026-11-06T19:23+09:00"
   },
   {
-   "title": "東海地方を含む西日本128の信用金庫でシステム障害 ATMや窓口取引に影響",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1c1WVhDNTQtWlRfcWYwdWMwNEpyMTBEeXFXRDdaMmxjU0pUaFd3MGRWVXFRWno3MDJPUlExRHhfc0ppLXgwMEtWN3FkNDFyTzNXNXg5U2IycllPN0ZBSXdCclJTRS1wVTdfM202ZE93Vy1GMUppekJnTld1QWRjNEg0S1d4dWs?oc=5",
+   "title": "西日本中心に128信金でシステム障害 県内４信金も、資金決済やＡＴＭ休止",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RU01JQ2lIMWRwNVM2VjBKUWhJRlNTQXVzcWdZYy1DU2F6bjh4Mm9Uc0YzbVhsRTBIT0o3M0oxNkhiMXVkWktPU1pQNEdWa0xCOGhzZ1NYNF9IZHM3bGEwZA?oc=5",
+   "source": "愛媛新聞",
+   "at": "2026-11-06T19:20+09:00"
+  },
+  {
+   "title": "全国の信用金庫で大規模システム障害 鹿児島県内でもATMやネットバンキング利用できず",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2RRN0VoYVZmdUt3MjZhVnBUTXA1MTktZlNGdmQtOGN5ZWFzWG0zY0VxS2FzOHU1WHl0YnJ2YWk5VHJ0WE85dFpsaG9VUVZZVnRuNzd2Nm5UVkdHX0h3R3VOVGZINmM5cnNlR2VtckJUcFV3cmE2RUhrSGZGb2RuYkxvenBJbk0?oc=5",
    "source": "日テレNEWS NNN",
-   "at": "2026-11-06T19:07+09:00"
+   "at": "2026-11-06T19:19+09:00"
+  },
+  {
+   "title": "幡多信用金庫でもシステム障害 高知県内全13店で「予告なし」にATMや窓口が停止",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2bzA2b1otWW5Nc0N4SXNkeTM1YkcyOEY3OVllRXBPWmh0a3dCS3VSVXFDS0p6Q2NGQjlzcTFiMV94cFMySlRFdVdJQVJkQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-06T19:06+09:00"
+  },
+  {
+   "title": "西日本の128信用金庫でシステム障害 福岡・佐賀の12信用金庫でもATM利用できず「不正アクセスの可能性は低い」",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xLVl2U1ZOejlORTJrc1FKYlJSVUhEVHk2R1ZwdlNyVGNjbERNUGktcEUxeUVZMjZBTjVudE1MTUFfZXE0UTBfaXBoNm9oTDNWZjkxOU9SZlpQZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-06T18:58+09:00"
   },
   {
    "title": "西日本の128の信用金庫でシステム障害、窓口・ATMで取引できず",
@@ -416,44 +434,34 @@
    "at": "2026-11-06T18:57+09:00"
   },
   {
-   "title": "信用金庫システム障害 山口県内でも影響",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JeldDNWdNWUxkODBaUzdtczBCcjh4eXJ2elAyZS1GVlVkTWFQenFvaExxazJkNzRjR09LU3BSMFdUbmZ1d3I2aUZ4TzJjQjhKWXpoYkh1ckJwc1U0NG93?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-06T18:42+09:00"
-  },
-  {
-   "title": "《「しんきん共同センター」でシステム障害》幡多信用金庫でも取り引きが一時停止 復旧のメド立たず【高知】",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXhqYkU0LV90THAwa2V2bnE0LXFiNTA4eml5d2Z5Smxyb3dRV2xid1JHQk5xTEV6eDFhbjdaQ3ZDSHV0MTlhMjRscXF3NUNBN19wazEwdTJlellSUkV1eF9MUlZYV19VWW9QYklNd1BSYW9SV0Z6R0NKOUFuME5xNmVSaUZPVkE?oc=5",
+   "title": "釧路市でもメールアドレス流出か マイナンバーカードの予約システムに不正アクセス 北海道",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OeE9HRTlaMEhmMm5DWXIxMGpMaTJFckVjb25VajB0NW43czMtZ3lXaHRZQlN2elhubHFVbE1YenRuei11OUNoeWlfLXAzaTBhbDZpdzhyM0E3Q3RMWjV4Z3AtZF9oLVZua19oS2NvTUZXRWd3U1JCSGNmX0RvTVk?oc=5",
    "source": "日テレNEWS NNN",
-   "at": "2026-11-06T18:41+09:00"
+   "at": "2026-11-06T19:52+09:00"
   },
   {
-   "title": "西日本地域の信用金庫でシステム障害 鹿児島県内の3信用金庫でも影響",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JbUlJWGlkYlpoWEw2blJIYmROdnZESmNUaTBXa3ZQbmlKUFBhQmQ4NGJYR1c3RkNNVlNqbW10ckV0aEdyYVRMVk9haEJwZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-06T18:34+09:00"
-  },
-  {
-   "title": "三井ダイレクト損害保険、23万件の情報漏えい＝不正アクセスで(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakMxeGdMU3Nwb0FnRVFtcC14TGdHTVA2U0l6UHQtTmp5eEprR3ZvWU83Z1BRZkZSS0lnTDZUT2NZUjJNWjdHcjdVS3FPbTJ6T1FnLWpLekdfUW9iX1BLZEE3b291MjNsS2RYSlU0WXpHd01wYnFULVpZeHBlcWVIWHZjelBrQnM?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-06T19:23+09:00"
-  },
-  {
-   "title": "高市首相、サイバー緊急対策を発表 相次ぐ攻撃「始まりに過ぎない」",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XcGRINWNpNDVlc1VuUXo4dDdaTGRUTGt2ZEFURlNhcm02X1lzRXp3QUVGd1Bqa3Q0ZlRlT2hFVDVvMWpmVUlvbXlabzNwa3FxZnlnd1RabDhaYzdjbDBrSENxbUxFQ0k?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-06T19:20+09:00"
-  },
-  {
-   "title": "NTTドコモが「不正アクセス」事案について前田社長らが説明（ITmedia Mobile）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VYXJMQ21iNDlqUFVOMFFhdjM5ZGp2aFo3eHZRRUwxRXE4Tl9fc3ZsYmR4VFVVb3BrM0RybTd0VW9MVVZBWWd4SFRPNDNHTE84NEZPdFVkTGRKQ3VHbndXOXhhUTRvWDZKWlU3QW51V1pCcG10MGJFVzBIbmlPX3c?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T19:15+09:00"
+   "title": "ＮＴＴドコモ、情報流出３０万件＝不正アクセスで口座番号も",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kaVhyZks0VzZ6YU9fcTFlYjl6bUtic1oxclJSc2g3bFNBRmFEZEczMnVOaDh2cktZREo2dzdRQ21hRkhsRy1aal9obHM2U0lWT0VmUQ?oc=5",
+   "source": "時事通信ニュース",
+   "at": "2026-11-06T19:49+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "【速報】ロシア軍の学校攻撃死者53人に",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFOXlVaVJIRzNvbnZMTVFNR1BYYXBDM25lSFdBMGU4bWxIdmJPWEVweFVSZ1RoSTZLQWJkdDhHQ2h2NkdPcU9FSGdEQQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-06T19:49+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア軍の学校攻撃死者５３人に",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52WnBaMGtqME9XZEYxR3YyWlAzZHlra0tXMjFQa3F4TnFNTEMweWhmVWhtNnBIT0o5bHJpV3BPNHphZ3NmVTJ4aDdGUnpraG1KcEk1amhYWFdMUUE4Nnc?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-06T19:49+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月6日の動き）",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RRjRGS2pVSTZNOHdEYVFnaWROUmtCaHpseC1vczUyajBrY3JYQ1gwMDhIbFF5U01ScUdmYzBsVXlIMVZCYUNSTFpVZjg3NW1YRGxUNTlQa1ItOXFPMDZV?oc=5",
@@ -470,8 +478,8 @@
   },
   {
    "title": "ヨーロッパで旅客機への「爆破予告」相次ぐ 緊急着陸や欠航する事態に",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9neHZLTUJFTFNaVnkwYkoxdXdNV3ZVc2JEYjJTRmh2QzVCMVk2UmVMTDZKbnJUelFxRlhfWkk1NzdSLTI0UjlYZE1VVHdfY0F2dkk1Tld3?oc=5",
-   "source": "KAB 熊本朝日放送",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWjhxcGtMNkdtUmxXa2lmUjNBWVRDMi1FenhyYTVadUp4VWV4cWM1N0VrVGh3NkVXM1JaX0J4VlFlY25TSEZKMGtSMWYzZXJ2bmlwSEVn?oc=5",
+   "source": "KFB福島放送",
    "at": "2026-11-06T19:04+09:00",
    "topic": "欧州・NATO"
   },
@@ -553,13 +561,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ロシアの攻撃受けた南部の集落 閉じ込められた30人以上の捜索（AP通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMDlXbkNjQk5kWEdlMFliRng3MmVjb0drVUw0Q3pObmdkU0ZkbUJJZjZPRFR4MjdPUV9LMm9VWTExTWZuMDV1bjI2dGlvZ3FWUUd3MUFPNUV4WTY4YUtOdFNud3FYYTRMNjJOdk5ZQUM5dXhwUTd4ZWhKMlZEUmc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T14:31+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "北朝鮮の自走砲3両が姿消す 軍事境界線付近で10月末に確認も…落ち葉かぶせたか",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZGRJdGZ2YnNRU0NjazdJMVQ2RnlmSG5Ja2duaU5LRnJoNnN6LUR6RGpwc2d2TTBTbjNKQm1EYlI4eVNLOV9CdjR4eHN6ZlQ5Z3Zza1NwbkdNNkVyQ21ObGMtdlBLR3AwQXRJU0N4YnR5cVFLeTBLNzln?oc=5",
    "source": "テレ朝NEWS",
@@ -581,13 +582,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "メラニア氏、ウクライナとロシアの「より持続的な」停戦呼び掛け 両国首脳に書簡",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CLTBETlRJR0ExRDRULXNLQnhHS3ExaFhrLVJPMnNJMHN1b1NVNVBUYVB5YmFMTEJsbkNXWGRzOUIxejByWU1ZN1QxV3JidkZRYUhsN9IBVEFVX3lxTE1CLTBETlRJR0ExRDRULXNLQnhHS3ExaFhrLVJPMnNJMHN1b1NVNVBUYVB5YmFMTEJsbkNXWGRzOUIxejByWU1ZN1QxV3JidkZRYUhsNw?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-06T13:02+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "韓国軍、鬱陵島北方の公海で漂流する北朝鮮漁船を発見…関係機関が調査（KOREA WAVE）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SdlB3WmJSaTluMXJfaVVzZ3dpOUk5bkhfazU0V2VKWmJpUWN4cWdXaDcwZlYwTFNVb0NQU0lLMDNBaHZaeGJkTnlBNG9fdERieVg2UDlPRTdyZVdUM2lEbDZIUnF0dXVOTU1jUm0tVy1WczVKYkdWRU1WUENtUFk?oc=5",
    "source": "Yahoo!ニュース",
@@ -599,7 +593,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「西日本を中心に128の信用金庫でシステム障害 しまね信用金庫や鳥取信用金庫でAT」"
+    "「奄美大島信用金庫は復旧 西日本の信用金庫でシステム障害 鹿児島（MBC南日本放送」"
    ]
   },
   "japan": {
@@ -612,7 +606,7 @@
    "level": "yellow",
    "reasons": [
     "中国・台湾：「侵攻」2件",
-    "ロシア：「攻撃」「侵攻」3件",
+    "ロシア：「攻撃」「侵攻」4件",
     "欧州・NATO：「爆破予告」「緊急着陸」6件"
    ],
    "items": [
@@ -623,15 +617,15 @@
      "at": "2026-11-06T11:52+09:00"
     },
     {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月6日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RRjRGS2pVSTZNOHdEYVFnaWROUmtCaHpseC1vczUyajBrY3JYQ1gwMDhIbFF5U01ScUdmYzBsVXlIMVZCYUNSTFpVZjg3NW1YRGxUNTlQa1ItOXFPMDZV?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-06T19:15+09:00"
+     "title": "【速報】ロシア軍の学校攻撃死者53人に",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFOXlVaVJIRzNvbnZMTVFNR1BYYXBDM25lSFdBMGU4bWxIdmJPWEVweFVSZ1RoSTZLQWJkdDhHQ2h2NkdPcU9FSGdEQQ?oc=5",
+     "source": "47NEWS",
+     "at": "2026-11-06T19:49+09:00"
     },
     {
      "title": "ヨーロッパで旅客機への「爆破予告」相次ぐ 緊急着陸や欠航する事態に",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9neHZLTUJFTFNaVnkwYkoxdXdNV3ZVc2JEYjJTRmh2QzVCMVk2UmVMTDZKbnJUelFxRlhfWkk1NzdSLTI0UjlYZE1VVHdfY0F2dkk1Tld3?oc=5",
-     "source": "KAB 熊本朝日放送",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWjhxcGtMNkdtUmxXa2lmUjNBWVRDMi1FenhyYTVadUp4VWV4cWM1N0VrVGh3NkVXM1JaX0J4VlFlY25TSEZKMGtSMWYzZXJ2bmlwSEVn?oc=5",
+     "source": "KFB福島放送",
      "at": "2026-11-06T19:04+09:00"
     }
    ]
