@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:30+09:00",
+ "updated": "2026-11-06T23:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -185,9 +185,9 @@
      "at": "2026-11-06T17:23+09:00"
     },
     {
-     "title": "韓国の領海内で漂流する北朝鮮の漁船1隻を発見 韓国軍 乗組員の状況など確認中｜Quebee キュエビー",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUMjU3aWp3czA2blRoZzczckhfTzdxY01JQWlzQ0hocW1NMTZJWWlCdFJuMkRTNEFfT0paa2gwUnB5WUxQei1RbWxvV2liUl9yczk1ZWJhUDQ?oc=5",
-     "source": "QAB 琉球朝日放送",
+     "title": "韓国の領海内で漂流する北朝鮮の漁船1隻を発見 韓国軍 乗組員の状況など確認中",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iQjc4M3gyTFJudXdXXy1pRDMyZ2JJM1I3OC1BZk5aRjZhTXdvQ3RpTzN6cWVyRDJyNE9kRnM0bThaRDFRS1BkT1h1VXl1a2RnbXlVV1FfWjROOFZEX1A1ZFNibHd6Y0x5ME00dmdOcGRfVlZrb243ZkFn?oc=5",
+     "source": "テレ朝NEWS",
      "at": "2026-11-06T16:17+09:00"
     },
     {
@@ -195,6 +195,12 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkd6ekFtNHRJdk5rd2RWak1fVkxmWHBuMGZZVk85NzVtT2x2dDNjaEZCYVoyd0xmQ2hZQk5ScFZQOEJvME52S2xjTDlGQkhiMWt2ZV94eTAtVGZsaUNHMzZQQ2xHSE9raVdNa2FueldGOXdDcFFESTg0M3MtNHJRekZTYUhWcTVC?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-06T16:05+09:00"
+    },
+    {
+     "title": "北朝鮮の自走砲が姿消す 軍事境界線付近で先月確認（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11cFFlOGMxTUJTXzV2d2VHWlBmRTI4SmRJZUEtS3VpN3dlblpodTlMN1pmR1dtZkdtVmV5dndFaGE2UXM2QjZHaW9fVlBRd0YtVTlKNFhzSlFqODdneG5YcXNxbF8xVGozYjU1WmVoRHFMWUZiV3llMTBIQzBGVFE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-06T15:45+09:00"
     },
     {
      "title": "「日本国民に過重な生活苦」北朝鮮が異例の心配…防衛費増額を非難（金賢） - エキスパート",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZGRJdGZ2YnNRU0NjazdJMVQ2RnlmSG5Ja2duaU5LRnJoNnN6LUR6RGpwc2d2TTBTbjNKQm1EYlI4eVNLOV9CdjR4eHN6ZlQ5Z3Zza1NwbkdNNkVyQ21ObGMtdlBLR3AwQXRJU0N4YnR5cVFLeTBLNzln?oc=5",
      "source": "テレ朝NEWS",
      "at": "2026-11-06T14:29+09:00"
-    },
-    {
-     "title": "韓国軍、鬱陵島北方の公海で漂流する北朝鮮漁船を発見…関係機関が調査（KOREA WAVE）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SdlB3WmJSaTluMXJfaVVzZ3dpOUk5bkhfazU0V2VKWmJpUWN4cWdXaDcwZlYwTFNVb0NQU0lLMDNBaHZaeGJkTnlBNG9fdERieVg2UDlPRTdyZVdUM2lEbDZIUnF0dXVOTU1jUm0tVy1WczVKYkdWRU1WUENtUFk?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T12:51+09:00"
     }
    ]
   },
@@ -220,6 +220,18 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシア人のオートバイ運転者、ウクライナのドローンを軍用車両に誘導した後に一命を取り留める",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlZIYk5ORVYwak1ZLW9zRXJKOHBUQmZtOHBUU3Y2SVZTdGtUdFVFOEVpblFBZEZuUWhrNk9NWUZkTE1WYldOVHZXem8yQ3dnU1A2eE9XUGNsakVjOG0zZE1tUkxST24wREloRDlmdlc3WGlneTJ2bGQ1bW9wSjBVY3lRbWFTZkdRYjlmZW5NbEs3b1Y0VUJ4NFJvLU1mVFdrVmNWX3drdHdtUWJaa0k1NGJjaXJTdkxaaWV3NmtldThXY1RfaG4zVnpuS2o2QQ?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-06T22:53+09:00"
+    },
+    {
+     "title": "建設現場で働くはずが「ロシア軍のわな」で戦地へ…脅され暴行された外国人契約兵「動物のような扱い」（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hRmkwZEdCdTlZRnFwbWxXQTFFNGtFcDhlbllaQ0VBVjY5S2EyYXV3UG52Qk1fUjNNeURiZ0FxSi13RDZPdWV5cmZxOXEzejJ4R2FkMF9IVXZteXBPU0JXTXo5d0xPa3piZXcyR1BaZGE3RjVqSDB5OUNsZV8yTzA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-06T21:06+09:00"
+    },
     {
      "title": "ロシア軍の爆弾が迫る…「地下シェルターへ逃げろ！」住民が駆け込んだ直後に爆発、ボディーカメラが捉えた衝撃映像",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVHlhYlhrWWppNlZFWUpqaTVnalJiWkFNaWhWeExaYklIczFEbDcwNC12SFVlOWl5QTFOT1ZjMWRUV3h0VDh6OHhtNEJ4RGY2dDhaZGtYVnV2ZDdhTkMtLVlTYmYtUEpkNnJzekZ4NkhhYUZiNDMyYmhvY2Jjb3M?oc=5",
@@ -233,28 +245,16 @@
      "at": "2026-11-06T20:27+09:00"
     },
     {
+     "title": "ロシア軍の学校攻撃死者５３人に ウクライナ、今年最悪規模 | | 全国のニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEZ0NQTkpzOVJxZlA5RHBUWlUyZ2pCdHBsSFZVY2EtODFoY00wUm9GUTZkYjEydkt6OFdIQUxhWkZfUm9ieHFxVEtycUZhdFJpenFjTVJ3?oc=5",
+     "source": "佐賀新聞",
+     "at": "2026-11-06T20:27+09:00"
+    },
+    {
      "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
      "source": "乗りものニュース",
      "at": "2026-11-06T20:12+09:00"
-    },
-    {
-     "title": "【アメリカ中間選挙後のアブダビ協議が\"分水嶺\"に】防衛研究所・兵頭慎治／ロシアはトランプ氏と欧州を\"分断\"へ／メラニア夫人の仲介で\"恩を売った\"プーチン氏／日本への強硬姿勢は\"欧米並み\"に【1on1】",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pT3pzZG9FaTF4MUY4V0JFQVNwcWtZVkRMS2t1OTBDc1R2Tm50OUhMR05vLWhvVHpqZTJsNmVjWnlwemtmRVhua0ZTaWtMWVJ4emVRbTN2OV94T0czVXZQNjcxSEFicjFqUE04TnJwMHQ4UmpG?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-06T20:09+09:00"
-    },
-    {
-     "title": "ロシア軍に空爆されたコミシュヴァハの地下学校、死者５３名に上る",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYWhaNzZsUlZkZEFwY0FJZXAxeFp2YzlnU1g4M0huaHptS2JuUElQZVdRUElpbzEyc21Odi1Xd0xXYXV0UWJkZFY4dExpc2xtTkNyX1g4djNFTGtrODMyU0prZXEwQmtLN1YzekVaNExCWXJYZlQxNnF6N0xFWndiT012SV9TMldMNGNEbUZWWExMdUZCMHo4dENtQ1RENHpRazJ6aGhMYTUtOHYwY1RCcDBTSTNNUUszZWxwZlV3RF9FZjJESVHSAcsBQVVfeXFMTUJsblRYT3ZWeElsaXBVWDhCYUItVU11MUVfOXVHRlZUem1ENkEzcUdpbzFwc09NT3AydllUTkNQSThkMUVIU3RwZVlxUGFYTGdtc3BWR1g1T1V2QTVERzlucElIeEt6MnNRVmtOaDhIRmpsU3JTRS1vbkxLRFNfWDlFQWtOZHdZY0JOdzRmVC1md0dlOTc3RzlLZk0xX3YwcUJTTUZlZGtHWXRuRkZiY0J0eExoN1prdDhfaExOby0wUW93Y2JzMERKSlE?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-06T20:03+09:00"
-    },
-    {
-     "title": "ロシア軍の学校攻撃死者５３人に",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52WnBaMGtqME9XZEYxR3YyWlAzZHlra0tXMjFQa3F4TnFNTEMweWhmVWhtNnBIT0o5bHJpV3BPNHphZ3NmVTJ4aDdGUnpraG1KcEk1amhYWFdMUUE4Nnc?oc=5",
-     "source": "沖縄タイムス社",
-     "at": "2026-11-06T19:49+09:00"
     }
    ]
   },
@@ -456,6 +456,20 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "ロシア人のオートバイ運転者、ウクライナのドローンを軍用車両に誘導した後に一命を取り留める",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlZIYk5ORVYwak1ZLW9zRXJKOHBUQmZtOHBUU3Y2SVZTdGtUdFVFOEVpblFBZEZuUWhrNk9NWUZkTE1WYldOVHZXem8yQ3dnU1A2eE9XUGNsakVjOG0zZE1tUkxST24wREloRDlmdlc3WGlneTJ2bGQ1bW9wSjBVY3lRbWFTZkdRYjlmZW5NbEs3b1Y0VUJ4NFJvLU1mVFdrVmNWX3drdHdtUWJaa0k1NGJjaXJTdkxaaWV3NmtldThXY1RfaG4zVnpuS2o2QQ?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-06T22:53+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "建設現場で働くはずが「ロシア軍のわな」で戦地へ…脅され暴行された外国人契約兵「動物のような扱い」（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hRmkwZEdCdTlZRnFwbWxXQTFFNGtFcDhlbllaQ0VBVjY5S2EyYXV3UG52Qk1fUjNNeURiZ0FxSi13RDZPdWV5cmZxOXEzejJ4R2FkMF9IVXZteXBPU0JXTXo5d0xPa3piZXcyR1BaZGE3RjVqSDB5OUNsZV8yTzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T21:06+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "欧州で航空機への爆破予告相次ぐ　少なくとも27便に影響　戦闘機も緊急発進",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpcm5xLTNuWktQazRuLTJuTHZtaEUxNFVEdktBdHUxSXZKM2VJR0lZQjVMSXdmYzJxS0RrcnVSbzRaWmFrMmYxTkdLTXdXREgydXFhY1VHSkLSAV5BVV95cUxPSjRHMkFvMkE4UGZFSXBIWHhiMElPZUIzYWZocF9DbGNGXzRDLUtWOWpjSDgxUnh2Q0ZUQk4xcXJXODhDYVUtSkRvWUdPS2t3WXJubFgxYi1LcGxqSDNB?oc=5",
    "source": "大紀元 エポックタイムズ",
@@ -477,31 +491,17 @@
    "topic": "ロシア"
   },
   {
+   "title": "ロシア軍の学校攻撃死者５３人に ウクライナ、今年最悪規模 | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEZ0NQTkpzOVJxZlA5RHBUWlUyZ2pCdHBsSFZVY2EtODFoY00wUm9GUTZkYjEydkt6OFdIQUxhWkZfUm9ieHFxVEtycUZhdFJpenFjTVJ3?oc=5",
+   "source": "佐賀新聞",
+   "at": "2026-11-06T20:27+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
    "source": "乗りものニュース",
    "at": "2026-11-06T20:12+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "【アメリカ中間選挙後のアブダビ協議が\"分水嶺\"に】防衛研究所・兵頭慎治／ロシアはトランプ氏と欧州を\"分断\"へ／メラニア夫人の仲介で\"恩を売った\"プーチン氏／日本への強硬姿勢は\"欧米並み\"に【1on1】",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pT3pzZG9FaTF4MUY4V0JFQVNwcWtZVkRMS2t1OTBDc1R2Tm50OUhMR05vLWhvVHpqZTJsNmVjWnlwemtmRVhua0ZTaWtMWVJ4emVRbTN2OV94T0czVXZQNjcxSEFicjFqUE04TnJwMHQ4UmpG?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-06T20:09+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア軍に空爆されたコミシュヴァハの地下学校、死者５３名に上る",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYWhaNzZsUlZkZEFwY0FJZXAxeFp2YzlnU1g4M0huaHptS2JuUElQZVdRUElpbzEyc21Odi1Xd0xXYXV0UWJkZFY4dExpc2xtTkNyX1g4djNFTGtrODMyU0prZXEwQmtLN1YzekVaNExCWXJYZlQxNnF6N0xFWndiT012SV9TMldMNGNEbUZWWExMdUZCMHo4dENtQ1RENHpRazJ6aGhMYTUtOHYwY1RCcDBTSTNNUUszZWxwZlV3RF9FZjJESVHSAcsBQVVfeXFMTUJsblRYT3ZWeElsaXBVWDhCYUItVU11MUVfOXVHRlZUem1ENkEzcUdpbzFwc09NT3AydllUTkNQSThkMUVIU3RwZVlxUGFYTGdtc3BWR1g1T1V2QTVERzlucElIeEt6MnNRVmtOaDhIRmpsU3JTRS1vbkxLRFNfWDlFQWtOZHdZY0JOdzRmVC1md0dlOTc3RzlLZk0xX3YwcUJTTUZlZGtHWXRuRkZiY0J0eExoN1prdDhfaExOby0wUW93Y2JzMERKSlE?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-06T20:03+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア軍の学校攻撃死者５３人に",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52WnBaMGtqME9XZEYxR3YyWlAzZHlra0tXMjFQa3F4TnFNTEMweWhmVWhtNnBIT0o5bHJpV3BPNHphZ3NmVTJ4aDdGUnpraG1KcEk1amhYWFdMUUE4Nnc?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-06T19:49+09:00",
    "topic": "ロシア"
   },
   {
@@ -540,9 +540,9 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "韓国の領海内で漂流する北朝鮮の漁船1隻を発見 韓国軍 乗組員の状況など確認中｜Quebee キュエビー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUMjU3aWp3czA2blRoZzczckhfTzdxY01JQWlzQ0hocW1NMTZJWWlCdFJuMkRTNEFfT0paa2gwUnB5WUxQei1RbWxvV2liUl9yczk1ZWJhUDQ?oc=5",
-   "source": "QAB 琉球朝日放送",
+   "title": "韓国の領海内で漂流する北朝鮮の漁船1隻を発見 韓国軍 乗組員の状況など確認中",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iQjc4M3gyTFJudXdXXy1pRDMyZ2JJM1I3OC1BZk5aRjZhTXdvQ3RpTzN6cWVyRDJyNE9kRnM0bThaRDFRS1BkT1h1VXl1a2RnbXlVV1FfWjROOFZEX1A1ZFNibHd6Y0x5ME00dmdOcGRfVlZrb243ZkFn?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-06T16:17+09:00",
    "topic": "北朝鮮"
   },
@@ -559,6 +559,13 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-06T15:55+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "北朝鮮の自走砲が姿消す 軍事境界線付近で先月確認（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11cFFlOGMxTUJTXzV2d2VHWlBmRTI4SmRJZUEtS3VpN3dlblpodTlMN1pmR1dtZkdtVmV5dndFaGE2UXM2QjZHaW9fVlBRd0YtVTlKNFhzSlFqODdneG5YcXNxbF8xVGozYjU1WmVoRHFMWUZiV3llMTBIQzBGVFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T15:45+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "イランがカタール経由で米国に核提案を送付したとイラン高官が発表",
@@ -580,13 +587,6 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-06T14:29+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "「負けた理由はイラン戦争だ」 中間選挙で共和党大敗の責任は誰に？　バンス副大統領はトランプ氏と一線画す発言も…【news23】",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd25rMUhXemZBUEVXZ0R0MXEtOFlzOUExUjdRREFPdEppaFBYdW9mWWdBVHpGdDQ1RmZvMkdGYlk1azBDX0xQSFJqNGQzdVV6NjRMaTZ5RHhicUdzaGtuUkFJMnR4cjktVC1WQUJkN0dtSGY4VS1jLTlqNnJYRnBmbzNOQTZjdk5EMGJObjdVTTJWdHhXZ1J1Z0F5YkoyeDB6LWR1TEZ0T090WW1iVVdwbnNBR1l3LWNocjRXWkVvdVVrTFnSAXNBVV95cUxNUlIzM1ZyQWVKVUlndHcwZ0t1QnYxSW1TNGlmWDFELVl4MmVqay1IT0x1dkdIWHc5dVBLZ2dQZExsOGlPckliZkVWM3oybGZ4MXJyV2NWZ0wxWTNMV3N1TThvbjRJTl95aGN6S0xLQ3BlTml3?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-06T13:39+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -606,7 +606,7 @@
    "level": "yellow",
    "reasons": [
     "中国・台湾：「侵攻」2件",
-    "ロシア：「攻撃」「空爆」3件",
+    "ロシア：「攻撃」2件",
     "欧州・NATO：「爆破予告」「緊急着陸」6件"
    ],
    "items": [
