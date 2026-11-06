@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:30+09:00",
+ "updated": "2026-11-07T04:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -358,12 +358,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pc0RnY2FwNVozMjJnS0lsdm1PMmhhNEkyYkpqV3ZQWGg0QmdVWGJrRHg3OGNtWHBBVExIV3RJVVJreGx6S1pocUt5SEROdldua0hRN0ExWXNybFVvTWUzNWQ0VnhrZmU1UnI0QXZQcXY?oc=5",
    "source": "千葉県公式ホームページ",
    "at": "2026-11-06T14:10+09:00"
-  },
-  {
-   "title": "北朝鮮、短距離弾道ミサイルを約12発発射",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lRXBQeTNwRzdjLXF2NjJDVE5GZUtaM2lQSTUwOUhKZ3dvSHpCV1dldHpzMmg0N0Nua2xlMFZQT2dZb1XSAUJBVV95cUxPeXNCY1lxa2xyT19IcmJZOThQSXluMzBoOTJaUFpsSUxCZ3d0R0M5My0yWHhQclgtTDhSTGhjc0NROHc?oc=5",
-   "source": "VOI.ID",
-   "at": "2026-11-06T06:15+09:00"
   }
  ],
  "cyber": [
@@ -609,9 +603,9 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮、短距離弾道ミサイルを約12発発射）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
