@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:15+09:00",
+ "updated": "2026-11-06T11:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -168,7 +168,7 @@
     },
     {
      "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52SERPanZGUFozdUw2dk9sUU1YR0hCQjRCNHVDYW1CbGVHLWo1X3E3N3VnNG1DaFZqMTlPVXFqakVZX3hIMThtbHdGYjFTdHphNURRcWQxQXlXbjlTNUR3SDJad29wTE1adm5kVWtFWQ?oc=5",
      "source": "TradingView",
      "at": "2026-11-05T19:39+09:00"
     }
@@ -239,12 +239,6 @@
      "at": "2026-11-06T09:46+09:00"
     },
     {
-     "title": "メラニア米大統領夫人「より長期の停戦実現を」 ロシア、ウクライナ代表招待",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuNjN3TVFvd1V3aWxtN1hDeDVQZ0djMUhhOGRYdllVRjE4MGNwTGRvYllOanRwa0lhcUt5eFNnRjRiSWdrUDZWMks3Y1MwTFJtN011QkNBcV9mMXhxWGotdXlHcw?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-06T09:38+09:00"
-    },
-    {
      "title": "トランプ氏、ロシア特使と会談 戦争終結に「欧州全体が関与も」",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXB4WkFWSjNGSDEyeF9KT3BHWWFlcml4NVpxN0ZmY1dQWkhiWXIwUk1rWUExM0hQY2VpQVVtNmMyVTFaVndPeEwtbURVX2RRck9ubFl4WUFvYm1MeWRVWHB1ejVuR2tLazVXVzBxNEt0a2FyakJkVC14SlJWeEJHOGNsNVFCQQ?oc=5",
      "source": "Reuters",
@@ -255,6 +249,12 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zSXB6ZUxKQXN3Ym9heGZ2Z0p6OXJSRTF1dmVINkE0ekhjS2p0WEIzWDdXSU5pR29DQnhWZE1nNlVTdU53ZW1tLTlTNDhxaUFNckx1UUZhMXJZNEd2RkdVWkIwQmdtVm03TGs1UTB5aWZzclZ1Q2hTSlB3?oc=5",
      "source": "テレ朝NEWS",
      "at": "2026-11-06T08:23+09:00"
+    },
+    {
+     "title": "メラニア大統領夫人がロシア・ウクライナの代表者をホワイトハウスに招待 自身仲介の一時停戦に関連して「より永続的に」期待示す",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54LWNwUHVCdUQ5aFdnMFRUNDZ5dzV1OWJoaWlzTFJuaUs1TkFrcWVRRXJNUTBZRWdPMS1XcjNFaHlaVEpaQUs5dGFCOGx6Zw?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-06T06:58+09:00"
     }
    ]
   },
@@ -356,6 +356,18 @@
  ],
  "cyber": [
   {
+   "title": "ドコモの通信障害が復旧、「4Gに設定変更した人は5Gに戻して」と案内",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lX2YzRzVFRThXWmZXUVgteEU3MUFHQno5dE5USnVNMjZINHYwc2lxWTNfNHVlUGI2YnMzWG9xSnhfWUdYV3hVUmZFYmhFSzRRVmVUQU95NnNRbVV2dmF2RFV1Y1VkVFVKOWhEcENYSjVMaFNTWV8ybS1DdHhmSjg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T11:20+09:00"
+  },
+  {
+   "title": "ドコモ高速通信サービス障害復旧",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KbzJmWmItTllxcTdmaEN6bm5WaXFxVGVtQnhOQWpqTk9lNC0zbXJJNkgzb1NOLWZBM2VVMXFQOUdNU202MzBNbUJ5dUVZRjkxMjJTZ20yaFZFRkk?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-06T11:08+09:00"
+  },
+  {
    "title": "NTTドコモ通信障害が復旧 原因は装置の不具合",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RM1dLS1QwcHJSUUJjMmpWaXZvOW5RRFA3cGFpWDE0ZGxzdjh2Wk9HWkhwTzBhbUFzMlVBTlVuVWU2ZEJSUW51b05QcjZyLTdDYU5FVE85OENtSVJ6Vmtj?oc=5",
    "source": "NHKニュース",
@@ -398,10 +410,10 @@
    "at": "2026-11-06T09:13+09:00"
   },
   {
-   "title": "ドコモ「14時間全国通信障害」と「30万件顧客情報漏洩」の重大インシデントが重なる",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fcEVlMHVlaFRfS09NMXFuZ3dXWkNyQk1PVzI5ajVSeHVSTUVEUEoxd1ZZdWdyOG43S2dHSW5qWS03RnlBeXU0RnNENVZkUVptYWxjcGtaS2tjWUE?oc=5",
-   "source": "アゴラ 言論プラットフォーム",
-   "at": "2026-11-06T09:00+09:00"
+   "title": "相模原市、サイバー攻撃を想定して庁内PC強制シャットダウン訓練（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5acjVJVTUzTHgxQ0diRzVmNVluNlNLU0k0LVZ3ZlIxSGRPTUJaX2VHY0dnVkE5NnZVQVpYRXcySGNDUzZzUlYyZ1BjZXNyR2gyc05pOHNlaTJyRE50TFNpN29Fa3hianh5QWg5aUhhT290dTFhSDB2M2VvMk5iV1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T11:15+09:00"
   },
   {
    "title": "東京海上子会社、口座情報など漏えいか＝不正アクセス受け",
@@ -410,10 +422,16 @@
    "at": "2026-11-06T11:09+09:00"
   },
   {
-   "title": "サイバー対策強化に１００億円＝政府が予備費支出決定",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ub2cydHotNkFtWHJZMkVaMHJ6R1o0ZEhOTU5rVlpvc3ZqcW9nbDVhN3dFeGQ3dUczWXdvaFUtSVEwWjFJUGx2akhfekx0YmI0V1JkTA?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-06T10:52+09:00"
+   "title": "ハルメクホールディングス、不正アクセス調査終了 個人情報の外部流出は確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vb0RCS0RfRC1XV21FU25JMnpyQW1aaUF0emxib010cGNCQWdfY3Q2ZGtfNVZJV3RqQzZpeFFZcEZwU2JWY0o2UW1Cdms4SEJUMTBaUU1INA?oc=5",
+   "source": "online.bci.co.jp",
+   "at": "2026-11-06T11:01+09:00"
+  },
+  {
+   "title": "画像・写真：サイバー対策強化に１００億円：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QZHdZaFF4ZkM0MW5HY0hIS0hCNXFDVjBCWk5iS1hxMm9jSnlueHN2WlpIUjExeDZZQi01TEdSek9CTUlTbC1LUGpibW94RXAxYll2SkllVHVveVZwV2RyaEJTc20?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-06T10:57+09:00"
   },
   {
    "title": "不正アクセス対策 政府が予備費100億円の支出を決定",
@@ -426,24 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aZFVrWDFUS05Rek02Q0RwakFWajlRRGpTdU5ZTFpwX0N3TnRjUzUxTVk4c1Uzd01xSm1uYUxzSWViSFM5eTBNaXdPQ0xCTDlYVDhwWjB0OFNiLWl6MjFWOWxkWi12VnJVSkdKZmdiTjEtOHFiY3d5LTRPTm9udTQ?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-06T10:40+09:00"
-  },
-  {
-   "title": "横手市、１３０３人分の個人情報漏えいか 湯沢の委託業者に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rcUFkMmEtRS1ITGNqSWtBYWZVanhmbU4yUWlKd0pGWjhPbC0xVGZ5YW5DekF2bGVocWt1cy1xc3h5UHIwbnpXbWUyRQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-06T10:40+09:00"
-  },
-  {
-   "title": "国家サイバー統括室／事業者向け「個人情報の漏えい等につながる不正アクセスへの対策」公表",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EUGV6Z1NabnJXSHgwMXlLNGI0OTJIWDBmUGxXWjc3U3NBMUFJdjRoenJhTEl5MkEzYmlSQ1J3SjNpeW9JR1FNS1ZyWVBBWktzZV9Odg?oc=5",
-   "source": "トラックニュース",
-   "at": "2026-11-06T10:36+09:00"
-  },
-  {
-   "title": "チェック・ポイント、日本に「AIサイバー攻撃検証チーム」--悪用可能なリスク特定を支援",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tVDFtcVhtbjRkOEhVak13c2dRNFEtWV9KdEVZUHBYSi1hcjMxVlR5SC1ObktuUXV5NndCOWZMNTJQTE4yaUZzMFpjYzVET2FJOVVr?oc=5",
-   "source": "ZDNET Japan",
-   "at": "2026-11-06T10:35+09:00"
   }
  ],
  "osaka": [],
@@ -495,13 +495,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BdDUxOEhxZGNGZXhVUS1YdnpLbDhwaTRoZ0hobGtOM2dJOHdPVlhHT0FrTHhkTGlTcExFRV9uMTRTOUNJNHFCaVEtdHNJUmh3VkRseWJiLU1NY00zV3ZKRkp4YVVuTHFMa1d1clp6bkdPN3RTZXVmU29HRVc5Z2c?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-06T09:46+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "メラニア米大統領夫人「より長期の停戦実現を」 ロシア、ウクライナ代表招待",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuNjN3TVFvd1V3aWxtN1hDeDVQZ0djMUhhOGRYdllVRjE4MGNwTGRvYllOanRwa0lhcUt5eFNnRjRiSWdrUDZWMks3Y1MwTFJtN011QkNBcV9mMXhxWGotdXlHcw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-06T09:38+09:00",
    "topic": "ロシア"
   },
   {
@@ -587,13 +580,20 @@
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-06T07:03+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "メラニア大統領夫人がロシア・ウクライナの代表者をホワイトハウスに招待 自身仲介の一時停戦に関連して「より永続的に」期待示す",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54LWNwUHVCdUQ5aFdnMFRUNDZ5dzV1OWJoaWlzTFJuaUs1TkFrcWVRRXJNUTBZRWdPMS1XcjNFaHlaVEpaQUs5dGFCOGx6Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-06T06:58+09:00",
+   "topic": "ロシア"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモ通信障害が復旧 原因は装置の不具合」"
+    "「ドコモの通信障害が復旧、「4Gに設定変更した人は5Gに戻して」と案内」"
    ]
   },
   "japan": {
