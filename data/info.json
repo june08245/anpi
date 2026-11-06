@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:15+09:00",
+ "updated": "2026-11-06T18:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -263,16 +263,16 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "欧州各地で旅客機への爆破予告相次ぐ 少なくとも25便が緊急着陸",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSEdkR2dRT0pUdVFjekREVFROU0RuTnh2WlNLeUx0RHlmMFFQN0FrSVBhZS0wX2NxUHRnZGlYeGlKSGpJV3d0OGZ0Y1h2U0FwVlhQZVpRMXpFVy1rdy1YbVJJdWw4cTlHYWk1VFN2aGY2N3h2RjdNUE5JRDZPNGdmaHFSS3YteTdJYTl3ZUdxTlV4NnhaYlJIVm90M0UtX0J3eUFjSTJrWE5nSnN2R3JrV0FrMXVhN1ExcTB2cm9fenNILVpRVVVEbnNUSllUdXZHWkVuMmFDYzQwQldRT2Ryam4zNzdYQ053?oc=5",
-     "source": "ABEMA",
-     "at": "2026-11-06T15:38+09:00"
-    },
-    {
      "title": "欧州の航空会社に爆破予告相次ぐ、今週2度目 27便以上に影響",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeGJZLXVFVV9va2c4OVltQUdZZ3A4cElYWnVZbDE1QVEwOW11UVhHNjZkY3A2YTZIazJXRElsazhuWHBkNkVKYUtaTmNLT2ZkOVA5ck1TRldlWGRSb1J4WW1JbE5SLWNIOGt5Qmk3ZXJndHlKTTRFaFNBSTBLZw?oc=5",
      "source": "Reuters",
-     "at": "2026-11-06T15:09+09:00"
+     "at": "2026-11-06T17:30+09:00"
+    },
+    {
+     "title": "欧州各地で旅客機への爆破予告相次ぐ 少なくとも25便が緊急着陸 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNjRRSE51VXZhb1EtWFVoVzZFbTBOYVFQV2JlUWtDa2JGMGdiLWpLYnRMXzVWYmZZeTlzUE1RbE1lcDNLTjlCRU5EZVFOY1JaV2Y4X0RtMnVTZWc?oc=5",
+     "source": "ABEMA",
+     "at": "2026-11-06T17:17+09:00"
     },
     {
      "title": "欧州各地で飛行する航空便に相次いで爆破予告 少なくとも25便が緊急着陸 (2026年11月6日掲載)",
@@ -362,21 +362,39 @@
  ],
  "cyber": [
   {
+   "title": "信用金庫のシステム障害、関西は25信金に影響 ATMや窓口利用できず",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00SGlTTzhUT1g0SGpBRGNtbGZuZzZXLUFnZmN0Q0NKVFotUTdXeW9laEVFbFBmMVRWOGVRT2t4MmExVXRIZkZsSVEyVmwtRFRpVzBfYWtkVVlCRXIyMWQwZm9jWEp3eEYtbjJCVw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-06T17:55+09:00"
+  },
+  {
+   "title": "システム障害で三重県内の信用金庫にも影響",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BQ2p0R016QlZJRGMzUFZCSEVHd1pwZ3RULXltRTUyQjhGR3Nvc1AtODNNMW5JZDNOZDIzM0NfU083SU9FS0F0VVZBRGxtRXh6aXlvd09UTWlDcHNZZEFr?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-06T17:55+09:00"
+  },
+  {
    "title": "信用金庫のシステム障害、中国地方にも波及 広島信用金庫など",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KYmZ1UVFNLW9TM0Myc2tpWk1HS3pKLWxRbFV0WlY3dF9GSTVWVXBmSzJsRk1tZllkWkhuLWlveTYtbkR6RE93U1d6VDdDd0g5WXVKdkRfQzBXRnR4V0lLSmtyTk9nMHJkbnlqRg?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-06T17:45+09:00"
   },
   {
-   "title": "信用金庫で通信障害 福岡・佐賀でも影響 すべての取引できず（2026年11月6日掲載）｜FBS NEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VNEYzOGY5ZFoxZlhjZ19kbnhHc0ZmZWdfMGVDaE81OEhhTktzZDA0bjg0UEFheWRSQXliV1hwR2NDdjdTV0o2Mi1ZLUxXcDRPZHg3OXctQmxuVkdyTzhENWNmWGpJRGktMG5haU1nbzNRYkJrcVNhb3lFQVlxNVU?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-06T17:28+09:00"
+   "title": "岡山県内の信用金庫でもＡＴＭなど利用できず システム障害か",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kQnpneTZONnJRaDhxT1ZYbm5JdE01Rjd1LThGdmNReTF1SXc1TS1HaUlOaUVIUWRFOHJIS3VGZ3BkMHhTVThLa1luRHNON21fZVVmS1NPM3VpNVVmYXF3?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-06T17:32+09:00"
   },
   {
    "title": "西日本128信金で障害 決済、ATM利用できず サイバー攻撃起因ではないと説明",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oRTVoRnZRRkhPVVA2T0l5b3dGb2YzQW54UW12TFpiM0wzOTdGOUNYWVpKQkJuQl9iN3dQU3gzQ195akc3dm51Y3ZLTGZDTlJXaHR0ZEZDb1VhdXUyNWJZVHdoRGxidzhKczJYQ25JSUhVVk1QM1E?oc=5",
    "source": "産経ニュース",
+   "at": "2026-11-06T17:20+09:00"
+  },
+  {
+   "title": "信用金庫128機関でシステム障害、SNSに広がる不安の声",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JcUEzN2dGa1pKSEpHbWF5UEZQcE5KUVZrUmFOcWdDeDNlT1dMZnRtZHhQV3BQa0ozUDFIYmhvd1AzNUtzRjA0Sg?oc=5",
+   "source": "emogram",
    "at": "2026-11-06T17:20+09:00"
   },
   {
@@ -398,12 +416,6 @@
    "at": "2026-11-06T17:11+09:00"
   },
   {
-   "title": "信用金庫の通信障害 和歌山県内でも影響",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wQW5mT2ZRZS16aGtoZEEyTmdJSUd6Wms5bmNIcWdLTnBqdWRBblJ4ZHR0aVlUMW5Wa0w2U2FCSlpUNHplbk5SZFBRVFlrVHhXZkZLU21Vbm51UzB5UEtj?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-06T17:07+09:00"
-  },
-  {
    "title": "信用金庫でシステム障害 県内７信金もＡＴＭなどサービス休止 富山県（北日本放送）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UaFB1dVUxTzd6MFI3eDJIeGJvd2tlYXJwYTNPWnVsTmxKcDFPdzM1aFlyUDMxcFVaNTEtOTVzZk1vWnUwTmYzdDZ4eGY0eHdWOTl2OEtwTnotNHQtVjM1MlNtMzV0QXlfanpRd1lqTU5BMXd4bEJWY3JCSUtUOHM?oc=5",
    "source": "Yahoo!ニュース",
@@ -411,8 +423,8 @@
   },
   {
    "title": "全国約半数の信用金庫でシステム障害 ATMなど利用できず",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnBONFFyWndUUk43dmJoNTJqM0g2YVNzaEdyQllmTnAxMVEwcEhicHlWMmtiTmpYSDBNWlk2LXFzR1pjQUpTTzh1eFVIcGpOOW1WNEEwSkp1a3FNTGpPWlUxSjVYaTRQWTNVUF9JdkhnUXhfUmptZHNLUG8tV0draQ?oc=5",
-   "source": "UQライフ",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xQ1Q1NkFYWkZCY0NielpTaUtjZWh4eXo3UHF6OTFreWdvWS13dnBoV1JnaGE5YU5PRDdFdTdIQ3pDbDBpcUMybXpvTjhlbHZMelk3Q3dUY19vSFVWcUlTWG80aWo3dndWVVZ4X1lB?oc=5",
+   "source": "au Webポータル",
    "at": "2026-11-06T17:05+09:00"
   },
   {
@@ -438,28 +450,30 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFRhYUFycTY5Ri1NVkJ2bkFWeHVydG9yRHotYVdUN0VWMVZDU04wdU5SMTJwZkJ2LVRISmI5dFFwbmRqbUYtVTBZYmJjUXc0WGRlTkM1RF9LSVo3YVZrWHVyZ1ZlOWJnTy1vc21WX2VyeHV6UGdSLVJIc05Hbk1QTHllZTFXbWM?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-06T16:41+09:00"
-  },
-  {
-   "title": "「そうしん」「かしん」など信用金庫 システム障害でATMやネットバンキング使えず 鹿児島（MBC南日本放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kUVI1SWVnVnpNVWlWZTVFTnl4SFlWSUU0NTQyVTRzc1JQLTdIZU9TdnluaWtvWXVHdU5Dekk4V2NhaW80cDZrYUJYSEtHMGdQcUlXeXBHZnA1eUFoWnQ5aEtDdENLNUZEMmp4SEplR3NFQnB3T01wS2x0M09UWFk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T16:40+09:00"
-  },
-  {
-   "title": "【速報】信用金庫でシステム障害 東海地方から西側…全国の約半数が影響、ATMなど使えず 不正アクサスとの関係性はないとみられる",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfLWdUMEQtYXJxYU1VWDNiQkxfQk92X0FFNWhyWUI0cENKc2RmOWRuU0NlbGF6LXRtNWZ4ZktKY1o1ekNMNDdzeWFNZjFlWFd5OEVFUkVmWGpXR3NRUzhLLUlQUDNKaVpteTFkX0Fn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-06T16:32+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "欧州の航空会社に爆破予告相次ぐ、今週2度目 27便以上に影響",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeGJZLXVFVV9va2c4OVltQUdZZ3A4cElYWnVZbDE1QVEwOW11UVhHNjZkY3A2YTZIazJXRElsazhuWHBkNkVKYUtaTmNLT2ZkOVA5ck1TRldlWGRSb1J4WW1JbE5SLWNIOGt5Qmk3ZXJndHlKTTRFaFNBSTBLZw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-06T17:30+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "中国・王毅氏、北朝鮮の金成男氏と会談…5中全会の結果説明、党運営の経験交流へ",
    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRXRDN2dLY2U2MGtYcE82WjM3Y3Fhb2t4LUg2MF9md054TW8tY0lMdnFpUVZIVmhrY2dMREdISEFseGR5QUo4Rk00cGJndllOYURGTEs5eWFFT2hqamhvVkY3Rm1kVmZrOS1GZjJJVDFPcXR6aUpXbmEwMGpvb3pzYlNVNWFaVnFvbFhlUDEtTDFuVE5fRU5IYUJUN3kwd0s1WWlTei1SRk1YUTJfWUdqTk5yR19FT1MtRmh5eEdvdm56SFNkbU8wOWY1WnRJaUZoMWF2Q2c4aHpMeGMzRk05eTVGV0tLa3M0d2t4Mlk5bzFXTkVBZXEyVTdXVG85UjI4Z1Q5QmxSM1plSHlDZlNPdDBLbmN3U1JZbGh3QnB3WDc4d1h6ZC15NFRzNUFtUHE5X1lsYTFobw?oc=5",
    "source": "KOREA WAVE",
    "at": "2026-11-06T17:20+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "欧州各地で旅客機への爆破予告相次ぐ 少なくとも25便が緊急着陸 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNjRRSE51VXZhb1EtWFVoVzZFbTBOYVFQV2JlUWtDa2JGMGdiLWpLYnRMXzVWYmZZeTlzUE1RbE1lcDNLTjlCRU5EZVFOY1JaV2Y4X0RtMnVTZWc?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-06T17:17+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "韓国の領海内で漂流する北朝鮮の漁船1隻を発見 韓国軍 乗組員の状況など確認中｜Quebee キュエビー",
@@ -476,25 +490,11 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "欧州各地で旅客機への爆破予告相次ぐ 少なくとも25便が緊急着陸",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSEdkR2dRT0pUdVFjekREVFROU0RuTnh2WlNLeUx0RHlmMFFQN0FrSVBhZS0wX2NxUHRnZGlYeGlKSGpJV3d0OGZ0Y1h2U0FwVlhQZVpRMXpFVy1rdy1YbVJJdWw4cTlHYWk1VFN2aGY2N3h2RjdNUE5JRDZPNGdmaHFSS3YteTdJYTl3ZUdxTlV4NnhaYlJIVm90M0UtX0J3eUFjSTJrWE5nSnN2R3JrV0FrMXVhN1ExcTB2cm9fenNILVpRVVVEbnNUSllUdXZHWkVuMmFDYzQwQldRT2Ryam4zNzdYQ053?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-06T15:38+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KNjZpcmZvQVpibjVJX1RPS1hJRDBJZ05acEtmOUtlb09oYm1ncmVTRkVCSXZHNUdhOExFUllMdjY3ek4ybFJub3hMZmxvdVg3bVNJZw?oc=5",
    "source": "時事通信ニュース",
    "at": "2026-11-06T15:37+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "欧州の航空会社に爆破予告相次ぐ、今週2度目 27便以上に影響",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZeGJZLXVFVV9va2c4OVltQUdZZ3A4cElYWnVZbDE1QVEwOW11UVhHNjZkY3A2YTZIazJXRElsazhuWHBkNkVKYUtaTmNLT2ZkOVA5ck1TRldlWGRSb1J4WW1JbE5SLWNIOGt5Qmk3ZXJndHlKTTRFaFNBSTBLZw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-06T15:09+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "イランがカタール経由で米国に核提案を送付したとイラン高官が発表",
@@ -599,7 +599,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「信用金庫のシステム障害、中国地方にも波及 広島信用金庫など」"
+    "「信用金庫のシステム障害、関西は25信金に影響 ATMや窓口利用できず」"
    ]
   },
   "japan": {
