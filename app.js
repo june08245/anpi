@@ -711,9 +711,9 @@ const JMA_WARN_PAGE = "https://www.jma.go.jp/bosai/warning/#area_type=class20s&a
 const JMA_QUAKE_PAGE = "https://www.jma.go.jp/bosai/map.html#contents=earthquake_map";
 const newsUrgent = n => ({ title: n.title, link: n.link, source: n.source, at: n.at });
 // 自分たちに直接関わるサイバー攻撃・障害（scripts/fetch_info.py の local_cyber と同じ基準）
-const CYBER_LOCAL_PLACES = ["大阪", "関西", "近畿", "関電", "大阪ガス", "大阪メトロ", "生野", "旭区"];
-const CYBER_LOCAL_WORDS = ["サイバー攻撃", "ランサムウェア", "通信障害", "システム障害", "大規模障害", "つながりにくい"];
-const CARRIERS = ["ドコモ", "docomo", "au", "KDDI", "ソフトバンク", "SoftBank", "楽天モバイル", "LINE"];
+const CYBER_LOCAL_PLACES = ["大阪", "関西", "近畿", "関電", "大阪ガス", "大阪メトロ", "生野", "旭区", "西日本", "全国", "東海から"];
+const CYBER_LOCAL_WORDS = ["サイバー攻撃", "ランサムウェア", "通信障害", "システム障害", "大規模障害", "つながりにくい", "取引できず", "利用できず"];
+const CARRIERS = ["ドコモ", "docomo", "au", "KDDI", "ソフトバンク", "SoftBank", "楽天モバイル", "LINE", "信用金庫", "信金", "ゆうちょ", "全銀", "ATM", "PayPay", "ICOCA", "交通系IC", "コンビニ"];
 const CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つながらない"];
 function localCyber(news) {
   return (news || []).filter(n => {
