@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:00+09:00",
+ "updated": "2026-11-06T09:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-06T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-06T09:06:00+09:00",
+   "place": "相模湾",
+   "mag": "3.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-06T03:05:00+09:00",
    "place": "福島県沖",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-04T05:11:00+09:00",
-   "place": "和歌山県北部",
-   "mag": "1.9",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国が振りかざす「新型軍国主義」の論理 日本の防衛強化に歴史重ね",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaGhTdklOczZDMVVNNDV1Wkd1VVE4SWFpUUZaYmt4eDBtN241bUF6dVVVTGd3WTRlNXBXZ1VIUlJHRGh4RjdVdFhiY0FEUTkwSXFYRmR2ZzlNblA3WmZxNnEzSWZ1WGc?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-06T09:00+09:00"
+    },
+    {
      "title": "習近平の疑心暗鬼で人民解放軍の「中枢」は壊滅状態か…台湾侵攻能力さえ疑わしくなる軍人不信の徹底的粛清(マネー現代)",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXpfX09oV2FHX0dkSGRvWWVGVnBaSWJXeVFoVmRzOUtnRDNUd21lYTEzSjRZZnBEWkRVTWVQNFN2Mlk0OXJsWWtuaXB3US1CTUhqSnVLbHpLd1VWU1V6LTdvU0d6bThUQkdBZ3QwZmptU2poUHVLYnZuaXl2RW1HYndZY01rcDg?oc=5",
      "source": "Yahoo!ファイナンス",
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdXhUb0pRX09YUVRuU3Faak1HWEtpbzdXRTVFQTljckVTVE80N2FTOGFUUFFBVXljTUpIRlNianNHT2M5bzJ1MXJ1THNUc0lCcWdOdElibnl4V281ZFk0aWlaWjItcmNhU1ZHZnBXOVM?oc=5",
      "source": "TradingView",
      "at": "2026-11-05T19:39+09:00"
-    },
-    {
-     "title": "「トランプ大統領の合意を議会が揺さぶるか」…米民主党圧勝受けた中国の計算",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTNIBbEFVX3lxTFA4SVlGeUs1YTJjVG1jMXNOdU5iMWtMNks1OF91TXNwc2dCSjNjMjNDM2F2RkpGRHNyWDYxTF9uYVFhRnBCNV92RnFYQXV0OUJ5V0dJbUNiSmdMYXJCekx3c1Y1SEFSSG44Yk1pTA?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-05T17:57+09:00"
     }
    ]
   },
@@ -233,16 +233,16 @@
      "at": "2026-11-06T08:00+09:00"
     },
     {
+     "title": "メラニア米大統領夫人「より長期の停戦実現を」 ロシア、ウクライナ代表招待",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuNjN3TVFvd1V3aWxtN1hDeDVQZ0djMUhhOGRYdllVRjE4MGNwTGRvYllOanRwa0lhcUt5eFNnRjRiSWdrUDZWMks3Y1MwTFJtN011QkNBcV9mMXhxWGotdXlHcw?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-06T08:00+09:00"
+    },
+    {
      "title": "トランプ氏、ロシア特使と会談 終戦に「欧州全体が関与も」",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXB4WkFWSjNGSDEyeF9KT3BHWWFlcml4NVpxN0ZmY1dQWkhiWXIwUk1rWUExM0hQY2VpQVVtNmMyVTFaVndPeEwtbURVX2RRck9ubFl4WUFvYm1MeWRVWHB1ejVuR2tLazVXVzBxNEt0a2FyakJkVC14SlJWeEJHOGNsNVFCQQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-06T07:11+09:00"
-    },
-    {
-     "title": "「より長期の停戦実現を」 ロシア、ウクライナ代表招待 米大統領夫人（時事通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aOF9HZUgxcm5EcWZ6WG52aDBYb1F4UHFHdDBYRE4zV1Uza0pKVWxCeENVN2tZMDdZQ3hyMWl1Yk9XQlc1Y2x4MXowUXktY25PanBKWTdoU29lc2JqWVhGd21FUGE1bVJuS0dJTkJ3b05aRHZpdFFLOHZCdTJQWms?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T06:59+09:00"
     },
     {
      "title": "3日、ドイツ・ベルリンで連邦議会議長と会談するウクライナのゼレンスキー大統領（ロイター＝共同） - 欧州、ウクライナ支援の拡大期待 ロシアはトランプ氏に秋波 米中間選挙、共和党大敗 - 写真・画像(1/1)",
@@ -251,10 +251,10 @@
      "at": "2026-11-06T06:27+09:00"
     },
     {
-     "title": "ロシアの大手ホスティング会社に破壊型なサイバー攻撃-VPS・クラウドのデータ消失|安全保障のニュース-セキュリティ対策Lab",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0E2MzJzcFBmOFNGazg2QmVsRkVJOHBSOEpPaFozR2ZMZXpCOEJZanRtRTlYNGFCR1lfX3dzdHZhTEg5cmhVT0dmUjdlaDNnY0wzVmFYR3g3MFpOX292dThFd19xSWROYl9OcTdhVE11MzlfUmJaUHRkb0NEMUpsanpKLVRucXBkMmhXdnEyTWd1YkFnNmJjdFRtSmJNbXF3V0M4aG9nTnhHaEU?oc=5",
-     "source": "合同会社ロケットボーイズ",
-     "at": "2026-11-06T05:30+09:00"
+     "title": "エルドガン大統領、トルコはロシアウクライナ戦争を終わらせる努力を続けると述べる",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCOWhPUlZvdHBMM3doeFBYWFZHVUZTMGFDXzE5d0tIbEdsQXJOSndGbUJDaVNHT1U1dWNheXdCeTBqdmfSAUJBVV95cUxQOS1XSGx5OFc1VHZYSmc0bjMzTE02OFdXeTFyQ2prRTJkX2Y5NmQ0a3Z1eW9YREdsNlpibXVoZEQwdmc?oc=5",
+     "source": "VOI.ID",
+     "at": "2026-11-06T06:00+09:00"
     }
    ]
   },
@@ -262,6 +262,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "欧州各地で旅客機爆破予告",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XMjI4OS1TWG95YnhkUEw5YTM0cm1yR2M2Sl9EX2VIeHkwVGJ1a0k3ZlN1ZXBCOWJRSmZ3akUyam43Z0QydTNTM2FLRk1id285YTZOLUR0LWRzaWFuS0JadmxLaG9OdW52anUyamFISTNDODJSUjQ5bzdZbHlpU1XSAYQBQVVfeXFMT19WbG1HblU3ZzRvVkNSSWJ6NUFnS3JoTlF0TmlfWE1OSDN4SXEyQUZ5MHplN2RnRHdaQUpGdGZ4Wlk1dFZFcUFMWlNOYUZXMkRLYzJ3dzJ1NmpHMjB6LVRURk03WWpYZmlwVnZGdUNvZko0T3dJRHBkZ2xLdWt5QkdDMl9T?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-06T09:00+09:00"
+    },
     {
      "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRS2JWNk9EZ1JJa2Jkd1Njbm1OTEtNMWEzQ2o2R2pYYUd0OUZWLVBpUEFZX1lPZnpobTVRZzB1MFJSWE1EUXlZYjF0RWlnQ2FuVzNzR3RfdUhaTkt3Y1E00gFkQVVfeXFMTnVfdnFfZjg5M2NjVVluZTBLT0ZQN3Z2RWtEbTlfeGNndEtlU3FQVXM5REJvc0FrblVqWm5BSDFfeVpKRTkxM25LeFhLdlZaTU00SFRibmxoQlh4Sm5rdDFfS3lESQ?oc=5",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mcW9zMlE5UkJST2pWak53ZkI1ZkJMVDVaRmRsT3FPV1htMjRxRkVrOWs5SDNsUmt4V2RKXzlSWFZhUUlyVS1Qa3lqR2JuRDBCV09leGFhR1ZuOXhkSERFNjBVandGdkHSAWxBVV95cUxOOGdaVWZLR2R4OVJVYVRzdHRCckRULS15NEVEbkxaMzRRQ2YtWTlIemFMWUM2U014VmZNZ2lIc0dWNDIzYktMcWVDVktpUzE3bGY5MXFBaTNGMm5ieTNETFpIa3pDcUhSWUw3bG4?oc=5",
      "source": "Infoseek",
      "at": "2026-11-06T08:07+09:00"
-    },
-    {
-     "title": "欧州旅客機27便以上に爆破予告、緊急着陸・戦闘機出動で混乱",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDVMX2pZQXNVV3JDdnFFNVM5ZDlzekx5NDNEX1d3ZWFXeFd2VTJhd3BoMUg3NnZHMHFoelVicWVMWU9GblhtVVN5b3RQXzFnR1F2cWVReWxZS2l6RENNMEhyZjlBLWxZREZ3eWhLZ0JoLWZ1Y1JmZDh4TDJId2xQUkFQRDA0YUZ3?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-06T07:09+09:00"
     }
    ]
   }
@@ -356,6 +356,12 @@
  ],
  "cyber": [
   {
+   "title": "ドコモ「14時間全国通信障害」と「30万件顧客情報漏洩」の重大インシデントが重なる",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fcEVlMHVlaFRfS09NMXFuZ3dXWkNyQk1PVzI5ajVSeHVSTUVEUEoxd1ZZdWdyOG43S2dHSW5qWS03RnlBeXU0RnNENVZkUVptYWxjcGtaS2tjWUE?oc=5",
+   "source": "アゴラ 言論プラットフォーム",
+   "at": "2026-11-06T09:00+09:00"
+  },
+  {
    "title": "インターネット・ケーブルプラス電話接続障害について｜障害・メンテナンス情報",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kSWRCNi1rZE1RekxxaC1RUUVXb0dsdDdsTkRuZlFSTUdjRER2SVZJUE5qS2Q4bTBDQjFQY1BHVUFGdW1iWEk5NE9SSnowdVJiT1lnbDVnTndHai1VcEU4N1V2eVY?oc=5",
    "source": "NICE TV",
@@ -374,10 +380,28 @@
    "at": "2026-11-06T07:36+09:00"
   },
   {
-   "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UNkxXdERPSVJzbnhoRHZnM2lVUGQ0LVFlbmI0YlNOZnBlSnk0MUlDQ1RKMkk5dFN2b1dMR293VFdpOGdMUXlRSnY3MEl3c2pEXzA2OEJjdG53UWpuZjNxNzVSUzNPZUlGN1ZKRGduSTA1Z3NTLURHVGpuTC1FU0E?oc=5",
+   "title": "【日本薬剤師会】「サイバー攻撃への備え」サイトで公開",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6X21oZHlSWHpkV0ZGanBJMlVWa29Iem5pLU8zVkZUVWwzdWpxTWExenlOYnBUOFhFUFFGaTBnV21pMTJzSUh0RG5uX1NrLUJXaUUw?oc=5",
+   "source": "ドラビズ on-line",
+   "at": "2026-11-06T09:14+09:00"
+  },
+  {
+   "title": "DigiCert（デジサート）、顧客情報に不正アクセス-パスポート・運転免許証なども対象、社内システムが約17カ月外部から到達可能に|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazJsVUpDLURWcTNlT054eTRTM1Z4QXowY1VJNDNCNVRNRVpmTHNuaGdTX3E5ODd2WDktOGFuYkZFVXVmV3ZBV0tNZUtPamw1clRRQzliVVhpUWt6VGlfYzJVWmNiWGxhaUZmbFY5MmVYRDMxQ3FNMmVTOENzTFFmWTRRa0doOW1xbmRhN2hYX3ZJcWRwdzZaVks3TW9ub2h2X0NEX1hB?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-06T09:08+09:00"
+  },
+  {
+   "title": "ドコモで不正アクセス およそ30万件の情報流出（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WT25VajFYbXdpc3RMZ2YxVjZiOUFub2oybGlmLWtUeFNTaG5hcmg1REJra0JFQUlneXVvMDgxbENlMmd3RDZUTkRBRUJYdWdEU0tZR3pyek5IdDJrQ2M1NXJZTXFnVXZja1JxNjhHOGxBZ3diS1hUWWwtVGhYVVk?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-06T08:53+09:00"
+   "at": "2026-11-06T09:05+09:00"
+  },
+  {
+   "title": "三井住友銀行で顧客メアド22万件超が外部流出 配信委託先「アララ」不正アクセスの波紋広がる",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoRWlIaVluWGRyUzhfcy1TMWd1ZldSMmRQd0owZVpxT0FYRFZyZWRueDlnMWZQQUh3Y29qU2dNLTlEb3d3bGJnX2hyZHBMMnQ1U0JF?oc=5",
+   "source": "東京報道新聞",
+   "at": "2026-11-06T09:02+09:00"
   },
   {
    "title": "アイリスオーヤマ、非会員含む約770万人分の情報漏えいか 外部クラウドに不審ファイル発見→不正アクセス発覚",
@@ -390,6 +414,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RNTNVdEhqUmJSbTFDUlVhbnd4eU52T3ZjSFRjWE5nOFJBckFaODdUZEQ3aGpCNGphQmx3cTFyWW1FWDhkblZzUU9FYXg5cEpfeXk2WE9ndjBrUnZKNHVOVWk3TUdadEZrU0pnQ0VTWDJNdHJDMEZEeHY5b3A4N2s?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-06T08:47+09:00"
+  },
+  {
+   "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQzRMdkZZeDhZbURxa3dNX2hybml3OVQxWllNNjNlMUZYM0djOXNqbzBQdnRZV2dnU2QyamRFdTd3OEV0dkl6OUtfUG5tRlk3dXfSAVRBVV95cUxOai1TdG1ucFh6SGhWVWQyZHVGQUhfNG5PdmliVGFneENMOGdxTlBDQ3I4U1llOGtXTzJleWhZOWNTZlJYT3lTQlVwVDJfdGkwam4tbTA?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-06T08:44+09:00"
   },
   {
    "title": "ソースネクスト、メールアドレス14万2,669件が流出対象-ユミルリンク 「Cuenote FC」への不正アクセスで注文・返金情報も",
@@ -411,43 +441,27 @@
   },
   {
    "title": "不正アクセス受け警察庁長官「緊密に連携し実態解明を」 全国の警察本部長らに指示",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85QkVCNHdKa2ltMTdmZ0NlOEF3ZDFYcTdFR1RTclRyOWlZVjNLemhPRzVacFY5ZHlBRmpJLUFiNXhwR0hHcGM2U0w2ODgzRUJkRnFXRllR?oc=5",
-   "source": "KFB福島放送",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NZ05OSF9ZcG1YalE4M0FEeGtVcF9lTFlvSWhkX0kwSlk0WWhpUkZTTUVWU25pMFRvOXVLV0FERUIydF80cWxLeEoxYXFMR19KXzllVVhrdENRVFdIMXJIMWpJY1l6dFk4NFluY05pc1Zydw?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-06T08:18+09:00"
-  },
-  {
-   "title": "GMOメイクショップ、約1,260万件のメールアドレスが流出 makeshop・MakeRepeater利用ショップに波及、アララへの不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWFMNW5VZU1QUVRGeUlyU0tKU3E4a2ZQSGtnc2RZVmUwY2g0d1NFV19JbXA5Yk53eFZVTmtzTFVHT1ZDVW9MQjRxVi1kWWdWeVdhd1pKWm5waVJWYTlycldpWFpkc3ljT3k1ZWlNeHJJNkM2MXNBVXJXbnl1RWpuSWZXTkNtcEkzZTA1OXBEWUI2bTl6RWhQLXJMT1pWZjQzRnlhc3BIMDRLRVliZFhmdkZlRHZEOWs?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-06T08:15+09:00"
-  },
-  {
-   "title": "不正アクセス対策の切り札に？ OpenAIが「GPT-6 Cyber」発表 脆弱性の発見力が向上",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03YnJYVjQ4azRCNUxTdVZGY1kwLVE2REU0Y2VsbkxwaFNlUzRJclo2cTRyZlhUeUdqTVpEMXREXzN5UHV6WVFBMmV1OEUzSDRhMVE?oc=5",
-   "source": "CNET Japan",
-   "at": "2026-11-06T08:10+09:00"
-  },
-  {
-   "title": "「MUJIアプリ」への不正アクセス、新たにカード情報が外部からアクセスされた可能性も",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10MjdxQlZzSnBHX09YRmtXYWYwRjQ3SFRNbGNrX1pLcFc5WWcwd0JMektMR0dhYmdzbG1GQ2t2UkZaWU1kZWQxSTEyaUJrV2ZqZFR2eDZMVDNSLVBVWTRHdjI2elN0VFhJYUh4bg?oc=5",
-   "source": "ScanNetSecurity",
-   "at": "2026-11-06T08:05+09:00"
-  },
-  {
-   "title": "「@cosme」に不正アクセス、約300万人の会員情報が漏えい",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTNkZlY3VNR1lyYkxnLVRQTjdFR2NEZE82Y1pHMTlnYmxPdmloUk1SSEZyWldUY0FQRlIzN3lJWHBURkt2REQ3WDlPSUlpUVlyb2dSREctd3ZxcTlFX2RBdldhbEpSMVZpbmt4OA?oc=5",
-   "source": "ScanNetSecurity",
-   "at": "2026-11-06T08:05+09:00"
-  },
-  {
-   "title": "クラブツーリズムに不正アクセス、約432万件の会員情報が漏えいした可能性",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVZGctMV8tZXQwdWJ6OVlaeHpMZnpuNEVielFDVW01cjJYMmVRY0NiY3YxcjBCdTBZWXh0WnZtanN4Q2F4SUxzbjM0X3NXNjRrUzAyb0huLW1Gd1hEM3YzTGZVbjdqVEY2QjVKMw?oc=5",
-   "source": "ScanNetSecurity",
-   "at": "2026-11-06T08:05+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "中国が振りかざす「新型軍国主義」の論理 日本の防衛強化に歴史重ね",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaGhTdklOczZDMVVNNDV1Wkd1VVE4SWFpUUZaYmt4eDBtN241bUF6dVVVTGd3WTRlNXBXZ1VIUlJHRGh4RjdVdFhiY0FEUTkwSXFYRmR2ZzlNblA3WmZxNnEzSWZ1WGc?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-06T09:00+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "欧州各地で旅客機爆破予告",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XMjI4OS1TWG95YnhkUEw5YTM0cm1yR2M2Sl9EX2VIeHkwVGJ1a0k3ZlN1ZXBCOWJRSmZ3akUyam43Z0QydTNTM2FLRk1id285YTZOLUR0LWRzaWFuS0JadmxLaG9OdW52anUyamFISTNDODJSUjQ5bzdZbHlpU1XSAYQBQVVfeXFMT19WbG1HblU3ZzRvVkNSSWJ6NUFnS3JoTlF0TmlfWE1OSDN4SXEyQUZ5MHplN2RnRHdaQUpGdGZ4Wlk1dFZFcUFMWlNOYUZXMkRLYzJ3dzJ1NmpHMjB6LVRURk03WWpYZmlwVnZGdUNvZko0T3dJRHBkZ2xLdWt5QkdDMl9T?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T09:00+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRS2JWNk9EZ1JJa2Jkd1Njbm1OTEtNMWEzQ2o2R2pYYUd0OUZWLVBpUEFZX1lPZnpobTVRZzB1MFJSWE1EUXlZYjF0RWlnQ2FuVzNzR3RfdUhaTkt3Y1E00gFkQVVfeXFMTnVfdnFfZjg5M2NjVVluZTBLT0ZQN3Z2RWtEbTlfeGNndEtlU3FQVXM5REJvc0FrblVqWm5BSDFfeVpKRTkxM25LeFhLdlZaTU00SFRibmxoQlh4Sm5rdDFfS3lESQ?oc=5",
@@ -505,18 +519,18 @@
    "topic": "ロシア"
   },
   {
+   "title": "メラニア米大統領夫人「より長期の停戦実現を」 ロシア、ウクライナ代表招待",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuNjN3TVFvd1V3aWxtN1hDeDVQZ0djMUhhOGRYdllVRjE4MGNwTGRvYllOanRwa0lhcUt5eFNnRjRiSWdrUDZWMks3Y1MwTFJtN011QkNBcV9mMXhxWGotdXlHcw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-06T08:00+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "トランプ氏、ロシア特使と会談 終戦に「欧州全体が関与も」",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXB4WkFWSjNGSDEyeF9KT3BHWWFlcml4NVpxN0ZmY1dQWkhiWXIwUk1rWUExM0hQY2VpQVVtNmMyVTFaVndPeEwtbURVX2RRck9ubFl4WUFvYm1MeWRVWHB1ejVuR2tLazVXVzBxNEt0a2FyakJkVC14SlJWeEJHOGNsNVFCQQ?oc=5",
    "source": "Reuters",
    "at": "2026-11-06T07:11+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "欧州旅客機27便以上に爆破予告、緊急着陸・戦闘機出動で混乱",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDVMX2pZQXNVV3JDdnFFNVM5ZDlzekx5NDNEX1d3ZWFXeFd2VTJhd3BoMUg3NnZHMHFoelVicWVMWU9GblhtVVN5b3RQXzFnR1F2cWVReWxZS2l6RENNMEhyZjlBLWxZREZ3eWhLZ0JoLWZ1Y1JmZDh4TDJId2xQUkFQRDA0YUZ3?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-06T07:09+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "イラン、カタール経由で米に核関連の提案送付 7条件実現が協議の前提",
@@ -531,13 +545,6 @@
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-06T07:03+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "「より長期の停戦実現を」 ロシア、ウクライナ代表招待 米大統領夫人（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aOF9HZUgxcm5EcWZ6WG52aDBYb1F4UHFHdDBYRE4zV1Uza0pKVWxCeENVN2tZMDdZQ3hyMWl1Yk9XQlc1Y2x4MXowUXktY25PanBKWTdoU29lc2JqWVhGd21FUGE1bVJuS0dJTkJ3b05aRHZpdFFLOHZCdTJQWms?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T06:59+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "７条件受け入れ後に核議論 イラン高官、米に新提案も",
@@ -580,20 +587,13 @@
    "source": "東洋経済オンライン",
    "at": "2026-11-06T06:00+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "イラン、ロ大統領に書簡 指導者、対米支援要請か（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNXBQQzZtMTlzVUQzUzdtYkc5RmNiWXFsR2FqU0VmWE5QTUJkTzlrZ2s2V3BBb29IekVtREluR29zVDl1WmQxeDNTdkU1amdKUDZKZlcyYXdqaXRvMDZuREUxT1VCWjRDalJTZXEyS3BNWk1oVEotSkZPSHpzcVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T05:55+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ通信障害、約14時間で復旧 原因は「交換機の輻輳」、不正アクセスの形跡なし」"
+    "「ドコモ「14時間全国通信障害」と「30万件顧客情報漏洩」の重大インシデントが重な」"
    ]
   },
   "japan": {
@@ -608,7 +608,6 @@
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「侵攻」2件",
     "北朝鮮：「攻撃」「ミサイル」4件",
-    "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」6件"
    ],
    "items": [
