@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:45+09:00",
+ "updated": "2026-11-06T18:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -362,9 +362,33 @@
  ],
  "cyber": [
   {
+   "title": "西日本128信金で障害 決済、ATM利用できず サイバー攻撃起因ではないと説明",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oRTVoRnZRRkhPVVA2T0l5b3dGb2YzQW54UW12TFpiM0wzOTdGOUNYWVpKQkJuQl9iN3dQU3gzQ195akc3dm51Y3ZLTGZDTlJXaHR0ZEZDb1VhdXUyNWJZVHdoRGxidzhKczJYQ25JSUhVVk1QM1E?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-06T17:20+09:00"
+  },
+  {
+   "title": "【速報】西日本の信用金庫でシステム障害 東海から九州にある128の信用金庫 復旧のめど立たず 不正アクセスが原因かは不明、調査中",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsVC1ublVTU2FpV2kwQXM2SXduYS1ZQm1kZWc0RFdYSFJ2dDJUS2lFSUN5R0NqWE52TjdGNUhLR2Vic3hyUWJvZ1Frbw?oc=5",
+   "source": "TVer",
+   "at": "2026-11-06T17:20+09:00"
+  },
+  {
+   "title": "東海から西の128の信用金庫でシステム障害 窓口取引やATM利用できず 不正アクセスか不明 再開のめど立たず",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGNkdBNzUtNnVOU0tqbTRaYmlDWnM4YzdkYVhQTDFOT2tEdnE5U1dRT19VUEZ4VzZRRFhtWnU3TkZKMEg3Vkp2cXpaZEtzZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-06T17:11+09:00"
+  },
+  {
    "title": "全国約半数の信用金庫でシステム障害 ATMなど利用できず",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11OG5zWDcxRy1aZ29GemZDbEgtbU1oVDBDV0wxY2NBek1QOGdZODhRZ2tWamRUT2QwREdmZG9LcWJwUUVnTnZwVHJHM01DeEhmNUFoSzNGaV93RFFmbmdoUEhhRzJfZFVK?oc=5",
    "source": "Infoseek",
+   "at": "2026-11-06T17:03+09:00"
+  },
+  {
+   "title": "西日本の128信金で決済障害 6日中の復旧困難か | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZngtN0ZPWF9fOTBvRWd1VlRVVDVMNHA5YXotN1FtTTdwYWZGX2VRZkFMVUtMSWJSeHlDcjdPVDN5TXNyNjRNb1ZNZ1BMZGNnS3dnaThuTlZfNzJBWVIxOXFOUDU5S0E4VmlYaDhVdEFVZzUwQ2RJRkVNVHE3UG9VcXAyZFAtb1VoSkQ1NWJfckxuQU5ra0hXcThfaDByMU5lMEhQZXhFMzZzV3pMb1JMOXRtLW9SejNIVEZFNFQwSDVKc2t4cldfNHY0WEtzVGc2V1NmdzhzTUdIYmN5TXFnRG0ydG9rX2RiTDQ0NEFmdkQ0cF9PLWphOFhqNXRlTjJYRElrZW41YXRrZVE4SG1ZS2JrUDhPRDZkX1FRUUFkMlNteWRoR2JULXRwTkhSaG5nb2x6UjZZRGg3TnRoUjJnUzA3RzlsTnhqSFBuLVRZd0NwMlhNSkJ2QjdDbjJDYjR2?oc=5",
+   "source": "SmartNews",
    "at": "2026-11-06T17:03+09:00"
   },
   {
@@ -380,22 +404,16 @@
    "at": "2026-11-06T16:49+09:00"
   },
   {
-   "title": "【速報】西日本128信金で障害 決済、ATM利用できず 原因調査、復旧急ぐ",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92T2VheGRvVTN5d1pLaUR5b0JUM3JQNzlMQ3FqSUxxLTBWOGJaQlU3b1NPeGxtSzJIZzF0U1BZR2lrdVd1TDk2dGRuOA?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-06T16:48+09:00"
+   "title": "県内4信金でシステム障害　窓口とATMで入出金できず　ネットバンキングも利用不可　通信機器の故障か　再開のめど立たず",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uU21tUlBtNExDRmtWM2tHbkd6RVd6dDZNZGJvV29kVmZQN1hVNGtmU1gyenUxVXdsWEdEblV0ZFdVWXl0aDBRMUJ3cW9fdDVGb2VpdWJVT1laQkQ1VzRjMEJUbmdENmN1bUU1OWV3NjdTVXRFbHZIb01pVdIBgAFBVV95cUxOckZWUC13ekhpankyNy1rVFl1aXFsR1lMamQ1RUZkaU9hd2pDbUhIQU9LYTJXdnBLdlBWTThmSmhTTUpnTm9EWldMYXY5VGhFUWVrOWlWTE9VV1ZzcTJGS19OSWNpRXBFVVhnRzRvT0F2VUx1RV9tNG9iQXBKN01LUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T16:41+09:00"
   },
   {
    "title": "「そうしん」「かしん」など信用金庫 システム障害でATMやネットバンキング使えず 鹿児島（MBC南日本放送）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kUVI1SWVnVnpNVWlWZTVFTnl4SFlWSUU0NTQyVTRzc1JQLTdIZU9TdnluaWtvWXVHdU5Dekk4V2NhaW80cDZrYUJYSEtHMGdQcUlXeXBHZnA1eUFoWnQ5aEtDdENLNUZEMmp4SEplR3NFQnB3T01wS2x0M09UWFk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-06T16:40+09:00"
-  },
-  {
-   "title": "システム障害を知らせる大阪信用金庫の張り紙＝6日午後、大阪市北区 - 西日本128信金でシステム障害 決済、ATM利用できず - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X3loUkgxbWw1STJqbmkzZzVjbUFXZEVBdEF2YzZEOFVjRERyQURabUZFOHpqem81eG9VWWtLdEhFZFB3RUFpeFhqX0dkYWpuanVnZUlVcw?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-06T16:35+09:00"
   },
   {
    "title": "【速報】信用金庫でシステム障害 東海地方から西側…全国の約半数が影響、ATMなど使えず 不正アクサスとの関係性はないとみられる",
@@ -410,6 +428,12 @@
    "at": "2026-11-06T16:31+09:00"
   },
   {
+   "title": "西日本の128信金でシステム障害 復旧めど立たず | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOcjloSk1CNGFtYjhjdklfNUIxQU8zanZQRVRPTXZqb182LXUwNHhKdC0tVGZtaldfdlVqNDBEeUpZd21sNVUxU3JzdDZ6aFR1VGpBSGlYSWU3WF9CU19pemw1azl3cDhWaXNFb3o0UjRhckxjYkJYd2pheHhaWnlEemc5YlQxNWhQcHB4ZEE2QWxYZDRnN1ZkYU5mYkZHMFltRnJkUXN0bnA4Y25OODlaNmhuSEZSSTI0WlQwSnluT05KTFJVNDZrTWx5Y2JpUnNFRU15OWdjUFpFRV8taF9VZVY2Mm12U1MtbFFJZkZmeV84RjBlbUNKLWllaTFST1dCUzhGQm9TM0NyMENac1pwS2wxSmQwcC1sSUpxbVZ3RldhYkwxeHpGbVpRNEdtcnNUWG43ajhUeXh5TVd3enZGN3dEWnV1UUZQUm5Vekl2VlBJTTlNVmtsVFhOeHpqVlB3S1VadkNSMVBPejg?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-06T16:30+09:00"
+  },
+  {
    "title": "NTTドコモ 通信障害が解消 通信が集中したことが要因 不正アクセス確認されず",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mZ0ZWV3g4V0xsLWNVN0pjU1pmOHdhMk5qYndtTFFhOU5CX1RmRnlPQklOX3AtbGowVUd6enpPbHdOaFRqOHU5Z3ctTFB5VWs3ZzZqZDdn?oc=5",
    "source": "KFB福島放送",
@@ -422,34 +446,10 @@
    "at": "2026-11-06T16:28+09:00"
   },
   {
-   "title": "【速報】西日本の信用金庫でシステム障害 東海から九州にある128の信用金庫 復旧のめど立たず 不正アクセスが原因かは不明、調査中",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbk1tTllNSGtUVkFvdk1NTFpqLWJWVHlmU2JMeUtpOFp2cUZ3ekxjWEozUnRYOUYtQlhaRmdqTjVudnFWZ0FmTFhzMl9FSG5oeTA4RXBnZ21WUUN3VVB0U2JtcUtVaHJoUlA1VXdFNDNjWWpiM1JVMUp5ck9jRHFiQw?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-06T16:28+09:00"
-  },
-  {
    "title": "岡山・香川の信用金庫でもシステム障害 ATMやネットバンキングなどが使えない状態 通信機器の故障か",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MWXhyNlRmNzlzSlROVVlTeHE4OWhob3JoMmZMelRGUno3bWJCSDVwOTBoOHdSelBOWWV3TEpkZ1FiS2dFLXFiUzFkV0Nkc2hXY0dQdE9Ua0p0VFBINnd5ZWRkOGs?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-06T16:20+09:00"
-  },
-  {
-   "title": "のと共栄、はくさん、興能信金でシステム障害 窓口、ATM利用できず 金沢信金は別システム",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HTGI2Wm9XdlRSU1FkNkpYMTVPbzJ0SW1DTkpxZmZQQnJtZlVIZVpUdzUtQlFyZjl4OXlOc2NJRldtTmE1TV96VS1ldjBNSjZCNU1TckVrOXRJZw?oc=5",
-   "source": "北國新聞",
-   "at": "2026-11-06T16:15+09:00"
-  },
-  {
-   "title": "西日本の１２８信金でＡＴＭでの入出金できない障害…窓口取引・金融機関同士の送金もできず",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OdWpRSXVzUFFtUGRiN1JtYkExdHEyNnlGRFdIdzBCM0hZWjJJeXo0blJ2VVk1d0VreWlzS3p6RWRBLS1HSm5FNjZGemNZRzlVN25vV2RuSDUwMnVXZ0U5dVpuUDBJWHpSSTVNREQtWW1yZw?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-06T16:15+09:00"
-  },
-  {
-   "title": "【速報】熊本県内4信金システム障害 資金決済、ATM利用不能に",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GRTJlY3ZkVzdMS1FWNGxkUmdTdEduN0Z3VFFMUDZCUmFpSkxhVHRmNjFVNnh5enlQekFoYXYzMS1jejRWc29oRzRrWTRuMGM?oc=5",
-   "source": "熊本日日新聞社",
-   "at": "2026-11-06T16:14+09:00"
   }
  ],
  "osaka": [],
@@ -599,7 +599,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「全国約半数の信用金庫でシステム障害 ATMなど利用できず」"
+    "「西日本128信金で障害 決済、ATM利用できず サイバー攻撃起因ではないと説明」"
    ]
   },
   "japan": {
