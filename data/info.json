@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:15+09:00",
+ "updated": "2026-11-06T09:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、ロシア大統領に書簡 指導者、対米支援要請か（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNXBQQzZtMTlzVUQzUzdtYkc5RmNiWXFsR2FqU0VmWE5QTUJkTzlrZ2s2V3BBb29IekVtREluR29zVDl1WmQxeDNTdkU1amdKUDZKZlcyYXdqaXRvMDZuREUxT1VCWjRDalJTZXEyS3BNWk1oVEotSkZPSHpzcVE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-06T08:43+09:00"
+    },
+    {
      "title": "イラン、カタール経由で米に核関連の提案送付 7条件実現が協議の前提",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVThyWVk4R185R2o5TmdXNTJHVktEMG04VkpZdDEtVU1zb3R2NFdhV1Y1U2NXTTRkQTVTY0JHUzJFQ1lJNnlUTWhNT3lORlNUekxPakxSQ2NvRWxvdFZzSS1MMHFYVExrc3IxY2tlVllPTXUwV2FmbU03a1R1OVdIeHB5S1R0Qnc?oc=5",
      "source": "Reuters",
@@ -111,12 +117,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuRjdIUnZHbHdZSmduNmUyd0dyeWJQblZqeHBZV3pkVFRFU19USlZzX1VzTGltekJlU053MVV2VGEyWHRoOFpYNEw4M3ZpVHBJU3F0VmQyN1pqTFN1?oc=5",
      "source": "Infoseek",
      "at": "2026-11-06T06:00+09:00"
-    },
-    {
-     "title": "イラン、ロ大統領に書簡 指導者、対米支援要請か（共同通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNXBQQzZtMTlzVUQzUzdtYkc5RmNiWXFsR2FqU0VmWE5QTUJkTzlrZ2s2V3BBb29IekVtREluR29zVDl1WmQxeDNTdkU1amdKUDZKZlcyYXdqaXRvMDZuREUxT1VCWjRDalJTZXEyS3BNWk1oVEotSkZPSHpzcVE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T05:55+09:00"
     },
     {
      "title": "イランが仲介国と相次ぎ電話会談 米のイラン攻撃懸念の中 核問題で“柔軟姿勢”か",
@@ -179,9 +179,9 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "鬱陵島北方の公海上で漂流していた北朝鮮漁船1隻を発見…韓国軍合同参謀本部「調査中」",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGlxdVJlb1lmeWgyc2NDWE1MeFJmTWVsUkJ2Y1R6MjIwd0hFd2ppVmx3MEZyWFlTbjhXZ2VMdVIyaVVWRXJzRVViRmw2ZWJLQnRVOFhhV0g4U0pBajVQdkxzWmNTNTladzhEMnNvM1dGcUtPekd2b2VlY3RoVElWZWxMUlNkMW9hM2NHSTltb1R4U1BSSjM3MjJR0gGMAUFVX3lxTE0yNEZ4WVlyQmNJVmc3Uk5hbUhMemY1U0ZBaDZoak45eEctMG96d21FMnJoeGJwSWdhVWg0bmEtc001cElIcjVvazVVVHhDRWx3ZkoyekxyeC1GcHZXTG83Y3JfLVVuVXBQWENqc1lBVW0wWXNETGxSX3Z1N2ZKa2RiUl9pMENXQ25HZlVM?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "鬱陵島北方の公海上で漂流していた北朝鮮漁船1隻を発見…韓国軍合同参謀本部「調査中」（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lM2dOSGIzSXFMZm1tOW1jYk9vRGZaRERPcXFDR0dVX1o1c3ZTakVXcVRBYW1KNVhDdFFTMWxkN0tsSDl4cnVveEgtRElsek95RzJ5ekR1Z1hpcjdGT3JRSUxfN0JfTW9SUS1tQ2xKNlNaUXM4Q1I3NHlubkFYNjQ?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-06T08:30+09:00"
     },
     {
@@ -227,12 +227,6 @@
      "at": "2026-11-06T08:23+09:00"
     },
     {
-     "title": "メラニア大統領夫人がロシア・ウクライナの代表者をホワイトハウスに招待 自身仲介の一時停戦に関連して「より永続的に」期待示す",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQzAwQ2pHQndWYWxRVHAyQmpEWEYzM1hHQllBdWtVWkFVdFFIRV9IVkZlaXRxWXhqa25oUTVIay1NM0F0NDlQcmFSVHRvdTFXaUZObGhVd21BbGk5czh2NzNNYm1TUDYtV0xDMEpVYTU4cUFGeG1QeTBaeWZYMk1zYw?oc=5",
-     "source": "UQライフ",
-     "at": "2026-11-06T08:00+09:00"
-    },
-    {
      "title": "メラニア米大統領夫人「より長期の停戦実現を」 ロシア、ウクライナ代表招待",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuNjN3TVFvd1V3aWxtN1hDeDVQZ0djMUhhOGRYdllVRjE4MGNwTGRvYllOanRwa0lhcUt5eFNnRjRiSWdrUDZWMks3Y1MwTFJtN011QkNBcV9mMXhxWGotdXlHcw?oc=5",
      "source": "時事ドットコム",
@@ -245,16 +239,22 @@
      "at": "2026-11-06T07:11+09:00"
     },
     {
+     "title": "メラニア大統領夫人がロシア・ウクライナの代表者をホワイトハウスに招待 自身仲介の一時停戦に関連して「より永続的に」期待示す",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54LWNwUHVCdUQ5aFdnMFRUNDZ5dzV1OWJoaWlzTFJuaUs1TkFrcWVRRXJNUTBZRWdPMS1XcjNFaHlaVEpaQUs5dGFCOGx6Zw?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-06T06:58+09:00"
+    },
+    {
      "title": "3日、ドイツ・ベルリンで連邦議会議長と会談するウクライナのゼレンスキー大統領（ロイター＝共同） - 欧州、ウクライナ支援の拡大期待 ロシアはトランプ氏に秋波 米中間選挙、共和党大敗 - 写真・画像(1/1)",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41di02cUZaejBTaFRDQnB5cWlYSEsyTUFCTXNMLVFTeXFZS2NPS2VFLTdQblVPNGd0cEVvcjlqbjNnLUI4MVdlaDV3UDBjUk8tdXNxejBOZw?oc=5",
      "source": "西日本新聞me",
      "at": "2026-11-06T06:27+09:00"
     },
     {
-     "title": "エルドガン大統領、トルコはロシアウクライナ戦争を終わらせる努力を続けると述べる",
-     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCOWhPUlZvdHBMM3doeFBYWFZHVUZTMGFDXzE5d0tIbEdsQXJOSndGbUJDaVNHT1U1dWNheXdCeTBqdmfSAUJBVV95cUxQOS1XSGx5OFc1VHZYSmc0bjMzTE02OFdXeTFyQ2prRTJkX2Y5NmQ0a3Z1eW9YREdsNlpibXVoZEQwdmc?oc=5",
-     "source": "VOI.ID",
-     "at": "2026-11-06T06:00+09:00"
+     "title": "メラニア大統領夫人の仲介外交 ロシア・ウクライナの局地停戦を誇示",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RYnhxSDRGZkhkVTlITzNCbjU0cnJ6S25kZm1vWXp6ZlRSSkxEeC1fREl6NkdJZF9id3VsMV9HY0lrZ3p3SXBCR2oxYk9NLVM2SFRlOFotS1RLU2NLLUtCRHNoZ3BQcFFNWXpSeA?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-06T05:25+09:00"
     }
    ]
   },
@@ -263,14 +263,14 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "欧州各地で旅客機爆破予告",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XMjI4OS1TWG95YnhkUEw5YTM0cm1yR2M2Sl9EX2VIeHkwVGJ1a0k3ZlN1ZXBCOWJRSmZ3akUyam43Z0QydTNTM2FLRk1id285YTZOLUR0LWRzaWFuS0JadmxLaG9OdW52anUyamFISTNDODJSUjQ5bzdZbHlpU1XSAYQBQVVfeXFMT19WbG1HblU3ZzRvVkNSSWJ6NUFnS3JoTlF0TmlfWE1OSDN4SXEyQUZ5MHplN2RnRHdaQUpGdGZ4Wlk1dFZFcUFMWlNOYUZXMkRLYzJ3dzJ1NmpHMjB6LVRURk03WWpYZmlwVnZGdUNvZko0T3dJRHBkZ2xLdWt5QkdDMl9T?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "◎欧州各地で旅客機爆破予告",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5laWEwQnpEN215RzhaZ0tHNjBtUDBZSjVtcVhSSVp2N3Myd2kzaDJyT2JUME44UTZ1S1ZZSF9Zd0VsZnFBZGFRVnBsYkpUdTZhcTljRg?oc=5",
+     "source": "時事通信ニュース",
      "at": "2026-11-06T09:00+09:00"
     },
     {
      "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRS2JWNk9EZ1JJa2Jkd1Njbm1OTEtNMWEzQ2o2R2pYYUd0OUZWLVBpUEFZX1lPZnpobTVRZzB1MFJSWE1EUXlZYjF0RWlnQ2FuVzNzR3RfdUhaTkt3Y1E00gFkQVVfeXFMTnVfdnFfZjg5M2NjVVluZTBLT0ZQN3Z2RWtEbTlfeGNndEtlU3FQVXM5REJvc0FrblVqWm5BSDFfeVpKRTkxM25LeFhLdlZaTU00SFRibmxoQlh4Sm5rdDFfS3lESQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51X3ZxX2Y4OTNjY1VZbmUwS09GUDd2dkVrRG05X3hjZ3RLZVNxUFVzOURCb3NBa25ValpuQUgxX3laSkU5MTNuS3hYS3ZWWk1NNEhUYm5saEJYeEpua3QxX0t5REnSAWRBVV95cUxOdV92cV9mODkzY2NVWW5lMEtPRlA3dnZFa0RtOV94Y2d0S2VTcVBVczlEQm9zQWtuVWpabkFIMV95WkpFOTEzbkt4WEt2VlpNTTRIVGJubGhCWHhKbmt0MV9LeURJ?oc=5",
      "source": "Infoseek",
      "at": "2026-11-06T08:44+09:00"
     },
@@ -356,6 +356,12 @@
  ],
  "cyber": [
   {
+   "title": "NTTドコモ　青森県を含む全国的な通信障害　6日未明に復旧　",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUZFlTelRkTDc5V1VCRkhXSkk0MTNKR3BEVGN2OHVuWFdTUU9UVWpTdERYMzZtV3F3S0RUeG4xY2JUeTBaVzZSVkk5YXo4VzQ2OVdIVm4ySHJZVUxIdVVCWVJBUnBkRTJldkZVNjFYRWd3aTJzV2RhM0xBa9IBgAFBVV95cUxQZm9ZaGtkaDFEemUwbEkwZmk0cVk4TDk0ZmlWdkNiTGJscUVXOGx1ZHY1MFViVkFCN256MDA5RVdDclN6LUlKQklxdjFHa0c3QWdsTUJZOGNyZlhqNGIxZ0dFR2pWRnFJYXhOWFdGZmtaVXkwdXp4azQ2UE15SE91QQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-06T09:13+09:00"
+  },
+  {
    "title": "ドコモ「14時間全国通信障害」と「30万件顧客情報漏洩」の重大インシデントが重なる",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fcEVlMHVlaFRfS09NMXFuZ3dXWkNyQk1PVzI5ajVSeHVSTUVEUEoxd1ZZdWdyOG43S2dHSW5qWS03RnlBeXU0RnNENVZkUVptYWxjcGtaS2tjWUE?oc=5",
    "source": "アゴラ 言論プラットフォーム",
@@ -380,10 +386,34 @@
    "at": "2026-11-06T07:36+09:00"
   },
   {
+   "title": "【二宮・真岡の事業者様へ】サイバー攻撃対策の無料相談窓口とガイドライン活用法！",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3aVFQVTJ5WmNhTmJTYmpzVWhTM1pQRlJnMlpMb3NGeGdVM1RBWENwRGV5YkU1MXc2c2xnU3drcHRsRU9vaWxubGduZnh0OGo4VWFvc3JvcnROb3ZaTWhn?oc=5",
+   "source": "選挙ドットコム",
+   "at": "2026-11-06T09:21+09:00"
+  },
+  {
+   "title": "ALL.Net/Aime不正アクセス問題、サービス再開の目処立たず―次回報告は11月8日9時予定。11月1日から続くメンテナンスでゲーセンのゲームに影響",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WNE9oWFpUQjRrSzZpZnVCUVRGd081NjI1a3FJYW0tS3hodk5oN3lVSjZjV2ZXMVByaEVrQWlyVU9IUHVqaGw3NThIMURaQ29TQ1hnZzVwQzRTcUJteTAweXpRUjh4UQ?oc=5",
+   "source": "Game*Spark",
+   "at": "2026-11-06T09:20+09:00"
+  },
+  {
+   "title": "不正アクセス受け 警察庁長官「緊密な連携必要」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tTEJyYU9EUnNtdUYzcXBJT1BLai1Zem1HdzNYOExjSmx5X0lTRFRSdDNXUUwxWnBsc3FNaFFqQVRUdEUwdzNrN3psZVozNWZGSWEwRQ?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-06T09:17+09:00"
+  },
+  {
    "title": "【日本薬剤師会】「サイバー攻撃への備え」サイトで公開",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6X21oZHlSWHpkV0ZGanBJMlVWa29Iem5pLU8zVkZUVWwzdWpxTWExenlOYnBUOFhFUFFGaTBnV21pMTJzSUh0RG5uX1NrLUJXaUUw?oc=5",
    "source": "ドラビズ on-line",
    "at": "2026-11-06T09:14+09:00"
+  },
+  {
+   "title": "不正アクセス被害相次ぐ マイナンバーも漏洩",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96QndiWFJRTG5ObkhOQUNEV29nRkVJbDdFTWNkY3RDaXM5bFd0cTlXQzlLTFl6MXNxR2JZdGZ6czNqWkdOTHV5YnVYMlJTUEduUWgwaw?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-06T09:13+09:00"
   },
   {
    "title": "DigiCert（デジサート）、顧客情報に不正アクセス-パスポート・運転免許証なども対象、社内システムが約17カ月外部から到達可能に|セキュリティニュースのセキュリティ対策Lab",
@@ -398,6 +428,12 @@
    "at": "2026-11-06T09:05+09:00"
   },
   {
+   "title": "【視標】情報漏えい急増 攻撃による流出前提に対策 東京電機大情報セキュリティ研究室教授 寺田真敏氏",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GZ3dCaXkwczZQVlVzNWltckxoVzlmX0NDWFZzLVBudTMyTEhzVWhKVWdQMzF6SXltSWZUazZ0ZW9pSk1yeVRvYVhPVXNTdw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "at": "2026-11-06T09:04+09:00"
+  },
+  {
    "title": "三井住友銀行で顧客メアド22万件超が外部流出 配信委託先「アララ」不正アクセスの波紋広がる",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoRWlIaVluWGRyUzhfcy1TMWd1ZldSMmRQd0owZVpxT0FYRFZyZWRueDlnMWZQQUh3Y29qU2dNLTlEb3d3bGJnX2hyZHBMMnQ1U0JF?oc=5",
    "source": "東京報道新聞",
@@ -405,45 +441,9 @@
   },
   {
    "title": "アイリスオーヤマ、非会員含む約770万人分の情報漏えいか 外部クラウドに不審ファイル発見→不正アクセス発覚",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pbmxwZUYwY3pERXhnc2Z2UnRTQUQxQy1reHVLNnBpUldaZDc3TllOdHhOb3BfazdPNF84QzlnNGVkMWo0d0RTZFc1dFdGdGFfb1EtbE9UVUJxNWhXd2luM1ZLUUl0bkVFREQtTDFzejI5VTZaTW9MeUZnYnowQm8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T08:53+09:00"
-  },
-  {
-   "title": "仏クレディ・ミュチュエル傘下銀行のサイバー攻撃、被害額は1億ユーロ（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RNTNVdEhqUmJSbTFDUlVhbnd4eU52T3ZjSFRjWE5nOFJBckFaODdUZEQ3aGpCNGphQmx3cTFyWW1FWDhkblZzUU9FYXg5cEpfeXk2WE9ndjBrUnZKNHVOVWk3TUdadEZrU0pnQ0VTWDJNdHJDMEZEeHY5b3A4N2s?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T08:47+09:00"
-  },
-  {
-   "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQzRMdkZZeDhZbURxa3dNX2hybml3OVQxWllNNjNlMUZYM0djOXNqbzBQdnRZV2dnU2QyamRFdTd3OEV0dkl6OUtfUG5tRlk3dXfSAVRBVV95cUxOai1TdG1ucFh6SGhWVWQyZHVGQUhfNG5PdmliVGFneENMOGdxTlBDQ3I4U1llOGtXTzJleWhZOWNTZlJYT3lTQlVwVDJfdGkwam4tbTA?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-06T08:44+09:00"
-  },
-  {
-   "title": "ソースネクスト、メールアドレス14万2,669件が流出対象-ユミルリンク 「Cuenote FC」への不正アクセスで注文・返金情報も",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcXpZNXc0VHlaeThQb1l0aEY5WGxzQjVVWXVySnpTbS05bGVkOGE4dHBESWhnMkZ1Wk90RnZRWU0xbXBwc0RRaFZfZUc3SXpwdGRzT2RzX3g5cE51NlczX2N4enMzNzF3Z3hsNlFqVVdLakRxeGVkdjZSVk0yS0VRWTR4VE82OFBzS0NZdFMwejdwVkgwMlctZS1FdXNEdEpvSnVYd0ptWnI?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-06T08:41+09:00"
-  },
-  {
-   "title": "iPhone・Androidにゼロクリック攻撃 修正済みの脆弱性 8件をサイバー攻撃に悪用、APT29関与の疑い",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFBYNHE5aHIzVjNxU2E3QUhfY2FzeW5hcU5tSDFQZldXTi00Wk1RWFRCZmg3NXFQRmJoOFhKQlM4UHBlU1NMT0tKT3ZxRlVLSFdXM0duX3JyQjVpMjhwUUFZMTZBbXJ5bWU4YWc5dmRrU181clZwY1B6TVBBVlZDa0xXanFNS1lFcm92Q0pqcjFETDk2SmxBWVFIOEdLUm4yWi1RZGVSZVVKVUE?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-06T08:30+09:00"
-  },
-  {
-   "title": "不正アクセスによる個人情報流出発生時の対応策（個人向け）",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFBuTWxqTi13cXhOcEFZamlFeHc3QzdaSXpsTTZHeU9Tckt1cHNubnFyQ1J3QWJkcHlqc2FBalg3ZjFaY1dJa0RnYXd5aGlyNnM3R0hqYlMzbmJwajYxaG92dWswLXFvdGNMcU1iUFY1ejlzdGhLOWNYb3J0eFlmMXJYRThnaDJiNldtbzYwQQ?oc=5",
-   "source": "志摩市",
-   "at": "2026-11-06T08:23+09:00"
-  },
-  {
-   "title": "不正アクセス受け警察庁長官「緊密に連携し実態解明を」 全国の警察本部長らに指示",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NZ05OSF9ZcG1YalE4M0FEeGtVcF9lTFlvSWhkX0kwSlk0WWhpUkZTTUVWU25pMFRvOXVLV0FERUIydF80cWxLeEoxYXFMR19KXzllVVhrdENRVFdIMXJIMWpJY1l6dFk4NFluY05pc1Zydw?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-06T08:18+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KQkd0VHI5TExQZHpTLVBON0FFcHkxQW5DMnJDd1h4NnBybDliUWd6RkZRQU5Da2otTzVuU01tX0NuY3NpYWNVeWNRZklpZGp0UFp0cXNhdzZRbGNrUzJlM2VCYXdSRWhzbXc?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-06T08:48+09:00"
   }
  ],
  "osaka": [],
@@ -456,23 +456,30 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "欧州各地で旅客機爆破予告",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XMjI4OS1TWG95YnhkUEw5YTM0cm1yR2M2Sl9EX2VIeHkwVGJ1a0k3ZlN1ZXBCOWJRSmZ3akUyam43Z0QydTNTM2FLRk1id285YTZOLUR0LWRzaWFuS0JadmxLaG9OdW52anUyamFISTNDODJSUjQ5bzdZbHlpU1XSAYQBQVVfeXFMT19WbG1HblU3ZzRvVkNSSWJ6NUFnS3JoTlF0TmlfWE1OSDN4SXEyQUZ5MHplN2RnRHdaQUpGdGZ4Wlk1dFZFcUFMWlNOYUZXMkRLYzJ3dzJ1NmpHMjB6LVRURk03WWpYZmlwVnZGdUNvZko0T3dJRHBkZ2xLdWt5QkdDMl9T?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "◎欧州各地で旅客機爆破予告",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5laWEwQnpEN215RzhaZ0tHNjBtUDBZSjVtcVhSSVp2N3Myd2kzaDJyT2JUME44UTZ1S1ZZSF9Zd0VsZnFBZGFRVnBsYkpUdTZhcTljRg?oc=5",
+   "source": "時事通信ニュース",
    "at": "2026-11-06T09:00+09:00",
    "topic": "欧州・NATO"
   },
   {
    "title": "ロシア、欧州各国のスーパー狙ったサイバー攻撃への関与否定 冷蔵庫の温度急上昇",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRS2JWNk9EZ1JJa2Jkd1Njbm1OTEtNMWEzQ2o2R2pYYUd0OUZWLVBpUEFZX1lPZnpobTVRZzB1MFJSWE1EUXlZYjF0RWlnQ2FuVzNzR3RfdUhaTkt3Y1E00gFkQVVfeXFMTnVfdnFfZjg5M2NjVVluZTBLT0ZQN3Z2RWtEbTlfeGNndEtlU3FQVXM5REJvc0FrblVqWm5BSDFfeVpKRTkxM25LeFhLdlZaTU00SFRibmxoQlh4Sm5rdDFfS3lESQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51X3ZxX2Y4OTNjY1VZbmUwS09GUDd2dkVrRG05X3hjZ3RLZVNxUFVzOURCb3NBa25ValpuQUgxX3laSkU5MTNuS3hYS3ZWWk1NNEhUYm5saEJYeEpua3QxX0t5REnSAWRBVV95cUxOdV92cV9mODkzY2NVWW5lMEtPRlA3dnZFa0RtOV94Y2d0S2VTcVBVczlEQm9zQWtuVWpabkFIMV95WkpFOTEzbkt4WEt2VlpNTTRIVGJubGhCWHhKbmt0MV9LeURJ?oc=5",
    "source": "Infoseek",
    "at": "2026-11-06T08:44+09:00",
    "topic": "欧州・NATO"
   },
   {
-   "title": "鬱陵島北方の公海上で漂流していた北朝鮮漁船1隻を発見…韓国軍合同参謀本部「調査中」",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGlxdVJlb1lmeWgyc2NDWE1MeFJmTWVsUkJ2Y1R6MjIwd0hFd2ppVmx3MEZyWFlTbjhXZ2VMdVIyaVVWRXJzRVViRmw2ZWJLQnRVOFhhV0g4U0pBajVQdkxzWmNTNTladzhEMnNvM1dGcUtPekd2b2VlY3RoVElWZWxMUlNkMW9hM2NHSTltb1R4U1BSSjM3MjJR0gGMAUFVX3lxTE0yNEZ4WVlyQmNJVmc3Uk5hbUhMemY1U0ZBaDZoak45eEctMG96d21FMnJoeGJwSWdhVWg0bmEtc001cElIcjVvazVVVHhDRWx3ZkoyekxyeC1GcHZXTG83Y3JfLVVuVXBQWENqc1lBVW0wWXNETGxSX3Z1N2ZKa2RiUl9pMENXQ25HZlVM?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "イラン、ロシア大統領に書簡 指導者、対米支援要請か（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNXBQQzZtMTlzVUQzUzdtYkc5RmNiWXFsR2FqU0VmWE5QTUJkTzlrZ2s2V3BBb29IekVtREluR29zVDl1WmQxeDNTdkU1amdKUDZKZlcyYXdqaXRvMDZuREUxT1VCWjRDalJTZXEyS3BNWk1oVEotSkZPSHpzcVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T08:43+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "鬱陵島北方の公海上で漂流していた北朝鮮漁船1隻を発見…韓国軍合同参謀本部「調査中」（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lM2dOSGIzSXFMZm1tOW1jYk9vRGZaRERPcXFDR0dVX1o1c3ZTakVXcVRBYW1KNVhDdFFTMWxkN0tsSDl4cnVveEgtRElsek95RzJ5ekR1Z1hpcjdGT3JRSUxfN0JfTW9SUS1tQ2xKNlNaUXM4Q1I3NHlubkFYNjQ?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-06T08:30+09:00",
    "topic": "北朝鮮"
   },
@@ -512,13 +519,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "メラニア大統領夫人がロシア・ウクライナの代表者をホワイトハウスに招待 自身仲介の一時停戦に関連して「より永続的に」期待示す",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQzAwQ2pHQndWYWxRVHAyQmpEWEYzM1hHQllBdWtVWkFVdFFIRV9IVkZlaXRxWXhqa25oUTVIay1NM0F0NDlQcmFSVHRvdTFXaUZObGhVd21BbGk5czh2NzNNYm1TUDYtV0xDMEpVYTU4cUFGeG1QeTBaeWZYMk1zYw?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-06T08:00+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "メラニア米大統領夫人「より長期の停戦実現を」 ロシア、ウクライナ代表招待",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuNjN3TVFvd1V3aWxtN1hDeDVQZ0djMUhhOGRYdllVRjE4MGNwTGRvYllOanRwa0lhcUt5eFNnRjRiSWdrUDZWMks3Y1MwTFJtN011QkNBcV9mMXhxWGotdXlHcw?oc=5",
    "source": "時事ドットコム",
@@ -545,6 +545,13 @@
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-06T07:03+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "メラニア大統領夫人がロシア・ウクライナの代表者をホワイトハウスに招待 自身仲介の一時停戦に関連して「より永続的に」期待示す",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54LWNwUHVCdUQ5aFdnMFRUNDZ5dzV1OWJoaWlzTFJuaUs1TkFrcWVRRXJNUTBZRWdPMS1XcjNFaHlaVEpaQUs5dGFCOGx6Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-06T06:58+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "７条件受け入れ後に核議論 イラン高官、米に新提案も",
@@ -580,20 +587,13 @@
    "source": "INPS Japan",
    "at": "2026-11-06T06:00+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "中間選挙で大敗したトランプは米朝首脳会談で金正恩に接近するのか？北朝鮮｢対話拒否｣談話の裏側､蚊帳の外の日本",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdEdvUkZzcjVKUzRFV0p3YzRZMk42a2toV0VGWUU0WkRSSlBObVl2dXVuVThuWXhZekdCNWtsMGhvcG4wTTZnVUJ2UklOME5zUFA4Ml9YNTdSUUltLUhJ?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-06T06:00+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ「14時間全国通信障害」と「30万件顧客情報漏洩」の重大インシデントが重な」"
+    "「NTTドコモ　青森県を含む全国的な通信障害　6日未明に復旧　」"
    ]
   },
   "japan": {
