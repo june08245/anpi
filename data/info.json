@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:30+09:00",
+ "updated": "2026-11-07T00:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "日本の防衛産業振興は「再軍事化」の口実　中国国防部",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0w2TXhNWURfR2FFM0l2Y0Y1MVJiYlc4UlJvc1NTcy1zYWhNeXdMTHRRWndyVWZ4djZPV0dhb1JMYzFTMXNnZHZ5aS1aQUlSVmNNX2YxdDVQeVR3UksxSzRBSVFTN3ZrSXlJSEN3ZjE3ZTdBUVNuWlp0YUZSRTZsXzVqbElSZ1ZFZU9qOTNhN3daNTN5S3c5empsQUkzd9IBkAFBVV95cUxNRXBoSmZXZkRjZ3pYVE5hdlhkU1VfeUdNSHhDRnkxXy13SHI3R2NQTWVkTkE3V3RUUnVRMzhhN3p3VHZBYzZYLXVWYjlCVm8yOWl3aG52Um1TdWdsOUhDaFdwbU4zVk1MNFNDTWpVNVVpeE0tUkx4UmlBeWhKYWhVZUp4VnVES2VtaVlNbWJ2V1g?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-07T00:33+09:00"
+    },
+    {
      "title": "台湾侵攻能力さえ疑わしくなる中国「軍人不信」の徹底的粛清",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aa0dhNzloU1VQTTFZYnVmajJMcW5Md1daVUZKLUlLRHAxMUplWUgyTHhZRXVEZDZoUTJiVGdkR0pEWmF3SFJsbGlYV01DTmhzUGdLREFrZk0?oc=5",
      "source": "現代ビジネス",
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKenhlZS1BWkJvcE9yMTZHRnNDRFFuV1BmektocWpzQVROc2xoZkZTM0pVdTZtMTBUYUZRRGJTeW5tQ21uMUxMUXBZNF9zYm9kTDM0NTVrSzhhWlNDcVlYVnJNb0NZUWtqMHFTZzdn?oc=5",
      "source": "au Webポータル",
      "at": "2026-11-05T23:42+09:00"
-    },
-    {
-     "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52SERPanZGUFozdUw2dk9sUU1YR0hCQjRCNHVDYW1CbGVHLWo1X3E3N3VnNG1DaFZqMTlPVXFqakVZX3hIMThtbHdGYjFTdHphNURRcWQxQXlXbjlTNUR3SDJad29wTE1adm5kVWtFWQ?oc=5",
-     "source": "TradingView",
-     "at": "2026-11-05T19:39+09:00"
     }
    ]
   },
@@ -263,16 +263,22 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "「組織的な妨害工作の可能性」 今度は放送局に爆破予告相次ぐ 欧州で旅客機に加え",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTWRMd0VwNF9pVlpiRHd0Q2I0YUZ0Q29pc2xhN3JuLWp3b0xEY3Nfak5vQmxhd2JFald2dllhMDNBTjVFclVnQjVKc0QteUdiUldYN0ZB?oc=5",
-     "source": "KSBニュース",
-     "at": "2026-11-06T23:58+09:00"
-    },
-    {
      "title": "欧州の報道機関にも爆破予告、相次ぐ航空会社への偽予告の犯行主張",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0tlbUVBRFk3dlNDaklLZkRDQWk2Y1N1SVAyVFRCNVhmaDliRS1xZ3JPbS1hYVZwZEZGdjkyR1VGdEtsU2N4MWZMZ3VRdkxETy1ISzRZQWxDQ29LYjdMa05SRXFMZXctaFo4Q0Z6aC1xMU5nNXFBcTlxaHR4M3Z3WUtVTGUwbmRtX3BhbXQ2RQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-06T23:48+09:00"
+    },
+    {
+     "title": "「組織的な妨害工作の可能性」 今度は放送局に爆破予告相次ぐ 欧州で旅客機に加え",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpUTBqWUpGQTladk5IQW1QOXZScHNMRE0tSGpVMVI1b0NzRGtLMnRxeFcyQU9ObjNmZG5ORURScnE5RXVYV2JXMVp6WURoUmhQMmpHY295WVE?oc=5",
+     "source": "NCC長崎文化放送",
+     "at": "2026-11-06T23:43+09:00"
+    },
+    {
+     "title": "アイルランド公共放送に爆破予告、英テレビも 欧州各地で相次ぐ脅迫",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GQXUzLXpRWkI3X2llRTE1UjhWLV9YajhhQkpNLUlpZkdzb1hiNDBEb2N6elhSVWZFbEk1WVN5NWtwUjUxeGVxVl9QbEdGX0oxWkRkR2VacXR6VEp5Yk1XY2FaeC1tS2xabnIyRktiYV9LSVhDUVE?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-06T23:07+09:00"
     },
     {
      "title": "欧州各地で爆破予告、ロシアが関与か？",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NU9uUW8taE9nUHZJM1J3OTJFWmZwalJNUXFtNW1wa2txd0x4LU9hT3VZTkhRcUFWZzZ0bHBrQ2JpY2dwQnc0dkx2VzJaUkNK?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-06T19:11+09:00"
-    },
-    {
-     "title": "ヨーロッパで旅客機への「爆破予告」相次ぐ 緊急着陸や欠航する事態に",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWjhxcGtMNkdtUmxXa2lmUjNBWVRDMi1FenhyYTVadUp4VWV4cWM1N0VrVGh3NkVXM1JaX0J4VlFlY25TSEZKMGtSMWYzZXJ2bmlwSEVn?oc=5",
-     "source": "KFB福島放送",
-     "at": "2026-11-06T19:04+09:00"
     }
    ]
   }
@@ -352,6 +352,12 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pc0RnY2FwNVozMjJnS0lsdm1PMmhhNEkyYkpqV3ZQWGg0QmdVWGJrRHg3OGNtWHBBVExIV3RJVVJreGx6S1pocUt5SEROdldua0hRN0ExWXNybFVvTWUzNWQ0VnhrZmU1UnI0QXZQcXY?oc=5",
    "source": "千葉県公式ホームページ",
    "at": "2026-11-06T14:10+09:00"
+  },
+  {
+   "title": "北朝鮮、短距離弾道ミサイルを約12発発射",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1lRXBQeTNwRzdjLXF2NjJDVE5GZUtaM2lQSTUwOUhKZ3dvSHpCV1dldHpzMmg0N0Nua2xlMFZQT2dZb1XSAUJBVV95cUxPeXNCY1lxa2xyT19IcmJZOThQSXluMzBoOTJaUFpsSUxCZ3d0R0M5My0yWHhQclgtTDhSTGhjc0NROHc?oc=5",
+   "source": "VOI.ID",
+   "at": "2026-11-06T06:15+09:00"
   }
  ],
  "cyber": [
@@ -416,6 +422,12 @@
    "at": "2026-11-06T20:52+09:00"
   },
   {
+   "title": "政府、AI活用でサイバー対策を徹底－不安払拭へ緊急パッケージ策定",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qaFp3MllYdDhjY3E5aG1tUk9vdVZ4UUJCQlJ0NUpXNk9EU1JWeDd1SmRaQXpXN0ZERDJxd0dKWGNpaEdMU241ekNuNHpLUW5xNmppRGE1b3dpUXRKLUpWNUxROC1PZVNhWVNnblJmSGRxbXpm?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-07T00:30+09:00"
+  },
+  {
    "title": "いわき市のマイナ窓口予約 不正アクセスで１２０件のアドレス漏えい",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qbFdPbzVHSkFVLU15UVVSSkdUNmdGTVk3R283VENOZ25scDJBcUxKd1pOMVhfYkpwN1lVQkRmUGtGZXJhLUlLZnFOTGhXZU01ZUMwajk3aXBVdw?oc=5",
    "source": "いわき民報社",
@@ -438,22 +450,16 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uTVZjWC05UDFhR2JaWVpRUVZJaGp1NmpxcTNBcVMyZFBXd19HU2J2VDA0MUlsTUlUWV9YbnVPT24zZGtrQjFfOGI0eW50bElsTDNGdUx6STRtZTlFZ2dUM3JVcmJEZG45MlpTdVhSLWE?oc=5",
    "source": "信濃毎日新聞デジタル",
    "at": "2026-11-06T22:42+09:00"
-  },
-  {
-   "title": "駒ヶ根市のホテル千畳敷の予約サイトに不正アクセス 最大1万5000件の個人情報漏えい",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwcUdKcFF5emF2ZjgzQXgtcjhGbXBZelhKMEVXMnlMRzVOdEhqRVdnOUVXNEp0QnhtY004Z3lMVUJ6aWJyR0hISlhUZVFLX0NBN1FXbVJ6S21zbWl6N2VoWlVmNlhIWHhseVFHVThBU0Q?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "at": "2026-11-06T22:39+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "「組織的な妨害工作の可能性」 今度は放送局に爆破予告相次ぐ 欧州で旅客機に加え",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTWRMd0VwNF9pVlpiRHd0Q2I0YUZ0Q29pc2xhN3JuLWp3b0xEY3Nfak5vQmxhd2JFald2dllhMDNBTjVFclVnQjVKc0QteUdiUldYN0ZB?oc=5",
-   "source": "KSBニュース",
-   "at": "2026-11-06T23:58+09:00",
-   "topic": "欧州・NATO"
+   "title": "日本の防衛産業振興は「再軍事化」の口実　中国国防部",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV0w2TXhNWURfR2FFM0l2Y0Y1MVJiYlc4UlJvc1NTcy1zYWhNeXdMTHRRWndyVWZ4djZPV0dhb1JMYzFTMXNnZHZ5aS1aQUlSVmNNX2YxdDVQeVR3UksxSzRBSVFTN3ZrSXlJSEN3ZjE3ZTdBUVNuWlp0YUZSRTZsXzVqbElSZ1ZFZU9qOTNhN3daNTN5S3c5empsQUkzd9IBkAFBVV95cUxNRXBoSmZXZkRjZ3pYVE5hdlhkU1VfeUdNSHhDRnkxXy13SHI3R2NQTWVkTkE3V3RUUnVRMzhhN3p3VHZBYzZYLXVWYjlCVm8yOWl3aG52Um1TdWdsOUhDaFdwbU4zVk1MNFNDTWpVNVVpeE0tUkx4UmlBeWhKYWhVZUp4VnVES2VtaVlNbWJ2V1g?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-07T00:33+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
@@ -467,6 +473,20 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0tlbUVBRFk3dlNDaklLZkRDQWk2Y1N1SVAyVFRCNVhmaDliRS1xZ3JPbS1hYVZwZEZGdjkyR1VGdEtsU2N4MWZMZ3VRdkxETy1ISzRZQWxDQ29LYjdMa05SRXFMZXctaFo4Q0Z6aC1xMU5nNXFBcTlxaHR4M3Z3WUtVTGUwbmRtX3BhbXQ2RQ?oc=5",
    "source": "Reuters",
    "at": "2026-11-06T23:48+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "「組織的な妨害工作の可能性」 今度は放送局に爆破予告相次ぐ 欧州で旅客機に加え",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpUTBqWUpGQTladk5IQW1QOXZScHNMRE0tSGpVMVI1b0NzRGtLMnRxeFcyQU9ObjNmZG5ORURScnE5RXVYV2JXMVp6WURoUmhQMmpHY295WVE?oc=5",
+   "source": "NCC長崎文化放送",
+   "at": "2026-11-06T23:43+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "アイルランド公共放送に爆破予告、英テレビも 欧州各地で相次ぐ脅迫",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GQXUzLXpRWkI3X2llRTE1UjhWLV9YajhhQkpNLUlpZkdzb1hiNDBEb2N6elhSVWZFbEk1WVN5NWtwUjUxeGVxVl9QbEdGX0oxWkRkR2VacXR6VEp5Yk1XY2FaeC1tS2xabnIyRktiYV9LSVhDUVE?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-06T23:07+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -526,13 +546,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "ヨーロッパで旅客機への「爆破予告」相次ぐ 緊急着陸や欠航する事態に",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWjhxcGtMNkdtUmxXa2lmUjNBWVRDMi1FenhyYTVadUp4VWV4cWM1N0VrVGh3NkVXM1JaX0J4VlFlY25TSEZKMGtSMWYzZXJ2bmlwSEVn?oc=5",
-   "source": "KFB福島放送",
-   "at": "2026-11-06T19:04+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "中国・王毅氏、北朝鮮の金成男氏と会談…5中全会の結果説明、党運営の経験交流へ",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0M0lobzdjeG8tcFM1WEFub3k4S3pqZlV5c1J0bFlIUzRReVJadVIyMEtPcWRMSVFvQi1rSnNubmQxTzVwQ3BWczNTSlphTEVFSXk4VkF5X200VFU4cUhDbDFIREE3YVdjNkpRRVliTmJtUdIBVEFVX3lxTE5hMUk4UF9HdmNERWNFWjQxLU5lRjlpdXp4eTBuc2luRHZKcGtndWZGcU9iOTFBNEtCWnIzOFEta0JMYU5MeXBGV2w1VVVlN2xEMUZMeg?oc=5",
    "source": "AFPBB News",
@@ -580,13 +593,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-06T14:38+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮の自走砲3両が姿消す 軍事境界線付近で10月末に確認も…落ち葉かぶせたか",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBZGRJdGZ2YnNRU0NjazdJMVQ2RnlmSG5Ja2duaU5LRnJoNnN6LUR6RGpwc2d2TTBTbjNKQm1EYlI4eVNLOV9CdjR4eHN6ZlQ5Z3Zza1NwbkdNNkVyQ21ObGMtdlBLR3AwQXRJU0N4YnR5cVFLeTBLNzln?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-06T14:29+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -597,9 +603,9 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（北朝鮮、短距離弾道ミサイルを約12発発射）"
    ]
   },
   "world": {
@@ -623,10 +629,10 @@
      "at": "2026-11-06T20:27+09:00"
     },
     {
-     "title": "「組織的な妨害工作の可能性」 今度は放送局に爆破予告相次ぐ 欧州で旅客機に加え",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTWRMd0VwNF9pVlpiRHd0Q2I0YUZ0Q29pc2xhN3JuLWp3b0xEY3Nfak5vQmxhd2JFald2dllhMDNBTjVFclVnQjVKc0QteUdiUldYN0ZB?oc=5",
-     "source": "KSBニュース",
-     "at": "2026-11-06T23:58+09:00"
+     "title": "欧州の報道機関にも爆破予告、相次ぐ航空会社への偽予告の犯行主張",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0tlbUVBRFk3dlNDaklLZkRDQWk2Y1N1SVAyVFRCNVhmaDliRS1xZ3JPbS1hYVZwZEZGdjkyR1VGdEtsU2N4MWZMZ3VRdkxETy1ISzRZQWxDQ29LYjdMa05SRXFMZXctaFo4Q0Z6aC1xMU5nNXFBcTlxaHR4M3Z3WUtVTGUwbmRtX3BhbXQ2RQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-06T23:48+09:00"
     }
    ]
   }
