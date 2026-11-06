@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:45+09:00",
+ "updated": "2026-11-06T22:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -269,12 +269,6 @@
      "at": "2026-11-06T20:46+09:00"
     },
     {
-     "title": "欧州で爆破予告 20便以上に影響",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NU9uUW8taE9nUHZJM1J3OTJFWmZwalJNUXFtNW1wa2txd0x4LU9hT3VZTkhRcUFWZzZ0bHBrQ2JpY2dwQnc0dkx2VzJaUkNK?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T19:11+09:00"
-    },
-    {
      "title": "ヨーロッパで旅客機への「爆破予告」相次ぐ 緊急着陸や欠航する事態に",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QQjg5My1JLVVGMGI3TUh0bUxFZnBtV3UzMnFuaWxpUXlnOEg2TDg5N2QwQlB2RE4tTGhuVlY4eExKcTlacnpFZ3h5QTdYM3JWbDIwY3NMNGNtQlVhUk0xbVBVdFZyWjFZOWxTX2Z1Mkdob1h3Y0h1MUp3?oc=5",
      "source": "テレ朝NEWS",
@@ -297,16 +291,22 @@
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNjRRSE51VXZhb1EtWFVoVzZFbTBOYVFQV2JlUWtDa2JGMGdiLWpLYnRMXzVWYmZZeTlzUE1RbE1lcDNLTjlCRU5EZVFOY1JaV2Y4X0RtMnVTZWc?oc=5",
      "source": "ABEMA",
      "at": "2026-11-06T17:17+09:00"
+    },
+    {
+     "title": "欧州の航空会社に爆破予告相次ぐ、今週2度目 27便以上に影響",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvZGZBaXFoQUZISGU3RmZWWE01cUEwbDBnYkg5STFqS1QxWDNXMDRYT2RpZ085UFdvSm9Ic1VuWG55dnhmOWpRNFFWdTZ2UzlfVkVETlZ3OGpudVhFTHVURy1qdDNIVkh3TGlYU1Z1SXctU0gzZl9CX3pn?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-06T15:05+09:00"
     }
    ]
   }
  ],
  "nankai": [
   {
-   "title": "松山・道後を滞在中に「南海トラフ地震」発生したら 温泉街で避難訓練 増加する外国人にも対応【愛媛】（テレビ愛媛）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuaFMySzR1ZjlET0lUNk9PdzR5b0RUQUxYeG1ZcVp6bmRFMDJXbWFxX3FKclgydXg3SmVhaXJ0SnJnaElVamdDX3NMX2Z5dW9veDBwejZUVzNkRHVfT2V6TnRTUmRPeGJhYWVMdFBCUFlMdDF0Y1c5ZnlBemUzZmc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T18:45+09:00"
+   "title": "松山・道後を滞在中に「南海トラフ地震」発生したら 温泉街で避難訓練 増加する外国人にも対応【愛媛】(放送局のニュース )",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FVXRrcHRqb2NyUTM5aGdPbTlfOUdCWWJqX1pNQXpVQUtRS1hpdkZYZ1VIWm5VdGFPdHBkaDNKdWFCdjlWSGFDSm94dDVEVEVsZ0xDcm1xdm9BMF9aYk1yQVVtNnNLQmJ4THNERG5LWGd0SmZrTWc?oc=5",
+   "source": "tenki.jp",
+   "at": "2026-11-06T18:50+09:00"
   },
   {
    "title": "迫る《南海トラフ地震》建物全壊想定は最大13万棟へ大幅増加 住宅耐震化を今こそチェック【高知】",
@@ -363,16 +363,10 @@
  ],
  "cyber": [
   {
-   "title": "信金のシステム障害 すべて復旧",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HNnE2SmJoYUlhTEdrdDd4ajh6aVNRU0FXc3ZXS3pWdDJmblpjQVN1cnJ3M2hQN3drZkNDMkFTNHVOTUM2NjJCd2lCVXFuNFoz?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T21:19+09:00"
-  },
-  {
-   "title": "128の信用金庫で発生したシステム障害 午後7時ごろに全面復旧 原因については通信機器の故障とみられる",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoSXA5RVhUdDdxbTQ2SWR6cUh6T2RJMlZVQ3BKTllSNFJQYXhrNFliTlkxZDgwSndTbC1lc205QkNLeThMdGJKbzVMOUhBLUdDdFJTNXZ2SQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-06T21:11+09:00"
+   "title": "信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenBxdHViaFl4T1FBOENHLWxjT3Q3QmhPTDAyUk5xbWNoQVgtXzFJeGhPczJtWVpjQk9BOHVUalEwTGt6MEtiSGd3TTZNVGJ1eS1CdUJUTmY0ZlE1QWdEcEIzMFVmTE9BdGlLLXV4Y2J1LTRLWDMzMFk4bXBYNmNzVWdhdUFWU1E?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-06T21:34+09:00"
   },
   {
    "title": "信用金庫のシステム障害「完全復旧」約半数で一時ATMなど利用できず サイバー攻撃でなく装置故障が原因",
@@ -385,12 +379,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2J5akVVbXVMUG8xUW96ZmhaTDItdlJoVDZhZXE2a0tUWGlaVXdEMHJ0UWFnd3ZPSllRZlh1cjlpMmxMZG5VMEFIbm9PR3haOHR2UHRNSEdVRndZWEFLTTRPRE1ZbWZ2VkE1X21RNXJRckdwZXRnR1FBYlF2Nlc0anAwVkMzNms?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-06T21:05+09:00"
-  },
-  {
-   "title": "信用金庫のシステム障害 県内７つの信金は順次復旧 富山県（2026年11月6日掲載）｜KNB NEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWdINGtwZDJyTTZ1enpXRnhpNjZueERtUWgzRVlmMDA4UDVxZFkwbVZUQVJQR2JBZ1UzMFh1MUpINTRSbkhMZ2d1ZGdyOU5pck9WNTJXdGFkeTRQUzByT2NESzVnaHBCRDNTTW5Cb1JqTy1jbHRzbDZxMTVJakI0ek5UQ1c2ajQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-06T20:57+09:00"
   },
   {
    "title": "西日本128信金のシステム障害が完全復旧 ATMやネット取引が約5時間半利用不能に 機器の故障が原因か",
@@ -417,28 +405,34 @@
    "at": "2026-11-06T20:20+09:00"
   },
   {
-   "title": "西日本１２８信金でシステム障害 決済、ＡＴＭ利用できず",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZQWNWNW9ONV9ONzBrQnd5SzhfNWlFVnByRk1pQkFYUXJhdzY0ZUpIYzZwN0d6OF8xTjRmd0Qzd3RmUDA1T0llLUlRZHUyR1dfZDZjZkhhc3lIRTB4VERWVTQxSTFvQnNmT1RQS0lzVUJXdHhKbkJ4enVB?oc=5",
-   "source": "神戸新聞",
-   "at": "2026-11-06T20:14+09:00"
+   "title": "警察庁「サイバー特別捜査部」に都道府県警との合同捜査本部を設置、攻撃元の特定急ぐ…法人専用の相談電話窓口も",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMTBRczVvekcwMkZWdTI2anluN0dpWGM2SjFDVV9fOWtDMEdQaHJJSmw4TkNtRVZBZ2lIenV1ZU1paFowWG0wWTZ4ZklfSzYzdkxOcXAyalFITFY3d2k3d3hXN2hHeEVDVHp1NFNIVU9HaVA1bS1OVHVNUVFvNDA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T21:56+09:00"
   },
   {
-   "title": "不正アクセス被害相次ぐ中、富山の金融機関が研修会 「会社の信用も失墜し、影響は甚大」（富山テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9veEt4aVNtbW5sM3RudnBTQzlwZ2FJQWVjNHZnRlNCWlNacXEzc1lBNWt3SDhBNGllckdZNGNxeFRZMW1HYUVIUjhhcEc3TmtLMmdtVjJJczZRVWFLTWZObDdCRjZDM0x0aWtOSV9HY3JjZ2NiV0hlZk95TEJPOTQ?oc=5",
+   "title": "NTTドコモ、情報流出30万件＝不正アクセスで口座番号も(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVBMFdsRl80ZnoxTVFxUmpkTF83V1phX3hDMTVSUzhYYzhtMWFpLVVuQ0RYMldwVEdzVEVadFNQbFg0dy1yeFVhMS1CZkZQVFQ1bzBzN0FsM1hxdk02VVZodGNWZ1NrNWF5OEh5VEFfTkU2VUhtdElVbFBtRTQtR1V1OE8zNmc?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-06T21:47+09:00"
+  },
+  {
+   "title": "不正アクセスで800万ポイントが不正交換 NTTスマイルエナジー「全ポイント補償へ」（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GeFhfYnY2ODhoeWt3YzBNUHFLbXI2QVBGbXNYU195R0JkeDllRmxrS2xhdjkwSXdjM0JfSkVZaE1QaDU0UU0wYXNLZk5jZy1uRHhFaHBZOERUTUN2YXFPLXoyd0RaN3I3SnpPY2JQaC1lUVNtdXNIeUJob3UtVms?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-06T21:34+09:00"
+   "at": "2026-11-06T21:46+09:00"
+  },
+  {
+   "title": "パ５球団のメール配信サービスに不正アクセス、アドレス約１万3000流出 パ６球団サイト停止（日刊スポーツ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGN1ZKV1RnZDlYRlR2STBMeF9BVmx3LVRvUnhjdTU5T3lJMEhDU1NTM0JWUTlCeVVMYzVxa0VENTBsWk5BUE1lTGVmMnJfbFZzd2ExR1V0LV9Nb2wtdXptQjgwalJMRzNFaG1IX3lvQjY1ZkMxZ3c5OHJ2MG9tYm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T21:43+09:00"
   },
   {
    "title": "政府、サイバー攻撃の緊急対策策定 情報収集強化へ「対処法改正検討」も",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Qm9fYXZYSl9kZzZlbDZYX3hURXFaSzcwRW00aGNlLV9hMjZMRVFqTEtvUWdOVXNzMEFJUTBwVVdEZ2t1M0Y0bzJkNzlhcVBncWgySC1B?oc=5",
    "source": "ニッキンONLINE",
    "at": "2026-11-06T21:20+09:00"
-  },
-  {
-   "title": "相次ぐ不正アクセス事件 警察庁と都道府県警察が合同捜査本部設置 実態解明進める（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2S05qMFdpWmZCTGkwaUtfMTZUY0RiT29wbzNMY3VuZ05aNVg0ZFVSdlFWYTh3M1ZDLUpEczA1MEIxT3ZuanEtZzRBSm5tQWJPRFBERjF0bmROc2l0MU1Wd09BSTNjY3JjRmVkNkk2cWxNWmlIMVpRSXd4VEFHQTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T21:12+09:00"
   },
   {
    "title": "不正アクセスで松江市公式LINE登録者の情報が閲覧可能に",
@@ -451,6 +445,12 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQWNvVDNQLVByM1JBVUFWRHBoQ1NKU0w1bVZPenJqRXc3R0NaOFk4VlJFb0diSFZ6MXlEQW1oaF9nQTRnQlpkRGxnaEgydV9CTzVycjBpNXNKekhHTGFPRnJOVzM3cEZpS0dnOXNFanVPdmlxaFRORkNGSzl3enhOVEwxS2NZVjQ?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-06T20:58+09:00"
+  },
+  {
+   "title": "警察庁と全国警察“サイバー攻撃”で合同捜査本部を設置 警察庁長官が指示",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xR1lEcXJZTnFCSUhxTWdtMjdQazdudnRZV3NDWXJEZFdMQTNRcWswMGoya0VFa1JHQW5sWU1jUkJvR1dHaTFaU255ZlpjLWtvUFpHcFZhb281Qm05Z3UyRlQ3N3hVV0tqclVRbVlFQmhKZw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-06T20:56+09:00"
   }
  ],
  "osaka": [],
@@ -503,13 +503,6 @@
    "source": "47NEWS",
    "at": "2026-11-06T19:49+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "欧州で爆破予告 20便以上に影響",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NU9uUW8taE9nUHZJM1J3OTJFWmZwalJNUXFtNW1wa2txd0x4LU9hT3VZTkhRcUFWZzZ0bHBrQ2JpY2dwQnc0dkx2VzJaUkNK?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T19:11+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "ヨーロッパで旅客機への「爆破予告」相次ぐ 緊急着陸や欠航する事態に",
@@ -582,6 +575,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "欧州の航空会社に爆破予告相次ぐ、今週2度目 27便以上に影響",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvZGZBaXFoQUZISGU3RmZWWE01cUEwbDBnYkg5STFqS1QxWDNXMDRYT2RpZ085UFdvSm9Ic1VuWG55dnhmOWpRNFFWdTZ2UzlfVkVETlZ3OGpudVhFTHVURy1qdDNIVkh3TGlYU1Z1SXctU0gzZl9CX3pn?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-06T15:05+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "「日本国民に過重な生活苦」北朝鮮が異例の心配…防衛費増額を非難（金賢） - エキスパート",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVRnYm9tYVI3dVNweGdkSHhUSG1WWW1URjZ3ZzQzRnJZbmgxbjlMWVh6d0Z2QkpiVlkwRHZtV002RUcyRnJDa25VcElXV3Mway1YbFZfRkxTV3VKNzhVZzREbjJFVlRnVTFROEhoQ1BXLXoweHdaWnVwc001bFc1cVplWlh5ZUFV?oc=5",
    "source": "Yahoo!ニュース",
@@ -601,7 +601,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（【速報】山陽新幹線の一部列車に遅れ 停電の影響で 今後上り方）",
-    "「信金のシステム障害 すべて復旧」"
+    "「信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金」"
    ]
   },
   "japan": {
