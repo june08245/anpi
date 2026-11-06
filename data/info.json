@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:15+09:00",
+ "updated": "2026-11-07T00:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "「組織的な妨害工作の可能性」 今度は放送局に爆破予告相次ぐ 欧州で旅客機に加え",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTWRMd0VwNF9pVlpiRHd0Q2I0YUZ0Q29pc2xhN3JuLWp3b0xEY3Nfak5vQmxhd2JFald2dllhMDNBTjVFclVnQjVKc0QteUdiUldYN0ZB?oc=5",
+     "source": "KSBニュース",
+     "at": "2026-11-06T23:58+09:00"
+    },
+    {
      "title": "欧州の報道機関にも爆破予告、相次ぐ航空会社への偽予告の犯行主張",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0tlbUVBRFk3dlNDaklLZkRDQWk2Y1N1SVAyVFRCNVhmaDliRS1xZ3JPbS1hYVZwZEZGdjkyR1VGdEtsU2N4MWZMZ3VRdkxETy1ISzRZQWxDQ29LYjdMa05SRXFMZXctaFo4Q0Z6aC1xMU5nNXFBcTlxaHR4M3Z3WUtVTGUwbmRtX3BhbXQ2RQ?oc=5",
      "source": "Reuters",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GWjhxcGtMNkdtUmxXa2lmUjNBWVRDMi1FenhyYTVadUp4VWV4cWM1N0VrVGh3NkVXM1JaX0J4VlFlY25TSEZKMGtSMWYzZXJ2bmlwSEVn?oc=5",
      "source": "KFB福島放送",
      "at": "2026-11-06T19:04+09:00"
-    },
-    {
-     "title": "訂正（5日付配信記事）-欧州の航空会社に爆破予告相次ぐ、今週2度目 20便以上に影響（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44WlF6WmJaRGk5Y0p0d3JtNTR5UFVSMGpoV2k4TXpqU2xsTU5XdGhLbmZreDI2YUJmQjVCMjB2NThtSS05UUZ6WlhfQ2NrdHF3U0FWcWdZNHpqZFU0dHpyRUNsOXhhTzUwb21yV0NUaVE1cFdRMlBIc3JfQjdUSnM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T18:48+09:00"
     }
    ]
   }
@@ -362,6 +362,12 @@
    "at": "2026-11-06T23:47+09:00"
   },
   {
+   "title": "ドコモ社長、情報漏洩を謝罪 見舞金の支払い検討 通信障害は復旧に14時間",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WUTV1N3IxUWgxRk9GVjlRWGluaUZMSEdHeHVfOV9XclFkZHZDUFF2ZjRhVktMVkdtQXQxMkpQRjdJUjUxbFpINXlZTURuZTJSV2FCM1A0cVNoOEYtUFFTdEpXVmRNcUp6QmFxOGlzM2lDRW45ekE?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-06T22:45+09:00"
+  },
+  {
    "title": "東海地方以西の信金のシステム障害が復旧 ストレージの故障が原因か 5時間半にわたってATMなど利用できず",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5USjFTaTdDSUh4bmwxOGpTVDVIUkRtVHNxY3J0QUZIT3lOZmZoY3luN2NYZVY5SmM0N0pGb2t3ck5SYVNKb0lvTkRZc0tiTFZPQjNFNWhlNUJteVYxc1FZak1oU05zMnFwa3FLejZEejZPemJ2S0Jobm5NUXZRZFE?oc=5",
    "source": "Yahoo!ニュース",
@@ -372,12 +378,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZSGdaU2JGWVBfeDRIVW5xRmQzMDR5WHBFM2tLS1p2SGdXbXNFUjV2N1dJenVzRWZUNlg3dG84eEdNTDR3SG9acmVDanhPeldtRU1BQ09Tb0U?oc=5",
    "source": "南日本新聞",
    "at": "2026-11-06T22:31+09:00"
-  },
-  {
-   "title": "山陰両県６信金含む西日本１２８信金でシステム障害 約６時間後に復旧",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqMkR6MnJ4ekRlT3czTDU4TU1xajBldDQza0lMZy00TFBkQ3JxNnNIci1jOEp0cTZSSW5OREJaQzNPMGoxSEFEVXZzZFUwUGdzQ0R5ZEJKYzVOeDg?oc=5",
-   "source": "山陰中央新報デジタル",
-   "at": "2026-11-06T21:58+09:00"
   },
   {
    "title": "○１２８信金のシステム障害、完全復旧",
@@ -448,6 +448,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "「組織的な妨害工作の可能性」 今度は放送局に爆破予告相次ぐ 欧州で旅客機に加え",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTWRMd0VwNF9pVlpiRHd0Q2I0YUZ0Q29pc2xhN3JuLWp3b0xEY3Nfak5vQmxhd2JFald2dllhMDNBTjVFclVnQjVKc0QteUdiUldYN0ZB?oc=5",
+   "source": "KSBニュース",
+   "at": "2026-11-06T23:58+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "ロシア海軍“戦後の戦艦”ともいえる巨艦の改修を断念へ!? 大幅遅延していた姉妹艦も影響か（1/2 ページ）",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVTNYUHN0RVBvZUU5a3FDeEZIY25UU0NKamFkYTEyYWZtc3haWXo3RDYwNTI0R2g5ZmRwNzFtak1jd1dLMllzNDZR?oc=5",
@@ -526,13 +533,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "訂正（5日付配信記事）-欧州の航空会社に爆破予告相次ぐ、今週2度目 20便以上に影響（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44WlF6WmJaRGk5Y0p0d3JtNTR5UFVSMGpoV2k4TXpqU2xsTU5XdGhLbmZreDI2YUJmQjVCMjB2NThtSS05UUZ6WlhfQ2NrdHF3U0FWcWdZNHpqZFU0dHpyRUNsOXhhTzUwb21yV0NUaVE1cFdRMlBIc3JfQjdUSnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T18:48+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "中国・王毅氏、北朝鮮の金成男氏と会談…5中全会の結果説明、党運営の経験交流へ",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0M0lobzdjeG8tcFM1WEFub3k4S3pqZlV5c1J0bFlIUzRReVJadVIyMEtPcWRMSVFvQi1rSnNubmQxTzVwQ3BWczNTSlphTEVFSXk4VkF5X200VFU4cUhDbDFIREE3YVdjNkpRRVliTmJtUdIBVEFVX3lxTE5hMUk4UF9HdmNERWNFWjQxLU5lRjlpdXp4eTBuc2luRHZKcGtndWZGcU9iOTFBNEtCWnIzOFEta0JMYU5MeXBGV2w1VVVlN2xEMUZMeg?oc=5",
    "source": "AFPBB News",
@@ -607,7 +607,7 @@
    "reasons": [
     "中国・台湾：「侵攻」2件",
     "ロシア：「攻撃」1件",
-    "欧州・NATO：「爆破予告」「緊急着陸」6件"
+    "欧州・NATO：「爆破予告」「妨害工作」6件"
    ],
    "items": [
     {
@@ -623,10 +623,10 @@
      "at": "2026-11-06T20:27+09:00"
     },
     {
-     "title": "欧州の報道機関にも爆破予告、相次ぐ航空会社への偽予告の犯行主張",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0tlbUVBRFk3dlNDaklLZkRDQWk2Y1N1SVAyVFRCNVhmaDliRS1xZ3JPbS1hYVZwZEZGdjkyR1VGdEtsU2N4MWZMZ3VRdkxETy1ISzRZQWxDQ29LYjdMa05SRXFMZXctaFo4Q0Z6aC1xMU5nNXFBcTlxaHR4M3Z3WUtVTGUwbmRtX3BhbXQ2RQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-06T23:48+09:00"
+     "title": "「組織的な妨害工作の可能性」 今度は放送局に爆破予告相次ぐ 欧州で旅客機に加え",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTWRMd0VwNF9pVlpiRHd0Q2I0YUZ0Q29pc2xhN3JuLWp3b0xEY3Nfak5vQmxhd2JFald2dllhMDNBTjVFclVnQjVKc0QteUdiUldYN0ZB?oc=5",
+     "source": "KSBニュース",
+     "at": "2026-11-06T23:58+09:00"
     }
    ]
   }
