@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:30+09:00",
+ "updated": "2026-11-07T18:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "トランプ大統領がイランの防空を標的とした米国の電撃的な攻撃について明らかに",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlFoVFJDNG03cDR1SkduZ0c4UE1VaE5EZm1nR1Rud3ZSMGdydGpSSzhmQ0ZZdXZ6R0cwMXdsc2h4cmlqR1AwMkwzVmV2ZURObEZDdjhhMjFldVpxWjgyU09ZWDd2elpoamxWX0hKN0Rpbl83N3BMbnI5cE9lVXFwZm5pZ0p2dVZFZGVzYU1UZjJUWDgxWWp2NDQzaDBaMGNNWEEwU2Y4ZzJoOHJoTi1zYXNYNm1iVF84czhWcg?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-07T18:38+09:00"
+    },
+    {
      "title": "トランプ政権中枢、対イラン戦闘終結へ外交的解決模索か…バンス副大統領が間接協議関与と報道",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOcEY3Ym9OdmFMcnJsQzA5cWRFVmJtay1vSFBsaGh2Z09rNXh0QWFiSmxHNUZBSFluZzFqaDljdjdCSF9qQnFyTG9vV3FOLS1YME5ydXFYSl83WENrM1RETE9TV2o4T0l2WHJ1Z2g5ekZxZw?oc=5",
      "source": "Infoseek",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QZkkyTWdnbW9WMmY3SHZ1Z1Y4RkVoaXJ4R2pNX2UzY3NtdVUtNGRTOEozRFI5Ylc4VkxmU09kVHVrNFZ2aUJIZzRTT0xJWDZPQXp6WGhnU1ZVSDZVNUM1R0R6aGUyVlE?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-07T16:40+09:00"
-    },
-    {
-     "title": "米国、中間選挙3日後にイラン・ゲシュム島空爆…トランプ氏「防空施設を無力化」",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnFORW4tY3pPNFEwYnFMcFFILU9IS0pMM0VwOS1DdHlzdW5lMW1SZDdiSFlZZzl3UXRUeml3czJaY2FBRzhMU3BBeEtGZEtsT2Q2YnFQTWJOT0tYLVdNRnluaVJOelJpcktheDlVNWNINTJWbUNUZDRWb2d4dHpnam03aFF0ck80?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-07T14:32+09:00"
     }
    ]
   },
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍が大型爆弾シェルターで学校を破壊 ウクライナ南部死者55人に増える",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81LUp0cHMtYUt1eE9NYUczUWxiYkVGdVpkUkotNkJnLUM4djE0ZGQ1Ujl6RUdFSW8zYlp5U3Ruc2ZldEZncTc2c2s0SUpLQ2FOTjF6bk5MUzB1bnBkVzAxRk9MTVBSbXQ1VTMtdHIyd3lfT3J5RHc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-07T16:52+09:00"
+    },
+    {
      "title": "ロシア軍、キーウ等を航空攻撃 ５名負傷　エネルギー施設等損傷",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVHhDOFhKRXhUTUhRMG93VDdyUFVIY0R3c3d5b1pTZEliWDVuX1o2UFZoazFFaEJyWk9STUVTcXZHTWJzMF9nTUJiczd5Z1dTNE1HMHQxbTA4Tzlpbi16dU45TG54RUdkaTZXeTF4clJtSUotWTBvc0l6ejVfckFCSFo3SHNTR3N0TkNKYmI0WUdkMUg0ZjZKYWNPS0pSQmV1U2E5R05XdlFGUEE1RXFkTFBmYmNFQUZfMmE5T0xYY3Z0OUlqb2FudDZ0c9IB0AFBVV95cUxPb25FX28zdFA4YkpzNExnTFM1dHFVUFl6aVItOUNsMTlvN0VCcU5nYnJvWU5xekpXTXItaEQtSnhfNkFhSGRuY2puNTRnV3R4cTYtMHhvSmtwRFdkeGZVc0ZORy01bXF6TG1QZ2ZJN3ZKVlBsZHIwaGI0S0RkMVpvbjBWX2pBak9IbE1saUktMXUyWFUwUEN2MnkzeHJyX2VYLUViZTB3Vkt5ZHNzbkJ2NkFqUWhxWUtzUXV0d3pBNGRieFVKa1VDMGx1VXBxX1J5?oc=5",
      "source": "ウクルインフォルム通信",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1LVg4bGZydWczSHhZek83TkI5WlNLeUYyYXVMRThnQjlNd0x0MVJlVHRTQ1RpWXZhUFNROGpfRjQ5ckp0UEFVQjdB?oc=5",
      "source": "乗りものニュース",
      "at": "2026-11-07T09:42+09:00"
-    },
-    {
-     "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-07T06:32+09:00"
     }
    ]
   },
@@ -311,9 +311,9 @@
  "nankai": [
   {
    "title": "南海トラフ「最大51人死亡」をゼロへ 防府市で72時間訓練（山口）",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zUkVjTUE3c2swMC1fUnFPVE5BSnJuYmZVZm5vUGVGdFFXZWl1WTRzOVFyOWs0cDVGRklwb25mT05zaTB3RWJuUTV1NW80cUJNMjE1bzV5eHJVQ0VobUFPZ2lJMlFCYTBSV2ZjeFZn?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-07T17:59+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50Qm1tWTMwMk1mT3FHQ01jcE5YdmNVMXVlYXZMZmhxbzVJV0hBSXJEYi1NV2dMRC1Hdk5LeFc5STBFaVdTaXdYVWJhZw?oc=5",
+   "source": "TVer",
+   "at": "2026-11-07T18:33+09:00"
   },
   {
    "title": "高知市と物流グループが協定 南海トラフなどで物資輸送や拠点提供（朝日新聞）",
@@ -381,16 +381,22 @@
    "at": "2026-11-07T13:01+09:00"
   },
   {
-   "title": "山陰合同銀行で運転免許証番号など顧客情報1585人分漏えい 個人ローン保証会社が不正アクセス被害",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3VWRJU3cxNzJDNXFJbU9DcEdpM19zWGZLOG9JQ2FHU2NGSzRDOFNzTWlnWmNFa1dwZjVVem41SngtYjhYYzZwM25WMTBTMDk4cjE2c082S0huTDBBMVdrUXlrRk5lMEl5TlhxTHU1Q1BPNXBUVzFrclhZRUpkUlk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T18:19+09:00"
-  },
-  {
    "title": "日本はなぜ狙われる？サイバー攻撃 生活にも影響",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TV0c5eERRazNxdERkWU80cEx4eUtjTlNJMVluU282bDJaVXZoUUxZNTNJVzlWbmc5VVBub09SOUkxNm9oMENqQWkxeHZ4SHNaRmoyUnFoRDJQSVJkMUVR?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-07T18:14+09:00"
+  },
+  {
+   "title": "山陰合同銀行で運転免許証番号など顧客情報1585人分漏えい 個人ローン保証会社が不正アクセス被害",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tVE9wME5lU2Vjb0FVX1ZBaWxpMHFxVExYR3pQZWVoeW4xdGNHSWN0U3NtRG5FS2l1MnFVMV9rYTA2UF9WZmV5Y0N3LVRHdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-07T18:00+09:00"
+  },
+  {
+   "title": "【藤沢市・鎌倉市】※江ノ電ニュース：電子チケット購入アプリ「アソビュー！」に不正アクセス発覚、会員情報流出か",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LZFpJbkNFR05WR3FFTUkyTTBWUDVkcWtybzJxMlRPbENEMUs2RkxSdHNJZ0kxUXRtSG0xV1QyQlUxZjhZZXRiaUhfRFlnYkZxT2ZiUHg4bGZWdXhjNWt5endQUFljNkJubWZPU1JNMDJIbEE?oc=5",
+   "source": "湘南人",
+   "at": "2026-11-07T17:56+09:00"
   },
   {
    "title": "オンライン麻雀「Maru-Jan」への不正アクセスによる個人情報の流出をシグナルトークが発表",
@@ -445,16 +451,17 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CLXNvdFFaNGNWc05BbVZ5RG1lelNSSWFiVFR5RW1iZzIxcmFSVnB6blJXbHN1d2RzZjBIc1BzalZfMWQ5R3JRM0tUX0l6MFVyOHVJWVROSHNRMTBPRnIwVHgxRkE4T09uM2t1QUlsenRfd01ZRjl5dXRLTVZWTkU?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-07T15:18+09:00"
-  },
-  {
-   "title": "二次創作サイトAO3、サイバー攻撃で1週間以上停止（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpbWJYY2tYbjRKRUVoTHhNS3Jzd2RIS1JVSWdwVXczZS1Ta1dUdGhCcG02dlA3UXpMbFdwbHpRY3RJbFRBdFJmODYwTnJsX1dSdnptcHR5NHNmQ2Q1MnJRX0tLUmtPODR3VzlRamxLYkhCY1h3WHlpS1VkNEg4RnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T15:16+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "トランプ大統領がイランの防空を標的とした米国の電撃的な攻撃について明らかに",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlFoVFJDNG03cDR1SkduZ0c4UE1VaE5EZm1nR1Rud3ZSMGdydGpSSzhmQ0ZZdXZ6R0cwMXdsc2h4cmlqR1AwMkwzVmV2ZURObEZDdjhhMjFldVpxWjgyU09ZWDd2elpoamxWX0hKN0Rpbl83N3BMbnI5cE9lVXFwZm5pZ0p2dVZFZGVzYU1UZjJUWDgxWWp2NDQzaDBaMGNNWEEwU2Y4ZzJoOHJoTi1zYXNYNm1iVF84czhWcg?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-07T18:38+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "トランプ政権中枢、対イラン戦闘終結へ外交的解決模索か…バンス副大統領が間接協議関与と報道",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOcEY3Ym9OdmFMcnJsQzA5cWRFVmJtay1vSFBsaGh2Z09rNXh0QWFiSmxHNUZBSFluZzFqaDljdjdCSF9qQnFyTG9vV3FOLS1YME5ydXFYSl83WENrM1RETE9TV2o4T0l2WHJ1Z2g5ekZxZw?oc=5",
@@ -482,6 +489,13 @@
    "source": "アラブニュース",
    "at": "2026-11-07T17:26+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシア軍が大型爆弾シェルターで学校を破壊 ウクライナ南部死者55人に増える",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81LUp0cHMtYUt1eE9NYUczUWxiYkVGdVpkUkotNkJnLUM4djE0ZGQ1Ujl6RUdFSW8zYlp5U3Ruc2ZldEZncTc2c2s0SUpLQ2FOTjF6bk5MUzB1bnBkVzAxRk9MTVBSbXQ1VTMtdHIyd3lfT3J5RHc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-07T16:52+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "米・イラン間接協議 カタールが仲介案「2日目にホルムズ海峡開放」",
@@ -524,13 +538,6 @@
    "source": "Informat.ro",
    "at": "2026-11-07T14:49+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "米国、中間選挙3日後にイラン・ゲシュム島空爆…トランプ氏「防空施設を無力化」",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnFORW4tY3pPNFEwYnFMcFFILU9IS0pMM0VwOS1DdHlzdW5lMW1SZDdiSFlZZzl3UXRUeml3czJaY2FBRzhMU3BBeEtGZEtsT2Q2YnFQTWJOT0tYLVdNRnluaVJOelJpcktheDlVNWNINTJWbUNUZDRWb2d4dHpnam03aFF0ck80?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-07T14:32+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "北朝鮮高官が相次ぎ中国要人と会談　経済協力拡大に意欲、戦略的連携も強化へ",
@@ -587,13 +594,6 @@
    "source": "Laodong.vn",
    "at": "2026-11-07T10:01+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "コムイシュヴァハの戦争犯罪：HURが学校への攻撃に関与したロシア軍兵士を特定",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQk1SMGRCd1puOFEyVUJfTEFNbnVGZW1IMVNldzlZV3htajdFNENfNC1YLUlKZVJYMjNfV2l4dmdscXRCeGVPV1AyQjI4c3BqZzJ4bFphWjhwOFZaMTFWR3BxQld4UEVGOFdXeVpFeXgxOU5IanMzZTZKR3JGMGIyUkVyc3RFLVNwOGZLNWZBZ25PY0FYRjZzdlplZk11Uk0?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-07T09:50+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -612,17 +612,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「空爆」2件",
+    "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「空爆」5件",
+    "ロシア：「攻撃」「空爆」4件",
     "欧州・NATO：「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "米軍、イランへの新たな標的攻撃を実施、テヘランの指導者は仲介者の提案を検討",
-     "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQaTZTcFhRWWYtMjVjUFdNVDZOeHZoYWlTa2djdFEzMXQtVWU0QzIxN2pEVTNFejRXVnJIYU16NklRZjlpQVJRSkU3Vzh5WVJTdUxMdVVheW50U3pneGlxZVRvNDZsejNrTUliVXJ6WUpvaHI1N0k4ZE13cFlza3pLZEF3RnJUQ21xX1VJQ3U2bWsteVEtNFZfMF9xbGpMUEdQMGtUNmhIdVFTR3R1cWVZSFNQUlZERzdzSUVEYmgyYmVkUUZSU243N1k0QVVGOU04dklzd3NVcV93RnVNREY4b2xVVm5iamdnQll5NW9DMHZBSGdkNFVZUFQxV3h2dW1EN0xVRG5aZFZCSmlkcE4teFd2RGNPdHRfQ2FiRUZkRUVsY3pUbU1Zb0JQclp3WmV0dEdieG1SV1NHWnNKOUEyZ3k1dVZlQ284endoRnB5Zl9yeDFDa2tjTUc5ZjY5dDZwRTlrVHY5Q2NUazZCWjRLSnUzM2VnRnpwdVh5QnJ4LVJjbHctUlpxb0JJUjNrVW9vV1ZlT29MQWFBVlYwdDg0b3JjOENiMmdidjRIWHhHb2ZXQ3V4N0diUkFZdTRiTkFfbHNiY0ZIRjRDV203TVVqSWxUWmhXUTVacVZqUE9VQVhnTzBuY3JJS3NHVVA3dGhxMFBxN1c1c0tUT1U?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-07T17:26+09:00"
+     "title": "トランプ大統領がイランの防空を標的とした米国の電撃的な攻撃について明らかに",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlFoVFJDNG03cDR1SkduZ0c4UE1VaE5EZm1nR1Rud3ZSMGdydGpSSzhmQ0ZZdXZ6R0cwMXdsc2h4cmlqR1AwMkwzVmV2ZURObEZDdjhhMjFldVpxWjgyU09ZWDd2elpoamxWX0hKN0Rpbl83N3BMbnI5cE9lVXFwZm5pZ0p2dVZFZGVzYU1UZjJUWDgxWWp2NDQzaDBaMGNNWEEwU2Y4ZzJoOHJoTi1zYXNYNm1iVF84czhWcg?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-07T18:38+09:00"
     },
     {
      "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
