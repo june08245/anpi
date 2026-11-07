@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-07T09:30+09:00",
+ "updated": "2026-11-07T09:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [],
-  "headline": "注意報を解除します。",
-  "reported": "2026-11-06T04:13:00+09:00"
+  "items": [
+   {
+    "code": "21",
+    "name": "乾燥注意報",
+    "level": 2,
+    "status": "発表"
+   }
+  ],
+  "headline": "大阪府では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+  "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
   {
@@ -95,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "トランプ大統領「イランの核兵器保有を阻止していなければイスラエルと中東全体が存在していなかった」攻撃正当化",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15UmUxQzZ3NnYxNVQwZ1RUS2dveEhCLXlBaDJCX3FtcW5kRWExS1F5R0xoMkR1cEN3Nk90MFpUN2hNU0JGU18weFpoRTl2ZGpORzBKdzFocHFZQXZNNGhia2pVdDdpTW9CMHpfSnhR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-07T09:27+09:00"
+    },
+    {
      "title": "【中間選挙すらトランプ氏は“他人事”】11月以降は「ブラックホール」／「イラン戦争は頭にない」執務室で見た素顔／「過去にないレベル」で大統領職を“カネ儲け”に利用／NYTスクープ記者が語る内情【CROSS DIG DOCUMENT】 | TBS CROSS DIG with Bloomberg",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUlQwZlNHdERqZ0dmZEQta2hRY2VEMGR5cmk1UVJVZ3ZFdlY5RDE3ZTAtRTc4aXZTQzR4LURCNm5zYldrY0w3TDc4N1pod285YkNvTnFDcWdPZ1AyekZxUWFmLW1FMzNCZ2lELXRmUEFmSnRL?oc=5",
      "source": "TBS NEWS DIG",
@@ -123,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd25rMUhXemZBUEVXZ0R0MXEtOFlzOUExUjdRREFPdEppaFBYdW9mWWdBVHpGdDQ1RmZvMkdGYlk1azBDX0xQSFJqNGQzdVV6NjRMaTZ5RHhicUdzaGtuUkFJMnR4cjktVC1WQUJkN0dtSGY4VS1jLTlqNnJYRnBmbzNOQTZjdk5EMGJObjdVTTJWdHhXZ1J1Z0F5YkoyeDB6LWR1TEZ0T090WW1iVVdwbnNBR1l3LWNocjRXWkVvdVVrTFnSAXNBVV95cUxNUlIzM1ZyQWVKVUlndHcwZ0t1QnYxSW1TNGlmWDFELVl4MmVqay1IT0x1dkdIWHc5dVBLZ2dQZExsOGlPckliZkVWM3oybGZ4MXJyV2NWZ0wxWTNMV3N1TThvbjRJTl95aGN6S0xLQ3BlTml3?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-06T13:39+09:00"
-    },
-    {
-     "title": "イラン アメリカへ核に関する提案 提示の「7つの条件」受け入れ後に議論",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yOUdLeG5OR1FXekZ0V0k0MTczZVo2MzdZYk9qSTVvUkpvTkE4Snd6UmhFNFZ1SzBmWnYyWnY0ajN6R0x1endURDBNc2JhZnFlaFRLS1JOTmp6blgyZEloWWIyOVFjWldEU21qUmZxSnlpY2VuTDVqMDVB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-06T12:06+09:00"
     }
    ]
   },
@@ -221,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍の戦闘機を複数撃破 手段は「ドローン」ではなく「ミサイル」に改良型の登場で大きな変化",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1LVg4bGZydWczSHhZek83TkI5WlNLeUYyYXVMRThnQjlNd0x0MVJlVHRTQ1RpWXZhUFNROGpfRjQ5ckp0UEFVQjdB?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-07T09:42+09:00"
+    },
+    {
      "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
      "source": "Reuters",
@@ -234,9 +247,9 @@
     },
     {
      "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUXFKaXEtN25RZGlMS2dJQS1qSURfYmVjNEJuT3BMeVlaUWdTWXl4cmU0ak5wU2NUTmtDSEdmck51MEUwMlNrWV9keGgtWmc0b0RqemNWME9PNDR4TkF4dzZFci04QnFpTVpRSEZn?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-07T01:42+09:00"
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzd5V3JGTTJJOUlZaFRXMFpsRGZnT05EcjZGY1VmVFJKd3RHNUQ0MGNmZ2RpZWt4eFB6ci1lQjNCRHlQcGt6UHFnWGE2cEJRbzFIbjIwWERnZlpIcE9TcXdJaFBrWTlLd1VzWDJ6a1E4aWlaS1F3T04teHBTU21wRmJ2MG5pVTFrY1ZBenln?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-07T01:53+09:00"
     },
     {
      "title": "ロシア人のオートバイ運転者、ウクライナのドローンを軍用車両に誘導した後に一命を取り留める",
@@ -249,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hRmkwZEdCdTlZRnFwbWxXQTFFNGtFcDhlbllaQ0VBVjY5S2EyYXV3UG52Qk1fUjNNeURiZ0FxSi13RDZPdWV5cmZxOXEzejJ4R2FkMF9IVXZteXBPU0JXTXo5d0xPa3piZXcyR1BaZGE3RjVqSDB5OUNsZV8yTzA?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-06T21:06+09:00"
-    },
-    {
-     "title": "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aLXJhcXp1aFV6YUJWejNqT3VrRnhlT05jSmRpVmtPVDRNbHA1aWFYTW5DNlF0aExESHBqTlhIUGgydVdWSURlNkZBdE4zNTlvMm5LRjFqenFkTkREcXZHUWZDMmF4LTZiU2YweUI4RUlSMW9OeHpYNmpnbFIyM1U?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T21:05+09:00"
     }
    ]
   },
@@ -263,10 +270,16 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "欧州の旅客機数十便に爆破予告…アイルランドの放送局にも爆破脅迫",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSU1MdkVGVXJhSkgybHF0dEstUldLUmJjSWtRWnd0eFZLUVNwanpVbjl6bVBjMGhCdDJEZG5xeGtmcG9LWUpWelhpY1pxVGh6TDZvT3VnUk8xbDJGdmlYMTllN09uM3kwT2d6eVp6WjNHV3JFMEhrR1cxTjJRVGdmUGM5ZDJIVmhOY0hvRUtqU0VnNkZsNkE3RHN30gGMAUFVX3lxTFBjbkVhZXR4cWg1VDQ1Zm12c00tNmxjZmdCV2thS3BFTk51aTlwY1dSaVR2c1pjd0VNUWZDT3ZFUlhxLUxHN1RMNHZIclEzQ0gzNmhTYy14N0ZNZ2lkT1l0c1JOT3NxQmQ1bnRfbk1KTFlWeTZMX1JUc0ZBLUFLOHVXVEN4X3dxQzNRWmpH?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-07T09:14+09:00"
+     "title": "米国のNATO関与縮小、ロシアの「核使用を誘発」する恐れ 通常戦なら欧州が勝つと専門家",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NQnVEcVc0WXpRMkE5UmwzcFQtNlFKOUFpYlF3V0NLcVRBbzYtYTIzSWh6T0JheHNCemp5bXRHT1dVLW84QjhVSl8yWTVFbUo3UGtjdjlfQ2Zla1A4LVlYUEROYWZ2VUJKU2lUNjFCVzBQSUx3aUNiQkpzQ3J4clE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-07T09:30+09:00"
+    },
+    {
+     "title": "欧州の旅客機数十便に爆破予告…アイルランドの放送局にも爆破脅迫（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NlRLV0V0S21xSGxGcDlDZHcyeWtEMzB5Ti14ZXNWd2xZTTl0YXZFWGRpa0JBbzFodW5VNmRTMU02bVBWYnV2cDVJSWlOSURkVWR6VFlHa0FOdVFKMEFlRHVWZF9haEFWeTkyYXUyVldGaWpJV3dveVpFMVFCSFU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-07T09:17+09:00"
     },
     {
      "title": "英やアイルランド、ブルガリアのテレビ局に爆破予告相次ぐ 欧州の旅客機便への脅迫も（産経新聞）",
@@ -291,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZHF4eFIydDZhSlZsOEVaTHN4eUpvd2JIcnNULVc5aGV4YmV1Q0tUQ2tPVGphRWlTVGNVcUpVaGs0d1RFYVBWZmRQMkJHcFY4SzR5MEhjaFVTZEZoa3JsRDJVQy1QemxvZmVwLVFPNWkxV0dSQkxJ?oc=5",
      "source": "Bloomberg.com",
      "at": "2026-11-07T03:49+09:00"
-    },
-    {
-     "title": "アイルランド公共放送に爆破予告、英国テレビも 欧州各地で脅迫相次ぐ",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wTHpXSHNiOENtYkItaUpVNkdVb0x1VjBKeE9OanBCcEFNVjRpUGdFOElTUlYxaUpndlJuX2tvU0Y1aTlJTUVqV3ZzNlI2dllFMW5PTGJTRTdqZ0VucjRBY05pWV9PNEg1OXBMSA?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-07T03:24+09:00"
     }
    ]
   }
@@ -398,6 +405,18 @@
    "at": "2026-11-07T05:00+09:00"
   },
   {
+   "title": "仙台市、マイナンバーカード予約者のメールアドレス1万2,211件に漏えいの可能性 TKC経由でアララへのサイバー攻撃で、通知メール停止|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSTY1MWw3YXlmYVgycktmeDdFM0hzcmg0UXRZeHFMOVV5ZURHRHpGc1pMbEtmRnZUZXV0djJMQ1N0blhoTDM3T3laU3VGZVRwTnBkandjVXlDUzFzWXJSTWE3RG11bXpZZFBOUVRwaGE1SkxmUy1EdHBmcXhnSGRwVU5YbS03bm9QV2tOX0lsdlBkdGdQUWZpaWJWWmNZdVpObnpPQk52X3lwbW9wOEdzOA?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-07T09:40+09:00"
+  },
+  {
+   "title": "WorkOSの不正アクセス、正体は研究者のAI 検証環境を脱走し顧客情報を大量に取得",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfM1VjVXVXUzBiWjJHODE4dmpxcVY4X1ZVY004RjM3S2ZHUTZKZ3ZJUS1GdGxGWmtIdGU4ZGw0ZUhzZzcwRC1CNlNNTDhNX2lOTGlj?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-07T09:13+09:00"
+  },
+  {
    "title": "岡山県キャンペーン アドレス１１００件流出の恐れ 「アララ」不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SVHdHVHNBdU41NVh5VXRiNE1nNU0xd2VVNS0wTWJ3Z0ZkclNoTTItSmpEcl9qU1VWbWlyQUUxdU0tY1NhUENwWmszbWdKbzVXcjMtblhfMERwQW9BNlNzN1E0dWF3QzQ?oc=5",
    "source": "山陽新聞",
@@ -444,27 +463,36 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQM3BaZVV6bU92MVZGTVdzakxUQVNtaThRNnJlYjZOV0Fhb2ZxSUZHZnlIRlN5Nmd5SU1XQ2dia1d0V1FwYTlpNFJKYjYyRnVFNnpMRHdUV3I3NVhRUlkxZmQ2VWk?oc=5",
    "source": "Impress Watch",
    "at": "2026-11-07T08:00+09:00"
-  },
-  {
-   "title": "【日本社会が壊れる日】銀行・鉄道に“サイバー奇襲”の現実味を検証…台湾有事で日本のインフラ危うし？",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdHRISlI3c1pfWHRncDFMQlNCRXlHS2p5SEFDUUowam52WWVhQmoxcThybmgtZ0xpanhqZVU3R1ZIS3J6TXpLaGtwRThLaEtVY0wwa25VM0pSZw?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-07T08:00+09:00"
-  },
-  {
-   "title": "警察庁と全国警察が連携 サイバー攻撃で合同捜査本部",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85eHpFU2UtWW5BcDB1bXRRenFERFVkQzV5VFlaTEZBb2FsNkJteFdDME54MmpOemNZanZaS0pUekdOdFI1Q2dIUWdMcHFVcmFCbl93OTBHUnlqLUdySnBj?oc=5",
-   "source": "千葉テレビ放送",
-   "at": "2026-11-07T07:54+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "欧州の旅客機数十便に爆破予告…アイルランドの放送局にも爆破脅迫",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSU1MdkVGVXJhSkgybHF0dEstUldLUmJjSWtRWnd0eFZLUVNwanpVbjl6bVBjMGhCdDJEZG5xeGtmcG9LWUpWelhpY1pxVGh6TDZvT3VnUk8xbDJGdmlYMTllN09uM3kwT2d6eVp6WjNHV3JFMEhrR1cxTjJRVGdmUGM5ZDJIVmhOY0hvRUtqU0VnNkZsNkE3RHN30gGMAUFVX3lxTFBjbkVhZXR4cWg1VDQ1Zm12c00tNmxjZmdCV2thS3BFTk51aTlwY1dSaVR2c1pjd0VNUWZDT3ZFUlhxLUxHN1RMNHZIclEzQ0gzNmhTYy14N0ZNZ2lkT1l0c1JOT3NxQmQ1bnRfbk1KTFlWeTZMX1JUc0ZBLUFLOHVXVEN4X3dxQzNRWmpH?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-07T09:14+09:00",
+   "title": "ロシア軍の戦闘機を複数撃破 手段は「ドローン」ではなく「ミサイル」に改良型の登場で大きな変化",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1LVg4bGZydWczSHhZek83TkI5WlNLeUYyYXVMRThnQjlNd0x0MVJlVHRTQ1RpWXZhUFNROGpfRjQ5ckp0UEFVQjdB?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-07T09:42+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "米国のNATO関与縮小、ロシアの「核使用を誘発」する恐れ 通常戦なら欧州が勝つと専門家",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NQnVEcVc0WXpRMkE5UmwzcFQtNlFKOUFpYlF3V0NLcVRBbzYtYTIzSWh6T0JheHNCemp5bXRHT1dVLW84QjhVSl8yWTVFbUo3UGtjdjlfQ2Zla1A4LVlYUEROYWZ2VUJKU2lUNjFCVzBQSUx3aUNiQkpzQ3J4clE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T09:30+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "トランプ大統領「イランの核兵器保有を阻止していなければイスラエルと中東全体が存在していなかった」攻撃正当化",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15UmUxQzZ3NnYxNVQwZ1RUS2dveEhCLXlBaDJCX3FtcW5kRWExS1F5R0xoMkR1cEN3Nk90MFpUN2hNU0JGU18weFpoRTl2ZGpORzBKdzFocHFZQXZNNGhia2pVdDdpTW9CMHpfSnhR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-07T09:27+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "欧州の旅客機数十便に爆破予告…アイルランドの放送局にも爆破脅迫（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NlRLV0V0S21xSGxGcDlDZHcyeWtEMzB5Ti14ZXNWd2xZTTl0YXZFWGRpa0JBbzFodW5VNmRTMU02bVBWYnV2cDVJSWlOSURkVWR6VFlHa0FOdVFKMEFlRHVWZF9haEFWeTkyYXUyVldGaWpJV3dveVpFMVFCSFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T09:17+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -524,17 +552,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "アイルランド公共放送に爆破予告、英国テレビも 欧州各地で脅迫相次ぐ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wTHpXSHNiOENtYkItaUpVNkdVb0x1VjBKeE9OanBCcEFNVjRpUGdFOElTUlYxaUpndlJuX2tvU0Y1aTlJTUVqV3ZzNlI2dllFMW5PTGJTRTdqZ0VucjRBY05pWV9PNEg1OXBMSA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-07T03:24+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUXFKaXEtN25RZGlMS2dJQS1qSURfYmVjNEJuT3BMeVlaUWdTWXl4cmU0ak5wU2NUTmtDSEdmck51MEUwMlNrWV9keGgtWmc0b0RqemNWME9PNDR4TkF4dzZFci04QnFpTVpRSEZn?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-07T01:42+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzd5V3JGTTJJOUlZaFRXMFpsRGZnT05EcjZGY1VmVFJKd3RHNUQ0MGNmZ2RpZWt4eFB6ci1lQjNCRHlQcGt6UHFnWGE2cEJRbzFIbjIwWERnZlpIcE9TcXdJaFBrWTlLd1VzWDJ6a1E4aWlaS1F3T04teHBTU21wRmJ2MG5pVTFrY1ZBenln?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T01:53+09:00",
    "topic": "ロシア"
   },
   {
@@ -573,13 +594,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aLXJhcXp1aFV6YUJWejNqT3VrRnhlT05jSmRpVmtPVDRNbHA1aWFYTW5DNlF0aExESHBqTlhIUGgydVdWSURlNkZBdE4zNTlvMm5LRjFqenFkTkREcXZHUWZDMmF4LTZiU2YweUI4RUlSMW9OeHpYNmpnbFIyM1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-06T21:05+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "【中間選挙敗北の背景】「景気回復しても支持戻らない」イラン戦争・物価高で支持者離反／北朝鮮巡り“ディール”は？／日本はどう対峙すべき？／米中の相互依存関係に着目／トランプ政権後のアメリカ【会田弘継氏】",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1heFRBUDJJdVZ0dU4tZkFkbklKRndOaWNhZVJGTGNldG5jM1lNOVI0SHFhMERHRF9iVlBRZGRjenlsN2xnaldVNmlFV3RINGpsSnJXZzZSRGxjWVFVdFY4?oc=5",
    "source": "東洋経済オンライン",
@@ -592,13 +606,6 @@
    "source": "Infoseek",
    "at": "2026-11-06T19:20+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "中国・王毅氏、北朝鮮の金成男氏と会談…5中全会の結果説明、党運営の経験交流へ",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0M0lobzdjeG8tcFM1WEFub3k4S3pqZlV5c1J0bFlIUzRReVJadVIyMEtPcWRMSVFvQi1rSnNubmQxTzVwQ3BWczNTSlphTEVFSXk4VkF5X200VFU4cUhDbDFIREE3YVdjNkpRRVliTmJtUdIBVEFVX3lxTE5hMUk4UF9HdmNERWNFWjQxLU5lRjlpdXp4eTBuc2luRHZKcGtndWZGcU9iOTFBNEtCWnIzOFEta0JMYU5MeXBGV2w1VVVlN2xEMUZMeg?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-06T17:23+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -617,17 +624,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」1件",
+    "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「侵攻」1件",
-    "ロシア：「攻撃」「空爆」4件",
-    "欧州・NATO：「爆破予告」6件"
+    "ロシア：「攻撃」「ミサイル」4件",
+    "欧州・NATO：「爆破予告」5件"
    ],
    "items": [
     {
-     "title": "サウジアラビアとイランの外相が地域安全保障について協議、フーシ派の攻撃が激化",
-     "link": "https://news.google.com/rss/articles/CBMilARBVV95cUxNc3VFcXdOYUtyUW4zTnZuU1IxV1FDd2YzT09RcnRXejZ5elZmckNUTDdibGk4Q0xURjJ4anRvaWE5LXBpV0pRc29jQVBad0I0bEJxbDlrUC1hT19hQ0NUbHdoUVYzcmZZSmFFVmxDOXg0SFpnUGcxNE1halVtX25jLVZ0dUNkSjdBTFZDTmVWUHF0WV91LVlfajdBM1ZZVU9CcmpfX2tsUHZ3UGJ4RjQ2clRYMXNPTWwweF9xNDE0ZjFhd1FBcVh5RjNvdGFtU1NpZ3lrMWh5d3RQaFdkVklmcTRndkVXa285WVpxallhMVRTSG9UQy1jLURfZGlFb0VuLXRZS0lMUVBqVTNnY0JUenJFUUJEbHdJemhURW9uaDdGU2dnQk10Y1Zta1EyLUhEbVRMRS1IMXVvQU9QUTl2ajNfVkY5TUhLd0RTQmo4QXBzRlBnbm55Tm5wdXZnN0ozcVBjOVBqbWJfMWlzMHkzSklPWHNBRWpSaFB2Ym5FYkgwTHZGdXJnV0hBRjBXM1MxX0xJdDRYbHExcW5HSWhvaDhVVWt6MXN0RVZMT0E5R1k1ckZuWFMwdUhKZUFwbFdpLUcyekpObnRBaHA2eW5obmxJRGVYc2l5NlhEYno3c2x1eXpFX2ppSUEtX09SUW1SMXB3R0hLVVVXR0l6Uno4dWJ2Uk80LU1ya2R2ZTEzdlRfQjFs?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-06T22:19+09:00"
+     "title": "トランプ大統領「イランの核兵器保有を阻止していなければイスラエルと中東全体が存在していなかった」攻撃正当化",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15UmUxQzZ3NnYxNVQwZ1RUS2dveEhCLXlBaDJCX3FtcW5kRWExS1F5R0xoMkR1cEN3Nk90MFpUN2hNU0JGU18weFpoRTl2ZGpORzBKdzFocHFZQXZNNGhia2pVdDdpTW9CMHpfSnhR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-07T09:27+09:00"
     },
     {
      "title": "台湾侵攻能力さえ疑わしくなる中国「軍人不信」の徹底的粛清",
@@ -636,10 +643,10 @@
      "at": "2026-11-06T11:52+09:00"
     },
     {
-     "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-07T06:32+09:00"
+     "title": "ロシア軍の戦闘機を複数撃破 手段は「ドローン」ではなく「ミサイル」に改良型の登場で大きな変化",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1LVg4bGZydWczSHhZek83TkI5WlNLeUYyYXVMRThnQjlNd0x0MVJlVHRTQ1RpWXZhUFNROGpfRjQ5ckp0UEFVQjdB?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-07T09:42+09:00"
     }
    ]
   }
