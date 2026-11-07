@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:00+09:00",
+ "updated": "2026-11-08T08:11+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -24,16 +24,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-08T01:04:00+09:00",
-   "place": "静岡県西部",
-   "mag": "5.7",
-   "maxi": "",
-   "maxiRank": 0,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "顕著な地震の震源要素更新のお知らせ"
   },
   {
    "at": "2026-11-08T02:31:00+09:00",
@@ -64,6 +54,16 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-08T01:04:00+09:00",
+   "place": "静岡県西部",
+   "mag": "5.7",
+   "maxi": "5強",
+   "maxiRank": 6,
+   "osaka": "3",
+   "osakaRank": 3,
+   "title": "顕著な地震の震源要素更新のお知らせ"
   },
   {
    "at": "2026-11-08T00:42:00+09:00",
@@ -186,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "米下院民主党、「新クラリティ法案」を協議／FBI、バイナンスの1兆円流出は北朝鮮の犯行と認定【日曜日に読みたい厳選5本】",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83S0NBUFZLMUhpdmhtaVFISHBiSC1HdDZyM3llVFJlOThlX3U4Tjh3TnJPNEd5bDg1Vi0xWTBpTnB3TElmalc0YnZ1aHBHYlNFeW1Oa2pVb3NBT195b2FmdkxRWEwzNExQejROTDdPU0FzWjkyOVBfMlZLaUVvalU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-08T08:07+09:00"
+    },
+    {
      "title": "ゼレンスキー大統領「北朝鮮のKN-23、ウクライナのエネルギー施設攻撃に使用」",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjE4VDVoVElQN3hGczIwbHlyZFhEWXdtNjhkOHk4WXplS3lLbHM4eFdsalpsWUlERUNBa0RIVDVabjNzcnhrVm9BSDdOa1ZSY2NLZVZJOC1ldTFYbFlpa1ZzWkJkUkk4NE93S1lGa1Y2V0wzRGhUR29HZ090Zk1VMnc0UHZKX2xD?oc=5",
      "source": "조선일보",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
      "source": "KORIT",
      "at": "2026-11-07T15:53+09:00"
-    },
-    {
-     "title": "北朝鮮の金成男氏、中国高官と相次ぎ会談…「中朝親善は不変」",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1JnVHE1YjBwR0ZsNHhIcUgzQVFyRjF2TFliZ0hDUG9YUzV6WGFnSkxVUlM5RzVkWWUyWjlvTlhuRC12bkh3Qjh5elVHVW96TXctaUVnWGRUSmdGNm5INW1maTMtVW81Z2pqSnU2VHQxRVNSelNOOGU0elh3bEJNZ0JWVGxZQQ?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-07T15:33+09:00"
     }
    ]
   },
@@ -227,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "「お母さんは、もう君を必要としていない」ウクライナの子どもをロシア軍兵士に育てるプーチン政権「洗脳教育」の実態",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DdW9tZ2FlU2NJZlhUaVB5ZGEzbk5rRXZmSHB2enFRdURxSXpCX0QzUXktaUVIeG9oRm1BaW1JZFVRMXRmU2JablVBb3MtS2hVNUpv?oc=5",
+     "source": "集英社オンライン",
+     "at": "2026-11-08T08:00+09:00"
+    },
     {
      "title": "ロシア軍がウクライナに大規模攻撃 住宅など被害 市民生活影響",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hNkZfd1BHRDFNQkN6VHJ3WGxaMXJKd3VqMkhfRjBHTkU5TEFhYVBQLTA5R3lmN2RseFlINnB3aHlXZm1EZzIyTkdsN0xFVndqY0luRGhneGpsazdidGZR?oc=5",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82eEJ2bUwtWGFKdzNUeTJ5d3lHZjNNUi1FcjdWVnc5Y0JVa19oN0M0MjFpak9lVEJxTFhSRkUwR1BfS1lya0xjMHotaDdUejFDVVQxejVldG1HSkkwaEF4emZR?oc=5",
      "source": "秋田魁新報電子版",
      "at": "2026-11-08T04:59+09:00"
-    },
-    {
-     "title": "ロシア、一時管理下のＪＴ傘下企業を3社追加 新たに大統領令",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFR6SVNaNXg0aEhmZlhRUmtOTF9TeWd0MDhRY1V1N3hWVFI5WTVaa1k4Ujh2cHpPMllCVTJielpKemdfQnBhMThtMEc1a3pSTUlXdmpZUzFHeXdvdmsyN2dTb19YYjU3djJjc21sLWlhbGhPc3JncGF0ME9EUVVRM2pLZ2VNQQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-08T01:43+09:00"
     }
    ]
   },
@@ -356,6 +356,12 @@
    "at": "2026-11-07T20:00+09:00"
   },
   {
+   "title": "ケンタッキー、実施中のキャンペーンを中止 ニチレイグループのシステム障害の影響",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOTVDREVoNDF1M0tmV211aHpkOEF3T1l5cHF4WGVxZzZsSllXTE5FOFJzd0pBOE54Yk5VVU1VbWwwdDN4LWVNLTBBaW1fLWRkYXFKYWxVNXptaDBsOW1ISlRLUko0NDlnTlJXOWViZU5Kdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-07T19:52+09:00"
+  },
+  {
    "title": "信金 システム障害は全面復旧 一部機器の故障が原因",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OWlIazhIQnFYWkJmMkYyVUdpZGQ5ckt6dk56Wms0Zk1FTmVBeDNqeks4R1hzX2JqRUdyeXdrRmVWUXl3dTRNSlZqZElNcm5aZmZsdTdnR2dDVGM?oc=5",
    "source": "ABEMA",
@@ -374,22 +380,16 @@
    "at": "2026-11-07T13:21+09:00"
   },
   {
-   "title": "東海地方を含む西日本128の信用金庫でシステム障害 ATMや窓口取引に影響",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GZXk2UFdWT3BfeXhZa3NGM085czhXdWx2YkF2eTBBRmhvRzJ0VU0xWmluWlh1allkdHlCQ0s5NWtTaGZ0alN0b3kxNEZ3WkJ2UEFDRWV1UjBEY2hSY0RKTENWNWViY29kanNsaHA3ZzQ?oc=5",
-   "source": "locipo.jp",
-   "at": "2026-11-07T13:03+09:00"
-  },
-  {
-   "title": "大規模なシステム障害発生…東海3県の複数の信用金庫でATMなど使用できず 西日本の128の信金に影響",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zNW9DRkFBTXZQdWlNMVQ3MzVOVmdUUlF5dGd6bUJzM1BISWk0U2RoNHFsb19CQWlqZU9FNW9QNXZwUHpIdnFfV1RSRG9icXk1VHlCTXhzYzkzUEFTeWtPa2dwS1djbkprT1M1YmJteG4?oc=5",
-   "source": "locipo.jp",
-   "at": "2026-11-07T13:01+09:00"
+   "title": "ハッカーは血液を標的にした…欧州で相次ぐ冷却設備へのサイバー攻撃",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2Q2TURzQ2pxZUEyYVViNUlrSWU0MGFIVjZYUkJBOGFtZXNLbzRVWlZmYlktS0JMSXNfS1ZyUTY3RkZqRFdkZG9Td3NTMWNsUU83N3VJeW1lTHlsdjhTOHFpMUFraDJsTi1sUFp0Z0lmMm1KSURQVHFaS1NKVVdqYTlORUdiMThVNWk4eERWOVI2S1NRQ2JF?oc=5",
+   "source": "Business Insider Jap",
+   "at": "2026-11-08T08:00+09:00"
   },
   {
    "title": "日本ネットワークセキュリティ協会に不正アクセス 最大1.5万件の個人情報漏えいの恐れ",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91V3BPc2tqNlJNam9EVzZxLWMyMDZhbWxWeHVWNm51QjZJY21lU2VpUnBlY2JDeXZJWDNwMkNVYWhCVnBpNDVXdERvazE1S29aQ2FmYngyV243ZmJUWjVEazZ1dkpnN0tKaWtXdkFwaW1BbXdtWHgzN0RBVllDVEU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T07:51+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85SVBnQTNHVWVvcmhJUkY5U0t1YVc2U3dZdXhTODBhc2ZpTkJGUWFlU2dCNlJ6V1hMQllHR2psV292M3NmUGpmc0tLWk9xMjlvbVE?oc=5",
+   "source": "CNET Japan",
+   "at": "2026-11-08T07:36+09:00"
   },
   {
    "title": "【図解】オープン型AI、ハッカーが悪用＝中国発モデル、安全装置を解除―サイバー攻撃が低コスト化（時事通信）",
@@ -442,6 +442,20 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米下院民主党、「新クラリティ法案」を協議／FBI、バイナンスの1兆円流出は北朝鮮の犯行と認定【日曜日に読みたい厳選5本】",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83S0NBUFZLMUhpdmhtaVFISHBiSC1HdDZyM3llVFJlOThlX3U4Tjh3TnJPNEd5bDg1Vi0xWTBpTnB3TElmalc0YnZ1aHBHYlNFeW1Oa2pVb3NBT195b2FmdkxRWEwzNExQejROTDdPU0FzWjkyOVBfMlZLaUVvalU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T08:07+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "「お母さんは、もう君を必要としていない」ウクライナの子どもをロシア軍兵士に育てるプーチン政権「洗脳教育」の実態",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DdW9tZ2FlU2NJZlhUaVB5ZGEzbk5rRXZmSHB2enFRdURxSXpCX0QzUXktaUVIeG9oRm1BaW1JZFVRMXRmU2JablVBb3MtS2hVNUpv?oc=5",
+   "source": "集英社オンライン",
+   "at": "2026-11-08T08:00+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9neTlqMTRiZXowVGduS0stSmlKN0EtRUpWMHdLT2RGTFN5UVBPcER4dTNvcVhiVWViQzdURmNGZEt0VW12SmxKRERMOF9PSnJqN1dwclJ2eENsWGNFd2ZrMUp2QjVwTmU0ZEN4LWJnNmlOaW4wS3d2SENuLTBPSnM?oc=5",
@@ -513,13 +527,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "ロシア、一時管理下のＪＴ傘下企業を3社追加 新たに大統領令",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFR6SVNaNXg0aEhmZlhRUmtOTF9TeWd0MDhRY1V1N3hWVFI5WTVaa1k4Ujh2cHpPMllCVTJielpKemdfQnBhMThtMEc1a3pSTUlXdmpZUzFHeXdvdmsyN2dTb19YYjU3djJjc21sLWlhbGhPc3JncGF0ME9EUVVRM2pLZ2VNQQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-08T01:43+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
    "source": "産経ニュース",
@@ -574,13 +581,6 @@
    "source": "佐賀新聞",
    "at": "2026-11-07T23:30+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "欧州各地で旅客機などへの爆破予告が多発 1日で27便が標的に",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YXzFWQWlXYzR1MXkyTGNkX3FCZl9VV1Z5U21mSktBLWMtWEJhQ1VqU1VwbktUUkQzUG9FcHBjUG44bkJBZXpQS3VsQU1lRUUzMjJj?oc=5",
-   "source": "東京報道新聞",
-   "at": "2026-11-07T23:03+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -591,9 +591,9 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "静岡県西部で震度5強（11/8 01:04）"
    ]
   },
   "world": {
