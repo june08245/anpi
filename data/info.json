@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-07T21:30+09:00",
- "errors": [
-  "world_topics",
-  "nankai",
-  "outage",
-  "japan",
-  "cyber",
-  "osaka"
- ],
+ "updated": "2026-11-07T21:45+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -370,6 +363,12 @@
  ],
  "cyber": [
   {
+   "title": "システム障害を知らせる大阪信用金庫の張り紙＝6日午後、大阪市北区 - 福岡信用金庫など西日本128信金でシステム障害 決済、ATM利用できず - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X3loUkgxbWw1STJqbmkzZzVjbUFXZEVBdEF2YzZEOFVjRERyQURabUZFOHpqem81eG9VWWtLdEhFZFB3RUFpeFhqX0dkYWpuanVnZUlVcw?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-07T20:00+09:00"
+  },
+  {
    "title": "信金 システム障害は全面復旧 一部機器の故障が原因",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OWlIazhIQnFYWkJmMkYyVUdpZGQ5ckt6dk56Wms0Zk1FTmVBeDNqeks4R1hzX2JqRUdyeXdrRmVWUXl3dTRNSlZqZElNcm5aZmZsdTdnR2dDVGM?oc=5",
    "source": "ABEMA",
@@ -392,6 +391,12 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zNW9DRkFBTXZQdWlNMVQ3MzVOVmdUUlF5dGd6bUJzM1BISWk0U2RoNHFsb19CQWlqZU9FNW9QNXZwUHpIdnFfV1RSRG9icXk1VHlCTXhzYzkzUEFTeWtPa2dwS1djbkprT1M1YmJteG4?oc=5",
    "source": "locipo.jp",
    "at": "2026-11-07T13:01+09:00"
+  },
+  {
+   "title": "信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenBxdHViaFl4T1FBOENHLWxjT3Q3QmhPTDAyUk5xbWNoQVgtXzFJeGhPczJtWVpjQk9BOHVUalEwTGt6MEtiSGd3TTZNVGJ1eS1CdUJUTmY0ZlE1QWdEcEIzMFVmTE9BdGlLLXV4Y2J1LTRLWDMzMFk4bXBYNmNzVWdhdUFWU1E?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-07T11:10+09:00"
   },
   {
    "title": "【社説】サイバー攻撃対策、問われる実効性 官民とも優先度を上げて [情報漏洩・個人情報流出の最新ニュース]",
@@ -430,6 +435,12 @@
    "at": "2026-11-07T17:45+09:00"
   },
   {
+   "title": "メールアドレス11件が漏えいの可能性 群馬・伊勢崎市 配信サービス業者への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LX213TW80WHJhbW5JaGVTVTN5RURGa25SUkpRTkthd2ZrTTZpWHNJUnY3VUpLTkdzZ2R0MndFYWZSZmJubDBfeG5mNFh5Slh1amhhUy1TdnQ2UQ?oc=5",
+   "source": "上毛新聞電子版",
+   "at": "2026-11-07T17:00+09:00"
+  },
+  {
    "title": "山陰合銀の個人ローン契約者１６００人の情報流出 保証会社に不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwa0xmNHVLZld1amtrcFc5cUMwTWxWUXZHS29JYm9zTDRXUEJwbnIyNFh4OHppOTJ1T0htN081SHEyeS1EajhHeFA4ZU12OUlZ?oc=5",
    "source": "日本海新聞",
@@ -440,24 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpd0cxWHJsRk1BbFlYYTlER3lTYl8tRm5ITUZNb0U3VGJQZGVqaTUtVUJScWNnY1hMWHFHaFhlYTdURVdWNGxMQUtuODQ2Ylpp?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-07T16:09+09:00"
-  },
-  {
-   "title": "姫路市、行政オンライン申請とマイナンバーカード予約で個人情報漏えいのおそれ アララ不正アクセス、防災メールや申請通知にも影響|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXQ5U0FlblZaYk1NLU9mbzNjcGJ1RE5zZnRDVHk2ZERhclpETTlxeWZuX3I5bjZPQnVoZTAtdkwyWC1XZFRGVVROSzl3TU12UFozRnFOaWNfUlgtUUk0UHIyeHZNSUdpOXhkRUlONzNvVHZSYmEtSE91WVJFalVQYTRiRDBSOUhwMDlXUC01TndSUWRiT3cyMGxrR202aDZJTWpMdU50cEZMLTVFbWc?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-07T16:00+09:00"
-  },
-  {
-   "title": "外部メール配信サービスへの不正アクセスについて | ASOBISYSTEM Co., Ltd.",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBUWJDNEhjYXFrZHZ6Y1FEbHdtS1pRSG5yS3BIT0hHbWVxTVBaR2hldW5hT2p4czViLXJKTk1BR2s4SjRhekVRZVlWSQ?oc=5",
-   "source": "アソビシステム株式会社",
-   "at": "2026-11-07T15:54+09:00"
-  },
-  {
-   "title": "ドコモ、不正アクセスで最大約30万件の顧客情報が流出 ― 本人確認書類の番号や口座情報なども",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZmc2Y1VqTkF4VjZRR3hmamVtc3oteTJrclRHZ1dzX05ad0x2aW5aVXRxMDFGOVhReXo5V09HVGpKMkpPempqaU10MGNGeDRyckRoSHFWYVlIMXZGbjFlYkN5bDRjM3ZaODkzdEprU3E?oc=5",
-   "source": "OREFOLDER",
-   "at": "2026-11-07T15:46+09:00"
   }
  ],
  "osaka": [],
@@ -607,7 +600,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「信金 システム障害は全面復旧 一部機器の故障が原因」"
+    "「システム障害を知らせる大阪信用金庫の張り紙＝6日午後、大阪市北区 - 福岡信用金」"
    ]
   },
   "japan": {
