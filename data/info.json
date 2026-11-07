@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:45+09:00",
+ "updated": "2026-11-07T11:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -235,9 +235,15 @@
     },
     {
      "title": "ロシア軍の戦闘機を複数撃破 手段は「ドローン」ではなく「ミサイル」に改良型の登場で大きな変化",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RWjBNRURjX3k1NTVjaXYyNW94X3dMcnoxa0ZkUlA0S1o2WjV3Y1lON3ZKTF9LUjNXc0ozb1NaV3ZHVXdLdl81alJXZ2llWTNkaFZ6ZEdPUWl0WGlpRTZDSGowaWZWUEVna1Nnbmt3?oc=5",
-     "source": "au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1LVg4bGZydWczSHhZek83TkI5WlNLeUYyYXVMRThnQjlNd0x0MVJlVHRTQ1RpWXZhUFNROGpfRjQ5ckp0UEFVQjdB?oc=5",
+     "source": "乗りものニュース",
      "at": "2026-11-07T09:42+09:00"
+    },
+    {
+     "title": "ロシアのＪＴ資産「一時管理」、日本の制裁緩和引き出す狙いの「揺さぶり」か…これまで外国企業３４社対象",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbjlNci1HYWw5YUFIeGlUai1OazdzdE12LWVHdE1fM1ZCV3FZOGMzX1ZUbE41U1U4Y19kMGo1dXJBWEZqZHFLRzJ0dDhoWXFHVXBuZnVKdWp3NlpQdGVvQXh3?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-07T09:25+09:00"
     },
     {
      "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzd5V3JGTTJJOUlZaFRXMFpsRGZnT05EcjZGY1VmVFJKd3RHNUQ0MGNmZ2RpZWt4eFB6ci1lQjNCRHlQcGt6UHFnWGE2cEJRbzFIbjIwWERnZlpIcE9TcXdJaFBrWTlLd1VzWDJ6a1E4aWlaS1F3T04teHBTU21wRmJ2MG5pVTFrY1ZBenln?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-07T01:53+09:00"
-    },
-    {
-     "title": "ロシア人のオートバイ運転者、ウクライナのドローンを軍用車両に誘導した後に一命を取り留める",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlZIYk5ORVYwak1ZLW9zRXJKOHBUQmZtOHBUU3Y2SVZTdGtUdFVFOEVpblFBZEZuUWhrNk9NWUZkTE1WYldOVHZXem8yQ3dnU1A2eE9XUGNsakVjOG0zZE1tUkxST24wREloRDlmdlc3WGlneTJ2bGQ1bW9wSjBVY3lRbWFTZkdRYjlmZW5NbEs3b1Y0VUJ4NFJvLU1mVFdrVmNWX3drdHdtUWJaa0k1NGJjaXJTdkxaaWV3NmtldThXY1RfaG4zVnpuS2o2QQ?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-06T22:53+09:00"
     }
    ]
   },
@@ -310,9 +310,9 @@
  ],
  "nankai": [
   {
-   "title": "高知市と物流グループが協定 南海トラフなどで物資輸送や拠点提供",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TMmlYQjRXWGx3SGw1dXRHRlY0NnN5bkFIRU04UWNCNTluSXFnVWl0SVppdUU3UXZPQTFXZHU0eEJlZEVtOTZFOHFIRzc1eUJuWDMta0ttZlByR050VWlGdWg0eWU3T28?oc=5",
-   "source": "朝日新聞",
+   "title": "高知市と物流グループが協定 南海トラフなどで物資輸送や拠点提供（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xeWJEU1I5cVctMFQyYk5jQUJzeWQ4VFRrYWRVM3F3QTY1RFMzM29fc0ZaUVI3VTB3YkI2VmhUMGMxMzZkaG1BSGR6MUJJVHlnYV9iZXNmdXFDdXcxSmN3NFFQWXUzN1gtalNRYkZ6eDhqQTFhczlkZU4xQktfc1E?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-07T10:30+09:00"
   },
   {
@@ -405,9 +405,39 @@
    "at": "2026-11-07T05:10+09:00"
   },
   {
+   "title": "【小田原市】小田原市立総合医療センター導入の小児科診療予約システムに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW9wOHNwV1JUaVctRlowMm1QemNKdW5TLVkxbWdHQll5MTdfYXQ5RnVPN1ZsVmwyX0ZMeFNYWEJueUtZNFdwNkh4LVlGNThSZngwaTdtWERxMmg0cGpYN2tmWVpTTEdneWhEeDJJa1o1ZUJ6eEg4UnhfbXBTUVpIdHRYb3dPX0xhWENMSg?oc=5",
+   "source": "湘南人",
+   "at": "2026-11-07T10:58+09:00"
+  },
+  {
+   "title": "福島県郡山市、行政手続き・マイナンバーカード予約で約5万2,600件が影響対象の可能性-アララに不正アクセス、登録者情報を調査|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNczZqeE52ZHRQV2lxdU1SODdoZEc4X2pac2ZRZ2tvREotVFdrUEhuYTl4aE5nR2ZVRThnY3RXSXJjYnVLYVR6SUhVRGF6MTdqMENlMzdFU0VoTjBHSVRIaURLRXJWNlA2Y1VuVzdSaVdYUXpHalNqTXFVS202anVVdlpxNjV4dGFUSEpVb0RieV9lYU0?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-07T10:54+09:00"
+  },
+  {
+   "title": "尾花沢市、メールアドレス971人分流出か 不正アクセスの影響、被害確認されず",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbDh2S3RQejJWdFozOXNNaDY0ejZveWxXQzBiajAwaUVXMHFJclJGcFRtelRmRS1TdUg1dEdualJLVlFVVXZPNEpHRlFIWmpLY3FKWTNuYmRlMDY4UDZBQmNDQ2p2MTNsYVpwbjd2bw?oc=5",
+   "source": "山形新聞",
+   "at": "2026-11-07T10:44+09:00"
+  },
+  {
    "title": "【不正アクセス緊急対策】首相主導、企業支援に軸足 枠組み先行、実行力課題",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WdVhpd29YQ0pfTVRUX2NqM08tUnhibG9jUVFUTEtCQUMzeVFFMjc3SW92RDJZQ3lYZk5qMHpkUkMxTVVhNGZQa3dJTXZIUzl0RkpZcTFXWGFkZmEybmc?oc=5",
    "source": "沖縄タイムス社",
+   "at": "2026-11-07T10:40+09:00"
+  },
+  {
+   "title": "秋田県有施設 電子券購入者情報漏えい恐れ 「アララ」不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoUkUwdk5tZ2ZPcm41SS1ocW1GaGZtVVBSb2ZyOExWOVZnQVpEX1lseHRtbjluYUJnaUROZl9wcEZrQnlQOENVVjg0WGlZTFFiajFxWkhrNENmd3dSUHlNOFd3?oc=5",
+   "source": "秋田魁新報電子版",
+   "at": "2026-11-07T10:40+09:00"
+  },
+  {
+   "title": "【不正アクセス緊急対策】首相主導、企業支援に軸足",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DUlIzRlFuZk1MMUVOZEsxNzBDSUlfRXhMZDk5S04wMjdLVVF6LTNBbjdsTmRqWWJnMU9Da3phTnBHSmNlRWEza291LXNWVU10c0huV3RQd2xIUQ?oc=5",
+   "source": "中国新聞デジタル",
    "at": "2026-11-07T10:40+09:00"
   },
   {
@@ -429,40 +459,10 @@
    "at": "2026-11-07T10:00+09:00"
   },
   {
-   "title": "ランサムウェア集団『Qilin』主導の疑い、ロシア国籍の被疑者を逮捕 日本警察も捜査協力（電波タイムズ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VS281VkRMbVhWWnlDNk02ZTF0SWxTRGZhbGRqYmMwR3l2UmV1aUl1V29QVFJzLUZqZWF1dVJnbWpTZThJVTdWbzZTQktsZ1MzaHZjWGdYWnlIbDVUcDZGX0tSS29JSmZFalRfYk1WWWI4aW9WcXJiakZzNkRzVTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T09:53+09:00"
-  },
-  {
-   "title": "ドトールコーヒー、公式通販サイトへのサイバー攻撃で最大2万4,771件の個人情報漏洩の恐れ-定期購入も停止",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOERqYkxsal8zQU0ydzBHbVRKQkFWYlAwUmQ1MHBmR3kzV2tZZVFMUGdUOUJyU0tneHQ4ZV92QllnYkxPX2Zmb1JPMV8tVjVJSmdtSC1hVjhKUXhjdml4RFJaS21taGFLRnAwSTJCVGZpWW1GSDBjZ2dydGpqOEgwVUphWHU1dVNxblNTaFUxQ21HUHRraXVVaDNXQi13clBzcUdsS2hVeXFFZw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-07T09:46+09:00"
-  },
-  {
-   "title": "不正アクセスで約30万件顧客情報が流出 ドコモ陳謝（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14WGZKNV9vX3ZRcWswOU9oUWctelVGTXltQnVfSnlJVlNaamRfNW1iSEd2V1Z6amx4QmJfTDJ1cHNwaWdTTXZLQU5sVEo4cW9jRlNvZlJNX21WbVZBcDBtbVNtRGFnR2NkcUFEeThRV1I3dVNabUswZzZKTENSWEk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T09:45+09:00"
-  },
-  {
-   "title": "仙台市、マイナンバーカード予約者のメールアドレス1万2,211件に漏えいの可能性 TKC経由でアララへのサイバー攻撃で、通知メール停止|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSTY1MWw3YXlmYVgycktmeDdFM0hzcmg0UXRZeHFMOVV5ZURHRHpGc1pMbEtmRnZUZXV0djJMQ1N0blhoTDM3T3laU3VGZVRwTnBkandjVXlDUzFzWXJSTWE3RG11bXpZZFBOUVRwaGE1SkxmUy1EdHBmcXhnSGRwVU5YbS03bm9QV2tOX0lsdlBkdGdQUWZpaWJWWmNZdVpObnpPQk52X3lwbW9wOEdzOA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-07T09:40+09:00"
-  },
-  {
-   "title": "WorkOSの不正アクセス、正体は研究者のAI 検証環境を脱走し顧客情報を大量に取得",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfM1VjVXVXUzBiWjJHODE4dmpxcVY4X1ZVY004RjM3S2ZHUTZKZ3ZJUS1GdGxGWmtIdGU4ZGw0ZUhzZzcwRC1CNlNNTDhNX2lOTGlj?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-07T09:13+09:00"
-  },
-  {
-   "title": "岡山県キャンペーン アドレス１１００件流出の恐れ 「アララ」不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SVHdHVHNBdU41NVh5VXRiNE1nNU0xd2VVNS0wTWJ3Z0ZkclNoTTItSmpEcl9qU1VWbWlyQUUxdU0tY1NhUENwWmszbWdKbzVXcjMtblhfMERwQW9BNlNzN1E0dWF3QzQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-07T09:10+09:00"
+   "title": "【更新中】宝くじサイト 勝手にパスワード変更される 年収や保証額も漏えい 三井住友G保証会社 「無印良品」で約109万件流出か アソビューでは約1582万件流出 ＜不正アクセス情報まとめ＞",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-07T10:00+09:00"
   }
  ],
  "osaka": [],
@@ -497,8 +497,8 @@
   },
   {
    "title": "ロシア軍の戦闘機を複数撃破 手段は「ドローン」ではなく「ミサイル」に改良型の登場で大きな変化",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RWjBNRURjX3k1NTVjaXYyNW94X3dMcnoxa0ZkUlA0S1o2WjV3Y1lON3ZKTF9LUjNXc0ozb1NaV3ZHVXdLdl81alJXZ2llWTNkaFZ6ZEdPUWl0WGlpRTZDSGowaWZWUEVna1Nnbmt3?oc=5",
-   "source": "au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1LVg4bGZydWczSHhZek83TkI5WlNLeUYyYXVMRThnQjlNd0x0MVJlVHRTQ1RpWXZhUFNROGpfRjQ5ckp0UEFVQjdB?oc=5",
+   "source": "乗りものニュース",
    "at": "2026-11-07T09:42+09:00",
    "topic": "ロシア"
   },
@@ -515,6 +515,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-07T09:30+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "ロシアのＪＴ資産「一時管理」、日本の制裁緩和引き出す狙いの「揺さぶり」か…これまで外国企業３４社対象",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbjlNci1HYWw5YUFIeGlUai1OazdzdE12LWVHdE1fM1ZCV3FZOGMzX1ZUbE41U1U4Y19kMGo1dXJBWEZqZHFLRzJ0dDhoWXFHVXBuZnVKdWp3NlpQdGVvQXh3?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-07T09:25+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "欧州の旅客機数十便に爆破予告…アイルランドの放送局にも爆破脅迫（中央日報日本語版）",
@@ -585,13 +592,6 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-07T00:53+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ロシア人のオートバイ運転者、ウクライナのドローンを軍用車両に誘導した後に一命を取り留める",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlZIYk5ORVYwak1ZLW9zRXJKOHBUQmZtOHBUU3Y2SVZTdGtUdFVFOEVpblFBZEZuUWhrNk9NWUZkTE1WYldOVHZXem8yQ3dnU1A2eE9XUGNsakVjOG0zZE1tUkxST24wREloRDlmdlc3WGlneTJ2bGQ1bW9wSjBVY3lRbWFTZkdRYjlmZW5NbEs3b1Y0VUJ4NFJvLU1mVFdrVmNWX3drdHdtUWJaa0k1NGJjaXJTdkxaaWV3NmtldThXY1RfaG4zVnpuS2o2QQ?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-06T22:53+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "サウジアラビアとイランの外相が地域安全保障について協議、フーシ派の攻撃が激化",
