@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:15+09:00",
+ "updated": "2026-11-08T00:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -186,9 +186,9 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃 | | 全国のニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jYVhVT0NycnFqZTB0R2lqS3phZldJbHBUTDB3Y3E2ZUJEcnVfeUF2RXdZUEE4bUtNNEZySnlrZ2dSaWRyQ3huTU14cWJ2a0h3eXdQQ3pR?oc=5",
-     "source": "佐賀新聞",
+     "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaHpqUGNJanFSRmRBZ09QN1dyRDVQVDJhNm5Nak44TGlENjhhM1pRaWE3aGZjXy1RRDBYZHBia3lPNTdWYnFiRFFlbEg3Z202ZWE2Q2pmWkpZbENpRGxtT0xLckFnY0xldW1YVWtaVUpGVi1mQ0VObnZOVEVsODg?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-07T23:30+09:00"
     },
     {
@@ -328,10 +328,10 @@
    "at": "2026-11-07T05:30+09:00"
   },
   {
-   "title": "松山・道後を滞在中に「南海トラフ地震」発生したら 温泉街で避難訓練 増加する外国人にも対応【愛媛】",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CMUVjRHdkUElOSm9mcjg0cEZDeTJ2LWMyakJNaHpRYW9kM2hvaDBGcm1oZ2dXcVgzQlIxcExvU0VOVmZaZE1DdjJtU205dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-06T18:43+09:00"
+   "title": "松山・道後を滞在中に「南海トラフ地震」発生したら 温泉街で避難訓練 増加する外国人にも対応【愛媛】（テレビ愛媛）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuaFMySzR1ZjlET0lUNk9PdzR5b0RUQUxYeG1ZcVp6bmRFMDJXbWFxX3FKclgydXg3SmVhaXJ0SnJnaElVamdDX3NMX2Z5dW9veDBwejZUVzNkRHVfT2V6TnRTUmRPeGJhYWVMdFBCUFlMdDF0Y1c5ZnlBemUzZmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-06T18:45+09:00"
   },
   {
    "title": "高知城の耐震化も課題《南海トラフ地震》県内最大13万6000棟が揺れで全壊「あす起こるかもしれない」住宅耐震化を今こそ",
@@ -417,6 +417,12 @@
    "at": "2026-11-07T11:10+09:00"
   },
   {
+   "title": "クラブツーリズム、ウェブサイト再開 不正アクセスで停止",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UNWdpQ1IzOUlxdHJKRlUwcXVCbWZQa2ZTb2ZSRGRJd1lseGpObndLbDJpSi1tblVBNzgzTlNSUkl6NjFoWXk4?oc=5",
+   "source": "TRAICY（トライシー）",
+   "at": "2026-11-08T00:27+09:00"
+  },
+  {
    "title": "SMBCコンシューマーファイナンスがサイバー攻撃を受け、りそな・横浜銀行にも影響",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2ZqSFR4aWhpSVNhNXI3Q21CYU5tV1Z5T09sWmZkX1RwblhuTWIxNGdBSG1LRmF6R3RhWjdibDBmVnN2QTR3RnhFcGd6azN1UEV4MDZRc3k1cV9DcTNCYWJjUTNtLUhxWUdvSkFCN294R2pXRzBVT0lZdDBHWHgxdUhWR1Y1bDZKRnM4Z2JaMWFZNnhNYkJFanJ3?oc=5",
    "source": "Pasquale Pillitteri",
@@ -445,12 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TV0c5eERRazNxdERkWU80cEx4eUtjTlNJMVluU282bDJaVXZoUUxZNTNJVzlWbmc5VVBub09SOUkxNm9oMENqQWkxeHZ4SHNaRmoyUnFoRDJQSVJkMUVR?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-07T18:14+09:00"
-  },
-  {
-   "title": "【藤沢市・鎌倉市】※江ノ電ニュース：電子チケット購入アプリ「アソビュー！」に不正アクセス発覚、会員情報流出か",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LZFpJbkNFR05WR3FFTUkyTTBWUDVkcWtybzJxMlRPbENEMUs2RkxSdHNJZ0kxUXRtSG0xV1QyQlUxZjhZZXRiaUhfRFlnYkZxT2ZiUHg4bGZWdXhjNWt5endQUFljNkJubWZPU1JNMDJIbEE?oc=5",
-   "source": "湘南人",
-   "at": "2026-11-07T17:56+09:00"
   }
  ],
  "osaka": [],
@@ -498,9 +498,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃 | | 全国のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jYVhVT0NycnFqZTB0R2lqS3phZldJbHBUTDB3Y3E2ZUJEcnVfeUF2RXdZUEE4bUtNNEZySnlrZ2dSaWRyQ3huTU14cWJ2a0h3eXdQQ3pR?oc=5",
-   "source": "佐賀新聞",
+   "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaHpqUGNJanFSRmRBZ09QN1dyRDVQVDJhNm5Nak44TGlENjhhM1pRaWE3aGZjXy1RRDBYZHBia3lPNTdWYnFiRFFlbEg3Z202ZWE2Q2pmWkpZbENpRGxtT0xLckFnY0xldW1YVWtaVUpGVi1mQ0VObnZOVEVsODg?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-07T23:30+09:00",
    "topic": "北朝鮮"
   },
@@ -625,9 +625,9 @@
      "at": "2026-11-07T22:11+09:00"
     },
     {
-     "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃 | | 全国のニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jYVhVT0NycnFqZTB0R2lqS3phZldJbHBUTDB3Y3E2ZUJEcnVfeUF2RXdZUEE4bUtNNEZySnlrZ2dSaWRyQ3huTU14cWJ2a0h3eXdQQ3pR?oc=5",
-     "source": "佐賀新聞",
+     "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaHpqUGNJanFSRmRBZ09QN1dyRDVQVDJhNm5Nak44TGlENjhhM1pRaWE3aGZjXy1RRDBYZHBia3lPNTdWYnFiRFFlbEg3Z202ZWE2Q2pmWkpZbENpRGxtT0xLckFnY0xldW1YVWtaVUpGVi1mQ0VObnZOVEVsODg?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-07T23:30+09:00"
     },
     {
