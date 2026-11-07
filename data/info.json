@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:30+09:00",
+ "updated": "2026-11-08T02:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,26 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-08T02:31:00+09:00",
+   "place": "渡島地方東部",
+   "mag": "2.9",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-08T02:30:00+09:00",
+   "place": "茨城県南部",
+   "mag": "3.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-08T02:03:00+09:00",
    "place": "愛知県東部",
@@ -74,26 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-07T03:54:00+09:00",
-   "place": "和歌山県北部",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-07T03:51:00+09:00",
-   "place": "和歌山県北部",
-   "mag": "2.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -120,6 +120,12 @@
      "at": "2026-11-08T00:04+09:00"
     },
     {
+     "title": "イランが「戦争開始時よりも強くなった」と発表",
+     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd3lpTzRpaWd2U1ZNR0lNODgwUE95SVdrNloteGpDa08waDVlUHpuS2RnY0ozYUZHVVpPVnlIWjBqdW5ENVpZUEJhOXF5bEZiX1FiTkJsRUlXR2FSVzBWMkU0Nm9HdUU0SEN5bnZvTzV5ZXZkT0RYc0FXVGdRZ2ZpX1lQN09mRFdLaWRqRWl4V3BpenJxM2k3OG1BSjFUc2hjV09wX1FOamZ0ek8zRE9lcW9VYVNzaTZhdXFCM2RobGxxejlWQWpOR1cyMWQ2dTFkcE53ZHBEZ3A5a0VCZmFwMnNyYzZsamZhdnZjZmNTUVN0cDRlRE0yalR4Rk0tQVMzSjFvSU1PRExxUTFLNVZYWEcxTkdkdWl3THB4ek82UWpGRlFsSXdxYksyN05vN1BoT1ZyT2ZBZ0lGQ1hBQ1FiN0RYNmhseFk?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-07T23:42+09:00"
+    },
+    {
      "title": "米軍、イランの陸路武器密輸を阻止する部隊を新設",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MU2ZPZHoycjA2eGRJdGM1MG9NczhJWFNxVF80Z05vZ1M1eHZZeGlzRUNsZ2hUV0FwNE1YV0lwcUZIdEstaVFHbnQ3RW56VWZZeE50ejRzTW1IdVQzQ2xXZXFjQlB5Rm5RLWc?oc=5",
      "source": "Investing.com - FX",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWU4d2s3N0dBVjRYMnFteGNNLUtoUjBOOV8zdTV3dnRGNjBrMzBPZHp4WlRLMDlxdkozMi1VZjdUU1VIWkJQcXFUR25qLWVRSEJRTF9pUTQ4aFRTWlNsUDM4R2U1WFRsVk9lTWJNX0NnWW0zR3R6QWNkdFcwWF9VazNtUHppVDVuT1Q5cWRFSmNJaWJpcHBNcE1ZaGdXbktGTVVr?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-07T23:17+09:00"
-    },
-    {
-     "title": "米軍、イランの核プログラムに関する情報提供者に2000万ドルの報酬を提示",
-     "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQME9HbkU4LWVjSmtvSzkxMFE4cVhNRG54d0JSaXk1TWUzd0EyeEEzUnhJb1BpcWp0VTNvMi1Da2NEaUMzLUxreVRobUVvWGVVS3FqTGJYamY5NjlTMERaeWdzMUlQMHlodDYtaVE3c0FwaFNJbkVrZmhiVlk1N0JCX1g3SDJyMXZaVFVxNnZiMnJwdjZfNVoyNHV1U01fOGNpNEFTb0dPZ2doOEVFajJLZkprUU9YUXE1VzVSN0ZZanhyZjZfMUFJdkJiZ1BsaHdNdEFDS2J0QjBZcGtZV2pxV1h1MlpJZWpLU0x0SDlaQ20zVDB3NEJwR3hIR25Kak41V1pMdVBNZE0zNzN3NFBqUkNURlFwZ0xzaWZ6bHN5UERiM3RCMGZyWlRHbzBOUnBpSTZyMjlCb01pdFIwaktwM2hkMy1EeElpajNreEhQS3BsX2k0dXBjUjZPbDJDTDk5REJjSThHVTJ3bEh5alVNSFE4TXJDblJGclJMRWo5T2hqWFlhWjB2a1VUOWR2bTk5cjNrT0QyS3p5REJvNlpBelowOG1nbS1pN1RYR01OX0RsaTVsTmRoc3JVUVc4RWZIYmxfQ2g5UUhaQ3YzRktWcw?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-07T22:15+09:00"
     }
    ]
   },
@@ -186,9 +186,15 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃（共同通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaHpqUGNJanFSRmRBZ09QN1dyRDVQVDJhNm5Nak44TGlENjhhM1pRaWE3aGZjXy1RRDBYZHBia3lPNTdWYnFiRFFlbEg3Z202ZWE2Q2pmWkpZbENpRGxtT0xLckFnY0xldW1YVWtaVUpGVi1mQ0VObnZOVEVsODg?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-08T00:19+09:00"
+    },
+    {
+     "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃 | | 全国のニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jYVhVT0NycnFqZTB0R2lqS3phZldJbHBUTDB3Y3E2ZUJEcnVfeUF2RXdZUEE4bUtNNEZySnlrZ2dSaWRyQ3huTU14cWJ2a0h3eXdQQ3pR?oc=5",
+     "source": "佐賀新聞",
      "at": "2026-11-07T23:30+09:00"
     },
     {
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzSnA1RWZYWFV0emkyT1ZaYno0R2Y5S3ZjT1NQbndBWFJjYkdSeWJ1UC03dW5Vc2xEYS1oYktEOWZTeTlWdlJCM2VuZzVwZGhscF9vX0NTcDduc0V2UWtKQlM0ekZPNHkwNGFUQWs0ZllQYU9sc1hV0gF8QVVfeXFMTWFyYkJqNW81SkQ4TVg0bEVWemQ0clA5c3RBVGNhSWRval9Cd0k3RVloUkh6aDhkZ25YU1J3bkRNN0s5ekt4UlVJQktaMTVLNWlIV2Juel9XSi1KZm9DNzdyMERqNUZ5dVlqVGpOa2hkcHd4WUlpNzhKTFY2ag?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-07T14:20+09:00"
-    },
-    {
-     "title": "核兵器は最後の手段…北朝鮮、4日に1度のペースで通常兵器公開（2）（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41SkZXVm9CdXZLU05VUXpXbHhEZXJaaVFEUUhjVFpMazVPbzBpMmg0Rkp4R3pSdll0aTJfb05GbjN4MHF1bXd3Q1cwRlYxM21oclA0MEoxSjh1ZHppaEg3ajVkdWE0YXh0dWhKbV9mUTB2bGFndzNza1ZsQmtlSTA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-07T13:46+09:00"
     }
    ]
   },
@@ -450,6 +450,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-08T00:19+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "米軍、イランの兵器陸上輸送ルート遮断へ－専門チーム新設",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9leTBYdHJ4Z2M4S0VzNHhYUmNjOXFUZEt0TEJrVFR2bkp0T3kxLTNKd2ViNFBiblpxLTlub01NYTdfbXpISVFJM3NycXRQMWswVkt1SW5pQmRJTDVpc1M0bmdTRWh3akwzNS1lTG8tUWJCbENRYWNZ?oc=5",
    "source": "Bloomberg.com",
@@ -468,6 +475,13 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KMG85eGRCNGNxZEVSdGxXTzd2dS16T0J3RFVXbU1BbDZzbVZUMmdmYV9HMWdJWFloVERqYURLRlViQ3BYdkpNUUVKcDFxNmUwZ2pXR1hDem9wbEFZdk9ELUQ0RXJQNl9NODN6OFBIQ09qNFV0UmRlONIBhAFBVV95cUxQY3Z5blAyOUhqaXd1NUtlVUZ5YUJzandaYVV5WV96M1UydmpRdWRjZHVsTHRON0dNUnpuWi0xYnp2WjR4X29SNUM1VXRVSzhBNk9FRTVaZHE5cUJaUHNfSHVHckpsNGF1VmphYUxHUjUtci1MZjBsTFA4WUdpNXRaaExHcmk?oc=5",
    "source": "大分合同新聞",
    "at": "2026-11-08T00:04+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イランが「戦争開始時よりも強くなった」と発表",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd3lpTzRpaWd2U1ZNR0lNODgwUE95SVdrNloteGpDa08waDVlUHpuS2RnY0ozYUZHVVpPVnlIWjBqdW5ENVpZUEJhOXF5bEZiX1FiTkJsRUlXR2FSVzBWMkU0Nm9HdUU0SEN5bnZvTzV5ZXZkT0RYc0FXVGdRZ2ZpX1lQN09mRFdLaWRqRWl4V3BpenJxM2k3OG1BSjFUc2hjV09wX1FOamZ0ek8zRE9lcW9VYVNzaTZhdXFCM2RobGxxejlWQWpOR1cyMWQ2dTFkcE53ZHBEZ3A5a0VCZmFwMnNyYzZsamZhdnZjZmNTUVN0cDRlRE0yalR4Rk0tQVMzSjFvSU1PRExxUTFLNVZYWEcxTkdkdWl3THB4ek82UWpGRlFsSXdxYksyN05vN1BoT1ZyT2ZBZ0lGQ1hBQ1FiN0RYNmhseFk?oc=5",
+   "source": "アラブニュース",
+   "at": "2026-11-07T23:42+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -492,9 +506,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaHpqUGNJanFSRmRBZ09QN1dyRDVQVDJhNm5Nak44TGlENjhhM1pRaWE3aGZjXy1RRDBYZHBia3lPNTdWYnFiRFFlbEg3Z202ZWE2Q2pmWkpZbENpRGxtT0xLckFnY0xldW1YVWtaVUpGVi1mQ0VObnZOVEVsODg?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃 | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jYVhVT0NycnFqZTB0R2lqS3phZldJbHBUTDB3Y3E2ZUJEcnVfeUF2RXdZUEE4bUtNNEZySnlrZ2dSaWRyQ3huTU14cWJ2a0h3eXdQQ3pR?oc=5",
+   "source": "佐賀新聞",
    "at": "2026-11-07T23:30+09:00",
    "topic": "北朝鮮"
   },
@@ -518,13 +532,6 @@
    "source": "東京報道新聞",
    "at": "2026-11-07T23:03+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "米軍、イランの核プログラムに関する情報提供者に2000万ドルの報酬を提示",
-   "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQME9HbkU4LWVjSmtvSzkxMFE4cVhNRG54d0JSaXk1TWUzd0EyeEEzUnhJb1BpcWp0VTNvMi1Da2NEaUMzLUxreVRobUVvWGVVS3FqTGJYamY5NjlTMERaeWdzMUlQMHlodDYtaVE3c0FwaFNJbkVrZmhiVlk1N0JCX1g3SDJyMXZaVFVxNnZiMnJwdjZfNVoyNHV1U01fOGNpNEFTb0dPZ2doOEVFajJLZkprUU9YUXE1VzVSN0ZZanhyZjZfMUFJdkJiZ1BsaHdNdEFDS2J0QjBZcGtZV2pxV1h1MlpJZWpLU0x0SDlaQ20zVDB3NEJwR3hIR25Kak41V1pMdVBNZE0zNzN3NFBqUkNURlFwZ0xzaWZ6bHN5UERiM3RCMGZyWlRHbzBOUnBpSTZyMjlCb01pdFIwaktwM2hkMy1EeElpajNreEhQS3BsX2k0dXBjUjZPbDJDTDk5REJjSThHVTJ3bEh5alVNSFE4TXJDblJGclJMRWo5T2hqWFlhWjB2a1VUOWR2bTk5cjNrT0QyS3p5REJvNlpBelowOG1nbS1pN1RYR01OX0RsaTVsTmRoc3JVUVc4RWZIYmxfQ2g5UUhaQ3YzRktWcw?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-07T22:15+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "カラス氏、ハイブリッド脅威への選択肢としてEUの緊急プロトコルと新たな対ドローン能力を提示",
@@ -574,13 +581,6 @@
    "source": "ウクルインフォルム通信",
    "at": "2026-11-07T15:48+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "北朝鮮の金成男氏、中国高官と相次ぎ会談…「中朝親善は不変」",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1JnVHE1YjBwR0ZsNHhIcUgzQVFyRjF2TFliZ0hDUG9YUzV6WGFnSkxVUlM5RzVkWWUyWjlvTlhuRC12bkh3Qjh5elVHVW96TXctaUVnWGRUSmdGNm5INW1maTMtVW81Z2pqSnU2VHQxRVNSelNOOGU0elh3bEJNZ0JWVGxZQQ?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-07T15:33+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -599,16 +599,16 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "北朝鮮：「攻撃」2件",
+    "北朝鮮：「攻撃」3件",
     "ロシア：「攻撃」3件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
-     "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃（共同通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaHpqUGNJanFSRmRBZ09QN1dyRDVQVDJhNm5Nak44TGlENjhhM1pRaWE3aGZjXy1RRDBYZHBia3lPNTdWYnFiRFFlbEg3Z202ZWE2Q2pmWkpZbENpRGxtT0xLckFnY0xldW1YVWtaVUpGVi1mQ0VObnZOVEVsODg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-07T23:30+09:00"
+     "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-08T00:19+09:00"
     },
     {
      "title": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
