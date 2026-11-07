@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:00+09:00",
+ "updated": "2026-11-07T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-07T20:07:00+09:00",
+   "place": "茨城県沖",
+   "mag": "5.6",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-07T06:30:00+09:00",
    "place": "山口県中部",
@@ -81,16 +91,6 @@
    "mag": "6.1",
    "maxi": "3",
    "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-06T09:06:00+09:00",
-   "place": "相模湾",
-   "mag": "3.7",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -216,10 +216,10 @@
      "at": "2026-11-07T13:46+09:00"
     },
     {
-     "title": "北朝鮮・中国が高官会談連発 協力強化確認",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXhyeHZ3TUxxYmFiS1pCaUN0N2pmdDY4NVFxQTljOU90OFlyVGxVaXNfZDVCYnVSR05HX2J3R0h2cGd1U20yMEtHTGhuUk1hcWdCemdtQ0lTa2FMUmxyWGtEV0x0T3o4bExxVVh6RkV0YXc1eS1ET1lnYmd4eHV0ckFRUTRqTm1G0gGcAUFVX3lxTE4yWURjSkk5UW5QdllZeW9IcFljeEtScjFBdjVnTGs2dVQyRjMyR3ZrZ291YzVMSFRtb3cwcjR1WTVFeUZfR3hGaDAySkZsZVA5Nm1XWHEwTk1sejNMbkN6M014QVJrQ0RzMWNjNl9DUG5QVk52eGtRZFNhRnhiT0ZBcTFranRwTzlpVHhUelg4Q3ZBZmRmalBTZm8wVQ?oc=5",
-     "source": "Chosunbiz",
-     "at": "2026-11-07T13:31+09:00"
+     "title": "レーザーで無人機撃墜…北朝鮮の脅威多様化に対応する韓国空軍（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoZzE3UWZJMFBuN1l4bVFXWGJGWHZxVWN5OHFyZ05hbEJXV1Fuai1STXBKMGlhMHBRSXY3Mk9UVFplWkp6MmZxbG1EdmZmeDRuaEo1VUlDRWtIU1lWVUUxUkdPclJTbWZMV2prcm5qM251UDZyUVVfYWozN0NKbnM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-07T11:59+09:00"
     }
    ]
   },
@@ -295,8 +295,8 @@
     },
     {
      "title": "米国のNATO関与縮小、ロシアの「核使用を誘発」する恐れ 通常戦なら欧州が勝つと専門家",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlajk3dnFXZ1VPaVdLUTEwUDUxN1pUNm5PYms2ZkNVWkFpYS1aUlFZalBoa21qWFVVQzNnQ01NOUE5RldZN2RpTlFRSEx3X2h3R2V4Tk55M2JVQQ?oc=5",
-     "source": "Forbes JAPAN",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1VrME5kejhlX0kzS190M1plRHdTOUx3Qk4xWEhoWlRVQkVuYkVWcHl6ZF9PeWtneW9SX3JIXzYtSUh6LVB5U3g5SDQ2SnhweVJwUmNMcFR2NXFucS0xSV85aVN3TnN2b0JRZTdHZWxOZ0o4a0Z4ZE9OWjRhRWFTbWI3QVZrN1ZO?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-07T09:30+09:00"
     },
     {
@@ -561,10 +561,10 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮・中国が高官会談連発 協力強化確認",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXhyeHZ3TUxxYmFiS1pCaUN0N2pmdDY4NVFxQTljOU90OFlyVGxVaXNfZDVCYnVSR05HX2J3R0h2cGd1U20yMEtHTGhuUk1hcWdCemdtQ0lTa2FMUmxyWGtEV0x0T3o4bExxVVh6RkV0YXc1eS1ET1lnYmd4eHV0ckFRUTRqTm1G0gGcAUFVX3lxTE4yWURjSkk5UW5QdllZeW9IcFljeEtScjFBdjVnTGs2dVQyRjMyR3ZrZ291YzVMSFRtb3cwcjR1WTVFeUZfR3hGaDAySkZsZVA5Nm1XWHEwTk1sejNMbkN6M014QVJrQ0RzMWNjNl9DUG5QVk52eGtRZFNhRnhiT0ZBcTFranRwTzlpVHhUelg4Q3ZBZmRmalBTZm8wVQ?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-07T13:31+09:00",
+   "title": "レーザーで無人機撃墜…北朝鮮の脅威多様化に対応する韓国空軍（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoZzE3UWZJMFBuN1l4bVFXWGJGWHZxVWN5OHFyZ05hbEJXV1Fuai1STXBKMGlhMHBRSXY3Mk9UVFplWkp6MmZxbG1EdmZmeDRuaEo1VUlDRWtIU1lWVUUxUkdPclJTbWZMV2prcm5qM251UDZyUVVfYWozN0NKbnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T11:59+09:00",
    "topic": "北朝鮮"
   },
   {
