@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:45+09:00",
+ "updated": "2026-11-07T15:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,18 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランが「戦争開始時よりも強くなった」と発表",
+     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd3lpTzRpaWd2U1ZNR0lNODgwUE95SVdrNloteGpDa08waDVlUHpuS2RnY0ozYUZHVVpPVnlIWjBqdW5ENVpZUEJhOXF5bEZiX1FiTkJsRUlXR2FSVzBWMkU0Nm9HdUU0SEN5bnZvTzV5ZXZkT0RYc0FXVGdRZ2ZpX1lQN09mRFdLaWRqRWl4V3BpenJxM2k3OG1BSjFUc2hjV09wX1FOamZ0ek8zRE9lcW9VYVNzaTZhdXFCM2RobGxxejlWQWpOR1cyMWQ2dTFkcE53ZHBEZ3A5a0VCZmFwMnNyYzZsamZhdnZjZmNTUVN0cDRlRE0yalR4Rk0tQVMzSjFvSU1PRExxUTFLNVZYWEcxTkdkdWl3THB4ek82UWpGRlFsSXdxYksyN05vN1BoT1ZyT2ZBZ0lGQ1hBQ1FiN0RYNmhseFk?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-07T14:49+09:00"
+    },
+    {
+     "title": "米国、中間選挙3日後にイラン・ゲシュム島空爆…トランプ氏「防空施設を無力化」",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnFORW4tY3pPNFEwYnFMcFFILU9IS0pMM0VwOS1DdHlzdW5lMW1SZDdiSFlZZzl3UXRUeml3czJaY2FBRzhMU3BBeEtGZEtsT2Q2YnFQTWJOT0tYLVdNRnluaVJOelJpcktheDlVNWNINTJWbUNUZDRWb2d4dHpnam03aFF0ck80?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-07T14:32+09:00"
+    },
+    {
      "title": "米国がホルムズ海峡の戦略的要衝地であるゲシュム島を再び空襲した。 イランと仲裁国を通じた終戦交渉を進める渦中に起きたことで、共和党の中間選挙惨敗後に進行したドナルド·トランプ米国大統領の最初の軍事行動..",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uTXlwb3h1ZTIwOTJOYjNMSG5GY0dTc1FTaWNEckc2djFwak9ZV1lPWGVrOXNGZm1DUWRkQ3prUkcyaDFVRFQyYmVndkFxLXM?oc=5",
      "source": "매일경제",
@@ -124,18 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTnluZU92ZklVU2xQZnAzY2I2SzRRbmIwb051Z2hDSXRJWDFFTmdOOTBvN0FMUXpQVEJ2aHY4Y1ZXdDZrYXBiVEVVdEVpYWs?oc=5",
      "source": "khb東日本放送",
      "at": "2026-11-07T12:37+09:00"
-    },
-    {
-     "title": "バンス米副大統領、イランと間接交渉＝戦闘終結と核協議開始目指す―報道",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBd3d3bXk5ZzQ4Nk9TM1hPNDJNVjZDdDZTZWZ5WThVSnlzTFdTemhtcUVzVE85OUFsR1pTR3RfdjVIWl9FYUM4cm03VjBtS0VqaHczZmJaOFNyZlhZNmNJ?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-07T11:46+09:00"
-    },
-    {
-     "title": "トランプ大統領「イランに勝利」と強調 協議継続も攻撃再開を検討",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HVDhTOENLUW5DNkEtYnVxSF9JX2RzcDlhd0h2WllEX1RDOUZFc05hMTNWX2YxN0lMTEV3cVpWT2N3V3hiWGsyNE9yLXdodGNJZm9NMUV2YVBkTDR2MU9KODA2TjJkRzhCdjlGem93?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-07T10:16+09:00"
     }
    ]
   },
@@ -246,12 +246,6 @@
      "at": "2026-11-07T09:42+09:00"
     },
     {
-     "title": "ウクライナ軍参謀本部：ロシアは一日で兵士2,280人と砲兵システム44基を失った",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yNmZvNThoRmFyODZfOUVvWkhZeXFXUko5NmNXSkE5bWRyNl9JMjY3cmVYQXVFOVB1MmZvdVh3ZWlmZER6NnJ5Tk9TQ2hyTmx6dmZ5NFpXYm1ydkpSaDNzaUE1V3o3UWRY?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-07T06:53+09:00"
-    },
-    {
      "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
      "source": "Reuters",
@@ -262,6 +256,12 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MGc4Q2w3OHJmU2N5UG9HNFRDTDFCaEs5d0NMNVBfQVloSjZPaGVpZlRIME82dWU0aFdUN2h3WERVYzZhSXF6Z29QUzJSQ3hBdnZPTERQOFBNNzV0am9NUW5pZmlIWWtKbTNpSGw0emY?oc=5",
      "source": "Investing.com - FX",
      "at": "2026-11-07T04:45+09:00"
+    },
+    {
+     "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzd5V3JGTTJJOUlZaFRXMFpsRGZnT05EcjZGY1VmVFJKd3RHNUQ0MGNmZ2RpZWt4eFB6ci1lQjNCRHlQcGt6UHFnWGE2cEJRbzFIbjIwWERnZlpIcE9TcXdJaFBrWTlLd1VzWDJ6a1E4aWlaS1F3T04teHBTU21wRmJ2MG5pVTFrY1ZBenln?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-07T01:53+09:00"
     }
    ]
   },
@@ -393,10 +393,16 @@
    "at": "2026-11-07T09:47+09:00"
   },
   {
-   "title": "信金システム障害＞佐賀県内4信金、顧客への説明に追われ 大きなトラブルはなく | 行政・社会 | 佐賀県のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVmhHUGctbTExMWd4ZnFzSG96a1N2NHdIUGN0WDdOX3BuNEZ2RXJvLThSRnY0WWJlS3JuZm1KQVFScmRBLWZ4ODF1eVhYbFF1S0hrTjN3?oc=5",
-   "source": "佐賀新聞",
-   "at": "2026-11-07T08:03+09:00"
+   "title": "サイバー攻撃に強い「基幹インフラ」病院、28年までに30施設 厚労省",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iNmdQNWVYY3YwZ05SZmVXRTB0VkZ6VHJIQlc0WnMxeEF1TGJJUUJxMlllWnJMbVdiaDRRUzBxMGVSbG4tbVg2UGk4ZTFQOGVaSVQtQTU2bk8wZ1ZqRkVYQkU1aVlyaV9mSUotRQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-07T14:55+09:00"
+  },
+  {
+   "title": "西日本の128信金が6時間近く停止、原因は通信機器の故障 サイバー攻撃ではないと説明 ｜FinTech Journal",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TSXM4YndDanZ5SVhCaDdCNUpaOE9VT255OFFJeXlDMURJVVlLX0xnbGpTcEktRm5HRVhTNm1mMFRkbEV2b2pYTmdmWUNGT00?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-07T14:44+09:00"
   },
   {
    "title": "米民主党が議会奪還してもサイバー攻撃は続く──企業が急ぐべき「5つの防衛策」",
@@ -411,10 +417,10 @@
    "at": "2026-11-07T14:20+09:00"
   },
   {
-   "title": "ゲーセンでオンライン対戦停止、牛丼チェーンのアプリ使えず 不正アクセス拡大",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vaFAyNUdzTGZuLVZiSU5kZ195S3JvN0Qyb2dEc0stcENPTE9lSEtfZEpjZ2lTMUtpRVk1clJxM2lQRUowRUp5ZzFZQm11X2hLeHpoNzJ5ZS1xY1J5Z1ZZd1F3NDhJOWVMMUd2Rm5FOHN1dw?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-07T12:08+09:00"
+   "title": "ゲーセンでオンライン対戦停止、牛丼チェーンのアプリ使えず 不正アクセス拡大（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSFYwaHZsVTFwX21PaWNraWRQX2d4U1JqcFppbjlUeXQ2dGdsNXdHWEtwcnV0NFZxd1paS3FYME5fTFk3cndOdl9jck1TbWdJcDZBc3RMVFRKYVlVR05aOFo3SERoZlNZbnNmZmo2MVFQVV9DWVhNcXZpenJhcEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T12:09+09:00"
   },
   {
    "title": "島根県松江市の公式LINE、アカウント情報漏えいの恐れ 1.6万人分のアカウント名や画像 提携会社が不正アクセス被害 不審な連絡に注意（山陰中央新報）",
@@ -451,16 +457,24 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5icWdDRGVQQmhRNzVLVHpkYnhmaTNQM2xDLU1yV2V2cTVxLXE2eWdOSTBhWXFBUE1NQVdpNFUzR0VlNTB1TDV4LUJuSUl6ay1ZaU5ha3phdDlhM0lwenBBQ3l5R1FheThTcU1fS2NFQUNxbEJhT1pCZ05wUmxwZDQ?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-07T11:15+09:00"
-  },
-  {
-   "title": "「首里城」や「美ら海水族館」チケット予約サイトで個人情報流出か アソビューのメール配信に不正アクセス（琉球新報）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXR04xdjIyb1pjOXZ4Nl94SVJDcGYxeUUzc3lmU3V0ZGxxMy11MTNXb3BBU0t3RnVSdHhvU3p0dUNPcWhFTTRvaGRpV2NBYVNzLVhud3lDWUZVcnNLSjJhUU5jR0ctai0zS0cwNEp1MXZYV2hsVnJDVGF3UnNDQkU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T11:10+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イランが「戦争開始時よりも強くなった」と発表",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd3lpTzRpaWd2U1ZNR0lNODgwUE95SVdrNloteGpDa08waDVlUHpuS2RnY0ozYUZHVVpPVnlIWjBqdW5ENVpZUEJhOXF5bEZiX1FiTkJsRUlXR2FSVzBWMkU0Nm9HdUU0SEN5bnZvTzV5ZXZkT0RYc0FXVGdRZ2ZpX1lQN09mRFdLaWRqRWl4V3BpenJxM2k3OG1BSjFUc2hjV09wX1FOamZ0ek8zRE9lcW9VYVNzaTZhdXFCM2RobGxxejlWQWpOR1cyMWQ2dTFkcE53ZHBEZ3A5a0VCZmFwMnNyYzZsamZhdnZjZmNTUVN0cDRlRE0yalR4Rk0tQVMzSjFvSU1PRExxUTFLNVZYWEcxTkdkdWl3THB4ek82UWpGRlFsSXdxYksyN05vN1BoT1ZyT2ZBZ0lGQ1hBQ1FiN0RYNmhseFk?oc=5",
+   "source": "アラブニュース",
+   "at": "2026-11-07T14:49+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米国、中間選挙3日後にイラン・ゲシュム島空爆…トランプ氏「防空施設を無力化」",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnFORW4tY3pPNFEwYnFMcFFILU9IS0pMM0VwOS1DdHlzdW5lMW1SZDdiSFlZZzl3UXRUeml3czJaY2FBRzhMU3BBeEtGZEtsT2Q2YnFQTWJOT0tYLVdNRnluaVJOelJpcktheDlVNWNINTJWbUNUZDRWb2d4dHpnam03aFF0ck80?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-07T14:32+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "米国がホルムズ海峡の戦略的要衝地であるゲシュム島を再び空襲した。 イランと仲裁国を通じた終戦交渉を進める渦中に起きたことで、共和党の中間選挙惨敗後に進行したドナルド·トランプ米国大統領の最初の軍事行動..",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uTXlwb3h1ZTIwOTJOYjNMSG5GY0dTc1FTaWNEckc2djFwak9ZV1lPWGVrOXNGZm1DUWRkQ3prUkcyaDFVRFQyYmVndkFxLXM?oc=5",
@@ -518,13 +532,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "バンス米副大統領、イランと間接交渉＝戦闘終結と核協議開始目指す―報道",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBd3d3bXk5ZzQ4Nk9TM1hPNDJNVjZDdDZTZWZ5WThVSnlzTFdTemhtcUVzVE85OUFsR1pTR3RfdjVIWl9FYUM4cm03VjBtS0VqaHczZmJaOFNyZlhZNmNJ?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-07T11:46+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "欧州放送局が爆破予告の標的に 英国とアイルランド､ブルガリア（AP通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdEtJU0gxeExYc1JEaUdyMXZsSmlVOXhKSlduVHlLbzlUektsY0JxZVZZZERzUkRXOUFmd09uRi04d2xpSUdZRDVXSDllS3FlUGVfMENDNGE5b1hKdVY2bk9pRk9MUE85ekhFUG9KQVk4VE85enJPbHZuLXA4b1E?oc=5",
    "source": "Yahoo!ニュース",
@@ -551,13 +558,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-07T10:25+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "トランプ大統領「イランに勝利」と強調 協議継続も攻撃再開を検討",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HVDhTOENLUW5DNkEtYnVxSF9JX2RzcDlhd0h2WllEX1RDOUZFc05hMTNWX2YxN0lMTEV3cVpWT2N3V3hiWGsyNE9yLXdodGNJZm9NMUV2YVBkTDR2MU9KODA2TjJkRzhCdjlGem93?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-07T10:16+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
@@ -618,17 +618,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」3件",
+    "イラン・アメリカ：「攻撃」「空爆」3件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「空爆」4件",
+    "ロシア：「攻撃」「空爆」5件",
     "欧州・NATO：「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "米軍、イランへの新たな標的攻撃を実施、テヘランの指導者は仲介者の提案を検討",
-     "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQaTZTcFhRWWYtMjVjUFdNVDZOeHZoYWlTa2djdFEzMXQtVWU0QzIxN2pEVTNFejRXVnJIYU16NklRZjlpQVJRSkU3Vzh5WVJTdUxMdVVheW50U3pneGlxZVRvNDZsejNrTUliVXJ6WUpvaHI1N0k4ZE13cFlza3pLZEF3RnJUQ21xX1VJQ3U2bWsteVEtNFZfMF9xbGpMUEdQMGtUNmhIdVFTR3R1cWVZSFNQUlZERzdzSUVEYmgyYmVkUUZSU243N1k0QVVGOU04dklzd3NVcV93RnVNREY4b2xVVm5iamdnQll5NW9DMHZBSGdkNFVZUFQxV3h2dW1EN0xVRG5aZFZCSmlkcE4teFd2RGNPdHRfQ2FiRUZkRUVsY3pUbU1Zb0JQclp3WmV0dEdieG1SV1NHWnNKOUEyZ3k1dVZlQ284endoRnB5Zl9yeDFDa2tjTUc5ZjY5dDZwRTlrVHY5Q2NUazZCWjRLSnUzM2VnRnpwdVh5QnJ4LVJjbHctUlpxb0JJUjNrVW9vV1ZlT29MQWFBVlYwdDg0b3JjOENiMmdidjRIWHhHb2ZXQ3V4N0diUkFZdTRiTkFfbHNiY0ZIRjRDV203TVVqSWxUWmhXUTVacVZqUE9VQVhnTzBuY3JJS3NHVVA3dGhxMFBxN1c1c0tUT1U?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-07T13:42+09:00"
+     "title": "米国、中間選挙3日後にイラン・ゲシュム島空爆…トランプ氏「防空施設を無力化」",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnFORW4tY3pPNFEwYnFMcFFILU9IS0pMM0VwOS1DdHlzdW5lMW1SZDdiSFlZZzl3UXRUeml3czJaY2FBRzhMU3BBeEtGZEtsT2Q2YnFQTWJOT0tYLVdNRnluaVJOelJpcktheDlVNWNINTJWbUNUZDRWb2d4dHpnam03aFF0ck80?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-07T14:32+09:00"
     },
     {
      "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
