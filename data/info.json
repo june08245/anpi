@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:15+09:00",
+ "updated": "2026-11-07T23:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-07T23:15+09:00"
+    },
+    {
      "title": "ロシア軍がウクライナの学校を大型爆弾などで攻撃 55人死亡",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jSFZ6N1BCaHhzeUtRNWZhY3c0Q20yaTd6RWJoOS1UVV9oamVYdTc5NUo2YnZweFBSamJmOURrbEtvRmZOeFBDWGVQQlk2TGJBdzRsM2JmNFVwNWZ1ZGdVQ0Npbw?oc=5",
      "source": "テレ東BIZ",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXI3RmJWQ2dwSmU5cVY0QUdTNGNUclZlNUw5bUx5QXl6UDRyMXN0QWs5TXQ3M1hvdjFCNUNJR3hpVDA1WjQ4Yy1mM2VhZUx6eFRoMjVUU0tUbmNCN3FZY3kzSUd2bEM2YlFoTnBDMjROOHFtVm9wZjJIdmc0WHlpZnNXNko0M2JmWGZiRkRYajRSQQ?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-07T14:24+09:00"
-    },
-    {
-     "title": "ウクライナ南部へロシア軍空爆 住民避難続く一方で死者は53人に（AP通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wdlpjbHYyLUpkSTNobURUNzFzS2xmdXJhX1oxTy01NGhLRC1naUFCbnFySnFzOC1hOEZXMklDSnNxZWpXME5FcEVmQVJ2c0pVVlZlRHh2dmo1OEo0b2FORFZTVFhpN3k4QUpMM3ppRVdMR0FvUHNTUThfUjhvTm8?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-07T10:25+09:00"
     }
    ]
   },
@@ -456,6 +456,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-07T23:15+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "欧州各地で旅客機などへの爆破予告が多発 1日で27便が標的に",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YXzFWQWlXYzR1MXkyTGNkX3FCZl9VV1Z5U21mSktBLWMtWEJhQ1VqU1VwbktUUkQzUG9FcHBjUG44bkJBZXpQS3VsQU1lRUUzMjJj?oc=5",
    "source": "東京報道新聞",
@@ -587,13 +594,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-07T13:46+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "レーザーで無人機撃墜…北朝鮮の脅威多様化に対応する韓国空軍（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoZzE3UWZJMFBuN1l4bVFXWGJGWHZxVWN5OHFyZ05hbEJXV1Fuai1STXBKMGlhMHBRSXY3Mk9UVFplWkp6MmZxbG1EdmZmeDRuaEo1VUlDRWtIU1lWVUUxUkdPclJTbWZMV2prcm5qM251UDZyUVVfYWozN0NKbnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T11:59+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -614,7 +614,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「空爆」3件",
+    "ロシア：「攻撃」3件",
     "欧州・NATO：「爆破予告」4件"
    ],
    "items": [
@@ -631,10 +631,10 @@
      "at": "2026-11-07T15:53+09:00"
     },
     {
-     "title": "ロシア軍がウクライナの学校を大型爆弾などで攻撃 55人死亡",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jSFZ6N1BCaHhzeUtRNWZhY3c0Q20yaTd6RWJoOS1UVV9oamVYdTc5NUo2YnZweFBSamJmOURrbEtvRmZOeFBDWGVQQlk2TGJBdzRsM2JmNFVwNWZ1ZGdVQ0Npbw?oc=5",
-     "source": "テレ東BIZ",
-     "at": "2026-11-07T17:20+09:00"
+     "title": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-07T23:15+09:00"
     }
    ]
   }
