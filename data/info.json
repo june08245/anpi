@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:30+09:00",
+ "updated": "2026-11-08T08:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -186,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56N1pkQVMxeHBWQmV1RkpNODZDZlRORm1KUmQ3aGlodTRfbGFjR0RjNjJRRnVyXzFXb3l2TjJ1TUw1ZlB6ZXdpQmt2WmhBQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-08T08:38+09:00"
+    },
+    {
      "title": "米下院民主党、「新クラリティ法案」を協議／FBI、バイナンスの1兆円流出は北朝鮮の犯行と認定【日曜日に読みたい厳選5本】",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83S0NBUFZLMUhpdmhtaVFISHBiSC1HdDZyM3llVFJlOThlX3U4Tjh3TnJPNEd5bDg1Vi0xWTBpTnB3TElmalc0YnZ1aHBHYlNFeW1Oa2pVb3NBT195b2FmdkxRWEwzNExQejROTDdPU0FzWjkyOVBfMlZLaUVvalU?oc=5",
      "source": "Yahoo!ニュース",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGcXFRc1pNbXhRam9XbXR4STFXand4dzY4TXUyempPR0F1cmotOGFNNGlRc1lqUUsxaVpRUEJTeU1qR2JsQXR0Z2pMQmR4Y2hnckg3R3RxY0tOSFZKU0RlbmF0YUx3d1U?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-07T16:00+09:00"
-    },
-    {
-     "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
-     "source": "KORIT",
-     "at": "2026-11-07T15:53+09:00"
     }
    ]
   },
@@ -227,6 +227,18 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56N1pkQVMxeHBWQmV1RkpNODZDZlRORm1KUmQ3aGlodTRfbGFjR0RjNjJRRnVyXzFXb3l2TjJ1TUw1ZlB6ZXdpQmt2WmhBQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-08T08:38+09:00"
+    },
+    {
+     "title": "ロシアは「スターリンク電波妨害装置」を前線の駐車場やトレーラーに隠している…ウクライナ大統領のドローン担当顧問が注意喚起",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUJjT3hzSVFjemJtNE9hQjVPRUVPMFpwcEs2QTNhWUdnTU5XbVk0TTdHN1hjMjhvTjdGbHk2Z24zYm1KcWc4a19IOFhRUmZ5THBDUExTN1JOVkkzektoX0tzOVdPekxTSkVZSzUwTDFpUFBnNnc0N3lzS1V0dXJick5sR2JhYVA3c1BXWFVIbw?oc=5",
+     "source": "Business Insider Jap",
+     "at": "2026-11-08T08:30+09:00"
+    },
     {
      "title": "「お母さんは、もう君を必要としていない」ウクライナの子どもをロシア軍兵士に育てるプーチン政権「洗脳教育」の実態",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DdW9tZ2FlU2NJZlhUaVB5ZGEzbk5rRXZmSHB2enFRdURxSXpCX0QzUXktaUVIeG9oRm1BaW1JZFVRMXRmU2JablVBb3MtS2hVNUpv?oc=5",
@@ -250,18 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KY25CYlRDa3A1S29wVkFlTGFUbGFPLTBIZktMNENtWkRVTU1rN1J1cUNiOHFEWWJZd3pnOWhLVU9hR0VaYm5nckEtLTMxV3FlNzU5ak95Yw?oc=5",
      "source": "西日本新聞me",
      "at": "2026-11-08T05:23+09:00"
-    },
-    {
-     "title": "ロシア衛星、軍事利用を開始か ウクライナで、情報機関",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZWZBYnFtOFNWOXNJWlRJUDZPX2xLTFlIc3IzZUtyZ2NwSFVTRzN6eWhxbVBIY1lZcnZ6UWx4Q1FDSlRCbnhnaklNR0NVOUx4QWY0Um5R?oc=5",
-     "source": "西日本新聞me",
-     "at": "2026-11-08T05:10+09:00"
-    },
-    {
-     "title": "ロシア大統領、Ｇ２０参加検討か 米で１２月、恒例行事前倒し",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82eEJ2bUwtWGFKdzNUeTJ5d3lHZjNNUi1FcjdWVnc5Y0JVa19oN0M0MjFpak9lVEJxTFhSRkUwR1BfS1lya0xjMHotaDdUejFDVVQxejVldG1HSkkwaEF4emZR?oc=5",
-     "source": "秋田魁新報電子版",
-     "at": "2026-11-08T04:59+09:00"
     }
    ]
   },
@@ -316,6 +316,24 @@
    "at": "2026-11-08T08:11+09:00"
   },
   {
+   "title": "愛知県で震度5強を観測した地震「南海トラフ地震との関連性は低い」と見解 (2026年11月8日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKX2hIakZSTFc0M25IOE1oaTY2Z1NCUnNwblNHd3E5b2dUajlFQVVpdkZmbTZsLWFIWVFHN1BqM19EMjRQVjlFcHpmX2JGQ05yNlZNM1BqaFMtNXExcUE?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-08T08:11+09:00"
+  },
+  {
+   "title": "【震度５強地震・専門家の見方は】気象庁「南海トラフ地震とメカニズム異なる」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PLU9oUldiRVRKZ1ZxYml4ZnRFUHZ4Y1JXWXMxYUhMUTk5Y0tPb1NaVmlHNzNfX3ozUHhtclVnWlpjWHZKa2FzV0JkODFNQmdHaENHTg?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-08T08:10+09:00"
+  },
+  {
+   "title": "愛知で最大震度5強 ｢南海トラフ巨大地震｣との関連は? 安全な場所で就寝を 震源は静岡県西部 なぜ愛知･知多市で5強？専門家に聞く",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53Nm0weG1JTEdpcml1cFBsWEtCQ0ZCZEYxRmg4bUgyazlXM1NKNEJZYlZvTnpTNDJGVTBSbktIY0pvSVlReGVSOHhHYTRfc2o3RDcxczdwNXRyaFA2MEczbA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-08T07:41+09:00"
+  },
+  {
    "title": "震度5強受けて緊急会見 気象庁｢南海トラフ関連性低いか",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sdHpsVUwzNk9TZTdtTjd2VnJRT2tsWXZsS2ttWE0zdGpqOTBobUcyVnhYSXNoX1BiSEVoX3RMdXdydm5OUEMtSEU1czZpYzlrQVBRdnQ1RklmNzRUaEMw?oc=5",
    "source": "ライブドアニュース",
@@ -326,24 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tVXNpcFFDYjc5VElucjNlU2lIWXNsOUlJT2JObzIzUnpYSXlDUmtqREZVb2k1SGRoU1JTOWYwWU1rYWdNYUIyV3RuMEtNQ0stTlNDWl85eEszOU9kYWszcFVRQVI0anY0R1A3UEN3?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-08T07:25+09:00"
-  },
-  {
-   "title": "気象庁「南海トラフ地震とメカニズム異なる」 愛知の震度５強を受け会見",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FTmtUQVNLdUxrX0FLS3MxdnBNUGd6SjJvQkFtVEtTY09UX1dSSklKTlhwTlRIcnM4dU9MLTMyRkhFWDJXOFBpWEUyNA?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-08T06:15+09:00"
-  },
-  {
-   "title": "愛知・知多市で震度5強 専門家に聞く南海トラフとの関連 (2026年11月8日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zNkdORTUwWHh4ZVJsb1dhQ0ZoMXR6OFo1WEtNYld4N3Q3aVNBek1ZSTBHMDIwbjlZVHhxbkV6OFNTRC1udFFUOU4tbXRCWUtSTjB2S0tkUm5PVWw4TXc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-08T05:59+09:00"
-  },
-  {
-   "title": "愛知で最大震度5強 「南海トラフ巨大地震」との関連は? 安全な場所で就寝を 震源は静岡県西部 なぜ愛知･知多市で5強?専門家に聞く (CBCテレビ)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0xzR1J1QjY2V3ZhSDZ1VWJrNXNOUjZPUnBUTkx1VGJjUkJyX3lMU0ZiR3dhQ0xaSkZYUmFPVVNIV0w3RmYxYmVlcjdaa0RqMHk1bjdQU0VJYV9ENEswSHpiLVQxakpuT1YwSHFmSm9naVZ2bFNnQU1ZWVg2dmJGT2phcERVQWdwdGxFY2RR?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T05:41+09:00"
   }
  ],
  "outage": [],
@@ -374,6 +374,12 @@
    "at": "2026-11-07T15:46+09:00"
   },
   {
+   "title": "KDDI、委託先への不正アクセスで「au自転車サポート」のお客さま情報が漏えいした可能性と発表",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tcm4zN1ZJV3hRZGVUR0R5aHE5RGNjU2JpbnBnc3hqX3BSbzRKLWwtQm10bmRVZ0pXVTdMTUJLcEtjUUJkWU02S25jTk90SmFYcWhxcmh0SUZfQkhqbkhfZ0hwR2tCc2Zad1E?oc=5",
+   "source": "AppBank",
+   "at": "2026-11-08T08:31+09:00"
+  },
+  {
    "title": "ハッカーは血液を標的にした…欧州で相次ぐ冷却設備へのサイバー攻撃",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2Q2TURzQ2pxZUEyYVViNUlrSWU0MGFIVjZYUkJBOGFtZXNLbzRVWlZmYlktS0JMSXNfS1ZyUTY3RkZqRFdkZG9Td3NTMWNsUU83N3VJeW1lTHlsdjhTOHFpMUFraDJsTi1sUFp0Z0lmMm1KSURQVHFaS1NKVVdqYTlORUdiMThVNWk4eERWOVI2S1NRQ2JF?oc=5",
    "source": "Business Insider Jap",
@@ -381,9 +387,9 @@
   },
   {
    "title": "日本ネットワークセキュリティ協会に不正アクセス 最大1.5万件の個人情報漏えいの恐れ",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85SVBnQTNHVWVvcmhJUkY5U0t1YVc2U3dZdXhTODBhc2ZpTkJGUWFlU2dCNlJ6V1hMQllHR2psV292M3NmUGpmc0tLWk9xMjlvbVE?oc=5",
-   "source": "CNET Japan",
-   "at": "2026-11-08T07:36+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwd1Q5czZQZF90MUt5ZTFiUDRuelU2ZU0ybURHbHVFc0RYc1RMXzJ0VXp3R1NfejNNWTlzLTlWRHhJOEQ5WTQzdUt5TU5vemlwdlhSYVZZcnZfVDI0UzhB?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-08T07:57+09:00"
   },
   {
    "title": "【図解】オープン型AI、ハッカーが悪用＝中国発モデル、安全装置を解除―サイバー攻撃が低コスト化（時事通信）",
@@ -432,16 +438,24 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85aWctcXFnY1l5NXR3X2ppUW1PaHZFc2NaREpHWThQcWYxdmR2WEktbkVaV3lNdjZXbWdhYWlnTzM1dDFSN0Vjdlk5VXJIQjdYb1VJU2pPOVM1RlJabnRrOXlxVnZCT3RUU2IyREhfU3RaREg1?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-08T05:35+09:00"
-  },
-  {
-   "title": "攻…数分で脆弱性発見 ＡＩサイバー攻撃再現 防…迅速パッチで危険減",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1td1dETTlYTFozdDRQVkR5b01YeGlnTi16dEFOdXFvaXRjMmJvaTFfaFQxZjduZ29BS0M0WFlyWFNHY3pidHRsRkV5djZ4YlBUbW9OS0pRQnNPV2Y4dkE?oc=5",
-   "source": "福井新聞社",
-   "at": "2026-11-08T05:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56N1pkQVMxeHBWQmV1RkpNODZDZlRORm1KUmQ3aGlodTRfbGFjR0RjNjJRRnVyXzFXb3l2TjJ1TUw1ZlB6ZXdpQmt2WmhBQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-08T08:38+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシアは「スターリンク電波妨害装置」を前線の駐車場やトレーラーに隠している…ウクライナ大統領のドローン担当顧問が注意喚起",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUJjT3hzSVFjemJtNE9hQjVPRUVPMFpwcEs2QTNhWUdnTU5XbVk0TTdHN1hjMjhvTjdGbHk2Z24zYm1KcWc4a19IOFhRUmZ5THBDUExTN1JOVkkzektoX0tzOVdPekxTSkVZSzUwTDFpUFBnNnc0N3lzS1V0dXJick5sR2JhYVA3c1BXWFVIbw?oc=5",
+   "source": "Business Insider Jap",
+   "at": "2026-11-08T08:30+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "米下院民主党、「新クラリティ法案」を協議／FBI、バイナンスの1兆円流出は北朝鮮の犯行と認定【日曜日に読みたい厳選5本】",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83S0NBUFZLMUhpdmhtaVFISHBiSC1HdDZyM3llVFJlOThlX3U4Tjh3TnJPNEd5bDg1Vi0xWTBpTnB3TElmalc0YnZ1aHBHYlNFeW1Oa2pVb3NBT195b2FmdkxRWEwzNExQejROTDdPU0FzWjkyOVBfMlZLaUVvalU?oc=5",
@@ -496,20 +510,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KY25CYlRDa3A1S29wVkFlTGFUbGFPLTBIZktMNENtWkRVTU1rN1J1cUNiOHFEWWJZd3pnOWhLVU9hR0VaYm5nckEtLTMxV3FlNzU5ak95Yw?oc=5",
    "source": "西日本新聞me",
    "at": "2026-11-08T05:23+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア衛星、軍事利用を開始か ウクライナで、情報機関",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZWZBYnFtOFNWOXNJWlRJUDZPX2xLTFlIc3IzZUtyZ2NwSFVTRzN6eWhxbVBIY1lZcnZ6UWx4Q1FDSlRCbnhnaklNR0NVOUx4QWY0Um5R?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-08T05:10+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア大統領、Ｇ２０参加検討か 米で１２月、恒例行事前倒し",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82eEJ2bUwtWGFKdzNUeTJ5d3lHZjNNUi1FcjdWVnc5Y0JVa19oN0M0MjFpak9lVEJxTFhSRkUwR1BfS1lya0xjMHotaDdUejFDVVQxejVldG1HSkkwaEF4emZR?oc=5",
-   "source": "秋田魁新報電子版",
-   "at": "2026-11-08T04:59+09:00",
    "topic": "ロシア"
   },
   {
@@ -600,8 +600,8 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「封鎖」1件",
-    "北朝鮮：「攻撃」4件",
-    "ロシア：「攻撃」「空爆」2件",
+    "北朝鮮：「攻撃」「ミサイル」4件",
+    "ロシア：「攻撃」「空爆」3件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
@@ -612,16 +612,16 @@
      "at": "2026-11-08T07:04+09:00"
     },
     {
-     "title": "ゼレンスキー大統領「北朝鮮のKN-23、ウクライナのエネルギー施設攻撃に使用」",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjE4VDVoVElQN3hGczIwbHlyZFhEWXdtNjhkOHk4WXplS3lLbHM4eFdsalpsWUlERUNBa0RIVDVabjNzcnhrVm9BSDdOa1ZSY2NLZVZJOC1ldTFYbFlpa1ZzWkJkUkk4NE93S1lGa1Y2V0wzRGhUR29HZ090Zk1VMnc0UHZKX2xD?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-08T06:31+09:00"
+     "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56N1pkQVMxeHBWQmV1RkpNODZDZlRORm1KUmQ3aGlodTRfbGFjR0RjNjJRRnVyXzFXb3l2TjJ1TUw1ZlB6ZXdpQmt2WmhBQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-08T08:38+09:00"
     },
     {
-     "title": "ロシア軍がウクライナに大規模攻撃 住宅など被害 市民生活影響",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hNkZfd1BHRDFNQkN6VHJ3WGxaMXJKd3VqMkhfRjBHTkU5TEFhYVBQLTA5R3lmN2RseFlINnB3aHlXZm1EZzIyTkdsN0xFVndqY0luRGhneGpsazdidGZR?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-08T06:46+09:00"
+     "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56N1pkQVMxeHBWQmV1RkpNODZDZlRORm1KUmQ3aGlodTRfbGFjR0RjNjJRRnVyXzFXb3l2TjJ1TUw1ZlB6ZXdpQmt2WmhBQQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-08T08:38+09:00"
     }
    ]
   }
