@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:10+09:00",
+ "updated": "2026-11-07T18:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -156,12 +156,6 @@
      "at": "2026-11-06T11:52+09:00"
     },
     {
-     "title": "中国が振りかざす「新型軍国主義」の論理 日本の防衛強化に歴史重ね",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaGhTdklOczZDMVVNNDV1Wkd1VVE4SWFpUUZaYmt4eDBtN241bUF6dVVVTGd3WTRlNXBXZ1VIUlJHRGh4RjdVdFhiY0FEUTkwSXFYRmR2ZzlNblA3WmZxNnEzSWZ1WGc?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-06T09:00+09:00"
-    },
-    {
      "title": "習近平の疑心暗鬼で人民解放軍の「中枢」は壊滅状態か…台湾侵攻能力さえ疑わしくなる軍人不信の徹底的粛清(マネー現代)",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXpfX09oV2FHX0dkSGRvWWVGVnBaSWJXeVFoVmRzOUtnRDNUd21lYTEzSjRZZnBEWkRVTWVQNFN2Mlk0OXJsWWtuaXB3US1CTUhqSnVLbHpLd1VWU1V6LTdvU0d6bThUQkdBZ3QwZmptU2poUHVLYnZuaXl2RW1HYndZY01rcDg?oc=5",
      "source": "Yahoo!ファイナンス",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKenhlZS1BWkJvcE9yMTZHRnNDRFFuV1BmektocWpzQVROc2xoZkZTM0pVdTZtMTBUYUZRRGJTeW5tQ21uMUxMUXBZNF9zYm9kTDM0NTVrSzhhWlNDcVlYVnJNb0NZUWtqMHFTZzdn?oc=5",
      "source": "au Webポータル",
      "at": "2026-11-05T23:42+09:00"
+    },
+    {
+     "title": "中国外交部、日本の再軍事化を批判 ソフトバンクのABB買収には言及避ける",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52SERPanZGUFozdUw2dk9sUU1YR0hCQjRCNHVDYW1CbGVHLWo1X3E3N3VnNG1DaFZqMTlPVXFqakVZX3hIMThtbHdGYjFTdHphNURRcWQxQXlXbjlTNUR3SDJad29wTE1adm5kVWtFWQ?oc=5",
+     "source": "TradingView",
+     "at": "2026-11-05T19:39+09:00"
     }
    ]
   },
@@ -363,6 +363,12 @@
  ],
  "cyber": [
   {
+   "title": "県内４信用金庫でシステム障害 ATMや窓口取引できず【広島】 (2026年11月6日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MeVdxN3gtaGtEbmRuTTJacXotUEl5MlEtWUNGNGo2elBVb0NnNzNLOXFZOVFrMUtrMm1WNXJudUwyNWpoM2xYcThJSG94RWtwN3czc2szTUZ0dnRzT2c?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-07T15:46+09:00"
+  },
+  {
    "title": "東海地方を含む西日本128の信用金庫でシステム障害 ATMや窓口取引に影響",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GZXk2UFdWT3BfeXhZa3NGM085czhXdWx2YkF2eTBBRmhvRzJ0VU0xWmluWlh1allkdHlCQ0s5NWtTaGZ0alN0b3kxNEZ3WkJ2UEFDRWV1UjBEY2hSY0RKTENWNWViY29kanNsaHA3ZzQ?oc=5",
    "source": "locipo.jp",
@@ -397,12 +403,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpd0cxWHJsRk1BbFlYYTlER3lTYl8tRm5ITUZNb0U3VGJQZGVqaTUtVUJScWNnY1hMWHFHaFhlYTdURVdWNGxMQUtuODQ2Ylpp?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-07T16:09+09:00"
-  },
-  {
-   "title": "AI攻撃 36分で情報流出 自動ハッキング再現実験",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1Q2tzR05aY3FUWnBHOFg1MkNCVGdJT2VHdURoZm1TNkEyZUQzRUZINkJuZm9RcWFQcVBLQlQ1M1Y3b0czSkZaY2VlWQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-07T16:04+09:00"
   },
   {
    "title": "姫路市、行政オンライン申請とマイナンバーカード予約で個人情報漏えいのおそれ アララ不正アクセス、防災メールや申請通知にも影響|セキュリティニュースのセキュリティ対策Lab",
@@ -600,7 +600,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「東海地方を含む西日本128の信用金庫でシステム障害 ATMや窓口取引に影響」"
+    "「県内４信用金庫でシステム障害 ATMや窓口取引できず【広島】 (2026年11月」"
    ]
   },
   "japan": {
