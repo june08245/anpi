@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:15+09:00",
+ "updated": "2026-11-08T08:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-08T08:23:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "3.0",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-08T07:38:00+09:00",
    "place": "福島県沖",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-07T20:07:00+09:00",
-   "place": "茨城県沖",
-   "mag": "5.6",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -102,10 +102,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9neTlqMTRiZXowVGduS0stSmlKN0EtRUpWMHdLT2RGTFN5UVBPcER4dTNvcVhiVWViQzdURmNGZEt0VW12SmxKRERMOF9PSnJqN1dwclJ2eENsWGNFd2ZrMUp2QjVwTmU0ZEN4LWJnNmlOaW4wS3d2SENuLTBPSnM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-08T07:01+09:00"
+     "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzRCd0t3NE5kSnJrVWlGdGJHVUZOU3lLazg4c1NPQVhwV3doX0I0eDhaQndValU3b2VLUXB6aEwwWVd4NWFuUFVSRGRiR1RSZ1RMMi0xeTRtTzJsYmFXTkZtb0lzLTRUeXdtLV9DMk9CRlg1aEZtWVlIV2p6QVZFZFl0cDFVaTg?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-08T07:04+09:00"
     },
     {
      "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ（TBS NEWS DIG Powered by JNN）",
@@ -150,12 +150,6 @@
      "at": "2026-11-08T05:30+09:00"
     },
     {
-     "title": "早期の日中会談、諦めムード 高市首相「台湾有事」発言１年",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRc3ktTjlJTVl4a25GRHQ1dUpqaS1ZMmJCM2hvemdzbzhwd001UV91RkFxcjBvVDNVN0Z6Tkw1RjVZcHFxeGhLTXFveXZQcFVmUThxN3NWOS1wYVQ0OVA2N2JvQQ?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-07T20:31+09:00"
-    },
-    {
      "title": "日本の防衛産業振興は「再軍事化」の口実　中国国防部",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbnZpbE1JS193Q0R2cEdmc3ctSjgyY1Z5Ymttdy1vdTdFakFkRkhXSEp5ZWFrXzBnalBhd2NWejhfdkhWMElyT2lxVDJJYUN3bFIzZHU0Mm5BTE15OXRha1dwOGZQWEVWQmZFT2U3S0FETmx6dzFjX3MtT2U2dTNYWlF0c05ZNFI0Z2tR0gGQAUFVX3lxTE1FcGhKZldmRGNnelhUTmF2WGRTVV95R01IeENGeTFfLXdIcjdHY1BNZWROQTdXdFRSdVEzOGE3endUdkFjNlgtdVZiOUJWbzI5aXdobnZSbVN1Z2w5SENoV3BtTjNWTUw0U0NNalU1VWl4TS1STHhSaUF5aEphaFVlSnhWdURLZW1pWU1tYnZXWA?oc=5",
      "source": "ｄメニューニュース",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaGhTdklOczZDMVVNNDV1Wkd1VVE4SWFpUUZaYmt4eDBtN241bUF6dVVVTGd3WTRlNXBXZ1VIUlJHRGh4RjdVdFhiY0FEUTkwSXFYRmR2ZzlNblA3WmZxNnEzSWZ1WGc?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-06T09:00+09:00"
+    },
+    {
+     "title": "習近平の疑心暗鬼で人民解放軍の「中枢」は壊滅状態か…台湾侵攻能力さえ疑わしくなる軍人不信の徹底的粛清(マネー現代)",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXpfX09oV2FHX0dkSGRvWWVGVnBaSWJXeVFoVmRzOUtnRDNUd21lYTEzSjRZZnBEWkRVTWVQNFN2Mlk0OXJsWWtuaXB3US1CTUhqSnVLbHpLd1VWU1V6LTdvU0d6bThUQkdBZ3QwZmptU2poUHVLYnZuaXl2RW1HYndZY01rcDg?oc=5",
+     "source": "Yahoo!ファイナンス",
+     "at": "2026-11-06T07:03+09:00"
     }
    ]
   },
@@ -310,6 +310,12 @@
  ],
  "nankai": [
   {
+   "title": "気象庁、南海トラフ地震との関連「低い」（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2YWxscXhtRV9ZT0xsZ0xiZjdXTS1KOVhuU1lHdlZZQUtybzlHaGVVOVIzdTJpV0VnTTh4ZVp5OFpoclB5S0c0bHdZRUJwamUyRHNLNE41bjlqRjdfTEZSa2NCUmc1SklIZ0ZNaFpIWk5xY1FBNDdXa0lZWC1YZ1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T08:11+09:00"
+  },
+  {
    "title": "震度5強受けて緊急会見 気象庁｢南海トラフ関連性低いか",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sdHpsVUwzNk9TZTdtTjd2VnJRT2tsWXZsS2ttWE0zdGpqOTBobUcyVnhYSXNoX1BiSEVoX3RMdXdydm5OUEMtSEU1czZpYzlrQVBRdnQ1RklmNzRUaEMw?oc=5",
    "source": "ライブドアニュース",
@@ -338,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0xzR1J1QjY2V3ZhSDZ1VWJrNXNOUjZPUnBUTkx1VGJjUkJyX3lMU0ZiR3dhQ0xaSkZYUmFPVVNIV0w3RmYxYmVlcjdaa0RqMHk1bjdQU0VJYV9ENEswSHpiLVQxakpuT1YwSHFmSm9naVZ2bFNnQU1ZWVg2dmJGT2phcERVQWdwdGxFY2RR?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-08T05:41+09:00"
-  },
-  {
-   "title": "【浜松市浜名区で震度5弱】南海トラフとの関連性 気象庁「低いとみられる」（静岡新聞DIGITAL）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubGpWd19vOVRMRzNYR2s3eEEwREktTkRqWTNVNFp5cEJkVDFzR3FCUkdPQ0Raek84dFBxSVhpcS1EeUNzZGMzT3ZfN00xY0tRY21hSGZoVHc4cHdzYkZSR3dMRHBZSko4OHNpenNkdl9SRTVfTG15bzFhWUMyV3c?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T05:18+09:00"
   }
  ],
  "outage": [],
@@ -372,12 +372,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MeVdxN3gtaGtEbmRuTTJacXotUEl5MlEtWUNGNGo2elBVb0NnNzNLOXFZOVFrMUtrMm1WNXJudUwyNWpoM2xYcThJSG94RWtwN3czc2szTUZ0dnRzT2c?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-07T15:46+09:00"
-  },
-  {
-   "title": "「困った…」信用金庫のシステム障害 熊本県内4つの信金で取引できず",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HMW5KLVBBVnN6dGlwNXJsSy1YaEszOHFHQmQwdnVrbE5kNWI0cXNubER0NktYVXZiRE5ESks1eFgwaG53Y2FpQ0dUUk1mdXZ0OXlsYzRnZ1lXTG1SRlNB?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-07T13:21+09:00"
   },
   {
    "title": "ハッカーは血液を標的にした…欧州で相次ぐ冷却設備へのサイバー攻撃",
@@ -414,6 +408,12 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rRW5wOHVfTGhhRUZFNUlzSXp6TTM5MzhmVXdfdUthS2NqdlBfemZXN0ZDR2NrZjB1OWJrUGtEcnNnQ3FQMEgybmtaQU00dkdhZVpTNkNSTVFLZEVMT2JGMTJxQ2c2VDhlX1NZT1NocU9wR09vN2Vv0gF8QVVfeXFMUE4zUE0xeVBEVVNoc2hRWVNDZFZXV0xmN0lJRVlyR3pDU0w4MjI5YXlWYVo4RVk2OHphRHRKVk9aNnBxeXQ3WloteGlHNFZJWmlqMGswa01kdzF6Q1FMVjZPX3ZvMVpnd3ExNnVTVkpwWE9DVkJ5eHVzSU1rZg?oc=5",
    "source": "四国新聞",
    "at": "2026-11-08T06:54+09:00"
+  },
+  {
+   "title": "「プロのサイバー攻撃集団が素人感を出しながら犯行。北朝鮮が関与？」 「“にわかハッカー”の素人の可能性も」 元警察庁サイバー捜査課長がGMO不正アクセス問題 推測される「攻撃者の人物像」を解説",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41S01QTDIyTEYzeGs4SGluNWNJRWNRWlZ1VUpEODFGVDdpVzhBUFM5Z1FqMEctaTVQZkFzNlE4ak1BTm5vMFo4SjlKODFFSHkxNEJIcw?oc=5",
+   "source": "ktv.jp",
+   "at": "2026-11-08T06:29+09:00"
   },
   {
    "title": "AIがサイバー攻撃するイメージ - AI、機密情報奪取にわずか36分 サイバー攻撃再現実験 「弱点」見つけ、パスワードに到達 パッチ適用すれば被害ゼロ - 写真・画像(1/1)",
@@ -457,10 +457,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9neTlqMTRiZXowVGduS0stSmlKN0EtRUpWMHdLT2RGTFN5UVBPcER4dTNvcVhiVWViQzdURmNGZEt0VW12SmxKRERMOF9PSnJqN1dwclJ2eENsWGNFd2ZrMUp2QjVwTmU0ZEN4LWJnNmlOaW4wS3d2SENuLTBPSnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T07:01+09:00",
+   "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzRCd0t3NE5kSnJrVWlGdGJHVUZOU3lLazg4c1NPQVhwV3doX0I0eDhaQndValU3b2VLUXB6aEwwWVd4NWFuUFVSRGRiR1RSZ1RMMi0xeTRtTzJsYmFXTkZtb0lzLTRUeXdtLV9DMk9CRlg1aEZtWVlIV2p6QVZFZFl0cDFVaTg?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-08T07:04+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -606,10 +606,10 @@
    ],
    "items": [
     {
-     "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9neTlqMTRiZXowVGduS0stSmlKN0EtRUpWMHdLT2RGTFN5UVBPcER4dTNvcVhiVWViQzdURmNGZEt0VW12SmxKRERMOF9PSnJqN1dwclJ2eENsWGNFd2ZrMUp2QjVwTmU0ZEN4LWJnNmlOaW4wS3d2SENuLTBPSnM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-08T07:01+09:00"
+     "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzRCd0t3NE5kSnJrVWlGdGJHVUZOU3lLazg4c1NPQVhwV3doX0I0eDhaQndValU3b2VLUXB6aEwwWVd4NWFuUFVSRGRiR1RSZ1RMMi0xeTRtTzJsYmFXTkZtb0lzLTRUeXdtLV9DMk9CRlg1aEZtWVlIV2p6QVZFZFl0cDFVaTg?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-08T07:04+09:00"
     },
     {
      "title": "ゼレンスキー大統領「北朝鮮のKN-23、ウクライナのエネルギー施設攻撃に使用」",
