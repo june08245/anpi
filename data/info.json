@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:45+09:00",
+ "updated": "2026-11-07T23:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-07T22:48:00+09:00",
+   "place": "福島県沖",
+   "mag": "3.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-07T20:07:00+09:00",
    "place": "茨城県沖",
@@ -81,16 +91,6 @@
    "mag": "3.3",
    "maxi": "2",
    "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-06T19:39:00+09:00",
-   "place": "関東東方沖",
-   "mag": "6.1",
-   "maxi": "3",
-   "maxiRank": 3,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -246,6 +246,12 @@
      "at": "2026-11-07T15:48+09:00"
     },
     {
+     "title": "「アストラハンスキー、お前、今俺のケツに…」ロシア軍の指揮官、部下に食事をさせず",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMTHhDQkJlWlFHblgxQVlwcFZ0eEFoV3BUSnBreFIyOEJJdG92a3NOQXV2WVZEOEtaVW4tUlBvcjZMNm5tR3k5VVVOcVdOT0JxZEt3MkRwNHVpdzJwODdXam9feGUzU0ZU?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-07T15:48+09:00"
+    },
+    {
      "title": "ロシア、ウクライナ上空での軍事通信に自国の衛星コンステレーション「ラスヴェート」を使用開始 – メディア",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXI3RmJWQ2dwSmU5cVY0QUdTNGNUclZlNUw5bUx5QXl6UDRyMXN0QWs5TXQ3M1hvdjFCNUNJR3hpVDA1WjQ4Yy1mM2VhZUx6eFRoMjVUU0tUbmNCN3FZY3kzSUd2bEM2YlFoTnBDMjROOHFtVm9wZjJIdmc0WHlpZnNXNko0M2JmWGZiRkRYajRSQQ?oc=5",
      "source": "Mezha.net",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wdlpjbHYyLUpkSTNobURUNzFzS2xmdXJhX1oxTy01NGhLRC1naUFCbnFySnFzOC1hOEZXMklDSnNxZWpXME5FcEVmQVJ2c0pVVlZlRHh2dmo1OEo0b2FORFZTVFhpN3k4QUpMM3ppRVdMR0FvUHNTUThfUjhvTm8?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-07T10:25+09:00"
-    },
-    {
-     "title": "コムイシュヴァハの戦争犯罪：HURが学校への攻撃に関与したロシア軍兵士を特定",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQk1SMGRCd1puOFEyVUJfTEFNbnVGZW1IMVNldzlZV3htajdFNENfNC1YLUlKZVJYMjNfV2l4dmdscXRCeGVPV1AyQjI4c3BqZzJ4bFphWjhwOFZaMTFWR3BxQld4UEVGOFdXeVpFeXgxOU5IanMzZTZKR3JGMGIyUkVyc3RFLVNwOGZLNWZBZ25PY0FYRjZzdlplZk11Uk0?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-07T09:50+09:00"
     }
    ]
   },
@@ -375,6 +375,12 @@
    "at": "2026-11-07T17:13+09:00"
   },
   {
+   "title": "ドコモ、全国で通信障害 高速サービス通話しづらく",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1ZtU1BJSU5RVVM5STBLWDV1dzV1aWphMGhPSE5rVVhlcDlPMEtZb3BlWENSczNPcjdnaUd2ZkdMblZhTDhTcWFyRlJnSVQ2ZzVXVlVJS2tYRExKR3ZIcmQ5cTNlNUE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-07T16:45+09:00"
+  },
+  {
    "title": "県内４信用金庫でシステム障害 ATMや窓口取引できず【広島】 (2026年11月6日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MeVdxN3gtaGtEbmRuTTJacXotUEl5MlEtWUNGNGo2elBVb0NnNzNLOXFZOVFrMUtrMm1WNXJudUwyNWpoM2xYcThJSG94RWtwN3czc2szTUZ0dnRzT2c?oc=5",
    "source": "ライブドアニュース",
@@ -395,6 +401,12 @@
   {
    "title": "大規模なシステム障害発生…東海3県の複数の信用金庫でATMなど使用できず 西日本の128の信金に影響",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zNW9DRkFBTXZQdWlNMVQ3MzVOVmdUUlF5dGd6bUJzM1BISWk0U2RoNHFsb19CQWlqZU9FNW9QNXZwUHpIdnFfV1RSRG9icXk1VHlCTXhzYzkzUEFTeWtPa2dwS1djbkprT1M1YmJteG4?oc=5",
+   "source": "locipo.jp",
+   "at": "2026-11-07T13:01+09:00"
+  },
+  {
+   "title": "東海地方から西の128の信用金庫でシステム障害 ATMや窓口、ネットバンキングの取引できず",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lS0NSaDNXNXQ0Tk9OTFVKWjRJSjJST3Rmb3JJdFNFZjBQWnl3UmNNdmdCV3NUeThncXdLaENuZXA5NmhFWC11SmhFTmFNcHMzM01rbllDX2JWMVhEVmVTdlY3ZzI0X1FZZHpKVDZPZHQ?oc=5",
    "source": "locipo.jp",
    "at": "2026-11-07T13:01+09:00"
   },
@@ -439,18 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RUNrRjltTUtsMmhDdTlQTWllVlA4RDM2dnZvcnFjRkh0V2w1ay1VV2FUVVkwOVBkRnc1RlJzLW9BWWhWM0V1dHpNaTQxN3NQM2RvdFRKdHRYUTljLUJObTYwUkJiVHo5UUNseg?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-07T17:45+09:00"
-  },
-  {
-   "title": "メールアドレス11件が漏えいの可能性 群馬・伊勢崎市 配信サービス業者への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LX213TW80WHJhbW5JaGVTVTN5RURGa25SUkpRTkthd2ZrTTZpWHNJUnY3VUpLTkdzZ2R0MndFYWZSZmJubDBfeG5mNFh5Slh1amhhUy1TdnQ2UQ?oc=5",
-   "source": "上毛新聞電子版",
-   "at": "2026-11-07T17:00+09:00"
-  },
-  {
-   "title": "山陰合銀の個人ローン契約者１６００人の情報流出 保証会社に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwa0xmNHVLZld1amtrcFc5cUMwTWxWUXZHS29JYm9zTDRXUEJwbnIyNFh4OHppOTJ1T0htN081SHEyeS1EajhHeFA4ZU12OUlZ?oc=5",
-   "source": "日本海新聞",
-   "at": "2026-11-07T17:00+09:00"
   }
  ],
  "osaka": [],
@@ -540,6 +540,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "「アストラハンスキー、お前、今俺のケツに…」ロシア軍の指揮官、部下に食事をさせず",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMTHhDQkJlWlFHblgxQVlwcFZ0eEFoV3BUSnBreFIyOEJJdG92a3NOQXV2WVZEOEtaVW4tUlBvcjZMNm5tR3k5VVVOcVdOT0JxZEt3MkRwNHVpdzJwODdXam9feGUzU0ZU?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-07T15:48+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "北朝鮮の金成男氏、中国高官と相次ぎ会談…「中朝親善は不変」",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1JnVHE1YjBwR0ZsNHhIcUgzQVFyRjF2TFliZ0hDUG9YUzV6WGFnSkxVUlM5RzVkWWUyWjlvTlhuRC12bkh3Qjh5elVHVW96TXctaUVnWGRUSmdGNm5INW1maTMtVW81Z2pqSnU2VHQxRVNSelNOOGU0elh3bEJNZ0JWVGxZQQ?oc=5",
    "source": "조선일보",
@@ -587,13 +594,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-07T11:30+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "欧州各地で爆破予告 報道機関にも",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CTFJfRDVVcU44aFNfWXdpbkRJNlJ5V1MxTzVZc2YtOG9WSDNHRU1nMGxPTHJLaEJQdEdqbUNPZjZENzljM1JZZ3g0ZGRHRXZQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T10:58+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -614,7 +614,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「空爆」4件",
+    "ロシア：「攻撃」「空爆」3件",
     "欧州・NATO：「爆破予告」3件"
    ],
    "items": [
