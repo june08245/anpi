@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:00+09:00",
+ "updated": "2026-11-08T01:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-08T01:04:00+09:00",
+   "place": "静岡県西部",
+   "mag": "5.7",
+   "maxi": "5強",
+   "maxiRank": 6,
+   "osaka": "3",
+   "osakaRank": 3,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-08T00:42:00+09:00",
    "place": "岩手県沖",
@@ -84,16 +94,6 @@
    "osaka": "2",
    "osakaRank": 2,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-06T22:43:00+09:00",
-   "place": "淡路島付近",
-   "mag": "3.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -132,10 +132,10 @@
      "at": "2026-11-07T23:17+09:00"
     },
     {
-     "title": "米軍、イランへの新たな標的攻撃を実施、テヘランの指導者は仲介者の提案を検討",
-     "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQaTZTcFhRWWYtMjVjUFdNVDZOeHZoYWlTa2djdFEzMXQtVWU0QzIxN2pEVTNFejRXVnJIYU16NklRZjlpQVJRSkU3Vzh5WVJTdUxMdVVheW50U3pneGlxZVRvNDZsejNrTUliVXJ6WUpvaHI1N0k4ZE13cFlza3pLZEF3RnJUQ21xX1VJQ3U2bWsteVEtNFZfMF9xbGpMUEdQMGtUNmhIdVFTR3R1cWVZSFNQUlZERzdzSUVEYmgyYmVkUUZSU243N1k0QVVGOU04dklzd3NVcV93RnVNREY4b2xVVm5iamdnQll5NW9DMHZBSGdkNFVZUFQxV3h2dW1EN0xVRG5aZFZCSmlkcE4teFd2RGNPdHRfQ2FiRUZkRUVsY3pUbU1Zb0JQclp3WmV0dEdieG1SV1NHWnNKOUEyZ3k1dVZlQ284endoRnB5Zl9yeDFDa2tjTUc5ZjY5dDZwRTlrVHY5Q2NUazZCWjRLSnUzM2VnRnpwdVh5QnJ4LVJjbHctUlpxb0JJUjNrVW9vV1ZlT29MQWFBVlYwdDg0b3JjOENiMmdidjRIWHhHb2ZXQ3V4N0diUkFZdTRiTkFfbHNiY0ZIRjRDV203TVVqSWxUWmhXUTVacVZqUE9VQVhnTzBuY3JJS3NHVVA3dGhxMFBxN1c1c0tUT1U?oc=5",
+     "title": "米軍、イランの核プログラムに関する情報提供者に2000万ドルの報酬を提示",
+     "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQME9HbkU4LWVjSmtvSzkxMFE4cVhNRG54d0JSaXk1TWUzd0EyeEEzUnhJb1BpcWp0VTNvMi1Da2NEaUMzLUxreVRobUVvWGVVS3FqTGJYamY5NjlTMERaeWdzMUlQMHlodDYtaVE3c0FwaFNJbkVrZmhiVlk1N0JCX1g3SDJyMXZaVFVxNnZiMnJwdjZfNVoyNHV1U01fOGNpNEFTb0dPZ2doOEVFajJLZkprUU9YUXE1VzVSN0ZZanhyZjZfMUFJdkJiZ1BsaHdNdEFDS2J0QjBZcGtZV2pxV1h1MlpJZWpLU0x0SDlaQ20zVDB3NEJwR3hIR25Kak41V1pMdVBNZE0zNzN3NFBqUkNURlFwZ0xzaWZ6bHN5UERiM3RCMGZyWlRHbzBOUnBpSTZyMjlCb01pdFIwaktwM2hkMy1EeElpajNreEhQS3BsX2k0dXBjUjZPbDJDTDk5REJjSThHVTJ3bEh5alVNSFE4TXJDblJGclJMRWo5T2hqWFlhWjB2a1VUOWR2bTk5cjNrT0QyS3p5REJvNlpBelowOG1nbS1pN1RYR01OX0RsaTVsTmRoc3JVUVc4RWZIYmxfQ2g5UUhaQ3YzRktWcw?oc=5",
      "source": "アラブニュース",
-     "at": "2026-11-07T22:11+09:00"
+     "at": "2026-11-07T22:15+09:00"
     }
    ]
   },
@@ -353,12 +353,6 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KaDA4dHRkNUJUb2JBeF9mYlZTclpsanJMaWJyb0lnY2tvR0txcmh4UGJUWUVNZjlzdjRUZi1LZlQ4bGJvU2UwdEZ1SWJCdVk2UFEwTDBB?oc=5",
    "source": "現代ビジネス",
    "at": "2026-11-07T01:49+09:00"
-  },
-  {
-   "title": "キーウとウクライナの一部地域で弾道ミサイルの脅威により空襲警報が発令",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ib19ZVmdZTnVMdFp2d2dwM3FEaVR1eTN3dTRJb3F5MWF2eXBLaU5GT2FnRlhYMDZGTHhvRHBaeGJwX3ZVWHNHcFNqazVYemZxNVVoMmNlNmY5VFFmXzlSWnlndGpNVDBv?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-07T01:09+09:00"
   }
  ],
  "cyber": [
@@ -411,16 +405,16 @@
    "at": "2026-11-07T13:01+09:00"
   },
   {
+   "title": "システム障害の再発防止への対応説明 みずほFG社長が会見（2021年4月5日） University Of Chicago (OtqoCbRfyL)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1Jmcnl5UXp5NVZkd1o0aUdtbFBaRjlQYjlidWRnMXJUbFFXMGw2Wnd0cTFvSC1pUTZuNnFVcjN0aVh5cElaTVNya1pqMm1HbUNGNzNsZnVlclZMcWZselByR0ZlR2xrWU5zc1RYN3NTNWdWcWNwSi1LTHdQQTJ0S1A3SQ?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-07T11:50+09:00"
+  },
+  {
    "title": "信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenBxdHViaFl4T1FBOENHLWxjT3Q3QmhPTDAyUk5xbWNoQVgtXzFJeGhPczJtWVpjQk9BOHVUalEwTGt6MEtiSGd3TTZNVGJ1eS1CdUJUTmY0ZlE1QWdEcEIzMFVmTE9BdGlLLXV4Y2J1LTRLWDMzMFk4bXBYNmNzVWdhdUFWU1E?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-07T11:10+09:00"
-  },
-  {
-   "title": "クラブツーリズム、ウェブサイト再開 不正アクセスで停止",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UNWdpQ1IzOUlxdHJKRlUwcXVCbWZQa2ZTb2ZSRGRJd1lseGpObndLbDJpSi1tblVBNzgzTlNSUkl6NjFoWXk4?oc=5",
-   "source": "TRAICY（トライシー）",
-   "at": "2026-11-08T00:27+09:00"
   },
   {
    "title": "SMBCコンシューマーファイナンスがサイバー攻撃を受け、りそな・横浜銀行にも影響",
@@ -526,10 +520,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "米軍、イランへの新たな標的攻撃を実施、テヘランの指導者は仲介者の提案を検討",
-   "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQaTZTcFhRWWYtMjVjUFdNVDZOeHZoYWlTa2djdFEzMXQtVWU0QzIxN2pEVTNFejRXVnJIYU16NklRZjlpQVJRSkU3Vzh5WVJTdUxMdVVheW50U3pneGlxZVRvNDZsejNrTUliVXJ6WUpvaHI1N0k4ZE13cFlza3pLZEF3RnJUQ21xX1VJQ3U2bWsteVEtNFZfMF9xbGpMUEdQMGtUNmhIdVFTR3R1cWVZSFNQUlZERzdzSUVEYmgyYmVkUUZSU243N1k0QVVGOU04dklzd3NVcV93RnVNREY4b2xVVm5iamdnQll5NW9DMHZBSGdkNFVZUFQxV3h2dW1EN0xVRG5aZFZCSmlkcE4teFd2RGNPdHRfQ2FiRUZkRUVsY3pUbU1Zb0JQclp3WmV0dEdieG1SV1NHWnNKOUEyZ3k1dVZlQ284endoRnB5Zl9yeDFDa2tjTUc5ZjY5dDZwRTlrVHY5Q2NUazZCWjRLSnUzM2VnRnpwdVh5QnJ4LVJjbHctUlpxb0JJUjNrVW9vV1ZlT29MQWFBVlYwdDg0b3JjOENiMmdidjRIWHhHb2ZXQ3V4N0diUkFZdTRiTkFfbHNiY0ZIRjRDV203TVVqSWxUWmhXUTVacVZqUE9VQVhnTzBuY3JJS3NHVVA3dGhxMFBxN1c1c0tUT1U?oc=5",
+   "title": "米軍、イランの核プログラムに関する情報提供者に2000万ドルの報酬を提示",
+   "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQME9HbkU4LWVjSmtvSzkxMFE4cVhNRG54d0JSaXk1TWUzd0EyeEEzUnhJb1BpcWp0VTNvMi1Da2NEaUMzLUxreVRobUVvWGVVS3FqTGJYamY5NjlTMERaeWdzMUlQMHlodDYtaVE3c0FwaFNJbkVrZmhiVlk1N0JCX1g3SDJyMXZaVFVxNnZiMnJwdjZfNVoyNHV1U01fOGNpNEFTb0dPZ2doOEVFajJLZkprUU9YUXE1VzVSN0ZZanhyZjZfMUFJdkJiZ1BsaHdNdEFDS2J0QjBZcGtZV2pxV1h1MlpJZWpLU0x0SDlaQ20zVDB3NEJwR3hIR25Kak41V1pMdVBNZE0zNzN3NFBqUkNURlFwZ0xzaWZ6bHN5UERiM3RCMGZyWlRHbzBOUnBpSTZyMjlCb01pdFIwaktwM2hkMy1EeElpajNreEhQS3BsX2k0dXBjUjZPbDJDTDk5REJjSThHVTJ3bEh5alVNSFE4TXJDblJGclJMRWo5T2hqWFlhWjB2a1VUOWR2bTk5cjNrT0QyS3p5REJvNlpBelowOG1nbS1pN1RYR01OX0RsaTVsTmRoc3JVUVc4RWZIYmxfQ2g5UUhaQ3YzRktWcw?oc=5",
    "source": "アラブニュース",
-   "at": "2026-11-07T22:11+09:00",
+   "at": "2026-11-07T22:15+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -604,26 +598,19 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "静岡県西部で震度5強（11/8 01:04）"
    ]
   },
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」1件",
     "北朝鮮：「攻撃」2件",
     "ロシア：「攻撃」3件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
-    {
-     "title": "米軍、イランへの新たな標的攻撃を実施、テヘランの指導者は仲介者の提案を検討",
-     "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQaTZTcFhRWWYtMjVjUFdNVDZOeHZoYWlTa2djdFEzMXQtVWU0QzIxN2pEVTNFejRXVnJIYU16NklRZjlpQVJRSkU3Vzh5WVJTdUxMdVVheW50U3pneGlxZVRvNDZsejNrTUliVXJ6WUpvaHI1N0k4ZE13cFlza3pLZEF3RnJUQ21xX1VJQ3U2bWsteVEtNFZfMF9xbGpMUEdQMGtUNmhIdVFTR3R1cWVZSFNQUlZERzdzSUVEYmgyYmVkUUZSU243N1k0QVVGOU04dklzd3NVcV93RnVNREY4b2xVVm5iamdnQll5NW9DMHZBSGdkNFVZUFQxV3h2dW1EN0xVRG5aZFZCSmlkcE4teFd2RGNPdHRfQ2FiRUZkRUVsY3pUbU1Zb0JQclp3WmV0dEdieG1SV1NHWnNKOUEyZ3k1dVZlQ284endoRnB5Zl9yeDFDa2tjTUc5ZjY5dDZwRTlrVHY5Q2NUazZCWjRLSnUzM2VnRnpwdVh5QnJ4LVJjbHctUlpxb0JJUjNrVW9vV1ZlT29MQWFBVlYwdDg0b3JjOENiMmdidjRIWHhHb2ZXQ3V4N0diUkFZdTRiTkFfbHNiY0ZIRjRDV203TVVqSWxUWmhXUTVacVZqUE9VQVhnTzBuY3JJS3NHVVA3dGhxMFBxN1c1c0tUT1U?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-07T22:11+09:00"
-    },
     {
      "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃（共同通信）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaHpqUGNJanFSRmRBZ09QN1dyRDVQVDJhNm5Nak44TGlENjhhM1pRaWE3aGZjXy1RRDBYZHBia3lPNTdWYnFiRFFlbEg3Z202ZWE2Q2pmWkpZbENpRGxtT0xLckFnY0xldW1YVWtaVUpGVi1mQ0VObnZOVEVsODg?oc=5",
@@ -635,6 +622,12 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-07T23:15+09:00"
+    },
+    {
+     "title": "欧州便に爆破予告、情報機関はロシアの攻撃を疑う",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2VXUjVTZlVKRmpNcTJ3RUl4dkNjRU1CWmc0aGRUOXFpQUhvOXphTXZqVlc3Ulc5NFdCbnVqY0JTTU1VM3VMMW1uQ0g5ZlZLS3VJLTBSS093QjlZTi1MRnJRRGFRQ28xT0xVbG5BTTJ1VzNIMnNPSnI1bUFUZXBBT21YUmZKT1k?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-07T23:40+09:00"
     }
    ]
   }
