@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:15+09:00",
+ "updated": "2026-11-08T07:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -310,6 +310,12 @@
  ],
  "nankai": [
   {
+   "title": "愛知・知多市で震度5強 南海トラフ巨大地震との関連性低い 気象庁",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CUnVCbDRCLUVlVlUxcktzUGdSQnp4cklNYTJXdVJGNXMzb1A1ZkYySHliT2ZUeUF3ZEU5LVJyWS1WZGpOYVFiTXlXVktWYVp3N01TZEFob2VtTlp6dkJsckFqX05sRjBy?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-08T07:24+09:00"
+  },
+  {
    "title": "震度5強受けて緊急会見 気象庁｢南海トラフ関連性低いか」",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hX3BnLUNPQ09qTTUybGlocGxZc0l0czFuaUVHNGZpbVo5U0ZZYlRkRGNXWnBfT0lsTzFXa2tNUl9ESzRYcDNoY0pNM29kRkROTVF3b2NhLTJPRzItY1N1a0UyeHVFazFCUFlvWGpsRQ?oc=5",
    "source": "Excite エキサイト",
@@ -338,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubGpWd19vOVRMRzNYR2s3eEEwREktTkRqWTNVNFp5cEJkVDFzR3FCUkdPQ0Raek84dFBxSVhpcS1EeUNzZGMzT3ZfN00xY0tRY21hSGZoVHc4cHdzYkZSR3dMRHBZSko4OHNpenNkdl9SRTVfTG15bzFhWUMyV3c?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-08T05:18+09:00"
-  },
-  {
-   "title": "【浜松市浜名区で震度５弱】南海トラフとの関連性 気象庁「低いとみられる」",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yYmFGRXFyYVpSUU5UZmhzQ3ZqMEpzQlVGQ01Yb1RtbjcyYmg3LVRCWnZFUVJGbmg5RFNLdUFiOUxNRGxtUzhEVC10dw?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-08T05:00+09:00"
   }
  ],
  "outage": [],
@@ -354,12 +354,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X3loUkgxbWw1STJqbmkzZzVjbUFXZEVBdEF2YzZEOFVjRERyQURabUZFOHpqem81eG9VWWtLdEhFZFB3RUFpeFhqX0dkYWpuanVnZUlVcw?oc=5",
    "source": "西日本新聞me",
    "at": "2026-11-07T20:00+09:00"
-  },
-  {
-   "title": "ケンタッキー、実施中のキャンペーンを中止 ニチレイグループのシステム障害の影響",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOTVDREVoNDF1M0tmV211aHpkOEF3T1l5cHF4WGVxZzZsSllXTE5FOFJzd0pBOE54Yk5VVU1VbWwwdDN4LWVNLTBBaW1fLWRkYXFKYWxVNXptaDBsOW1ISlRLUko0NDlnTlJXOWViZU5Kdw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-07T19:52+09:00"
   },
   {
    "title": "信金 システム障害は全面復旧 一部機器の故障が原因",
@@ -392,20 +386,20 @@
    "at": "2026-11-07T13:01+09:00"
   },
   {
+   "title": "東海地方から西の128の信用金庫でシステム障害 ATMや窓口、ネットバンキングの取引できず",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lS0NSaDNXNXQ0Tk9OTFVKWjRJSjJST3Rmb3JJdFNFZjBQWnl3UmNNdmdCV3NUeThncXdLaENuZXA5NmhFWC11SmhFTmFNcHMzM01rbllDX2JWMVhEVmVTdlY3ZzI0X1FZZHpKVDZPZHQ?oc=5",
+   "source": "locipo.jp",
+   "at": "2026-11-07T13:01+09:00"
+  },
+  {
    "title": "【図解】オープン型AI、ハッカーが悪用＝中国発モデル、安全装置を解除―サイバー攻撃が低コスト化（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TRUlreExNNWZXNG5hb2lWTkt1Y3RHT2FIR3Y0QUNLaTlwdk43bGNDVm9mWEd5ZnN5NTBGYUIxQnFNdVNKbVlGR19rOW9reE9WQTBzTWJoZEdLUm5YYmRxYnFxVEJWOUJBbHItdWpuMzJEa0laQTc4eW9zUHlGTTQ?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-08T07:05+09:00"
   },
   {
-   "title": "オープン型AI、ハッカーが悪用 中国発モデル、安全装置を解除 サイバー攻撃が低コスト化（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sWnF6d2NpaHFoWG45NlpZSXpSVGwzT1d2a3ZLOWhVZDNSazRSZ2s0WWtneXFlUFhMNzRzQkpERzlTX21EOURmbmdDOHFGWGV2UmhaUWR0SnNzMkxtSDltZkxYRk5tTnVHbG50OU82Yjh0SDFQaFNqaHlUX2VZbWs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T07:05+09:00"
-  },
-  {
    "title": "オープン型ＡＩ、ハッカーが悪用 中国発モデル、安全装置を解除―サイバー攻撃が低コスト化",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbVlDSmpiY0RQX2RENWJWdlVFR1FIRHYtQjhDMFJVcl9BbXdxMTdKcEpGLXg2ZWxQNjNGakFwM2MzcVVqRmpSTDFQUjV3TEFNSGtUVTJTTVFhMlZJSzdBQjB5U3BzcDZtdURUSHR2ZmREYklyU2RGa0o1T243Y3lleHNB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNjMwdGpPcm9SRFR3QV9nQmZSN1pXUHJWRWU1WDNkb3BNZF81bEtlT0pUcDRzS2tieXdGN3ZTSnJBSXpieHNURWFsQXpvbTNYUEVuUWx6b2VDcnRfTmlxNHJObw?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-08T07:03+09:00"
   },
@@ -438,6 +432,12 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85aWctcXFnY1l5NXR3X2ppUW1PaHZFc2NaREpHWThQcWYxdmR2WEktbkVaV3lNdjZXbWdhYWlnTzM1dDFSN0Vjdlk5VXJIQjdYb1VJU2pPOVM1RlJabnRrOXlxVnZCT3RUU2IyREhfU3RaREg1?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-08T05:35+09:00"
+  },
+  {
+   "title": "攻…数分で脆弱性発見 ＡＩサイバー攻撃再現 防…迅速パッチで危険減",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1td1dETTlYTFozdDRQVkR5b01YeGlnTi16dEFOdXFvaXRjMmJvaTFfaFQxZjduZ29BS0M0WFlyWFNHY3pidHRsRkV5djZ4YlBUbW9OS0pRQnNPV2Y4dkE?oc=5",
+   "source": "福井新聞社",
+   "at": "2026-11-08T05:00+09:00"
   }
  ],
  "osaka": [],
