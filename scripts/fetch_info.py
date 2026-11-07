@@ -178,26 +178,32 @@ def shindo_label(s):
 
 
 def parse_quakes(data, limit=8):
-    out, seen = [], set()
+    """同じ地震の電文（震度速報・震源・震度情報・震源要素更新など）をまとめて、最大震度を取る"""
+    by_id = {}
     for q in data or []:
-        if not isinstance(q, dict) or not q.get("anm") or not q.get("at"):
-            continue  # 震源が決まっていない速報などは飛ばす
+        if not isinstance(q, dict) or not q.get("at"):
+            continue
         eid = q.get("eid") or q.get("at")
-        if eid in seen:
-            continue  # 同じ地震の続報は最新の1件だけ
-        seen.add(eid)
-        osaka = ""
+        e = by_id.setdefault(eid, {"at": q["at"], "place": "", "mag": "", "maxi": "", "osaka": "", "title": q.get("ttl") or ""})
+        if not e["place"] and q.get("anm"):
+            e["place"] = q["anm"]
+        if not e["mag"] and q.get("mag"):
+            e["mag"] = q["mag"]
+        if SHINDO_RANK.get(q.get("maxi"), 0) > SHINDO_RANK.get(e["maxi"], 0):
+            e["maxi"] = q.get("maxi")
         for p in q.get("int") or []:
-            if str(p.get("code")) == OSAKA_PREF_INT:
-                osaka = p.get("maxi", "")
+            if str(p.get("code")) == OSAKA_PREF_INT and SHINDO_RANK.get(p.get("maxi"), 0) > SHINDO_RANK.get(e["osaka"], 0):
+                e["osaka"] = p.get("maxi")
+    items = [e for e in by_id.values() if e["place"] or e["maxi"]]
+    items.sort(key=lambda e: e["at"], reverse=True)
+    out = []
+    for e in items[:limit]:
         out.append({
-            "at": q.get("at"), "place": q.get("anm"), "mag": q.get("mag") or "",
-            "maxi": shindo_label(q.get("maxi")), "maxiRank": SHINDO_RANK.get(q.get("maxi"), 0),
-            "osaka": shindo_label(osaka), "osakaRank": SHINDO_RANK.get(osaka, 0),
-            "title": q.get("ttl") or "",
+            "at": e["at"], "place": e["place"] or "震源を調査中", "mag": e["mag"],
+            "maxi": shindo_label(e["maxi"]), "maxiRank": SHINDO_RANK.get(e["maxi"], 0),
+            "osaka": shindo_label(e["osaka"]), "osakaRank": SHINDO_RANK.get(e["osaka"], 0),
+            "title": e["title"],
         })
-        if len(out) >= limit:
-            break
     return out
 
 

@@ -598,17 +598,27 @@ function parseWarnings(data) {
   const uniq = Object.values(Object.fromEntries(items.map(i => [i.code, i]))).sort((a, b) => b.level - a.level || a.code.localeCompare(b.code));
   return { area: "大阪市", items: uniq, headline: headline.slice(0, 300), reported };
 }
+// 同じ地震でも「震度速報」「震源・震度情報」「震源要素更新」など何通も出るので、まとめてから使う
+// （最新の1通だけだと、震度の入っていないお知らせで上書きされることがある）
 function parseQuakes(data) {
-  const out = [], seen = new Set();
+  const byId = new Map();
   for (const q of data || []) {
-    if (!q || !q.anm || !q.at) continue;
-    const id = q.eid || q.at; if (seen.has(id)) continue; seen.add(id);
-    const osaka = ((q.int || []).find(p => String(p.code) === OSAKA_PREF_INT) || {}).maxi || "";
-    out.push({ at: q.at, place: q.anm, mag: q.mag || "", maxi: shindoLabel(q.maxi), maxiRank: SHINDO_RANK[q.maxi] || 0,
-      osaka: shindoLabel(osaka), osakaRank: SHINDO_RANK[osaka] || 0 });
-    if (out.length >= 8) break;
+    if (!q || !q.at) continue;
+    const id = q.eid || q.at;
+    const e = byId.get(id) || { at: q.at, place: "", mag: "", maxiRaw: "", osakaRaw: "" };
+    if (!e.place && q.anm) e.place = q.anm;              // 新しい順に並んでいるので、最初に見つけたものが最新
+    if (!e.mag && q.mag) e.mag = q.mag;
+    if ((SHINDO_RANK[q.maxi] || 0) > (SHINDO_RANK[e.maxiRaw] || 0)) e.maxiRaw = q.maxi;
+    const o = ((q.int || []).find(p => String(p.code) === OSAKA_PREF_INT) || {}).maxi || "";
+    if ((SHINDO_RANK[o] || 0) > (SHINDO_RANK[e.osakaRaw] || 0)) e.osakaRaw = o;
+    byId.set(id, e);
   }
-  return out;
+  return [...byId.values()]
+    .filter(e => e.place || e.maxiRaw)
+    .sort((a, b) => new Date(b.at) - new Date(a.at))
+    .slice(0, 8)
+    .map(e => ({ at: e.at, place: e.place || "震源を調査中", mag: e.mag, maxi: shindoLabel(e.maxiRaw), maxiRank: SHINDO_RANK[e.maxiRaw] || 0,
+      osaka: shindoLabel(e.osakaRaw), osakaRank: SHINDO_RANK[e.osakaRaw] || 0 }));
 }
 async function getJSON(url) {
   const r = await fetch(url + "?_=" + Math.floor(Date.now() / 30e3), { cache: "no-store" });
