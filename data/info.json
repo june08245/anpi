@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T17:30+09:00",
+ "updated": "2026-11-07T17:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -381,6 +381,12 @@
    "at": "2026-11-07T09:47+09:00"
   },
   {
+   "title": "プレスリリース：オンライン麻雀「Maru-Jan」への不正アクセスによる会員情報流出のお詫びとご報告（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SM2VjVnFTeUJ2OV9wYXFDU1lmTjJPb0JyRG1YZmZ3X20wSWxmX0l5V3pST01yV2g5ZTZjUUtvUURjM0p6Z2oyUjFVdTZFdEw3VGhnU0pMMjY3c2FBNjBhSS11MHV1Z2Rp?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-07T17:22+09:00"
+  },
+  {
    "title": "メールアドレス11件が漏えいの可能性 群馬・伊勢崎市 配信サービス業者への不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LX213TW80WHJhbW5JaGVTVTN5RURGa25SUkpRTkthd2ZrTTZpWHNJUnY3VUpLTkdzZ2R0MndFYWZSZmJubDBfeG5mNFh5Slh1amhhUy1TdnQ2UQ?oc=5",
    "source": "上毛新聞電子版",
@@ -391,6 +397,12 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpd0cxWHJsRk1BbFlYYTlER3lTYl8tRm5ITUZNb0U3VGJQZGVqaTUtVUJScWNnY1hMWHFHaFhlYTdURVdWNGxMQUtuODQ2Ylpp?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-07T16:09+09:00"
+  },
+  {
+   "title": "AI攻撃 36分で情報流出 自動ハッキング再現実験",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1Q2tzR05aY3FUWnBHOFg1MkNCVGdJT2VHdURoZm1TNkEyZUQzRUZINkJuZm9RcWFQcVBLQlQ1M1Y3b0czSkZaY2VlWQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-07T16:04+09:00"
   },
   {
    "title": "姫路市、行政オンライン申請とマイナンバーカード予約で個人情報漏えいのおそれ アララ不正アクセス、防災メールや申請通知にも影響|セキュリティニュースのセキュリティ対策Lab",
@@ -439,18 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rWTJscXNTQlU4ZllOZ3FNVThlU0tHbk9qTjc4aVJ4TjA4ZDBJdUxodmVsNS1UYTN2UXZlRHBKMmV6S2ZuREdZMlhneHJfTlA5ZnhiY0JMNG9zZDBlX2dj?oc=5",
    "source": "千葉テレビ放送",
    "at": "2026-11-07T14:46+09:00"
-  },
-  {
-   "title": "米民主党が議会奪還してもサイバー攻撃は続く──企業が急ぐべき「5つの防衛策」",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12eC1XdGlfQklEa3NJVloyWnQtSmVOSmtka2lKTnZlaFRUNl9yaHd3UjAzV3NBbmZ0bHNGYkxZYVFVVWxkZFE1VTFfVWxrVjYtVkR4am81ZjlFVTlYMDlieG9ybFNnR0tGZEJqaEhsN05VRHhnbjFnMGdzUnBVeFE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T14:31+09:00"
-  },
-  {
-   "title": "パ５球団のメール配信サービスに不正アクセス、アドレス約１万3000流出 パ６球団サイト停止",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWJVdERBeDVwTHhhdklpNGtQb3JFbEpSYlBzU0l3MXlMdjYzdnViTXdJMUFocDVIUDljaS1OMjRGSDcxZk9tSUx4Ymdsd3EwUkRla1BLaEY5em9JdUxzYnhuMmR4WTg5WGNuREZjTmpiTWxUSFJmYXZHMFU5bUM5dDZoWGtJSmhTUU5yRE9KVXZZZkhDT1N0bERiVkx2cWZVRHV2dVRidXI2cnBoUXlNOVp3?oc=5",
-   "source": "日刊スポーツ",
-   "at": "2026-11-07T14:20+09:00"
   }
  ],
  "osaka": [],
