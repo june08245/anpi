@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:30+09:00",
+ "updated": "2026-11-07T09:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,12 +95,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イラン、冬のガス不足に警戒 長引く経済圧力に戦争の打撃重なる",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Mk91MU5XTzRwakxiRjh5Wk9JUGpCb0lUOVBXNTRoLWU4bm5uN0FpWm9UOHdzRUFyREFDcVo3c01GR0NJRFEyZHAtdWpJS0xLMG5B?oc=5",
-     "source": "東京報道新聞",
-     "at": "2026-11-07T08:03+09:00"
-    },
-    {
      "title": "【中間選挙すらトランプ氏は“他人事”】11月以降は「ブラックホール」／「イラン戦争は頭にない」執務室で見た素顔／「過去にないレベル」で大統領職を“カネ儲け”に利用／NYTスクープ記者が語る内情【CROSS DIG DOCUMENT】 | TBS CROSS DIG with Bloomberg",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUlQwZlNHdERqZ0dmZEQta2hRY2VEMGR5cmk1UVJVZ3ZFdlY5RDE3ZTAtRTc4aXZTQzR4LURCNm5zYldrY0w3TDc4N1pod285YkNvTnFDcWdPZ1AyekZxUWFmLW1FMzNCZ2lELXRmUEFmSnRL?oc=5",
      "source": "TBS NEWS DIG",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEMzE2WTdnanJqT3o0TWtBcHRHNW1vY1lvYmRuX1IzVk5MVi1IQWREUzl4T2x2Q2k0OFczYlFkYlZVRll4WUJNUVZEM1J4S2ZYWGsxNDNKZnhZejBYT2VMODR2ZGJhekQ2V0U4R1pXVE05VW_SAXhBVV95cUxQVWVPVWZYdlV1eFVkbmFrb1J1dVA5TUo1TXNPWncyQ2Zudk9KYXpzeTN6QUk4ZmlDaDUxX0pjSXBNYUpEUWFlRWE4UDFIaEJDcUREZFhURU1rU01CNk1meEF4aldDWFllWlpDbnNPSVRQeGtXazRJbWs?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-06T15:55+09:00"
+    },
+    {
+     "title": "「負けた理由はイラン戦争だ」 中間選挙で共和党大敗の責任は誰に？　バンス副大統領はトランプ氏と一線画す発言も…【news23】",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd25rMUhXemZBUEVXZ0R0MXEtOFlzOUExUjdRREFPdEppaFBYdW9mWWdBVHpGdDQ1RmZvMkdGYlk1azBDX0xQSFJqNGQzdVV6NjRMaTZ5RHhicUdzaGtuUkFJMnR4cjktVC1WQUJkN0dtSGY4VS1jLTlqNnJYRnBmbzNOQTZjdk5EMGJObjdVTTJWdHhXZ1J1Z0F5YkoyeDB6LWR1TEZ0T090WW1iVVdwbnNBR1l3LWNocjRXWkVvdVVrTFnSAXNBVV95cUxNUlIzM1ZyQWVKVUlndHcwZ0t1QnYxSW1TNGlmWDFELVl4MmVqay1IT0x1dkdIWHc5dVBLZ2dQZExsOGlPckliZkVWM3oybGZ4MXJyV2NWZ0wxWTNMV3N1TThvbjRJTl95aGN6S0xLQ3BlTml3?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-06T13:39+09:00"
     }
    ]
   },
@@ -221,7 +221,7 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏",
+     "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
      "source": "Reuters",
      "at": "2026-11-07T06:32+09:00"
@@ -348,6 +348,12 @@
    "at": "2026-11-07T01:49+09:00"
   },
   {
+   "title": "キーウとウクライナの一部地域で弾道ミサイルの脅威により空襲警報が発令",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ib19ZVmdZTnVMdFp2d2dwM3FEaVR1eTN3dTRJb3F5MWF2eXBLaU5GT2FnRlhYMDZGTHhvRHBaeGJwX3ZVWHNHcFNqazVYemZxNVVoMmNlNmY5VFFmXzlSWnlndGpNVDBv?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-07T01:09+09:00"
+  },
+  {
    "title": "陸上配備型大陸間弾道ミサイル「東風61」がロケット軍に配備",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81UG94aUxJSWJobUwweWhtV01Dc1ZpdUhwWEdnMVVkdFl3d3k1Zmd1RmZSOWpDVmlENUs4dFIyajFoVjVYbjI1cmRsZEJVTzRhTnNNMS1ZOU5kaGlpQ2RKVHkzcWlzSEE?oc=5",
    "source": "人民網日本語版",
@@ -398,6 +404,12 @@
    "at": "2026-11-07T01:08+09:00"
   },
   {
+   "title": "由利本荘市と大仙市で個人情報漏えいの恐れ 委託業者が不正アクセス被害",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lZGw5NUJRVFV4aHl5TnJyVVZiNktWdjBkVTIzZVE3dFM1YXRYdmxkTnJPRF9aM0M3Sk1MWl85eHBsZ2s3bHJkY2ZySUNnb1NSZTFyNWlQMXBwd01nNGNmUndR?oc=5",
+   "source": "秋田魁新報電子版",
+   "at": "2026-11-07T08:30+09:00"
+  },
+  {
    "title": "サイバー攻撃、中小に懸念 AIで進化、「何を優先したら」（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRnRoYUtsYTZreFhIZGNMd1BoMjE3VU9ramRVNDJqTnVERnpuaHFSX2toQWR2aHJWNFFwSGUydnJ1QlNqUUhyVjdwYk9PYkNSWktEOFF3bmJva2dDVzVpYTczak9Vb29xRDh2cGhKVDBFZUVKZmlNWDZIS3NQUjQ?oc=5",
    "source": "Yahoo!ニュース",
@@ -435,32 +447,19 @@
   },
   {
    "title": "警察庁と全国警察が連携 サイバー攻撃で合同捜査本部",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvNm1jMVV2S3dOVHp2ajVGN3UyYThSZkpkQ21GLUdmYzZwU2FXSVFhWld1R2c0dU1ZaDJCU1d6LW85U1NSOHZnLXZ1eDNQZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-07T07:50+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85eHpFU2UtWW5BcDB1bXRRenFERFVkQzV5VFlaTEZBb2FsNkJteFdDME54MmpOemNZanZaS0pUekdOdFI1Q2dIUWdMcHFVcmFCbl93OTBHUnlqLUdySnBj?oc=5",
+   "source": "千葉テレビ放送",
+   "at": "2026-11-07T07:54+09:00"
   },
   {
    "title": "不正アクセスで800万ポイントが不正交換 NTTスマイルエナジー「全ポイント補償へ」",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkVYbjNxVUNsWnlIVUNyZFFSWlFZVlA0M0dyc19FRkEtd09IX2F3V1E2ejFENERfRjBIREl3SzdEZXpUaURRMXdPZVZWanVqa2Q0MUQxLTQ2VUFacEN4RjZIZGtVbWFSaDlnTUtLYUROZVoyUWVPc0RxbEZfNmV0MmZ2OGZUa3J3MGU0Sy1jMjFETTVVc2JPNVI2NExjbW5QMkVTb29PeDZ5Rko4eGVZYU5Gazk?oc=5",
    "source": "ABEMA",
    "at": "2026-11-07T07:25+09:00"
-  },
-  {
-   "title": "［福岡県］筑後市HPに不正アクセス 利用者情報漏えいか",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsR0ZyNzNwc0pOZE56VDRRNlY3WW1xTGpGTTZrYVpqQ0dudzZfVjNXN2F6N3RXal8ybmx1UlEtb0dxclNDZFo1dnI2TQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-07T07:16+09:00"
   }
  ],
  "osaka": [],
  "world": [
-  {
-   "title": "イラン、冬のガス不足に警戒 長引く経済圧力に戦争の打撃重なる",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Mk91MU5XTzRwakxiRjh5Wk9JUGpCb0lUOVBXNTRoLWU4bm5uN0FpWm9UOHdzRUFyREFDcVo3c01GR0NJRFEyZHAtdWpJS0xLMG5B?oc=5",
-   "source": "東京報道新聞",
-   "at": "2026-11-07T08:03+09:00",
-   "topic": "イラン・アメリカ"
-  },
   {
    "title": "【中間選挙すらトランプ氏は“他人事”】11月以降は「ブラックホール」／「イラン戦争は頭にない」執務室で見た素顔／「過去にないレベル」で大統領職を“カネ儲け”に利用／NYTスクープ記者が語る内情【CROSS DIG DOCUMENT】 | TBS CROSS DIG with Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUlQwZlNHdERqZ0dmZEQta2hRY2VEMGR5cmk1UVJVZ3ZFdlY5RDE3ZTAtRTc4aXZTQzR4LURCNm5zYldrY0w3TDc4N1pod285YkNvTnFDcWdPZ1AyekZxUWFmLW1FMzNCZ2lELXRmUEFmSnRL?oc=5",
@@ -497,7 +496,7 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏",
+   "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
    "source": "Reuters",
    "at": "2026-11-07T06:32+09:00",
@@ -593,6 +592,13 @@
    "source": "Infoseek",
    "at": "2026-11-06T19:20+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "中国・王毅氏、北朝鮮の金成男氏と会談…5中全会の結果説明、党運営の経験交流へ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0M0lobzdjeG8tcFM1WEFub3k4S3pqZlV5c1J0bFlIUzRReVJadVIyMEtPcWRMSVFvQi1rSnNubmQxTzVwQ3BWczNTSlphTEVFSXk4VkF5X200VFU4cUhDbDFIREE3YVdjNkpRRVliTmJtUdIBVEFVX3lxTE5hMUk4UF9HdmNERWNFWjQxLU5lRjlpdXp4eTBuc2luRHZKcGtndWZGcU9iOTFBNEtCWnIzOFEta0JMYU5MeXBGV2w1VVVlN2xEMUZMeg?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-06T17:23+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -630,7 +636,7 @@
      "at": "2026-11-06T11:52+09:00"
     },
     {
-     "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏",
+     "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
      "source": "Reuters",
      "at": "2026-11-07T06:32+09:00"
