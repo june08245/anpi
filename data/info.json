@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:15+09:00",
+ "updated": "2026-11-08T01:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -363,6 +363,12 @@
    "at": "2026-11-07T20:00+09:00"
   },
   {
+   "title": "ケンタッキー、実施中のキャンペーンを中止 ニチレイグループのシステム障害の影響",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOTVDREVoNDF1M0tmV211aHpkOEF3T1l5cHF4WGVxZzZsSllXTE5FOFJzd0pBOE54Yk5VVU1VbWwwdDN4LWVNLTBBaW1fLWRkYXFKYWxVNXptaDBsOW1ISlRLUko0NDlnTlJXOWViZU5Kdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-07T19:52+09:00"
+  },
+  {
    "title": "信金 システム障害は全面復旧 一部機器の故障が原因",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OWlIazhIQnFYWkJmMkYyVUdpZGQ5ckt6dk56Wms0Zk1FTmVBeDNqeks4R1hzX2JqRUdyeXdrRmVWUXl3dTRNSlZqZElNcm5aZmZsdTdnR2dDVGM?oc=5",
    "source": "ABEMA",
@@ -439,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3VWRJU3cxNzJDNXFJbU9DcEdpM19zWGZLOG9JQ2FHU2NGSzRDOFNzTWlnWmNFa1dwZjVVem41SngtYjhYYzZwM25WMTBTMDk4cjE2c082S0huTDBBMVdrUXlrRk5lMEl5TlhxTHU1Q1BPNXBUVzFrclhZRUpkUlk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-07T18:19+09:00"
-  },
-  {
-   "title": "日本はなぜ狙われる？サイバー攻撃 生活にも影響",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TV0c5eERRazNxdERkWU80cEx4eUtjTlNJMVluU282bDJaVXZoUUxZNTNJVzlWbmc5VVBub09SOUkxNm9oMENqQWkxeHZ4SHNaRmoyUnFoRDJQSVJkMUVR?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-07T18:14+09:00"
   }
  ],
  "osaka": [],
