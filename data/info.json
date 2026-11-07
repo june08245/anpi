@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:30+09:00",
+ "updated": "2026-11-08T07:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-08T07:38:00+09:00",
+   "place": "福島県沖",
+   "mag": "3.9",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-08T01:04:00+09:00",
    "place": "静岡県西部",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-07T06:30:00+09:00",
-   "place": "山口県中部",
-   "mag": "2.9",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -114,6 +114,12 @@
      "at": "2026-11-08T04:29+09:00"
     },
     {
+     "title": "米中央軍、イランの陸路監視を強化 兵器輸送を阻止 フロリダ州拠点にタスクフォース設置",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZUVNMTJOcm5CN1o1SFZ3MDRpNlBoTUEtRHhhU3QxazFUY19HRS1PbU0xYV9GN3NLdWhlcV9udGN1MkRaYVRBTVRBZUxPaldOVTM1QTJZRkZOaFV5QThCWUhrMVZJYWkydjJlNm12TktQZ1FsMXc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-08T00:17+09:00"
+    },
+    {
      "title": "米軍、イランの兵器陸上輸送ルート遮断へ－専門チーム新設",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNlNSU0pMY0NhdHlOYXdSX2hhWEJSMHhnNE1Nbk8wcXYzc3RxYVVQOUk5YTFGMVJpZ1lpVE9uVlV5MVlLelFJdVdweFdmVGh0UzRnX1l4Wjc1RFd0X0VGUzNydjIxUHNzU2F2WFFzT2Z6bWl6X3lOUG9VOFA0ZlB2UmVSS1BhOW02cVRFUGN3?oc=5",
      "source": "Bloomberg.com",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KMG85eGRCNGNxZEVSdGxXTzd2dS16T0J3RFVXbU1BbDZzbVZUMmdmYV9HMWdJWFloVERqYURLRlViQ3BYdkpNUUVKcDFxNmUwZ2pXR1hDem9wbEFZdk9ELUQ0RXJQNl9NODN6OFBIQ09qNFV0UmRlONIBhAFBVV95cUxQY3Z5blAyOUhqaXd1NUtlVUZ5YUJzandaYVV5WV96M1UydmpRdWRjZHVsTHRON0dNUnpuWi0xYnp2WjR4X29SNUM1VXRVSzhBNk9FRTVaZHE5cUJaUHNfSHVHckpsNGF1VmphYUxHUjUtci1MZjBsTFA4WUdpNXRaaExHcmk?oc=5",
      "source": "大分合同新聞",
      "at": "2026-11-08T00:04+09:00"
-    },
-    {
-     "title": "イランが「戦争開始時よりも強くなった」と発表",
-     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd3lpTzRpaWd2U1ZNR0lNODgwUE95SVdrNloteGpDa08waDVlUHpuS2RnY0ozYUZHVVpPVnlIWjBqdW5ENVpZUEJhOXF5bEZiX1FiTkJsRUlXR2FSVzBWMkU0Nm9HdUU0SEN5bnZvTzV5ZXZkT0RYc0FXVGdRZ2ZpX1lQN09mRFdLaWRqRWl4V3BpenJxM2k3OG1BSjFUc2hjV09wX1FOamZ0ek8zRE9lcW9VYVNzaTZhdXFCM2RobGxxejlWQWpOR1cyMWQ2dTFkcE53ZHBEZ3A5a0VCZmFwMnNyYzZsamZhdnZjZmNTUVN0cDRlRE0yalR4Rk0tQVMzSjFvSU1PRExxUTFLNVZYWEcxTkdkdWl3THB4ek82UWpGRlFsSXdxYksyN05vN1BoT1ZyT2ZBZ0lGQ1hBQ1FiN0RYNmhseFk?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-07T23:42+09:00"
     }
    ]
   },
@@ -310,16 +310,16 @@
  ],
  "nankai": [
   {
-   "title": "愛知・知多市で震度5強 南海トラフ巨大地震との関連性低い 気象庁",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CUnVCbDRCLUVlVlUxcktzUGdSQnp4cklNYTJXdVJGNXMzb1A1ZkYySHliT2ZUeUF3ZEU5LVJyWS1WZGpOYVFiTXlXVktWYVp3N01TZEFob2VtTlp6dkJsckFqX05sRjBy?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-08T07:24+09:00"
+   "title": "震度5強受けて緊急会見 気象庁｢南海トラフ関連性低いか",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sdHpsVUwzNk9TZTdtTjd2VnJRT2tsWXZsS2ttWE0zdGpqOTBobUcyVnhYSXNoX1BiSEVoX3RMdXdydm5OUEMtSEU1czZpYzlrQVBRdnQ1RklmNzRUaEMw?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-08T07:30+09:00"
   },
   {
-   "title": "震度5強受けて緊急会見 気象庁｢南海トラフ関連性低いか」",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hX3BnLUNPQ09qTTUybGlocGxZc0l0czFuaUVHNGZpbVo5U0ZZYlRkRGNXWnBfT0lsTzFXa2tNUl9ESzRYcDNoY0pNM29kRkROTVF3b2NhLTJPRzItY1N1a0UyeHVFazFCUFlvWGpsRQ?oc=5",
+   "title": "愛知・知多市で震度5強 南海トラフ巨大地震との関連性低い 気象庁",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tVXNpcFFDYjc5VElucjNlU2lIWXNsOUlJT2JObzIzUnpYSXlDUmtqREZVb2k1SGRoU1JTOWYwWU1rYWdNYUIyV3RuMEtNQ0stTlNDWl85eEszOU9kYWszcFVRQVI0anY0R1A3UEN3?oc=5",
    "source": "Excite エキサイト",
-   "at": "2026-11-08T06:24+09:00"
+   "at": "2026-11-08T07:25+09:00"
   },
   {
    "title": "気象庁「南海トラフ地震とメカニズム異なる」 愛知の震度５強を受け会見",
@@ -527,6 +527,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "米中央軍、イランの陸路監視を強化 兵器輸送を阻止 フロリダ州拠点にタスクフォース設置",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZUVNMTJOcm5CN1o1SFZ3MDRpNlBoTUEtRHhhU3QxazFUY19HRS1PbU0xYV9GN3NLdWhlcV9udGN1MkRaYVRBTVRBZUxPaldOVTM1QTJZRkZOaFV5QThCWUhrMVZJYWkydjJlNm12TktQZ1FsMXc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-08T00:17+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "米軍、イランの兵器陸上輸送ルート遮断へ－専門チーム新設",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNlNSU0pMY0NhdHlOYXdSX2hhWEJSMHhnNE1Nbk8wcXYzc3RxYVVQOUk5YTFGMVJpZ1lpVE9uVlV5MVlLelFJdVdweFdmVGh0UzRnX1l4Wjc1RFd0X0VGUzNydjIxUHNzU2F2WFFzT2Z6bWl6X3lOUG9VOFA0ZlB2UmVSS1BhOW02cVRFUGN3?oc=5",
    "source": "Bloomberg.com",
@@ -545,13 +552,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KMG85eGRCNGNxZEVSdGxXTzd2dS16T0J3RFVXbU1BbDZzbVZUMmdmYV9HMWdJWFloVERqYURLRlViQ3BYdkpNUUVKcDFxNmUwZ2pXR1hDem9wbEFZdk9ELUQ0RXJQNl9NODN6OFBIQ09qNFV0UmRlONIBhAFBVV95cUxQY3Z5blAyOUhqaXd1NUtlVUZ5YUJzandaYVV5WV96M1UydmpRdWRjZHVsTHRON0dNUnpuWi0xYnp2WjR4X29SNUM1VXRVSzhBNk9FRTVaZHE5cUJaUHNfSHVHckpsNGF1VmphYUxHUjUtci1MZjBsTFA4WUdpNXRaaExHcmk?oc=5",
    "source": "大分合同新聞",
    "at": "2026-11-08T00:04+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イランが「戦争開始時よりも強くなった」と発表",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd3lpTzRpaWd2U1ZNR0lNODgwUE95SVdrNloteGpDa08waDVlUHpuS2RnY0ozYUZHVVpPVnlIWjBqdW5ENVpZUEJhOXF5bEZiX1FiTkJsRUlXR2FSVzBWMkU0Nm9HdUU0SEN5bnZvTzV5ZXZkT0RYc0FXVGdRZ2ZpX1lQN09mRFdLaWRqRWl4V3BpenJxM2k3OG1BSjFUc2hjV09wX1FOamZ0ek8zRE9lcW9VYVNzaTZhdXFCM2RobGxxejlWQWpOR1cyMWQ2dTFkcE53ZHBEZ3A5a0VCZmFwMnNyYzZsamZhdnZjZmNTUVN0cDRlRE0yalR4Rk0tQVMzSjFvSU1PRExxUTFLNVZYWEcxTkdkdWl3THB4ek82UWpGRlFsSXdxYksyN05vN1BoT1ZyT2ZBZ0lGQ1hBQ1FiN0RYNmhseFk?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-07T23:42+09:00",
    "topic": "イラン・アメリカ"
   },
   {
