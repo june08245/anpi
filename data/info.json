@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:15+09:00",
+ "updated": "2026-11-07T16:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -192,6 +192,12 @@
      "at": "2026-11-07T16:00+09:00"
     },
     {
+     "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
+     "source": "KORIT",
+     "at": "2026-11-07T15:53+09:00"
+    },
+    {
      "title": "北朝鮮の金成男氏、中国高官と相次ぎ会談…「中朝親善は不変」",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1JnVHE1YjBwR0ZsNHhIcUgzQVFyRjF2TFliZ0hDUG9YUzV6WGFnSkxVUlM5RzVkWWUyWjlvTlhuRC12bkh3Qjh5elVHVW96TXctaUVnWGRUSmdGNm5INW1maTMtVW81Z2pqSnU2VHQxRVNSelNOOGU0elh3bEJNZ0JWVGxZQQ?oc=5",
      "source": "조선일보",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXhyeHZ3TUxxYmFiS1pCaUN0N2pmdDY4NVFxQTljOU90OFlyVGxVaXNfZDVCYnVSR05HX2J3R0h2cGd1U20yMEtHTGhuUk1hcWdCemdtQ0lTa2FMUmxyWGtEV0x0T3o4bExxVVh6RkV0YXc1eS1ET1lnYmd4eHV0ckFRUTRqTm1G0gGcAUFVX3lxTE4yWURjSkk5UW5QdllZeW9IcFljeEtScjFBdjVnTGs2dVQyRjMyR3ZrZ291YzVMSFRtb3cwcjR1WTVFeUZfR3hGaDAySkZsZVA5Nm1XWHEwTk1sejNMbkN6M014QVJrQ0RzMWNjNl9DUG5QVk52eGtRZFNhRnhiT0ZBcTFranRwTzlpVHhUelg4Q3ZBZmRmalBTZm8wVQ?oc=5",
      "source": "Chosunbiz",
      "at": "2026-11-07T13:31+09:00"
-    },
-    {
-     "title": "レーザーで無人機撃墜…北朝鮮の脅威多様化に対応する韓国空軍（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoZzE3UWZJMFBuN1l4bVFXWGJGWHZxVWN5OHFyZ05hbEJXV1Fuai1STXBKMGlhMHBRSXY3Mk9UVFplWkp6MmZxbG1EdmZmeDRuaEo1VUlDRWtIU1lWVUUxUkdPclJTbWZMV2prcm5qM251UDZyUVVfYWozN0NKbnM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-07T11:59+09:00"
     }
    ]
   },
@@ -375,12 +375,6 @@
    "at": "2026-11-07T13:01+09:00"
   },
   {
-   "title": "西日本１２８信金で障害 機器故障 決済、ＡＴＭ利用できず 高知県内では幡多信用金庫で影響",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rWXdjeHBrUklPSDhxeDIyazEwbUtUcFh4OXlNTXY1NWx1bHJCRzN6cUVIQ1lmeXNRdlk2dTdBUWJwbnhOUlRXT3FVTHd4bGppNWJQTWhCa29oR1E0dk9Z?oc=5",
-   "source": "高知新聞",
-   "at": "2026-11-07T10:22+09:00"
-  },
-  {
    "title": "信金システム障害は全面復旧 一部機器の故障が原因",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEM1JZS0liS09Dc2JqblpNMnJLNmxickxNWllOQnBvV19iVVdlRGRDTm5VUWxMSGVwQ1R0emJSQllLdkVaU2lQSHc1ZTJGWGNoU3ZZbDJtRkJ3b2hTcXNZ?oc=5",
    "source": "千葉テレビ放送",
@@ -451,6 +445,12 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWJVdERBeDVwTHhhdklpNGtQb3JFbEpSYlBzU0l3MXlMdjYzdnViTXdJMUFocDVIUDljaS1OMjRGSDcxZk9tSUx4Ymdsd3EwUkRla1BLaEY5em9JdUxzYnhuMmR4WTg5WGNuREZjTmpiTWxUSFJmYXZHMFU5bUM5dDZoWGtJSmhTUU5yRE9KVXZZZkhDT1N0bERiVkx2cWZVRHV2dVRidXI2cnBoUXlNOVp3?oc=5",
    "source": "日刊スポーツ",
    "at": "2026-11-07T14:20+09:00"
+  },
+  {
+   "title": "行政手続きシステムに登録のアドレス971件が漏えいか 委託先に不正アクセス 山形県尾花沢市",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzdpZUZxVEo2TXFucHV0QUZsU2M1ODhkM2kxX3lMMDlwMGtwWXFlWkY3TDdJTDVQWENKYjUyLW11VEd0cnE5QU42cnUzblV0UXgyNVpFak9HS2RtcHpmNzdUcV9aR3pwSFFqdFU3UndkYkt3dVFFcjBOWnpUVFBpQjBkVDhFS1E?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-07T11:36+09:00"
   }
  ],
  "osaka": [],
@@ -460,6 +460,13 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGcXFRc1pNbXhRam9XbXR4STFXand4dzY4TXUyempPR0F1cmotOGFNNGlRc1lqUUsxaVpRUEJTeU1qR2JsQXR0Z2pMQmR4Y2hnckg3R3RxY0tOSFZKU0RlbmF0YUx3d1U?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-07T16:00+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
+   "source": "KORIT",
+   "at": "2026-11-07T15:53+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -554,13 +561,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "レーザーで無人機撃墜…北朝鮮の脅威多様化に対応する韓国空軍（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoZzE3UWZJMFBuN1l4bVFXWGJGWHZxVWN5OHFyZ05hbEJXV1Fuai1STXBKMGlhMHBRSXY3Mk9UVFplWkp6MmZxbG1EdmZmeDRuaEo1VUlDRWtIU1lWVUUxUkdPclJTbWZMV2prcm5qM251UDZyUVVfYWozN0NKbnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T11:59+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "欧州放送局が爆破予告の標的に 英国とアイルランド､ブルガリア（AP通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdEtJU0gxeExYc1JEaUdyMXZsSmlVOXhKSlduVHlLbzlUektsY0JxZVZZZERzUkRXOUFmd09uRi04d2xpSUdZRDVXSDllS3FlUGVfMENDNGE5b1hKdVY2bk9pRk9MUE85ekhFUG9KQVk4VE85enJPbHZuLXA4b1E?oc=5",
    "source": "Yahoo!ニュース",
@@ -613,6 +613,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「空爆」3件",
+    "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「空爆」5件",
     "欧州・NATO：「爆破予告」4件"
    ],
@@ -624,16 +625,16 @@
      "at": "2026-11-07T14:32+09:00"
     },
     {
+     "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
+     "source": "KORIT",
+     "at": "2026-11-07T15:53+09:00"
+    },
+    {
      "title": "ロシア軍、キーウ等を航空攻撃 ５名負傷　エネルギー施設等損傷",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVHhDOFhKRXhUTUhRMG93VDdyUFVIY0R3c3d5b1pTZEliWDVuX1o2UFZoazFFaEJyWk9STUVTcXZHTWJzMF9nTUJiczd5Z1dTNE1HMHQxbTA4Tzlpbi16dU45TG54RUdkaTZXeTF4clJtSUotWTBvc0l6ejVfckFCSFo3SHNTR3N0TkNKYmI0WUdkMUg0ZjZKYWNPS0pSQmV1U2E5R05XdlFGUEE1RXFkTFBmYmNFQUZfMmE5T0xYY3Z0OUlqb2FudDZ0c9IB0AFBVV95cUxPb25FX28zdFA4YkpzNExnTFM1dHFVUFl6aVItOUNsMTlvN0VCcU5nYnJvWU5xekpXTXItaEQtSnhfNkFhSGRuY2puNTRnV3R4cTYtMHhvSmtwRFdkeGZVc0ZORy01bXF6TG1QZ2ZJN3ZKVlBsZHIwaGI0S0RkMVpvbjBWX2pBak9IbE1saUktMXUyWFUwUEN2MnkzeHJyX2VYLUViZTB3Vkt5ZHNzbkJ2NkFqUWhxWUtzUXV0d3pBNGRieFVKa1VDMGx1VXBxX1J5?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-07T15:48+09:00"
-    },
-    {
-     "title": "爆破予告を受け、フランス当局が4機の航空機を目的地変更",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzk4VHh3ekFKTFhseDJMWmxRM21Rd0tKLXNpNFE0ODlpaUVwTVBkdXNxLWgxOUliQmJkVUtUOFNpbTltdUZHcUozajBid0JOLXFqSXRDM1ZYd0hrRzl5YzdtUVlZNVJQak1uNGxVQUhWbkZxd3I0Z2thWTZSSENzTUJEUGtQeENOTW1GNEtnblRFaEZ2dEtoVGpIdnNMNWcyV3UxNg?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-07T14:49+09:00"
     }
    ]
   }
