@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T06:30+09:00",
+ "updated": "2026-11-08T06:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -186,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "ゼレンスキー大統領「北朝鮮のKN-23、ウクライナのエネルギー施設攻撃に使用」",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjE4VDVoVElQN3hGczIwbHlyZFhEWXdtNjhkOHk4WXplS3lLbHM4eFdsalpsWUlERUNBa0RIVDVabjNzcnhrVm9BSDdOa1ZSY2NLZVZJOC1ldTFYbFlpa1ZzWkJkUkk4NE93S1lGa1Y2V0wzRGhUR29HZ090Zk1VMnc0UHZKX2xD?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-08T06:31+09:00"
+    },
+    {
      "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
      "source": "産経ニュース",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1JnVHE1YjBwR0ZsNHhIcUgzQVFyRjF2TFliZ0hDUG9YUzV6WGFnSkxVUlM5RzVkWWUyWjlvTlhuRC12bkh3Qjh5elVHVW96TXctaUVnWGRUSmdGNm5INW1maTMtVW81Z2pqSnU2VHQxRVNSelNOOGU0elh3bEJNZ0JWVGxZQQ?oc=5",
      "source": "조선일보",
      "at": "2026-11-07T15:33+09:00"
-    },
-    {
-     "title": "北朝鮮高官が相次ぎ中国要人と会談　経済協力拡大に意欲、戦略的連携も強化へ",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzSnA1RWZYWFV0emkyT1ZaYno0R2Y5S3ZjT1NQbndBWFJjYkdSeWJ1UC03dW5Vc2xEYS1oYktEOWZTeTlWdlJCM2VuZzVwZGhscF9vX0NTcDduc0V2UWtKQlM0ekZPNHkwNGFUQWs0ZllQYU9sc1hV0gF8QVVfeXFMTWFyYkJqNW81SkQ4TVg0bEVWemQ0clA5c3RBVGNhSWRval9Cd0k3RVloUkh6aDhkZ25YU1J3bkRNN0s5ekt4UlVJQktaMTVLNWlIV2Juel9XSi1KZm9DNzdyMERqNUZ5dVlqVGpOa2hkcHd4WUlpNzhKTFY2ag?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-07T14:20+09:00"
     }
    ]
   },
@@ -310,10 +310,10 @@
  ],
  "nankai": [
   {
-   "title": "震度5強受けて緊急会見 気象庁「南海トラフ関連性低いか」（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNEFNdWR5aHhUN3NpUHFQUlRNdXNoTDNneDEzSVVPYndvT3Y4cmMtaEJxS0N4SWZuVllEdk9vazlxWTZkRlBDMTZEaXBaUkVQVHJvOWowcG1acXFIbTFkd3RqcGcxNnh5elhFQnNwMFQtal9RVE42QWRVajNXa1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T06:26+09:00"
+   "title": "震度5強受けて緊急会見 気象庁｢南海トラフ関連性低いか」",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hX3BnLUNPQ09qTTUybGlocGxZc0l0czFuaUVHNGZpbVo5U0ZZYlRkRGNXWnBfT0lsTzFXa2tNUl9ESzRYcDNoY0pNM29kRkROTVF3b2NhLTJPRzItY1N1a0UyeHVFazFCUFlvWGpsRQ?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-08T06:24+09:00"
   },
   {
    "title": "気象庁「南海トラフ地震とメカニズム異なる」 愛知の震度５強を受け会見",
@@ -354,6 +354,12 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X3loUkgxbWw1STJqbmkzZzVjbUFXZEVBdEF2YzZEOFVjRERyQURabUZFOHpqem81eG9VWWtLdEhFZFB3RUFpeFhqX0dkYWpuanVnZUlVcw?oc=5",
    "source": "西日本新聞me",
    "at": "2026-11-07T20:00+09:00"
+  },
+  {
+   "title": "ケンタッキー、実施中のキャンペーンを中止 ニチレイグループのシステム障害の影響",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOTVDREVoNDF1M0tmV211aHpkOEF3T1l5cHF4WGVxZzZsSllXTE5FOFJzd0pBOE54Yk5VVU1VbWwwdDN4LWVNLTBBaW1fLWRkYXFKYWxVNXptaDBsOW1ISlRLUko0NDlnTlJXOWViZU5Kdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-07T19:52+09:00"
   },
   {
    "title": "信金 システム障害は全面復旧 一部機器の故障が原因",
@@ -432,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14aFNzSmNqTkIzQldCNm5qTllSWk1keU5nT1QwMWZndzdUQndQWHhHemxld25zLVhjOGR1azNqdHZZczZ5djhqbmFNU0YwRTF1OWJ2eXNPc2lESzJOc3QyMWtfU2ZEZ29xMGhLUA?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-08T05:00+09:00"
-  },
-  {
-   "title": "不正アクセスからお金を守る、今すぐできる対策は 被害に遭ったときの補償は？",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kZkY2MGhRYlppUUlWUWE0MFJicEZZeFJZSUU3QnNicDdkaHVqZW1pZFBqanBBMGQ0cXBkLVM1ZW4wM21SUWoyR1h6Q1gtLXk4aFVn?oc=5",
-   "source": "東京新聞",
-   "at": "2026-11-08T05:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ゼレンスキー大統領「北朝鮮のKN-23、ウクライナのエネルギー施設攻撃に使用」",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjE4VDVoVElQN3hGczIwbHlyZFhEWXdtNjhkOHk4WXplS3lLbHM4eFdsalpsWUlERUNBa0RIVDVabjNzcnhrVm9BSDdOa1ZSY2NLZVZJOC1ldTFYbFlpa1ZzWkJkUkk4NE93S1lGa1Y2V0wzRGhUR29HZ090Zk1VMnc0UHZKX2xD?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-08T06:31+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14TU91Q2FwbXRsYmJTc0VxXzlRQXBNTE9NUV9ESEVIMS1HRktaOVd5TnhuVndoWE1OZURtaWY2OWlUVTBnbm52UmtYNmRXdHFWR3BKd3JVNnFzZW1BajBZ?oc=5",
@@ -574,13 +581,6 @@
    "source": "Informat.ro",
    "at": "2026-11-07T20:17+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ひろゆき氏「だんだん対応が緩くなり、そのうち本物を混ぜてくる作戦なのかな」欧州での爆破予告に警戒感（スポニチアネックス）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXNHJtYlhxU0o5aF8wd0NnNmxtOUEzeE1hTWVuX2dJQkFaQS1SN3Nyc2hFQnhuOUIyUktzOUJycWxTcHZoZHFxV2pLMFNUQzhsSml1VzVlZkZsRWtVLS1DNzA3QTdwdnF2bmFYT3ZVSmxWeUdLenNvZzEwWjdhYkE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T19:17+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -599,16 +599,16 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "北朝鮮：「攻撃」3件",
+    "北朝鮮：「攻撃」4件",
     "ロシア：「攻撃」「空爆」2件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
-     "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-08T00:19+09:00"
+     "title": "ゼレンスキー大統領「北朝鮮のKN-23、ウクライナのエネルギー施設攻撃に使用」",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjE4VDVoVElQN3hGczIwbHlyZFhEWXdtNjhkOHk4WXplS3lLbHM4eFdsalpsWUlERUNBa0RIVDVabjNzcnhrVm9BSDdOa1ZSY2NLZVZJOC1ldTFYbFlpa1ZzWkJkUkk4NE93S1lGa1Y2V0wzRGhUR29HZ090Zk1VMnc0UHZKX2xD?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-08T06:31+09:00"
     },
     {
      "title": "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に",
