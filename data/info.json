@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:00+09:00",
+ "updated": "2026-11-07T22:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -363,6 +363,12 @@
  ],
  "cyber": [
   {
+   "title": "システム障害を知らせる大阪信用金庫の張り紙＝6日午後、大阪市北区 - 福岡信用金庫など西日本128信金でシステム障害 決済、ATM利用できず - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X3loUkgxbWw1STJqbmkzZzVjbUFXZEVBdEF2YzZEOFVjRERyQURabUZFOHpqem81eG9VWWtLdEhFZFB3RUFpeFhqX0dkYWpuanVnZUlVcw?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-07T20:00+09:00"
+  },
+  {
    "title": "信金 システム障害は全面復旧 一部機器の故障が原因",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OWlIazhIQnFYWkJmMkYyVUdpZGQ5ckt6dk56Wms0Zk1FTmVBeDNqeks4R1hzX2JqRUdyeXdrRmVWUXl3dTRNSlZqZElNcm5aZmZsdTdnR2dDVGM?oc=5",
    "source": "ABEMA",
@@ -445,12 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwa0xmNHVLZld1amtrcFc5cUMwTWxWUXZHS29JYm9zTDRXUEJwbnIyNFh4OHppOTJ1T0htN081SHEyeS1EajhHeFA4ZU12OUlZ?oc=5",
    "source": "日本海新聞",
    "at": "2026-11-07T17:00+09:00"
-  },
-  {
-   "title": "ＮＴＴドコモ、情報流出３０万件 不正アクセスで口座番号も：ニュース動画：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpd0cxWHJsRk1BbFlYYTlER3lTYl8tRm5ITUZNb0U3VGJQZGVqaTUtVUJScWNnY1hMWHFHaFhlYTdURVdWNGxMQUtuODQ2Ylpp?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-07T16:09+09:00"
   }
  ],
  "osaka": [],
@@ -600,7 +600,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「信金 システム障害は全面復旧 一部機器の故障が原因」"
+    "「システム障害を知らせる大阪信用金庫の張り紙＝6日午後、大阪市北区 - 福岡信用金」"
    ]
   },
   "japan": {
