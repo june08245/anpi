@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:15+09:00",
+ "updated": "2026-11-08T03:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -270,6 +270,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "航空機に続き放送局にも拡大した欧州の爆破予告 : 国際 : 財経日報",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlZDgzSnZ3VDVxVDdDX2VmRFdoU2hnWXJoYWRPRFRsWG05bmlHVzh1Q3FibnUtV2hYR3F2elBFQXFHbXlqMHV6VHdSWndCQWZ1S2c1bXlIaC1PajExaThCZDBadw?oc=5",
+     "source": "재경일보",
+     "at": "2026-11-08T03:15+09:00"
+    },
+    {
      "title": "欧州便に爆破予告、情報機関はロシアの攻撃を疑う",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2VXUjVTZlVKRmpNcTJ3RUl4dkNjRU1CWmc0aGRUOXFpQUhvOXphTXZqVlc3Ulc5NFdCbnVqY0JTTU1VM3VMMW1uQ0g5ZlZLS3VJLTBSS093QjlZTi1MRnJRRGFRQ28xT0xVbG5BTTJ1VzNIMnNPSnI1bUFUZXBBT21YUmZKT1k?oc=5",
      "source": "Pasquale Pillitteri",
@@ -294,16 +300,10 @@
      "at": "2026-11-07T20:17+09:00"
     },
     {
-     "title": "爆破予告を受け、フランス当局が4機の航空機を目的地変更",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzk4VHh3ekFKTFhseDJMWmxRM21Rd0tKLXNpNFE0ODlpaUVwTVBkdXNxLWgxOUliQmJkVUtUOFNpbTltdUZHcUozajBid0JOLXFqSXRDM1ZYd0hrRzl5YzdtUVlZNVJQak1uNGxVQUhWbkZxd3I0Z2thWTZSSENzTUJEUGtQeENOTW1GNEtnblRFaEZ2dEtoVGpIdnNMNWcyV3UxNg?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-07T14:49+09:00"
-    },
-    {
-     "title": "欧州放送局が爆破予告の標的に 英国とアイルランド､ブルガリア（AP通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdEtJU0gxeExYc1JEaUdyMXZsSmlVOXhKSlduVHlLbzlUektsY0JxZVZZZERzUkRXOUFmd09uRi04d2xpSUdZRDVXSDllS3FlUGVfMENDNGE5b1hKdVY2bk9pRk9MUE85ekhFUG9KQVk4VE85enJPbHZuLXA4b1E?oc=5",
+     "title": "ひろゆき氏「だんだん対応が緩くなり、そのうち本物を混ぜてくる作戦なのかな」欧州での爆破予告に警戒感（スポニチアネックス）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXNHJtYlhxU0o5aF8wd0NnNmxtOUEzeE1hTWVuX2dJQkFaQS1SN3Nyc2hFQnhuOUIyUktzOUJycWxTcHZoZHFxV2pLMFNUQzhsSml1VzVlZkZsRWtVLS1DNzA3QTdwdnF2bmFYT3ZVSmxWeUdLenNvZzEwWjdhYkE?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-07T11:30+09:00"
+     "at": "2026-11-07T19:17+09:00"
     }
    ]
   }
@@ -356,16 +356,16 @@
    "at": "2026-11-07T20:00+09:00"
   },
   {
-   "title": "ケンタッキー、実施中のキャンペーンを中止 ニチレイグループのシステム障害の影響",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOTVDREVoNDF1M0tmV211aHpkOEF3T1l5cHF4WGVxZzZsSllXTE5FOFJzd0pBOE54Yk5VVU1VbWwwdDN4LWVNLTBBaW1fLWRkYXFKYWxVNXptaDBsOW1ISlRLUko0NDlnTlJXOWViZU5Kdw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-07T19:52+09:00"
-  },
-  {
    "title": "信金 システム障害は全面復旧 一部機器の故障が原因",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OWlIazhIQnFYWkJmMkYyVUdpZGQ5ckt6dk56Wms0Zk1FTmVBeDNqeks4R1hzX2JqRUdyeXdrRmVWUXl3dTRNSlZqZElNcm5aZmZsdTdnR2dDVGM?oc=5",
    "source": "ABEMA",
    "at": "2026-11-07T17:13+09:00"
+  },
+  {
+   "title": "ドコモ、全国で通信障害 高速サービス通話しづらく",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1ZtU1BJSU5RVVM5STBLWDV1dzV1aWphMGhPSE5rVVhlcDlPMEtZb3BlWENSczNPcjdnaUd2ZkdMblZhTDhTcWFyRlJnSVQ2ZzVXVlVJS2tYRExKR3ZIcmQ5cTNlNUE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-07T16:45+09:00"
   },
   {
    "title": "県内４信用金庫でシステム障害 ATMや窓口取引できず【広島】 (2026年11月6日掲載)",
@@ -396,12 +396,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lS0NSaDNXNXQ0Tk9OTFVKWjRJSjJST3Rmb3JJdFNFZjBQWnl3UmNNdmdCV3NUeThncXdLaENuZXA5NmhFWC11SmhFTmFNcHMzM01rbllDX2JWMVhEVmVTdlY3ZzI0X1FZZHpKVDZPZHQ?oc=5",
    "source": "locipo.jp",
    "at": "2026-11-07T13:01+09:00"
-  },
-  {
-   "title": "システム障害の再発防止への対応説明 みずほFG社長が会見（2021年4月5日） University Of Chicago (OtqoCbRfyL)",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1Jmcnl5UXp5NVZkd1o0aUdtbFBaRjlQYjlidWRnMXJUbFFXMGw2Wnd0cTFvSC1pUTZuNnFVcjN0aVh5cElaTVNya1pqMm1HbUNGNzNsZnVlclZMcWZselByR0ZlR2xrWU5zc1RYN3NTNWdWcWNwSi1LTHdQQTJ0S1A3SQ?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-07T11:50+09:00"
   },
   {
    "title": "信用金庫のシステム障害 約5時間半後に全面復旧 東海地方から西側の128の信金",
@@ -438,10 +432,23 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xM0lwQzlwdFFyYVd1M1ZZZHZNelBWbFpQNVZENXNzZjU5UV8zbEo5RmpxaVZ5M1RZMnM5WjBCZmxmS3FhR2dCWWliSHNNZXEzWTJKOVRmRFZSYzk3SVR2YkF2ZUNTeTg?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-07T19:00+09:00"
+  },
+  {
+   "title": "山陰合同銀行で運転免許証番号など顧客情報1585人分漏えい 個人ローン保証会社が不正アクセス被害",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3VWRJU3cxNzJDNXFJbU9DcEdpM19zWGZLOG9JQ2FHU2NGSzRDOFNzTWlnWmNFa1dwZjVVem41SngtYjhYYzZwM25WMTBTMDk4cjE2c082S0huTDBBMVdrUXlrRk5lMEl5TlhxTHU1Q1BPNXBUVzFrclhZRUpkUlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T18:19+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "航空機に続き放送局にも拡大した欧州の爆破予告 : 国際 : 財経日報",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlZDgzSnZ3VDVxVDdDX2VmRFdoU2hnWXJoYWRPRFRsWG05bmlHVzh1Q3FibnUtV2hYR3F2elBFQXFHbXlqMHV6VHdSWndCQWZ1S2c1bXlIaC1PajExaThCZDBadw?oc=5",
+   "source": "재경일보",
+   "at": "2026-11-08T03:15+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "ロシア、一時管理下のＪＴ傘下企業を3社追加 新たに大統領令",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFR6SVNaNXg0aEhmZlhRUmtOTF9TeWd0MDhRY1V1N3hWVFI5WTVaa1k4Ujh2cHpPMllCVTJielpKemdfQnBhMThtMEc1a3pSTUlXdmpZUzFHeXdvdmsyN2dTb19YYjU3djJjc21sLWlhbGhPc3JncGF0ME9EUVVRM2pLZ2VNQQ?oc=5",
@@ -541,6 +548,13 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "ひろゆき氏「だんだん対応が緩くなり、そのうち本物を混ぜてくる作戦なのかな」欧州での爆破予告に警戒感（スポニチアネックス）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXNHJtYlhxU0o5aF8wd0NnNmxtOUEzeE1hTWVuX2dJQkFaQS1SN3Nyc2hFQnhuOUIyUktzOUJycWxTcHZoZHFxV2pLMFNUQzhsSml1VzVlZkZsRWtVLS1DNzA3QTdwdnF2bmFYT3ZVSmxWeUdLenNvZzEwWjdhYkE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T19:17+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "ロシア軍がウクライナの学校を大型爆弾などで攻撃 55人死亡",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jSFZ6N1BCaHhzeUtRNWZhY3c0Q20yaTd6RWJoOS1UVV9oamVYdTc5NUo2YnZweFBSamJmOURrbEtvRmZOeFBDWGVQQlk2TGJBdzRsM2JmNFVwNWZ1ZGdVQ0Npbw?oc=5",
    "source": "テレ東BIZ",
@@ -567,20 +581,6 @@
    "source": "朝日新聞",
    "at": "2026-11-07T16:00+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
-   "source": "KORIT",
-   "at": "2026-11-07T15:53+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "ロシア軍、キーウ等を航空攻撃 ５名負傷　エネルギー施設等損傷",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVHhDOFhKRXhUTUhRMG93VDdyUFVIY0R3c3d5b1pTZEliWDVuX1o2UFZoazFFaEJyWk9STUVTcXZHTWJzMF9nTUJiczd5Z1dTNE1HMHQxbTA4Tzlpbi16dU45TG54RUdkaTZXeTF4clJtSUotWTBvc0l6ejVfckFCSFo3SHNTR3N0TkNKYmI0WUdkMUg0ZjZKYWNPS0pSQmV1U2E5R05XdlFGUEE1RXFkTFBmYmNFQUZfMmE5T0xYY3Z0OUlqb2FudDZ0c9IB0AFBVV95cUxPb25FX28zdFA4YkpzNExnTFM1dHFVUFl6aVItOUNsMTlvN0VCcU5nYnJvWU5xekpXTXItaEQtSnhfNkFhSGRuY2puNTRnV3R4cTYtMHhvSmtwRFdkeGZVc0ZORy01bXF6TG1QZ2ZJN3ZKVlBsZHIwaGI0S0RkMVpvbjBWX2pBak9IbE1saUktMXUyWFUwUEN2MnkzeHJyX2VYLUViZTB3Vkt5ZHNzbkJ2NkFqUWhxWUtzUXV0d3pBNGRieFVKa1VDMGx1VXBxX1J5?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-07T15:48+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -617,10 +617,10 @@
      "at": "2026-11-07T23:15+09:00"
     },
     {
-     "title": "欧州便に爆破予告、情報機関はロシアの攻撃を疑う",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2VXUjVTZlVKRmpNcTJ3RUl4dkNjRU1CWmc0aGRUOXFpQUhvOXphTXZqVlc3Ulc5NFdCbnVqY0JTTU1VM3VMMW1uQ0g5ZlZLS3VJLTBSS093QjlZTi1MRnJRRGFRQ28xT0xVbG5BTTJ1VzNIMnNPSnI1bUFUZXBBT21YUmZKT1k?oc=5",
-     "source": "Pasquale Pillitteri",
-     "at": "2026-11-07T23:40+09:00"
+     "title": "航空機に続き放送局にも拡大した欧州の爆破予告 : 国際 : 財経日報",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlZDgzSnZ3VDVxVDdDX2VmRFdoU2hnWXJoYWRPRFRsWG05bmlHVzh1Q3FibnUtV2hYR3F2elBFQXFHbXlqMHV6VHdSWndCQWZ1S2c1bXlIaC1PajExaThCZDBadw?oc=5",
+     "source": "재경일보",
+     "at": "2026-11-08T03:15+09:00"
     }
    ]
   }
