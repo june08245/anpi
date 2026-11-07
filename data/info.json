@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T11:15+09:00",
+ "updated": "2026-11-07T11:19+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -270,6 +270,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "欧州各地で爆破予告 報道機関にも",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CTFJfRDVVcU44aFNfWXdpbkRJNlJ5V1MxTzVZc2YtOG9WSDNHRU1nMGxPTHJLaEJQdEdqbUNPZjZENzljM1JZZ3g0ZGRHRXZQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-07T10:58+09:00"
+    },
+    {
      "title": "フランス大統領候補が西側諸国にウクライナがNATOに加盟しないことを約束するよう呼びかけ",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW1jc1Y0RHlxSEw5OXd6Z3RjR0NEVXgtVF83Z2xvRzZOS0JuUlhaeGh4a2drMnZtdngtc3FEMW9fLUFEQmhKUlJJTnpNcTJtWWJ4aGtuck1MbkxZQUd3NHZReldGVVZnNVdEMjM0U0Z4ZWNPaElCOTVTd1pXdFM0MzJ5eWUyWHRTaWticEhqMzBIWndsUTEtdk5FSi0wbWJRc3QwVnc4SjNEWE1tVjlKOW4tOHI0Vk9Pc01iLTQyQQ?oc=5",
      "source": "Laodong.vn",
@@ -298,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTzlySGRBODdFbTByOTdIVlNKVFNNbmIzUTdPdWEyRmVpeGx2RDB4Wjk3RDlrM0I1c3MxNFpUaHhPSkhhbXBqMGs0TENRTi1tSnR5ZEF0OUFaaDlINUZCLXRJenpKdGpadzZoWXQwbWVaLXc1TUdWVkJDMkQ4Y0k?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-07T07:09+09:00"
-    },
-    {
-     "title": "旅客機爆破予告 欧州各地相次ぐ 5日だけで27便",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1eU9YQkpWbmRrUXpnYTVqM1Y4Q1ZVaXdxdGZBZmlMN1FRYTVEbzU2cnhSVDUxMThIZVM1azRQQ25vaXAxTXdnYlRhd0pHZHpjS01kX0pKWUVsQQ?oc=5",
-     "source": "北海道新聞デジタル",
-     "at": "2026-11-07T04:00+09:00"
     }
    ]
   }
@@ -375,22 +375,28 @@
  ],
  "cyber": [
   {
+   "title": "「週末に出かけるのに」 静岡県内9信金にも影響 システム障害（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90VGhRRmJ5SjkwRUpnMFZBZzBtTzRCQWp4ZW56QkhWcnVnMm9jeUxrSGFWOG8zU0JBSlVXaXhxa3Q3bTBpOTlvdWtFbElQNXNpUjFlYUhTMXlzdHRLSGlyTm1oWWlnajNTNUJYZkVleGlKZE91UGhMdjdNbVV5VHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T11:00+09:00"
+  },
+  {
    "title": "西日本１２８信金で障害 機器故障 決済、ＡＴＭ利用できず 高知県内では幡多信用金庫で影響",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rWXdjeHBrUklPSDhxeDIyazEwbUtUcFh4OXlNTXY1NWx1bHJCRzN6cUVIQ1lmeXNRdlk2dTdBUWJwbnhOUlRXT3FVTHd4bGppNWJQTWhCa29oR1E0dk9Z?oc=5",
    "source": "高知新聞",
    "at": "2026-11-07T10:22+09:00"
   },
   {
-   "title": "信金システム障害は全面復旧 一部機器の故障が原因（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CY3EtenlvWGtzSkhBSHlVTXd5VWdDMXo1dGZlYUJVRVYwUVZaTm9JMmZfZExQajJSZW1hRXRvcUFTZlI1OGJ6SW8yUW1SS015N3IwMXBqSTM2Z1Nad3ZJOXd2cVYzNkJPSXhlWFNHcWRxYnBJMGNxV2JLb0k3eVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T09:45+09:00"
-  },
-  {
    "title": "信金システム障害＞佐賀県内4信金、顧客への説明に追われ 大きなトラブルはなく | 行政・社会 | 佐賀県のニュース",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVmhHUGctbTExMWd4ZnFzSG96a1N2NHdIUGN0WDdOX3BuNEZ2RXJvLThSRnY0WWJlS3JuZm1KQVFScmRBLWZ4ODF1eVhYbFF1S0hrTjN3?oc=5",
    "source": "佐賀新聞",
    "at": "2026-11-07T08:00+09:00"
+  },
+  {
+   "title": "相次ぐサイバー攻撃と情報流出…国による「ブロッキング」要請の是非と“侵入される前提”の防衛策",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wWUNaNl9EamNIRmFzbUpMUGhsWktMc0ViRlp0UUQxMmRqSFp2eXM4OG5TbVRBQ3hkOHp1cjAzaURVSjl3dEROMTE3WFlxZ2s3YURtemtWelNlSlFHTFRKTG1ncUpkUVpnbWdLOVpPU1U2UQ?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-07T11:15+09:00"
   },
   {
    "title": "【不正アクセス緊急対策】首相主導、企業支援に軸足",
@@ -457,16 +463,17 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VVdJMUVhdWpzYlQ1UTE0UnZxc0JZOS1Ha01MVHllZlFSTmw3TVB3SjFiVnJIZ1FRVTRicnpwMkFQRFpUdGo1dlJqeHE2U0tyX2s3V1F3NEJKaFNZRVpjSXVEQXpkcjZoZGVqUzBrY1ZUTDA?oc=5",
    "source": "innovaTopia",
    "at": "2026-11-07T10:23+09:00"
-  },
-  {
-   "title": "ゲーセンでオンライン対戦停止、牛丼チェーンのアプリ使えず 不正アクセス拡大",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1dEM2JxaU94bnNCdl9mbUQwTWxlNlY4czFQQzhrVDhDeXVxOS1PUTRPRHBnOF9TZW9sVFBHRXRwRWJOdW9ia1dwZWNtdmVtamNfel9iX2tKTGZDYmdOMnBMd0VDblM0SWdaWGVJN2VtT0k3NndDeVFYMFRLM25BUXFnUTMycFZ1M2tTT193YlY2U052R1lITW1SODRrQWlhNjVlUzFpSGZaODk1NUZfeGdMdEs?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-07T10:02+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "欧州各地で爆破予告 報道機関にも",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CTFJfRDVVcU44aFNfWXdpbkRJNlJ5V1MxTzVZc2YtOG9WSDNHRU1nMGxPTHJLaEJQdEdqbUNPZjZENzljM1JZZ3g0ZGRHRXZQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T10:58+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "弱ったトランプ大統領は譲りやすい。だが約束は守れるか―北朝鮮・金正恩総書記の値踏み（西岡省二） - エキスパート",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNndPc2pNbmRJMm9RdGxHNGRyTUJmWm4xYWpzY3FfLTg0MlJiOFVLRExnb2pGci16cGI5NllXLUxHQ2dwaDFSMlIwMmJRQTlPckNWQndwS1JYVElVZUdaMWY4WDFxNTlKOGFxeUFDVHpFTVpDOGJVUmRaX3I1LXlic3ZVR3EtMVVS?oc=5",
@@ -573,13 +580,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "旅客機爆破予告 欧州各地相次ぐ 5日だけで27便",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1eU9YQkpWbmRrUXpnYTVqM1Y4Q1ZVaXdxdGZBZmlMN1FRYTVEbzU2cnhSVDUxMThIZVM1azRQQ25vaXAxTXdnYlRhd0pHZHpjS01kX0pKWUVsQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-07T04:00+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzd5V3JGTTJJOUlZaFRXMFpsRGZnT05EcjZGY1VmVFJKd3RHNUQ0MGNmZ2RpZWt4eFB6ci1lQjNCRHlQcGt6UHFnWGE2cEJRbzFIbjIwWERnZlpIcE9TcXdJaFBrWTlLd1VzWDJ6a1E4aWlaS1F3T04teHBTU21wRmJ2MG5pVTFrY1ZBenln?oc=5",
    "source": "Yahoo!ニュース",
@@ -612,7 +612,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「西日本１２８信金で障害 機器故障 決済、ＡＴＭ利用できず 高知県内では幡多信用金」"
+    "「「週末に出かけるのに」 静岡県内9信金にも影響 システム障害（朝日新聞）」"
    ]
   },
   "japan": {
