@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:15+09:00",
+ "updated": "2026-11-08T05:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,10 +228,10 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "【写真】ロシア衛星、軍事利用を開始か ウクライナで、情報機関",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12bjRLX090MXloRFBGZDZlcGRVdllCa3huRDVZRFV6SU1LS2VJM3VlZXFVTkUybWlnY0V0T3FNS2lvZ3BTOUUxbmE4WTMtTjNBcXpCdW5KbnpfR25BVEVWU2dMNGtqcHNx?oc=5",
-     "source": "南日本新聞",
-     "at": "2026-11-08T05:10+09:00"
+     "title": "ロシア衛星、軍事利用を開始か　ウクライナで、情報機関",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXU0Y0RkVk5jUjdBcDd2ajNZdWU5Z0YyUUZyT2g3T2VtUXJfNjFhVkJzdUFmYnlONjVFNnNaelJpNjlHWklTNjA5MVJMX1hKRWgzTGdlMnQwQzJ2TG00RGloLWpucjBaX0dodEF4bnhEalg1alZ3Skd5d2NURWc0NEU3VWdIQ3h4V2fSAY8BQVVfeXFMTjB0T0dVbDlQUWUxVlZzQ1dHelpaVGFKNnE5NkdXZDFqaVBJaHRTUU1rYWUxNXd5bGJiV1FBSEE3ZkQ1bWVxbk5NcEZnSGRtbGZTLVRDQ3JmaTVqVXFPQ3NHQzlSalBIZlZIRnBGMmV1OUpldE9JM3dLaHpwbURnZWdFXy1mVkdUbWNOWTZMNDQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-08T05:17+09:00"
     },
     {
      "title": "ロシア大統領、Ｇ２０参加検討か 米で１２月、恒例行事前倒し",
@@ -310,6 +310,12 @@
  ],
  "nankai": [
   {
+   "title": "【浜松市浜名区で震度５弱】南海トラフとの関連性 気象庁「低いとみられる」",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yYmFGRXFyYVpSUU5UZmhzQ3ZqMEpzQlVGQ01Yb1RtbjcyYmg3LVRCWnZFUVJGbmg5RFNLdUFiOUxNRGxtUzhEVC10dw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-08T05:00+09:00"
+  },
+  {
    "title": "愛知で最大震度5強 「南海トラフ巨大地震」との関連は? 安全な場所で就寝を 震源は静岡県西部 なぜ愛知･知多市で5強?専門家に聞く（CBCテレビ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nR21hQmtmQ1JkaHhMYzVKa0NadjRsSk1xbEZ3MmRtQml3QS1iV0h4dVZJQlRzMklPTHh5WkRmdEcyM1FtQUlkdElNNHc1NEswU3c5WEpGcmNMXzdNNkZWTmNaa1J4aHJOS04tUHdxTWk1TEl2ejByaXJvdS1FS1U?oc=5",
    "source": "Yahoo!ニュース",
@@ -326,12 +332,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjSEJjbmVUdy1WaWNZQVozUUIyQTRCMVlEZ0w4bFAyTlN5RzFXbHdvTHdkcjRhNm9iSmhGVmEtSXVjVGc2UkJLOGE0OF9nTGp4SERERm1ybUZjYTBrTmc4?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-08T04:18+09:00"
-  },
-  {
-   "title": "【浜松市浜名区で震度５弱】南海トラフとの関連性 気象庁「低いとみられる」",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkUTluRTdVQTVRNU9hSnVma3Viby14QVhZLTA1eFdyb2VXOHk2bUR3YUJrVkk1bTdPZXpUUV8ySUpsLVI1UUlfQWhyNWZ3Zw?oc=5",
-   "source": "静岡新聞DIGITAL",
-   "at": "2026-11-08T04:16+09:00"
   },
   {
    "title": "専門家 「南海トラフ巨大地震とは結びつかないとみられる」",
@@ -410,6 +410,12 @@
    "at": "2026-11-08T05:00+09:00"
   },
   {
+   "title": "機密情報流出わずか３６分 ＡＩサイバー攻撃再現実験",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KNjdXQlNmbHR6UHpfa055dWpZYzNLWkljSm95SDZXSm1qODc4VG9CdnBtRkNTZnhfemk1WHhvRVdoZVBiODR5ZVJjaw?oc=5",
+   "source": "北日本新聞webunプラス",
+   "at": "2026-11-08T05:00+09:00"
+  },
+  {
    "title": "サイバー被害、「真に優れた危機対応」とは 詳細開示が信用守る",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14aFNzSmNqTkIzQldCNm5qTllSWk1keU5nT1QwMWZndzdUQndQWHhHemxld25zLVhjOGR1azNqdHZZczZ5djhqbmFNU0YwRTF1OWJ2eXNPc2lESzJOc3QyMWtfU2ZEZ29xMGhLUA?oc=5",
    "source": "日本経済新聞",
@@ -432,21 +438,15 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FYm40NEdRdG16b1dBR09meHRYX1NfTWxJalExb3pHZWpPaDdqN1N6SUpOYk1ZRmcxZ3VULXZ3WDJqalhPYTBhcEtFN1pCOEhmR1B4S0I5ZHBYbFVUa2c?oc=5",
    "source": "沖縄タイムス社",
    "at": "2026-11-08T04:00+09:00"
-  },
-  {
-   "title": "論説 サイバー緊急対策 実効性確保に課題多い",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBocWJ6WUY2NWx5TGlQSHB6OTlUVkVwaV8zZko4c29NWFd3YnlkS2xjOXBjWEFkTEoyRVBPT0xzSkI3MmJIWURmRE1KZFpMa0JTczVHWHJadGM5Wms?oc=5",
-   "source": "山陰中央新報デジタル",
-   "at": "2026-11-08T04:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "【写真】ロシア衛星、軍事利用を開始か ウクライナで、情報機関",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12bjRLX090MXloRFBGZDZlcGRVdllCa3huRDVZRFV6SU1LS2VJM3VlZXFVTkUybWlnY0V0T3FNS2lvZ3BTOUUxbmE4WTMtTjNBcXpCdW5KbnpfR25BVEVWU2dMNGtqcHNx?oc=5",
-   "source": "南日本新聞",
-   "at": "2026-11-08T05:10+09:00",
+   "title": "ロシア衛星、軍事利用を開始か　ウクライナで、情報機関",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXU0Y0RkVk5jUjdBcDd2ajNZdWU5Z0YyUUZyT2g3T2VtUXJfNjFhVkJzdUFmYnlONjVFNnNaelJpNjlHWklTNjA5MVJMX1hKRWgzTGdlMnQwQzJ2TG00RGloLWpucjBaX0dodEF4bnhEalg1alZ3Skd5d2NURWc0NEU3VWdIQ3h4V2fSAY8BQVVfeXFMTjB0T0dVbDlQUWUxVlZzQ1dHelpaVGFKNnE5NkdXZDFqaVBJaHRTUU1rYWUxNXd5bGJiV1FBSEE3ZkQ1bWVxbk5NcEZnSGRtbGZTLVRDQ3JmaTVqVXFPQ3NHQzlSalBIZlZIRnBGMmV1OUpldE9JM3dLaHpwbURnZWdFXy1mVkdUbWNOWTZMNDQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-08T05:17+09:00",
    "topic": "ロシア"
   },
   {
