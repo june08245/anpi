@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:00+09:00",
+ "updated": "2026-11-07T10:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -186,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
+     "source": "www.korit.jp",
+     "at": "2026-11-07T10:03+09:00"
+    },
+    {
      "title": "苦境に立つトランプ大統領が外交レガシーづくりで「高市斬り」悪夢のシナリオ 北朝鮮の核容認、「米中ロ対日包囲網」形成なら日本の安全保障政策は根底から崩れる",
      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1fazRsUHZia0I2TEhORlczVzZZWWRMSWtuNklCU0paOTR5d2ExMkFSWkFpVF9rbk5OVGFzRHcwSWhOeHR0SDFV?oc=5",
      "source": "マネーポストWEB",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkd6ekFtNHRJdk5rd2RWak1fVkxmWHBuMGZZVk85NzVtT2x2dDNjaEZCYVoyd0xmQ2hZQk5ScFZQOEJvME52S2xjTDlGQkhiMWt2ZV94eTAtVGZsaUNHMzZQQ2xHSE9raVdNa2FueldGOXdDcFFESTg0M3MtNHJRekZTYUhWcTVC?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-06T16:05+09:00"
-    },
-    {
-     "title": "北朝鮮の自走砲が姿消す 軍事境界線付近で先月確認（ABEMA TIMES）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11cFFlOGMxTUJTXzV2d2VHWlBmRTI4SmRJZUEtS3VpN3dlblpodTlMN1pmR1dtZkdtVmV5dndFaGE2UXM2QjZHaW9fVlBRd0YtVTlKNFhzSlFqODdneG5YcXNxbF8xVGozYjU1WmVoRHFMWUZiV3llMTBIQzBGVFE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-06T15:45+09:00"
     }
    ]
   },
@@ -247,9 +247,9 @@
     },
     {
      "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUXFKaXEtN25RZGlMS2dJQS1qSURfYmVjNEJuT3BMeVlaUWdTWXl4cmU0ak5wU2NUTmtDSEdmck51MEUwMlNrWV9keGgtWmc0b0RqemNWME9PNDR4TkF4dzZFci04QnFpTVpRSEZn?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-07T01:42+09:00"
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzd5V3JGTTJJOUlZaFRXMFpsRGZnT05EcjZGY1VmVFJKd3RHNUQ0MGNmZ2RpZWt4eFB6ci1lQjNCRHlQcGt6UHFnWGE2cEJRbzFIbjIwWERnZlpIcE9TcXdJaFBrWTlLd1VzWDJ6a1E4aWlaS1F3T04teHBTU21wRmJ2MG5pVTFrY1ZBenln?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-07T01:53+09:00"
     },
     {
      "title": "ロシア人のオートバイ運転者、ウクライナのドローンを軍用車両に誘導した後に一命を取り留める",
@@ -269,6 +269,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "フランス大統領候補が西側諸国にウクライナがNATOに加盟しないことを約束するよう呼びかけ",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW1jc1Y0RHlxSEw5OXd6Z3RjR0NEVXgtVF83Z2xvRzZOS0JuUlhaeGh4a2drMnZtdngtc3FEMW9fLUFEQmhKUlJJTnpNcTJtWWJ4aGtuck1MbkxZQUd3NHZReldGVVZnNVdEMjM0U0Z4ZWNPaElCOTVTd1pXdFM0MzJ5eWUyWHRTaWticEhqMzBIWndsUTEtdk5FSi0wbWJRc3QwVnc4SjNEWE1tVjlKOW4tOHI0Vk9Pc01iLTQyQQ?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-07T10:01+09:00"
+    },
     {
      "title": "米国のNATO関与縮小、ロシアの「核使用を誘発」する恐れ 通常戦なら欧州が勝つと専門家",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NQnVEcVc0WXpRMkE5UmwzcFQtNlFKOUFpYlF3V0NLcVRBbzYtYTIzSWh6T0JheHNCemp5bXRHT1dVLW84QjhVSl8yWTVFbUo3UGtjdjlfQ2Zla1A4LVlYUEROYWZ2VUJKU2lUNjFCVzBQSUx3aUNiQkpzQ3J4clE?oc=5",
@@ -298,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1eU9YQkpWbmRrUXpnYTVqM1Y4Q1ZVaXdxdGZBZmlMN1FRYTVEbzU2cnhSVDUxMThIZVM1azRQQ25vaXAxTXdnYlRhd0pHZHpjS01kX0pKWUVsQQ?oc=5",
      "source": "北海道新聞デジタル",
      "at": "2026-11-07T04:00+09:00"
-    },
-    {
-     "title": "欧州で再び旅客機に爆破予告、メディア・通信会社にも脅迫",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZHF4eFIydDZhSlZsOEVaTHN4eUpvd2JIcnNULVc5aGV4YmV1Q0tUQ2tPVGphRWlTVGNVcUpVaGs0d1RFYVBWZmRQMkJHcFY4SzR5MEhjaFVTZEZoa3JsRDJVQy1QemxvZmVwLVFPNWkxV0dSQkxJ?oc=5",
-     "source": "Bloomberg.com",
-     "at": "2026-11-07T03:49+09:00"
     }
    ]
   }
@@ -375,10 +375,10 @@
  ],
  "cyber": [
   {
-   "title": "信金システム障害は全面復旧 一部機器の故障が原因（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CY3EtenlvWGtzSkhBSHlVTXd5VWdDMXo1dGZlYUJVRVYwUVZaTm9JMmZfZExQajJSZW1hRXRvcUFTZlI1OGJ6SW8yUW1SS015N3IwMXBqSTM2Z1Nad3ZJOXd2cVYzNkJPSXhlWFNHcWRxYnBJMGNxV2JLb0k3eVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-07T09:45+09:00"
+   "title": "信金システム障害は全面復旧 一部機器の故障が原因",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QRVNqMDNRYllmVkZDMUEwUXdQVlZKUEtOS1JvV1N1bHJzTld4WEZEbEVjdW9fZXJHVHpOVlFvY19MUVQ2cWtmVzIycUJ2TEd2RzlPeg?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-07T09:43+09:00"
   },
   {
    "title": "信金システム障害＞佐賀県内4信金、顧客への説明に追われ 大きなトラブルはなく | 行政・社会 | 佐賀県のニュース",
@@ -399,10 +399,16 @@
    "at": "2026-11-07T05:10+09:00"
   },
   {
-   "title": "県内含む１２８信金 障害 決済、ＡＴＭ一時休止",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Z1Z6SnlWalNYUV93M2FUWXBOVW5tQjB1V2p4YkZvMFRCVkN2OTZPY3pRRHloNVRHc0RBS0ZVT0EzQXdKNU44c3otWXNyYUVnWUx6OEZqV2EzWTFqN1E?oc=5",
-   "source": "福井新聞社",
-   "at": "2026-11-07T05:00+09:00"
+   "title": "ライフ ネットスーパー、13万3,330件の個人情報漏洩の恐れ-富士通の再委託先アララへのサイバー攻撃で、公式アプリ298件とは別事案|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFljMVZ2ZW9jS1FfTmU3RTN0YVhaVGlfbm1WWGZSQ0tLWl9RSXRqTzdRMVNhckc5cksyOE45elZIbkNhZlFkeXhHMGE4YzBKWEVxdS1iSGV3UkJ2dkNvckxOTl9vRUJhNTgxNGRyVFhaM0YzMzh3T0J5UFlRb2tJZmlVeUZqSVhGNUFabWRub244T1VwNFByQUUtYXlWeEd2V2xhT28zTFplOU42VmZYS25sRDJkeFl6dUN0Skl2aW4?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-07T10:00+09:00"
+  },
+  {
+   "title": "ランサムウェア集団『Qilin』主導の疑い、ロシア国籍の被疑者を逮捕 日本警察も捜査協力（電波タイムズ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VS281VkRMbVhWWnlDNk02ZTF0SWxTRGZhbGRqYmMwR3l2UmV1aUl1V29QVFJzLUZqZWF1dVJnbWpTZThJVTdWbzZTQktsZ1MzaHZjWGdYWnlIbDVUcDZGX0tSS29JSmZFalRfYk1WWWI4aW9WcXJiakZzNkRzVTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T09:53+09:00"
   },
   {
    "title": "ドトールコーヒー、公式通販サイトへのサイバー攻撃で最大2万4,771件の個人情報漏洩の恐れ-定期購入も停止",
@@ -435,12 +441,6 @@
    "at": "2026-11-07T09:10+09:00"
   },
   {
-   "title": "NTTスマイルエナジー、不正アクセスで「スマイルeポイント」約1万4,000件を不正交換 800万ポイント分の被害確認、保有者に全ポイント補償へ|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEVrVDQyM1RFSnlMTXoxQ3FURUVoLVkyOU42M0kydzhTY2JEbTRQbS1WX1dveGFFNFNZT0Z1VENDYWNtUG5TT2E4OFRFVGxwdWNBN1N0eEJYaXdmUUlrcFJSYW5LUkNBMTh0aVQ3UW4xYnZ1WmlCWkFlU2p3R2JWNURoTzRuWjlGYTRQMUJSYmJURGxtTkdaYXAza3lvaGdmR3JyVXpR?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-07T09:01+09:00"
-  },
-  {
    "title": "由利本荘市と大仙市で個人情報漏えいの恐れ 委託業者が不正アクセス被害",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lZGw5NUJRVFV4aHl5TnJyVVZiNktWdjBkVTIzZVE3dFM1YXRYdmxkTnJPRF9aM0M3Sk1MWl85eHBsZ2s3bHJkY2ZySUNnb1NSZTFyNWlQMXBwd01nNGNmUndR?oc=5",
    "source": "秋田魁新報電子版",
@@ -467,6 +467,20 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
+   "source": "www.korit.jp",
+   "at": "2026-11-07T10:03+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "フランス大統領候補が西側諸国にウクライナがNATOに加盟しないことを約束するよう呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW1jc1Y0RHlxSEw5OXd6Z3RjR0NEVXgtVF83Z2xvRzZOS0JuUlhaeGh4a2drMnZtdngtc3FEMW9fLUFEQmhKUlJJTnpNcTJtWWJ4aGtuck1MbkxZQUd3NHZReldGVVZnNVdEMjM0U0Z4ZWNPaElCOTVTd1pXdFM0MzJ5eWUyWHRTaWticEhqMzBIWndsUTEtdk5FSi0wbWJRc3QwVnc4SjNEWE1tVjlKOW4tOHI0Vk9Pc01iLTQyQQ?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-07T10:01+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "ロシア軍の戦闘機を複数撃破 手段は「ドローン」ではなく「ミサイル」に改良型の登場で大きな変化",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RWjBNRURjX3k1NTVjaXYyNW94X3dMcnoxa0ZkUlA0S1o2WjV3Y1lON3ZKTF9LUjNXc0ozb1NaV3ZHVXdLdl81alJXZ2llWTNkaFZ6ZEdPUWl0WGlpRTZDSGowaWZWUEVna1Nnbmt3?oc=5",
@@ -545,17 +559,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "欧州で再び旅客機に爆破予告、メディア・通信会社にも脅迫",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZHF4eFIydDZhSlZsOEVaTHN4eUpvd2JIcnNULVc5aGV4YmV1Q0tUQ2tPVGphRWlTVGNVcUpVaGs0d1RFYVBWZmRQMkJHcFY4SzR5MEhjaFVTZEZoa3JsRDJVQy1QemxvZmVwLVFPNWkxV0dSQkxJ?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-07T03:49+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ロシア軍が学校攻撃、死者53人・不明50人に ウクライナで今年最悪規模の被害 人道支援物資を配布中に",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lUXFKaXEtN25RZGlMS2dJQS1qSURfYmVjNEJuT3BMeVlaUWdTWXl4cmU0ak5wU2NUTmtDSEdmck51MEUwMlNrWV9keGgtWmc0b0RqemNWME9PNDR4TkF4dzZFci04QnFpTVpRSEZn?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-07T01:42+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzd5V3JGTTJJOUlZaFRXMFpsRGZnT05EcjZGY1VmVFJKd3RHNUQ0MGNmZ2RpZWt4eFB6ci1lQjNCRHlQcGt6UHFnWGE2cEJRbzFIbjIwWERnZlpIcE9TcXdJaFBrWTlLd1VzWDJ6a1E4aWlaS1F3T04teHBTU21wRmJ2MG5pVTFrY1ZBenln?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-07T01:53+09:00",
    "topic": "ロシア"
   },
   {
@@ -599,20 +606,13 @@
    "source": "東洋経済オンライン",
    "at": "2026-11-06T21:00+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "高市総理“台湾有事発言”から1年 中国政府が改めて日本側を批判「誤った言動速やかに是正を」 APECでの日中首脳会談は厳しい見通し",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CbE5xMDN3NTRJa1RodUFxMFhFQTRxQVF2eXRnbXgzT19JdVVqOWE0dmlxRjJGQ3FpUExxSmR1SGJpdjlTVEtBWnFKX2pwVzRxZ3dweEl3MG0wNUk?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-06T19:20+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「信金システム障害は全面復旧 一部機器の故障が原因（ABEMA TIMES）」"
+    "「信金システム障害は全面復旧 一部機器の故障が原因」"
    ]
   },
   "japan": {
@@ -626,8 +626,9 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「侵攻」1件",
+    "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「爆破予告」5件"
+    "欧州・NATO：「爆破予告」4件"
    ],
    "items": [
     {
@@ -643,10 +644,10 @@
      "at": "2026-11-06T11:52+09:00"
     },
     {
-     "title": "ロシア軍の戦闘機を複数撃破 手段は「ドローン」ではなく「ミサイル」に改良型の登場で大きな変化",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RWjBNRURjX3k1NTVjaXYyNW94X3dMcnoxa0ZkUlA0S1o2WjV3Y1lON3ZKTF9LUjNXc0ozb1NaV3ZHVXdLdl81alJXZ2llWTNkaFZ6ZEdPUWl0WGlpRTZDSGowaWZWUEVna1Nnbmt3?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-07T09:42+09:00"
+     "title": "BINANCEハッキングの始まりは偽の採用面接…Chainalysis「北朝鮮、先行する攻撃で手口を磨いた」",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3FFVFIxcGJOYU9CbThMZWhfeHpvWHVvZHgxV3VxbVpGWTctUTZPeVVSdkxZN1QyYmNJdzVLYm4xSEkwdjNWUHdXcmR5U1c3QlpWX0ZseXBwMVU0b2dwWkhyZ2ZudkhSeDhSc2hFNThKVVRhZ3FWeFdzdUlJMnBEYk5B?oc=5",
+     "source": "www.korit.jp",
+     "at": "2026-11-07T10:03+09:00"
     }
    ]
   }
