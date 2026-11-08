@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T04:45+09:00",
+ "updated": "2026-11-09T05:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -168,16 +168,16 @@
      "at": "2026-11-07T00:25+09:00"
     },
     {
-     "title": "高市総理“台湾有事発言”から1年 中国政府が改めて日本側を批判「誤った言動速やかに是正を」 APECでの日中首脳会談は厳しい見通し",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KZTFMMllEOEFiWThMY3F3aXhjSVBJUHc0MDBlWGdmbHZiOTcyTWVKVGFPbmY3M3VlbUlGaEhSUzR4bzduVGw0MnBxWVVrSXlKUHplMDBqZC1SLXgx?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-06T19:20+09:00"
-    },
-    {
      "title": "台湾侵攻能力さえ疑わしくなる中国「軍人不信」の徹底的粛清",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aa0dhNzloU1VQTTFZYnVmajJMcW5Md1daVUZKLUlLRHAxMUplWUgyTHhZRXVEZDZoUTJiVGdkR0pEWmF3SFJsbGlYV01DTmhzUGdLREFrZk0?oc=5",
      "source": "現代ビジネス",
      "at": "2026-11-06T11:52+09:00"
+    },
+    {
+     "title": "中国が振りかざす「新型軍国主義」の論理 日本の防衛強化に歴史重ね",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaGhTdklOczZDMVVNNDV1Wkd1VVE4SWFpUUZaYmt4eDBtN241bUF6dVVVTGd3WTRlNXBXZ1VIUlJHRGh4RjdVdFhiY0FEUTkwSXFYRmR2ZzlNblA3WmZxNnEzSWZ1WGc?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-06T09:00+09:00"
     }
    ]
   },
@@ -185,6 +185,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "ウラジーミル・ゼレンスキー、キエフを攻撃するために北朝鮮のミサイルを使用しているとロシアを非難",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSM29uZXZzRWFhYUtFRVNWTWRpUkgzb2ZaTzFxWlVSci14cXZaaHpZQ3ByZVVtYlN1M3RUOGl0YndaUUXSAUJBVV95cUxNNHZwQnQ3ZWxpS3RxTFZ0SHJXNzFLQUcwXzVzT3gxTFE2WVM5OXJCbjY5bzRPaHFlUEJka1NET25lOEE?oc=5",
+     "source": "VOI.ID",
+     "at": "2026-11-09T02:15+09:00"
+    },
     {
      "title": "“日本も標的”北朝鮮ハッカー集団か“会話”入手 サイバー攻撃の裏側、身近に広がるリスク【バンキシャ！】",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU1FYThCaER5akllNjktdXVZWXNtZzRtN1NVck02S3ZVME9QQjhScU5OQXdwLWhsUF9ibUZtcTNkWFFOYWo2eDFqV1dxV1RMQmFlc1RpNnJyTTVVTFMyeUhLMmk1Wk1fX1libEluRWo1UWQxMUpFOGdFSE92WmFCSXlWOUI?oc=5",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-08T14:22+09:00"
-    },
-    {
-     "title": "北朝鮮、国家ぐるみでハッカー育成 中学生200人選抜 攻撃成功で平壌にアパートも",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TWZsTTJ6UndMRVJMc1AtRkZ2T0cxOTdFY1A4MUVqY0JIQ2FKdnJVMFp1dTgxVTIweFFfRVU3XzhBbTgtQ3BPUHN0M1VNdnlKNGhmcHJGdV9SYkJwTklnQnVEUklFT1hCcENQMW9lUXVtNUdjVVE?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-08T13:35+09:00"
     }
    ]
   },
@@ -300,10 +300,10 @@
      "at": "2026-11-07T20:17+09:00"
     },
     {
-     "title": "欧州の旅客機数十便に爆破予告…アイルランドの放送局にも爆破脅迫",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmZtRkQwaW1tZWYxeFM0NkdzZFJfaFVNVmk0MlAycThER0UtbGgwcmhlbFdGLTNXUl9NLWZLRkVVenRXeXpUZFJaS0RZT1ljX2FOU2lPTDEtU19sQnhiNVJLaDNyOFM5RmRPTWtxcHhjaTRfYlBKYVpHSXlET1JLQ01MakxBeU9qUk5mRGFkd3h1ZW5sSzl4UEFwdlA0eVd5d1QtNDI1ZVU2MDdvUmR0T2d4SUdsd3F1?oc=5",
-     "source": "VOV World",
-     "at": "2026-11-07T18:17+09:00"
+     "title": "爆破予告を受け、フランス当局が4機の航空機を目的地変更",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzk4VHh3ekFKTFhseDJMWmxRM21Rd0tKLXNpNFE0ODlpaUVwTVBkdXNxLWgxOUliQmJkVUtUOFNpbTltdUZHcUozajBid0JOLXFqSXRDM1ZYd0hrRzl5YzdtUVlZNVJQak1uNGxVQUhWbkZxd3I0Z2thWTZSSENzTUJEUGtQeENOTW1GNEtnblRFaEZ2dEtoVGpIdnNMNWcyV3UxNg?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-07T14:49+09:00"
     }
    ]
   }
@@ -457,6 +457,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "ウラジーミル・ゼレンスキー、キエフを攻撃するために北朝鮮のミサイルを使用しているとロシアを非難",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSM29uZXZzRWFhYUtFRVNWTWRpUkgzb2ZaTzFxWlVSci14cXZaaHpZQ3ByZVVtYlN1M3RUOGl0YndaUUXSAUJBVV95cUxNNHZwQnQ3ZWxpS3RxTFZ0SHJXNzFLQUcwXzVzT3gxTFE2WVM5OXJCbjY5bzRPaHFlUEJka1NET25lOEE?oc=5",
+   "source": "VOI.ID",
+   "at": "2026-11-09T02:15+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "PatriotとAsterは今冬のウクライナを守れるか――ロシアのミサイル量産に追いつけない欧州",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEhqcFhlbjU5RmZKa1JFNTlXYWVFMVVIbDlOSVJjWEFGeE1aQktBemwyeW5pMFFzYTdlamVTeGtCTkhNUF9xN2F0VXZacEYtempyVlZJMkEwR1pDZHlzRms5WVlFWlpHRXdCNXRmRGltQ29xY0R0NmFwRkRKdWxTZw?oc=5",
    "source": "Meta-Defense",
@@ -569,13 +576,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮、国家ぐるみでハッカー育成 中学生200人選抜 攻撃成功で平壌にアパートも",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TWZsTTJ6UndMRVJMc1AtRkZ2T0cxOTdFY1A4MUVqY0JIQ2FKdnJVMFp1dTgxVTIweFFfRVU3XzhBbTgtQ3BPUHN0M1VNdnlKNGhmcHJGdV9SYkJwTklnQnVEUklFT1hCcENQMW9lUXVtNUdjVVE?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-08T13:35+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5cjY5YUdJY1loZUJadWRxQmVvdDZhME9EYURzU1VHamsxakJfSUhwaUU1VW9tclFIbXBOaDhMTVVGZzJYZkF1V1FhcjgzTG9OYktjSS1IcjM2OE16VXcwMWpCU2QwV3NzR3k0eDhFdw?oc=5",
    "source": "山陽新聞",
@@ -607,7 +607,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」4件",
-    "北朝鮮：「攻撃」2件",
+    "北朝鮮：「攻撃」「ミサイル」2件",
     "ロシア：「攻撃」「ミサイル」4件"
    ],
    "items": [
@@ -618,10 +618,10 @@
      "at": "2026-11-09T00:39+09:00"
     },
     {
-     "title": "“日本も標的”北朝鮮ハッカー集団か“会話”入手 サイバー攻撃の裏側、身近に広がるリスク【バンキシャ！】",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU1FYThCaER5akllNjktdXVZWXNtZzRtN1NVck02S3ZVME9QQjhScU5OQXdwLWhsUF9ibUZtcTNkWFFOYWo2eDFqV1dxV1RMQmFlc1RpNnJyTTVVTFMyeUhLMmk1Wk1fX1libEluRWo1UWQxMUpFOGdFSE92WmFCSXlWOUI?oc=5",
-     "source": "日テレNEWS NNN",
-     "at": "2026-11-08T20:12+09:00"
+     "title": "ウラジーミル・ゼレンスキー、キエフを攻撃するために北朝鮮のミサイルを使用しているとロシアを非難",
+     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSM29uZXZzRWFhYUtFRVNWTWRpUkgzb2ZaTzFxWlVSci14cXZaaHpZQ3ByZVVtYlN1M3RUOGl0YndaUUXSAUJBVV95cUxNNHZwQnQ3ZWxpS3RxTFZ0SHJXNzFLQUcwXzVzT3gxTFE2WVM5OXJCbjY5bzRPaHFlUEJka1NET25lOEE?oc=5",
+     "source": "VOI.ID",
+     "at": "2026-11-09T02:15+09:00"
     },
     {
      "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手",
