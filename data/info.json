@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:45+09:00",
+ "updated": "2026-11-08T11:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-08T10:53:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "4.3",
+   "maxi": "4",
+   "maxiRank": 4,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-08T08:23:00+09:00",
    "place": "熊本県熊本地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-07T22:48:00+09:00",
-   "place": "福島県沖",
-   "mag": "3.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -101,6 +101,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "米軍、イランの海上封鎖突破を試みた貨物船を無力化",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRWRncHQ5MEczaVc0VkUtekw2c3FOck9CQk45ZndHZ2ExYml3ZWJ3UzVNOHNUdk1QYkp4bjA0WDNlVFJiSTZyOFo2alhqdkFvS0FvOU9yZGVhYVp6RkVoZGtCUXFtVWNwV1E?oc=5",
+     "source": "Investing.com - FX",
+     "at": "2026-11-08T10:43+09:00"
+    },
     {
      "title": "米軍　イランの陸路監視強化　タスクフォースを設置　兵器などの輸送阻止狙う",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXdhai1Bc2p2aHlzcFZrbDRkUEVPUGxMQnROMzZmd1MwTU1VaXBQQVdMV1JyUXd3YTVqajVfWDBTWUxMUGh2aUpwMFJONGdXcEV6emFFSkxyX1pkOWZpWk5DZ0IzTThtTUdhcHJranBxVUtDTE9ZVm5VY3AzUWl1TVl4SXFpd9IBiwFBVV95cUxPSVJNZEpQVTV4VGZXSFpyN0VTX1M2Q0tIVm5OZFVpWWlBdklaTnJ2d2E1NkRYN3huSThQeVJ6dDFrVlE2eEM2dGcwYTRJSzkwaDhfSW4yempwWnB2LTZ2REdIbFQ2cEk5ZVVFX1ZfOE5pZDBzM0N3NHUyWGNtaDA3QVpleTQyUDFMSmRr?oc=5",
@@ -126,16 +132,10 @@
      "at": "2026-11-08T07:04+09:00"
     },
     {
-     "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ（TBS NEWS DIG Powered by JNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrREVuWVNPVVBDUXlqY0JsazFSd0M0elhfV193MW9oNllLY2JNWnV2Q09Bc0F1VThKd1Q0VWpReGRqNl80bmowcjQ3Q0VsLWI5YkMxbmNGZGhSc19BM2hFNzdaVkRNTE5qZmVPYVB5U3lOcHktaWhoajE0aEV0a0k?oc=5",
+     "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ (TBS NEWS DIG Powered by JNN)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3QyMDRRb1RidVowLUo5SHpiRUZGR1RJSVgwbXUzdVdjSDROOE5lQ0VuMGpkank3T3p1NVQzbkpPODB6UUhsWmJhajQtcWlVV1M3Zk0wejd6YkVuNk51dF9kNVJod3BPNmZ3NU43bTN0VkxuZzBfanJvdGtOelFOaVpGTWlRNDN6QUx3bjVn?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-08T04:29+09:00"
-    },
-    {
-     "title": "米中央軍、イランの陸路監視を強化 兵器輸送を阻止 フロリダ州拠点にタスクフォース設置",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZUVNMTJOcm5CN1o1SFZ3MDRpNlBoTUEtRHhhU3QxazFUY19HRS1PbU0xYV9GN3NLdWhlcV9udGN1MkRaYVRBTVRBZUxPaldOVTM1QTJZRkZOaFV5QThCWUhrMVZJYWkydjJlNm12TktQZ1FsMXc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-08T00:17+09:00"
+     "at": "2026-11-08T06:18+09:00"
     }
    ]
   },
@@ -310,6 +310,12 @@
  ],
  "nankai": [
   {
+   "title": "愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUVJxVG55Q19nNWFheW8tR3JQcHBQMnJzTENKMlYxNEdaSFFGSGZUT1pzRm9CRldWWFJJWWRVQzNHczlnazBoLUZJZURkckJiTUstR1JFY2k0aFZHQWxrRkw5UDZVRGdJWjlkM0xnODR2SE9LR1hUcFJVSHhfY3BGN2UyNUxqQU00ckpMa1JpVXlBMUk1WXg2Vy1rUnRiX3ljN0k0dHNXMTJnbjBFV2REUjBESmU?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-08T10:44+09:00"
+  },
+  {
    "title": "【速報】愛知県知多市で震度5強 南海トラフの関連「低い」",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9faEFOS1oyNy1zbnhheU1vUElHSHN2YnhlaXhTbTQxRU1EUlZNQ0hseUJuZkNLUWxVNUlpQVVseW1tZEJTWnVJM3dhYw?oc=5",
    "source": "47NEWS",
@@ -338,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVZNcUdEMzlNdTdhRmZ6eWw5Qlc5WW03bzE4TE9NWXdiUUFOUnNQS3AtMFNHMThGeGlZdnhOd2Z5eTFHMmI3ek5yenQzRHNfY2FlaHdiN2UzRmJXbTRLMFlTYXd4T2IwQVhoZU02YjFnU3RpR0tZdkUwd2FUTzlPUg?oc=5",
    "source": "UQライフ",
    "at": "2026-11-08T09:40+09:00"
-  },
-  {
-   "title": "南海トラフ地震とは「直接関係ない」…愛知で“最大震度5強” 専門家「より大きな地震が起きることもある 今日自宅の点検を」",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZklPdF85UFpZSXI2OE1rQUFTNXkwYXR3NUR2dV9fMjM3MUdUZHpLbFlZMmpQWWFWRXQ0Rlp1Q0tFOHZWa3d5ZzhieU1zelpUU2tmM0NSOUdZYldjbUxXZFpFakxZRnZYVGpWZlM2SDdTSDRRSWxwT0NaV1dzVmpQdg?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-08T09:21+09:00"
   }
  ],
  "outage": [],
@@ -360,12 +360,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ocVpEd2RyMUdXa1puWWRKbTJFTW05Sk1JTXI3SlJWYzMwaXdQLWVIbGg3clU1TVRkdnZSbGRWODdHSDBIRWR0YldMM3JDaWNZSXdkUHJZVHFRTldRM2tJMFJtUl9tMzRFd2dRdXhpaTE?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-08T06:09+09:00"
-  },
-  {
-   "title": "🇯🇵 西日本の128の信用金庫で本日、大規模なシステム障害が発生。これらの金融機関は地域の住民や小規模事業者に利用されています。 顧客は3,430店舗の支店で現金の引き出し、オンライン振込、さらには窓口での取引もできない状況となりました。 信金中央金庫は謝罪し",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHpBZU1BZDU4QXlXWlRqdXVVZzFhWVZtWThPdWNCdWdfa3JiUno5SWZSMVBXa0YtM3BXd2p6UGNjUm51ejdZdG1IQ1FfeEtudl94SWRoc1FNQUI1MlVnb1NrMjZ2V2tiTFZkcVFuME5PSVpTVkhVNnd1alZjcVYtbjlla18zaVpXdE5EbEpWMHVPUGE4RC1EVmJ5Qk1wSUpfRUJEdDRPY0RKLU9MT0NTZmVMTWpzeGN0bHc?oc=5",
-   "source": "Moomoo",
-   "at": "2026-11-08T00:25+09:00"
   },
   {
    "title": "システム障害を知らせる大阪信用金庫の張り紙＝6日午後、大阪市北区 - 福岡信用金庫など西日本128信金でシステム障害 決済、ATM利用できず - 写真・画像(1/1)",
@@ -386,6 +380,18 @@
    "at": "2026-11-07T17:13+09:00"
   },
   {
+   "title": "県内４信用金庫でシステム障害 ATMや窓口取引できず【広島】 (2026年11月6日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MeVdxN3gtaGtEbmRuTTJacXotUEl5MlEtWUNGNGo2elBVb0NnNzNLOXFZOVFrMUtrMm1WNXJudUwyNWpoM2xYcThJSG94RWtwN3czc2szTUZ0dnRzT2c?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-07T15:46+09:00"
+  },
+  {
+   "title": "JERA「JERAサンデイ」、メールアドレス 3万337件が情報流出 アララへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYm1qa0RlY1J4NE5ET2NYY2RfdGd1TTkySVBmVjhVMjRGX1V3d09SRHdORnZYLXllS1g1UTRvR3Fram9TZnBvMTNlbTRNVFVyZW1ZSXlWRy1iRmFadXNVUXV1a0FPcDhvUGFlS2NVeWYwaGpVQ2lHaVVpcWpVUmo0RThoRFdJX2dNWUJ3?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-08T10:48+09:00"
+  },
+  {
    "title": "アソビシステム、FRUITS ZIPPERなどファンクラブ サイト 11サイトのメールアドレス漏えい Fanplusの委託先 アララへのサイバー攻撃で|セキュリティニュースのセキュリティ対策Lab",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU45OGtkWU1HaWZNWVJ5U0VycE83LVptcDRSY1JKck0wYjdxZ0xJYnN3TjcwdWZuVjBzd2tzUzU0QXU5eUVIazBvTHZkMUtxVFd3RjFJc21Qay1CWU9Cem9uX283NzFQdHJSVVl1QjlhbWdoUnpZUFo0M3FKZDJ2SU5jelYxa2pPd214cVJOOVVBR1ViM3k4TWROQm5XWW9Ub2NUSm4wVXpqLXNhd0c4?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -393,8 +399,8 @@
   },
   {
    "title": "パ・リーグ5球団でメールアドレス1万3711件流出 「アララ」への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VUmh1V2h0UE1zaWNQam40YUJZcGpDaWNlU2sxWGU0cGxvTU83djZ0Qk02U1UyOHNnWEpBakFtNHdOeGdiS1JPWUdya3NuMHRYVmo4eU81Q0gzTFB3QlRGc2ZRTmx4bXBjMzVsQzg3NS1rQQ?oc=5",
-   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Pc1FTakNzMjdXSFBjTHpyRUVxYnNHZDVGN2RIZ1p2UVpoVHZDSWc3UURPdjd4dUdLckQ3TlhJSVd6eWVjWEh4TXNOazZNdng3R2hEU2JVV0s1RWozYmxVdlpyV0hyRklM?oc=5",
+   "source": "HOME広島ホームテレビ",
    "at": "2026-11-08T10:27+09:00"
   },
   {
@@ -432,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwd1Q5czZQZF90MUt5ZTFiUDRuelU2ZU0ybURHbHVFc0RYc1RMXzJ0VXp3R1NfejNNWTlzLTlWRHhJOEQ5WTQzdUt5TU5vemlwdlhSYVZZcnZfVDI0UzhB?oc=5",
    "source": "千葉テレビ放送株式会社",
    "at": "2026-11-08T07:57+09:00"
-  },
-  {
-   "title": "【図解】オープン型AI、ハッカーが悪用＝中国発モデル、安全装置を解除―サイバー攻撃が低コスト化（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TRUlreExNNWZXNG5hb2lWTkt1Y3RHT2FIR3Y0QUNLaTlwdk43bGNDVm9mWEd5ZnN5NTBGYUIxQnFNdVNKbVlGR19rOW9reE9WQTBzTWJoZEdLUm5YYmRxYnFxVEJWOUJBbHItdWpuMzJEa0laQTc4eW9zUHlGTTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T07:04+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米軍、イランの海上封鎖突破を試みた貨物船を無力化",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRWRncHQ5MEczaVc0VkUtekw2c3FOck9CQk45ZndHZ2ExYml3ZWJ3UzVNOHNUdk1QYkp4bjA0WDNlVFJiSTZyOFo2alhqdkFvS0FvOU9yZGVhYVp6RkVoZGtCUXFtVWNwV1E?oc=5",
+   "source": "Investing.com - FX",
+   "at": "2026-11-08T10:43+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "米軍　イランの陸路監視強化　タスクフォースを設置　兵器などの輸送阻止狙う",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXdhai1Bc2p2aHlzcFZrbDRkUEVPUGxMQnROMzZmd1MwTU1VaXBQQVdMV1JyUXd3YTVqajVfWDBTWUxMUGh2aUpwMFJONGdXcEV6emFFSkxyX1pkOWZpWk5DZ0IzTThtTUdhcHJranBxVUtDTE9ZVm5VY3AzUWl1TVl4SXFpd9IBiwFBVV95cUxPSVJNZEpQVTV4VGZXSFpyN0VTX1M2Q0tIVm5OZFVpWWlBdklaTnJ2d2E1NkRYN3huSThQeVJ6dDFrVlE2eEM2dGcwYTRJSzkwaDhfSW4yempwWnB2LTZ2REdIbFQ2cEk5ZVVFX1ZfOE5pZDBzM0N3NHUyWGNtaDA3QVpleTQyUDFMSmRr?oc=5",
@@ -541,18 +548,18 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ (TBS NEWS DIG Powered by JNN)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3QyMDRRb1RidVowLUo5SHpiRUZGR1RJSVgwbXUzdVdjSDROOE5lQ0VuMGpkank3T3p1NVQzbkpPODB6UUhsWmJhajQtcWlVV1M3Zk0wejd6YkVuNk51dF9kNVJod3BPNmZ3NU43bTN0VkxuZzBfanJvdGtOelFOaVpGTWlRNDN6QUx3bjVn?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T06:18+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "高市首相は頭を下げずに習近平と会談できるのか？中国の「3つの要求」に隠された本当の狙い",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uM1FRVFBjOWlqNnVuUXBCZkVTTkZya01fUENSRkYtWFpkcEhIc1Y1VWVxWW53Vm8weTRIWEl3MUdJQkpiZ1AyR0JNeENnRkZSS0xaWXdB?oc=5",
    "source": "ダイヤモンド・オンライン",
    "at": "2026-11-08T05:30+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrREVuWVNPVVBDUXlqY0JsazFSd0M0elhfV193MW9oNllLY2JNWnV2Q09Bc0F1VThKd1Q0VWpReGRqNl80bmowcjQ3Q0VsLWI5YkMxbmNGZGhSc19BM2hFNzdaVkRNTE5qZmVPYVB5U3lOcHktaWhoajE0aEV0a0k?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T04:29+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "航空機に続き放送局にも拡大した欧州の爆破予告 : 国際 : 財経日報",
@@ -567,13 +574,6 @@
    "source": "産経ニュース",
    "at": "2026-11-08T00:19+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "米中央軍、イランの陸路監視を強化 兵器輸送を阻止 フロリダ州拠点にタスクフォース設置",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZUVNMTJOcm5CN1o1SFZ3MDRpNlBoTUEtRHhhU3QxazFUY19HRS1PbU0xYV9GN3NLdWhlcV9udGN1MkRaYVRBTVRBZUxPaldOVTM1QTJZRkZOaFV5QThCWUhrMVZJYWkydjJlNm12TktQZ1FsMXc?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-08T00:17+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "欧州便に爆破予告、情報機関はロシアの攻撃を疑う",
@@ -599,17 +599,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」2件",
+    "イラン・アメリカ：「攻撃」「封鎖」3件",
     "北朝鮮：「攻撃」「ミサイル」5件",
     "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
-     "title": "対イラン海上封鎖 米軍が民間船をオマーン湾で攻撃、航行不能に（毎日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxdDdDaHlfeHlDRWE5Y01XZVoyaEx3YWhMSVp6OVJIU1BXTWRoOTRXRjFZTzBwaFdiNkZHV29jcExIaUhpRXRobGJ0YTlyWTc1aGl2dTNjYXhHV1hmSHN6dDV5dEV0elVRWUx5Yks1WE80cUhJN1h4OEl2ZlNrS2M?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-08T09:13+09:00"
+     "title": "米軍、イランの海上封鎖突破を試みた貨物船を無力化",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRWRncHQ5MEczaVc0VkUtekw2c3FOck9CQk45ZndHZ2ExYml3ZWJ3UzVNOHNUdk1QYkp4bjA0WDNlVFJiSTZyOFo2alhqdkFvS0FvOU9yZGVhYVp6RkVoZGtCUXFtVWNwV1E?oc=5",
+     "source": "Investing.com - FX",
+     "at": "2026-11-08T10:43+09:00"
     },
     {
      "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
