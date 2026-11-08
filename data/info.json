@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:15+09:00",
+ "updated": "2026-11-09T08:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -387,6 +387,12 @@
    "at": "2026-11-08T22:42+09:00"
   },
   {
+   "title": "岐阜産業保健総合支援センターに不正アクセス 3,058人の情報流出を確認、最大8,074人に漏えいの可能性 政府機関サイトへの不正申請も試みる|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2k4c1pZMkI1dDIweTdMa1FCTERmVy1WQ0VrZ3ZSX01IU3VOZWFJQUlUZldvUnNpQlcyaF9qRWRKYWF3WFBnVGk5YTFVbV9RMGVHSHFWYWdOWXBvSUNGaWtLVG5sTE9tR050alAyUE5xX1hsRC1sZjJjU2ZiTGlqQkM3X0RqcnR3bTFqeWFmUURqR0x4R0xBZFVUWHlnRXM?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-09T08:15+09:00"
+  },
+  {
    "title": "消防庁「安否情報システム」に不正アクセス、影響範囲調査のためにサービスを停止消防庁の「安否情報システム」に不正アクセス、影響範囲調査のためサービス停止",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRy1manJpX2xJV0hvbGNVN0NYYm84N1FBQjQ5M2NEWDBjbnZITGUwOFE1cTJOeTNVN215TFY1QnBMNnA2UmtCUi1jNjdvZEdvaWJPZFlUbnRSdU9rSUVuTkozVW02V1hUVWxuaA?oc=5",
    "source": "ScanNetSecurity",
@@ -435,16 +441,10 @@
    "at": "2026-11-09T07:35+09:00"
   },
   {
-   "title": "ビックカメラ、業務委託先が不正アクセス被害でメルマガ受信者1520万件の顧客情報の漏えい確認",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOV25FMkpQX1BwZXVLc19Yd2FzQlZJem8xcEZySkhieTlBZzI3STlNcFkwTGVrTUV6MmNfQWYtT1pFM0RFYTdlX0dEUHcwZ095OEFHYk9PbjhrQW41LTg3cS1EVDMzZk1ibi1YemtjdVNlZWpqb3FTYWhtTlZlYjZFUU9CWmlJdWlXZ3RIZk9vMlJGWFB5VlhTcjdNM202bU8zRVMtbV9IS25RbERkQTd3VXEwM1Nyb2NCSTRlWmFib1ZnSkRHcU1fQXR6MzZFanpsb2xUZnhOUXV1RFQ4LW5NYlE0VHNCSS1WN0t6dGV2UTh5YjBuVjRVcktCQ0I1ZWpxSEJ5YtIBtAFBVV95cUxNNWVvbnVqTlNrcFc0TFpvUkgwZjUtZktlMGxob2VHUm1RUVJ1NFpoTmtkaHZwOTA5ME1TTk10QVA0SkhrenBaZjUxMjZyNW1XMDdKWThWdGhXS2ltWWlZZXUtVUo3N0pTUVJXeUtYeE5aclRnSTBGcktDMWM3OHBTRWUzZmlTTEZqMTF2QXJKaWwySThGU3BTWW43MnhfS2R4MUdCTkxjWWgtSWQyRF8yRXN1LWU?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-09T07:14+09:00"
-  },
-  {
-   "title": "警視庁職員・家族のメールアドレス流出の可能性 アララへの不正アクセスが波及、災害時の安否メール配信停止",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEh1MWRqaGp0dlQ4dE9VekZPNm1Na2YzN01DbkxUWFdfZFBqUXJ1NDJhbnJzaS0zZ1J0UGlDdVVsZmxfOE1aMkRjZ1p5Y2NKUlQ5ZmFnT3o2X3kyelBlX0JWWkxhR1BPQjJZdlBkbjR2VUJ0MXc0ejdTZUl0RmNNQzlEY21sWjRzYk5BMHdhVE82X3VpZ0RfQUJFVW5fRXNDY2FyeHVRVkE?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-09T06:32+09:00"
+   "title": "なぜ「ランサムウェア被害」の7割は中小企業なのか サイバー攻撃に備える3つの要素",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBseDM1eFhpZU5hejBrMXZETlhvd1Z0Y2hSR2U0WVNZMmh0TjMzeEtNQWRXVWNQeEFKZENYWWo2QjJaeXNMbmk0blRJU2dZLTlBdXVscU13M3FNRTJJdDRuYzhSVUoxQQ?oc=5",
+   "source": "キーマンズネット",
+   "at": "2026-11-09T07:00+09:00"
   }
  ],
  "osaka": [],
