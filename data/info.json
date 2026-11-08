@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T21:45+09:00",
+ "updated": "2026-11-08T22:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -363,16 +363,16 @@
    "at": "2026-11-08T13:48+09:00"
   },
   {
-   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNdHZxRzJzWDlLV1ZhQ09GY1dkemtqZU1sSVU2eHA1bzd4bkI2QVAxc2tGb1JYZlMtdXpIQWIyNWZtX0oyNU9WT0VQcHRxckRCZHBTYWZmc19VMklWUzlqNFFTS19haGpENGRMR09oNA?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-08T12:41+09:00"
-  },
-  {
    "title": "「うるう秒」廃止「うるう時間」導入へ 秒の調整での“システム障害”解消へ 今後は「1時間ズレ」が出た際に調整 | TBS NEWS DIG",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5amQ5cmVKZ2lzNGZvcDhpWEFtaHZKeEczamZ0UWZZbUN6TVRwOWRJSWNFYk4xbm8xYWpXamZNZks1SXFjd2dOckV2WFN2Tll2OC1JRWlsdk00NnE2?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-08T12:35+09:00"
+  },
+  {
+   "title": "スバル、ロードサービスなど最大22万8,734件の個人情報漏洩の恐れ 委託先にプレステージ・コアソリューションの不正アクセスが波及|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXUzTUNwaXpaeTN5STNBMzh3QThpYzlvSVVmZWJkeFA1Ty1IdXBNY0hmYWs3LUlKczNZblN0X0pWMEs2U3hrdHZRejB0S1dlb3Y3OVllZjhLeGoxbGlsOG5NX2E4UUw2NHlFaEJKQWpWTlgzV0EzUDVGNFF1Q0dYemRGNkZNOTQxM3k3c0lmRngwUmo5WlhiVm1XWkVySGNFQ0kwMWZCZTZzRmZHd1BV?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-08T21:45+09:00"
   },
   {
    "title": "ステップゴルフ、不正アクセスで最大21万5,000件の個人情報漏えいのおそれ 銀行口座情報・顔写真・レッスンカルテも対象",
@@ -403,12 +403,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zeTJRUGF3M245eGhPUmFtYlBqODZFQUpfTmRhNmZwckx0RElwZkxfdzhlbVNDb09oSktET0ZxUkFtUHBrT1oteXVVcDBzZw?oc=5",
    "source": "DXマガジン",
    "at": "2026-11-08T21:02+09:00"
-  },
-  {
-   "title": "和食さと「さとキッズくらぶ」、メールアドレス31万8,513件が流出 アララへの不正アクセスで、子どもの誕生日等は対象外",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNHNQQnhqOUlXQVNfTENBejJkODVEbGJJNENLNlhXOWppT2E5a1FscDhXdnJiNS0xUTNsNWFMQ1IweWwxU0twLUFtYVhtZmNadjhaaGRITHBCQWNyQ2lmMGZGT05JcGFoN0NmV0dBYmp3YlBYNW1URnJNOXc5SGtFTUJUcTdCQVJBMDBydzhocGJ5UmhaWmtpeldFY3pSek53LWhqYQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-08T20:15+09:00"
   },
   {
    "title": "ゴルフスクールに不正アクセス 口座番号など21万件漏えいか",
@@ -445,6 +439,12 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsbmxqczdBUWRfZ1VUTlF4UE1vaG1FVm0tMUpMRWNlZkI2QWxRUVFqZ3ZNa0RKeXRiOS1fdmRhbWNRTEM3?oc=5",
    "source": "shiritomo",
    "at": "2026-11-08T18:01+09:00"
+  },
+  {
+   "title": "相次ぐサイバー攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zWExSYTJRbjkydnpyVl9hdEo4bEhzZjAwMkE3X3FnZ1F4WS10cThCR0Y5YlZKVHY1cGUzbUZUcTNmQUtXWlQxUGtUb0xvSkpQOGZsTmkzd2xVUkJZdl9J?oc=5",
+   "source": "選挙ドットコム",
+   "at": "2026-11-08T17:51+09:00"
   }
  ],
  "osaka": [],
