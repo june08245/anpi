@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:00+09:00",
+ "updated": "2026-11-08T19:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -156,12 +156,6 @@
      "at": "2026-11-08T05:30+09:00"
     },
     {
-     "title": "早期の日中会談、諦めムード 高市首相「台湾有事」発言１年",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRc3ktTjlJTVl4a25GRHQ1dUpqaS1ZMmJCM2hvemdzbzhwd001UV91RkFxcjBvVDNVN0Z6Tkw1RjVZcHFxeGhLTXFveXZQcFVmUThxN3NWOS1wYVQ0OVA2N2JvQQ?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-07T20:31+09:00"
-    },
-    {
      "title": "日本の防衛産業振興は「再軍事化」の口実 中国国防部",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41NlJzaGZWeUhYcXpHbHRRem93eXh1SDJDLXFNcFpSVExYa2F5YlVUdnFRMXNic2E1OTU1cXdCaWhiRy1VMXRwa2wtYm5MTWlsTGFlSkM0OHdVdDNYWV9vWEVjcjM?oc=5",
      "source": "千葉テレビ放送",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aa0dhNzloU1VQTTFZYnVmajJMcW5Md1daVUZKLUlLRHAxMUplWUgyTHhZRXVEZDZoUTJiVGdkR0pEWmF3SFJsbGlYV01DTmhzUGdLREFrZk0?oc=5",
      "source": "現代ビジネス",
      "at": "2026-11-06T11:52+09:00"
+    },
+    {
+     "title": "中国が振りかざす「新型軍国主義」の論理 日本の防衛強化に歴史重ね",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtaGhTdklOczZDMVVNNDV1Wkd1VVE4SWFpUUZaYmt4eDBtN241bUF6dVVVTGd3WTRlNXBXZ1VIUlJHRGh4RjdVdFhiY0FEUTkwSXFYRmR2ZzlNblA3WmZxNnEzSWZ1WGc?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-06T09:00+09:00"
     }
    ]
   },
@@ -187,7 +187,7 @@
    "items": [
     {
      "title": "北朝鮮の金成男書記、中国共産党幹部と相次ぎ会談…首脳合意の履行を確認",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMlBtVFA2S09kUXdXTGl0WmVFNVFfUnUxZlVrVGY2clZLSFRWNDJjNUdDRGIyNGJBcDJ2NnBlNW9Ed3BzZm5nSEZucm5fZ3FrUUFmZlBoM3hCMTdJeHZqZms5V3ZLdzVJWWtORFo2V3JVUdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-08T17:22+09:00"
     },
@@ -310,6 +310,24 @@
  ],
  "nankai": [
   {
+   "title": "南海トラフ地震想定し宇和海沿岸で津波防災訓練 67機関と住民ら",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tMl9hOVcwYncwQjExZkVwSXRxLUJ6R2RBZXcwVkpIUTNic25WdllkckdOWTBVRXcwRFF0Yjg1M1V2MUxsUjRSNGZyU0NlQVY2aVBsLVhDVld6ZjhNWGJBcg?oc=5",
+   "source": "愛媛新聞",
+   "at": "2026-11-08T19:11+09:00"
+  },
+  {
+   "title": "未明に愛知で震度5強 各地で被害 “南海トラフ”との関連性は…",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aOEdyRlJnQnVmZlNja09ZSG0tVERFeE9OcDZuR1UwWUl2VlZQNTFwdzFWYWxfV1QxMEhHcHU5b2JaQjFINEhhN1ZKZkEzRnRVQ3VjenNvSGxPdDZYelk1TTg0VG1lbjZQaW5tYjY4aktjdw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-08T18:54+09:00"
+  },
+  {
+   "title": "愛知県で震度5強の地震発生 南海トラフ地震との関連性は現時点「低いとみられる」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43S29kYXE5Zi1WdlNfYnN3Rm8tMFpxY1c2Ymg3aTl6ZWJUVjNSaUVSNlN6M2tkeHJLM2RFNWlNX0VTT1lpR3ZVYnpZbUtMQVZ1Z2t5c21qdGh1MlRUYWZsREJZWQ?oc=5",
+   "source": "テレ東BIZ",
+   "at": "2026-11-08T17:20+09:00"
+  },
+  {
    "title": "南海トラフ巨大地震など大規模災害備え住民が防災訓練 瀬戸内",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wV1R1aFRraDZfWWc4ZGlDb2c0MF9qeWdWaHhFUUVXaGZHS3lmNGVFcDc5MUNOVHVDeTIzQndOaUpoUWNFc1lDaEJvVndNN3JyWjFGRHc3VldRSWJEeFM0?oc=5",
    "source": "NHKニュース",
@@ -326,24 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2xqeW1JNTJDZm83ckozRkJ6SVM5TElObGhXdkxiZkhlUUxjS2w5LXBjbm1WYmpfQVduRXFvZnhmYTE4NXlZczhlU0hZVVZCSDU1akJ6dlVkTDBtSUZKY3lMUmVWejJjS01nek5UVS1YeTQ3SF9nSmhMNTZmU1o1Qg?oc=5",
    "source": "UQライフ",
    "at": "2026-11-08T15:41+09:00"
-  },
-  {
-   "title": "未明に愛知で震度5弱の地震 県内も震度2「南海トラフとの関連性低い」（tvkニュース（テレビ神奈川））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRDNaTXdRdExNTXA5OUM4dk5sdEdWbWRfZzZPSGw0eTg2aWp1TzRENGlJN3VKRER3bzRTbmtlR0oydmpDY3NRbWlTTy15VDZRdjI0ZG80aFNWck40MW5CTjZQckY0eFFEcTBXUEotTG01UlB3MGRXYXZTWVFTMUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T15:39+09:00"
-  },
-  {
-   "title": "愛知で震度５強 ３０年ぶり、２１人重軽傷―気象庁「南海トラフと違う」",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FeDJ3Q1djNUwyTmxEbWViTDRLOWt2dzY2VUNPWGtfTkY2NXROWEdnOTdWS01naGZqakR5cUo4MzM1bjg4QTktbzNrSFNUS2lobEVhaElqNUh2ajl5bTQwaV9oQQ?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-08T14:53+09:00"
-  },
-  {
-   "title": "愛知・知多市で震度5強 南海トラフ巨大地震との関連性低いか 気象庁",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TamFhd3V5X3BXX3prQk9HVlJPcW9xSTJ5VUplQTU4Y2pmOVJLSm9lRDkzX0JQUUhub2ROc2M1Y3R6Z3QxNmo5WHZXZw?oc=5",
-   "source": "TVer",
-   "at": "2026-11-08T14:26+09:00"
   }
  ],
  "outage": [],
@@ -363,10 +363,34 @@
    "at": "2026-11-08T13:48+09:00"
   },
   {
-   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vdVF2d00wNndyaWlqUDhKUVpXRm5yWTFvOXZBWDBySDc2Nm1Sc05tUDRVUHo3UEpEWlJwWmg3SmYxN3BtNHctYkFobHFDMnI0ZWFWRUJpNUtQdzZ2?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-08T09:13+09:00"
+   "title": "「うるう秒」廃止「うるう時間」導入へ 秒の調整での“システム障害”解消へ 今後は「1時間ズレ」が出た際に調整 | TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5amQ5cmVKZ2lzNGZvcDhpWEFtaHZKeEczamZ0UWZZbUN6TVRwOWRJSWNFYk4xbm8xYWpXamZNZks1SXFjd2dOckV2WFN2Tll2OC1JRWlsdk00NnE2?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-08T12:35+09:00"
+  },
+  {
+   "title": "SMエンターテインメントに不正アクセス、住民登録番号・口座番号など個人情報が流出 「bubble」運営のDear Uなど系列会社にも影響|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXRHUHlLZDc2aUZ2Z21hc3VIbERJQmdNTUZRTy00SzhEN29FbXl1YkhJZ040d0UzTVZhd0l4eFJLcTdkS0lFM3lHcThRVV9qNUcwczNHN3lJTGI5X005N3BqNnNOazZzVnFES3lqRVJDbXo0b3h1Mm9UMWo4bTZMNkxaaWNNS3hqeGxoTFdkckgzelV5TTZERkR5SFJGYjRCcVlGa3Nn?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-08T19:10+09:00"
+  },
+  {
+   "title": "ゴルフのレッスンカルテなど漏えいか 最大21万件超 ステップゴルフに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TWFHbFZaMEJpVkdfLVZBMHBaM29vLXEwV1BQb09hVlpjM1lOc2ZmbHViQzlSTXdqeWdCXzhYcmdtZkxOVVNlX1VKbV9ycnYxQUtQZEtZSmZDU0owRU9MV0tVMmVmTnZ5RjdCS05DcUNDdw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-08T19:08+09:00"
+  },
+  {
+   "title": "フジオフードグループ、メールアドレス31万6,668件が流出 串家物語・デリスデュパレに影響、アララへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTJpMUZOYVppaEk0azlIVnVNRVZoNWFlSzhVM0xrQy1nUUZCNGw1TG9aMTZjVVZhbjlzdzZnSUpzZ3FXNmR3VnVOQWJDdmZ2Z2NCcF9oM1l0TzhXeUJKQ2g2RmUtSkJ2V2JwVkt4NV9oMUNOSDJ2bENvYS1UenBnVEQ3RFJJTVJBSVFBWGNFSnZuUzdyaEh2anF2bUhKTE0?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-08T19:00+09:00"
+  },
+  {
+   "title": "ピッチョーリがバレンシアガ退任、無印良品が不正アクセスの調査結果を発表…【5分でわかる主要ニュース 11/1〜11/7】",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMktPYmo3NVpTY0JYM3lENk1tbWZmZ095emZmbmVwSXlmaE41anpodGVUbHgyVXVvSHlUY3JiOFJFY1l2YWlSY0pEcFk0dHQtRWpfZ1oxcFZPT2w3dEwtZzNDMHV3QQ?oc=5",
+   "source": "Fashionsnap.com",
+   "at": "2026-11-08T19:00+09:00"
   },
   {
    "title": "秋田県の建設コンサルタント 柴田工事調査にランサムウェア 攻撃、秋田県と4市の委託業務に影響 土地所有者の個人情報漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab",
@@ -375,15 +399,15 @@
    "at": "2026-11-08T18:30+09:00"
   },
   {
+   "title": "ドコモ、ahamoサイトを再開 不正アクセス受け予防停止も「安全性確認」",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uWWdCZUNnYnBZVHc4YkdERkE4czR6VGh6akkzcXZpN1pvck9TOHJ2WDlhTFdlSjRzdkVkUHFZS09mVnBoVHFSOERDOWE3X2w4WXdBYnloRTJ6WFFaWGVCRzZOdkJvd3ByUU9WbnZGTVJ1ZXNJ?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-08T18:25+09:00"
+  },
+  {
    "title": "ALL.Net不正アクセスから1週間、太鼓の達人やガンダムは試験復旧もセガ製品は停止続く",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsbmxqczdBUWRfZ1VUTlF4UE1vaG1FVm0tMUpMRWNlZkI2QWxRUVFqZ3ZNa0RKeXRiOS1fdmRhbWNRTEM3?oc=5",
    "source": "shiritomo",
-   "at": "2026-11-08T18:01+09:00"
-  },
-  {
-   "title": "日産フィナンシャルサービス、最大23万6,000件の個人情報漏えいのおそれ ロードサービス委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXZtS2laM2s5WWpNNGlPRkM0T1BmeTY4M3l1UllFZVk3ZG9kd00xcUNvLU8tRC1WZVJSbjg5dXg2LXczQ2ZYVVExb0FieU1XekhJbXNSeUUwUmxGSzRkeVlPYmNSbVF5YzN4SVhtZGxEUnM2TGdMZmhaQTI0NGNTMmdMVm9EVE5CSE5JRzFINzNWbTB0MFdOZUotZw?oc=5",
-   "source": "合同会社ロケットボーイズ",
    "at": "2026-11-08T18:01+09:00"
   },
   {
@@ -391,12 +415,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zWExSYTJRbjkydnpyVl9hdEo4bEhzZjAwMkE3X3FnZ1F4WS10cThCR0Y5YlZKVHY1cGUzbUZUcTNmQUtXWlQxUGtUb0xvSkpQOGZsTmkzd2xVUkJZdl9J?oc=5",
    "source": "選挙ドットコム",
    "at": "2026-11-08T17:51+09:00"
-  },
-  {
-   "title": "エディオン、ECサイトのログに不正アクセス 最大9,554名の個人情報漏洩の恐れ、クレジットカード有効期限も対象の可能性",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2plbi01aElwQm5Fd2RYaGh0UzVFWVd1cVZ0aWRLMm1TZmpiRVR1QzFva3czY25SUVBMVDRrLXBnT0F2bVpKMUktUUtzQm9RdFVUbTF3M3k5WDE0d2ZTcWRjNTc1R2Z5cnZfREpuckt1UjFfUmdBVllPbnY0cW51RFdDS3Q5SHNCOXZNQ056c2lFcnZrN3VMWg?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-08T17:15+09:00"
   },
   {
    "title": "高級食パン「乃が美」が倒産に向けた法的手続きを検討していた、GMO熊谷正寿社長 サイバー攻撃の全内幕、マンション大暴落が始まった理由…ほか「週刊文春」企業インサイドリポート【11月1日～11月7日】",
@@ -411,16 +429,10 @@
    "at": "2026-11-08T16:29+09:00"
   },
   {
-   "title": "中国発のオープン型ＡＩモデル、ハッカーが悪用 安全装置を解除、サイバー攻撃が低コスト化",
+   "title": "中国発のオープン型ＡＩモデル、ハッカーが悪用 安全装置を解除、サイバー攻撃が低コスト化：時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNjMwdGpPcm9SRFR3QV9nQmZSN1pXUHJWRWU1WDNkb3BNZF81bEtlT0pUcDRzS2tieXdGN3ZTSnJBSXpieHNURWFsQXpvbTNYUEVuUWx6b2VDcnRfTmlxNHJObw?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-08T15:52+09:00"
-  },
-  {
-   "title": "ゴルフのレッスンカルテなど漏えいか 最大21万件超 ステップゴルフに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TWFHbFZaMEJpVkdfLVZBMHBaM29vLXEwV1BQb09hVlpjM1lOc2ZmbHViQzlSTXdqeWdCXzhYcmdtZkxOVVNlX1VKbV9ycnYxQUtQZEtZSmZDU0owRU9MV0tVMmVmTnZ5RjdCS05DcUNDdw?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-08T14:39+09:00"
   },
   {
    "title": "キャッシュカードが消える？──三菱UFJのネット銀、“全廃”でスマホ一本化へ 対サイバー攻撃は？【 #みんなのギモン",
@@ -433,25 +445,13 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UYzEtUmNpOU9CR29KVGNOblFrYndGaGpMelY2T2hHY0hyMThRMlZFd0ltcDFPVzZoX2RJVFVmcmJxS1J2VjVqb1RWemhWcHdPcHN5TERzX195UWJj?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-08T14:01+09:00"
-  },
-  {
-   "title": "GMOサイバー攻撃で初会見 脆弱性指摘も抜本的対策とらず 不正侵入に2か月気づかず セキュリティ上の重大問題が相次いで明らかに【サンデーモーニング】",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxZEJmT3Y0WXZkSDhpblJiR0pLZ3NMN0xvTW9pdGRGMzVoaW1jT2tvMzFXdDdUcy1VdWY5YUt0OUo2dldaZlVZRGVaOXZDUEpHZ0ppZGl0OA?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-08T13:44+09:00"
-  },
-  {
-   "title": "GMOサイバー攻撃会見で明かされた“盲点”「仮想サーバー=VPS」に不正侵入 2か月間なぜ気づかず?AIの急速な進化に対策は【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbk5NVm9JR3JqVFlkNmlqNU04RENwb05FQTFXOFVWRDVkSndqT0VBZXFpMW8xVTlHSGVLV3p5RDJ2aDg1ZkM2ekQ5QkpIUmJBeHBHSGFNMVRxVmoyTG9fTndZYTRVSXRoSUVKM1VlNGJoaEJUd3dQNGRtcnkxRk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T13:41+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
    "title": "北朝鮮の金成男書記、中国共産党幹部と相次ぎ会談…首脳合意の履行を確認",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMlBtVFA2S09kUXdXTGl0WmVFNVFfUnUxZlVrVGY2clZLSFRWNDJjNUdDRGIyNGJBcDJ2NnBlNW9Ed3BzZm5nSEZucm5fZ3FrUUFmZlBoM3hCMTdJeHZqZms5V3ZLdzVJWWtORFo2V3JVUdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
    "source": "AFPBB News",
    "at": "2026-11-08T17:22+09:00",
    "topic": "北朝鮮"
