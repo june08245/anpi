@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:15+09:00",
+ "updated": "2026-11-09T05:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-09T05:16:00+09:00",
+   "place": "宮城県沖",
+   "mag": "4.5",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-09T03:15:00+09:00",
    "place": "茨城県北部",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-08T02:31:00+09:00",
-   "place": "渡島地方東部",
-   "mag": "2.9",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -101,6 +101,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "「要求受理か、戦争か」 イラン外相が米揺さぶり",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZT24zYzI3ZEJTaWlXcjVaSEFWaVVhMkVoUUZVQmxjRTJ2bUFvWHZycUd1QlM4RE5OSm5SZFQ3V3dCNXA4UVNMLXRpdE81MVVkRU1wdVB3?oc=5",
+     "source": "西日本新聞me",
+     "at": "2026-11-09T05:19+09:00"
+    },
     {
      "title": "米軍、対イラン海上封鎖破った貨物船を攻撃",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1NVbEJwM2RyWWJwNGxwTlg4Q0tLaWtIQVRialpTbVVNTnAwc1NOcjVMOFdUaWNSdGZlREZZbWo3ZGphMWRPallKdzNxN0RvMS1tOTY1OXA5V1U3RGdVcVNZc3BEY2ZPQzBKam9mY0o3M0VBY2Z3cGJjYnJsY25iUFkyWXNnWXA5?oc=5",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUJGQ05fYW50SDJfMVQ4bUd1VnpqQkdLRUJzMWJFbEM5ZS0xQzFGeU01UFc1ZlRzWWRPYzZkLWNzZWs3SUFmSUxOa2tvUlRoZWhpVWx6cXNNeUVrWjF6OUx6ZzhLNTRYT2k2NnlqZmtrNS1zcDJzQlFxY2VHdXVHOUNWaXpnbVQz?oc=5",
      "source": "조선일보",
      "at": "2026-11-08T16:13+09:00"
-    },
-    {
-     "title": "米軍 イランの陸路監視を強化 タスクフォース設置（ABEMA TIMES）",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2FEQ1FwbHdjdDQ0cTgtSFVoZmpOWWc0NElQR2F5TzRnZ3dIS3F6eTJ4YUlkT09Md3l2bS0wTWZNcDU5Rmp4eFp5MDFvNk1HcUdvd1RKZ2IwQXpvdmVTRENORmEtQ0k0YXB3eGgxMkhoMnQzVW5pNFN2TE8wNWtVdHcyY2NOZFlCZmxYb2JR?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-08T15:33+09:00"
     }
    ]
   },
@@ -300,10 +300,10 @@
      "at": "2026-11-07T20:17+09:00"
     },
     {
-     "title": "爆破予告を受け、フランス当局が4機の航空機を目的地変更",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzk4VHh3ekFKTFhseDJMWmxRM21Rd0tKLXNpNFE0ODlpaUVwTVBkdXNxLWgxOUliQmJkVUtUOFNpbTltdUZHcUozajBid0JOLXFqSXRDM1ZYd0hrRzl5YzdtUVlZNVJQak1uNGxVQUhWbkZxd3I0Z2thWTZSSENzTUJEUGtQeENOTW1GNEtnblRFaEZ2dEtoVGpIdnNMNWcyV3UxNg?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-07T14:49+09:00"
+     "title": "ひろゆき氏「だんだん対応が緩くなり、そのうち本物を混ぜてくる作戦なのかな」欧州での爆破予告に警戒感（スポニチアネックス）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXNHJtYlhxU0o5aF8wd0NnNmxtOUEzeE1hTWVuX2dJQkFaQS1SN3Nyc2hFQnhuOUIyUktzOUJycWxTcHZoZHFxV2pLMFNUQzhsSml1VzVlZkZsRWtVLS1DNzA3QTdwdnF2bmFYT3ZVSmxWeUdLenNvZzEwWjdhYkE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-07T19:17+09:00"
     }
    ]
   }
@@ -450,6 +450,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "「要求受理か、戦争か」 イラン外相が米揺さぶり",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZT24zYzI3ZEJTaWlXcjVaSEFWaVVhMkVoUUZVQmxjRTJ2bUFvWHZycUd1QlM4RE5OSm5SZFQ3V3dCNXA4UVNMLXRpdE81MVVkRU1wdVB3?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-09T05:19+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEQteDJaT0x0NUc0Z3RkTXJNVTloeTltbWZlcHBwMjRCam4xWFVxTGJlV3Zab3FyTWVDVUI0UUxDRUlEaldsT3p1dnEwdTFER1BvZF9HYmJlNndHeTJhY3BtQ3c0cFVuNXlmY1BUNVpqOVo3cVNnZW4yTEdLckcyVDhCQWNXU3RSYU4tVW5R?oc=5",
    "source": "Bloomberg.com",
@@ -552,13 +559,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUJGQ05fYW50SDJfMVQ4bUd1VnpqQkdLRUJzMWJFbEM5ZS0xQzFGeU01UFc1ZlRzWWRPYzZkLWNzZWs3SUFmSUxOa2tvUlRoZWhpVWx6cXNNeUVrWjF6OUx6ZzhLNTRYT2k2NnlqZmtrNS1zcDJzQlFxY2VHdXVHOUNWaXpnbVQz?oc=5",
    "source": "조선일보",
    "at": "2026-11-08T16:13+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "米軍 イランの陸路監視を強化 タスクフォース設置（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS2FEQ1FwbHdjdDQ0cTgtSFVoZmpOWWc0NElQR2F5TzRnZ3dIS3F6eTJ4YUlkT09Md3l2bS0wTWZNcDU5Rmp4eFp5MDFvNk1HcUdvd1RKZ2IwQXpvdmVTRENORmEtQ0k0YXB3eGgxMkhoMnQzVW5pNFN2TE8wNWtVdHcyY2NOZFlCZmxYb2JR?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T15:33+09:00",
    "topic": "イラン・アメリカ"
   },
   {
