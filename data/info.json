@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:00+09:00",
+ "updated": "2026-11-08T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選挙の大敗受け",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZFpna0Y0bmMxdVlCZmpwdGw4S3R1aVNhcWFlWWRRVEgwVTA0dnkxSFJNTXA4SEwxMm1pZktTc1ZYYUJDNnhONmg5R0FVMjA4QmhQSmtMNHRYRG5TX2s1VUhR?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-08T20:09+09:00"
+    },
+    {
      "title": "海上封鎖の拡大、米軍はイランの陸上通商の規制を狙う",
      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQU0REYWVsTmhGV2V6ejFRTS1NeFF5X2ZLTFlMNW9GSkp6WDRvelBZMk9LQ0FzZEZuQl9DR3A5UEcxY2lWUGpfSl9NeGdXRlh5X1BhdUgxaXIzTFpidnhXZWt0STg0bXNGZzMyOFJKYWF1QkRwUVNiS0wzdGZRTV9SanpnTlJhQk1uWlNKMVlGZUNDX0o1Vm9zRWhGd1Q1aVZHMFRFUlg2aHFIelNydko0OGQ3MWVJZEdsQ1hldy1OdG14UmdOVjRVR3RJbndoeGJGek9KUGtCNDdNZXk0bGczOVNEVW9mMlVxUkkza1hVcE1oR1Y3cjhWNmY3aWZWQWVCZDZDNlNtV1pKMXVwb1ZZTHNJWUhMd29YaWo4M2FLbDR0b2pXQ0sxclFLR2t4RlNHeHpHMUlBSFUwSHRfOWtUZVJ4bGpBdVRyTUNmMExHcU9WTzlpQllsczdPc1h3RTZhWWR6TEwtWF9HTTlNRkpVVjVjNjBuR3c?oc=5",
      "source": "アラブニュース",
@@ -124,12 +130,6 @@
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdzlZdDE4NmJZWHhPc3ZlbndYcjB2cVZpZ3J5d19TMUNRaGpxUmVsUTd4ek03dnBDWkZrVVBuT2tMVFpyN0REWjBfVGpDazdsUkZVUHlaZEVJTHJHTHRYOVBmZmpzUHN4OVg4RXlYS3cyUExG?oc=5",
      "source": "BigGo ファイナンス",
      "at": "2026-11-08T14:55+09:00"
-    },
-    {
-     "title": "米、イランの核開発に関する情報に巨額の報酬提供へ トランプ氏は「壊滅」主張も",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwdkhQZ2p0T1p6eDE3UDZLaXkzTXlVZTZyRFhIckMyNzVfUk42NjdweUhwWlBJb29jMmYtQWMwT2R2ZXFDODlnWTJLMVp1dzRLWWNB?oc=5",
-     "source": "CNN",
-     "at": "2026-11-08T12:16+09:00"
     },
     {
      "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
@@ -192,10 +192,10 @@
      "at": "2026-11-08T19:10+09:00"
     },
     {
-     "title": "北朝鮮の金成男書記、中国共産党幹部と相次ぎ会談…首脳合意の履行を確認（KOREA WAVE）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kN3NRcGljVTQtN1IzbVFQeHU2NFpmTXhmZVNMd244Zl9ubHhERzhXWUpzREFQYjA3N1NfZEFTdGJvdWozaU14MlNqcFkxRlFMU0huWGcxODBaYWlsOTF3QWxQVjRTVHc2X1JySXNiaHFkME5GdU9PYmtqU2Nwbk0?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-08T17:12+09:00"
+     "title": "北朝鮮の金成男書記、中国共産党幹部と相次ぎ会談…首脳合意の履行を確認",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMlBtVFA2S09kUXdXTGl0WmVFNVFfUnUxZlVrVGY2clZLSFRWNDJjNUdDRGIyNGJBcDJ2NnBlNW9Ed3BzZm5nSEZucm5fZ3FrUUFmZlBoM3hCMTdJeHZqZms5V3ZLdzVJWWtORFo2V3JVUdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-08T17:22+09:00"
     },
     {
      "title": "高市総理「日本国の総理として金正恩氏と会って率直に話し合う」 国民大集会で日朝首脳会談に意欲",
@@ -363,6 +363,18 @@
    "at": "2026-11-08T13:48+09:00"
   },
   {
+   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNdHZxRzJzWDlLV1ZhQ09GY1dkemtqZU1sSVU2eHA1bzd4bkI2QVAxc2tGb1JYZlMtdXpIQWIyNWZtX0oyNU9WT0VQcHRxckRCZHBTYWZmc19VMklWUzlqNFFTS19haGpENGRMR09oNA?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-08T12:41+09:00"
+  },
+  {
+   "title": "「うるう秒」廃止「うるう時間」導入へ 秒の調整での“システム障害”解消へ 今後は「1時間ズレ」が出た際に調整 | TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5amQ5cmVKZ2lzNGZvcDhpWEFtaHZKeEczamZ0UWZZbUN6TVRwOWRJSWNFYk4xbm8xYWpXamZNZks1SXFjd2dOckV2WFN2Tll2OC1JRWlsdk00NnE2?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-08T12:35+09:00"
+  },
+  {
    "title": "ゴルフスクールに不正アクセス 口座番号など21万件漏えいか",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeThsVHF4ZzdWTE9UTjB0QlVCeFVOQlI3RUtQdC1tcGpEMGNnd2M5RW1vQTVHeFNNSXY2dWRTakdOUEVRUFI5QlRUT1NtVkNrblZVbmo5YUxIM3pLZ2M4cGVkRU9JOVBxOXEwUlZkRzgyWTNSNHZkT25wMWhLd2FzMi00bV9mSzU5cW93cUxodWJrTXk1RWxKMW44bU9tY2FvZUlmUDFrSVBJeVBHc0llX1BrMlBzYkd1czg4d2VVbkZFQU16V29WUnpNNy1OTXVxek53VUZMS19hMUs5SHBjSHI2S3U0ZzBZ?oc=5",
    "source": "ABEMA",
@@ -411,6 +423,12 @@
    "at": "2026-11-08T18:25+09:00"
   },
   {
+   "title": "【専門家解説】「人間業ではない」相次ぐサイバー攻撃 「人の手ではブロックできない」AI時代の新たな脅威と身を守る方法とは 専門家「慌てて行動するのが一番危険」 [写真ギャラリー6/6]",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZZ2k3SXRNdWRKRVJmcE5qSENVWDlUQ0FVMXpxOC01ZEJkV0QtV1JRNjM3WnVERU9UYS1yZy1ycXEzOWJVZEtjMjBXanRLZ0tDVzZuM0FoWlVBeEd5MjV2enlTdlhEbnhFMVF4Mw?oc=5",
+   "source": "ktv.jp",
+   "at": "2026-11-08T18:12+09:00"
+  },
+  {
    "title": "ALL.Net不正アクセスから1週間、太鼓の達人やガンダムは試験復旧もセガ製品は停止続く",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsbmxqczdBUWRfZ1VUTlF4UE1vaG1FVm0tMUpMRWNlZkI2QWxRUVFqZ3ZNa0RKeXRiOS1fdmRhbWNRTEM3?oc=5",
    "source": "shiritomo",
@@ -427,28 +445,17 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vV2V2YWstc2lpNGotbmJTNjMtSmw4Q2liUnhOR0tFNzJEVTNuclRkdENUY0hlZDR3Z2p1cWJMSGJEMlJaaURBLVR2SQ?oc=5",
    "source": "文春オンライン",
    "at": "2026-11-08T17:10+09:00"
-  },
-  {
-   "title": "サイバー攻撃、 １ ０月は４億件超 検知数最多更新、被害深刻",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00Umc0R011dVdmOW9adC1vQWRuSkNlY0VqbC1ld3dabmlTM3l3TFNsV2pRTlRScHRCYTBVMzIyc1V1NFpjVlRVbF9WNjh5QUhmU3lZVVVSdFdlNmhvQklLWFZkcw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-08T16:29+09:00"
-  },
-  {
-   "title": "中国発のオープン型ＡＩモデル、ハッカーが悪用 安全装置を解除、サイバー攻撃が低コスト化",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNjMwdGpPcm9SRFR3QV9nQmZSN1pXUHJWRWU1WDNkb3BNZF81bEtlT0pUcDRzS2tieXdGN3ZTSnJBSXpieHNURWFsQXpvbTNYUEVuUWx6b2VDcnRfTmlxNHJObw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-08T15:52+09:00"
-  },
-  {
-   "title": "キャッシュカードが消える？──三菱UFJのネット銀、“全廃”でスマホ一本化へ 対サイバー攻撃は？【 #みんなのギモン",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14TXd2eGlYYnZCR0JORFJiZUNhbXJHblFaMndwYjkyeHVILXpXUUdtQk9JM29zaFR4TllLX1BfOVNabktwcks0eF8xX3hYUkRDS0JMdFZmSUxOREtuMnhwTjVCUkJ3Z21ycFJIZ2ZEWDNkdTNtQzlRY1dxc3lZOGs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T14:35+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選挙の大敗受け",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZFpna0Y0bmMxdVlCZmpwdGw4S3R1aVNhcWFlWWRRVEgwVTA0dnkxSFJNTXA4SEwxMm1pZktTc1ZYYUJDNnhONmg5R0FVMjA4QmhQSmtMNHRYRG5TX2s1VUhR?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-08T20:09+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "【今週の注目トピック(3)】話題のテーマ『ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ』など(フィスコ)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTURhbTBvQmRwR2NpYV9oUTRNVU1PUzFleTdhTGNRNTdMZVlZWXhLb0xGdXRCbTd2djJHY1ZhTkxXYk14SkQydUdjbjZWM08yVVNiXzRieGo5MkNCTnRrcTR2Q05CcVBfZW9pVTRieEtjVnFqazcwWEFGRmFJb3czVmtyd1BrTDg?oc=5",
@@ -471,10 +478,10 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮の金成男書記、中国共産党幹部と相次ぎ会談…首脳合意の履行を確認（KOREA WAVE）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kN3NRcGljVTQtN1IzbVFQeHU2NFpmTXhmZVNMd244Zl9ubHhERzhXWUpzREFQYjA3N1NfZEFTdGJvdWozaU14MlNqcFkxRlFMU0huWGcxODBaYWlsOTF3QWxQVjRTVHc2X1JySXNiaHFkME5GdU9PYmtqU2Nwbk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T17:12+09:00",
+   "title": "北朝鮮の金成男書記、中国共産党幹部と相次ぎ会談…首脳合意の履行を確認",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMlBtVFA2S09kUXdXTGl0WmVFNVFfUnUxZlVrVGY2clZLSFRWNDJjNUdDRGIyNGJBcDJ2NnBlNW9Ed3BzZm5nSEZucm5fZ3FrUUFmZlBoM3hCMTdJeHZqZms5V3ZLdzVJWWtORFo2V3JVUdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-08T17:22+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -541,13 +548,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "米、イランの核開発に関する情報に巨額の報酬提供へ トランプ氏は「壊滅」主張も",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwdkhQZ2p0T1p6eDE3UDZLaXkzTXlVZTZyRFhIckMyNzVfUk42NjdweUhwWlBJb29jMmYtQWMwT2R2ZXFDODlnWTJLMVp1dzRLWWNB?oc=5",
-   "source": "CNN",
-   "at": "2026-11-08T12:16+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cnIzXzRfOTFfenlmc0dFTGtWSFEtb3ZCRVJlcVJacThVd0g2V0VpWDZ6dWU3YUwzRFo5c0lNeV80VkZGcFhhSkFrOTFOWXRyV2x5WUV4QVlCZmd1Q29RSDExX2V1bndHaFp1RWtnYjNuVWphXzd2WlFqWVZQcmc?oc=5",
    "source": "Yahoo!ニュース",
@@ -606,17 +606,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」3件",
+    "イラン・アメリカ：「攻撃」「封鎖」4件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "海上封鎖の拡大、米軍はイランの陸上通商の規制を狙う",
-     "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQU0REYWVsTmhGV2V6ejFRTS1NeFF5X2ZLTFlMNW9GSkp6WDRvelBZMk9LQ0FzZEZuQl9DR3A5UEcxY2lWUGpfSl9NeGdXRlh5X1BhdUgxaXIzTFpidnhXZWt0STg0bXNGZzMyOFJKYWF1QkRwUVNiS0wzdGZRTV9SanpnTlJhQk1uWlNKMVlGZUNDX0o1Vm9zRWhGd1Q1aVZHMFRFUlg2aHFIelNydko0OGQ3MWVJZEdsQ1hldy1OdG14UmdOVjRVR3RJbndoeGJGek9KUGtCNDdNZXk0bGczOVNEVW9mMlVxUkkza1hVcE1oR1Y3cjhWNmY3aWZWQWVCZDZDNlNtV1pKMXVwb1ZZTHNJWUhMd29YaWo4M2FLbDR0b2pXQ0sxclFLR2t4RlNHeHpHMUlBSFUwSHRfOWtUZVJ4bGpBdVRyTUNmMExHcU9WTzlpQllsczdPc1h3RTZhWWR6TEwtWF9HTTlNRkpVVjVjNjBuR3c?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-08T19:20+09:00"
+     "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選挙の大敗受け",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZFpna0Y0bmMxdVlCZmpwdGw4S3R1aVNhcWFlWWRRVEgwVTA0dnkxSFJNTXA4SEwxMm1pZktTc1ZYYUJDNnhONmg5R0FVMjA4QmhQSmtMNHRYRG5TX2s1VUhR?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-08T20:09+09:00"
     },
     {
      "title": "北朝鮮、国家ぐるみでハッカー育成 中学生200人選抜 攻撃成功で平壌にアパートも",
