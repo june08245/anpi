@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:30+09:00",
+ "updated": "2026-11-08T09:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -186,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqay0xU09CNTlidWlkQWV3a2xTQm83T1RRMHM4Nkh0M3UzNHZORlQ3aVVQUnVRa2xWWXFUVmVwdFNJdmh2SklzSkxQS3RIdjdxTmhyQ2dLLWZfMno4QnVCZDNWR3JKNjJweWhsSnBFMVJub2fSAXhBVV95cUxPbEVpVEZtMnp0OG1sYUMwVWU1SHJZRGNDbTA2a1czNnZUbGwzc04taU80WXgyU0dHVkRKYk9YUUJmTjVsRm5FV0hVWThTYzdLcUxwM2MxcnpQZUxLVUdIb0kwNjFFTk0yOElzSEVtS1lIUURIQUFrako?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-08T09:30+09:00"
+    },
+    {
      "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56N1pkQVMxeHBWQmV1RkpNODZDZlRORm1KUmQ3aGlodTRfbGFjR0RjNjJRRnVyXzFXb3l2TjJ1TUw1ZlB6ZXdpQmt2WmhBQQ?oc=5",
      "source": "FNNプライムオンライン",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
      "source": "産経ニュース",
      "at": "2026-11-08T00:19+09:00"
-    },
-    {
-     "title": "北朝鮮製の弾道弾使用か ウクライナのエネ施設への攻撃 | | 全国のニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jYVhVT0NycnFqZTB0R2lqS3phZldJbHBUTDB3Y3E2ZUJEcnVfeUF2RXdZUEE4bUtNNEZySnlrZ2dSaWRyQ3huTU14cWJ2a0h3eXdQQ3pR?oc=5",
-     "source": "佐賀新聞",
-     "at": "2026-11-07T23:30+09:00"
     }
    ]
   },
@@ -227,6 +227,18 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqay0xU09CNTlidWlkQWV3a2xTQm83T1RRMHM4Nkh0M3UzNHZORlQ3aVVQUnVRa2xWWXFUVmVwdFNJdmh2SklzSkxQS3RIdjdxTmhyQ2dLLWZfMno4QnVCZDNWR3JKNjJweWhsSnBFMVJub2fSAXhBVV95cUxPbEVpVEZtMnp0OG1sYUMwVWU1SHJZRGNDbTA2a1czNnZUbGwzc04taU80WXgyU0dHVkRKYk9YUUJmTjVsRm5FV0hVWThTYzdLcUxwM2MxcnpQZUxLVUdIb0kwNjFFTk0yOElzSEVtS1lIUURIQUFrako?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-08T09:30+09:00"
+    },
+    {
+     "title": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-08T09:29+09:00"
+    },
     {
      "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nMFZKQ2EzSzc3SVRkY2NpbHhRWC1yQU9LdVE5ZFZWT2hkTkgxaWhBVGxFY1FPbGVyWlJySDRvdnAtNjMzU1dpaFd5OFNuUVFJSkhtcTRMeHdPT3R5VG8tMXNkVEZNNUN3MlhxTHpB?oc=5",
@@ -250,18 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hNkZfd1BHRDFNQkN6VHJ3WGxaMXJKd3VqMkhfRjBHTkU5TEFhYVBQLTA5R3lmN2RseFlINnB3aHlXZm1EZzIyTkdsN0xFVndqY0luRGhneGpsazdidGZR?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-08T06:46+09:00"
-    },
-    {
-     "title": "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14TU91Q2FwbXRsYmJTc0VxXzlRQXBNTE9NUV9ESEVIMS1HRktaOVd5TnhuVndoWE1OZURtaWY2OWlUVTBnbm52UmtYNmRXdHFWR3BKd3JVNnFzZW1BajBZ?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-08T05:57+09:00"
-    },
-    {
-     "title": "ロシア国旗（タス＝共同） - ロシア衛星、軍事利用を開始か ウクライナで、情報機関 - 写真・画像(1/1)",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KY25CYlRDa3A1S29wVkFlTGFUbGFPLTBIZktMNENtWkRVTU1rN1J1cUNiOHFEWWJZd3pnOWhLVU9hR0VaYm5nckEtLTMxV3FlNzU5ak95Yw?oc=5",
-     "source": "西日本新聞me",
-     "at": "2026-11-08T05:23+09:00"
     }
    ]
   },
@@ -310,10 +310,16 @@
  ],
  "nankai": [
   {
+   "title": "愛知で震度5強の地震、南海トラフとの関連性は低いとの見方 気象庁、今後1週間は震度5強程度の地震に注意",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVZNcUdEMzlNdTdhRmZ6eWw5Qlc5WW03bzE4TE9NWXdiUUFOUnNQS3AtMFNHMThGeGlZdnhOd2Z5eTFHMmI3ek5yenQzRHNfY2FlaHdiN2UzRmJXbTRLMFlTYXd4T2IwQVhoZU02YjFnU3RpR0tZdkUwd2FUTzlPUg?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-08T09:40+09:00"
+  },
+  {
    "title": "南海トラフ地震とは「直接関係ない」…愛知で“最大震度5強” 専門家「より大きな地震が起きることもある 今日自宅の点検を」",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81V05aYXcydldXdVJuQ1VKVzVzRGJmX2tYM3hNMFFzREhQRFBRVEtUWWtYT0Y0Y3JfMC11WUlRZHZoNk1IdHROWVF4MkxBSUtUbnU1bnNGeWpUbmMtT3VvNDktcXVnSWZpMjVLMGxMMXl1TE52S1pGZGxVZEpIcVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T09:12+09:00"
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZklPdF85UFpZSXI2OE1rQUFTNXkwYXR3NUR2dV9fMjM3MUdUZHpLbFlZMmpQWWFWRXQ0Rlp1Q0tFOHZWa3d5ZzhieU1zelpUU2tmM0NSOUdZYldjbUxXZFpFakxZRnZYVGpWZlM2SDdTSDRRSWxwT0NaV1dzVmpQdg?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-08T09:21+09:00"
   },
   {
    "title": "【解説動画】南海トラフ地震“関係考えにくい”今後の注意点は",
@@ -332,12 +338,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QMlZ6VzhhSS16OXdlSlVySzJfSXdPRXlSN2ZDcHBkR2k4a1dQcjdTRGlqV2ZaVWstQlR2bkZUd1AwdDZnRzBQU0RyS0w2R09NOVUyMFNQSVlsMTdZU3pfWlFwMlVHWFBObjJESy1qdHJDd3pRMnc?oc=5",
    "source": "産経ニュース",
    "at": "2026-11-08T08:56+09:00"
-  },
-  {
-   "title": "愛知で震度5強の地震、南海トラフとの関連性は低いとの見方 気象庁、今後1週間は震度5強程度の地震に注意",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UZDZLOUp2aUJKZTFmUEY4cURDaEgzM1ZGd01tbVhVQVQ4aktlb1Nsb3owNTBxX2V3MV85Uy1rMlJOSk5oMkhvcThnbzFKdFEtWjdMai1hTm9sWnNNUkE?oc=5",
-   "source": "福井新聞社",
-   "at": "2026-11-08T08:42+09:00"
   },
   {
    "title": "気象庁、南海トラフ地震との関連「低い」（共同通信）",
@@ -378,6 +378,12 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MeVdxN3gtaGtEbmRuTTJacXotUEl5MlEtWUNGNGo2elBVb0NnNzNLOXFZOVFrMUtrMm1WNXJudUwyNWpoM2xYcThJSG94RWtwN3czc2szTUZ0dnRzT2c?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-07T15:46+09:00"
+  },
+  {
+   "title": "ゲーセン不正アクセス問題、『ガンダムEXVS.』『太鼓の達人』など試験的に稼働再開へ！バンナムタイトルはオフラインでも稼働できなくなっていた",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5RlVXOTNZaF9pVnpuazctQmpSSW1MQ1lCUDE5TmVuZGItTFBVcXB2RlA4TjZQdXF1VEtKLUEzME0xbkNoOFh0b2ExTWFTaHpIdTZkTUJfbUNVMEU4SWlqZWtDRQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-08T09:32+09:00"
   },
   {
    "title": "GMO熊谷社長、サイバー攻撃全内幕にカネと女 『文春』『新潮』が特集 花田紀凱 花田紀凱の週刊誌ウォッチング（1103）",
@@ -432,16 +438,24 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41S01QTDIyTEYzeGs4SGluNWNJRWNRWlZ1VUpEODFGVDdpVzhBUFM5Z1FqMEctaTVQZkFzNlE4ak1BTm5vMFo4SjlKODFFSHkxNEJIcw?oc=5",
    "source": "ktv.jp",
    "at": "2026-11-08T06:29+09:00"
-  },
-  {
-   "title": "AIがサイバー攻撃するイメージ - AI、機密情報奪取にわずか36分 サイバー攻撃再現実験 「弱点」見つけ、パスワードに到達 パッチ適用すれば被害ゼロ - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zQ2NFcUl0aGdYdTJnUGw2emtfZ0dPY1AtWnFRMXV5SEVUYU9fNzFEMTloZDh3bURjaldSMVRySU85UEJ4X3J1SDBSMWVzbXhaU3I4bzhKUQ?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-08T06:07+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqay0xU09CNTlidWlkQWV3a2xTQm83T1RRMHM4Nkh0M3UzNHZORlQ3aVVQUnVRa2xWWXFUVmVwdFNJdmh2SklzSkxQS3RIdjdxTmhyQ2dLLWZfMno4QnVCZDNWR3JKNjJweWhsSnBFMVJub2fSAXhBVV95cUxPbEVpVEZtMnp0OG1sYUMwVWU1SHJZRGNDbTA2a1czNnZUbGwzc04taU80WXgyU0dHVkRKYk9YUUJmTjVsRm5FV0hVWThTYzdLcUxwM2MxcnpQZUxLVUdIb0kwNjFFTk0yOElzSEVtS1lIUURIQUFrako?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-08T09:30+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-08T09:29+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "対イラン海上封鎖 米軍が民間船をオマーン湾で攻撃、航行不能に（毎日新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxdDdDaHlfeHlDRWE5Y01XZVoyaEx3YWhMSVp6OVJIU1BXTWRoOTRXRjFZTzBwaFdiNkZHV29jcExIaUhpRXRobGJ0YTlyWTc1aGl2dTNjYXhHV1hmSHN6dDV5dEV0elVRWUx5Yks1WE80cUhJN1h4OEl2ZlNrS2M?oc=5",
@@ -520,25 +534,11 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14TU91Q2FwbXRsYmJTc0VxXzlRQXBNTE9NUV9ESEVIMS1HRktaOVd5TnhuVndoWE1OZURtaWY2OWlUVTBnbm52UmtYNmRXdHFWR3BKd3JVNnFzZW1BajBZ?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-08T05:57+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "高市首相は頭を下げずに習近平と会談できるのか？中国の「3つの要求」に隠された本当の狙い",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uM1FRVFBjOWlqNnVuUXBCZkVTTkZya01fUENSRkYtWFpkcEhIc1Y1VWVxWW53Vm8weTRIWEl3MUdJQkpiZ1AyR0JNeENnRkZSS0xaWXdB?oc=5",
    "source": "ダイヤモンド・オンライン",
    "at": "2026-11-08T05:30+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ロシア国旗（タス＝共同） - ロシア衛星、軍事利用を開始か ウクライナで、情報機関 - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KY25CYlRDa3A1S29wVkFlTGFUbGFPLTBIZktMNENtWkRVTU1rN1J1cUNiOHFEWWJZd3pnOWhLVU9hR0VaYm5nckEtLTMxV3FlNzU5ak95Yw?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-08T05:23+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ（TBS NEWS DIG Powered by JNN）",
@@ -601,7 +601,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」2件",
     "北朝鮮：「攻撃」「ミサイル」5件",
-    "ロシア：「攻撃」「空爆」3件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
@@ -612,16 +612,16 @@
      "at": "2026-11-08T09:13+09:00"
     },
     {
-     "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56N1pkQVMxeHBWQmV1RkpNODZDZlRORm1KUmQ3aGlodTRfbGFjR0RjNjJRRnVyXzFXb3l2TjJ1TUw1ZlB6ZXdpQmt2WmhBQQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "at": "2026-11-08T08:38+09:00"
+     "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqay0xU09CNTlidWlkQWV3a2xTQm83T1RRMHM4Nkh0M3UzNHZORlQ3aVVQUnVRa2xWWXFUVmVwdFNJdmh2SklzSkxQS3RIdjdxTmhyQ2dLLWZfMno4QnVCZDNWR3JKNjJweWhsSnBFMVJub2fSAXhBVV95cUxPbEVpVEZtMnp0OG1sYUMwVWU1SHJZRGNDbTA2a1czNnZUbGwzc04taU80WXgyU0dHVkRKYk9YUUJmTjVsRm5FV0hVWThTYzdLcUxwM2MxcnpQZUxLVUdIb0kwNjFFTk0yOElzSEVtS1lIUURIQUFrako?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-08T09:30+09:00"
     },
     {
-     "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nMFZKQ2EzSzc3SVRkY2NpbHhRWC1yQU9LdVE5ZFZWT2hkTkgxaWhBVGxFY1FPbGVyWlJySDRvdnAtNjMzU1dpaFd5OFNuUVFJSkhtcTRMeHdPT3R5VG8tMXNkVEZNNUN3MlhxTHpB?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-08T08:46+09:00"
+     "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqay0xU09CNTlidWlkQWV3a2xTQm83T1RRMHM4Nkh0M3UzNHZORlQ3aVVQUnVRa2xWWXFUVmVwdFNJdmh2SklzSkxQS3RIdjdxTmhyQ2dLLWZfMno4QnVCZDNWR3JKNjJweWhsSnBFMVJub2fSAXhBVV95cUxPbEVpVEZtMnp0OG1sYUMwVWU1SHJZRGNDbTA2a1czNnZUbGwzc04taU80WXgyU0dHVkRKYk9YUUJmTjVsRm5FV0hVWThTYzdLcUxwM2MxcnpQZUxLVUdIb0kwNjFFTk0yOElzSEVtS1lIUURIQUFrako?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-08T09:30+09:00"
     }
    ]
   }
