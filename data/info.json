@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:45+09:00",
+ "updated": "2026-11-08T13:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,12 +102,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "米、イランの核開発に関する情報に巨額の報酬提供へ トランプ氏は「壊滅」主張も",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwdkhQZ2p0T1p6eDE3UDZLaXkzTXlVZTZyRFhIckMyNzVfUk42NjdweUhwWlBJb29jMmYtQWMwT2R2ZXFDODlnWTJLMVp1dzRLWWNB?oc=5",
-     "source": "CNN",
-     "at": "2026-11-08T12:16+09:00"
-    },
-    {
      "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cnIzXzRfOTFfenlmc0dFTGtWSFEtb3ZCRVJlcVJacThVd0g2V0VpWDZ6dWU3YUwzRFo5c0lNeV80VkZGcFhhSkFrOTFOWXRyV2x5WUV4QVlCZmd1Q29RSDExX2V1bndHaFp1RWtnYjNuVWphXzd2WlFqWVZQcmc?oc=5",
      "source": "Yahoo!ニュース",
@@ -136,6 +130,12 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ibVZiRVdFc3VXUlhDejI1eEhOR3NjanFtajA4bVpaTU1LZnc4TWdIVk9yTlRRQXU1dGFIYW5objdHaERzaXNfM3NBVnVRb24wcVBGMzVaZUNDQktQRUlwcWZlVklOUFNHcEw4VGlB?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-08T09:11+09:00"
+    },
+    {
+     "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzRCd0t3NE5kSnJrVWlGdGJHVUZOU3lLazg4c1NPQVhwV3doX0I0eDhaQndValU3b2VLUXB6aEwwWVd4NWFuUFVSRGRiR1RSZ1RMMi0xeTRtTzJsYmFXTkZtb0lzLTRUeXdtLV9DMk9CRlg1aEZtWVlIV2p6QVZFZFl0cDFVaTg?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-08T07:04+09:00"
     }
    ]
   },
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "【詳細】ロシア ウクライナに軍事侵攻（11月7日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxLXV2TzhoZmZ6ckE1dWVGdDdRdUpXWjNaSUFxcmF2Q0d5X0lUYlVWMk5mLTlvbVVZUDhWdXBjaGN0czJDTDc3V0JVcER1RVoyTFFSTzBDMEEyOEhfTmxB?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-08T12:50+09:00"
+    },
+    {
      "title": "ロシアの高官議員がウクライナへの欧州軍の展開の意図を警告",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWm5yX0EwR19uV2IwalJRT3JsQ242Z083cENjMjBDa3hwTVhtQ2szczIzMlp0NmZQMVh2MlJHZkdqd3cyTng5YVlBQV9kZjdXTTZqZHhIN3QzSE1VSjhDODZsU2VOVmtwYTdGcWlOQjZVcTlobzFyVkZ3ME5TSlJiTVlIWHF2S0tWTmxWd29veHkwZWlOa19ReUJwbHZpbU1Ca2ZqczJXRFJZLThUbzI2U0JybzV5UHM?oc=5",
      "source": "Laodong.vn",
@@ -244,12 +250,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wRkdZRGhhdHJ2NGpOWDV1MDAwNC1TYlVSeE5FOTZVQnlhaERDX2lRb0lfTUJxY1FKY0lFQkNvYkMzdEJvdDhyZnF3ZkdxS25wcHfSAVRBVV95cUxOd0RNem5LajJLb2E1X3FRWmYyTDY0MTh2dTlYNGZZMHdpdFFFS0Y3d1ZLTmMyVGhvdHdrajdwMDEtZW5xa19sN3pycThWakprbzJ1MGk?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-08T09:30+09:00"
-    },
-    {
-     "title": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-08T09:29+09:00"
     },
     {
      "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
@@ -316,16 +316,22 @@
    "at": "2026-11-08T12:43+09:00"
   },
   {
+   "title": "愛知で最大震度5強の地震 南海トラフ地震の想定震源域の中で発生もプレート状態に目立った変化なし 気象庁",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Lc2V5SldzLXp6OFRleFFJM2EtSFpNajBCRkpMOW5VQjkzVkJYZUpFWEpKQnI1eFdMWjBaRGNKV1dyeV9QR2dvZ2Q3WmRVUEpUa2N1bzNXei1fZkZBN3EwWklhNFpkQTNOUEtuS09VWWpycUE?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-08T12:12+09:00"
+  },
+  {
    "title": "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い”",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92SW54bFR2cWVmbC12WlpxWGEtbjZPbzVDbWxPNW9uVWlqbVh0dGpqb0RWTFhTOEJ0SWpNemQ1VXN0UTNNc1NyT3JvdU16YTJrb1BlNTd2UTVBR3UtMzZyZjlqcVVwSnY0VC1XeVFqaVFhQQ?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-08T12:11+09:00"
   },
   {
-   "title": "愛知で最大震度5強の地震 南海トラフ地震の想定震源域の中で発生もプレート状態に目立った変化なし 気象庁",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxcTdsanl4SmFQVUdhWWoxVUxhbXBianA1eW0xZVFpOG02eXJ5M1hsY1Q4UzB2OUdnNXJIeGcyVWN5eUpiQTdWQ0JXQTV5T3hMcV8zZWJPaWNnMFZ3TElHZmlTakZWX2RCczN2UG13M05ULTNmcmVfeW91dWtfQVk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T12:03+09:00"
+   "title": "愛知で震度5強 南海トラフ域内 (2026年11月8日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90TkJodGFOVzhNSC1jRHVNdkNYVTBBRHJwRWdxNDUxYmhlSUFaUEFFY3FPbUx5QWVnVkI0SUYyblBEdUhRZV9DU2ZNM3BtdzhKczdhREJ4aU5BZ0d5NWc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-08T12:05+09:00"
   },
   {
    "title": "南海トラフ地震との関連性「低いとみられる」と気象庁 愛知県で震度5強の地震",
@@ -335,15 +341,9 @@
   },
   {
    "title": "愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81QS1Jb09VYzBHN3U0MXBhRFhGMW92LWRvOGFkY0R5ZXVXQlNZYTZJRTlmdkcyVmN4cWhzZ3hqWXpZZ3g4T3l6b3JIajV1WU9senFaeQ?oc=5",
-   "source": "ABEMA TIMES",
-   "at": "2026-11-08T11:15+09:00"
-  },
-  {
-   "title": "愛知で震度５強、気象庁「南海トラフ地震を過度に恐れる必要はない」…想定震源域内だが異なるメカニズム",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yZXYzY0Nycnk5a2xSSU0tcUhkVVZUbE16dmwtaWJvNEo5bnpUTlFwLUNDNzBrRHI4TC1xYlJQZVptVmVYNzFMTzdmZmxGZUQ5Y19lbnNocnVqa0JueUxZa283QXd3UQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-08T11:11+09:00"
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83VzdUZzVHbWFYTXdPMmQ5cDAzdmZEN2x5M1ZlelRRRUgxZTlvT1JoT2tvWDZlLW5IZUJIOWxLZVVsX1BnaXplSE0wVVFtM3I0QzdLek5HcnIzdFVMWWF3eDdoR3MwRGE4MlFsUXlEQkxnQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-08T11:14+09:00"
   }
  ],
  "outage": [],
@@ -368,20 +368,14 @@
    "at": "2026-11-08T06:15+09:00"
   },
   {
-   "title": "ケンタッキー、実施中のキャンペーンを中止 ニチレイグループのシステム障害の影響",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOTVDREVoNDF1M0tmV211aHpkOEF3T1l5cHF4WGVxZzZsSllXTE5FOFJzd0pBOE54Yk5VVU1VbWwwdDN4LWVNLTBBaW1fLWRkYXFKYWxVNXptaDBsOW1ISlRLUko0NDlnTlJXOWViZU5Kdw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-07T19:52+09:00"
-  },
-  {
    "title": "冷却設備へのサイバー攻撃が欧州で拡大、食品と医薬品の低温物流網を守る6つの対策",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yVUkxczhEbFNidmR2ckhuTElWOF9mNmhGU3JaYnc2enRCZHBUMDBsUXlmTmszVFgxVjZOS3NpcVR6enFadjI2cHpBTDFHZTlmcFZySGUxZXBuQQ?oc=5",
-   "source": "Forbes JAPAN",
-   "at": "2026-11-08T12:40+09:00"
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBteDNIenZISG9KMGRtN1ZPZWY4WndjOGQzdkZGLS03SmphUmhoYlBmVFd4M3UtZzBDdnZtM3NsODZ5cTdNbmJfNGVoWnlHOHRVQWtYcmdjb3RmYzVGbUNHV1djTTZBM1piOS00V0dpcXFDSXROU3h4WkI2bldNQnc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T12:56+09:00"
   },
   {
    "title": "GMOサイバー攻撃会見で明かされた“盲点”「仮想サーバー＝VPS」に不正侵入 2か月間なぜ気づかず？AIの急速な進化に対策は【サンデーモーニング】",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BdE9mU3lURlpNaGhjekRrWEY2UURKczBZdm1OYmQ0eEFzU3RSXzdOVGdWTjQwWUVtb1d6dnNKZVZBaUR0QzF3cnVpNW13YmU4bnozYUpZY0pKRk5tUWtFTmdLSHo?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvNGk4aU01Ynd4WHRDbUtZRjhqTXkzUDdZdzZTczlpRUFmdktaaG5QX1VBbF85QnNsVzJsZlFHTERSR1hQeXBhZnVpNklQeEoxby1XZDAzSQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-08T12:29+09:00"
   },
@@ -408,6 +402,12 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVRNcGxHanpXc1pLS0trVVh4dUJCU0NZc3pPTlFpWC1QNzlpMHFSWDQwdWZiQV9Lbm0tRHZLMkJmT1BDWFJzRXV1YWVRMC1BMFFtV0xQVHF1aVd3ZEdza2lUT3FnQzU0QmZyckdNTzQwUXMzZXo3RV9oMmo2Vk10ZlFWbDZFRGZvNXB0UjZhaTk?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-08T11:08+09:00"
+  },
+  {
+   "title": "深刻なサイバー攻撃の頻発を受け、警察庁が合同捜査本部を設置へ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NU2g0WFhIaE9pUTRvSEdLb0wtMVc5NW83aDRWZVdob3JDT1pPRzNVek1mY1hwYmhjLVpSTVloeGdLbVdsMFBfb1FMT1VDWXRZRWlR?oc=5",
+   "source": "東京報道新聞",
+   "at": "2026-11-08T11:04+09:00"
   },
   {
    "title": "ＡＩサイバー攻撃 再現実験 ３６分で機密情報流出",
@@ -443,11 +443,11 @@
  "osaka": [],
  "world": [
   {
-   "title": "米、イランの核開発に関する情報に巨額の報酬提供へ トランプ氏は「壊滅」主張も",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwdkhQZ2p0T1p6eDE3UDZLaXkzTXlVZTZyRFhIckMyNzVfUk42NjdweUhwWlBJb29jMmYtQWMwT2R2ZXFDODlnWTJLMVp1dzRLWWNB?oc=5",
-   "source": "CNN",
-   "at": "2026-11-08T12:16+09:00",
-   "topic": "イラン・アメリカ"
+   "title": "【詳細】ロシア ウクライナに軍事侵攻（11月7日の動き）",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxLXV2TzhoZmZ6ckE1dWVGdDdRdUpXWjNaSUFxcmF2Q0d5X0lUYlVWMk5mLTlvbVVZUDhWdXBjaGN0czJDTDc3V0JVcER1RVoyTFFSTzBDMEEyOEhfTmxB?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-08T12:50+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
@@ -520,13 +520,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-08T09:29+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "対イラン海上封鎖 米軍が民間船をオマーン湾で攻撃、航行不能に",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNTExaN1F2ZjhpenBQZWpoaG5fbjF0Qm9sdXd6X1dfOGZWZnVkd0FHM3hsTjJPaGgyeWxxTU52WU9oWWR6cy1GMDRzUlN0OWdCMFFyT2ktQW5DYVBqVXpmaVZLWG5CRmJO?oc=5",
    "source": "毎日新聞",
@@ -569,6 +562,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "米軍、オマーン湾で貨物船を航行不能に 対イラン封鎖措置強化へ",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzRCd0t3NE5kSnJrVWlGdGJHVUZOU3lLazg4c1NPQVhwV3doX0I0eDhaQndValU3b2VLUXB6aEwwWVd4NWFuUFVSRGRiR1RSZ1RMMi0xeTRtTzJsYmFXTkZtb0lzLTRUeXdtLV9DMk9CRlg1aEZtWVlIV2p6QVZFZFl0cDFVaTg?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-08T07:04+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "高市首相は頭を下げずに習近平と会談できるのか？中国の「3つの要求」に隠された本当の狙い",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uM1FRVFBjOWlqNnVuUXBCZkVTTkZya01fUENSRkYtWFpkcEhIc1Y1VWVxWW53Vm8weTRIWEl3MUdJQkpiZ1AyR0JNeENnRkZSS0xaWXdB?oc=5",
    "source": "ダイヤモンド・オンライン",
@@ -599,7 +599,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」3件",
+    "イラン・アメリカ：「攻撃」「封鎖」4件",
     "北朝鮮：「攻撃」「ミサイル」2件",
     "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
@@ -618,10 +618,10 @@
      "at": "2026-11-08T09:30+09:00"
     },
     {
-     "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wRkdZRGhhdHJ2NGpOWDV1MDAwNC1TYlVSeE5FOTZVQnlhaERDX2lRb0lfTUJxY1FKY0lFQkNvYkMzdEJvdDhyZnF3ZkdxS25wcHfSAVRBVV95cUxOd0RNem5LajJLb2E1X3FRWmYyTDY0MTh2dTlYNGZZMHdpdFFFS0Y3d1ZLTmMyVGhvdHdrajdwMDEtZW5xa19sN3pycThWakprbzJ1MGk?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-08T09:30+09:00"
+     "title": "【詳細】ロシア ウクライナに軍事侵攻（11月7日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxLXV2TzhoZmZ6ckE1dWVGdDdRdUpXWjNaSUFxcmF2Q0d5X0lUYlVWMk5mLTlvbVVZUDhWdXBjaGN0czJDTDc3V0JVcER1RVoyTFFSTzBDMEEyOEhfTmxB?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-08T12:50+09:00"
     }
    ]
   }
