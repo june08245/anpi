@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:15+09:00",
+ "updated": "2026-11-08T16:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米軍 イランの陸路監視を強化 タスクフォース設置",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXltWkhxNlNrbU16Nk9CVTBCUFRaTTlqSnFPNUJsV2dxNkRza2NOcWkyZENGU29obE9iY3NXMEg2TnBraThzRWtlckNqWXdxd2N6bFZBSjNTaW5mQjZPb1BJMTRjU0IzNURZMVFkOGJzODZQdUJabF93Wmx3QU90Sw?oc=5",
+     "source": "UQライフ",
+     "at": "2026-11-08T15:31+09:00"
+    },
+    {
      "title": "米・イラン協議に曙光、原油価格が週間17%急落 コロナ禍以降で最悪の記録",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdzlZdDE4NmJZWHhPc3ZlbndYcjB2cVZpZ3J5d19TMUNRaGpxUmVsUTd4ek03dnBDWkZrVVBuT2tMVFpyN0REWjBfVGpDazdsUkZVUHlaZEVJTHJHTHRYOVBmZmpzUHN4OVg4RXlYS3cyUExG?oc=5",
      "source": "BigGo ファイナンス",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRWRncHQ5MEczaVc0VkUtekw2c3FOck9CQk45ZndHZ2ExYml3ZWJ3UzVNOHNUdk1QYkp4bjA0WDNlVFJiSTZyOFo2alhqdkFvS0FvOU9yZGVhYVp6RkVoZGtCUXFtVWNwV1E?oc=5",
      "source": "Investing.com - FX",
      "at": "2026-11-08T10:43+09:00"
-    },
-    {
-     "title": "米軍 イランの陸路監視強化 タスクフォースを設置 兵器などの輸送阻止狙う",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZjUzcFotcnJyNFNzcS1sVEVTOWdJcjJPVW5vS2ZuTmQ4cFY5Mk9JMmwtX002bDUtZmljY0xZOGVQVDdCcjBhT3lvUUxXaUMydXRfQkxVbmI2R1JSS2QzYzc0WnV6UGRZcDdiZTYtTURZMGVHLW9BTE9R?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-08T10:32+09:00"
     }
    ]
   },
@@ -246,10 +246,10 @@
      "at": "2026-11-08T11:10+09:00"
     },
     {
-     "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wRkdZRGhhdHJ2NGpOWDV1MDAwNC1TYlVSeE5FOTZVQnlhaERDX2lRb0lfTUJxY1FKY0lFQkNvYkMzdEJvdDhyZnF3ZkdxS25wcHfSAVRBVV95cUxOd0RNem5LajJLb2E1X3FRWmYyTDY0MTh2dTlYNGZZMHdpdFFFS0Y3d1ZLTmMyVGhvdHdrajdwMDEtZW5xa19sN3pycThWakprbzJ1MGk?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-08T09:30+09:00"
+     "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」（ＡＦＰ＝時事）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUDBfdjhkcUllSjM3X0NuN1lVdFFuODNQUnpWM1FNb013eS1PTURoS2FNUE9lVnJ3aFF3WC14bnpwWjY2RUhXdUFQQXcwajRBSHBBY280eGJZQUJqU2xXOFRiZ1pkRlJlOGlobHVzel9uV3BoVld2NUVHNnBUQlk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-08T09:46+09:00"
     },
     {
      "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
@@ -316,6 +316,12 @@
    "at": "2026-11-08T15:41+09:00"
   },
   {
+   "title": "愛知で震度５強の地震 県内も震度２「南海トラフとの関連性低い」",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2xqeW1JNTJDZm83ckozRkJ6SVM5TElObGhXdkxiZkhlUUxjS2w5LXBjbm1WYmpfQVduRXFvZnhmYTE4NXlZczhlU0hZVVZCSDU1akJ6dlVkTDBtSUZKY3lMUmVWejJjS01nek5UVS1YeTQ3SF9nSmhMNTZmU1o1Qg?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-08T15:41+09:00"
+  },
+  {
    "title": "未明に愛知で震度5弱の地震 県内も震度2「南海トラフとの関連性低い」（tvkニュース（テレビ神奈川））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRDNaTXdRdExNTXA5OUM4dk5sdEdWbWRfZzZPSGw0eTg2aWp1TzRENGlJN3VKRER3bzRTbmtlR0oydmpDY3NRbWlTTy15VDZRdjI0ZG80aFNWck40MW5CTjZQckY0eFFEcTBXUEotTG01UlB3MGRXYXZTWVFTMUE?oc=5",
    "source": "Yahoo!ニュース",
@@ -338,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TamFhd3V5X3BXX3prQk9HVlJPcW9xSTJ5VUplQTU4Y2pmOVJLSm9lRDkzX0JQUUhub2ROc2M1Y3R6Z3QxNmo5WHZXZw?oc=5",
    "source": "TVer",
    "at": "2026-11-08T14:26+09:00"
-  },
-  {
-   "title": "気象庁「1週間程度は地震に注意」 南海トラフ“関連低い” 最新の社会ニュース【随時更新】",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VRHY5SWZOMUhuRWdPMTgzZHp1MzkxY0g3X1dwNDlrSlJjRldTbmxJalBnNS05SE1pZHRFNGZzY2lJSU1aMnBWekFGZXREV1JKOFBzZ0lhNnJySGM?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-08T13:12+09:00"
   }
  ],
  "outage": [],
@@ -369,10 +369,22 @@
    "at": "2026-11-08T12:35+09:00"
   },
   {
-   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vdVF2d00wNndyaWlqUDhKUVpXRm5yWTFvOXZBWDBySDc2Nm1Sc05tUDRVUHo3UEpEWlJwWmg3SmYxN3BtNHctYkFobHFDMnI0ZWFWRUJpNUtQdzZ2?oc=5",
+   "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdEJsZ21odF9US0xrU3FqYVdNY2tKbXRuc3FmUGxXNUE3RDhLazlDa2pNc0xsWFlRSWlJRHBVcnl3SHUzV0VpdVFQZjdQelFzYm5jVndrbWRNbHZnVTZLbzFheFdEUVA2T0s5RFFpc00wcmNXMHBYYTRNWjByTHpVUloxWHJ3OFQzeXc?oc=5",
    "source": "山陽新聞",
-   "at": "2026-11-08T09:13+09:00"
+   "at": "2026-11-08T08:52+09:00"
+  },
+  {
+   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwNm1xVnhDRkdEV1FiYzE2aThydHBaSmVYaUpuaG5TbVFuRmlTTE5LdnVtVUtPSWJ0WDE1ME9jWTRDUXlZb0NyRDJtRFZDU252dlBfOXBsajNvTzgtQUJ4eGR3RTJHOVllT0FxdlR6NFYwUnA2?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-08T07:25+09:00"
+  },
+  {
+   "title": "三井ダイレクト損保、サイバー攻撃で最大23万4,000件の個人情報漏えい、氏名・住所・車両情報や保険契約の補償内容も対象",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWdyS0dQOEtldGFjWUJUZXpFYXAwQVc0REhpbnRpSFppWVhIeUVONFFRZ1JlekV2ckFYTlNYa1A1bVM4ck1wbjRzemgyZ1ZjLTg2VWgwMVZaOGZTcXJxN2dBNzEta2d3SEZ0bld1ODFmNGNSN1lXRmNHQkd6dHREdHBEQU5TLVladUlqQzlJcXR5OFBZM1FzZDk1WGQ0SGF0RWc?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-08T16:21+09:00"
   },
   {
    "title": "資生堂、肌測定システムに不正アクセスで個人情報2,515件流出 問診データ・肌測定結果も外部持ち出し",
@@ -417,12 +429,6 @@
    "at": "2026-11-08T13:41+09:00"
   },
   {
-   "title": "クラウド・ホスティングサービスを展開する使えるねっとに不正アクセス、顧客情報が漏えい 共有サーバーでWeb更新データ・メール消失、VPS127件も調査|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWF1ei1uTnEyRnY1dnZTUC1BUkVYMmU5QUVOQmQ5TEhYeERBYW5DdGg5bjJOd2lOS09TT28yZGxMQmRpX3JrZTZNX29qNWRfRFlud3N1Tks5ZVhtNVFqTDNINURvMFpZUUVlV1Fadk5nMTB2dEpGUUI3UWFIdXVodUxtdzRLOEI2X1dtQlJHM2NpdzlDOU9YdEIxZXVHTjIwa0NWWFRIZw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-08T13:18+09:00"
-  },
-  {
    "title": "パ・リーグ5球団でメールアドレス1万3711件流出 「アララ」への不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBROE9tQmtvZ3hjeU9UNWlscWlRa084bjh6N2t5d3N2Y3RtWFhqeDN2ZG13Vjd6aTZHRWF4YUtTSEtIZkhCTU8xa1V5dkpPSTg?oc=5",
    "source": "khb東日本放送",
@@ -439,16 +445,17 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOV9yUXFLelNxZktkZkJzRmZYQlkyRGZ2N2RYQ0tKeWE2RHQ4ZW9yY3pqSTdNeFo2ektoZlpaX2hhQW9sYkk5YTBocHJFcmN0S0E?oc=5",
    "source": "月刊私塾界",
    "at": "2026-11-08T12:23+09:00"
-  },
-  {
-   "title": "ウィルズ、「ネットマイル」に不正アクセス 最大約549万人の個人情報が漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05bENTODlHb1VUSkFZNWtVNWFhUzJqeVZQQ0EtNHczREo1WUt3WDBRMjFpMkZzTUxJQlE1VUh1MnRFVWx3ejRKdkRTOTQ5Unp1QUFaU1F2Y0NRbjg5dW13?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-08T12:07+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米軍 イランの陸路監視を強化 タスクフォース設置",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXltWkhxNlNrbU16Nk9CVTBCUFRaTTlqSnFPNUJsV2dxNkRza2NOcWkyZENGU29obE9iY3NXMEg2TnBraThzRWtlckNqWXdxd2N6bFZBSjNTaW5mQjZPb1BJMTRjU0IzNURZMVFkOGJzODZQdUJabF93Wmx3QU90Sw?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-08T15:31+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "高市総理「日本国の総理として金正恩氏と会って率直に話し合う」 国民大集会で日朝首脳会談に意欲",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83RlpJUXJBbVNSdGN1dmI0TmtTZ1pIeDBXRXV4dXNNZDQ3Z0NHczBjdnZ6eGVTdTN6a1MxT2xFVWRSdWNnX1pRSGF0akhMWHprZGt0QnJNcnZCTG13a09IZlBzb3FPRF93Qkx1ajd3?oc=5",
@@ -548,13 +555,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米軍 イランの陸路監視強化 タスクフォースを設置 兵器などの輸送阻止狙う",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZjUzcFotcnJyNFNzcS1sVEVTOWdJcjJPVW5vS2ZuTmQ4cFY5Mk9JMmwtX002bDUtZmljY0xZOGVQVDdCcjBhT3lvUUxXaUMydXRfQkxVbmI2R1JSS2QzYzc0WnV6UGRZcDdiZTYtTURZMGVHLW9BTE9R?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-08T10:32+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5cjY5YUdJY1loZUJadWRxQmVvdDZhME9EYURzU1VHamsxakJfSUhwaUU1VW9tclFIbXBOaDhMTVVGZzJYZkF1V1FhcjgzTG9OYktjSS1IcjM2OE16VXcwMWpCU2QwV3NzR3k0eDhFdw?oc=5",
    "source": "山陽新聞",
@@ -562,10 +562,10 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wRkdZRGhhdHJ2NGpOWDV1MDAwNC1TYlVSeE5FOTZVQnlhaERDX2lRb0lfTUJxY1FKY0lFQkNvYkMzdEJvdDhyZnF3ZkdxS25wcHfSAVRBVV95cUxOd0RNem5LajJLb2E1X3FRWmYyTDY0MTh2dTlYNGZZMHdpdFFFS0Y3d1ZLTmMyVGhvdHdrajdwMDEtZW5xa19sN3pycThWakprbzJ1MGk?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-08T09:30+09:00",
+   "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」（ＡＦＰ＝時事）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUDBfdjhkcUllSjM3X0NuN1lVdFFuODNQUnpWM1FNb013eS1PTURoS2FNUE9lVnJ3aFF3WC14bnpwWjY2RUhXdUFQQXcwajRBSHBBY280eGJZQUJqU2xXOFRiZ1pkRlJlOGlobHVzel9uV3BoVld2NUVHNnBUQlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T09:46+09:00",
    "topic": "ロシア"
   },
   {
