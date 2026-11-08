@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:30+09:00",
+ "updated": "2026-11-09T00:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -216,10 +216,10 @@
      "at": "2026-11-08T14:22+09:00"
     },
     {
-     "title": "北朝鮮、国家ぐるみでハッカー育成 中学生200人選抜 攻撃成功で平壌にアパートも",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TWZsTTJ6UndMRVJMc1AtRkZ2T0cxOTdFY1A4MUVqY0JIQ2FKdnJVMFp1dTgxVTIweFFfRVU3XzhBbTgtQ3BPUHN0M1VNdnlKNGhmcHJGdV9SYkJwTklnQnVEUklFT1hCcENQMW9lUXVtNUdjVVE?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-08T13:35+09:00"
+     "title": "【サイバーテロ】世界を襲う北朝鮮エリートハッカー集団…「小学生からのIT英才教育」育成の実態を専門家が語る",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVFTdnlrU05PZ0hGa1p3Y25pdWMxN0NDWjFyN2RCLV9ZWExNNjJmTjVwWXMtYU4zekFQT19RZHFGZ3F2WVV0SjBpbG5yaXBEMHROTmM0NUd3UHBGU1ROZEJCY1lnZHpiX1owd1daMTlLUmlSNkxiVzVWZnFFbXBNVNIBhgFBVV95cUxNOHh2LWZBZ00yTnJmeV9SSU1aYV9QZVIwNmNzQlNRNGdCMkpKUUpPN2tUZ1I0eUp2VlN3TWtBV29RY2JIcWs3RzVQVXNQczgtOUdGQWdaMnBiQTdqdmx4M0dUaE9BUjlZZmczS2g0aDI4ZHJ4VmVQdU5naEQ1RF9YS2FtSTdYUQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-08T14:09+09:00"
     }
    ]
   },
@@ -310,6 +310,12 @@
  ],
  "nankai": [
   {
+   "title": "紀宝町で南海トラフ巨大地震想定した防災訓練 三重",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wWlJ5NVE3U3M2Z2ZXWnZUQXdiaWtlTlhzN2I5X0wzVTdDclJEUVlPMWNsWjJpSlU2VXB6N2d2cVEzZG5hMlhHODBNUDctXzhvcTcyOHFHbDRFdnpsdm1j?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-09T00:35+09:00"
+  },
+  {
    "title": "三重・紀宝町で総合防災訓練 南海トラフ巨大地震を想定 県の防災ヘリを使って負傷者を救助する訓練も",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfa2tMVS1rTWhlS0w1MmR2c1U0RXdWd0V4a3doRURHRUwwdmVhWEppU0txWVp5MTRSTk83Q0hfdTVtNlY4Y0ZiTjVPOUhGZzZxZGZybzM5YkstMjl2ZG42QVQyak5CQW9GREo5MlJTcmRpSnZs?oc=5",
    "source": "Excite エキサイト",
@@ -338,16 +344,17 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43S29kYXE5Zi1WdlNfYnN3Rm8tMFpxY1c2Ymg3aTl6ZWJUVjNSaUVSNlN6M2tkeHJLM2RFNWlNX0VTT1lpR3ZVYnpZbUtMQVZ1Z2t5c21qdGh1MlRUYWZsREJZWQ?oc=5",
    "source": "テレ東BIZ",
    "at": "2026-11-08T17:20+09:00"
-  },
-  {
-   "title": "南海トラフ巨大地震など大規模災害備え住民が防災訓練 瀬戸内",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wV1R1aFRraDZfWWc4ZGlDb2c0MF9qeWdWaHhFUUVXaGZHS3lmNGVFcDc5MUNOVHVDeTIzQndOaUpoUWNFc1lDaEJvVndNN3JyWjFGRHc3VldRSWJEeFM0?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-08T16:52+09:00"
   }
  ],
  "outage": [],
- "japan": [],
+ "japan": [
+  {
+   "title": "弾道ミサイル落下時の行動について",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlOUtTbWFfaGJWNVJRLWxvYW9VV1Y4TFgwRko4NEUxTTNyOTlRS2ZMa0RZWm9xTmU2cS1CbjFna3FWOHYwUGtGYnk0OUhfX3o5Z0k4SExKSGFjd0k4emNsaFdTQUJ6TzFRYzBpMzRxLTRRZw?oc=5",
+   "source": "西都市",
+   "at": "2026-11-08T12:31+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "Galaxy S26 Ultra、One UI 9.0で初期化後に設定画面が止まる不具合 Samsungが対処法を案内",
@@ -374,12 +381,6 @@
    "at": "2026-11-09T00:07+09:00"
   },
   {
-   "title": "欧州のスーパーマーケットへのサイバー攻撃で冷蔵システムへの安全なリモートアクセスの必要性が浮き彫りに、Secomeaが指摘",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoSW45SlpMQ0txSHVDcEdXbllkbGE0cENPczhaSDRaUTRJR1NNRzRJLW5EdDFyWS1KNzBYakhhRFRNaU02X2dpZg?oc=5",
-   "source": "ツーリズムメディアサービス",
-   "at": "2026-11-08T23:30+09:00"
-  },
-  {
    "title": "Keplrウォレット不正アクセス被害 Google・Appleログイン利用者に拡大",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55LUtYWS13bVI2ZzdBXy1NN3h5eWEwQ1RFN3dWY2w4NmpQS21SWWlVWS1hMENNMkdJNElKbFZlUExJcUdMM1VDTk5vYjlLT1l3b05TWnhtRnZ0RS1DN3dyZjFOMmlJUUU0ZnA1Z095RFRqWXppM2VIVQ?oc=5",
    "source": "BeInCrypto",
@@ -404,6 +405,12 @@
    "at": "2026-11-08T21:18+09:00"
   },
   {
+   "title": "欧州のスーパーマーケットへのサイバー攻撃で冷蔵システムへの安全なリモートアクセスの必要性が浮き彫りに、Secomeaが指摘",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WRHdkY3BtTUpHOUpwT1p0YUtMcmFoeEpOc2NRZURZdUtIaXZ4eUVFRzFGV1ZMb1VJN1pjRFQwVTk1RjhnYmlvMFRJYWRnbmVNT0pSTzhmUllxdVVE?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-08T21:09+09:00"
+  },
+  {
    "title": "小学館「小学館ID」など199万3,665件が情報漏えいのおそれ アララへのサイバー攻撃で",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeXpuSW5NSlp6NFNnc2lzUW9rZTlSMFdFamhKMnNIMGk0QzQ2WFZ0dEVZRU9TOHFOUjdNR0toeDRXSzRaUUdVeXlWcUctdVFlT3lhX1BqNGE3X29RVHNrZXlKZnRETWJzMlBqcGZYSjY0SVpMNmRzRWw1TjlKYlpvV2dqQnRRaVNR?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -422,6 +429,12 @@
    "at": "2026-11-08T19:27+09:00"
   },
   {
+   "title": "口座番号など漏洩か ゴルフスクールに不正アクセス（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xVUpaSnZtR18yTGNObHl2azhkcTM3VnBnZ2J5N3FNYUl2TktGZWFLQk9lUlZzMlFELUF3Tzg5VmxvMTNTSlF2bHdIYk5jS1NPN0ZncmJmenhzNi1hTjVXUFBZSGJDM1B1eVp4ZFRIcnk4TVE1RTkyWFJ5WmRYOGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T19:15+09:00"
+  },
+  {
    "title": "ピッチョーリがバレンシアガ退任、無印良品が不正アクセスの調査結果を発表…【5分でわかる主要ニュース 11/1〜11/7】",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMktPYmo3NVpTY0JYM3lENk1tbWZmZ095emZmbmVwSXlmaE41anpodGVUbHgyVXVvSHlUY3JiOFJFY1l2YWlSY0pEcFk0dHQtRWpfZ1oxcFZPT2w3dEwtZzNDMHV3QQ?oc=5",
    "source": "Fashionsnap.com",
@@ -432,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uWWdCZUNnYnBZVHc4YkdERkE4czR6VGh6akkzcXZpN1pvck9TOHJ2WDlhTFdlSjRzdkVkUHFZS09mVnBoVHFSOERDOWE3X2w4WXdBYnloRTJ6WFFaWGVCRzZOdkJvd3ByUU9WbnZGTVJ1ZXNJ?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-08T18:25+09:00"
-  },
-  {
-   "title": "【専門家解説】「人間業ではない」相次ぐサイバー攻撃 「人の手ではブロックできない」AI時代の新たな脅威と身を守る方法とは 専門家「慌てて行動するのが一番危険」 [写真ギャラリー6/6]",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZZ2k3SXRNdWRKRVJmcE5qSENVWDlUQ0FVMXpxOC01ZEJkV0QtV1JRNjM3WnVERU9UYS1yZy1ycXEzOWJVZEtjMjBXanRLZ0tDVzZuM0FoWlVBeEd5MjV2enlTdlhEbnhFMVF4Mw?oc=5",
-   "source": "ktv.jp",
-   "at": "2026-11-08T18:12+09:00"
   }
  ],
  "osaka": [],
@@ -541,18 +548,18 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "【サイバーテロ】世界を襲う北朝鮮エリートハッカー集団…「小学生からのIT英才教育」育成の実態を専門家が語る",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVFTdnlrU05PZ0hGa1p3Y25pdWMxN0NDWjFyN2RCLV9ZWExNNjJmTjVwWXMtYU4zekFQT19RZHFGZ3F2WVV0SjBpbG5yaXBEMHROTmM0NUd3UHBGU1ROZEJCY1lnZHpiX1owd1daMTlLUmlSNkxiVzVWZnFFbXBNVNIBhgFBVV95cUxNOHh2LWZBZ00yTnJmeV9SSU1aYV9QZVIwNmNzQlNRNGdCMkpKUUpPN2tUZ1I0eUp2VlN3TWtBV29RY2JIcWs3RzVQVXNQczgtOUdGQWdaMnBiQTdqdmx4M0dUaE9BUjlZZmczS2g0aDI4ZHJ4VmVQdU5naEQ1RF9YS2FtSTdYUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-08T14:09+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ウクライナ国防軍、ロシア軍のドローン指揮所を4か所攻撃",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFJOXAtYXlKLTZrbllZZWJ2ZFN2Qk5LaDdxYzU5NVlOQTlDbEVURGJGNEZWRmlLSTJFdkIzWlZUUEJGeWk0cnZVMmFYQlBjcktnMVNLY3ZRVk1XYTg0d1VZdUFkajZ5WC1fcmtBSXlSTTMteWNtWE5HdEVKQTBPaW5JUXB5UndRaXNyMFA1X0FBd1d5TFVfR2p2R2k1dWpx?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-08T14:09+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "北朝鮮、国家ぐるみでハッカー育成 中学生200人選抜 攻撃成功で平壌にアパートも",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TWZsTTJ6UndMRVJMc1AtRkZ2T0cxOTdFY1A4MUVqY0JIQ2FKdnJVMFp1dTgxVTIweFFfRVU3XzhBbTgtQ3BPUHN0M1VNdnlKNGhmcHJGdV9SYkJwTklnQnVEUklFT1hCcENQMW9lUXVtNUdjVVE?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-08T13:35+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
@@ -600,7 +607,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」5件",
-    "北朝鮮：「攻撃」2件",
+    "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「侵攻」4件",
     "欧州・NATO：「爆破予告」1件"
    ],
