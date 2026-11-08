@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:15+09:00",
+ "updated": "2026-11-09T03:28+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-09T03:15:00+09:00",
+   "place": "茨城県北部",
+   "mag": "3.5",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-08T20:47:00+09:00",
    "place": "熊本県熊本地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-08T02:30:00+09:00",
-   "place": "茨城県南部",
-   "mag": "3.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -144,9 +144,9 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "中国の反スパイ法で逮捕され6年の実刑判決を受けた元日中青年交流協会理事長 「今も忘れない」と語る日本大使館の冷たい対応、国会議員や記者への伝言を頼むも実現せず",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTjNNNWhoejNIWW5wWER0YXhlRHZESWhyOTVTWHNLelpGSWloR0JHWHdBaVRvRXZCR2dYNGhEdkJoYzN6VmhFWV92ZHpFMzBNWXN1Mk1jVWJCZkk2cnN1dGVZaTlhcXlkTzFTNm13?oc=5",
-     "source": "au Webポータル",
+     "title": "中国の反スパイ法で逮捕され6年の実刑判決を受けた元日中青年交流協会理事長　「今も忘れない」と語る日本大使館の冷たい対応、国会議員や記者への伝言を頼むも実現せず",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BZWZvN2xLWXNPbG9waWJ4VHZaZ2k3SXJRckNuRWtPSFJDMlhhT1pvRF9tNzRScV9BdENjN3JhQ2lTaFNkYk1MUW8xUnVTdWE3VTFCMXJTcTVrNGpVbmszMkNCOXXSAWpBVV95cUxPdVduYnhpbHV3RlpCREZFMEtITWlJelpzeG1VQlVwUGtpY3pIbnVyeE5EMWFIRlZyV0M5VkhSakN6YV9vNWs2T2l4aHJaOFJEc1dwelI2UEVVR2FZejFyelBOWjhoT3VrbVV3?oc=5",
+     "source": "Infoseek",
      "at": "2026-11-08T11:15+09:00"
     },
     {
@@ -174,10 +174,10 @@
      "at": "2026-11-07T00:25+09:00"
     },
     {
-     "title": "台湾侵攻能力さえ疑わしくなる中国「軍人不信」の徹底的粛清",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aa0dhNzloU1VQTTFZYnVmajJMcW5Md1daVUZKLUlLRHAxMUplWUgyTHhZRXVEZDZoUTJiVGdkR0pEWmF3SFJsbGlYV01DTmhzUGdLREFrZk0?oc=5",
-     "source": "現代ビジネス",
-     "at": "2026-11-06T11:52+09:00"
+     "title": "高市総理“台湾有事発言”から1年 中国政府が改めて日本側を批判「誤った言動速やかに是正を」 APECでの日中首脳会談は厳しい見通し",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KZTFMMllEOEFiWThMY3F3aXhjSVBJUHc0MDBlWGdmbHZiOTcyTWVKVGFPbmY3M3VlbUlGaEhSUzR4bzduVGw0MnBxWVVrSXlKUHplMDBqZC1SLXgx?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-06T19:20+09:00"
     }
    ]
   },
@@ -300,10 +300,10 @@
      "at": "2026-11-07T20:17+09:00"
     },
     {
-     "title": "欧州の旅客機数十便に爆破予告…アイルランドの放送局にも爆破脅迫",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmZtRkQwaW1tZWYxeFM0NkdzZFJfaFVNVmk0MlAycThER0UtbGgwcmhlbFdGLTNXUl9NLWZLRkVVenRXeXpUZFJaS0RZT1ljX2FOU2lPTDEtU19sQnhiNVJLaDNyOFM5RmRPTWtxcHhjaTRfYlBKYVpHSXlET1JLQ01MakxBeU9qUk5mRGFkd3h1ZW5sSzl4UEFwdlA0eVd5d1QtNDI1ZVU2MDdvUmR0T2d4SUdsd3F1?oc=5",
-     "source": "VOV World",
-     "at": "2026-11-07T18:17+09:00"
+     "title": "爆破予告を受け、フランス当局が4機の航空機を目的地変更",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzk4VHh3ekFKTFhseDJMWmxRM21Rd0tKLXNpNFE0ODlpaUVwTVBkdXNxLWgxOUliQmJkVUtUOFNpbTltdUZHcUozajBid0JOLXFqSXRDM1ZYd0hrRzl5YzdtUVlZNVJQak1uNGxVQUhWbkZxd3I0Z2thWTZSSENzTUJEUGtQeENOTW1GNEtnblRFaEZ2dEtoVGpIdnNMNWcyV3UxNg?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-07T14:49+09:00"
     }
    ]
   }
@@ -367,12 +367,6 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOVJQRnF1cUVfX1BEUERtU3F6cmxOaUE0Xy1DWGNlSDl0YVc5VGM2OTJLbU1mXzZrWFNFQzdOa1FXTXRoS25FQkMxRFIyQkhRQ2ZIRWtYaW9zZ0dDN0JhcjlVU3hGVnl0cDZicnhQU2pYZEdLMHB6eU1hTWtJOC1ReG5ydjdkc3B4NzlZNFJ4RU5rZl9jMWx2R3ZrN3o2N3RSV2xlSjhlZ0lwamV0TzZHejMyUVQ4b1llX1FOZG5kVnh1dmlfWmdlaHBxbTcySTViaUlXV3kzUHRMXy1LZzA2bDRBbDhIUHR2alctMmRR?oc=5",
    "source": "Mix Vale",
    "at": "2026-11-08T22:42+09:00"
-  },
-  {
-   "title": "サイバー攻撃から会社を守る JCV無料セミナー12月9日(水)開催",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tYmFJaFA0UmNqX0ZGM29UOExmeUhHUkdXbTk5VHBmWVhvMTZIZFVrQzE1R3JHSzdlWEQzdFo3VW84YWRfa095TWhsUmM1UVFiVEpEOGtzMzhkZw?oc=5",
-   "source": "上越妙高タウン情報",
-   "at": "2026-11-09T01:46+09:00"
   },
   {
    "title": "セキュリティ団体JNSAが不正アクセス被害、管理者情報など最大1万5,128件漏えいの恐れ",
@@ -445,6 +439,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xVUpaSnZtR18yTGNObHl2azhkcTM3VnBnZ2J5N3FNYUl2TktGZWFLQk9lUlZzMlFELUF3Tzg5VmxvMTNTSlF2bHdIYk5jS1NPN0ZncmJmenhzNi1hTjVXUFBZSGJDM1B1eVp4ZFRIcnk4TVE1RTkyWFJ5WmRYOGM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-08T19:15+09:00"
+  },
+  {
+   "title": "ピッチョーリがバレンシアガ退任、無印良品が不正アクセスの調査結果を発表…【5分でわかる主要ニュース 11/1〜11/7】",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMktPYmo3NVpTY0JYM3lENk1tbWZmZ095emZmbmVwSXlmaE41anpodGVUbHgyVXVvSHlUY3JiOFJFY1l2YWlSY0pEcFk0dHQtRWpfZ1oxcFZPT2w3dEwtZzNDMHV3QQ?oc=5",
+   "source": "Fashionsnap.com",
+   "at": "2026-11-08T19:00+09:00"
   }
  ],
  "osaka": [],
@@ -576,9 +576,9 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "中国の反スパイ法で逮捕され6年の実刑判決を受けた元日中青年交流協会理事長 「今も忘れない」と語る日本大使館の冷たい対応、国会議員や記者への伝言を頼むも実現せず",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTjNNNWhoejNIWW5wWER0YXhlRHZESWhyOTVTWHNLelpGSWloR0JHWHdBaVRvRXZCR2dYNGhEdkJoYzN6VmhFWV92ZHpFMzBNWXN1Mk1jVWJCZkk2cnN1dGVZaTlhcXlkTzFTNm13?oc=5",
-   "source": "au Webポータル",
+   "title": "中国の反スパイ法で逮捕され6年の実刑判決を受けた元日中青年交流協会理事長　「今も忘れない」と語る日本大使館の冷たい対応、国会議員や記者への伝言を頼むも実現せず",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BZWZvN2xLWXNPbG9waWJ4VHZaZ2k3SXJRckNuRWtPSFJDMlhhT1pvRF9tNzRScV9BdENjN3JhQ2lTaFNkYk1MUW8xUnVTdWE3VTFCMXJTcTVrNGpVbmszMkNCOXXSAWpBVV95cUxPdVduYnhpbHV3RlpCREZFMEtITWlJelpzeG1VQlVwUGtpY3pIbnVyeE5EMWFIRlZyV0M5VkhSakN6YV9vNWs2T2l4aHJaOFJEc1dwelI2UEVVR2FZejFyelBOWjhoT3VrbVV3?oc=5",
+   "source": "Infoseek",
    "at": "2026-11-08T11:15+09:00",
    "topic": "中国・台湾"
   },
