@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:30+09:00",
+ "updated": "2026-11-09T01:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -334,9 +334,9 @@
    "at": "2026-11-08T19:00+09:00"
   },
   {
-   "title": "未明に愛知で震度5強 各地で被害 “南海トラフ”との関連性は…（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZEExaEEyd1pVTGRpV0tudHB3Mm5tUG1KMTl3QlRjT3d1OVByc3ZtRHRhYlhwa0ViZmNOV3dPLWI5bTJtLWhYN0JLRUJ5RzllaWRlY3BrS19XdmJGNlU1LUlXYVRXU0tvVTFUNERGQU16QllhZzNWTjEtWlByRUE?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "未明に愛知で震度5強 各地で被害 “南海トラフ”との関連性は…",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aOEdyRlJnQnVmZlNja09ZSG0tVERFeE9OcDZuR1UwWUl2VlZQNTFwdzFWYWxfV1QxMEhHcHU5b2JaQjFINEhhN1ZKZkEzRnRVQ3VjenNvSGxPdDZYelk1TTg0VG1lbjZQaW5tYjY4aktjdw?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-08T18:54+09:00"
   },
   {
@@ -347,7 +347,14 @@
   }
  ],
  "outage": [],
- "japan": [],
+ "japan": [
+  {
+   "title": "弾道ミサイル落下時の行動について",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlOUtTbWFfaGJWNVJRLWxvYW9VV1Y4TFgwRko4NEUxTTNyOTlRS2ZMa0RZWm9xTmU2cS1CbjFna3FWOHYwUGtGYnk0OUhfX3o5Z0k4SExKSGFjd0k4emNsaFdTQUJ6TzFRYzBpMzRxLTRRZw?oc=5",
+   "source": "西都市",
+   "at": "2026-11-08T12:31+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "東海以西の128信金でシステム障害、19時すぎ全面復旧 ホストコンピューター故障が原因：ニュース",
