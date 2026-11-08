@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:45+09:00",
+ "updated": "2026-11-08T14:50+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -356,28 +356,22 @@
    "at": "2026-11-08T12:35+09:00"
   },
   {
-   "title": "NTTドコモ 通信障害が解消 通信が集中したことが要因 不正アクセス確認されず",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lTnRsNEhLa3hjbW1JZmI1eEJrUHI4T2ZOZGtad3JLTm8yeU5lQzlmS3oxNFFvU3BfeUR4R3NQVWxtQXJmTTFHTXl2YTZoNUE?oc=5",
-   "source": "khb東日本放送",
-   "at": "2026-11-08T12:06+09:00"
-  },
-  {
    "title": "西日本128の信用金庫でATMやネットバンキングなど使用できず オンラインシステムで障害発生 “サイバー攻撃の可能性は低い”",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04RXdhWmhqczNjQzZIdVRrS3RmdEhIdnBUdk5FNkxmVWVSaU1DZG9uX05fOVAxRWRkN2xlVksyWFRidkJxNTZQN3FBZUVicUZHZzZOLWVWSTBzdUhTVzZuUXpiV1NodkozQnROTXpxMXJIdFh30gF6QVVfeXFMT1MtRkYtRHRBaW1JYWo3UFJ3Z2JSMXRKTU1yMlZwZFFaVWZLQUFLb0ljSVhXNmZlSno3M2xKYXVNSXJOcW5zMnlpQ1cwbV9RdE1TUDN2SFhVUGtIX2RpbzJIc2Q0ZFkyal90WFRBLWhXWWRjWWt3MjBmSmc?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-08T11:46+09:00"
   },
   {
-   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwNm1xVnhDRkdEV1FiYzE2aThydHBaSmVYaUpuaG5TbVFuRmlTTE5LdnVtVUtPSWJ0WDE1ME9jWTRDUXlZb0NyRDJtRFZDU252dlBfOXBsajNvTzgtQUJ4eGR3RTJHOVllT0FxdlR6NFYwUnA2?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-08T07:25+09:00"
-  },
-  {
    "title": "PayPay証券 システム障害で日本株とETFの全銘柄で取引停止 14日の取引開始にあわせた再開に向け復旧進める",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mM0hlQVI5YWRXVHpQWUExakREeU1GNDdpUEVvSEhCcEJXNkZTb1VERjJFQXFHZDdPNWJpeHVXUjFQVmVzVWZBOGtHUnpLemJtbkpJV3lSVmw2RUVx?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-08T06:15+09:00"
+  },
+  {
+   "title": "ゴルフのレッスンカルテなど漏えいか 最大21万件超 ステップゴルフに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TWFHbFZaMEJpVkdfLVZBMHBaM29vLXEwV1BQb09hVlpjM1lOc2ZmbHViQzlSTXdqeWdCXzhYcmdtZkxOVVNlX1VKbV9ycnYxQUtQZEtZSmZDU0owRU9MV0tVMmVmTnZ5RjdCS05DcUNDdw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-08T14:39+09:00"
   },
   {
    "title": "GMOサイバー攻撃で初会見 脆弱性指摘も抜本的対策とらず 不正侵入に2か月気づかず セキュリティ上の重大問題が相次いで明らかに【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
@@ -438,6 +432,12 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NU2g0WFhIaE9pUTRvSEdLb0wtMVc5NW83aDRWZVdob3JDT1pPRzNVek1mY1hwYmhjLVpSTVloeGdLbVdsMFBfb1FMT1VDWXRZRWlR?oc=5",
    "source": "東京報道新聞",
    "at": "2026-11-08T11:04+09:00"
+  },
+  {
+   "title": "ＡＩサイバー攻撃 再現実験 ３６分で機密情報流出",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uNlRISndPVXNXMDhvVkE5ZG16OXJ2M3FSak83WDNTdWpQNDg3Rnp1cEJYeXhjejBza3lPbU5scF9rSWhkQ3dtdWF2ZzJMTVk?oc=5",
+   "source": "福島民報デジタル",
+   "at": "2026-11-08T11:00+09:00"
   }
  ],
  "osaka": [],
@@ -587,7 +587,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモ 通信障害が解消 通信が集中したことが要因 不正アクセス確認されず」"
+    "「西日本128の信用金庫でATMやネットバンキングなど使用できず オンラインシステ」"
    ]
   },
   "japan": {
