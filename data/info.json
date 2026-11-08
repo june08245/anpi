@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:15+09:00",
+ "updated": "2026-11-08T12:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cnIzXzRfOTFfenlmc0dFTGtWSFEtb3ZCRVJlcVJacThVd0g2V0VpWDZ6dWU3YUwzRFo5c0lNeV80VkZGcFhhSkFrOTFOWXRyV2x5WUV4QVlCZmd1Q29RSDExX2V1bndHaFp1RWtnYjNuVWphXzd2WlFqWVZQcmc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-08T12:13+09:00"
+    },
+    {
      "title": "米軍、イランの海上封鎖突破を試みた貨物船を無力化",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRWRncHQ5MEczaVc0VkUtekw2c3FOck9CQk45ZndHZ2ExYml3ZWJ3UzVNOHNUdk1QYkp4bjA0WDNlVFJiSTZyOFo2alhqdkFvS0FvOU9yZGVhYVp6RkVoZGtCUXFtVWNwV1E?oc=5",
      "source": "Investing.com - FX",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzRCd0t3NE5kSnJrVWlGdGJHVUZOU3lLazg4c1NPQVhwV3doX0I0eDhaQndValU3b2VLUXB6aEwwWVd4NWFuUFVSRGRiR1RSZ1RMMi0xeTRtTzJsYmFXTkZtb0lzLTRUeXdtLV9DMk9CRlg1aEZtWVlIV2p6QVZFZFl0cDFVaTg?oc=5",
      "source": "Reuters",
      "at": "2026-11-08T07:04+09:00"
-    },
-    {
-     "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ (TBS NEWS DIG Powered by JNN)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3QyMDRRb1RidVowLUo5SHpiRUZGR1RJSVgwbXUzdVdjSDROOE5lQ0VuMGpkank3T3p1NVQzbkpPODB6UUhsWmJhajQtcWlVV1M3Zk0wejd6YkVuNk51dF9kNVJod3BPNmZ3NU43bTN0VkxuZzBfanJvdGtOelFOaVpGTWlRNDN6QUx3bjVn?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-08T06:18+09:00"
     }
    ]
   },
@@ -328,22 +328,22 @@
    "at": "2026-11-08T11:55+09:00"
   },
   {
+   "title": "南海トラフ地震との関連性「低いとみられる」と気象庁 愛知県で震度5強の地震",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11emhfYnVRamFvYmE0TF9LQmJYbFpRbTQ5cmJVbUVTczNaM3htZHptalNFZGtKQUR1Q0Y2bGxpWWd1Q1lrVWVnMEZ6MA?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-08T11:55+09:00"
+  },
+  {
    "title": "【震度５強地震・専門家の見方は】気象庁「南海トラフ地震とメカニズム異なる」",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PLU9oUldiRVRKZ1ZxYml4ZnRFUHZ4Y1JXWXMxYUhMUTk5Y0tPb1NaVmlHNzNfX3ozUHhtclVnWlpjWHZKa2FzV0JkODFNQmdHaENHTg?oc=5",
    "source": "中日新聞Web",
    "at": "2026-11-08T11:24+09:00"
   },
   {
-   "title": "愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TMEtQaFUyaTlCd08tLVNFWWU4UUxQWkNUNGxXaDZpcnNrMnlmSEFYTjR2VXBqX2N3VmdwSFdoZFBHMEMwMWozRV9KMGZ1cDN3UFpmVzFmTzhORHcxUFJ0TXNzMnU1X2QzVTEtQ0Z4QjRaTm1YdnZoa3pWS1JxQkU?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81QS1Jb09VYzBHN3U0MXBhRFhGMW92LWRvOGFkY0R5ZXVXQlNZYTZJRTlmdkcyVmN4cWhzZ3hqWXpZZ3g4T3l6b3JIajV1WU9senFaeQ?oc=5",
+   "source": "ABEMA TIMES",
    "at": "2026-11-08T11:15+09:00"
-  },
-  {
-   "title": "愛知で震度５強、気象庁「南海トラフ地震を過度に恐れる必要はない」…想定震源域内だが異なるメカニズム",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yZXYzY0Nycnk5a2xSSU0tcUhkVVZUbE16dmwtaWJvNEo5bnpUTlFwLUNDNzBrRHI4TC1xYlJQZVptVmVYNzFMTzdmZmxGZUQ5Y19lbnNocnVqa0JueUxZa283QXd3UQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-08T11:11+09:00"
   }
  ],
  "outage": [],
@@ -368,10 +368,22 @@
    "at": "2026-11-08T06:15+09:00"
   },
   {
+   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ocVpEd2RyMUdXa1puWWRKbTJFTW05Sk1JTXI3SlJWYzMwaXdQLWVIbGg3clU1TVRkdnZSbGRWODdHSDBIRWR0YldMM3JDaWNZSXdkUHJZVHFRTldRM2tJMFJtUl9tMzRFd2dRdXhpaTE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-08T06:09+09:00"
+  },
+  {
    "title": "ケンタッキー、実施中のキャンペーンを中止 ニチレイグループのシステム障害の影響",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOTVDREVoNDF1M0tmV211aHpkOEF3T1l5cHF4WGVxZzZsSllXTE5FOFJzd0pBOE54Yk5VVU1VbWwwdDN4LWVNLTBBaW1fLWRkYXFKYWxVNXptaDBsOW1ISlRLUko0NDlnTlJXOWViZU5Kdw?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-07T19:52+09:00"
+  },
+  {
+   "title": "学研、委託先への不正アクセスで個人情報漏えい 影響範囲を調査",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOV9yUXFLelNxZktkZkJzRmZYQlkyRGZ2N2RYQ0tKeWE2RHQ4ZW9yY3pqSTdNeFo2ektoZlpaX2hhQW9sYkk5YTBocHJFcmN0S0E?oc=5",
+   "source": "月刊私塾界",
+   "at": "2026-11-08T12:23+09:00"
   },
   {
    "title": "オンライン麻雀「Maru-Jan（マルジャン）」、不正アクセスで会員185万5,578人のパスワードが流出 管理システムの機能悪用、11月7日にサービス再開|セキュリティニュースのセキュリティ対策Lab",
@@ -426,22 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YcnhodHdVVnBfaGt5c3ZnVm9ZNnY4Ny0yMk5zUTRXNF90cHQxd0xRZ3pZLWpvQ2VEcENhMWtTOTZKaEF3NGtIcWpJRjZzYW1CY3RJWS0wNS1NTTNKYlNz?oc=5",
    "source": "千葉テレビ放送株式会社",
    "at": "2026-11-08T10:16+09:00"
-  },
-  {
-   "title": "AI自動化したサイバー攻撃 わずか36分で機密情報ハッキング 再現実験で見えた脆弱性対処の重要性",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FYm40NEdRdG16b1dBR09meHRYX1NfTWxJalExb3pHZWpPaDdqN1N6SUpOYk1ZRmcxZ3VULXZ3WDJqalhPYTBhcEtFN1pCOEhmR1B4S0I5ZHBYbFVUa2c?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-08T09:00+09:00"
-  },
-  {
-   "title": "GMO熊谷社長、サイバー攻撃全内幕にカネと女 『文春』『新潮』が特集 花田紀凱 花田紀凱の週刊誌ウォッチング（1103）",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4NzdqTTN6SHIyUzJ3MU5fWElGbnQ4QTEtT0lyeURtQkJXQVZYS2E0ekZHM21JcWUzc09Td2VIS0tfLXhTTExSYXVXTl9yWGhzc0NaY2s2cXl3VFhZdHk3alNGaGhldlYzTC1jR2NxRUZEbGk1NlE?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-08T09:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cnIzXzRfOTFfenlmc0dFTGtWSFEtb3ZCRVJlcVJacThVd0g2V0VpWDZ6dWU3YUwzRFo5c0lNeV80VkZGcFhhSkFrOTFOWXRyV2x5WUV4QVlCZmd1Q29RSDExX2V1bndHaFp1RWtnYjNuVWphXzd2WlFqWVZQcmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T12:13+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ロシアの高官議員がウクライナへの欧州軍の展開の意図を警告",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWm5yX0EwR19uV2IwalJRT3JsQ242Z083cENjMjBDa3hwTVhtQ2szczIzMlp0NmZQMVh2MlJHZkdqd3cyTng5YVlBQV9kZjdXTTZqZHhIN3QzSE1VSjhDODZsU2VOVmtwYTdGcWlOQjZVcTlobzFyVkZ3ME5TSlJiTVlIWHF2S0tWTmxWd29veHkwZWlOa19ReUJwbHZpbU1Ca2ZqczJXRFJZLThUbzI2U0JybzV5UHM?oc=5",
@@ -555,13 +562,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ (TBS NEWS DIG Powered by JNN)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3QyMDRRb1RidVowLUo5SHpiRUZGR1RJSVgwbXUzdVdjSDROOE5lQ0VuMGpkank3T3p1NVQzbkpPODB6UUhsWmJhajQtcWlVV1M3Zk0wejd6YkVuNk51dF9kNVJod3BPNmZ3NU43bTN0VkxuZzBfanJvdGtOelFOaVpGTWlRNDN6QUx3bjVn?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T06:18+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "高市首相は頭を下げずに習近平と会談できるのか？中国の「3つの要求」に隠された本当の狙い",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uM1FRVFBjOWlqNnVuUXBCZkVTTkZya01fUENSRkYtWFpkcEhIc1Y1VWVxWW53Vm8weTRIWEl3MUdJQkpiZ1AyR0JNeENnRkZSS0xaWXdB?oc=5",
    "source": "ダイヤモンド・オンライン",
@@ -599,17 +599,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」3件",
+    "イラン・アメリカ：「攻撃」「封鎖」4件",
     "北朝鮮：「攻撃」「ミサイル」2件",
     "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
-     "title": "米軍、イランの海上封鎖突破を試みた貨物船を無力化",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRWRncHQ5MEczaVc0VkUtekw2c3FOck9CQk45ZndHZ2ExYml3ZWJ3UzVNOHNUdk1QYkp4bjA0WDNlVFJiSTZyOFo2alhqdkFvS0FvOU9yZGVhYVp6RkVoZGtCUXFtVWNwV1E?oc=5",
-     "source": "Investing.com - FX",
-     "at": "2026-11-08T10:43+09:00"
+     "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cnIzXzRfOTFfenlmc0dFTGtWSFEtb3ZCRVJlcVJacThVd0g2V0VpWDZ6dWU3YUwzRFo5c0lNeV80VkZGcFhhSkFrOTFOWXRyV2x5WUV4QVlCZmd1Q29RSDExX2V1bndHaFp1RWtnYjNuVWphXzd2WlFqWVZQcmc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-08T12:13+09:00"
     },
     {
      "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
