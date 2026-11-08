@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:30+09:00",
+ "updated": "2026-11-09T03:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "PatriotとAsterは今冬のウクライナを守れるか――ロシアのミサイル量産に追いつけない欧州",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEhqcFhlbjU5RmZKa1JFNTlXYWVFMVVIbDlOSVJjWEFGeE1aQktBemwyeW5pMFFzYTdlamVTeGtCTkhNUF9xN2F0VXZacEYtempyVlZJMkEwR1pDZHlzRms5WVlFWlpHRXdCNXRmRGltQ29xY0R0NmFwRkRKdWxTZw?oc=5",
+     "source": "Meta-Defense",
+     "at": "2026-11-09T01:00+09:00"
+    },
+    {
      "title": "ロシア、ウクライナで軍事通信にラースヴェット衛星を使用",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkdFOGRkUEFTelZNRzVETWJSeWIyWTVPMW42OWdYWW03aHd2RFg1MTN0RTRwTk9zVVRsRlJwVmxMcFQ1ZW1GRV9NNGM5ZVhyUkMydkVoVC1wbjYtcU5Nc214RDM1eGtwdU95ZjBsWnpKOEFlZTQ3WnFLT0ozdHpxSDFwd283cWdBNEd6bnAweDlodTdhdEI4ZWFEb3lFRmFqeG5oTER4Nm5VQ0hkdU9CY3NXUQ?oc=5",
      "source": "IDNFinancials",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTURhbTBvQmRwR2NpYV9oUTRNVU1PUzFleTdhTGNRNTdMZVlZWXhLb0xGdXRCbTd2djJHY1ZhTkxXYk14SkQydUdjbjZWM08yVVNiXzRieGo5MkNCTnRrcTR2Q05CcVBfZW9pVTRieEtjVnFqazcwWEFGRmFJb3czVmtyd1BrTDg?oc=5",
      "source": "Yahoo!ファイナンス",
      "at": "2026-11-08T19:36+09:00"
-    },
-    {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月8日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IUFJldEFqLTh0RnhmNFQ3X3V4Z0s4eVBDS1NPTDZsT2VPUUV2eHFoWU00TF9ROE96aGNmNTU1NlczdHlyamVRdW52Y2NPSDJMXzlKMmJicWdzSG9IR2xJ?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-08T17:09+09:00"
     }
    ]
   },
@@ -450,6 +450,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "PatriotとAsterは今冬のウクライナを守れるか――ロシアのミサイル量産に追いつけない欧州",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEhqcFhlbjU5RmZKa1JFNTlXYWVFMVVIbDlOSVJjWEFGeE1aQktBemwyeW5pMFFzYTdlamVTeGtCTkhNUF9xN2F0VXZacEYtempyVlZJMkEwR1pDZHlzRms5WVlFWlpHRXdCNXRmRGltQ29xY0R0NmFwRkRKdWxTZw?oc=5",
+   "source": "Meta-Defense",
+   "at": "2026-11-09T01:00+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "米軍、対イラン海上封鎖破った貨物船を攻撃",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1NVbEJwM2RyWWJwNGxwTlg4Q0tLaWtIQVRialpTbVVNTnAwc1NOcjVMOFdUaWNSdGZlREZZbWo3ZGphMWRPallKdzNxN0RvMS1tOTY1OXA5V1U3RGdVcVNZc3BEY2ZPQzBKam9mY0o3M0VBY2Z3cGJjYnJsY25iUFkyWXNnWXA5?oc=5",
    "source": "조선일보",
@@ -534,13 +541,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月8日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IUFJldEFqLTh0RnhmNFQ3X3V4Z0s4eVBDS1NPTDZsT2VPUUV2eHFoWU00TF9ROE96aGNmNTU1NlczdHlyamVRdW52Y2NPSDJMXzlKMmJicWdzSG9IR2xJ?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-08T17:09+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "「終戦」「大規模攻撃」「経済圧力」…イラン戦争で割れるホワイトハウス",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUJGQ05fYW50SDJfMVQ4bUd1VnpqQkdLRUJzMWJFbEM5ZS0xQzFGeU01UFc1ZlRzWWRPYzZkLWNzZWs3SUFmSUxOa2tvUlRoZWhpVWx6cXNNeUVrWjF6OUx6ZzhLNTRYT2k2NnlqZmtrNS1zcDJzQlFxY2VHdXVHOUNWaXpnbVQz?oc=5",
    "source": "조선일보",
@@ -608,7 +608,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」4件",
     "北朝鮮：「攻撃」2件",
-    "ロシア：「攻撃」「侵攻」3件"
+    "ロシア：「攻撃」「ミサイル」3件"
    ],
    "items": [
     {
@@ -624,10 +624,10 @@
      "at": "2026-11-08T21:18+09:00"
     },
     {
-     "title": "ロシア軍、ウクライナ南部ドニプロを無人機攻撃　死者１名、負傷者３名",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEVGN3AybXRadE9PSTlVWllHb1JMVWhrbWV1cERIM0RvUER6a2RSY0ZwLXIySDNQV19LY1BobVFxR1NhbW11Z1h4VXNKZmM2ZXRoWkNRN3R1OHUwcE9YUDhCYTN3UmF0NGNCUzB3ZGlUVHdqaTliYkFpc0Fmanl0U2N2cnFhMUpXbl82NmZvczhnS3pWdExTUGFFM0pWdjgzeWlwQjVmTUZwa213MXdxOV9WdUh2cE1iSnJrbFdxTVFwbzA3OUljUdIBzgFBVV95cUxQdk1wUklkdFpZb3pCc0REVW9GNGVKTzNGQUd6WG5NR0NNbTVhZ0pUODZaR05ZX01uOUNZMHpEYWtndnlFWEJpclBLYnVuMHU2SnFGOG9oVWRQb1dMYTZja3lrT0RrNXI3R043UERDb1NkaWw1Y1pNa00zeWdub29YWC14ODJObkticUh5Mlh2UGp4Zkw4TEl2dmIzZnpMa0xDWXRnc0RsRS1LQ2xOMl9DYzBMWURpVWpUYm92T29zMjdYai1YaURTc0ZRRF9udw?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-08T20:14+09:00"
+     "title": "PatriotとAsterは今冬のウクライナを守れるか――ロシアのミサイル量産に追いつけない欧州",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEhqcFhlbjU5RmZKa1JFNTlXYWVFMVVIbDlOSVJjWEFGeE1aQktBemwyeW5pMFFzYTdlamVTeGtCTkhNUF9xN2F0VXZacEYtempyVlZJMkEwR1pDZHlzRms5WVlFWlpHRXdCNXRmRGltQ29xY0R0NmFwRkRKdWxTZw?oc=5",
+     "source": "Meta-Defense",
+     "at": "2026-11-09T01:00+09:00"
     }
    ]
   }
