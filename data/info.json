@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:30+09:00",
+ "updated": "2026-11-08T19:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-08T19:39:00+09:00",
+   "place": "日向灘",
+   "mag": "3.0",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-08T11:21:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-08T01:04:00+09:00",
-   "place": "静岡県西部",
-   "mag": "5.7",
-   "maxi": "5強",
-   "maxiRank": 6,
-   "osaka": "3",
-   "osakaRank": 3,
-   "title": "顕著な地震の震源要素更新のお知らせ"
   }
  ],
  "world_topics": [
@@ -186,14 +186,14 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "米国務省、対北朝鮮制裁の徹底を各国に要請──バイナンス流出受け＝報道(NADA NEWS)",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3Zkc3Qzbk5CTC1ia2tmYWFheEtVamN0eFRqS2l5ZGRiTG40NTlnZXFKczFWMGZfVmJuaGlFZXBNYU5nMHBqNDR6cTBMRmk0aUN1QWFOUkF6b0p2N1JsTjVSUmEtMFlwNmRlZExYZ2w4T0hLM1J2UDNDcHdlWTROTkR6eWJCem8?oc=5",
-     "source": "Yahoo!ファイナンス",
+     "title": "米国務省、対北朝鮮制裁の徹底を各国に要請──バイナンス流出受け＝報道（NADA NEWS）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZ3hTTlA1ZDc4S3pxVm52aTE1YWpFT1ZkeDlDTDg2TG40YXVrTDJCdjhKWmVQYW5KSEJjMkFkZDBxeWk5dGlhZFJLSEYzQW5FYTVKQmJkbFlqVjFsY2pIMWpucWlDR0QxQkE2SGVfTlVXakRmbGJuREJlZGU0MVk?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-08T19:10+09:00"
     },
     {
      "title": "北朝鮮の金成男書記、中国共産党幹部と相次ぎ会談…首脳合意の履行を確認",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMlBtVFA2S09kUXdXTGl0WmVFNVFfUnUxZlVrVGY2clZLSFRWNDJjNUdDRGIyNGJBcDJ2NnBlNW9Ed3BzZm5nSEZucm5fZ3FrUUFmZlBoM3hCMTdJeHZqZms5V3ZLdzVJWWtORFo2V3JVUdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-08T17:22+09:00"
     },
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "【今週の注目トピック(3)】話題のテーマ『ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ』など(フィスコ)",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTURhbTBvQmRwR2NpYV9oUTRNVU1PUzFleTdhTGNRNTdMZVlZWXhLb0xGdXRCbTd2djJHY1ZhTkxXYk14SkQydUdjbjZWM08yVVNiXzRieGo5MkNCTnRrcTR2Q05CcVBfZW9pVTRieEtjVnFqazcwWEFGRmFJb3czVmtyd1BrTDg?oc=5",
+     "source": "Yahoo!ファイナンス",
+     "at": "2026-11-08T19:36+09:00"
+    },
+    {
      "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月8日の動き）",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IUFJldEFqLTh0RnhmNFQ3X3V4Z0s4eVBDS1NPTDZsT2VPUUV2eHFoWU00TF9ROE96aGNmNTU1NlczdHlyamVRdW52Y2NPSDJMXzlKMmJicWdzSG9IR2xJ?oc=5",
      "source": "NHKニュース",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMzJhY1hBcnl1aFJWWVcxS292NW1YdXZWd2VTU19UcFJVZFViMHJHNEdqQzR3c1dlekM4QzFpUHd2dmprc3JOYmplSFd4SHMxVnFzbEIzQ2xSa05Hc1J3cklxZHFINFVrSWxQRVgxRUlZSHVHOUpoUUV0TERXZkU?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-08T11:10+09:00"
-    },
-    {
-     "title": "ザポリージャ地区で、ロシア軍が救助活動中の救助隊員を攻撃した",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3NvcEpYYVR1MWhMMUVpSmw1dFFmeWVXZGxxYXdoUElmRlV2b3YzTjR5TzMyb1N5QnFOdUxMRnRSNE1sdmVHT2oyRDFBbFp4a3dibEt3ZXhPUDFkcjlFSmJpRkRMOUlHQVl6c011cXNQam5GdzVPZXRtSVJSSjhmWmxqaHQ5aVVjbU9kSElDclowamtRZUplU2ZaNzRheVRvZlFRX2FwWmFTcnM?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-08T10:11+09:00"
     }
    ]
   },
@@ -450,6 +450,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "【今週の注目トピック(3)】話題のテーマ『ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ』など(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTURhbTBvQmRwR2NpYV9oUTRNVU1PUzFleTdhTGNRNTdMZVlZWXhLb0xGdXRCbTd2djJHY1ZhTkxXYk14SkQydUdjbjZWM08yVVNiXzRieGo5MkNCTnRrcTR2Q05CcVBfZW9pVTRieEtjVnFqazcwWEFGRmFJb3czVmtyd1BrTDg?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-08T19:36+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "海上封鎖の拡大、米軍はイランの陸上通商の規制を狙う",
    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQU0REYWVsTmhGV2V6ejFRTS1NeFF5X2ZLTFlMNW9GSkp6WDRvelBZMk9LQ0FzZEZuQl9DR3A5UEcxY2lWUGpfSl9NeGdXRlh5X1BhdUgxaXIzTFpidnhXZWt0STg0bXNGZzMyOFJKYWF1QkRwUVNiS0wzdGZRTV9SanpnTlJhQk1uWlNKMVlGZUNDX0o1Vm9zRWhGd1Q1aVZHMFRFUlg2aHFIelNydko0OGQ3MWVJZEdsQ1hldy1OdG14UmdOVjRVR3RJbndoeGJGek9KUGtCNDdNZXk0bGczOVNEVW9mMlVxUkkza1hVcE1oR1Y3cjhWNmY3aWZWQWVCZDZDNlNtV1pKMXVwb1ZZTHNJWUhMd29YaWo4M2FLbDR0b2pXQ0sxclFLR2t4RlNHeHpHMUlBSFUwSHRfOWtUZVJ4bGpBdVRyTUNmMExHcU9WTzlpQllsczdPc1h3RTZhWWR6TEwtWF9HTTlNRkpVVjVjNjBuR3c?oc=5",
    "source": "アラブニュース",
@@ -457,15 +464,15 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米国務省、対北朝鮮制裁の徹底を各国に要請──バイナンス流出受け＝報道(NADA NEWS)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3Zkc3Qzbk5CTC1ia2tmYWFheEtVamN0eFRqS2l5ZGRiTG40NTlnZXFKczFWMGZfVmJuaGlFZXBNYU5nMHBqNDR6cTBMRmk0aUN1QWFOUkF6b0p2N1JsTjVSUmEtMFlwNmRlZExYZ2w4T0hLM1J2UDNDcHdlWTROTkR6eWJCem8?oc=5",
-   "source": "Yahoo!ファイナンス",
+   "title": "米国務省、対北朝鮮制裁の徹底を各国に要請──バイナンス流出受け＝報道（NADA NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZ3hTTlA1ZDc4S3pxVm52aTE1YWpFT1ZkeDlDTDg2TG40YXVrTDJCdjhKWmVQYW5KSEJjMkFkZDBxeWk5dGlhZFJLSEYzQW5FYTVKQmJkbFlqVjFsY2pIMWpucWlDR0QxQkE2SGVfTlVXakRmbGJuREJlZGU0MVk?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-08T19:10+09:00",
    "topic": "北朝鮮"
   },
   {
    "title": "北朝鮮の金成男書記、中国共産党幹部と相次ぎ会談…首脳合意の履行を確認",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zMlBtVFA2S09kUXdXTGl0WmVFNVFfUnUxZlVrVGY2clZLSFRWNDJjNUdDRGIyNGJBcDJ2NnBlNW9Ed3BzZm5nSEZucm5fZ3FrUUFmZlBoM3hCMTdJeHZqZms5V3ZLdzVJWWtORFo2V3JVUdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQdIBVEFVX3lxTE9kM0hleWF2Vm9KYkszdUZDZWJzZXQwUkZXMHNPcDVVX0MyNTBwaFhwQV9nVVhxYXpmVkpOU1UzWGdPQ3VrS2N5UW9nMDk3ZVFERkNmQQ?oc=5",
    "source": "AFPBB News",
    "at": "2026-11-08T17:22+09:00",
    "topic": "北朝鮮"
@@ -576,13 +583,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ザポリージャ地区で、ロシア軍が救助活動中の救助隊員を攻撃した",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3NvcEpYYVR1MWhMMUVpSmw1dFFmeWVXZGxxYXdoUElmRlV2b3YzTjR5TzMyb1N5QnFOdUxMRnRSNE1sdmVHT2oyRDFBbFp4a3dibEt3ZXhPUDFkcjlFSmJpRkRMOUlHQVl6c011cXNQam5GdzVPZXRtSVJSSjhmWmxqaHQ5aVVjbU9kSElDclowamtRZUplU2ZaNzRheVRvZlFRX2FwWmFTcnM?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-08T10:11+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "高市首相は頭を下げずに習近平と会談できるのか？中国の「3つの要求」に隠された本当の狙い",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uM1FRVFBjOWlqNnVuUXBCZkVTTkZya01fUENSRkYtWFpkcEhIc1Y1VWVxWW53Vm8weTRIWEl3MUdJQkpiZ1AyR0JNeENnRkZSS0xaWXdB?oc=5",
    "source": "ダイヤモンド・オンライン",
@@ -598,9 +598,9 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "静岡県西部で震度5強（11/8 01:04）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
@@ -625,10 +625,10 @@
      "at": "2026-11-08T13:35+09:00"
     },
     {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月8日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IUFJldEFqLTh0RnhmNFQ3X3V4Z0s4eVBDS1NPTDZsT2VPUUV2eHFoWU00TF9ROE96aGNmNTU1NlczdHlyamVRdW52Y2NPSDJMXzlKMmJicWdzSG9IR2xJ?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-08T17:09+09:00"
+     "title": "【今週の注目トピック(3)】話題のテーマ『ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ』など(フィスコ)",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTURhbTBvQmRwR2NpYV9oUTRNVU1PUzFleTdhTGNRNTdMZVlZWXhLb0xGdXRCbTd2djJHY1ZhTkxXYk14SkQydUdjbjZWM08yVVNiXzRieGo5MkNCTnRrcTR2Q05CcVBfZW9pVTRieEtjVnFqazcwWEFGRmFJb3czVmtyd1BrTDg?oc=5",
+     "source": "Yahoo!ファイナンス",
+     "at": "2026-11-08T19:36+09:00"
     }
    ]
   }
