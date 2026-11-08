@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:15+09:00",
+ "updated": "2026-11-08T11:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-07T09:34:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-08T11:21:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-08T10:53:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +94,6 @@
    "osaka": "3",
    "osakaRank": 3,
    "title": "顕著な地震の震源要素更新のお知らせ"
-  },
-  {
-   "at": "2026-11-08T00:42:00+09:00",
-   "place": "岩手県沖",
-   "mag": "4.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -108,9 +108,9 @@
      "at": "2026-11-08T10:43+09:00"
     },
     {
-     "title": "米軍　イランの陸路監視強化　タスクフォースを設置　兵器などの輸送阻止狙う",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXdhai1Bc2p2aHlzcFZrbDRkUEVPUGxMQnROMzZmd1MwTU1VaXBQQVdMV1JyUXd3YTVqajVfWDBTWUxMUGh2aUpwMFJONGdXcEV6emFFSkxyX1pkOWZpWk5DZ0IzTThtTUdhcHJranBxVUtDTE9ZVm5VY3AzUWl1TVl4SXFpd9IBiwFBVV95cUxPSVJNZEpQVTV4VGZXSFpyN0VTX1M2Q0tIVm5OZFVpWWlBdklaTnJ2d2E1NkRYN3huSThQeVJ6dDFrVlE2eEM2dGcwYTRJSzkwaDhfSW4yempwWnB2LTZ2REdIbFQ2cEk5ZVVFX1ZfOE5pZDBzM0N3NHUyWGNtaDA3QVpleTQyUDFMSmRr?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "米軍 イランの陸路監視強化 タスクフォースを設置 兵器などの輸送阻止狙う",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZjUzcFotcnJyNFNzcS1sVEVTOWdJcjJPVW5vS2ZuTmQ4cFY5Mk9JMmwtX002bDUtZmljY0xZOGVQVDdCcjBhT3lvUUxXaUMydXRfQkxVbmI2R1JSS2QzYzc0WnV6UGRZcDdiZTYtTURZMGVHLW9BTE9R?oc=5",
+     "source": "テレ朝NEWS",
      "at": "2026-11-08T10:32+09:00"
     },
     {
@@ -132,10 +132,10 @@
      "at": "2026-11-08T07:04+09:00"
     },
     {
-     "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ (TBS NEWS DIG Powered by JNN)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3QyMDRRb1RidVowLUo5SHpiRUZGR1RJSVgwbXUzdVdjSDROOE5lQ0VuMGpkank3T3p1NVQzbkpPODB6UUhsWmJhajQtcWlVV1M3Zk0wejd6YkVuNk51dF9kNVJod3BPNmZ3NU43bTN0VkxuZzBfanJvdGtOelFOaVpGTWlRNDN6QUx3bjVn?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-08T06:18+09:00"
+     "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GQVlRM3JLRHhEYlJ3cC03V3dtN1ZZOFJhSEpubE9tbDByZkR4d05GTXo4aFFyeUc0LUFaOFRDTUk5a1JEUnA3NkRDTVlkeExEdEVJWUNvcw?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-08T04:26+09:00"
     }
    ]
   },
@@ -186,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "GPSジャミングが脅かす空の安全、北朝鮮のサイバー工作：2026年10月に最も読まれた10本のストーリー",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pMWE4Q3VJZWZZVzZxaU13dGs0VjFzWDM1aWFTZ05OSnhTWlRPUVF4RXZnOWNKMnhUSURDV2ZxWW92Xy14dEs5b01wT1IwQWZvckw2SDJTMFBXbS0wem1PaUZPbzVYSUJXSjBv?oc=5",
+     "source": "WIRED.jp",
+     "at": "2026-11-08T11:00+09:00"
+    },
+    {
      "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wRkdZRGhhdHJ2NGpOWDV1MDAwNC1TYlVSeE5FOTZVQnlhaERDX2lRb0lfTUJxY1FKY0lFQkNvYkMzdEJvdDhyZnF3ZkdxS25wcHfSAVRBVV95cUxOd0RNem5LajJLb2E1X3FRWmYyTDY0MTh2dTlYNGZZMHdpdFFFS0Y3d1ZLTmMyVGhvdHdrajdwMDEtZW5xa19sN3pycThWakprbzJ1MGk?oc=5",
      "source": "AFPBB News",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjE4VDVoVElQN3hGczIwbHlyZFhEWXdtNjhkOHk4WXplS3lLbHM4eFdsalpsWUlERUNBa0RIVDVabjNzcnhrVm9BSDdOa1ZSY2NLZVZJOC1ldTFYbFlpa1ZzWkJkUkk4NE93S1lGa1Y2V0wzRGhUR29HZ090Zk1VMnc0UHZKX2xD?oc=5",
      "source": "조선일보",
      "at": "2026-11-08T06:31+09:00"
-    },
-    {
-     "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-08T00:19+09:00"
     }
    ]
   },
@@ -227,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシアは「スターリンク電波妨害装置」を前線の駐車場やトレーラーに隠している…ウクライナ大統領のドローン担当顧問が注意喚起（海外）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMzJhY1hBcnl1aFJWWVcxS292NW1YdXZWd2VTU19UcFJVZFViMHJHNEdqQzR3c1dlekM4QzFpUHd2dmprc3JOYmplSFd4SHMxVnFzbEIzQ2xSa05Hc1J3cklxZHFINFVrSWxQRVgxRUlZSHVHOUpoUUV0TERXZkU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-08T11:10+09:00"
+    },
     {
      "title": "ロシア、和平協議前に攻撃激化 北朝鮮製ミサイルも使用か ゼレンスキー氏「圧力狙い」",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wRkdZRGhhdHJ2NGpOWDV1MDAwNC1TYlVSeE5FOTZVQnlhaERDX2lRb0lfTUJxY1FKY0lFQkNvYkMzdEJvdDhyZnF3ZkdxS25wcHfSAVRBVV95cUxOd0RNem5LajJLb2E1X3FRWmYyTDY0MTh2dTlYNGZZMHdpdFFFS0Y3d1ZLTmMyVGhvdHdrajdwMDEtZW5xa19sN3pycThWakprbzJ1MGk?oc=5",
@@ -246,15 +252,9 @@
      "at": "2026-11-08T08:46+09:00"
     },
     {
-     "title": "ロシアは「スターリンク電波妨害装置」を前線の駐車場やトレーラーに隠している…ウクライナ大統領のドローン担当顧問が注意喚起",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUJjT3hzSVFjemJtNE9hQjVPRUVPMFpwcEs2QTNhWUdnTU5XbVk0TTdHN1hjMjhvTjdGbHk2Z24zYm1KcWc4a19IOFhRUmZ5THBDUExTN1JOVkkzektoX0tzOVdPekxTSkVZSzUwTDFpUFBnNnc0N3lzS1V0dXJick5sR2JhYVA3c1BXWFVIbw?oc=5",
-     "source": "Business Insider Jap",
-     "at": "2026-11-08T08:30+09:00"
-    },
-    {
      "title": "「お母さんは、もう君を必要としていない」ウクライナの子どもをロシア軍兵士に育てるプーチン政権「洗脳教育」の実態",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DdW9tZ2FlU2NJZlhUaVB5ZGEzbk5rRXZmSHB2enFRdURxSXpCX0QzUXktaUVIeG9oRm1BaW1JZFVRMXRmU2JablVBb3MtS2hVNUpv?oc=5",
-     "source": "集英社オンライン",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UkNHb1ZJZ19DV3lJSG40SXJTbU52NGtIbFNnOHlWY0lIVzhsMWNxVU5BbktVel9WdUR1Y3BxNlpNVzFybVJGdTdtR2U0aEZzYlFkazM2UFBvdXVReThKZlRaaHBuQmlQWUJhNHBHb2JhSVhIRjAxODFnaURReEk?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-08T08:00+09:00"
     },
     {
@@ -310,16 +310,16 @@
  ],
  "nankai": [
   {
-   "title": "愛知で震度５強、気象庁「南海トラフ地震を過度に恐れる必要はない」…想定震源域内だが異なるメカニズム",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iTklhc2hmcXkwQkQ0Sm5mWmxUc0lLTEl6Mk9ic2UyZmgxLUFTQ3h2MzVJMlBrNGNXWGVtUFRfdTNIMTVuOU5WbVEwRjFHNmhRTVJ2azZtdmxoVXZfZ1hrcTlFVExMNzE0UnF3Y0Fn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-08T11:11+09:00"
+   "title": "愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TMEtQaFUyaTlCd08tLVNFWWU4UUxQWkNUNGxXaDZpcnNrMnlmSEFYTjR2VXBqX2N3VmdwSFdoZFBHMEMwMWozRV9KMGZ1cDN3UFpmVzFmTzhORHcxUFJ0TXNzMnU1X2QzVTEtQ0Z4QjRaTm1YdnZoa3pWS1JxQkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T11:15+09:00"
   },
   {
-   "title": "愛知県で未明に震度5強 南海トラフ想定域も気象庁「プレート特段変化なし」",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUVJxVG55Q19nNWFheW8tR3JQcHBQMnJzTENKMlYxNEdaSFFGSGZUT1pzRm9CRldWWFJJWWRVQzNHczlnazBoLUZJZURkckJiTUstR1JFY2k0aFZHQWxrRkw5UDZVRGdJWjlkM0xnODR2SE9LR1hUcFJVSHhfY3BGN2UyNUxqQU00ckpMa1JpVXlBMUk1WXg2Vy1rUnRiX3ljN0k0dHNXMTJnbjBFV2REUjBESmU?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-08T10:44+09:00"
+   "title": "愛知で震度５強、気象庁「南海トラフ地震を過度に恐れる必要はない」…想定震源域内だが異なるメカニズム",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96N2pRZkxzR1NWUnBLNnhqcUxSZVNRT0RhcXhlV3pTeklCeDdlcFNZQzJsdlRQQ3JZY2p0UmU0bENZQVhwc3NZaVV5UWZ5dHB3alpkSDd3UFk2QmJQVVpJWE5iMVB4akUyOWNHOVFrY0NPdzlfbm0yLWZJMzhNdDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T11:12+09:00"
   },
   {
    "title": "【速報】愛知県知多市で震度5強 南海トラフの関連「低い」",
@@ -405,8 +405,8 @@
   },
   {
    "title": "パ・リーグ5球団でメールアドレス1万3711件流出 「アララ」への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Pc1FTakNzMjdXSFBjTHpyRUVxYnNHZDVGN2RIZ1p2UVpoVHZDSWc3UURPdjd4dUdLckQ3TlhJSVd6eWVjWEh4TXNOazZNdng3R2hEU2JVV0s1RWozYmxVdlpyV0hyRklM?oc=5",
-   "source": "HOME広島ホームテレビ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VUmh1V2h0UE1zaWNQam40YUJZcGpDaWNlU2sxWGU0cGxvTU83djZ0Qk02U1UyOHNnWEpBakFtNHdOeGdiS1JPWUdya3NuMHRYVmo4eU81Q0gzTFB3QlRGc2ZRTmx4bXBjMzVsQzg3NS1rQQ?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-08T10:27+09:00"
   },
   {
@@ -443,6 +443,20 @@
  "osaka": [],
  "world": [
   {
+   "title": "ロシアは「スターリンク電波妨害装置」を前線の駐車場やトレーラーに隠している…ウクライナ大統領のドローン担当顧問が注意喚起（海外）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMzJhY1hBcnl1aFJWWVcxS292NW1YdXZWd2VTU19UcFJVZFViMHJHNEdqQzR3c1dlekM4QzFpUHd2dmprc3JOYmplSFd4SHMxVnFzbEIzQ2xSa05Hc1J3cklxZHFINFVrSWxQRVgxRUlZSHVHOUpoUUV0TERXZkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-08T11:10+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "GPSジャミングが脅かす空の安全、北朝鮮のサイバー工作：2026年10月に最も読まれた10本のストーリー",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pMWE4Q3VJZWZZVzZxaU13dGs0VjFzWDM1aWFTZ05OSnhTWlRPUVF4RXZnOWNKMnhUSURDV2ZxWW92Xy14dEs5b01wT1IwQWZvckw2SDJTMFBXbS0wem1PaUZPbzVYSUJXSjBv?oc=5",
+   "source": "WIRED.jp",
+   "at": "2026-11-08T11:00+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "米軍、イランの海上封鎖突破を試みた貨物船を無力化",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRWRncHQ5MEczaVc0VkUtekw2c3FOck9CQk45ZndHZ2ExYml3ZWJ3UzVNOHNUdk1QYkp4bjA0WDNlVFJiSTZyOFo2alhqdkFvS0FvOU9yZGVhYVp6RkVoZGtCUXFtVWNwV1E?oc=5",
    "source": "Investing.com - FX",
@@ -450,9 +464,9 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米軍　イランの陸路監視強化　タスクフォースを設置　兵器などの輸送阻止狙う",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXdhai1Bc2p2aHlzcFZrbDRkUEVPUGxMQnROMzZmd1MwTU1VaXBQQVdMV1JyUXd3YTVqajVfWDBTWUxMUGh2aUpwMFJONGdXcEV6emFFSkxyX1pkOWZpWk5DZ0IzTThtTUdhcHJranBxVUtDTE9ZVm5VY3AzUWl1TVl4SXFpd9IBiwFBVV95cUxPSVJNZEpQVTV4VGZXSFpyN0VTX1M2Q0tIVm5OZFVpWWlBdklaTnJ2d2E1NkRYN3huSThQeVJ6dDFrVlE2eEM2dGcwYTRJSzkwaDhfSW4yempwWnB2LTZ2REdIbFQ2cEk5ZVVFX1ZfOE5pZDBzM0N3NHUyWGNtaDA3QVpleTQyUDFMSmRr?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "米軍 イランの陸路監視強化 タスクフォースを設置 兵器などの輸送阻止狙う",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZjUzcFotcnJyNFNzcS1sVEVTOWdJcjJPVW5vS2ZuTmQ4cFY5Mk9JMmwtX002bDUtZmljY0xZOGVQVDdCcjBhT3lvUUxXaUMydXRfQkxVbmI2R1JSS2QzYzc0WnV6UGRZcDdiZTYtTURZMGVHLW9BTE9R?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-08T10:32+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -499,13 +513,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ロシアは「スターリンク電波妨害装置」を前線の駐車場やトレーラーに隠している…ウクライナ大統領のドローン担当顧問が注意喚起",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUJjT3hzSVFjemJtNE9hQjVPRUVPMFpwcEs2QTNhWUdnTU5XbVk0TTdHN1hjMjhvTjdGbHk2Z24zYm1KcWc4a19IOFhRUmZ5THBDUExTN1JOVkkzektoX0tzOVdPekxTSkVZSzUwTDFpUFBnNnc0N3lzS1V0dXJick5sR2JhYVA3c1BXWFVIbw?oc=5",
-   "source": "Business Insider Jap",
-   "at": "2026-11-08T08:30+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米下院民主党、「新クラリティ法案」を協議／FBI、バイナンスの1兆円流出は北朝鮮の犯行と認定【日曜日に読みたい厳選5本】",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83S0NBUFZLMUhpdmhtaVFISHBiSC1HdDZyM3llVFJlOThlX3U4Tjh3TnJPNEd5bDg1Vi0xWTBpTnB3TElmalc0YnZ1aHBHYlNFeW1Oa2pVb3NBT195b2FmdkxRWEwzNExQejROTDdPU0FzWjkyOVBfMlZLaUVvalU?oc=5",
    "source": "Yahoo!ニュース",
@@ -514,8 +521,8 @@
   },
   {
    "title": "「お母さんは、もう君を必要としていない」ウクライナの子どもをロシア軍兵士に育てるプーチン政権「洗脳教育」の実態",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DdW9tZ2FlU2NJZlhUaVB5ZGEzbk5rRXZmSHB2enFRdURxSXpCX0QzUXktaUVIeG9oRm1BaW1JZFVRMXRmU2JablVBb3MtS2hVNUpv?oc=5",
-   "source": "集英社オンライン",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UkNHb1ZJZ19DV3lJSG40SXJTbU52NGtIbFNnOHlWY0lIVzhsMWNxVU5BbktVel9WdUR1Y3BxNlpNVzFybVJGdTdtR2U0aEZzYlFkazM2UFBvdXVReThKZlRaaHBuQmlQWUJhNHBHb2JhSVhIRjAxODFnaURReEk?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-08T08:00+09:00",
    "topic": "ロシア"
   },
@@ -548,13 +555,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ (TBS NEWS DIG Powered by JNN)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3QyMDRRb1RidVowLUo5SHpiRUZGR1RJSVgwbXUzdVdjSDROOE5lQ0VuMGpkank3T3p1NVQzbkpPODB6UUhsWmJhajQtcWlVV1M3Zk0wejd6YkVuNk51dF9kNVJod3BPNmZ3NU43bTN0VkxuZzBfanJvdGtOelFOaVpGTWlRNDN6QUx3bjVn?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T06:18+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "高市首相は頭を下げずに習近平と会談できるのか？中国の「3つの要求」に隠された本当の狙い",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uM1FRVFBjOWlqNnVuUXBCZkVTTkZya01fUENSRkYtWFpkcEhIc1Y1VWVxWW53Vm8weTRIWEl3MUdJQkpiZ1AyR0JNeENnRkZSS0xaWXdB?oc=5",
    "source": "ダイヤモンド・オンライン",
@@ -562,18 +562,18 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "アメリカ中央軍 イラン陸路の監視を強化 新たなタスクフォースを立ち上げ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GQVlRM3JLRHhEYlJ3cC03V3dtN1ZZOFJhSEpubE9tbDByZkR4d05GTXo4aFFyeUc0LUFaOFRDTUk5a1JEUnA3NkRDTVlkeExEdEVJWUNvcw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-08T04:26+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "航空機に続き放送局にも拡大した欧州の爆破予告 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlZDgzSnZ3VDVxVDdDX2VmRFdoU2hnWXJoYWRPRFRsWG05bmlHVzh1Q3FibnUtV2hYR3F2elBFQXFHbXlqMHV6VHdSWndCQWZ1S2c1bXlIaC1PajExaThCZDBadw?oc=5",
    "source": "재경일보",
    "at": "2026-11-08T03:15+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-08T00:19+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "欧州便に爆破予告、情報機関はロシアの攻撃を疑う",
@@ -600,7 +600,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」3件",
-    "北朝鮮：「攻撃」「ミサイル」5件",
+    "北朝鮮：「攻撃」「ミサイル」4件",
     "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
