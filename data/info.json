@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:50+09:00",
+ "updated": "2026-11-08T15:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米・イラン協議に曙光、原油価格が週間17%急落 コロナ禍以降で最悪の記録",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdzlZdDE4NmJZWHhPc3ZlbndYcjB2cVZpZ3J5d19TMUNRaGpxUmVsUTd4ek03dnBDWkZrVVBuT2tMVFpyN0REWjBfVGpDazdsUkZVUHlaZEVJTHJHTHRYOVBmZmpzUHN4OVg4RXlYS3cyUExG?oc=5",
+     "source": "BigGo ファイナンス",
+     "at": "2026-11-08T14:55+09:00"
+    },
+    {
      "title": "海上封鎖の拡大、米軍はイランの陸上通商の規制を狙う",
      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQU0REYWVsTmhGV2V6ejFRTS1NeFF5X2ZLTFlMNW9GSkp6WDRvelBZMk9LQ0FzZEZuQl9DR3A5UEcxY2lWUGpfSl9NeGdXRlh5X1BhdUgxaXIzTFpidnhXZWt0STg0bXNGZzMyOFJKYWF1QkRwUVNiS0wzdGZRTV9SanpnTlJhQk1uWlNKMVlGZUNDX0o1Vm9zRWhGd1Q1aVZHMFRFUlg2aHFIelNydko0OGQ3MWVJZEdsQ1hldy1OdG14UmdOVjRVR3RJbndoeGJGek9KUGtCNDdNZXk0bGczOVNEVW9mMlVxUkkza1hVcE1oR1Y3cjhWNmY3aWZWQWVCZDZDNlNtV1pKMXVwb1ZZTHNJWUhMd29YaWo4M2FLbDR0b2pXQ0sxclFLR2t4RlNHeHpHMUlBSFUwSHRfOWtUZVJ4bGpBdVRyTUNmMExHcU9WTzlpQllsczdPc1h3RTZhWWR6TEwtWF9HTTlNRkpVVjVjNjBuR3c?oc=5",
      "source": "アラブニュース",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EZjUzcFotcnJyNFNzcS1sVEVTOWdJcjJPVW5vS2ZuTmQ4cFY5Mk9JMmwtX002bDUtZmljY0xZOGVQVDdCcjBhT3lvUUxXaUMydXRfQkxVbmI2R1JSS2QzYzc0WnV6UGRZcDdiZTYtTURZMGVHLW9BTE9R?oc=5",
      "source": "テレ朝NEWS",
      "at": "2026-11-08T10:32+09:00"
-    },
-    {
-     "title": "対イラン海上封鎖 米軍が民間船をオマーン湾で攻撃、航行不能に",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNTExaN1F2ZjhpenBQZWpoaG5fbjF0Qm9sdXd6X1dfOGZWZnVkd0FHM3hsTjJPaGgyeWxxTU52WU9oWWR6cy1GMDRzUlN0OWdCMFFyT2ktQW5DYVBqVXpmaVZLWG5CRmJO?oc=5",
-     "source": "毎日新聞",
-     "at": "2026-11-08T09:13+09:00"
     }
    ]
   },
@@ -350,16 +350,22 @@
  "japan": [],
  "cyber": [
   {
+   "title": "西日本128の信用金庫でATMやネットバンキングなど使用できず オンラインシステムで障害発生 “サイバー攻撃の可能性は低い”",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnc19lWTB3dFhBdzZrYWk5M1hHdkxQNGcxb002b1dubnhGUU5EUHJCc1d3VmxNRHdHeUh2NzBpVUI4anoxWnVYVm1LN0R3OXdqVFJCVEVBU2pXYVpacEdBU1FRdU9FWXc?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-08T13:48+09:00"
+  },
+  {
    "title": "「うるう秒」廃止「うるう時間」導入へ 秒の調整での“システム障害”解消へ 今後は「1時間ズレ」が出た際に調整 | TBS NEWS DIG",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5amQ5cmVKZ2lzNGZvcDhpWEFtaHZKeEczamZ0UWZZbUN6TVRwOWRJSWNFYk4xbm8xYWpXamZNZks1SXFjd2dOckV2WFN2Tll2OC1JRWlsdk00NnE2?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-08T12:35+09:00"
   },
   {
-   "title": "西日本128の信用金庫でATMやネットバンキングなど使用できず オンラインシステムで障害発生 “サイバー攻撃の可能性は低い”",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04RXdhWmhqczNjQzZIdVRrS3RmdEhIdnBUdk5FNkxmVWVSaU1DZG9uX05fOVAxRWRkN2xlVksyWFRidkJxNTZQN3FBZUVicUZHZzZOLWVWSTBzdUhTVzZuUXpiV1NodkozQnROTXpxMXJIdFh30gF6QVVfeXFMT1MtRkYtRHRBaW1JYWo3UFJ3Z2JSMXRKTU1yMlZwZFFaVWZLQUFLb0ljSVhXNmZlSno3M2xKYXVNSXJOcW5zMnlpQ1cwbV9RdE1TUDN2SFhVUGtIX2RpbzJIc2Q0ZFkyal90WFRBLWhXWWRjWWt3MjBmSmc?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-08T11:46+09:00"
+   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vdVF2d00wNndyaWlqUDhKUVpXRm5yWTFvOXZBWDBySDc2Nm1Sc05tUDRVUHo3UEpEWlJwWmg3SmYxN3BtNHctYkFobHFDMnI0ZWFWRUJpNUtQdzZ2?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-08T09:13+09:00"
   },
   {
    "title": "PayPay証券 システム障害で日本株とETFの全銘柄で取引停止 14日の取引開始にあわせた再開に向け復旧進める",
@@ -432,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NU2g0WFhIaE9pUTRvSEdLb0wtMVc5NW83aDRWZVdob3JDT1pPRzNVek1mY1hwYmhjLVpSTVloeGdLbVdsMFBfb1FMT1VDWXRZRWlR?oc=5",
    "source": "東京報道新聞",
    "at": "2026-11-08T11:04+09:00"
-  },
-  {
-   "title": "ＡＩサイバー攻撃 再現実験 ３６分で機密情報流出",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uNlRISndPVXNXMDhvVkE5ZG16OXJ2M3FSak83WDNTdWpQNDg3Rnp1cEJYeXhjejBza3lPbU5scF9rSWhkQ3dtdWF2ZzJMTVk?oc=5",
-   "source": "福島民報デジタル",
-   "at": "2026-11-08T11:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米・イラン協議に曙光、原油価格が週間17%急落 コロナ禍以降で最悪の記録",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdzlZdDE4NmJZWHhPc3ZlbndYcjB2cVZpZ3J5d19TMUNRaGpxUmVsUTd4ek03dnBDWkZrVVBuT2tMVFpyN0REWjBfVGpDazdsUkZVUHlaZEVJTHJHTHRYOVBmZmpzUHN4OVg4RXlYS3cyUExG?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-08T14:55+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "「レガシー」追い求めるトランプ氏 中間選挙大敗でどうする?下院「政権への調査」が脅威に 北朝鮮外交 米中ロ3か国首脳会談に意欲か【風をよむ・サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUk9pYVJPbWlPMmRxcUFEZjhpSlVaUUJiLTFYT2VBaDF6NGg3WFlVbVFkcnp0LWtqS0dSMzlGTG9IdUUycjR6TDRBNVFudHpwMW1FLTZzUjloUGhZanZKSXZ2QkpOQ0VNRHR4czNIMW8tWHg0cnpRZjZmUmsxOUk?oc=5",
@@ -562,13 +569,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "対イラン海上封鎖 米軍が民間船をオマーン湾で攻撃、航行不能に",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNTExaN1F2ZjhpenBQZWpoaG5fbjF0Qm9sdXd6X1dfOGZWZnVkd0FHM3hsTjJPaGgyeWxxTU52WU9oWWR6cy1GMDRzUlN0OWdCMFFyT2ktQW5DYVBqVXpmaVZLWG5CRmJO?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-08T09:13+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ロシア軍攻撃に北朝鮮製ミサイル使用か ゼレンスキー大統領が明らかに",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nMFZKQ2EzSzc3SVRkY2NpbHhRWC1yQU9LdVE5ZFZWT2hkTkgxaWhBVGxFY1FPbGVyWlJySDRvdnAtNjMzU1dpaFd5OFNuUVFJSkhtcTRMeHdPT3R5VG8tMXNkVEZNNUN3MlhxTHpB?oc=5",
    "source": "Excite エキサイト",
@@ -599,7 +599,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」4件",
+    "イラン・アメリカ：「攻撃」「封鎖」3件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
