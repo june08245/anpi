@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:15+09:00",
+ "updated": "2026-11-09T01:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米軍、対イラン海上封鎖破った貨物船を攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1NVbEJwM2RyWWJwNGxwTlg4Q0tLaWtIQVRialpTbVVNTnAwc1NOcjVMOFdUaWNSdGZlREZZbWo3ZGphMWRPallKdzNxN0RvMS1tOTY1OXA5V1U3RGdVcVNZc3BEY2ZPQzBKam9mY0o3M0VBY2Z3cGJjYnJsY25iUFkyWXNnWXA5?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-09T00:39+09:00"
+    },
+    {
      "title": "海上封鎖の拡大、米軍はイランの陸上通商の規制を狙う",
      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQU0REYWVsTmhGV2V6ejFRTS1NeFF5X2ZLTFlMNW9GSkp6WDRvelBZMk9LQ0FzZEZuQl9DR3A5UEcxY2lWUGpfSl9NeGdXRlh5X1BhdUgxaXIzTFpidnhXZWt0STg0bXNGZzMyOFJKYWF1QkRwUVNiS0wzdGZRTV9SanpnTlJhQk1uWlNKMVlGZUNDX0o1Vm9zRWhGd1Q1aVZHMFRFUlg2aHFIelNydko0OGQ3MWVJZEdsQ1hldy1OdG14UmdOVjRVR3RJbndoeGJGek9KUGtCNDdNZXk0bGczOVNEVW9mMlVxUkkza1hVcE1oR1Y3cjhWNmY3aWZWQWVCZDZDNlNtV1pKMXVwb1ZZTHNJWUhMd29YaWo4M2FLbDR0b2pXQ0sxclFLR2t4RlNHeHpHMUlBSFUwSHRfOWtUZVJ4bGpBdVRyTUNmMExHcU9WTzlpQllsczdPc1h3RTZhWWR6TEwtWF9HTTlNRkpVVjVjNjBuR3c?oc=5",
      "source": "アラブニュース",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwdkhQZ2p0T1p6eDE3UDZLaXkzTXlVZTZyRFhIckMyNzVfUk42NjdweUhwWlBJb29jMmYtQWMwT2R2ZXFDODlnWTJLMVp1dzRLWWNB?oc=5",
      "source": "CNN",
      "at": "2026-11-08T12:16+09:00"
-    },
-    {
-     "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cnIzXzRfOTFfenlmc0dFTGtWSFEtb3ZCRVJlcVJacThVd0g2V0VpWDZ6dWU3YUwzRFo5c0lNeV80VkZGcFhhSkFrOTFOWXRyV2x5WUV4QVlCZmd1Q29RSDExX2V1bndHaFp1RWtnYjNuVWphXzd2WlFqWVZQcmc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-08T12:13+09:00"
     }
    ]
   },
@@ -347,14 +347,7 @@
   }
  ],
  "outage": [],
- "japan": [
-  {
-   "title": "弾道ミサイル落下時の行動について",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlOUtTbWFfaGJWNVJRLWxvYW9VV1Y4TFgwRko4NEUxTTNyOTlRS2ZMa0RZWm9xTmU2cS1CbjFna3FWOHYwUGtGYnk0OUhfX3o5Z0k4SExKSGFjd0k4emNsaFdTQUJ6TzFRYzBpMzRxLTRRZw?oc=5",
-   "source": "西都市",
-   "at": "2026-11-08T12:31+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "東海以西の128信金でシステム障害、19時すぎ全面復旧 ホストコンピューター故障が原因：ニュース",
@@ -367,6 +360,12 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOVJQRnF1cUVfX1BEUERtU3F6cmxOaUE0Xy1DWGNlSDl0YVc5VGM2OTJLbU1mXzZrWFNFQzdOa1FXTXRoS25FQkMxRFIyQkhRQ2ZIRWtYaW9zZ0dDN0JhcjlVU3hGVnl0cDZicnhQU2pYZEdLMHB6eU1hTWtJOC1ReG5ydjdkc3B4NzlZNFJ4RU5rZl9jMWx2R3ZrN3o2N3RSV2xlSjhlZ0lwamV0TzZHejMyUVQ4b1llX1FOZG5kVnh1dmlfWmdlaHBxbTcySTViaUlXV3kzUHRMXy1LZzA2bDRBbDhIUHR2alctMmRR?oc=5",
    "source": "Mix Vale",
    "at": "2026-11-08T22:42+09:00"
+  },
+  {
+   "title": "セキュリティ団体JNSAが不正アクセス被害、管理者情報など最大1万5,128件漏えいの恐れ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qODRpZ091ekZpbkVXV1ZIWlpCTDFqSUJ4YmpQMk11bmxESXNaUHZjMGh4dWw5S09NTXZfMm40V21taU9ONHp2dFpDNWtaam5ncnk0?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-09T01:13+09:00"
   },
   {
    "title": "今求められる サイバーレジリエンス強化",
@@ -439,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMktPYmo3NVpTY0JYM3lENk1tbWZmZ095emZmbmVwSXlmaE41anpodGVUbHgyVXVvSHlUY3JiOFJFY1l2YWlSY0pEcFk0dHQtRWpfZ1oxcFZPT2w3dEwtZzNDMHV3QQ?oc=5",
    "source": "Fashionsnap.com",
    "at": "2026-11-08T19:00+09:00"
-  },
-  {
-   "title": "ドコモ、ahamoサイトを再開 不正アクセス受け予防停止も「安全性確認」",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uWWdCZUNnYnBZVHc4YkdERkE4czR6VGh6akkzcXZpN1pvck9TOHJ2WDlhTFdlSjRzdkVkUHFZS09mVnBoVHFSOERDOWE3X2w4WXdBYnloRTJ6WFFaWGVCRzZOdkJvd3ByUU9WbnZGTVJ1ZXNJ?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-08T18:25+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米軍、対イラン海上封鎖破った貨物船を攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1NVbEJwM2RyWWJwNGxwTlg4Q0tLaWtIQVRialpTbVVNTnAwc1NOcjVMOFdUaWNSdGZlREZZbWo3ZGphMWRPallKdzNxN0RvMS1tOTY1OXA5V1U3RGdVcVNZc3BEY2ZPQzBKam9mY0o3M0VBY2Z3cGJjYnJsY25iUFkyWXNnWXA5?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-09T00:39+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "海上封鎖の拡大、米軍はイランの陸上通商の規制を狙う",
    "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQU0REYWVsTmhGV2V6ejFRTS1NeFF5X2ZLTFlMNW9GSkp6WDRvelBZMk9LQ0FzZEZuQl9DR3A5UEcxY2lWUGpfSl9NeGdXRlh5X1BhdUgxaXIzTFpidnhXZWt0STg0bXNGZzMyOFJKYWF1QkRwUVNiS0wzdGZRTV9SanpnTlJhQk1uWlNKMVlGZUNDX0o1Vm9zRWhGd1Q1aVZHMFRFUlg2aHFIelNydko0OGQ3MWVJZEdsQ1hldy1OdG14UmdOVjRVR3RJbndoeGJGek9KUGtCNDdNZXk0bGczOVNEVW9mMlVxUkkza1hVcE1oR1Y3cjhWNmY3aWZWQWVCZDZDNlNtV1pKMXVwb1ZZTHNJWUhMd29YaWo4M2FLbDR0b2pXQ0sxclFLR2t4RlNHeHpHMUlBSFUwSHRfOWtUZVJ4bGpBdVRyTUNmMExHcU9WTzlpQllsczdPc1h3RTZhWWR6TEwtWF9HTTlNRkpVVjVjNjBuR3c?oc=5",
@@ -569,13 +569,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "オマーン湾で米軍が船舶攻撃 米軍艦艇監視のイラン系船舶（AP通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84cnIzXzRfOTFfenlmc0dFTGtWSFEtb3ZCRVJlcVJacThVd0g2V0VpWDZ6dWU3YUwzRFo5c0lNeV80VkZGcFhhSkFrOTFOWXRyV2x5WUV4QVlCZmd1Q29RSDExX2V1bndHaFp1RWtnYjNuVWphXzd2WlFqWVZQcmc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-08T12:13+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "中国の反スパイ法で逮捕され6年の実刑判決を受けた元日中青年交流協会理事長 「今も忘れない」と語る日本大使館の冷たい対応、国会議員や記者への伝言を頼むも実現せず",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTjNNNWhoejNIWW5wWER0YXhlRHZESWhyOTVTWHNLelpGSWloR0JHWHdBaVRvRXZCR2dYNGhEdkJoYzN6VmhFWV92ZHpFMzBNWXN1Mk1jVWJCZkk2cnN1dGVZaTlhcXlkTzFTNm13?oc=5",
    "source": "au Webポータル",
@@ -613,10 +606,10 @@
    ],
    "items": [
     {
-     "title": "海上封鎖の拡大、米軍はイランの陸上通商の規制を狙う",
-     "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQU0REYWVsTmhGV2V6ejFRTS1NeFF5X2ZLTFlMNW9GSkp6WDRvelBZMk9LQ0FzZEZuQl9DR3A5UEcxY2lWUGpfSl9NeGdXRlh5X1BhdUgxaXIzTFpidnhXZWt0STg0bXNGZzMyOFJKYWF1QkRwUVNiS0wzdGZRTV9SanpnTlJhQk1uWlNKMVlGZUNDX0o1Vm9zRWhGd1Q1aVZHMFRFUlg2aHFIelNydko0OGQ3MWVJZEdsQ1hldy1OdG14UmdOVjRVR3RJbndoeGJGek9KUGtCNDdNZXk0bGczOVNEVW9mMlVxUkkza1hVcE1oR1Y3cjhWNmY3aWZWQWVCZDZDNlNtV1pKMXVwb1ZZTHNJWUhMd29YaWo4M2FLbDR0b2pXQ0sxclFLR2t4RlNHeHpHMUlBSFUwSHRfOWtUZVJ4bGpBdVRyTUNmMExHcU9WTzlpQllsczdPc1h3RTZhWWR6TEwtWF9HTTlNRkpVVjVjNjBuR3c?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-08T22:19+09:00"
+     "title": "米軍、対イラン海上封鎖破った貨物船を攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1NVbEJwM2RyWWJwNGxwTlg4Q0tLaWtIQVRialpTbVVNTnAwc1NOcjVMOFdUaWNSdGZlREZZbWo3ZGphMWRPallKdzNxN0RvMS1tOTY1OXA5V1U3RGdVcVNZc3BEY2ZPQzBKam9mY0o3M0VBY2Z3cGJjYnJsY25iUFkyWXNnWXA5?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-09T00:39+09:00"
     },
     {
      "title": "“日本も標的”北朝鮮ハッカー集団か“会話”入手 サイバー攻撃の裏側、身近に広がるリスク【バンキシャ！】",
