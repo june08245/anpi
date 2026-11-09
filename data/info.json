@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:45+09:00",
+ "updated": "2026-11-10T05:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -368,6 +368,12 @@
  ],
  "cyber": [
   {
+   "title": "タイ中央銀行、全銀行のCIOを招集 日本のIT障害を契機にサイバー脅威への警戒強める",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14UFdpQjlOejBwWUVNbGkzbWl0a1BoYndfU3NZTThPMDFYS3AxT1lraFN0U1FUakJKZ3M0Y2NpNTdTYllCVmtZMWNyTjNFSVdNVmJiQzJFU1VoM2w1TmRJOEhrUDNqMmh3NjVmTXlIMHdqeHZ6?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-10T02:55+09:00"
+  },
+  {
    "title": "仁川空港で出国システム障害相次ぐ",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORllDM0kwZWdjWERJUkF3SEhaSzJvcUNlV1dVOG54NzVteWpHVTRBSHRRZWx5LTgzdkQtT1F3ZkV5QnE5bUc4RVR0aXBWd0ZmZDRmd2tYX2U0VzZreFFsVmxqSkFwTFcweGwxYWdTTGl2UDRSR3JGUXE3Njl1SF9oU9IBlAFBVV95cUxNRFNlcGlLZl9KMjR3aUlDbENMVk5wSHROckJmQ212SURhalNIM2owVUhOdlk2WXVEdlFKN3M4d3ZvR2NDLVNlRWRUcm0wUW56NWhBOHZRMVNyOEE5cWRuV2k0NVRhd0lDanc4T01MR0hiZjZhZjhNaTNHSmE1SEcyd1ltZFllck9hYjVDWDdJMmExcDY0?oc=5",
    "source": "Chosunbiz",
@@ -410,6 +416,12 @@
    "at": "2026-11-10T04:00+09:00"
   },
   {
+   "title": "不正アクセス、金融の火種に 地銀サイバー対策 「アリの一穴」で瓦解も",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03M0RJOVM3Yi1xVVYzc1ZaekFYN3RrNldOSk5ncWlvQUNweHZnajBqUDhhLVNVRURqWjQ5MXZqY0N0QnNIZ2M2UXZtLXRzN3FJN2RIb09maW52UTQ?oc=5",
+   "source": "山陰中央新報デジタル",
+   "at": "2026-11-10T04:00+09:00"
+  },
+  {
    "title": "AI悪用 金融の火種に 不正アクセス問題 地銀 アリの一穴で瓦解も",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vckZNRVBFeHd4MHNuUXY0T3JSYWxPVEhmUUpSY0V4VEtVQlJRSFZXTXJOdDFtWXNLWGxVTTNZX1JPa3U3YmU1NGtkVjhtZmxEcWdLeUhMQk1oUTNvcmc?oc=5",
    "source": "沖縄タイムス社",
@@ -444,18 +456,6 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BekhxaXQ4dDRVNlFTTEtzc1pSZlpGZEhfYkxYanFpaHF0SFdueUNNS0Zma1hkcVZQd2tuRk15QTk0SWFWV0ZFeTR0NlVnaFltQUQ2REZuNkZCOEN4SHE1NThkaG96UFZyNHJvV295YUZ2ZjZqbnlzNmtn?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-10T02:50+09:00"
-  },
-  {
-   "title": "EXCLUSIVE-仏冷蔵庫サイバー攻撃、イラン支援のハッカー関与か＝関係者",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBdVVFcnVNQ0xacEJ0MVRRcThndzFBSzBya05wN0NjeFVVWVBra2xoVzJ1c0tZRHJ2eHQ0SldWejctNEkxd3ZVYUhKM0dtY05wS2VJeFFZZTFwZEhhaVRYMmZoVGRfM2I4UEhRTDhR?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-10T01:21+09:00"
-  },
-  {
-   "title": "【相次ぐ不正アクセス】“漏えいリスク”に苦渋の決断… 個人情報を「あえて持たない」企業に個人情報“不要”アプリも【news23】",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DTG1XX0JpRXFWeFRHN1I4RkJYYkk4bExaQUdhTnJjYm45TVJTUHJMMkNUdXdyQTZIRlptYlFubm1lYUQtdjhHT1BGUjVhTTZ0d1N0QnhYUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-10T00:57+09:00"
   }
  ],
  "osaka": [],
@@ -605,7 +605,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ、全国で通信障害 高速サービス通話しづらく」"
+    "「タイ中央銀行、全銀行のCIOを招集 日本のIT障害を契機にサイバー脅威への警戒強」"
    ]
   },
   "japan": {
