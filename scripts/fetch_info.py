@@ -364,12 +364,23 @@ def assess_japan(r, now):
     return {"level": "green", "reasons": ["大きな地震やミサイルの報道なし"]}
 
 
+# もう直ったことを伝える見出し（「復旧のめど立たず」のような、まだ続いているものは除く）
+RESOLVED_RE = re.compile(r"(で復旧|復旧した|復旧しました|全面復旧|全て復旧|すべて復旧|復旧済み|解消|運転再開|サービス再開|利用再開|取引再開|営業再開)")
+ONGOING_RE = re.compile(r"(めど|見通し|立たず|未定|続く|継続)")
+
+
+def is_resolved(title):
+    return bool(RESOLVED_RE.search(title)) and not ONGOING_RE.search(title)
+
+
 def local_cyber(news, now):
     out = []
     for n in news or []:
         if not within(n.get("at"), 24, now):
             continue
         t = n["title"]
+        if is_resolved(t):
+            continue
         if any(p in t for p in CYBER_LOCAL_PLACES) and any(w in t for w in CYBER_LOCAL_WORDS):
             out.append(n)
         elif any(c in t for c in CARRIERS) and any(w in t for w in CARRIER_WORDS) and "流出" not in t:
@@ -392,7 +403,7 @@ def assess_osaka(r, now):
             red.append(f"震度{q['osaka']}の地震（{quake_when(q)}）")
         elif q.get("osakaRank", 0) == 4:
             yel.append(f"震度4の地震（{quake_when(q)}）")
-    out = hits(r.get("outage"), ["停電"], now, 24)
+    out = [n for n in hits(r.get("outage"), ["停電"], now, 24) if not is_resolved(n["title"])]
     if out:
         yel.append(f"停電の報道（{out[0]['title'][:30]}）")
     loc = r.get("osaka") or []

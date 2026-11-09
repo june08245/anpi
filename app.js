@@ -725,10 +725,15 @@ const CYBER_LOCAL_PLACES = ["大阪", "関西", "近畿", "関電", "大阪ガ�
 const CYBER_LOCAL_WORDS = ["サイバー攻撃", "ランサムウェア", "通信障害", "システム障害", "大規模障害", "つながりにくい", "取引できず", "利用できず"];
 const CARRIERS = ["ドコモ", "docomo", "au", "KDDI", "ソフトバンク", "SoftBank", "楽天モバイル", "LINE", "信用金庫", "信金", "ゆうちょ", "全銀", "ATM", "PayPay", "ICOCA", "交通系IC", "コンビニ"];
 const CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つながらない"];
+// もう直ったことを伝える見出し（「復旧のめど立たず」のような、まだ続いているものは除く）
+const RESOLVED_RE = /(で復旧|復旧した|復旧しました|全面復旧|全て復旧|すべて復旧|復旧済み|解消|運転再開|サービス再開|利用再開|取引再開|営業再開)/;
+const ONGOING_RE = /(めど|見通し|立たず|未定|続く|継続)/;
+const isResolved = t => RESOLVED_RE.test(t) && !ONGOING_RE.test(t);
 function localCyber(news) {
   return (news || []).filter(n => {
     if (!within(n.at, 24)) return false;
     const t = n.title;
+    if (isResolved(t)) return false;
     if (CYBER_LOCAL_PLACES.some(p => t.includes(p)) && CYBER_LOCAL_WORDS.some(w => t.includes(w))) return true;
     return CARRIERS.some(c => t.includes(c)) && CARRIER_WORDS.some(w => t.includes(w)) && !t.includes("流出");
   });
@@ -744,7 +749,7 @@ function assessOsaka(info) {
     if (q.osakaRank >= 5) { red.push(`震度${q.osaka}の地震（${fmtAt(q.at)}）`); urgent.push({ title: `大阪で震度${q.osaka}の地震（震源：${q.place}）`, link: JMA_QUAKE_PAGE, source: "気象庁", at: q.at }); }
     else if (q.osakaRank === 4) yel.push(`震度4の地震（${fmtAt(q.at)}）`);
   }
-  const out = newsHits(info.outage, ["停電"]);
+  const out = newsHits(info.outage, ["停電"]).filter(n => !isResolved(n.title));
   if (out.length) yel.push(`停電の報道（${out[0].title.slice(0, 30)}）`);
   // 緊急にするのは大阪市内とはっきり分かる時だけ
   const lr = realOnly(newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"])).filter(n => ["大阪市", "生野", "旭区"].some(p => n.title.includes(p)));
