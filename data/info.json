@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:15+09:00",
+ "updated": "2026-11-09T09:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -200,7 +200,7 @@
      "title": "選挙惨敗のトランプ氏、金正恩氏との電撃会談で逆転狙うか…妹・金与正氏は無慈悲な「塩対応」（高英起） - エキスパート",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVlHbE1UNml2V0cwYVhaNEVpVGxKaXJrbXJOU21aYzc1RWJzdGhyQlBERmROYVFTc2pINXg4VHVhSjJRalN1UVpoU0pnYlEzZnQzODdEb1RPT1hjY0piZ25Zb1VYZGpVU1lXRWd0MG45eGJ6cHMtbVhCWXhBZHlrOEhQeHNNemNm?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-09T06:10+09:00"
+     "at": "2026-11-09T06:05+09:00"
     },
     {
      "title": "ウラジーミル・ゼレンスキー、キエフを攻撃するために北朝鮮のミサイルを使用しているとロシアを非難",
@@ -227,7 +227,7 @@
      "at": "2026-11-09T06:28+09:00"
     },
     {
-     "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手",
+     "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手 | TBS CROSS DIG with Bloomberg",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHMTNJWjJzdlhpdmZVMmZDYng1UzRGeHpVUTJiN1NoalhMQzNSaERuaDVxR3VJT1RHNklmSHlBNExqNVdQSGNPVU50cjBBa3ZfcWRyRlJhV2dKaUZaYmk4aUFuLUE2dmM?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-09T04:39+09:00"
@@ -356,6 +356,12 @@
  ],
  "cyber": [
   {
+   "title": "128信金の大規模障害、約6時間で復旧 「原因はサイバー攻撃ではない」",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TQUx0cWJaNFJiQ3RRWnNJUnlLV3RpOTM4NVZNb19YVDlzVjZyR3NtZ2F6cmtuV2xOeVNmZ0toemJvNFl4QnJZNWNCNjFnRFlmSW1zVHlHSDlRekNUOFNSX1pQQmN6cmtNNmc?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-09T09:26+09:00"
+  },
+  {
    "title": "航空会社のシステム障害で飛行機が大幅遅延……集団訴訟を起こした旅客に対し、裁判所が下した判決とは",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzS01iNFhvMzhwbk5vVFBaMmduZ3NkTDR5VUMtZHlsck9mMFZnRWpNZ2VLLUNUV2Y1eS12SHNxVkxRZFI1MmVqMktJTWVXSzJJNU5zT1VtLUk3UQ?oc=5",
    "source": "EnterpriseZine",
@@ -384,6 +390,12 @@
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOVJQRnF1cUVfX1BEUERtU3F6cmxOaUE0Xy1DWGNlSDl0YVc5VGM2OTJLbU1mXzZrWFNFQzdOa1FXTXRoS25FQkMxRFIyQkhRQ2ZIRWtYaW9zZ0dDN0JhcjlVU3hGVnl0cDZicnhQU2pYZEdLMHB6eU1hTWtJOC1ReG5ydjdkc3B4NzlZNFJ4RU5rZl9jMWx2R3ZrN3o2N3RSV2xlSjhlZ0lwamV0TzZHejMyUVQ4b1llX1FOZG5kVnh1dmlfWmdlaHBxbTcySTViaUlXV3kzUHRMXy1LZzA2bDRBbDhIUHR2alctMmRR?oc=5",
    "source": "Mix Vale",
    "at": "2026-11-08T22:42+09:00"
+  },
+  {
+   "title": "デジタルハリウッド、資料請求者などのメールアドレス1万958件が流出 委託先が利用するアララのメール配信システムに不正アクセス|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0YtTVk2bDROTzM4cGpfRHdPYWtSMnBsMnJaLVRjY2lpR0dGa1dDaDZmdzdPZ3dfS3BrNUM2bW0yRmhZQU9yUTdicjE5aHBSRFI2MEFnTG5yQlhIa2g1eU1CSWZsdnRoMDYxWnFaeUN4MUNmSVpZekdxV1RPNTdQeFMyRjl1bTAwbFpTMmtTUkhYSWdrNWgycjZiWTYwWlcxY2hWSy1R?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-09T09:15+09:00"
   },
   {
    "title": "GMOコマース、委託先 アララへのサイバー攻撃による個人情報漏洩 まとめ-ホテラバなど3社のメールアドレス221万3,960件が流出 |セキュリティニュースのセキュリティ対策Lab",
@@ -416,12 +428,6 @@
    "at": "2026-11-09T08:05+09:00"
   },
   {
-   "title": "勤怠・工数管理クラウドサービスのチームスピリット、開発用サーバーへのサイバー攻撃で2万8,824件が個人情報漏洩 要配慮個人情報35件も対象|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSFExQUFPLWo0Z0RiTmgzWElMUlVEMlRZRWxIMlM4Z01qNHBwaVhSUm9ySTNYcUdWQWR5d1otSUV6dWdONVUwREpsVktDVkJLLVZvT1lwVGltTnRyeHAwODIzRVYzbTJkalNtTW1ra242bmNUQlJuQmdFQjAxZEJTalhjWUxtMWU5eTBjb3otbmpLVlpWeXFjWk92aw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-09T08:00+09:00"
-  },
-  {
    "title": "小学館、199万件の個人情報漏洩か アララ不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOEF2a1R1eTJHTFVRbF9RdGdqRDlnNEF5RzZtOHdISTZOOGt1ZnQ4bXdteWhhVkFJSzJsYlVXZkRTWUNteE5vTG0wYVpnRUV0Um5keTNGRmR3SU9YeGxlN004ZGpNbGlyNUR6MQ?oc=5",
    "source": "日本経済新聞",
@@ -438,12 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTmpKT1FDeVgyNy1peDVzVE9zWXlBT29Nc0xUOUFsMnExdExpYWxOMjdEeTB0S3JsMUVBbnF3TzdldFY0V2thbi05YUFnaXB5Vmw4UjFiZE9OTHlqRUZvcERBOXBpMUNOdFVYZEVSeWo3NGJJNndFeGRVX2dVeU5VR05iR1g0R0FtSnpMUEFvZVNsNFVyeG1zMUlOdU9zUzZpTEcyZzJsMVNNODFFTUZNTDhweDVmeHJZWGlualBITVJ6UnRVMERRd3VWYWt2LWFCWFRCejVjYmVWN2tKWVJ5NTdyTVFkN19nQ3VVSWk0NEk1VnJlZ2dadE9kY19XUGo2Ni1ZUdIBtAFBVV95cUxQTE1VY3J4MHpsTTVIc1Y3UWxtMWh1bWVjNm54QXd3T0pUaS15RkdybjBOU0lyWlNYY3ZSNEZYOUh0X24ydjdwLURoVlVnOWtiaTNIRDEzRWZLeXJqSUduQ0ZWUVh5RVZqUHBmckVLY0luZVdVamJFRmNvMy1zRFhtMmZ6WVhlSGVmVTNMam1WeXFKeVI2TjdCZXRKZS1WVGhxYnhrRGpvdi1kcnNQeDJoN1pSX04?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-09T07:42+09:00"
-  },
-  {
-   "title": "北朝鮮ハッカー集団か…“会話”入手「優先地域は日本」 サイバー攻撃の裏側、最近の手口は『バンキシャ！』",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOXJVODVSVEZxMmpINzNBd3ZsS2NKR3QzY3otcGF4eGJGT2cydkxhUnZ1cGo2R21LdDl4cUZNRzRCdlY2UjN3VERzRmV2ODRCRkNCT1lESFE2RUtlQUg5bTZBdHljNS1yclVlU0ZPVzA2MVlTaGM3ejVpN1BPbTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T07:35+09:00"
   }
  ],
  "osaka": [],
@@ -522,7 +522,7 @@
    "title": "選挙惨敗のトランプ氏、金正恩氏との電撃会談で逆転狙うか…妹・金与正氏は無慈悲な「塩対応」（高英起） - エキスパート",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVlHbE1UNml2V0cwYVhaNEVpVGxKaXJrbXJOU21aYzc1RWJzdGhyQlBERmROYVFTc2pINXg4VHVhSjJRalN1UVpoU0pnYlEzZnQzODdEb1RPT1hjY0piZ25Zb1VYZGpVU1lXRWd0MG45eGJ6cHMtbVhCWXhBZHlrOEhQeHNNemNm?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-09T06:10+09:00",
+   "at": "2026-11-09T06:05+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -533,7 +533,7 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手",
+   "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手 | TBS CROSS DIG with Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHMTNJWjJzdlhpdmZVMmZDYng1UzRGeHpVUTJiN1NoalhMQzNSaERuaDVxR3VJT1RHNklmSHlBNExqNVdQSGNPVU50cjBBa3ZfcWRyRlJhV2dKaUZaYmk4aUFuLUE2dmM?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-09T04:39+09:00",
@@ -593,7 +593,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ《1カ月足らずで“トラブル連発”》の大失態…社長が設備投資増額を意気込んだ」"
+    "「128信金の大規模障害、約6時間で復旧 「原因はサイバー攻撃ではない」」"
    ]
   },
   "japan": {
