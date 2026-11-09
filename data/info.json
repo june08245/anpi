@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:15+09:00",
+ "updated": "2026-11-09T22:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,12 +95,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "欧州ガス価格が小幅高、ホルムズ海峡での船舶攻撃がトランプ大統領のイランへの自制発言による緩和を相殺",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11S29sY0czX2ZrT1FiMjlMNHk2RmNKSVU2WnZsTm56RmFyODVMMDR6Q3Z3MDRMMVFVcnJ2T1ZuOU84RXpOX0xxODdYeVFDb0N6S1hnTDNVRG5wSFNKVWtQdlhTdllUZGlLUEdwS1NJTUN5cm1F?oc=5",
-     "source": "BigGo ファイナンス",
-     "at": "2026-11-09T22:05+09:00"
-    },
-    {
      "title": "トランプ氏、交渉進展があればイラン攻撃命令の可能性は低いと発言",
      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQOXVyLXVPcUI3d1BHbFI4bndDNGxCVncyUnpUYkQ2Y3E0amRzMWZPR1N0U2hvaVJGLW1EZXJydElhNkNNZEtBM2FJUlljRC1Td3U5SE5yakFpM1R2ejhUQS1WeUxXMGhTUTcwYVlKTmpQdFNHWWVDdHY5N0pCNEJuTnc0YmRQcU5lNC10YnhRTm9JOFEwdnU3OFJOdEJKT3kwMXpsV2pCaE05YWg3MUZTV0RBUnk5cF8xSVVkLUF6dE5TcmVhQW8tSFdGX0hNYlRBMG9UVVAyck9mekswYVdEX3d1NDVMOTFFSmxiU05kcGFHNzE2eXdrT3dabDZ2d2xudmI4Y05tM0FVWGhMbUxybVRyVFZ2YTlWTUpMLUd6ZXVwdWdxbEU5b2dQNUxWbDA4UVpoRnBXWDcwazU1SW5VQ0htN2x3amVXdzU2U0h3QnV0ZUluaUtIN1M5d1FIN1Q4VnAyc3k3ZFF3ZkZyNWc4bmtiLWJGN1h3QktGNnhHLXZfbFU4bnd5YXJNZ3hmdE9hcWlMMF80Y0N2ZW5kTkdkelJyMXkzWjNpU1d3Yl9DYW8zSXZEdnpaWWM0c0MzNms?oc=5",
      "source": "アラブニュース",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LWFZkSUdNTHY2SkpjSjdhRktJMW5LUVVMaExrV09qT2NLOXJob2t4aExiVDYtRVJaQ2cydWl5b1B2M3drSFpFTG5fQmN5cXh3YW1pVU1lUHVnaEl3N2oyUUtB?oc=5",
      "source": "NOVAIST",
      "at": "2026-11-09T14:16+09:00"
+    },
+    {
+     "title": "イランを再攻撃か、交渉か…中間選挙で惨敗後、トランプ側近の間で3つの路線が対立",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3RjRmFydzF5R09lelVGeW1qZ3JBbkt4am8ybHAzT1JLZVA0TUdtT0ZsVUc2R1JpSzM0NG1DUHljM21KSDJTYUQ3cjVBb0pua1EzeVJRLTlUMURMQzdmOE9TRHFOWlZ2ZWNlNjVQVDhZdl9keDlwVXlUZWZtME5ybHRLcE13UGtFZnhDWDFqVlF0Wkg3NkJfZjlzd3lDUzVydXRkUGJhbFpHWFhCSVFpa0Z2TzRWbVhmVjUzTFVsT25ybXpfYl95U3dsMGNqRmtCUjFudjV3blZ1TWpy0gGMAUFVX3lxTE5WVUc0ZnJjSWxtX3ZUblIwZEJHUnRuNHdJcVhYWnNHS1Q2aV8xd3NyM0k2S0tNWlJqMTJ2RzR1dXdhdnRsR2U2ZVM2V19aQ0NiVnRrSU8wWmtuRU91TzZxa1NZSnRqLVUtUVYwMkxKdWRNVUxtNUY0TjFoZ25XdjhCYWVtcTRjWk1RNUxJ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-09T11:44+09:00"
     }
    ]
   },
@@ -428,12 +428,6 @@
    "at": "2026-11-09T21:13+09:00"
   },
   {
-   "title": "セガとセガ系玩具メーカー、個人情報219万件漏洩 アララ不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Udmp4enFkamx5WHE5Qk1pUnk3dlAtNThsUVRjcDQxQlFMMG9YYW9zcnUwbnRkSWtRTnpSMGlwZFdCX0hVT1JfT3ZxUDFWQlJlS3kzeGVCQXEtSFNTYll5TVJSTXA3aWlCdVVIbg?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-09T21:07+09:00"
-  },
-  {
    "title": "山口県がサイバー攻撃対策の相談窓口 中小事業者に支援制度紹介",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByM0g2VlZaLXNOdmx5TUF3RFZPak5UYllxTEhlbzFDaHhvTngzck81QnpCcGUyZ0VXMHMtRTY1QmpFdk5QWlBWa294MExUT3lpZGZNT1hRZkZNdw?oc=5",
    "source": "中国新聞デジタル",
@@ -462,17 +456,16 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OS3BGX2I2ZlFtd0kyMFkxcnZRaW5RTzg3cmktRm5rWFNCRHZqcC1WZE1GeHdxRXk5eHdFRWRWNFRTVmJfR1A0bHNGeUNUZlZZQXlkb256NS1fcEhoYXR3?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-09T20:18+09:00"
+  },
+  {
+   "title": "ソフトバンク宮川社長「正直もう疲れ切っている」 サイバー攻撃が月7億件、決算発表会で明かした危機感とは",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lNjlYVHFCaTYzU2lnRkcxVmlSbWowaFB4UVVWTmlxZEE2RWV5VXFLV2Fzd2wwZHZBNWlIcko2SlVUR3VLaGNueVVnYWthTm1mMlRmWndPWG1hRlF6MTc5ZFZZSnh5YWthZ25yRUhDTjRQUQ?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-09T20:18+09:00"
   }
  ],
  "osaka": [],
  "world": [
-  {
-   "title": "欧州ガス価格が小幅高、ホルムズ海峡での船舶攻撃がトランプ大統領のイランへの自制発言による緩和を相殺",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11S29sY0czX2ZrT1FiMjlMNHk2RmNKSVU2WnZsTm56RmFyODVMMDR6Q3Z3MDRMMVFVcnJ2T1ZuOU84RXpOX0xxODdYeVFDb0N6S1hnTDNVRG5wSFNKVWtQdlhTdllUZGlLUEdwS1NJTUN5cm1F?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-09T22:05+09:00",
-   "topic": "イラン・アメリカ"
-  },
   {
    "title": "ロシアの専門家がポーランドでの演習が核不安定のリスクを高めると警告",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE9OS3NzQy1vZldhdi1IcGtxWXRyN2U3NDhwdVktY01IcG9nMUlaLWwzTFJYbVBQNE53ZUtGZDFlTmt4NUpQNEhuMFBaU1pGZmdDekVlRXduWDE0NERLU3pSR3Q2LXBSeWRMQkJDSDZvUnpzUXkwR01lT3dsbVdnc1FJbXFMQW1nSWFWSU9NZzBSbF9hd1g1N29RR3hrMzExVWhEdmliZC10LUNiSGJ3aE5uTFZYSG9mc2hsVFpB?oc=5",
@@ -605,6 +598,13 @@
    "source": "NOVAIST",
    "at": "2026-11-09T14:16+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "中国軍が西太平洋で未公表演習か、台湾封鎖を想定との分析",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtWk83T2d2bzBJSFNyY2xCT3ZzTmRsYzdIMHpZcHp1NW5WNXhvaHpxMUtnZWZmYUlFQXhFUkl6NzNlazgyZVY0LU5DR1o5RG50UThOTUNJZGNnT1gyNXNaY3ZpR0NUbkhm?oc=5",
+   "source": "亜州ビジネス中国",
+   "at": "2026-11-09T13:18+09:00",
+   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -631,10 +631,10 @@
    ],
    "items": [
     {
-     "title": "欧州ガス価格が小幅高、ホルムズ海峡での船舶攻撃がトランプ大統領のイランへの自制発言による緩和を相殺",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11S29sY0czX2ZrT1FiMjlMNHk2RmNKSVU2WnZsTm56RmFyODVMMDR6Q3Z3MDRMMVFVcnJ2T1ZuOU84RXpOX0xxODdYeVFDb0N6S1hnTDNVRG5wSFNKVWtQdlhTdllUZGlLUEdwS1NJTUN5cm1F?oc=5",
-     "source": "BigGo ファイナンス",
-     "at": "2026-11-09T22:05+09:00"
+     "title": "トランプ氏、交渉進展があればイラン攻撃命令の可能性は低いと発言",
+     "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQOXVyLXVPcUI3d1BHbFI4bndDNGxCVncyUnpUYkQ2Y3E0amRzMWZPR1N0U2hvaVJGLW1EZXJydElhNkNNZEtBM2FJUlljRC1Td3U5SE5yakFpM1R2ejhUQS1WeUxXMGhTUTcwYVlKTmpQdFNHWWVDdHY5N0pCNEJuTnc0YmRQcU5lNC10YnhRTm9JOFEwdnU3OFJOdEJKT3kwMXpsV2pCaE05YWg3MUZTV0RBUnk5cF8xSVVkLUF6dE5TcmVhQW8tSFdGX0hNYlRBMG9UVVAyck9mekswYVdEX3d1NDVMOTFFSmxiU05kcGFHNzE2eXdrT3dabDZ2d2xudmI4Y05tM0FVWGhMbUxybVRyVFZ2YTlWTUpMLUd6ZXVwdWdxbEU5b2dQNUxWbDA4UVpoRnBXWDcwazU1SW5VQ0htN2x3amVXdzU2U0h3QnV0ZUluaUtIN1M5d1FIN1Q4VnAyc3k3ZFF3ZkZyNWc4bmtiLWJGN1h3QktGNnhHLXZfbFU4bnd5YXJNZ3hmdE9hcWlMMF80Y0N2ZW5kTkdkelJyMXkzWjNpU1d3Yl9DYW8zSXZEdnpaWWM0c0MzNms?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-09T19:25+09:00"
     },
     {
      "title": "中国軍が西太平洋で未公表演習か、台湾封鎖を想定との分析",
