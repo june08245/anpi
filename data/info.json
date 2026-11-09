@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T05:00+09:00",
+ "updated": "2026-11-10T05:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "金正恩総書記の奇妙な訪中 米トランプ大統領と会談前の外交調整か",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50V0M1aVlxbHA4dE1kZzdoZDBqc0FmUWlKTXJIZFVoZTJreFJDdjdaeVFnUUNqdlp5WllZYW13R0gyN0pwZnBHT0dfV05ySDl3UTdzQ1A1dFQ1M191MmhrQWhB?oc=5",
+     "source": "日経ビジネス電子版",
+     "at": "2026-11-10T05:00+09:00"
+    },
+    {
      "title": "「腐った白菜と薄い汁だけ」北朝鮮軍、”栄養失調で死者”が政治問題化（高英起） - エキスパート",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBOc3g0RVEtSGVSMlVBUUNsc3NPSDgzcW02R0I2dENVdHAzMWJ4aV93N1c0Sld0VE1rUlp2aVNwd2JTWFJ4bVRGTm9LVWFLb2lvNWlHU3dNOTJtdFlNT195b2MtTDU4SDVWcEJ6a2JxWHVFQlZYb2ZWMU5VUnlNSGNGT1B4eHky?oc=5",
      "source": "Yahoo!ニュース",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fUTJUWUFMbXJXd1diZ0d1Rl9KZzJMZ3B5LS1PNV9rRFFmZndkdE44dHJPTjZiNXp1N2lrbkxIaWtjSEhZN0hfS2I3ODloeUlnczBWLUdHVGpBWFlIZng1UldKWnFmR2VEM1l4T1Z2cVdTaGNZMGVlY0RCMUF4Nmc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-09T06:59+09:00"
-    },
-    {
-     "title": "「日本国民は生活が苦しくなる」北朝鮮が異例の心配…防衛費増額を非難",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82QVppWjhtQmJSM015ZEk3dDhSY2ZQVkJZMXpiWV9faHRwTi1QcGp3U21QVjVUcFZqWFp3X1F4N0MyUjUxYjh2SFhlRERPR3ZiS0tlZkdCQU1jVEplWEJxUkZEYXBWRDVEbnZ4N3gtMm05Mm5YNE5F0gF8QVVfeXFMTUlmektESzE0MDYwNjlUd2c2VEcwZFQ3cU1FZG9GcjFjc0JEbnRuaHNoWnpQQ09pOEVHZjNJdmJiZ1dBUnpOaHltSllxd3kxcUkxQ01vWXhsSXJqbEMzczhoUXBaN1B2cEtRbWtEZy1FOXRMUWJwUFRsZ1kwQw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-09T06:22+09:00"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "失われつつあるロシアの「核の威嚇」、それでも決して安心できない理由",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SVDlpUXdIcHNGaV9qcE9oV0JWUlJQZ0R2VlZOV2NkblBIcW1jMl9yWEFqdGU4aERDc0dDWTBiNTlTcXBzbkJzUUNjT0VrOWF2RG00?oc=5",
+     "source": "Wedge ONLINE(ウェッジ・オン",
+     "at": "2026-11-10T04:59+09:00"
+    },
     {
      "title": "ロシア 死者39万人か ウクライナ侵攻 ハッカー「システム侵入」発表",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vNXFQNU4wOGU3LUNvd3J4SlFpLUJCaUtVSU1VMjFIU1RPNjgxTDFINmxWN1pxaks3R2U2QlZVRWNGTXZrNjZHQUdiZ1NvTFFGekpLMEI2cjMxUQ?oc=5",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pWkRIMFk3QWxIMUZ6NFRCXzAydGpScHdYVEZRRHM1Q2FnNDRTcEJvbUxIbkxqa1Ayak1wejRfcW5FNDlUeU9LLWVsbE9HbVlwT3pQU3hlTENlYXJQanl3SDE2T195a2Y0TExfem8wOE9mX2QwcFB3?oc=5",
      "source": "日本経済新聞",
      "at": "2026-11-10T00:00+09:00"
-    },
-    {
-     "title": "ウクライナ南部オデーサで、ロシア軍によるインフラ施設への攻撃で３名死亡",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkZjOWkyT042b3Y1M2ZWZ3M5aS1CQTl6ZE9PUEdLYjFjci1UX2w2OEJ1eVlKc2RXa0lwTmtOWUlKTTlULWlzWFFwZEYwUVpWUm1oZ29YOHIzUnBwQk1zRFV2Z0VsR3gxTXBSdWVMb0FRRTVQNXB4a3Zfc053TGYxTHBadGQ5M0F1bF9sbnB0d2c4dlN1UWpRclliUVpmek9LbkczUlNOX19FdGdmVmdKeE03blRTQWVCOTNiY3hjSDdHcHVlMVHSAcsBQVVfeXFMTVZOb19SeHZJTUdwLTNNYmhLWFNhWW8tNkVMS19QUW0tc2hyUURESTdhM09KeUV3RWtXR05wNFJTUkxtZlFRSzE1ZXB3bHBvSFNTanB4QkhWeTVVY1RmY0Y0clZySDZ5OE9VODJka29wVW1KMXhyemMzTm9xYnN3Qm9XWHJ4TFBWcHBNTjlpWWs4Z2h4Rmp1VzFkemF5SDJRRl9pcVczT0lTM1RMQUdaQ0pKQ0hXcUFkU0hJcnNPYVRJZzhZLVg1UnFtOHc?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-09T22:44+09:00"
     }
    ]
   },
@@ -368,22 +368,58 @@
  ],
  "cyber": [
   {
-   "title": "タイ中央銀行、全銀行のCIOを招集 日本のIT障害を契機にサイバー脅威への警戒強める",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14UFdpQjlOejBwWUVNbGkzbWl0a1BoYndfU3NZTThPMDFYS3AxT1lraFN0U1FUakJKZ3M0Y2NpNTdTYllCVmtZMWNyTjNFSVdNVmJiQzJFU1VoM2w1TmRJOEhrUDNqMmh3NjVmTXlIMHdqeHZ6?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-10T02:55+09:00"
+   "title": "冷蔵庫ハッキング攻撃、フランスがイラン革命防衛隊の仕業と断定",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTk0eXg5SEdXNS1qM1hxSjgweGV6cXM1YzZzeGl5SFFCX2VRRGNQek40Wk10OTJEejdRNjZvZlpmdXAtRWVYbmZ1bzVGeDVXSFprNU81dWZseV9SZkFQbXM2SUpWYnVKNkJOV1F2OWFNUlNGRENMOVI5dEQ4cGdqaVBla2FBOEt4?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-10T05:09+09:00"
   },
   {
-   "title": "仁川空港で出国システム障害相次ぐ",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORllDM0kwZWdjWERJUkF3SEhaSzJvcUNlV1dVOG54NzVteWpHVTRBSHRRZWx5LTgzdkQtT1F3ZkV5QnE5bUc4RVR0aXBWd0ZmZDRmd2tYX2U0VzZreFFsVmxqSkFwTFcweGwxYWdTTGl2UDRSR3JGUXE3Njl1SF9oU9IBlAFBVV95cUxNRFNlcGlLZl9KMjR3aUlDbENMVk5wSHROckJmQ212SURhalNIM2owVUhOdlk2WXVEdlFKN3M4d3ZvR2NDLVNlRWRUcm0wUW56NWhBOHZRMVNyOEE5cWRuV2k0NVRhd0lDanc4T01MR0hiZjZhZjhNaTNHSmE1SEcyd1ltZFllck9hYjVDWDdJMmExcDY0?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-09T20:52+09:00"
+   "title": "アララ不正アクセス、流出対象は約８１００万件 別環境の被害を追加確認",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5razdRT0o0ZDhSWUg4cC1nZ2gyRjVfeTc0TVVPX2dsdGljSEJycnhtUlVMYy1JTHg0b0RCS0VCQXdXb295NEV1OGwwUEw2Uzg4amc?oc=5",
+   "source": "月刊私塾界",
+   "at": "2026-11-10T05:00+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害 高速サービス通話しづらく",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1ZtU1BJSU5RVVM5STBLWDV1dzV1aWphMGhPSE5rVVhlcDlPMEtZb3BlWENSczNPcjdnaUd2ZkdMblZhTDhTcWFyRlJnSVQ2ZzVXVlVJS2tYRExKR3ZIcmQ5cTNlNUE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-09T20:22+09:00"
+   "title": "セキュリティ人材を買い叩く「日本の経営者の慢心」サイバー攻撃で明るみに",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oeURHMk1ZUTVsQWtnQ01Bc1NsSGtOdEN5WmQyRG1Pc3ppTTlBc1o0d19mQVVHX2xhaWxBZWotNmxHUnBQVmo4WDdPakJidWc?oc=5",
+   "source": "現代ビジネス",
+   "at": "2026-11-10T05:00+09:00"
+  },
+  {
+   "title": "音楽アプリやデジタル写真立て、サイバー攻撃中継 知らぬ間に「加担」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WT0dQRU1XR3FHZWtEU0FlRUk4SXlvQzgzYU5kMHBXMnFiVjA0clNwaTdLa21nVEl0MHV6SUE4dHVJTUoydV9EUXVndkREU1AyYno1T3NTRlRYWDVsaDNKN2dCdzNoRU9KMm12Yw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-10T05:00+09:00"
+  },
+  {
+   "title": "AIサイバー攻撃に日本も官民で情報統合、政府の分析発信力が重要に",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQmRIekY1ODE2TmhPWnZsSGVJcVpwT3BHMTRjQ1RDR1p1TjBrVGFPZ3JBNWhZb1BXMUMzYTZ3MWFMb1Y4QjNOc3g1aXVtcU1IOXZEbzF1cEhGNFY5aG1Uc1RHSUFQUEh5ZzM4Ng?oc=5",
+   "source": "日経クロステック",
+   "at": "2026-11-10T05:00+09:00"
+  },
+  {
+   "title": "アサヒグループ、2025年サイバー攻撃下の出荷作戦～その時、物流現場は？（前編）",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44TTFkYXd1MFp0ZWpDejZRemJLSDY5N3ZYcUxTajUwY1VRRS0wTFlHSDdvSlI3cHZud0xQQTB5SzM4TTcxbzE4SExWS3NMcmZ2c2ZEb1R3c1lIZ25pZExSbTM4TWFIS2c?oc=5",
+   "source": "日経ビジネス電子版",
+   "at": "2026-11-10T05:00+09:00"
+  },
+  {
+   "title": "ギフティGで不正アクセス相次ぐ、eギフト5.5億円損失 サーティワンも影響",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xQ3RrenEwQ1BqYThoT3VvX1E5UG1XWWZ5OTZsRGJfTWQ4aTZNR0Roc2ZoLU94TUREbFl5eHRqWDhQMHhVMmtqMzZuWTV4UnduVjhkaHJkV3ozTlkyaU10NW5lM3Iyck15UFJBZw?oc=5",
+   "source": "日経クロステック",
+   "at": "2026-11-10T05:00+09:00"
+  },
+  {
+   "title": "ニトリ３７６２万件漏えい 顧客情報、不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01bjVwZjhFdXc1VEtZVWxfNXAzbjVwVGVsakxub3A2NEdnQzFmcXF6MnI1R1ZlVDNOVUh0b0FQd1dBZ0pQRUJuVEY3VVBaVDhSV2xtZlRGaEkyekppWkVtSDN3?oc=5",
+   "source": "琉球新報デジタル",
+   "at": "2026-11-10T05:00+09:00"
+  },
+  {
+   "title": "不正アクセス金融の火種に 「アリの一穴」で瓦解も 地銀サイバー対策",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15TnE4UFZXQVJDQWE0SHcyOXFxUzZNRjJPTEI5RUt4Q2hLNmtRcmdITnZVOW1GTUZKblJtX2RJTlNoUGNQQ1d5U0JsVzM3ZFpMbGg4RkEtUmltZzBXVFN5SHdB?oc=5",
+   "source": "琉球新報デジタル",
+   "at": "2026-11-10T05:00+09:00"
   },
   {
    "title": "仏政府、冷蔵庫サイバー攻撃は「イランの犯行」 革命防衛隊を非難",
@@ -420,46 +456,24 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03M0RJOVM3Yi1xVVYzc1ZaekFYN3RrNldOSk5ncWlvQUNweHZnajBqUDhhLVNVRURqWjQ5MXZqY0N0QnNIZ2M2UXZtLXRzN3FJN2RIb09maW52UTQ?oc=5",
    "source": "山陰中央新報デジタル",
    "at": "2026-11-10T04:00+09:00"
-  },
-  {
-   "title": "AI悪用 金融の火種に 不正アクセス問題 地銀 アリの一穴で瓦解も",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vckZNRVBFeHd4MHNuUXY0T3JSYWxPVEhmUUpSY0V4VEtVQlJRSFZXTXJOdDFtWXNLWGxVTTNZX1JPa3U3YmU1NGtkVjhtZmxEcWdLeUhMQk1oUTNvcmc?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-10T03:59+09:00"
-  },
-  {
-   "title": "地銀サイバー対策強化 不正アクセス続出 国が補助金 予算規模は数十億円",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPdjNTUUkweUVlb0c3Yk1lTTJCc25TSG1PX0pucHh2Zmk1OUVEWWVJMmJBZDEtaHJJWlFtRDZnM3E1TG5ISzFEVGgtRjFzS2VHODIyRWhSN0pVM3poY1E?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-10T03:58+09:00"
-  },
-  {
-   "title": "仏、冷蔵庫サイバー攻撃でイラン革命防衛隊を非難 追加制裁を警告",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zZU9hXzJVc09SQTk2aXZDekh2NGRmT3dSTWp4MmtvcVBPcV91MUpQTXRubWVwM2RMSmlPYkJnclpPaHVBOWRSa3ZoWlhMcmpwVWdzb0M0RDFuTUt4YzNBc05ES0xrWEpPbThpeFJKbEJrUjhON3NsN3F0TWVsQQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-10T03:57+09:00"
-  },
-  {
-   "title": "小学館、会員情報199万件が流出か メール配信委託先araraへの不正アクセスが波及",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00blN5QzFYcHBiTmlYTXJGSk5FaFlqMFZWRWtWY2YwZlpIMjNDSm5ncjdpTXZZTnE0ZnhHR2Q4bUpDZjRvMzBPaTE5NUg3YTZuQkZrSmMwUTE3WV9ndkZITzlsUFJSb2lXaEpkTVY4WjRNUGJy?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-10T03:15+09:00"
-  },
-  {
-   "title": "フランス、イランの革命防衛隊が冷蔵庫へのサイバー攻撃を背後にしているとし、制裁を誓う",
-   "link": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQSXBTYmdTMFdLNmdFNU1yUkNCWHlQUzlidHRrRUMyWDNMOHNqSkxqX25lZ2ZjcTdkNF9CaE56VHFHbVF3dm1JcldHMTlHMmZfSDkzRldKUGR5eDBWX0ZRNC12UnZyNGROYzNweEpKalBzcFZ0WjZVUWlMTExWdkl5ZXdSWGF3WHphRjZ0X2E3dkFRNTh4a3pzOEhNOTR4S0Q1cTQ4Q2ZrTExTRkxjRWk2Y1VENmdMbDY5OGVRbF80M1lTZHc3QzByYmNEal9LdEJvY09SUXFHWkNKRl8tVTR0NU14a1BwNWQyVzRscGxWTUJ6bXhCTFBvWGlMUGpzLTlCUmpuMFBXNG1sVm9kR1REY2c4d0JHZHdHd2xDcGU0S1FvSlVqdnFKaWtyQ1paTHJGb0RORERBS29qUmtXcFRQTmtmdUp3cDN1YzZRS0JKZmplQnlYTTVnYzJqZ2N3MmRoNnU5ajREUUFBZjN5dDQwenBzbkZPM2lXMUMtb0JSdDVNRm5udEZPN29OLXNfWEstalZRYmtuMTNYSjFuWFpUcXJtS1ZMaHFzNl9aWm9USE5yWml2eXppaTNsazFSMndXU1lOckFoTUZSOEN3REZtemlEbkJGckNmM2ZRRUtKamVrTUtNMngzd2N1RlNXYWg3d3NfM0RHZjdnNVozY09IQ1JnbUo0bk1CNmxNcHhndjBiNkgtekVRM3FkMnYtcEJaOFJaQ3BWNW5jQlBlUm9HbTdNWGtxVUU?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-10T02:56+09:00"
-  },
-  {
-   "title": "仏スーパー冷蔵庫攻撃イラン関与か 革命防衛隊のサイバー部隊特定 外相「相応の報い」",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BekhxaXQ4dDRVNlFTTEtzc1pSZlpGZEhfYkxYanFpaHF0SFdueUNNS0Zma1hkcVZQd2tuRk15QTk0SWFWV0ZFeTR0NlVnaFltQUQ2REZuNkZCOEN4SHE1NThkaG96UFZyNHJvV295YUZ2ZjZqbnlzNmtn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-10T02:50+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "金正恩総書記の奇妙な訪中 米トランプ大統領と会談前の外交調整か",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50V0M1aVlxbHA4dE1kZzdoZDBqc0FmUWlKTXJIZFVoZTJreFJDdjdaeVFnUUNqdlp5WllZYW13R0gyN0pwZnBHT0dfV05ySDl3UTdzQ1A1dFQ1M191MmhrQWhB?oc=5",
+   "source": "日経ビジネス電子版",
+   "at": "2026-11-10T05:00+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "失われつつあるロシアの「核の威嚇」、それでも決して安心できない理由",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SVDlpUXdIcHNGaV9qcE9oV0JWUlJQZ0R2VlZOV2NkblBIcW1jMl9yWEFqdGU4aERDc0dDWTBiNTlTcXBzbkJzUUNjT0VrOWF2RG00?oc=5",
+   "source": "Wedge ONLINE(ウェッジ・オン",
+   "at": "2026-11-10T04:59+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "フランス、スーパーの冷凍設備妨害をイランの革命防衛隊と断定、EU制裁を要請",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ydVh2ZVZ4eHRKVl8wbVdIbVBUSVRIZ3NwMGVFc0x4OUQ0ZzZJN0xDZjdCSzdhZXdGc0VHNHBKUl9QYjZndXBUMERpeWZIdGlsX1ZiT1dzMHcxS0paZDVfRVFiWWViRzVJWGRRS3R5b0xjS2tJ?oc=5",
@@ -515,13 +529,6 @@
    "source": "Investing.com - FX",
    "at": "2026-11-09T23:45+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ウクライナ南部オデーサで、ロシア軍によるインフラ施設への攻撃で３名死亡",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkZjOWkyT042b3Y1M2ZWZ3M5aS1CQTl6ZE9PUEdLYjFjci1UX2w2OEJ1eVlKc2RXa0lwTmtOWUlKTTlULWlzWFFwZEYwUVpWUm1oZ29YOHIzUnBwQk1zRFV2Z0VsR3gxTXBSdWVMb0FRRTVQNXB4a3Zfc053TGYxTHBadGQ5M0F1bF9sbnB0d2c4dlN1UWpRclliUVpmek9LbkczUlNOX19FdGdmVmdKeE03blRTQWVCOTNiY3hjSDdHcHVlMVHSAcsBQVVfeXFMTVZOb19SeHZJTUdwLTNNYmhLWFNhWW8tNkVMS19QUW0tc2hyUURESTdhM09KeUV3RWtXR05wNFJTUkxtZlFRSzE1ZXB3bHBvSFNTanB4QkhWeTVVY1RmY0Y0clZySDZ5OE9VODJka29wVW1KMXhyemMzTm9xYnN3Qm9XWHJ4TFBWcHBNTjlpWWs4Z2h4Rmp1VzFkemF5SDJRRl9pcVczT0lTM1RMQUdaQ0pKQ0hXcUFkU0hJcnNPYVRJZzhZLVg1UnFtOHc?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-09T22:44+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "トランプ氏、交渉進展があればイラン攻撃命令の可能性は低いと発言",
@@ -592,20 +599,13 @@
    "source": "ウクルインフォルム通信",
    "at": "2026-11-09T18:00+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "「腐った白菜と薄い汁だけ」北朝鮮軍、”栄養失調で死者”が政治問題化（高英起） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBOc3g0RVEtSGVSMlVBUUNsc3NPSDgzcW02R0I2dENVdHAzMWJ4aV93N1c0Sld0VE1rUlp2aVNwd2JTWFJ4bVRGTm9LVWFLb2lvNWlHU3dNOTJtdFlNT195b2MtTDU4SDVWcEJ6a2JxWHVFQlZYb2ZWMU5VUnlNSGNGT1B4eHky?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T15:45+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「タイ中央銀行、全銀行のCIOを招集 日本のIT障害を契機にサイバー脅威への警戒強」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
@@ -620,7 +620,7 @@
     "イラン・アメリカ：「攻撃」「ミサイル」5件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「ミサイル」4件",
+    "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「爆破予告」1件"
    ],
    "items": [
