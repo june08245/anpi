@@ -1,18 +1,11 @@
 {
- "updated": "2026-11-09T09:00+09:00",
+ "updated": "2026-11-09T09:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [
-   {
-    "code": "21",
-    "name": "乾燥注意報",
-    "level": 2,
-    "status": "発表"
-   }
-  ],
-  "headline": "大阪府では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-  "reported": "2026-11-07T09:34:00+09:00"
+  "items": [],
+  "headline": "注意報を解除します。",
+  "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
   {
@@ -120,22 +113,22 @@
      "at": "2026-11-09T07:15+09:00"
     },
     {
+     "title": "トランプ大統領 イランへの攻撃再開「可能性は極めて低い」 交渉に進展がある限りは CNNインタビュー",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IVFZHd0JPbXVET25WODVDME82TUxYYU5GZEQ4UVU5bEZRN3Bjb1FOano5cFh2TjNEcmlGeEJ3OHM5QVdQd0hhX2o2RmpLVzdsUTVsdE5fTTc1bzQxMnhnZF9ndWpXLWlPN2ZvVlNvbU5YeVE?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-09T07:07+09:00"
+    },
+    {
      "title": "対イラン再攻撃、協議進展なら「可能性極めて低い」＝トランプ氏",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjdQSnBTUll3UHpJcnhQeTE4QXNCUDBHbHJNeS1ScE5pYk5iWU1zcHpNc1Q1LV91M0I4R1lBdHNzU20wRkVnU2UxYkFzdGhzNmNZUWRRaTIxS1RvaGlEQU1WY2F5eTlBN3NGSXpxaWtkc2FoWVJuLXpfNlRUYlgyQ1hrYmtqUzg?oc=5",
      "source": "Reuters",
      "at": "2026-11-09T07:05+09:00"
     },
     {
-     "title": "トランプ大統領 イランへの攻撃再開「可能性は極めて低い」 交渉に進展がある限りは CNNインタビュー",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSlNNaWRpWm1wXzA0dExEQnVpdWpLVHhrYk5OQllUUzVDWTFJa2xBdjlTQ29oeTBqS2VSRXJ5THdTTXNGVndwTmZ3aFNVZUdyVy1HNmlaNEotUThLUVBPSF9sMkltSk5qSzlzWEFR?oc=5",
-     "source": "au Webポータル",
+     "title": "トランプ氏 イラン再攻撃に言及 (2026年11月9日掲載)",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56dlZqX3puaTNyUlZraHI5S0FvdFVKS1VoZEFNZTFGSzVFMU5SSjg5NG1tOHV0RHByRWJ2SndvenY5bHlnck4xVEFGZnVGVElEUGVhT0Z5aVlERU1KZlE?oc=5",
+     "source": "ライブドアニュース",
      "at": "2026-11-09T07:00+09:00"
-    },
-    {
-     "title": "トランプ氏、交渉が進展すればイランへの新たな攻撃を命じる可能性は低いと発言",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWJDbXpObGwtQnExRWlTdG52eExZOU9MZXFBR253UWdoT3BMUHNzT0tNYTMwcHlrQy1pdHRXX3RINWtxdDBVZS1fNjdUenBTS0E2QVJ5X1BBV3JQOWctVXhzQnhnT1Vfend6VUM2NjJoNHRJcVNfamlNcldLR3dvSzZCX0RIcUROWnNLMjRSWHFNbGM1ZWpxN204cTdQLTNKOVJXLUNpQURnNnFCMGItZXZR?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-09T05:54+09:00"
     }
    ]
   },
@@ -491,6 +484,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "トランプ大統領 イランへの攻撃再開「可能性は極めて低い」 交渉に進展がある限りは CNNインタビュー",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IVFZHd0JPbXVET25WODVDME82TUxYYU5GZEQ4UVU5bEZRN3Bjb1FOano5cFh2TjNEcmlGeEJ3OHM5QVdQd0hhX2o2RmpLVzdsUTVsdE5fTTc1bzQxMnhnZF9ndWpXLWlPN2ZvVlNvbU5YeVE?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-09T07:07+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "対イラン再攻撃、協議進展なら「可能性極めて低い」＝トランプ氏",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjdQSnBTUll3UHpJcnhQeTE4QXNCUDBHbHJNeS1ScE5pYk5iWU1zcHpNc1Q1LV91M0I4R1lBdHNzU20wRkVnU2UxYkFzdGhzNmNZUWRRaTIxS1RvaGlEQU1WY2F5eTlBN3NGSXpxaWtkc2FoWVJuLXpfNlRUYlgyQ1hrYmtqUzg?oc=5",
    "source": "Reuters",
@@ -505,9 +505,9 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "トランプ大統領 イランへの攻撃再開「可能性は極めて低い」 交渉に進展がある限りは CNNインタビュー",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSlNNaWRpWm1wXzA0dExEQnVpdWpLVHhrYk5OQllUUzVDWTFJa2xBdjlTQ29oeTBqS2VSRXJ5THdTTXNGVndwTmZ3aFNVZUdyVy1HNmlaNEotUThLUVBPSF9sMkltSk5qSzlzWEFR?oc=5",
-   "source": "au Webポータル",
+   "title": "トランプ氏 イラン再攻撃に言及 (2026年11月9日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56dlZqX3puaTNyUlZraHI5S0FvdFVKS1VoZEFNZTFGSzVFMU5SSjg5NG1tOHV0RHByRWJ2SndvenY5bHlnck4xVEFGZnVGVElEUGVhT0Z5aVlERU1KZlE?oc=5",
+   "source": "ライブドアニュース",
    "at": "2026-11-09T07:00+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -531,13 +531,6 @@
    "source": "JBpress",
    "at": "2026-11-09T06:04+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "トランプ氏、交渉が進展すればイランへの新たな攻撃を命じる可能性は低いと発言",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWJDbXpObGwtQnExRWlTdG52eExZOU9MZXFBR253UWdoT3BMUHNzT0tNYTMwcHlrQy1pdHRXX3RINWtxdDBVZS1fNjdUenBTS0E2QVJ5X1BBV3JQOWctVXhzQnhnT1Vfend6VUM2NjJoNHRJcVNfamlNcldLR3dvSzZCX0RIcUROWnNLMjRSWHFNbGM1ZWpxN204cTdQLTNKOVJXLUNpQURnNnFCMGItZXZR?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-09T05:54+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手",
