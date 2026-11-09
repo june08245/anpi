@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:15+09:00",
+ "updated": "2026-11-10T06:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-10T06:16:00+09:00",
+   "place": "橘湾",
+   "mag": "3.3",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-10T00:09:00+09:00",
    "place": "瀬戸内海中部",
@@ -74,16 +84,6 @@
    "mag": "2.0",
    "maxi": "2",
    "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-08T19:39:00+09:00",
-   "place": "日向灘",
-   "mag": "3.0",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "欧州、ロシア侵攻で米に注文 Ｇ７開幕、公正な解決迫る",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Qb3Z6Y1Jtb0JlWlJ5UVZTMi1GQ19NT3ltSGxMSGt1VDUwaWVrZDNKb0xpUmNkMVpjZVVPN0JyNUlCWVRBbzg3dHJpN3lHc3N5SVRRMUtxcU9RaU41M2c?oc=5",
+     "source": "新潟日報",
+     "at": "2026-11-10T06:20+09:00"
+    },
+    {
      "title": "ウクライナ戦争「もう一つの戦場」、スロバキアを巡るロシアとEUの攻防",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UUpCTHE2ZmJ5X1JBak42V3E3cmF4VTlTVENoTWFheFE4U0JIUTFmMC1CbklDSFNJem4yc3ZpZG9GbE50ajJmdXFFZENBMVNoYkJnM093?oc=5",
      "source": "JBpress",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBveVE4Y0NrMm92SGxBQVEyd3VlNUNxWVpIUjROQnAtYnplR0dDeVZGRVQxZ3pEQzNBR1ZqSTFJdE0wWGdWYnYwMGl0R3B0aWFXMDYzYWF5NGIyYXlSRU5DdFNmWk9Cb1lkejRENmN1cS1BN1c4VE9VVXdPNXFMcUE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-10T01:37+09:00"
-    },
-    {
-     "title": "ロシア軍は１０月に南部フリャイポレ方面での強襲の回数を３倍に増加＝ウクライナ空挺強襲軍",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeW5EMUYxWUQzZWppLVRsQVpIS3QyQ0p4bExfcjlCY285LW04QTBFQl9NMHFxM0FJYVFCcnNxU19OSHgzUi1UODJCUG0tMHZRdjl6aWZSOHQweV9KR0V6LXlvT0ZZLS14MUtNWEZ6aldhWGVEUkZ2SzFHZWFfMGhaRHBqYVl2MlJzZmkzOHo3dFAxb3h4eGVaUzB4RVoxUURaSmNCWU1BSzl0MDlwSnFfM3dzVVBiMFhveEVpd2IzVXBNV0xtb2hPV0J6VjRySjFyUkw4WGRSdmYtV0wxNHFFSlZqN0lmOU1hLUYtMVVueFYtQ2V6bXfSAfsBQVVfeXFMTnVYYnpic0xqUDhiV1lubWNvZUxLR2ZhVDFTWHNNQXAtbkg5SVl3LUQ3SkdOVmFicXVEMnE1X3VUUHRHWDAySXZyQ2dzaG92VUpncnJiaDVkY0l1ZEtrM3FQUFlIS1o2ZnNGLWROenhjS1RldHNOTU1RaElMV0xWNVNmX0R3TzlvTjVoT3pqOTJGLW9ncG1GT2MzT0ZiTEQxUVA1SnNzU1JVb29SSkhzUHY1OWNDZ3FFanJTY1dqWnBRMzRQUWd5RXpHeVVjQU4xLTdIVlhnREFnVURfMm9QSEVOVDd2OHQ5ZWNzV3NBeFZUNURKUnJxcjhKZjA?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-10T00:19+09:00"
     }
    ]
   },
@@ -374,6 +374,18 @@
    "at": "2026-11-10T02:55+09:00"
   },
   {
+   "title": "フランス冷蔵設備サイバー攻撃 イランの犯行と断定",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wTzByQzcwQi1TYjRkbnQzSks3RmI3QTZ4TjBfZTJoLV9YZkRCTTduNU9ZcXl0OXRWNTZHRFhpSTAxQnRqeVdlVllkR0UtUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-10T06:26+09:00"
+  },
+  {
+   "title": "サイバー攻撃、イラン犯行と断定＝冷蔵設備の温度急上昇―仏外相",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ETmZRTXpGRGxBSl9QamRVM1JkekNmVG1CSUZzdHM3STRCY1RmTDhGb2lPbFA4TWFTb3NtbFU1OG9GeVJKN2wyOC1ObC05MnpYZ2FjSzh2RkpqOXBZeTVr?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-10T06:15+09:00"
+  },
+  {
    "title": "ソニー生命、個人情報２９０万件漏えい＝不正アクセス受け",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aaU9zbHdhaHUzTTZPTlFsUllCZk10TWdheHdhTFpXeHBJYmZkcl9nckx6SVVXVHI4RGlPZUM0NHdpR2l6Und6TGJiWF9oazFWdjY4ODE4dzc?oc=5",
    "source": "リスク対策.com",
@@ -444,22 +456,17 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WT0dQRU1XR3FHZWtEU0FlRUk4SXlvQzgzYU5kMHBXMnFiVjA0clNwaTdLa21nVEl0MHV6SUE4dHVJTUoydV9EUXVndkREU1AyYno1T3NTRlRYWDVsaDNKN2dCdzNoRU9KMm12Yw?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-10T05:00+09:00"
-  },
-  {
-   "title": "AIサイバー攻撃に日本も官民で情報統合、政府の分析発信力が重要に",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQmRIekY1ODE2TmhPWnZsSGVJcVpwT3BHMTRjQ1RDR1p1TjBrVGFPZ3JBNWhZb1BXMUMzYTZ3MWFMb1Y4QjNOc3g1aXVtcU1IOXZEbzF1cEhGNFY5aG1Uc1RHSUFQUEh5ZzM4Ng?oc=5",
-   "source": "日経クロステック",
-   "at": "2026-11-10T05:00+09:00"
-  },
-  {
-   "title": "アサヒグループ、2025年サイバー攻撃下の出荷作戦～その時、物流現場は？（前編）",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44TTFkYXd1MFp0ZWpDejZRemJLSDY5N3ZYcUxTajUwY1VRRS0wTFlHSDdvSlI3cHZud0xQQTB5SzM4TTcxbzE4SExWS3NMcmZ2c2ZEb1R3c1lIZ25pZExSbTM4TWFIS2c?oc=5",
-   "source": "日経ビジネス電子版",
-   "at": "2026-11-10T05:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "欧州、ロシア侵攻で米に注文 Ｇ７開幕、公正な解決迫る",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Qb3Z6Y1Jtb0JlWlJ5UVZTMi1GQ19NT3ltSGxMSGt1VDUwaWVrZDNKb0xpUmNkMVpjZVVPN0JyNUlCWVRBbzg3dHJpN3lHc3N5SVRRMUtxcU9RaU41M2c?oc=5",
+   "source": "新潟日報",
+   "at": "2026-11-10T06:20+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "「金正恩死亡なら与正がジュエを管理」核の統制で混乱、不安定化も",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tUGRORW5tYkpmTTV3RXNkeUJVcXNReG56bG5DR25VNXZHSW5QMnpxZ2ZVUTNaeEhvMi1oZDFuV0lZeGpVRHlsMnJTMldkSDFsZjhZaHhNMThvSjE4SVd5bHhqOUVSZVFkLUg5ek9nQ2tjWkFySVNV0gF8QVVfeXFMTU54azlhWU41S0k4MnpNTklUY3Rlc3BLbnJIWnFHUm85emwwcmh2MWhHWWF6Uy1tVjFPYnpzR0IzeVpuUU56d0dwcGc0VVpZV2JtYjNLTXYxS2huSE1QNWZZaFZ4eE1CYjRIN1VTVThUSTZ5ZGtPNkhFRW9IXw?oc=5",
@@ -538,13 +545,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア軍は１０月に南部フリャイポレ方面での強襲の回数を３倍に増加＝ウクライナ空挺強襲軍",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeW5EMUYxWUQzZWppLVRsQVpIS3QyQ0p4bExfcjlCY285LW04QTBFQl9NMHFxM0FJYVFCcnNxU19OSHgzUi1UODJCUG0tMHZRdjl6aWZSOHQweV9KR0V6LXlvT0ZZLS14MUtNWEZ6aldhWGVEUkZ2SzFHZWFfMGhaRHBqYVl2MlJzZmkzOHo3dFAxb3h4eGVaUzB4RVoxUURaSmNCWU1BSzl0MDlwSnFfM3dzVVBiMFhveEVpd2IzVXBNV0xtb2hPV0J6VjRySjFyUkw4WGRSdmYtV0wxNHFFSlZqN0lmOU1hLUYtMVVueFYtQ2V6bXfSAfsBQVVfeXFMTnVYYnpic0xqUDhiV1lubWNvZUxLR2ZhVDFTWHNNQXAtbkg5SVl3LUQ3SkdOVmFicXVEMnE1X3VUUHRHWDAySXZyQ2dzaG92VUpncnJiaDVkY0l1ZEtrM3FQUFlIS1o2ZnNGLWROenhjS1RldHNOTU1RaElMV0xWNVNmX0R3TzlvTjVoT3pqOTJGLW9ncG1GT2MzT0ZiTEQxUVA1SnNzU1JVb29SSkhzUHY1OWNDZ3FFanJTY1dqWnBRMzRQUWd5RXpHeVVjQU4xLTdIVlhnREFnVURfMm9QSEVOVDd2OHQ5ZWNzV3NBeFZUNURKUnJxcjhKZjA?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-10T00:19+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イランとの軍事協力深めるロシア ミサイル発射機90基供与で合意",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pWkRIMFk3QWxIMUZ6NFRCXzAydGpScHdYVEZRRHM1Q2FnNDRTcEJvbUxIbkxqa1Ayak1wejRfcW5FNDlUeU9LLWVsbE9HbVlwT3pQU3hlTENlYXJQanl3SDE2T195a2Y0TExfem8wOE9mX2QwcFB3?oc=5",
    "source": "日本経済新聞",
@@ -620,7 +620,7 @@
     "イラン・アメリカ：「攻撃」「ミサイル」5件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「侵攻」2件",
+    "ロシア：「攻撃」「侵攻」3件",
     "欧州・NATO：「爆破予告」1件"
    ],
    "items": [
