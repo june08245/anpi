@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:30+09:00",
+ "updated": "2026-11-09T16:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米軍、イランへの陸上輸送遮断 海上封鎖に続き締め付け強化",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tSGQ1UDd6eWxpZHpOQld5dnJocmVKQzJfeWFfS1VtSWdmQmd2ejY4b0FSNGd0VVl2SUtPVzZod0JNY3FEMzB5SHM4SGlIVFo2ZWfSAVRBVV95cUxPYTJfNkdUY3BpV3NHRl90b05udGlJc0N2bVNCZ1gwb0JEYnhNZ29TOWZCQUQ3NElVS0RpUE1DdzZXUEc3TjF0RVIxaFhweTVPX1pWOGs?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-09T16:34+09:00"
+    },
+    {
      "title": "米中央軍、対イラン「アイアンゲート」設置を発表 陸路とカスピ海の兵器輸送を阻止へ",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LWFZkSUdNTHY2SkpjSjdhRktJMW5LUVVMaExrV09qT2NLOXJob2t4aExiVDYtRVJaQ2cydWl5b1B2M3drSFpFTG5fQmN5cXh3YW1pVU1lUHVnaEl3N2oyUUtB?oc=5",
      "source": "NOVAIST",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYXpHT1dnUHBuTzVXTE9BdjVrLUtrbl96Ni1oeXB0M21rN0tjTzVRNXdSbXNrZzJjNlNxVmg5T1U3MjJ0UHMxSWhqMm9ONmFvQThSdXoxQ1Vhc29MeEE3R3NQWklpdTI5d1pKbmRrQ2treE1RbXEzMTV6SHBBR3k1SVdSai1fMk0?oc=5",
      "source": "Reuters",
      "at": "2026-11-09T11:19+09:00"
-    },
-    {
-     "title": "米大統領、副大統領発言をけん制　対イラン軍事作戦、離反警戒か",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSThRVmsydi1CUWg2bVBrdkpoTU5WWHhSZkdpRUEyWFhsSkg5NHcxQVBsQzFDVHk4ZURKRElmZ0RmLUlPN2RydXNpSWpMbkM0ZkFrN0RQejF0WmlfTGVMeHZIbmZlYlFPaW5YNV8zdE1fa1hIZHNVYklkMmJ2OHRLMXJnZG9zUE44QVHSAY8BQVVfeXFMTUR1aUFhMzVPcnFKMzlMOFJqZkxoemtZRXdzMFlTU3VPR2NMeFFjNVpxc2p0ZEhhSUNxdW82RGlzVElLTXpPOVNSQ1Z4VjZ6cEJodUIyMlZ2cGpfZDdXUnFfeENVRl9SWllhSnNmUU5JdXJ0dk1vTF9SU2tRVnFoUFluYWREaVBkVkZXQWhJN28?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-09T10:42+09:00"
     }
    ]
   },
@@ -185,12 +185,6 @@
      "at": "2026-11-09T11:40+09:00"
     },
     {
-     "title": "「核科学者４人を公開処刑」金正恩が繰り返すエリート粛清の恐怖（高英起） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEwyanVlSHBfZUROVmYwSVZ5MmJ4cFpWWS1DQlp4WUZUTlpjM3BxSC1uTTluNzV3ZnZKenFCMVNaOGVVS2U5VHlNMjdlNFpteWpKZ0ZiRkNrQWo0bWl3VU9BR2ZueDFvZGJ4ZGxmWlZianQ0b25tWW1OdnZZSUZaYUw0b01XdFdo?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-09T11:31+09:00"
-    },
-    {
      "title": "北朝鮮ハッカー集団か…“会話”入手「優先地域は日本」 サイバー攻撃の裏側、最近の手口は『バンキシャ！』",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11Q1NRZGNUUl96QlNod0ZSbTRaTDIxRS1hbEVCbU1nUFY5SGJuOW1BdjZ2c1h5SnR2bk5qZkdQU3J4SHJZMjQ1T3VyWW0tbWtpT2VhbS1XZFlVVmpoV29CeDdXSHlvWk9JYkNrZXFR?oc=5",
      "source": "au Webポータル",
@@ -213,6 +207,12 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVlHbE1UNml2V0cwYVhaNEVpVGxKaXJrbXJOU21aYzc1RWJzdGhyQlBERmROYVFTc2pINXg4VHVhSjJRalN1UVpoU0pnYlEzZnQzODdEb1RPT1hjY0piZ25Zb1VYZGpVU1lXRWd0MG45eGJ6cHMtbVhCWXhBZHlrOEhQeHNNemNm?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-09T06:05+09:00"
+    },
+    {
+     "title": "米国務省「独自制裁は強力な手段」北朝鮮バイナンス事件受け協力呼びかけ＝報道",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jRGFXZ29zenhfYWtUNkZFT1poYUtnNGdrbGlGZlctRzdvbFdxSzc0cG1QMXllUGJjTkQyVk92QktocmtQUW1iT0xKSmlmdw?oc=5",
+     "source": "BitTimes",
+     "at": "2026-11-09T02:35+09:00"
     }
    ]
   },
@@ -251,9 +251,9 @@
      "at": "2026-11-09T13:22+09:00"
     },
     {
-     "title": "侵攻ロシア側死者39万人か ハッカー集団が公表",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03S0tVN2ZJazBqcl8tdjJRdWJFTVljQVdQVk5yMXdLNXZvc2VvT2ZwU2FyOUhNQ1RBcnVldTlXMFFLVlBZVlhmMEg2QQ?oc=5",
-     "source": "47NEWS",
+     "title": "侵攻ロシア側死者39万人か　ハッカー集団が公表",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPelVmTXZRYnl5QzI1Z082TGFiaG51MDhCQmtpNHJDWEsxTWRfdFZfUVExNDY3RTNBMkhyemtBYmt3MTNJNF9YT3lBbzdFX256djBxbkdSeF9sVGlUVHNJZFktTlZELWdldFFzMS1GeHp5ZjNJelpzRk1KM1pzSWhwdVV1VFEycGpmUFHSAY8BQVVfeXFMTWxZdFRZcVdhSmxkTjk4a3A3a2JxV2hTb1RRUzZkdm42WUZObDd2R0hIamtJZF90em5uWlJRcUlHWmdzbnNidDVWYmhLUlpEdTVIZWxON3dHbXJKUlZYUFFjY0VvRWVhb01pZ1k1OW1SalpQLUhJT3VjbmVqTUtBRy1jQWZWMHVtZ2JsRThBSUk?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-09T12:39+09:00"
     }
    ]
@@ -386,6 +386,24 @@
    "at": "2026-11-09T14:36+09:00"
   },
   {
+   "title": "住友生命、8万人分漏えい 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mLUFoSHBCQVd3MXhPWFJJNzhfdFVObEFuc0tacTEyeTVEbEJXNjRHUG5LTkt1elE3MERxcFF0V2tMd1VUVnRJbWtkS1BobVNjTWpSUTNlemZVcWdpcGZZX0ZkRE1RS2h3TmtIcHI1Ty1tMTRCemc?oc=5",
+   "source": "サンスポ",
+   "at": "2026-11-09T16:36+09:00"
+  },
+  {
+   "title": "ステップゴルフに不正アクセス、口座番号や顔写真含む最大21万5000件漏えいの恐れ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SQVhUcmVBczNla1RKay1BZGtoMm1rdUJ5eXhVcGdfUDRkS21zZjRyeF8wME0xVTJOaHIxVURGMkIxRGI4eHQyZ2tmRG9OaVNqRktyMUZfMl8za2RKT3NJdUpLRXJJMXFGVVlQeTRkUjhMTUtP?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-09T16:35+09:00"
+  },
+  {
+   "title": "「さっぽろえきバスナビ」停止 外部からの不正アクセスで誤情報配信 個人情報の漏洩なし 札幌市",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44dFhHa2h5R2VpWFJDdE5oMTkzRmhZRi1rSUprdi13UUJlQkFaUHRTTW54bFdqWTdFSV83T2hOMlA0WHJMVTZObFBxOUczSC1PdEt6endJVjd5c25oSTJBazFMWGpMMWpMdzY3a2p1REJsbUdoSVJTcC1RcGk4ek0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-09T16:25+09:00"
+  },
+  {
    "title": "セガ メールアドレス219万件余流出 アララ不正アクセスの影響",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JdGY4bHJtaTRTcVM5cWF0dmFQY0xmbzhvT3lMUWo3dE9tdEswelVZRjZVOHlKQWViOS1MOGM1dHdCd3BVSmtJQ1djRTNZbVFuM2NKR0xsNm05d2Ric1Zn?oc=5",
    "source": "NHKニュース",
@@ -404,9 +422,9 @@
    "at": "2026-11-09T16:10+09:00"
   },
   {
-   "title": "セガ、委託先システムに不正アクセスでメアド流出。2,196,044件",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43VzJidG5FbTdELUw3MWlkSjdpWmUyV1NMUFcxa3ZJU3hLT0N0ZjhwTy1RdXpaUFBCeWpLak0tbG9JVGphVGthU2NWcUlrbEJ6eS1CRVZFT3h2djdJN1dfWWlra1NQdw?oc=5",
-   "source": "GAME Watch",
+   "title": "セガ、委託先システムに不正アクセスでメアド流出。2,196,044件（GAME Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiQ3NvaGo2R0s5Tng3OFpGU3dCaW1ZWTIyVGpVekVWRXRjcUVIZC1MV2NFTG1EYXNObm9NRW5VT2JWUGdmeXV1Z2pkTUc4RlcxWmVZSkhLMlU5YlpDbTlCUFIzcnlrS0x1dlJqZmI3ZTl3VUU4bkpUTmpZbk41Nm8?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-09T16:05+09:00"
   },
   {
@@ -444,28 +462,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iWUE2dGhLZnJkbU5PMGk0WVljdzJMUi16Mnh5QjdYNF9LeHZ0aV9kbldOdUdiMWFBWENrMWNqLW5UQ1ZmdHhBWVNoSGxNQVd4WTFWeTdIY3c4a0VRUW5R?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-09T15:39+09:00"
-  },
-  {
-   "title": "米5機関、産業用冷凍・冷蔵設備へのサイバー攻撃を警告 温度操作や火災につながる恐れ",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzWWw3YkpaZkd4Slhfbk9UQnBGelpvSUp6SWQxWGdZQ0gzM1hBVk13anNrOHF3QXpOUjZQcVZCMzJkamN5RExjVnp2ME1MR1Rscy1uaC00M0Y2bExWVjh1d2c3Zw?oc=5",
-   "source": "NOVAIST",
-   "at": "2026-11-09T15:33+09:00"
-  },
-  {
-   "title": "アイリスプラザ、不正アクセス被害でECサイトを停止。会員・非会員の約770万件が漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4elNQdVV4SlZfWV90Y0piYmxpZk5qMFZKTUhiV0YzZFNwU0NUMmhBNWMyekFlTU52SmFkY20wWW5xQzFWcFFzcFpFQVdQQmx4bl9nSk1IdEw1bHdGT29HdnJFQzNlOW5lMG4ycW5EMlRsN3VBWGhPeExFY3FESmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T15:31+09:00"
-  },
-  {
-   "title": "GMO不正アクセスを受け通信遮断の議論再燃 政府の緊急対策と通信大手の慎重姿勢",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jdVFLbmJBWXlSY3JUcFNIc3JUaE1qeTVtYUlGZTRja04tSEZMUU42Z2RDSkhqSXRIenltZE9WRVNaSzlySlNERVFyUUNXODNqbDdYZklJRHFoR0EzNlRUbW9FWUQ4Zw?oc=5",
-   "source": "NOVAIST",
-   "at": "2026-11-09T15:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米軍、イランへの陸上輸送遮断 海上封鎖に続き締め付け強化",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tSGQ1UDd6eWxpZHpOQld5dnJocmVKQzJfeWFfS1VtSWdmQmd2ejY4b0FSNGd0VVl2SUtPVzZod0JNY3FEMzB5SHM4SGlIVFo2ZWfSAVRBVV95cUxPYTJfNkdUY3BpV3NHRl90b05udGlJc0N2bVNCZ1gwb0JEYnhNZ29TOWZCQUQ3NElVS0RpUE1DdzZXUEc3TjF0RVIxaFhweTVPX1pWOGs?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-09T16:34+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ウクライナ情報機関の指導者がロシアと米国との3者協議団を率いる",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0ZCV21NVHU4XzBGcjRVdk9FVl9SNEJfNFpXSDl2RnFPb1kyX2VJRzdjRmtmNjZfc1VNT0VpN3MyQmU3eEFLc2VPaGVaeEk0YVpTallsV2xrM190MFpZYmdrcm80OU5NNEVXQ3NkdTdBN0FERURfUndRanIzODJPOTVJNmIwSWxiQWMzTnEzQ2ppUlpvbnM5UzJfSkpkMENUQmw0LVRYY1d5NGJ0QTBjeXo3LVA?oc=5",
@@ -530,9 +537,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "侵攻ロシア側死者39万人か ハッカー集団が公表",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03S0tVN2ZJazBqcl8tdjJRdWJFTVljQVdQVk5yMXdLNXZvc2VvT2ZwU2FyOUhNQ1RBcnVldTlXMFFLVlBZVlhmMEg2QQ?oc=5",
-   "source": "47NEWS",
+   "title": "侵攻ロシア側死者39万人か　ハッカー集団が公表",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPelVmTXZRYnl5QzI1Z082TGFiaG51MDhCQmtpNHJDWEsxTWRfdFZfUVExNDY3RTNBMkhyemtBYmt3MTNJNF9YT3lBbzdFX256djBxbkdSeF9sVGlUVHNJZFktTlZELWdldFFzMS1GeHp5ZjNJelpzRk1KM1pzSWhwdVV1VFEycGpmUFHSAY8BQVVfeXFMTWxZdFRZcVdhSmxkTjk4a3A3a2JxV2hTb1RRUzZkdm42WUZObDd2R0hIamtJZF90em5uWlJRcUlHWmdzbnNidDVWYmhLUlpEdTVIZWxON3dHbXJKUlZYUFFjY0VvRWVhb01pZ1k1OW1SalpQLUhJT3VjbmVqTUtBRy1jQWZWMHVtZ2JsRThBSUk?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-09T12:39+09:00",
    "topic": "ロシア"
   },
@@ -558,13 +565,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "「核科学者４人を公開処刑」金正恩が繰り返すエリート粛清の恐怖（高英起） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEwyanVlSHBfZUROVmYwSVZ5MmJ4cFpWWS1DQlp4WUZUTlpjM3BxSC1uTTluNzV3ZnZKenFCMVNaOGVVS2U5VHlNMjdlNFpteWpKZ0ZiRkNrQWo0bWl3VU9BR2ZueDFvZGJ4ZGxmWlZianQ0b25tWW1OdnZZSUZaYUw0b01XdFdo?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T11:31+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "米軍が対イラン封鎖強化へ新部隊、先進兵器などの陸上輸送も遮断へ",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYXpHT1dnUHBuTzVXTE9BdjVrLUtrbl96Ni1oeXB0M21rN0tjTzVRNXdSbXNrZzJjNlNxVmg5T1U3MjJ0UHMxSWhqMm9ONmFvQThSdXoxQ1Vhc29MeEE3R3NQWklpdTI5d1pKbmRrQ2treE1RbXEzMTV6SHBBR3k1SVdSai1fMk0?oc=5",
    "source": "Reuters",
@@ -577,13 +577,6 @@
    "source": "公益財団法人 国家基本問題研究所",
    "at": "2026-11-09T10:51+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "米大統領、副大統領発言をけん制　対イラン軍事作戦、離反警戒か",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSThRVmsydi1CUWg2bVBrdkpoTU5WWHhSZkdpRUEyWFhsSkg5NHcxQVBsQzFDVHk4ZURKRElmZ0RmLUlPN2RydXNpSWpMbkM0ZkFrN0RQejF0WmlfTGVMeHZIbmZlYlFPaW5YNV8zdE1fa1hIZHNVYklkMmJ2OHRLMXJnZG9zUE44QVHSAY8BQVVfeXFMTUR1aUFhMzVPcnFKMzlMOFJqZkxoemtZRXdzMFlTU3VPR2NMeFFjNVpxc2p0ZEhhSUNxdW82RGlzVElLTXpPOVNSQ1Z4VjZ6cEJodUIyMlZ2cGpfZDdXUnFfeENVRl9SWllhSnNmUU5JdXJ0dk1vTF9SU2tRVnFoUFluYWREaVBkVkZXQWhJN28?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-09T10:42+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "旅客機爆破予告に銃乱射まで…恐怖に包まれる欧州",
@@ -605,6 +598,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-09T06:59+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "「日本国民は生活が苦しくなる」北朝鮮が異例の心配…防衛費増額を非難",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aU0tPXzBvMHd5b3dwVnBPTFZxQVVTTFREdGtsSThLX0R4dTI2N0xoWEE3UFFuTFd5RTJfM3VYTWd6Qk8xWmFxaXpvb1Rqbm5WY1lvbGFoLWVuZnJKUTd3?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-09T06:28+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -623,7 +623,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」4件",
+    "イラン・アメリカ：「攻撃」「封鎖」5件",
     "中国・台湾：「侵攻」1件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「侵攻」3件",
@@ -631,10 +631,10 @@
    ],
    "items": [
     {
-     "title": "トランプ大統領「多くの人が快く思わなかった」 バンス副大統領の中間選挙の敗因は「イラン攻撃」との認識に 「彼は正しい」とも指摘 (2026年11月9日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IWmpySFZBdTNyNWFqOWlSaEtiSGpjMWdnelF1b2dXdUk2U1hEaVBiS2p3QU9vMURRNHlOemRVc3RFbS1vbXhodmotV1I4U0hRQTJxVVVNSjlybDBTVFE?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-09T14:16+09:00"
+     "title": "米軍、イランへの陸上輸送遮断 海上封鎖に続き締め付け強化",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tSGQ1UDd6eWxpZHpOQld5dnJocmVKQzJfeWFfS1VtSWdmQmd2ejY4b0FSNGd0VVl2SUtPVzZod0JNY3FEMzB5SHM4SGlIVFo2ZWfSAVRBVV95cUxPYTJfNkdUY3BpV3NHRl90b05udGlJc0N2bVNCZ1gwb0JEYnhNZ29TOWZCQUQ3NElVS0RpUE1DdzZXUEc3TjF0RVIxaFhweTVPX1pWOGs?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-09T16:34+09:00"
     },
     {
      "title": "習近平の大粛清で中国軍が「機能不全」の危機、台湾侵攻の可能性は低下？軍最高幹部まで排除された異常事態",
