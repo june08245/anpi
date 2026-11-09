@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:45+09:00",
+ "updated": "2026-11-10T08:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -119,16 +119,16 @@
      "at": "2026-11-10T06:30+09:00"
     },
     {
-     "title": "米・イラン核協議に進展報道、ブレント原油が一時約8%急落し91ドル割れ",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oTzJST0xNVDRYaVRtTEViRmJEdWFjeWdXczR6RWxrVHYxNW1kRjNSNjlJcEZ4al9oUW1jVExPWFo3NXA1c0R0ZUQ4ZThGck1EY1hiYjgxNVhjbnJFeFZzSXFDT1R0NXVVSFJuQUNKMWlPcHVk?oc=5",
-     "source": "BigGo ファイナンス",
-     "at": "2026-11-10T06:05+09:00"
-    },
-    {
      "title": "トランプ氏「必要ならイラン攻撃再開の用意」、カタール・サウジは和平望む",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxsR3RTSW9nMDBYcWJGWTZrVGtvNEpIZXFHUXdxWVZDQzAtbk1PbDZjcEE4NjhlNjU2b2ZGNlgxcm9XOXEwcXdId3E1S1VyNFBTMGZQcTFQMEh4eTk3LU5kQ211Y01aTExsSG5USDFVT1M3WFRtbXVGRFRkd1hWdkpyeWx4aDA?oc=5",
      "source": "Reuters",
      "at": "2026-11-10T05:55+09:00"
+    },
+    {
+     "title": "原油急落、ブレント7ドル安 トランプ氏がイラン再攻撃の可能性否定",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FeUg3eS1Jeng3a2dfbGRmbnlsR2N4b095X1VhaDhpempTOTQxZGhjbml6X1lhLXBLQXpsYzZ4MGxkVnpPQWExWDhfTzItbWljM2FtbHN1Y2NLQzNfeWFoZlVOZ0VNaWVBZnN1bEtFSFJ6RS02R1NMbTlkMXEwdw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-10T05:21+09:00"
     }
    ]
   },
@@ -179,10 +179,16 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "北朝鮮、新型高速魚雷兵器システムを試験発射 来年初頭に配備へ",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckQ2Ry1keW5EOTZYZVpGQjRKVFk4bm1OM3ctNFM0cEJla3lwb1c0eG5oTHJEM3ZrdG9KbGlXUlZQbWNJX1ZDSkk5NG1GZTJHSHJuVHI4WVRrYnhSOFU2WGloQ2YyS2JfdkpvbVNIN2hsUXNuQVR4TXg1QzRWVy14VEJNZExCcWc?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-10T07:37+09:00"
+     "title": "北朝鮮サイバー攻撃、連携して対処＝Ｇ７外相、暗号資産流出受け",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQjBBc0p2R2R3RlJHemR1dHQ4QVJ4em9tUVpEQ2tfZXVhdTliN3VOTmRyRmYzZ3hUTWJuSG5IOWpVVkRvdmtwMTd3Q01nSzhUSGJyZUxNWUtpem11eFRB?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-10T07:50+09:00"
+    },
+    {
+     "title": "北朝鮮、新型高速魚雷兵器システムを試験発射　来年初頭に配備へ",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82M2w5VWpodUI3R1RBdXhLcEFIOEJZR3dxMTdUSnJwTW1Fd3B1QVduRHQ2MEswLWRQWkNtQWRrdlMyT2UxZmtLVk1QQy1BZHpVYUhRckg0LWlteWVyS0QyLUxPb3dxNFpvNDNoaXI2bzFMMmFmTFFXNnJZYW01QdIBgwFBVV95cUxPWnowZHRDV2I3a1o3U0ZlMi00WDJKUHdIMENnVllxaHhYcVBONF95b1ZNSzBtOW1MVFVSaE96QmlPZlA3TThDRkpVRTFuOWtNMnZZd0xVVlNickFOZkM2a0k3RkxYRFhfTXhPMndDZ29LRm55Nk9hX2JsZHNMVm5TaERMVQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-10T07:49+09:00"
     },
     {
      "title": "「金正恩死亡なら与正がジュエを管理」核の統制で混乱、不安定化も",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUVTZwWktKVktlaXp0dG5qdUlDWk1fTVFIdUxaNU1VelNlR0hmZ1NDQmFCUHlacHFsLVd0Z2NoVlBPdDdZcTdNeFlRM1dfVlcydUJnRGZKVmFhaTJkZnB5WEwtN3ItYjFzMkdCdkZYQXV1d0lXV1NmaWxPNlRFNDg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-09T11:40+09:00"
-    },
-    {
-     "title": "北朝鮮ハッカー集団か…“会話”入手「優先地域は日本」 サイバー攻撃の裏側、最近の手口は『バンキシャ！』",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOXJVODVSVEZxMmpINzNBd3ZsS2NKR3QzY3otcGF4eGJGT2cydkxhUnZ1cGo2R21LdDl4cUZNRzRCdlY2UjN3VERzRmV2ODRCRkNCT1lESFE2RUtlQUg5bTZBdHljNS1yclVlU0ZPVzA2MVlTaGM3ejVpN1BPbTg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-09T07:26+09:00"
     }
    ]
   },
@@ -303,16 +303,16 @@
  ],
  "nankai": [
   {
+   "title": "浜松市震度５弱の地震「南海トラフへの直接影響なし」 気象庁の評価検討会会長が見解",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UmhkYWNiUkdBVk1OZUJRLUtpVUo4V0VNUzJ4XzZESU5iYVYtbGxXc09iMEdsY19YN3l4R0ZGOGtadFR2Wl85QkJZdGc4QQ?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "at": "2026-11-10T07:49+09:00"
+  },
+  {
    "title": "南海トラフ地震に直接影響の可能性低く…愛知での約30年ぶり“震度5強”に専門家「『大丈夫だ』ではなく早めの備えを」",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjamNRSEdlcU96dG1ra0FYeGpDUHlYNEdxdmxCWC1NQlZjcDE5TUpmbUM2el9nVnFfNGJJM21NNXZFYUVKT05TRHlNS05wdw?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-10T06:30+09:00"
-  },
-  {
-   "title": "南海トラフへ影響ほぼなし 気象庁 愛知・知多で震度５強",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40RzloQzVPZnFDODN4ZWthRmdwNXhRRFA0V0NrdjNuZE1jMjUxSjhidFIyUGVlZ1NvdHgyN2ZXQ19yZWhyOFFwcm5qeEZUU0VwVVBGbklkMzk1V3RzZElrYzJ1UQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-10T05:00+09:00"
   },
   {
    "title": "愛知県知多市で震度5強、愛知・静岡・長野で計25人けが 震源地は愛知県東部、南海トラフとの関連性「低い」",
@@ -333,10 +333,10 @@
    "at": "2026-11-09T21:03+09:00"
   },
   {
-   "title": "浜松市震度５弱の地震「南海トラフへの直接影響なし」 気象庁の評価検討会会長が見解",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UmhkYWNiUkdBVk1OZUJRLUtpVUo4V0VNUzJ4XzZESU5iYVYtbGxXc09iMEdsY19YN3l4R0ZGOGtadFR2Wl85QkJZdGc4QQ?oc=5",
-   "source": "静岡新聞DIGITAL",
-   "at": "2026-11-09T20:25+09:00"
+   "title": "記者会見する南海トラフ地震評価検討会会長の平田直・東大名誉教授＝9日午後、気象庁 - 南海トラフ、特段変化なし 愛知震度5強「影響せず」 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pSTFnQThhYXRQSjl6NnA4ZklQcGloTTJldWR5LUI3R0dFM1FncE1fd09DQ3Q5VmZPbVFoUUZqRXdZSlNhanFFeDZIbU1KLTA1NmROUUNTWQ?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-09T20:16+09:00"
   }
  ],
  "outage": [],
@@ -374,10 +374,16 @@
    "at": "2026-11-10T07:28+09:00"
   },
   {
-   "title": "「HCチケット」システム障害に関するお詫びと復旧のお知らせ｜トピックス｜渋谷HUMAXシネマ",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DTEV3d2hjakxqUHpVRVRtVkM3WDQyM1p5dWRMMGFBelFUSzJrNzc4Tk1yX1dyWTUxLWNhNW1aU09rbU9DUmRlREV3RWQxbzc4bU8wRVBNTVpJdw?oc=5",
-   "source": "humax-cinema.co.jp",
-   "at": "2026-11-10T05:29+09:00"
+   "title": "北朝鮮サイバー攻撃、連携して対処＝Ｇ７外相、暗号資産流出受け",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQjBBc0p2R2R3RlJHemR1dHQ4QVJ4em9tUVpEQ2tfZXVhdTliN3VOTmRyRmYzZ3hUTWJuSG5IOWpVVkRvdmtwMTd3Q01nSzhUSGJyZUxNWUtpem11eFRB?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-10T07:50+09:00"
+  },
+  {
+   "title": "フィンエアー、アマデウスへの不正アクセスで個人情報漏洩 約11万6,000件",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YWGFVQ3BURENNWmFpMlF3M2RXOU0yMDR6RkV2Ml9fTk1EbHQ1MnVtM09fQWNFaGVrX2FTR25iLXpjTTdPTC1veVRielhBTEpmN2IwUHVkOA?oc=5",
+   "source": "TRAICY（トライシー）",
+   "at": "2026-11-10T07:48+09:00"
   },
   {
    "title": "国家サイバー統括室、個人情報の漏えいなどにつながる不正アクセスへの対策を呼びかけ（ネットショップ担当者フォーラム）",
@@ -398,6 +404,12 @@
    "at": "2026-11-10T07:40+09:00"
   },
   {
+   "title": "10月のサイバー攻撃公表が過去最多の233件 「自社だけで守る」やり方が限界に来ている（Masumi｜ライター） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRk9rWFN2dC1HaEJEX2d1QkY3R2pXOWlVeHVWTm01YXJvM3Rjc0loX0w1bVhWdDJLdTB5czVSSXdneW9YdDktRVdMQ1RJaDRDdlIwdUFQWVZIV2VIYlZFNmJuTHN4RHUtWWVTOFV0R3NlODlmbTNQaEtBdkRhdE44TW5WamF5ZTlX?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T07:30+09:00"
+  },
+  {
    "title": "仏スーパー冷蔵設備まひ、イラン革命防衛隊のサイバー攻撃と仏政府",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUhrNkEzUG93Vmk5U1Q0ejViUHlNYUpTWDRIYVlsUTlUZnFZeXRjZ0xOWW9aa25oMUhKOUNxbmZmcFdWOWNBWTRjZ1RuNTFjVDk0Vjh0XzNHTVBwcjIxc0sxSFBscUs0M1pxNl91TUxTRUJ6S053TDV4b0xpVFVxb19BNUJSV3JCanRPd1hB?oc=5",
    "source": "Bloomberg.com",
@@ -410,15 +422,15 @@
    "at": "2026-11-10T07:28+09:00"
   },
   {
+   "title": "冷蔵庫へのサイバー攻撃に日本政府が注意喚起、米国や欧州で被害拡大（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZOGlYV3F3ei10WHhMQUMwWl9COGk0MHNnaXJLUGxjbnVJU19lcG9FLVFhNWN6OTNycGdPYXdDekJ5NXpYRlBaODBlNTZEbDRQWjlrcVcybkNhWU0zd0FZcEZVMUtMNkQ3SFZGRUxLM3dnY0x5LWRqMG1YcVRIdFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T07:25+09:00"
+  },
+  {
    "title": "ラクスルのデータ入稿システムに不正アクセス、印刷データの個人情報流出のおそれ、一部サービス停止（Web担当者Forum）",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVoxMk9rY0FoaTFnUWdxWWc2cEE5b09YRGZyeWxTZG11bXZCLWhpV0hFcU5Mc2xUeGNJeDFYOHBWaE9DT0R0cUMwVDRqX050Skk5Z0MybzE2dWV6TzN5R1pMTy05QU9NZzZ1eWlaMUxyaE1QZHZJNFJIQnhqWVRySmFFYlE5NTZETjFQaVpwd3g3ckZqc05DNFlVbF9Dcld5QzlRRndoblk5WkE?oc=5",
    "source": "ｄメニューニュース",
-   "at": "2026-11-10T07:15+09:00"
-  },
-  {
-   "title": "冷蔵庫へのサイバー攻撃に日本政府が注意喚起、米国や欧州で被害拡大 遠隔操作で冷凍庫が50度に、大量食糧廃棄の被害も",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqX0JMaFRycDFuOHVfaC1rMWxqRkNGV09GaU10SjRaV1BEYll5Sk1mRWVBWUdvcFZzS0l1T3dpc0pFbzNHVEhvZ0RDMTg2eUFVUVRz?oc=5",
-   "source": "ビジネス+IT",
    "at": "2026-11-10T07:15+09:00"
   },
   {
@@ -440,31 +452,26 @@
    "at": "2026-11-10T06:50+09:00"
   },
   {
-   "title": "フランス冷蔵設備サイバー攻撃 イランの犯行と断定（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTVJfZXZxOTRTblhEUHRUMk82Sl80clZudlpKbG4tTWY0OWU4NEhabTg1VEFZZmlLRzNYT1ppMm10RVhiRjFrdVZXWTZIVEdzLWRFTDJmUHk4Z24yU2FxLWFIZ1A3YXdIcnA1MDE0MkdISEY2YVpPM0JrMWVQaTA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T06:48+09:00"
-  },
-  {
    "title": "金融事業者にとっての“7つの教訓”とは？ GMO不正アクセス事件に学ぶ FINOLABコラム｜FinTech Journal",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YclhIOXNCaFcyYTBjRVNxOExBMGhXT1hEV0hjeldyYTFwT2ZkbGJoZWJvU3VGcW5BNmhuVFBtMXMyU3JBaThtamEyWjBDRkU?oc=5",
    "source": "ビジネス+IT",
    "at": "2026-11-10T06:30+09:00"
-  },
-  {
-   "title": "サイバー攻撃、イラン犯行と断定 冷蔵設備の温度急上昇 仏外相（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uYUFLbDJuSUhZOFdVekkyRnRlZjNJQm1UR3VQZE9WZUpGS3pRWFpwcTl1SDFIZkhBdG56NGtNM25RT1RCdDgycld5dzhua0VxSVN2QXBDZHFXNDlmSmQ4bXl1NHZCM29NTVRNWkp3VlVfUGswemQ2RnJ5dU4yaFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T06:19+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "北朝鮮、新型高速魚雷兵器システムを試験発射 来年初頭に配備へ",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckQ2Ry1keW5EOTZYZVpGQjRKVFk4bm1OM3ctNFM0cEJla3lwb1c0eG5oTHJEM3ZrdG9KbGlXUlZQbWNJX1ZDSkk5NG1GZTJHSHJuVHI4WVRrYnhSOFU2WGloQ2YyS2JfdkpvbVNIN2hsUXNuQVR4TXg1QzRWVy14VEJNZExCcWc?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-10T07:37+09:00",
+   "title": "北朝鮮サイバー攻撃、連携して対処＝Ｇ７外相、暗号資産流出受け",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQjBBc0p2R2R3RlJHemR1dHQ4QVJ4em9tUVpEQ2tfZXVhdTliN3VOTmRyRmYzZ3hUTWJuSG5IOWpVVkRvdmtwMTd3Q01nSzhUSGJyZUxNWUtpem11eFRB?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-10T07:50+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮、新型高速魚雷兵器システムを試験発射　来年初頭に配備へ",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82M2w5VWpodUI3R1RBdXhLcEFIOEJZR3dxMTdUSnJwTW1Fd3B1QVduRHQ2MEswLWRQWkNtQWRrdlMyT2UxZmtLVk1QQy1BZHpVYUhRckg0LWlteWVyS0QyLUxPb3dxNFpvNDNoaXI2bzFMMmFmTFFXNnJZYW01QdIBgwFBVV95cUxPWnowZHRDV2I3a1o3U0ZlMi00WDJKUHdIMENnVllxaHhYcVBONF95b1ZNSzBtOW1MVFVSaE96QmlPZlA3TThDRkpVRTFuOWtNMnZZd0xVVlNickFOZkM2a0k3RkxYRFhfTXhPMndDZ29LRm55Nk9hX2JsZHNMVm5TaERMVQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-10T07:49+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -531,13 +538,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米・イラン核協議に進展報道、ブレント原油が一時約8%急落し91ドル割れ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oTzJST0xNVDRYaVRtTEViRmJEdWFjeWdXczR6RWxrVHYxNW1kRjNSNjlJcEZ4al9oUW1jVExPWFo3NXA1c0R0ZUQ4ZThGck1EY1hiYjgxNVhjbnJFeFZzSXFDT1R0NXVVSFJuQUNKMWlPcHVk?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-10T06:05+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ウクライナ戦争「もう一つの戦場」、スロバキアを巡るロシアとEUの攻防",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UUpCTHE2ZmJ5X1JBak42V3E3cmF4VTlTVENoTWFheFE4U0JIUTFmMC1CbklDSFNJem4yc3ZpZG9GbE50ajJmdXFFZENBMVNoYkJnM093?oc=5",
    "source": "JBpress",
@@ -549,6 +549,13 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxsR3RTSW9nMDBYcWJGWTZrVGtvNEpIZXFHUXdxWVZDQzAtbk1PbDZjcEE4NjhlNjU2b2ZGNlgxcm9XOXEwcXdId3E1S1VyNFBTMGZQcTFQMEh4eTk3LU5kQ211Y01aTExsSG5USDFVT1M3WFRtbXVGRFRkd1hWdkpyeWx4aDA?oc=5",
    "source": "Reuters",
    "at": "2026-11-10T05:55+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "原油急落、ブレント7ドル安 トランプ氏がイラン再攻撃の可能性否定",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FeUg3eS1Jeng3a2dfbGRmbnlsR2N4b095X1VhaDhpempTOTQxZGhjbml6X1lhLXBLQXpsYzZ4MGxkVnpPQWExWDhfTzItbWljM2FtbHN1Y2NLQzNfeWFoZlVOZ0VNaWVBZnN1bEtFSFJ6RS02R1NMbTlkMXEwdw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-10T05:21+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -592,13 +599,6 @@
    "source": "Laodong.vn",
    "at": "2026-11-09T22:00+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ロシアはヨーロッパに軍事化の継続を警告、ウクライナは戦争の長期化を準備",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHI2SmpsUGhWZzBJU1FrZDFpd3dydjFCRjYzSXB4NmhKUnZKZ2hZTm03bkNCN1NpbmdGX093NFp3Z3NBeWUzZXdXMVJOaU4yVmVnSjVnNW85ZG5mSmFIa3F0OV94OVl3QTJLMWpZWjgyTGgxbTdoRXZYemRpMEFNNlRQVG1qUllNOEZFOGk5WmVFWndOSS1Qa0J0RFlZVFd3ZTJlMl9Ed2dLQ0FTUXVyelpxT2hMbGpWWDktd0JB?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-09T20:32+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -617,8 +617,9 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」2件",
+    "イラン・アメリカ：「攻撃」3件",
     "中国・台湾：「封鎖」1件",
+    "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「侵攻」3件",
     "欧州・NATO：「爆破予告」1件"
    ],
@@ -636,10 +637,10 @@
      "at": "2026-11-09T13:18+09:00"
     },
     {
-     "title": "ロシア占拠原発で職員死亡 ウクライナ無人機攻撃、IAEA事務局長「即時停止を」と非難",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Lb1RIQU9jQTJOQ1VnY2xMLURORERKckY2T0pMLXlsNGhrV0kwWjZmOGpuSWI1a2ZPSFZibjVhQTVaY1FneHZpdEQ4UnhsTTBab1I2TXV5eUxCdnpQT3hHeWJPaHVPOXpiUWNXb2o2ak9ieE5oTEE?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-10T07:02+09:00"
+     "title": "北朝鮮サイバー攻撃、連携して対処＝Ｇ７外相、暗号資産流出受け",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQjBBc0p2R2R3RlJHemR1dHQ4QVJ4em9tUVpEQ2tfZXVhdTliN3VOTmRyRmYzZ3hUTWJuSG5IOWpVVkRvdmtwMTd3Q01nSzhUSGJyZUxNWUtpem11eFRB?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-10T07:50+09:00"
     }
    ]
   }
