@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:45+09:00",
+ "updated": "2026-11-09T10:55+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -107,12 +107,6 @@
      "at": "2026-11-09T09:29+09:00"
     },
     {
-     "title": "トランプ氏、中ロ首脳とＡＰＥＣで会談見通し 「イラン戦争終結も議題」",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmktN2twc0d0UzFzSkRHLXl3RWg4MkJONlVhb2FiYzNVRlVkRjExVHpIYlZfY19DNHBDaW04bS1tUDRRUkFGSXRvTl9zdl9TaXdXSEF6dF84RGd2bmhWTDRQdWc3X2tVaGxBOVo0QVU5RWZGbEFQUWFWa1liNnQ2aFRKMWQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-09T09:07+09:00"
-    },
-    {
      "title": "トランプ大統領、「鉄門」作戦の全面展開を宣言 米軍、イラン封鎖を海上から陸路へ拡大",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HMXFtRDhKRFBLdkZGRzRkdmNKNldyYUI3djFmaXZfNXIxalE5NWZLREt4WmllU3VIVmJhckhFSTNkNm5tTmVabFFUV3ZBXzNrQWJnSU9Gd3NhblZRSXdSQkZucDB2d2JSQVNyc3FtVWdtaEdZ?oc=5",
      "source": "BigGo ファイナンス",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CM0tnYjRLdElaS2VPdlZ2T3BRNVZYa0VQc0lVSjdScmNGMThpX0UxelJTd0h2SkVFckhrSzlYNl94cUFTc0tmNkNzc0xndVJueFFSbGQ5Vi1KS3ZKZldaUHY0Y0Zqd0V4eW1YUTdn?oc=5",
      "source": "au Webポータル",
      "at": "2026-11-09T07:15+09:00"
+    },
+    {
+     "title": "トランプ大統領 イランへの攻撃再開「可能性は極めて低い」 交渉に進展がある限りは CNNインタビュー",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IVFZHd0JPbXVET25WODVDME82TUxYYU5GZEQ4UVU5bEZRN3Bjb1FOano5cFh2TjNEcmlGeEJ3OHM5QVdQd0hhX2o2RmpLVzdsUTVsdE5fTTc1bzQxMnhnZF9ndWpXLWlPN2ZvVlNvbU5YeVE?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-09T07:07+09:00"
     }
    ]
   },
@@ -136,6 +136,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "【第１４１７回】後方支援分野でも進む中国の戦争準備",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZTGY3Wmg5REVZckZxQ1U5YjF4dG5YeHJDMGtfTmFwZmdoQjhNV1pWSEVfUjRfcGZGdGk3Z2RvLVFDQW9lUFhWRG4xQThrQQ?oc=5",
+     "source": "公益財団法人 国家基本問題研究所",
+     "at": "2026-11-09T10:51+09:00"
+    },
     {
      "title": "習近平の大粛清で中国軍が「機能不全」の危機、台湾侵攻の可能性は低下？軍最高幹部まで排除された異常事態",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtN01YcEJCWlpNVER6RWdCUG05N0tPVlM3eHRjRExXUlJSbHJ5R1R0ckVqS2pXRGVlSm9VTTN1QnlTQUE2el9zb3NoczVpeF9aQloxd01DdGZZaWJmbGc?oc=5",
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xR1lwU2QwamFPN0VaX1o3OGhteXdkN1lCdHZ1bGpzdlJvZThfSDBScXJGdGE5anNBWkNXbDBsSzZjQlV0aGxoOXgtVXZ4TFdvbFJ1WQ?oc=5",
      "source": "Nippon.com",
      "at": "2026-11-07T14:40+09:00"
-    },
-    {
-     "title": "日本の防衛産業振興は「再軍事化」の口実 中国国防部",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41NlJzaGZWeUhYcXpHbHRRem93eXh1SDJDLXFNcFpSVExYa2F5YlVUdnFRMXNic2E1OTU1cXdCaWhiRy1VMXRwa2wtYm5MTWlsTGFlSkM0OHdVdDNYWV9vWEVjcjM?oc=5",
-     "source": "千葉テレビ放送",
-     "at": "2026-11-07T00:25+09:00"
     }
    ]
   },
@@ -392,10 +392,22 @@
    "at": "2026-11-09T07:27+09:00"
   },
   {
-   "title": "ドコモ《1カ月足らずで“トラブル連発”》の大失態…社長が設備投資増額を意気込んだ矢先の「14時間続いた通信障害」",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWgwOFhWUk13WExDUkJlMTFub3pVUFNidkZkcTJtTUd0T1ZhWmxMOUxLR054LU1zZDFMbmw4OElJWm03Tk5lRExjZ0xiR3ZFS2prQUNxZEtGYlJfamwxSjZHTy11YW1RSnJ1MGNBaDZJRzM1bXNLQ1F3SWF5N2VtNmhTTHpDREpSeWwzam13?oc=5",
+   "title": "10月のサイバー攻撃が233件で過去最多 個人情報流出は1億8500万件で9月の2倍近くに",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTE9mNHlxVlY3S2s1U2Y5czhWZzZwdklBcEo4NUJmUHAxQThPSlhFU1ZlcmFIM0VIZ3lsc1FTUGdFaVczU1VjdGVTc0YtbE9U?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-09T05:57+09:00"
+   "at": "2026-11-09T10:45+09:00"
+  },
+  {
+   "title": "南会津町で不正アクセス　メールアドレス流出の可能性も",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdHVXTHh5TWtlTThCdGFOUUlSTXRMSzdyOEdZSzJBWlQ2VkxGQ1VkTngwY1gwa0MxbVRTaGhvdUZEcW03X3BvLTNqM1JfbzVfNFAyeVBDVGE2ZXMydWZ3alNQV013TXpaazNlNVJ5R1fSAXZBVV95cUxOMURmQzJ2aU9uSHk5OHRDbFctcGg4WGJVT0x1d2lGeWlmREw4UFVoN1NOaktYX1o0ckY2OElkblJjYkxwbVpiMElfbFJuMnE3NnFjUFNpOFVFNWgzVFZmdTlvazJ1Rjl6ZGhjeDE5X0pLM2Rha0JR?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-09T10:40+09:00"
+  },
+  {
+   "title": "プレスリリース：欧州のスーパーマーケットへのサイバー攻撃で冷蔵システムへの安全なリモートアクセスの必要性が浮き彫りに、Secomeaが指摘（共同通信PRワイヤー）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoNlRic3VaTWxKcFlEZ3hXNUNEbjM1dGRfVHdhZlFjYnhrc1lSS3ZsTmdSNUllSEdQQm1yak90WnRvdEwyRlpPMC1Vbld5QnpueGh5cl9mTkZtczhZV3MzY3BuLWlwMmNY?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-09T10:38+09:00"
   },
   {
    "title": "電通総研「iPLAss Ver.2」、認証なしで管理機能に到達できる脆弱性 顧客環境で実際の不正アクセスと情報取得を確認",
@@ -422,22 +434,16 @@
    "at": "2026-11-09T10:13+09:00"
   },
   {
+   "title": "GMOが不正アクセス問題受け初会見 「日に日に進化するAIのリスク評価のあり方が組織的な問題としてあった可能性はあると思う」と元警察庁サイバー捜査課長が指摘",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KYlB2WWdtcFhjTVRPaE5DTTNnenZldjdQZ3dQckZKR21yUkhjVW1KeERPM1d6eUZVTE5hVmtjSTQzc3VwUGRDMjFMRUdZOEIzSVRtbA?oc=5",
+   "source": "ktv.jp",
+   "at": "2026-11-09T09:58+09:00"
+  },
+  {
    "title": "セキュリティ団体が不正アクセス被害 JNSAのサービスで最大1万5128件の情報漏えいのおそれ",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56Z2w0cUFqejB4TFpESlZGUE9xTzByZTFCd01wblZWb1BCaDVyaVB6b0k2Q2hLZXF5cExpYjdlTU9taXZVcEJBR21vaHExdXo3YWo3ZGJzc1c0Zlk3RTh0cw?oc=5",
    "source": "Infoseek",
    "at": "2026-11-09T09:56+09:00"
-  },
-  {
-   "title": "10月のサイバー攻撃が233件で過去最多 個人情報流出は1億8500万件で9月の2倍近くに",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONU9xSXhLUzA0QUNYMUdhTkRoQnRMYm94WHRfQTNmME9FQUc3eURuMC1iSXV0U3d0UE5Mby1oeG12UWpSbFMxVmFyUzYyMFFablZXb0FxbmNGeWY1cE5SNFpSNVhnTEN6anFMN1dfWjNjZ2wtY0c1YV9ZVzY1eE9RZVhfbFl5bmUzM3N6RzhwZGlVTnNYcU9qMzVtQnJDdUFha05jblJ6MFNFQktJS1dDOUxSMk8?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-09T09:54+09:00"
-  },
-  {
-   "title": "南会津町で不正アクセス メールアドレス流出の可能性も",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XcVVIc2QySHlCZ2RFRlNUS195S1psYmtKTkpta29XLVYxdDhwX1lkdjhSVTFSLTRMMzB0ZFlkTVBNNTNHOTJxQlRzRkdqSVFGenU3Z3FR?oc=5",
-   "source": "KFB福島放送",
-   "at": "2026-11-09T09:51+09:00"
   },
   {
    "title": "日本デジタル研究所（JDL）、顧客情報28,475件が流出した可能性 アララへの不正アクセスで第二報、担当者名や顧客コードも対象|セキュリティニュースのセキュリティ対策Lab",
@@ -450,16 +456,17 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nQUlYblFfdmR5Q3kxa29WTzBpWDI3R1o5SlBhNkY5YlN5eVZMYmdqOTFXb1BrbmVYZWJ3ZU5acFlnS3dPYUlNTXNOZ2p4VTA3bk9jdk1VWQ?oc=5",
    "source": "おたくま経済新聞",
    "at": "2026-11-09T09:26+09:00"
-  },
-  {
-   "title": "消防庁「安否情報システム」に不正アクセス、影響範囲調査のためにサービスを停止消防庁の「安否情報システム」に不正アクセス、影響範囲調査のためサービス停止",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRy1manJpX2xJV0hvbGNVN0NYYm84N1FBQjQ5M2NEWDBjbnZITGUwOFE1cTJOeTNVN215TFY1QnBMNnA2UmtCUi1jNjdvZEdvaWJPZFlUbnRSdU9rSUVuTkozVW02V1hUVWxuaA?oc=5",
-   "source": "ScanNetSecurity",
-   "at": "2026-11-09T08:05+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "【第１４１７回】後方支援分野でも進む中国の戦争準備",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZTGY3Wmg5REVZckZxQ1U5YjF4dG5YeHJDMGtfTmFwZmdoQjhNV1pWSEVfUjRfcGZGdGk3Z2RvLVFDQW9lUFhWRG4xQThrQQ?oc=5",
+   "source": "公益財団法人 国家基本問題研究所",
+   "at": "2026-11-09T10:51+09:00",
+   "topic": "中国・台湾"
+  },
   {
    "title": "旅客機爆破予告に銃乱射まで…恐怖に包まれる欧州",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXdpS0JEcmJVOXhXXzhIaGF4UkI3dWttSW9WLVM0SGZPZER4aVVtZEI5VmNOU2dheXA0MkI1NzFKN3FRR19NcWdyTzRuVjExc1VaQlJFME1iU1Z1ZVhjUTYtcmRWYzh4U2ptTXNlUHF1Wi1YblVNYTlwZkVvNUJLdmJGRdIBfEFVX3lxTFBvLW90c2NCM3V3U2xhbmUyU0JRR0pJMDUyRm1uQXhEVkE3cko0Z3ptMGJnNE1yYl84UFNqUTY4Y0Z1XzFta1BQOGFYY0pablVGR1RsbGhVVHRQQlhzS3FUcUU5ejVERTIyX3pZUS1NY0U2RWdUU1cyWW8wNlk?oc=5",
@@ -479,13 +486,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4dGZUdTZWbHE3dXZZdTVlSmdFNXBqLUV2U2RHYlJUMkY3T3BFSGZnOFdrUl96VlFEQ211NlpidnUzMnVWTmVrQlVMVHQyRWo2WVE2ZGh1dk9RTHFCWmZ1bjBUWGo0RFYyQ3FIREp3?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-09T09:29+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "トランプ氏、中ロ首脳とＡＰＥＣで会談見通し 「イラン戦争終結も議題」",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmktN2twc0d0UzFzSkRHLXl3RWg4MkJONlVhb2FiYzNVRlVkRjExVHpIYlZfY19DNHBDaW04bS1tUDRRUkFGSXRvTl9zdl9TaXdXSEF6dF84RGd2bmhWTDRQdWc3X2tVaGxBOVo0QVU5RWZGbEFQUWFWa1liNnQ2aFRKMWQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-09T09:07+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -522,6 +522,13 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-09T07:08+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "トランプ大統領 イランへの攻撃再開「可能性は極めて低い」 交渉に進展がある限りは CNNインタビュー",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IVFZHd0JPbXVET25WODVDME82TUxYYU5GZEQ4UVU5bEZRN3Bjb1FOano5cFh2TjNEcmlGeEJ3OHM5QVdQd0hhX2o2RmpLVzdsUTVsdE5fTTc1bzQxMnhnZF9ndWpXLWlPN2ZvVlNvbU5YeVE?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-09T07:07+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "苦境に立つトランプ大統領が外交レガシーづくりで「高市斬り」悪夢のシナリオ 北朝鮮の核容認、「米中ロ対日包囲網」形成なら日本の安全保障政策は根底から崩れる（マネーポストWEB）",
@@ -592,13 +599,6 @@
    "source": "ウクルインフォルム通信",
    "at": "2026-11-08T20:14+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "“日本も標的”北朝鮮ハッカー集団か“会話”入手 サイバー攻撃の裏側、身近に広がるリスク【バンキシャ！】",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSU1FYThCaER5akllNjktdXVZWXNtZzRtN1NVck02S3ZVME9QQjhScU5OQXdwLWhsUF9ibUZtcTNkWFFOYWo2eDFqV1dxV1RMQmFlc1RpNnJyTTVVTFMyeUhLMmk1Wk1fX1libEluRWo1UWQxMUpFOGdFSE92WmFCSXlWOUI?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-08T20:12+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -617,7 +617,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」4件",
+    "イラン・アメリカ：「攻撃」「封鎖」5件",
     "中国・台湾：「侵攻」1件",
     "北朝鮮：「攻撃」「ミサイル」3件",
     "ロシア：「攻撃」「ミサイル」5件",
