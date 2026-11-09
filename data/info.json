@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:00+09:00",
+ "updated": "2026-11-10T07:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ドローンを狩るはずのロシア軍機動射撃班、ドローンに狩られる",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rMzRrYU5FeElNTElwTkNMdGRaUzVLNHhpWmtXLXZhSjZvNUVLZnI0OEk2V3F6c2ViM3FCaTFEMTRHay1TXy1WR08ybU01bGhqQjNhLXRHdnM1aDFXSm5xdFFEa2s3THBxaFRHbnVseENZUTRDazB3dlpkcXh2MWs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T07:03+09:00"
+    },
+    {
      "title": "欧州、ロシア侵攻で米に注文 Ｇ７開幕、公正な解決迫る",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Qb3Z6Y1Jtb0JlWlJ5UVZTMi1GQ19NT3ltSGxMSGt1VDUwaWVrZDNKb0xpUmNkMVpjZVVPN0JyNUlCWVRBbzg3dHJpN3lHc3N5SVRRMUtxcU9RaU41M2c?oc=5",
      "source": "新潟日報",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPVjdDVWp6U0hXTFA1X2JReXlHeFVWb3RQemdhbkJ2dDVMM2lJSDZ2SzNuMnFLN3F5dk1Ga3ZGbXFLR2pMWU10Mlg2NVZ6YmhsR2gyUXA4Wk0wa0lkQno1QVBJRE9rR1NQT3BTZG1ZQzVSWTBaNjM1bWxUZDE4WVdWaUx6TTc4T2dPT3ByYTJFcmVLQUFzUHdHLUlOdXlFZXNwUlNDRGwyRzNOQ09aWlVTWExBNUtTSEN6OFN1eHhlYWhnZk9GLUpkWHM1UEFfTm1POGExOFVOU0ZKdzFJQ0lFYlVobHpLaVJsU2xpaFl2WXd2eFNfQnozRzZVVUJoSklVdkFZUlg5RzduZnliVXFiREhjaEIwUDhhZVV0UzFiVDFNQjlXVHNrOTVUTElKVDJiLUQ5ekhSWkQtb0Q0Y3Nuajh1NzhSRjRPU0ZZNlRxR2N2VjZfSWRYdU9JZUpxQXpLeXNlcjJLX0xMQnZaTjVNd1BkQk5pUmo5a2JKRHBsek12Yk5fY1IyLVR1Uk5MaWlmOFNWQmVUaFlyMmpnRnNBTVNhZS14dVkwLXZEaGtHdnBnTGN4a2hFMkZTWDBwbkhyNmVzRmtENHJpLVdaRXJhSUFzcmZHVUhsQ1dRWEMyOXk2QjB0Q09KRk43NEFsX2hpQ0J1Z01YR1Jvc1U?oc=5",
      "source": "アラブニュース",
      "at": "2026-11-10T02:56+09:00"
-    },
-    {
-     "title": "ロシア・ウクライナ、攻撃の応酬続く 10日から米仲介の実務者協議（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBveVE4Y0NrMm92SGxBQVEyd3VlNUNxWVpIUjROQnAtYnplR0dDeVZGRVQxZ3pEQzNBR1ZqSTFJdE0wWGdWYnYwMGl0R3B0aWFXMDYzYWF5NGIyYXlSRU5DdFNmWk9Cb1lkejRENmN1cS1BN1c4VE9VVXdPNXFMcUE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-10T01:37+09:00"
     }
    ]
   },
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "南海トラフ地震に直接影響の可能性低く…愛知での約30年ぶり“震度5強”に専門家「『大丈夫だ』ではなく早めの備えを」",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjamNRSEdlcU96dG1ra0FYeGpDUHlYNEdxdmxCWC1NQlZjcDE5TUpmbUM2el9nVnFfNGJJM21NNXZFYUVKT05TRHlNS05wdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-10T06:30+09:00"
+  },
+  {
    "title": "愛知県知多市で震度5強、愛知・静岡・長野で計25人けが 震源地は愛知県東部、南海トラフとの関連性「低い」",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY1FyRXRGdkw2VFhGSHp3bVZCYWJCZHNyTDlEdXNWWlEzakJyYUZ6TDByYmViSDZSUWJfck1UUFB4ZzAteHFwM0x4SGtpZjdwekRhQw?oc=5",
    "source": "中日新聞Web",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pSTFnQThhYXRQSjl6NnA4ZklQcGloTTJldWR5LUI3R0dFM1FncE1fd09DQ3Q5VmZPbVFoUUZqRXdZSlNhanFFeDZIbU1KLTA1NmROUUNTWQ?oc=5",
    "source": "西日本新聞me",
    "at": "2026-11-09T20:16+09:00"
-  },
-  {
-   "title": "「突き上げる揺れ」未明の地震でケガ人 売木村で震度5弱 10代男性が驚いて小指をぶつけ、軽傷 専門家「南海トラフ地震とメカニズムは異なるが、揺れの地域は重なる」備えを再認識する機会に 長野（NBS長野放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLVmpwYWNSVVFmRUFLOWxCRU9lWkNjdEdHQncwdTluQnFIdFJRbmJ1eHV1djk3QnJ4akhjdkNFcXFWdzRrZ3dOS2drRHQ4ZVNrXzg2a0loNWswYlVxcGVJMlJ4Q0Zsd2RIRzdOV0FJVF82Rmk4aHNZMk53ZUFJWU0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T20:08+09:00"
   }
  ],
  "outage": [],
@@ -368,10 +368,40 @@
  ],
  "cyber": [
   {
+   "title": "「HCチケット」システム障害に関するお詫びと復旧のお知らせ｜トピックス｜渋谷HUMAXシネマ",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DTEV3d2hjakxqUHpVRVRtVkM3WDQyM1p5dWRMMGFBelFUSzJrNzc4Tk1yX1dyWTUxLWNhNW1aU09rbU9DUmRlREV3RWQxbzc4bU8wRVBNTVpJdw?oc=5",
+   "source": "humax-cinema.co.jp",
+   "at": "2026-11-10T05:29+09:00"
+  },
+  {
    "title": "タイ中央銀行、全銀行のCIOを招集 日本のIT障害を契機にサイバー脅威への警戒強める",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14UFdpQjlOejBwWUVNbGkzbWl0a1BoYndfU3NZTThPMDFYS3AxT1lraFN0U1FUakJKZ3M0Y2NpNTdTYllCVmtZMWNyTjNFSVdNVmJiQzJFU1VoM2w1TmRJOEhrUDNqMmh3NjVmTXlIMHdqeHZ6?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-10T02:55+09:00"
+  },
+  {
+   "title": "サイバー攻撃、イラン犯行と断定＝冷蔵設備の温度急上昇―仏外相",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTS1fZ1ZMR1dDeGM2N09IbXl6Q2I5NW1jeEJSVHE3T01CM1UweGpCckdUanBVYnFBM2JCQTNBSmViaXdLNWdQa21BVVlTSlh1TDc5SEFfNnR0OUtwbTRrc09DQjZwNUlDbzNwVGF3dzRXRUY5RE44clRKMXd0c2Y2Q3A0RHV1Vl9PMGo4am9uZFo2d1ItUVZnZDl1eG1nOENuWVlPUEthWWZscXVaX1FrYmlsTkJSU0htWHBQTkxqbkE0MHltWURVQmVJWkZ5Q1XSAX5BVV95cUxPRnlucmVZYjM5dTM3d2w3WFJ3WU1vREpNYkFIMFpjajhCXy1hc1NYMVpSWFU2QkRFWUpUMldXNXVyZG1pMXd4MTN4TG9vTnJqX0lnZHctMFFXdkstcGNLN2QyR3ZzWmExUzhHWTNoY3JfSFFJSXJpVkFUZnFBTnc?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-10T07:06+09:00"
+  },
+  {
+   "title": "ラクスルのデータ入稿システムに不正アクセス、印刷データの個人情報流出のおそれ、一部サービス停止",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdzZrVkhvbnd4ZDNjV3gwa0Zka1c2ZlY2T1NsYmFieXl2dW1oNTZ6bGw0dlFacmE0dFBaM3FzZ2NITFRub2ZaR0xRT0FDUEhuMTF5TXFsQ1dBOVU?oc=5",
+   "source": "Web担当者Forum",
+   "at": "2026-11-10T07:03+09:00"
+  },
+  {
+   "title": "高市首相、能動的サイバー防御の法改正を指示 民間企業への不審な通信も政府が監視・分析へ？",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QejQ0WXVveFVqMXliQ1diR2liVzY3c2RmOEhleVdTcFotcllWdnBRRE9RNTNPcGlQUkUxLXg3M2YxbDJfY0FqS3U1QTFxcm52LXZYQQ?oc=5",
+   "source": "ASCII.jp",
+   "at": "2026-11-10T07:00+09:00"
+  },
+  {
+   "title": "「パッチは検証後に適用」は命取り 日本ハッカー協会が教える大情報漏えい時代の極意",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DY19sb1lLc29KS2l5ZTlzVlZzUGpYWFZIemxpM0FxN0dzV1c3XzZiYXRoU3NHeldrQ1lJVnRadWg4TTBiMnRYNV85cDFXSFBxdkd1NEVSZWJ2NzZHVk9ZOW9ST190dw?oc=5",
+   "source": "キーマンズネット",
+   "at": "2026-11-10T07:00+09:00"
   },
   {
    "title": "ニトリ 不正アクセス被害 最大3762万件流出か 対象は商品購入者や会員の名前、住所、電話番号など",
@@ -390,12 +420,6 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YclhIOXNCaFcyYTBjRVNxOExBMGhXT1hEV0hjeldyYTFwT2ZkbGJoZWJvU3VGcW5BNmhuVFBtMXMyU3JBaThtamEyWjBDRkU?oc=5",
    "source": "ビジネス+IT",
    "at": "2026-11-10T06:30+09:00"
-  },
-  {
-   "title": "サイバー攻撃、イラン犯行と断定＝冷蔵設備の温度急上昇―仏外相",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ETmZRTXpGRGxBSl9QamRVM1JkekNmVG1CSUZzdHM3STRCY1RmTDhGb2lPbFA4TWFTb3NtbFU1OG9GeVJKN2wyOC1ObC05MnpYZ2FjSzh2RkpqOXBZeTVr?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-10T06:15+09:00"
   },
   {
    "title": "ソニー生命、個人情報２９０万件漏えい＝不正アクセス受け",
@@ -432,34 +456,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tWU01YVlORkd5d3RDQ1kxcG4ycktfWnEycWo2S3FRTTZEOEZCV2tzc3ZIcTdrZ2Z4OWYxb051SkpfaWtoek05ZE5lSlJrelVOV3RVWTNiOVVWcU1SVGJN?oc=5",
    "source": "東洋経済オンライン",
    "at": "2026-11-10T05:45+09:00"
-  },
-  {
-   "title": "画像 | 〈プライム上場で攻勢〉AIによる不正アクセス横行は追い風か逆風か？急成長セキュリティーSaaS｢HENNGE｣の実力",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LRTBjZ2FrMEJyNUVoZTBDb3VreGN1YlhsZ1lwSGw2OWtjei1LVHBtb2FMakJaZzBmbV9TVTR5NFhOZjRrbWRNZDdJbDV0ZnNabXBWZXlZOXN2NHFUdUE?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-10T05:45+09:00"
-  },
-  {
-   "title": "仏「イラン革命防衛隊が冷蔵庫ハッキング」…イラン「虚偽の非難」",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzluRGVibjdzaXJMZ2ZZaGJyZTVMNFl6M3BXTlpNY1ZQZ3Q1NFh1ZFNXWW1ocUVNclFnSWl4ZjdIQ3Z0bHhLSXVxLXZkVXlaQy1MajFtT1ZDSTl2eGctMGJmVmExTlZ1VmV1amdtOWR0bzZFNDdSVEhzTEN0TVJoVWgxbEt5Q3lH?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-10T05:33+09:00"
-  },
-  {
-   "title": "厚労省の薬剤耐性菌調査システムにサイバー攻撃 医療機関の担当者最大1万1,652人に情報漏えいのおそれ、JANISサイト停止|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV3I4SFhiRUlhM28zVFowUHVHdWVoU2lIU18tdEtEVDFUSUVma1A2NjRGeVFGNmxFRXBRcGNlM0FrSlZjLVJSemJwTk5mNEFWTlgxb1ZHZzlUQ19kOTEwSEhmd1ptbWFCOVBkZnpEMGVZWDY4VjQ5cW90VEd3RHB0SmNxTl92VXBpNVVTb0ZJeC1KZw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-10T05:30+09:00"
-  },
-  {
-   "title": "サイバー攻撃への備え考える「サイバーインシデント演習」、神戸で25日開催|経済ニュース",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NN1hSNHJScXhNMFVkTXYzbVk1WG5iaUFJT0pGNEtXeFozOFBiYks5XzBneE5JUHk3SHZwc1pySFNwVmxwT0VadGR1bUtIb0F3VmJqVXdtbS04ell0cGJjMXU4WmJ3NGxiWW11N0hENA?oc=5",
-   "source": "神戸新聞",
-   "at": "2026-11-10T05:10+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ドローンを狩るはずのロシア軍機動射撃班、ドローンに狩られる",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rMzRrYU5FeElNTElwTkNMdGRaUzVLNHhpWmtXLXZhSjZvNUVLZnI0OEk2V3F6c2ViM3FCaTFEMTRHay1TXy1WR08ybU01bGhqQjNhLXRHdnM1aDFXSm5xdFFEa2s3THBxaFRHbnVseENZUTRDazB3dlpkcXh2MWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T07:03+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "日ベトナム首脳会談 中国念頭に連携強化で一致 - 最新の政治ニュース【随時更新】 (ニュース) | 無料動画・見逃し配信を見るなら",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFE4RzRkUDF2NXpyUW5reG5CaDdCZEdoR3JoX19sZGNSNkNnOG5iSUtId2VxNkZMZnZPaXZLVVhZdVp4V05DeUtvcFdLNFNWREhndFlnMUlmWTVJQ0ZySTg1ckF0ekN3VmxpTUsxcWh4akhMbmZfRXR0S1k5ZC0zRTl5OUI3VXAzdGNpVFdtYnhoX2ptclRoeHFGY1hnd1haQWJnRmVHUF9VandrRXhHaEJCenk?oc=5",
@@ -559,13 +566,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア・ウクライナ、攻撃の応酬続く 10日から米仲介の実務者協議（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBveVE4Y0NrMm92SGxBQVEyd3VlNUNxWVpIUjROQnAtYnplR0dDeVZGRVQxZ3pEQzNBR1ZqSTFJdE0wWGdWYnYwMGl0R3B0aWFXMDYzYWF5NGIyYXlSRU5DdFNmWk9Cb1lkejRENmN1cS1BN1c4VE9VVXdPNXFMcUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T01:37+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イランとの軍事協力深めるロシア ミサイル発射機90基供与で合意",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pWkRIMFk3QWxIMUZ6NFRCXzAydGpScHdYVEZRRHM1Q2FnNDRTcEJvbUxIbkxqa1Ayak1wejRfcW5FNDlUeU9LLWVsbE9HbVlwT3pQU3hlTENlYXJQanl3SDE2T195a2Y0TExfem8wOE9mX2QwcFB3?oc=5",
    "source": "日本経済新聞",
@@ -620,7 +620,7 @@
     "イラン・アメリカ：「攻撃」「ミサイル」4件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「侵攻」3件",
+    "ロシア：「侵攻」2件",
     "欧州・NATO：「爆破予告」1件"
    ],
    "items": [
