@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:30+09:00",
+ "updated": "2026-11-09T18:37+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -144,9 +144,9 @@
     },
     {
      "title": "第25回「ベルリン安全保障会議」、台湾の外交、防衛、社会全体のレジリエンスの実力をアピール",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Y0lIeGJWeDBVbFk2SURiMUoyZU5iQzAwcVhOODd3UFF5VS1SczJHbTc4OEpMaE1qRVJCTmtYWnRBd0hGZ2JpRmZBbmh4U0NlVGc?oc=5",
-     "source": "Taiwan Today",
-     "at": "2026-11-09T12:17+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2ZVNrNHV5WHM0X0ZYRFRTbG5YaUc0ZlMzaUJRcE4yVzlqYXpzOHVKbV8xZENZLUlZVnByc2lxSXVvclk4dmZZTmZnZ25OQ25UZTA3dTVQQUtiM3ZLN1E?oc=5",
+     "source": "ROC Embassies and Mi",
+     "at": "2026-11-09T13:15+09:00"
     },
     {
      "title": "【第１４１７回】後方支援分野でも進む中国の戦争準備",
@@ -310,8 +310,8 @@
   },
   {
    "title": "「メカニズムが異なる…」愛知県東部震源の地震と「南海トラフ地震」の関連を専門家が指摘…その上で「巨大地震に備えが必要」",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5veVFFVG5xMTJ4Y2dwVU1LaUpZNkdxNWlNLV9yNE5RTmFEYk5jSDFmYmFraFZrUDc1UERwTzVJTmxkTldzcjNSdE1sUjBzc3pBajdWXzBMaDhQNGJxUEpuQl9HRnY?oc=5",
-   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mOEt4SjhoYmdNekRtUW1aM283SEZwWElrZWRlbl9VTlFQMVIzSVg2Wk1Bd3N3VlVSa18zU0w5ZFZkQnJxMDdsS1FVX0F5aFdIX1UwNWVXaGl3Z3dVY1d1Rk9fY0xmX3Q5STk2RGdXdDQtT2dh0gF6QVVfeXFMTkk4VkV6S01Id2hkdlV1ZmxyWlk1bGhOdWtWX24xdnRmbnZ6SGY1a2FtamlmVFlHZ1l6R0pSdEtrTnR6cFBSelAtRlk5QzBjZmh6S2taa0c5N184WVBfNFNoeFVFb2NPbGRyWVBTMUx6WWVabzdxenJQVkE?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-09T18:19+09:00"
   },
   {
@@ -374,13 +374,19 @@
  ],
  "cyber": [
   {
-   "title": "【注意】外部からの不正アクセスで「さっぽろえきバスナビ」が誤った運行情報を配信 安全確認まで停止",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WFBJdzg1NzRUcFFLRFZVRWFBNGZ0QnFyQkZJcnFGSzNmbk01T1ZkOG5zd0VKUU9fTmY1MmVpLXd1SHRaUEc0LU5LN0I1dWc5MGQ1c1UyVUpIdw?oc=5",
-   "source": "HTB 北海道テレビ",
-   "at": "2026-11-09T18:24+09:00"
+   "title": "静岡防災アプリ、障害時も受信可 県の災害情報、人工衛星利用で",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zZXBQTWZza3M1MUlKN3cxcnc2YWdXUUdDRlpwMS1HYldtcHVEcVNpQm15WDh0bmdLUDYtZzJtZXBhNWVQUHBTbE84Y3hkTUJ4bkN4c0tRMWVMaF9OcVE?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-09T18:26+09:00"
   },
   {
-   "title": "ニトリ、不正アクセスにより個人・法人会員の情報最大3762件が流出の可能性",
+   "title": "セガ系玩具メーカー、個人情報219万件漏洩 アララ不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Udmp4enFkamx5WHE5Qk1pUnk3dlAtNThsUVRjcDQxQlFMMG9YYW9zcnUwbnRkSWtRTnpSMGlwZFdCX0hVT1JfT3ZxUDFWQlJlS3kzeGVCQXEtSFNTYll5TVJSTXA3aWlCdVVIbg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-09T18:29+09:00"
+  },
+  {
+   "title": "ニトリ、不正アクセスにより個人・法人会員の情報最大3762万件が流出の可能性",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fRG9SM0FLOG5hakF5V21OaHVKdE1ZTlFMQk9ZT2RWUUw4TjBHWk0tZUZJZ0h4TW55NnVsdjBPeVNVdVRMenpfT3FyVUlycVFZaWNRYXIwa2MxazFuUGdYN1laYXcydmdZYmg0?oc=5",
    "source": "INTERNET Watch",
    "at": "2026-11-09T18:23+09:00"
@@ -390,6 +396,12 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFV6QWZUNUxQQ0Z0WnE1X2lNaWs5bzVvajJWQTFHTGMwMEREWWhfYmQ0ZXZvZ0g5VkdoUXZ2ZUJUbjFoZ0RCeWNReGhwak9NSUtYMFhXMEI1OVJCblZ5Y2tFUGhPT0ZkRUprSHFMRy16b3drOTBjLVNtNm02OXIzaHp4OWItM3Q1TElLUlBteVZLUm9vNHpWdFgtZmlldGJEeUQ4ZUFxdXhMUQ?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-09T18:15+09:00"
+  },
+  {
+   "title": "ランサムウェア集団「Qilin」主導者を逮捕、日本で拘束しドイツへ引き渡し（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aTndPd3BxaDNqZ0V1Sml0MHZRTWxJdHpxYzNSY3pZN1NyY2VJTnlDQWhhUHlLQ1YzaXRPaU55V3lMd2NKV3pRbnFzLW1VVzNERml2T3RVaDFMcDgxVzFoSE1xX0Jsa04tTDZjcGZGcWZfRzF2NFdPamRBd3NWY1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-09T18:10+09:00"
   },
   {
    "title": "ニトリnews｜不正アクセスで最大3762万件の個人情報流出の可能性",
@@ -440,12 +452,6 @@
    "at": "2026-11-09T17:58+09:00"
   },
   {
-   "title": "ランサムウェア集団「Qilin」主導者を逮捕、日本で拘束しドイツへ引き渡し",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93R2VBYXFaSVN2N2dzVlNaRFVLMC1KQlo2RWNsTmVRM1R6MEwyemhqcXhtZ3I5ckduQXJfTjh6OUtHSDhSRmM0bTdTY2FUZTdpV05N?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-09T17:57+09:00"
-  },
-  {
    "title": "ニトリに不正アクセス 最大3762万件の個人情報が流出の可能性",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MUliQTdCZEFrNUdDZnEzM2dURWI1SV82ZEhaT242YnhidHJsODdPV25acXRkd1Iya21mMERtRUp5RTc4czROX1lnd1J0dXYxa3RDT1VLbTZmazc5ckVn?oc=5",
    "source": "NHKニュース",
@@ -455,12 +461,6 @@
    "title": "スキマバイト シェアフルに不正アクセスに不正アクセスによるサイバー攻撃、個人最大750万アカウントの個人情報漏洩、法人約7,500社の情報も漏洩|セキュリティニュースのセキュリティ対策Lab",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeERqZTZialVfS3IwQ3IzS2lQSXZka2dPUE54YnJZUi1wUHpWT0FfM3UxdE5BdmM3dzUzWW0yVkFMWXEzZ00wMUVEcGdhZ2p2VVo0WUgyTWU1dWs1S2djZzBvWlJwUTlnLU5tV1g2NEptVnZvRTBBYnFzbVJhV3BHbjY3bFQ3Vk8tV2FnTHd4WEo5ZFFWRTNIRklmQXU1dlR5eFJYSg?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-09T17:55+09:00"
-  },
-  {
-   "title": "【不正アクセス被害】札幌市営地下鉄にも…『さっぽろえきバスナビ』運行見合わせや遅延など事実と異なる誤情報を配信 個人情報の漏えいなし",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YUWRwbnBXSkx3cEhRd1BScWxiTFZqRjc3V2N6Z2tYNWpHUDItM21odHd0VllmX0l3U256X2hDdDVuTUNPRlltTHE0SEo3VG9aS0IzcDRoa0lRNndYYkczZ1NMM01sSnc?oc=5",
-   "source": "TBS NEWS DIG",
    "at": "2026-11-09T17:55+09:00"
   }
  ],
@@ -566,9 +566,9 @@
   },
   {
    "title": "第25回「ベルリン安全保障会議」、台湾の外交、防衛、社会全体のレジリエンスの実力をアピール",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Y0lIeGJWeDBVbFk2SURiMUoyZU5iQzAwcVhOODd3UFF5VS1SczJHbTc4OEpMaE1qRVJCTmtYWnRBd0hGZ2JpRmZBbmh4U0NlVGc?oc=5",
-   "source": "Taiwan Today",
-   "at": "2026-11-09T12:17+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2ZVNrNHV5WHM0X0ZYRFRTbG5YaUc0ZlMzaUJRcE4yVzlqYXpzOHVKbV8xZENZLUlZVnByc2lxSXVvclk4dmZZTmZnZ25OQ25UZTA3dTVQQUtiM3ZLN1E?oc=5",
+   "source": "ROC Embassies and Mi",
+   "at": "2026-11-09T13:15+09:00",
    "topic": "中国・台湾"
   },
   {
