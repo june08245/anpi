@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:45+09:00",
+ "updated": "2026-11-09T09:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "トランプ氏 イラン再攻撃可能性「極めて低い」",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPR1E0RkIzMTkzbnVoVVlhd3FrRlhpaFdGZFZtZ1hMdktEcHFfNzJjaHRJSnNCMU44QlA4Ui1NUWhyUGRWcVFTTFF3ck5XV0l1c29yd0RMUWEyLXp4UDdEWTNGakE4eVB5Y3V5SkxR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-09T08:42+09:00"
+    },
+    {
      "title": "トランプ氏、対イラン交渉進展なら再攻撃の可能性「非常に低い」 外交を優先姿勢",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fbTNZXzZPOTlQOXlUd0NVYm5VOUx6WWF2ZEllYlA3RG9CQVdVTHBwWkxVdmFyckFLcGZBb1V2dk9xN0Q3aUpDOFNxdjJiLTJOdVUtUTlxY05RMU8xdTl0WmF3aw?oc=5",
      "source": "時事ドットコム",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWJDbXpObGwtQnExRWlTdG52eExZOU9MZXFBR253UWdoT3BMUHNzT0tNYTMwcHlrQy1pdHRXX3RINWtxdDBVZS1fNjdUenBTS0E2QVJ5X1BBV3JQOWctVXhzQnhnT1Vfend6VUM2NjJoNHRJcVNfamlNcldLR3dvSzZCX0RIcUROWnNLMjRSWHFNbGM1ZWpxN204cTdQLTNKOVJXLUNpQURnNnFCMGItZXZR?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-09T05:54+09:00"
-    },
-    {
-     "title": "対イラン戦闘再開「可能性低い」　米大統領、中間選大敗が影響か",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRW55cFRFX1hyNmFSN2ZFeHJ3TDZoaTBIUlZDMW5GRTB5UzJ5TWdzY2tQZ2pnRDctYmNBZHczWXVxak1uNzlPbkMzWTc0YlhKNmFmM0xubW5FbTBFOFh0am1JNDdleFd2Wi1xLVZWVU1mZnV5cEN5eGd4Wm00VTFnRUtmcmRWZldFMWfSAY8BQVVfeXFMTTRRZFoxS3U4SW5GTFVCN3lsdmlodlV6M3VudkZrTkg0UG5BeTdrdmpUX0s0b3EyZ012S0hOSUlFeFp1dUk3VFphM0pPaXhES2c3aWVpU3NZS3JTRUd4THlzbTg3N2JWTUpQSUEzdnlWbGo0ZEdYSW9lZkpEMGtsTEEzTl9GOHk1TmJaR2s1S0k?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-09T05:42+09:00"
     }
    ]
   },
@@ -363,12 +363,6 @@
  ],
  "cyber": [
   {
-   "title": "ドコモ《1カ月足らずで“トラブル連発”》の大失態…社長が設備投資増額を意気込んだ矢先の「14時間続いた通信障害」",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjFVQy1ONkdwbEpWSW44VTVYRkNrWTFjWlVPN1JVbEVFWVl3a0dFTE8zYVc4a1o3akMzVGZaREM0eVdKbldLYkRaWGhmMi1NZ3FtdlRqWVhBVXplS1RjV0JySlAwSUpESUVaNVp6WklVdFExSUh3Ylk0TEx0b0pUdDRSd2xNNUpV?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T08:08+09:00"
-  },
-  {
    "title": "航空会社のシステム障害で飛行機が大幅遅延……集団訴訟を起こした旅客に対し、裁判所が下した判決とは",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzS01iNFhvMzhwbk5vVFBaMmduZ3NkTDR5VUMtZHlsck9mMFZnRWpNZ2VLLUNUV2Y1eS12SHNxVkxRZFI1MmVqMktJTWVXSzJJNU5zT1VtLUk3UQ?oc=5",
    "source": "EnterpriseZine",
@@ -379,6 +373,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwMW8zbjhwb1RaX19faGlrYXBwcGJWTWhEZDVmUUdDNDc0b3c0QzdHMXlJVlQwY2p2SjJwblYwbTQydHNXelFCTDFiN1pua1NRbUJNSTljbEpEV2w0T09YX2M5SU9xS29TWlhJVlFlTXVvVmIwTTlRampmcW9JcVE?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-09T07:27+09:00"
+  },
+  {
+   "title": "ドコモ《1カ月足らずで“トラブル連発”》の大失態…社長が設備投資増額を意気込んだ矢先の「14時間続いた通信障害」",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWgwOFhWUk13WExDUkJlMTFub3pVUFNidkZkcTJtTUd0T1ZhWmxMOUxLR054LU1zZDFMbmw4OElJWm03Tk5lRExjZ0xiR3ZFS2prQUNxZEtGYlJfamwxSjZHTy11YW1RSnJ1MGNBaDZJRzM1bXNLQ1F3SWF5N2VtNmhTTHpDREpSeWwzam13?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-09T05:57+09:00"
   },
   {
    "title": "東海以西の128信金でシステム障害、19時すぎ全面復旧 ホストコンピューター故障が原因：ニュース",
@@ -455,6 +455,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "トランプ氏 イラン再攻撃可能性「極めて低い」",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPR1E0RkIzMTkzbnVoVVlhd3FrRlhpaFdGZFZtZ1hMdktEcHFfNzJjaHRJSnNCMU44QlA4Ui1NUWhyUGRWcVFTTFF3ck5XV0l1c29yd0RMUWEyLXp4UDdEWTNGakE4eVB5Y3V5SkxR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-09T08:42+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "トランプ氏、対イラン交渉進展なら再攻撃の可能性「非常に低い」 外交を優先姿勢",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fbTNZXzZPOTlQOXlUd0NVYm5VOUx6WWF2ZEllYlA3RG9CQVdVTHBwWkxVdmFyckFLcGZBb1V2dk9xN0Q3aUpDOFNxdjJiLTJOdVUtUTlxY05RMU8xdTl0WmF3aw?oc=5",
@@ -533,13 +540,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "対イラン戦闘再開「可能性低い」　米大統領、中間選大敗が影響か",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRW55cFRFX1hyNmFSN2ZFeHJ3TDZoaTBIUlZDMW5GRTB5UzJ5TWdzY2tQZ2pnRDctYmNBZHczWXVxak1uNzlPbkMzWTc0YlhKNmFmM0xubW5FbTBFOFh0am1JNDdleFd2Wi1xLVZWVU1mZnV5cEN5eGd4Wm00VTFnRUtmcmRWZldFMWfSAY8BQVVfeXFMTTRRZFoxS3U4SW5GTFVCN3lsdmlodlV6M3VudkZrTkg0UG5BeTdrdmpUX0s0b3EyZ012S0hOSUlFeFp1dUk3VFphM0pPaXhES2c3aWVpU3NZS3JTRUd4THlzbTg3N2JWTUpQSUEzdnlWbGo0ZEdYSW9lZkpEMGtsTEEzTl9GOHk1TmJaR2s1S0k?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-09T05:42+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHMTNJWjJzdlhpdmZVMmZDYng1UzRGeHpVUTJiN1NoalhMQzNSaERuaDVxR3VJT1RHNklmSHlBNExqNVdQSGNPVU50cjBBa3ZfcWRyRlJhV2dKaUZaYmk4aUFuLUE2dmM?oc=5",
    "source": "TBS NEWS DIG",
@@ -612,17 +612,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」5件",
+    "イラン・アメリカ：「攻撃」6件",
     "中国・台湾：「侵攻」1件",
     "北朝鮮：「攻撃」「ミサイル」3件",
     "ロシア：「攻撃」「ミサイル」5件"
    ],
    "items": [
     {
-     "title": "トランプ氏、対イラン交渉進展なら再攻撃の可能性「非常に低い」 外交を優先姿勢",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fbTNZXzZPOTlQOXlUd0NVYm5VOUx6WWF2ZEllYlA3RG9CQVdVTHBwWkxVdmFyckFLcGZBb1V2dk9xN0Q3aUpDOFNxdjJiLTJOdVUtUTlxY05RMU8xdTl0WmF3aw?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-09T08:13+09:00"
+     "title": "トランプ氏 イラン再攻撃可能性「極めて低い」",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPR1E0RkIzMTkzbnVoVVlhd3FrRlhpaFdGZFZtZ1hMdktEcHFfNzJjaHRJSnNCMU44QlA4Ui1NUWhyUGRWcVFTTFF3ck5XV0l1c29yd0RMUWEyLXp4UDdEWTNGakE4eVB5Y3V5SkxR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-09T08:42+09:00"
     },
     {
      "title": "習近平の大粛清で中国軍が「機能不全」の危機、台湾侵攻の可能性は低下？軍最高幹部まで排除された異常事態",
