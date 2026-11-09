@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T11:00+09:00",
+ "updated": "2026-11-09T11:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -368,16 +368,16 @@
  ],
  "cyber": [
   {
+   "title": "セガ不正アクセス障害、バンダイナムコ8タイトルが試験復旧 太鼓の達人も7日ぶり稼働",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTy1yNndja2F3dlppaXI3UXYyTlNZcllIM205dDJmUDdZYU9kaUdNc3Y2Nkd2TFU5cEFQSmRYeWlCUk40alhONVVCSmtLYVUxZmhHSWZTODYyYzVHaXplREJFU0UyVGpzbWtybmllWHQwRTlK?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-09T11:06+09:00"
+  },
+  {
    "title": "128信金の大規模障害、約6時間で復旧　「原因はサイバー攻撃ではない」",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04OXREV2w5cWxfTDRwRVdSWUFMUXZ6MUVTbHJwYlMzRjJJMDVPR0V5V0tCVEJwd1I0RkxEZXZBbXg5N2JBZ0x5Sk9iak05dWxoSEZHTjRtUDFJUDJsWVJRYU9aMmpmWnJMeExOYlZrZ2pWYlJBRlVVa2gyc3nSAXxBVV95cUxNODl0RFdsOXFsX0w0cEVXUllBTFF2ejFFU2xycGJTM0YySTA1T0dFeVdLQlRCcHdSNEZMRGV2QW14OTdiQWdMeUpPYmpNOXVsaEhGR040bVAxSVAybFlSUWFPWjJqZlpyTHhMTmJWa2dqVmJSQUZVVWtoMnN5?oc=5",
    "source": "Infoseek",
    "at": "2026-11-09T09:28+09:00"
-  },
-  {
-   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJQzFvZ3JPVHkxUGNqNVNienNQMzVyVlFsRndCNkZOY1RBMlF2MGJGai1pV3NVUDZtQi13UjlDcmFNM3J5VWxtUEtOV3NONXRabXRKMnl2VjlCZ3lvRUJvazRNVWMxdGlNQ056eWw5UFFld21W?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-09T08:58+09:00"
   },
   {
    "title": "航空会社のシステム障害で飛行機が大幅遅延……集団訴訟を起こした旅客に対し、裁判所が下した判決とは",
@@ -386,27 +386,33 @@
    "at": "2026-11-09T08:00+09:00"
   },
   {
-   "title": "人事続々決定も…鳴らない“電話” オファー待つ球界OBに総ツッコミ「通信障害？」「いつの？」（Full-Count）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwMW8zbjhwb1RaX19faGlrYXBwcGJWTWhEZDVmUUdDNDc0b3c0QzdHMXlJVlQwY2p2SjJwblYwbTQydHNXelFCTDFiN1pua1NRbUJNSTljbEpEV2w0T09YX2M5SU9xS29TWlhJVlFlTXVvVmIwTTlRampmcW9JcVE?oc=5",
+   "title": "家庭用IoT機器の不正利用によるサイバー攻撃インフラ、警察庁とGoogleが連携し無力化へ",
+   "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxNaHcwX01KWlpVUFhZSzNNMVJUSWpxT3VtZ0phb3NUdlpyOU1WaXdSRVphc1hON0RvM2FCMGY4eXVLc200NjFrc1AzLUtZRzhXQWh6YkthVFV5U2tBYkUwVTEtSkZXemFsM2ZaTkUtQWRGX3VKdFdvR3FFMzNPUC05Z081ZUVaOE5PU0xYaDBjVDBnVmlnRHhoa3dtWmpScDFQbTdpN2JSLVJzZnh2QThRRkJ3eXR1RDBJaGpmV3VON0h6dVN2NVZXYS1Cc1NUeHU1eDlQS1EyS0x0dzJyZTNrQ0JuMElIOGNPVllxUDZWcHRtR2VHNU4wcWUyM2wyU0o3R3BvMlRHc1R4bGRVeG16SEtRYU13TUprTkg1anFZUHVwbEplYnhSeDRzdTJ1U3VzcldxbWRhaG5vTDBJWlBNVEZnaEhNWVVWd3pLbHdwMjVZMzNkamgxTFhuMEJvaWd2SjctUjZBcE1TaFZzcUlaVEE4MGgycElzbktOZ2NnQzBSNHFGdEcxOXBpeWd1SlBCMkpZeFZlc1VfWDNwWGdNZFpoSDBSVDBwRDlQVzJnS2R0bGEzWGI1UHNGYXZGR2xFUEV5NmlrTEF1eFZ0QkptTldpUTcxVWF5a1FRRGdCX0ZsMEEtM19QZDM3MHFWQko0OEZjeS1McVdTUnRqRTBiaUxxUENMclYzMGEwTnh4amxjN2QzbXVQX2hSb2VLdThYeUdUR2l5bHRscGwzaGc2eXZ3UEhQUQ?oc=5",
+   "source": "東京報道新聞",
+   "at": "2026-11-09T11:05+09:00"
+  },
+  {
+   "title": "スマホのタッチ決済、27万6914円でも支払えた クレカのタッチ決済に上限はある？（菊地崇仁）",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JYUNWNDJqQ1haTGR2WDZabGI3czRJWjh4VUtGaDdWeldmQXdXV3lBVjh6RU9FTjZfWDVJeldweUtTM1dXclg1bkFfdlRmdw?oc=5",
+   "source": "ポイ探ニュース",
+   "at": "2026-11-09T11:00+09:00"
+  },
+  {
+   "title": "「太鼓の達人」など7日ぶり稼働 セガ系不正アクセス問題、バンナム系が試験復旧",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqU1gwcmZRWEFHREVPWWdTSEdWZElBcTBDWUJOV0JkTkpBWklCVnBEbGRyWDZtQ3BiS08yWGQtaHFQbm1hZ1VYWDI4U1lLOE52UmZXVF9QdDAxWGo1NzBBbks4ODR1TEFBR3c?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-09T10:54+09:00"
+  },
+  {
+   "title": "総務省、不正アクセスによる情報漏えいで注意喚起 “基本的な対策”の不足が原因とみられる事例が複数発生（アスキー）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZbjNSYTVFMzBFd3g1eFdNTzhFVWY3dmU1bEhlUkkydElMelY1X2NMREpVWnRCQVNoNWhXb3hKMF9Hb1hrUlItejUxa0VJM0pYcTh6MHFiMnB4XzQxbkZEdXByNldzUzdQQXIwZlBzNkhfWWVITk1TV1hDUElpVEU?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-09T07:27+09:00"
-  },
-  {
-   "title": "「太鼓の達人」など7日ぶり稼働　セガ系不正アクセス問題、バンナム系が試験復旧",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGNWUmVLTG1KN3YxWHMtMmU1ek0yRUZLR0JlNFRyaTF1MFd4XzVuc2RtczFYdGR5NXhrZDg2SlpwUF9kTndCYXlHUHlQU2dUX3NzNENqYXgxMW45WjRrYzg0ZDIwanpXZTBXV0pnTlhXRXF3eEE0RGNkOXBxQXFzWlFNcmxhUUZzdEVGSkZuSk5PNk12NlHSAZsBQVVfeXFMUG9WNTVDcDNTdHkyYzZaMy1sQ1FwWGVleHRpdG5iTTdnSTVyY1FrWDBWZ2N4eXhwNjhVbFVoQzBCVkY2ekIwUU5uZVB6bGUxY0o5OGhUd2JEcjZwc04zSmZna21vS0Joc09iUUhIZXY4cWtsTzd0eEpzOHlqaU9MSnZQUXhTS25tSGRtMkM4ald6VmExTHVQczNkLWc?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-09T10:55+09:00"
-  },
-  {
-   "title": "総務省、不正アクセスによる情報漏えいで注意喚起 “基本的な対策”の不足が原因とみられる事例が複数発生",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95dXpZOS11U3FnU09nNU9EYWFhUVpfdWQ2emdmUktGOUdoMDBaWDVWVVdfSFVvZ2lXVmc0dWpETjJfMS12YmRtS0htY0hkODQ0b0FiTkllTXdJQXg2eTZz?oc=5",
-   "source": "ASCII.jp",
    "at": "2026-11-09T10:50+09:00"
   },
   {
-   "title": "小学館、個人情報199万件漏洩の可能性　配信委託アララへの不正アクセス、影響相次ぐ",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3RuN3dTbF9KRnhiNzg5RWdKZWw3eTRGYmRYdVZLR2x5WlY0NGxrcjhmMGVqU3pHODNDamRnbmdYWEMzeG4tb0s5LWt3LTk5LVotTVhfVGIyVHU2OGxiOEZ4VTRIRzZqZFpxdlRITk52UEVMZkJpd3VZN2VJQ1lCbllZaEhldjRuLVpuTlBDc9IBlAFBVV95cUxON3JCTWFFZm9NZ0kwTVpqOFpRVWhjVEY5ckNlWVo1bUl1VmcxMGpnb3lwdFdyVXBXaDJ6emhYTnNYTlpnVTBFOExHODhRaWpjVVlwUWc1cWpNc0hfNW1YT1ZtU1BEM0s3SldLV3BtVEFTRExQb3lVMmNCUG1oRWhOSUNYbUhqTFdfU05Sbi1xMXFyMzls?oc=5",
-   "source": "Infoseek",
+   "title": "小学館、個人情報199万件漏洩の可能性 配信委託アララへの不正アクセス、影響相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwM0Jkak1yd3BBZlV4SXp5bFdZcndOYnpxcjFReDVWUUpkN19NN2RxbHFlakl3X3JLOTFLVVJMLTViZ01xQnMxc2JYSVhLdVVhalFBVXA0WGZpbFN1VU5WSDhQaHRCdHhtWGIxN2M5UHExdmxRcFE?oc=5",
+   "source": "産経ニュース",
    "at": "2026-11-09T10:49+09:00"
   },
   {
@@ -450,12 +456,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55NVNWeXgzMS00djZVekZKWlZuQW4xOWFXOHlfaTNjbDk3MTBPb1dGRHNrdE80bXRSdEhJa1pKaTNCUVdBNHVZMFk1ZUpWLVV5UFRvaWhtdnhXd2FjOWFLeUtTZ0l2ckM3UlE?oc=5",
    "source": "ITmedia",
    "at": "2026-11-09T10:13+09:00"
-  },
-  {
-   "title": "セキュリティ団体が不正アクセス被害 JNSAのサービスで最大1万5128件の情報漏えいのおそれ",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56Z2w0cUFqejB4TFpESlZGUE9xTzByZTFCd01wblZWb1BCaDVyaVB6b0k2Q2hLZXF5cExpYjdlTU9taXZVcEJBR21vaHExdXo3YWo3ZGJzc1c0Zlk3RTh0cw?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-09T09:56+09:00"
   }
  ],
  "osaka": [],
