@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:00+09:00",
+ "updated": "2026-11-10T00:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-10T00:09:00+09:00",
+   "place": "瀬戸内海中部",
+   "mag": "2.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-09T18:35:00+09:00",
    "place": "長野県南部",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-08T11:21:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -94,6 +94,18 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "イランとの軍事協力深めるロシア ミサイル発射機90基供与で合意",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pWkRIMFk3QWxIMUZ6NFRCXzAydGpScHdYVEZRRHM1Q2FnNDRTcEJvbUxIbkxqa1Ayak1wejRfcW5FNDlUeU9LLWVsbE9HbVlwT3pQU3hlTENlYXJQanl3SDE2T195a2Y0TExfem8wOE9mX2QwcFB3?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-10T00:00+09:00"
+    },
+    {
+     "title": "NY外為：ドル反落、原油安、米イラン外交進展に期待、トランプ大統領は協議進展条件に再攻撃控える姿勢 執筆 Fisco",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hTE9SbkFVZkEtOVBHRmJRNzZ0b3JPT1VmZG5TMmM2THRWNzdGcU1ZdS1yN2kxMzNfMUZZY0ljdENCZFU4SWJTOXhhUzhPd3dmRVlzMDdLMTRra0xjc2s4aXkzcXhuYmc?oc=5",
+     "source": "Investing.com - FX",
+     "at": "2026-11-09T23:45+09:00"
+    },
     {
      "title": "トランプ氏、交渉進展があればイラン攻撃命令の可能性は低いと発言",
      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQOXVyLXVPcUI3d1BHbFI4bndDNGxCVncyUnpUYkQ2Y3E0amRzMWZPR1N0U2hvaVJGLW1EZXJydElhNkNNZEtBM2FJUlljRC1Td3U5SE5yakFpM1R2ejhUQS1WeUxXMGhTUTcwYVlKTmpQdFNHWWVDdHY5N0pCNEJuTnc0YmRQcU5lNC10YnhRTm9JOFEwdnU3OFJOdEJKT3kwMXpsV2pCaE05YWg3MUZTV0RBUnk5cF8xSVVkLUF6dE5TcmVhQW8tSFdGX0hNYlRBMG9UVVAyck9mekswYVdEX3d1NDVMOTFFSmxiU05kcGFHNzE2eXdrT3dabDZ2d2xudmI4Y05tM0FVWGhMbUxybVRyVFZ2YTlWTUpMLUd6ZXVwdWdxbEU5b2dQNUxWbDA4UVpoRnBXWDcwazU1SW5VQ0htN2x3amVXdzU2U0h3QnV0ZUluaUtIN1M5d1FIN1Q4VnAyc3k3ZFF3ZkZyNWc4bmtiLWJGN1h3QktGNnhHLXZfbFU4bnd5YXJNZ3hmdE9hcWlMMF80Y0N2ZW5kTkdkelJyMXkzWjNpU1d3Yl9DYW8zSXZEdnpaWWM0c0MzNms?oc=5",
@@ -117,18 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNMzNGUVlXZ3BIS2V0cFIxcHVKcUgtcEZESG5NRUZpOGF4R0hiU2hqQlhMOG0tbFJYcTlnakVvYmd0dWc3a3FYeV81YXliTDF5RlJiTmpITmxqeFhKZ1A1S2lGbkNTZnlFZmpyeTlfc1gwNmR3VHh3YjNHRVFWbXlYX1BsVU5VdTdfT3lTRXRJQVpUOWttRnVoRXUteGZrcnEyb0V0QVQ2UGRHRzhIZ253MVl6LUFOYXRjVEg0Y0VSN29FalNuc0JzUldaQ2prQUstWjNmY2RkOEI4RmkycXdneGNhcDBnTmFseE5CTzFpVnNlWHZlN0t2Y3JoZ0tqUTJ1alRrZ1IwRndQVUUyUTFNeTU1YkNDSFNoczVtYTFmUzNIQ0UtRHZ1NEVJVGFlZTdiSjBTbmdhZm1EcDJraTQ2V094U3BlTWRpYUlOcDlmNWttZ1EzOEY2dWowdENfSW9fUHdzMmxZcFlwNE0tWEo0ZVBMbzNHSkVQVS1fSGM3cktLUnM?oc=5",
      "source": "Pars Today",
      "at": "2026-11-09T17:59+09:00"
-    },
-    {
-     "title": "トランプ氏 イラン攻撃再開の可能性「極めて低い」 CNNの電話インタビューで",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5X3IxVkdWTDhZUm9FaW1Zd2NZOXBIUmV4dlVLS3A1RW9OczlLajdaN28xMmI5THpickoyZVhsV0syOUxzalEycWo3dEZVeW5zUm1admYxS3FLaUdSQWZfbktVazg2dURDeEtGWjY5ZW9KQlJnYmk5QXdR?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-09T17:00+09:00"
-    },
-    {
-     "title": "米軍、イランへの陸上輸送遮断 海上封鎖に続き締め付け強化",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tSGQ1UDd6eWxpZHpOQld5dnJocmVKQzJfeWFfS1VtSWdmQmd2ejY4b0FSNGd0VVl2SUtPVzZod0JNY3FEMzB5SHM4SGlIVFo2ZWfSAVRBVV95cUxPYTJfNkdUY3BpV3NHRl90b05udGlJc0N2bVNCZ1gwb0JEYnhNZ29TOWZCQUQ3NElVS0RpUE1DdzZXUEc3TjF0RVIxaFhweTVPX1pWOGs?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-09T16:34+09:00"
     }
    ]
   },
@@ -221,6 +221,24 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "JTを襲った「大株主・日本政府」のリスク：ウクライナ工場爆撃とロシア国内資産強奪の裏側",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RRDg5NXRFLWx6bl9vWW5mOXpwS1MxNmIwZUpRVzdTbzI3QzhZei00UlpmRnhvQlN5Qjc1VHpDTm00b3lYb19Rejc2aEhNRmFQLVpVdjEyNzNoT2xDVFJj?oc=5",
+     "source": "選挙ドットコム",
+     "at": "2026-11-10T00:09+09:00"
+    },
+    {
+     "title": "イランとの軍事協力深めるロシア ミサイル発射機90基供与で合意",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pWkRIMFk3QWxIMUZ6NFRCXzAydGpScHdYVEZRRHM1Q2FnNDRTcEJvbUxIbkxqa1Ayak1wejRfcW5FNDlUeU9LLWVsbE9HbVlwT3pQU3hlTENlYXJQanl3SDE2T195a2Y0TExfem8wOE9mX2QwcFB3?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-10T00:00+09:00"
+    },
+    {
+     "title": "ウクライナ南部オデーサで、ロシア軍によるインフラ施設への攻撃で３名死亡",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkZjOWkyT042b3Y1M2ZWZ3M5aS1CQTl6ZE9PUEdLYjFjci1UX2w2OEJ1eVlKc2RXa0lwTmtOWUlKTTlULWlzWFFwZEYwUVpWUm1oZ29YOHIzUnBwQk1zRFV2Z0VsR3gxTXBSdWVMb0FRRTVQNXB4a3Zfc053TGYxTHBadGQ5M0F1bF9sbnB0d2c4dlN1UWpRclliUVpmek9LbkczUlNOX19FdGdmVmdKeE03blRTQWVCOTNiY3hjSDdHcHVlMVHSAcsBQVVfeXFMTVZOb19SeHZJTUdwLTNNYmhLWFNhWW8tNkVMS19QUW0tc2hyUURESTdhM09KeUV3RWtXR05wNFJTUkxtZlFRSzE1ZXB3bHBvSFNTanB4QkhWeTVVY1RmY0Y0clZySDZ5OE9VODJka29wVW1KMXhyemMzTm9xYnN3Qm9XWHJ4TFBWcHBNTjlpWWs4Z2h4Rmp1VzFkemF5SDJRRl9pcVczT0lTM1RMQUdaQ0pKQ0hXcUFkU0hJcnNPYVRJZzhZLVg1UnFtOHc?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-09T22:44+09:00"
+    },
+    {
      "title": "ロシア、終戦交渉への欧州参加拒否…「米ロ・ウクライナ3者協議」",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3dHUHA1eHpxbDZ0Wjh5NF9uWXlYdEl3MWFqTTZGWTJ5WHNjRWJiSkdlaHJlM1Y5b2w0NEZxUFQwd2tPSG03VGg2bDBMaU1yVmJfZ0FGN2MxN2ZmZ211ZUpCMzBjalBIVjN4c0RocnVfbmUwaHcwcUNPSUFFNllQeUJubUduakxr?oc=5",
      "source": "조선일보",
@@ -237,24 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV3l3V2ZIbHdWRXJqam4tTTNKNC1FcmtOM1ZYd1NZRXhRQkRITThWTENaRzZROThaUGstSGp3UlEwN3k0OWRSazdsaTZZYmx4emk4RE1ZQW84YjNQMEJXN0F0TUdrNFZaWmUtd0JtYlJLcHEwQ3ZIMEVQdVc0dXZ0MFJXUlpMdUNaNmUxQlVHRmZUTEROUERyU0tuSVhtWUwtNWRaVWFYUzlsWUk3cE9HRTloejBRdWRLcmt0Nmk1ZlNzUWxpUE55QVk0cS0xSXZjTi1zZlg5Q0xhVkRfRUE5MS1ReFVjR2Z2bUluSTU3WlbSAfYBQVVfeXFMTnIzOS1KMzl4SmVfU0M4MUJuS2dwcXJ5STNWUzRjTm1SRkNxQUFfSjRNZXpGTE1iOFhONUYtMERpOFRUa3p5SE5Ram1ESUoyMzg1TWVfbXpmUFk2dlplYURwVnhmOWVIWlZINXNYQzMxb3JjUkZGelMxODRqazZBZlN2OTctVEZidG05UEpyUmdzMnJFZGJsU1NYR1o2bW1wSjJ5S2NSTXRXNmRTOXlMVkV0MkVMREFZUlFjdUFab2JpTjZsTGdPUnJPV2ttdVdydmg1TWE2cU5tR0twc3BUODRZbmo0ZTU3QTZsRkNjUmhuQVBNdHFB?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-09T18:14+09:00"
-    },
-    {
-     "title": "ロシア軍、ウクライナ南部コミシュヴァハで救助作業現場を３回攻撃　２名負傷",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkRWemFqblM4dldIdzVfenZkSmNNUF9tXy1NMEs1Wk90dTB4S0Q2elRtLVJ3VXFZVE5IU09ORTc3MGI5dFN4aTFmLWxGNzB4dzl3b1N2VHhPRDdyajFTbVl4R0RXU2ZVYjZuZFd1RmRrRTFad1Jka0N0b2lZZmhkNTVBaVBUaW5SUHZiNzM3ZkhZdWJia2xoOEQ3MldJMXlSSEJ3M3BCbFJCcllmN0F6WTNwNTJRc1h4V1VDdFVDVFRlZ0FKc3p4NlZRd1BjSmllZlFVdG9lSdIB3AFBVV95cUxOY1dPenc2blRCLTlScVh3dmJBd2hZMi1yYzJQT1QyOU1IUFhiczgwTGJPQVlaQ2pWVllLRUQ2YlRjXzZUcmNjVzJrU1FzUlZHU3lfa0NkaGxVc2Z4ODM2dDM4Z0wxVWFDelR5RHlzcWxGRDBmU05LMzgwamtrbm1BdGM3LU9sQ2VoLVhDMWF5OVdYQXljWUtyOC1GUWhTRHdHbXV6eU9yMDUtVjdHVVdzaWFqZEpORjVqWGxIZDM4b0dPQXp1RXpHSWM5elZuczhubkktUk5BcGVOdEFM?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-09T17:11+09:00"
-    },
-    {
-     "title": "ロシア軍はオレシュキ人道作戦の際に現地に追加戦力を投入した＝ゼレンシキー宇大統領",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZmRCOHQ4WG1EdF8xSUUtd3FFSWRFbGNHdFhHVFFjVE1lTnZkY3FoTWhGNmRrSjNnaU0yU291UFZXMml1WkNYTDliUldnNjFBR0Y3aFpWNUlZMkpXaWVzdHJkZWIwNHRMVDVCaUJ0UFV1ZXQ3NHQtY1lBbVpRbmZhV3VTdEJXUldWRjhzMHJZbHJXYlM2ZndZSW1RLV9LUjZTb0NaN29WZmdDZmE1ZjE0UG40d0RUN28yLURzSk9ucFBLb2ZiZ2Q5X1JxUEZEUy1uSFVxQ04zNE5OLW15NmxYV0ZhTF9NNkhpTzJTNUJnUmh0OW41bGVn0gH8AUFVX3lxTE9sdnZyV2xxWHRmc3JtU01sWGlUcmUtU0g4RjR0bzBfWG9sSVNBVEhDWDJUQUx3OGh1MUJUaUdEeG90alhfbW9jbkhucmdaTVAwb1hBVXJQRTB1cE8yN3A4a3R5dm9RVGVXWkdDSEVwZ240aTlCQTJ4RGsxbVV1eGZ4c3dmV1BRY1B4aVItMGhaWU0zYkVoUVVQQmtSU0NyaGhYSGx5T19TTE54Q2tzUUhfVHNQdlFpa2hoTWNrbnVWT2MzbmppekhJdnZyeDZuaHR2cnFRTk0yVjdVM25oOTlVcjdJMFlzd2VvZmRTVTFCVmtkaUJTSzVITkRPQQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-09T16:43+09:00"
-    },
-    {
-     "title": "ウクライナは攻撃を継続、ロシアが停戦拒否なら－ゼレンスキー氏 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUZNOC1adDJqWFJrdzF6bXhyUXlSR0U4T0djdS03b3JNOHRoRkZOMzI3RmY0SjVxWVZ3ZUR4ZENkSFh2R280azVGMWp4MC1BVVpRNFhVZGVNdFBXUkUzdVlFbkJRMjlELTBvSk9zLW1jYWJDN0hLUGx1Mzkzb2tNU3ZKTzdiODg?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-09T16:24+09:00"
     }
    ]
   },
@@ -398,9 +398,9 @@
    "at": "2026-11-09T23:32+09:00"
   },
   {
-   "title": "サイバー攻撃防御へ「国内間通信」監視、外国勢力からの乗っ取り阻止…高市首相が法改正の検討指示（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00QkhCUEpnUFhNRmNSODJTSDdOZHZvRmNZbWVnTndncWdhbkxzdk9ValJMQXpZZVFzeUUxcHZZX0UyNnFlekZ3ckRBNHVCT1JONFJrcTBvVFRIdjFlNmczRi1TRll4MVdZWGw3STBMTlUzY1RsaXljNU51SHdRWGs?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "サイバー攻撃防御へ「国内間通信」監視、外国勢力からの乗っ取り阻止…高市首相が法改正の検討指示",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MlhGZlB4T1ljYkNHX19Scl9zYnFHcm5iV3ZRUmM4UVByLVRLWVVyR2VMTERSUEc4V0tUQUFXNEhOenZUeWNjWncyMDNFTk5TbGlyZ2hVc2dBUXJ5WGpObGJaZXJMdw?oc=5",
+   "source": "読売新聞",
    "at": "2026-11-09T23:32+09:00"
   },
   {
@@ -422,6 +422,12 @@
    "at": "2026-11-09T21:35+09:00"
   },
   {
+   "title": "資生堂の肌測定システムに不正アクセス 個人情報2515件が流出（WWDJAPAN.com）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fcXF3RERRcl9mSWNneloxbnE5UFZVWGl5dkdlc1AyNkE4OWpXc0E0TDAzVkJQbUpvUldQMG50djl4X0EwWE1va1dIaXNuWE5rbVNPV25sLWxqdkNQNXBoMC1DSDdsY2g2WXRqSmIwWk5zVUZoWnZGNlJReXdGeDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-09T21:30+09:00"
+  },
+  {
    "title": "冷蔵庫サイバー攻撃で注意喚起＝政府",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FckZaNm5jdE5QbEFseG9MNmY4WjBmT0JjTzktOHF6M3VqNHh4MnMyUXV2NURYbzRvVjgxMWV0bmFueVBreG1kMFZYZnF3SkM1ZHFRaGhDQ3BobWNuSVU0?oc=5",
    "source": "Excite エキサイト",
@@ -432,6 +438,12 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWWJtN0JZRThCQ2xTdUhiczVSQnZ5bFh6UWlRYmhLVThqbFFSdGlpSEJoVHdZc2R4ZFBqdHEyRXBOMVRkSjNGZ09wVGRjTGFOSk9pUUZhUlRPSjZPTTlvN3BYOW9Odm9vS1BHV2swN3gyUmtxeHcwWHI2S2E3eXFXRmdrdktWVFduMnZhMGVHTzIzckNxbFZoTQ?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-09T21:13+09:00"
+  },
+  {
+   "title": "北九州市でメアド流出2000件 公共施設予約サービスから 配信委託先への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZHNIbHlFaE1rc0ZQRGxpMlRVQjMyaEpZSWpBcW1BV01BcUxsa3FNUkp0enFfZkUwWG5lVkdYNldMUnlKUjZfczBfX0NFTlhZTW1IRFBB?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-09T21:04+09:00"
   },
   {
    "title": "山口県がサイバー攻撃対策の相談窓口 中小事業者に支援制度紹介",
@@ -450,22 +462,38 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hbm1XTjRPX2NVMEdsLXdhcWYwUlJITUUwbldpaDM5SDVpVUtGNktXRHEtQ01XQlF6eDlmVVFwb3MyWWFZT29HdTJvWDNJUGo3elVDeS1iRWpHQldNWU5kVXkxSFIxQ0tUcmhaRUcwOS1Mdw?oc=5",
    "source": "ITmedia",
    "at": "2026-11-09T20:45+09:00"
-  },
-  {
-   "title": "ソフトバンク宮川社長、子会社サイバー攻撃で陳謝 偵察は月6億件と倍増",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55WUpVYnk1Tkh4SXZLMkFJbXE1NzUzeFMxRS14STM4eDFFSlVJRkVFa2drOXBLZV9UZFhpOFZxY0Z5Z3JjSFJOcUFYUmFZbFo3N2NSSkhfMS1meTNTVWVNUEhtZnNfU1BDNFhEd2lBYU5fVExx?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-09T20:35+09:00"
-  },
-  {
-   "title": "GMOサイバー攻撃会見で明かされた“盲点”「仮想サーバー＝VPS」に不正侵入 2か月間なぜ気づかず？AIの急速な進化に対策は",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3VFZ1WF8tWGZiQjhDcGNzRnBiUGNNdTA1M1kzb1BkYkJXc25WZUFlQmZid3NwSjl4amllUzRYeS16LXVqelpCbF9kc1ZwZnMwQWpRYWtVR1lxUGtvM0tDT3NR?oc=5",
-   "source": "TBSテレビ",
-   "at": "2026-11-09T20:24+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "JTを襲った「大株主・日本政府」のリスク：ウクライナ工場爆撃とロシア国内資産強奪の裏側",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RRDg5NXRFLWx6bl9vWW5mOXpwS1MxNmIwZUpRVzdTbzI3QzhZei00UlpmRnhvQlN5Qjc1VHpDTm00b3lYb19Rejc2aEhNRmFQLVpVdjEyNzNoT2xDVFJj?oc=5",
+   "source": "選挙ドットコム",
+   "at": "2026-11-10T00:09+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "イランとの軍事協力深めるロシア ミサイル発射機90基供与で合意",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pWkRIMFk3QWxIMUZ6NFRCXzAydGpScHdYVEZRRHM1Q2FnNDRTcEJvbUxIbkxqa1Ayak1wejRfcW5FNDlUeU9LLWVsbE9HbVlwT3pQU3hlTENlYXJQanl3SDE2T195a2Y0TExfem8wOE9mX2QwcFB3?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-10T00:00+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "NY外為：ドル反落、原油安、米イラン外交進展に期待、トランプ大統領は協議進展条件に再攻撃控える姿勢 執筆 Fisco",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hTE9SbkFVZkEtOVBHRmJRNzZ0b3JPT1VmZG5TMmM2THRWNzdGcU1ZdS1yN2kxMzNfMUZZY0ljdENCZFU4SWJTOXhhUzhPd3dmRVlzMDdLMTRra0xjc2s4aXkzcXhuYmc?oc=5",
+   "source": "Investing.com - FX",
+   "at": "2026-11-09T23:45+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ウクライナ南部オデーサで、ロシア軍によるインフラ施設への攻撃で３名死亡",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkZjOWkyT042b3Y1M2ZWZ3M5aS1CQTl6ZE9PUEdLYjFjci1UX2w2OEJ1eVlKc2RXa0lwTmtOWUlKTTlULWlzWFFwZEYwUVpWUm1oZ29YOHIzUnBwQk1zRFV2Z0VsR3gxTXBSdWVMb0FRRTVQNXB4a3Zfc053TGYxTHBadGQ5M0F1bF9sbnB0d2c4dlN1UWpRclliUVpmek9LbkczUlNOX19FdGdmVmdKeE03blRTQWVCOTNiY3hjSDdHcHVlMVHSAcsBQVVfeXFMTVZOb19SeHZJTUdwLTNNYmhLWFNhWW8tNkVMS19QUW0tc2hyUURESTdhM09KeUV3RWtXR05wNFJTUkxtZlFRSzE1ZXB3bHBvSFNTanB4QkhWeTVVY1RmY0Y0clZySDZ5OE9VODJka29wVW1KMXhyemMzTm9xYnN3Qm9XWHJ4TFBWcHBNTjlpWWs4Z2h4Rmp1VzFkemF5SDJRRl9pcVczT0lTM1RMQUdaQ0pKQ0hXcUFkU0hJcnNPYVRJZzhZLVg1UnFtOHc?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-09T22:44+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ロシアの専門家がポーランドでの演習が核不安定のリスクを高めると警告",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE9OS3NzQy1vZldhdi1IcGtxWXRyN2U3NDhwdVktY01IcG9nMUlaLWwzTFJYbVBQNE53ZUtGZDFlTmt4NUpQNEhuMFBaU1pGZmdDekVlRXduWDE0NERLU3pSR3Q2LXBSeWRMQkJDSDZvUnpzUXkwR01lT3dsbVdnc1FJbXFMQW1nSWFWSU9NZzBSbF9hd1g1N29RR3hrMzExVWhEdmliZC10LUNiSGJ3aE5uTFZYSG9mc2hsVFpB?oc=5",
@@ -558,41 +586,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシア軍、ウクライナ南部コミシュヴァハで救助作業現場を３回攻撃　２名負傷",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkRWemFqblM4dldIdzVfenZkSmNNUF9tXy1NMEs1Wk90dTB4S0Q2elRtLVJ3VXFZVE5IU09ORTc3MGI5dFN4aTFmLWxGNzB4dzl3b1N2VHhPRDdyajFTbVl4R0RXU2ZVYjZuZFd1RmRrRTFad1Jka0N0b2lZZmhkNTVBaVBUaW5SUHZiNzM3ZkhZdWJia2xoOEQ3MldJMXlSSEJ3M3BCbFJCcllmN0F6WTNwNTJRc1h4V1VDdFVDVFRlZ0FKc3p4NlZRd1BjSmllZlFVdG9lSdIB3AFBVV95cUxOY1dPenc2blRCLTlScVh3dmJBd2hZMi1yYzJQT1QyOU1IUFhiczgwTGJPQVlaQ2pWVllLRUQ2YlRjXzZUcmNjVzJrU1FzUlZHU3lfa0NkaGxVc2Z4ODM2dDM4Z0wxVWFDelR5RHlzcWxGRDBmU05LMzgwamtrbm1BdGM3LU9sQ2VoLVhDMWF5OVdYQXljWUtyOC1GUWhTRHdHbXV6eU9yMDUtVjdHVVdzaWFqZEpORjVqWGxIZDM4b0dPQXp1RXpHSWM5elZuczhubkktUk5BcGVOdEFM?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-09T17:11+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "トランプ氏 イラン攻撃再開の可能性「極めて低い」 CNNの電話インタビューで",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5X3IxVkdWTDhZUm9FaW1Zd2NZOXBIUmV4dlVLS3A1RW9OczlLajdaN28xMmI5THpickoyZVhsV0syOUxzalEycWo3dEZVeW5zUm1admYxS3FLaUdSQWZfbktVazg2dURDeEtGWjY5ZW9KQlJnYmk5QXdR?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-09T17:00+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア軍はオレシュキ人道作戦の際に現地に追加戦力を投入した＝ゼレンシキー宇大統領",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZmRCOHQ4WG1EdF8xSUUtd3FFSWRFbGNHdFhHVFFjVE1lTnZkY3FoTWhGNmRrSjNnaU0yU291UFZXMml1WkNYTDliUldnNjFBR0Y3aFpWNUlZMkpXaWVzdHJkZWIwNHRMVDVCaUJ0UFV1ZXQ3NHQtY1lBbVpRbmZhV3VTdEJXUldWRjhzMHJZbHJXYlM2ZndZSW1RLV9LUjZTb0NaN29WZmdDZmE1ZjE0UG40d0RUN28yLURzSk9ucFBLb2ZiZ2Q5X1JxUEZEUy1uSFVxQ04zNE5OLW15NmxYV0ZhTF9NNkhpTzJTNUJnUmh0OW41bGVn0gH8AUFVX3lxTE9sdnZyV2xxWHRmc3JtU01sWGlUcmUtU0g4RjR0bzBfWG9sSVNBVEhDWDJUQUx3OGh1MUJUaUdEeG90alhfbW9jbkhucmdaTVAwb1hBVXJQRTB1cE8yN3A4a3R5dm9RVGVXWkdDSEVwZ240aTlCQTJ4RGsxbVV1eGZ4c3dmV1BRY1B4aVItMGhaWU0zYkVoUVVQQmtSU0NyaGhYSGx5T19TTE54Q2tzUUhfVHNQdlFpa2hoTWNrbnVWT2MzbmppekhJdnZyeDZuaHR2cnFRTk0yVjdVM25oOTlVcjdJMFlzd2VvZmRTVTFCVmtkaUJTSzVITkRPQQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-09T16:43+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "米軍、イランへの陸上輸送遮断 海上封鎖に続き締め付け強化",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tSGQ1UDd6eWxpZHpOQld5dnJocmVKQzJfeWFfS1VtSWdmQmd2ejY4b0FSNGd0VVl2SUtPVzZod0JNY3FEMzB5SHM4SGlIVFo2ZWfSAVRBVV95cUxPYTJfNkdUY3BpV3NHRl90b05udGlJc0N2bVNCZ1gwb0JEYnhNZ29TOWZCQUQ3NElVS0RpUE1DdzZXUEc3TjF0RVIxaFhweTVPX1pWOGs?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-09T16:34+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ウクライナは攻撃を継続、ロシアが停戦拒否なら－ゼレンスキー氏 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUZNOC1adDJqWFJrdzF6bXhyUXlSR0U4T0djdS03b3JNOHRoRkZOMzI3RmY0SjVxWVZ3ZUR4ZENkSFh2R280azVGMWp4MC1BVVpRNFhVZGVNdFBXUkUzdVlFbkJRMjlELTBvSk9zLW1jYWJDN0hLUGx1Mzkzb2tNU3ZKTzdiODg?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-09T16:24+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "「腐った白菜と薄い汁だけ」北朝鮮軍、”栄養失調で死者”が政治問題化（高英起） - エキスパート",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzBOc3g0RVEtSGVSMlVBUUNsc3NPSDgzcW02R0I2dENVdHAzMWJ4aV93N1c0Sld0VE1rUlp2aVNwd2JTWFJ4bVRGTm9LVWFLb2lvNWlHU3dNOTJtdFlNT195b2MtTDU4SDVWcEJ6a2JxWHVFQlZYb2ZWMU5VUnlNSGNGT1B4eHky?oc=5",
    "source": "Yahoo!ニュース",
@@ -605,6 +598,13 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-09T14:57+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "【寄稿】中国軍「大粛清」で指揮系統は崩れたのか 3大艦隊の動きから読む対台湾作戦能力 | 陸文浩（リク・ブンコウ） | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpaGR2ZmRHUjJWcDNWNzNOYkdiVlhFcWxqNDd5SjdlNjhjTTE1NC1MRnJLMXNZeHFhNDBkWkwtb2lVSHZfcnM5eVBvZTh1ZF9W?oc=5",
+   "source": "風傳媒",
+   "at": "2026-11-09T14:17+09:00",
+   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -623,18 +623,18 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」4件",
+    "イラン・アメリカ：「攻撃」「ミサイル」4件",
     "中国・台湾：「封鎖」「侵攻」2件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「ミサイル」4件",
+    "ロシア：「攻撃」「爆撃」5件",
     "欧州・NATO：「爆破予告」1件"
    ],
    "items": [
     {
-     "title": "トランプ氏、交渉進展があればイラン攻撃命令の可能性は低いと発言",
-     "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQOXVyLXVPcUI3d1BHbFI4bndDNGxCVncyUnpUYkQ2Y3E0amRzMWZPR1N0U2hvaVJGLW1EZXJydElhNkNNZEtBM2FJUlljRC1Td3U5SE5yakFpM1R2ejhUQS1WeUxXMGhTUTcwYVlKTmpQdFNHWWVDdHY5N0pCNEJuTnc0YmRQcU5lNC10YnhRTm9JOFEwdnU3OFJOdEJKT3kwMXpsV2pCaE05YWg3MUZTV0RBUnk5cF8xSVVkLUF6dE5TcmVhQW8tSFdGX0hNYlRBMG9UVVAyck9mekswYVdEX3d1NDVMOTFFSmxiU05kcGFHNzE2eXdrT3dabDZ2d2xudmI4Y05tM0FVWGhMbUxybVRyVFZ2YTlWTUpMLUd6ZXVwdWdxbEU5b2dQNUxWbDA4UVpoRnBXWDcwazU1SW5VQ0htN2x3amVXdzU2U0h3QnV0ZUluaUtIN1M5d1FIN1Q4VnAyc3k3ZFF3ZkZyNWc4bmtiLWJGN1h3QktGNnhHLXZfbFU4bnd5YXJNZ3hmdE9hcWlMMF80Y0N2ZW5kTkdkelJyMXkzWjNpU1d3Yl9DYW8zSXZEdnpaWWM0c0MzNms?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-09T19:25+09:00"
+     "title": "イランとの軍事協力深めるロシア ミサイル発射機90基供与で合意",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pWkRIMFk3QWxIMUZ6NFRCXzAydGpScHdYVEZRRHM1Q2FnNDRTcEJvbUxIbkxqa1Ayak1wejRfcW5FNDlUeU9LLWVsbE9HbVlwT3pQU3hlTENlYXJQanl3SDE2T195a2Y0TExfem8wOE9mX2QwcFB3?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-10T00:00+09:00"
     },
     {
      "title": "中国軍が西太平洋で未公表演習か、台湾封鎖を想定との分析",
