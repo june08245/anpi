@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:45+09:00",
+ "updated": "2026-11-10T01:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "第2陣のハイマース、年末に台湾南部へ配備か 米軍と連携し多層十字火力網構築へ",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ET3hhVkRHNk91UzRsajdicHZQWTl3NUJtN0t2X1ZCbnB2OWNydGVZTlQ1anFKNWZabEVySjB5U0dSNWFqMEtGajFidENtYlprYnNGd3dlOUh3WTQ?oc=5",
+     "source": "Rti 中央廣播電臺",
+     "at": "2026-11-09T22:22+09:00"
+    },
+    {
      "title": "月周辺が新たな戦場に。アメリカ宇宙軍が軍事衛星構想。 中国の月進出に対抗",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVTjlfTTgxb0xjUHlYblBJUXJ3Zl9vZUNlSG9TaFkwUC00aThYSkhQbWpYaVhVdVFoY1h5M3REQXJndHp5NnBGR0pRZE1YTmJCYXdz?oc=5",
      "source": "カラパイア",
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZTGY3Wmg5REVZckZxQ1U5YjF4dG5YeHJDMGtfTmFwZmdoQjhNV1pWSEVfUjRfcGZGdGk3Z2RvLVFDQW9lUFhWRG4xQThrQQ?oc=5",
      "source": "公益財団法人 国家基本問題研究所",
      "at": "2026-11-09T10:51+09:00"
-    },
-    {
-     "title": "習近平の大粛清で中国軍が「機能不全」の危機、台湾侵攻の可能性は低下？軍最高幹部まで排除された異常事態",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtN01YcEJCWlpNVER6RWdCUG05N0tPVlM3eHRjRExXUlJSbHJ5R1R0ckVqS2pXRGVlSm9VTTN1QnlTQUE2el9zb3NoczVpeF9aQloxd01DdGZZaWJmbGc?oc=5",
-     "source": "JBpress",
-     "at": "2026-11-09T06:04+09:00"
     }
    ]
   },
@@ -495,6 +495,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "第2陣のハイマース、年末に台湾南部へ配備か 米軍と連携し多層十字火力網構築へ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ET3hhVkRHNk91UzRsajdicHZQWTl3NUJtN0t2X1ZCbnB2OWNydGVZTlQ1anFKNWZabEVySjB5U0dSNWFqMEtGajFidENtYlprYnNGd3dlOUh3WTQ?oc=5",
+   "source": "Rti 中央廣播電臺",
+   "at": "2026-11-09T22:22+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "ロシアの専門家がポーランドでの演習が核不安定のリスクを高めると警告",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE9OS3NzQy1vZldhdi1IcGtxWXRyN2U3NDhwdVktY01IcG9nMUlaLWwzTFJYbVBQNE53ZUtGZDFlTmt4NUpQNEhuMFBaU1pGZmdDekVlRXduWDE0NERLU3pSR3Q2LXBSeWRMQkJDSDZvUnpzUXkwR01lT3dsbVdnc1FJbXFMQW1nSWFWSU9NZzBSbF9hd1g1N29RR3hrMzExVWhEdmliZC10LUNiSGJ3aE5uTFZYSG9mc2hsVFpB?oc=5",
    "source": "Laodong.vn",
@@ -598,13 +605,6 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-09T14:57+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "【寄稿】中国軍「大粛清」で指揮系統は崩れたのか 3大艦隊の動きから読む対台湾作戦能力 | 陸文浩（リク・ブンコウ） | ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpaGR2ZmRHUjJWcDNWNzNOYkdiVlhFcWxqNDd5SjdlNjhjTTE1NC1MRnJLMXNZeHFhNDBkWkwtb2lVSHZfcnM5eVBvZTh1ZF9W?oc=5",
-   "source": "風傳媒",
-   "at": "2026-11-09T14:17+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -624,7 +624,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」4件",
-    "中国・台湾：「封鎖」「侵攻」2件",
+    "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「爆撃」5件",
     "欧州・NATO：「爆破予告」1件"
