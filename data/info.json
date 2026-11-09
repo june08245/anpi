@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:45+09:00",
+ "updated": "2026-11-09T10:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -362,6 +362,12 @@
    "at": "2026-11-09T09:28+09:00"
   },
   {
+   "title": "日本郵便で一時システム障害 通販の荷物、受け取れず",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJQzFvZ3JPVHkxUGNqNVNienNQMzVyVlFsRndCNkZOY1RBMlF2MGJGai1pV3NVUDZtQi13UjlDcmFNM3J5VWxtUEtOV3NONXRabXRKMnl2VjlCZ3lvRUJvazRNVWMxdGlNQ056eWw5UFFld21W?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-09T08:58+09:00"
+  },
+  {
    "title": "航空会社のシステム障害で飛行機が大幅遅延……集団訴訟を起こした旅客に対し、裁判所が下した判決とは",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzS01iNFhvMzhwbk5vVFBaMmduZ3NkTDR5VUMtZHlsck9mMFZnRWpNZ2VLLUNUV2Y1eS12SHNxVkxRZFI1MmVqMktJTWVXSzJJNU5zT1VtLUk3UQ?oc=5",
    "source": "EnterpriseZine",
@@ -380,15 +386,21 @@
    "at": "2026-11-09T05:57+09:00"
   },
   {
-   "title": "東海以西の128信金でシステム障害、19時すぎ全面復旧 ホストコンピューター故障が原因：ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52WTRfZmtVY3VRSUVsWFFwR0JxZ2djakptTTJaRVkwemJyY2pCVE84bVE0YlBsTWpka3Nva2ZtTWZlZ3lLLTVXaFhGQW04WmVlTFJnYzRNNU84NnJBWFpR?oc=5",
-   "source": "中日BIZナビ",
-   "at": "2026-11-08T23:46+09:00"
+   "title": "10月のサイバー攻撃が233件で過去最多 個人情報流出は1億8500万件で9月の2倍近くに",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONU9xSXhLUzA0QUNYMUdhTkRoQnRMYm94WHRfQTNmME9FQUc3eURuMC1iSXV0U3d0UE5Mby1oeG12UWpSbFMxVmFyUzYyMFFablZXb0FxbmNGeWY1cE5SNFpSNVhnTEN6anFMN1dfWjNjZ2wtY0c1YV9ZVzY1eE9RZVhfbFl5bmUzM3N6RzhwZGlVTnNYcU9qMzVtQnJDdUFha05jblJ6MFNFQktJS1dDOUxSMk8?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-09T09:54+09:00"
   },
   {
    "title": "日本デジタル研究所（JDL）、顧客情報28,475件が流出した可能性 アララへの不正アクセスで第二報、担当者名や顧客コードも対象|セキュリティニュースのセキュリティ対策Lab",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0VyV3d1Q2xEc2R3cEMtQVlMSmhQdmlOOUtyLTZLRVQxbGlqei1NYS10SEQ2aGZTakpKaGdjcWxPMXpOUEptb3k4OURIeUQxWm9GYzRXSm5JUWh1QmgyWnlKSXFsUjl4b1ZoR3FOWUlKMGRRMW1aemEyS0NKSGR4OTU0QzA4eFNkd2E3bEVGWjNtWGdFWTBaZUtjejRNeWFJWkhDYV92VTZjNURs?oc=5",
    "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-09T09:26+09:00"
+  },
+  {
+   "title": "老舗オンライン麻雀「Maru-Jan」で不正アクセス 全会員185万人超の情報流出",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nQUlYblFfdmR5Q3kxa29WTzBpWDI3R1o5SlBhNkY5YlN5eVZMYmdqOTFXb1BrbmVYZWJ3ZU5acFlnS3dPYUlNTXNOZ2p4VTA3bk9jdk1VWQ?oc=5",
+   "source": "おたくま経済新聞",
    "at": "2026-11-09T09:26+09:00"
   },
   {
@@ -432,18 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0WWg4VEp1V2ZlMW84MUUwNFllTWRzMkZGYzBWZG4yeTI1c2J0Y042V0hSVktaaUFveU5Va1ZrNTdwOEoyVkl2TXBuMDZZQ0NmemFSbVRtNGl1N2FiZkVoWmdOdWVtQVp3Ty01R0ltU2NmUQ?oc=5",
    "source": "ITmedia",
    "at": "2026-11-09T07:45+09:00"
-  },
-  {
-   "title": "アイリスプラザ、不正アクセス被害でECサイトを停止。会員・非会員の約770万件が漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTmpKT1FDeVgyNy1peDVzVE9zWXlBT29Nc0xUOUFsMnExdExpYWxOMjdEeTB0S3JsMUVBbnF3TzdldFY0V2thbi05YUFnaXB5Vmw4UjFiZE9OTHlqRUZvcERBOXBpMUNOdFVYZEVSeWo3NGJJNndFeGRVX2dVeU5VR05iR1g0R0FtSnpMUEFvZVNsNFVyeG1zMUlOdU9zUzZpTEcyZzJsMVNNODFFTUZNTDhweDVmeHJZWGlualBITVJ6UnRVMERRd3VWYWt2LWFCWFRCejVjYmVWN2tKWVJ5NTdyTVFkN19nQ3VVSWk0NEk1VnJlZ2dadE9kY19XUGo2Ni1ZUdIBtAFBVV95cUxQTE1VY3J4MHpsTTVIc1Y3UWxtMWh1bWVjNm54QXd3T0pUaS15RkdybjBOU0lyWlNYY3ZSNEZYOUh0X24ydjdwLURoVlVnOWtiaTNIRDEzRWZLeXJqSUduQ0ZWUVh5RVZqUHBmckVLY0luZVdVamJFRmNvMy1zRFhtMmZ6WVhlSGVmVTNMam1WeXFKeVI2TjdCZXRKZS1WVGhxYnhrRGpvdi1kcnNQeDJoN1pSX04?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-09T07:42+09:00"
-  },
-  {
-   "title": "北朝鮮ハッカー集団か…“会話”入手「優先地域は日本」 サイバー攻撃の裏側、最近の手口は『バンキシャ！』",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOXJVODVSVEZxMmpINzNBd3ZsS2NKR3QzY3otcGF4eGJGT2cydkxhUnZ1cGo2R21LdDl4cUZNRzRCdlY2UjN3VERzRmV2ODRCRkNCT1lESFE2RUtlQUg5bTZBdHljNS1yclVlU0ZPVzA2MVlTaGM3ejVpN1BPbTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T07:35+09:00"
   }
  ],
  "osaka": [],
