@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:15+09:00",
+ "updated": "2026-11-10T04:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -239,12 +239,6 @@
      "at": "2026-11-10T00:19+09:00"
     },
     {
-     "title": "JTを襲った「大株主・日本政府」のリスク：ウクライナ工場爆撃とロシア国内資産強奪の裏側",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RRDg5NXRFLWx6bl9vWW5mOXpwS1MxNmIwZUpRVzdTbzI3QzhZei00UlpmRnhvQlN5Qjc1VHpDTm00b3lYb19Rejc2aEhNRmFQLVpVdjEyNzNoT2xDVFJj?oc=5",
-     "source": "選挙ドットコム",
-     "at": "2026-11-10T00:09+09:00"
-    },
-    {
      "title": "イランとの軍事協力深めるロシア ミサイル発射機90基供与で合意",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pWkRIMFk3QWxIMUZ6NFRCXzAydGpScHdYVEZRRHM1Q2FnNDRTcEJvbUxIbkxqa1Ayak1wejRfcW5FNDlUeU9LLWVsbE9HbVlwT3pQU3hlTENlYXJQanl3SDE2T195a2Y0TExfem8wOE9mX2QwcFB3?oc=5",
      "source": "日本経済新聞",
@@ -255,6 +249,12 @@
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkZjOWkyT042b3Y1M2ZWZ3M5aS1CQTl6ZE9PUEdLYjFjci1UX2w2OEJ1eVlKc2RXa0lwTmtOWUlKTTlULWlzWFFwZEYwUVpWUm1oZ29YOHIzUnBwQk1zRFV2Z0VsR3gxTXBSdWVMb0FRRTVQNXB4a3Zfc053TGYxTHBadGQ5M0F1bF9sbnB0d2c4dlN1UWpRclliUVpmek9LbkczUlNOX19FdGdmVmdKeE03blRTQWVCOTNiY3hjSDdHcHVlMVHSAcsBQVVfeXFMTVZOb19SeHZJTUdwLTNNYmhLWFNhWW8tNkVMS19QUW0tc2hyUURESTdhM09KeUV3RWtXR05wNFJTUkxtZlFRSzE1ZXB3bHBvSFNTanB4QkhWeTVVY1RmY0Y0clZySDZ5OE9VODJka29wVW1KMXhyemMzTm9xYnN3Qm9XWHJ4TFBWcHBNTjlpWWs4Z2h4Rmp1VzFkemF5SDJRRl9pcVczT0lTM1RMQUdaQ0pKQ0hXcUFkU0hJcnNPYVRJZzhZLVg1UnFtOHc?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-09T22:44+09:00"
+    },
+    {
+     "title": "ロシア、終戦交渉への欧州参加拒否…「米ロ・ウクライナ3者協議」",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3dHUHA1eHpxbDZ0Wjh5NF9uWXlYdEl3MWFqTTZGWTJ5WHNjRWJiSkdlaHJlM1Y5b2w0NEZxUFQwd2tPSG03VGg2bDBMaU1yVmJfZ0FGN2MxN2ZmZ211ZUpCMzBjalBIVjN4c0RocnVfbmUwaHcwcUNPSUFFNllQeUJubUduakxr?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-09T20:55+09:00"
     }
    ]
   },
@@ -380,8 +380,14 @@
    "at": "2026-11-09T20:22+09:00"
   },
   {
+   "title": "仏政府、冷蔵庫サイバー攻撃は「イランの犯行」 革命防衛隊を非難",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZmNMOG5zRlc2UGJycmp6N2RObnpzaml5T0lXcHM5VzVMNmtJU0RRTjFsNDBOVk1yeUNrLTNieVlZbGJEa2c0NUJ0czIxV1BLaGp5TDNMVnhsbklfaEJkWUhSZXl5Z3lnRXBkSA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-10T04:22+09:00"
+  },
+  {
    "title": "相次ぐ企業への不正アクセス ニトリで最大3762万件の情報流出か ソニー生命でも被害 無印良品には“新たなサイバー攻撃”",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qc2VWTW9sYklwaTVpN2s1eWc1OC04Q2ZPa3NZMS1GVnI3Wlp0V2JnUU93RHVGUnR4YVhYQlV1N1dyZnVRaV9IQWhvTUxHNmR3dmFCczlyZDg1Y29zV3lnb25lN2Q?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WcWNmNW5oQ1RvSVFHNVBrLTgzQXc1TlVZYXRMT1NZamNQQ1pHWHJ5UUszUDhscE03YXhmNy0xS2p6UmZHTkMtWDh1b2x4Q2VDU2dnUFExNA?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-10T04:02+09:00"
   },
@@ -450,12 +456,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13VjFFWVZLQ0djbzVZdXVWOUQwUF9XWXBPYmVMa1N0ZmRoZjhtMDFtQXlfcGNpT1dZNXRaTGpIT1NrUHRmanN1MXhqZFctZWxJMDhtN1BJRGdIbzZUdEU3c190eWdHM2Qyd0ptaXI0c2wzVzZq?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-10T00:22+09:00"
-  },
-  {
-   "title": "政府が冷凍・冷蔵システムへの不正アクセスめぐり注意喚起「異常な温度変化」「ヒーター過熱による火災」など 欧州で相次ぐ被害受け（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdl94LWRtTG5QdC1wU1RBeVdxOTlIYXFvRGhyeGh4Ql9pbW9md0dwZ3NXbDVUWkdZNGxPampBNVdLNkN0S1dqVERtSXBiZk1xdldYeDc0d3VwRVVxY1ljb3pCZUc5Q2VEaDdhYW04Ql92NjN2cXRwcDEzdFhRTG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T00:15+09:00"
   }
  ],
  "osaka": [],
@@ -486,13 +486,6 @@
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeW5EMUYxWUQzZWppLVRsQVpIS3QyQ0p4bExfcjlCY285LW04QTBFQl9NMHFxM0FJYVFCcnNxU19OSHgzUi1UODJCUG0tMHZRdjl6aWZSOHQweV9KR0V6LXlvT0ZZLS14MUtNWEZ6aldhWGVEUkZ2SzFHZWFfMGhaRHBqYVl2MlJzZmkzOHo3dFAxb3h4eGVaUzB4RVoxUURaSmNCWU1BSzl0MDlwSnFfM3dzVVBiMFhveEVpd2IzVXBNV0xtb2hPV0J6VjRySjFyUkw4WGRSdmYtV0wxNHFFSlZqN0lmOU1hLUYtMVVueFYtQ2V6bXfSAfsBQVVfeXFMTnVYYnpic0xqUDhiV1lubWNvZUxLR2ZhVDFTWHNNQXAtbkg5SVl3LUQ3SkdOVmFicXVEMnE1X3VUUHRHWDAySXZyQ2dzaG92VUpncnJiaDVkY0l1ZEtrM3FQUFlIS1o2ZnNGLWROenhjS1RldHNOTU1RaElMV0xWNVNmX0R3TzlvTjVoT3pqOTJGLW9ncG1GT2MzT0ZiTEQxUVA1SnNzU1JVb29SSkhzUHY1OWNDZ3FFanJTY1dqWnBRMzRQUWd5RXpHeVVjQU4xLTdIVlhnREFnVURfMm9QSEVOVDd2OHQ5ZWNzV3NBeFZUNURKUnJxcjhKZjA?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-10T00:19+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "JTを襲った「大株主・日本政府」のリスク：ウクライナ工場爆撃とロシア国内資産強奪の裏側",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RRDg5NXRFLWx6bl9vWW5mOXpwS1MxNmIwZUpRVzdTbzI3QzhZei00UlpmRnhvQlN5Qjc1VHpDTm00b3lYb19Rejc2aEhNRmFQLVpVdjEyNzNoT2xDVFJj?oc=5",
-   "source": "選挙ドットコム",
-   "at": "2026-11-10T00:09+09:00",
    "topic": "ロシア"
   },
   {
@@ -543,6 +536,13 @@
    "source": "Laodong.vn",
    "at": "2026-11-09T22:00+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "ロシア、終戦交渉への欧州参加拒否…「米ロ・ウクライナ3者協議」",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3dHUHA1eHpxbDZ0Wjh5NF9uWXlYdEl3MWFqTTZGWTJ5WHNjRWJiSkdlaHJlM1Y5b2w0NEZxUFQwd2tPSG03VGg2bDBMaU1yVmJfZ0FGN2MxN2ZmZ211ZUpCMzBjalBIVjN4c0RocnVfbmUwaHcwcUNPSUFFNllQeUJubUduakxr?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-09T20:55+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "ロシアはヨーロッパに軍事化の継続を警告、ウクライナは戦争の長期化を準備",
@@ -620,7 +620,7 @@
     "イラン・アメリカ：「攻撃」「ミサイル」5件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「爆撃」4件",
+    "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「爆破予告」1件"
    ],
    "items": [
