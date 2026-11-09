@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T14:00+09:00",
+ "updated": "2026-11-09T14:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -9,6 +9,16 @@
  },
  "quakes": [
   {
+   "at": "2026-11-09T14:01:00+09:00",
+   "place": "茨城県沖",
+   "mag": "4.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
    "at": "2026-11-09T13:52:00+09:00",
    "place": "茨城県沖",
    "mag": "5.9",
@@ -16,7 +26,7 @@
    "maxiRank": 3,
    "osaka": "",
    "osakaRank": 0,
-   "title": "震源に関する情報"
+   "title": "震源・震度情報"
   },
   {
    "at": "2026-11-09T05:16:00+09:00",
@@ -74,16 +84,6 @@
    "mag": "4.3",
    "maxi": "4",
    "maxiRank": 4,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-08T08:23:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "3.0",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -222,9 +222,9 @@
    "items": [
     {
      "title": "イタリア外相の個人情報が「闇サイト」上に、ウクライナ支持表明で親ロシア系攻撃か…Ｇ７外相会合で議論へ",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRmRaZG9RTUNnUXdHeTdDRmsteHZ3VmI4bndPSmNZcy1hbU5QbEtBWTZCRUxGM3ZoRTFXMnpRa0RpMHhmZW5xNGRoSDgxdlNmNzQ1czRIR0NaRmNpNTdTb2JR?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-09T13:55+09:00"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lU0dwREotLWR4bUwwaEQzTzh1bGRRVE1qX1N2eE0zNGtWVkR4OWVYM3otcWdMSU02dTY1OTdGbzMzNmMxUVBySzN3YklqTDRITFYwdXo5UTNVMngxSFlKaTdOT3NjWnJUNTNWaVdpdUlmY0RTVXhIWEtTd1lKczA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-09T13:56+09:00"
     },
     {
      "title": "ウクライナ侵攻作戦に参加するロシア軍兵士のために祈るロシア正教会の神父（左から2人目）＝2024年（タス＝共同） - 侵攻ロシア側死者39万人か ハッカー集団が公表 - 写真・画像(1/1)",
@@ -234,9 +234,9 @@
     },
     {
      "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0QXRKcV9odzNhaUVtR1lxQXZHNW5mWExzVGNpYWh6RTRvTUpuZ29uVmZpUEI5QzdTeGxjMHRIeHUwbTZLNzFiZVlnRzUtVm95Nk5Yam5yOUlVV09sQ0lEM1BlWV9hZTE2TVJzS3d3YjZDdG9DeVlkdTR0Mlc?oc=5",
      "source": "TBS NEWS DIG",
-     "at": "2026-11-09T11:49+09:00"
+     "at": "2026-11-09T12:30+09:00"
     },
     {
      "title": "海自の最速艦艇がロシア海軍の「巨大ミサイル巡洋艦」を追尾！ 北海道わずか40km沖を航行 防衛省が画像を公開",
@@ -264,9 +264,9 @@
    "items": [
     {
      "title": "イタリア外相の個人情報が「闇サイト」上に、ウクライナ支持表明で親ロシア系攻撃か…Ｇ７外相会合で議論へ",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRmRaZG9RTUNnUXdHeTdDRmsteHZ3VmI4bndPSmNZcy1hbU5QbEtBWTZCRUxGM3ZoRTFXMnpRa0RpMHhmZW5xNGRoSDgxdlNmNzQ1czRIR0NaRmNpNTdTb2JR?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-09T13:55+09:00"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lU0dwREotLWR4bUwwaEQzTzh1bGRRVE1qX1N2eE0zNGtWVkR4OWVYM3otcWdMSU02dTY1OTdGbzMzNmMxUVBySzN3YklqTDRITFYwdXo5UTNVMngxSFlKaTdOT3NjWnJUNTNWaVdpdUlmY0RTVXhIWEtTd1lKczA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-09T13:56+09:00"
     },
     {
      "title": "旅客機爆破予告に銃乱射まで…恐怖に包まれる欧州（朝鮮日報日本語版）",
@@ -309,14 +309,14 @@
    "at": "2026-11-09T13:40+09:00"
   },
   {
-   "title": "８日未明の愛知震度５強、南海トラフ「過度に恐れる必要はない」…計２２人が重軽傷（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mRkxpdS1PQWRjM1FDdDI2ekNPR1pMS0poUXh3a29lQy1Bb0JORnZPMkhtZF9rTFdtYmlXLVRKMktKRVNlTV9fS29Wc3lMV2s5dHJLYmE3OWE2cU1HSlZqN0I3YXFicG9pUVBzUWY1cFJXM2c2Yy1jQWFGOTA5MzQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T13:35+09:00"
+   "title": "８日未明の愛知震度５強、南海トラフ「過度に恐れる必要はない」…計２２人が重軽傷",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxLU5MMDJ6eVFobUZiQXBLV3RHdGZ6UnM0MmhlaHJZMDZzcGV3c3d2UVFlSXlCYzRoNWtLZ0pVMDQtMzNlY2pFdUdNRmtTMlpybkxmZ1VjX1gxbzFoTm9JT2h4SUxmQQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-09T13:30+09:00"
   },
   {
    "title": "近畿などの2府7県が参加する合同防災訓練 南海トラフなど大規模災害を想定 自治体間の連携強化など目的に",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yamZyUUdBVnNKTGJGVGlBZlhncS1zN3FhX3Jha1JBQVZ1YmpUVnNmRzE3aWViQ2JRYzJja2NKcnB5a05IOGhTVlR2ODhfWXBzeDlHdE1rQzc0Zw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80VzRrSV9HUEtXbU9fc3VfWlJrRnVoTnJzMWdxXzc2cVZ4a1J0WW5MTG1waGx0Qmh4OUZVY09XZTRERFlRVGIybzc0R1E5Q1ppbWxCbGdFcw?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-09T10:21+09:00"
   },
@@ -374,6 +374,12 @@
    "at": "2026-11-09T11:06+09:00"
   },
   {
+   "title": "明治座オンラインチケット、利用サービスに不正アクセスによるサイバー攻撃、予約・照会を一時停止",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcFFUdDB1ZmNNR3BSWnRTeVlFZFdudGVpVklOZU10UjVoSzlEU0xkSTY4QXlZQlNoNU1zTzR3dWtKS3lNRGtETTVrbzdILWpGVXAzY0c4ek5Jd2doTTI0a2ZvTzZHWi1CN1Z5OHNkTERGWUI3UUxLRVVpaDMxcDFhX25RVTRBU0tNS210NWhGSE02NWpBWWphWUtneTNFSUdFTzlZ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-09T14:08+09:00"
+  },
+  {
    "title": "印刷のキンコーズ、会員情報26万6,395件の流出を確認 アララへの不正アクセスで氏名・生年月日・会員証番号も対象",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHEtMWhEc0VUSnVFaXhTMVU4YU1ZOEU0U0JBS240YmtlV0tLMXdoUjRMd2ZsXzJaX1ptV1E2YUFWWDcxSUh4NUVwZnhzRUQxVW1GSjY2aXZNU2dMSmllVGtRcEl6RWw4a1lEbElNVXROdjVmT2NLQTZlQS1CbXZ3YlhNMjlubW5sOHFnMWVDWC1VOWFJdjI3ZmdpVG1xOFRvRVF2ZTd5NGxzYjVzODF2X1R3?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -416,6 +422,18 @@
    "at": "2026-11-09T13:16+09:00"
   },
   {
+   "title": "Akamai、ISMAP登録により日本のサイバーレジリエンス強化に貢献：AI悪用で高度化する脅威に対抗し、事業リスクを低減",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JUk5BNkV3RmFOSGVpRkhxTlZzRHF4SkZCdmRMcUhkUHotZm42Z1dIczVodHQ1eUx2UlFVRGhzc0xfYkgyeEZWS3BObjVfcGZVenQ4LTAxQ0pNQjJEaUItZXF6Z1dLYy1FQW12SGt3amhVNFFN?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-09T13:15+09:00"
+  },
+  {
+   "title": "タッチ決済ができるクレジットカードおすすめ12選｜見分け方・やり方・上限も解説",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aOUJTVW0wVlUwZlQ2VHo3QWh6ZjZfR21CQUxWNzJPM0xvQnVZekhXNzBOR20tZVdKT2JrNFN5M3VfNEh1MlprWEhhOUo4NXZvNWxzR0lWSUhrR2psOFR2TA?oc=5",
+   "source": "株探",
+   "at": "2026-11-09T13:11+09:00"
+  },
+  {
    "title": "【EICMA2026】ボッシュ、二輪車をサイバー攻撃から守る新「セントラルゲートウェイ」発表！ 2027年12月からのEU規制に対応",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTQktKV3dWc3Y3T1Y1TDRnTWh6WEMzekptRjI4Mmtpdlk2WVEtQy1VTEhVZ29id3V1RjZ2LTZyNnk0UWwteTlSa0Zpd2dUNEI2TWc?oc=5",
    "source": "Webikeプラス",
@@ -432,33 +450,15 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcVpQVnR0clZDazRVWGFLbG1vTW1TUnpreHp2WW83YVpjd2VTYXYzcHlIdUNUUWN5eU5MaThFTWRtNExNZmtjOEJUTmdYbnhudXkwU05LOVVIb2NpSmtIWTRhWmlxYXhWcS10OGtLOExSdw?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-09T12:36+09:00"
-  },
-  {
-   "title": "不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ（第6報）",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CQ05ZRWZNV3RpMmtBT0hwOVY2a3haakk3VGFQclpOYUdhU1JsdE9ZQk5TWFNnblZNeDlPZkxBQ2hjZ1JoMU1meExOUTV6dUpyWFliSEVEMGMxZkhkQUNxWFU3MmRZM2VXNi1fRkxaUQ?oc=5",
-   "source": "株式会社トラストバンク",
-   "at": "2026-11-09T12:33+09:00"
-  },
-  {
-   "title": "ドコモ、「ahamo」のWebサイトを再開――不正アクセス対策の緊急メンテナンス完了（ケータイ Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUDd4LXVJRkJ3QVoyaXU1b3Nuc0xUdHlvU1NpTWl5VDdhNF85Mi1RbEJJSE1VWDJma0ozMUtRaXNlYkZ2aEF2TEVVc3FQVE1uX1RnbVZHbDZGeF83UG1vM1ZkX2l5dlVmMWFwanhoWHcwaksyMFJocUVKbGU5YnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-09T12:28+09:00"
-  },
-  {
-   "title": "MS＆AD、漏えい100万件 不正アクセスで、顧客情報",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93ZjJhQlNzRnhjczhtZElvZXMwYW1HSWtQUUUxSEFqeU9xUnYtYVVoeDA5Yl91U3JXc3h4cU54RS1yNWp5cUpyNlQ2QzRfbGdlREp4cmVxeFpZYTFvekJiYU5EeDZIWFczb1NPUkJDWTk?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-09T12:14+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
    "title": "イタリア外相の個人情報が「闇サイト」上に、ウクライナ支持表明で親ロシア系攻撃か…Ｇ７外相会合で議論へ",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRmRaZG9RTUNnUXdHeTdDRmsteHZ3VmI4bndPSmNZcy1hbU5QbEtBWTZCRUxGM3ZoRTFXMnpRa0RpMHhmZW5xNGRoSDgxdlNmNzQ1czRIR0NaRmNpNTdTb2JR?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-09T13:55+09:00",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lU0dwREotLWR4bUwwaEQzTzh1bGRRVE1qX1N2eE0zNGtWVkR4OWVYM3otcWdMSU02dTY1OTdGbzMzNmMxUVBySzN3YklqTDRITFYwdXo5UTNVMngxSFlKaTdOT3NjWnJUNTNWaVdpdUlmY0RTVXhIWEtTd1lKczA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-09T13:56+09:00",
    "topic": "ロシア"
   },
   {
@@ -477,9 +477,9 @@
   },
   {
    "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0QXRKcV9odzNhaUVtR1lxQXZHNW5mWExzVGNpYWh6RTRvTUpuZ29uVmZpUEI5QzdTeGxjMHRIeHUwbTZLNzFiZVlnRzUtVm95Nk5Yam5yOUlVV09sQ0lEM1BlWV9hZTE2TVJzS3d3YjZDdG9DeVlkdTR0Mlc?oc=5",
    "source": "TBS NEWS DIG",
-   "at": "2026-11-09T11:49+09:00",
+   "at": "2026-11-09T12:30+09:00",
    "topic": "ロシア"
   },
   {
