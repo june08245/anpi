@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T13:45+09:00",
+ "updated": "2026-11-09T14:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-09T13:52:00+09:00",
+   "place": "茨城県沖",
+   "mag": "5.9",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源に関する情報"
+  },
   {
    "at": "2026-11-09T05:16:00+09:00",
    "place": "宮城県沖",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-08T07:38:00+09:00",
-   "place": "福島県沖",
-   "mag": "3.9",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -99,12 +99,6 @@
      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQOXVyLXVPcUI3d1BHbFI4bndDNGxCVncyUnpUYkQ2Y3E0amRzMWZPR1N0U2hvaVJGLW1EZXJydElhNkNNZEtBM2FJUlljRC1Td3U5SE5yakFpM1R2ejhUQS1WeUxXMGhTUTcwYVlKTmpQdFNHWWVDdHY5N0pCNEJuTnc0YmRQcU5lNC10YnhRTm9JOFEwdnU3OFJOdEJKT3kwMXpsV2pCaE05YWg3MUZTV0RBUnk5cF8xSVVkLUF6dE5TcmVhQW8tSFdGX0hNYlRBMG9UVVAyck9mekswYVdEX3d1NDVMOTFFSmxiU05kcGFHNzE2eXdrT3dabDZ2d2xudmI4Y05tM0FVWGhMbUxybVRyVFZ2YTlWTUpMLUd6ZXVwdWdxbEU5b2dQNUxWbDA4UVpoRnBXWDcwazU1SW5VQ0htN2x3amVXdzU2U0h3QnV0ZUluaUtIN1M5d1FIN1Q4VnAyc3k3ZFF3ZkZyNWc4bmtiLWJGN1h3QktGNnhHLXZfbFU4bnd5YXJNZ3hmdE9hcWlMMF80Y0N2ZW5kTkdkelJyMXkzWjNpU1d3Yl9DYW8zSXZEdnpaWWM0c0MzNms?oc=5",
      "source": "アラブニュース",
      "at": "2026-11-09T13:27+09:00"
-    },
-    {
-     "title": "イランへの攻撃再開、「極めて可能性低い」とトランプ氏 協議に進展見られれば",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QMXJUYTBDZXY4TmtzNVVWdmpBdnV4SDYwU2h1RXJZeWxpd3Zlbk9hbTJvYnhzVlZhSjZxTHpweldKRjN0cEhlN3V5N3UwOUZ1?oc=5",
-     "source": "CNN",
-     "at": "2026-11-09T12:30+09:00"
     },
     {
      "title": "イランを再攻撃か、交渉か…中間選挙で惨敗後、トランプ側近の間で3つの路線が対立",
@@ -125,10 +119,16 @@
      "at": "2026-11-09T10:02+09:00"
     },
     {
-     "title": "交渉が成功すれば、米イラン戦争が再び勃発する可能性は小さい",
-     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5rVUxacHB4RnBPZ2Ywc2wtQkc0TzhVY2ZaZzNrUnJYNWwzcFV3elNIak8ySEY1dmpkdE5jZ3llNkxiSDTSAUJBVV95cUxQVmhEci1iaGo1MUlfcUJkWVY3SXlBME9Rb2xGOU1SanBscElTM2FMajRMamZqekowVFZadGV2ZWZyWEE?oc=5",
-     "source": "VOI.ID",
-     "at": "2026-11-09T09:00+09:00"
+     "title": "パンドラの箱を開けてしまった米国、イラン戦争は正面衝突なき拡散型大戦争へ",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13cldlcXRwcDd0Xy1EWTBsQnVZbUt0OElEeEwyS0Z1LVgzM0lVQ29rU3BjRGE2ZDYxYUZTTVZRNzZqS2tyOXF2Tk5yeFhTSVJKNlg0M0NB?oc=5",
+     "source": "JBpress",
+     "at": "2026-11-09T10:00+09:00"
+    },
+    {
+     "title": "イランへの攻撃再開、「極めて可能性低い」とトランプ氏 協議に進展見られれば",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QMXJUYTBDZXY4TmtzNVVWdmpBdnV4SDYwU2h1RXJZeWxpd3Zlbk9hbTJvYnhzVlZhSjZxTHpweldKRjN0cEhlN3V5N3UwOUZ1?oc=5",
+     "source": "CNN",
+     "at": "2026-11-09T09:15+09:00"
     }
    ]
   },
@@ -138,9 +138,9 @@
    "items": [
     {
      "title": "第25回「ベルリン安全保障会議」、台湾の外交、防衛、社会全体のレジリエンスの実力をアピール",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Y0lIeGJWeDBVbFk2SURiMUoyZU5iQzAwcVhOODd3UFF5VS1SczJHbTc4OEpMaE1qRVJCTmtYWnRBd0hGZ2JpRmZBbmh4U0NlVGc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pNWpDVTYxWVRXZE1XTFJlTnQ0RXNvQ0g3MWVJbG95elVlaWhGR21yLWZaTzQtcDNzOHJTSTVGdUtCQnpMT0lWOC1kRmk?oc=5",
      "source": "Taiwan Today",
-     "at": "2026-11-09T12:17+09:00"
+     "at": "2026-11-09T11:39+09:00"
     },
     {
      "title": "【第１４１７回】後方支援分野でも進む中国の戦争準備",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "イタリア外相の個人情報が「闇サイト」上に、ウクライナ支持表明で親ロシア系攻撃か…Ｇ７外相会合で議論へ",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRmRaZG9RTUNnUXdHeTdDRmsteHZ3VmI4bndPSmNZcy1hbU5QbEtBWTZCRUxGM3ZoRTFXMnpRa0RpMHhmZW5xNGRoSDgxdlNmNzQ1czRIR0NaRmNpNTdTb2JR?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-09T13:55+09:00"
+    },
+    {
      "title": "ウクライナ侵攻作戦に参加するロシア軍兵士のために祈るロシア正教会の神父（左から2人目）＝2024年（タス＝共同） - 侵攻ロシア側死者39万人か ハッカー集団が公表 - 写真・画像(1/1)",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IZ0xCM3dTQnV0bTZYamw4ZHJ3b3VTbFFJaVVGdlJ0UHhwRVYxa2dxQ2tyVW9WX05uRW83V052VTBDdFFkakEtMnNnNWk3MUtUVmFZU0RIcw?oc=5",
      "source": "西日本新聞me",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlMFd3LXdpQ0NTRVRvakRxalVOblY2TVNLTDJLLVhfZ1A1bXhPN1hnU0dtck9ISExUMkZHS1p6RnlFUElIeWFwMzZIam9vdlQ4dzJuVW1Kak9XeWdqV3Y2WjZTZTU5ZTdVYWhuWGpyQ3lEVkExZUVn?oc=5",
      "source": "GIGAZINE",
      "at": "2026-11-09T10:55+09:00"
-    },
-    {
-     "title": "侵攻ロシア側死者39万人か ハッカー集団が公表",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XOExTNnJXZ0tEd3pyTUtSMVpldlVqMTBtVU5qbEkwUzYtS0ZEODFYWk9HWll0R2JYY0F3am9PR090VXNQMVQzLWZabXQ0UQ?oc=5",
-     "source": "NEWSjp",
-     "at": "2026-11-09T10:42+09:00"
     }
    ]
   },
@@ -262,6 +262,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "イタリア外相の個人情報が「闇サイト」上に、ウクライナ支持表明で親ロシア系攻撃か…Ｇ７外相会合で議論へ",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRmRaZG9RTUNnUXdHeTdDRmsteHZ3VmI4bndPSmNZcy1hbU5QbEtBWTZCRUxGM3ZoRTFXMnpRa0RpMHhmZW5xNGRoSDgxdlNmNzQ1czRIR0NaRmNpNTdTb2JR?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-09T13:55+09:00"
+    },
     {
      "title": "旅客機爆破予告に銃乱射まで…恐怖に包まれる欧州（朝鮮日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNk9PZGFqbGJldlpRaG5BMWltQUw1RU1hLU9sYzh5d1NjZHEzTUhRdlNGX3RIZWJBdHBpcy1CNWdqT3R2SkdpVUJlUDBtTzFDVTI5US1vOTZsTFN0bnVMa0RlWHJUSVlBODBCNzJucEF3dW51RkFDNlNsa0MyUWM?oc=5",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YXzFWQWlXYzR1MXkyTGNkX3FCZl9VV1Z5U21mSktBLWMtWEJhQ1VqU1VwbktUUkQzUG9FcHBjUG44bkJBZXpQS3VsQU1lRUUzMjJj?oc=5",
      "source": "東京報道新聞",
      "at": "2026-11-07T23:03+09:00"
-    },
-    {
-     "title": "カラス氏、ハイブリッド脅威への選択肢としてEUの緊急プロトコルと新たな対ドローン能力を提示",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWpZdThRLVBpbjVPb2ZTcHdlYmhLenh0ZFVBbThPVTE3LUtkY01qUTV6ejZMa3A2OTBjejBrcEFuckF1c0xBY2c3VmdtRDRxUFVmNkVmNGVwQmliRTVSeHVzRm9vWThybFExRVVGYm1PMnQyTFZIMkZ3bEV5TUZKTXFERTRJb3BfRlhoWEFNX0g?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-07T20:17+09:00"
     }
    ]
   }
@@ -374,10 +374,16 @@
    "at": "2026-11-09T11:06+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害 高速サービス通話しづらく",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1ZtU1BJSU5RVVM5STBLWDV1dzV1aWphMGhPSE5rVVhlcDlPMEtZb3BlWENSczNPcjdnaUd2ZkdMblZhTDhTcWFyRlJnSVQ2ZzVXVlVJS2tYRExKR3ZIcmQ5cTNlNUE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-09T10:31+09:00"
+   "title": "印刷のキンコーズ、会員情報26万6,395件の流出を確認 アララへの不正アクセスで氏名・生年月日・会員証番号も対象",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHEtMWhEc0VUSnVFaXhTMVU4YU1ZOEU0U0JBS240YmtlV0tLMXdoUjRMd2ZsXzJaX1ptV1E2YUFWWDcxSUh4NUVwZnhzRUQxVW1GSjY2aXZNU2dMSmllVGtRcEl6RWw4a1lEbElNVXROdjVmT2NLQTZlQS1CbXZ3YlhNMjlubW5sOHFnMWVDWC1VOWFJdjI3ZmdpVG1xOFRvRVF2ZTd5NGxzYjVzODF2X1R3?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-09T13:52+09:00"
+  },
+  {
+   "title": "不正アクセスで停止のALL.Net、バンダイナムコ8タイトルが試験運用再開",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzdBRHJNTzdxNUpjQlRBb1hGWkxMRUE0bXFacExhNkxRX1NrNXdxTzFWR1dYR1J6b1ZSaVdtUjlYVUttUmMybldNOTR0S2VtVUpjemJkaWpvMDdtME1NLVNsTTJfZFAwTW50cFR4UFIzMVJlbnlhaHlHY2M4R0VqXzRKUVVrOVN0WFh5dmtOUkxJNl9seFVWVVpEWlFvdVRKSjhGSkRHZVE0NEJ5Q2ZNREN3Y3pXOWtReWoxa09ZNA?oc=5",
+   "source": "디지털투데이",
+   "at": "2026-11-09T13:33+09:00"
   },
   {
    "title": "「teket」不正アクセスで全会員の情報流出 QRコード入場にも影響",
@@ -387,8 +393,8 @@
   },
   {
    "title": "セガのメルマガ配信委託先に不正アクセス、メールアドレス219万件超が流出―『CHUNITHM』『maimai』稼働告知などの配信先",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82V3M2SGdQLV85STBneDRKY0t0YW1QUlJLWTVmYnBBRVQ0YWxpSjFsLXN4SkJKNm1ZQTVoWU54ZWowU2Z5LUFoSTF1eTNkdTBmeXE5YWx0SFQtTjVrNXJranZZWQ?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zbVctdTVJQXpEZ3RiNEVDVlM0ZGdGVklKNFRsb0hXWVc2azlKdkZYa0ZEVWZoZnN3OXN4ZFVsQU95RktSU3R5M2FjaTZ1NHpPYkZFelJNSTNGNnFOV3hWb290UEdTaEo1cGZIbTQ4U29xQWlGSjJsWmhIODh0X00?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-09T13:27+09:00"
   },
   {
@@ -444,16 +450,17 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93ZjJhQlNzRnhjczhtZElvZXMwYW1HSWtQUUUxSEFqeU9xUnYtYVVoeDA5Yl91U3JXc3h4cU54RS1yNWp5cUpyNlQ2QzRfbGdlREp4cmVxeFpZYTFvekJiYU5EeDZIWFczb1NPUkJDWTk?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-09T12:14+09:00"
-  },
-  {
-   "title": "ＭＳ＆ＡＤ、漏えい１００万件 不正アクセスで、顧客情報",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nY3JYU1ZWRDF4QWdCMzEyNDVHS3pDSi1KMlo5NmtfREhXNTN1dnlsZkRKYmJHek9ZdmxuMlY3dEtOT1h3dmxZZWVmYmRIQ3Ns?oc=5",
-   "source": "日本海新聞",
-   "at": "2026-11-09T12:13+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イタリア外相の個人情報が「闇サイト」上に、ウクライナ支持表明で親ロシア系攻撃か…Ｇ７外相会合で議論へ",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRmRaZG9RTUNnUXdHeTdDRmsteHZ3VmI4bndPSmNZcy1hbU5QbEtBWTZCRUxGM3ZoRTFXMnpRa0RpMHhmZW5xNGRoSDgxdlNmNzQ1czRIR0NaRmNpNTdTb2JR?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-09T13:55+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "トランプ氏、交渉進展があればイラン攻撃命令の可能性は低いと発言",
    "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQOXVyLXVPcUI3d1BHbFI4bndDNGxCVncyUnpUYkQ2Y3E0amRzMWZPR1N0U2hvaVJGLW1EZXJydElhNkNNZEtBM2FJUlljRC1Td3U5SE5yakFpM1R2ejhUQS1WeUxXMGhTUTcwYVlKTmpQdFNHWWVDdHY5N0pCNEJuTnc0YmRQcU5lNC10YnhRTm9JOFEwdnU3OFJOdEJKT3kwMXpsV2pCaE05YWg3MUZTV0RBUnk5cF8xSVVkLUF6dE5TcmVhQW8tSFdGX0hNYlRBMG9UVVAyck9mekswYVdEX3d1NDVMOTFFSmxiU05kcGFHNzE2eXdrT3dabDZ2d2xudmI4Y05tM0FVWGhMbUxybVRyVFZ2YTlWTUpMLUd6ZXVwdWdxbEU5b2dQNUxWbDA4UVpoRnBXWDcwazU1SW5VQ0htN2x3amVXdzU2U0h3QnV0ZUluaUtIN1M5d1FIN1Q4VnAyc3k3ZFF3ZkZyNWc4bmtiLWJGN1h3QktGNnhHLXZfbFU4bnd5YXJNZ3hmdE9hcWlMMF80Y0N2ZW5kTkdkelJyMXkzWjNpU1d3Yl9DYW8zSXZEdnpaWWM0c0MzNms?oc=5",
@@ -467,20 +474,6 @@
    "source": "西日本新聞me",
    "at": "2026-11-09T13:22+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "イランへの攻撃再開、「極めて可能性低い」とトランプ氏 協議に進展見られれば",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QMXJUYTBDZXY4TmtzNVVWdmpBdnV4SDYwU2h1RXJZeWxpd3Zlbk9hbTJvYnhzVlZhSjZxTHpweldKRjN0cEhlN3V5N3UwOUZ1?oc=5",
-   "source": "CNN",
-   "at": "2026-11-09T12:30+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "第25回「ベルリン安全保障会議」、台湾の外交、防衛、社会全体のレジリエンスの実力をアピール",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Y0lIeGJWeDBVbFk2SURiMUoyZU5iQzAwcVhOODd3UFF5VS1SczJHbTc4OEpMaE1qRVJCTmtYWnRBd0hGZ2JpRmZBbmh4U0NlVGc?oc=5",
-   "source": "Taiwan Today",
-   "at": "2026-11-09T12:17+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
@@ -509,6 +502,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-09T11:40+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "第25回「ベルリン安全保障会議」、台湾の外交、防衛、社会全体のレジリエンスの実力をアピール",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pNWpDVTYxWVRXZE1XTFJlTnQ0RXNvQ0g3MWVJbG95elVlaWhGR21yLWZaTzQtcDNzOHJTSTVGdUtCQnpMT0lWOC1kRmk?oc=5",
+   "source": "Taiwan Today",
+   "at": "2026-11-09T11:39+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "米国務省「独自制裁は強力な手段」北朝鮮バイナンス事件受け協力呼びかけ＝報道",
@@ -553,13 +553,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "侵攻ロシア側死者39万人か ハッカー集団が公表",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XOExTNnJXZ0tEd3pyTUtSMVpldlVqMTBtVU5qbEkwUzYtS0ZEODFYWk9HWll0R2JYY0F3am9PR090VXNQMVQzLWZabXQ0UQ?oc=5",
-   "source": "NEWSjp",
-   "at": "2026-11-09T10:42+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "トランプ大統領 来週の米中ロ首脳会談開催に改めて意欲 「非核化」や「イランとの戦闘終結」などをテーマに",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nYzJrODl1dGdUMDJiZnhwV0pYd3ZVbmNfYlFRYVpGSFU2MHFER1UyVXlhbk9Ecmd5Z29EV3JxX3htQUdyRDB6NjJ4ZERoMHBHWmNTaXN4VjBIeGM0N1lUOEU1Ukh1TXc2RnpHTjlqUUxWczQ?oc=5",
    "source": "Excite エキサイト",
@@ -567,10 +560,17 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "交渉が成功すれば、米イラン戦争が再び勃発する可能性は小さい",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5rVUxacHB4RnBPZ2Ywc2wtQkc0TzhVY2ZaZzNrUnJYNWwzcFV3elNIak8ySEY1dmpkdE5jZ3llNkxiSDTSAUJBVV95cUxQVmhEci1iaGo1MUlfcUJkWVY3SXlBME9Rb2xGOU1SanBscElTM2FMajRMamZqekowVFZadGV2ZWZyWEE?oc=5",
-   "source": "VOI.ID",
-   "at": "2026-11-09T09:00+09:00",
+   "title": "パンドラの箱を開けてしまった米国、イラン戦争は正面衝突なき拡散型大戦争へ",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13cldlcXRwcDd0Xy1EWTBsQnVZbUt0OElEeEwyS0Z1LVgzM0lVQ29rU3BjRGE2ZDYxYUZTTVZRNzZqS2tyOXF2Tk5yeFhTSVJKNlg0M0NB?oc=5",
+   "source": "JBpress",
+   "at": "2026-11-09T10:00+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イランへの攻撃再開、「極めて可能性低い」とトランプ氏 協議に進展見られれば",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QMXJUYTBDZXY4TmtzNVVWdmpBdnV4SDYwU2h1RXJZeWxpd3Zlbk9hbTJvYnhzVlZhSjZxTHpweldKRjN0cEhlN3V5N3UwOUZ1?oc=5",
+   "source": "CNN",
+   "at": "2026-11-09T09:15+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -614,8 +614,8 @@
     "イラン・アメリカ：「攻撃」「封鎖」4件",
     "中国・台湾：「侵攻」1件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「ミサイル」「侵攻」4件",
-    "欧州・NATO：「爆破予告」1件"
+    "ロシア：「攻撃」「ミサイル」4件",
+    "欧州・NATO：「攻撃」「爆破予告」2件"
    ],
    "items": [
     {
