@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T13:15+09:00",
+ "updated": "2026-11-09T13:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-09T11:49+09:00"
+    },
+    {
      "title": "海自の最速艦艇がロシア海軍の「巨大ミサイル巡洋艦」を追尾！ 北海道わずか40km沖を航行 防衛省が画像を公開",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjelMwSzZJM1Vza3kwb1dKbkxETk1LTGVfQUp1ZkRKbzM0dGJMbnZZRUtzZVJYQUx5RFBkRW9EN0Y0ZElvYWh6YVJ3?oc=5",
      "source": "乗りものニュース",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXdpdkk0ei1DQnhDREk3UHlRdWYxY08xMXE5NlU4TkYxblNnbWl2VE9vU0dEMV9vN0pacGxJOXNkRTJJWVZXWEFtZThxQU5ILXhWd3A2Y1ZFSXp0UW1ySWRmSmFJWndCclB2UEVocHZpX0NLMmlIZjJEN045ZTRsVlhCNUROeUE?oc=5",
      "source": "Yahoo!ファイナンス",
      "at": "2026-11-09T06:28+09:00"
-    },
-    {
-     "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HZm1rZkpMOFZoUHR3WGRyTE5ZdERQWmljTmpWRFU4UmNHU2xQbVR6X21BR2J6LW5fUDNHbVVvTVhvckVKd2hYd3RmUmFkOEJ1NDREa0E2S25OcVNnSU1wbThMaWw2RS1PcGdFUVoyMmcyMm1QUFVR?oc=5",
-     "source": "Bloomberg",
-     "at": "2026-11-09T04:39+09:00"
     }
    ]
   },
@@ -380,21 +380,33 @@
    "at": "2026-11-09T10:31+09:00"
   },
   {
-   "title": "VIVANT映画のチケット先行販売にアクセス集中、劇場サイトがつながりにくい状況に 12月4日公開",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SOS1fNGRBbHlMQVRoR2FMUUR2bkZScWFOYm5nTV93UzIxVTV3dzdFRE1WOHoxdVJNblVyS3AtUWdUWXhGU1RaVXpkcnlnU2huM2p1YVlhRUFzcWpHb3NtbW1ZSWdJa2VYZU9N?oc=5",
-   "source": "https://mediadogs.jp",
-   "at": "2026-11-09T09:34+09:00"
+   "title": "セガのメルマガ配信委託先に不正アクセス、メールアドレス219万件超が流出―『CHUNITHM』『maimai』稼働告知などの配信先",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUb1ZWYmVwTDY4R2twVGgybGt6SmR0bnRUNnZ4aXVXNGgyR0VVZ25idkNtSW95cEtuU3BDZ19DZ3dmZWdJZS1KMlZaRUJTTVdxNWNRbEhfOXVPdWs2cldiYldGNV8?oc=5",
+   "source": "Game*Spark",
+   "at": "2026-11-09T13:27+09:00"
+  },
+  {
+   "title": "早稲田大、PHP脆弱性への対応中に不正アクセス発見 個人情報約3400件流出確認",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKWWJhODl5OGZyQmlRdGZCeUgyRlRBcC1PcWU0a29kb2lKUHhlQy1qOXU0SWRNSWJGTkZFN3paYnNsRjRHRXZNUWstS1VaT29DaWc5dUd0Y1RTRExCSFBMMlR3Q1o1UHBOVHc?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-09T13:22+09:00"
+  },
+  {
+   "title": "三井住友海上、顧客情報２.３万件漏えい＝不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CaE8zdUdKMl9LczZReHJGYUJDYnlSNnYyTmZtSzBXckFxOWFLWFkzcDlENnNoRjN3RFhUMzI4eEtRS29xLUs0UXZKX1Q3TENfMl9UQ2lndFI?oc=5",
+   "source": "リスク対策.com",
+   "at": "2026-11-09T13:20+09:00"
+  },
+  {
+   "title": "エディオンnews｜ECサイトへの不正アクセスで個人情報漏洩の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xQ251SmdvaEk3QmxKbmx6Wk5kb0o1aWZ4RjJCaGplNy1zQnZEcl9KTV9Hb3ZCMHRiRTU5UkdkQW5vcE5VNGcxYmhPUEc1YVVfMG1DQQ?oc=5",
+   "source": "流通スーパーニュース",
+   "at": "2026-11-09T13:16+09:00"
   },
   {
    "title": "ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出 サービス停止",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05VURIYUFWZFdJTl9kT1M5amtDVy1LWUg3dVVxa282M3JrcjI4X1RScFhFTmlVVGZWX3pkV0k1X0g1Wk1zLV90c1BhbGZncDZ6VnpjNWRtZ3FLZzVhdzF2b1dsbVlXRzZtX1E?oc=5",
    "source": "ITmedia",
-   "at": "2026-11-09T12:42+09:00"
-  },
-  {
-   "title": "【 金融庁 】深刻化するサイバー攻撃 防御体制強化に腐心",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55TDNXQl9yUVJDeDlDY1VncHVsWGhKSXdxS1pidWVtaC01NGl3WnRsY1UyTXh6U0JBQmQ4WlppSW1xUm1fZmtRb2dRR0E5dVgxNDR2elJMSlU5bURyS3Rj?oc=5",
-   "source": "ライブドアニュース",
    "at": "2026-11-09T12:42+09:00"
   },
   {
@@ -438,18 +450,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PVER4d3lGWlk1SDZtWC05VlRuM1hGTno5ZGNjMWRDOVVNSHljbmZHdTlDOS1UbGpzZGVuaHJ2VDJHaGRlWUFibkhKeVVyQWFjZDl0S2tfcUZKdzdhVlY0?oc=5",
    "source": "Infoseek",
    "at": "2026-11-09T12:03+09:00"
-  },
-  {
-   "title": "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ 予備費100億円支出",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uNlJRN0ZtTDlrVFJ2VkdRVnFxVmYxZzVyNzNia2tKekFCVGxjdlQtVnVrZ2Ntc2tkejNYZkJkb0xFNjRpbzRQcUcxU0xzR1Vrd1VmMG5iandpcUZrSkhkd1lHLWNxc0RIRWc?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-09T12:01+09:00"
-  },
-  {
-   "title": "カレー沢薫の時流漂流 第429回 コロナの次はサイバー攻撃、売り場が閉まって詰みかけた漫画家の話",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FOTdUUXg4ZWcweGdNdXBxOWxUbHNSODJXd1VwbnB4R1Mwb0NhR1NoZV9JRGhBOUNSNGluZlA5bUxGQjZvVndvaGtjaFVfMENQWFB4QjVyeGRiQ2hGVE0xZQ?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-09T12:00+09:00"
   }
  ],
  "osaka": [],
@@ -460,6 +460,13 @@
    "source": "CNN",
    "at": "2026-11-09T12:30+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-09T11:49+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "イランを再攻撃か、交渉か…中間選挙で惨敗後、トランプ側近の間で3つの路線が対立",
@@ -586,13 +593,6 @@
    "source": "JBpress",
    "at": "2026-11-09T06:04+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ロシア人40万人が死亡、ウクライナ侵攻後－ハッカーが機密情報入手",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HZm1rZkpMOFZoUHR3WGRyTE5ZdERQWmljTmpWRFU4UmNHU2xQbVR6X21BR2J6LW5fUDNHbVVvTVhvckVKd2hYd3RmUmFkOEJ1NDREa0E2S25OcVNnSU1wbThMaWw2RS1PcGdFUVoyMmcyMm1QUFVR?oc=5",
-   "source": "Bloomberg",
-   "at": "2026-11-09T04:39+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
