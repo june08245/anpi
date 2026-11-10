@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:15+09:00",
+ "updated": "2026-11-10T23:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -101,12 +101,6 @@
      "at": "2026-11-10T23:10+09:00"
     },
     {
-     "title": "イランへの再攻撃「必要ない」 トランプ氏、中間選挙大敗で慎重に？",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ob0o4QnhDcVlGYXBzeW5ZR0JWcmo2TTBFQ181NDZoRmh2VzdsZ3JWa2sxTlc2MTNRN3RrLU9LRHdjUFE1Umd4c3hJM0hhUEVxZnoya2RQazlJUGNJVHVpcWVWQll4akE?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-10T21:48+09:00"
-    },
-    {
      "title": "米軍がイラン民間船舶を攻撃する瞬間…トランプ氏「可能性は極めて低い」発言する中で攻撃実行 精密誘導弾が船尾に着弾、激しく爆発する瞬間 ホルムズ海峡（ABEMA TIMES）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcGdQdHBMUmZsX3ZQNklRa0ZoaGk4OGQ3RGdLWU1hWWVoaXBURzRzZjhidkRDYk9Yd2QxclRSUHFrLXdLYjl4VXVMUGlwcWl4eE9BR01HamE0WGNsZmk3MFNEZ01MeVNLWHliMUNta2c2ei1UZWpKbFFYdEZKcmM?oc=5",
      "source": "Yahoo!ニュース",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXg4Yy13U3dtVmdRdmtvUGZSLWZTTGZLMzJ1REt2VFp3ZVI2Y2ZiM21BUGxYNnFEWTA5T1JrbTJfYk5aMktwY0Jld3FMakRHXzF5T3pXZ0tFWDFpLU1lRURkUmVSOWRhU2hyTHAzb25LbmZFTHlhMVo3UHdZVTJKd1FFNFpmaFBaSjAwQlg3QTZLYk05Y2JYR1NQTzRyWjdGU1VPczJKeGQ3aFR0WFRMbTZn?oc=5",
      "source": "VOV World",
      "at": "2026-11-10T19:20+09:00"
+    },
+    {
+     "title": "イランに関連する脅威を受け、米空軍は英国のRAFミルデンホール基地から航空機を移動させた",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkxyX3lTQVduWElVLWNMbXluenI1dDFoMUtLcVNOWF9FWXdZQ2dmX0lkNGI2Ujd6WF9kM2kwT1p2Nk5rbUFMaHFUWU1XTmlJQ2VUbUVSWHZVTUhwRXNiaWVSVzRlc3l0VVJZUlNGb2hwSVNxNU1Ub3BSVko5MGVfa0dqMXpTNXRhRkdycDlwTnFnSzVscGdoalMzZGVLNHJTSTZ5b0lCNkhHOWhDcEV3?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-10T16:54+09:00"
     }
    ]
   },
@@ -167,10 +167,10 @@
      "at": "2026-11-10T14:30+09:00"
     },
     {
-     "title": "中国が台湾周辺で「サイレント大規模演習」か 西太平洋に空母など100隻超、常態化誇示",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HVVp2MEZKcnp1UG1FU0x5X3BJaDJHVWdLd3JiTlloZ2NxdlRCNVgyZ2pGMG9YUkhoSmcza2VJQ3owQTdRNWpoSDNtaXhRQXlLUjM2elVPM2c1NEtyWTdYaE5kY0hGX3U0LU9XR2tFalFQM2RURnc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-10T11:56+09:00"
+     "title": "中国、西太平洋で「領域拒否」演習実施 台湾国防部長が明らかに",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmVXakhmdUROYlFiSnJ4TmpuYzFhVVlGalBtNkFTS2xkSnN1WmVUTWI0N3E0N0xmblhvRXc1cDNoNENvYnNMdUVqekhtbWp0bEZjYmZ0UEZ5d2hIazJtdzNwUEhzZ01NdlZMR2cwa3A0dngtMHJHVU9KakJrdnlPcGxvVUI?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-10T12:00+09:00"
     }
    ]
   },
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "ロシアのTurlaがルーマニア政府機関を攻撃、新マルウェアCerealでNATOとEUのメールを狙う",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd21IOGNVbkR5ZXNyYWJGb1RhSFhIYm9PSGdhMmZJTGc4NjFwMm91YWRwdjV0Xy1nWXcyZDBDVjNoZ0V4VXNhc2RPaXdLYkpCVlVRdFBfRFFQVk4zTFJxX1c1dUxfQnN5c2pMZERYcTZINmtHYnA3ME1JYWVValBxWWNOVlM?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-10T23:21+09:00"
+    },
+    {
      "title": "NATOがバルト海で8カ国の軍隊を動員して潜水艦狩りの演習を実施",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzc0YVByVEZuWUZFM0Z3VWRWWDZnNm1kMlZYTHUyUzFCYmtydmI0MmFlOFhpVnp5cklFLUNfNHlBOG5tdmFoV0JXSFhnS1VlRFREZy1KYlR5dlpqVDFPcjJwTGVpLVdtNFRVYjcwVlIwUGJWN0ZzN0ppV3BlM2lOcjZCSUJabEw1QnZNMjVNT1hvRk1sTVVQX1lpcDJvRE5LSmtsdzJwc1JVeHNCaWc?oc=5",
      "source": "Laodong.vn",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZMnB3NFRFS1l6bkpwNVhnZXI2VnlOZFlRamRNLUtBcDBDeUdac0k1bVZpTG1weDl4MHZyeFBORHRZVU9vaVZlT3BJbUdSel9HVXVBUENCUTAxcVJ1NVAyNWpkWjl6SjBYVmdDaHRiaGRPMnpuTFJj?oc=5",
      "source": "Bloomberg.com",
      "at": "2026-11-10T11:00+09:00"
-    },
-    {
-     "title": "フランス社会の不安定化が目的か サイバー攻撃「破壊工作」と非難",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jQ3V3cFJrMDB5bkpNQkNwZ2YzVTNidDhFM3p1UjJ4YkpVektESk15ZlltNUxnenVSZjcwSk9NRk1DQ1ZYWUtNYUJfUQ?oc=5",
-     "source": "47NEWS",
-     "at": "2026-11-10T10:37+09:00"
     }
    ]
   }
@@ -428,12 +428,6 @@
    "at": "2026-11-10T21:40+09:00"
   },
   {
-   "title": "富山県立大学の安否確認メール配信システムに不正アクセス 学生・教職員約3000人分のアドレス流出（富山テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BdzVHRGVwV1BldG1ZcnRmd0I5N2lYU2NIQm5xblVOeXp2Rng3ekpGb3g3MDNncjhtNTI5QkZYLVAxcnBwNGc3YnprM0N2WkExUXdzb1lIVFI5Zm9IQVBsWnNwTm4xN2tYV1J2RzFxM2RET3g5VEhpSmlSSTNtSzg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T21:40+09:00"
-  },
-  {
    "title": "サイバー攻撃「二次被害」抑止、特定サイト「ブロッキング」の課題など検討…有識者会議が今月下旬に初会合",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bUQ5a1o5UlVTRXpDNG04QWtMaVVFQndna0xoNXZSMXJrWmVFN2ZHNFlhdjZUUldTZHc4WS1BUFlCbkRhNGZ3cVBFZzhuenRlaDJfSkQ2U25hY3o1RDhoRzRVSEc?oc=5",
    "source": "読売新聞",
@@ -452,6 +446,18 @@
    "at": "2026-11-10T21:08+09:00"
   },
   {
+   "title": "富山県立大学の安否確認メール配信システムに不正アクセス 学生・教職員約3000人分のアドレス流出",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nTkxKOUZwdVBZdmpCeUxYd2JuQjh4eEtPZ0FjNjJRV1E1eTFLRVR0WGUzdFdsRThIYzFpQUV1OS1uS1d0RjkwUHNCQ3pMdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-10T21:00+09:00"
+  },
+  {
+   "title": "シェアフルに不正アクセス、最大750万件の口座情報・生年月日・緊急連絡先が流出か（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yaUkzR2RldnJ6M3l6bmhKTmxrUVQ2TUR5cUk2dzk5UFhEMVhveEF5RUN3bEVWTE1xWGxpZ0RFQktrT1ZYcFNScm9JMG05TGo4X2piMVN3YnZNajNsVUtyX0ZIWnhjbWVVMmVhVDhvT21HeUF2V29ydGN0TEhYTlU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T20:45+09:00"
+  },
+  {
    "title": "エディオン、ECサイトに不正アクセス クレカ決済556回分の情報流出か",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yQmFRUEpUaDFVMXdlY0ljUzdhNFh4Y2ZJRHdIM2hGOVlsLXk3SHRXV3JiZ1ZoZllWSURGRDlVSjZyNS16ZU1Gc0FRSFBfNzRyb2tvdndSeUx6VGdwdHFPdzVWb3IydHViV0lGNXU3Wm9HbWFmRnc?oc=5",
    "source": "産経ニュース",
@@ -462,16 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0UxbjdnUHFhR2NrMlZvWVpfUDVaRkVGZU9NQjVjalV4TzYza1dhSDQyUkxLNWRKVkJSWUhGM0RCb2lwbUpRUDhNMHhwdVV4M3FyTGpwV25MRTRNZHFsLXRNc3dtbVdHQTNrNzItbGo2OFRZMzBqVVNvRkRjMWxYWFRmZTJ0WEk?oc=5",
    "source": "Reuters",
    "at": "2026-11-10T20:09+09:00"
-  },
-  {
-   "title": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xRWROQmZLYzVqaVlDZjhkdHQydVlEc0lwVUFyYkJ5SFpzTllyVW5MTUU5T3J1c3RDSUQ0bHdoR2duRDFzN1ZMbzdESkhzZ0tqSjltZUtWYTllTGVqSG80?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-10T19:53+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシアのTurlaがルーマニア政府機関を攻撃、新マルウェアCerealでNATOとEUのメールを狙う",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd21IOGNVbkR5ZXNyYWJGb1RhSFhIYm9PSGdhMmZJTGc4NjFwMm91YWRwdjV0Xy1nWXcyZDBDVjNoZ0V4VXNhc2RPaXdLYkpCVlVRdFBfRFFQVk4zTFJxX1c1dUxfQnN5c2pMZERYcTZINmtHYnA3ME1JYWVValBxWWNOVlM?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-10T23:21+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
    "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
@@ -513,13 +520,6 @@
    "source": "時事ドットコム",
    "at": "2026-11-10T21:49+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "イランへの再攻撃「必要ない」 トランプ氏、中間選挙大敗で慎重に？",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ob0o4QnhDcVlGYXBzeW5ZR0JWcmo2TTBFQ181NDZoRmh2VzdsZ3JWa2sxTlc2MTNRN3RrLU9LRHdjUFE1Umd4c3hJM0hhUEVxZnoya2RQazlJUGNJVHVpcWVWQll4akE?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-10T21:48+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "米軍がイラン民間船舶を攻撃する瞬間…トランプ氏「可能性は極めて低い」発言する中で攻撃実行 精密誘導弾が船尾に着弾、激しく爆発する瞬間 ホルムズ海峡（ABEMA TIMES）",
@@ -592,6 +592,13 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "イランに関連する脅威を受け、米空軍は英国のRAFミルデンホール基地から航空機を移動させた",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkxyX3lTQVduWElVLWNMbXluenI1dDFoMUtLcVNOWF9FWXdZQ2dmX0lkNGI2Ujd6WF9kM2kwT1p2Nk5rbUFMaHFUWU1XTmlJQ2VUbUVSWHZVTUhwRXNiaWVSVzRlc3l0VVJZUlNGb2hwSVNxNU1Ub3BSVko5MGVfa0dqMXpTNXRhRkdycDlwTnFnSzVscGdoalMzZGVLNHJTSTZ5b0lCNkhHOWhDcEV3?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-10T16:54+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "台湾国防部「中国軍が西太平洋に空母など展開し演習」と非難",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQ1BRSXRvXzJQZE1OZlduTmh5VXVaWU5ZcnpROHEzQXpEdVk4eFZjaUpmRVJZWkgwQmVXYTBHR1ZBbUhLa3RUVWhMOEw5VHhDenhPRDRmbTZFRi1QWExJ?oc=5",
    "source": "NHKニュース",
@@ -603,13 +610,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaXRYdTlhNkc4bTlZMVRxblpfSXJyYXN1UzFnREdTRF9VeWJWQWVmLXB3U3AzZnYydm5XRHczVUpRbFJQRXN2c25EX1VsRnlYN1lORDRUenRoTnp0dG5F?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-10T15:48+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "金正恩氏の秘密兵器「北朝鮮ハッカー軍団」、その素顔とは 腕利きには平壌のアパートや親と過ごす時間などの「特典」も",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sd3ZOeVM3bXo5NEhDM1ZMLVpfdTI2TkxfdzlMTy1zTE56WHRRRTVEWU1oX2RxM3FMUjJ0UXdLeDdMMnBEZXFkSUExNXZZellGV3l5ajJfU2NyUFFCX0drSjdVdVBkUGFtRG1KTk5aOFFFd0dORUs5N2Izc29Ic1E?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T15:39+09:00",
    "topic": "北朝鮮"
   }
  ],
@@ -629,29 +629,28 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」2件",
-    "中国・台湾：「大規模演習」1件",
+    "イラン・アメリカ：「攻撃」1件",
     "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
-     "title": "イランへの再攻撃「必要ない」 トランプ氏、中間選挙大敗で慎重に？",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ob0o4QnhDcVlGYXBzeW5ZR0JWcmo2TTBFQ181NDZoRmh2VzdsZ3JWa2sxTlc2MTNRN3RrLU9LRHdjUFE1Umd4c3hJM0hhUEVxZnoya2RQazlJUGNJVHVpcWVWQll4akE?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-10T21:48+09:00"
-    },
-    {
-     "title": "中国が台湾周辺で「サイレント大規模演習」か 西太平洋に空母など100隻超、常態化誇示",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HVVp2MEZKcnp1UG1FU0x5X3BJaDJHVWdLd3JiTlloZ2NxdlRCNVgyZ2pGMG9YUkhoSmcza2VJQ3owQTdRNWpoSDNtaXhRQXlLUjM2elVPM2c1NEtyWTdYaE5kY0hGX3U0LU9XR2tFalFQM2RURnc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-10T11:56+09:00"
+     "title": "米軍がイラン民間船舶を攻撃する瞬間…トランプ氏「可能性は極めて低い」発言する中で攻撃実行 精密誘導弾が船尾に着弾、激しく爆発する瞬間 ホルムズ海峡（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcGdQdHBMUmZsX3ZQNklRa0ZoaGk4OGQ3RGdLWU1hWWVoaXBURzRzZjhidkRDYk9Yd2QxclRSUHFrLXdLYjl4VXVMUGlwcWl4eE9BR01HamE0WGNsZmk3MFNEZ01MeVNLWHliMUNta2c2ei1UZWpKbFFYdEZKcmM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T21:27+09:00"
     },
     {
      "title": "「夜空が真っ赤に染まった」…ウクライナのドローンがロシアの巨大製油所を攻撃、激しく炎上する現場を捉えた映像",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RdnM3OWFnMDJmdUhXR3AzMHRrcFkxZU9XSTl6QTEwbDM5VmQxZDB4ejhEdTZhVm9yVl9LUHlRUDlYenFqb0lXODlhY1dWMEVKWVZXV1dRZnYxbVBEYTFrU3J4d1lrMHFjQ3hYbzU1N3ZTd0liQWNYaTlSTkxxLXc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-10T21:01+09:00"
+    },
+    {
+     "title": "ロシアのTurlaがルーマニア政府機関を攻撃、新マルウェアCerealでNATOとEUのメールを狙う",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd21IOGNVbkR5ZXNyYWJGb1RhSFhIYm9PSGdhMmZJTGc4NjFwMm91YWRwdjV0Xy1nWXcyZDBDVjNoZ0V4VXNhc2RPaXdLYkpCVlVRdFBfRFFQVk4zTFJxX1c1dUxfQnN5c2pMZERYcTZINmtHYnA3ME1JYWVValBxWWNOVlM?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-10T23:21+09:00"
     }
    ]
   }
