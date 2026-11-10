@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:45+09:00",
+ "updated": "2026-11-10T17:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-10T16:53:00+09:00",
+   "place": "愛媛県南予",
+   "mag": "3.0",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-10T16:14:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-09T13:52:00+09:00",
-   "place": "茨城県沖",
-   "mag": "5.9",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -94,6 +94,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "米軍機、イラン脅威情報を受けて英基地から退避か 10月にも戦略爆撃機撤収",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qdVhpMndRc2pVNXBIU2dkTFBGS2lUZnJ4OTB0RXRUc3NvaEpBdjRaUk5mYUtaOGdiNmY4dDA3el92b3lvaVFaZmQxUFhaN2x0Y0UwajNjVjRBTElPSDg0RXhpZS1jMnR6Wk8tREVoR2x6MUtpYWc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-10T16:20+09:00"
+    },
     {
      "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZTNjckRsQTlXNHZzSV8wU2RkdWEyNDFycm9FV0VQNUZodV9NbGdOQVpXdzExcDhRam51Mm1wLVN3WFNaYW5HVERlRDQ5TTJGbXBsb1p6cWVGTFJvQ05aUjNCRGNZbGgzYkxkRlRGYlM5SklEWkp1dUFYUkY4Q1pRM0JnX0hMeUN4YnZwV0k4Ym5rSHZfeFdxV1lXUGVsSklzRlVILVFuRWlSdTgyOVpGejEwTDBlLW82Qmw0S3dGeVY0alJMMXFybkF2MmNDRFA1N0w3TkFQcXhqLW5wVXJsamM5S0hrbHBLWXRSZ3g3SXpEdFdpMm1WNU5FS2FkR2p3dXNmVHlZQ2g1WHRJanQ1RjhvUDdNNzRXWV9MZ2w3SXhxYjlodndWOXNQNHlMZnlfenY1YlZRdXNMQmljZ096dFlrYS1nY3kySmtJQ3JPeTlaazk4VWphTGtINmlXNlJLRDcxSmtmODBtNjg2SVlad2kxaUdhellLaWk0WVJmY0VnVzhob0lsUjBpUFVHbVlKQ2pCdUdzTnU4UElHam93c1c4LUtSVUZQWlZ6X3h6ZzFZSk0?oc=5",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUVYVjh1b0hLaEN5ckotVERWdlkyUUZON3ZrdkcxNnViVU5uYXd3VzRSZU5kWV9mSF9Rc1BRX2VRX0VkVTVmRmVuYng1bTBFOWtHR3dsUl9NLWNfbFlXUGluekdmWVZqaENIbWlGSTZuTlNUQnMtVUtzNFljd3pLbw?oc=5",
      "source": "UQライフ",
      "at": "2026-11-10T12:27+09:00"
-    },
-    {
-     "title": "冷蔵庫・冷凍庫へのサイバー攻撃はイランによるものだとフランス外相が非難",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10LVhLZnJoaWMyYVVpNTdiYVZwRU54UDNYRGY5WXNIN3BGbmhtdkhkZ3ZUcVpyVGdTMUZJOEtkam8wOEN4bW8tV3FmRWtodzYyZ01GQWNOQTFlN3NsM1AyS2lEa1JicXJ6Zm5USWYxR0s?oc=5",
-     "source": "GIGAZINE",
-     "at": "2026-11-10T11:58+09:00"
     }
    ]
   },
@@ -234,9 +234,9 @@
     },
     {
      "title": "ウクライナは「最悪の冬」に陥るのか ロシア軍はエネルギー施設への攻撃を継続",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWtiNkc5M1M4U2c3NHlialdFbEVmR1h3ZU5RdEtNOGZWa2I5Wk5MNXRrYXBSYVJfSEFHZXFWZ25aaGQ0eWR2MWhYSGIzRUhMaElPSDR4UWQ0LUw2Xzk1TW9UZkk4NFQyeXA4NXl2YWVQcW84dVNQU0RneUp2aTVaMzJVOVBwMW1ZUDVUVHB3?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-10T11:56+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZzA3N251WXlkSUFpejMwYXB2QTlVdU5HUkVWR25MNVliRmxoSGpMNmZ6TFZvMUp0a3NnS0g2U3k1VnNDOVFSU1pENkwxbldxYWhWWmV4TklUUQ?oc=5",
+     "source": "Forbes JAPAN",
+     "at": "2026-11-10T11:30+09:00"
     },
     {
      "title": "ロシアで再び燃料不足、ウの製油所攻撃で 軽油輸出に影響懸念",
@@ -310,8 +310,8 @@
   },
   {
    "title": "防災備蓄品の購入増える 愛知の震度5強で 気象庁検討会は南海トラフ影響なしと判断",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0NE0wLVR5bkRiYjJURUpUSDZ6MHRLU3N2YThBMTRHZE53Z1VsWW1SdlpIY3oxeDJ5N0tYYm5rRXNLYnJUR0Nld20tSTVleXl0WEMwLTRWZEwwd3RNc2ExM0JKXzdLUVZRTmZmU2pWRWI1dw?oc=5",
-   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zTGNiaFFaZGdQaVBURjJsbUpQNFppYWIzUnhBbnJMS3ZRNENPLVNJRWptMHVHYUJDR0Z3S0ZUNmJkUUgyNDR3eEw2aTMwQ0U?oc=5",
+   "source": "khb東日本放送",
    "at": "2026-11-10T11:29+09:00"
   },
   {
@@ -333,10 +333,10 @@
    "at": "2026-11-10T06:31+09:00"
   },
   {
-   "title": "愛知県知多市で震度5強、愛知・静岡・長野で計25人けが 震源地は愛知県東部、南海トラフとの関連性「低い」",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY1FyRXRGdkw2VFhGSHp3bVZCYWJCZHNyTDlEdXNWWlEzakJyYUZ6TDByYmViSDZSUWJfck1UUFB4ZzAteHFwM0x4SGtpZjdwekRhQw?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-09T21:51+09:00"
+   "title": "南海トラフへ影響ほぼなし 気象庁 愛知・知多で震度５強",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40RzloQzVPZnFDODN4ZWthRmdwNXhRRFA0V0NrdjNuZE1jMjUxSjhidFIyUGVlZ1NvdHgyN2ZXQ19yZWhyOFFwcm5qeEZUU0VwVVBGbklkMzk1V3RzZElrYzJ1UQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-10T05:00+09:00"
   }
  ],
  "outage": [],
@@ -346,6 +346,12 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wSTZiQmQxOFJfRlA3WWFWaGNaSmR6cVM3RGdqOXdQV1lXVnFyZ25kWHhYZjY3Yy1Ra2NKa0R0Q0lDWlRtN2NyUnBVNExpeEJWM1dFbHJzWS1BbTgzZ1dN?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-10T15:34+09:00"
+  },
+  {
+   "title": "弾道ミサイルの発射想定し避難訓練 黒部・明峰中",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VLU4yWFpLMENxN1FWdGJYeWk1X09WMk1pVTlZeXZQdVQ2YkF4Y2JRZEdCWUhxd0FzU2NpYWY2MDN5ZjZWQ21YUU5Ubw?oc=5",
+   "source": "北日本新聞webunプラス",
+   "at": "2026-11-10T15:16+09:00"
   },
   {
    "title": "Jアラート全国一斉情報伝達試験の実施（令和8年11月11日）",
@@ -370,12 +376,6 @@
    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBFRHZlWjEtQnVkYWxWUGlybXZCNmNsZGN0ZGdxampsVkdqLU91SS1MdUVWX1dvQzNwd1g3UTlB?oc=5",
    "source": "西宮つーしん",
    "at": "2026-11-10T08:02+09:00"
-  },
-  {
-   "title": "【明石市】「全国瞬時警報システム（Jアラート）」の放送訓練が、11月11日に実施されます。",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xTS16X1ZnRm1sRWdCMlVSLUtXbE5YZmVuRHlQeUdrNnNscmtsSG9GYWNwTDlQb1Q4MVlWNHU4WWs4NjIxbGpMaHBMclZNaHZzcGtYQ0NnUHd4ZUJLbWc?oc=5",
-   "source": "地域ニュースサイト号外NET",
-   "at": "2026-11-10T08:00+09:00"
   }
  ],
  "cyber": [
@@ -396,6 +396,30 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcElmVkR4MVZrUlFhRldBLVdQdnZ6SThmbWxRMVVEcjVwSFotdXpwWXFWYlFkMHl0akt6d3NnblFVYU9WVEpxMFRtUjE1MHhTWlJuaFNyczRuSzl3bHZSUERIck9wTFAxZFE?oc=5",
    "source": "ITmedia",
    "at": "2026-11-10T14:29+09:00"
+  },
+  {
+   "title": "戸籍コンビニ交付システム障害発生のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZMWVmTkZkUm42Mmx4S3pOWmxVc2R0QkVYMDF3UG1fOTBaSVBZRkVqQmxBOFVYUGh4Ql9oN2ZfT0NMM2M1WUZZOG1FRjRPY3d4MzhLbjh3QmtmSWs1QUhzYjNfVEp0TXRrOVd5MEpWQQ?oc=5",
+   "source": "五條市",
+   "at": "2026-11-10T13:47+09:00"
+  },
+  {
+   "title": "サイバー攻撃から個人情報を守り抜く | お知らせ | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01amVKVE9mdEhWYkhzSjhXOWFlN0x2emlXZ2dXNDRtckFob3JoRGNLY3gtR3MtbmN5RTUwWTZpYzFaR29vOS1EaFJ4Q2dHSmNQQlNyTXNqVzlpc01uZFE?oc=5",
+   "source": "自由民主党",
+   "at": "2026-11-10T16:57+09:00"
+  },
+  {
+   "title": "政府、ブロッキングの是非議論へ サイバー攻撃、二次被害抑止で",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nQzBaZXZCb1B1aE83T2JJNVZ1d3dkUXlDLXFHNmV5NUk1SEg1RFVJU05aTWJFSDVhanBrUHJOVHlISkxLS3g2R0Jlb3BYTzNmcXZLaFo0Qzdhdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-10T16:51+09:00"
+  },
+  {
+   "title": "総務省 サイバー攻撃の被害拡大防ぐアクセス抑止策の検討へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IWjJCWWtMZy0yY0o4SkY2SnJmRktacUJveEE4ZGIyMTdSeFRpVTVPZUQya3N3U1VKWnVrTTZnTWhaX3VjOWZUUkpmR3RLclNSaFJzcC02Wlg5N0RETU53?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-10T16:46+09:00"
   },
   {
    "title": "千葉興業銀行、顧客メールアドレス17万1,260件が流出 アララへの不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
@@ -444,30 +468,6 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVVFyVEhyYmQ3UzZOaGJ0bi1xT2pSbVdZMXFXejFkaDN6c1lXcXZJYnBUNnJUaFRDTzRvN09RZ0NCdkdveG5TUmVLVC1RUFRsTGJVYm5nVG9BUVFhdHJGNE4yVEhkNm9qLVRGRFBKeW00dmx5MTBiMWEzWEdPQ05QWXVYc3c5X1V6dktLRg?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-10T15:48+09:00"
-  },
-  {
-   "title": "【重要】弊社利用の一部システム提供元における不正アクセス事案について",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wMnpqMlJBWVRWdkxwYURiNzY1SG15QjBQTUh3X01nV0h2bXQ0MXU5OTJ6ckRKLWowWlBRN25BbDBvek1LN01sTWNVN2FIRi1GaWk4?oc=5",
-   "source": "千葉ジェッツ",
-   "at": "2026-11-10T15:37+09:00"
-  },
-  {
-   "title": "タイ国際航空、予約情報約6万件に不正アクセス、パスポート番号なども影響の可能性",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxX0pwaVNQTUNlemVfRFdmdUhYY3VOcmdvMTh4Wnpwd0NBSkhCQ29TaEk3S2MwWTZVYnhiY3FWUVRYMzRqZHJwM1FPbk5qbXlidW9lcA?oc=5",
-   "source": "タイランドハイパーリンクス",
-   "at": "2026-11-10T15:35+09:00"
-  },
-  {
-   "title": "国家サイバー統括室、個人情報の漏えいなどにつながる不正アクセスへの対策を呼びかけ（ネットショップ担当者フォーラム）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mLTZiVVZKbnI4bUUyOWZEa3pFcHpQdnlRNHVFaHVWOWVqd3MxYkduNllvVkx4cXlBNVEzeUloY1dEcEp4N2VCd1F3M09wTHpLWmFIZVpmUENVY3F3YVlkNVVLbkRfNzZjV3NJa09KSVR2ZXdvdU5YdUQ5bER0U0E?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T15:31+09:00"
-  },
-  {
-   "title": "不正アクセスに伴う情報漏えいの可能性と一部サービスの停止",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBheU9Kemhuc3E2d2xwWlZWVGtweThuZUpWMHJaV3RRNy1UVGhlTi0xMXRtRWUtMGwwOUljUDRlOUdwNHBMMDViTUg0RkJUS0lsWWJSTDQtcEZQdlI1ZlNJVjNRQWZNTVp3QWhMT2Q3YUlXbU5OYnVwRVNZUWo?oc=5",
-   "source": "志摩市",
-   "at": "2026-11-10T15:11+09:00"
   }
  ],
  "osaka": [],
@@ -478,6 +478,13 @@
    "source": "NHKニュース",
    "at": "2026-11-10T16:24+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "米軍機、イラン脅威情報を受けて英基地から退避か 10月にも戦略爆撃機撤収",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qdVhpMndRc2pVNXBIU2dkTFBGS2lUZnJ4OTB0RXRUc3NvaEpBdjRaUk5mYUtaOGdiNmY4dDA3el92b3lvaVFaZmQxUFhaN2x0Y0UwajNjVjRBTElPSDg0RXhpZS1jMnR6Wk8tREVoR2x6MUtpYWc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-10T16:20+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
@@ -585,13 +592,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "冷蔵庫・冷凍庫へのサイバー攻撃はイランによるものだとフランス外相が非難",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10LVhLZnJoaWMyYVVpNTdiYVZwRU54UDNYRGY5WXNIN3BGbmhtdkhkZ3ZUcVpyVGdTMUZJOEtkam8wOEN4bW8tV3FmRWtodzYyZ01GQWNOQTFlN3NsM1AyS2lEa1JicXJ6Zm5USWYxR0s?oc=5",
-   "source": "GIGAZINE",
-   "at": "2026-11-10T11:58+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "中国が台湾周辺で「サイレント大規模演習」か 西太平洋に空母など100隻超、常態化誇示",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HVVp2MEZKcnp1UG1FU0x5X3BJaDJHVWdLd3JiTlloZ2NxdlRCNVgyZ2pGMG9YUkhoSmcza2VJQ3owQTdRNWpoSDNtaXhRQXlLUjM2elVPM2c1NEtyWTdYaE5kY0hGX3U0LU9XR2tFalFQM2RURnc?oc=5",
    "source": "産経ニュース",
@@ -600,9 +600,9 @@
   },
   {
    "title": "ウクライナは「最悪の冬」に陥るのか ロシア軍はエネルギー施設への攻撃を継続",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWtiNkc5M1M4U2c3NHlialdFbEVmR1h3ZU5RdEtNOGZWa2I5Wk5MNXRrYXBSYVJfSEFHZXFWZ25aaGQ0eWR2MWhYSGIzRUhMaElPSDR4UWQ0LUw2Xzk1TW9UZkk4NFQyeXA4NXl2YWVQcW84dVNQU0RneUp2aTVaMzJVOVBwMW1ZUDVUVHB3?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T11:56+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZzA3N251WXlkSUFpejMwYXB2QTlVdU5HUkVWR25MNVliRmxoSGpMNmZ6TFZvMUp0a3NnS0g2U3k1VnNDOVFSU1pENkwxbldxYWhWWmV4TklUUQ?oc=5",
+   "source": "Forbes JAPAN",
+   "at": "2026-11-10T11:30+09:00",
    "topic": "ロシア"
   },
   {
@@ -629,17 +629,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」3件",
+    "イラン・アメリカ：「攻撃」「爆撃」3件",
     "中国・台湾：「大規模演習」1件",
     "ロシア：「攻撃」「侵攻」4件",
     "欧州・NATO：「攻撃」「破壊工作」3件"
    ],
    "items": [
     {
-     "title": "トランプ大統領「イラン再攻撃は必要ない」戦闘終結に期待示す",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXBHWTh3YnNNbVdvT2hkMTJQcVptUnd6MG9wQWlzc0p3WHFJTmU2ODduYUxFLWpDZlZFdW5wNktSRkRMTE5qVkJNNW13U2JtUUpDX3NwaXU1TExmMk9fMGJVb3hIYkNJc3hRTjR3?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-10T14:24+09:00"
+     "title": "米軍機、イラン脅威情報を受けて英基地から退避か 10月にも戦略爆撃機撤収",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qdVhpMndRc2pVNXBIU2dkTFBGS2lUZnJ4OTB0RXRUc3NvaEpBdjRaUk5mYUtaOGdiNmY4dDA3el92b3lvaVFaZmQxUFhaN2x0Y0UwajNjVjRBTElPSDg0RXhpZS1jMnR6Wk8tREVoR2x6MUtpYWc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-10T16:20+09:00"
     },
     {
      "title": "中国が台湾周辺で「サイレント大規模演習」か 西太平洋に空母など100隻超、常態化誇示",
