@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:30+09:00",
+ "updated": "2026-11-10T18:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア・ウクライナとの三者協議がトランプ大統領の「試金石」に カギ握るプーチン氏が描くシナリオとは 専門家が分析",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxWXlKWWFLY2RxVS1Kb3hEUjdOUzVMMGMtNjN6MlBuYlVlT0JweDZPZ0FfUDd1M2MyTzJ0OFgxdERONmlrMWNaVHFfc0VpeEZkbERNLVUzWQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-10T18:34+09:00"
+    },
+    {
      "title": "ロシアとウクライナ、米仲介の3カ国協議を再開 欧州含む安保を議論",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ST2N3TlRqOWJmWHB1R25GZ1FvbGQ2b1BpMzFob3MzTUFabVRRZW1BeE04R2pYWFcxSzc3ajYxcDJlV0tGbElTakM1M0owTzNjaHExNDFSZjVkRHRfVHdnZGtnUWtjaFhOS2E2SA?oc=5",
      "source": "日本経済新聞",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HZ0ZkTGxZRGtJOUZBd3o2R19NcGN0R2E4WFJSMGlVVVFPZEJLV1JKd3BLeHc2ejhZRk5CLXdBeTVKQTRwX0tRcnFic0FjNDlNNmEwMmU5NDBoZWFXMkhJ?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-10T15:38+09:00"
-    },
-    {
-     "title": "ロシア軍機が高官をテルアビブに輸送、アブダビでの和平サミットを前に",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZUxUYURCb1o0ZjY2S056NVlKdTk0SzdFa1pnMXFSN1VwMU9GYUdlQmZzQXB5M2ZjRU0xcllMSEJWeGxONExuMEpGYnRVTHNJRlpRTnpOOEtRR1ViSFBmclJoN19zcGMtUF9zWnBoc0YzQ09wQnM2NFlwVG5XOVhicW9RenZDZGdjWC13aFhtXzB2OUg5ckJVeENHUnFwQ3N6eFJWWHQyZU5NUjZ1OG40Sk5qbnB0QTlhVFBvNUlsOHQ?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-10T15:27+09:00"
     }
    ]
   },
@@ -333,10 +333,10 @@
    "at": "2026-11-10T06:31+09:00"
   },
   {
-   "title": "南海トラフへ影響ほぼなし 気象庁 愛知・知多で震度５強",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40RzloQzVPZnFDODN4ZWthRmdwNXhRRFA0V0NrdjNuZE1jMjUxSjhidFIyUGVlZ1NvdHgyN2ZXQ19yZWhyOFFwcm5qeEZUU0VwVVBGbklkMzk1V3RzZElrYzJ1UQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-10T05:00+09:00"
+   "title": "【解説】「冬の地震」どう備える？ 低体温症リスクも 南海トラフ被害想定「冬の深夜」が死者数最多29.8万人……暖房使えない状況で必要な備えを【 #みんなのギモン 】（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmdQeTg0ZzFmRC1Falo5ZzlpQ0pITjFjMkV2WDdnTW9iX1JrUTVSY0tVWlZSOGxUeDl2TzhWdE9jUzdaTUprNk5FeWhxeDN1aWVtYkVwY1c2Q0tRNFBDcUNTbUdNRWdRUTNfZ2dzekZ1clFmQldVa0Z6NnlkMEhtcjZUNVpTd05KM01sZFpB?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-10T05:45+09:00"
   }
  ],
  "outage": [],
@@ -404,10 +404,10 @@
    "at": "2026-11-10T14:54+09:00"
   },
   {
-   "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か（ITmedia NEWS）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZnFXdll0MTRFdUxNbVZGSW80MXR2cUJTTUtXYWVFeGN2UjFETVBfb2tkY2R5ekhRSFZMVnJZSTZUUGZBWHhpVVhuanl1STlmOU4zaTRTX1JXOVBJN0lPdjIzbXhuTDBfSmpXQWVEdWJmWC1GMHFUYTVGTkNBRE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T14:35+09:00"
+   "title": "仏スーパーの冷蔵・冷凍設備の「温度」狙ったサイバー攻撃、イラン革命防衛隊が関与…仏外相が制裁科す考え",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GaHpwMTBlZnU2NFVGRktpUWpuMy1hc0pldWVPQ2NaT1VOWk1CQklNQTBleDZyV2w1aWFRc0lFQkRkNWthbzFkTldrNkVLVTNCNVhfcFdOMF9IS1g3dDQwOE13?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-10T18:30+09:00"
   },
   {
    "title": "十八親和銀行 山川頭取「サイバー攻撃被害最小化に力入れる」",
@@ -431,6 +431,12 @@
    "title": "タイ中央銀、サイバー攻撃への監視強化",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xY3pBblVjbW16dFh5MlhTbDhyelBWZkRodW9UcHlRLUtkSF9kNThQbWFWU0l1b29zSEFOMldVSWxGajE0MHFKUnJIYkpSbkpMRU8zWXBjdkxBN0ExWmxMYU1B?oc=5",
    "source": "Excite エキサイト",
+   "at": "2026-11-10T17:38+09:00"
+  },
+  {
+   "title": "パピレス、「Renta!」の不正アクセスによるサービス一時停止に伴い売上高24億円、営業・経常益5億円減少する見込みと発表",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10SWY5UFpZdTZZa2poV3ZEZFZmNnJFTDRjUjVPRUZWd2RiNU9GNnI0dWRmZHVYdDFqZ3hQWU5vRkxrbE5m?oc=5",
+   "source": "gamebiz【ゲームビズ】",
    "at": "2026-11-10T17:38+09:00"
   },
   {
@@ -462,16 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MUGVFYnJKMm03X3cxZktfQjk0XzJoMzJDd1g5Y2N4SXlQQjRTSE11M3N3bTVMR3gxU3JZTFN4VFBKZU84UERYTVVKdlFuX2ZVT2dBdzRiNmtpTVBCWTJBR2l1VG5Ec3ZSUEdjWDV3?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-10T17:11+09:00"
-  },
-  {
-   "title": "【図解】台湾政府ネットワークに1日280万回の侵入試行 病院・電力も狙うサイバー攻撃の実態 | 魏甫丞（ガイ・フシン） | ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrTWN1MkV6d3YwaDFZSnkyTWlRNmkzWHpZY0M0eFR0bkRGUW5EUmZEY0REYzdFQXlibklwa3dPcVdFWHpEZVVOVTktZXF4emd2?oc=5",
-   "source": "風傳媒",
-   "at": "2026-11-10T17:07+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア・ウクライナとの三者協議がトランプ大統領の「試金石」に カギ握るプーチン氏が描くシナリオとは 専門家が分析",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxWXlKWWFLY2RxVS1Kb3hEUjdOUzVMMGMtNjN6MlBuYlVlT0JweDZPZ0FfUDd1M2MyTzJ0OFgxdERONmlrMWNaVHFfc0VpeEZkbERNLVUzWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-10T18:34+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
    "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZTNjckRsQTlXNHZzSV8wU2RkdWEyNDFycm9FV0VQNUZodV9NbGdOQVpXdzExcDhRam51Mm1wLVN3WFNaYW5HVERlRDQ5TTJGbXBsb1p6cWVGTFJvQ05aUjNCRGNZbGgzYkxkRlRGYlM5SklEWkp1dUFYUkY4Q1pRM0JnX0hMeUN4YnZwV0k4Ym5rSHZfeFdxV1lXUGVsSklzRlVILVFuRWlSdTgyOVpGejEwTDBlLW82Qmw0S3dGeVY0alJMMXFybkF2MmNDRFA1N0w3TkFQcXhqLW5wVXJsamM5S0hrbHBLWXRSZ3g3SXpEdFdpMm1WNU5FS2FkR2p3dXNmVHlZQ2g1WHRJanQ1RjhvUDdNNzRXWV9MZ2w3SXhxYjlodndWOXNQNHlMZnlfenY1YlZRdXNMQmljZ096dFlrYS1nY3kySmtJQ3JPeTlaazk4VWphTGtINmlXNlJLRDcxSmtmODBtNjg2SVlad2kxaUdhellLaWk0WVJmY0VnVzhob0lsUjBpUFVHbVlKQ2pCdUdzTnU4UElHam93c1c4LUtSVUZQWlZ6X3h6ZzFZSk0?oc=5",
@@ -590,13 +597,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-10T15:33+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "ロシア軍機が高官をテルアビブに輸送、アブダビでの和平サミットを前に",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZUxUYURCb1o0ZjY2S056NVlKdTk0SzdFa1pnMXFSN1VwMU9GYUdlQmZzQXB5M2ZjRU0xcllMSEJWeGxONExuMEpGYnRVTHNJRlpRTnpOOEtRR1ViSFBmclJoN19zcGMtUF9zWnBoc0YzQ09wQnM2NFlwVG5XOVhicW9RenZDZGdjWC13aFhtXzB2OUg5ckJVeENHUnFwQ3N6eFJWWHQyZU5NUjZ1OG40Sk5qbnB0QTlhVFBvNUlsOHQ?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-10T15:27+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "北朝鮮が朝米首脳会談の条件として核保有国の地位認定を要求しているが、中間選挙以後に政治的立場が狭くなったドナルド·トランプ米大統領がこれを受け入れることは事実上不可能だという米外交·安保専門家たちの展..",
