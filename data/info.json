@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:15+09:00",
+ "updated": "2026-11-10T09:24+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,10 +95,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "トランプ大統領　イランへの軍事作戦再開は「現時点では必要ない」",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEVoRXJCSHRMTmM2TGs1U3NyeTNRM283d3NvUkN2NkpqRXFfcjJqR2N2ZzV2anVwbEhid3dPYTU5RngzSnFkanQxU0RSUlUteGZXUkR3TUhFV1NVdTNJTWxNWk11dHlvWGF6N2RXOEljX0prYnZVS29KR19FNXRkTzU1dEV3X2pHT3pEQkZsdHBCY0trZUgtLTk0YktTc0l5clU1d1RrWFhvSy1YanBjNGdENElXTEZEcU81WUk5VDBVWmfSAXNBVV95cUxNWXRCN2U2WnF5a3I1a1REWmZldHdZcjZjZFNYOHFBeDQ1VWttVXEzYnpINTlfSHFPUWtST09PX3QydkMwQTM2TjA5RXhXVS1PR0tHTndaUXZkM2h2Yl9QT0tlUlAyVEQteW5oWW9BNXpySlMw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-10T08:56+09:00"
+     "title": "トランプ大統領 イランへの軍事作戦再開は「現時点では必要ない」",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kZUpoLW5OZkhmeXVXSG42ZXdlQ0I2anYybDJxTUp0Q2lucmdpQnZDY3RSeTJjT0NRN1NZdHV6MnVKZVFqbzdxUkNBZkRBeDNHYnlCUnN5MmVkYUgyeEs1a1U1bWEzLXE3QVFKOXZ6N0RWalk?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-10T09:02+09:00"
     },
     {
      "title": "トランプ氏、対イラン攻撃を当面見送り 湾岸諸国は和平要請",
@@ -480,10 +480,10 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "トランプ大統領　イランへの軍事作戦再開は「現時点では必要ない」",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEVoRXJCSHRMTmM2TGs1U3NyeTNRM283d3NvUkN2NkpqRXFfcjJqR2N2ZzV2anVwbEhid3dPYTU5RngzSnFkanQxU0RSUlUteGZXUkR3TUhFV1NVdTNJTWxNWk11dHlvWGF6N2RXOEljX0prYnZVS29KR19FNXRkTzU1dEV3X2pHT3pEQkZsdHBCY0trZUgtLTk0YktTc0l5clU1d1RrWFhvSy1YanBjNGdENElXTEZEcU81WUk5VDBVWmfSAXNBVV95cUxNWXRCN2U2WnF5a3I1a1REWmZldHdZcjZjZFNYOHFBeDQ1VWttVXEzYnpINTlfSHFPUWtST09PX3QydkMwQTM2TjA5RXhXVS1PR0tHTndaUXZkM2h2Yl9QT0tlUlAyVEQteW5oWW9BNXpySlMw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-10T08:56+09:00",
+   "title": "トランプ大統領 イランへの軍事作戦再開は「現時点では必要ない」",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kZUpoLW5OZkhmeXVXSG42ZXdlQ0I2anYybDJxTUp0Q2lucmdpQnZDY3RSeTJjT0NRN1NZdHV6MnVKZVFqbzdxUkNBZkRBeDNHYnlCUnN5MmVkYUgyeEs1a1U1bWEzLXE3QVFKOXZ6N0RWalk?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-10T09:02+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -621,9 +621,9 @@
    ]
   },
   "japan": {
-   "level": "red",
+   "level": "green",
    "reasons": [
-    "「あした西宮市の防災スピーカーからJアラートが流れるみたい。11/11(水)の11」"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
