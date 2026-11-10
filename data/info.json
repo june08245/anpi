@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:00+09:00",
+ "updated": "2026-11-10T19:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -98,7 +98,7 @@
      "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZTNjckRsQTlXNHZzSV8wU2RkdWEyNDFycm9FV0VQNUZodV9NbGdOQVpXdzExcDhRam51Mm1wLVN3WFNaYW5HVERlRDQ5TTJGbXBsb1p6cWVGTFJvQ05aUjNCRGNZbGgzYkxkRlRGYlM5SklEWkp1dUFYUkY4Q1pRM0JnX0hMeUN4YnZwV0k4Ym5rSHZfeFdxV1lXUGVsSklzRlVILVFuRWlSdTgyOVpGejEwTDBlLW82Qmw0S3dGeVY0alJMMXFybkF2MmNDRFA1N0w3TkFQcXhqLW5wVXJsamM5S0hrbHBLWXRSZ3g3SXpEdFdpMm1WNU5FS2FkR2p3dXNmVHlZQ2g1WHRJanQ1RjhvUDdNNzRXWV9MZ2w3SXhxYjlodndWOXNQNHlMZnlfenY1YlZRdXNMQmljZ096dFlrYS1nY3kySmtJQ3JPeTlaazk4VWphTGtINmlXNlJLRDcxSmtmODBtNjg2SVlad2kxaUdhellLaWk0WVJmY0VnVzhob0lsUjBpUFVHbVlKQ2pCdUdzTnU4UElHam93c1c4LUtSVUZQWlZ6X3h6ZzFZSk0?oc=5",
      "source": "アラブニュース",
-     "at": "2026-11-10T18:16+09:00"
+     "at": "2026-11-10T19:05+09:00"
     },
     {
      "title": "イランに関連する脅威を受け、米空軍は英国のRAFミルデンホール基地から航空機を移動させた",
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "愛知で最大震度5強 店舗ガラス破損など被害受けガラス張りの複合施設で職員が緊急点検 南海トラフ地震への備え見直し 愛知･安城市（CBCテレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BamFYSzBjN29aQlJhUzBQMm9wVkRRcFBFNlN0WkxIbzVhTUlxRmVDcjc2VE5pazFfYUxERk85Wk5oZDRKUEJqY0U5OWpNcDZiNHhpMlE3UXowUXdrXzBQU2k0VzlfdXlPVWxIV3Naek5qSnBDNXpZS1BjeEgtUzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T18:59+09:00"
+  },
+  {
    "title": "「南海トラフ地震の発生可能性は高まっていない」 浜松市で震度５弱の地震で気象庁の評価検討会（静岡朝日テレビ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aTDdRUFMtSVlNVDZUVmxtUFh1NUl3WGFLeFhaRGItWWcyd2xTOW01dHJMeVVuSl96UEYtTUZqOVNGamxpeTdvcmtjTGJQX25PNGxyT3dXY1A2cFBWWkNLLUFpXzdHSWdreFprd210ZjdnMXFBVWJDUm9ocWd2V0U?oc=5",
    "source": "Yahoo!ニュース",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KVEN2cWZJN01sWVIxX3FoempxTl9TUVhnN1NpZ0ZudWxuRk1NemgwWE1VWXN5MTRpM1NybER2Yy1oRURvdjJxeWxQbWFaeXNHaGxscFV0UkJaVG10RnJib2JCczRXWVAyNmtHdTMxSndFeGNUTkdKXzNLdU93WTA?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-10T06:31+09:00"
-  },
-  {
-   "title": "南海トラフへ影響ほぼなし 気象庁 愛知・知多で震度５強",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40RzloQzVPZnFDODN4ZWthRmdwNXhRRFA0V0NrdjNuZE1jMjUxSjhidFIyUGVlZ1NvdHgyN2ZXQ19yZWhyOFFwcm5qeEZUU0VwVVBGbklkMzk1V3RzZElrYzJ1UQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-10T05:00+09:00"
   }
  ],
  "outage": [],
@@ -398,10 +398,28 @@
    "at": "2026-11-10T15:22+09:00"
   },
   {
-   "title": "戸籍等証明書の発行停止について（システム障害）",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dkJvUkpTempGS0o5eXk1eDRWZVl2UE4tbkhhQm5NaG1Nd1pjUDRhUFV0YVJrUkVZTFNTeTAwZUVUbk9NaF9DTXk5dDFPdw?oc=5",
-   "source": "www.daisen.jp",
-   "at": "2026-11-10T14:54+09:00"
+   "title": "総務省 サイトへの「接続制限策」を検討へ 相次ぐサイバー攻撃による個人情報流出を受け",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhYlZfNkNwYnBaLUVZcm1IRTRTUjB1d3B3RnpJbjNpdHJSby0xUDN4UzhVRl9vRzdMZlNqTnNuREtjNjNtcjZBRnhmY0dOZ3pROFdnQWNYbE9iOUxidEtTaHQ0NGRKQmxweXNGblZyaTh2SFJX?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-10T19:08+09:00"
+  },
+  {
+   "title": "【解説】サイバー攻撃防ぐ「ホワイトハッカー」とは？ 求められるのは能力に加え倫理観や正義感も…育成の難しさ（読売テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dkNncmJ4bGswU0lEWUlxYzRpZlBmbVYzWl9BM1hPNFJhdFFZZEFkeEV1T1Z6VFYyRXdWNHFDSGRYQ1l0aGxHV3NmQkRfMmRwOG9RRUJENkg4b0JuLVlodkZOdUwxZ0cyc2s0VXBydER4aGJkSnF2YlRZQ2U1LVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T19:02+09:00"
+  },
+  {
+   "title": "日本商工会議所のネット試験管理システムへ不正アクセスによるサイバー攻撃、最大 98万人個人情報漏洩の恐れ",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUE1rWmx6NXROVHVIeVVtX0wyMl9JTFFkdFljT0RFdF9jZVkzNndwamNMd2Q2UThQLVVBUjBTc01fdWlwOG92eHUwa3RlQ1lBYzIyTTgyY2NCR0swWE1QVFRtME15RTd6cVB3VlNxVnRRUVlPSlBlVEttSF9Za2VsTk9WblVVS1h4Mk5ZLUpjYmhQUTRBV3BNUWk4S2xqZw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-10T18:57+09:00"
+  },
+  {
+   "title": "ビックカメラ、法人向け問い合わせフォームから13万3,039件の個人情報漏洩-設定不備を狙う不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNejJyZERMeXdpa3ZXUDIzaGtkQUExY2tfbUEyQlU2R1BjU3pmVjNwQkNmdE1ZZ3dPa2p4X0hHbTk5QmgyNGMwaXUxMGhGX2NuSzBWRjZNM3FFZWt3Tjl6MVIxZzN6V2ZiMFlFanlaRlUwazZaZTlleUtqdnRabC1WTEo2NndnMmJNNG4za3ptcUNvaG9INUNLWTdQSTJoNkltNWRWbWlR?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-10T18:55+09:00"
   },
   {
    "title": "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント漏えいか 給与振込用の口座情報なども",
@@ -450,41 +468,23 @@
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xY3pBblVjbW16dFh5MlhTbDhyelBWZkRodW9UcHlRLUtkSF9kNThQbWFWU0l1b29zSEFOMldVSWxGajE0MHFKUnJIYkpSbkpMRU8zWXBjdkxBN0ExWmxMYU1B?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-10T17:38+09:00"
-  },
-  {
-   "title": "パピレス、「Renta!」の不正アクセスによるサービス一時停止に伴い売上高24億円、営業・経常益5億円減少する見込みと発表",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10SWY5UFpZdTZZa2poV3ZEZFZmNnJFTDRjUjVPRUZWd2RiNU9GNnI0dWRmZHVYdDFqZ3hQWU5vRkxrbE5m?oc=5",
-   "source": "gamebiz【ゲームビズ】",
-   "at": "2026-11-10T17:38+09:00"
-  },
-  {
-   "title": "ソフト99 公式オンラインショップに不正アクセス、13万6,968人の個人情報漏えいのおそれ 画像添付機能から不正ファイル",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0IzQ3hacjYyNU9YamFSaXdZanBNYnNadUFPQmsxR1F1T0xjbUFhSkJ2MWxNZkpyNTVMeGZxczFvMDc3M2FwbXVXN0IzTlFKclVkaHc2eF9VLUlHRDhxOVZJM3M4Vi1zS3lKT0l4aXdLaVZqd1R2Q0xKXzFjTWl1YXNRMlYzeHdOdFhlMGRRUXBSTlhCWnRNb0o2YkJpZjNCaWVxSlR4Q3k5UQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-10T17:30+09:00"
-  },
-  {
-   "title": "自民・平将明氏がアンソロピック幹部と非公開で面会、サイバー攻撃による情報漏えい対策で連携確認",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCeDFBQTlWX0hCWXpVUndpVDZXTHF1ZElqcHlqbTVsM1FzWjlqVFBET0VQMnJGZk1xOE9NamVKWWZIQzVBS3FKTC1uWVdIWE5TQ1JVc1FaajVkM1BycGVuRWtQYjc1dw?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-10T17:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
+   "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZTNjckRsQTlXNHZzSV8wU2RkdWEyNDFycm9FV0VQNUZodV9NbGdOQVpXdzExcDhRam51Mm1wLVN3WFNaYW5HVERlRDQ5TTJGbXBsb1p6cWVGTFJvQ05aUjNCRGNZbGgzYkxkRlRGYlM5SklEWkp1dUFYUkY4Q1pRM0JnX0hMeUN4YnZwV0k4Ym5rSHZfeFdxV1lXUGVsSklzRlVILVFuRWlSdTgyOVpGejEwTDBlLW82Qmw0S3dGeVY0alJMMXFybkF2MmNDRFA1N0w3TkFQcXhqLW5wVXJsamM5S0hrbHBLWXRSZ3g3SXpEdFdpMm1WNU5FS2FkR2p3dXNmVHlZQ2g1WHRJanQ1RjhvUDdNNzRXWV9MZ2w3SXhxYjlodndWOXNQNHlMZnlfenY1YlZRdXNMQmljZ096dFlrYS1nY3kySmtJQ3JPeTlaazk4VWphTGtINmlXNlJLRDcxSmtmODBtNjg2SVlad2kxaUdhellLaWk0WVJmY0VnVzhob0lsUjBpUFVHbVlKQ2pCdUdzTnU4UElHam93c1c4LUtSVUZQWlZ6X3h6ZzFZSk0?oc=5",
+   "source": "アラブニュース",
+   "at": "2026-11-10T19:05+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ロシア・ウクライナとの三者協議がトランプ大統領の「試金石」に カギ握るプーチン氏が描くシナリオとは 専門家が分析",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxWXlKWWFLY2RxVS1Kb3hEUjdOUzVMMGMtNjN6MlBuYlVlT0JweDZPZ0FfUDd1M2MyTzJ0OFgxdERONmlrMWNaVHFfc0VpeEZkbERNLVUzWQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-10T18:34+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
-   "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZTNjckRsQTlXNHZzSV8wU2RkdWEyNDFycm9FV0VQNUZodV9NbGdOQVpXdzExcDhRam51Mm1wLVN3WFNaYW5HVERlRDQ5TTJGbXBsb1p6cWVGTFJvQ05aUjNCRGNZbGgzYkxkRlRGYlM5SklEWkp1dUFYUkY4Q1pRM0JnX0hMeUN4YnZwV0k4Ym5rSHZfeFdxV1lXUGVsSklzRlVILVFuRWlSdTgyOVpGejEwTDBlLW82Qmw0S3dGeVY0alJMMXFybkF2MmNDRFA1N0w3TkFQcXhqLW5wVXJsamM5S0hrbHBLWXRSZ3g3SXpEdFdpMm1WNU5FS2FkR2p3dXNmVHlZQ2g1WHRJanQ1RjhvUDdNNzRXWV9MZ2w3SXhxYjlodndWOXNQNHlMZnlfenY1YlZRdXNMQmljZ096dFlrYS1nY3kySmtJQ3JPeTlaazk4VWphTGtINmlXNlJLRDcxSmtmODBtNjg2SVlad2kxaUdhellLaWk0WVJmY0VnVzhob0lsUjBpUFVHbVlKQ2pCdUdzTnU4UElHam93c1c4LUtSVUZQWlZ6X3h6ZzFZSk0?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-10T18:16+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "ロシアとウクライナ、米仲介の3カ国協議を再開 欧州含む安保を議論",
