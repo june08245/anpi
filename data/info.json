@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:45+09:00",
+ "updated": "2026-11-11T03:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "スターリンク制限、ウクライナ軍の迎撃能力弱める－ロシアの攻撃前に フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFRBdUlJYUpzUk10aGo1QkJPUElJOHJocm9CbzRpUzZadnRZZThRbzhiUmpIbXROdHZjZjEwT01oRGd3SzZFZVlOMXhUQ01IZGdmTW5yQm9Vc2ZwMVpHSnVEZkxUMnBiWVhzWmNIdVZLd2d6NkNtZ0wwQUJxRjBEWHJMRG5hbTg?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-11T01:24+09:00"
+    },
+    {
      "title": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Kdy1fa3psZmNiUThBY3pvR3BVNGVVc2FxOWtuU3JXM0lLQV85enp6X29BcFpkVElKdG5idTFvanpoWVYtU3EzVkJQRldqVzdWVHJPcWE3NW9ZbHBKVFpIQzEtWGxYN0FkWXp4dEpPY3ZHc0dyLU9jcXItbmxrRUk?oc=5",
      "source": "Yahoo!ニュース",
@@ -231,12 +237,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYWlka0toTk9CdmV1NGVySkpHZ0JNSFdFVnFQQzhOX252bHVKaVhHRXAwNUdXUlZJQmlOdG92WWNPU3VkSUpVQnZpYWxfaVQ2bGNKeE1abmpfQQ?oc=5",
      "source": "ニューズウィーク日本版",
      "at": "2026-11-11T00:56+09:00"
-    },
-    {
-     "title": "米とロシア、ウクライナが協議 戦闘終結後「安全の保証」焦点",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rc1lmemktMGIxdVdxbkpfSlF2M2x4NzBkVFlhd2kzS08yU3MwX1ExUHlCcFIwVlF5REk3eUtwcE15WWhRRW9kdFIxS3F5d2pqOU1ob3NYQXpIa1lZMHc?oc=5",
-     "source": "沖縄タイムス社",
-     "at": "2026-11-11T00:17+09:00"
     },
     {
      "title": "ロシア、ウクライナの電力網への攻撃強化―今冬の人道危機に懸念",
@@ -446,6 +446,12 @@
    "at": "2026-11-10T22:10+09:00"
   },
   {
+   "title": "冷蔵庫を不正操作 サイバー攻撃にイラン関与か",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GZjJjYktMT1RTbnp1bVppZVk3OGM0WlF2MEpRWFc3WGVKazMtSnJMWHJMOTdjU003c0dEZUZwQ1k3eGZzMHAzSW1JLXhoRlJPM04ybk1mcG9WWlh0ejdCVy1nWQ?oc=5",
+   "source": "テレ東BIZ",
+   "at": "2026-11-10T22:00+09:00"
+  },
+  {
    "title": "ドコモ不正アクセスで一部手続き停止、公式の未復旧リストに解約やMNPの文字はない",
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1mc2pRbW0tSGpQYldEa3ZzaUVVM1IxbjJ5VkJwZjJKelQxaGJQMXgyT0Q2UXRIMDBMcHFJaGFNZ0g1VTQ?oc=5",
    "source": "shiritomo",
@@ -462,12 +468,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bUQ5a1o5UlVTRXpDNG04QWtMaVVFQndna0xoNXZSMXJrWmVFN2ZHNFlhdjZUUldTZHc4WS1BUFlCbkRhNGZ3cVBFZzhuenRlaDJfSkQ2U25hY3o1RDhoRzRVSEc?oc=5",
    "source": "読売新聞",
    "at": "2026-11-10T21:25+09:00"
-  },
-  {
-   "title": "横浜市、施設予約システム利用団体のメールアドレス漏えい 不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FNGloVmNxZVJYU0h6WV9IaTFZbDBPd3ZtZ1VjblNGSG9EMENhcEZXZXgxaUx6d2ZvR0dJbG05anNVWDV6SV96d2ZfRWc0LW1JNG5oWW1QYU9aSnBZZHI5R3U2UXNQTHZQcFhhVw?oc=5",
-   "source": "カナロコ",
-   "at": "2026-11-10T21:20+09:00"
   }
  ],
  "osaka": [],
@@ -485,6 +485,13 @@
    "source": "アラブニュース",
    "at": "2026-11-11T02:13+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "スターリンク制限、ウクライナ軍の迎撃能力弱める－ロシアの攻撃前に フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFRBdUlJYUpzUk10aGo1QkJPUElJOHJocm9CbzRpUzZadnRZZThRbzhiUmpIbXROdHZjZjEwT01oRGd3SzZFZVlOMXhUQ01IZGdmTW5yQm9Vc2ZwMVpHSnVEZkxUMnBiWVhzWmNIdVZLd2d6NkNtZ0wwQUJxRjBEWHJMRG5hbTg?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-11T01:24+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋（ロイター）",
@@ -513,13 +520,6 @@
    "source": "조선일보",
    "at": "2026-11-11T00:41+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "米とロシア、ウクライナが協議 戦闘終結後「安全の保証」焦点",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rc1lmemktMGIxdVdxbkpfSlF2M2x4NzBkVFlhd2kzS08yU3MwX1ExUHlCcFIwVlF5REk3eUtwcE15WWhRRW9kdFIxS3F5d2pqOU1ob3NYQXpIa1lZMHc?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-11T00:17+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "“冷蔵庫サイバー攻撃”イラン・革命防衛隊の犯行か…フランス政府が断定 国際手配へ",
@@ -631,7 +631,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」3件",
     "中国・台湾：「大規模演習」1件",
-    "ロシア：「攻撃」2件",
+    "ロシア：「攻撃」3件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
@@ -648,10 +648,10 @@
      "at": "2026-11-10T11:56+09:00"
     },
     {
-     "title": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Kdy1fa3psZmNiUThBY3pvR3BVNGVVc2FxOWtuU3JXM0lLQV85enp6X29BcFpkVElKdG5idTFvanpoWVYtU3EzVkJQRldqVzdWVHJPcWE3NW9ZbHBKVFpIQzEtWGxYN0FkWXp4dEpPY3ZHc0dyLU9jcXItbmxrRUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-11T01:09+09:00"
+     "title": "スターリンク制限、ウクライナ軍の迎撃能力弱める－ロシアの攻撃前に フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFRBdUlJYUpzUk10aGo1QkJPUElJOHJocm9CbzRpUzZadnRZZThRbzhiUmpIbXROdHZjZjEwT01oRGd3SzZFZVlOMXhUQ01IZGdmTW5yQm9Vc2ZwMVpHSnVEZkxUMnBiWVhzWmNIdVZLd2d6NkNtZ0wwQUJxRjBEWHJMRG5hbTg?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-11T01:24+09:00"
     }
    ]
   }
