@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:45+09:00",
+ "updated": "2026-11-11T00:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア、ウクライナの電力網への攻撃強化―今冬の人道危機に懸念",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Yd0t2VnVKTDlCaEIyY2pEd2U1UklNWUlPSGxGb1ZwWk5DY0FWSTh0Z3g4SmJXb0dSS0NmblhCZGpKZjZ3QWtGT1Y1N0dwd1h6VkJWOUpmTVV2M0FXVGJUQzB1a9IBaEFVX3lxTFBmRlI0X1ZqdUJLSEZLa3VQR2FUVFpKM2Y1d05tbTE4SEtGN29KLTRyZU5CdklMTFhaWGRkSVpJcl9ocTVVcF9tRXFWZEVDbGN0RlpVSnJxS1NhMVVYZXRGUGVIaGYzVlZz?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-10T23:39+09:00"
+    },
+    {
      "title": "PASの元議員で78歳のオアズ・ナントイ氏は、ロシア軍に関する容疑でロシアで欠席裁判にかけられる",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaW9VcjBwQXJSX2NkUlZuOGVwRnFJWjFaQnFTc19mZWFfb2FoSjhvQ1didU81dmRsejBreTlYYTA2WlZXcjdXMDVpRGJhMXcxTVhrYzZUSXlUUWRKam9BLXBRcDkweXZwLXpNRXk0MTFQSVN6ZkNkX2JITGcxNGRiZlRBcEJLcFRuTG9tQXJhZC02YkZud2xNQmZ5QURxTlBwdzJyalltZGJrSlNOV3VlamxhQ3h2NDBvVlI0MWgydER4SWNTcHc?oc=5",
      "source": "Informat.ro",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RdnM3OWFnMDJmdUhXR3AzMHRrcFkxZU9XSTl6QTEwbDM5VmQxZDB4ejhEdTZhVm9yVl9LUHlRUDlYenFqb0lXODlhY1dWMEVKWVZXV1dRZnYxbVBEYTFrU3J4d1lrMHFjQ3hYbzU1N3ZTd0liQWNYaTlSTkxxLXc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-10T21:01+09:00"
-    },
-    {
-     "title": "米仲介のロシア･ウクライナ協議、アブダビで再開－停戦や安保が焦点",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EQlFxb1dtS3hZdllDdC1FQjgtdFdDLTlRbDVmbnhsaXpFcUtKeWs0Ymk2NjhtS0dwaDB6VWJoTUx2QnhvN0tVYzJ5Rk5VcExmdUdiVE5jQUFEWm1weWZucFJyMkoxSWRLd2xxSUpHUk5fdTNya3lB?oc=5",
-     "source": "Bloomberg.com",
-     "at": "2026-11-10T20:10+09:00"
     }
    ]
   },
@@ -473,6 +473,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "ロシア、ウクライナの電力網への攻撃強化―今冬の人道危機に懸念",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Yd0t2VnVKTDlCaEIyY2pEd2U1UklNWUlPSGxGb1ZwWk5DY0FWSTh0Z3g4SmJXb0dSS0NmblhCZGpKZjZ3QWtGT1Y1N0dwd1h6VkJWOUpmTVV2M0FXVGJUQzB1a9IBaEFVX3lxTFBmRlI0X1ZqdUJLSEZLa3VQR2FUVFpKM2Y1d05tbTE4SEtGN29KLTRyZU5CdklMTFhaWGRkSVpJcl9ocTVVcF9tRXFWZEVDbGN0RlpVSnJxS1NhMVVYZXRGUGVIaGYzVlZz?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-10T23:39+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシアのTurlaがルーマニア政府機関を攻撃、新マルウェアCerealでNATOとEUのメールを狙う",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd21IOGNVbkR5ZXNyYWJGb1RhSFhIYm9PSGdhMmZJTGc4NjFwMm91YWRwdjV0Xy1nWXcyZDBDVjNoZ0V4VXNhc2RPaXdLYkpCVlVRdFBfRFFQVk4zTFJxX1c1dUxfQnN5c2pMZERYcTZINmtHYnA3ME1JYWVValBxWWNOVlM?oc=5",
    "source": "Pasquale Pillitteri",
@@ -571,13 +578,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "米仲介のロシア･ウクライナ協議、アブダビで再開－停戦や安保が焦点",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EQlFxb1dtS3hZdllDdC1FQjgtdFdDLTlRbDVmbnhsaXpFcUtKeWs0Ymk2NjhtS0dwaDB6VWJoTUx2QnhvN0tVYzJ5Rk5VcExmdUdiVE5jQUFEWm1weWZucFJyMkoxSWRLd2xxSUpHUk5fdTNya3lB?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-10T20:10+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "アメリカ、イランとの紛争は軍事面でほぼ終結したとの見方",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXg4Yy13U3dtVmdRdmtvUGZSLWZTTGZLMzJ1REt2VFp3ZVI2Y2ZiM21BUGxYNnFEWTA5T1JrbTJfYk5aMktwY0Jld3FMakRHXzF5T3pXZ0tFWDFpLU1lRURkUmVSOWRhU2hyTHAzb25LbmZFTHlhMVo3UHdZVTJKd1FFNFpmaFBaSjAwQlg3QTZLYk05Y2JYR1NQTzRyWjdGU1VPczJKeGQ3aFR0WFRMbTZn?oc=5",
    "source": "VOV World",
@@ -630,7 +630,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」1件",
-    "ロシア：「攻撃」1件",
+    "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
@@ -641,10 +641,10 @@
      "at": "2026-11-10T21:27+09:00"
     },
     {
-     "title": "「夜空が真っ赤に染まった」…ウクライナのドローンがロシアの巨大製油所を攻撃、激しく炎上する現場を捉えた映像",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RdnM3OWFnMDJmdUhXR3AzMHRrcFkxZU9XSTl6QTEwbDM5VmQxZDB4ejhEdTZhVm9yVl9LUHlRUDlYenFqb0lXODlhY1dWMEVKWVZXV1dRZnYxbVBEYTFrU3J4d1lrMHFjQ3hYbzU1N3ZTd0liQWNYaTlSTkxxLXc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-10T21:01+09:00"
+     "title": "ロシア、ウクライナの電力網への攻撃強化―今冬の人道危機に懸念",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Yd0t2VnVKTDlCaEIyY2pEd2U1UklNWUlPSGxGb1ZwWk5DY0FWSTh0Z3g4SmJXb0dSS0NmblhCZGpKZjZ3QWtGT1Y1N0dwd1h6VkJWOUpmTVV2M0FXVGJUQzB1a9IBaEFVX3lxTFBmRlI0X1ZqdUJLSEZLa3VQR2FUVFpKM2Y1d05tbTE4SEtGN29KLTRyZU5CdklMTFhaWGRkSVpJcl9ocTVVcF9tRXFWZEVDbGN0RlpVSnJxS1NhMVVYZXRGUGVIaGYzVlZz?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-10T23:39+09:00"
     },
     {
      "title": "ロシアのTurlaがルーマニア政府機関を攻撃、新マルウェアCerealでNATOとEUのメールを狙う",
