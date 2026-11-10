@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:00+09:00",
+ "updated": "2026-11-11T07:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米軍がイランへの陸上輸送ルート遮断へ 特別部隊「アイアンゲート」新設で包囲網強化",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tay1RU3VNaFdhT2FFUmhJLVVwVjdOMFF5cGpkN1RhMFQzT3E0MnVzbWtZdUR4UmRoOGZLby16UE1UTHR1a0M1WUVndFNyalZ1aE9z?oc=5",
+     "source": "東京報道新聞",
+     "at": "2026-11-11T07:11+09:00"
+    },
+    {
      "title": "イラン、本格交渉入り否定 「核合意に固執」と米批判",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kem1aTEozT213QndaTmJjNmJVcTNDWmktR2VhcGJsNGtOdlQ5cHNIQzBLSE1ZXzJkLXJOZFg0Y1V6YlFXTEhoNWFIRVR6RnZBYUJHcFJzY1R3dDdKVEFSakNYMjdHaHhkeDFIalpHalY?oc=5",
      "source": "Excite エキサイト",
@@ -117,12 +123,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LQzNRQTdHVXVxX19jaU5WZ3E4aXZBYnNSZFhtNTJIejEtME1MbE1SeEEzQnFYVGREQkVSVW01Z0lCUHRESEl1cnZtUTlDelJUVUZweXB4MmhlMW9BNDk5c0ZIQWNkTVk?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-11T05:30+09:00"
-    },
-    {
-     "title": "［スキャナー］米外交路線 継続を強調…Ｇ７、ルビオ氏 イラン攻撃成果 国連・ＩＣＣ問題視",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwX3E3V0JFMUc4TjROaWJERXJMNW5MSktKX2syUmRhajNsLTRMLWk2b29jdGZuNkVNY1Y4R2hqTEZUVTZQVEd1bUNYalBQbjQyWDV0MWtZSWhUZmdYOC01TEhR?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-11T05:00+09:00"
     },
     {
      "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
@@ -398,6 +398,24 @@
    "at": "2026-11-10T20:12+09:00"
   },
   {
+   "title": "ニトリ、外部からの不正アクセスで最大3762万件が流出した可能性",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdVc4MDhIaTZBa1hReVFNUjhYOVlEeHJtNUhHLW9TOS1lQldLaUJyb1psSlhCT1FrLW9xeGV5cmlUQkhVR0U3NGZJQUJMcXFHMkNlMVhPTldNSzdDbTkzUlpkUHFqT2VvM3VhSVp3Y2hZVXBpN2dJRmQ5a1RabHNiRFJhWDlXZk10d2ItOEhwSlFsMWtwYW5MbllRdE12RS05S0RCWmk0Nk5HNE4wWHl0ZVNTRGg5QWF3eGlNUUdmREt5TkR3LVJ6Wkk4bzYxVE40aXJwUFBCb1JWZDZIWk9ldnR0ekpEazM0UVRtd0RPQXhlQnpWUUp0MXNnb3VScWtfSHlnU9IBtAFBVV95cUxQSFNpd2FfQnlyYjlVOVg1a1JESVNuU09vUW9RMnR2WkVfYlRhUUU0dFJZQlh1TDl0OUN3azExUUx3RkRxd0N6bWdCV3hDR1BqLWs3SUxpR0JCUE1jUFc0YmlkNUduYVhxUlZCY0JaNk5GMzN1NWVUZElRY1lWQU1KRVN2U19vVEtuMUlwUm1pYVVrbkNLV0ZKSG1zS3FJcERuNDVmMW4tVGxnQno4M1h6STZmVjE?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-11T07:14+09:00"
+  },
+  {
+   "title": "サイバー攻撃による漏洩被害 10月時点で前年通算件数超える",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80b3h4MTI0V2xzY0dHUy1VWVY3VGd3RU43czZDX3Q2VUxZakxaSWVheV9pb2VyUktLSF9qb2stT19WRnZFRGw0TnQ1dUU0dnJaWXNTdW9GZlBqTzFIcm5KejlzTHBXV3FFN3Q0ZldYa3hYUQ?oc=5",
+   "source": "日経クロステック",
+   "at": "2026-11-11T07:00+09:00"
+  },
+  {
+   "title": "タイ国際航空、顧客情報流出の可能性　予約システム委託先が不正アクセス被害",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FOXByaWJ4dzR2QmctTUdiTEJndkFZZEZTYWsxVUotQzFab1J3QXVwVkRfdFR1QUVoVWFMajJLNy13eG9DRVVORjA3elhta3JQbHBLR2ZsSVJER1ZMek5TVkZBbjMxOEZr0gFuQVVfeXFMTVY2a2NkVFJSSEFXSnZzTEs3SjlBN2RwdXBlelBta2Zxdmx4MGczWmVBVnNpQVVzZTNIR3Z0X3ZBZ0dsbEdlR1RvNVZlTDFlbFc4WEtKejlxOU91a193MzVZNF9qNWxueFYwRzlqamc?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-11T07:00+09:00"
+  },
+  {
    "title": "ソニー2Q過去最高益も 「プレステ」サービス、サイバー攻撃の懸念にCFOは何を語ったか（ITmedia ビジネスオンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TbHZHRnNkWXNSZUpMWlRpdUgxdnRMQUdWMmhfR25hdVdsVHRhNEE2RVc4M2owN0xlMmF5cDZNYVY2bXZvVHdWVGNoOHgwdXA2SDZzTTNPZlJBal9RWHhCWVdPQzN5RWRwa01qbmticVIwbmdER3FyR3dMYXB3VUU?oc=5",
    "source": "Yahoo!ニュース",
@@ -450,28 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RT2UtdllxSnp2dzhOY1NhZXhncTV2LUF4UHJQSi0zVUFDSC1TX1FZNERkbmsxck1fMGlOSnh1alpPeXZDV0M0SmpSa1FGS19JcDNsU0g3MXFKUHVvLUZVZVpiUWN3VXBMajYxSA?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-11T05:00+09:00"
-  },
-  {
-   "title": "政府 ブロッキング議論へ サイバー攻撃 二次被害抑止",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RRklmUldLM1lVY05uUHdibnVJSFFfT1JvVEVhR3dNN0Fxd2xGdC1NLTQtTWJSVW5FOURxaFpHVnlkR0FocnBQS01nM09LUVh0VDd1c0NxVDVGRktqdXc?oc=5",
-   "source": "福井新聞社",
-   "at": "2026-11-11T05:00+09:00"
-  },
-  {
-   "title": "政府「接続強制遮断」議論へ サイバー攻撃、二次被害抑止 「通信の秘密」侵害恐れ",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PeFNYZXBLWTRYUWV2cXM5NmRUVlhkdFVJd0JaQ0ZoZkNUaExpSVprUVpib3pjeXd1a2RfeldtNDlmSWdBYXJwM0pja2JBcFNpbnR2QThKMkxoSEFLalBSMV9n?oc=5",
-   "source": "琉球新報デジタル",
-   "at": "2026-11-11T05:00+09:00"
-  },
-  {
-   "title": "冷蔵庫サイバー攻撃 革命防衛隊が実行 仏外相、「侵害行為」と非難",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fT05fWHhvQm5YUTFiV0NUZjAyQjRzZG1RRG90YjY2d3A2M3RCalZjbUEyWExZYmhCaWpsWjlEYXMwWUxWdTJFRlBmcDRnUVhtaFJiZ1BzX3FiZ3NrcGlCcFE5aw?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-11T05:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米軍がイランへの陸上輸送ルート遮断へ 特別部隊「アイアンゲート」新設で包囲網強化",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tay1RU3VNaFdhT2FFUmhJLVVwVjdOMFF5cGpkN1RhMFQzT3E0MnVzbWtZdUR4UmRoOGZLby16UE1UTHR1a0M1WUVndFNyalZ1aE9z?oc=5",
+   "source": "東京報道新聞",
+   "at": "2026-11-11T07:11+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "アメリカ・ウクライナ・ロシアが9カ月ぶり和平協議 ゼレンスキー大統領「建設的で実りあった」 協議は2日目へ",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04MlQ4cTlyNFhYWEdwdDlWWjRmemJtY1VzT3V1U0N0YnZ0WmZWeGJmeko5R19rSXhod1JSZ2VnVVI3QTdqbEZYcmpaMkUzVFZqQjNXQm91eHgwV0FudE84OGJyOHJ2RTJPVnZmUTZn?oc=5",
@@ -526,13 +533,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LQzNRQTdHVXVxX19jaU5WZ3E4aXZBYnNSZFhtNTJIejEtME1MbE1SeEEzQnFYVGREQkVSVW01Z0lCUHRESEl1cnZtUTlDelJUVUZweXB4MmhlMW9BNDk5c0ZIQWNkTVk?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-11T05:30+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "［スキャナー］米外交路線 継続を強調…Ｇ７、ルビオ氏 イラン攻撃成果 国連・ＩＣＣ問題視",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwX3E3V0JFMUc4TjROaWJERXJMNW5MSktKX2syUmRhajNsLTRMLWk2b29jdGZuNkVNY1Y4R2hqTEZUVTZQVEd1bUNYalBQbjQyWDV0MWtZSWhUZmdYOC01TEhR?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-11T05:00+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -629,7 +629,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」2件",
+    "イラン・アメリカ：「攻撃」1件",
     "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
