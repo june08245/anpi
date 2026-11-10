@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:30+09:00",
+ "updated": "2026-11-10T19:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,12 +179,6 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "北朝鮮、国連事務総長がソウルとの緊張緩和に向けた対話を呼びかけたことを受け、アントニオ・グテーレスを偏見があると非難",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0dDUzlxYXNzTlJ2ZFZJMUdyaGppT2tZbnFDeVNvV2cxOTh4X09rcHNENThyb0xLczV3SW1pa25tRHBaRC01SVJkMDFTNlZpWV9jcFlHb1VhMDF0dUpjbnUwQ2l2ZFJWcjNkVHQ0ZzJNXzVnZVNFTVhoZ1VES0VXLV9HTHFLeEJnN2wwVURqQVFoMjhLbWxqWHEwbW1hY2x1T3JFRThOT3lLdw?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-10T18:01+09:00"
-    },
-    {
      "title": "北朝鮮が日本海で新型魚雷の発射実験を実施",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaXRYdTlhNkc4bTlZMVRxblpfSXJyYXN1UzFnREdTRF9VeWJWQWVmLXB3U3AzZnYydm5XRHczVUpRbFJQRXN2c25EX1VsRnlYN1lORDRUenRoTnp0dG5F?oc=5",
      "source": "NHKニュース",
@@ -213,6 +207,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU3VYenhKaEpxNWVIT2Jhdi1wY1FJLTlXbjQycFFjM3JkMUs5NTNpZHRvM0VBcXhySF9rOTJQSFBMRUliT2xLVVRTR3hOcWo2SURTMjdPUXJobmhvbEVSQTRlbVN4ZWd0SERtNDFHVWhCZmswRW5HWXRkVzV0U0E?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-10T14:24+09:00"
+    },
+    {
+     "title": "北朝鮮、日本海で新型高速魚雷を試験発射…2027年初めから海軍に配備へ",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQdIBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-10T14:21+09:00"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ウクライナ和平へ3カ国協議再開 アメリカ・ロシア・ウクライナが約9カ月ぶりに会談 ドネツク州めぐる隔たり埋まるか",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFZ24yQVVlUnNQTU42Q2R5b2UtLU9CQ3ByZFBhYjRTZ1pPYkhuQ0tvc2JDT2k1VDMtVTFZUXpCTk00QmQxZTlhLTNyY3laRFRFakQwMzBvc09hZzNLV1dDMjY4dHRxbDlHYWFHN0hn?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-10T19:41+09:00"
+    },
     {
      "title": "アメリカ・ロシア・ウクライナ 3か国の高官協議始まる",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1saFlGdnRUbmRhM0o0T21PWXUtT3lvVFA1ZV9GeU8wNlZtMlNTZ1F0S2p1Y0VmMmppZ2toMS1Nb0dWRkdpUk5vMU0xYjJMSEliMHc2YWN2OUw3TU5Ublg4?oc=5",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ST2N3TlRqOWJmWHB1R25GZ1FvbGQ2b1BpMzFob3MzTUFabVRRZW1BeE04R2pYWFcxSzc3ajYxcDJlV0tGbElTakM1M0owTzNjaHExNDFSZjVkRHRfVHdnZGtnUWtjaFhOS2E2SA?oc=5",
      "source": "日本経済新聞",
      "at": "2026-11-10T18:02+09:00"
-    },
-    {
-     "title": "ロシアと米国、ウクライナがアブダビで協議開始＝ＲＩＡ",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42U2ttN3A2RTVHMnRPLWxtRE5wNW1TY3h2QnNMRk12eWdFMzYwR1duSHROQW1XV3plWkRGNU1oYndLQWU2TlNyVg?oc=5",
-     "source": "みんかぶ FX/為替",
-     "at": "2026-11-10T17:17+09:00"
     }
    ]
   },
@@ -303,10 +303,10 @@
  ],
  "nankai": [
   {
-   "title": "愛知で最大震度5強 店舗ガラス破損など被害受けガラス張りの複合施設で職員が緊急点検 南海トラフ地震への備え見直し 愛知･安城市 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lYlo3cDNBWm1iNzlnTkhqMWE3cVA0ZXl6QVZVMG05akdSMUNqYlhRcmthOFFQTnB0NE9xSDNfOVZVMWYyOURnSGVkSTFFT3BLVzd1NWM1My1EUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-10T18:57+09:00"
+   "title": "愛知で最大震度5強 店舗ガラス破損など被害受けガラス張りの複合施設で職員が緊急点検 南海トラフ地震への備え見直し 愛知･安城市（CBCテレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BamFYSzBjN29aQlJhUzBQMm9wVkRRcFBFNlN0WkxIbzVhTUlxRmVDcjc2VE5pazFfYUxERk85Wk5oZDRKUEJqY0U5OWpNcDZiNHhpMlE3UXowUXdrXzBQU2k0VzlfdXlPVWxIV3Naek5qSnBDNXpZS1BjeEgtUzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T18:59+09:00"
   },
   {
    "title": "「南海トラフ地震の発生可能性は高まっていない」 浜松市で震度５弱の地震で気象庁の評価検討会（静岡朝日テレビ）",
@@ -386,6 +386,24 @@
    "at": "2026-11-10T17:30+09:00"
   },
   {
+   "title": "不正アクセス被害が相次ぐなか 専門家「使わないアカウントの整理や二段階認証を」企業も対策学ぶ（福島テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00RFNKS2dDQ1RsbS0zQzNrRThxdWpzZnNocnJVc3pRX1BqS2h4cU1tcXdIbVY4UFpiTnZ4VGdScG51Tm5xelI5ZDU2dk53WUoyMXl0QklzUEREWnRodno0YS1ORzMyRXh2eFBfMWZxSW9kOWUzMVMwNDhjcUpUejg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T19:33+09:00"
+  },
+  {
+   "title": "「シェアフル」に不正アクセス、個人情報最大750万件流出の可能性。給与振込用口座や緊急連絡先含む（INTERNET Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93YnI1NGIySi0zeWlCd3pLTldLYXJ1cjZVZ3NpNXIzcmdnSUdlWUpybWg4aW5BclQ0bDl4R1oxcURLNnFVWWg3QWlNYW8xT3paQUJYaDhyQ3U4ZVJjT1ZkV2tQalFfVWtrODhrVjRKWVU4RWRVQmFYNWlfX0RkSDA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T19:31+09:00"
+  },
+  {
+   "title": "福山市のふるさと納税ポータルサイト　不正アクセスされるも　個人情報漏洩は確認されず　広島",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IeGpmZFNGQkprTm5FanRZZjFYMHoxRTlzc1k3cy1CN3FXS0ZCQjJTaFJXbloxOXMwaEwxVGI5SWVMQ0JCOHp5NHFNYnJvZ01WSVU4aVFfRXRLZzREUVpnRjN4RDdTVVJ0RVdPYdIBckFVX3lxTE1JQ3Z3OWt3WmtnVGFOVEkwNmhzV2hvb3YxYncwcE02OTc3VW5ZaElTN0psV1dLaTRzOW9kLW9jdFlBV3FlakFuWDJzdWRoT210Tjc2ckFhUVl4Z21VRFcwZkJDWFE0Ylhfc1JOODJwcnNCZw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-10T19:24+09:00"
+  },
+  {
    "title": "交通情報サービス不正アクセス受け 他システムも点検 札幌市",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lYlBxRlh5RDA5YnFuRnY4dG5DWE1Gb2owbXlQNHotYWh2SlVBQUdIQmNBN05BYmlfOWxWNmlsWmVHVHU0b2N2TGQ3Vmc5YTQ5TWtaYmxTNjVKR254ejVJ?oc=5",
    "source": "NHKニュース",
@@ -450,28 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2E0dmdqbDNoUXJ6RGNSQnZmTllPNUJ0anJDXy0xdW9iRVJMQWcwTGtISWtydVhsRlp6Vl8tY3BoMGRaS1BnMDdRSWdrLVVYcUwwZUtkRC1UMXFCdm5ydDB1YTRYVHg2UHJRV0FvNFRBQklGZ2U0cTNQeE5md1U1bFljTXNYV0k?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-10T18:12+09:00"
-  },
-  {
-   "title": "パピレス、27年3月期業績予想を下方修正 上期の売上未達と不正アクセスの影響で営業損失1億4700万円と赤字を見込む",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE41UEhTaXRndDNYSFQyci1HWFNFTTdaOVJPdXpzLTl3UkljcTlmcWo4UjE5ZmM3NmJfMFl0UUJDVktkUkQz?oc=5",
-   "source": "gamebiz【ゲームビズ】",
-   "at": "2026-11-10T18:07+09:00"
-  },
-  {
-   "title": "【 相次ぐサイバー攻撃 】ＧＭＯが能動的サイバー防御を要請 国、企業、個人はどう備えるか？(財界オンライン)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUp2dVZBRE1YMW0xWVV0X0J4andLRnVUb3liaTl4MFNKeUhBSWNZdnFtZXNteGFqM1U5eER3ZDJpRF9SaTduYXBtZC0weWpmRmxmNWdiSHNXYW82MW5sQkM3QVpmUzhOdFhPZ3g2WnZxOUhOVW1SaVFYU2VFRHhaYl9zZ2NEeEU?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-10T17:39+09:00"
-  },
-  {
-   "title": "タイ中央銀、サイバー攻撃への監視強化",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xY3pBblVjbW16dFh5MlhTbDhyelBWZkRodW9UcHlRLUtkSF9kNThQbWFWU0l1b29zSEFOMldVSWxGajE0MHFKUnJIYkpSbkpMRU8zWXBjdkxBN0ExWmxMYU1B?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-10T17:38+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ウクライナ和平へ3カ国協議再開 アメリカ・ロシア・ウクライナが約9カ月ぶりに会談 ドネツク州めぐる隔たり埋まるか",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFZ24yQVVlUnNQTU42Q2R5b2UtLU9CQ3ByZFBhYjRTZ1pPYkhuQ0tvc2JDT2k1VDMtVTFZUXpCTk00QmQxZTlhLTNyY3laRFRFakQwMzBvc09hZzNLV1dDMjY4dHRxbDlHYWFHN0hn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-10T19:41+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "アメリカ・ロシア・ウクライナ 3か国の高官協議始まる",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1saFlGdnRUbmRhM0o0T21PWXUtT3lvVFA1ZV9GeU8wNlZtMlNTZ1F0S2p1Y0VmMmppZ2toMS1Nb0dWRkdpUk5vMU0xYjJMSEliMHc2YWN2OUw3TU5Ublg4?oc=5",
@@ -515,25 +522,11 @@
    "topic": "ロシア"
   },
   {
-   "title": "北朝鮮、国連事務総長がソウルとの緊張緩和に向けた対話を呼びかけたことを受け、アントニオ・グテーレスを偏見があると非難",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0dDUzlxYXNzTlJ2ZFZJMUdyaGppT2tZbnFDeVNvV2cxOTh4X09rcHNENThyb0xLczV3SW1pa25tRHBaRC01SVJkMDFTNlZpWV9jcFlHb1VhMDF0dUpjbnUwQ2l2ZFJWcjNkVHQ0ZzJNXzVnZVNFTVhoZ1VES0VXLV9HTHFLeEJnN2wwVURqQVFoMjhLbWxqWHEwbW1hY2x1T3JFRThOT3lLdw?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-10T18:01+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "航空会社や報道機関に相次いだ爆破予告 欧州当局、ロシア関与の可能性調査 | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPWGg3RHNfTHZsbUtaaXlmaDNpblZ2NUdrX0c2YWt6OWktWVItNmQ5VFJocUJOQ2p3SG5tRmNkbmFNcWFsV2h6OGRuOUQtVUhWUW54Q1BicV9ici01VnM3ZU82eU02aHJiQU8yV0hwRzhmd0xEbXlDNVh6Mm4zcG1fZ1VFdkpVa1ZMMVhvZG14bGZqNmhuTV9mLUdWRkxMRzB1TDE0VG4xdnNGbkQ0Umd2M1BUMFV6UkhhVTdCNG4tRXVnWW1lQlJYWm9sYzFrVjBzZDE0c2pzWUdhejNac0J0MkZGVGVRRFVUanNIVkZWQlAydlNYUmJoc1BIdmV6VlZhYllDZkpLZUwxWGhmODMyNGNRTDlKdERUS1NrUDJyamdSN2MtTFE5ZmtjREZsdVV0LTBwQnVULVF0dVo1UjJZTXNYOHBHZ0hNSGFEQlVYUnA0SmZRUXhXUWZaNGRfaGdVbTEybEZsLUpFZVF2djB3S0l2Z1RTZXZMZ0ZEem9kVzJ1MGtrcEJ4dVM5d1RpdEd5dmQ4ODN1aGplS0MxLU5BRzh1QV9TUHBLdS1kdDF5MnVROWZXUC1meXI0OGNfOFBFOGl5bnp6SkR3UGZJZTY3RGhOYmZ4MkNZREJaMkp3azRzTUxfNU1UQU44dWtuREVMamdyeTRUb2lBNUljWV9aSWx4bw?oc=5",
    "source": "SmartNews",
    "at": "2026-11-10T17:54+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ロシアと米国、ウクライナがアブダビで協議開始＝ＲＩＡ",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42U2ttN3A2RTVHMnRPLWxtRE5wNW1TY3h2QnNMRk12eWdFMzYwR1duSHROQW1XV3plWkRGNU1oYndLQWU2TlNyVg?oc=5",
-   "source": "みんかぶ FX/為替",
-   "at": "2026-11-10T17:17+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "【図解】台湾政府ネットワークに1日280万回の侵入試行 病院・電力も狙うサイバー攻撃の実態 | 魏甫丞（ガイ・フシン） | ニュース",
@@ -611,6 +604,13 @@
    "source": "公益財団法人 国家基本問題研究所",
    "at": "2026-11-10T14:30+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "トランプ大統領「イラン再攻撃は必要ない」戦闘終結に期待示す",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXBHWTh3YnNNbVdvT2hkMTJQcVptUnd6MG9wQWlzc0p3WHFJTmU2ODduYUxFLWpDZlZFdW5wNktSRkRMTE5qVkJNNW13U2JtUUpDX3NwaXU1TExmMk9fMGJVb3hIYkNJc3hRTjR3?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-10T14:24+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
