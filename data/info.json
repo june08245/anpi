@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:30+09:00",
+ "updated": "2026-11-10T15:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-10T15:36:00+09:00",
+   "place": "房総半島南方沖",
+   "mag": "4.5",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-10T14:20:00+09:00",
    "place": "茨城県沖",
@@ -74,16 +84,6 @@
    "mag": "4.5",
    "maxi": "3",
    "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-09T03:15:00+09:00",
-   "place": "茨城県北部",
-   "mag": "3.5",
-   "maxi": "2",
-   "maxiRank": 2,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -155,12 +155,6 @@
      "at": "2026-11-10T11:56+09:00"
     },
     {
-     "title": "日ベトナム首脳会談 中国念頭に連携強化で一致",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RYTVBWERkY3U5d0pIb3F2TTRBcnVWR1VDQUFzQlgwYTFyRXVGTlpIWXYwb25Nc3FTWGZtVkM5VFQtR2ZJWUNvd1gtSl81WlFtMEx4aHlSbkNrSE5BNEZEMGkxQUszY1RsZmJ3bW13?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-10T10:44+09:00"
-    },
-    {
      "title": "習近平の狙いは｢日本への威圧｣だけではない…5年で61回も対馬海峡を通過する中国海軍の\"もう一つの目的\"",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUl4bWZWb3h0N3RCY2s1b21wNHBwdFJhSHNoWk9OVVpfS0M0d2NCMVNjenBSQTFsRk1kWGlMZWdROF9HQklnOUktRjJ5NnNKYTY1VEtqZF9UaUlTdUdaaFM0VVY1N0ZBenB6S2lxd01mN3pYdjFwbXNpYl9TX1k2X2txM3ZEVWs?oc=5",
      "source": "Yahoo!ファイナンス",
@@ -171,6 +165,12 @@
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTVXMUtlb2YtNklEUUZPZ1NSR2NfWFZfaXAwZTh6TndTRzNCdUpQTE9lUmNkYUVLUVhJWlZzOVIyRWdERzZON293Y2ZDRXBTdFROaWl3OXpaVWMySmNQZHM0ZFFDX0kwU1dKYl9fc3pscDNGQXpsMUlMbkNKaS1qWHB0ZGI?oc=5",
      "source": "Reuters",
      "at": "2026-11-10T08:03+09:00"
+    },
+    {
+     "title": "日ベトナム首脳会談 中国念頭に連携強化で一致 - 最新の政治ニュース【随時更新】 (ニュース) | 無料動画・見逃し配信を見るなら",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFE4RzRkUDF2NXpyUW5reG5CaDdCZEdoR3JoX19sZGNSNkNnOG5iSUtId2VxNkZMZnZPaXZLVVhZdVp4V05DeUtvcFdLNFNWREhndFlnMUlmWTVJQ0ZySTg1ckF0ekN3VmxpTUsxcWh4akhMbmZfRXR0S1k5ZC0zRTl5OUI3VXAzdGNpVFdtYnhoX2ptclRoeHFGY1hnd1haQWJnRmVHUF9VandrRXhHaEJCenk?oc=5",
+     "source": "ABEMA",
+     "at": "2026-11-10T06:42+09:00"
     }
    ]
   },
@@ -178,6 +178,18 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "金正恩氏の秘密兵器「北朝鮮ハッカー軍団」、その素顔とは 腕利きには平壌のアパートや親と過ごす時間などの「特典」も",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sd3ZOeVM3bXo5NEhDM1ZMLVpfdTI2TkxfdzlMTy1zTE56WHRRRTVEWU1oX2RxM3FMUjJ0UXdLeDdMMnBEZXFkSUExNXZZellGV3l5ajJfU2NyUFFCX0drSjdVdVBkUGFtRG1KTk5aOFFFd0dORUs5N2Izc29Ic1E?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T15:39+09:00"
+    },
+    {
+     "title": "北朝鮮、新型高速魚雷の試験実施…海軍力強化の中でNLL無力化への懸念も（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLRGJFaTI0aFUyWndFVFJ6RUw0T2QyQWl2M3NWVDZCRHFzNHE0bW1TeUl5WWZ4dW9uMW94MVg1bzBnQ2FQOV9hU1RyRDZoQjhRWkNucDFqMUNQdjRQU0lnc0ZPMXU0WXA1SXp6RkhQQUp6Mi1DaVZOZlRBanluRkU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T15:33+09:00"
+    },
     {
      "title": "北朝鮮が朝米首脳会談の条件として核保有国の地位認定を要求しているが、中間選挙以後に政治的立場が狭くなったドナルド·トランプ米大統領がこれを受け入れることは事実上不可能だという米外交·安保専門家たちの展..",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJOXlVdGR5ZFdJU1pidmNISWRnTXlDcjZ3SkdFUlUxT0VFMUVRakY0RVhDbWRtc0t1RlVQaXJRRTNYWmpzbE9UNG9aU19UM0E?oc=5",
@@ -192,7 +204,7 @@
     },
     {
      "title": "北朝鮮、日本海で新型高速魚雷を試験発射…2027年初めから海軍に配備へ",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qX2NiYkE5eWF4VTBpeExFZnZGbXYxTUJXbW1meUtPSVJvc1NUMGd1b1hfZmIxN09xTnV2d0V1SzlWc1NSY21KYUVFTV85dm1NZmpTOFM0elE0XzltTnZ4eFh3RDBaNy1EQVJVYmNtc2U0d9IBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQdIBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-10T14:21+09:00"
     },
@@ -201,18 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hbmFkSy1MbHAyWHVQa1FhN0taa1hfN1F3dm1XbzFCajVrOTNIYXhvRkYyRW1PN0hZcnJpQzMxSDIydldfMnEyZ1kxT2tsMFRKYVRKM3ltZmtUeXNyeWlyOU04d2VTcmd4ak9Odm1ZRHV4TjhMVE5PM2lR?oc=5",
      "source": "テレ朝NEWS",
      "at": "2026-11-10T10:35+09:00"
-    },
-    {
-     "title": "北朝鮮、日本海で新型高速魚雷の試験実施 27年から海軍に配備（毎日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tVlpvczlHOVRpXzFqUnYxcHpHQmpoMnhLbGVTbDNCZkZvM3E0cU5ncXBDSy1LSlh1ZEJsM1F1Um9xeUl1TldhS0diZDJCTzRvaGV5ZE5VQm01R3FMWGtUSU4yQzNwNDZGeWM4dkZrLXJmY1VXZm84RjhwVnpveWs?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-10T10:31+09:00"
-    },
-    {
-     "title": "北朝鮮が新型魚雷システムの発射試験を実施 海軍に配備へ（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sN2JZdW4zMk9uZU1WZlNiSDZZay16Yy1oTVdsVkw5SzVWQjNzdXVhTGJLMTlXaTZvYmRLVlZrdXhQOEtDdUt5bzZIXzFYS2pGQnMyWjVnTFZmYzcxdE80a0FZbXBnYlVjUEhJZTNQYUE1V1FEaHBqQ08tWVp1NFk?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-10T10:31+09:00"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月10日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HZ0ZkTGxZRGtJOUZBd3o2R19NcGN0R2E4WFJSMGlVVVFPZEJLV1JKd3BLeHc2ejhZRk5CLXdBeTVKQTRwX0tRcnFic0FjNDlNNmEwMmU5NDBoZWFXMkhJ?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-10T15:38+09:00"
+    },
     {
      "title": "ウクライナは「最悪の冬」に陥るのか ロシア軍はエネルギー施設への攻撃を継続",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZzA3N251WXlkSUFpejMwYXB2QTlVdU5HUkVWR25MNVliRmxoSGpMNmZ6TFZvMUp0a3NnS0g2U3k1VnNDOVFSU1pENkwxbldxYWhWWmV4TklUUQ?oc=5",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hSjAyZ21zLTZvdnRIejZtMkdpcUkyRU8yNUhPN0xYTjBJa0pTTmhFSmxwdlctY2FqSkxyUkw5Ny1MYXNvYk1seVVkNkM5eW5zVkhFVWhlNHU1cFF5bHN1d0NpX3UySy1W?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-10T10:15+09:00"
-    },
-    {
-     "title": "ロシア国防省は、先週の戦線全体でのウクライナ軍の人員損失を発表しました。",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTVGZUh2WUFlZXBXZDVRelpNWnVEbk1tWC1zS1ptUkkzWGhUMVMxeGNzOFZjWmhxM0lyWlFNVmxSYkphYkt4S3R2T3owS1F0dnJGa3dOU09rSXkzSEJiZ0VaZzBfSWZWN0dYbF9qZ2xPWWpoNnVYOEdiWGMyWS1PbDNVaWNPVXZxbTFFbFJCYVFGWGR1ZTB2NExMQllLQWNMZkNkdWNsaXZHWGRCOUY5dzBBMkFWOE1kNmExeWlqRkhhYVpS?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-10T08:30+09:00"
     }
    ]
   },
@@ -309,7 +309,7 @@
    "at": "2026-11-10T14:26+09:00"
   },
   {
-   "title": "浜松市で震度５弱を観測した地震で南海トラフ地震の発生可能性は高まっていないとの見解 気象庁の南海トラフ地震に関する評価検討会（静岡朝日テレビ）",
+   "title": "「南海トラフ地震の発生可能性は高まっていない」 浜松市で震度５弱の地震で気象庁の評価検討会（静岡朝日テレビ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aTDdRUFMtSVlNVDZUVmxtUFh1NUl3WGFLeFhaRGItWWcyd2xTOW01dHJMeVVuSl96UEYtTUZqOVNGamxpeTdvcmtjTGJQX25PNGxyT3dXY1A2cFBWWkNLLUFpXzdHSWdreFprd210ZjdnMXFBVWJDUm9ocWd2V0U?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-10T11:54+09:00"
@@ -341,6 +341,12 @@
  ],
  "outage": [],
  "japan": [
+  {
+   "title": "弾道ミサイル飛来想定で小学生などが避難訓練 山形 米沢",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wSTZiQmQxOFJfRlA3WWFWaGNaSmR6cVM3RGdqOXdQV1lXVnFyZ25kWHhYZjY3Yy1Ra2NKa0R0Q0lDWlRtN2NyUnBVNExpeEJWM1dFbHJzWS1BbTgzZ1dN?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-10T15:34+09:00"
+  },
   {
    "title": "Jアラート全国一斉情報伝達試験の実施（令和8年11月11日）",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHBkdUdzVGttUFlweEpoU3ZBZ2JrUGp5amYtVTJRcG9pR2swYl81M1J5VC1NUzhEbHpmVjNSNHpmSm9lZnNsdWg0cFBTNWxiU3RvZEdwVGk5Sl9lZS0tRVZROW1CYzhKZ1hGR0dyTTY0MW1jNlU3QTR3Q2c4Rmd4eGFObG0wWjQ?oc=5",
@@ -380,10 +386,28 @@
    "at": "2026-11-10T15:22+09:00"
   },
   {
-   "title": "マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システムで通信異常か",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YamxEdDBJVEU1OWJRdVVmYnN0aUpScTZrX3JUM3pNTC1PY1JYSjIxVThjd3VWcDl5SUdxMEd5Sk9KV3NOS1hqZ1M4elFiaVc2cE1MN1EwNHNYQU9XMWN0ZDZFamR3VGxnbWlvTWpoQVB4VFctc0Ew0gF8QVVfeXFMT25MNjlMRXl1WmFUc3l2R2FYZWlHeDBKMVA4VlZNblBqSVVyZXhONTBpS1ZPVUZ0bV9PLUk0NkQ2dTJaYUU0dGdGdnJyeVMwUWxhRlFXLVNqeDFLTF93ZkdaZzQyZWYwUE0wRjYzdDN6RG1YWVNaVzRDeGZIRw?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-10T14:35+09:00"
+   "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcElmVkR4MVZrUlFhRldBLVdQdnZ6SThmbWxRMVVEcjVwSFotdXpwWXFWYlFkMHl0akt6d3NnblFVYU9WVEpxMFRtUjE1MHhTWlJuaFNyczRuSzl3bHZSUERIck9wTFAxZFE?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-10T14:29+09:00"
+  },
+  {
+   "title": "【重要】弊社利用の一部システム提供元における不正アクセス事案について",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wMnpqMlJBWVRWdkxwYURiNzY1SG15QjBQTUh3X01nV0h2bXQ0MXU5OTJ6ckRKLWowWlBRN25BbDBvek1LN01sTWNVN2FIRi1GaWk4?oc=5",
+   "source": "千葉ジェッツ",
+   "at": "2026-11-10T15:37+09:00"
+  },
+  {
+   "title": "タイ国際航空、予約情報約6万件に不正アクセス、パスポート番号なども影響の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxX0pwaVNQTUNlemVfRFdmdUhYY3VOcmdvMTh4Wnpwd0NBSkhCQ29TaEk3S2MwWTZVYnhiY3FWUVRYMzRqZHJwM1FPbk5qbXlidW9lcA?oc=5",
+   "source": "タイランドハイパーリンクス",
+   "at": "2026-11-10T15:35+09:00"
+  },
+  {
+   "title": "国家サイバー統括室、個人情報の漏えいなどにつながる不正アクセスへの対策を呼びかけ（ネットショップ担当者フォーラム）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mLTZiVVZKbnI4bUUyOWZEa3pFcHpQdnlRNHVFaHVWOWVqd3MxYkduNllvVkx4cXlBNVEzeUloY1dEcEp4N2VCd1F3M09wTHpLWmFIZVpmUENVY3F3YVlkNVVLbkRfNzZjV3NJa09KSVR2ZXdvdU5YdUQ5bER0U0E?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T15:31+09:00"
   },
   {
    "title": "不正アクセスに伴う情報漏えいの可能性と一部サービスの停止",
@@ -392,9 +416,9 @@
    "at": "2026-11-10T15:11+09:00"
   },
   {
-   "title": "住友生命の健康サービスで約8万人の個人情報漏えい NTTデータの受託システムに不正アクセス（アスキー）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HdVJucEtzdEtKb1BUSXpkTXdaQ3pnMnZlS3Z1Y1JWcjNVd2IyWU1ROEJQRWRjWmhnZjFBSFhlY2wzMGhFVDRuSDVWdjkzMlFiZk4xc3NJVmZGOXJLWVViSS1WTlZ1QUs3N1pId3dTVndBSC13a2lheEVmWUdpVzA?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "住友生命の健康サービスで約8万人の個人情報漏えい NTTデータの受託システムに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94czIwRHhDU1UxbzRtcjFZU0lIV3VMbXAwcUpvTUFlUTJET2FmSWNnMkxXX2ZwaVgyaS03cWFGajNwVWd3YVdCeW9WRkJQanVyNThOaF9SbEZGTWdNU2c?oc=5",
+   "source": "週刊アスキー",
    "at": "2026-11-10T15:05+09:00"
   },
   {
@@ -404,9 +428,9 @@
    "at": "2026-11-10T15:00+09:00"
   },
   {
-   "title": "SecurityScorecard、AIの性能とサイバー攻撃への耐性を検証する世界で初めての「サードパーティリスク管理ベンチマーク」を発表",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TWUJ1X0Ywa3ozbEhGTlN2LWlwU3VjSm53OC1hc25abkhUaGI3M3I1RmZ4djRWV3FZSUVSWW1VWWRLS2JqUFZQOTZWcldjRkhhOHdyZmg1M1M0XzkzMGc?oc=5",
-   "source": "沖縄タイムス社",
+   "title": "SecurityScorecard、AIの性能とサイバー攻撃への耐性を検証する世界で初めての「サードパーティリスク管理ベンチマーク」を発表 | SecurityScorecard株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9QSmdHdWtZcERwRUloYTcxdlphX2d1RHhMS2lPVDVCTGp6UURBWEhsNEZJZW10Z3RYdVM5Mkp2bExWcms?oc=5",
+   "source": "Digital PR Platform",
    "at": "2026-11-10T14:47+09:00"
   },
   {
@@ -444,28 +468,31 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOczlTWXVKX3l5NHFJbnV3NzdZTnBJdDcxVlRqN2FSM25jdnpDWjE0WlVyS2VpMVA0UE5RdU9EVjlFQ3FDTm5MdzhXa3pjNU0yYmJQZFpRdzJ0dnhmWURZMDJqWG9OMkQ3WV82T241SkllLWVfUlZZdmFrNV9hUzZmT2htTXBMYlplZUkyTGw5VC1SVlVkbGF0Nzd4TFZWVVBZLVFRMnZPNUtjOXVXUjZtYmRB?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-10T14:17+09:00"
-  },
-  {
-   "title": "Google Chromeにサイバー攻撃 悪用確認のゼロデイ 脆弱性、CVE-2026-125350を修正 Chrome 157で計9件に対応",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZV9raGlvQ214NE51ZEFZLTNTaVJIVkRsc2h1V01XS2YxZkZqWl9TZlI5U2JFM2tSeUVWSWhoRWFjU2tza1FBd2Jsc2w2aHJiM2JuM0F1clI0a1lUa3I0aEFaOU0yMmtaUHgxcWUtaW12WUcwckhQX25qdnE0R0pua282cm5SQzhYSjdHeVhQdEhfSVF5Z09hd0tPVnh0X3g0dkFoV1pJTHhHdw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-10T14:13+09:00"
-  },
-  {
-   "title": "キリンＨＤ傘下３社、業務委託先に不正アクセス…キャンペーン参加者の個人情報など１９５０件が漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRjJOT3BPeXhRQjFLNWppM2lKUkFnVVg4LXZMNjF5WDZ6UlVXVk9aSDZURjJkZFlGUElobFdQRm5RNk85OHg0aktPTTdNLVJaRUo5U09aU2g1T1F5czRQaU40SVQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-10T14:03+09:00"
-  },
-  {
-   "title": "イージートラベル、69万人超の個人情報流出 不正アクセスで／台湾（中央社フォーカス台湾）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xTm5XTGJudmM0ZlRtaHR3S2d3YTRPWFl5SXUtSEFxUFN6T1hmZ1VwbW9TLU84TlN0a3hXNEZMLXprNzdLalBtSkhQVDFQcV9VSGo4T2xlQjlUNTA5dHo1MFNSSXRtREtOdURwcUJZcE5Xb1ZOcVhXNFdpZG1NbUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T13:54+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "金正恩氏の秘密兵器「北朝鮮ハッカー軍団」、その素顔とは 腕利きには平壌のアパートや親と過ごす時間などの「特典」も",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sd3ZOeVM3bXo5NEhDM1ZMLVpfdTI2TkxfdzlMTy1zTE56WHRRRTVEWU1oX2RxM3FMUjJ0UXdLeDdMMnBEZXFkSUExNXZZellGV3l5ajJfU2NyUFFCX0drSjdVdVBkUGFtRG1KTk5aOFFFd0dORUs5N2Izc29Ic1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T15:39+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月10日の動き）",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HZ0ZkTGxZRGtJOUZBd3o2R19NcGN0R2E4WFJSMGlVVVFPZEJLV1JKd3BLeHc2ejhZRk5CLXdBeTVKQTRwX0tRcnFic0FjNDlNNmEwMmU5NDBoZWFXMkhJ?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-10T15:38+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "北朝鮮、新型高速魚雷の試験実施…海軍力強化の中でNLL無力化への懸念も（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLRGJFaTI0aFUyWndFVFJ6RUw0T2QyQWl2M3NWVDZCRHFzNHE0bW1TeUl5WWZ4dW9uMW94MVg1bzBnQ2FQOV9hU1RyRDZoQjhRWkNucDFqMUNQdjRQU0lnc0ZPMXU0WXA1SXp6RkhQQUp6Mi1DaVZOZlRBanluRkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T15:33+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "米軍機、英基地からまた退避 イランの脅威で＝報道（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZLUtsYmkyeEJpSkJKZGp2QnBXWlZZMzd3ZEQ3MkFnd21WSHNaNTJKLWJwODVwOTFDbWwta28tVjZ2cDZJbHRtbF9CemxqS19oX3ViaW1fRE8tb05QRGpIWjlJeV82VnNmNEhIZS1OZU5kRmFzdTdFUXdxMElJaGs?oc=5",
@@ -503,7 +530,7 @@
   },
   {
    "title": "北朝鮮、日本海で新型高速魚雷を試験発射…2027年初めから海軍に配備へ",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qX2NiYkE5eWF4VTBpeExFZnZGbXYxTUJXbW1meUtPSVJvc1NUMGd1b1hfZmIxN09xTnV2d0V1SzlWc1NSY21KYUVFTV85dm1NZmpTOFM0elE0XzltTnZ4eFh3RDBaNy1EQVJVYmNtc2U0d9IBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQdIBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
    "source": "AFPBB News",
    "at": "2026-11-10T14:21+09:00",
    "topic": "北朝鮮"
@@ -579,39 +606,18 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "日ベトナム首脳会談 中国念頭に連携強化で一致",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RYTVBWERkY3U5d0pIb3F2TTRBcnVWR1VDQUFzQlgwYTFyRXVGTlpIWXYwb25Nc3FTWGZtVkM5VFQtR2ZJWUNvd1gtSl81WlFtMEx4aHlSbkNrSE5BNEZEMGkxQUszY1RsZmJ3bW13?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-10T10:44+09:00",
-   "topic": "中国・台湾"
-  },
-  {
    "title": "フランス社会の不安定化が目的か サイバー攻撃「破壊工作」と非難",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82ZW5KQ2lMMWtDVk1MbDhSWkJVYlVrdlRSaWI0MjRPbkZhSWVrdVJKX3dSMWN6d2lFVjZPaklrOXdIYnhTSEFzRi1Zd3FyYVdINkNfS1FKcE9KSW9HTFhWcFU3LUtIR3ZSSWpr?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-10T10:37+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "北朝鮮 新型魚雷システムの発射試験を実施 海軍に配備へ",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hbmFkSy1MbHAyWHVQa1FhN0taa1hfN1F3dm1XbzFCajVrOTNIYXhvRkYyRW1PN0hZcnJpQzMxSDIydldfMnEyZ1kxT2tsMFRKYVRKM3ltZmtUeXNyeWlyOU04d2VTcmd4ak9Odm1ZRHV4TjhMVE5PM2lR?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-10T10:35+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-10T10:34+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システム」"
+    "「マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システム」"
    ]
   },
   "japan": {
@@ -625,7 +631,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」3件",
     "中国・台湾：「大規模演習」1件",
-    "ロシア：「攻撃」「侵攻」4件",
+    "ロシア：「攻撃」「侵攻」5件",
     "欧州・NATO：「攻撃」「破壊工作」2件"
    ],
    "items": [
@@ -642,10 +648,10 @@
      "at": "2026-11-10T11:56+09:00"
     },
     {
-     "title": "ウクライナは「最悪の冬」に陥るのか ロシア軍はエネルギー施設への攻撃を継続",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZzA3N251WXlkSUFpejMwYXB2QTlVdU5HUkVWR25MNVliRmxoSGpMNmZ6TFZvMUp0a3NnS0g2U3k1VnNDOVFSU1pENkwxbldxYWhWWmV4TklUUQ?oc=5",
-     "source": "Forbes JAPAN",
-     "at": "2026-11-10T11:30+09:00"
+     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月10日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HZ0ZkTGxZRGtJOUZBd3o2R19NcGN0R2E4WFJSMGlVVVFPZEJLV1JKd3BLeHc2ejhZRk5CLXdBeTVKQTRwX0tRcnFic0FjNDlNNmEwMmU5NDBoZWFXMkhJ?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-10T15:38+09:00"
     }
    ]
   }
