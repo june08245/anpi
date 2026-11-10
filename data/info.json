@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:15+09:00",
+ "updated": "2026-11-10T22:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-10T22:23:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-10T16:53:00+09:00",
    "place": "愛媛県南予",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-09T14:01:00+09:00",
-   "place": "茨城県沖",
-   "mag": "4.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -143,7 +143,7 @@
      "at": "2026-11-10T20:33+09:00"
     },
     {
-     "title": "台湾国防部「中国軍が西太平洋に空母など展開し演習」と非難 | NHKニュース | 中国・台湾、台湾、中国",
+     "title": "台湾国防部「中国軍が西太平洋に空母など展開し演習」と非難",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQ1BRSXRvXzJQZE1OZlduTmh5VXVaWU5ZcnpROHEzQXpEdVk4eFZjaUpmRVJZWkgwQmVXYTBHR1ZBbUhLa3RUVWhMOEw5VHhDenhPRDRmbTZFRi1QWExJ?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-10T16:24+09:00"
@@ -221,6 +221,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "鳴り響く空襲警報、増加する民間人犠牲者－ロシア本土も戦争が日常化",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjRvQkhXazBIOEJFa3lCdnR0V25OMlJXXzFrcEdsT2h0aUROV3R5WXlGNUI2b2RaTU50VHhVV3otcHFXajV1SzhiOWZVZDNrTnhuOE1VT2o0bDFuRXpyX0ZPaFk2NzNaSUN2RzNQLVVNc1docGFyMG96MVprVncwTUZyeFBWeXZBWV96a0JR?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-10T22:17+09:00"
+    },
+    {
+     "title": "ロシアとウクライナ、米仲介で協議再開 クシュナー氏「相違縮まった」",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjNBSDFVU0lsSFotR1NJWTgzdVE4LUN0X2JxMjRXcm9NWDd5S0ZuWGpuMGY4eWxmTjFOMGtJYkdDUkxTT00tV1NUNERpeUdTYjJOU0plVTNGcDZLdkZvc1YwSjR2dURNYlZPMXBxVUo3TmJ6NlBJYWRQU05kUS1vSFVCTWpVUQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-10T22:02+09:00"
+    },
+    {
      "title": "ウクライナ和平協議関与を要求 欧州、ロシア姿勢に疑念",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CZTFaOV8ydE12TUZxSUhGSXQtNWlWdGs2SWY1dzhqUHNvcWs3ZFViWUpFeGZXQnJYU1laRVhtUGNpelFtUU13dW9yWHpnZUVPSWh3LV81d25PeGUxa3JvbVptbw?oc=5",
      "source": "時事ドットコム",
@@ -234,27 +246,15 @@
     },
     {
      "title": "米仲介のロシア･ウクライナ協議、アブダビで再開－停戦や安保が焦点",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmpZb2xhQ0RLTXZwRWlhZExpenhyNUxzMHpPbUpIRmxfTWJDNVFlcDBBS05JWkh6a3JhaXk1ZlpSZ284dVpuemtrb2RIVVl5al9aZi1WOWtLOXJIam5iTmRVM1hiVHNMVG41TEJUb3cwR1NGcXdMRXJBdHV2OWx3bHNtWm9KNTBqRnVpYkpn?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EQlFxb1dtS3hZdllDdC1FQjgtdFdDLTlRbDVmbnhsaXpFcUtKeWs0Ymk2NjhtS0dwaDB6VWJoTUx2QnhvN0tVYzJ5Rk5VcExmdUdiVE5jQUFEWm1weWZucFJyMkoxSWRLd2xxSUpHUk5fdTNya3lB?oc=5",
      "source": "Bloomberg.com",
      "at": "2026-11-10T20:10+09:00"
-    },
-    {
-     "title": "ロシアとウクライナ、米仲介で協議再開 相違縮まったとクシュナー氏",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjNBSDFVU0lsSFotR1NJWTgzdVE4LUN0X2JxMjRXcm9NWDd5S0ZuWGpuMGY4eWxmTjFOMGtJYkdDUkxTT00tV1NUNERpeUdTYjJOU0plVTNGcDZLdkZvc1YwSjR2dURNYlZPMXBxVUo3TmJ6NlBJYWRQU05kUS1vSFVCTWpVUQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-10T19:45+09:00"
     },
     {
      "title": "ウクライナ和平へ3カ国協議再開 アメリカ・ロシア・ウクライナが約9カ月ぶりに会談 ドネツク州めぐる隔たり埋まるか",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWJxMUExODRhMzJienZOeGJYdWRDRVpJN2t1ZTYtak8wUktDaVBWdFMyNHhMbjNsN1V2RmNQQTFIWlhaSDgzUnhYWHhxUQ?oc=5",
      "source": "FNNプライムオンライン",
      "at": "2026-11-10T19:38+09:00"
-    },
-    {
-     "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-10T19:21+09:00"
     }
    ]
   },
@@ -269,10 +269,22 @@
      "at": "2026-11-10T21:24+09:00"
     },
     {
+     "title": "ポーランドは、ロシア情報機関のためにスパイ活動と破壊工作を行った疑いのあるウクライナ人2人を逮捕した。",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnZNU2E2dk1BeWpOR0hpVlg1NTlJNzJBNVFzWVM2eFg3eTBmUWR1SHpRN3hUVEFMSnlhamdJYm9zZk1TNTVVQXl4SWs4azZ4akVjUzQ0bmx5RnhhOEJVdmVZVmlvSEZpYzYyYTVPZjlkbGsyOTl6clBpMkFKZHZnSGtwd2lZZElqdG1Nc3puTVBQVzgzWlp0S1RyQmZOd1MwV2NkOGdmNnBRcjR2bmstNm93Sy1JUQ?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-10T20:15+09:00"
+    },
+    {
      "title": "航空会社や報道機関に相次いだ爆破予告 欧州当局、ロシア関与の可能性調査 | スマートニュース",
      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPWGg3RHNfTHZsbUtaaXlmaDNpblZ2NUdrX0c2YWt6OWktWVItNmQ5VFJocUJOQ2p3SG5tRmNkbmFNcWFsV2h6OGRuOUQtVUhWUW54Q1BicV9ici01VnM3ZU82eU02aHJiQU8yV0hwRzhmd0xEbXlDNVh6Mm4zcG1fZ1VFdkpVa1ZMMVhvZG14bGZqNmhuTV9mLUdWRkxMRzB1TDE0VG4xdnNGbkQ0Umd2M1BUMFV6UkhhVTdCNG4tRXVnWW1lQlJYWm9sYzFrVjBzZDE0c2pzWUdhejNac0J0MkZGVGVRRFVUanNIVkZWQlAydlNYUmJoc1BIdmV6VlZhYllDZkpLZUwxWGhmODMyNGNRTDlKdERUS1NrUDJyamdSN2MtTFE5ZmtjREZsdVV0LTBwQnVULVF0dVo1UjJZTXNYOHBHZ0hNSGFEQlVYUnA0SmZRUXhXUWZaNGRfaGdVbTEybEZsLUpFZVF2djB3S0l2Z1RTZXZMZ0ZEem9kVzJ1MGtrcEJ4dVM5d1RpdEd5dmQ4ODN1aGplS0MxLU5BRzh1QV9TUHBLdS1kdDF5MnVROWZXUC1meXI0OGNfOFBFOGl5bnp6SkR3UGZJZTY3RGhOYmZ4MkNZREJaMkp3azRzTUxfNU1UQU44dWtuREVMamdyeTRUb2lBNUljWV9aSWx4bw?oc=5",
      "source": "SmartNews",
      "at": "2026-11-10T17:54+09:00"
+    },
+    {
+     "title": "フランス、スーパーの冷蔵庫へのサイバー攻撃でイランを非難",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UmRjbjk3bGlhbl9PNW1lUjZ5eU12dC1felI5aHRQSlNFbWZncGZVQ2V3VWdDRnZ3czFzU0VSUWxRYVZRRkxyQnF0czI3X0dpQzR0Z0ZlOGJ0aEtMaWZGY9IBZkFVX3lxTFBBU3NnWmw4bklQd3pnTzRBdmtpQmRnaXc5MUpIVHFFODh1YXlhTUJ0Tzh0bnpBbkJMdFh3QVIzdzVLNlJ3dkplY3dGVENoZ3V6UFVxVWtKQnduVTB0dWNwcDJkWExUQQ?oc=5",
+     "source": "BBC",
+     "at": "2026-11-10T11:10+09:00"
     },
     {
      "title": "ロシアの影ちらつく「素人ハッカー」の破壊工作－欧州の水道も火葬場も、狙われる日常",
@@ -285,29 +297,11 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41dkYxenFJNmJKVjBUV1hlZHZOcEhRRDdwdTd3dm1FNVFDTHFQRmIycW5GT2V2MjBHVk12WjVnNzJiSno3NVZTN2l3dEdVOWVfMVhjYWlaY1RHUQ?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-10T10:37+09:00"
-    },
-    {
-     "title": "ウクライナ戦争「もう一つの戦場」、スロバキアを巡るロシアとEUの攻防",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UUpCTHE2ZmJ5X1JBak42V3E3cmF4VTlTVENoTWFheFE4U0JIUTFmMC1CbklDSFNJem4yc3ZpZG9GbE50ajJmdXFFZENBMVNoYkJnM093?oc=5",
-     "source": "JBpress",
-     "at": "2026-11-10T06:00+09:00"
-    },
-    {
-     "title": "フランス、イランの革命防衛隊によるスーパー700店の冷凍設備へのサイバー攻撃を非難、EU制裁を要請",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ydVh2ZVZ4eHRKVl8wbVdIbVBUSVRIZ3NwMGVFc0x4OUQ0ZzZJN0xDZjdCSzdhZXdGc0VHNHBKUl9QYjZndXBUMERpeWZIdGlsX1ZiT1dzMHcxS0paZDVfRVFiWWViRzVJWGRRS3R5b0xjS2tJ?oc=5",
-     "source": "BigGo ファイナンス",
-     "at": "2026-11-10T04:35+09:00"
     }
    ]
   }
  ],
  "nankai": [
-  {
-   "title": "SBSラジオの防災番組が日本民間放送連盟賞「優秀」を受賞! 南海トラフ地震臨時情報の対応を検証（静岡放送（SBS））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJa05PUHR3Y0JEODF5Q3kwMzNWRlpGSmNnQTZfM3ZfbWJQZjNjWmdFTWNEYWRITUFzU3U5cXV2NkpjWm95bzh2RXlmTDlNengyQlpVSnZ5WWlDZ3FORXpUS3ZteWhkVnM1V3lnTWJPNi1NVEoyMFd0NjFmdWlkYmc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T19:47+09:00"
-  },
   {
    "title": "愛知で最大震度5強 店舗ガラス破損など被害受けガラス張りの複合施設で職員が緊急点検 南海トラフ地震への備え見直し 愛知･安城市（CBCテレビ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BamFYSzBjN29aQlJhUzBQMm9wVkRRcFBFNlN0WkxIbzVhTUlxRmVDcjc2VE5pazFfYUxERk85Wk5oZDRKUEJqY0U5OWpNcDZiNHhpMlE3UXowUXdrXzBQU2k0VzlfdXlPVWxIV3Naek5qSnBDNXpZS1BjeEgtUzg?oc=5",
@@ -337,6 +331,12 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44UmhkYWNiUkdBVk1OZUJRLUtpVUo4V0VNUzJ4XzZESU5iYVYtbGxXc09iMEdsY19YN3l4R0ZGOGtadFR2Wl85QkJZdGc4QQ?oc=5",
    "source": "静岡新聞DIGITAL",
    "at": "2026-11-10T07:49+09:00"
+  },
+  {
+   "title": "南海トラフ地震に直接影響の可能性低く…愛知での約30年ぶり“震度5強”に専門家「『大丈夫だ』ではなく早めの備えを」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KVEN2cWZJN01sWVIxX3FoempxTl9TUVhnN1NpZ0ZudWxuRk1NemgwWE1VWXN5MTRpM1NybER2Yy1oRURvdjJxeWxQbWFaeXNHaGxscFV0UkJaVG10RnJib2JCczRXWVAyNmtHdTMxSndFeGNUTkdKXzNLdU93WTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T06:31+09:00"
   }
  ],
  "outage": [],
@@ -473,11 +473,25 @@
  "osaka": [],
  "world": [
   {
+   "title": "鳴り響く空襲警報、増加する民間人犠牲者－ロシア本土も戦争が日常化",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjRvQkhXazBIOEJFa3lCdnR0V25OMlJXXzFrcEdsT2h0aUROV3R5WXlGNUI2b2RaTU50VHhVV3otcHFXajV1SzhiOWZVZDNrTnhuOE1VT2o0bDFuRXpyX0ZPaFk2NzNaSUN2RzNQLVVNc1docGFyMG96MVprVncwTUZyeFBWeXZBWV96a0JR?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-10T22:17+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
    "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
    "source": "アラブニュース",
    "at": "2026-11-10T22:09+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシアとウクライナ、米仲介で協議再開 クシュナー氏「相違縮まった」",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjNBSDFVU0lsSFotR1NJWTgzdVE4LUN0X2JxMjRXcm9NWDd5S0ZuWGpuMGY4eWxmTjFOMGtJYkdDUkxTT00tV1NUNERpeUdTYjJOU0plVTNGcDZLdkZvc1YwSjR2dURNYlZPMXBxVUo3TmJ6NlBJYWRQU05kUS1vSFVCTWpVUQ?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-10T22:02+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "ウクライナ和平協議関与を要求 欧州、ロシア姿勢に疑念",
@@ -536,17 +550,17 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "米仲介のロシア･ウクライナ協議、アブダビで再開－停戦や安保が焦点",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmpZb2xhQ0RLTXZwRWlhZExpenhyNUxzMHpPbUpIRmxfTWJDNVFlcDBBS05JWkh6a3JhaXk1ZlpSZ284dVpuemtrb2RIVVl5al9aZi1WOWtLOXJIam5iTmRVM1hiVHNMVG41TEJUb3cwR1NGcXdMRXJBdHV2OWx3bHNtWm9KNTBqRnVpYkpn?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-10T20:10+09:00",
-   "topic": "ロシア"
+   "title": "ポーランドは、ロシア情報機関のためにスパイ活動と破壊工作を行った疑いのあるウクライナ人2人を逮捕した。",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnZNU2E2dk1BeWpOR0hpVlg1NTlJNzJBNVFzWVM2eFg3eTBmUWR1SHpRN3hUVEFMSnlhamdJYm9zZk1TNTVVQXl4SWs4azZ4akVjUzQ0bmx5RnhhOEJVdmVZVmlvSEZpYzYyYTVPZjlkbGsyOTl6clBpMkFKZHZnSGtwd2lZZElqdG1Nc3puTVBQVzgzWlp0S1RyQmZOd1MwV2NkOGdmNnBRcjR2bmstNm93Sy1JUQ?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-10T20:15+09:00",
+   "topic": "欧州・NATO"
   },
   {
-   "title": "ロシアとウクライナ、米仲介で協議再開 相違縮まったとクシュナー氏",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjNBSDFVU0lsSFotR1NJWTgzdVE4LUN0X2JxMjRXcm9NWDd5S0ZuWGpuMGY4eWxmTjFOMGtJYkdDUkxTT00tV1NUNERpeUdTYjJOU0plVTNGcDZLdkZvc1YwSjR2dURNYlZPMXBxVUo3TmJ6NlBJYWRQU05kUS1vSFVCTWpVUQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-10T19:45+09:00",
+   "title": "米仲介のロシア･ウクライナ協議、アブダビで再開－停戦や安保が焦点",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EQlFxb1dtS3hZdllDdC1FQjgtdFdDLTlRbDVmbnhsaXpFcUtKeWs0Ymk2NjhtS0dwaDB6VWJoTUx2QnhvN0tVYzJ5Rk5VcExmdUdiVE5jQUFEWm1weWZucFJyMkoxSWRLd2xxSUpHUk5fdTNya3lB?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-10T20:10+09:00",
    "topic": "ロシア"
   },
   {
@@ -554,13 +568,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWJxMUExODRhMzJienZOeGJYdWRDRVpJN2t1ZTYtak8wUktDaVBWdFMyNHhMbjNsN1V2RmNQQTFIWlhaSDgzUnhYWHhxUQ?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-10T19:38+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-10T19:21+09:00",
    "topic": "ロシア"
   },
   {
@@ -578,7 +585,7 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "台湾国防部「中国軍が西太平洋に空母など展開し演習」と非難 | NHKニュース | 中国・台湾、台湾、中国",
+   "title": "台湾国防部「中国軍が西太平洋に空母など展開し演習」と非難",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQ1BRSXRvXzJQZE1OZlduTmh5VXVaWU5ZcnpROHEzQXpEdVk4eFZjaUpmRVJZWkgwQmVXYTBHR1ZBbUhLa3RUVWhMOEw5VHhDenhPRDRmbTZFRi1QWExJ?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-10T16:24+09:00",
@@ -604,13 +611,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-10T15:34+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "北朝鮮、新型高速魚雷の試験実施…海軍力強化の中でNLL無力化への懸念も（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLRGJFaTI0aFUyWndFVFJ6RUw0T2QyQWl2M3NWVDZCRHFzNHE0bW1TeUl5WWZ4dW9uMW94MVg1bzBnQ2FQOV9hU1RyRDZoQjhRWkNucDFqMUNQdjRQU0lnc0ZPMXU0WXA1SXp6RkhQQUp6Mi1DaVZOZlRBanluRkU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T15:33+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -631,8 +631,8 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「大規模演習」1件",
-    "ロシア：「攻撃」「侵攻」2件",
-    "欧州・NATO：「攻撃」「爆破予告」4件"
+    "ロシア：「攻撃」1件",
+    "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
     {
