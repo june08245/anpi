@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:00+09:00",
+ "updated": "2026-11-10T21:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -101,12 +101,6 @@
      "at": "2026-11-10T20:45+09:00"
     },
     {
-     "title": "アメリカ、イランとの紛争は軍事面でほぼ終結したとの見方",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXg4Yy13U3dtVmdRdmtvUGZSLWZTTGZLMzJ1REt2VFp3ZVI2Y2ZiM21BUGxYNnFEWTA5T1JrbTJfYk5aMktwY0Jld3FMakRHXzF5T3pXZ0tFWDFpLU1lRURkUmVSOWRhU2hyTHAzb25LbmZFTHlhMVo3UHdZVTJKd1FFNFpmaFBaSjAwQlg3QTZLYk05Y2JYR1NQTzRyWjdGU1VPczJKeGQ3aFR0WFRMbTZn?oc=5",
-     "source": "VOV World",
-     "at": "2026-11-10T19:20+09:00"
-    },
-    {
      "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZTNjckRsQTlXNHZzSV8wU2RkdWEyNDFycm9FV0VQNUZodV9NbGdOQVpXdzExcDhRam51Mm1wLVN3WFNaYW5HVERlRDQ5TTJGbXBsb1p6cWVGTFJvQ05aUjNCRGNZbGgzYkxkRlRGYlM5SklEWkp1dUFYUkY4Q1pRM0JnX0hMeUN4YnZwV0k4Ym5rSHZfeFdxV1lXUGVsSklzRlVILVFuRWlSdTgyOVpGejEwTDBlLW82Qmw0S3dGeVY0alJMMXFybkF2MmNDRFA1N0w3TkFQcXhqLW5wVXJsamM5S0hrbHBLWXRSZ3g3SXpEdFdpMm1WNU5FS2FkR2p3dXNmVHlZQ2g1WHRJanQ1RjhvUDdNNzRXWV9MZ2w3SXhxYjlodndWOXNQNHlMZnlfenY1YlZRdXNMQmljZ096dFlrYS1nY3kySmtJQ3JPeTlaazk4VWphTGtINmlXNlJLRDcxSmtmODBtNjg2SVlad2kxaUdhellLaWk0WVJmY0VnVzhob0lsUjBpUFVHbVlKQ2pCdUdzTnU4UElHam93c1c4LUtSVUZQWlZ6X3h6ZzFZSk0?oc=5",
      "source": "アラブニュース",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXBHWTh3YnNNbVdvT2hkMTJQcVptUnd6MG9wQWlzc0p3WHFJTmU2ODduYUxFLWpDZlZFdW5wNktSRkRMTE5qVkJNNW13U2JtUUpDX3NwaXU1TExmMk9fMGJVb3hIYkNJc3hRTjR3?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-10T14:24+09:00"
+    },
+    {
+     "title": "イランへの再攻撃「必要ない」 トランプ氏、中間選挙大敗で慎重に？",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ob0o4QnhDcVlGYXBzeW5ZR0JWcmo2TTBFQ181NDZoRmh2VzdsZ3JWa2sxTlc2MTNRN3RrLU9LRHdjUFE1Umd4c3hJM0hhUEVxZnoya2RQazlJUGNJVHVpcWVWQll4akE?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-10T12:50+09:00"
     }
    ]
   },
@@ -221,6 +221,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "「夜空が真っ赤に染まった」…ウクライナのドローンがロシアの巨大製油所を攻撃、激しく炎上する現場を捉えた映像",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RdnM3OWFnMDJmdUhXR3AzMHRrcFkxZU9XSTl6QTEwbDM5VmQxZDB4ejhEdTZhVm9yVl9LUHlRUDlYenFqb0lXODlhY1dWMEVKWVZXV1dRZnYxbVBEYTFrU3J4d1lrMHFjQ3hYbzU1N3ZTd0liQWNYaTlSTkxxLXc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T21:01+09:00"
+    },
+    {
+     "title": "ウクライナ和平協議関与を要求 欧州、ロシア姿勢に疑念（時事通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50WlRoMzlEREdnTjNDdW9JSUJua3ZXWkpUTWdOOUNGTG9yVnZSN1BTS09NamJTNURkc0FKeWRLdUYxYkJTZTVCTTg2NGpvLWVmckZvMDZmSW1YZVQwdTlUNkhYQjM4VkFDb0ZmdmpmeFhvdWVLOGFHVy1FZ2w5dFk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T20:31+09:00"
+    },
+    {
      "title": "米仲介のロシア･ウクライナ協議、アブダビで再開－停戦や安保が焦点",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmpZb2xhQ0RLTXZwRWlhZExpenhyNUxzMHpPbUpIRmxfTWJDNVFlcDBBS05JWkh6a3JhaXk1ZlpSZ284dVpuemtrb2RIVVl5al9aZi1WOWtLOXJIam5iTmRVM1hiVHNMVG41TEJUb3cwR1NGcXdMRXJBdHV2OWx3bHNtWm9KNTBqRnVpYkpn?oc=5",
      "source": "Bloomberg.com",
@@ -239,22 +251,10 @@
      "at": "2026-11-10T19:38+09:00"
     },
     {
-     "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-10T19:21+09:00"
-    },
-    {
      "title": "アメリカ・ロシア・ウクライナ 3か国の高官協議始まる",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1saFlGdnRUbmRhM0o0T21PWXUtT3lvVFA1ZV9GeU8wNlZtMlNTZ1F0S2p1Y0VmMmppZ2toMS1Nb0dWRkdpUk5vMU0xYjJMSEliMHc2YWN2OUw3TU5Ublg4?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-10T19:21+09:00"
-    },
-    {
-     "title": "米・ロシア・ウクライナ協議始まる 戦後の安全保障などが議題か 欧州は参加せず",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4VUxBelJPcFhqeXNWTVJtSldjYjB2NE42NjFRRlpFS1F6SkkxUHMzSHZRbXJQRTZ6Z2pWSEtpdlVfUjNaX2JRd1NPYnpNcjZXOGxkQVNYenFJbzlWRHlXZnIyd2hva28zQzd5RFUyc04wM2JIZlFIYll3?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-10T18:59+09:00"
     }
    ]
   },
@@ -434,6 +434,12 @@
    "at": "2026-11-10T20:09+09:00"
   },
   {
+   "title": "物流連会長、サイバー攻撃防衛で国の支援訴え",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sd0xqTUFEVDZUT3FyX1NabFgwSXg5OVRqR3VmZ1k4MzVGTUNSUHNsa0NfY1RWWTZuMW9vTzhSRUxMMTc0M3NuM05n?oc=5",
+   "source": "LOGISTICS TODAY",
+   "at": "2026-11-10T20:01+09:00"
+  },
+  {
    "title": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xRWROQmZLYzVqaVlDZjhkdHQydVlEc0lwVUFyYkJ5SFpzTllyVW5MTUU5T3J1c3RDSUQ0bHdoR2duRDFzN1ZMbzdESkhzZ0tqSjltZUtWYTllTGVqSG80?oc=5",
    "source": "NHKニュース",
@@ -462,16 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxX0pwaVNQTUNlemVfRFdmdUhYY3VOcmdvMTh4Wnpwd0NBSkhCQ29TaEk3S2MwWTZVYnhiY3FWUVRYMzRqZHJwM1FPbk5qbXlidW9lcA?oc=5",
    "source": "タイランドハイパーリンクス",
    "at": "2026-11-10T19:38+09:00"
-  },
-  {
-   "title": "不正アクセス被害が相次ぐなか 専門家「使わないアカウントの整理や二段階認証を」企業も対策学ぶ（福島テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00RFNKS2dDQ1RsbS0zQzNrRThxdWpzZnNocnJVc3pRX1BqS2h4cU1tcXdIbVY4UFpiTnZ4VGdScG51Tm5xelI5ZDU2dk53WUoyMXl0QklzUEREWnRodno0YS1ORzMyRXh2eFBfMWZxSW9kOWUzMVMwNDhjcUpUejg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T19:33+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "「夜空が真っ赤に染まった」…ウクライナのドローンがロシアの巨大製油所を攻撃、激しく炎上する現場を捉えた映像",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RdnM3OWFnMDJmdUhXR3AzMHRrcFkxZU9XSTl6QTEwbDM5VmQxZDB4ejhEdTZhVm9yVl9LUHlRUDlYenFqb0lXODlhY1dWMEVKWVZXV1dRZnYxbVBEYTFrU3J4d1lrMHFjQ3hYbzU1N3ZTd0liQWNYaTlSTkxxLXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T21:01+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "米国民7割がイラン戦争終結求める、関税撤廃支持6割＝世論調査",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43aHpCNzVURlRUWlFxZzN5dmVkV2VlVWpJM094OWM4LS0wSlU5WE1zNmsyMS1XMFJOMDNJMzFVZHFDZHpfVWYwNTNrLV9uU2x2RTIyWHd1bkU5N3ZSbzlEQy0ydjFEVTUwMC00QjVrdVJzX0kzWmtESnlGMDBXNlU?oc=5",
@@ -485,6 +492,13 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-10T20:33+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "ウクライナ和平協議関与を要求 欧州、ロシア姿勢に疑念（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50WlRoMzlEREdnTjNDdW9JSUJua3ZXWkpUTWdOOUNGTG9yVnZSN1BTS09NamJTNURkc0FKeWRLdUYxYkJTZTVCTTg2NGpvLWVmckZvMDZmSW1YZVQwdTlUNkhYQjM4VkFDb0ZmdmpmeFhvdWVLOGFHVy1FZ2w5dFk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T20:31+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "米仲介のロシア･ウクライナ協議、アブダビで再開－停戦や安保が焦点",
@@ -508,13 +522,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-10T19:21+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "アメリカ・ロシア・ウクライナ 3か国の高官協議始まる",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1saFlGdnRUbmRhM0o0T21PWXUtT3lvVFA1ZV9GeU8wNlZtMlNTZ1F0S2p1Y0VmMmppZ2toMS1Nb0dWRkdpUk5vMU0xYjJMSEliMHc2YWN2OUw3TU5Ublg4?oc=5",
    "source": "NHKニュース",
@@ -522,25 +529,11 @@
    "topic": "ロシア"
   },
   {
-   "title": "アメリカ、イランとの紛争は軍事面でほぼ終結したとの見方",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXg4Yy13U3dtVmdRdmtvUGZSLWZTTGZLMzJ1REt2VFp3ZVI2Y2ZiM21BUGxYNnFEWTA5T1JrbTJfYk5aMktwY0Jld3FMakRHXzF5T3pXZ0tFWDFpLU1lRURkUmVSOWRhU2hyTHAzb25LbmZFTHlhMVo3UHdZVTJKd1FFNFpmaFBaSjAwQlg3QTZLYk05Y2JYR1NQTzRyWjdGU1VPczJKeGQ3aFR0WFRMbTZn?oc=5",
-   "source": "VOV World",
-   "at": "2026-11-10T19:20+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
    "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZTNjckRsQTlXNHZzSV8wU2RkdWEyNDFycm9FV0VQNUZodV9NbGdOQVpXdzExcDhRam51Mm1wLVN3WFNaYW5HVERlRDQ5TTJGbXBsb1p6cWVGTFJvQ05aUjNCRGNZbGgzYkxkRlRGYlM5SklEWkp1dUFYUkY4Q1pRM0JnX0hMeUN4YnZwV0k4Ym5rSHZfeFdxV1lXUGVsSklzRlVILVFuRWlSdTgyOVpGejEwTDBlLW82Qmw0S3dGeVY0alJMMXFybkF2MmNDRFA1N0w3TkFQcXhqLW5wVXJsamM5S0hrbHBLWXRSZ3g3SXpEdFdpMm1WNU5FS2FkR2p3dXNmVHlZQ2g1WHRJanQ1RjhvUDdNNzRXWV9MZ2w3SXhxYjlodndWOXNQNHlMZnlfenY1YlZRdXNMQmljZ096dFlrYS1nY3kySmtJQ3JPeTlaazk4VWphTGtINmlXNlJLRDcxSmtmODBtNjg2SVlad2kxaUdhellLaWk0WVJmY0VnVzhob0lsUjBpUFVHbVlKQ2pCdUdzTnU4UElHam93c1c4LUtSVUZQWlZ6X3h6ZzFZSk0?oc=5",
    "source": "アラブニュース",
    "at": "2026-11-10T19:05+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "米・ロシア・ウクライナ協議始まる 戦後の安全保障などが議題か 欧州は参加せず",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4VUxBelJPcFhqeXNWTVJtSldjYjB2NE42NjFRRlpFS1F6SkkxUHMzSHZRbXJQRTZ6Z2pWSEtpdlVfUjNaX2JRd1NPYnpNcjZXOGxkQVNYenFJbzlWRHlXZnIyd2hva28zQzd5RFUyc04wM2JIZlFIYll3?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-10T18:59+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "航空会社や報道機関に相次いだ爆破予告 欧州当局、ロシア関与の可能性調査 | スマートニュース",
@@ -611,6 +604,13 @@
    "source": "公益財団法人 国家基本問題研究所",
    "at": "2026-11-10T14:30+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "トランプ大統領「イラン再攻撃は必要ない」戦闘終結に期待示す",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXBHWTh3YnNNbVdvT2hkMTJQcVptUnd6MG9wQWlzc0p3WHFJTmU2ODduYUxFLWpDZlZFdW5wNktSRkRMTE5qVkJNNW13U2JtUUpDX3NwaXU1TExmMk9fMGJVb3hIYkNJc3hRTjR3?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-10T14:24+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -629,9 +629,9 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」1件",
+    "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「大規模演習」1件",
-    "ロシア：「侵攻」1件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
@@ -648,10 +648,10 @@
      "at": "2026-11-10T11:56+09:00"
     },
     {
-     "title": "ロシア人40万人死亡、ウクライナ侵攻後－ハッカーが機密情報入手 フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHZzOFFEelhIVl9Mb1ZOM3JLY2Y0U213anZFa2pVSkJJQWtBQzFvV211LXR4d01pNUplU0hSMkxOdnpES0Rld21QalNGTFdPMlNvR1FZMVE0ODFnaHZhNTZwck0tbHpJRHhxWER3OHdDTDFQdXA0cnR2TWpRcmt6TEt3ZTI0aUE?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-10T19:21+09:00"
+     "title": "「夜空が真っ赤に染まった」…ウクライナのドローンがロシアの巨大製油所を攻撃、激しく炎上する現場を捉えた映像",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RdnM3OWFnMDJmdUhXR3AzMHRrcFkxZU9XSTl6QTEwbDM5VmQxZDB4ejhEdTZhVm9yVl9LUHlRUDlYenFqb0lXODlhY1dWMEVKWVZXV1dRZnYxbVBEYTFrU3J4d1lrMHFjQ3hYbzU1N3ZTd0liQWNYaTlSTkxxLXc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T21:01+09:00"
     }
    ]
   }
