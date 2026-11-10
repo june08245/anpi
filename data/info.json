@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T08:30+09:00",
+ "updated": "2026-11-11T08:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-11T08:33:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "2.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-11T07:36:00+09:00",
    "place": "岩手県内陸南部",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-10T00:09:00+09:00",
-   "place": "瀬戸内海中部",
-   "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -102,8 +102,8 @@
     },
     {
      "title": "アメリカ ルビオ国務長官「イランへの大規模攻撃は現時点で不要」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VFNCaVpkUHl5dm5NRXVoWlJTRTdtQjAtZWh4azJncDEzSG8yN2gwa2xKX1MwX3pId2ZqSDdCdmdKMU1hQ3ZiU1F4QTZQVzV0LWlxRzk1V0s5MmppOHZZMGhHQnZBZ20wT1B4ZTl3?oc=5",
-     "source": "au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fVEp5cl9uQWdYb29EWm5Ca0sycmZ6blNCSDlaYjAzZEdtYk5NcjRsM0F0bXFYTFVsa0hVRW5hN0RqcWlhemx4clFJZ2dqTE04cUxuVFgyekJBVHcyNWlDQ0NnNXp5X0NUVkRYM2FB?oc=5",
+     "source": "Excite エキサイト",
      "at": "2026-11-11T07:50+09:00"
     },
     {
@@ -119,16 +119,16 @@
      "at": "2026-11-11T07:11+09:00"
     },
     {
+     "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
+     "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-11T07:06+09:00"
+    },
+    {
      "title": "イラン、本格交渉入り否定 「核合意に固執」と米批判",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kem1aTEozT213QndaTmJjNmJVcTNDWmktR2VhcGJsNGtOdlQ5cHNIQzBLSE1ZXzJkLXJOZFg0Y1V6YlFXTEhoNWFIRVR6RnZBYUJHcFJzY1R3dDdKVEFSakNYMjdHaHhkeDFIalpHalY?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-11T06:33+09:00"
-    },
-    {
-     "title": "米イスラエル首脳が怒鳴り合い イラン情勢巡り電話会談、報道",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwU0VIS3RJVnpkNEJ5aG5wc3o4Nm1kVEVtNFd6dGdrNWhmVUtrVU5yMlFISUx5bzhDVnBON0Zhd1JvZEp4R3c4em9fMHZFbEJ6MHlTRlVvNGJMTGF5MmJNcG1lYjlURTcwbGFXNWh6LUE?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-11T06:24+09:00"
     }
    ]
   },
@@ -141,12 +141,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtdThTcVVjaFczNENOTzhFUm5QZ1RNMzdVYW1hWEhTaFZ4b0xBSEZiMUl1UHdnd3A1YTktQm9kV1ZOQjdhRUJiM2ZCeV9lZWdJ?oc=5",
      "source": "風傳媒",
      "at": "2026-11-11T08:23+09:00"
-    },
-    {
-     "title": "Spiegel：ドイツ連邦軍、中国製ドローンを禁止し、軍事施設への中国車の乗り入れを制限",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlFKMTRrakFvaDhraFdzRk9zQk4wYWxmMVZtNl92WFgwR3pRd3F1WnJ4OFZqOHVtN09icldycVlwRU1KcnBaNjRlSG9WV0hhaEZIaUFLSmhmSkIxTmpOOWxMMF8ycVFaeWJxR3JEeHh0cXo0NGd0TnF6ejBneVlSSkZNWEYxN0dOSkhYU1BwNE9hXzlyY1ZHbTBaOUxkOC15T2c?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-10T23:26+09:00"
     },
     {
      "title": "台湾国防部“中国軍が西太平洋で軍事演習” 「インド太平洋地域の平和と安定を破壊する意図がある」と非難",
@@ -171,6 +165,12 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUc0VGlGejI1VzlDODNYRDFZN21fYjMxcGlXWlJWSVpucUVVVFB6d0d5VnA1VTZGaU9IekxQWWt1OXN3NmtPZWw5aWlYRHE5c2UwS2E2d3hxSU5URUI3RzJOVXVTMGIwdkRHb1NIekJBSDFRTzdsLVp6djBXS0NNOTR1VVhlSnlZ?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-10T15:34+09:00"
+    },
+    {
+     "title": "中国軍事動向月報 ２０２６年１０月",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IbmZhbElMa25yX19EdnZJR2haZlJPOVd1ellMUXAycjhLazVxYVJDMmFfbUVOLXNEbkhXeVE5RTdJRWRJZC1yd1FZNA?oc=5",
+     "source": "公益財団法人 国家基本問題研究所",
+     "at": "2026-11-10T14:30+09:00"
     }
    ]
   },
@@ -245,16 +245,16 @@
      "at": "2026-11-11T06:44+09:00"
     },
     {
-     "title": "【佐藤優の世界史講座】「露ウ戦争の新局面」編 ロシアのネット生活を直撃！ ウクライナの新たな攻撃目標",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1NUNRdHFkX2dDREdadFNEeUZlQWtCUklLbkpZdm52WFkzMTlibmlKeXgyR3NNMTF3bGtENC1DSEFXYzZQaXl5aEZ0bjJ4d3BZbXdicG1wZm1XdS1mUmRWUFhrSGd2WWF1cGNtck1B?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-11T06:41+09:00"
-    },
-    {
      "title": "ロシアの都市攻撃はウクライナを屈服させるか： 英独の機密文書が示した、物理的破壊により抵抗意志を「制御」しようとする幻想",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rV2tsdmx4N2taZHZKNmRlRXcwWTYtWjZOOG5VcURqTWVwSGxsYmw1NXlFb3NIWWNXRzdnR0FhY2xMdzhuRll2SERrZUdZVHYy?oc=5",
      "source": "新潮QUE",
      "at": "2026-11-11T06:09+09:00"
+    },
+    {
+     "title": "ロシア連邦保安局幹部ミナエフ氏が米とウクライナの3カ国協議に初参加 暗殺未遂疑惑も",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XLU5CSW92NTR4dnlObldzVllaUWxUc2pWdUJkU3JXYmJPLXltSC16VWJYNXZEM1g1T0lQdjZtc2RncEp6TFdjdFdGVGRCdHNWX3ZmRHBNSDA5cXRrcVB1ck1FN1ZXM2poWW9vZG90WEtNM2QzWnc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-11T06:07+09:00"
     }
    ]
   },
@@ -380,10 +380,28 @@
  ],
  "cyber": [
   {
+   "title": "航空会社のシステム障害で飛行機が大幅遅延……集団訴訟を起こした旅客に対し、裁判所が下した判決とは",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzS01iNFhvMzhwbk5vVFBaMmduZ3NkTDR5VUMtZHlsck9mMFZnRWpNZ2VLLUNUV2Y1eS12SHNxVkxRZFI1MmVqMktJTWVXSzJJNU5zT1VtLUk3UQ?oc=5",
+   "source": "EnterpriseZine",
+   "at": "2026-11-11T07:28+09:00"
+  },
+  {
    "title": "128の信用金庫で大規模システム障害 一時現金引き出せず 全信金に影響も「サイバー攻撃ではない」",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeW5Sa3NRdGF4WDRRSHNMZllSdU9KWWxZb2N0NFQ2UUF4UGkzVlRzWGZTSkt1dnRWX2NlYjV4QkNxVkZnYTVWVUtJOHhTbkRkSW93UndfT3hWTDRKUW51U0t3dGtBSXF2V2JZUHlRNEg?oc=5",
    "source": "locipo.jp",
    "at": "2026-11-11T02:56+09:00"
+  },
+  {
+   "title": "中堅企業はXDRをどう活用し、高度化するサイバー攻撃に立ち向かうのか",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTVOVldfRXp2UzJVQWRCcVQ2RkNlYU1mLVJGNFdVeGpJQ01KajVRNG9EMHNoNkdjb1JTOS1aWTZRYVVNSW1nMnBNa1J4LVpCaTNQR0JmLVd0OUZZX2JtcW0xTzgwN1VlT1ZSMW9LdWZYM1IwMmx5ZWt2ZEpQRjYyX3NLNXlLa3VTblVuVjhTZE5lU0VLZE1aWGIxRWw3TkU?oc=5",
+   "source": "SECURITY.COM",
+   "at": "2026-11-11T08:35+09:00"
+  },
+  {
+   "title": "バルテスHD「Qbook」会員メールアドレス47,502件が流出 アララへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEtVc3M3c2l3clhVaEFleTBVT1pybm9iY2JURlJMTlZWWDZlUldDQVE1eUowQnlPRF84bDFiTGZQbjNoS0JNdEx1cTlqcUFYVTlJS0VVVVBQMFFQWm5TQWp0VFVYSWhTckxZYW9vc0dua3VDVS1aMjZyaWtha0ZUNHlVa25GVW5MaEtCZ2V4TFg?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-11T08:30+09:00"
   },
   {
    "title": "仏スーパーへのサイバー攻撃 イランを非難",
@@ -411,7 +429,7 @@
   },
   {
    "title": "NTTデータ委託先に不正アクセス、社債購入者に対する特典付与を支援する「STdirectServices」のサービス停止",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tM3JSYlJVeUwxNXJQcUlsU2hrQkVnR2FyVFQwUjNEbXlNVlU5ZUZxQ2FxZk1qclB3alA5M1gzMUFuQXpxVlk4OWVqX0FpME9fUWpqOU9KX1kwb0NNVFdSUGVlang1ekhp?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ra2ZzbzhFNWdwQ0p6ZE03OUhqUFNaQWM1WUpqbTY2by12ODN5Z0YtTkJxbDN2enhjbVhMeWNURi1fbnBiTGc5dVJiWWdnMVdtakFEdTZCMnFmWDltdmVfWXI2cTFkNlJma293NA?oc=5",
    "source": "ScanNetSecurity",
    "at": "2026-11-11T08:05+09:00"
   },
@@ -428,22 +446,16 @@
    "at": "2026-11-11T08:00+09:00"
   },
   {
-   "title": "Microsoft、11月定例パッチで1,093件の修正 Outlook ゼロデイ「CVE-2026-124194」サイバー攻撃に実悪用、Windows・Officeにも重大な脆弱性|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnl4WktCYWI2QkhlMUM1MEpqdUVubWFrVk9IcXhfMDNwejdwVGxPbThwVjk1SkxoYS0xTk4wS0o5cWVIS0ZDekhtakhMdzlDQ3NKSUNkb0RScEt6ZVBuN0xNaTBBTVRXRklyY1RSZXBJaVFqTmVYcGU5cE9jbzlYaHV1RlA3bnM5N2dTaTBNVEZoWkVwUzdONHViSk5HZjB4R0NCbXZnZlhaTEY5dVNaTg?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-11T07:56+09:00"
-  },
-  {
-   "title": "【エディオン】最大５５６件のクレジットカード番号も漏洩か… 通販サイトへの不正アクセスをめぐり 広島（テレビ新広島）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82amNXUmE2MV9JMVFlT1lJZ1drMTdyamFSaVRHSnFTejhZWU95d1RSUWF6Yk8wRV84QUJSYW52VFQtRzhzMFBTZm5sY3ZkT3pIOUlOSEpwTEJrZXJvT09oaVYyc0ZhRFdmXzBRZjFwNG1jVGVYRENjVkxlSUxybFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T07:50+09:00"
-  },
-  {
    "title": "簿記などの受験者情報最大98万人分漏えいか 合否や得点も 日商ネット試験に不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ySVRqRGkyT0YzSERvMG4wdDhqcXhLLWJ2OXZnRGZoMTFXdEVjRm02bFF3SnVTTnhYQzVzLXI1SkNXLVpnLUVGNktkdkF4UVpKdkxiUDdkY3h1Zk5EQTZJUEFVdTM1Rlo3a3c?oc=5",
    "source": "ITmedia",
    "at": "2026-11-11T07:49+09:00"
+  },
+  {
+   "title": "【エディオン】最大５５６件のクレジットカード番号も漏洩か… 通販サイトへの不正アクセスをめぐり 広島",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByN2h3VDF6b1BGaVlXZ0dnY0FWVTlwUWVxTWdqLVlJTktmZ3I2TFcxb0Z2TEFSYWFhVER1QVphX0FNSjh5Z0l6b1ZIOUtadw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-11T07:40+09:00"
   },
   {
    "title": "仏批判に「根拠ない」 冷蔵施設へのサイバー攻撃 イラン（時事通信）",
@@ -456,18 +468,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMaTZTYUJtMk5zTHM0TWEtdFE2elRIU2hJNmhJdEJMNWtQNG5EczdxLVZWY2VtM0J1RXVPeXRvUmNEa1lOVmNSVzdLcERReldoaUF6SExyT3JnZzJwb0JhWjdqZzE1ZDRYNFpSY1hEWEVyZW8?oc=5",
    "source": "innovaTopia",
    "at": "2026-11-11T07:28+09:00"
-  },
-  {
-   "title": "ニトリ、外部からの不正アクセスで最大3762万件が流出した可能性",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdVc4MDhIaTZBa1hReVFNUjhYOVlEeHJtNUhHLW9TOS1lQldLaUJyb1psSlhCT1FrLW9xeGV5cmlUQkhVR0U3NGZJQUJMcXFHMkNlMVhPTldNSzdDbTkzUlpkUHFqT2VvM3VhSVp3Y2hZVXBpN2dJRmQ5a1RabHNiRFJhWDlXZk10d2ItOEhwSlFsMWtwYW5MbllRdE12RS05S0RCWmk0Nk5HNE4wWHl0ZVNTRGg5QWF3eGlNUUdmREt5TkR3LVJ6Wkk4bzYxVE40aXJwUFBCb1JWZDZIWk9ldnR0ekpEazM0UVRtd0RPQXhlQnpWUUp0MXNnb3VScWtfSHlnU9IBtAFBVV95cUxQSFNpd2FfQnlyYjlVOVg1a1JESVNuU09vUW9RMnR2WkVfYlRhUUU0dFJZQlh1TDl0OUN3azExUUx3RkRxd0N6bWdCV3hDR1BqLWs3SUxpR0JCUE1jUFc0YmlkNUduYVhxUlZCY0JaNk5GMzN1NWVUZElRY1lWQU1KRVN2U19vVEtuMUlwUm1pYVVrbkNLV0ZKSG1zS3FJcERuNDVmMW4tVGxnQno4M1h6STZmVjE?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-11T07:14+09:00"
-  },
-  {
-   "title": "サイバー攻撃による漏洩被害 10月時点で前年通算件数超える",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80b3h4MTI0V2xzY0dHUy1VWVY3VGd3RU43czZDX3Q2VUxZakxaSWVheV9pb2VyUktLSF9qb2stT19WRnZFRGw0TnQ1dUU0dnJaWXNTdW9GZlBqTzFIcm5KejlzTHBXV3FFN3Q0ZldYa3hYUQ?oc=5",
-   "source": "日経クロステック",
-   "at": "2026-11-11T07:00+09:00"
   }
  ],
  "osaka": [],
@@ -495,8 +495,8 @@
   },
   {
    "title": "アメリカ ルビオ国務長官「イランへの大規模攻撃は現時点で不要」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VFNCaVpkUHl5dm5NRXVoWlJTRTdtQjAtZWh4azJncDEzSG8yN2gwa2xKX1MwX3pId2ZqSDdCdmdKMU1hQ3ZiU1F4QTZQVzV0LWlxRzk1V0s5MmppOHZZMGhHQnZBZ20wT1B4ZTl3?oc=5",
-   "source": "au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fVEp5cl9uQWdYb29EWm5Ca0sycmZ6blNCSDlaYjAzZEdtYk5NcjRsM0F0bXFYTFVsa0hVRW5hN0RqcWlhemx4clFJZ2dqTE04cUxuVFgyekJBVHcyNWlDQ0NnNXp5X0NUVkRYM2FB?oc=5",
+   "source": "Excite エキサイト",
    "at": "2026-11-11T07:50+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -522,6 +522,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
+   "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
+   "source": "アラブニュース",
+   "at": "2026-11-11T07:06+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシアとウクライナ、米仲介の和平協議初日 米国務長官「非常に生産的」 | ロイター",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjNBSDFVU0lsSFotR1NJWTgzdVE4LUN0X2JxMjRXcm9NWDd5S0ZuWGpuMGY4eWxmTjFOMGtJYkdDUkxTT00tV1NUNERpeUdTYjJOU0plVTNGcDZLdkZvc1YwSjR2dURNYlZPMXBxVUo3TmJ6NlBJYWRQU05kUS1vSFVCTWpVUQ?oc=5",
    "source": "Reuters",
@@ -536,13 +543,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "【佐藤優の世界史講座】「露ウ戦争の新局面」編 ロシアのネット生活を直撃！ ウクライナの新たな攻撃目標",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1NUNRdHFkX2dDREdadFNEeUZlQWtCUklLbkpZdm52WFkzMTlibmlKeXgyR3NNMTF3bGtENC1DSEFXYzZQaXl5aEZ0bjJ4d3BZbXdicG1wZm1XdS1mUmRWUFhrSGd2WWF1cGNtck1B?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-11T06:41+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イラン、本格交渉入り否定 「核合意に固執」と米批判",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kem1aTEozT213QndaTmJjNmJVcTNDWmktR2VhcGJsNGtOdlQ5cHNIQzBLSE1ZXzJkLXJOZFg0Y1V6YlFXTEhoNWFIRVR6RnZBYUJHcFJzY1R3dDdKVEFSakNYMjdHaHhkeDFIalpHalY?oc=5",
    "source": "Excite エキサイト",
@@ -550,17 +550,17 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米イスラエル首脳が怒鳴り合い イラン情勢巡り電話会談、報道",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwU0VIS3RJVnpkNEJ5aG5wc3o4Nm1kVEVtNFd6dGdrNWhmVUtrVU5yMlFISUx5bzhDVnBON0Zhd1JvZEp4R3c4em9fMHZFbEJ6MHlTRlVvNGJMTGF5MmJNcG1lYjlURTcwbGFXNWh6LUE?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-11T06:24+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ロシアの都市攻撃はウクライナを屈服させるか： 英独の機密文書が示した、物理的破壊により抵抗意志を「制御」しようとする幻想",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rV2tsdmx4N2taZHZKNmRlRXcwWTYtWjZOOG5VcURqTWVwSGxsYmw1NXlFb3NIWWNXRzdnR0FhY2xMdzhuRll2SERrZUdZVHYy?oc=5",
    "source": "新潮QUE",
    "at": "2026-11-11T06:09+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア連邦保安局幹部ミナエフ氏が米とウクライナの3カ国協議に初参加 暗殺未遂疑惑も",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XLU5CSW92NTR4dnlObldzVllaUWxUc2pWdUJkU3JXYmJPLXltSC16VWJYNXZEM1g1T0lQdjZtc2RncEp6TFdjdFdGVGRCdHNWX3ZmRHBNSDA5cXRrcVB1ck1FN1ZXM2poWW9vZG90WEtNM2QzWnc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-11T06:07+09:00",
    "topic": "ロシア"
   },
   {
@@ -576,13 +576,6 @@
    "source": "Informat.ro",
    "at": "2026-11-10T23:57+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "Spiegel：ドイツ連邦軍、中国製ドローンを禁止し、軍事施設への中国車の乗り入れを制限",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlFKMTRrakFvaDhraFdzRk9zQk4wYWxmMVZtNl92WFgwR3pRd3F1WnJ4OFZqOHVtN09icldycVlwRU1KcnBaNjRlSG9WV0hhaEZIaUFLSmhmSkIxTmpOOWxMMF8ycVFaeWJxR3JEeHh0cXo0NGd0TnF6ejBneVlSSkZNWEYxN0dOSkhYU1BwNE9hXzlyY1ZHbTBaOUxkOC15T2c?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-10T23:26+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "ロシアのTurlaがルーマニア政府機関を攻撃、新マルウェアCerealでNATOとEUのメールを狙う",
@@ -611,6 +604,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-10T20:33+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "ポーランドは、ロシア情報機関のためにスパイ活動と破壊工作を行った疑いのあるウクライナ人2人を逮捕した。",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnZNU2E2dk1BeWpOR0hpVlg1NTlJNzJBNVFzWVM2eFg3eTBmUWR1SHpRN3hUVEFMSnlhamdJYm9zZk1TNTVVQXl4SWs4azZ4akVjUzQ0bmx5RnhhOEJVdmVZVmlvSEZpYzYyYTVPZjlkbGsyOTl6clBpMkFKZHZnSGtwd2lZZElqdG1Nc3puTVBQVzgzWlp0S1RyQmZOd1MwV2NkOGdmNnBRcjR2bmstNm93Sy1JUQ?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-10T20:15+09:00",
+   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -631,14 +631,14 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」2件",
     "中国・台湾：「攻撃」「封鎖」1件",
-    "ロシア：「攻撃」3件",
+    "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
      "title": "アメリカ ルビオ国務長官「イランへの大規模攻撃は現時点で不要」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VFNCaVpkUHl5dm5NRXVoWlJTRTdtQjAtZWh4azJncDEzSG8yN2gwa2xKX1MwX3pId2ZqSDdCdmdKMU1hQ3ZiU1F4QTZQVzV0LWlxRzk1V0s5MmppOHZZMGhHQnZBZ20wT1B4ZTl3?oc=5",
-     "source": "au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fVEp5cl9uQWdYb29EWm5Ca0sycmZ6blNCSDlaYjAzZEdtYk5NcjRsM0F0bXFYTFVsa0hVRW5hN0RqcWlhemx4clFJZ2dqTE04cUxuVFgyekJBVHcyNWlDQ0NnNXp5X0NUVkRYM2FB?oc=5",
+     "source": "Excite エキサイト",
      "at": "2026-11-11T07:50+09:00"
     },
     {
