@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:00+09:00",
+ "updated": "2026-11-10T11:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,12 +95,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "フランス 冷蔵設備へのサイバー攻撃 イランの革命防衛隊関与か",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGlFbnZKdTlaeUx5bmdWeDQ3N2dmazdxZjgtQ0hBdG9RYXZSbzVfZVV4SFJISVE0S0Z6b25BTUoyYk0zNVlIcUxUM0E3SzVsN2NBTlRqS0NvNkFuM1ppN05rUmdETmNaS0FnS3FuX0R2NXc0bEVFSWl2RW5QV3hsX0huQ3lyc1h6V1htQVZlbHpBNEdXbE9vRlNUZmlOai1OdC1yUnF5S0dEOUxDc2JmWnZsNU0?oc=5",
-     "source": "ABEMA",
-     "at": "2026-11-10T10:58+09:00"
-    },
-    {
      "title": "トランプ大統領、イランへの新たな攻撃「現時点で必要ない」",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95OFNnaHItWEtkVzhGNmMyb1g5M0pkdnZsWEM1RVRMdzlkXzRZZTg5ZzJDNXVrWkRiWnd5b1ZLdjNWTk1uci1Gbm9uOW5qWkhDc2tSWEdHYm44SnkzTU9scElTbUlkWW5CNE1xeC13?oc=5",
      "source": "au Webポータル",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kZUpoLW5OZkhmeXVXSG42ZXdlQ0I2anYybDJxTUp0Q2lucmdpQnZDY3RSeTJjT0NRN1NZdHV6MnVKZVFqbzdxUkNBZkRBeDNHYnlCUnN5MmVkYUgyeEs1a1U1bWEzLXE3QVFKOXZ6N0RWalk?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-10T09:02+09:00"
+    },
+    {
+     "title": "トランプ氏、対イラン攻撃を当面見送り 湾岸諸国は和平要請",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0E5OWRjZGhES2l3V2tkNkNWZ2JZUWRtS1d4VzVsanhSRXNEeDluYzUwWkMtV01WQ0ZpakpPWURsSE9wV3lkcU9KdFVGcHk1UW5WTFZFV0VDcHVOaU5VYlhPTnNCOWczbGlFbmRUVkNic2VaejRqYkd5YnBNcktIN3hLSWc4TUE?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-10T08:41+09:00"
     }
    ]
   },
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "ロシアの影ちらつく「素人ハッカー」の破壊工作－欧州の水道も火葬場も、狙われる日常",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0ltY2VsWkJCXzFwdFc0SDVZeE5HdjlDZHlyUGc0bWZ0R3BSYmZoa2MxakF5WmRBVmNqTWdtMGFGV1pXNVBmZlRuZnhxRzZsV1pvODMtV1F5by10Y0FJS2pyblNRZFJNaEhPeW1GVDRJSG8wZm84bHNUeHRFY1Zoc05tOTdGV2JxZFZvZkhR?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-10T11:00+09:00"
+    },
+    {
      "title": "フランス社会の不安定化が目的か　サイバー攻撃「破壊工作」と非難",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlVDkxb1NuazNQMFJYYUhNVl80SmhBME5oaGZtbFhyaGdVUlVQU2lkNkJmV09GemJfaTRvNnRpUE5rY2JpN21zWEZMV3BadWhsZF82RGlBM2QzTEVSQ0gtZnVEUGNqeW5senhEek1kRdIBdEFVX3lxTE5hZ1JJMmU1QXI3NlpnZVhlcy1DME1YT1ZEc3ZXUTBIcks0LXhGeU5IbVBrOFEtMHp5VUMxWVAwTVNrYkdDWjBQNU1Zc2VXbTdLQ2FYWEUyb2FsbGNhWHdGWkl6bGZjRXNXaDl1QTBzU01oYU14?oc=5",
      "source": "Infoseek",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE9OS3NzQy1vZldhdi1IcGtxWXRyN2U3NDhwdVktY01IcG9nMUlaLWwzTFJYbVBQNE53ZUtGZDFlTmt4NUpQNEhuMFBaU1pGZmdDekVlRXduWDE0NERLU3pSR3Q2LXBSeWRMQkJDSDZvUnpzUXkwR01lT3dsbVdnc1FJbXFMQW1nSWFWSU9NZzBSbF9hd1g1N29RR3hrMzExVWhEdmliZC10LUNiSGJ3aE5uTFZYSG9mc2hsVFpB?oc=5",
      "source": "Laodong.vn",
      "at": "2026-11-09T22:00+09:00"
-    },
-    {
-     "title": "ロシアはヨーロッパに軍事化の継続を警告、ウクライナは戦争の長期化を準備",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHI2SmpsUGhWZzBJU1FrZDFpd3dydjFCRjYzSXB4NmhKUnZKZ2hZTm03bkNCN1NpbmdGX093NFp3Z3NBeWUzZXdXMVJOaU4yVmVnSjVnNW85ZG5mSmFIa3F0OV94OVl3QTJLMWpZWjgyTGgxbTdoRXZYemRpMEFNNlRQVG1qUllNOEZFOGk5WmVFWndOSS1Qa0J0RFlZVFd3ZTJlMl9Ed2dLQ0FTUXVyelpxT2hMbGpWWDktd0JB?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-09T20:32+09:00"
     }
    ]
   }
@@ -342,9 +342,9 @@
  "outage": [],
  "japan": [
   {
-   "title": "和歌山市立中学で弾道ミサイル避難訓練 身を守る姿勢を練習 [和歌山県]",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOTlRRVdPM2s3R25ScEdRYl9nenByZUdWalJIU0RoOFlDYXU3RXRDSkFYUjJra0lYYWxaSU93bzlScGtwYndhTmdKM2ZDXzlVbGZIYmJVT0RPSmlsMGRDYVRRQUxSYmt4QWdNa0VIYUhoUjNZTVdhQS1OV3pGMEZCUUNPM09oUQ?oc=5",
-   "source": "朝日新聞",
+   "title": "和歌山市立中学で弾道ミサイル避難訓練 身を守る姿勢を練習（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ubktmM0tBclN3OFY3VVNYTk9VRlhyZU1EeXdGYV8xNFV5V1MybjVhVm8tZDB5Ykh6cGp0SUxTY0FRanQySjVyZXBxU1VHX08teVd3RmMwQUpCNzRoUzZoZzl1QWdtcVR6Wmg4WGd4NERUdm9UaW1VMGpPbnJRY2M?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-10T10:45+09:00"
   },
   {
@@ -380,6 +380,24 @@
  ],
  "cyber": [
   {
+   "title": "アパレル業界向けクラウド販売・在庫管理システム「One’sCloset（ワンズクローゼット）に不正アクセス、個人情報漏洩の恐れ",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0hObGRxSUM3aEMzQ0dfUXA2Z1Nmc1Q1aDhGSER4MzVXUlhhUDRxeE1iUndpWkZwQkhTek9pWklwdUZsblNFbW5VZGZMaHkzRjhZbEpldVJaejZtMlViVk1OOGNMMVg0bi0zbHFRNmZJZkw5MXlBY1pabXU3UVprUWItRXJHR1lBMnRWdXByU0ZvMlBabWdqdHpQMA?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-10T11:11+09:00"
+  },
+  {
+   "title": "相次ぐサイバー攻撃の影響も懸念、通販業者の倒産が3年連続40件越えへ（帝国データバンク）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjdVY0aVctM2xZWUp4SVJzSEtmSl93d0ZZZ21EQ2l1MU90SlMyZGV5aE03Y1VwQVdwenBmaHhaSlpiZHBhUUkzLVQzV0tEVl9oT29CcFdIT2lRNjdqd2Nzd1NVdXJQWDdiZXlkOG56bERqVWNQbjdpdGZDc2hYZUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T11:01+09:00"
+  },
+  {
+   "title": "【ホワイトハッカーに聞く】相次ぐ不正アクセスの手口と対策 AI使えばたった3分で情報取得 偽サイトでパスワード入力→本物サイトへ誘導…悪意ある仕掛けも巧妙化 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OVTYxUUVZNzdJSWstUUJoWVVYSFJHc3FSR2d4ZEdJb2pDWXdneTg2V0pONXMyTlI0Y3EzNzdIT1pwNmUxdEt6MVNTa1J3cVUtdWdTeHI0VmJFeWNxdXkta3FQS2tvc1k?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-10T11:00+09:00"
+  },
+  {
    "title": "フランス 冷蔵設備へのサイバー攻撃 イランの革命防衛隊関与か",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGlFbnZKdTlaeUx5bmdWeDQ3N2dmazdxZjgtQ0hBdG9RYXZSbzVfZVV4SFJISVE0S0Z6b25BTUoyYk0zNVlIcUxUM0E3SzVsN2NBTlRqS0NvNkFuM1ppN05rUmdETmNaS0FnS3FuX0R2NXc0bEVFSWl2RW5QV3hsX0huQ3lyc1h6V1htQVZlbHpBNEdXbE9vRlNUZmlOai1OdC1yUnF5S0dEOUxDc2JmWnZsNU0?oc=5",
    "source": "ABEMA",
@@ -392,9 +410,9 @@
    "at": "2026-11-10T10:56+09:00"
   },
   {
-   "title": "冷蔵庫狙った「前代未聞の」サイバー攻撃、フランスがイランを非難（CNN.co.jp）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JYVJXSVp1eENxRWxua3R2UlBTM2g2MWFNeGlfTUFlbjdvMXUwdVFIRDhzM0FGbE93dnhjYmNRWTl5Sjh6ZXoxcEVfVWVuUEVhYVRjYkJXRWh6dzVTRC1oM2RqOVcxNFJtOUJYM2VueWVjcFdFNTVPaHZMWmRjdlk?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "冷蔵庫狙った「前代未聞の」サイバー攻撃、フランスがイランを非難",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbmtPM0phNzZKTEFiQXNTS2NVN3ItVVlRMXhrNFlVaGJnbWRrZTZSbTg2a2NsMFBMZDlLRnh0SGpZT2ZoNGlzRlNnRURfZkZleVNB?oc=5",
+   "source": "CNN",
    "at": "2026-11-10T10:43+09:00"
   },
   {
@@ -404,9 +422,9 @@
    "at": "2026-11-10T10:42+09:00"
   },
   {
-   "title": "フランス社会の不安定化が目的か サイバー攻撃「破壊工作」と非難",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44S0gyYkxTQXd5SDdULThUcWZlQ05wN0NYTmNGVUJBOFRYRXNEdUxGdVk4TWZxSXhHVlhIRW0tTGVLYzN6YXNISkc3R2pzN2lD?oc=5",
-   "source": "日本海新聞",
+   "title": "フランス社会の不安定化が目的か サイバー攻撃「破壊工作」と非難（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TWERvUFZ0VTA2aDM1SVFsaU1neHkwdDExSl81S0t5ZnRCS1NvVHJDaUUxUl9QS1BQczU1XzgyX18zNW5ub1V1a29mb3hPbU9BZ09TVlkzemJGbTVTYVk5c2hYbE5FUENiTDUxXzBQMGx0ckZwdEwxSWFsRGpaUkE?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-10T10:36+09:00"
   },
   {
@@ -450,34 +468,16 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySTRKLTZ4M1Y0V0dVZVR3VDdSay1hWkwxdnZIRkliTEtXRnBNSkdUc0J6NjRIejRJOXdwQU9zSjNnS01nWDF5c25VOXJRVWZhRnRJWURLTFg5UFphMUE?oc=5",
    "source": "沖縄タイムス社",
    "at": "2026-11-10T10:07+09:00"
-  },
-  {
-   "title": "スーパー冷蔵庫へのサイバー攻撃 仏政府、イランの犯行と断定（毎日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZXhaZ2ZPVVQ0TmZaR3djd3pId1NxV0NubzRyaHlkTEZid0s0d0pRV0FzVUhYNzlNdWN5aUxXcDhkS3Q5SVdwellBZjhoZF9rR3VXZjFYeEFVREpESTF4dFdQcDkyQzg1N1phdkVlQ2ZFNWFadXlwS3RFSUZjTWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T10:03+09:00"
-  },
-  {
-   "title": "2026年サイバー救急センター出動動向とサイバーインテリジェンスの活用 | イベント・セミナー | LAC WATCH",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EejRkYnpWcVJTVVZwS2JJc0VBR0JXdVI5NzFGS21CRzBLcWJlM1lBbUZiWmZxMWVWSGhyMHFzcFBFVnk3Ny1JVmg5dHR1bjVTT0FuTjhRQ1RYeWViLU81ZDhBU2x3YnFU?oc=5",
-   "source": "株式会社ラック",
-   "at": "2026-11-10T10:02+09:00"
-  },
-  {
-   "title": "スーパーなどの冷凍庫狙うサイバー攻撃、政府が注意喚起 欧州では約700店舗で被害",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ybVZSMmN0UEtKNHZiMVc3UXFnVlF6MWw4VjNJNC1oQ191RVUwNHhmQ0EycXpaM0dqRW8xWjFsOGM4cUZYNjEya1M0enJKQktyWGZKeVNvWQ?oc=5",
-   "source": "おたくま経済新聞",
-   "at": "2026-11-10T09:52+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "フランス 冷蔵設備へのサイバー攻撃 イランの革命防衛隊関与か",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGlFbnZKdTlaeUx5bmdWeDQ3N2dmazdxZjgtQ0hBdG9RYXZSbzVfZVV4SFJISVE0S0Z6b25BTUoyYk0zNVlIcUxUM0E3SzVsN2NBTlRqS0NvNkFuM1ppN05rUmdETmNaS0FnS3FuX0R2NXc0bEVFSWl2RW5QV3hsX0huQ3lyc1h6V1htQVZlbHpBNEdXbE9vRlNUZmlOai1OdC1yUnF5S0dEOUxDc2JmWnZsNU0?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-10T10:58+09:00",
-   "topic": "イラン・アメリカ"
+   "title": "ロシアの影ちらつく「素人ハッカー」の破壊工作－欧州の水道も火葬場も、狙われる日常",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0ltY2VsWkJCXzFwdFc0SDVZeE5HdjlDZHlyUGc0bWZ0R3BSYmZoa2MxakF5WmRBVmNqTWdtMGFGV1pXNVBmZlRuZnhxRzZsV1pvODMtV1F5by10Y0FJS2pyblNRZFJNaEhPeW1GVDRJSG8wZm84bHNUeHRFY1Zoc05tOTdGV2JxZFZvZkhR?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-10T11:00+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "トランプ大統領、イランへの新たな攻撃「現時点で必要ない」",
@@ -592,6 +592,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "トランプ氏、対イラン攻撃を当面見送り 湾岸諸国は和平要請",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0E5OWRjZGhES2l3V2tkNkNWZ2JZUWRtS1d4VzVsanhSRXNEeDluYzUwWkMtV01WQ0ZpakpPWURsSE9wV3lkcU9KdFVGcHk1UW5WTFZFV0VDcHVOaU5VYlhPTnNCOWczbGlFbmRUVkNic2VaejRqYkd5YnBNcktIN3hLSWc4TUE?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-10T08:41+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシア国防省は、先週の戦線全体でのウクライナ軍の人員損失を発表しました。",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTVGZUh2WUFlZXBXZDVRelpNWnVEbk1tWC1zS1ptUkkzWGhUMVMxeGNzOFZjWmhxM0lyWlFNVmxSYkphYkt4S3R2T3owS1F0dnJGa3dOU09rSXkzSEJiZ0VaZzBfSWZWN0dYbF9qZ2xPWWpoNnVYOEdiWGMyWS1PbDNVaWNPVXZxbTFFbFJCYVFGWGR1ZTB2NExMQllLQWNMZkNkdWNsaXZHWGRCOUY5dzBBMkFWOE1kNmExeWlqRkhhYVpS?oc=5",
    "source": "Laodong.vn",
@@ -604,13 +611,6 @@
    "source": "アラブニュース",
    "at": "2026-11-10T08:07+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "「中国軍関連企業」リストから無錫薬明康徳を除外、米国防総省",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTVXMUtlb2YtNklEUUZPZ1NSR2NfWFZfaXAwZTh6TndTRzNCdUpQTE9lUmNkYUVLUVhJWlZzOVIyRWdERzZON293Y2ZDRXBTdFROaWl3OXpaVWMySmNQZHM0ZFFDX0kwU1dKYl9fc3pscDNGQXpsMUlMbkNKaS1qWHB0ZGI?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-10T08:03+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -631,14 +631,14 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
     "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「攻撃」「破壊工作」1件"
+    "欧州・NATO：「攻撃」「破壊工作」2件"
    ],
    "items": [
     {
-     "title": "フランス 冷蔵設備へのサイバー攻撃 イランの革命防衛隊関与か",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGlFbnZKdTlaeUx5bmdWeDQ3N2dmazdxZjgtQ0hBdG9RYXZSbzVfZVV4SFJISVE0S0Z6b25BTUoyYk0zNVlIcUxUM0E3SzVsN2NBTlRqS0NvNkFuM1ppN05rUmdETmNaS0FnS3FuX0R2NXc0bEVFSWl2RW5QV3hsX0huQ3lyc1h6V1htQVZlbHpBNEdXbE9vRlNUZmlOai1OdC1yUnF5S0dEOUxDc2JmWnZsNU0?oc=5",
-     "source": "ABEMA",
-     "at": "2026-11-10T10:58+09:00"
+     "title": "トランプ大統領、イランへの新たな攻撃「現時点で必要ない」",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95OFNnaHItWEtkVzhGNmMyb1g5M0pkdnZsWEM1RVRMdzlkXzRZZTg5ZzJDNXVrWkRiWnd5b1ZLdjNWTk1uci1Gbm9uOW5qWkhDc2tSWEdHYm44SnkzTU9scElTbUlkWW5CNE1xeC13?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-10T10:52+09:00"
     },
     {
      "title": "ロシアとウクライナ、燃料施設へ攻撃の応酬 停戦の機運高まらず",
@@ -647,10 +647,10 @@
      "at": "2026-11-10T10:15+09:00"
     },
     {
-     "title": "フランス社会の不安定化が目的か　サイバー攻撃「破壊工作」と非難",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlVDkxb1NuazNQMFJYYUhNVl80SmhBME5oaGZtbFhyaGdVUlVQU2lkNkJmV09GemJfaTRvNnRpUE5rY2JpN21zWEZMV3BadWhsZF82RGlBM2QzTEVSQ0gtZnVEUGNqeW5senhEek1kRdIBdEFVX3lxTE5hZ1JJMmU1QXI3NlpnZVhlcy1DME1YT1ZEc3ZXUTBIcks0LXhGeU5IbVBrOFEtMHp5VUMxWVAwTVNrYkdDWjBQNU1Zc2VXbTdLQ2FYWEUyb2FsbGNhWHdGWkl6bGZjRXNXaDl1QTBzU01oYU14?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-10T10:36+09:00"
+     "title": "ロシアの影ちらつく「素人ハッカー」の破壊工作－欧州の水道も火葬場も、狙われる日常",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0ltY2VsWkJCXzFwdFc0SDVZeE5HdjlDZHlyUGc0bWZ0R3BSYmZoa2MxakF5WmRBVmNqTWdtMGFGV1pXNVBmZlRuZnhxRzZsV1pvODMtV1F5by10Y0FJS2pyblNRZFJNaEhPeW1GVDRJSG8wZm84bHNUeHRFY1Zoc05tOTdGV2JxZFZvZkhR?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-10T11:00+09:00"
     }
    ]
   }
