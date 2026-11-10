@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:40+09:00",
+ "updated": "2026-11-10T20:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -113,12 +113,6 @@
      "at": "2026-11-10T16:54+09:00"
     },
     {
-     "title": "米軍機、イラン脅威情報を受けて英基地から退避か 10月にも戦略爆撃機撤収",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qdVhpMndRc2pVNXBIU2dkTFBGS2lUZnJ4OTB0RXRUc3NvaEpBdjRaUk5mYUtaOGdiNmY4dDA3el92b3lvaVFaZmQxUFhaN2x0Y0UwajNjVjRBTElPSDg0RXhpZS1jMnR6Wk8tREVoR2x6MUtpYWc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-10T16:20+09:00"
-    },
-    {
      "title": "米軍機、英基地からまた退避 イランの脅威で＝報道",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55SkE5clJVUy1QU0xJN1MtV2ROUE1nUXlyb2JCMG43RkRWeG9CeHNEaTl4NjhZbzhEZ29wd1c1X2hld19zaGd3M2hlV1FxbWhyVDliWEswWTNQbUM2clpzcmptdGZQdi04T01GVQ?oc=5",
      "source": "Infoseek",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXBHWTh3YnNNbVdvT2hkMTJQcVptUnd6MG9wQWlzc0p3WHFJTmU2ODduYUxFLWpDZlZFdW5wNktSRkRMTE5qVkJNNW13U2JtUUpDX3NwaXU1TExmMk9fMGJVb3hIYkNJc3hRTjR3?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-10T14:24+09:00"
+    },
+    {
+     "title": "イランへの再攻撃「必要ない」 トランプ氏、中間選挙大敗で慎重に？",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ob0o4QnhDcVlGYXBzeW5ZR0JWcmo2TTBFQ181NDZoRmh2VzdsZ3JWa2sxTlc2MTNRN3RrLU9LRHdjUFE1Umd4c3hJM0hhUEVxZnoya2RQazlJUGNJVHVpcWVWQll4akE?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-10T12:50+09:00"
     }
    ]
   },
@@ -557,13 +557,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "米軍機、イラン脅威情報を受けて英基地から退避か 10月にも戦略爆撃機撤収",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qdVhpMndRc2pVNXBIU2dkTFBGS2lUZnJ4OTB0RXRUc3NvaEpBdjRaUk5mYUtaOGdiNmY4dDA3el92b3lvaVFaZmQxUFhaN2x0Y0UwajNjVjRBTElPSDg0RXhpZS1jMnR6Wk8tREVoR2x6MUtpYWc?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-10T16:20+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "北朝鮮が日本海で新型魚雷の発射実験を実施",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaXRYdTlhNkc4bTlZMVRxblpfSXJyYXN1UzFnREdTRF9VeWJWQWVmLXB3U3AzZnYydm5XRHczVUpRbFJQRXN2c25EX1VsRnlYN1lORDRUenRoTnp0dG5F?oc=5",
    "source": "NHKニュース",
@@ -611,6 +604,13 @@
    "source": "公益財団法人 国家基本問題研究所",
    "at": "2026-11-10T14:30+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "トランプ大統領「イラン再攻撃は必要ない」戦闘終結に期待示す",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXBHWTh3YnNNbVdvT2hkMTJQcVptUnd6MG9wQWlzc0p3WHFJTmU2ODduYUxFLWpDZlZFdW5wNktSRkRMTE5qVkJNNW13U2JtUUpDX3NwaXU1TExmMk9fMGJVb3hIYkNJc3hRTjR3?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-10T14:24+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -629,16 +629,16 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「爆撃」2件",
+    "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「大規模演習」1件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "米軍機、イラン脅威情報を受けて英基地から退避か 10月にも戦略爆撃機撤収",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qdVhpMndRc2pVNXBIU2dkTFBGS2lUZnJ4OTB0RXRUc3NvaEpBdjRaUk5mYUtaOGdiNmY4dDA3el92b3lvaVFaZmQxUFhaN2x0Y0UwajNjVjRBTElPSDg0RXhpZS1jMnR6Wk8tREVoR2x6MUtpYWc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-10T16:20+09:00"
+     "title": "トランプ大統領「イラン再攻撃は必要ない」戦闘終結に期待示す",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXBHWTh3YnNNbVdvT2hkMTJQcVptUnd6MG9wQWlzc0p3WHFJTmU2ODduYUxFLWpDZlZFdW5wNktSRkRMTE5qVkJNNW13U2JtUUpDX3NwaXU1TExmMk9fMGJVb3hIYkNJc3hRTjR3?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-10T14:24+09:00"
     },
     {
      "title": "中国が台湾周辺で「サイレント大規模演習」か 西太平洋に空母など100隻超、常態化誇示",
