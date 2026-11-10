@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T07:30+09:00",
+ "updated": "2026-11-11T07:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-11T07:36:00+09:00",
+   "place": "岩手県内陸南部",
+   "mag": "2.9",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-10T22:23:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-09T18:35:00+09:00",
-   "place": "長野県南部",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -95,10 +95,22 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランで女性志願兵の軍事訓練施設を開設 地下ミサイル基地も公開",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVVjFFRXhGclJGR2FSWnZfSVNEemp3RFJNbHhnT3Q5bTEzWXlVVzYxMy04NkNQMmpVZHpfRWREZkVGaWhXei0xRjNwMXFjOXNHRk5jUDJaYkJnME5GN2Vob0hBOGlHUTV5eE5jOFBn?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-11T07:30+09:00"
+    },
+    {
      "title": "米軍がイランへの陸上輸送ルート遮断へ 特別部隊「アイアンゲート」新設で包囲網強化",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tay1RU3VNaFdhT2FFUmhJLVVwVjdOMFF5cGpkN1RhMFQzT3E0MnVzbWtZdUR4UmRoOGZLby16UE1UTHR1a0M1WUVndFNyalZ1aE9z?oc=5",
      "source": "東京報道新聞",
      "at": "2026-11-11T07:11+09:00"
+    },
+    {
+     "title": "［スキャナー］Ｇ７で米国務長官、外交路線の継続強調…イラン攻撃は成果強調・国連とＩＣＣは問題視",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwX3E3V0JFMUc4TjROaWJERXJMNW5MSktKX2syUmRhajNsLTRMLWk2b29jdGZuNkVNY1Y4R2hqTEZUVTZQVEd1bUNYalBQbjQyWDV0MWtZSWhUZmdYOC01TEhR?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-11T07:05+09:00"
     },
     {
      "title": "イラン、本格交渉入り否定 「核合意に固執」と米批判",
@@ -117,18 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ONVA1THIycVd4Qkx3LUFpNWZDODc0dERxN3pYQWRoRWN6Q1h5dVMwcGQydDVpZUlQOW9ya2NKdGwtVVZCRXBaRmcyVG9KUzJVSC04YUtJWXpwcXRxN01xdnFrQ1lZYm4xem5yR3R0MTlod0d1UTJJYmhB?oc=5",
      "source": "テレ朝NEWS",
      "at": "2026-11-11T06:13+09:00"
-    },
-    {
-     "title": "ヘグセス氏、自身への弾劾は「茶番」 イラン攻撃は歴史的勝利と主張 [アメリカ中間選挙][トランプ再来]",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LQzNRQTdHVXVxX19jaU5WZ3E4aXZBYnNSZFhtNTJIejEtME1MbE1SeEEzQnFYVGREQkVSVW01Z0lCUHRESEl1cnZtUTlDelJUVUZweXB4MmhlMW9BNDk5c0ZIQWNkTVk?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-11T05:30+09:00"
-    },
-    {
-     "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
-     "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-11T04:09+09:00"
     }
    ]
   },
@@ -309,6 +309,12 @@
    "at": "2026-11-10T20:40+09:00"
   },
   {
+   "title": "SBSラジオの防災番組が日本民間放送連盟賞「優秀」を受賞! 南海トラフ地震臨時情報の対応を検証（静岡放送（SBS））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJa05PUHR3Y0JEODF5Q3kwMzNWRlpGSmNnQTZfM3ZfbWJQZjNjWmdFTWNEYWRITUFzU3U5cXV2NkpjWm95bzh2RXlmTDlNengyQlpVSnZ5WWlDZ3FORXpUS3ZteWhkVnM1V3lnTWJPNi1NVEoyMFd0NjFmdWlkYmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T19:47+09:00"
+  },
+  {
    "title": "【全掲載】「３*ランク」「３ランク」海溝型地震…30年以内の発生確率26％以上（南海トラフなど） 実は日本の周辺に多く存在…「S*ランク」「Sランク」活断層についても掲載（政府・地震調査研究推進本部）（ｔｙｓテレビ山口）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RTg1QUtYWk4zUkZFWm5qbFAyTkJDVUFCRTcyOGw4b2RCS3NNbWRPcWVkZmNEWkRvUE1OcEpxQ2N3OHI1VjM4TjhmYXVrZjNtZDdFTkVaQ1pUc3hFeFU1RDBRV2NVSWdtb2doSW43dGFydUJjRk5NVURTelc0TnM?oc=5",
    "source": "Yahoo!ニュース",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlZUdFTzdwczFJWkpPdEJfU3FfOUt3WDJHMTF4bXBoX3NDSHN0RjVIUGlpVDRLV1BWLVJOalE3WkNqb0RRN0FuMjdXYnZzUC1weTE4d29BbkxsaVVmX21r?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-10T18:12+09:00"
-  },
-  {
-   "title": "「南海トラフ地震の発生可能性は高まっていない」 浜松市で震度５弱の地震で気象庁の評価検討会（静岡朝日テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aTDdRUFMtSVlNVDZUVmxtUFh1NUl3WGFLeFhaRGItWWcyd2xTOW01dHJMeVVuSl96UEYtTUZqOVNGamxpeTdvcmtjTGJQX25PNGxyT3dXY1A2cFBWWkNLLUFpXzdHSWdreFprd210ZjdnMXFBVWJDUm9ocWd2V0U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T11:54+09:00"
   }
  ],
  "outage": [],
@@ -392,10 +392,22 @@
    "at": "2026-11-10T20:25+09:00"
   },
   {
-   "title": "戸籍コンビニ交付システム障害発生【復旧】のお知らせ",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XZmNGYWR1cnI0MGR6VktxcEIwZVFMTDNtUWM3ZEJ4MUxoWXhzd0VYaEx0YTYxWmhlRi13YkJUNkFoVWd0SXlNRnliSkFhZEVFRUhneUk4NnozbW53d3dMOUUxTVQ3RkxYRnVRa2g0aw?oc=5",
-   "source": "五條市",
-   "at": "2026-11-10T20:12+09:00"
+   "title": "仏批判に「根拠ない」 冷蔵施設へのサイバー攻撃 イラン（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NOUhTbWpfamNPUTdVN1NNZWlXR0YwZEFVMkRIV200dEFzVERWeTR6SlhDc3RzSHBLc0FNS3Nha0Y5THNGeWdNTkVlSTl5QTdaUWlnYmVlMTZOZmNxQ1djTV9pbWRDeTdmNWxwamh0bjhLNnRBcjVRbDNybzR5alk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-11T07:39+09:00"
+  },
+  {
+   "title": "冷蔵庫を50度にするサイバー攻撃、仏700超の拠点で食品廃棄と火災 日本政府が冷凍・冷蔵設備に注意喚起",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMF9vaWZQeVNWQnVSaTVSTTRpMk0td00zcUVmbUNoUnhCblc2WUNXV3VDUzRRTVk0OXlJMVVhOWw1SHRsWlg5QklGSEJDREZxeDhJdnlvU3MwdWhPRnhTenlOOC1USV8wV3A2V21HZVp5bDJTQTZPVi1QeU1oRXJEYk44akVyYXhGdDhLTEFJcGNkQW43WWtDd2VjdUMySndHeG4wMlROU2FqRUdM?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-11T07:30+09:00"
+  },
+  {
+   "title": "日本商工会議所のネット試験に不正アクセス、最大約98万人分漏えいの可能性 簿記の合否・得点も",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMaTZTYUJtMk5zTHM0TWEtdFE2elRIU2hJNmhJdEJMNWtQNG5EczdxLVZWY2VtM0J1RXVPeXRvUmNEa1lOVmNSVzdLcERReldoaUF6SExyT3JnZzJwb0JhWjdqZzE1ZDRYNFpSY1hEWEVyZW8?oc=5",
+   "source": "innovaTopia",
+   "at": "2026-11-11T07:28+09:00"
   },
   {
    "title": "ニトリ、外部からの不正アクセスで最大3762万件が流出した可能性",
@@ -456,22 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RT2UtdllxSnp2dzhOY1NhZXhncTV2LUF4UHJQSi0zVUFDSC1TX1FZNERkbmsxck1fMGlOSnh1alpPeXZDV0M0SmpSa1FGS19JcDNsU0g3MXFKUHVvLUZVZVpiUWN3VXBMajYxSA?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-11T05:00+09:00"
-  },
-  {
-   "title": "政府 ブロッキング議論へ サイバー攻撃 二次被害抑止",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RRklmUldLM1lVY05uUHdibnVJSFFfT1JvVEVhR3dNN0Fxd2xGdC1NLTQtTWJSVW5FOURxaFpHVnlkR0FocnBQS01nM09LUVh0VDd1c0NxVDVGRktqdXc?oc=5",
-   "source": "福井新聞社",
-   "at": "2026-11-11T05:00+09:00"
-  },
-  {
-   "title": "政府「接続強制遮断」議論へ サイバー攻撃、二次被害抑止 「通信の秘密」侵害恐れ",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PeFNYZXBLWTRYUWV2cXM5NmRUVlhkdFVJd0JaQ0ZoZkNUaExpSVprUVpib3pjeXd1a2RfeldtNDlmSWdBYXJwM0pja2JBcFNpbnR2QThKMkxoSEFLalBSMV9n?oc=5",
-   "source": "琉球新報デジタル",
-   "at": "2026-11-11T05:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イランで女性志願兵の軍事訓練施設を開設 地下ミサイル基地も公開",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVVjFFRXhGclJGR2FSWnZfSVNEemp3RFJNbHhnT3Q5bTEzWXlVVzYxMy04NkNQMmpVZHpfRWREZkVGaWhXei0xRjNwMXFjOXNHRk5jUDJaYkJnME5GN2Vob0hBOGlHUTV5eE5jOFBn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-11T07:30+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "米軍がイランへの陸上輸送ルート遮断へ 特別部隊「アイアンゲート」新設で包囲網強化",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tay1RU3VNaFdhT2FFUmhJLVVwVjdOMFF5cGpkN1RhMFQzT3E0MnVzbWtZdUR4UmRoOGZLby16UE1UTHR1a0M1WUVndFNyalZ1aE9z?oc=5",
@@ -485,6 +492,13 @@
    "source": "読売新聞",
    "at": "2026-11-11T07:11+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "［スキャナー］Ｇ７で米国務長官、外交路線の継続強調…イラン攻撃は成果強調・国連とＩＣＣは問題視",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwX3E3V0JFMUc4TjROaWJERXJMNW5MSktKX2syUmRhajNsLTRMLWk2b29jdGZuNkVNY1Y4R2hqTEZUVTZQVEd1bUNYalBQbjQyWDV0MWtZSWhUZmdYOC01TEhR?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-11T07:05+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "ロシアとウクライナ、米仲介の和平協議初日 米国務長官「非常に生産的」",
@@ -541,20 +555,6 @@
    "source": "Reuters",
    "at": "2026-11-11T05:37+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "ヘグセス氏、自身への弾劾は「茶番」 イラン攻撃は歴史的勝利と主張 [アメリカ中間選挙][トランプ再来]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LQzNRQTdHVXVxX19jaU5WZ3E4aXZBYnNSZFhtNTJIejEtME1MbE1SeEEzQnFYVGREQkVSVW01Z0lCUHRESEl1cnZtUTlDelJUVUZweXB4MmhlMW9BNDk5c0ZIQWNkTVk?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-11T05:30+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
-   "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-11T04:09+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "爆弾攻撃に劣らぬ…イランの『冷蔵庫テロ』に震える欧州",
@@ -629,16 +629,16 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」1件",
+    "イラン・アメリカ：「攻撃」「ミサイル」2件",
     "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "ヘグセス氏、自身への弾劾は「茶番」 イラン攻撃は歴史的勝利と主張 [アメリカ中間選挙][トランプ再来]",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LQzNRQTdHVXVxX19jaU5WZ3E4aXZBYnNSZFhtNTJIejEtME1MbE1SeEEzQnFYVGREQkVSVW01Z0lCUHRESEl1cnZtUTlDelJUVUZweXB4MmhlMW9BNDk5c0ZIQWNkTVk?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-11T05:30+09:00"
+     "title": "イランで女性志願兵の軍事訓練施設を開設 地下ミサイル基地も公開",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVVjFFRXhGclJGR2FSWnZfSVNEemp3RFJNbHhnT3Q5bTEzWXlVVzYxMy04NkNQMmpVZHpfRWREZkVGaWhXei0xRjNwMXFjOXNHRk5jUDJaYkJnME5GN2Vob0hBOGlHUTV5eE5jOFBn?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-11T07:30+09:00"
     },
     {
      "title": "ウクライナ|ロシア占拠のザポリージャ原発でドローン攻撃、職員死亡…ＩＡＥＡ「原子力の安全を脅かす攻撃」",
