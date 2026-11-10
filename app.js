@@ -780,7 +780,10 @@ function assessJapan(info) {
     else if (q.maxiRank >= 5) yel.push(`${q.place}で震度${q.maxi}（${fmtAt(q.at)}）`);
   }
   pushNankai(info, red, yel, urgent);
-  const ja = realOnly(newsHits(info.japan, ["Jアラート", "国民保護"], 12));
+  // Jアラートで緊急にするのは、実際の発射や避難の呼びかけを伝える見出しだけ（試験放送のお知らせなどは除く）
+  const ja = realOnly(newsHits(info.japan, ["Jアラート", "国民保護"], 12))
+    .filter(n => !["あした", "明日", "予定", "流れるみたい", "流れます", "放送", "お知らせ", "伝達", "点検", "確認"].some(w => n.title.includes(w)))
+    .filter(n => ["発射", "ミサイル", "落下", "通過", "上空", "避難", "地下", "建物の中"].some(w => n.title.includes(w)));
   if (ja.length) { red.push(`「${ja[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(ja[0])); }
   else { const mi = newsHits(info.japan, ["弾道ミサイル"]).filter(n => ["北朝鮮", "日本", "EEZ", "ＥＥＺ", "排他的経済水域", "防衛省", "官房長官", "日本海"].some(w => n.title.includes(w))); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
   return result(red, yel, "大きな地震やミサイルの報道なし", urgent);

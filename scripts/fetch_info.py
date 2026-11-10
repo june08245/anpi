@@ -69,6 +69,10 @@ JAPAN_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("弾道ミサイル 日本 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
 JAPAN_KEYWORDS = ["Jアラート", "弾道ミサイル", "国民保護"]
+# Jアラートで緊急にするのは、実際の発射や避難の呼びかけを伝える見出しだけ
+JALERT_REAL = ["発射", "ミサイル", "落下", "通過", "上空", "避難", "地下", "建物の中"]
+# 予定・お知らせの見出し（「あした流れる」「放送予定」など）は除く
+JALERT_NOT_REAL = ["あした", "明日", "予定", "流れるみたい", "流れます", "放送", "お知らせ", "伝達", "点検", "確認"]
 JAPAN_MISSILE_PLACES = ["北朝鮮", "日本", "EEZ", "ＥＥＺ", "排他的経済水域", "防衛省", "官房長官", "日本海"]  # 日本に関係する弾道ミサイルの報道だけ数える
 # 大阪市：避難指示・断水・大きな火災などの報道（見出しに大阪市内の地名を含むもの）
 OSAKA_FEEDS = [
@@ -350,7 +354,9 @@ def assess_japan(r, now):
     elif nl == "yellow":
         yel.append(nr)
     jn = r.get("japan") or []
-    ja = [n for n in hits(jn, ["Jアラート", "国民保護"], now, 12) if not any(x in n["title"] for x in RED_EXCLUDE)]
+    ja = [n for n in hits(jn, ["Jアラート", "国民保護"], now, 12)
+          if not any(x in n["title"] for x in RED_EXCLUDE + JALERT_NOT_REAL)
+          and any(w in n["title"] for w in JALERT_REAL)]
     if ja:
         red.append(f"「{ja[0]['title'][:40]}」")
     else:
