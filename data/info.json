@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:15+09:00",
+ "updated": "2026-11-10T16:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-10T16:14:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-10T15:36:00+09:00",
    "place": "房総半島南方沖",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-09T05:16:00+09:00",
-   "place": "宮城県沖",
-   "mag": "4.5",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "台湾国防部「中国軍が西太平洋に空母など展開し演習」と非難",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQ1BRSXRvXzJQZE1OZlduTmh5VXVaWU5ZcnpROHEzQXpEdVk4eFZjaUpmRVJZWkgwQmVXYTBHR1ZBbUhLa3RUVWhMOEw5VHhDenhPRDRmbTZFRi1QWExJ?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-10T16:24+09:00"
+    },
+    {
      "title": "中国軍事動向月報 ２０２６年１０月",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IbmZhbElMa25yX19EdnZJR2haZlJPOVd1ellMUXAycjhLazVxYVJDMmFfbUVOLXNEbkhXeVE5RTdJRWRJZC1yd1FZNA?oc=5",
      "source": "公益財団法人 国家基本問題研究所",
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUl4bWZWb3h0N3RCY2s1b21wNHBwdFJhSHNoWk9OVVpfS0M0d2NCMVNjenBSQTFsRk1kWGlMZWdROF9HQklnOUktRjJ5NnNKYTY1VEtqZF9UaUlTdUdaaFM0VVY1N0ZBenB6S2lxd01mN3pYdjFwbXNpYl9TX1k2X2txM3ZEVWs?oc=5",
      "source": "Yahoo!ファイナンス",
      "at": "2026-11-10T10:15+09:00"
-    },
-    {
-     "title": "「中国軍関連企業」リストから無錫薬明康徳を除外、米国防総省",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTVXMUtlb2YtNklEUUZPZ1NSR2NfWFZfaXAwZTh6TndTRzNCdUpQTE9lUmNkYUVLUVhJWlZzOVIyRWdERzZON293Y2ZDRXBTdFROaWl3OXpaVWMySmNQZHM0ZFFDX0kwU1dKYl9fc3pscDNGQXpsMUlMbkNKaS1qWHB0ZGI?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-10T08:03+09:00"
     }
    ]
   },
@@ -203,14 +203,14 @@
      "at": "2026-11-10T14:36+09:00"
     },
     {
-     "title": "北朝鮮が新型高速魚雷を試射 来年初めから海軍に配備へ（FNNプライムオンライン（フジテレビ系））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU3VYenhKaEpxNWVIT2Jhdi1wY1FJLTlXbjQycFFjM3JkMUs5NTNpZHRvM0VBcXhySF9rOTJQSFBMRUliT2xLVVRTR3hOcWo2SURTMjdPUXJobmhvbEVSQTRlbVN4ZWd0SERtNDFHVWhCZmswRW5HWXRkVzV0U0E?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-10T14:24+09:00"
+     "title": "北朝鮮が新型高速魚雷を試射 来年初めから海軍に配備へ",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbEkxdzZRRU5FU3JMZ3VCQXlKaUVsUS04ZVlUOXF1RlVkOWtmZlB5anpRQzdzNW9XNTQ4Z191eEVIQm52bTZkempuZHpPbWxJY05zdkdnV3JiblVTWllKMkwxY0tiYUtvT0ZVb1BoWHhsZUU3TWNYdjJROVhqSGlwdg?oc=5",
+     "source": "UQライフ",
+     "at": "2026-11-10T14:27+09:00"
     },
     {
      "title": "北朝鮮、日本海で新型高速魚雷を試験発射…2027年初めから海軍に配備へ",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qX2NiYkE5eWF4VTBpeExFZnZGbXYxTUJXbW1meUtPSVJvc1NUMGd1b1hfZmIxN09xTnV2d0V1SzlWc1NSY21KYUVFTV85dm1NZmpTOFM0elE0XzltTnZ4eFh3RDBaNy1EQVJVYmNtc2U0d9IBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQdIBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-10T14:21+09:00"
     }
@@ -234,9 +234,9 @@
     },
     {
      "title": "ウクライナは「最悪の冬」に陥るのか ロシア軍はエネルギー施設への攻撃を継続",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZzA3N251WXlkSUFpejMwYXB2QTlVdU5HUkVWR25MNVliRmxoSGpMNmZ6TFZvMUp0a3NnS0g2U3k1VnNDOVFSU1pENkwxbldxYWhWWmV4TklUUQ?oc=5",
-     "source": "Forbes JAPAN",
-     "at": "2026-11-10T11:30+09:00"
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWtiNkc5M1M4U2c3NHlialdFbEVmR1h3ZU5RdEtNOGZWa2I5Wk5MNXRrYXBSYVJfSEFHZXFWZ25aaGQ0eWR2MWhYSGIzRUhMaElPSDR4UWQ0LUw2Xzk1TW9UZkk4NFQyeXA4NXl2YWVQcW84dVNQU0RneUp2aTVaMzJVOVBwMW1ZUDVUVHB3?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T11:56+09:00"
     },
     {
      "title": "ロシアで再び燃料不足、ウの製油所攻撃で 軽油輸出に影響懸念",
@@ -392,10 +392,22 @@
    "at": "2026-11-10T15:22+09:00"
   },
   {
-   "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か（ITmedia NEWS）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZnFXdll0MTRFdUxNbVZGSW80MXR2cUJTTUtXYWVFeGN2UjFETVBfb2tkY2R5ekhRSFZMVnJZSTZUUGZBWHhpVVhuanl1STlmOU4zaTRTX1JXOVBJN0lPdjIzbXhuTDBfSmpXQWVEdWJmWC1GMHFUYTVGTkNBRE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T14:35+09:00"
+   "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcElmVkR4MVZrUlFhRldBLVdQdnZ6SThmbWxRMVVEcjVwSFotdXpwWXFWYlFkMHl0akt6d3NnblFVYU9WVEpxMFRtUjE1MHhTWlJuaFNyczRuSzl3bHZSUERIck9wTFAxZFE?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-10T14:29+09:00"
+  },
+  {
+   "title": "エディオン、不正アクセスによる個人情報漏えいで各種サービスを停止",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSbHMwRHhWTEFxMlpIaEhtS1NfSk5LNURxR01QUWJrZWJ0S3ZsU3BmUjZOVmYzcHItcHhFLWo2X0UtQ0I3bjVIeXlZbW5BTTE0c0E?oc=5",
+   "source": "激流オンライン",
+   "at": "2026-11-10T16:26+09:00"
+  },
+  {
+   "title": "冷凍・冷蔵設備へのサイバー攻撃相次ぐ 国家サイバー統括室が国内事業者に対策呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MVlBrWjhwOXNtbWk0MEtXLWIwOHFfTVNscTFJWENWZEduM28xcjh5WGNXX3pSSTNRNHBYWTNPenV4RElCQlN4SVlJR29EcGZUc1A1cHBDcjJTajRZdk55Wjd4ZTRsdU55SlUw?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-10T16:02+09:00"
   },
   {
    "title": "ソニー生命、不正アクセスで自社契約情報約290万件が新たに漏えい アプリなど6サービス停止続く",
@@ -456,22 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xWHNOUG5uZ2NGYWFGTC12dV85RHYzUVdDOW9DWldCVy1aeVYzelNlT3VoaGprVG5RSkJjTjZIVDZQc2owdzZaU2o4SzQ0Z0hwV1pYQWpEcHRfMHJZT3dUaXlZaS1KSHh2S2Iw?oc=5",
    "source": "株式会社ラック",
    "at": "2026-11-10T15:00+09:00"
-  },
-  {
-   "title": "冷凍物流事業者など対象に、国がサイバー攻撃への注意喚起。欧州で発生した冷凍・冷蔵設備への攻撃事案受け",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qWElKSVlvLTQ5aU5GSUR0WmZ2bVJlaWo2WkVSMnBGdnN6WWdzUkl5VnpuZno4OXVyT24wbGtiXzBRX0JfU1JrRXMyZm5uMjNXb3NxWmdWVmZrQWIzUmZ3?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-10T14:56+09:00"
-  },
-  {
-   "title": "SecurityScorecard、AIの性能とサイバー攻撃への耐性を検証する世界で初めての「サードパーティリスク管理ベンチマーク」を発表 | SecurityScorecard株式会社",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9QSmdHdWtZcERwRUloYTcxdlphX2d1RHhMS2lPVDVCTGp6UURBWEhsNEZJZW10Z3RYdVM5Mkp2bExWcms?oc=5",
-   "source": "Digital PR Platform",
-   "at": "2026-11-10T14:47+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "台湾国防部「中国軍が西太平洋に空母など展開し演習」と非難",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQ1BRSXRvXzJQZE1OZlduTmh5VXVaWU5ZcnpROHEzQXpEdVk4eFZjaUpmRVJZWkgwQmVXYTBHR1ZBbUhLa3RUVWhMOEw5VHhDenhPRDRmbTZFRi1QWExJ?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-10T16:24+09:00",
+   "topic": "中国・台湾"
+  },
   {
    "title": "トランプ、カタール首相との会談後、イラン戦争の軍事的停止を宣言",
    "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOZTNjckRsQTlXNHZzSV8wU2RkdWEyNDFycm9FV0VQNUZodV9NbGdOQVpXdzExcDhRam51Mm1wLVN3WFNaYW5HVERlRDQ5TTJGbXBsb1p6cWVGTFJvQ05aUjNCRGNZbGgzYkxkRlRGYlM5SklEWkp1dUFYUkY4Q1pRM0JnX0hMeUN4YnZwV0k4Ym5rSHZfeFdxV1lXUGVsSklzRlVILVFuRWlSdTgyOVpGejEwTDBlLW82Qmw0S3dGeVY0alJMMXFybkF2MmNDRFA1N0w3TkFQcXhqLW5wVXJsamM5S0hrbHBLWXRSZ3g3SXpEdFdpMm1WNU5FS2FkR2p3dXNmVHlZQ2g1WHRJanQ1RjhvUDdNNzRXWV9MZ2w3SXhxYjlodndWOXNQNHlMZnlfenY1YlZRdXNMQmljZ096dFlrYS1nY3kySmtJQ3JPeTlaazk4VWphTGtINmlXNlJLRDcxSmtmODBtNjg2SVlad2kxaUdhellLaWk0WVJmY0VnVzhob0lsUjBpUFVHbVlKQ2pCdUdzTnU4UElHam93c1c4LUtSVUZQWlZ6X3h6ZzFZSk0?oc=5",
@@ -536,6 +543,13 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "北朝鮮が新型高速魚雷を試射 来年初めから海軍に配備へ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbEkxdzZRRU5FU3JMZ3VCQXlKaUVsUS04ZVlUOXF1RlVkOWtmZlB5anpRQzdzNW9XNTQ4Z191eEVIQm52bTZkempuZHpPbWxJY05zdkdnV3JiblVTWllKMkwxY0tiYUtvT0ZVb1BoWHhsZUU3TWNYdjJROVhqSGlwdg?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-10T14:27+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "トランプ大統領「イラン再攻撃は必要ない」戦闘終結に期待示す",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1YXBHWTh3YnNNbVdvT2hkMTJQcVptUnd6MG9wQWlzc0p3WHFJTmU2ODduYUxFLWpDZlZFdW5wNktSRkRMTE5qVkJNNW13U2JtUUpDX3NwaXU1TExmMk9fMGJVb3hIYkNJc3hRTjR3?oc=5",
    "source": "Excite エキサイト",
@@ -543,15 +557,8 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "北朝鮮が新型高速魚雷を試射 来年初めから海軍に配備へ（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU3VYenhKaEpxNWVIT2Jhdi1wY1FJLTlXbjQycFFjM3JkMUs5NTNpZHRvM0VBcXhySF9rOTJQSFBMRUliT2xLVVRTR3hOcWo2SURTMjdPUXJobmhvbEVSQTRlbVN4ZWd0SERtNDFHVWhCZmswRW5HWXRkVzV0U0E?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-10T14:24+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "北朝鮮、日本海で新型高速魚雷を試験発射…2027年初めから海軍に配備へ",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qX2NiYkE5eWF4VTBpeExFZnZGbXYxTUJXbW1meUtPSVJvc1NUMGd1b1hfZmIxN09xTnV2d0V1SzlWc1NSY21KYUVFTV85dm1NZmpTOFM0elE0XzltTnZ4eFh3RDBaNy1EQVJVYmNtc2U0d9IBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQdIBVEFVX3lxTE9nRURvc2c2VUlyRGxPcWVGaUxkMVNXMEJaaXV5UlBmQ0o4V1YzOVd3NzBtOW9TQXd1VkxKUGVwMVM4dWV1RnFheW80Skp3ZVhBUkNyQQ?oc=5",
    "source": "AFPBB News",
    "at": "2026-11-10T14:21+09:00",
    "topic": "北朝鮮"
@@ -593,9 +600,9 @@
   },
   {
    "title": "ウクライナは「最悪の冬」に陥るのか ロシア軍はエネルギー施設への攻撃を継続",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZzA3N251WXlkSUFpejMwYXB2QTlVdU5HUkVWR25MNVliRmxoSGpMNmZ6TFZvMUp0a3NnS0g2U3k1VnNDOVFSU1pENkwxbldxYWhWWmV4TklUUQ?oc=5",
-   "source": "Forbes JAPAN",
-   "at": "2026-11-10T11:30+09:00",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWtiNkc5M1M4U2c3NHlialdFbEVmR1h3ZU5RdEtNOGZWa2I5Wk5MNXRrYXBSYVJfSEFHZXFWZ25aaGQ0eWR2MWhYSGIzRUhMaElPSDR4UWQ0LUw2Xzk1TW9UZkk4NFQyeXA4NXl2YWVQcW84dVNQU0RneUp2aTVaMzJVOVBwMW1ZUDVUVHB3?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-10T11:56+09:00",
    "topic": "ロシア"
   },
   {
@@ -603,13 +610,6 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXE4VzQtSDRzVW4tVFhuQVpicUhSNnh2aFB4di00REI1WjZfWmhQVEhkVXBGejhZcmFZd2JHbDVtWEdfWmcxMmpMMC10enB5ZWhiQ3RVaWNSakNmZFZ2OFA1OGlFNlVSN3JXY2g2UHhtZ0UwUWFEU0xyTWxiTDJrZGg3cUR3QQ?oc=5",
    "source": "Reuters",
    "at": "2026-11-10T11:16+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "アブダビ会談、ロシアが交渉する用意があるかを示す必要がある：ドイツ外務大臣",
-   "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPVjdDVWp6U0hXTFA1X2JReXlHeFVWb3RQemdhbkJ2dDVMM2lJSDZ2SzNuMnFLN3F5dk1Ga3ZGbXFLR2pMWU10Mlg2NVZ6YmhsR2gyUXA4Wk0wa0lkQno1QVBJRE9rR1NQT3BTZG1ZQzVSWTBaNjM1bWxUZDE4WVdWaUx6TTc4T2dPT3ByYTJFcmVLQUFzUHdHLUlOdXlFZXNwUlNDRGwyRzNOQ09aWlVTWExBNUtTSEN6OFN1eHhlYWhnZk9GLUpkWHM1UEFfTm1POGExOFVOU0ZKdzFJQ0lFYlVobHpLaVJsU2xpaFl2WXd2eFNfQnozRzZVVUJoSklVdkFZUlg5RzduZnliVXFiREhjaEIwUDhhZVV0UzFiVDFNQjlXVHNrOTVUTElKVDJiLUQ5ekhSWkQtb0Q0Y3Nuajh1NzhSRjRPU0ZZNlRxR2N2VjZfSWRYdU9JZUpxQXpLeXNlcjJLX0xMQnZaTjVNd1BkQk5pUmo5a2JKRHBsek12Yk5fY1IyLVR1Uk5MaWlmOFNWQmVUaFlyMmpnRnNBTVNhZS14dVkwLXZEaGtHdnBnTGN4a2hFMkZTWDBwbkhyNmVzRmtENHJpLVdaRXJhSUFzcmZHVUhsQ1dRWEMyOXk2QjB0Q09KRk43NEFsX2hpQ0J1Z01YR1Jvc1U?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-10T11:06+09:00",
    "topic": "ロシア"
   }
  ],
