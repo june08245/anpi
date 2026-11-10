@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:30+09:00",
+ "updated": "2026-11-10T20:40+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,10 +137,10 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "【図解】台湾政府ネットワークに1日280万回の侵入試行 病院・電力も狙うサイバー攻撃の実態 | 魏甫丞（ガイ・フシン） | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrTWN1MkV6d3YwaDFZSnkyTWlRNmkzWHpZY0M0eFR0bkRGUW5EUmZEY0REYzdFQXlibklwa3dPcVdFWHpEZVVOVTktZXF4emd2?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-10T17:07+09:00"
+     "title": "中国が「領域拒否演習」　台湾国防部が非難",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGR3LVltU0hWRFF5MHlkY095OHZNXzNTeThGNWJBNmJfa0FnRVNNT05FNkN6bER1b2N2NGU3MmlJVEYyVkp1NW05cjJFWjhyTEVVUnE5NUhZczVFUkEzNW9yN0JfRWVmak5lWW9QYXB3WW1nYnhDUzVPQUFyZGVYNE1Yb2FEU3lkbkdSUWVXcFFFRUJFUElldmRLOVBqdnd4N3dkX3RoTHRUSU9EV21vN2JzQTE0UlFqNUU5cERNcGRFZVBqWjFRNmR5VU1lUDMwRDEyVG1YZExuS0pBUVZJ0gGPAUFVX3lxTE5abVBPajBZcFMyZnFsQko0aXl6NDBISkhqTHVBSmJ5RE1zMElOMXBldFp1RHRreEx2aEZFVkNKZXc4bXA3X0trY3VRQWpBNVhabnFJaGJXMUdfZXJBMXB4a0xRM3FiZHB0ZWZFOVh5NW9lb2lJeF9VaHZXRXZZUHhQVVRmaWFMX3VKT3ZvaGww?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-10T20:33+09:00"
     },
     {
      "title": "台湾国防部「中国軍が西太平洋に空母など展開し演習」と非難",
@@ -380,6 +380,12 @@
  ],
  "cyber": [
   {
+   "title": "〔決算〕ニチレイ、通期純利益予想を上方修正＝システム障害で特損16億円(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkxqd1hUQ3JldVJoYmxEaGhSM1NUb0hmLUlqeWkwdmRyeHc3Y2E4QzV1bWtjTUlyaW1wTzlWa1I1eXVVVzhlenFtSGFUbkdkaUhFUmRiRHJDRVVJeFJ6cEozTEQycEo3bFJQQjRaeTE3cERtRDNRbjBBTFNLamlIMTNyZ05Ob1k?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-10T20:25+09:00"
+  },
+  {
    "title": "戸籍コンビニ交付システム障害発生【復旧】のお知らせ",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XZmNGYWR1cnI0MGR6VktxcEIwZVFMTDNtUWM3ZEJ4MUxoWXhzd0VYaEx0YTYxWmhlRi13YkJUNkFoVWd0SXlNRnliSkFhZEVFRUhneUk4NnozbW53d3dMOUUxTVQ3RkxYRnVRa2g0aw?oc=5",
    "source": "五條市",
@@ -416,6 +422,12 @@
    "at": "2026-11-10T20:09+09:00"
   },
   {
+   "title": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xRWROQmZLYzVqaVlDZjhkdHQydVlEc0lwVUFyYkJ5SFpzTllyVW5MTUU5T3J1c3RDSUQ0bHdoR2duRDFzN1ZMbzdESkhzZ0tqSjltZUtWYTllTGVqSG80?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-10T19:53+09:00"
+  },
+  {
    "title": "日商、簿記など受験者の情報約98万人分漏れた可能性 合否や得点も [情報漏洩・個人情報流出の最新ニュース]",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXQlJ6dTg2bURaMFRNamszanUxNmR5LXpXYXd2RXhRQ2tTb0tUYjJQVER6SGlaZEd0OG9LazhTSDFZeTBmN0dPeTBJWnFBOXlHZEVrbWQ1VVRfQkJ1eTBtWGgwOVIzVHM?oc=5",
    "source": "朝日新聞",
@@ -440,9 +452,9 @@
    "at": "2026-11-10T19:33+09:00"
   },
   {
-   "title": "「シェアフル」に不正アクセス、個人情報最大750万件流出の可能性。給与振込用口座や緊急連絡先含む（INTERNET Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93YnI1NGIySi0zeWlCd3pLTldLYXJ1cjZVZ3NpNXIzcmdnSUdlWUpybWg4aW5BclQ0bDl4R1oxcURLNnFVWWg3QWlNYW8xT3paQUJYaDhyQ3U4ZVJjT1ZkV2tQalFfVWtrODhrVjRKWVU4RWRVQmFYNWlfX0RkSDA?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "「シェアフル」に不正アクセス、個人情報最大750万件流出の可能性。給与振込用口座や緊急連絡先含む",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9INXZyamlmQVJRVUU1b0NPRkR6ZkVDZEFPb25INnNsRnR6djE0QUpiYWh5X2RvTGlrbzBvbmg1ai16U21CRzhLVnNwOXFIUDNLanU4ZVdTTnJLc18yWms0NlFqSDlkNzZ6OWgw?oc=5",
+   "source": "INTERNET Watch",
    "at": "2026-11-10T19:31+09:00"
   },
   {
@@ -456,22 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lYlBxRlh5RDA5YnFuRnY4dG5DWE1Gb2owbXlQNHotYWh2SlVBQUdIQmNBN05BYmlfOWxWNmlsWmVHVHU0b2N2TGQ3Vmc5YTQ5TWtaYmxTNjVKR254ejVJ?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-10T19:15+09:00"
-  },
-  {
-   "title": "総務省 サイトへの「接続制限策」を検討へ 相次ぐサイバー攻撃による個人情報流出を受け",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYQW05U2plMmlrbEF2Yzk0bDhLa2MyWUR1M1cyY1JMUGFDZnF1VWkyZWUzM0ZOVXZUTjBRcy1EMHFhazdtbl9PR0Vpdk5UcU5JUjB3T09mVQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-10T19:08+09:00"
-  },
-  {
-   "title": "日商、簿記受検者など98万人情報漏洩の可能性 不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wNC00Tzg1Ukh6WDc1WENYUURSX3dDYnBJR0ppUkM1VUVEekk4dHFCWU5CNzBYZjZNM19IWnlRTGZEUFZQTnJzdHNiSlJpN0ZoWVZqNGU3dHZPaVlNY0hnUTZJVWdfOTUzMkVwOQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-10T19:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "中国が「領域拒否演習」　台湾国防部が非難",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGR3LVltU0hWRFF5MHlkY095OHZNXzNTeThGNWJBNmJfa0FnRVNNT05FNkN6bER1b2N2NGU3MmlJVEYyVkp1NW05cjJFWjhyTEVVUnE5NUhZczVFUkEzNW9yN0JfRWVmak5lWW9QYXB3WW1nYnhDUzVPQUFyZGVYNE1Yb2FEU3lkbkdSUWVXcFFFRUJFUElldmRLOVBqdnd4N3dkX3RoTHRUSU9EV21vN2JzQTE0UlFqNUU5cERNcGRFZVBqWjFRNmR5VU1lUDMwRDEyVG1YZExuS0pBUVZJ0gGPAUFVX3lxTE5abVBPajBZcFMyZnFsQko0aXl6NDBISkhqTHVBSmJ5RE1zMElOMXBldFp1RHRreEx2aEZFVkNKZXc4bXA3X0trY3VRQWpBNVhabnFJaGJXMUdfZXJBMXB4a0xRM3FiZHB0ZWZFOVh5NW9lb2lJeF9VaHZXRXZZUHhQVVRmaWFMX3VKT3ZvaGww?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-10T20:33+09:00",
+   "topic": "中国・台湾"
+  },
   {
    "title": "米仲介のロシア･ウクライナ協議、アブダビで再開－停戦や安保が焦点",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmpZb2xhQ0RLTXZwRWlhZExpenhyNUxzMHpPbUpIRmxfTWJDNVFlcDBBS05JWkh6a3JhaXk1ZlpSZ284dVpuemtrb2RIVVl5al9aZi1WOWtLOXJIam5iTmRVM1hiVHNMVG41TEJUb3cwR1NGcXdMRXJBdHV2OWx3bHNtWm9KNTBqRnVpYkpn?oc=5",
@@ -534,13 +541,6 @@
    "source": "SmartNews",
    "at": "2026-11-10T17:54+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "【図解】台湾政府ネットワークに1日280万回の侵入試行 病院・電力も狙うサイバー攻撃の実態 | 魏甫丞（ガイ・フシン） | ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrTWN1MkV6d3YwaDFZSnkyTWlRNmkzWHpZY0M0eFR0bkRGUW5EUmZEY0REYzdFQXlibklwa3dPcVdFWHpEZVVOVTktZXF4emd2?oc=5",
-   "source": "風傳媒",
-   "at": "2026-11-10T17:07+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "イランに関連する脅威を受け、米空軍は英国のRAFミルデンホール基地から航空機を移動させた",
@@ -630,7 +630,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「爆撃」2件",
-    "中国・台湾：「攻撃」「大規模演習」2件",
+    "中国・台湾：「大規模演習」1件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
@@ -641,10 +641,10 @@
      "at": "2026-11-10T16:20+09:00"
     },
     {
-     "title": "【図解】台湾政府ネットワークに1日280万回の侵入試行 病院・電力も狙うサイバー攻撃の実態 | 魏甫丞（ガイ・フシン） | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrTWN1MkV6d3YwaDFZSnkyTWlRNmkzWHpZY0M0eFR0bkRGUW5EUmZEY0REYzdFQXlibklwa3dPcVdFWHpEZVVOVTktZXF4emd2?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-10T17:07+09:00"
+     "title": "中国が台湾周辺で「サイレント大規模演習」か 西太平洋に空母など100隻超、常態化誇示",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HVVp2MEZKcnp1UG1FU0x5X3BJaDJHVWdLd3JiTlloZ2NxdlRCNVgyZ2pGMG9YUkhoSmcza2VJQ3owQTdRNWpoSDNtaXhRQXlLUjM2elVPM2c1NEtyWTdYaE5kY0hGX3U0LU9XR2tFalFQM2RURnc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-10T11:56+09:00"
     },
     {
      "title": "航空会社や報道機関に相次いだ爆破予告 欧州当局、ロシア関与の可能性調査 | スマートニュース",
