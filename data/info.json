@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:15+09:00",
+ "updated": "2026-11-12T04:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,10 +95,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "ベッセント米財務長官、米軍基地に転居か イランによる暗殺の恐れ",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T1h2Yzc1UHBid19tVUltYks3WGZhTENiTG5fMmo3XzJhSTNqVUxXckNTOGE0RUc2UURBel85VFBSWDZadEhOSnlGRE9tR0F2RXhmbWl2UlRDY2NzSVdoSks4NE80ZG8?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-12T03:35+09:00"
+     "title": "ベッセント米財務長官、米軍基地に転居か イランによる暗殺の恐れ（朝日新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWHRTVVNaRFhLdFZRLVNpVnJxa3JaelFIMXdUN1E5OGU1N0pRX2pvX0pITmVIYVdGeU94OXJoY21YU3hYcWlKNEd6c0JTR29kc0VrWTlsRnZnMXc4b0pqaVVCU3FJTlNCa1dRQjZGVUdXR1d2azA1c1dCSnNzNG8?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T03:48+09:00"
     },
     {
      "title": "イランによる暗殺恐れ、ベッセント米財務長官が自宅から基地に転居…経済制裁主導し標的に",
@@ -380,12 +380,6 @@
  ],
  "cyber": [
   {
-   "title": "NTTドコモが通信障害の解消を発表 11日午前に全国で発生 (2026年11月11日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SaU5qekY4TUExd0VFRG1LVW0wR0NiODVOOFUyUERZd29hQXRNd0l6M1o5TWhXRzhIZmNlZFZRU2hucE04Z0l5ZUZ6Q3ZDbnpKUE1lQ1F0cjRYWHJuLWc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-12T01:30+09:00"
-  },
-  {
    "title": "海外金融機関のシステム障害、国内への影響なし",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43OF9waFZISmJoV2wtQlBpOHRVMzNXYlpNcHY4Q0x2ekxKN2xLY2dwaF81Wmloa3JjVEY0RXNiYTQzVDBIRWc?oc=5",
    "source": "NNAアジア",
@@ -468,15 +462,21 @@
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbHE1MTRVUS1HdUhXNmdaOUVYVjY2d0dPMEFSc0tEVEpwSG5zUld3anhUSmpHc21TTGJieWwxYk4tbVZDSHJrazcxTFpNR3JIODRsclNfbWhGYzZpVUZRd3QxbEtPTk1QeW43NmNPcERIS2NYQlZfQ2pjSmUwS1E0d3NlU1NEX3NJUFplZFFLQ0QyQ2tJMTZQRzJKNmhFSXY1LU0wUU5LeWc1NUhJTy1kQjBDV01vU2lKUHlsM3dPNUJzUk02T3FUUkZkMkdFWUpDZEI5MXRwNEYyZ2YtYWdJQkhOdTZhNjRLWWtSYkF3Z1lYZ1lIZzljbzVnWkpZZm5WQXg4cjdsSUVkNnRnME9sc3hzZlVlVkFSWDRpWTdCbV92S3dTd0pHdzZCOW5EWFhsSDdwdHJvNGcyLXd3N0I3UmVGYno5OXBUQVhpdUFqTTJPSVhBVnJuc2prOS1iQlFHLWRBdzM4Y1F4aU1VWGxZZnpZQQ?oc=5",
    "source": "SmartNews",
    "at": "2026-11-11T20:13+09:00"
+  },
+  {
+   "title": "グッドクロス 不正アクセス・PHP対応 緊急窓口開設サービスを提供 0120や050番号の即日取得と迅速な窓口開設を支援",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOdnNiWU9iYzlDNURxaXZyQ196a2VwcXQwMW5mY2wtLUI2WTJVMGVrWFk0cmw3U1gxYXJvcTJkb3JUZjlDWjNNbkdRQTR4MkhTdHZrU3VZOWVJaWJaVTR3THlOVXBvZnJJU0NoaEZUZkxZUkl5bGtMRnR6V0RBSnYwYWd3a25menpGWVIwUk9JU3YtUE8tOWpfSHlXbnRqZF9GeGg3N2hDZVRSWGhfOUlCYnBBbWY1dGxEWXdBbWRHdE5mWERaVk1kc3ZiQVZoYkd3TGpJNTVBTmxrT2F2WTBEcFp0Zm5nYnlYV3BQYVFpNGU5Q1ZjLTF6T3RHOWwwUnI1VU9kZzZzQ1Y1bnpTSDNKY1BpeUV2dUQxb3dIVkdCbktOZDhtaTlTa3hUeGxQSEZrUmRwdXRFRjlzT3dDRjd5aDd0TQ?oc=5",
+   "source": "ニュープリネット",
+   "at": "2026-11-12T04:02+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "ベッセント米財務長官、米軍基地に転居か イランによる暗殺の恐れ",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T1h2Yzc1UHBid19tVUltYks3WGZhTENiTG5fMmo3XzJhSTNqVUxXckNTOGE0RUc2UURBel85VFBSWDZadEhOSnlGRE9tR0F2RXhmbWl2UlRDY2NzSVdoSks4NE80ZG8?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-12T03:35+09:00",
+   "title": "ベッセント米財務長官、米軍基地に転居か イランによる暗殺の恐れ（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWHRTVVNaRFhLdFZRLVNpVnJxa3JaelFIMXdUN1E5OGU1N0pRX2pvX0pITmVIYVdGeU94OXJoY21YU3hYcWlKNEd6c0JTR29kc0VrWTlsRnZnMXc4b0pqaVVCU3FJTlNCa1dRQjZGVUdXR1d2azA1c1dCSnNzNG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T03:48+09:00",
    "topic": "イラン・アメリカ"
   },
   {
