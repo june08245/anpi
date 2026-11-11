@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T06:00+09:00",
+ "updated": "2026-11-12T06:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -227,10 +227,16 @@
      "at": "2026-11-12T05:11+09:00"
     },
     {
-     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
+     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrT3d0X05ycTFDUnBRQm1obURaYnp1Wm9qTDRNM0tEQUxZVXE3MWNWMUhNLTJod29sMFBpM0lJVWRjZzdpdXJLSDRQeFBoZmtMcm1zRVhGclU1eEN4VFpQY0Z5NGllcXpXY1QwVmtqNFRuSXBS?oc=5",
      "source": "TBS NEWS DIG",
-     "at": "2026-11-12T03:54+09:00"
+     "at": "2026-11-12T03:31+09:00"
+    },
+    {
+     "title": "ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2VUbjd6cTdFVjZrZWM1OEJfMjEwSXVvRHJmeEE2X19JMTJvRUV0U1lDUWR0cDRFVzFHQ1BITVhXeDdqczd0enQ0WUFZN25fYWlqbHE0ejFNcGVMUWlDS0xQam02d0Q2c2xVemlORmJQX1N1SjlJRk9SZEpWdjhkZFVDTFJoZw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-12T03:01+09:00"
     },
     {
      "title": "米国・ロシア・ウクライナ3か国の和平協議が終了 「大規模な捕虜交換」合意とクシュナー氏発表 欧州参加めぐり米露に温度差、首脳会談へ",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6N1hXYTMtbUtGbWxHTmVsRjVCQ0V1eXk4NTRna0ZWUmVmSFZCT2NtWDZsbk5wVHRMYm9yLVozQ18xajJINGVwZTYyaGswRjZzc2tiUkxJWnk0WmRHMHg1ekN3V2JDcHNk?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-11T21:38+09:00"
-    },
-    {
-     "title": "Ｇ７外相会合で共同声明発表…ロシアとウクライナを仲介する米国の３者協議を支持",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVVpwbWFIdHNtdzRSV3BWSFptaEg0MmtCY1RmOXpfMklsakY5WVROVkU3QVJDVTNOall6MS12ekRrbEE0azJ1QUk0VlhtVEJUazhyMzdzYVNxRlpFaG5Qa21n?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-11T21:31+09:00"
     }
    ]
   },
@@ -386,6 +386,12 @@
    "at": "2026-11-12T05:23+09:00"
   },
   {
+   "title": "信用金庫でシステム障害 復旧中も原因は機器の故障か",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16WURTaUlTZUJWekg1X25FOTFCWlk0LTRCMTM2dEVoNExvNHdhTGpfc2RtSFhoNEtNLUU2OUNTZmwzSjRtVktoUW01WHdXZlM4OHdteUwwbFhnOUE?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-12T04:55+09:00"
+  },
+  {
    "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
    "source": "GameWith",
@@ -414,12 +420,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFk0ZG5aYjZQMzdYQzNNdGI2QmFWSDZQXzVHTFFnZ29NSHlDV3QtOGtJZ2hId28ycVBHMTBhdnhaeW83c3VDU2pPWGZkLWNZdWxPUURsdV9Vdy03d1RuU01rbkk3VmVUN1BRWXVtYzhJSDR5eVdCc01tUjlrejRMSy1tQ2FuOEE?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-11T23:08+09:00"
-  },
-  {
-   "title": "信用金庫でシステム障害復旧中も原因は機器の故障か",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BZWhhUHMxRDA5eDR6cEo4aGZ4MFAwRHo1ME9vejdQSWJHeVdGX3k0VTZiRWUwbGcxaTl5ZS1IR3JXdkRhejdubkFhS1pwRzZueHluUWZPSVF4MC1aUW0weVNjOEVRSG8?oc=5",
-   "source": "朝日放送",
-   "at": "2026-11-11T22:51+09:00"
   },
   {
    "title": "通信障害が復旧 交換機が原因―ドコモ",
@@ -464,10 +464,10 @@
    "at": "2026-11-11T21:08+09:00"
   },
   {
-   "title": "オープンロジに不正アクセス、配送先情報が漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DQjMzWUtKLTFKVHlBUEVCOWNhemEyaHB1WGcyakQtVEU2VEJrVkpqay1CQV9Ka0FOZVFqMU54SHVlU1FkOWVrYmJB?oc=5",
-   "source": "LOGISTICS TODAY",
-   "at": "2026-11-12T05:48+09:00"
+   "title": "サイバー攻撃も無縁の「現金払い」が最強か 令和だから無双の“昭和おやじ生活”（ピンズバNEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsLWh3MVk1OXdsbWNxQi1aTnNsTVI5RTRIQ3JmSXN6NG1MY3J4eGxOTmJKRjRwaUFEVG9EMWUxTnh5akJaemt1aEJnTC1mZG5qSklVek1LZDVhejVISW1UbEpoNnFQejlxc0ZXTTVzTTNCT3d3Rk5GUERQTmV2OWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T06:01+09:00"
   }
  ],
  "osaka": [],
@@ -487,18 +487,25 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-12T03:54+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ベッセント米財務長官、米軍基地に転居か イランによる暗殺の恐れ（朝日新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWHRTVVNaRFhLdFZRLVNpVnJxa3JaelFIMXdUN1E5OGU1N0pRX2pvX0pITmVIYVdGeU94OXJoY21YU3hYcWlKNEd6c0JTR29kc0VrWTlsRnZnMXc4b0pqaVVCU3FJTlNCa1dRQjZGVUdXR1d2azA1c1dCSnNzNG8?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T03:48+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrT3d0X05ycTFDUnBRQm1obURaYnp1Wm9qTDRNM0tEQUxZVXE3MWNWMUhNLTJod29sMFBpM0lJVWRjZzdpdXJLSDRQeFBoZmtMcm1zRVhGclU1eEN4VFpQY0Z5NGllcXpXY1QwVmtqNFRuSXBS?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-12T03:31+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2VUbjd6cTdFVjZrZWM1OEJfMjEwSXVvRHJmeEE2X19JMTJvRUV0U1lDUWR0cDRFVzFHQ1BITVhXeDdqczd0enQ0WUFZN25fYWlqbHE0ejFNcGVMUWlDS0xQam02d0Q2c2xVemlORmJQX1N1SjlJRk9SZEpWdjhkZFVDTFJoZw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-12T03:01+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "ロシアの外交官らが、新たな欧州安全保障をめぐる協議の一環として、NATO加盟国との不可侵条約を提案",
@@ -603,13 +610,6 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6N1hXYTMtbUtGbWxHTmVsRjVCQ0V1eXk4NTRna0ZWUmVmSFZCT2NtWDZsbk5wVHRMYm9yLVozQ18xajJINGVwZTYyaGswRjZzc2tiUkxJWnk0WmRHMHg1ekN3V2JDcHNk?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-11T21:38+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "Ｇ７外相会合で共同声明発表…ロシアとウクライナを仲介する米国の３者協議を支持",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVVpwbWFIdHNtdzRSV3BWSFptaEg0MmtCY1RmOXpfMklsakY5WVROVkU3QVJDVTNOall6MS12ekRrbEE0azJ1QUk0VlhtVEJUazhyMzdzYVNxRlpFaG5Qa21n?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-11T21:31+09:00",
    "topic": "ロシア"
   }
  ],
