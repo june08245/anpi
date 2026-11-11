@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:45+09:00",
+ "updated": "2026-11-11T21:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "【速報】イタリア 300の学校に爆破予告 欧州でまた“アンドロポフ”名乗るメール",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95d1FmOEM3cHZkS1Q5XzV5T2pMUWNjcTVYcndRY3FBajZmbC1kenlwakZJQloySjl1ZlMyYzFxQW5aODJ4Mm9pUTFDWVd6a2xYUVJXcFJuMmdDbDB1VVdwNlQ0a3I0OFFfb1NaU1VzMGVJVkdRYU1zM1d3?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-11T20:47+09:00"
+    },
+    {
      "title": "ロシアの専門家がノルウェーのミサイル工場が標的になる可能性があると警告",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1hoLThBYm85YVVyR0E1RWFTUDJBQ3lPRW11WUZ0SnRXWERmWW9EUEVRSFhrWjRpQnpTdm0zeW9RbnZLYUYzZmFsbmdPY3FGOVFOaU4xVlRzTERaQ0ZZUGd0czByZTBfckJRNnowc19EUjdIU1BZbVIxUmJxcEIyZU44VTlPX3BkM2hzOE1BY2NfaHpFdU80NnM1OWEwTGhzZ2JDUksycUlEeVFfakk1aFlyTnc?oc=5",
      "source": "Laodong.vn",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd21IOGNVbkR5ZXNyYWJGb1RhSFhIYm9PSGdhMmZJTGc4NjFwMm91YWRwdjV0Xy1nWXcyZDBDVjNoZ0V4VXNhc2RPaXdLYkpCVlVRdFBfRFFQVk4zTFJxX1c1dUxfQnN5c2pMZERYcTZINmtHYnA3ME1JYWVValBxWWNOVlM?oc=5",
      "source": "Pasquale Pillitteri",
      "at": "2026-11-10T23:21+09:00"
-    },
-    {
-     "title": "ポーランドは、ロシア情報機関のためにスパイ活動と破壊工作を行った疑いのあるウクライナ人2人を逮捕した。",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnZNU2E2dk1BeWpOR0hpVlg1NTlJNzJBNVFzWVM2eFg3eTBmUWR1SHpRN3hUVEFMSnlhamdJYm9zZk1TNTVVQXl4SWs4azZ4akVjUzQ0bmx5RnhhOEJVdmVZVmlvSEZpYzYyYTVPZjlkbGsyOTl6clBpMkFKZHZnSGtwd2lZZElqdG1Nc3puTVBQVzgzWlp0S1RyQmZOd1MwV2NkOGdmNnBRcjR2bmstNm93Sy1JUQ?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-10T20:15+09:00"
     }
    ]
   }
@@ -327,9 +327,9 @@
    "at": "2026-11-11T10:40+09:00"
   },
   {
-   "title": "昭和南海地震から80年 気象庁が南海トラフ地震への備えを特別企画で呼びかけ（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00dDZlTGdUVGltTl9BNnlSdGJTSHFWT0QzZGlUUXo1cXl0clM5OWZxREdFTzJfYk1iek44c2Vvam5qOWRXV0lLejc0OGFJbmFNQVBfUHdJVEdnZ0VjSTVIVlFnTUtFS3NJVU1RRHVCM0c1OXB0aHM4NVdpZzR0VWs?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "昭和南海地震から80年 気象庁が南海トラフ地震への備えを特別企画で呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hX2V4cG8zU25vbWFXSm9VdFgzY1Nta0h4SnhmdzFmWm1iZUt6R05WUzNsWHFPNmg3VngwaWFpaUdkTDYzdWZ3T19PU201ZXM?oc=5",
+   "source": "khb東日本放送",
    "at": "2026-11-11T09:57+09:00"
   },
   {
@@ -380,6 +380,12 @@
  ],
  "cyber": [
   {
+   "title": "ドコモで再び通信障害 先週に続き一部除き解消 | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbHE1MTRVUS1HdUhXNmdaOUVYVjY2d0dPMEFSc0tEVEpwSG5zUld3anhUSmpHc21TTGJieWwxYk4tbVZDSHJrazcxTFpNR3JIODRsclNfbWhGYzZpVUZRd3QxbEtPTk1QeW43NmNPcERIS2NYQlZfQ2pjSmUwS1E0d3NlU1NEX3NJUFplZFFLQ0QyQ2tJMTZQRzJKNmhFSXY1LU0wUU5LeWc1NUhJTy1kQjBDV01vU2lKUHlsM3dPNUJzUk02T3FUUkZkMkdFWUpDZEI5MXRwNEYyZ2YtYWdJQkhOdTZhNjRLWWtSYkF3Z1lYZ1lIZzljbzVnWkpZZm5WQXg4cjdsSUVkNnRnME9sc3hzZlVlVkFSWDRpWTdCbV92S3dTd0pHdzZCOW5EWFhsSDdwdHJvNGcyLXd3N0I3UmVGYno5OXBUQVhpdUFqTTJPSVhBVnJuc2prOS1iQlFHLWRBdzM4Y1F4aU1VWGxZZnpZQQ?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-11T20:13+09:00"
+  },
+  {
    "title": "ドコモの通信障害、一部除き復旧…再起動や機内モードオンオフで解決と案内 先週と同様5G SA限定で発生（オタク総研）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZ2hEbGVOUl9IanNaWS1Ha0hSelpjbi15X0JENzJOOVdHYWJzaFktUlVpeUxtYk9GVVBkQlJUeUlFRDc0TU5rUlNUYmtuUm80Q2J5MG1oR21rX20xcFFOQzRjc21DZkhRVkVrTU5oUW9Cdzc0ajZwcDBGNUtOZjg?oc=5",
    "source": "Yahoo!ニュース",
@@ -392,10 +398,10 @@
    "at": "2026-11-11T19:23+09:00"
   },
   {
-   "title": "NTTドコモ「5GSA」プランで再び通信障害解消のめど立たず ドコモショップで対応",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNENKOWJxR1RUeG1uYncyVmw4SER0SXRJd3ZnQWV1NUhBRXRVOHc5bFRmcXVzX3BJendTSkVDNmlZREpGQ2tvZVpOa1ROalh3bEFBY21yaUx6VGdZd2htZTVBeW8?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-11T19:15+09:00"
+   "title": "ＮＴＴドコモ「５Ｇ」また通信障害、一部除いて復旧…「５Ｇ ＳＡ」以外には影響なし",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PUVo3NXpQN19wREhENUYwY3dJZ2tJZlNQRzI0Qk1BenVjSmt3VVRXcE9jTEg5M1UybXJ1ZVdVeG1STDdTYnBTT0luTG1ONUdQVGlfTTJ3R3c1cGd2WFpmRDJrMFhWQQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-11T19:17+09:00"
   },
   {
    "title": "ドコモ、5G SAでまた通信障害 11日午前10時34分から全国で、一部除き復旧も原因は調査中 自分が契約者か確かめる方法",
@@ -416,10 +422,10 @@
    "at": "2026-11-11T18:35+09:00"
   },
   {
-   "title": "ドコモの通信障害、一部除き復旧 不正アクセスなどは確認されず",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByR3B5V1FSQkl0M3YwbHhlbWc2Ul93dTB4STFNWDFIY293QkNmenZFRXFxdmZ6Q1pnWnFrRzMxTjliRHEwR1V4akFfRGNSemptVjhOTTdzZE5Qd2lUQnJOUFV2c0t1eFVYMjdjRg?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-11T18:30+09:00"
+   "title": "仏の血液保管庫にサイバー攻撃、設定温度110度に　欧州で冷結設備狙う被害相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1waEFMSmVsZjNaZ1J3NzREdi1uUUJEek52QW5zU1lzTGZQNnlZMk1kaGpKUEhxZkhlV2lwV2FMUlRTYkZkS0NnUGRsbXkwUWl0VUVrdmxCY2FpVmhpdVBhcFBEMURETUFwQnhXNUczTGpkN1VVTjlj0gF8QVVfeXFMUG9rUDFWN25tODNYYkVkaGJQOWJWUHFFcEQyTldPRW9XVFhDSS1HenNfSm9ieUhLMTdXNEJlNDl1OUt4NnJCTUxyQll0dU9uMzVfWVYzUVpCVE9yZ3NFMEN2QTBpQmtYaTRpWW9IUUVlNE1EMDR2cUp6bC1NZA?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-11T20:44+09:00"
   },
   {
    "title": "靖国神社 オンライン授与品 頒布品サイトに不正アクセス 約1.4万件の個人情報流出か",
@@ -428,10 +434,10 @@
    "at": "2026-11-11T20:42+09:00"
   },
   {
-   "title": "不審アクセスは1日1.3万件「何も信じないで」 対策セミナーに170社 警察「生成AIで誰もがサイバー攻撃できる時代」メール文面の自動作成などで巧妙化 「知ることが大事、現状を把握して対策を」（NBS長野放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUFFCUF95dU9TMFhydkdnUFlDV1A1cjJOQ1dkbHU2eThyRy1hakdIa2ExY282RndaTTltTUE2S3p5OUd1TDVhckNENklMeDA1WjhmWXc4dzVXS0JERHQ5V1lhRnZ6SzJGbkdEQkJ3UXg0WUFfZFVuaXJfSnd6Yms?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T20:36+09:00"
+   "title": "不審アクセスは1日1.3万件「何も信じないで」 対策セミナーに170社 警察「生成AIで誰もがサイバー攻撃できる時代」メール文面の自動作成などで巧妙化 「知ることが大事、現状を把握して対策を」",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rS0tzeW9BTDA3MWZJMU15bGNpWHhGamEwM3BteDhUcEhfd1RaRlNncU1FQmk4SWdfWEg3bUFCd2dXcFZBV2xFQVNOSmluUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-11T20:35+09:00"
   },
   {
    "title": "靖国神社運営サイトに不正アクセス 約1万4500件の情報漏えい",
@@ -446,6 +452,12 @@
    "at": "2026-11-11T20:32+09:00"
   },
   {
+   "title": "横浜銀行、顧客情報流出は最大６万件超 一部ローン利用者、不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uNVZiekFqbHA3YUR1WWFzMjhBMldXTmdGdEN2dk4tb21HbERyX1FiWVRSTlF6SE9fUlNEazhlWE9IVmdkNlZBRFJnQnB1ZFJUaDNyMU1oakRsQ25Mc1pOS1c3WnZlMGdX?oc=5",
+   "source": "カナロコ",
+   "at": "2026-11-11T20:30+09:00"
+  },
+  {
    "title": "ステップゴルフ、会員顔写真１０万件流出か＝不正アクセス、口座番号も",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kRjBRcHBNRm9EWHljendfbVFoVHpiU2NFdXZwRmFuVkRSdk11SVYxdzJYa3I2Z3NVdUxYMmU3X3NaenNwbVo1YXMwNHJSNG92OFNReA?oc=5",
    "source": "時事通信ニュース",
@@ -456,22 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0UFVJLURpSDl3Ui1nZEoxSkotQW5zNUlWZ3VmQTZfZzVxYnMxb19KcTd2eHhsRk4xal9kbnVFYmNCQVJxWmpMdWlzNFMyc1VhYzVOZldTbEtqcVVKdUdNSQ?oc=5",
    "source": "マイナビニュース",
    "at": "2026-11-11T20:07+09:00"
-  },
-  {
-   "title": "健康プログラム山口県版で42人分の情報漏えい 委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ieVZ4U1VGbVN6TmxlU0FOczI3NEp1SHV3LVVmNVFxVE45M3hCSE5fQVZUMkRMRlI5MjdGMHZqbFhhNndXUlotSGZpaGFITDgyTF9CN3JVR2VYdw?oc=5",
-   "source": "中国新聞デジタル",
-   "at": "2026-11-11T20:05+09:00"
-  },
-  {
-   "title": "電通デジタル、マーケティング支援事業で情報漏洩か 不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ralliMkktbkRKZXVTUC1Hajd5V1JxU0J5ZlJ5V2tZTW1DUUNTVkgwY1R3UmVra21YUmhtS0FTcXFGN2dWa2dTZXRhTlVWRzNEN3pvVGhjODFxMTJsS3FJS1JXRU5fS0FrTmwtTw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-11T19:52+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "【速報】イタリア 300の学校に爆破予告 欧州でまた“アンドロポフ”名乗るメール",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95d1FmOEM3cHZkS1Q5XzV5T2pMUWNjcTVYcndRY3FBajZmbC1kenlwakZJQloySjl1ZlMyYzFxQW5aODJ4Mm9pUTFDWVd6a2xYUVJXcFJuMmdDbDB1VVdwNlQ0a3I0OFFfb1NaU1VzMGVJVkdRYU1zM1d3?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-11T20:47+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "ルビオ氏、外交が進展する中でイラン攻撃の「必要はない」と発言",
    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPamhEeG9iUUJaajRJVm1GSXF5Vm4wMlExMmY5VTRvSDhIbVI0cFFhZS0zNWNXWVVnblU3OEpQczA5dFZlY3UzY2xhVTE1ZWxfTzQ1d3RHbnowTFdhUGVXTmhUTEo2VXR1RVB4ZnRkUlNRU09HbXF3bng3czUwTjQxaHYtZGtpdzBleVNpMl9XckFqVjNCbUt2MC1zcWhYRmpQcy1UQmJhRWE2N1AwTmlpQTFFR01EVWJqUXo1ZFBsdmJfbHYxc1ZrZG8xdFZ2NnIwYjhnTk1hQXVySlhPcEtIRWlFRmxRNUhjcHVaUUV1b0wxcTIwcmJTUWRDN3hnc3EwQU03ZE04bHhHQWhvaDRqdWl1Y1htV0ZMQW9PanNqZDFLTk9nY2Y1a18tVG1nZTAwRGJMY19OZ1plNTVoNzNsemR4dXIxNXBjVWFlSmVzaU9Cb2VQeE9jREduMm9ueFo1MC01SlhoZTBjdHp5UWZEMVByWEowZ0IyOGtOeW1ES3FaeXhabXZkNWZrWG1DaEdqeExFMmdsUU9ESnM?oc=5",
@@ -604,13 +611,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-11T13:17+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮・金与正氏、国連事務総長を非難「軍事衝突なら責任免れず」（KOREA WAVE）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlTDhLU3hoVXBodVZIVFRldTJwbWtvTC0tdVFkWlR2VlNobjNlWjVHR2dZNHhDZ1RlX1ZTbGdkZ09KXzZuTkVqTWx6V1FHYkpLYWR5al9GdjZldGZSVjNhMURLYzJPQnJCTFdTNzFXWWNQVHNHbUtZQmJhdE5PbGc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T11:42+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -633,7 +633,7 @@
     "中国・台湾：「攻撃」「封鎖」1件",
     "北朝鮮：「軍事衝突」1件",
     "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「攻撃」「ミサイル」4件"
+    "欧州・NATO：「攻撃」「ミサイル」5件"
    ],
    "items": [
     {
