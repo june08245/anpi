@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:15+09:00",
+ "updated": "2026-11-11T21:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-11T21:13:00+09:00",
+   "place": "橘湾",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-11T15:21:00+09:00",
    "place": "熊本県阿蘇地方",
@@ -74,16 +84,6 @@
    "mag": "2.3",
    "maxi": "1",
    "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-10T15:36:00+09:00",
-   "place": "房総半島南方沖",
-   "mag": "4.5",
-   "maxi": "2",
-   "maxiRank": 2,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -227,6 +227,12 @@
      "at": "2026-11-11T20:00+09:00"
     },
     {
+     "title": "ロシア・ウクライナ協議、2日目開始－エネルギー停戦など議題",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FdEtvMW1USEoxelhVeFNhSXZCUmlZRXFLZ0J6eGdXeFJBY2VxRXlaa1A1TXNrTnoxU1B1b2JOVjdrbk5DYTJhQWxUYXhJODRjcWRaSDkzNk05aTI5QU8zS0RKQm00WHZJUUxfWmR4TVFWMndESjZB?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-11T19:59+09:00"
+    },
+    {
      "title": "ロシア軍が１１日未明にウクライナの６つの大型変電所を攻撃＝コレツィキー宇首相",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0xybWt3Ulc4ekhzNXFLa3lleUo0ZmVEbHBmMTBBbXA4SWdodE8xX1JOZ2tqd3U2QzU3WWtpNmNqVm41VXJnSjVOandvUXh6ZHVMVTRSZ19JNlZvSkhNYm1CMnJBc1pFUXRBLWtTSmVBdUNkczFsU1kzOEp3T1JVNEkwSFpaZG1fT2o4UTJRNk9DWF9kNXVPdkNSelN2V1RDakRfcm1ZQzB6ZVcyUWpWa2dEaWY5RUZEN3VjeU5rZWxwZ01rbzV2ZVFKX21aVHF6MEc2Ry0ybGpNNHJlOHfSAeMBQVVfeXFMTTBPcldFNWtDNEJnTVBaWTdjeE1haXV1TkxQRExobUlqT1gySjNQZzJUTERDVmdqT1ozOUdvbEh1WjNQUmRJUW9ZV2x1a2NKY0lLYnlCMERIQkFydDVWVlRoLUd4Z1BjSzJLNEwxeGJpWFRNNU9rVDNyVXNTRlVGTXZiQlQyRmpPQWVySWdmS1VmN3FOVkFQYXV4c0ltTk1fR3ctUnF4NGlrblNyN1RBTlF3REpKMVVwQ2ZjSmNlX0t5ZlVwRnBRclJGZElOd05Vckw3VWZNdFlhSHY0NDlMaGhnQTA?oc=5",
      "source": "ウクルインフォルム通信",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JRkZHWW16Ui00UG5uUVhwYlZaZHhSd0M5WFhKZmdGeGdxS19NNkpRakpjQVRQak9kLWlfNXlxY3hsM2g3cTZ2b3hFYjVHQl91RU9QbVcybmRsVmJBSG00RXBqX2w3UQ?oc=5",
      "source": "NOVAIST",
      "at": "2026-11-11T18:49+09:00"
-    },
-    {
-     "title": "ロシア軍、ウクライナ10州を攻撃 主要変電所5カ所が被害、6州で停電発生",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyV1ltYmxaaWpyZjd5cGx6NnBILThFeHRvT2laeDZ1Q0t6RkN6VWxOVEVDeVIyZWw5eGd4WWJRZkdnTU9yeDNzNEhrVG1HR0YyX0U3WEtIekdmNjJlbEJPb2tCRm5VOHM?oc=5",
-     "source": "NOVAIST",
-     "at": "2026-11-11T17:15+09:00"
     }
    ]
   },
@@ -262,6 +262,24 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "イタリアの数百校に爆破予告メール、署名はAndropov",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWdVWjZoMTdFa0V6aHo5RG9sRWZHcHhFTGcwOWYwRHRFWkZ2aWpYWnlvelFrNnY3Q3RVdjI2NUNpZTBXZlpJQk1jbGVMOFVDWTdEck5WQXBFNlFPSXIzbFp0cmhEdTRhY0YtLXp2cXdKOGxmUGtuV2dRUDdyQkp5MWdTS1I?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-11T21:24+09:00"
+    },
+    {
+     "title": "イタリアの学校300校以上に爆破予告メール、生徒ら避難 署名は「ミハイル・アンドロポフ」、欧州の放送局への予告と同じ名前",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wNVRPcERxWktwQ3VSYm5xUlJhdHJXVkp1VjNYMmcyZDM4OWxCb0g3dHhDY2NpZzFLdVEtTG8yM0JvR0YxV2pwdWIwNVBMYld5Z1J1UlF3VWNTeEV5a3BjNUtFczVONFdYRTVIaV84Yk42dw?oc=5",
+     "source": "https://mediadogs.jp",
+     "at": "2026-11-11T21:07+09:00"
+    },
+    {
+     "title": "同じ爆破予告メッセージを受け取った後、イタリアの約300校が避難した",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXhxUUZvX2x5LXU0RGNBRENzSWJhZjVsOE80cUpMMDZ6T3VKMU1uelcweHphZm5obEV0ZEtJQnBmcldZeWhJd3d5dEZzUzM4YWtDSk54SC1OZF9zaUVmMHg1RHkwMDNBcGRpR3ZvVjNhX1h1VHlla25GYVh5VkNSTWNJMHVUdG1vZnlscTFxME8yd0ZyempmYXJyamtqU1ZCNVJfbHQzeEM?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-11T21:03+09:00"
+    },
     {
      "title": "【速報】イタリア 300の学校に爆破予告 欧州でまた“アンドロポフ”名乗るメール",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95d1FmOEM3cHZkS1Q5XzV5T2pMUWNjcTVYcndRY3FBajZmbC1kenlwakZJQloySjl1ZlMyYzFxQW5aODJ4Mm9pUTFDWVd6a2xYUVJXcFJuMmdDbDB1VVdwNlQ0a3I0OFFfb1NaU1VzMGVJVkdRYU1zM1d3?oc=5",
@@ -279,24 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Lc3lfQk1sbHZuYkVrVkV0ZVAtUWE4bnMxcGRxU3RCcXZ4YTBYWUJqMmRCWkluSkNPSE9jWXJ4RmNyc2tTenFtSXQtS1NFd21RdFlGc2ZYQ2hhQ0ZyQ0hUTE1INFREdjh1a3ZqVw?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-11T13:39+09:00"
-    },
-    {
-     "title": "米陸軍兵士をイギリスで逮捕、ロシアのスパイ容疑で",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50NmxUVFhEb2JMZ3FXTFJoYmNURTE4Wk5Ga3pXU3Y2Vlk4Vm5wRzRZNE9oOEc3MFV1U0xCc3JFYVNkc1NXQl8zaG9vaGdmOFFWQkpDYkFnbUxHRU5ONDhEMNIBZkFVX3lxTFB6ZEpsZ2dSYlIzdW9IVzlES1lxd3VJVzdtbWExYkJxdGFVd1NnVVd2ckl3cmdJMXNyRVBITi1lckpaTlM3cWQwMTJsNmVOTWh5ZjFScUdKZ2E4eWZfMXhoODNmNzMwQQ?oc=5",
-     "source": "BBC",
-     "at": "2026-11-11T09:44+09:00"
-    },
-    {
-     "title": "爆弾攻撃に劣らぬ…イランの『冷蔵庫テロ』に震える欧州",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnliQnhKWVk5c1BMVGVCUVVQZzBFWVJlRUFuam0tMXZfUTJmV0xjZUFINmtlRWQ2ZWtQbTJXMV9zemU5Mk02NmVqS2hVQkJOcnJGZmQxczhrYXptSGF0TFp5OWxBTlZRRUUzbnZudkk5aHJOZEIyVXhJM2wwaVNLVU53TlJFVDNI?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-11T00:41+09:00"
-    },
-    {
-     "title": "ロシアのTurlaがルーマニア政府機関を攻撃、新マルウェアCerealでNATOとEUのメールを狙う",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd21IOGNVbkR5ZXNyYWJGb1RhSFhIYm9PSGdhMmZJTGc4NjFwMm91YWRwdjV0Xy1nWXcyZDBDVjNoZ0V4VXNhc2RPaXdLYkpCVlVRdFBfRFFQVk4zTFJxX1c1dUxfQnN5c2pMZERYcTZINmtHYnA3ME1JYWVValBxWWNOVlM?oc=5",
-     "source": "Pasquale Pillitteri",
-     "at": "2026-11-10T23:21+09:00"
     }
    ]
   }
@@ -380,6 +380,18 @@
  ],
  "cyber": [
   {
+   "title": "ドコモ、通信障害が解消",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sQ3ltaWZBdzI1ZjJRN2pHcTR3OXJVNER4UTJzWDdNNDA2ejBUNW4zU3RLckQ0NFlNZTM4djNlTmE4VkE0d3B1d19MdTQxcVpCcGJsVU9KUVVfeTR2eVE?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-11T21:15+09:00"
+  },
+  {
+   "title": "ドコモ、通信障害が解消｜全国のニュース｜Web東奥",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvLWg4bE50cTFueHAtQlIxNVB6OXNmUU9ic25HcTZ0ZW9GRlo4YXhlcm9hbEVvWXFwb0JKdTVoQzhkeDFqU09aRlhjMzFxYnlFUzNSTm92X1M?oc=5",
+   "source": "東奥日報社",
+   "at": "2026-11-11T21:15+09:00"
+  },
+  {
    "title": "ドコモで再び通信障害 先週に続き一部除き解消 | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbHE1MTRVUS1HdUhXNmdaOUVYVjY2d0dPMEFSc0tEVEpwSG5zUld3anhUSmpHc21TTGJieWwxYk4tbVZDSHJrazcxTFpNR3JIODRsclNfbWhGYzZpVUZRd3QxbEtPTk1QeW43NmNPcERIS2NYQlZfQ2pjSmUwS1E0d3NlU1NEX3NJUFplZFFLQ0QyQ2tJMTZQRzJKNmhFSXY1LU0wUU5LeWc1NUhJTy1kQjBDV01vU2lKUHlsM3dPNUJzUk02T3FUUkZkMkdFWUpDZEI5MXRwNEYyZ2YtYWdJQkhOdTZhNjRLWWtSYkF3Z1lYZ1lIZzljbzVnWkpZZm5WQXg4cjdsSUVkNnRnME9sc3hzZlVlVkFSWDRpWTdCbV92S3dTd0pHdzZCOW5EWFhsSDdwdHJvNGcyLXd3N0I3UmVGYno5OXBUQVhpdUFqTTJPSVhBVnJuc2prOS1iQlFHLWRBdzM4Y1F4aU1VWGxZZnpZQQ?oc=5",
    "source": "SmartNews",
@@ -390,6 +402,18 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZ2hEbGVOUl9IanNaWS1Ha0hSelpjbi15X0JENzJOOVdHYWJzaFktUlVpeUxtYk9GVVBkQlJUeUlFRDc0TU5rUlNUYmtuUm80Q2J5MG1oR21rX20xcFFOQzRjc21DZkhRVkVrTU5oUW9Cdzc0ajZwcDBGNUtOZjg?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-11T20:04+09:00"
+  },
+  {
+   "title": "ドコモの通信障害、ほぼ復旧（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xZ2xNb083alNSOXNIejVZSkdqcDBDUE0xY3lBWmNfTkVpcE0yVi05eGxEb3A3WjFXU1dpNW9FamV4cUJZUFZwT3U3dTBFYlVRNTAxWURLYWFqQ2JHMFd1Y2hOUlN2NFlOb1djNUZULWJOSHlRODJFTDc2RjFZTjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-11T20:01+09:00"
+  },
+  {
+   "title": "KB5132061をインストールできない不具合。さまざまなエラー。0x800f0993、0x800f0989、0x80070306、0x800f0922など",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xb1VlMUhPWUR5dEw1ZENIbnMxanI4dDRmVlZQdG1pekxlQnVfNmw1ZC1CVy1mMzJneVVhM0xKYTJWTDlZZFVUZXlnVk1HN2U1LWk5X3d4eG1TREsyYzF3VFJLVEE?oc=5",
+   "source": "ニッチなPCゲーマーの環境構築Z",
+   "at": "2026-11-11T19:37+09:00"
   },
   {
    "title": "【19時追記】ドコモ「5G SA」通信障害発生、先週と同じ内容で影響は全国に",
@@ -414,12 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DX0thUlV1R0w3UmpBbUo0RkhxZGFCd1lkR1pmYWFLcUdzUEJBZTdaS1dCbDJ5cG0xZHdhbFoxNm5YV2QzTW1RbjJzbnVEV0pqX182a3pzNnpyRldpei02LWZuUlhEY2k3eWc?oc=5",
    "source": "ITmedia",
    "at": "2026-11-11T18:36+09:00"
-  },
-  {
-   "title": "ドコモ、高速通信サービスでまた障害 不正アクセスは確認されず",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PU3RzaERXc3RhQXlLZ0Zwd3psMThNSnpicGZPUnZtZVcyUk1MS3BHS2VtUXFNYkdMR1I3dU5IUTVSSVVSc09QNEZLYmlqUVVFXzA0RWE0TFc4djhFZkI0bFN0LUVRc0hE?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-11T18:35+09:00"
   },
   {
    "title": "【ライブ】無印良品運営の「良品計画」不正アクセス拡大で清水社長ら会見へ “リスト型攻撃”の可能性は？ 約2700万件超の情報流出 ECサイトの再開延期 対策など説明（2026年11月12日）",
@@ -450,28 +468,31 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQzJQa0hMTlc1NzRHZDJOVUNfVlFTay1qX0xoczZCVEZka19KRUpyM2F2b1NaTExhdTJGUHllcjVrUmtDOEQtc0JfVVBPeVFHWDNTMEs1SW1WNlhzUTdn?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-11T20:33+09:00"
-  },
-  {
-   "title": "岡山県の健康づくり事業参加者情報が流出 委託先に不正アクセス（山陽新聞デジタル）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wTjN4bU9sTG5CTGY2TS1TSVp0Y09IX2V5ekJHbklIUHVqTHJxdGM5WHQ0LWNuYmR0TTFTc0RJU2FJaWZ5T0djeFp6NVR2NTg1ZHhDNjdxWk9Ga2xkZU5zSFFOSW13ODJrZDZUdFk2UW9uTEhqSDlxTUZtNnVUZEk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T20:32+09:00"
-  },
-  {
-   "title": "横浜銀行、顧客情報流出は最大６万件超 一部ローン利用者、不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uNVZiekFqbHA3YUR1WWFzMjhBMldXTmdGdEN2dk4tb21HbERyX1FiWVRSTlF6SE9fUlNEazhlWE9IVmdkNlZBRFJnQnB1ZFJUaDNyMU1oakRsQ25Mc1pOS1c3WnZlMGdX?oc=5",
-   "source": "カナロコ",
-   "at": "2026-11-11T20:30+09:00"
-  },
-  {
-   "title": "ステップゴルフ、会員顔写真１０万件流出か＝不正アクセス、口座番号も",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wZGE3Zk55c1ZXZGVtZGR3SGFpalBvci0xYXJkU0ZTMGM0bGo2eWs1MXRkVTRSMlFvZzRFejF4ZmlUNVRKN2NDNkVROG9SLVZHSVA3djV1eHF4bG9HX3d5X1JjTFJtNjJfMmFzeUlmOUptbzdBS2xYU0JUaGfSAYIBQVVfeXFMT0x1ZEgwNlhSTjFYd0VHa3A2dTZMN2ZzLWtMUXgyYndTYTVNTjBRWkVyd0pHRFBkc05uaFVScjgyR0NBMmdKdnYteEFhd09nUUFLcGJQcG5iNVpraUlXZ3JQWE1vdlVnb3U4YmNOVjhhMGdQdEdRcHZDUDVvVEJOQVppUQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-11T20:09+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イタリアの数百校に爆破予告メール、署名はAndropov",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWdVWjZoMTdFa0V6aHo5RG9sRWZHcHhFTGcwOWYwRHRFWkZ2aWpYWnlvelFrNnY3Q3RVdjI2NUNpZTBXZlpJQk1jbGVMOFVDWTdEck5WQXBFNlFPSXIzbFp0cmhEdTRhY0YtLXp2cXdKOGxmUGtuV2dRUDdyQkp5MWdTS1I?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-11T21:24+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "イタリアの学校300校以上に爆破予告メール、生徒ら避難 署名は「ミハイル・アンドロポフ」、欧州の放送局への予告と同じ名前",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wNVRPcERxWktwQ3VSYm5xUlJhdHJXVkp1VjNYMmcyZDM4OWxCb0g3dHhDY2NpZzFLdVEtTG8yM0JvR0YxV2pwdWIwNVBMYld5Z1J1UlF3VWNTeEV5a3BjNUtFczVONFdYRTVIaV84Yk42dw?oc=5",
+   "source": "https://mediadogs.jp",
+   "at": "2026-11-11T21:07+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "同じ爆破予告メッセージを受け取った後、イタリアの約300校が避難した",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXhxUUZvX2x5LXU0RGNBRENzSWJhZjVsOE80cUpMMDZ6T3VKMU1uelcweHphZm5obEV0ZEtJQnBmcldZeWhJd3d5dEZzUzM4YWtDSk54SC1OZF9zaUVmMHg1RHkwMDNBcGRpR3ZvVjNhX1h1VHlla25GYVh5VkNSTWNJMHVUdG1vZnlscTFxME8yd0ZyempmYXJyamtqU1ZCNVJfbHQzeEM?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-11T21:03+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "【速報】イタリア 300の学校に爆破予告 欧州でまた“アンドロポフ”名乗るメール",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95d1FmOEM3cHZkS1Q5XzV5T2pMUWNjcTVYcndRY3FBajZmbC1kenlwakZJQloySjl1ZlMyYzFxQW5aODJ4Mm9pUTFDWVd6a2xYUVJXcFJuMmdDbDB1VVdwNlQ0a3I0OFFfb1NaU1VzMGVJVkdRYU1zM1d3?oc=5",
@@ -491,6 +512,13 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSldDaHRFR043OVdMTThKZEVpSm1IbG9UMVBmOV92UHg3bDJIZlZPcjVtSHRobVNDSG5jN1VFaW5MRUVVempQbGsxOTdFWk5TNUoteHk4Q0JDVmRyTWc2TU1GaXpYR01GS0Q1RmIzZnkyMTlZSElDMGdITThnTjg?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-11T20:00+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア・ウクライナ協議、2日目開始－エネルギー停戦など議題",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FdEtvMW1USEoxelhVeFNhSXZCUmlZRXFLZ0J6eGdXeFJBY2VxRXlaa1A1TXNrTnoxU1B1b2JOVjdrbk5DYTJhQWxUYXhJODRjcWRaSDkzNk05aTI5QU8zS0RKQm00WHZJUUxfWmR4TVFWMndESjZB?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-11T19:59+09:00",
    "topic": "ロシア"
   },
   {
@@ -557,13 +585,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシア軍、ウクライナ10州を攻撃 主要変電所5カ所が被害、6州で停電発生",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyV1ltYmxaaWpyZjd5cGx6NnBILThFeHRvT2laeDZ1Q0t6RkN6VWxOVEVDeVIyZWw5eGd4WWJRZkdnTU9yeDNzNEhrVG1HR0YyX0U3WEtIekdmNjJlbEJPb2tCRm5VOHM?oc=5",
-   "source": "NOVAIST",
-   "at": "2026-11-11T17:15+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米韓外相がパリで「歓談」…「北朝鮮問題」などを協議",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wd2VVYjRIZTBJN2ZqRTJmbHIwRTBOLW9JZllFZ0hDMW9ocTJDa293SmthRlpCd3Q4QTV0Y29iazFUMnRnT0daYmh4cDlES20tbDNKeC02VWRFcjdlbVZBNDJzc1ZzbnZKbnZQU0F3?oc=5",
    "source": "au Webポータル",
@@ -590,27 +611,6 @@
    "source": "J-CAST ニュース",
    "at": "2026-11-11T13:45+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "イタリアで爆破予告、少なくとも300校が避難",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Lc3lfQk1sbHZuYkVrVkV0ZVAtUWE4bnMxcGRxU3RCcXZ4YTBYWUJqMmRCWkluSkNPSE9jWXJ4RmNyc2tTenFtSXQtS1NFd21RdFlGc2ZYQ2hhQ0ZyQ0hUTE1INFREdjh1a3ZqVw?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-11T13:39+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "米財務省、暗号資産取引所MEXCを米金融網から遮断へ…北朝鮮の制裁回避に関与と判断",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdDQ5U25aQnBHT1JxSElVUUNLajZTRjBOTVFnUGN6cUNuc3ZmbGpHLUpZR2NDTHBqX2pYN1lQQ0doN09QU1hEekoyRC14MlIxdUtYTG03YWdUZERwNHlDSURjTVQxa25ZZ3NHNkVNZXhRQdIBVEFVX3lxTE91cnpCMFVFb1VPY0RhOElTY19OUmV6RXEtR2hpMGNCaWlLeXkybFRMTk1WdHlXX3NpbnNlNDdvNE5LTmhEN2ZiN3ZlYlJXUjRValdJLQ?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-11T13:33+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "「北朝鮮軍捕虜の韓国送還公表」を巡る対立後、パリで韓国・ウクライナ外相が会談（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EMUdVUVRkcXAxdFNzNERLOEJoQ1hJcnJKMW81OW52WEhXQXowQWNiUkpfc3laTHNtcjlzVGV4SjkwY2lpMS0tY3BnQi1od18xdUx3X29icFZwSGJlREh0QmxNODQzUTNXVkNhX3FrY1l3UkI3RHJMVmVweXJGNVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T13:17+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -632,8 +632,8 @@
     "イラン・アメリカ：「攻撃」「ミサイル」5件",
     "中国・台湾：「攻撃」「封鎖」1件",
     "北朝鮮：「軍事衝突」1件",
-    "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「攻撃」「ミサイル」5件"
+    "ロシア：「攻撃」「ミサイル」3件",
+    "欧州・NATO：「ミサイル」「爆破予告」6件"
    ],
    "items": [
     {
