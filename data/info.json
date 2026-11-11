@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:30+09:00",
+ "updated": "2026-11-11T16:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -107,6 +107,12 @@
      "at": "2026-11-11T15:57+09:00"
     },
     {
+     "title": "イラン大規模軍事作戦「必要ない」 米国務長官 G7各国に伝える",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlRtZmxZSkVpSlU3U3gyWHZoNzNOaTN3eEJzd1N2dE9HSkJaRWw1dHlUUFRwTDZQS1B0VWNnN3JIcG5QTERpbFNRMFFhQXFCOTZWTVUyR0FGalMtT1dFaFZHcWJFRmhpZ0tWclZSSk8yUjhNckxyQnRjSjZfVzllVw?oc=5",
+     "source": "UQライフ",
+     "at": "2026-11-11T15:55+09:00"
+    },
+    {
      "title": "ルビオ氏、外交が進展する中でイラン攻撃の「必要はない」と発言",
      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPamhEeG9iUUJaajRJVm1GSXF5Vm4wMlExMmY5VTRvSDhIbVI0cFFhZS0zNWNXWVVnblU3OEpQczA5dFZlY3UzY2xhVTE1ZWxfTzQ1d3RHbnowTFdhUGVXTmhUTEo2VXR1RVB4ZnRkUlNRU09HbXF3bng3czUwTjQxaHYtZGtpdzBleVNpMl9XckFqVjNCbUt2MC1zcWhYRmpQcy1UQmJhRWE2N1AwTmlpQTFFR01EVWJqUXo1ZFBsdmJfbHYxc1ZrZG8xdFZ2NnIwYjhnTk1hQXVySlhPcEtIRWlFRmxRNUhjcHVaUUV1b0wxcTIwcmJTUWRDN3hnc3EwQU03ZE04bHhHQWhvaDRqdWl1Y1htV0ZMQW9PanNqZDFLTk9nY2Y1a18tVG1nZTAwRGJMY19OZ1plNTVoNzNsemR4dXIxNXBjVWFlSmVzaU9Cb2VQeE9jREduMm9ueFo1MC01SlhoZTBjdHp5UWZEMVByWEowZ0IyOGtOeW1ES3FaeXhabXZkNWZrWG1DaEdqeExFMmdsUU9ESnM?oc=5",
      "source": "アラブニュース",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wNExRX2YzckFUNkthOVZzRlZUdTgyMzYtM1JIX2xTS1ZFMnFyYzlya0VibTFxeXRsVWxoRmtYaTZiYUprdUNmR1VKQWhrVVY4QlBWNkhreEx6MnhJOHBTX9IBZkFVX3lxTE84VC1xVm11cktQYU15SzNHaERzLWFLcGQwNFRXZElobnUwWjBtRnJyWDh6aVBhc3hvMDhteklUdkFnam5BWVhja0E2eThxbENPRms2RHRpMk1qNWNwMlhjVnhxa01IZw?oc=5",
      "source": "BBC",
      "at": "2026-11-11T13:31+09:00"
-    },
-    {
-     "title": "イランの攻撃警戒 アメリカ軍がイギリスの空軍基地から軍用機を退避",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XZm5pdUxTOVBwRHd6Ym4tVG42Rmw3M1h3NVBTdlVjUm4xLXl3eEFfMDYydmpRenZMN0NCOEp4ZjUya04wTEFmcmtfeUVSakhSNmdnNHRJaEhXVTlhcUViZHo3X2lvMFZybW10WS13?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-11T12:46+09:00"
     }
    ]
   },
@@ -221,9 +221,9 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "バルト3国、ドローン警報解除　ロシアとウクライナは相互に攻撃",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYk04c3NWZjVTX3BjQThEaFFIZjhvbVo4QVI3RmwwQjRfM0p6aGlWTEh3RFg5dHlaSGFxd1R1MWVla2t0T2FNRk1MVXNicTFFYjRBUWY0N2Z4QW5Pb0hJaU91a090VzRnUklrUWNFcjlYR0Z1b2h5dGRjVGRzU014UnVNQ2NOeEo0YWxoY0NjZUpCeGxMVFJNMmZBakFuUFZtX1A3R21DcFR5Mi1BYTRoNHJYZVNxVGpzOGY1dUtILUJ0cjVubWhRZ0JZTUZTdmV3UVZJ0gGDAUFVX3lxTE16bzVhMUl6aExwLWJlZVB1QjFMTUhkeGpUbGxGZUpYQWxKM0RaLWNSWWxIcVBYMGpiOWNDLTRNZFl1Y1hxOVBmR3VHSVBUblhkTDRYYjc5Z3gtUzVDWl9vSGtFNDZoeGs2VG82eEF1WmtsYVkyWjJlcmVvWFBwc0ZOTW1J?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "バルト3国、ドローン警報解除 ロシアとウクライナは相互に攻撃（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTy1tLXh4RHJnS1piRlFka0dMVFVjMmlYOXlBQ2llelFnMUo1RWRTd3FvZFFlQUpzVFhTTFNWX3dxWFI5aHJOT1ltUTlrNGJmdGF2RkV3allaZjRhOF82UTQtOHYzbWlqNWo3clRtci14V2JUTHM5SDlTaEp0UFk?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-11T16:06+09:00"
     },
     {
@@ -318,7 +318,7 @@
    "title": "【体験セミナー】南海トラフ巨大地震 経営陣向けの意思決定訓練",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FQWU1OWsxdENDQm91RGQ4U1JvbElGc2hRMHU5d3F6WmtkTW1MczU2TWM1RTIxY0c2OGptNzB1eGx0NFlHd1JFTU43VWNoeEU1Ul9PeGMwMXA?oc=5",
    "source": "リスク対策.com",
-   "at": "2026-11-11T12:03+09:00"
+   "at": "2026-11-11T12:04+09:00"
   },
   {
    "title": "南海トラフ地震に備え４県警が合同訓練 衛星通信、ヘリ映像など受送信…中部管区警察局：地域ニュース",
@@ -328,8 +328,8 @@
   },
   {
    "title": "昭和南海地震から80年 気象庁が南海トラフ地震への備えを特別企画で呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3VldJXzlCNy1uU2hwZC1lSkJpQkN1bExmb2RicUZWdUJ4dlVOV2dEVDRiOXA2bWUxeE9reV9GTzg4cm5jeTRuZE1HU0ZqbE9sSlBXUDJmdmczeUpOdGtpOEV0TTUzdThHV1ZqekV2ZGEwUQ?oc=5",
-   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hX2V4cG8zU25vbWFXSm9VdFgzY1Nta0h4SnhmdzFmWm1iZUt6R05WUzNsWHFPNmg3VngwaWFpaUdkTDYzdWZ3T19PU201ZXM?oc=5",
+   "source": "khb東日本放送",
    "at": "2026-11-11T09:57+09:00"
   },
   {
@@ -380,22 +380,40 @@
  ],
  "cyber": [
   {
+   "title": "ドコモ、5Gサービスでまた通信障害 今月5日に続き 原因を調査中",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZzFHMGxsRW41ZHkxWUNId2ZqdlJBYzNsX2Nib2s0eGdZQTgxTzZ3MU92Mkd2SnV0VDI2ekpBVmdNTXJLR0R3NGJibXo2Y1E2cnZ5allnZ2F1WFVMNkJXX2xHTTVUVmM?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-11T16:35+09:00"
+  },
+  {
    "title": "ドコモの5G SAで全国規模の通信障害、15時30分時点でも復旧せず",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ReXN1SEdaZEFzcWpPOEtFTmJNQ1hMeC1KNzlzYkx0Q2UyMWh1bjFEbVdPZFVXQTR4T1RuYzdKQmlGcnB1dHhlNlhlcWRuMHRNQlljTVVyMHhxNEdILXZlNTU4Zzg4cjI3anc?oc=5",
    "source": "OREFOLDER",
    "at": "2026-11-11T16:09+09:00"
   },
   {
-   "title": "11日のドコモ通信障害、不正アクセスやサイバー攻撃は確認されず（ケータイ Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZeXFLQmRpWmlTckdUbG84RUNEWEIzTVNIdVRNa2dqWmZRQl8zNmlBZzVrT2ZsdnZkUjJQOUgyTEtSbzR6Yi1CZlQ0YXV3MnBpLUJMLWNXZk9FS2QwRWFGRnpCclFLMDdhTkQ3dGdmTFdTQmZLQTBxeXJNNFFzb2M?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T15:53+09:00"
+   "title": "【通信障害】ドコモ「5G SA」全国でつながりにくく、先週に続き同じ内容の障害発生",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PdjNUdWRUaFJ6NjZMRkFzQ0xMUUt6YmtGSFlHRWhVZUVxcE9pLWxQbXdSV2VSTXdjbEdSVG1NWlB2VldMZnNDWm5oWXQ5a3llMjFBX1RCOFhPVE5lSW1qdEhOX2JZZV9DUlR1V0xjR0prOHZnMUQ5dA?oc=5",
+   "source": "Buzzap！（バザップ！）",
+   "at": "2026-11-11T16:06+09:00"
   },
   {
    "title": "ドコモ、全国で通信障害 先週に続き、つながりづらく（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TbTBFZEdVVlZVby1rdmUzMF9WbVBnRHdEelZRTGVvdUgzcGFZRThjQ1JqSXUxcmtSM2xDSXlqbXJINlR3THZPLURxVXNDdUk5TnNCZUt2VUhrQlFKS3FCdFhEXy1VTE5HU0lBdEZLMldkemx4cTlJcmJNa1BZVnM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-11T15:50+09:00"
+  },
+  {
+   "title": "信用金庫でシステム障害 復旧中も原因は機器の故障か",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16WURTaUlTZUJWekg1X25FOTFCWlk0LTRCMTM2dEVoNExvNHdhTGpfc2RtSFhoNEtNLUU2OUNTZmwzSjRtVktoUW01WHdXZlM4OHdteUwwbFhnOUE?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-11T15:27+09:00"
+  },
+  {
+   "title": "11日のドコモ通信障害、不正アクセスやサイバー攻撃は確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNkNSd2toZl84aFByMlNoeGV4QUgzaklmZ0t2NXU3czUwTEgyVW9RajhlWkJYeTlJU2pFcnZYRUpDTlZ1czByZlZoUE5Ea0xXVlpiZlJ3QmlaMXhVdVJCS3ZMSk5RSTg?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-11T15:23+09:00"
   },
   {
    "title": "【速報】NTTドコモ 全国で通信障害 音声通話やデータ通信がつながりにくく 詳細を確認中",
@@ -416,28 +434,28 @@
    "at": "2026-11-11T13:21+09:00"
   },
   {
-   "title": "【速報】NTTドコモでまた通信障害 全国で通話・データ通信が利用しづらい状況 今月5日にも同様の通信障害 原因は「調査中」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kRVNjNmQ4c3k3M1NsUmRPOXEzX3VUbWo2aTJWUy1TbVNleWVlNkNrVVViOTVjNkhuTi1Ub1pYeHE5ZFFnQ3hpZ3dpZ2luckZLNEVzYnprbzBoSWxyR3ZLam9kUXhkZjhzaFVBM3hR?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-11T13:20+09:00"
+   "title": "【速報】冷蔵設備サイバー攻撃 政府が警戒呼び掛け",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fcy03VVNpY0doblZKdjNHZWhMQk5oWWJjeE5xdlpKaURhNWRlUjY2RkM1VW9La3VxRU9Ec202YzFNb0VoSlMtOEhFYURSN1R2WWVN?oc=5",
+   "source": "日本食糧新聞・電子版",
+   "at": "2026-11-11T16:34+09:00"
   },
   {
-   "title": "ドコモ「5G SA」で再び通信障害 先週も約150万人に影響 | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNRk9vcGRNLXR0U1dMTHV4Skt5ZlJlNGVuN0RBQVdvVnlzNGpNdkVUSUF0enFCV25acUtCVGNZNG54TUlDaFhqc1YtWkptdkxldTFLOWs2NkJSWG94X2ZVaUowQng3X0dDaE1zVS1Da1FvakM1U0NSajM5VDViRUpsWHQ2d3AzbmFKTFNDTEp4RUVsU2cxSm5ULUtNc2N2Mk5DVnQxYnZObXJ3bHhtQmt0YlZTLVYtYmppeUdBNFV0UWxTMTRnajdUVXJZUG9QQnJZTElLb1hNYVN1NWZkeUtESzFRX09zRkczdFVwOGw5bVBNYllHWk9ib3lCUzJIN3JVbUo5RTBub1o3YXVmZmQ0MHZtUmJDbWJVNUdzR1gzNlFiUndRbElpZDZuaGhQVmFXU2FUcjdlN09YZmNIMG9tNGQxWG1UM3JfTFI0VXhzcnhiLVpBM0FNOHNQdHVGY2lpUWw1UjFoYUN0aDExeTR6bk8wemJRY2U2M1BFTF8tRFU?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-11T13:09+09:00"
+   "title": "ＳＭＢＣ日興証券、情報漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14Vk9KcVNWTU1TNEl6bjN5WG9ZV1ZoQ2hJb0YtcU9TLXFiUzJpLXNfR2piYzNaTzQ4bGtTN0lHcUwyU0NFdFYxQUotU1FwbFc1d2gyNzdkUFprZ0U?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-11T16:32+09:00"
   },
   {
-   "title": "NTTドコモの5Gサービスで再び通信障害 復旧めど立たず 今月5日にも同様の通信障害「5G スタンドアローン」",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMQWFJT0c2Q2RDWUlCeW5rN1dBRXo5RWZCZXM3SFFsdXhjQVpPSUZNY3VWdm5lTGtyWm52SW9fZ3NFMmtCMUlXblhMbE9wTGQ0ekc3VlBCdFVBUFFQTVE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-11T12:56+09:00"
+   "title": "日本サッカー協会、公式ショップでメールアドレス漏えい　外部不正アクセスで11人分流出",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VcnF0Vml6Mi1XeE1BY004RzdXdlJvczN2LTF2ZERfN1Z5eEgyYVRIMkI1Sm5jX01EcnN2ZFdOSWVFU3pNVXBoUTZIWHNmdHJlQWxXSkVQMjBocUtrZnNZLUI0eWJtUTBmV0x6TkkzalRJUFdnckHSAYoBQVVfeXFMT2VfOWZmYnRGTC0xNHMxUWZKUlNQY1VhQ09PQUt1NDNVX3J5RUNiNER1UEhzaVJvdFd4UXNUaUtCUXJtTjlXWXMzMXl4X1BEMWJZZkRNR0VPUXJkcGxvd1pndDhRYURFVWVQTTliVVVxSFBGbGhNRXp1dXJ0SjJJWGFOYnU0bWIxMGNn?oc=5",
+   "source": "サンスポ",
+   "at": "2026-11-11T16:30+09:00"
   },
   {
-   "title": "【通信障害】ドコモ「5G SA」全国でつながりにくく、先週に続き同じ内容の障害発生",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PdjNUdWRUaFJ6NjZMRkFzQ0xMUUt6YmtGSFlHRWhVZUVxcE9pLWxQbXdSV2VSTXdjbEdSVG1NWlB2VldMZnNDWm5oWXQ5a3llMjFBX1RCOFhPVE5lSW1qdEhOX2JZZV9DUlR1V0xjR0prOHZnMUQ5dA?oc=5",
-   "source": "Buzzap！（バザップ！）",
-   "at": "2026-11-11T12:51+09:00"
+   "title": "ＳＭＢＣ日興証券、情報漏えい 最大５万人分、不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91WnFsTkluV2N6NU1OdU1IcnZadWhGVU1LZmt5SEgzck1hcnQtWTdUaTQwY0htUEgzZ2trYVMzSmdmMjBIM011TXNOUW1OTFR1N2lFcXNuREVlSTNT?oc=5",
+   "source": "琉球新報デジタル",
+   "at": "2026-11-11T16:21+09:00"
   },
   {
    "title": "SMBC日興証券、情報漏えい　最大5万人分、不正アクセスで",
@@ -450,32 +468,14 @@
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RdVhTaXgyY2JvWmh2NE0xaWVYN3VRMFBHQ3NONHNQaXZNY1NjQWlKcHZtTFo0VW1pVUxzZm1YTlBLNmNoeW1V?oc=5",
    "source": "マネーポストWEB",
    "at": "2026-11-11T16:02+09:00"
-  },
-  {
-   "title": "SMBC日興証券 不正アクセスで個人情報漏えい 持株会の会員最大5万6000人超",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zSGtMYUJFMUpCeVpDbER3bEtuSE9oUEEwZ2toX2pXT3o0ZVJmNkZuS08zYzRRWnEzLTNiZkFrRXdnNE1DSjBGT1g5VkRhWlY2QzJ2YnJuOExERDM2SkJQVUxzel9HUWpVcXdOd091RGhkUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-11T16:00+09:00"
-  },
-  {
-   "title": "内閣府、個人情報6万件漏洩 アララ不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eHVfbW5BMjlnRjZpOWM2WE1qT2FTcmlxeDZORUVhcWFxQWM0MkRmanlMekxHMXQ2T1VWdkJrSWxKYzlZdU1IUWZIMGZjN05JbFNFMFpadTlzM1FaclVSNkJhOHBydGo5dlVJOA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-11T16:00+09:00"
-  },
-  {
-   "title": "ユニリタ[3800]：不正アクセスの発生および情報漏えいに関するお知らせ（続報） 2026年11月11日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zYTIyT3FjbVN6bnU0bEVLR0RNUWNjS0l0NVN1VDNuVHRiQV85LUxTS2lBMVBHdU41YXBXZkQtRWFiaFdlTWtOcmpaU1NuT1lNeV9GWklFczNidldXT1hYb3puNDRHaGFDeVE?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-11T16:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "バルト3国、ドローン警報解除　ロシアとウクライナは相互に攻撃",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYk04c3NWZjVTX3BjQThEaFFIZjhvbVo4QVI3RmwwQjRfM0p6aGlWTEh3RFg5dHlaSGFxd1R1MWVla2t0T2FNRk1MVXNicTFFYjRBUWY0N2Z4QW5Pb0hJaU91a090VzRnUklrUWNFcjlYR0Z1b2h5dGRjVGRzU014UnVNQ2NOeEo0YWxoY0NjZUpCeGxMVFJNMmZBakFuUFZtX1A3R21DcFR5Mi1BYTRoNHJYZVNxVGpzOGY1dUtILUJ0cjVubWhRZ0JZTUZTdmV3UVZJ0gGDAUFVX3lxTE16bzVhMUl6aExwLWJlZVB1QjFMTUhkeGpUbGxGZUpYQWxKM0RaLWNSWWxIcVBYMGpiOWNDLTRNZFl1Y1hxOVBmR3VHSVBUblhkTDRYYjc5Z3gtUzVDWl9vSGtFNDZoeGs2VG82eEF1WmtsYVkyWjJlcmVvWFBwc0ZOTW1J?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "バルト3国、ドローン警報解除 ロシアとウクライナは相互に攻撃（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTy1tLXh4RHJnS1piRlFka0dMVFVjMmlYOXlBQ2llelFnMUo1RWRTd3FvZFFlQUpzVFhTTFNWX3dxWFI5aHJOT1ltUTlrNGJmdGF2RkV3allaZjRhOF82UTQtOHYzbWlqNWo3clRtci14V2JUTHM5SDlTaEp0UFk?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-11T16:06+09:00",
    "topic": "ロシア"
   },
@@ -491,6 +491,13 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ212Ym5mWWRuLUJLSWZEVlcwb2Zjc1ZWcGJXUlpWXzBITTRwSDJqVnQyYXFXTmxhVFl5eFlDTmwxcE5mS2huQm1jR19EWmN0dzZPODBKR05PaEw3bXNSMktxR3ZzYXFaaElfQ3pKV2RHeVl5X3pFajgwR1dsVlRlTy12ZHhaU3R1M0JjNXB3VGo5N1RoVmhqcG11VkdBU3MweEF6NXl6c0g?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-11T15:57+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イラン大規模軍事作戦「必要ない」 米国務長官 G7各国に伝える",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlRtZmxZSkVpSlU3U3gyWHZoNzNOaTN3eEJzd1N2dE9HSkJaRWw1dHlUUFRwTDZQS1B0VWNnN3JIcG5QTERpbFNRMFFhQXFCOTZWTVUyR0FGalMtT1dFaFZHcWJFRmhpZ0tWclZSSk8yUjhNckxyQnRjSjZfVzllVw?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-11T15:55+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -548,13 +555,6 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-11T13:17+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "イランの攻撃警戒 アメリカ軍がイギリスの空軍基地から軍用機を退避",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XZm5pdUxTOVBwRHd6Ym4tVG42Rmw3M1h3NVBTdlVjUm4xLXl3eEFfMDYydmpRenZMN0NCOEp4ZjUya04wTEFmcmtfeUVSakhSNmdnNHRJaEhXVTlhcUViZHo3X2lvMFZybW10WS13?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-11T12:46+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "ロシアの製油能力、10月下旬以降約30%低下―ウクライナが製油所のドローン攻撃を強化",
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモの5G SAで全国規模の通信障害、15時30分時点でも復旧せず」"
+    "「ドコモ、5Gサービスでまた通信障害 今月5日に続き 原因を調査中」"
    ]
   },
   "japan": {
@@ -629,7 +629,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「ミサイル」3件",
+    "イラン・アメリカ：「攻撃」「ミサイル」2件",
     "中国・台湾：「攻撃」「封鎖」1件",
     "北朝鮮：「軍事衝突」「ミサイル」2件",
     "ロシア：「攻撃」「侵攻」4件",
