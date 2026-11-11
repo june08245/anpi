@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:15+09:00",
+ "updated": "2026-11-12T06:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,6 +137,18 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国の海洋調査船、潜水艦作戦を支援か 台湾東部の地形や水文調査 台湾有事で米軍排除",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MkhxWTU1ZDU3WjJ1WnpUV1gzQldtOFN4WVZJc29NUmJMQ25lUmNtNmdfRG1HMFZWelR0TzQtaUlHN3V0STN4MWFsYlc1S1ZybHE3QmRfZ2hJVU1OaE4yaGVqVklrRnUydTVBdkxTLUpoQy1tN2c?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-12T05:00+09:00"
+    },
+    {
+     "title": "台湾国防部長、中国空母「遼寧」の西太平洋での領域拒否演習を指摘 友好国と連携し監視へ",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNS0IzM1pPN21tYnVVZ2RXS3p5NlBJQi0tOElYTlRfV1ZOMXZteE11dUlVbjlBT1VzdDZ3aEhOYXhQQ24tU1J1Zm51ZW1KM0dBVkp3MUJSYkxpbkZHNEliVno3SWltVjI1?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-11T16:46+09:00"
+    },
+    {
      "title": "中国軍関連大学がエヌビディア「Ｈ２００」購入、米規制に抜け穴 | ロイター",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHNSUUJWZ0JyZmM2SEtZUUFUS0hzU3R3Z3lFYUdmdGI0ZmRYZEotSGxQb2NPSWEtWnRUT3MxNEhjTWczcFN2b0VPZzJNZEJBY0QySHhoVjJIN0ZlZHVEbDU2T2FfRXNIYW1aQkFNT0NPamtyemhfSjF5RHprUVNrSmI3VGU?oc=5",
      "source": "Reuters",
@@ -159,18 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtdThTcVVjaFczNENOTzhFUm5QZ1RNMzdVYW1hWEhTaFZ4b0xBSEZiMUl1UHdnd3A1YTktQm9kV1ZOQjdhRUJiM2ZCeV9lZWdJ?oc=5",
      "source": "風傳媒",
      "at": "2026-11-11T08:23+09:00"
-    },
-    {
-     "title": "Spiegel：ドイツ連邦軍、中国製ドローンを禁止し、軍事施設への中国車の乗り入れを制限",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlFKMTRrakFvaDhraFdzRk9zQk4wYWxmMVZtNl92WFgwR3pRd3F1WnJ4OFZqOHVtN09icldycVlwRU1KcnBaNjRlSG9WV0hhaEZIaUFLSmhmSkIxTmpOOWxMMF8ycVFaeWJxR3JEeHh0cXo0NGd0TnF6ejBneVlSSkZNWEYxN0dOSkhYU1BwNE9hXzlyY1ZHbTBaOUxkOC15T2c?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-10T23:26+09:00"
-    },
-    {
-     "title": "台湾国防部“中国軍が西太平洋で軍事演習” 「インド太平洋地域の平和と安定を破壊する意図がある」と非難",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KcUJ2a2NVcGV1TmNGelFLYmNJSnhJVm9nRFMwTUxaa20taVQwa3VpWUJiZ19rdER0dm5TbmxSU04ySWhacTdsT1FmcjJ6bTB6MkMzNllZaXVBSWphX2NocDF2SW9LR1Fna2lMU0VR?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-10T22:59+09:00"
     }
    ]
   },
@@ -221,10 +221,16 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrT3d0X05ycTFDUnBRQm1obURaYnp1Wm9qTDRNM0tEQUxZVXE3MWNWMUhNLTJod29sMFBpM0lJVWRjZzdpdXJLSDRQeFBoZmtMcm1zRVhGclU1eEN4VFpQY0Z5NGllcXpXY1QwVmtqNFRuSXBS?oc=5",
+     "title": "再開された米・ウクライナ・ロシア三者協議、米中間選挙の影響は？うごめく互いの狙いと思惑（Wedge（ウェッジ））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZQTBfTmZDNFo3enQ1UUFmd3ZGN2FSb0swZnJMUzB3VVRQU1F5NkhSS29MdEx6WFpLVE9ZOUVFOEpWMUUwQ2F2clp6NkFNeklRQ3JaTy16TGFmZ1N6eV9CVDItXzNvUEZ0eFRVR1l6bXZtUmZiWXQxNjU0aGJJRVU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T05:11+09:00"
+    },
+    {
+     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
      "source": "TBS NEWS DIG",
-     "at": "2026-11-12T03:31+09:00"
+     "at": "2026-11-12T03:54+09:00"
     },
     {
      "title": "米国・ロシア・ウクライナ3か国の和平協議が終了 「大規模な捕虜交換」合意とクシュナー氏発表 欧州参加めぐり米露に温度差、首脳会談へ",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVVpwbWFIdHNtdzRSV3BWSFptaEg0MmtCY1RmOXpfMklsakY5WVROVkU3QVJDVTNOall6MS12ekRrbEE0azJ1QUk0VlhtVEJUazhyMzdzYVNxRlpFaG5Qa21n?oc=5",
      "source": "読売新聞",
      "at": "2026-11-11T21:31+09:00"
-    },
-    {
-     "title": "Bloomberg：ロシアの対ウクライナ戦争で死亡した外国人は1万1000人を超える",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmZtYks1SmQzU3YwMjRYYTVpSGVtNE1NSmtuNDNvUGsxRXdGYTJtVVlVcTJZUGEyU09FelJxX3NyQjRicG12dUtWdFFfSmRsOVlodEJhWWM4OWRYQlh5aFBDX3FGSVUyT0pjZ2gtU2IxdWpHNXUwWHdmT0dqWnBQZU9VdXBQWkZEWjk4NFc1ZkV0dHMxOE5OM2IyT1V0OFlhRnc?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-11T20:58+09:00"
     }
    ]
   },
@@ -303,6 +303,18 @@
  ],
  "nankai": [
   {
+   "title": "【2030年代に南海トラフ巨大地震が来る？】｢大地変動の時代｣に入った日本、地学に学び大災害に備えよ（Wedge（ウェッジ））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03SV9sa01TOGM2VDVxOG9MQVFMLTN0LWdseElJSy1jWm0yYjhKdVFPSndmRjdVODktOXQ5VkNWT2dGNUJuVUhuTUhBQ3Z4OTZGa2w5eGlTWmNMdndDMkxzUERQZGpRSnJ6cFlVZFE4djRheS0xYXp5cnhSdXhFYWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T05:04+09:00"
+  },
+  {
+   "title": "「屋根の下敷きに」「津波で家具が流された」昭和南海地震から80年 南海トラフ地震想定の高知で企画展（高知さんさんテレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05NDFiMDZsT0p3d3NhaW0zMFlpWkplTTMxd1ZULXdPeExZMFhfLWxhRzU4SFRvWTN5QlE4Q0F5YjF2bzJIOFZQQ0N5b0huMTBDNTNWdWtfOVMyMUJiYzFobXRlS3VyU2IwSVJub2YtVWlUVjVhdUtRU3E3bUUzcjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-11T19:05+09:00"
+  },
+  {
    "title": "南海トラフ地震に備え4県警が合同訓練 衛星通信、ヘリ映像など受送信…中部管区警察局（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObmMtNTRTX2VscDlyZktSQVBnUlZoeTVCRmowbHE1ZzdGb3hZX00xZ2dnWnVvdnA5WFVZS3Z5WE5aNElJOW5CcW5NUXF3OVJqYzJqS0tmcWtYLVZRQ2dWMGkySWFfbl9oTzFDM2tOY0kxcG1fcGZiLWwzNFlSZ00?oc=5",
    "source": "Yahoo!ニュース",
@@ -325,18 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00dDZlTGdUVGltTl9BNnlSdGJTSHFWT0QzZGlUUXo1cXl0clM5OWZxREdFTzJfYk1iek44c2Vvam5qOWRXV0lLejc0OGFJbmFNQVBfUHdJVEdnZ0VjSTVIVlFnTUtFS3NJVU1RRHVCM0c1OXB0aHM4NVdpZzR0VWs?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-11T09:57+09:00"
-  },
-  {
-   "title": "【全国の海溝型地震一覧】巨大地震・津波の「発生確率・リスク」まとめ 南海トラフ・首都圏・東北・北海道・南西諸島など…「低確率=安全」ではない（MBC南日本放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNk9UWklmYnlzU1FNZ2JCMVlCMmlsR0szNWZSLTV1a0hwclhGSWtOYkEtTFN4QnZyNTVrVjhQTC1XVVVyY2liYUVUd2ZreHl0WGdrc181SFNoNk9tVUpxTk1kOVU0T29WM3Y1SmhWVEpfa1JaMm1fTTh4S2lWZWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T06:00+09:00"
-  },
-  {
-   "title": "南海トラフ地震想定 72時間訓練 集団救助や孤立集落からの救出 防府市 239団体2万2000人参加 ／山口",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1T0NGR3gyY0h0X2NpQWNrQ1lJeEF3Sm11ZEMyTVFlQWVtemtKTWtqM1dfbEhiSERNOEgwU19Gb01DS2s4QUFkZUU4NWo5N1BQTWV3aUtudG5kSTFxOGl1NEZaWjNyYVR2?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-11T05:00+09:00"
   }
  ],
  "outage": [],
@@ -383,7 +383,13 @@
    "title": "NTTドコモ、再び5G SA契約で通信障害が発生も復旧",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBySVNXcjdXd1NtY2JQMmdGQjIwcHFWZldxREw1NUNoUDg2WWx0dExKMGRSV0pxdVgzOVRkS1NYOFViUVJUV0w1UjhUenZ1NVE?oc=5",
    "source": "blog of mobile",
-   "at": "2026-11-12T05:04+09:00"
+   "at": "2026-11-12T05:23+09:00"
+  },
+  {
+   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
+   "source": "GameWith",
+   "at": "2026-11-12T02:42+09:00"
   },
   {
    "title": "海外金融機関のシステム障害、国内への影響なし",
@@ -458,33 +464,41 @@
    "at": "2026-11-11T21:08+09:00"
   },
   {
-   "title": "ドコモで再び通信障害 先週に続き一部除き解消 | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbHE1MTRVUS1HdUhXNmdaOUVYVjY2d0dPMEFSc0tEVEpwSG5zUld3anhUSmpHc21TTGJieWwxYk4tbVZDSHJrazcxTFpNR3JIODRsclNfbWhGYzZpVUZRd3QxbEtPTk1QeW43NmNPcERIS2NYQlZfQ2pjSmUwS1E0d3NlU1NEX3NJUFplZFFLQ0QyQ2tJMTZQRzJKNmhFSXY1LU0wUU5LeWc1NUhJTy1kQjBDV01vU2lKUHlsM3dPNUJzUk02T3FUUkZkMkdFWUpDZEI5MXRwNEYyZ2YtYWdJQkhOdTZhNjRLWWtSYkF3Z1lYZ1lIZzljbzVnWkpZZm5WQXg4cjdsSUVkNnRnME9sc3hzZlVlVkFSWDRpWTdCbV92S3dTd0pHdzZCOW5EWFhsSDdwdHJvNGcyLXd3N0I3UmVGYno5OXBUQVhpdUFqTTJPSVhBVnJuc2prOS1iQlFHLWRBdzM4Y1F4aU1VWGxZZnpZQQ?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-11T20:13+09:00"
-  },
-  {
-   "title": "登録者のメアド 下野市漏えいか アララ不正アクセス｜朝刊・夕刊ニュース｜下野新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UG1wanVTcUNnN2NUVi1MTDNSY1NlLTQwdzhYdFc3TEJDc21kanhNcE5xUGIzTDk0dkp3OFlmdHAzdVA5eXhFVElILWF6QjFkRkVHQ3dESk5Hd3c?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-12T05:02+09:00"
+   "title": "オープンロジに不正アクセス、配送先情報が漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DQjMzWUtKLTFKVHlBUEVCOWNhemEyaHB1WGcyakQtVEU2VEJrVkpqay1CQV9Ka0FOZVFqMU54SHVlU1FkOWVrYmJB?oc=5",
+   "source": "LOGISTICS TODAY",
+   "at": "2026-11-12T05:48+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "再開された米・ウクライナ・ロシア三者協議、米中間選挙の影響は？うごめく互いの狙いと思惑（Wedge（ウェッジ））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZQTBfTmZDNFo3enQ1UUFmd3ZGN2FSb0swZnJMUzB3VVRQU1F5NkhSS29MdEx6WFpLVE9ZOUVFOEpWMUUwQ2F2clp6NkFNeklRQ3JaTy16TGFmZ1N6eV9CVDItXzNvUEZ0eFRVR1l6bXZtUmZiWXQxNjU0aGJJRVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T05:11+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "中国の海洋調査船、潜水艦作戦を支援か 台湾東部の地形や水文調査 台湾有事で米軍排除",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MkhxWTU1ZDU3WjJ1WnpUV1gzQldtOFN4WVZJc29NUmJMQ25lUmNtNmdfRG1HMFZWelR0TzQtaUlHN3V0STN4MWFsYlc1S1ZybHE3QmRfZ2hJVU1OaE4yaGVqVklrRnUydTVBdkxTLUpoQy1tN2c?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-12T05:00+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-12T03:54+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ベッセント米財務長官、米軍基地に転居か イランによる暗殺の恐れ（朝日新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWHRTVVNaRFhLdFZRLVNpVnJxa3JaelFIMXdUN1E5OGU1N0pRX2pvX0pITmVIYVdGeU94OXJoY21YU3hYcWlKNEd6c0JTR29kc0VrWTlsRnZnMXc4b0pqaVVCU3FJTlNCa1dRQjZGVUdXR1d2azA1c1dCSnNzNG8?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T03:48+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrT3d0X05ycTFDUnBRQm1obURaYnp1Wm9qTDRNM0tEQUxZVXE3MWNWMUhNLTJod29sMFBpM0lJVWRjZzdpdXJLSDRQeFBoZmtMcm1zRVhGclU1eEN4VFpQY0Z5NGllcXpXY1QwVmtqNFRuSXBS?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-12T03:31+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ロシアの外交官らが、新たな欧州安全保障をめぐる協議の一環として、NATO加盟国との不可侵条約を提案",
@@ -597,20 +611,6 @@
    "source": "読売新聞",
    "at": "2026-11-11T21:31+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "Bloomberg：ロシアの対ウクライナ戦争で死亡した外国人は1万1000人を超える",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmZtYks1SmQzU3YwMjRYYTVpSGVtNE1NSmtuNDNvUGsxRXdGYTJtVVlVcTJZUGEyU09FelJxX3NyQjRicG12dUtWdFFfSmRsOVlodEJhWWM4OWRYQlh5aFBDX3FGSVUyT0pjZ2gtU2IxdWpHNXUwWHdmT0dqWnBQZU9VdXBQWkZEWjk4NFc1ZkV0dHMxOE5OM2IyT1V0OFlhRnc?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-11T20:58+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "イラン、濃縮核物質の国外搬出認めず＝安保トップ",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdEw3bmVRZjlmTld6VHlsMGtrelg5LWVmakF1UEhHTWdOWmpTS0NQZmZLQVhBZWd2bUR2SW9JNVBNQUNWMi1WcXFmdHlSX3NZbmx3WkFqMjFYV19yYmRYMG8zd0liNWNqUS1sclBSTnFkU0tXNzcxbkhRMHFfVmhab2dzUTJOTVE?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-11T20:23+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
