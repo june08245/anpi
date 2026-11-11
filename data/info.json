@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:15+09:00",
+ "updated": "2026-11-11T11:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -101,12 +101,6 @@
      "at": "2026-11-11T09:57+09:00"
     },
     {
-     "title": "トランプ大統領、カタールの首相と会談、イランとの戦争が「事実上終結」と発言",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BWUdiN0Zucmh2UkxjNVdDVEZNSHZ3Qk9qMlBvS0FvQ1Q0cWhPVEFNTjdpNzJVWUxIVEFyOFFzTEEwaUpGLVk3cnBPQ1RaYzdwSlNLdV9sUjE?oc=5",
-     "source": "Switch news",
-     "at": "2026-11-11T09:05+09:00"
-    },
-    {
      "title": "G7外相会合でウクライナ支援や中東情勢について協議 米ルビオ国務長官「イランへの大規模な戦闘は必要ない」",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqNXA2dlFGVHFrTEQ5QnVpNVJPd1lZcksxb2JXZ3FVSUdHREduX2NZTkxkNjVWOXhNV3ZiSThGUWYyZzhsS1FQRnYyVHJOQzl4dlgxWFg2WDAtODdPeFNPYnhIdTlOQl9Dam9zX0V30gFzQVVfeXFMTXlMaG9UQ2JJd2pDTkdvVk5SNE9UQ0s0Wk9xOS1IamJPckZmVjllc2FXYkRTUFYzOWtRbVVvQldRVWh5aEdlSXdTNFlWMkYyVEFUNFA3U3VqZllJYi1Fa0hoY2x5OWJEWjdvT1pqdC14cjgwRQ?oc=5",
      "source": "ｄメニューニュース",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tay1RU3VNaFdhT2FFUmhJLVVwVjdOMFF5cGpkN1RhMFQzT3E0MnVzbWtZdUR4UmRoOGZLby16UE1UTHR1a0M1WUVndFNyalZ1aE9z?oc=5",
      "source": "東京報道新聞",
      "at": "2026-11-11T07:11+09:00"
+    },
+    {
+     "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
+     "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-11T07:06+09:00"
     }
    ]
   },
@@ -310,9 +310,9 @@
   },
   {
    "title": "昭和南海地震から80年 気象庁が南海トラフ地震への備えを特別企画で呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NTWJWeVdoWDBMNTZhWk5yR2hwVWxZcW41NzVsRVlWZXlNeXo4eExoMi1tREhDLXpPUkdDXzI1Y1I4U3RMMTdoWkpqRmNNOS1rV0pqMkRR?oc=5",
-   "source": "KAB 熊本朝日放送",
-   "at": "2026-11-11T10:14+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Pb3lWd2Z3WWFhdGNidVNDV1o4bjdidXE1S0sybGNreFEybDVEYzJmSjJTb01RZDgwemQ5TWlvcGprVTJ2RGg4MmVEbEtTSzhiV2FWNmRNZEw?oc=5",
+   "source": "NCC長崎文化放送",
+   "at": "2026-11-11T10:10+09:00"
   },
   {
    "title": "南海トラフ地震とは「直接関係ない」…愛知で“最大震度5強” 専門家「より大きな地震が起きることもある 今日自宅の点検を」",
@@ -380,6 +380,18 @@
  ],
  "cyber": [
   {
+   "title": "NTTドコモで通信障害 原因調査中",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCazVOOF9neWhHM1UzNWlGaUZYeEJXTjFiclBQWDVoaHM4MUZsWGY0WVhnbjkwSVhoLTJubHhNaGdTTHZFdG1VT2tJVnMxNDVrMVpEWk56RG9uMXRydkc4?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-11T11:29+09:00"
+  },
+  {
+   "title": "ドコモで通信障害、全国に影響 11日昼～",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93cUdrNHJxcTJRa2pzYjl1OXpKc0t5OFpERzRSdlhPTUpNTzdvVHVfbWFvcTFtemhpMnpXUGkzQ19JNmlIYnpJaGgtLVJBNTZMZGVrSGRvcmRhQzlDYzJfTENoX0gzSXc?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-11T11:24+09:00"
+  },
+  {
    "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb25meVExd1FYWUdXTmpmVGlvR292UGFTdkJ6ZGhESWxlY2JTSnNuYWVJLUktd0hpYnJPNl8wdVJrMURYc2hrOEdYYWhYNnVmRS1vRUxOeHduY3VNRUV2TlRuWWxNUXlnMXc?oc=5",
    "source": "ITmedia",
@@ -398,7 +410,7 @@
    "at": "2026-11-11T10:04+09:00"
   },
   {
-   "title": "「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
+   "title": "【復旧】「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CTGc1UWp0UlJyMkNNRm10Q3BnQXFBQUo0dnZ5VGkzVC1XcEdON2tvVTdqWHhPVWdEMjZvS2hWS29OWWNmaVB1VkZRamZWM3JBQlBkbE5PcVpPeF9VTkotN0lSeFphLWU5dnc?oc=5",
    "source": "ITmedia",
    "at": "2026-11-11T09:42+09:00"
@@ -410,10 +422,16 @@
    "at": "2026-11-11T08:53+09:00"
   },
   {
+   "title": "イラン革命防衛隊関与か フランスへサイバー攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IUFhKdVpjdjdiREtnUFB0eUcxWjJjcVg5S3pkSC01TXlYQWhaSXpEWVNvYWNKZnZBaTluU0szNE9raVRyRUNUSjZZeWNOVHpGMy00OWU5T3AweFFKRkE?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-11T11:08+09:00"
+  },
+  {
    "title": "サイバー攻撃による個人情報漏えい等への対策について（中小企業庁）",
    "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPREFIV1BuR1NWZUNzYVBZaFY1d2E1bjJsMWpnNHVpc09NZU9ha1E4TWs4TEtBLXBUcE1LbTMwNk5SY2Z0eXByN2lZYWJZMzhRTkpDamFwVFVWSGdScjlCSS1SU2llRTdOc1FGcDVjRUJxZTVreTZqUGpoTEtoNFlpQlo5Y0hwN2NlR21SOFA0V3VOUC1iMzFsLUZ0a1BBTkZfV010dFhKOTUwREZ5Z0duMmhiWXZjbDhpOVhzRDVhajl2Uk1wNFFUWXVNQm5Ib00yWUQ2UTVleDZPLXJ6dmhESFZlQXBMamE2TTJNQ2loY19SbGFldVhkanNSdV81akJyN0pMajhOYjd2NmJXYXRsZ0NTRFE4ODZUbWlCMWVkQ0U1dzNqRThqUGJBcXhueHg3QTJnaFJJZUt4UlgzUmZUYXc2Z0xGRUVHQXcyX1hmQ2RmWkltWjNKVXlYU2t2eGlhLWgtVEVTYnIzS0dnRnlCYjdKWjZRYjB4WkM3cEhYWTB4NEk3TFMyX1BPYmFTVFFmckNqYThZUWJYandCSlFINXhocjhhZVB4WTBjWFhqazNTNnJYYWJIbWZBYWVzNUE?oc=5",
    "source": "大分県中小企業団体中央会",
-   "at": "2026-11-11T11:08+09:00"
+   "at": "2026-11-11T11:07+09:00"
   },
   {
    "title": "『【再放送】サイバー攻撃被害の報道が相次ぐ中、Webサイトはどう守る？』というテーマのウェビナーを開催",
@@ -450,24 +468,6 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnJqc0lUWmdRSm8xQnpZZUdzdm10T1BQV1M3OTJ2dkQ5OFlxRWdDU1NZWVdnQUI3UDd5SVQ2LUxPeGNIendUMC1YX29ldnVqcnFwOEM4XzNVa3NPOGM2Sm1WWUlpbnZBLTc4UzJRbHNIOXFPZGZrei0yeG11MnQzM0FzOVh5UDloQjhXV1BwWG9aZmVkaFVUNA?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-11T10:00+09:00"
-  },
-  {
-   "title": "【観光DX特集】シーナッツの予約・販売管理システム 「IP制限」で不正アクセス防御",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nT2U1VnpUc09NRjFfWHNNdEdxc0twTUF4MGZydHRWVEdUSDFWTjdzQWg4TWRXRGEzdWozNlF5RWlRTVNpYVJZN0hUMXlzd0U3cnBJMw?oc=5",
-   "source": "観光経済新聞",
-   "at": "2026-11-11T09:33+09:00"
-  },
-  {
-   "title": "人気アーティストFC、相次ぐ情報漏洩 ラルク、EBiDANら 「アララ」不正アクセスで（スポニチ）",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OTUdVemxVLVdJSTVGcHE4M29TVEdxanJHNl9aUEtRNjVFbk1qSnd1Y1RLTUpvTTdGYjlYV2FHOG5QV0V5VDUzZEdjM0V3eHdXblpSUTR3ZDhhb1hra05EcnRRRTZ2R1My?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-11T09:30+09:00"
-  },
-  {
-   "title": "病院へのサイバー攻撃、患者死亡や治療中断のリスク 研究で警鐘",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0FJQ0pfb2hfY3VUY2d5VXBsZ0dld0Jlb09iNDF3VGhXdkZLTmJIQThqUnV0aFhjMWpTS1FaYTZCMUxXZHI1dFlCRmVSaUdVajdtSVJmS3pXME1RQ1RTTGtKUkZHNDBpSTRwU3I3bjNfUERfekdsS0o5V0N1dnZsM25xbF94QXprdWItNHFlTWw0VjU2b3didVpnd29CRTEzRmFtTkFPemNDb01TXzYzR3VxSVNJLUxSSzJrNWxicEV2U056Snc?oc=5",
-   "source": "디지털투데이",
-   "at": "2026-11-11T09:24+09:00"
   }
  ],
  "osaka": [],
@@ -506,13 +506,6 @@
    "source": "BBC",
    "at": "2026-11-11T09:44+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "トランプ大統領、カタールの首相と会談、イランとの戦争が「事実上終結」と発言",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BWUdiN0Zucmh2UkxjNVdDVEZNSHZ3Qk9qMlBvS0FvQ1Q0cWhPVEFNTjdpNzJVWUxIVEFyOFFzTEEwaUpGLVk3cnBPQ1RaYzdwSlNLdV9sUjE?oc=5",
-   "source": "Switch news",
-   "at": "2026-11-11T09:05+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "台湾海軍、1320隻の無人攻撃艇を調達へ 台海封鎖に備え「監視・機雷戦・離島補給」も課題 | 劉煥彥 | ニュース",
@@ -571,6 +564,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
+   "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
+   "source": "アラブニュース",
+   "at": "2026-11-11T07:06+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシアの都市攻撃はウクライナを屈服させるか： 英独の機密文書が示した、物理的破壊により抵抗意志を「制御」しようとする幻想",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rV2tsdmx4N2taZHZKNmRlRXcwWTYtWjZOOG5VcURqTWVwSGxsYmw1NXlFb3NIWWNXRzdnR0FhY2xMdzhuRll2SERrZUdZVHYy?oc=5",
    "source": "新潮QUE",
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」"
+    "「NTTドコモで通信障害 原因調査中」"
    ]
   },
   "japan": {
