@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T01:00+09:00",
+ "updated": "2026-11-12T01:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -180,9 +180,9 @@
    "items": [
     {
      "title": "［深層ＮＥＷＳ］北朝鮮のサイバー攻撃、吉永ケンジ氏「能力の高さに気づき外貨獲得にも活用」",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXB6a1IwNzVLRGVTVDRXdFFFWmR5VmdzOFg1Zm9PSjVpV25Wa0QwdjJoM2lHLUsya1YyTDVHUnVBNHdFdndYd0RuXzdCRXRkMzZNRlRoWW1tOTV6UGJzMENpd2t2Z1lVMllKUXh5NHpGLUR5enRyeUhPTkQzb01XdlczVlFldmMw0gGOAUFVX3lxTFBrOENNY1k3V0pRUmVseU5ja2JYQ0t5bFlIWk5oWTNlOTAzWlotOHRMWWljS0g5M1BfcVZmbWRTRmhrNE14ZWhPUmozSE5KUlF0TndGNktLRjZ3VHgtdkhFNExHZ2Z3Rm9tSlp4SHM2a2xRS0lxc3h5N0M5b3pWQXpMY0tkeEQtUl8yZ295YkE?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-12T00:07+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvRW9vWTVTeWF5Qm1PMm5ZbWRqMnhOalNIdjNlbFlnU0RTOFZBaGFFdjY4NDhCXzR4LVVtZ1JVS29JUHIwZFR2Ynhic1gwSWlBN2c3a0tNdlRBTy1NSkZMdUhn?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-12T00:03+09:00"
     },
     {
      "title": "米韓外相がパリで「歓談」…「北朝鮮問題」などを協議",
@@ -269,9 +269,9 @@
      "at": "2026-11-12T00:40+09:00"
     },
     {
-     "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず（朝日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSkphdHNpWWtsTHlGc3ZpT3pXaldGeTBIb21nY0pJVE1adWRpOXg0MzM5Nmd4c2U4OTZNbEl1d1hPNVNhbGRuUURJWVBEVG5JLURtamNrRExmcXVhYnlKYi0wNkxFLURMSmxaeVIzNmRqQTQ0WHBtVVhSR2RzUTQ?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjRXRXbEVVQTBpUjdXWTVOdk9ScUkwOFhtaFJnZ1hNN3FQZjNIWFlrdzJhX1pUXzFiZlNvT3JHaVA3TzRuSmc4UVVfLXV2Z3ViYUR3YVlsNlhoeldLbzB5RkFZd2pDa2pMNzg0ckpB?oc=5",
+     "source": "朝日新聞",
      "at": "2026-11-12T00:27+09:00"
     },
     {
@@ -303,12 +303,6 @@
  ],
  "nankai": [
   {
-   "title": "「屋根の下敷きに」「津波で家具が流された」昭和南海地震から80年 南海トラフ地震想定の高知で企画展（高知さんさんテレビ）",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTFZEN3E0NDk2ek56ZU5Eem5rd1BTZWx0RGRDM3l6Y090eW0xdU9tMzIyYWp2STFvQ3l0R0JzQW45LUFJZkpQLUdSUk5uLWNmZDFwOWJPLUM5MEgyMTFObWF5TWF1N1JCcVhxeExVT3YtOVRfOHItYTNKOHU?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-11T19:04+09:00"
-  },
-  {
    "title": "南海トラフ地震に備え4県警が合同訓練 衛星通信、ヘリ映像など受送信…中部管区警察局（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObmMtNTRTX2VscDlyZktSQVBnUlZoeTVCRmowbHE1ZzdGb3hZX00xZ2dnWnVvdnA5WFVZS3Z5WE5aNElJOW5CcW5NUXF3OVJqYzJqS0tmcWtYLVZRQ2dWMGkySWFfbl9oTzFDM2tOY0kxcG1fcGZiLWwzNFlSZ00?oc=5",
    "source": "Yahoo!ニュース",
@@ -337,6 +331,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNk9UWklmYnlzU1FNZ2JCMVlCMmlsR0szNWZSLTV1a0hwclhGSWtOYkEtTFN4QnZyNTVrVjhQTC1XVVVyY2liYUVUd2ZreHl0WGdrc181SFNoNk9tVUpxTk1kOVU0T29WM3Y1SmhWVEpfa1JaMm1fTTh4S2lWZWM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-11T06:00+09:00"
+  },
+  {
+   "title": "南海トラフ地震想定 72時間訓練 集団救助や孤立集落からの救出 防府市 239団体2万2000人参加 ／山口",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1T0NGR3gyY0h0X2NpQWNrQ1lJeEF3Sm11ZEMyTVFlQWVtemtKTWtqM1dfbEhiSERNOEgwU19Gb01DS2s4QUFkZUU4NWo5N1BQTWV3aUtudG5kSTFxOGl1NEZaWjNyYVR2?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-11T05:00+09:00"
   }
  ],
  "outage": [],
@@ -392,12 +392,6 @@
    "at": "2026-11-11T23:56+09:00"
   },
   {
-   "title": "ドコモ携帯、また全国で通信障害…約8時間40分データ通信や通話しづらく",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Td3Jjb3o2ZGl5a2MzYWc2ai1ZU0U0dFE3RFk5UG1xTEl4OTY2eDBYSnhwZHhtMkVDUEVwQzM5amEyTTU2bFRvMlkybDdOblY1NEUtd0h4NnlmZndYRWc?oc=5",
-   "source": "新潟日報",
-   "at": "2026-11-11T23:24+09:00"
-  },
-  {
    "title": "ドコモ「5G SA」通信障害が約9時間ぶり完全復旧 通信処理の交換機へのアクセス集中が原因 サイバー攻撃は確認されず 今月5日にも同様の障害",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2UzRTNW1UZEFhMnRnWTFqWTllM3AwN1djT01WVGtHRnZ6NEZ5ZWk0dlJfM1dfM0Z3QWhRNTdPdGZqV3QxaUNxZFJ1cE1KT29TQ256SnpxRk16ODR0OEJqbTlqZ1NScmZsT2d6OXV3aVk4WjA?oc=5",
    "source": "Excite エキサイト",
@@ -419,6 +413,12 @@
    "title": "通信障害が復旧 交換機が原因―ドコモ",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WS2xER1VaVWdZNFlZZi1kbXZsNkRWRU8zOEgtc19zamxZNHVXQV9jeVhIZ0NTSGt4XzVKVTRlcDBnZ1RMaXVRcUlFSFltWFlKTWNBWUl5NU5xVy14T0ZTRVBOUQ?oc=5",
    "source": "時事ドットコム",
+   "at": "2026-11-11T22:23+09:00"
+  },
+  {
+   "title": "通信障害が復旧＝交換機が原因―ドコモ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBza2xTcXFETGxLZ3hOc1NHbkhldWpwakVfWVo5a1JwZTBYV011U3RYYnNiRk9JeEhNMmVLbE00cTF0cDFsY09LZHd3Rm5BUXkyVERmX2JEc21FUThzV3BF?oc=5",
+   "source": "Excite エキサイト",
    "at": "2026-11-11T22:23+09:00"
   },
   {
@@ -480,17 +480,17 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSkphdHNpWWtsTHlGc3ZpT3pXaldGeTBIb21nY0pJVE1adWRpOXg0MzM5Nmd4c2U4OTZNbEl1d1hPNVNhbGRuUURJWVBEVG5JLURtamNrRExmcXVhYnlKYi0wNkxFLURMSmxaeVIzNmRqQTQ0WHBtVVhSR2RzUTQ?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjRXRXbEVVQTBpUjdXWTVOdk9ScUkwOFhtaFJnZ1hNN3FQZjNIWFlrdzJhX1pUXzFiZlNvT3JHaVA3TzRuSmc4UVVfLXV2Z3ViYUR3YVlsNlhoeldLbzB5RkFZd2pDa2pMNzg0ckpB?oc=5",
+   "source": "朝日新聞",
    "at": "2026-11-12T00:27+09:00",
    "topic": "欧州・NATO"
   },
   {
    "title": "［深層ＮＥＷＳ］北朝鮮のサイバー攻撃、吉永ケンジ氏「能力の高さに気づき外貨獲得にも活用」",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXB6a1IwNzVLRGVTVDRXdFFFWmR5VmdzOFg1Zm9PSjVpV25Wa0QwdjJoM2lHLUsya1YyTDVHUnVBNHdFdndYd0RuXzdCRXRkMzZNRlRoWW1tOTV6UGJzMENpd2t2Z1lVMllKUXh5NHpGLUR5enRyeUhPTkQzb01XdlczVlFldmMw0gGOAUFVX3lxTFBrOENNY1k3V0pRUmVseU5ja2JYQ0t5bFlIWk5oWTNlOTAzWlotOHRMWWljS0g5M1BfcVZmbWRTRmhrNE14ZWhPUmozSE5KUlF0TndGNktLRjZ3VHgtdkhFNExHZ2Z3Rm9tSlp4SHM2a2xRS0lxc3h5N0M5b3pWQXpMY0tkeEQtUl8yZ295YkE?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-12T00:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvRW9vWTVTeWF5Qm1PMm5ZbWRqMnhOalNIdjNlbFlnU0RTOFZBaGFFdjY4NDhCXzR4LVVtZ1JVS29JUHIwZFR2Ynhic1gwSWlBN2c3a0tNdlRBTy1NSkZMdUhn?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-12T00:03+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -650,9 +650,9 @@
     },
     {
      "title": "［深層ＮＥＷＳ］北朝鮮のサイバー攻撃、吉永ケンジ氏「能力の高さに気づき外貨獲得にも活用」",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXB6a1IwNzVLRGVTVDRXdFFFWmR5VmdzOFg1Zm9PSjVpV25Wa0QwdjJoM2lHLUsya1YyTDVHUnVBNHdFdndYd0RuXzdCRXRkMzZNRlRoWW1tOTV6UGJzMENpd2t2Z1lVMllKUXh5NHpGLUR5enRyeUhPTkQzb01XdlczVlFldmMw0gGOAUFVX3lxTFBrOENNY1k3V0pRUmVseU5ja2JYQ0t5bFlIWk5oWTNlOTAzWlotOHRMWWljS0g5M1BfcVZmbWRTRmhrNE14ZWhPUmozSE5KUlF0TndGNktLRjZ3VHgtdkhFNExHZ2Z3Rm9tSlp4SHM2a2xRS0lxc3h5N0M5b3pWQXpMY0tkeEQtUl8yZ295YkE?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-12T00:07+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvRW9vWTVTeWF5Qm1PMm5ZbWRqMnhOalNIdjNlbFlnU0RTOFZBaGFFdjY4NDhCXzR4LVVtZ1JVS29JUHIwZFR2Ynhic1gwSWlBN2c3a0tNdlRBTy1NSkZMdUhn?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-12T00:03+09:00"
     }
    ]
   }
