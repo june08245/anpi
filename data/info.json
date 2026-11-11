@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:15+09:00",
+ "updated": "2026-11-11T15:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-11T15:21:00+09:00",
+   "place": "熊本県阿蘇地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-11T12:57:00+09:00",
    "place": "茨城県沖",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-10T14:20:00+09:00",
-   "place": "茨城県沖",
-   "mag": "4.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -114,8 +114,8 @@
     },
     {
      "title": "イランの攻撃警戒 アメリカ軍がイギリスの空軍基地から軍用機を退避",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMlVyc3Vvb3BHbk1sTy03VkQza1RGRUlkaXpZeGFHRF9VU21yTlVSZVhpVm00cGlLdXo0M2ctUGtvOEFDZDRheVNvbjhaZ1JJSEpDYW5zOVNSZ2k3RTdRZmlwR1dXWXdpLTI5Z3Bn?oc=5",
-     "source": "au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XZm5pdUxTOVBwRHd6Ym4tVG42Rmw3M1h3NVBTdlVjUm4xLXl3eEFfMDYydmpRenZMN0NCOEp4ZjUya04wTEFmcmtfeUVSakhSNmdnNHRJaEhXVTlhcUViZHo3X2lvMFZybW10WS13?oc=5",
+     "source": "Excite エキサイト",
      "at": "2026-11-11T12:46+09:00"
     },
     {
@@ -316,9 +316,9 @@
   },
   {
    "title": "昭和南海地震から80年 気象庁が南海トラフ地震への備えを特別企画で呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NTWJWeVdoWDBMNTZhWk5yR2hwVWxZcW41NzVsRVlWZXlNeXo4eExoMi1tREhDLXpPUkdDXzI1Y1I4U3RMMTdoWkpqRmNNOS1rV0pqMkRR?oc=5",
-   "source": "KAB 熊本朝日放送",
-   "at": "2026-11-11T10:14+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Pb3lWd2Z3WWFhdGNidVNDV1o4bjdidXE1S0sybGNreFEybDVEYzJmSjJTb01RZDgwemQ5TWlvcGprVTJ2RGg4MmVEbEtTSzhiV2FWNmRNZEw?oc=5",
+   "source": "NCC長崎文化放送",
+   "at": "2026-11-11T10:10+09:00"
   },
   {
    "title": "【全国の海溝型地震一覧】巨大地震・津波の「発生確率・リスク」まとめ 南海トラフ・首都圏・東北・北海道・南西諸島など…「低確率＝安全」ではない",
@@ -380,6 +380,12 @@
  ],
  "cyber": [
   {
+   "title": "11日のドコモ通信障害、不正アクセスやサイバー攻撃は確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNkNSd2toZl84aFByMlNoeGV4QUgzaklmZ0t2NXU3czUwTEgyVW9RajhlWkJYeTlJU2pFcnZYRUpDTlZ1czByZlZoUE5Ea0xXVlpiZlJ3QmlaMXhVdVJCS3ZMSk5RSTg?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-11T15:23+09:00"
+  },
+  {
    "title": "ドコモ、5Gサービスでまた通信障害 今月5日に続き 原因を調査中",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZzFHMGxsRW41ZHkxWUNId2ZqdlJBYzNsX2Nib2s0eGdZQTgxTzZ3MU92Mkd2SnV0VDI2ekpBVmdNTXJLR0R3NGJibXo2Y1E2cnZ5allnZ2F1WFVMNkJXX2xHTTVUVmM?oc=5",
    "source": "朝日新聞",
@@ -389,6 +395,12 @@
    "title": "NTTドコモ障害 不正アクセス否定",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CbXE4Y29DYlhZcVVmMF8zbDJZbGRaQmVBMzFnSG81azBoZnp0dTh6MjBBYTVXcXlaNEs4SDMxMTJnczhUbk9SdTZiLTJiVWFj?oc=5",
    "source": "Yahoo!ニュース",
+   "at": "2026-11-11T14:59+09:00"
+  },
+  {
+   "title": "更新：ドコモの5G SAでまた通信障害、11月11日10時34分から全国で",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NSjRVV25FVlBhNmpuOVpUTHNHWF9VUHFpYzFrX240SnYtNDExUFZoNjBvSWtxOG9NaWhmTnQ4OVZWVlBNWWI1SlR3NldoTFRMMnR5RE1FVEQ4REU2anRVSDRfaG9WREE?oc=5",
+   "source": "テクノエッジ TechnoEdge",
    "at": "2026-11-11T14:59+09:00"
   },
   {
@@ -428,12 +440,6 @@
    "at": "2026-11-11T12:56+09:00"
   },
   {
-   "title": "NTTドコモ、全国で通信障害　復旧の見込みは「改めてお知らせ」",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2pWMzRHUHZnUk0tY1ZjMGFQdzNEd2JPVGNhbXR3ZzB0V2dDOUpPTEUxUXU4NFpiRjVYNUJHbkZTNVdiNnQ3V3gwZElCYld1VXFoazQ0WFdOakFLcUhOV3ozMGpHcDJhNWEwbmR5RzdsNXdaQzB4MzBuYkVyQXFFTdIBhgFBVV95cUxOZWdiTm5vYXJRckppSUlQTEp4akZ6VXFfQTduNGR2QTJYTGNsZXZzMjVMZ2s3VzdsRThneU5JS0kxMkxNR0hPZWhxNTJtTkV3ZW80aFRMNFRzUExtek9zZXNnMi1mSmNfaWJHdmdBOEVndXhXZHVlWTJ0VlpPMTVvWFgxOWxYZw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-11T12:54+09:00"
-  },
-  {
    "title": "【通信障害】ドコモ「5G SA」全国でつながりにくく、先週に続き同じ内容の障害発生",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PdjNUdWRUaFJ6NjZMRkFzQ0xMUUt6YmtGSFlHRWhVZUVxcE9pLWxQbXdSV2VSTXdjbEdSVG1NWlB2VldMZnNDWm5oWXQ5a3llMjFBX1RCOFhPVE5lSW1qdEhOX2JZZV9DUlR1V0xjR0prOHZnMUQ5dA?oc=5",
    "source": "Buzzap！（バザップ！）",
@@ -458,16 +464,10 @@
    "at": "2026-11-11T12:39+09:00"
   },
   {
-   "title": "NTTドコモ、全国で携帯電話の通信障害 110番通報は影響なし",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wdHNrX0ZEcXZVdTQwa3d6cUVuX29fQnRZMzg2QVNRbXBQRVQ5QnBPTkpucTZ3MTdpZnkxSWdXVWl2alFieGxDc1lYY0lxaFN3YzFCOUNCMVdQRkVENzVzejdsZU5DdzVM?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-11T12:21+09:00"
-  },
-  {
-   "title": "ニトリ、外部からの不正アクセスで最大3762万件が流出した可能性（ネットショップ担当者フォーラム）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04QU5EUW9RYkZFTE1SaXVNOWNaMjF4cTV3YUJjWnROcTBaM0UtdUJ4SnpIUFdFMTNyZHgtYjhnaDc4Z08wdHBFaUFvMUJJaDZkcWhZU2hmMExnTjBnSFloeGxXU2NjaUZGWlp1SlltUm9LeE9oSVlIX1BnenJOQzA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T15:01+09:00"
+   "title": "SMBC日興証券の持株会システムに不正アクセス、最大5万6487人分の個人情報流出",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Vc3dOMGpsYjR6cEtCSEJzcDU2ZTlIeml6NGt6T2tYZDFOVkhpQ0VGSlppR08yczhzQmxjRkVaMHVETVhiaF9NaFRUQmNCTVZJb18tYjN2d2paYkl1WUlvcGxJV0lHUGVqUU1GbEJBSm1PcC1l?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-11T15:05+09:00"
   }
  ],
  "osaka": [],
@@ -530,8 +530,8 @@
   },
   {
    "title": "イランの攻撃警戒 アメリカ軍がイギリスの空軍基地から軍用機を退避",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GMlVyc3Vvb3BHbk1sTy03VkQza1RGRUlkaXpZeGFHRF9VU21yTlVSZVhpVm00cGlLdXo0M2ctUGtvOEFDZDRheVNvbjhaZ1JJSEpDYW5zOVNSZ2k3RTdRZmlwR1dXWXdpLTI5Z3Bn?oc=5",
-   "source": "au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XZm5pdUxTOVBwRHd6Ym4tVG42Rmw3M1h3NVBTdlVjUm4xLXl3eEFfMDYydmpRenZMN0NCOEp4ZjUya04wTEFmcmtfeUVSakhSNmdnNHRJaEhXVTlhcUViZHo3X2lvMFZybW10WS13?oc=5",
+   "source": "Excite エキサイト",
    "at": "2026-11-11T12:46+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ、5Gサービスでまた通信障害 今月5日に続き 原因を調査中」"
+    "「11日のドコモ通信障害、不正アクセスやサイバー攻撃は確認されず」"
    ]
   },
   "japan": {
