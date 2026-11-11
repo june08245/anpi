@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:00+09:00",
+ "updated": "2026-11-11T22:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -342,10 +342,10 @@
  "outage": [],
  "japan": [
   {
-   "title": "弾道ミサイル発射を想定 米沢市で住民避難訓練 身を守るための行動は？",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CSDJ0a0dWanJkQ0ROYUEydVNiTTAyWk45T3BIUTdiblljTnpUMFU3Qk94YXFzUEFwTnM2NmxxejNBWGVraUxvM1plek1nWUo5?oc=5",
-   "source": "YTS山形テレビ",
-   "at": "2026-11-11T15:40+09:00"
+   "title": "弾道ミサイル発射を想定 米沢市で住民避難訓練 身を守るための行動は？(山形県)",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xSGpZdDJ3M0MyUnJPT2dQaFItaXJCSDZNcENOM1llZURGeTZUbnRwSGhpWGU1T1dEMWdDUmRXcW5jV0VHMElqZGl3ck9qRmVvTXM0TlY0b1NCa01nQkRRTGptVTgyUDRiVGV4YzhkMUgzREtBZ0xtY0530gF6QVVfeXFMT3FIall0MnczQzJSck9PZ1BoUi1pckJINk1wQ04zWWVlREZ5NlRudHBIaGlYZTVPV0QxZ0NSZFdxbmNXRUcwSWpkaXdyT2pGZW9NczROVjRvU0JrTWdCRFFMam1VODJQNGJUZXhjOGQxSDNES0FnTG1jTnc?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-11T15:28+09:00"
   },
   {
    "title": "弾道ミサイル攻撃などに備える 仙台市が新たに一時避難施設を指定",
@@ -380,6 +380,12 @@
  ],
  "cyber": [
   {
+   "title": "ドコモの5G SAで全国規模の通信障害、16時30分時点で一部を除き復旧",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ReXN1SEdaZEFzcWpPOEtFTmJNQ1hMeC1KNzlzYkx0Q2UyMWh1bjFEbVdPZFVXQTR4T1RuYzdKQmlGcnB1dHhlNlhlcWRuMHRNQlljTVVyMHhxNEdILXZlNTU4Zzg4cjI3anc?oc=5",
+   "source": "OREFOLDER",
+   "at": "2026-11-11T22:02+09:00"
+  },
+  {
    "title": "VRChatに東京地域で接続障害、ログインできない原因は上流プロバイダだった",
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB3YkdPWnJvd2ptaTNkQWFjZmIxVW5hNEhoaUlWbkswbjVoVkhEYXpIZU13RlFkSkRHcGdUbXRTc1lhVk0?oc=5",
    "source": "shiritomo",
@@ -392,6 +398,12 @@
    "at": "2026-11-11T21:47+09:00"
   },
   {
+   "title": "ドコモ、通信障害が解消（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41TUV0eG42UzItM3BJazJxQjN5UjZ0ZTl0NE5HWnZyMWdTY1FPMlpIb2oyX0lYdGJZQk9rWTN2bmxQRmdyTXdmc2Q1T1NMeC0ybE5IQkdkeFZPa3dlLU5pRXZsNWNsQ2QxUjh2YmhlZXkybFdXaWNsQWRNME14X2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-11T21:15+09:00"
+  },
+  {
    "title": "ドコモ、通信障害が解消",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sQ3ltaWZBdzI1ZjJRN2pHcTR3OXJVNER4UTJzWDdNNDA2ejBUNW4zU3RLckQ0NFlNZTM4djNlTmE4VkE0d3B1d19MdTQxcVpCcGJsVU9KUVVfeTR2eVE?oc=5",
    "source": "沖縄タイムス社",
@@ -402,12 +414,6 @@
    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbHE1MTRVUS1HdUhXNmdaOUVYVjY2d0dPMEFSc0tEVEpwSG5zUld3anhUSmpHc21TTGJieWwxYk4tbVZDSHJrazcxTFpNR3JIODRsclNfbWhGYzZpVUZRd3QxbEtPTk1QeW43NmNPcERIS2NYQlZfQ2pjSmUwS1E0d3NlU1NEX3NJUFplZFFLQ0QyQ2tJMTZQRzJKNmhFSXY1LU0wUU5LeWc1NUhJTy1kQjBDV01vU2lKUHlsM3dPNUJzUk02T3FUUkZkMkdFWUpDZEI5MXRwNEYyZ2YtYWdJQkhOdTZhNjRLWWtSYkF3Z1lYZ1lIZzljbzVnWkpZZm5WQXg4cjdsSUVkNnRnME9sc3hzZlVlVkFSWDRpWTdCbV92S3dTd0pHdzZCOW5EWFhsSDdwdHJvNGcyLXd3N0I3UmVGYno5OXBUQVhpdUFqTTJPSVhBVnJuc2prOS1iQlFHLWRBdzM4Y1F4aU1VWGxZZnpZQQ?oc=5",
    "source": "SmartNews",
    "at": "2026-11-11T20:13+09:00"
-  },
-  {
-   "title": "ドコモの通信障害、一部除き復旧…再起動や機内モードオンオフで解決と案内 先週と同様5G SA限定で発生（オタク総研）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZ2hEbGVOUl9IanNaWS1Ha0hSelpjbi15X0JENzJOOVdHYWJzaFktUlVpeUxtYk9GVVBkQlJUeUlFRDc0TU5rUlNUYmtuUm80Q2J5MG1oR21rX20xcFFOQzRjc21DZkhRVkVrTU5oUW9Cdzc0ajZwcDBGNUtOZjg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T20:04+09:00"
   },
   {
    "title": "通信障害、ほぼ復旧 先週に続き、原因調査中―ドコモ",
@@ -434,6 +440,12 @@
    "at": "2026-11-11T19:17+09:00"
   },
   {
+   "title": "NTTドコモ「5GSA」プランで再び通信障害解消のめど立たず ドコモショップで対応",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vNENKOWJxR1RUeG1uYncyVmw4SER0SXRJd3ZnQWV1NUhBRXRVOHc5bFRmcXVzX3BJendTSkVDNmlZREpGQ2tvZVpOa1ROalh3bEFBY21yaUx6VGdZd2htZTVBeW8?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-11T19:15+09:00"
+  },
+  {
    "title": "ゴルフスクール「ステップゴルフ」で不正アクセス 顔写真など漏洩か [情報漏洩・個人情報流出の最新ニュース]",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zd09qOGIwdmtxenM4VjQzbWJFMk0wdFhJSC1UZlNKRE1LUUVuTlF5ODY5U2JFY1pxZzF3enFCYmF0bmZwaVc2OVQ5OURpdDNwUzJMcTRYYWRHbUV5X3UwS0V6SkdMQUE?oc=5",
    "source": "朝日新聞",
@@ -441,9 +453,9 @@
   },
   {
    "title": "ドコモ 一部で通話などしづらい状況から完全復旧 不正アクセスは確認されず",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NkU3cU9xNUJFTGFXcFVLb0NSRkNrV2xieGI2Y1lrRk85RVlzQ3hIYlZnX2VybmxSZ2FuNnZFNWZkVFVnTU9ZMnJPUm9TTkx4aTZEWXNB?oc=5",
-   "source": "KAB 熊本朝日放送",
-   "at": "2026-11-11T21:34+09:00"
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0Vk95bWtOUHlad1BUYmd2Q29KRTdMeFZ3STRsSzdwRUNwNW1aVE9EaU8tWUJha3Z1bHdrVElKdzJtU0JHZVVJVUVuQjFMSDBFRkZvcmNRaGUwbEtMT3dYWFY3SmhNZWNNOG5jb2F2alY1dw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-11T21:24+09:00"
   },
   {
    "title": "『【再放送】サイバー攻撃被害の報道が相次ぐ中、Webサイトはどう守る？』というテーマのウェビナーを開催",
@@ -456,18 +468,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VNXhNaEJNTEIzSFRNREh4Ym1vU0tlOHJzTDRZLUp2MV9MNnhZVThUVUZScUg1dGQtX25GREtrdXdIZjhPaGVhcmpCUjF6UDRTcjZHZkVuQmJYMDhEdkpsZmVyS1A?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-11T21:00+09:00"
-  },
-  {
-   "title": "LRM、Notion AIに入力した取引先担当者名など流出のおそれ Fireworks AIへの不正アクセスが影響",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzJEUFdQUVNOOThiZHpjMXY3d29hMnlzekFUNVNWQ1oydnlRaDZ5S09wLUlPMGxRLXhVRE1WMlctN3ZtVnJ0TVdLSGlQSGpFbVBUaTN5OVhmV2EwRHI5OWZMT1RBRjB1VnZKc09OTVRMTlFheDhQWDhpQXZOeHZ0cDNncDhTcVVMM2pVd3NSRWVUVEl2MGpLTkVSc1MxRENnblh0QQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-11T20:51+09:00"
-  },
-  {
-   "title": "靖国神社 オンライン授与品 頒布品サイトに不正アクセス 約1.4万件の個人情報流出か（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTG1pY0NOc1QyU1AwZDlFelZkMWJnNk5FOWlvaGZJTXlzTU93Q0FKcGJzNU1ObTNaek1MbkowNzlwdzZGbGdRdkFNdmpoUGhBN1FDZEhkNXFBYkZXR1JMNWhrR04xemYxLTIxRGt4MFBIZHVPRGtsZzdCOUtkdUU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T20:45+09:00"
   }
  ],
  "osaka": [],
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ通信障害復旧 原因は機器の不具合」"
+    "「ドコモの5G SAで全国規模の通信障害、16時30分時点で一部を除き復旧」"
    ]
   },
   "japan": {
