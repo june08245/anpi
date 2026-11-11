@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T02:16+09:00",
+ "updated": "2026-11-12T02:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-12T02:15:00+09:00",
+   "place": "青森県東方沖",
+   "mag": "3.6",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-11T21:13:00+09:00",
    "place": "橘湾",
@@ -72,16 +82,6 @@
    "at": "2026-11-10T16:53:00+09:00",
    "place": "愛媛県南予",
    "mag": "3.0",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-10T16:14:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.3",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -234,9 +234,9 @@
     },
     {
      "title": "最大規模の捕虜釈放合意 ウクライナ米ロシア高官協議",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYNEt0ekJSUUt3VW53ZmM1ZXRpcHpsbTg1cFdTYXVuMUVuejFnNE5QcGNoblMxMGNkN2pTbDhYelMwNm1wV1ZiMF9CS1NULTJiN29qMA?oc=5",
-     "source": "中日新聞Web",
-     "at": "2026-11-11T22:28+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsc0plWnRTaUZ3R1EyTHZsV25tNnVOM3F3el9uSnFGOVlhM01qZnJMQllHbkFJbzdWT0IwYVZzQlNtOU1adzVod3RQRFdFclI3NTF5X05Oc0dQNUdRb1I0?oc=5",
+     "source": "千葉テレビ放送株式会社",
+     "at": "2026-11-11T22:39+09:00"
     },
     {
      "title": "米国の仲介によるウクライナ・ロシア間の交渉が終了した。ロシアは大規模な捕虜交換を発表したが、詳細は後日協議される予定／米国の交渉担当者はモスクワへ向かい、その後ダブリンへ向かう",
@@ -270,9 +270,9 @@
     },
     {
      "title": "イタリア全土の学校およそ6000校に爆破予告「イタリア人へのジェノサイド」生徒ら一時避難 欧州で爆破予告相次ぐ…",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4cngxa2ZBNTlOTWxHcGtaR29MZzVXbDhkNk04bld0WWFxV19RcFUxY3JLZHQwTmk4ZEczWDVieXJERF9QT0tKSjBGcVdXUDhBSEtsYy1iaw?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-12T01:10+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05anNWdnhoWnNsVnpkLUQ0MXpjODU3RlBaejR1Y01OOHIwN0plRHVCZ3Frc2tnTVBsd3ZqenhhaUl1akZwaXNLWEdsWmZFRDY4MEg3WVdxTjZ6SEl0WGtZWUdOcVRXMHdKSVBDU05B0gFzQVVfeXFMTVdhbWZnVHdqMXhuTjRxQzFNRko2VnpNcFhkaGdaekZGcTJvbngwZ2xrLUlGQXk1NWJ3N3VUVW1EaUN0UFBwUVpySG1LZkdmWGpwWlh6RFI5allEVHMwUFhhSVBRZlE5WHkwbVJLam1OTnlhcw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-12T01:20+09:00"
     },
     {
      "title": "イタリア全土6300校に爆破予告、学生ら避難 英・アイルランドでも",
@@ -281,9 +281,9 @@
      "at": "2026-11-12T00:40+09:00"
     },
     {
-     "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjRXRXbEVVQTBpUjdXWTVOdk9ScUkwOFhtaFJnZ1hNN3FQZjNIWFlrdzJhX1pUXzFiZlNvT3JHaVA3TzRuSmc4UVVfLXV2Z3ViYUR3YVlsNlhoeldLbzB5RkFZd2pDa2pMNzg0ckpB?oc=5",
-     "source": "朝日新聞",
+     "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず（朝日新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSkphdHNpWWtsTHlGc3ZpT3pXaldGeTBIb21nY0pJVE1adWRpOXg0MzM5Nmd4c2U4OTZNbEl1d1hPNVNhbGRuUURJWVBEVG5JLURtamNrRExmcXVhYnlKYi0wNkxFLURMSmxaeVIzNmRqQTQ0WHBtVVhSR2RzUTQ?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-12T00:27+09:00"
     },
     {
@@ -516,9 +516,9 @@
   },
   {
    "title": "イタリア全土の学校およそ6000校に爆破予告「イタリア人へのジェノサイド」生徒ら一時避難 欧州で爆破予告相次ぐ…",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4cngxa2ZBNTlOTWxHcGtaR29MZzVXbDhkNk04bld0WWFxV19RcFUxY3JLZHQwTmk4ZEczWDVieXJERF9QT0tKSjBGcVdXUDhBSEtsYy1iaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-12T01:10+09:00",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05anNWdnhoWnNsVnpkLUQ0MXpjODU3RlBaejR1Y01OOHIwN0plRHVCZ3Frc2tnTVBsd3ZqenhhaUl1akZwaXNLWEdsWmZFRDY4MEg3WVdxTjZ6SEl0WGtZWUdOcVRXMHdKSVBDU05B0gFzQVVfeXFMTVdhbWZnVHdqMXhuTjRxQzFNRko2VnpNcFhkaGdaekZGcTJvbngwZ2xrLUlGQXk1NWJ3N3VUVW1EaUN0UFBwUVpySG1LZkdmWGpwWlh6RFI5allEVHMwUFhhSVBRZlE5WHkwbVJLam1OTnlhcw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-12T01:20+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -529,9 +529,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjRXRXbEVVQTBpUjdXWTVOdk9ScUkwOFhtaFJnZ1hNN3FQZjNIWFlrdzJhX1pUXzFiZlNvT3JHaVA3TzRuSmc4UVVfLXV2Z3ViYUR3YVlsNlhoeldLbzB5RkFZd2pDa2pMNzg0ckpB?oc=5",
-   "source": "朝日新聞",
+   "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSkphdHNpWWtsTHlGc3ZpT3pXaldGeTBIb21nY0pJVE1adWRpOXg0MzM5Nmd4c2U4OTZNbEl1d1hPNVNhbGRuUURJWVBEVG5JLURtamNrRExmcXVhYnlKYi0wNkxFLURMSmxaeVIzNmRqQTQ0WHBtVVhSR2RzUTQ?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-12T00:27+09:00",
    "topic": "欧州・NATO"
   },
@@ -565,9 +565,9 @@
   },
   {
    "title": "最大規模の捕虜釈放合意 ウクライナ米ロシア高官協議",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYNEt0ekJSUUt3VW53ZmM1ZXRpcHpsbTg1cFdTYXVuMUVuejFnNE5QcGNoblMxMGNkN2pTbDhYelMwNm1wV1ZiMF9CS1NULTJiN29qMA?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-11T22:28+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsc0plWnRTaUZ3R1EyTHZsV25tNnVOM3F3el9uSnFGOVlhM01qZnJMQllHbkFJbzdWT0IwYVZzQlNtOU1adzVod3RQRFdFclI3NTF5X05Oc0dQNUdRb1I0?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-11T22:39+09:00",
    "topic": "ロシア"
   },
   {
