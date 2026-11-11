@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T06:30+09:00",
+ "updated": "2026-11-12T06:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国軍100隻超を展開、事前通告なしの台湾包囲演習か",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ldGdLVzNPRjJ3VWxCYVk2akVfVEZaYU9lRGxxTFllaE1JVHl4dVFxTU14MktQa19UaVI3QlhUczlWOUNCTnVQNm83bldRNTF3WFBfclBRLU5lQVE2ejRSck84N0ZveDd50gFuQVVfeXFMUHdZQ1dJNVktZklTdFNqOHhiVkhhTjJRRHd3SElYQ3Y4NTFWT3BkdzBmWUNzVS1RVm9vMWs0U0k2aWZ4b1JyZUFXb0t0Ui1VVkZWOFhEZVA4eV9EUGlnSzZhM2c1V2MwSXRGTU44c0E?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-12T06:30+09:00"
+    },
+    {
      "title": "中国の海洋調査船、潜水艦作戦を支援か 台湾東部の地形や水文調査 台湾有事で米軍排除",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1MkhxWTU1ZDU3WjJ1WnpUV1gzQldtOFN4WVZJc29NUmJMQ25lUmNtNmdfRG1HMFZWelR0TzQtaUlHN3V0STN4MWFsYlc1S1ZybHE3QmRfZ2hJVU1OaE4yaGVqVklrRnUydTVBdkxTLUpoQy1tN2c?oc=5",
      "source": "産経ニュース",
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91bmluZHVyaUVxUTlIUFF1YjBqR0VLMFA3VVlGOUFGakxDUS1ZTjJyelBWekdjemVBUTFGMzk4UmJNeXRaUjdtTHR5N3NzQTZHV2NjSHBjU19tV2kzRWdYV3Fkejl6eWxYVUFGalZ0UWU?oc=5",
      "source": "Infoseek",
      "at": "2026-11-11T10:00+09:00"
-    },
-    {
-     "title": "台湾海軍、1320隻の無人攻撃艇を調達へ 台海封鎖に備え「監視・機雷戦・離島補給」も課題 | 劉煥彥 | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtdThTcVVjaFczNENOTzhFUm5QZ1RNMzdVYW1hWEhTaFZ4b0xBSEZiMUl1UHdnd3A1YTktQm9kV1ZOQjdhRUJiM2ZCeV9lZWdJ?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-11T08:23+09:00"
     }
    ]
   },
@@ -239,10 +239,10 @@
      "at": "2026-11-12T05:11+09:00"
     },
     {
-     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrT3d0X05ycTFDUnBRQm1obURaYnp1Wm9qTDRNM0tEQUxZVXE3MWNWMUhNLTJod29sMFBpM0lJVWRjZzdpdXJLSDRQeFBoZmtMcm1zRVhGclU1eEN4VFpQY0Z5NGllcXpXY1QwVmtqNFRuSXBS?oc=5",
+     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
      "source": "TBS NEWS DIG",
-     "at": "2026-11-12T03:31+09:00"
+     "at": "2026-11-12T03:54+09:00"
     },
     {
      "title": "ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり",
@@ -262,6 +262,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "イタリアと英国、学校に爆破予告相次ぐ＝一部避難、「組織的攻撃」か",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0dlBUVmZ3NEpDRm9nb0ZLN0lMc01aRFRKTGNRZ0NkSXQ0bnp1Z20xTTBObEc0SHVvYjV3bVhvTkRZejZlamNYYzVpeDRIdTU3ODdYYnR4UHlLWFZ5WjNXQVZrSXF6d9IBa0FVX3lxTE1pTlg1aFJMY3ZOWTZmZDJzZ0ZhVlU5VGRhS25RYkJ2MGZmSnRaZjFMZ2xVdTNXcGRDREtpNzBxUmV3Mnk0NURZUWk0cm1HQ1RSbnFpUFgtM2I3WTFySnpPNm9CRWcyZHdwOFY4?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-12T06:23+09:00"
+    },
     {
      "title": "41歳の米陸軍兵士をロシア関連のスパイ容疑で逮捕 英米が共同捜査、NATO部隊への所属か",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZU9Ub2sxbkt5Q2Y5MmZfaXI3Zl9xRXJteXJoTno4b0VKSW1hc0JBT2lVZVhwN3VsWVNtcGZwZ3c5WkJQZmExN0ZQNzBFMTVsWGxHWDFUcXdqNHc2c2hDdENLcHM4MXNkUzMwdEI4c1dWN19vY2dtN3VMNGNycnVPZ0FuWTJJY2RPdGpYaGZUQkJ2Nm1xVHYtTmo0LXVXS3M?oc=5",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12WXpIUmRsRGxJYmo1dEphMlplRzZNOURodDRYRDRMS1FYbUZmX3diX056bURIV1huY1pCUUowTXFiMnNYYzNUS3p0dDQtV0NfTmRtNGFxeXEtMW9USEtuaHpENlpvT085OWF6TGxn?oc=5",
      "source": "Infoseek",
      "at": "2026-11-12T00:40+09:00"
-    },
-    {
-     "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mNDBibGU0VGt4VXkzTXRQQWl4ZWtCV0h6NEpLc1oyUk1McTJnZDNucHROdy1pbS1ZNTlCMzItaHVOb193TnZNWnVOTUZsUmZLR2l5M1BQcEdKbkZLS3AtYklVeWtyMUk?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-12T00:27+09:00"
     }
    ]
   }
@@ -386,12 +386,6 @@
    "at": "2026-11-12T05:23+09:00"
   },
   {
-   "title": "信用金庫でシステム障害 復旧中も原因は機器の故障か",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16WURTaUlTZUJWekg1X25FOTFCWlk0LTRCMTM2dEVoNExvNHdhTGpfc2RtSFhoNEtNLUU2OUNTZmwzSjRtVktoUW01WHdXZlM4OHdteUwwbFhnOUE?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-12T04:55+09:00"
-  },
-  {
    "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
    "source": "GameWith",
@@ -420,6 +414,12 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFk0ZG5aYjZQMzdYQzNNdGI2QmFWSDZQXzVHTFFnZ29NSHlDV3QtOGtJZ2hId28ycVBHMTBhdnhaeW83c3VDU2pPWGZkLWNZdWxPUURsdV9Vdy03d1RuU01rbkk3VmVUN1BRWXVtYzhJSDR5eVdCc01tUjlrejRMSy1tQ2FuOEE?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-11T23:08+09:00"
+  },
+  {
+   "title": "信用金庫でシステム障害復旧中も原因は機器の故障か",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BZWhhUHMxRDA5eDR6cEo4aGZ4MFAwRHo1ME9vejdQSWJHeVdGX3k0VTZiRWUwbGcxaTl5ZS1IR3JXdkRhejdubkFhS1pwRzZueHluUWZPSVF4MC1aUW0weVNjOEVRSG8?oc=5",
+   "source": "朝日放送",
+   "at": "2026-11-11T22:51+09:00"
   },
   {
    "title": "通信障害が復旧 交換機が原因―ドコモ",
@@ -467,11 +467,25 @@
  "osaka": [],
  "world": [
   {
+   "title": "中国軍100隻超を展開、事前通告なしの台湾包囲演習か",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ldGdLVzNPRjJ3VWxCYVk2akVfVEZaYU9lRGxxTFllaE1JVHl4dVFxTU14MktQa19UaVI3QlhUczlWOUNCTnVQNm83bldRNTF3WFBfclBRLU5lQVE2ejRSck84N0ZveDd50gFuQVVfeXFMUHdZQ1dJNVktZklTdFNqOHhiVkhhTjJRRHd3SElYQ3Y4NTFWT3BkdzBmWUNzVS1RVm9vMWs0U0k2aWZ4b1JyZUFXb0t0Ui1VVkZWOFhEZVA4eV9EUGlnSzZhM2c1V2MwSXRGTU44c0E?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-12T06:30+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "ウクライナ・ロシア・アメリカの和平協議が終了 「大規模な捕虜交換」で合意（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CTWI1Q0VSVGFIaFQ0TXhyN2c1Vmg3d19DM0JaU2Q2eEUwd0F4R3liVlY0dGMzbnU2b0wwTzZOTWR3YmJobE81bk5FYlFNWmFKTnNUanJiWU15UkJoUFVmWHUydDBtRzlXNVZnRy0yclkyTW5rcU0wSnhWQkFoSW8?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T06:23+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "イタリアと英国、学校に爆破予告相次ぐ＝一部避難、「組織的攻撃」か",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0dlBUVmZ3NEpDRm9nb0ZLN0lMc01aRFRKTGNRZ0NkSXQ0bnp1Z20xTTBObEc0SHVvYjV3bVhvTkRZejZlamNYYzVpeDRIdTU3ODdYYnR4UHlLWFZ5WjNXQVZrSXF6d9IBa0FVX3lxTE1pTlg1aFJMY3ZOWTZmZDJzZ0ZhVlU5VGRhS25RYkJ2MGZmSnRaZjFMZ2xVdTNXcGRDREtpNzBxUmV3Mnk0NURZUWk0cm1HQ1RSbnFpUFgtM2I3WTFySnpPNm9CRWcyZHdwOFY4?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-12T06:23+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "41歳の米陸軍兵士をロシア関連のスパイ容疑で逮捕 英米が共同捜査、NATO部隊への所属か",
@@ -502,18 +516,18 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-12T03:54+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ベッセント米財務長官、米軍基地に転居か イランによる暗殺の恐れ（朝日新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWHRTVVNaRFhLdFZRLVNpVnJxa3JaelFIMXdUN1E5OGU1N0pRX2pvX0pITmVIYVdGeU94OXJoY21YU3hYcWlKNEd6c0JTR29kc0VrWTlsRnZnMXc4b0pqaVVCU3FJTlNCa1dRQjZGVUdXR1d2azA1c1dCSnNzNG8?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T03:48+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrT3d0X05ycTFDUnBRQm1obURaYnp1Wm9qTDRNM0tEQUxZVXE3MWNWMUhNLTJod29sMFBpM0lJVWRjZzdpdXJLSDRQeFBoZmtMcm1zRVhGclU1eEN4VFpQY0Z5NGllcXpXY1QwVmtqNFRuSXBS?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-12T03:31+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり",
@@ -579,13 +593,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "イタリア6300校に爆破予告メール 生徒ら避難、爆発物見つからず",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mNDBibGU0VGt4VXkzTXRQQWl4ZWtCV0h6NEpLc1oyUk1McTJnZDNucHROdy1pbS1ZNTlCMzItaHVOb193TnZNWnVOTUZsUmZLR2l5M1BQcEdKbkZLS3AtYklVeWtyMUk?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-12T00:27+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "［深層ＮＥＷＳ］北朝鮮のサイバー攻撃、吉永ケンジ氏「能力の高さに気づき外貨獲得にも活用」",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvRW9vWTVTeWF5Qm1PMm5ZbWRqMnhOalNIdjNlbFlnU0RTOFZBaGFFdjY4NDhCXzR4LVVtZ1JVS29JUHIwZFR2Ynhic1gwSWlBN2c3a0tNdlRBTy1NSkZMdUhn?oc=5",
    "source": "読売新聞",
@@ -598,13 +605,6 @@
    "source": "TBS NEWS DIG",
    "at": "2026-11-11T23:57+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "ルビオ氏、外交が進展する中でイラン攻撃の「必要はない」と発言",
-   "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPamhEeG9iUUJaajRJVm1GSXF5Vm4wMlExMmY5VTRvSDhIbVI0cFFhZS0zNWNXWVVnblU3OEpQczA5dFZlY3UzY2xhVTE1ZWxfTzQ1d3RHbnowTFdhUGVXTmhUTEo2VXR1RVB4ZnRkUlNRU09HbXF3bng3czUwTjQxaHYtZGtpdzBleVNpMl9XckFqVjNCbUt2MC1zcWhYRmpQcy1UQmJhRWE2N1AwTmlpQTFFR01EVWJqUXo1ZFBsdmJfbHYxc1ZrZG8xdFZ2NnIwYjhnTk1hQXVySlhPcEtIRWlFRmxRNUhjcHVaUUV1b0wxcTIwcmJTUWRDN3hnc3EwQU03ZE04bHhHQWhvaDRqdWl1Y1htV0ZMQW9PanNqZDFLTk9nY2Y1a18tVG1nZTAwRGJMY19OZ1plNTVoNzNsemR4dXIxNXBjVWFlSmVzaU9Cb2VQeE9jREduMm9ueFo1MC01SlhoZTBjdHp5UWZEMVByWEowZ0IyOGtOeW1ES3FaeXhabXZkNWZrWG1DaEdqeExFMmdsUU9ESnM?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-11T23:32+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -624,9 +624,8 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」2件",
-    "中国・台湾：「攻撃」「封鎖」1件",
     "北朝鮮：「攻撃」1件",
-    "欧州・NATO：「爆破予告」4件"
+    "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
@@ -636,16 +635,16 @@
      "at": "2026-11-11T23:32+09:00"
     },
     {
-     "title": "台湾海軍、1320隻の無人攻撃艇を調達へ 台海封鎖に備え「監視・機雷戦・離島補給」も課題 | 劉煥彥 | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtdThTcVVjaFczNENOTzhFUm5QZ1RNMzdVYW1hWEhTaFZ4b0xBSEZiMUl1UHdnd3A1YTktQm9kV1ZOQjdhRUJiM2ZCeV9lZWdJ?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-11T08:23+09:00"
-    },
-    {
      "title": "［深層ＮＥＷＳ］北朝鮮のサイバー攻撃、吉永ケンジ氏「能力の高さに気づき外貨獲得にも活用」",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvRW9vWTVTeWF5Qm1PMm5ZbWRqMnhOalNIdjNlbFlnU0RTOFZBaGFFdjY4NDhCXzR4LVVtZ1JVS29JUHIwZFR2Ynhic1gwSWlBN2c3a0tNdlRBTy1NSkZMdUhn?oc=5",
      "source": "読売新聞",
      "at": "2026-11-12T00:03+09:00"
+    },
+    {
+     "title": "イタリアと英国、学校に爆破予告相次ぐ＝一部避難、「組織的攻撃」か",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0dlBUVmZ3NEpDRm9nb0ZLN0lMc01aRFRKTGNRZ0NkSXQ0bnp1Z20xTTBObEc0SHVvYjV3bVhvTkRZejZlamNYYzVpeDRIdTU3ODdYYnR4UHlLWFZ5WjNXQVZrSXF6d9IBa0FVX3lxTE1pTlg1aFJMY3ZOWTZmZDJzZ0ZhVlU5VGRhS25RYkJ2MGZmSnRaZjFMZ2xVdTNXcGRDREtpNzBxUmV3Mnk0NURZUWk0cm1HQ1RSbnFpUFgtM2I3WTFySnpPNm9CRWcyZHdwOFY4?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-12T06:23+09:00"
     }
    ]
   }
