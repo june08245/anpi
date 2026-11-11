@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:15+09:00",
+ "updated": "2026-11-11T18:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -149,12 +149,6 @@
      "at": "2026-11-11T10:13+09:00"
     },
     {
-     "title": "｢中国までわずか2キロ｣台湾の\"軍事島\"で出会った不思議なバー カクテルに添えられた1枚のポストカード",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91bmluZHVyaUVxUTlIUFF1YjBqR0VLMFA3VVlGOUFGakxDUS1ZTjJyelBWekdjemVBUTFGMzk4UmJNeXRaUjdtTHR5N3NzQTZHV2NjSHBjU19tV2kzRWdYV3Fkejl6eWxYVUFGalZ0UWU?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-11T10:00+09:00"
-    },
-    {
      "title": "台湾海軍、1320隻の無人攻撃艇を調達へ 台海封鎖に備え「監視・機雷戦・離島補給」も課題 | 劉煥彥 | ニュース",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtdThTcVVjaFczNENOTzhFUm5QZ1RNMzdVYW1hWEhTaFZ4b0xBSEZiMUl1UHdnd3A1YTktQm9kV1ZOQjdhRUJiM2ZCeV9lZWdJ?oc=5",
      "source": "風傳媒",
@@ -171,6 +165,12 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KcUJ2a2NVcGV1TmNGelFLYmNJSnhJVm9nRFMwTUxaa20taVQwa3VpWUJiZ19rdER0dm5TbmxSU04ySWhacTdsT1FmcjJ6bTB6MkMzNllZaXVBSWphX2NocDF2SW9LR1Fna2lMU0VR?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-10T22:59+09:00"
+    },
+    {
+     "title": "中国が「領域拒否演習」 台湾国防部が非難（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CREJnY2pZM0wybjlOVlA5YTlRNnZUbS1IeXRWX2lkT0t6eHRlSk50bHNXeHFEWXExWXNyNnBEYnZrbzd3c1ItdWE0aGtyaGNBbmdrbXVLZ2lYbHVUWGFFeWNVbzhWSVVFSGZXNTNPS0w5OGNYU1p0T0JTeFgyV0E?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-10T20:33+09:00"
     }
    ]
   },
@@ -380,16 +380,22 @@
  ],
  "cyber": [
   {
+   "title": "ドコモの「5G SA」障害、一部を除き復旧",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kejN3aXVQVFhFbEQ5R241R2lIMjBpNzhVRGpzR2FJbVkwbnpDSmFoeDlCcEpkYWJEYW52emlZbE9hYnF2WEVxTWo3NENOcW5hMklhZm9RbXVkSXpfYl9mR3VCVGc0WUE?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-11T18:25+09:00"
+  },
+  {
+   "title": "NTTドコモまた通信障害 音声通話やデータ通信に不具合",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdmwycEJNTTZMbXpJRC1IQVhuZkpEWmMwdnczcDFldjNyVi1iMFpMMFhGczJBSmFoVFd6RlJ2V0RZV1ZqQTdLbmczVENVdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-11T18:15+09:00"
+  },
+  {
    "title": "NTTドコモの5G SAで全国規模の通信障害 11日午前から通話・データ通信・SMSに影響",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45WjY4SldjZDRpRWFLQUtxYXZFS0N2b1poZnBOT0QxbXBHUDBHNVZ1MDVKSjl1ZzU5d25uMzBheExhbnA1ZUlUZ3hJNHNyemczVHdxTnhBTUFaSEs5VFhKZnV3dmg3NGhVbWs5dlVR?oc=5",
    "source": "NOVAIST",
    "at": "2026-11-11T18:09+09:00"
-  },
-  {
-   "title": "更新：ドコモの5G SAでまた通信障害、11月11日10時34分から全国で",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NSjRVV25FVlBhNmpuOVpUTHNHWF9VUHFpYzFrX240SnYtNDExUFZoNjBvSWtxOG9NaWhmTnQ4OVZWVlBNWWI1SlR3NldoTFRMMnR5RE1FVEQ4REU2anRVSDRfaG9WREE?oc=5",
-   "source": "テクノエッジ TechnoEdge",
-   "at": "2026-11-11T17:36+09:00"
   },
   {
    "title": "続くドコモ通信障害 一部除き復旧も、完全解消には至らず 原因は調査中",
@@ -434,22 +440,22 @@
    "at": "2026-11-11T16:06+09:00"
   },
   {
-   "title": "信用金庫でシステム障害 復旧中も原因は機器の故障か",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16WURTaUlTZUJWekg1X25FOTFCWlk0LTRCMTM2dEVoNExvNHdhTGpfc2RtSFhoNEtNLUU2OUNTZmwzSjRtVktoUW01WHdXZlM4OHdteUwwbFhnOUE?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-11T15:27+09:00"
+   "title": "ドコモ、全国で通信障害 先週に続き、つながりづらく",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WS2xER1VaVWdZNFlZZi1kbXZsNkRWRU8zOEgtc19zamxZNHVXQV9jeVhIZ0NTSGt4XzVKVTRlcDBnZ1RMaXVRcUlFSFltWFlKTWNBWUl5NU5xVy14T0ZTRVBOUQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-11T15:49+09:00"
   },
   {
-   "title": "11日のドコモ通信障害、不正アクセスやサイバー攻撃は確認されず",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNkNSd2toZl84aFByMlNoeGV4QUgzaklmZ0t2NXU3czUwTEgyVW9RajhlWkJYeTlJU2pFcnZYRUpDTlZ1czByZlZoUE5Ea0xXVlpiZlJ3QmlaMXhVdVJCS3ZMSk5RSTg?oc=5",
-   "source": "ケータイ Watch",
-   "at": "2026-11-11T15:23+09:00"
+   "title": "高まるサイバー攻撃への危機感 最先端の防御策とは？ 注目は「侵入前提の対策」や「暗号化技術」 管理者権限奪われても中身読み取らせず",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HUFU3em9Pb1h3Ql8tekdhSGF5c2c0dHhOMWlYdGZ4Um5sVW5ITFYzVFFBaVJpSjI0VXlrN3NpZE5tNFVGWjYwSVRsNEtyQ1ktWDhoVVFNeFVKSXl5YzhQa0dnTVpHczVMYm96aHk4RGVNQ21w?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-11T18:26+09:00"
   },
   {
-   "title": "内閣府でも情報漏洩 メルマガ配信で利用する会社サービスに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94VGppOUFIQTZYVWp2c3VJMExLV3Zka2V6cUd6bkJPdG5aQzNLUzY5MGJSa3BIXzdZV0ZsS0ZzdkY2R2NWMnJmVjk3Vy0xaGpJZ21ES2Vn?oc=5",
-   "source": "KAB 熊本朝日放送",
-   "at": "2026-11-11T18:06+09:00"
+   "title": "SMBC日興証券、持株会管理システムに不正アクセス 最大56,487人の情報漏えいを確認",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FZV9lWXp5Q29SUEV2MmxNVUNHTFRaNjM2czBOMVA5eFFyVlVEYkJ2RFFLQTZkZHlGNDdCTHZ5ZTIxQnhzZWJxQVRfR18tY2ZVTzhHRGZ1QVlOZ0NLbTFCVDBSR21vOVE?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-11T18:20+09:00"
   },
   {
    "title": "靖國神社のオンライン授与品サイトに不正アクセス 約1万4,500件の個人情報漏えい、パスワードのハッシュ値も対象",
@@ -462,12 +468,6 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HSWQ3RWN3NWpURW1hWGJYdVl5bDAwS1ppZGY5Q0JuLWR6QTduUk1senA2bFZfNk4xcTRUUklEb29tc3BtSmRwMQ?oc=5",
    "source": "日刊薬業",
    "at": "2026-11-11T18:03+09:00"
-  },
-  {
-   "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい JR東海やアイスタイルに影響",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00NUNIcDZFdDJMeGF0RmpyTGlxczE4TUxqMkpMbFR5NTVMWnpLajNYc3FhUFNiQUtaV19Gd3Ywb0dLN1lwYXFOZWFjeU0yMEtHWlJxbnRPV2N0RVZrTHVfNnNJdk1ZcGZmemc?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-11T17:35+09:00"
   }
  ],
  "osaka": [],
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモの5G SAで全国規模の通信障害 11日午前から通話・データ通信・S」"
+    "「ドコモの「5G SA」障害、一部を除き復旧」"
    ]
   },
   "japan": {
