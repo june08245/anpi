@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:00+09:00",
+ "updated": "2026-11-12T05:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,10 +221,10 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
+     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrT3d0X05ycTFDUnBRQm1obURaYnp1Wm9qTDRNM0tEQUxZVXE3MWNWMUhNLTJod29sMFBpM0lJVWRjZzdpdXJLSDRQeFBoZmtMcm1zRVhGclU1eEN4VFpQY0Z5NGllcXpXY1QwVmtqNFRuSXBS?oc=5",
      "source": "TBS NEWS DIG",
-     "at": "2026-11-12T03:54+09:00"
+     "at": "2026-11-12T03:31+09:00"
     },
     {
      "title": "米国・ロシア・ウクライナ3か国の和平協議が終了 「大規模な捕虜交換」合意とクシュナー氏発表 欧州参加めぐり米露に温度差、首脳会談へ",
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "ロシアの外交官らが、新たな欧州安全保障をめぐる協議の一環として、NATO加盟国との不可侵条約を提案",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXVjcUJMME5Cdmx2OU5SU2VRY0M4a1BkdmtkMnpUNU4wS0dSenJOYU5yWXhxVDlnUlI0YS1LR3FXcjZKSmlZUEFFSUlJV1dWQzREVEo3MzhRTUk3YTNWVFpTRHhoU2ZaQlF0N3hBQ240WjdYck8wWWNxanAtOVNXTHpyMUg4N1lyX0wzWUY1dWNRTFdkb1k1bWVLQ3diZ1BxWDNwd0VNUzAwaWc3ckZr?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-12T02:52+09:00"
+    },
+    {
      "title": "イタリアの6300校に爆破予告、英国でも 旅客機や報道機関に次ぎ",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FWHRvSk9oUWliZ0l0VlJyVFIzeE9reGlabEhFMGZnR1Frd3dJeV9TQVJPaEwtRG81RF9MNmxrVHpEV0N1Q2U5d3hIS2gwNmt6YmV1WjJnZVdHOFdJeGJTanVaV29rQ2diTlFOOQ?oc=5",
      "source": "日本経済新聞",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zVFE3Sm5NRVV2a1ZzMmZUb2E1WFpZZk1JRndpVHh1aENMOVhkWE50YS1kQkFzUk9FaDAwN2VLRGU4bU9UTzRyOEhIQWtKQ1ZHdXkzRUZZdHAxSmxGSGpDV0JEQl9ELV9J?oc=5",
      "source": "Infoseek",
      "at": "2026-11-11T23:51+09:00"
-    },
-    {
-     "title": "【速報】イタリアで約6300の学校に爆破予告メール 生徒ら一時避難など混乱広がる メローニ首相“事態の把握進める”",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IWnJNcTYyLWpsZkhKUl9RTTE3YlQwRUx4cDVfUDNid2Y2dUFHeExnNFlXMFhGaGtYTlZJZDhxVUowMjk2NF9XaGxqVWpkdW9iUnlwUTRIYlVRVGpEUVA5MVRLQjZmVURV?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-11T23:33+09:00"
     }
    ]
   }
@@ -380,6 +380,12 @@
  ],
  "cyber": [
   {
+   "title": "NTTドコモ、再び5G SA契約で通信障害が発生も復旧",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBySVNXcjdXd1NtY2JQMmdGQjIwcHFWZldxREw1NUNoUDg2WWx0dExKMGRSV0pxdVgzOVRkS1NYOFViUVJUV0w1UjhUenZ1NVE?oc=5",
+   "source": "blog of mobile",
+   "at": "2026-11-12T05:04+09:00"
+  },
+  {
    "title": "海外金融機関のシステム障害、国内への影響なし",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43OF9waFZISmJoV2wtQlBpOHRVMzNXYlpNcHY4Q0x2ekxKN2xLY2dwaF81Wmloa3JjVEY0RXNiYTQzVDBIRWc?oc=5",
    "source": "NNAアジア",
@@ -395,7 +401,7 @@
    "title": "ドコモ「5G SA」通信障害が約9時間ぶり完全復旧 通信処理の交換機へのアクセス集中が原因 サイバー攻撃は確認されず 今月5日にも同様の障害",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2UzRTNW1UZEFhMnRnWTFqWTllM3AwN1djT01WVGtHRnZ6NEZ5ZWk0dlJfM1dfM0Z3QWhRNTdPdGZqV3QxaUNxZFJ1cE1KT29TQ256SnpxRk16ODR0OEJqbTlqZ1NScmZsT2d6OXV3aVk4WjA?oc=5",
    "source": "Excite エキサイト",
-   "at": "2026-11-11T23:09+09:00"
+   "at": "2026-11-11T23:10+09:00"
   },
   {
    "title": "NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」",
@@ -458,33 +464,34 @@
    "at": "2026-11-11T20:13+09:00"
   },
   {
-   "title": "グッドクロス 不正アクセス・PHP対応 緊急窓口開設サービスを提供 0120や050番号の即日取得と迅速な窓口開設を支援",
-   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOdnNiWU9iYzlDNURxaXZyQ196a2VwcXQwMW5mY2wtLUI2WTJVMGVrWFk0cmw3U1gxYXJvcTJkb3JUZjlDWjNNbkdRQTR4MkhTdHZrU3VZOWVJaWJaVTR3THlOVXBvZnJJU0NoaEZUZkxZUkl5bGtMRnR6V0RBSnYwYWd3a25menpGWVIwUk9JU3YtUE8tOWpfSHlXbnRqZF9GeGg3N2hDZVRSWGhfOUlCYnBBbWY1dGxEWXdBbWRHdE5mWERaVk1kc3ZiQVZoYkd3TGpJNTVBTmxrT2F2WTBEcFp0Zm5nYnlYV3BQYVFpNGU5Q1ZjLTF6T3RHOWwwUnI1VU9kZzZzQ1Y1bnpTSDNKY1BpeUV2dUQxb3dIVkdCbktOZDhtaTlTa3hUeGxQSEZrUmRwdXRFRjlzT3dDRjd5aDd0TQ?oc=5",
-   "source": "ニュープリネット",
-   "at": "2026-11-12T04:02+09:00"
-  },
-  {
-   "title": "重要インフラのサイバー脅威、自衛隊が平時から探知へ検討|セキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZGk3T25DcW1Pbnl6aExxcTBhR18wSVpJbl90eXZ4eDdXbEt6SVlWUUNaVHdLZlBFU2wyaWF0aF92MWVUVllnVEM0YS1RdHI3Qy1jU01IaTVuZzg2WV9FX0k4ZVNFbHJnRFRTSDBxeHN1Zk5Yb3dGZ1Bpc1RxZGRvTGVQd3NzQVl0V0xXZzdwN2ZzdGUzeHNWXzhqVTI2Zw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-12T04:00+09:00"
+   "title": "登録者のメアド 下野市漏えいか アララ不正アクセス｜朝刊・夕刊ニュース｜下野新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0UG1wanVTcUNnN2NUVi1MTDNSY1NlLTQwdzhYdFc3TEJDc21kanhNcE5xUGIzTDk0dkp3OFlmdHAzdVA5eXhFVElILWF6QjFkRkVHQ3dESk5Hd3c?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-12T05:02+09:00"
   }
  ],
  "osaka": [],
  "world": [
-  {
-   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-12T03:54+09:00",
-   "topic": "ロシア"
-  },
   {
    "title": "ベッセント米財務長官、米軍基地に転居か イランによる暗殺の恐れ（朝日新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWHRTVVNaRFhLdFZRLVNpVnJxa3JaelFIMXdUN1E5OGU1N0pRX2pvX0pITmVIYVdGeU94OXJoY21YU3hYcWlKNEd6c0JTR29kc0VrWTlsRnZnMXc4b0pqaVVCU3FJTlNCa1dRQjZGVUdXR1d2azA1c1dCSnNzNG8?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T03:48+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrT3d0X05ycTFDUnBRQm1obURaYnp1Wm9qTDRNM0tEQUxZVXE3MWNWMUhNLTJod29sMFBpM0lJVWRjZzdpdXJLSDRQeFBoZmtMcm1zRVhGclU1eEN4VFpQY0Z5NGllcXpXY1QwVmtqNFRuSXBS?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-12T03:31+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシアの外交官らが、新たな欧州安全保障をめぐる協議の一環として、NATO加盟国との不可侵条約を提案",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXVjcUJMME5Cdmx2OU5SU2VRY0M4a1BkdmtkMnpUNU4wS0dSenJOYU5yWXhxVDlnUlI0YS1LR3FXcjZKSmlZUEFFSUlJV1dWQzREVEo3MzhRTUk3YTNWVFpTRHhoU2ZaQlF0N3hBQ240WjdYck8wWWNxanAtOVNXTHpyMUg4N1lyX0wzWUY1dWNRTFdkb1k1bWVLQ3diZ1BxWDNwd0VNUzAwaWc3ckZr?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-12T02:52+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "イタリアの6300校に爆破予告、英国でも 旅客機や報道機関に次ぎ",
@@ -564,13 +571,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "【速報】イタリアで約6300の学校に爆破予告メール 生徒ら一時避難など混乱広がる メローニ首相“事態の把握進める”",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IWnJNcTYyLWpsZkhKUl9RTTE3YlQwRUx4cDVfUDNid2Y2dUFHeExnNFlXMFhGaGtYTlZJZDhxVUowMjk2NF9XaGxqVWpkdW9iUnlwUTRIYlVRVGpEUVA5MVRLQjZmVURV?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-11T23:33+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ルビオ氏、外交が進展する中でイラン攻撃の「必要はない」と発言",
    "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPamhEeG9iUUJaajRJVm1GSXF5Vm4wMlExMmY5VTRvSDhIbVI0cFFhZS0zNWNXWVVnblU3OEpQczA5dFZlY3UzY2xhVTE1ZWxfTzQ1d3RHbnowTFdhUGVXTmhUTEo2VXR1RVB4ZnRkUlNRU09HbXF3bng3czUwTjQxaHYtZGtpdzBleVNpMl9XckFqVjNCbUt2MC1zcWhYRmpQcy1UQmJhRWE2N1AwTmlpQTFFR01EVWJqUXo1ZFBsdmJfbHYxc1ZrZG8xdFZ2NnIwYjhnTk1hQXVySlhPcEtIRWlFRmxRNUhjcHVaUUV1b0wxcTIwcmJTUWRDN3hnc3EwQU03ZE04bHhHQWhvaDRqdWl1Y1htV0ZMQW9PanNqZDFLTk9nY2Y1a18tVG1nZTAwRGJMY19OZ1plNTVoNzNsemR4dXIxNXBjVWFlSmVzaU9Cb2VQeE9jREduMm9ueFo1MC01SlhoZTBjdHp5UWZEMVByWEowZ0IyOGtOeW1ES3FaeXhabXZkNWZrWG1DaEdqeExFMmdsUU9ESnM?oc=5",
    "source": "アラブニュース",
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモまた全国で通信障害 11日午後7時過ぎに完全復旧 不正アクセスの形跡などは」"
+    "「NTTドコモ、再び5G SA契約で通信障害が発生も復旧」"
    ]
   },
   "japan": {
@@ -632,7 +632,7 @@
     "イラン・アメリカ：「攻撃」「ミサイル」2件",
     "中国・台湾：「攻撃」「封鎖」1件",
     "北朝鮮：「攻撃」1件",
-    "欧州・NATO：「爆破予告」6件"
+    "欧州・NATO：「爆破予告」5件"
    ],
    "items": [
     {
