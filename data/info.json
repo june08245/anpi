@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:00+09:00",
+ "updated": "2026-11-11T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア・ウクライナ協議、2日目開始－エネルギー停戦など議題",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGdJbkFqV0NfcVY2NlpUekFSNTk5d1BHR2Q3cDRCZ0c3T05RVHVMNXZDdmtyODdQWFIzeGlqM3NwSjBrclRxWWZQTG8wRVZQSXR5THdySjdVMGlsNkY2cjB1cW1DNjJUQTdpWFRVQWMxdkc5aVc4dnJkN1N2LThqMElrLXh6M3hxZW1tc2l3?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-11T19:59+09:00"
+    },
+    {
      "title": "ロシア軍の夜間攻撃で幼稚園まで破壊…炎と煙に包まれたウクライナ首都の惨状を捉えた映像",
      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPSDNLQkNHNlJZRHdOTGZlcGZhT0hxMHdMMGdLNGx3SDg3aFpsMzJFLXhMQTBzSkdrS3lBNlUwMWFIa3FpeEpzTlhlRTNaR1VJLXh4dy0wRmxuX1N0OFdld1FrYTBmQU1UNXg5NThHbkZDZUx1OHFVRG9Vb3BMRWY5UV9xYS1TdUczdlNoaTVtVV96X0NFeTdhTWlBaDdvOHZlRkFjcnZYTWZCdVg2MVBQaVAyUDE2d3NzRVBadDY2RW5Gc0t0UGtTaGxyS3UzRy1kRlRzZ0NmUTFMMk1HV3ZIbzNBenJsZlZ0OTR5Yzk3dG9naWp3dExmNC0wbHREdkgyN1lFSDBQbW5KTmVGbnprUC0zMUlXWVYzUHlmUFZOLWlaSG1JaEkzMm1ZV21ZVEdsQlNfQm1kMXBWZVlLekVKY3V6eHFVcVJyNy0wN2xR?oc=5",
      "source": "cedarnews.net",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0teGdyc29ERkYwMWJaSVRwd1c2ZDhuTjFQZm5acEZpTnlwcFZRdHZpMnBsMGctazU5OEdpbDVmZXhPbzVZa29HM1gybDBPV25CdFRPbXBZOXpscmZ6bkM4NV9nTzFnS0JY?oc=5",
      "source": "NOVAIST",
      "at": "2026-11-11T17:08+09:00"
-    },
-    {
-     "title": "約9カ月ぶりの米仲介協議がアブダビで再開 ロシアとウクライナの立場には隔たり",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yRkpPNGxOUGx3YzctNnJCTG13M0hjVHlmMHMyR1JKMHh1dzNGVHA3V1pVUFF1LXdyMFpjOWpuTnFvTW5LMWFBV1FyNFFNV0ctSDZnT2tpVklkUk5XeTZJM21DR3lkVTZwOElR?oc=5",
-     "source": "NOVAIST",
-     "at": "2026-11-11T17:04+09:00"
     }
    ]
   },
@@ -380,6 +380,12 @@
  ],
  "cyber": [
   {
+   "title": "ドコモの通信障害、一部除き復旧…再起動や機内モードオンオフで解決と案内　先週と同様5G SA限定で発生",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14OHFCV3M3VUdHc3dwaUxNMUZwd0d0VlV1VVNLSVZYRHAxdUVsNUUwa1paNHNvYTdONG1PZ1A3Tk1ha2ktX0ZxdGxCV2pjbzB1Q2V1UlRvV0oyTmZCeFFGb1Bn0gFnQVVfeXFMUDVLc1JnNmZCTF9kbWU3bzNsck8tQkFfVmwzMEQ3TGFBV0xIdGg4cVhzYlgzeS1KM2M1ank5cldway1may12VWJoeFFFV2YwcE4ydU9scGF0c09mb3ZxX3ZLMWhHajhmcw?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-11T20:02+09:00"
+  },
+  {
    "title": "また通信障害 NTTドコモ一部通話サービスやデータ通信など（青森放送）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xT2dpSXV5WGFWYmtoWVE3VXJpMlpPeXBYRVZOc1c1dHRFNFJfWnpnUUdIUUVHZFBnSm1fbEs4WXozV1dDWXhkQTQzQ3FpZC1LZWYzS0U4UzdDY3ZQV2lYWjd0Vk5tckdwbGxuRThNWW10c1V5VWl3TXBkcDM5Rk0?oc=5",
    "source": "Yahoo!ニュース",
@@ -428,10 +434,10 @@
    "at": "2026-11-11T18:17+09:00"
   },
   {
-   "title": "通信障害、一部除き解消とドコモ",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05V0tlSFZJb0RneFFoV2lQRV9WSGR6QmFpWlo2elRNa3hOTHo5T1dHTlY3eUV1OFFseUt2YW11RzRGS1h0UUQwSkVrcm91OVozUGxLdmIxVmxmM3ZwcWc?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-11T17:28+09:00"
+   "title": "健康プログラム山口県版で42人分の情報漏えい 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0TU04ODNuQXphQ2xyNTgwTjdtR2hxNmxHdzB4VTlwLUZfSUFFSDhIdURlcTNjSkNvcHJjVUNtaFdiZHFpdWwxYXUwZw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-11T20:05+09:00"
   },
   {
    "title": "電通デジタル、マーケティング支援事業で情報漏洩か 不正アクセスで",
@@ -447,8 +453,8 @@
   },
   {
    "title": "ステップゴルフ 不正アクセスで顔写真や口座情報など漏えい 最大で23万件漏えいか",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CRlFHSFZSY0xMcmFGS2tpaWhFaW9idGFCcHprTngtNjRCYmJVcXBtZkFvelZBbHBZaG5sV0tNM09aQmdEN0tTUFFBSGxPakpCNWtqX1pZRXVjWmF6UURTUzBvOElERngxOWZ0bXlB?oc=5",
-   "source": "au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mSm0wZmVVaDBENG5TbTE3VGRzdDBLT19JSWM1Tm9DR0pJVWpIeFpHNHBlSm0xVGxQOWtwa3Z1czdIaFZvVEhqU3B0eDRIX0dtUFFSRWluVQ?oc=5",
+   "source": "TBS NEWS DIG",
    "at": "2026-11-11T19:46+09:00"
   },
   {
@@ -462,16 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93WTl1S0NYNXVPaTQyM2cwWTQ3emdBWVJxZkJPUDRHeERkMDg3bU5UYm5Qd0FFUkxHWFVGaE11ejlRaGFJeklBMTdUb2FsQWxtSHJWV0c2ck9kdTJFTjdpbDFTTE5MRk9BMDRnWll0NERBZ2Fl?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-11T19:35+09:00"
-  },
-  {
-   "title": "ＡＩを使ったサイバー攻撃にどう備える？ 大分県内の中小企業が対策学ぶ 「多要素認証の徹底を」（ＯＡＢ大分朝日放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mWk9sbjNUdFFsOUh4SE5xdjFfRGpKUnhvQmN6QTRXXzYwQ194ZVBPWk1ITzFweW5JalZaVVBZWTZJX3gtNGUzOEo4eGJLbmc0SHVFZGlTdUNXNk5sbXdYQTExWUFVd1BmdU1Va3BXS1BsSDRmTDJJREllNDh5Q00?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T19:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア・ウクライナ協議、2日目開始－エネルギー停戦など議題",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGdJbkFqV0NfcVY2NlpUekFSNTk5d1BHR2Q3cDRCZ0c3T05RVHVMNXZDdmtyODdQWFIzeGlqM3NwSjBrclRxWWZQTG8wRVZQSXR5THdySjdVMGlsNkY2cjB1cW1DNjJUQTdpWFRVQWMxdkc5aVc4dnJkN1N2LThqMElrLXh6M3hxZW1tc2l3?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-11T19:59+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ロシアはイラン周辺で大規模な軍事衝突が再発する危険性を警告",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaGx5Mmc5YzVHMkd2WVpMMXlQOXZqQ3l3SlRrdURDd2tVU2JvRWczcjhRTEhiUFliaEVfYWdlVVBDQk9RdVhONFE4SzFORll4QW9fLUlRYlhvZkQzQnRVS2xCemx3dXk5V1JUdEI3SFVzVmNwUi1rcndGWHplOGdkam83XzlTNlVIU0VwWkdnd0l6U1hreC1FWE45U3VuUG82NS1zUzZDSHJkNVFJeHRFcEZ0TEZVdk0?oc=5",
@@ -550,13 +557,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "約9カ月ぶりの米仲介協議がアブダビで再開 ロシアとウクライナの立場には隔たり",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yRkpPNGxOUGx3YzctNnJCTG13M0hjVHlmMHMyR1JKMHh1dzNGVHA3V1pVUFF1LXdyMFpjOWpuTnFvTW5LMWFBV1FyNFFNV0ctSDZnT2tpVklkUk5XeTZJM21DR3lkVTZwOElR?oc=5",
-   "source": "NOVAIST",
-   "at": "2026-11-11T17:04+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米韓外相がパリで「歓談」…「北朝鮮問題」などを協議",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wd2VVYjRIZTBJN2ZqRTJmbHIwRTBOLW9JZllFZ0hDMW9ocTJDa293SmthRlpCd3Q4QTV0Y29iazFUMnRnT0daYmh4cDlES20tbDNKeC02VWRFcjdlbVZBNDJzc1ZzbnZKbnZQU0F3?oc=5",
    "source": "au Webポータル",
@@ -617,7 +617,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「また通信障害 NTTドコモ一部通話サービスやデータ通信など（青森放送）」"
+    "「ドコモの通信障害、一部除き復旧…再起動や機内モードオンオフで解決と案内　先週と同」"
    ]
   },
   "japan": {
@@ -633,7 +633,7 @@
     "中国・台湾：「攻撃」「封鎖」1件",
     "北朝鮮：「軍事衝突」「ミサイル」2件",
     "ロシア：「攻撃」3件",
-    "欧州・NATO：「攻撃」「ミサイル」4件"
+    "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
    "items": [
     {
