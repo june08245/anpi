@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:30+09:00",
+ "updated": "2026-11-11T11:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮・金与正氏、国連事務総長を非難「軍事衝突なら責任免れず」",
+     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNclRwbkYzRXpTNXFlTFNDa0t4VDBLVlJuRFl0YTRkejRYbWpURjRhbWt5REV3T3pTVGRrR2N4WHB2VWtaXzdXNFcyaEFvZVVnMjhwOVFWNVRhMm5rWU45MkxxLWllOUFrZ2doa2RsRG8ydV9FVU1rallBX0tBR25Pck55M1NTZWtMTk9nT2M0ZnRpZWdtN2s5QzhTVEZlRS1zY21EN0FUWTB2RExHaVFtZUs1Ml80R29IUFpobWk2SnVpTDQtSUtHUzd3SnhHUTFkUTBaZUZYOHZIdkw1UVE2QWV5TUdrSTlmQ252X1loZlVxTm5icFlIRFhOYnJzY1B4SnNsX2ZOUnBrd3BGRTZTZFFpaXVhWmM0YzlCTVlWTWhxX0NydnlZWXd3VmxiVUticjFSY01CZXF2c0FHTjZIWDl3?oc=5",
+     "source": "KOREA WAVE",
+     "at": "2026-11-11T11:35+09:00"
+    },
+    {
      "title": "G7「北朝鮮の核・ミサイル、暗号資産窃取に共同対応」…韓国の立場は4文字",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtPUDc1SmlCM01Fd0hheVlLanJQeHo4OHFlOWg4M196N3UtNEZFaVVoNWU3Tkhsckk2bGZZLXZUSEZERjJDYmNRYVk0STdoSV8wMG8yWUdpb2NDZjdvZG5TZlNnWkFQWmkxZHRkeC1VelRWamZOR3VTQS1ZYjlEV3FTbXVyRVEt?oc=5",
      "source": "조선일보",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJOXlVdGR5ZFdJU1pidmNISWRnTXlDcjZ3SkdFUlUxT0VFMUVRakY0RVhDbWRtc0t1RlVQaXJRRTNYWmpzbE9UNG9aU19UM0E?oc=5",
      "source": "매일경제",
      "at": "2026-11-10T14:36+09:00"
-    },
-    {
-     "title": "北朝鮮が新型高速魚雷を試射 来年初めから海軍に配備へ",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Za0g5UHA2bDc4UE9YWlBYNGpLcE5Db0UwdFFtZFJZZVNhc2xCWXY2UXZQdW9Mb3htb1hhdEhsT3hhS1d3eTZIbFZhWXV4Zw?oc=5",
-     "source": "FNNプライムオンライン",
-     "at": "2026-11-10T14:23+09:00"
     }
    ]
   },
@@ -239,22 +239,22 @@
      "at": "2026-11-11T07:56+09:00"
     },
     {
+     "title": "ウクライナ軍、東部で攻勢 ロシア軍は首都空襲を激化",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wTlYwbFJ6WFRsR3A1OGRoWnB6VFRaMEIzZTg5SmpFMkQ1WTRlRm5xbXdWdFhHNEQ3akJqYWhFZGRQLWtNcXhiTW01X0NNTkFWUGRiQjRYS1pxak96UWhWQlRrY2VGM1ZDN1pJWEJ4WXNfb1Z4T2dTWUlQV3E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-11T07:09+09:00"
+    },
+    {
+     "title": "アメリカ・ウクライナ・ロシアが9カ月ぶり和平協議 ゼレンスキー大統領「建設的で実りあった」 協議は2日目へ",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04MlQ4cTlyNFhYWEdwdDlWWjRmemJtY1VzT3V1U0N0YnZ0WmZWeGJmeko5R19rSXhod1JSZ2VnVVI3QTdqbEZYcmpaMkUzVFZqQjNXQm91eHgwV0FudE84OGJyOHJ2RTJPVnZmUTZn?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-11T06:44+09:00"
+    },
+    {
      "title": "ロシアの都市攻撃はウクライナを屈服させるか： 英独の機密文書が示した、物理的破壊により抵抗意志を「制御」しようとする幻想",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rV2tsdmx4N2taZHZKNmRlRXcwWTYtWjZOOG5VcURqTWVwSGxsYmw1NXlFb3NIWWNXRzdnR0FhY2xMdzhuRll2SERrZUdZVHYy?oc=5",
      "source": "新潮QUE",
      "at": "2026-11-11T06:09+09:00"
-    },
-    {
-     "title": "ロシア連邦保安局幹部ミナエフ氏が米とウクライナの3カ国協議に初参加 暗殺未遂疑惑も",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XLU5CSW92NTR4dnlObldzVllaUWxUc2pWdUJkU3JXYmJPLXltSC16VWJYNXZEM1g1T0lQdjZtc2RncEp6TFdjdFdGVGRCdHNWX3ZmRHBNSDA5cXRrcVB1ck1FN1ZXM2poWW9vZG90WEtNM2QzWnc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-11T06:07+09:00"
-    },
-    {
-     "title": "JTのロシア・ショック、現地資産1.5兆円が危機に！プーチン政権が強める経済介入、背後にちらつく軍産複合体の利権(3/3)",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oazZhdzNLbVZOWU42dndSbU1HdS1zQ0hJdnBOTmFYOFVTTWpZVGd3aWw1TzV0cjZuaW1OS19fS3Q5dVBlQ2xLUVdBZEdsOUgtcHlLVWFWWGFpUmhtemNz?oc=5",
-     "source": "JBpress",
-     "at": "2026-11-11T06:00+09:00"
     }
    ]
   },
@@ -310,9 +310,15 @@
   },
   {
    "title": "昭和南海地震から80年 気象庁が南海トラフ地震への備えを特別企画で呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Pb3lWd2Z3WWFhdGNidVNDV1o4bjdidXE1S0sybGNreFEybDVEYzJmSjJTb01RZDgwemQ5TWlvcGprVTJ2RGg4MmVEbEtTSzhiV2FWNmRNZEw?oc=5",
-   "source": "NCC長崎文化放送",
-   "at": "2026-11-11T10:10+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NTWJWeVdoWDBMNTZhWk5yR2hwVWxZcW41NzVsRVlWZXlNeXo4eExoMi1tREhDLXpPUkdDXzI1Y1I4U3RMMTdoWkpqRmNNOS1rV0pqMkRR?oc=5",
+   "source": "KAB 熊本朝日放送",
+   "at": "2026-11-11T10:14+09:00"
+  },
+  {
+   "title": "【全国の海溝型地震一覧】巨大地震・津波の「発生確率・リスク」まとめ 南海トラフ・首都圏・東北・北海道・南西諸島など…「低確率=安全」ではない（MBC南日本放送）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYU5rLW56ZnFCamk5eVJobVBTekNoYXhHa0JFN25fVkJWZk9oVzdaX3VOZnZlUnFTd0tHZFhaV2UwWDVhWC1ET0wtSDVMVk5Bc2RJNG9QMjJiX3FmQnpOUVVtWlU4MmdLSkZDeU0xd0ZaMkNiQlppT1Y4anhjVTBxVlFVTzd0MXJ6?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-11T09:52+09:00"
   },
   {
    "title": "南海トラフ地震とは「直接関係ない」…愛知で“最大震度5強” 専門家「より大きな地震が起きることもある 今日自宅の点検を」",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RTg1QUtYWk4zUkZFWm5qbFAyTkJDVUFCRTcyOGw4b2RCS3NNbWRPcWVkZmNEWkRvUE1OcEpxQ2N3OHI1VjM4TjhmYXVrZjNtZDdFTkVaQ1pUc3hFeFU1RDBRV2NVSWdtb2doSW43dGFydUJjRk5NVURTelc0TnM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-10T19:08+09:00"
-  },
-  {
-   "title": "【全掲載】「Ⅲ＊ランク」「Ⅲランク」海溝型地震…30年以内の発生確率26％以上（南海トラフなど） 実は日本の周辺に多く存在…「Ｓ＊ランク」「Ｓランク」活断層についても掲載（政府・地震調査研究推進本部）",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RLWpuNGN4cW5pQlV3OUNNZ0NxSVY2NHVFMXplY2FvMDlLTWZjeGUxVlBpbjEwSXJnc3l5ZFUwLXNfSjZ6M3hfWGRYclJacVdvZEdwZ20wWGhqUkNrQ0hHOQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-10T19:07+09:00"
   }
  ],
  "outage": [],
@@ -375,10 +375,34 @@
    "title": "Jアラートの全国試験、日本で11月11日午前11時ごろに実施",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXRyVGJUdWlXQ2hJb0kyWTQtcWlzZ2kyaENYQUtvRmtLelBIbTRLV0xNWVZJak5sLW5YUU5QaG5VRnRWZC14UVJUVkg3Y3pHSGZFY2h1NEN6c2t2d0gzdEttYlYtZ19rbHpLVHF2b3VyQlJFNW12SHl0TndmdHNRdUZ2bzdBQ0I0dmlsVHl0Sms1OXppcTk5REF6YU81ZGdCMGtBRlB3a2xITWgxMlFHeHdxUnViMERLd2VrN09yMA?oc=5",
    "source": "cedarnews.net",
-   "at": "2026-11-11T00:21+09:00"
+   "at": "2026-11-11T00:22+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "ドコモ携帯、全国で通信障害",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhcExabnZod0JGcllHN0xRbU9VcVNlZTZKTFlJVWpWZmlTdktESFZMUjJtUGM5c1VpNHlUSWNFclA2dkhhY1JyLXVMNWpURXRwbFlYazB1NXJvSjFiYWpwVFlVSWxDLXJsYkQ3RkJLNA?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-11T11:41+09:00"
+  },
+  {
+   "title": "ドコモで通信障害、音声通話・データ通信・SMSが利用しづらい状況 MVNOも影響、11月11日午前",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0N6dnhrZ1NNbUJpdXJHUXh6ZGpueWJseklfRm1mbV9HU1h3T01HTWRfcWZCS0NEY0R3cnMwWDY3MXVTdXoxOS1FYy12R3lSbl9SUTZ2LTBUal9CVk13Mk9EcHU0Z05pRnBrZ2pFaUNPNWlWNjViTDVVLXdmVWpBeA?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-11T11:41+09:00"
+  },
+  {
+   "title": "NTTドコモで再び通信障害 全国で通話など利用しづらく",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByR3B5V1FSQkl0M3YwbHhlbWc2Ul93dTB4STFNWDFIY293QkNmenZFRXFxdmZ6Q1pnWnFrRzMxTjliRHEwR1V4akFfRGNSemptVjhOTTdzZE5Qd2lUQnJOUFV2c0t1eFVYMjdjRg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-11T11:36+09:00"
+  },
+  {
+   "title": "NTTドコモで全国規模の通信障害、5G SAに再び異変か 復旧見通し立たず",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1YWVZdDFxcDhYRjdrcUhtTzF1ZTN5ajNIcmdlc2ZkeDRYbVpTRjRBZFd5UENCT2FOYUxxNDFmYmlKYWpPRnZ1NWlLUnIyMlJMdnc5blppcUtLai0taWR6RHpoRkJCa1dteUJfc2ExeGxyOTU5?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-11T11:36+09:00"
+  },
   {
    "title": "NTTドコモで通信障害 原因調査中",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCazVOOF9neWhHM1UzNWlGaUZYeEJXTjFiclBQWDVoaHM4MUZsWGY0WVhnbjkwSVhoLTJubHhNaGdTTHZFdG1VT2tJVnMxNDVrMVpEWk56RG9uMXRydkc4?oc=5",
@@ -386,22 +410,22 @@
    "at": "2026-11-11T11:29+09:00"
   },
   {
+   "title": "【速報】NTTドコモ 全国で通信障害 音声通話やデータ通信がつながりにくく 詳細を確認中",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ed3NHR2xpNkoxM0R0ZDhrUXUyWWlmcnZpbERsZ3dYV1pwYVp5cGNiUUM0eWVlSVExR05SMUxOQ3N4Y0JCMU1YNUlURkFEQTZFZ1JkUDEybw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-11T11:26+09:00"
+  },
+  {
+   "title": "ドコモで再び通信障害が発生 影響の詳細は確認中（ITmedia Mobile）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aYTBBYjliNFREMGFLVXdjNWp2M0tYWTFLa3FjbWFUSHFzeVJRMWc1WFJ5a21MQXlTVmExUlM2cUE0SHNyRTNwc05tYm1sVjI5WjRRc1lTSEFrbkwxdUVKMEd0RmJnY3dmYkZiVHlFS0pIa3dYbjFRSndtdUw5Rlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-11T11:26+09:00"
+  },
+  {
    "title": "ドコモで通信障害、全国に影響 11日昼～",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93cUdrNHJxcTJRa2pzYjl1OXpKc0t5OFpERzRSdlhPTUpNTzdvVHVfbWFvcTFtemhpMnpXUGkzQ19JNmlIYnpJaGgtLVJBNTZMZGVrSGRvcmRhQzlDYzJfTENoX0gzSXc?oc=5",
    "source": "ケータイ Watch",
    "at": "2026-11-11T11:24+09:00"
-  },
-  {
-   "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb25meVExd1FYWUdXTmpmVGlvR292UGFTdkJ6ZGhESWxlY2JTSnNuYWVJLUktd0hpYnJPNl8wdVJrMURYc2hrOEdYYWhYNnVmRS1vRUxOeHduY3VNRUV2TlRuWWxNUXlnMXc?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-11T11:06+09:00"
-  },
-  {
-   "title": "ドコモで通信障害、音声通話・データ通信・SMSが利用しづらい状況 MVNOも影響、11月11日午前",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzQy1haV9JZ3k0YTRwelN4T3NXNTZNc0cyS19oVHZyZ2Jkc1J4RmlDRG5tMTNGYk1oOU1RZ25pMEp4ekdOUmlfV05iNkNzeUR0bjBLMlFUMjlqLUJCd2c?oc=5",
-   "source": "福井新聞社",
-   "at": "2026-11-11T11:04+09:00"
   },
   {
    "title": "iCloudでサインインできない障害が発生、Windowsのパスワードアプリも開けない状況（2026年11月）",
@@ -422,6 +446,12 @@
    "at": "2026-11-11T08:53+09:00"
   },
   {
+   "title": "CTC、サイバー攻撃の経路を分析しセキュリティ対策を評価する新サービス",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CTW9JR3A0RUdNYVIwazBRd2VNQXFDTkdoU3Fzc0haZDR4Sy1GWGY3REUxa3BObUh0YXk3d0R6bHZka1JIaVZpdFR3N082N3M4aTBEelJNT2VCQzN2Z043OE83SGhfZk8t?oc=5",
+   "source": "マイナビニュース",
+   "at": "2026-11-11T11:42+09:00"
+  },
+  {
    "title": "イラン革命防衛隊関与か フランスへサイバー攻撃",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IUFhKdVpjdjdiREtnUFB0eUcxWjJjcVg5S3pkSC01TXlYQWhaSXpEWVNvYWNKZnZBaTluU0szNE9raVRyRUNUSjZZeWNOVHpGMy00OWU5T3AweFFKRkE?oc=5",
    "source": "沖縄タイムス社",
@@ -438,40 +468,17 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwN0RzMGZZcmUzV2tGaElmRTVreml3cEl5ZXl6YXdGeFpIZVk1NXR1bWF1TTlLUExYR2NJREk2dTh2ZVNrYXhKb3AxLUVaZW85aUk2T0E2Y0owM0JEX1oxQVdMV0hqY3laWUJN?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-11T10:46+09:00"
-  },
-  {
-   "title": "京都外国語大学の旧サーバーに不正アクセス、5,376人の個人情報漏えいのおそれ 認証不要の機能とサポート終了OSが原因",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWN1VHZkMzVlLVpXeXVEUzVXNWl2UzZQNXR5NmRGS1BvUXQydEJuTnJ4bHltVGRVLWx2NnMtY3NES1lVblFIT1ZtYW44TExsbXZiMFRFcGREdkVDWXo0XzdqUEtOY1JkNThhVUpCcjRyS1hCc2tkTWhCak1RRzFrQmNRNl84TXIyQXV6dWVRNkdneWxSNm5aV3RfQ2luUlZPYjViczVPSkg?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-11T10:30+09:00"
-  },
-  {
-   "title": "韓国の金融保安院にサイバー攻撃、金融機関の職員情報数百件が流出か",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81NUpwMDM2TkRRNUZ1Z0w0dHV4TGU4UkNIUGl0N01DWjljeHFfYldST3laVG9iNTVmSTAzLTZyRjBFMXo1Z21KTTI5cFppM3lyNXA1eEMtd3k0cmxfT3lSTnZVV1HSAWpBVV95cUxPNTB1YUVtYmx2aHJNNm1ud05YUDRZNmh1allud2x3ekFhRTFXVzVHYVl1cWRkcF9vTGFMajhFTURKcUxzeV95SUJtUEV6bmhJNlBMMzkxeWVKeEE2ZXNGVnRaclRoM0NsdGpB?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-11T10:20+09:00"
-  },
-  {
-   "title": "キリンビール・キリンビバレッジ、OWNLYへの不正アクセスで参加者情報1,825件が漏えい 37キャンペーンに影響、個人情報329件|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbElrY1I2THBEY0FiOHJCZ3ZncVY5TFlqLUxfdHJUTTVxNU85N2kxSlFlaFZNLS1zVFhoZVlJcnJqRk1GSlJ6RnRkZkVuWTI2TUU1TWJmTHBuRzVsaEpvWkRMMFJudDVCd052NG05alMwbFJENmU3ZEtjV2Z0cW9xYlY2emdLeFF4SGJEdmhGazBGWmJJT0UyRkNUZw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-11T10:15+09:00"
-  },
-  {
-   "title": "〈社説〉サイバー攻撃対策人権と被害防止の両立を",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xTERuVTVQSjBVZjRSMzdvS1YyWHhuZ3NLdEtWQjU1cl9CaE92dUdaeGJXUHBpVDhUQWpyb1BORWk2Zm1CRjBMZWttVQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-11T10:10+09:00"
-  },
-  {
-   "title": "Medi Face、一部WebサイトにPHPの脆弱性を狙うサイバー攻撃 患者情報・AIドクター情報の流出は確認されず",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnJqc0lUWmdRSm8xQnpZZUdzdm10T1BQV1M3OTJ2dkQ5OFlxRWdDU1NZWVdnQUI3UDd5SVQ2LUxPeGNIendUMC1YX29ldnVqcnFwOEM4XzNVa3NPOGM2Sm1WWUlpbnZBLTc4UzJRbHNIOXFPZGZrei0yeG11MnQzM0FzOVh5UDloQjhXV1BwWG9aZmVkaFVUNA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-11T10:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮・金与正氏、国連事務総長を非難「軍事衝突なら責任免れず」",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNclRwbkYzRXpTNXFlTFNDa0t4VDBLVlJuRFl0YTRkejRYbWpURjRhbWt5REV3T3pTVGRrR2N4WHB2VWtaXzdXNFcyaEFvZVVnMjhwOVFWNVRhMm5rWU45MkxxLWllOUFrZ2doa2RsRG8ydV9FVU1rallBX0tBR25Pck55M1NTZWtMTk9nT2M0ZnRpZWdtN2s5QzhTVEZlRS1zY21EN0FUWTB2RExHaVFtZUs1Ml80R29IUFpobWk2SnVpTDQtSUtHUzd3SnhHUTFkUTBaZUZYOHZIdkw1UVE2QWV5TUdrSTlmQ252X1loZlVxTm5icFlIRFhOYnJzY1B4SnNsX2ZOUnBrd3BGRTZTZFFpaXVhWmM0YzlCTVlWTWhxX0NydnlZWXd3VmxiVUticjFSY01CZXF2c0FHTjZIWDl3?oc=5",
+   "source": "KOREA WAVE",
+   "at": "2026-11-11T11:35+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "【図解】中国海軍・海警100隻超が西太平洋に展開 台湾包囲を想定した「未公表演習」か | 李忠謙（リー・チョンチエン） | ニュース",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ocUM0ZnJ6TGVlYS00cjNDVS1uY2RXYVMxSGVFMS0wVmtaY1FwZ3FxS2tkNXE4OWVHYzVSZTkxQ0J6Y2wyUF95blE1endPOU5Z?oc=5",
@@ -564,6 +571,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ウクライナ軍、東部で攻勢 ロシア軍は首都空襲を激化",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wTlYwbFJ6WFRsR3A1OGRoWnB6VFRaMEIzZTg5SmpFMkQ1WTRlRm5xbXdWdFhHNEQ3akJqYWhFZGRQLWtNcXhiTW01X0NNTkFWUGRiQjRYS1pxak96UWhWQlRrY2VGM1ZDN1pJWEJ4WXNfb1Z4T2dTWUlQV3E?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-11T07:09+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "イラン、アメリカに要求を満たすよう要請し戦争終結を模索",
    "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQcmM0OElKU2gxcEY2cGl0YlY5bm5WRkg2THRBeWdYeFlGaDNFd3RaNUJlSTFCZnR0cXJsejhFdGhtV3lGdm1TUktRLUI2bVlvRnhMeTBtU0Y0eWhHS1JJMnF3NHo5NlBTQm5FdFBKNlBONGlLWFN2dDVJdGpZN2dwa3d0YjB2ZnR3T2FnbFFzYnl5X2lXS2ctS1hFZGVhWGxoT2Q3MG16d2FRbFhSLWhKdV9HVFhJNTltbFk0MFZESzRfUFRuYlJ6VG9pWWJnZkRDMmpoQTcyUHJNZXQ1cWFTTnM0cHZOR3JNc2lqNmV6UVg3aDB1dzNZME5rbjh2LTM4dHBPUzdwVzBqWEE0d0djTGVDcjNQdUNfNWFpMlhvRl96bnNLY2xneDdyR3E2R1dNX2dqaTdCS3dWVE5GNzU1M041LUxJcnUtRWs1dnFDMGM0RGdhQmtCcDFoaUVSS0FvUWtzYVNiOXNpYmwxOGFZNWNhTC1EZTFydkxyNFdyakF4SWRKSVljRVhVOWcwUnc?oc=5",
    "source": "アラブニュース",
@@ -571,24 +585,17 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "アメリカ・ウクライナ・ロシアが9カ月ぶり和平協議 ゼレンスキー大統領「建設的で実りあった」 協議は2日目へ",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04MlQ4cTlyNFhYWEdwdDlWWjRmemJtY1VzT3V1U0N0YnZ0WmZWeGJmeko5R19rSXhod1JSZ2VnVVI3QTdqbEZYcmpaMkUzVFZqQjNXQm91eHgwV0FudE84OGJyOHJ2RTJPVnZmUTZn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-11T06:44+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシアの都市攻撃はウクライナを屈服させるか： 英独の機密文書が示した、物理的破壊により抵抗意志を「制御」しようとする幻想",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rV2tsdmx4N2taZHZKNmRlRXcwWTYtWjZOOG5VcURqTWVwSGxsYmw1NXlFb3NIWWNXRzdnR0FhY2xMdzhuRll2SERrZUdZVHYy?oc=5",
    "source": "新潮QUE",
    "at": "2026-11-11T06:09+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア連邦保安局幹部ミナエフ氏が米とウクライナの3カ国協議に初参加 暗殺未遂疑惑も",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XLU5CSW92NTR4dnlObldzVllaUWxUc2pWdUJkU3JXYmJPLXltSC16VWJYNXZEM1g1T0lQdjZtc2RncEp6TFdjdFdGVGRCdHNWX3ZmRHBNSDA5cXRrcVB1ck1FN1ZXM2poWW9vZG90WEtNM2QzWnc?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-11T06:07+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "JTのロシア・ショック、現地資産1.5兆円が危機に！プーチン政権が強める経済介入、背後にちらつく軍産複合体の利権(3/3)",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oazZhdzNLbVZOWU42dndSbU1HdS1zQ0hJdnBOTmFYOFVTTWpZVGd3aWw1TzV0cjZuaW1OS19fS3Q5dVBlQ2xLUVdBZEdsOUgtcHlLVWFWWGFpUmhtemNz?oc=5",
-   "source": "JBpress",
-   "at": "2026-11-11T06:00+09:00",
    "topic": "ロシア"
   },
   {
@@ -604,20 +611,13 @@
    "source": "Informat.ro",
    "at": "2026-11-10T23:57+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "Spiegel：ドイツ連邦軍、中国製ドローンを禁止し、軍事施設への中国車の乗り入れを制限",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlFKMTRrakFvaDhraFdzRk9zQk4wYWxmMVZtNl92WFgwR3pRd3F1WnJ4OFZqOHVtN09icldycVlwRU1KcnBaNjRlSG9WV0hhaEZIaUFLSmhmSkIxTmpOOWxMMF8ycVFaeWJxR3JEeHh0cXo0NGd0TnF6ejBneVlSSkZNWEYxN0dOSkhYU1BwNE9hXzlyY1ZHbTBaOUxkOC15T2c?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-10T23:26+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモで通信障害 原因調査中」"
+    "「ドコモ携帯、全国で通信障害」"
    ]
   },
   "japan": {
@@ -631,7 +631,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」2件",
     "中国・台湾：「攻撃」「封鎖」1件",
-    "北朝鮮：「ミサイル」1件",
+    "北朝鮮：「軍事衝突」「ミサイル」2件",
     "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「破壊工作」3件"
    ],
@@ -649,10 +649,10 @@
      "at": "2026-11-11T08:23+09:00"
     },
     {
-     "title": "G7「北朝鮮の核・ミサイル、暗号資産窃取に共同対応」…韓国の立場は4文字",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmtPUDc1SmlCM01Fd0hheVlLanJQeHo4OHFlOWg4M196N3UtNEZFaVVoNWU3Tkhsckk2bGZZLXZUSEZERjJDYmNRYVk0STdoSV8wMG8yWUdpb2NDZjdvZG5TZlNnWkFQWmkxZHRkeC1VelRWamZOR3VTQS1ZYjlEV3FTbXVyRVEt?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-11T07:29+09:00"
+     "title": "北朝鮮・金与正氏、国連事務総長を非難「軍事衝突なら責任免れず」",
+     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNclRwbkYzRXpTNXFlTFNDa0t4VDBLVlJuRFl0YTRkejRYbWpURjRhbWt5REV3T3pTVGRrR2N4WHB2VWtaXzdXNFcyaEFvZVVnMjhwOVFWNVRhMm5rWU45MkxxLWllOUFrZ2doa2RsRG8ydV9FVU1rallBX0tBR25Pck55M1NTZWtMTk9nT2M0ZnRpZWdtN2s5QzhTVEZlRS1zY21EN0FUWTB2RExHaVFtZUs1Ml80R29IUFpobWk2SnVpTDQtSUtHUzd3SnhHUTFkUTBaZUZYOHZIdkw1UVE2QWV5TUdrSTlmQ252X1loZlVxTm5icFlIRFhOYnJzY1B4SnNsX2ZOUnBrd3BGRTZTZFFpaXVhWmM0YzlCTVlWTWhxX0NydnlZWXd3VmxiVUticjFSY01CZXF2c0FHTjZIWDl3?oc=5",
+     "source": "KOREA WAVE",
+     "at": "2026-11-11T11:35+09:00"
     }
    ]
   }
