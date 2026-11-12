@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:00+09:00",
+ "updated": "2026-11-12T14:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -180,9 +180,9 @@
    "items": [
     {
      "title": "北朝鮮の新型駆逐艦「崔賢」、核危機では出港だけで米韓に負担の可能性…米専門サイト分析",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHdoTGFybmxhdlRYMThoZ25mNzgyYXhHNHg1SEZPTDhsajd6c09XSExBdnhaUjlwUnBjSDBJYWFzWGRmQVluOTctUXNaUFRhallWV2xEenowX2JHTmp2SzQ0dnQ1UGpZUXpBQTI4Y2RvUnJTOW1wMlJKN25zTENSSdIBVEFVX3lxTFB6Y1YwenRyTVZfRk1yeHFES1djSlpJNW84eVo2YV9SNWVXMENCZTZ5Y2pkRU9BUnBoLUtrN2trZ1h3NnluRGlDV3Zpb0ZQUy12RmlPeA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84RERMcFlHdzhKZ1lrY3NFU291UmI1WW51Qkw1bVdTTWpob19hVUMzRjhPa3ZOVzdJWmRIYl9GTVlTMjY1YVNnbllzNnRuRTg5dzZBb1oyZlpWTnBDR0t2dWdTZlJJVXJDQW5JcHBzZnNRd9IBVEFVX3lxTFB6Y1YwenRyTVZfRk1yeHFES1djSlpJNW84eVo2YV9SNWVXMENCZTZ5Y2pkRU9BUnBoLUtrN2trZ1h3NnluRGlDV3Zpb0ZQUy12RmlPeA?oc=5",
      "source": "AFPBB News",
-     "at": "2026-11-12T13:23+09:00"
+     "at": "2026-11-12T14:00+09:00"
     },
     {
      "title": "海軍現代化·核武装化速度戦に要塞化·多目的化基地建設督励北朝鮮、元山近隣の踏村港署工事推定",
@@ -293,10 +293,10 @@
      "at": "2026-11-12T06:53+09:00"
     },
     {
-     "title": "イタリアと英国、学校に爆破予告相次ぐ 一部避難、「組織的攻撃」か",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyQVJVT1hJVWRwVjJpLUhfRHBjVkdMbHBRRVBJTUlNeHlldEpQajlldDdtVWtualVLd3N3dGlrZFBhM1BNcDdOQ3lNVi1sSS01dW14VHhoendocm5UR3lsdlpiZw?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-12T06:23+09:00"
+     "title": "イタリアと英国、学校に爆破予告相次ぐ 一部避難、「組織的攻撃」か（時事通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iamdiR3YxaWRHV01hOTJtY280UE5pbjM0c3doSzBEdE44OEl4WDBOdE1IUHhIMGdhaWhkb2hJeGQ2NEhnSkdzN0s1anZ3N0ZYQnhrbEEtSE1qcXJ5TXNOdWc2SFdmeTRTUkwwcEk4M1RyekVTTzhCTS1PeGJYdzQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T06:30+09:00"
     }
    ]
   }
@@ -380,6 +380,24 @@
    "at": "2026-11-12T10:31+09:00"
   },
   {
+   "title": "良品計画が不正アクセス巡り会見、破棄すべき情報の流出可能性などを謝罪",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HeHpxOGlQQ3hkOXN5WDludUNPMjJQNk9sQ2tMS0JkOEQ1R2dGcjBrQ3Q0VEpMdnpfTEJuNW1DZFZhdjVnTUo1YURabjY0X0tQVHVwaEJWZDBRU2ND?oc=5",
+   "source": "日経クロステック",
+   "at": "2026-11-12T14:05+09:00"
+  },
+  {
+   "title": "東邦HD子会社、個人情報漏洩確認されず 不正アクセス受け調査",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HaWpEZ3pHZWlhOGNNdTdjbzhfS2lhUXVRc0Q2NTRHNk5HaFBqWHMzcElfVVVwd0w3dGhibXlCQ1NOdXhHZW9NQ2V4YkVHMGpZYk1zeHV3aXFObVBIYlVtMUNyWFB4NGhacGtZRQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-12T14:02+09:00"
+  },
+  {
+   "title": "神戸市「BE KOBE学生ナビ」でメールアドレス2万730件が漏えい アララへの不正アクセスで、e-KOBEなど2システムにも影響の可能性|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3dab3hraGVCUnNwOVU4ZEdaeklLVXE0MzFqcUVrVEw0NVlXb0NOY1NYNGpOTUlqeW9vdFhiaXdsQWk0ZzRjQnVXUjFUWVBERVdZWWF5aU1jMTRLVWQ4OGU0UXZxMGJYM1ViOTYxMXp4NjFpYkkxR08xYmFKSWFwd2JieVVlQ2VVOFNYVlZvc2hDS2lEemc?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-12T14:00+09:00"
+  },
+  {
    "title": "【医療機関向け】「ランサムウェア調査＆復旧ワンストップサービス」提供開始 電子カルテ停止からの早期再開を後押し",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzWFhMTlhmUUlJakVTcjhLbWdPOVR1WldGM0VhUDU2TFJVY3pnWGVadVRsMU8tRkFIVWVHWVVySEVCY2llbG5yeVl6amJpV2tMX1hmTw?oc=5",
    "source": "ASCII.jp",
@@ -420,33 +438,15 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaG9YOXlIeFBGWFdxUXlLYTFQSEduMlhkUkxydnA3RmN0dVctR0JoRzFPNnVobFJkREQtQWhaM1k4TWdaMzh1ZjdQSWdRVEJwb2tMTUJqVWtQRjlYS2NfNEJuaUo3SnNhS1d5WkRGQmtSSkdReFRqMEpUN1ZNaG5FUWJoQWRmaE5kSnpGeVFTUTF4dXpTQi1pWkJZcw?oc=5",
    "source": "前橋市",
    "at": "2026-11-12T12:28+09:00"
-  },
-  {
-   "title": "無印良品の良品計画社長「カード情報破棄すべきだった」 不正アクセスで陳謝",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03TFM0TkJxWExNWlFPS3ZNUllXQVhYbTlrWEU5WkE1d2Zfbzh3UDdkNDZfMEVqM1JQejQyT2c3TjVNTy1qM1kzN0wzcFlpY25Sc0dieE00WlJzaXVZcGtlc2NiSUJGX3JzSzd0Mw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-12T12:20+09:00"
-  },
-  {
-   "title": "［深層ＮＥＷＳ］北朝鮮のサイバー攻撃、吉永ケンジ氏「能力の高さに気づき外貨獲得にも活用」",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvRW9vWTVTeWF5Qm1PMm5ZbWRqMnhOalNIdjNlbFlnU0RTOFZBaGFFdjY4NDhCXzR4LVVtZ1JVS29JUHIwZFR2Ynhic1gwSWlBN2c3a0tNdlRBTy1NSkZMdUhn?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-12T12:20+09:00"
-  },
-  {
-   "title": "キユーピー、アララ不正アクセスでメアド12万件流出",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EV1E0bEM1aWNPSDJJVno2ejFrODNBaXpKdFY2WDdvYW0xUEV6bHhMZVlKbk1qbFFnY3pKZFpkaE16S0w5TkhxSnJsbXZLUk1pNWVfSUZGdzZUSFhTSTNSQ1NILUdCd1MyTGlmSw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-12T12:17+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
    "title": "北朝鮮の新型駆逐艦「崔賢」、核危機では出港だけで米韓に負担の可能性…米専門サイト分析",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHdoTGFybmxhdlRYMThoZ25mNzgyYXhHNHg1SEZPTDhsajd6c09XSExBdnhaUjlwUnBjSDBJYWFzWGRmQVluOTctUXNaUFRhallWV2xEenowX2JHTmp2SzQ0dnQ1UGpZUXpBQTI4Y2RvUnJTOW1wMlJKN25zTENSSdIBVEFVX3lxTFB6Y1YwenRyTVZfRk1yeHFES1djSlpJNW84eVo2YV9SNWVXMENCZTZ5Y2pkRU9BUnBoLUtrN2trZ1h3NnluRGlDV3Zpb0ZQUy12RmlPeA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84RERMcFlHdzhKZ1lrY3NFU291UmI1WW51Qkw1bVdTTWpob19hVUMzRjhPa3ZOVzdJWmRIYl9GTVlTMjY1YVNnbllzNnRuRTg5dzZBb1oyZlpWTnBDR0t2dWdTZlJJVXJDQW5JcHBzZnNRd9IBVEFVX3lxTFB6Y1YwenRyTVZfRk1yeHFES1djSlpJNW84eVo2YV9SNWVXMENCZTZ5Y2pkRU9BUnBoLUtrN2trZ1h3NnluRGlDV3Zpb0ZQUy12RmlPeA?oc=5",
    "source": "AFPBB News",
-   "at": "2026-11-12T13:23+09:00",
+   "at": "2026-11-12T14:00+09:00",
    "topic": "北朝鮮"
   },
   {
