@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:45+09:00",
+ "updated": "2026-11-13T07:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "プーチン大統領 米特使らと会談で局地停戦提案 ウクライナ警戒",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YOFpxR2V3bWtSWDZ0YncwVE41WXRLY21iXzhlV25PVldtMlNqd195RTB0UlhlX0pDN1Vnb1NnRlJZdkk2WGw0dE12NzJwMF9FZ2hweVM4ejVkOGhUSDU4?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-13T06:51+09:00"
+    },
+    {
+     "title": "車爆発でロシア軍大佐死亡 遠隔操作で起動か 北西部サンクト、夏に続き",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BeGZ3Z3BaM3RheHZ6Zk93SjQ1ZFVHenduWmtPQ1QtMFZqSVU2N3hXMFY2a0tIM2RqdWpHd3NmOENub2VUMmlESEJEVnhOc1pMX21iNGJLalFQU0dWdDJFWV9GVVZsV2pyeWl2R3J3R1I4UTdHVmc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-13T06:44+09:00"
+    },
+    {
      "title": "ウクライナ、ロシア、米国3カ国協議の論点 - ウクライナとロシア、領土の溝埋まらず 米含む3ヵ国協議 安保交渉への欧州参加でも対立 - 写真・画像(2/2)",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMDBfdDE4WUNFSi04TzlzMDBXb3RlRDRZM0ljeWxMSmpaaGM3SnZ4MjFkYlZoR1F0dlc5bEZ5aVY5bEVONk1MUXdvNkJaeVpQVnpSRy01Yw?oc=5",
      "source": "西日本新聞me",
@@ -243,18 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVOTYzWUtFMzFoTnloM3EyMTk0ZWZCeV9JckJ5YkhEb21jUjkzb3k2LUhVa2s3U0tXaF9zSnl1QTZySE8xM1BwSmNpQlJnQjEzQzZaWVp3?oc=5",
      "source": "西日本新聞me",
      "at": "2026-11-13T06:00+09:00"
-    },
-    {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XeXhQS2k1X0haQ0tBdk9UVkpMTFBQQ1R3VFdLRjlsck1IQ1lGTG1mdjNibnNhYktSdEkzRzhGRXpUVUo2TERkUmllZG5iNGktNm1KbkdqbXFBcUZQWlhr?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-13T04:45+09:00"
-    },
-    {
-     "title": "プーチン氏、次回和平協議に欧州参加を了承 米欧に対応迫る＝米特使",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa01xM0hjUVpydjNiWlB3OXhoV2FvQUI0aEFwM2U3dG0xRkZDV0lqVHNGM0E5dFdCdW9DYjV6Z3dvYUl4eTI0NWpueFExNEVCN25hRjR4TDlUbzBvRHFYa19vc1R3d2d6UERUQzVlX2VQS1FJY0RUVlYwWllGRXRkQ2sybGZ6Zw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-13T04:36+09:00"
     }
    ]
   },
@@ -342,19 +342,37 @@
  "outage": [],
  "japan": [
   {
-   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-12T19:12+09:00"
-  },
-  {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-12T08:55+09:00"
+  },
+  {
+   "title": "HUR：ロシアは700発の弾道ミサイルと数千発の巡航ミサイルを保有",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtNTFZM0dFQXZ5ejg2dUswb1dqLXFVSmg2MHp4ekFEOGo2dW1yTGVHNk1sR3oxQkxzYzQ2RlpGRG9mWEM5cWJPU3F1cjFOYnBxMmRqMXdyU1ltR1c4azdNLWhrcE1mbEQ3?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-12T08:26+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "マイクロソフトで大規模な通信障害　世界各地でOutlook使用できず…",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM21vd0lSSlRnS3RaTzdvektqRHhwcjM0X0dJZlN2VGplNEZGZXdyVWxSRGhPVFdtSnlrVTcwMjZDR2NFUnVLbzJmektRTGM5emQxbUlyNzlaY1V4SHNpOS15dThKREM2MDUtaW9IN2pNdmF1RVUwNk5PYWlUVzhXd3J2eHE3aU9LempPZmtiOHRQOU51bmdIZEhfUGdOYksyUDdWeXZYTWh6SUdWalJLNTlOZlNnMWloYXg4aC1PZlRWU1ZVNTZZdXlMZ3RpOUxncVgyN3JZNkNnc03SAYsBQVVfeXFMTTh2UWZuSlVpLTRwb1Z6UHZOcmVHZE9OYzRMN3RtZ1h5VTNBczlnMXkycVVRNDhKRE1BakdITl9JUmhRZmxEYnBiS25JbW9TVDhVNEY2UXdoRXZWMlNYYnZTZEJDY0I4STZyYW1hdGdaWGozMHJZQlJna1FRdEstRUdHV1pSaHNTS1lEaw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-13T06:51+09:00"
+  },
+  {
+   "title": "米マイクロソフトのメール「アウトルック」などで大規模システム障害…世界各地にも影響の可能性（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CaUlmVlB6ZnlIOU00YmNIQWg1eE5GVUFjd3M0NFhYUUdDT1ZoY2RsM010b3NNU3VBaHMteF9DR1pqbF9ORVNsX2NGVThBZ3NMbXh1cmVLWlRvdXd4UjZnMmU1QWxJYkJmc1RQMXVYN1lnWm1fRURVekdrVkViTU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T06:44+09:00"
+  },
+  {
+   "title": "「アウトルック」や「チームズ」などで不具合 クラウド型サービス「マイクロソフト365」大規模なシステム障害が発生",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDRPMm1wbmpsOHhKNWhGdlQtN2dFZmd4X180WmxtbzVmZDJ6RExiT3BqMVMxcVpnbUdQUWNXSWRHRHlBcmpMNnVETTA3c1FCRVZTTlBGOUI5UEhSZ0IzTGQyNXVlRGIwOUdrOUFYMWFwamNtZGV2aEtMWkhEN0lUb0pNaVA?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-13T06:39+09:00"
+  },
   {
    "title": "MS、米で大規模通信障害 AIのサービスにも影響",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GYjd1YXhFREVfNVU2ZnFWZUVqeUtWX3VaY1VJYWRtMHZybDVLWk5nNmZJRlJNZUhIbFZIOWpzeVpsTEFrMk0tNFp6bkJPTU82NHdvRlJJaWx5TElRWXhj?oc=5",
@@ -366,12 +384,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTduenVYdU5EQ2xrTkdBbGhoZzZpX1daSWlabXJTRlkzM2VDSENRT2IxR29ZSm1TSmhqdVBxMzc5MTFuYXN1UW9MX01CQk9xNllITFVMSURhZkp2QzBVYzA2Uy1WN3lOSUVQUENiMHdMWmZ1SmFOZVgwS1ZPQnRXdjZkT0FJVHcta1YtVGVR0gGTAUFVX3lxTE9rR2VlLWFwUTFaTU15d0pDUGhrcThILVdLQjJTNHpHa0NkZWZRLWxJOGVhaTJvMXRwVU5iMDBNTk1BcGlFRGRyU1NMWTlaUVBfbTVXRFlVeXhKczc5ampWZEM3TThfZFNKTFY1b0dYaTJXeHhTcmtXeU5PQ0NObUZISi1DUDR4ZlBRV3ZvYlJOQnlxZw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-13T06:24+09:00"
-  },
-  {
-   "title": "米マイクロソフトのメール「アウトルック」などで大規模システム障害…世界各地にも影響の可能性",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rcFp4bG9vcEZCZHotY3ptZkhxNF8wb1ZGbzlyOU5ia2lnYnV2WE8tNU1oRFV1bFZuczRoMHBpcHJPMUtuX2V3dUxhSTZvWnFMSDJzSnVHU3FiVmZwYW9ncVlUeVFyWWFMSmxBQldn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-13T06:19+09:00"
   },
   {
    "title": "ＭＳ業務ソフトで大規模通信障害 「アウトルック」など",
@@ -389,6 +401,12 @@
    "title": "ＭＳ、米で大規模通信障害 ＡＩのサービスにも影響 | 全国のニュース",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hQTJYMFJYRzZXaklLT2VsZS1vVTRObERjOHBEVWlib1RjTURWXzhRWmlxTEVIODVvN2xVYlRoZ3lEMmt3bXFMbG9vQU52cGwyeUQ5OVVvTmFjaVBWNGc?oc=5",
    "source": "福井新聞社",
+   "at": "2026-11-13T06:14+09:00"
+  },
+  {
+   "title": "ＭＳ、米で大規模通信障害",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WkFoZzFIejByeDN4d2ZBd2QtQkFPRnVZTFdfc29GR2ZsOUZZeFdlSFh6N0d0YVkwNUZFQmxiYTFtRDAzX1NjdE1ZcHRROV9BOG0xeDNQOGJzQQ?oc=5",
+   "source": "中国新聞デジタル",
    "at": "2026-11-13T06:14+09:00"
   },
   {
@@ -422,32 +440,28 @@
    "at": "2026-11-13T04:45+09:00"
   },
   {
-   "title": "マイクロソフトのOutlookに新たな障害、インフラ負荷急増で",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrMHlLRnF4RmpjUlR3OVd2c053VU8yalRaN19zNXBvYWc4MWZYU0xrLWlxY29lRXFJa2pzMHZCcVhiYndkT3ZJdEVGcDBlSWV2UzZ0TnREVUltaEZXaUFadkVPSy1YeTkxU2FXYS1sWGRsd2p5?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-13T04:25+09:00"
-  },
-  {
    "title": "Outlookで障害、今夜メールが表示されないのはなぜ？",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0VmMXh4TjB2Vnh4NDlNLW5BZ2dLcXhaclRZVDJuemtwMVd5d2pDYThhRVBLNmZleEQzWEN4YXpvQkgtTHBWTmVNeU1vMlZmUFJOd1dTRHJwclFRMWhiMUlORy1sT0xSZFNDQjdjM3BaRFh3Yjh6NkRwenNpRG9ZQjNjb3B2OGUzdy1lX0ExTGZOMktoUWZxWWlscFVYU2dYMzNTcXVNX0d5YnNqaGVrWDRkMA?oc=5",
    "source": "Sortir à Paris",
    "at": "2026-11-13T03:45+09:00"
-  },
-  {
-   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
-   "source": "GameWith",
-   "at": "2026-11-13T01:35+09:00"
-  },
-  {
-   "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導 通信障害も相次ぎ信頼揺らぐ",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lVWNRbVpxTjRIa3RyY2xOTTFRY04tb3d2MmJxRFBRZWxhR2pLRXpFWEJWN3U5eGs0ZnUwNzZTeHp0VnVMTGxPc2M3QzN0eGtKWkFhUmlZdjF5WklYczlvZkdtSlZsNkU?oc=5",
-   "source": "J-CAST ニュース",
-   "at": "2026-11-12T23:36+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "プーチン大統領 米特使らと会談で局地停戦提案 ウクライナ警戒",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YOFpxR2V3bWtSWDZ0YncwVE41WXRLY21iXzhlV25PVldtMlNqd195RTB0UlhlX0pDN1Vnb1NnRlJZdkk2WGw0dE12NzJwMF9FZ2hweVM4ejVkOGhUSDU4?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-13T06:51+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "車爆発でロシア軍大佐死亡 遠隔操作で起動か 北西部サンクト、夏に続き",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BeGZ3Z3BaM3RheHZ6Zk93SjQ1ZFVHenduWmtPQ1QtMFZqSVU2N3hXMFY2a0tIM2RqdWpHd3NmOENub2VUMmlESEJEVnhOc1pMX21iNGJLalFQU0dWdDJFWV9GVVZsV2pyeWl2R3J3R1I4UTdHVmc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-13T06:44+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ウクライナ、ロシア、米国3カ国協議の論点 - ウクライナとロシア、領土の溝埋まらず 米含む3ヵ国協議 安保交渉への欧州参加でも対立 - 写真・画像(2/2)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMDBfdDE4WUNFSi04TzlzMDBXb3RlRDRZM0ljeWxMSmpaaGM3SnZ4MjFkYlZoR1F0dlc5bEZ5aVY5bEVONk1MUXdvNkJaeVpQVnpSRy01Yw?oc=5",
@@ -519,20 +533,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XeXhQS2k1X0haQ0tBdk9UVkpMTFBQQ1R3VFdLRjlsck1IQ1lGTG1mdjNibnNhYktSdEkzRzhGRXpUVUo2TERkUmllZG5iNGktNm1KbkdqbXFBcUZQWlhr?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-13T04:45+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "プーチン氏、次回和平協議に欧州参加を了承 米欧に対応迫る＝米特使",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa01xM0hjUVpydjNiWlB3OXhoV2FvQUI0aEFwM2U3dG0xRkZDV0lqVHNGM0E5dFdCdW9DYjV6Z3dvYUl4eTI0NWpueFExNEVCN25hRjR4TDlUbzBvRHFYa19vc1R3d2d6UERUQzVlX2VQS1FJY0RUVlYwWllGRXRkQ2sybGZ6Zw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-13T04:36+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "プーチン氏「新たな欧州安全保障」に理解か 米特使と会談「NATO不拡大」条件に",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OTGRyS2hMT2MxRHIxbHM2czNXX1RkWGJhS1pDTm80M1h5X2lHczRKQVc4Vk1ydWd5cEVTRENobzRLbEpTOWMzMzdNTWRqSXYzdm5GSFJGZnltUzZwTWs0NEo3X280eGFSZy1La05EbVZFMUpKRmRuWkJn?oc=5",
    "source": "テレ朝NEWS",
@@ -597,9 +597,9 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
@@ -607,7 +607,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「攻撃」1件",
-    "ロシア：「侵攻」「爆破予告」2件",
+    "ロシア：「爆破予告」1件",
     "欧州・NATO：「攻撃」「爆破予告」5件"
    ],
    "items": [
