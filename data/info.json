@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:00+09:00",
+ "updated": "2026-11-13T02:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "存在感増す金正恩氏、焦るトランプ氏…再び取り沙汰される米朝首脳会談",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOF9NMmQ5d3VjMGlidl95U3BGdnVGQWlfYmhwQmlFbnJkSi1YT2NzVXRZZjIxNlJkYmRINjdoZVcyaTN2Q1oyc3ZOaHNIQzFXVU5USWd4Zk0yNTU3S2lBYzdpNENFbTdwWkppYWpaRFJQNmwxN25EOEpCb2kyY3ZsdTNOdlhFMnIxeVBnbHJB?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-13T00:51+09:00"
+    },
+    {
      "title": "北朝鮮外相 非核化促すG7外相声明を一蹴",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80VkY5ODFmVlU0bTNnejk3U3YxcDNlZUxER0FvbTNBelFfdjFvZW0tbEpPa1ZycFVpdFhWTTNOVElTY2tySW1YRTQ3dW5OdUpVdnZRZGxPMVNNNEhfNDJyeXR2c3daMWV0UDlDUWtCbHEzWXFCakpLdEo4SzdGMkU?oc=5",
      "source": "Yahoo!ニュース",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVRjRHNoYTJsZ0hYalN6X2VYVlF3dWtmT2N6cUpuX2M1TXltUlZmZlEtdkd4T3oyMU1Rd2hiWkRDYlFGOUVFUGtpN3RYUnAxQzMxek5JYXNNUUZkVUtzSmcxQi1PYnZ4a19WaGp4bmRYWjZ3LW1CMGF5a0ZDQXhOdHczNEZRWHg3?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-12T14:37+09:00"
-    },
-    {
-     "title": "北朝鮮、東海岸に海軍基地建設…金正恩委員長「海上主権に直結」（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1d0hyS1BTRFBoM1A4VzE3Z0VfRDgydUZuZXhaUXhMcVN1R2xLem1kM3NpRFFqUllqNmdiMW1tay12eGR6S3hYZTVPeEpKaXhaenRxM0lnWl9LaEhyZV9YOVFtRFVsZ1V6S0Ywd2Joams0aWoxb3V3WldwZDBZTDg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-12T14:11+09:00"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "プーチン大統領、米ウィトコフ特使らと会談 新たな人道支援として“ウクライナ東部での住民避難”提案",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kMWNGUXY0bzlfUV83QlA1ZWp5bkR6ZVJrcGZPZkpLVTlCN3M3U3Nsa3duVXZad1d4eFQ1M1FpNEw2amJXMm4wc3gwYzJ4Vk9oUDR0MUMtbnY1OEJRWVAtM01EaXpLZk1fbkNEd2NB?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-13T01:59+09:00"
+    },
     {
      "title": "ウクライナの無人機、フィンランド湾の公海上でロシア艦艇を攻撃",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLZUNRR3pFYnlTZUlFazAxTHJqaTJ5dXdvQnpBNG44T3lNY1ZLem9OaHR6U0U5Yjg5bFJsbEJvN29hLUJNaklfT0RQY1Q5OThxNEE?oc=5",
@@ -243,12 +249,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oWjdhTEFwV0FDd0R3R1huQU5zeEFkbEx5ZVZ4MEcyUnFOd2szM0lpT1dtWF9QaF9SX2N6eG5jaER2VjlOczRrWWl1LTF0T25rOTVVRzFzYTJNOG5uOUE?oc=5",
      "source": "沖縄タイムス社",
      "at": "2026-11-12T22:17+09:00"
-    },
-    {
-     "title": "スターリンク制限、ウクライナ軍の迎撃能力弱める－ロシアの攻撃前に フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFRBdUlJYUpzUk10aGo1QkJPUElJOHJocm9CbzRpUzZadnRZZThRbzhiUmpIbXROdHZjZjEwT01oRGd3SzZFZVlOMXhUQ01IZGdmTW5yQm9Vc2ZwMVpHSnVEZkxUMnBiWVhzWmNIdVZLd2d6NkNtZ0wwQUJxRjBEWHJMRG5hbTg?oc=5",
-     "source": "TBSテレビ",
-     "at": "2026-11-12T22:15+09:00"
     },
     {
      "title": "米特使とプーチン氏の会談開始 ウクライナ和平向けた米・ロ・ウ3者協議受け開催（テレビ朝日系（ANN））",
@@ -346,12 +346,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-12T08:55+09:00"
-  },
-  {
-   "title": "HUR：ロシアは700発の弾道ミサイルと数千発の巡航ミサイルを保有",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtNTFZM0dFQXZ5ejg2dUswb1dqLXFVSmg2MHp4ekFEOGo2dW1yTGVHNk1sR3oxQkxzYzQ2RlpGRG9mWEM5cWJPU3F1cjFOYnBxMmRqMXdyU1ltR1c4azdNLWhrcE1mbEQ3?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-12T08:26+09:00"
   }
  ],
  "cyber": [
@@ -390,6 +384,12 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tekRUUDlhU21kdnQ3Vlh4OExib3R4bUlqOC1yTjhhanJoS0xHdEpONDlwb3J0cWRYQk5haUhnblYxdjlCa0tBWHl1YzVNVjV5SV9Sag?oc=5",
    "source": "ktv.jp",
    "at": "2026-11-12T18:45+09:00"
+  },
+  {
+   "title": "クレカ“全ケタ”109万件 不正アクセスで流出か『良品計画』社長が謝罪（テレ朝NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemtSRXAzNWVvb2h5cktfRHE5eXVKdWxPamNFNndZQU0xRjNnVGtfZ0syUkRoSm51eXVReW8zcFRacGxxNVlEeWd5dDRWOGFrS05zNFZqNVkzTnYtekxJNnRid2ZiMnZ4UEpEdkVFMG1FcVJ2VV92R2FOdjhRam82QTVZcWZ1dGpsaHc?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-13T02:04+09:00"
   },
   {
    "title": "サイバー攻撃を受けたウクルインフォルムのウェブサイトが復旧",
@@ -438,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzN1luTTQ1UURQelBkTzZOZERPLTI3Z1dTQ2x3cEpPcjltaGNLTkt2LXQ1eEUyYjVQajFLVnRsQ1BCZmhLMnkwX2FnQ29QdjNIWFdJS2FwTTFGZzJjTEV4XzRPT2xaMVVtMmc?oc=5",
    "source": "AppBank",
    "at": "2026-11-12T22:13+09:00"
-  },
-  {
-   "title": "不二家、アララ不正アクセスでメアド14万件流出か",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHN1hCbE5CZ0lxRTRhNHcxTjZELU5Gc29NX0VzMzVrSDNUejFqdkI2U0JISFA1LVpDMUIwZFZsTDU0SU9sRFhaSTJJUENzeXR3NEc2eDlRNDVfTDJaR0FlSDJFNHFPbldITThFcA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-12T22:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "プーチン大統領、米ウィトコフ特使らと会談 新たな人道支援として“ウクライナ東部での住民避難”提案",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kMWNGUXY0bzlfUV83QlA1ZWp5bkR6ZVJrcGZPZkpLVTlCN3M3U3Nsa3duVXZad1d4eFQ1M1FpNEw2amJXMm4wc3gwYzJ4Vk9oUDR0MUMtbnY1OEJRWVAtM01EaXpLZk1fbkNEd2NB?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T01:59+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ウクライナの無人機、フィンランド湾の公海上でロシア艦艇を攻撃",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLZUNRR3pFYnlTZUlFazAxTHJqaTJ5dXdvQnpBNG44T3lNY1ZLem9OaHR6U0U5Yjg5bFJsbEJvN29hLUJNaklfT0RQY1Q5OThxNEE?oc=5",
@@ -461,6 +462,13 @@
    "source": "Informat.ro",
    "at": "2026-11-13T01:02+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "存在感増す金正恩氏、焦るトランプ氏…再び取り沙汰される米朝首脳会談",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOF9NMmQ5d3VjMGlidl95U3BGdnVGQWlfYmhwQmlFbnJkSi1YT2NzVXRZZjIxNlJkYmRINjdoZVcyaTN2Q1oyc3ZOaHNIQzFXVU5USWd4Zk0yNTU3S2lBYzdpNENFbTdwWkppYWpaRFJQNmwxN25EOEpCb2kyY3ZsdTNOdlhFMnIxeVBnbHJB?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-13T00:51+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "「ミソジニスタン州指導者」と署名が…ヨーロッパで相次ぐ爆破予告 “ロシアの関与”疑う見方も…目的は",
@@ -495,13 +503,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oWjdhTEFwV0FDd0R3R1huQU5zeEFkbEx5ZVZ4MEcyUnFOd2szM0lpT1dtWF9QaF9SX2N6eG5jaER2VjlOczRrWWl1LTF0T25rOTVVRzFzYTJNOG5uOUE?oc=5",
    "source": "沖縄タイムス社",
    "at": "2026-11-12T22:17+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "スターリンク制限、ウクライナ軍の迎撃能力弱める－ロシアの攻撃前に フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFRBdUlJYUpzUk10aGo1QkJPUElJOHJocm9CbzRpUzZadnRZZThRbzhiUmpIbXROdHZjZjEwT01oRGd3SzZFZVlOMXhUQ01IZGdmTW5yQm9Vc2ZwMVpHSnVEZkxUMnBiWVhzWmNIdVZLd2d6NkNtZ0wwQUJxRjBEWHJMRG5hbTg?oc=5",
-   "source": "TBSテレビ",
-   "at": "2026-11-12T22:15+09:00",
    "topic": "ロシア"
   },
   {
@@ -580,13 +581,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T16:06+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イラン高官 核濃縮物質の持ち出しを否定（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wd3hNUjZ4WU94ZmVia29GMEZhR1owNnRXX2N6TE9tR1dPcHo1NlFVZ3d0YW1Ub1FqLUpyWW1LSW9RZnVleVEwemJzN054Wk9GVFBtMWJQb0E1Yk9Mb1VkMjI1cm4xN0otRElFY21qdnFrZFhTZlk3OGNmamxnWDA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T15:36+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -607,7 +601,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「攻撃」1件",
-    "ロシア：「攻撃」2件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
