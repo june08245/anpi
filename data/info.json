@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:00+09:00",
+ "updated": "2026-11-12T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -107,12 +107,6 @@
      "at": "2026-11-12T16:48+09:00"
     },
     {
-     "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-12T16:06+09:00"
-    },
-    {
      "title": "イラン高官 核濃縮物質の持ち出しを否定（ABEMA TIMES）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wd3hNUjZ4WU94ZmVia29GMEZhR1owNnRXX2N6TE9tR1dPcHo1NlFVZ3d0YW1Ub1FqLUpyWW1LSW9RZnVleVEwemJzN054Wk9GVFBtMWJQb0E1Yk9Mb1VkMjI1cm4xN0otRElFY21qdnFrZFhTZlk3OGNmamxnWDA?oc=5",
      "source": "Yahoo!ニュース",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1RKYmZmMHZUcXVUckIzbEgxdHRBbmpQRDNJc0pfcnRHR3lKckprTllJNjZiUXIxWC1hTWJVUXoyQ1psQ21LQUYtUnl4c0lwR0JZWmotNlB4c0stNE9pdzdDSDU1Z1dnWGJSWTN2NGE1UnF1MkZNdEFuOWREdjJQLWpPSXNPcGZ60gGcAUFVX3lxTE40czlBX09RRG9GMDB1ZThyNFhNM3J4V09fWmFUWm0xdG9Ta25maU90YmZlZERRa3pySER2Yk5SemJEUy0yUjNnNlptd1d5Q2NaLWtCZUJVdTRTWGtYc1M3SHhoREpTWEdPZXJMWHZfUk1iUGtwV3RjOE1ZM0hLQy1hbTk5S1J2NklDSHBQUGcxRjJESjk3YURkd3p6ag?oc=5",
      "source": "Chosunbiz",
      "at": "2026-11-12T14:17+09:00"
+    },
+    {
+     "title": "イラン 核濃縮物質の搬出否定 米攻撃なら“遠方基地を標的”",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92V05SakhoVGNCLXRGWVhNb19HaVZyd08wMHZqVmNRRllBd19XY0FMZzdVSWdhdGJHMlRJY2w1aUFYYzNlMXVSa0V4WmVBRzY0UU8wRXhwNGtqWm5DTzBkUW16UTMwZEp4?oc=5",
+     "source": "HOME広島ホームテレビ",
+     "at": "2026-11-12T12:31+09:00"
     }
    ]
   },
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮高官「安全保障に深刻な挑戦」 日本の非核三原則の例外規定検討に反発 北朝鮮メディアで談話発表",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OQlg0VkRpVlYwS2JCdTV4SEgzUlZSTHJEQlhmWmhrZEotODhQNjBPOWZkalZzdG0zRG5pMHFUR1M4eEUtYW5MdjFWR1NrZmlrX3BiMk9yYw?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-12T20:03+09:00"
+    },
+    {
      "title": "正恩氏、海軍基地建設を視察 「重大な核心事業」―北朝鮮",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tQ2tfaW53QUxxQVJMSFl4dlFVOFhlaHJjOC1WV19xbWFmN1pvN0ExSk9ITWRkZkY2alhRdjdaU01NcE00S09ncVlua1hLRkVnY0tIdDVMc1pHQUd5dHlKTlJFQQ?oc=5",
      "source": "時事ドットコム",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84RERMcFlHdzhKZ1lrY3NFU291UmI1WW51Qkw1bVdTTWpob19hVUMzRjhPa3ZOVzdJWmRIYl9GTVlTMjY1YVNnbllzNnRuRTg5dzZBb1oyZlpWTnBDR0t2dWdTZlJJVXJDQW5JcHBzZnNRd9IBVEFVX3lxTFB6Y1YwenRyTVZfRk1yeHFES1djSlpJNW84eVo2YV9SNWVXMENCZTZ5Y2pkRU9BUnBoLUtrN2trZ1h3NnluRGlDV3Zpb0ZQUy12RmlPeA?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-12T14:00+09:00"
-    },
-    {
-     "title": "海軍現代化·核武装化速度戦に要塞化·多目的化基地建設督励北朝鮮、元山近隣の踏村港署工事推定",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQVVvV1V5UXdKTEM4UkpMM3p1QVh4XzBVYV9Qdl9KNXJNdWtuQ2l6THpBOTUzWHRXRnJOZS1jbHpVaWdnYmlETk1qblZmVzhJOWZJ?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-12T13:10+09:00"
     }
    ]
   },
@@ -220,6 +220,18 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシア・サンクトペテルブルクで車爆発、軍人1人死亡",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHFvcEwtYVBiVmMxWDV3UkplOXhFZzZ0RGlRX3BUM0ZpeXJ6Zk94MXJmSmRnYXgzcGFnTm55czBlTnJWTHVDLUs4SE1KaDhYa0tjYklDS0dnbDYtQVhOR0t6eGVSLXZvS0hpTVVVM0dtdkZfZW9wMnlXVGhoT0F4dtIBVEFVX3lxTE5TbkhfWVA3c1luN2dObFNGckFIRGZfVHM1N0hocUtoN0NOTXFCQzJJN084RlZZTUJuZXViZlNKVVV0QVFtZTBLMmVuXzN1X2VDQlF2UA?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-12T19:59+09:00"
+    },
+    {
+     "title": "ゼレンスキー氏、Starshieldへの新たな制限を非難／ウクライナ、ロシアの一部のドローンをもはや時間内に迎撃できないと主張",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGxuenFfWHpfWWk0b3pzbWhrVkIwUXpMY1RZOHZJZmxqejhtM3RmN0wzbVFkREhEbTA3MGRiNDJIUU95OEtMYzRUbGh6WEdqM3R6bFBKOTMxWk9VNEpRczlXVTZQVDhEWnZsWV9tUGFNUUFPQzF3ZE9idmE3cjNDeDFxUWRqTHZUeXNFRjg0QnF5c3lGX2FwYnhmTTd1elpEaVRTTFh3UHdhQ0Vq?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-12T19:57+09:00"
+    },
     {
      "title": "ロシア軍、ウクライナ各地の軍需工場に大規模攻撃と発表",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXN3V1l1UUpzV3E3LWdoVDRXVHQxWDlTeDAzZ1VRdnNqT1ZTREtIM0VjSWw2QzdmOGFtaHNWZWFiR1lfNUl3QzZxX1lGMEtqWnRFenk2bEprUHhkdUpLaklFVUtwUERJTXBYNzJLTlFvVWxqSjI1OUVweVFmZlZ2U1pyVnVtdw?oc=5",
@@ -243,18 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYjJ4V3pzQUVOd1FhN2lzUkItVlJHLTd3aGRNOUhlMmdWcTJOMEp4LXlUcWtNVlpuV2hOMkZGSGZzNG14QVJkODNMUXpFU2F4emFRV2xFTTc3SjBrVU9j?oc=5",
      "source": "JBpress",
      "at": "2026-11-12T15:00+09:00"
-    },
-    {
-     "title": "西部スモレンスク州で2人死亡 ロシアにウクライナの無人機攻撃（AP通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdFVONzV0dFVsdDNHSVJTQmp0V3JmaVp2Q0Q5aktwR1dweE9lQVdoQ3lZNDBmeHY3U0hfRjFLM29yNkVqZDJQS2FKSkdKckF6b3F4a2lrQlVHaWJCLUo1NXN1REh2bC1lNl80V3paczNWTno3bHdIdndJOG1uSDg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-12T14:55+09:00"
-    },
-    {
-     "title": "ロシア軍、朝からヘルソンを砲撃とドローンで攻撃 - 州軍政府",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjE5QnVXWmMxUEc0dlNzX0N3NEgxN0gtdFR1Z04xaWFhWGNLNFJSZ1JHNHQ1V3psNFMyLU9XQ2FQNllkY1FtQlRpM1hPbmFBV2VaajlnSUU0SWRoNEY3clFxQVg2YnJZc3pZNHZyaHhRS2VNSGlKS1JPQzUwcjV4YnFEbUthN19NRnZ4WGxWczJZZGY4alM4aHN1YWFzNHNTVzB3Yg?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-12T11:12+09:00"
     }
    ]
   },
@@ -262,6 +262,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "イタリア公立校８割強の６３００校に爆破予告…メローニ首相ら、国家的組織による「ハイブリッド攻撃」の見方",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMVJyRTlWMnJ5bUZ2cEdpLWJDdVJmb2E2RGNwa0hVUkh3RXE1aUVsNGEzVWE4RTBOWk1pYVp2eExIM0ZrSVRRRGVQb05neEQ0WjJOVTg5Uk9zUzZ1WmFDRVlYME9OcWpjY0N1bG5wSWk4Tjl0cG4yb2NORUlTYUZQSzFKT2RKNmJN0gGOAUFVX3lxTE55WDM3UHByWmRUd284TkhLa2lJUnpZaEh2TlowMFk5T2RqYi1vdjRabkRNcDVNVDVYU0FnU2lsZ0g3cWp4cUdxaHZMNEdUdzJIZ2V3RzNMTS1zWTFYdlY2TE8zTjZWLTNWRDJ0QlFpZ19rRDhndFpCMmF6VjRUVG5HRzZ4STJaa29xZFJEa1E?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-12T20:07+09:00"
+    },
     {
      "title": "画像・写真：イタリアと英国、学校に爆破予告相次ぐ：時事ドットコム",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1aTNTdHpreEtya3lZc3gtZ0VIcXUtSmpUUVE2SHZuZ19rSGhLRFVaWGo5Sms2Z19uR0E1UTRaX0EwUGEwdEFHZmVrYTcta0d0MjA1YnVrcm9DODJiSGZLTFBZT1g?oc=5",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMXNTT0paaE5xZWtmYlQ0a1JtR1M3cmItQXJMNG5tSUhvNERiZ2ZDNURuN1U4ZDlxc1lFRmI1Z1RueEhhS3J5THNndjFwaXZnZ2RES0Z1c2lfdGxfYlRuaXphcnZEYzZKMmpBcTRjNWRyWGM2MVBDeHFxM0h0eTg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-12T09:38+09:00"
-    },
-    {
-     "title": "イタリア6300の学校に爆破予告 生徒は避難で混乱広がる 欧州各地で脅迫メール騒動続く",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85ZHFpb1VuZ0owczBwODRqMzlzZEMzNWRLYmtTemZES0stUm9ObmF6eEtmSm1CVU15Y2FKNWh3cDdmcWJ4dFpnVlhqdE1CUEh5VklHQUNrY0ZGUk9GRkRB?oc=5",
-     "source": "千葉テレビ放送株式会社",
-     "at": "2026-11-12T06:53+09:00"
     }
    ]
   }
@@ -362,6 +362,18 @@
    "at": "2026-11-12T18:51+09:00"
   },
   {
+   "title": "【速報】小学生を車ではね7人にけが・骨折も 殺人未遂罪問われた男は起訴内容「黙秘します。減刑は望みません」 検察側「死刑になろうと準備」指摘 弁護側「発達障害が動機など影響ならその部分は非難できない」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tekRUUDlhU21kdnQ3Vlh4OExib3R4bUlqOC1yTjhhanJoS0xHdEpONDlwb3J0cWRYQk5haUhnblYxdjlCa0tBWHl1YzVNVjV5SV9Sag?oc=5",
+   "source": "ktv.jp",
+   "at": "2026-11-12T18:45+09:00"
+  },
+  {
+   "title": "滋賀県甲賀市の音声放送システムサーバーにサイバー攻撃 復旧の見通し立たず",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aMkJVQldiM0k5MDluSEFyNEZWU2w2VVJEZXoyMGZoMlhoSEl1QVIzTXpiZ1RibTQxRXNmNG9USFJQZWtoOTFPVkFXa2NKZFkyU3lWZkFYMEY?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-12T20:00+09:00"
+  },
+  {
    "title": "Ｎｅｗｓモーニングサテライト【不正アクセス対策にAI総点検】",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDNqUktGdldJTDFwdjdqbHNVMHRIcVVhcmRoa20yMXhvZTUzVVdjRGZNOS1YZU9fWW4wM3NZMXo2b3dycmJ6QXBvLVVMQ2ZJTHE3UDdRaXBkVVB4SGFTdmRMdFRaRzQ2N3VleFpkZ1J6Wm9JTVlzRXZ2RGdsVTE2T21POHdxSldmOGVvajFDNjVrdw?oc=5",
    "source": "テレビ東京",
@@ -422,8 +434,8 @@
    "at": "2026-11-12T19:02+09:00"
   },
   {
-   "title": "【特集】「家族の誕生日に日本のウイスキーを…」120万円被害の男性語る 高級ウイスキー購入名目にした詐欺 不正アクセスで友人になりすましか【長野】",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnQ0eDdGekNyWHUxZi1RMGZDOHBxdTF3QlFPczllb29HVkoteGFHUHdCWGYzYkVDT04tdHYzdGhRLTV2YlJ6VEJPOXJ1WW41TzNucEdxM3BrY3llR3ljU1hMZUF3VjJHQzhQM0ZFeVVCZHhmdW4yVUphaTdFVXl0NG1QWThaazQ?oc=5",
+   "title": "【特集】「家族の誕生日に日本のウイスキーを…」120万円被害の男性語る 高級ウイスキー購入名目にした詐欺 不正アクセスで友人になりすましか【長野】（2026年11月12日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UWTZ5NldoenRfZ0VhOUhYMHVJQ2hKaWpnMjR4X2g0TGhuYzg2aUVBWmszRl9LZjJ3a243NnAyN2h5bVFUQU5aOVFacmdJNjNzNFNjM04wREZCY1NOaDJHLWtsb2tyRFVaX3BaUXM3TjJIWUk1UjJrZ3dERkIxbjg?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-12T19:00+09:00"
   },
@@ -432,22 +444,38 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zWnBiMGxacUFBS1NzYVdFNi1Ja0JZdVVLX09CSzFCUEplVjU5VDdhRXNuSVhQV29TSU52VzdmQWVGc3BfQ2t3eHA5TGZrbk52YTlqcnN0TjV1ZV8zaDEwWmtSNkkyYnRoNnVMTEwtbzFtUQ?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-12T18:51+09:00"
-  },
-  {
-   "title": "セキュリティ企業が不正アクセス受ける サイバーセキュリティクラウド",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hcWIzaTFhTllJNGRweEppOTFIWExwWVozQUhKakRHLXF4NENGejJkR0FMSUlTOV9icHU0dENpOUJjZUpGTy1uUEFNMkIwQTBoRjBMa3VqN3ZCWkJpanNSMWxMRUNORVVMU2treWlETlE1QQ?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-12T18:35+09:00"
-  },
-  {
-   "title": "サイバーセキュリティクラウド、開発基盤GitHubに不正アクセス 従業員認証情報1件流出で顧客情報に漏えい懸念",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKbkpSa2Z3Y1k0eFZhU1VYWlp1ZUJqM3FnQnhrODVGN3RtUTRaWWxfNkg1YndsNDd1MVE4Q2RSQzNMYUlBcUhZZlBjSll4SjYzam1uRjRJenRma1NLNlQ4WmdyQkRuQ3Z3RDVwRmZZRDA4bVZV?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-12T18:35+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イタリア公立校８割強の６３００校に爆破予告…メローニ首相ら、国家的組織による「ハイブリッド攻撃」の見方",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMVJyRTlWMnJ5bUZ2cEdpLWJDdVJmb2E2RGNwa0hVUkh3RXE1aUVsNGEzVWE4RTBOWk1pYVp2eExIM0ZrSVRRRGVQb05neEQ0WjJOVTg5Uk9zUzZ1WmFDRVlYME9OcWpjY0N1bG5wSWk4Tjl0cG4yb2NORUlTYUZQSzFKT2RKNmJN0gGOAUFVX3lxTE55WDM3UHByWmRUd284TkhLa2lJUnpZaEh2TlowMFk5T2RqYi1vdjRabkRNcDVNVDVYU0FnU2lsZ0g3cWp4cUdxaHZMNEdUdzJIZ2V3RzNMTS1zWTFYdlY2TE8zTjZWLTNWRDJ0QlFpZ19rRDhndFpCMmF6VjRUVG5HRzZ4STJaa29xZFJEa1E?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-12T20:07+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "北朝鮮高官「安全保障に深刻な挑戦」 日本の非核三原則の例外規定検討に反発 北朝鮮メディアで談話発表",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OQlg0VkRpVlYwS2JCdTV4SEgzUlZSTHJEQlhmWmhrZEotODhQNjBPOWZkalZzdG0zRG5pMHFUR1M4eEUtYW5MdjFWR1NrZmlrX3BiMk9yYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-12T20:03+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシア・サンクトペテルブルクで車爆発、軍人1人死亡",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHFvcEwtYVBiVmMxWDV3UkplOXhFZzZ0RGlRX3BUM0ZpeXJ6Zk94MXJmSmRnYXgzcGFnTm55czBlTnJWTHVDLUs4SE1KaDhYa0tjYklDS0dnbDYtQVhOR0t6eGVSLXZvS0hpTVVVM0dtdkZfZW9wMnlXVGhoT0F4dtIBVEFVX3lxTE5TbkhfWVA3c1luN2dObFNGckFIRGZfVHM1N0hocUtoN0NOTXFCQzJJN084RlZZTUJuZXViZlNKVVV0QVFtZTBLMmVuXzN1X2VDQlF2UA?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-12T19:59+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ゼレンスキー氏、Starshieldへの新たな制限を非難／ウクライナ、ロシアの一部のドローンをもはや時間内に迎撃できないと主張",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGxuenFfWHpfWWk0b3pzbWhrVkIwUXpMY1RZOHZJZmxqejhtM3RmN0wzbVFkREhEbTA3MGRiNDJIUU95OEtMYzRUbGh6WEdqM3R6bFBKOTMxWk9VNEpRczlXVTZQVDhEWnZsWV9tUGFNUUFPQzF3ZE9idmE3cjNDeDFxUWRqTHZUeXNFRjg0QnF5c3lGX2FwYnhmTTd1elpEaVRTTFh3UHdhQ0Vq?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-12T19:57+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "トランプ大統領、退役軍人の日の演説でイラン戦争を擁護",
    "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQd0k4Zjh4TE1KREk2RlQzdHZscC11UDUzMFl3d2tId0pELThOck9lS0xHbHJkcDc4WFhxRnk3MHRQRzFYeDFacW53enR3RXBtci1hQmhBa3pCODNCdkFJQXV1SmNBT1kxbGpCamNjbWhlUDdnTnpmZGYtWng2QzcwTEwwSmdDZnV6RXJ0TGRLVWp5VUs4Rzk2U3VaS2RIMW1aak9TbV9mY3JxbnFYdTdZekYxY2FCUmJNUzg5MkFjSFh1LVpUQV82Zm42elBzMmh2cF9UNnpCTHl1OUd2ZHRGRWNTRGFhNllmWTg5akZIREotNUNFWHRaNk04UmlDVkdkam16OGZHa0R6RmYtZThqb0U0cVlxWjFGUXlxSUV6TlJtQU5KczZfUktzMTF6NjV0ZlFPRXpEejNCVThwZkN0U2RYLTdfWEdZZThYNUUtazBaU1hXN0MzNU9UVUxlcWt2YUJYYWtWRzcxOV91eTZFc0RNc2lxMnlzcV9TS0JfRXdNdTg?oc=5",
@@ -512,13 +540,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T16:06+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "イラン高官 核濃縮物質の持ち出しを否定（ABEMA TIMES）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wd3hNUjZ4WU94ZmVia29GMEZhR1owNnRXX2N6TE9tR1dPcHo1NlFVZ3d0YW1Ub1FqLUpyWW1LSW9RZnVleVEwemJzN054Wk9GVFBtMWJQb0E1Yk9Mb1VkMjI1cm4xN0otRElFY21qdnFrZFhTZlk3OGNmamxnWDA?oc=5",
    "source": "Yahoo!ニュース",
@@ -547,13 +568,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "西部スモレンスク州で2人死亡 ロシアにウクライナの無人機攻撃（AP通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdFVONzV0dFVsdDNHSVJTQmp0V3JmaVp2Q0Q5aktwR1dweE9lQVdoQ3lZNDBmeHY3U0hfRjFLM29yNkVqZDJQS2FKSkdKckF6b3F4a2lrQlVHaWJCLUo1NXN1REh2bC1lNl80V3paczNWTno3bHdIdndJOG1uSDg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T14:55+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "北朝鮮・金正恩政権15年、核は何を変えたか―米韓の反撃をためらわせ、強硬な行動を後押しする危険",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVRjRHNoYTJsZ0hYalN6X2VYVlF3dWtmT2N6cUpuX2M1TXltUlZmZlEtdkd4T3oyMU1Rd2hiWkRDYlFGOUVFUGtpN3RYUnAxQzMxek5JYXNNUUZkVUtzSmcxQi1PYnZ4a19WaGp4bmRYWjZ3LW1CMGF5a0ZDQXhOdHczNEZRWHg3?oc=5",
    "source": "Yahoo!ニュース",
@@ -572,20 +586,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1d0hyS1BTRFBoM1A4VzE3Z0VfRDgydUZuZXhaUXhMcVN1R2xLem1kM3NpRFFqUllqNmdiMW1tay12eGR6S3hYZTVPeEpKaXhaenRxM0lnWl9LaEhyZV9YOVFtRFVsZ1V6S0Ywd2Joams0aWoxb3V3WldwZDBZTDg?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T14:11+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮の新型駆逐艦「崔賢」、核危機では出港だけで米韓に負担の可能性…米専門サイト分析",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84RERMcFlHdzhKZ1lrY3NFU291UmI1WW51Qkw1bVdTTWpob19hVUMzRjhPa3ZOVzdJWmRIYl9GTVlTMjY1YVNnbllzNnRuRTg5dzZBb1oyZlpWTnBDR0t2dWdTZlJJVXJDQW5JcHBzZnNRd9IBVEFVX3lxTFB6Y1YwenRyTVZfRk1yeHFES1djSlpJNW84eVo2YV9SNWVXMENCZTZ5Y2pkRU9BUnBoLUtrN2trZ1h3NnluRGlDV3Zpb0ZQUy12RmlPeA?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-12T14:00+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "海軍現代化·核武装化速度戦に要塞化·多目的化基地建設督励北朝鮮、元山近隣の踏村港署工事推定",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQVVvV1V5UXdKTEM4UkpMM3p1QVh4XzBVYV9Qdl9KNXJNdWtuQ2l6THpBOTUzWHRXRnJOZS1jbHpVaWdnYmlETk1qblZmVzhJOWZJ?oc=5",
-   "source": "매일경제",
-   "at": "2026-11-12T13:10+09:00",
    "topic": "北朝鮮"
   }
  ],
@@ -607,15 +607,15 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」3件",
     "中国・台湾：「攻撃」1件",
-    "ロシア：「攻撃」「侵攻」5件",
+    "ロシア：「攻撃」「侵攻」3件",
     "欧州・NATO：「攻撃」「爆破予告」6件"
    ],
    "items": [
     {
-     "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-12T16:06+09:00"
+     "title": "イラン大統領、米・イスラエルの攻撃による環境被害を非難 COP31",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzS0VKR3lwWGlZWkRkaVBMcGNSQmx3aFdHYWd1X19UTEszT0NtekJERm83cTdfUElnVzFDbm5sSnV6Z0tqdE1YYk9CRUUwaVJJUFHSAVRBVV95cUxPWnhibWJGVW54dTN2VE9ERERJamc5U3hodXN6d1FVeDExNkhoWXhRQ1lyb0x2Mk1wZ0NVUk4xZXRBZWdqaVp2bm1sbEZXLWh5MVp3ZWE?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-12T15:26+09:00"
     },
     {
      "title": "台湾有事　在日米軍基地が中国の攻撃対象となる可能性　沖縄や横須賀などに脅威　民間インフラにも波及か",
