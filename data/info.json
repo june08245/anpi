@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:49+09:00",
+ "updated": "2026-11-13T04:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-13T03:48:00+09:00",
+   "place": "茨城県沖",
+   "mag": "3.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-12T22:27:00+09:00",
    "place": "千葉県北東部",
@@ -72,16 +82,6 @@
    "at": "2026-11-11T21:13:00+09:00",
    "place": "橘湾",
    "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-11T15:21:00+09:00",
-   "place": "熊本県阿蘇地方",
-   "mag": "2.4",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -362,6 +362,12 @@
    "at": "2026-11-12T23:36+09:00"
   },
   {
+   "title": "ＮＴＴドコモ「５Ｇ」また通信障害、原因は交換機不具合…「５Ｇ ＳＡ」以外には影響なし（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRThJSG1kTEdQUllYd0FVVUdZVGFEUHpzaFZSTVhvakhXdjJ0bEJRRFlDMG9uVG1pWmVJaS1hTU1WczNxVXFvYjZkVVBqa1lzOF9xVjAxVWJTanVESUdDX1hLbDdJUi1ZMnVqb3pibUlKZjF6MkRaLVliMmZvNVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T23:05+09:00"
+  },
+  {
    "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IMnJTQ0t2RWJSMVpzVU42cUdRTVB6bjBKR2U0T1RkUmJpd0k0cmRGSnZHQWZXZC1rM1hCZEdtX2JuR1V4TFhRb1dXN25XSzRad2NfWGpFd01RUWlWTElr?oc=5",
    "source": "TBS NEWS DIG",
@@ -384,12 +390,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CeHNEM2tncy1BbUpPZGo1bWRjRUI5enJaWDZHbnhTNXRuS3pRQUxtQU1NR09aSnRQMVB2X3BhMC1Kb24yNkt5OU1ocjVwWHV1cmxWLVQyMUo?oc=5",
    "source": "NCC長崎文化放送",
    "at": "2026-11-12T19:20+09:00"
-  },
-  {
-   "title": "【速報】小学生を車ではね7人にけが・骨折も 殺人未遂罪問われた男は起訴内容「黙秘します。減刑は望みません」 検察側「死刑になろうと準備」指摘 弁護側「発達障害が動機など影響ならその部分は非難できない」",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tekRUUDlhU21kdnQ3Vlh4OExib3R4bUlqOC1yTjhhanJoS0xHdEpONDlwb3J0cWRYQk5haUhnblYxdjlCa0tBWHl1YzVNVjV5SV9Sag?oc=5",
-   "source": "ktv.jp",
-   "at": "2026-11-12T18:45+09:00"
   },
   {
    "title": "サイバー攻撃でイラン関与と非難 仏政府が声明 700店舗のスーパー冷蔵設備が被害（ANNニュース）",
