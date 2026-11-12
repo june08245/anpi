@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T08:30+09:00",
+ "updated": "2026-11-13T08:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮、東海岸に新たな海軍基地…金正恩総書記が建設現場を視察",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VV0xMRDdjNl9XRzc1S1FDVENOa3dEVVFVSkRJcG5hd2Q1RXU5OEhBRWRxWWtSRldfbFZTYjJhZjE4YnhfUzVVLVl6Y2s2Q21zd2pSR0F0V215dVZTY254V1ozWTdxVTF3MWxxRkFiRVFId9IBVEFVX3lxTE0xWHNWX0hxY3g2T1dQd3VyTWF0N0s0aFpzM0RBVERnZzFZY1haOE9JLWNCZlpVVHJDWjNGMU9HZ0Y5WEl6ekNiai1qZlpNQzF5YVNfaw?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-13T08:34+09:00"
+    },
+    {
      "title": "存在感増す金正恩氏、焦るトランプ氏…再び取り沙汰される米朝首脳会談",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOF9NMmQ5d3VjMGlidl95U3BGdnVGQWlfYmhwQmlFbnJkSi1YT2NzVXRZZjIxNlJkYmRINjdoZVcyaTN2Q1oyc3ZOaHNIQzFXVU5USWd4Zk0yNTU3S2lBYzdpNENFbTdwWkppYWpaRFJQNmwxN25EOEpCb2kyY3ZsdTNOdlhFMnIxeVBnbHJB?oc=5",
      "source": "조선일보",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmUlZ2RFRRNlFTUmxscjB1eVBoaFBWRktIZTQ0NUllQzdpZXBxRlBoaDFydDFDUi1OVENXd0lwTWx6ZEJ4UFowUl9heXp3ZU45bk80?oc=5",
      "source": "매일경제",
      "at": "2026-11-12T17:36+09:00"
-    },
-    {
-     "title": "北朝鮮・金正恩政権15年、核は何を変えたか―米韓の反撃をためらわせ、強硬な行動を後押しする危険",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVRjRHNoYTJsZ0hYalN6X2VYVlF3dWtmT2N6cUpuX2M1TXltUlZmZlEtdkd4T3oyMU1Rd2hiWkRDYlFGOUVFUGtpN3RYUnAxQzMxek5JYXNNUUZkVUtzSmcxQi1PYnZ4a19WaGp4bmRYWjZ3LW1CMGF5a0ZDQXhOdHczNEZRWHg3?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-12T14:37+09:00"
     }
    ]
   },
@@ -416,6 +416,12 @@
    "at": "2026-11-13T06:22+09:00"
   },
   {
+   "title": "「AIでサイバー攻撃を防ぐ」ってこういうことなんだ",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEb2ZxQWlqYThBbDRmWVBUQzV1UUgzcUFDV05nN0VPVHcwdURIdHYtbTl0Rm9Pb3NLRUNDRzFMbnhFTG1QZmZhNVZreXhkbUtYbkdWNldPN1JoN0xTa3NuMXVJSkNXcEgzdHI0dkZR?oc=5",
+   "source": "Gizmodo",
+   "at": "2026-11-13T08:40+09:00"
+  },
+  {
    "title": "オンライン麻雀に不正アクセス 会員情報流出 ～ 寄せられた激励メッセージに謝意 メールはスタッフ全員が目を通し必ず返信",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Z0owREo3QWFxYnlsMXI0SHNidjlRMENNaGcxSkpsbDhac1lDWDM5UHdIZE84cE5tQTJndVVVY0xxQWpIRGx5TkdLeWY0ZkNMSExzV2JTTlRqZEg1MFI3R3hXUEdCOUhpcU8yLQ?oc=5",
    "source": "ScanNetSecurity",
@@ -432,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OTlZpVTgzYWJQUEZHcnNFOHpfUHAzUlJoNHVXRVZ4a3hwX3cxazhSellyRFl5MENNNy1wS2l2d0ZlbFlTQUlaSVg2OFRndWFDUHg0ck1Za3FxVGh4eFhYVnlrWFUwcEVTdkdJNg?oc=5",
    "source": "ScanNetSecurity",
    "at": "2026-11-13T08:05+09:00"
-  },
-  {
-   "title": "ConnectWise「ScreenConnect」へ不正アクセス、約400のパートナー環境で拡張機能を緊急無効化",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0s4djlCRFFXWWpIRXk4dVhKMS15dXVmcWZSY2F6UndwSXQyejJJdk5WcTJrRU9PNkd0cEhhUFFDSHdubzJHVDBheVp0SU9JWDhnV2JVOHI1T1lRc3hiU3ctbkhaWFhISy1tOElWWUIyaHc1Z19WV21DdXV0TzZoaTM4S28yMlFwbFJNNm9wM2JNZ0p6Qmo0Z3VkZzg1VmJiVVNYVHQ0Ml9XUQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T08:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮、東海岸に新たな海軍基地…金正恩総書記が建設現場を視察",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VV0xMRDdjNl9XRzc1S1FDVENOa3dEVVFVSkRJcG5hd2Q1RXU5OEhBRWRxWWtSRldfbFZTYjJhZjE4YnhfUzVVLVl6Y2s2Q21zd2pSR0F0V215dVZTY254V1ozWTdxVTF3MWxxRkFiRVFId9IBVEFVX3lxTE0xWHNWX0hxY3g2T1dQd3VyTWF0N0s0aFpzM0RBVERnZzFZY1haOE9JLWNCZlpVVHJDWjNGMU9HZ0Y5WEl6ekNiai1qZlpNQzF5YVNfaw?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-13T08:34+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "米露ウクライナ協議の継続で合意　米特使がプーチン氏、ゼレンスキー氏と会談",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVpieWU4bjBEZHU5T3BhYmhhWWVyVkU5ang1VGJ4Ti1rZXdYTmd0Wjg4S3ZyZTVDUHRLM3N3czR2bk1Ca1p5bEVzUXBqVnZLN0lnU1hETzc4Z0ZtVjhUOTY5WkhNenRRTkQ1Zk9JNDZtZFBHV3JSajZ4ME91aWJrWTMycFViRGI5N1BVckFNcHhjclAyOGR0YVFORF9OLXBibkHSAacBQVVfeXFMUGctdkZwaThyNkU4RXVLUGoteE5YUmJiTU41alc3VlRDeGVXSnBCLXhLMlUySmRyc2ExdDNOSGpXUGE2RzBYMUZqZlM5ckhxVDJYdkg4bHFWWFlwbzlIMFpiclh2YWRtVmFHeGhRdUYzUzNzaEdTTkVRcldmay1iX2hWRnpLSVpNM1NlS2Y3azY5eWF5YXlBZUwyS2JPTTc5NXQtRzBxeUU?oc=5",
@@ -574,13 +581,6 @@
    "source": "Infoseek",
    "at": "2026-11-13T00:01+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "トランプ大統領、退役軍人の日の演説でイラン戦争を擁護",
-   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQd0k4Zjh4TE1KREk2RlQzdHZscC11UDUzMFl3d2tId0pELThOck9lS0xHbHJkcDc4WFhxRnk3MHRQRzFYeDFacW53enR3RXBtci1hQmhBa3pCODNCdkFJQXV1SmNBT1kxbGpCamNjbWhlUDdnTnpmZGYtWng2QzcwTEwwSmdDZnV6RXJ0TGRLVWp5VUs4Rzk2U3VaS2RIMW1aak9TbV9mY3JxbnFYdTdZekYxY2FCUmJNUzg5MkFjSFh1LVpUQV82Zm42elBzMmh2cF9UNnpCTHl1OUd2ZHRGRWNTRGFhNllmWTg5akZIREotNUNFWHRaNk04UmlDVkdkam16OGZHa0R6RmYtZThqb0U0cVlxWjFGUXlxSUV6TlJtQU5KczZfUktzMTF6NjV0ZlFPRXpEejNCVThwZkN0U2RYLTdfWEdZZThYNUUtazBaU1hXN0MzNU9UVUxlcWt2YUJYYWtWRzcxOV91eTZFc0RNc2lxMnlzcV9TS0JfRXdNdTg?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-12T23:58+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
