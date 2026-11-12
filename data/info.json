@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:15+09:00",
+ "updated": "2026-11-12T23:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -222,8 +222,8 @@
    "items": [
     {
      "title": "ロシア大統領がウクライナ東部での支援提案",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRbjdBYXhCTjlhYWM3RlVlRkZzTHBiNzluYzVzR1A2R0U1T3BqV2hhNUdoMDN1a1NmdDQtR2JZNW0xVGFsSVRYUnAtS0RJNVk4b2gyWllmUFM?oc=5",
-     "source": "京都新聞デジタル",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oWjdhTEFwV0FDd0R3R1huQU5zeEFkbEx5ZVZ4MEcyUnFOd2szM0lpT1dtWF9QaF9SX2N6eG5jaER2VjlOczRrWWl1LTF0T25rOTVVRzFzYTJNOG5uOUE?oc=5",
+     "source": "沖縄タイムス社",
      "at": "2026-11-12T22:17+09:00"
     },
     {
@@ -327,16 +327,16 @@
    "at": "2026-11-12T17:45+09:00"
   },
   {
-   "title": "南海トラフ地震の津波を想定した防災訓練 約400人が被害状況の共有など確認 九州地方整備局 福岡",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZajk1eFpUQ1JqMXVObE54Z3BteWZ0RDRrM2oweFNpa09PeXFjTjRPbXJSYUFaNFA5M3hWTjl3bXFwVmJXWGxzM3c3QmthQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-12T15:45+09:00"
-  },
-  {
    "title": "南海トラフ想定の合同訓練 同日未明に愛知で震度５強",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0X0R4X1QzQW1ENVlJQjlVWFNtZTJ0SzRRTEJmUHJMUlREWG9ZUndEczd6RnBraG43ZmJVUzdhSENsWlAyLUdfNndybw?oc=5",
    "source": "47NEWS",
    "at": "2026-11-12T15:40+09:00"
+  },
+  {
+   "title": "南海トラフ地震で大津波発生を想定 九州地方整備局で津波防災対応訓練（KBC九州朝日放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tQkNuR25pOEl0TlUtU2hDb3dCZ2UwOHZNOWVfbzNHZEQ1b0ZaX1MzWjZ0TDJwcDluWE1DSmtSU3draEVVTnR6VDNDTHRDOS1kUHVKT1lUdlNfOC1rR3YycHVHUFdiVDhCQXprd2FUcGN6dTNYUlhtdGpwNGlNeEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T15:00+09:00"
   }
  ],
  "outage": [],
@@ -356,12 +356,6 @@
  ],
  "cyber": [
   {
-   "title": "NTTドコモ通信障害「5G SA」のみで発生 4Gやその他の5Gは「影響なし」機内モードのON・OFFで復旧することも",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IMnJTQ0t2RWJSMVpzVU42cUdRTVB6bjBKR2U0T1RkUmJpd0k0cmRGSnZHQWZXZC1rM1hCZEdtX2JuR1V4TFhRb1dXN25XSzRad2NfWGpFd01RUWlWTElr?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-12T21:43+09:00"
-  },
-  {
    "title": "128の信用金庫でシステム障害 ATMは午後5時半ごろ利用可能に 原因は調査中",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRWld3NTJzTERtZVZCb29tSndDX3lCMEVTelNSaHV4MmhLTDFrVmNyYWJ2QmhYbWpONzFybVRSeVBsYUNfVjhDQ1RCaE8zMGFQN25HbVM5NEM0d1h2Qm1z?oc=5",
    "source": "TBS NEWS DIG",
@@ -380,9 +374,15 @@
    "at": "2026-11-12T18:45+09:00"
   },
   {
-   "title": "キユーピーの顧客メアド１２万５７８８件、東京ガスは８万５５６５件漏えい…「アララ」へ不正アクセス（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UWjQyR2k1RDIwUkNwam5Td0c5bUptNEVNUzRKUmQ3SE5kRjFZVlhld3I5M0lKeFUwRm05c0otRkFKQnhwYU9yOWRKeHFHcG9CRUZ2Vkg5eTNJRkFKbTA4U2dRRGVIUGYyZHdCcWVIZGpoX3dxY0ZjTTNkSWhhSDQ?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "アクサ損害保険「MyAXA」に不正アクセス 関連Webサービスは11月12日に再開、影響範囲を調査中",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkI5UE1CR0xNbFMzcnFmM3pGSFBTamFQRXBEU2NucWp0VVhQNElWeEx3WEkwelladF9iaHVnYTlZOWhJU1NDLTE2RG9RQ3Nmci1RS1I0aU80dXdEel8wdGhiM05NRWMxRmpLVzJrMldDR1UySnFsLS00aDVFTElMQ1ZkR0l6QS1Md1lsOEQ0VWN4ZzdvcW5vbFhjSkZleWZvQUl5dVE0UjBrVWRV?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-12T22:59+09:00"
+  },
+  {
+   "title": "キユーピーの顧客メアド１２万５７８８件、東京ガスは８万５５６５件漏えい…「アララ」へ不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5LVh5amstNlM5bXNLNVN4Mm5aUHVYb0RHa2RadTNGc2x4OUthdU51a3RWNTFmajRrQTFfeGVXWUZVNWFXZWZ6a0JiYkF1N2VtZUlkYWlYZ0cwekZSaWNjdWN2cV8wQQ?oc=5",
+   "source": "読売新聞",
    "at": "2026-11-12T22:53+09:00"
   },
   {
@@ -416,6 +416,12 @@
    "at": "2026-11-12T22:00+09:00"
   },
   {
+   "title": "宮崎県警「サイバー警察部」新設へ 不正アクセスなどサイバー犯罪へ対処",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nUnVIblRremdiZ2RERzNJRVd2WTFJelc2RVNmSWJOUEFmMG5SZTlLOFMwSUktYWRMX3lLLVJTaE9PZ3l3bjBHbE5idw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-12T21:45+09:00"
+  },
+  {
    "title": "東京ガス、メールアドレス8万件流出＝アララ不正アクセスで(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREVYTG96LXIzTjZPenRPZlV1ME9kMTZ1S3FKVnd1ZklUUlJjNHVfZnpHaVVvQkxCMkp2Z1FoSzE2eUQxbm03OGZwcVJBRS1XRzFjd01reC1KZ3RTV0Vna1lqUnhJX2VnY2RHdHNyQTJucGxyeEpjQi1DTC1GYmlYTlUyNUprQ2M?oc=5",
    "source": "Yahoo!ファイナンス",
@@ -438,20 +444,14 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBXV0d3N3dBSDl4R19XaUc0NHZJWk1rVkg4ajNrMk80VFdWMWh2cG42UXVKd1VLbmJ1bzZORTdPajNEcW1Z?oc=5",
    "source": "チューリング株式会社",
    "at": "2026-11-12T21:16+09:00"
-  },
-  {
-   "title": "巧妙化するサイバー犯罪への対応力向上へ 警察官が不正アクセスの痕跡など見つける速さと正確さ競う 秋田",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpOWVnQ29oSnY2aS1iRkcyVGJsbkJaOGQxbURNMjZvMFUzWDc5c1FBNFY1NFNKejdvdUVta3c4N2dBWEFNb1d0TnlZSG4wUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-12T20:45+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
    "title": "ロシア大統領がウクライナ東部での支援提案",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRbjdBYXhCTjlhYWM3RlVlRkZzTHBiNzluYzVzR1A2R0U1T3BqV2hhNUdoMDN1a1NmdDQtR2JZNW0xVGFsSVRYUnAtS0RJNVk4b2gyWllmUFM?oc=5",
-   "source": "京都新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oWjdhTEFwV0FDd0R3R1huQU5zeEFkbEx5ZVZ4MEcyUnFOd2szM0lpT1dtWF9QaF9SX2N6eG5jaER2VjlOczRrWWl1LTF0T25rOTVVRzFzYTJNOG5uOUE?oc=5",
+   "source": "沖縄タイムス社",
    "at": "2026-11-12T22:17+09:00",
    "topic": "ロシア"
   },
