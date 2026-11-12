@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:30+09:00",
+ "updated": "2026-11-12T21:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-12T21:34:00+09:00",
+   "place": "大分県中部",
+   "mag": "2.0",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-12T13:46:00+09:00",
    "place": "トカラ列島近海",
@@ -72,16 +82,6 @@
    "at": "2026-11-11T08:33:00+09:00",
    "place": "熊本県熊本地方",
    "mag": "2.7",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-11T07:36:00+09:00",
-   "place": "岩手県内陸南部",
-   "mag": "2.9",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -357,15 +357,27 @@
  "cyber": [
   {
    "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導 通信障害も相次ぎ信頼揺らぐ",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMUo3R3NhNGlWNTNVbTF1MEE5eTg0bnB0UjhXT3FfZGVoWi1NcWh3WFBHN2E3dXR4UGkxbi0zanR1U1dLdlF6dm0wMUpOT295dHdzb0FVUQ?oc=5",
-   "source": "J-CAST ニュース",
-   "at": "2026-11-12T19:35+09:00"
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSkdMSllPS1Y3d3R2X3ZRV09UX0FSZGRON1dadHBQX3hGMFNSeWl0eF9wUzc3ckZNOGlZREVNODh2elZ4VXY4VVdaNGN2TTE3eDg4U0c1QjgzRFBGVW11S21laXM2VkE1OENTWWlRcXNFZzRLRk4w?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-12T18:51+09:00"
   },
   {
    "title": "【速報】小学生を車ではね7人にけが・骨折も 殺人未遂罪問われた男は起訴内容「黙秘します。減刑は望みません」 検察側「死刑になろうと準備」指摘 弁護側「発達障害が動機など影響ならその部分は非難できない」",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tekRUUDlhU21kdnQ3Vlh4OExib3R4bUlqOC1yTjhhanJoS0xHdEpONDlwb3J0cWRYQk5haUhnblYxdjlCa0tBWHl1YzVNVjV5SV9Sag?oc=5",
    "source": "ktv.jp",
    "at": "2026-11-12T18:45+09:00"
+  },
+  {
+   "title": "東京ガス、メールアドレス8万件流出＝アララ不正アクセスで(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREVYTG96LXIzTjZPenRPZlV1ME9kMTZ1S3FKVnd1ZklUUlJjNHVfZnpHaVVvQkxCMkp2Z1FoSzE2eUQxbm03OGZwcVJBRS1XRzFjd01reC1KZ3RTV0Vna1lqUnhJX2VnY2RHdHNyQTJucGxyeEpjQi1DTC1GYmlYTlUyNUprQ2M?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-12T21:36+09:00"
+  },
+  {
+   "title": "園児27人分の個人情報が流出した可能性 滑川市の市立保育所が利用するシステムに「不正アクセス」（富山テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtemJ2YVFxRGFGeVEzN0JRektUdTltVk9ia3lySk14Qldya2tEVXJlUTVEa2lHWlBBZG5jaUlEZHZobEpJLWFrMUlIRGgwTmtQSUs1V1d4R3dGaEVuZkNHYjVvYVlFQy1SbmVPZENicm93N3FXM201LXFZUC1zRWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T21:28+09:00"
   },
   {
    "title": "良品計画news｜清水社長が謝罪会見/不正アクセス問題で説明",
@@ -386,6 +398,12 @@
    "at": "2026-11-12T20:47+09:00"
   },
   {
+   "title": "巧妙化するサイバー犯罪への対応力向上へ 警察官が不正アクセスの痕跡など見つける速さと正確さ競う 秋田",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpOWVnQ29oSnY2aS1iRkcyVGJsbkJaOGQxbURNMjZvMFUzWDc5c1FBNFY1NFNKejdvdUVta3c4N2dBWEFNb1d0TnlZSG4wUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-12T20:45+09:00"
+  },
+  {
    "title": "【みんなの安全安心】相次ぐ不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WZy1nSXpqNnRkQi1rUU4tNVUyS3ZnY2d5TTJJQkNET3BvcW9WLWhfQ3hmQUNKeElaaVlHQmNia3pUekdHQ1BkN09tYWpUMUtpcU9ZTFAtVFNnWU9qSUpn?oc=5",
    "source": "NHKニュース",
@@ -395,12 +413,6 @@
    "title": "首都圏で食品スーパーを展開の会社 約6.4万件の個人情報流出か",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKMjRPTHRWTGJYeGZwM3o4UUtpdnFzNVBsdDc1bG5hYnVGeXZpSjExdGVJTG15U2xSN01uOEVTTjd3Y0M5ODZ0UnNsQjNzc29TZFBLRjFYREFiTlVkVVdj?oc=5",
    "source": "NHKニュース",
-   "at": "2026-11-12T20:44+09:00"
-  },
-  {
-   "title": "巧妙化するサイバー犯罪への対応力向上へ 警察官が不正アクセスの痕跡など見つける速さと正確さ競う 秋田（秋田テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4cXp6MFQ3Z3ZFWE1GTnlMaV9LZ1hXZGxTNWQ3Z1N4QTR5RGZBWGk5dG1RQW1JM2p1NDVqX0JUZXpFX2xDUk5kNV9WUGJyN2drSkZ1S1V3X19QbVhSMERIN3dGUnBZQmotZE5jOFFBM2ZoMFdkRV81V3NObHNuSE0?oc=5",
-   "source": "Yahoo!ニュース",
    "at": "2026-11-12T20:44+09:00"
   },
   {
@@ -432,18 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDNqUktGdldJTDFwdjdqbHNVMHRIcVVhcmRoa20yMXhvZTUzVVdjRGZNOS1YZU9fWW4wM3NZMXo2b3dycmJ6QXBvLVVMQ2ZJTHE3UDdRaXBkVVB4SGFTdmRMdFRaRzQ2N3VleFpkZ1J6Wm9JTVlzRXZ2RGdsVTE2T21POHdxSldmOGVvajFDNjVrdw?oc=5",
    "source": "テレビ東京",
    "at": "2026-11-12T19:54+09:00"
-  },
-  {
-   "title": "マルエツなど運営のUSMH、個人情報6万件漏洩か 不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRaGxVeXlzQnN0Ukh2eVM2NDJIMmM2ZXhTRTdmd24yR2x1N1AzNmxlTlRHVkRyWlB4Um9LMFE0Umt2OHV6RFA1UFJSamdpa1A4SWZPR1czNTAzWlQxcnlyMHBBaWVTUDBsa2dySQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-12T19:48+09:00"
-  },
-  {
-   "title": "連絡システムに不正アクセスでアドレス流出か 群馬・太田市（群馬テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KSXVtSXhtVHpIMmV3VnJXZlh3MmhyUUJSb0FXREk2Q1oxb2d2TmVPcDAwRzlOV2J6bEdxSEZoaHRobUVseUszYTB2UE04UzJNXzlJMVZoTVd1TTNQN09GQW9WMkh3NlRaYmZ6TlEtNXJsRmN5TmxDX2F6b0ZGdzg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T19:42+09:00"
   }
  ],
  "osaka": [],
