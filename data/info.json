@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:45+09:00",
+ "updated": "2026-11-13T06:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,12 +95,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "トランプ大統領「イランとの合意は必要ない」",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-13T05:29+09:00"
-    },
-    {
      "title": "欧州基地「反撃対象になる」 イラン 米軍が攻撃で利用なら",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BamlRX1hNTXlONHVUYkJ3clVwRHNOckhRYnpxN1JBMXFqZlN3bVdEUUxTTTl5ZGl5NkthX3lMbkNRRGRUTmZVSnV2YkhMcUI0Ymdwd3pNWDNqQXV2UTA4NEc0cw?oc=5",
      "source": "読売新聞",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwaVZhaUVjTU03Y25xOFEzZnZGVG56aXZoWTRuU29OdDU5MllKRWNWRXRHd1JuWXI5dE15eGduMHBBdUNLZ2xaeDNRSjR3eUlYNXIxRnBsT3dHME5O?oc=5",
      "source": "BBC",
      "at": "2026-11-12T16:48+09:00"
+    },
+    {
+     "title": "イラン高官 核濃縮物質の持ち出しを否定（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wd3hNUjZ4WU94ZmVia29GMEZhR1owNnRXX2N6TE9tR1dPcHo1NlFVZ3d0YW1Ub1FqLUpyWW1LSW9RZnVleVEwemJzN054Wk9GVFBtMWJQb0E1Yk9Mb1VkMjI1cm4xN0otRElFY21qdnFrZFhTZlk3OGNmamxnWDA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T15:36+09:00"
     }
    ]
   },
@@ -144,9 +144,9 @@
     },
     {
      "title": "中国海軍・海警・「海上民兵」が連携、南シナ海で「他国の船舶に対する圧力を強めている」…防衛研究所が警鐘",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1gyNHpRSTJxbVh4Mmd5N3VLazV6R2lrU2NxTnQyVmotQ3lSS0o2SFV2eWhGcThfNm1la3RDR2d1czA4cEJUZTZKWXlJWnBYQXd3M2EyZkFLRXRMVFhDWGpnYnJlb1QtN0NpVV9XcTRfY09Dd2NjNV9LU1JsNlE1dzd3emFtUHlrU0NzctIBkgFBVV95cUxPQ081TDZTaEd5OTZLaEpzTUZ1cHVNN2hhcDRTYW1ibmNEMG5BUm4yRFBBWTNfSThIU1FJa3FDVEc3em5vQ21jdGt1bTY5RTgyODhxaXZ6bTM5NWNzMUpvSUtteEE5YjhFdjY5TUppejVIR3VDQU93NlNFMUc1RHRYNW1SR1FnSTFfQ1UwR0lpTlBBUQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-13T04:05+09:00"
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03ZW1UZzdTYThlVFJJelNqcFVxd3VOTzYyVGJKM19VcDJ2QkNDTW1RdUZSZ0RmbmdIOWRzMXNMMFdxOXkzNVZvdHcyRkEwM0x0NnZZUkJUYmVVRlhJcEIxbm5lWHFHUkcxNElQTUNDSXBGQQ?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-13T05:00+09:00"
     },
     {
      "title": "台湾有事　在日米軍基地が中国の攻撃対象となる可能性　沖縄や横須賀などに脅威　民間インフラにも波及か",
@@ -342,21 +342,21 @@
  "outage": [],
  "japan": [
   {
-   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-12T19:12+09:00"
-  },
-  {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-12T08:55+09:00"
+  },
+  {
+   "title": "HUR：ロシアは700発の弾道ミサイルと数千発の巡航ミサイルを保有",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtNTFZM0dFQXZ5ejg2dUswb1dqLXFVSmg2MHp4ekFEOGo2dW1yTGVHNk1sR3oxQkxzYzQ2RlpGRG9mWEM5cWJPU3F1cjFOYnBxMmRqMXdyU1ltR1c4azdNLWhrcE1mbEQ3?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-12T08:26+09:00"
   }
  ],
  "cyber": [
   {
-   "title": "Microsoft、「365」世界で大規模障害 メール送れずビジネスに影響",
+   "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1N2E2d3lpZWdlMTlDQ0VPdURZMVVFUkgtVmdhaWZBWEt1V3ZYMXFMbF9ETXNxREdtRVdyMjIyUm9ic3R1NlloVmpoRldPbUZIbC1rbFlGcUEzWlFtWmRjM2U1OHNtSC1qYVNqUw?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-13T04:55+09:00"
@@ -410,10 +410,10 @@
    "at": "2026-11-12T20:19+09:00"
   },
   {
-   "title": "Windows 11の11月更新KB5132061がインストールできない不具合、Microsoftが修正を配信開始",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYRXhQbTFKSzA3amo1ZkNJZ1BScWwxLTl4bmpsbmZLNnhnMldobU1QcGlzWGtqbHhyMHg0bGlWTU5OMFR1b0dxOWxFSkd4MUdBZ1pEU254TkRYS3hFalA0bUFJRC1jLVU?oc=5",
-   "source": "enjoypclife.net",
-   "at": "2026-11-12T19:50+09:00"
+   "title": "マイナンバー情報、約150円で売買も――サイバー攻撃時「すぐに事業を止める」覚悟はあるか 問われる経営の責任",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tYjNTS1JKTmMyU1ROMHpqcGV4emxNZGpDTVlfblNUakduamI3dWtKVjVCamNuM2FFUThGZ2RacHl5OFhwQVVJcUVSYkZzeUNzakNWRTVBQXMzc3Y5aTQtVkY0WmNTX3Vqd0lROFpBUXBJUQ?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-13T05:30+09:00"
   },
   {
    "title": "「ワールドマスターズゲームズ」のボランティアなど個人情報漏えいはなし 不正アクセス、京都府が発表",
@@ -449,13 +449,6 @@
  "osaka": [],
  "world": [
   {
-   "title": "トランプ大統領「イランとの合意は必要ない」",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T05:29+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "南シナ海への領土的野心を崩さぬ中国、アメリカと軍事的対立 「国内問題」の認識 防衛研「中国安全保障レポート」",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95dDAtWmo4UVVvZ0V0REFqRWlKR3dOQVA4YTF4alNhZnFUa19EbUUyZTdQai1yc2lEeFgwYm5jUzFmeGdkX2NfM0pEY3hoTW05R0xZYzRnSVdtY185V2p3enlZVnN3VktodWlKRm1B?oc=5",
    "source": "au Webポータル",
@@ -468,6 +461,13 @@
    "source": "読売新聞",
    "at": "2026-11-13T05:00+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "中国海軍・海警・「海上民兵」が連携、南シナ海で「他国の船舶に対する圧力を強めている」…防衛研究所が警鐘",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03ZW1UZzdTYThlVFJJelNqcFVxd3VOTzYyVGJKM19VcDJ2QkNDTW1RdUZSZ0RmbmdIOWRzMXNMMFdxOXkzNVZvdHcyRkEwM0x0NnZZUkJUYmVVRlhJcEIxbm5lWHFHUkcxNElQTUNDSXBGQQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-13T05:00+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "イタリア６３００校に脅迫メール ハイブリッド攻撃か 英でも爆破予告",
@@ -489,13 +489,6 @@
    "source": "Reuters",
    "at": "2026-11-13T04:36+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "中国海軍・海警・「海上民兵」が連携、南シナ海で「他国の船舶に対する圧力を強めている」…防衛研究所が警鐘",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1gyNHpRSTJxbVh4Mmd5N3VLazV6R2lrU2NxTnQyVmotQ3lSS0o2SFV2eWhGcThfNm1la3RDR2d1czA4cEJUZTZKWXlJWnBYQXd3M2EyZkFLRXRMVFhDWGpnYnJlb1QtN0NpVV9XcTRfY09Dd2NjNV9LU1JsNlE1dzd3emFtUHlrU0NzctIBkgFBVV95cUxPQ081TDZTaEd5OTZLaEpzTUZ1cHVNN2hhcDRTYW1ibmNEMG5BUm4yRFBBWTNfSThIU1FJa3FDVEc3em5vQ21jdGt1bTY5RTgyODhxaXZ6bTM5NWNzMUpvSUtteEE5YjhFdjY5TUppejVIR3VDQU93NlNFMUc1RHRYNW1SR1FnSTFfQ1UwR0lpTlBBUQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T04:05+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "プーチン氏「新たな欧州安全保障」に理解か 米特使と会談「NATO不拡大」条件に",
@@ -587,6 +580,13 @@
    "source": "TBS NEWS DIG",
    "at": "2026-11-12T20:03+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "戦争にも選挙にも惨敗したトランプ氏の「精神勝利」…イランが7項目の終戦条件を突きつけ圧力",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdzVzazdZX3F4LWFBX1pydVd0RGFUbk5PM3plMXBvV3ZYbkdTd2o0eWJKVktESkZxeG5XN09TNDNUTlpHZld1UW5HYTNHLXM0SnRzMW43MGVTcUh2blpyZkhqdVU3bG1qMzFWTQ?oc=5",
+   "source": "폴리타임즈",
+   "at": "2026-11-12T19:40+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -597,9 +597,9 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
