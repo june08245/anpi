@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:45+09:00",
+ "updated": "2026-11-12T22:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-12T21:43:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "2.1",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-12T21:34:00+09:00",
    "place": "大分県中部",
@@ -72,16 +82,6 @@
    "at": "2026-11-11T12:57:00+09:00",
    "place": "茨城県沖",
    "mag": "4.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-11T08:33:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "2.7",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -221,6 +221,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "プーチン氏、米特使と会談＝ウクライナ和平協議か",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY3ZGcjhUcW5oX25tOV95cUFoOHdmd19KYXoxaVhwUUFwUWg2V0Z4SlhiSWVXblpQRTc5NGY1QmhaQ1lLc1dwS2pkLWhhY3NNZDR3ZA?oc=5",
+     "source": "時事通信ニュース",
+     "at": "2026-11-12T21:25+09:00"
+    },
+    {
+     "title": "スターシールド衛星サービスが数日間速度制限、ウクライナ軍のロシア無人機迎撃に支障",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41QUJKa19tblgxV2w2b05qMFRtTFN3ampzMHE0X2NQYnFWSVJPejFwUEZ5U0ZIZ3FZVDVjamlpV29xbnV2dTc2NXB5RlJwcTIzemRyc1A2R1NCRUZXLXBfNDMxQUFzTGRJajROX2piUGgtZnVt?oc=5",
+     "source": "BigGo ファイナンス",
+     "at": "2026-11-12T21:25+09:00"
+    },
+    {
      "title": "ロシア・サンクトペテルブルクで車爆発、軍人1人死亡",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KMnEtaW1JRXNfRHhYRVVhU2hsYW9UcjVua1Y3MjY3bjEwRkkwR0lsRDNHVi1zZGk2aFlzcjY4RVJIYmg2SVZPYy1RVWRVMW9GalHSAVRBVV95cUxOU25IX1lQN3NZbjdnTmxTRnJBSERmX1RzNTdIaHFLaDdDTk1xQkMySTdPOEZWWU1CbmV1YmZTSlVVdEFRbWUwSzJlbl8zdV9lQ0JRdlA?oc=5",
      "source": "AFPBB News",
@@ -243,18 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObkthWXVoRW9jX0xOa1Q1dGtDclVIXzBnM3lqazVCNnVsV0g2X3AtcXhxUmdqT3RzbnJUc2pRdFVyYVY3SUcwSWQ5emV1cnJoZTNNeUp0TXd2cnJqc1NzMWpnWEQ5dnZzLVpPN0N5NjJrdFBvR19WX0NWU1Q5R1llZExnWmFWMWJhSTNMTFFSYlQ4UkdMdEluWVRsa1JKWVI5ZndBdk5FS1lHcmJFb1FPQjNB?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-12T17:39+09:00"
-    },
-    {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月12日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQc29Yd3ZpUkRIQTk2M0MtRnNKSzNQTTRsbThENWdKVmZHOFU3Q1YzSmM5Wlg4cXRtY2owTnlicnl2TEEtb3pDODNIR1M4enhPekloZjNYMW9HSGUzRklj?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-12T16:37+09:00"
-    },
-    {
-     "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(2/6)",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYjJ4V3pzQUVOd1FhN2lzUkItVlJHLTd3aGRNOUhlMmdWcTJOMEp4LXlUcWtNVlpuV2hOMkZGSGZzNG14QVJkODNMUXpFU2F4emFRV2xFTTc3SjBrVU9j?oc=5",
-     "source": "JBpress",
-     "at": "2026-11-12T15:00+09:00"
     }
    ]
   },
@@ -269,10 +269,10 @@
      "at": "2026-11-12T20:07+09:00"
     },
     {
-     "title": "欧州で数千の学校に偽の爆破予告　イタリア、英スコットランドなどで",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LbHJRSDFFWjY4dm5FWEdnbktTV0JtbzBCaDRqbFE5Y214R0FweEd6bjNDOWN1dWdkVXJ1YTNaMmpmdEV4ZnNHYk5TQXdFQ0J0alh0OS1SNzlVdE9vMHNJUNIBZkFVX3lxTFBMYlRfWkdLa21TNVBvU3NJalpub2huVHowbjA2UHJkZnFjZXhsX1c5blN1bG1ZOHJXZkF2NnZXMTRHa2JQdjNTWWpaTEpPU3ZFZGx2SXQzTDNqdE9fY2tlbG83Vnoydw?oc=5",
-     "source": "BBC",
-     "at": "2026-11-12T15:00+09:00"
+     "title": "欧州で数千の学校に偽の爆破予告 イタリア、英スコットランドなどで（BBC News）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QThYdXVIRk94OS0zY0YzdjR4NzhkNEQ2T2h3RFVoT2gxUlF4M05QaHFna1p0U1pzOEJRNVJQYWtKLWEwUDlGUENSdzBPaEpjRzVYQVdTLVBtbVVES0haVTBaWjFTN3pFeExnVjhaUGczdzRrNkg3ekhONTVmaGc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T14:52+09:00"
     },
     {
      "title": "イタリアで約6300の学校に爆破予告 生徒ら一時避難など混乱広がる ヨーロッパで予告相次ぐ",
@@ -374,10 +374,10 @@
    "at": "2026-11-12T21:36+09:00"
   },
   {
-   "title": "園児27人分の個人情報が流出した可能性 滑川市の市立保育所が利用するシステムに「不正アクセス」（富山テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtemJ2YVFxRGFGeVEzN0JRektUdTltVk9ia3lySk14Qldya2tEVXJlUTVEa2lHWlBBZG5jaUlEZHZobEpJLWFrMUlIRGgwTmtQSUs1V1d4R3dGaEVuZkNHYjVvYVlFQy1SbmVPZENicm93N3FXM201LXFZUC1zRWc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T21:28+09:00"
+   "title": "園児27人分の個人情報が流出した可能性 滑川市の市立保育所が利用するシステムに「不正アクセス」",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wdzJScC01Z0ZwSGowMFBLZS1qT0NfNW51R0U0dHlIYy13T2FuQkxwdUhtY2ZPY2EtWHBfV0JkNzdfRXNaUXBMQVc5S0lUZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-12T21:24+09:00"
   },
   {
    "title": "良品計画news｜清水社長が謝罪会見/不正アクセス問題で説明",
@@ -422,12 +422,6 @@
    "at": "2026-11-12T20:39+09:00"
   },
   {
-   "title": "滋賀県甲賀市に不正アクセス、個人情報など2万5千件流出か 音声放送システムのサーバーが被害",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhODBFMzMwb1ZBd2Fidk83YllMZVluN3g2ckhxaUduWE5mQTRHam1oaHFTbDlOcS1QWTdrTUI1T2lVb2xrQUwtaEI1Yw?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-12T20:15+09:00"
-  },
-  {
    "title": "園児27人の個人情報流出か… あずま保育所と坪川保育所で不正アクセス お昼寝の安全確認「午睡チェックセンサー」提供元から連絡 市は再発防止を要請 富山・滑川市（チューリップテレビ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oVjNYRWI5NVFheVdGamZHSm5IamFua3BxVnhQS0Y3QW1Id0JiSDdPZHpKRlFocUlZWjBzbE11Y0tIQ25uSUxkc0NVaE1IWHJUb09LLV9jSXRnWE12cmVwU0FDVWdlVkQ1UHhNb1dVVm1jV3lOYzlPN1JveURmQlE?oc=5",
    "source": "Yahoo!ニュース",
@@ -444,10 +438,30 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDNqUktGdldJTDFwdjdqbHNVMHRIcVVhcmRoa20yMXhvZTUzVVdjRGZNOS1YZU9fWW4wM3NZMXo2b3dycmJ6QXBvLVVMQ2ZJTHE3UDdRaXBkVVB4SGFTdmRMdFRaRzQ2N3VleFpkZ1J6Wm9JTVlzRXZ2RGdsVTE2T21POHdxSldmOGVvajFDNjVrdw?oc=5",
    "source": "テレビ東京",
    "at": "2026-11-12T19:54+09:00"
+  },
+  {
+   "title": "マルエツなど運営のUSMH、個人情報6万件漏洩か 不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRaGxVeXlzQnN0Ukh2eVM2NDJIMmM2ZXhTRTdmd24yR2x1N1AzNmxlTlRHVkRyWlB4Um9LMFE0Umt2OHV6RFA1UFJSamdpa1A4SWZPR1czNTAzWlQxcnlyMHBBaWVTUDBsa2dySQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-12T19:48+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "プーチン氏、米特使と会談＝ウクライナ和平協議か",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY3ZGcjhUcW5oX25tOV95cUFoOHdmd19KYXoxaVhwUUFwUWg2V0Z4SlhiSWVXblpQRTc5NGY1QmhaQ1lLc1dwS2pkLWhhY3NNZDR3ZA?oc=5",
+   "source": "時事通信ニュース",
+   "at": "2026-11-12T21:25+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "スターシールド衛星サービスが数日間速度制限、ウクライナ軍のロシア無人機迎撃に支障",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41QUJKa19tblgxV2w2b05qMFRtTFN3ampzMHE0X2NQYnFWSVJPejFwUEZ5U0ZIZ3FZVDVjamlpV29xbnV2dTc2NXB5RlJwcTIzemRyc1A2R1NCRUZXLXBfNDMxQUFzTGRJajROX2piUGgtZnVt?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-12T21:25+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "トランプ大統領、退役軍人の日の演説でイラン戦争を擁護",
    "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQd0k4Zjh4TE1KREk2RlQzdHZscC11UDUzMFl3d2tId0pELThOck9lS0xHbHJkcDc4WFhxRnk3MHRQRzFYeDFacW53enR3RXBtci1hQmhBa3pCODNCdkFJQXV1SmNBT1kxbGpCamNjbWhlUDdnTnpmZGYtWng2QzcwTEwwSmdDZnV6RXJ0TGRLVWp5VUs4Rzk2U3VaS2RIMW1aak9TbV9mY3JxbnFYdTdZekYxY2FCUmJNUzg5MkFjSFh1LVpUQV82Zm42elBzMmh2cF9UNnpCTHl1OUd2ZHRGRWNTRGFhNllmWTg5akZIREotNUNFWHRaNk04UmlDVkdkam16OGZHa0R6RmYtZThqb0U0cVlxWjFGUXlxSUV6TlJtQU5KczZfUktzMTF6NjV0ZlFPRXpEejNCVThwZkN0U2RYLTdfWEdZZThYNUUtazBaU1hXN0MzNU9UVUxlcWt2YUJYYWtWRzcxOV91eTZFc0RNc2lxMnlzcV9TS0JfRXdNdTg?oc=5",
@@ -533,13 +547,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月12日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQc29Yd3ZpUkRIQTk2M0MtRnNKSzNQTTRsbThENWdKVmZHOFU3Q1YzSmM5Wlg4cXRtY2owTnlicnl2TEEtb3pDODNIR1M4enhPekloZjNYMW9HSGUzRklj?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-12T16:37+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
    "source": "Yahoo!ニュース",
@@ -561,17 +568,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(2/6)",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYjJ4V3pzQUVOd1FhN2lzUkItVlJHLTd3aGRNOUhlMmdWcTJOMEp4LXlUcWtNVlpuV2hOMkZGSGZzNG14QVJkODNMUXpFU2F4emFRV2xFTTc3SjBrVU9j?oc=5",
-   "source": "JBpress",
-   "at": "2026-11-12T15:00+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "欧州で数千の学校に偽の爆破予告　イタリア、英スコットランドなどで",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LbHJRSDFFWjY4dm5FWEdnbktTV0JtbzBCaDRqbFE5Y214R0FweEd6bjNDOWN1dWdkVXJ1YTNaMmpmdEV4ZnNHYk5TQXdFQ0J0alh0OS1SNzlVdE9vMHNJUNIBZkFVX3lxTFBMYlRfWkdLa21TNVBvU3NJalpub2huVHowbjA2UHJkZnFjZXhsX1c5blN1bG1ZOHJXZkF2NnZXMTRHa2JQdjNTWWpaTEpPU3ZFZGx2SXQzTDNqdE9fY2tlbG83Vnoydw?oc=5",
-   "source": "BBC",
-   "at": "2026-11-12T15:00+09:00",
+   "title": "欧州で数千の学校に偽の爆破予告 イタリア、英スコットランドなどで（BBC News）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QThYdXVIRk94OS0zY0YzdjR4NzhkNEQ2T2h3RFVoT2gxUlF4M05QaHFna1p0U1pzOEJRNVJQYWtKLWEwUDlGUENSdzBPaEpjRzVYQVdTLVBtbVVES0haVTBaWjFTN3pFeExnVjhaUGczdzRrNkg3ekhONTVmaGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T14:52+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -607,7 +607,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」3件",
     "中国・台湾：「攻撃」1件",
-    "ロシア：「攻撃」「侵攻」3件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」6件"
    ],
    "items": [
