@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T23:45+09:00",
+ "updated": "2026-11-13T00:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -191,9 +191,9 @@
      "at": "2026-11-12T20:03+09:00"
     },
     {
-     "title": "正恩氏、海軍基地建設を視察 「重大な核心事業」 北朝鮮（時事通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2SVk4bHIzM1ZWY0lfUGdTbWFuQ0JqVkVsZUdOT2I4Z3d5NlJWcm9LZXZsRGMwbXp0cXhxclhleVRsdlJ5cVg0LTVqSmVDMzhyMXVITUdBbndtbVhGY1RyY0h4MUx5ZE5QTkgzV3JNUFRRVTI5TmtQU2lybnhaUHc?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "正恩氏、海軍基地建設を視察 「重大な核心事業」―北朝鮮",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tQ2tfaW53QUxxQVJMSFl4dlFVOFhlaHJjOC1WV19xbWFmN1pvN0ExSk9ITWRkZkY2alhRdjdaU01NcE00S09ncVlua1hLRkVnY0tIdDVMc1pHQUd5dHlKTlJFQQ?oc=5",
+     "source": "時事ドットコム",
      "at": "2026-11-12T17:52+09:00"
     },
     {
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ウクライナ東部で人道支援提案 プーチン氏、米特使らと会談で",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kbElSRTk4aHVGeV9YR3Y2X3k0VGhQMURUZmRzRk1FbUZlaDBZOEQtYWNLeTh5UGlVc2c0eWJ6N2NyMEZnRXdFdTk4aw?oc=5",
+     "source": "47NEWS",
+     "at": "2026-11-12T23:31+09:00"
+    },
     {
      "title": "NATO事務総長のマーク・ルッテ氏は、ウクライナ戦争でロシアが毎月被っている損失を、ベトナム戦争への14年間の関与で米国が記録した総損失と比較している",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS25kR3pGcXU1X2ljakNiT2Z0UzhmQ1FDcjdEb0dIMU9lQ3NpWHVhZVA4NFFORVAxY3lraVh0TkQtUGdTdDFRS0ktS1NidFpIYzc4bFREZkFLcDBldE5QZUZmZVo2SW91V0Z4T05iOTYzWktSaURDUlhHdHZrdXZaV2drNjM5cGVJa3VIdmJOcWM2S3p1SHNUcHR1dzlxdHBiRDE1Z2xXcVV0QXVWVWNxYlpuOXM?oc=5",
@@ -248,12 +254,6 @@
      "title": "プーチン氏、米特使と会談＝ウクライナ和平協議か",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY3ZGcjhUcW5oX25tOV95cUFoOHdmd19KYXoxaVhwUUFwUWg2V0Z4SlhiSWVXblpQRTc5NGY1QmhaQ1lLc1dwS2pkLWhhY3NNZDR3ZA?oc=5",
      "source": "時事通信ニュース",
-     "at": "2026-11-12T21:25+09:00"
-    },
-    {
-     "title": "スターシールド衛星サービスが数日間速度制限、ウクライナ軍のロシア無人機迎撃に支障",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41QUJKa19tblgxV2w2b05qMFRtTFN3ampzMHE0X2NQYnFWSVJPejFwUEZ5U0ZIZ3FZVDVjamlpV29xbnV2dTc2NXB5RlJwcTIzemRyc1A2R1NCRUZXLXBfNDMxQUFzTGRJajROX2piUGgtZnVt?oc=5",
-     "source": "BigGo ファイナンス",
      "at": "2026-11-12T21:25+09:00"
     }
    ]
@@ -327,20 +327,26 @@
    "at": "2026-11-12T17:45+09:00"
   },
   {
-   "title": "南海トラフ地震の津波を想定した防災訓練 約400人が被害状況の共有など確認 九州地方整備局 福岡",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZajk1eFpUQ1JqMXVObE54Z3BteWZ0RDRrM2oweFNpa09PeXFjTjRPbXJSYUFaNFA5M3hWTjl3bXFwVmJXWGxzM3c3QmthQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-12T15:45+09:00"
-  },
-  {
    "title": "南海トラフ想定の合同訓練 同日未明に愛知で震度５強",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0X0R4X1QzQW1ENVlJQjlVWFNtZTJ0SzRRTEJmUHJMUlREWG9ZUndEczd6RnBraG43ZmJVUzdhSENsWlAyLUdfNndybw?oc=5",
    "source": "47NEWS",
    "at": "2026-11-12T15:40+09:00"
+  },
+  {
+   "title": "南海トラフ地震で大津波発生を想定 九州地方整備局で津波防災対応訓練（KBC九州朝日放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tQkNuR25pOEl0TlUtU2hDb3dCZ2UwOHZNOWVfbzNHZEQ1b0ZaX1MzWjZ0TDJwcDluWE1DSmtSU3draEVVTnR6VDNDTHRDOS1kUHVKT1lUdlNfOC1rR3YycHVHUFdiVDhCQXprd2FUcGN6dTNYUlhtdGpwNGlNeEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T15:00+09:00"
   }
  ],
  "outage": [],
  "japan": [
+  {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  },
   {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
@@ -380,6 +386,18 @@
    "at": "2026-11-12T18:45+09:00"
   },
   {
+   "title": "不正アクセス受け“無印良品”謝罪 クレカ番号約109万件が流出か（FNNプライムオンライン）",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96dXdyN2NhYUFHejlRek56ZUZjTkpmSDI4UXNIel9xT2stZGJ1RXZHQ0ptVWJBakRFUFpWVWR6YVlQWXo5dWRsOTRkVTJMNG1FSERJOHRwZGhDUDdPNHZqRkZYOHZXZmNtM09QYzBURFVNZw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-12T23:40+09:00"
+  },
+  {
+   "title": "「ぐるとち」不正アクセスで公開停止 偽サイト移動するよう改ざん 栃木県が注意呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzSHFPNzNLaFozMGRrMTBHR2llMFFUNG1Va2VlR1daYWRTR182R0ZxampoZ19Wc2NyY2ZYdG1ITlRZNkxUVmlUUXZDQQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-12T23:21+09:00"
+  },
+  {
    "title": "アクサ損害保険「MyAXA」に不正アクセス 関連Webサービスは11月12日に再開、影響範囲を調査中",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkI5UE1CR0xNbFMzcnFmM3pGSFBTamFQRXBEU2NucWp0VVhQNElWeEx3WEkwelladF9iaHVnYTlZOWhJU1NDLTE2RG9RQ3Nmci1RS1I0aU80dXdEel8wdGhiM05NRWMxRmpLVzJrMldDR1UySnFsLS00aDVFTElMQ1ZkR0l6QS1Md1lsOEQ0VWN4ZzdvcW5vbFhjSkZleWZvQUl5dVE0UjBrVWRV?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -402,12 +420,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzN1luTTQ1UURQelBkTzZOZERPLTI3Z1dTQ2x3cEpPcjltaGNLTkt2LXQ1eEUyYjVQajFLVnRsQ1BCZmhLMnkwX2FnQ29QdjNIWFdJS2FwTTFGZzJjTEV4XzRPT2xaMVVtMmc?oc=5",
    "source": "AppBank",
    "at": "2026-11-12T22:13+09:00"
-  },
-  {
-   "title": "「ぐるとち」不正アクセスで公開停止 偽サイト移動するよう改ざん 栃木県が注意呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzSHFPNzNLaFozMGRrMTBHR2llMFFUNG1Va2VlR1daYWRTR182R0ZxampoZ19Wc2NyY2ZYdG1ITlRZNkxUVmlUUXZDQQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-12T22:10+09:00"
   },
   {
    "title": "不二家、アララ不正アクセスでメアド14万件流出か",
@@ -438,16 +450,17 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LQXl4SFBrbFBGMEVfQ0V1cklpSVFoeWN1STdNUlN1WjI4c3dlS0VxMUdtemI0OEhnVVp3aWtiNWU3Nmw2OHJOQ0NOOFhMelNjWldTZg?oc=5",
    "source": "流通スーパーニュース",
    "at": "2026-11-12T21:22+09:00"
-  },
-  {
-   "title": "当社が利用するクラウドサービスの委託先への不正アクセスについて",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBXV0d3N3dBSDl4R19XaUc0NHZJWk1rVkg4ajNrMk80VFdWMWh2cG42UXVKd1VLbmJ1bzZORTdPajNEcW1Z?oc=5",
-   "source": "チューリング株式会社",
-   "at": "2026-11-12T21:16+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ウクライナ東部で人道支援提案 プーチン氏、米特使らと会談で",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kbElSRTk4aHVGeV9YR3Y2X3k0VGhQMURUZmRzRk1FbUZlaDBZOEQtYWNLeTh5UGlVc2c0eWJ6N2NyMEZnRXdFdTk4aw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-12T23:31+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "NATO事務総長のマーク・ルッテ氏は、ウクライナ戦争でロシアが毎月被っている損失を、ベトナム戦争への14年間の関与で米国が記録した総損失と比較している",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS25kR3pGcXU1X2ljakNiT2Z0UzhmQ1FDcjdEb0dIMU9lQ3NpWHVhZVA4NFFORVAxY3lraVh0TkQtUGdTdDFRS0ktS1NidFpIYzc4bFREZkFLcDBldE5QZUZmZVo2SW91V0Z4T05iOTYzWktSaURDUlhHdHZrdXZaV2drNjM5cGVJa3VIdmJOcWM2S3p1SHNUcHR1dzlxdHBiRDE1Z2xXcVV0QXVWVWNxYlpuOXM?oc=5",
@@ -480,13 +493,6 @@
    "title": "プーチン氏、米特使と会談＝ウクライナ和平協議か",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY3ZGcjhUcW5oX25tOV95cUFoOHdmd19KYXoxaVhwUUFwUWg2V0Z4SlhiSWVXblpQRTc5NGY1QmhaQ1lLc1dwS2pkLWhhY3NNZDR3ZA?oc=5",
    "source": "時事通信ニュース",
-   "at": "2026-11-12T21:25+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "スターシールド衛星サービスが数日間速度制限、ウクライナ軍のロシア無人機迎撃に支障",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41QUJKa19tblgxV2w2b05qMFRtTFN3ampzMHE0X2NQYnFWSVJPejFwUEZ5U0ZIZ3FZVDVjamlpV29xbnV2dTc2NXB5RlJwcTIzemRyc1A2R1NCRUZXLXBfNDMxQUFzTGRJajROX2piUGgtZnVt?oc=5",
-   "source": "BigGo ファイナンス",
    "at": "2026-11-12T21:25+09:00",
    "topic": "ロシア"
   },
@@ -533,9 +539,9 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "正恩氏、海軍基地建設を視察 「重大な核心事業」 北朝鮮（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2SVk4bHIzM1ZWY0lfUGdTbWFuQ0JqVkVsZUdOT2I4Z3d5NlJWcm9LZXZsRGMwbXp0cXhxclhleVRsdlJ5cVg0LTVqSmVDMzhyMXVITUdBbndtbVhGY1RyY0h4MUx5ZE5QTkgzV3JNUFRRVTI5TmtQU2lybnhaUHc?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "正恩氏、海軍基地建設を視察 「重大な核心事業」―北朝鮮",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tQ2tfaW53QUxxQVJMSFl4dlFVOFhlaHJjOC1WV19xbWFmN1pvN0ExSk9ITWRkZkY2alhRdjdaU01NcE00S09ncVlua1hLRkVnY0tIdDVMc1pHQUd5dHlKTlJFQQ?oc=5",
+   "source": "時事ドットコム",
    "at": "2026-11-12T17:52+09:00",
    "topic": "北朝鮮"
   },
@@ -597,9 +603,9 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
