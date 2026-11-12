@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:30+09:00",
+ "updated": "2026-11-12T10:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮が軍事境界線（MDL）から直線距離でわずか60キロほど離れた東海岸に大規模な海軍基地を建設中だという。",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14b25zSi1Da2xOYXhTN2NQWDJ5c3A2WXZNSWhpMVlmazhySGxKX05VM3lhZ2d3Q1Q5aWxqY0FKZnpmWDhvZjRrT1pYa2ItZ00tVHkw?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-12T10:34+09:00"
+    },
+    {
      "title": "北朝鮮、「敵対的な２国家」反映の改正憲法全文を公開 核戦力の使用権限も明記",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZQjduNWdtd3F1M0JRWkpaU0xOZUp5SDRQNm51X0tDTnRoRVpOMUtuTlliQUJoNzJ3bTAtb1ROVFpIZzVLSnNuLXAxN0JQbGtZaVNCVmhjXzN6Qnp0dnI5OXltVzFBUQ?oc=5",
      "source": "동아일보",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUUFIOXpVSGVONHdkek5xbEpDUTRRYkEyRTUzVTBld3hIOHg1akVrM1pvUV9HTjViMmVXWjU4YXdTQlVPWDVDYmxLU2hHWTZUNWlKcW03Q0U1aU5kWU1lSjFrYw?oc=5",
      "source": "時事ドットコム",
      "at": "2026-11-12T07:09+09:00"
-    },
-    {
-     "title": "暗号資産奪取、核資金源の「稼げるツール」 対策にハードル、制裁難航―北朝鮮",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KQXQ0SmUzWjNGM2pZQUo1Q3ppRU9VQWZWd1VfMmJ4T3FjMFRKRngycGIwWHFheEdsakNNdjlmcGF5Q2I4WkdUbmtPYkJXOUd6eXhXTVZrMFpNR1M4cjNJdjBzYw?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-12T07:09+09:00"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "｢ロシアの聖域｣なのに､もう中国海軍が来ても拒めない…プーチンが習近平に頭を上げられなくなった理由",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ab2piWDRUMVk0UUZEaEFyTkgxM1g3OTAybFlsUkVJU0VnZnVYdzJaNUJNOURaOEwtMnhIMGVyNFl0WklwNDZ0SDM4RXhPTFJsbXNlTFR0elJBNWZFN3dUYVk1aw?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-12T10:15+09:00"
+    },
     {
      "title": "ゼレンスキー大統領「不可能だ」 ロシア代表団「我々の土地はすべて戻される」従来主張に反発 ウクライナ和平協議終了",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SdkpmN2xTZmV1NFNSclhnRDk4T0swV0JYRURuSmRWbHdnbEt4dHY5MEIzQS1UUTU4Z0NJc2xDeDlmeTVYQTMtUlFKVGgxdw?oc=5",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldmRkcThZTnY3Y2NQcGN1d0R0N1BKWFRwTFZ4YXNNNHM0VFpSb0dzRUlDNEJ5UUZMTnRkVUxkTTRSd2lVTldSZnFMemkxMEhranFVOU9Ocm9LZ3FoMjI0?oc=5",
      "source": "千葉テレビ放送株式会社",
      "at": "2026-11-12T06:40+09:00"
-    },
-    {
-     "title": "ウクライナ・ロシア・アメリカの和平協議が終了 「大規模な捕虜交換」で合意（TBS NEWS DIG Powered by JNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CTWI1Q0VSVGFIaFQ0TXhyN2c1Vmg3d19DM0JaU2Q2eEUwd0F4R3liVlY0dGMzbnU2b0wwTzZOTWR3YmJobE81bk5FYlFNWmFKTnNUanJiWU15UkJoUFVmWHUydDBtRzlXNVZnRy0yclkyTW5rcU0wSnhWQkFoSW8?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-12T06:22+09:00"
     }
    ]
   },
@@ -303,9 +303,9 @@
  ],
  "nankai": [
   {
-   "title": "南海トラフ地震発生時の被害想定と行動シナリオ、今年度中に公表へ　和歌山県の検討委員会",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzV6bWtLODZmYTRBOFdwV3lIUFk2dlZKclpmaHp6VnJZMGxsdWRlSTFEeXNkOHpuWFc2dW1yeVBxVXpVSklNaGJlbTNWS1l3eEtmZzNic2pzYkZPWnR5OWpfWkF4LWMtQ3kyTV9uRlNFTU13SXZiSFBNTVVPUThRZ0FOaWxTVU5tS19weEZicEhfekZSWHhsbGRUMUxfeG0xQXEzNkIzZlrSAa4BQVVfeXFMT0xmWVI0SGViX3ZjMGdlb3R0OVdmbjl5dEdaYTE3b0NTQ0Q5aEJfaXRNa0ZTMGpwQnptUWtRWDg2M2VxalVaQU83TWdzMWpiSlpQRFhaVnNrcVJXS2g1YUhtcGFOT2dpbEZ4OXNVLXRUeGtOejlDNDE0Vi02ODFDWFFtWE5yY2owZXl5ZWNMODBScDJPQm9rN3pOVF9yQU9ZUGRhd0tLa0hqY0lYd01B?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "南海トラフ地震発生時の被害想定と行動シナリオ、今年度中に公表へ 和歌山県の検討委員会",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMV91WDNHbEwxWjNQRGVjdWlsUWpFV2JzQ3BaeHpJaWViM2V3cGZQUkV3Nm5KN1VBN3R2WGJ2cVZSWm1HWldfXzBfZ01LRm96SHdlR1RDRFJEYkg2NFJnMW9KSGFSam9laHE3bVJwUlFfVGxnS1lnUGtxSENMQVBwYm54djFhTEJMeE13Yw?oc=5",
+   "source": "産経ニュース",
    "at": "2026-11-12T09:00+09:00"
   },
   {
@@ -315,10 +315,10 @@
    "at": "2026-11-12T05:28+09:00"
   },
   {
-   "title": "「屋根の下敷きに」「津波で家具が流された」昭和南海地震から80年 南海トラフ地震想定の高知で企画展（高知さんさんテレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05NDFiMDZsT0p3d3NhaW0zMFlpWkplTTMxd1ZULXdPeExZMFhfLWxhRzU4SFRvWTN5QlE4Q0F5YjF2bzJIOFZQQ0N5b0huMTBDNTNWdWtfOVMyMUJiYzFobXRlS3VyU2IwSVJub2YtVWlUVjVhdUtRU3E3bUUzcjQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T19:05+09:00"
+   "title": "「屋根の下敷きに」「津波で家具が流された」昭和南海地震から80年 南海トラフ地震想定の高知で企画展",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mWEZtejRXNW1QVmE1VHdHak45dnVDZDFjd3czNXcyUUlRY1dSVkFWODZvM3dQMTFpMVNLaHNsSlRCVFdQSXRuejRtUnJyNEU0TUdHcW9Ua09BaXM?oc=5",
+   "source": "高知さんさんテレビ",
+   "at": "2026-11-11T19:11+09:00"
   },
   {
    "title": "愛知県の地震、専門家は南海トラフ地震の可能性が高くなったとは言えないと説明しました",
@@ -358,15 +358,15 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0UHNOZTY0dUdHdlZBaTlLS3NpdS1KOU1HRFdXeS1idHN0NkYtNEJpSlNvNmZGb0t6Z2s5cGlQajFfRmJ1SzI1SGZBbjRUY0lsWEZ6Z09ocDU4Zjk0Yl9V?oc=5",
    "source": "十日町タウン情報",
    "at": "2026-11-11T11:03+09:00"
-  },
-  {
-   "title": "【注意】きょう午前11時に「Jアラート」全国一斉テスト…屋外スピーカーから放送へ スマホは鳴らない",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxUmFudnM3N2pmUXROX09PN1RQZHJMaFpfeWdTcjQ2VFZKV0pTU3ZlT3RsaThRWmZlRms0VEVBWFRDTkR2dnNfUGlQTTY1bDNGQW8wWkk5bFByc3VnQXRRVzBxT3YtVlFrRk96bzB3?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-11T10:31+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "【ドコモ通信障害】原因は「交換機の過負荷」…5G SAで約9時間の通信障害「サイバー攻撃なし」",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDRmxBNG10a3I0TVlaS0NndWx6a21zcWdhUFZiOWRMWVR1VWRFb2txR05DWHhaY2MzVnZ1eVI5VTlONXdXNUNiRUQzMC1aUzE2TjRKX1h3YmtOMVhCVGFlZm1DWkQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-12T10:23+09:00"
+  },
   {
    "title": "ドコモの通信障害が完全復旧　今回も原因は5G SA交換機の輻輳",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1Vta01tSnY3LTdBZ3pDTkRNWGlFODZHMW5Wa1BETUphQTl2MG5vMHZwUlNmcG5MOE4tSGFJRndIdDYyY2xseTlUc3BaSHR2c0lTWnhDYy0wQWpfSGlObkVMU2cwaTJKd0ZTWTBMQldPdnpLbDJmaFFySDJ0bzU2NGZjWjdBdUdQSHRiNWJQd3gyQdIBlwFBVV95cUxQYnlLMS1fTHhxTUdmSHdCQXBzNWJEcGd1Q3hXbXdnb3Q4djFGLVk2VWpYSXdFdXBwYlAtbl9fWUdObV9JNGhYSTlnajhpcm4zaXA5NC1oeDQ0XzczOVlYaElBMVRvYWM2UlhZMDQ5bVBmYTgxcVJJZjRqc0lZdHgyUTlsOGw4cGJjNG5XYlg3dHFGM3NHLVhF?oc=5",
@@ -395,6 +395,12 @@
    "title": "無印良品の不正アクセス問題の経緯(THE PAGE)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzIxanBFajF6c19pOFlhWE9OeWZzRXNPaHRhSnJLNG91M0xfSU9mejlBSGtBYUNXc0dJbzNQUjI3bllUdnNnaDhvYWYtMzJDelF0SjFUV3Z3UDZRNEx1WTNnejhXOFZfTEd2NGdiREJqVWZDUV83SXJOeTBkRmV5YlJEaUNleU0?oc=5",
    "source": "Yahoo!ファイナンス",
+   "at": "2026-11-12T10:11+09:00"
+  },
+  {
+   "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wajNvZjY1TEZiQXpGaXNWZVFWOHVCQk53cHFlU2h0eFdBSHdocDc0YTExZ05IQVV6QnNwR18xYzUxSFhFUzdnZFJBdTBUS2dIWHBXOWlLU05pSmZYclFHcGZMSmVBOW8tLUMzeDRZOFRQNFlfZTBGWl9iVTBKNlk?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-12T10:11+09:00"
   },
   {
@@ -434,21 +440,9 @@
    "at": "2026-11-12T09:57+09:00"
   },
   {
-   "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40SUJhNFpxd1Z3bzNxdi16SnU5Ym5VR2lGakI2XzE0c1N1SlRSTk05V2ptU09uQlBLeDk0a3pmZ2kyd3lhTjJmcHBUQTYtbmdGYU93RW9OS2R5OGRHY2VDV3o4dkxFQVpvTVJLeHV4S052bHN6V3V1TDBDNm93dw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-12T09:41+09:00"
-  },
-  {
    "title": "三菱UFJフィナンシャル・グループ、株主のメールアドレス2万件が情報漏えい 電子ギフト委託先が利用するアララに不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOamxPdlhKTF85ako1Q1dFbWxHcmpIWjg2U2lvc3RJcGF4bmhtWnpERGZ1RHdKcFl1ZVIyVFNnWmF0UXRqREh0TlhOcEJYZmR3cGFmT1Rwamo0X2d5cFg3Qllud3EtQ2sxclNtcURRQVpfZUVCQXVPd2E2MnRLS2dicmc1bWcwckhNc2xNdTJ3SG9OMENNbWRIUlJGdF8?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-12T09:40+09:00"
-  },
-  {
-   "title": "日本郵便のLINE公式アカウントで情報漏えいのおそれ 電通デジタルのサービスに不正アクセス（アスキー）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aZG1mOFFDMGU1aVBTeUQyb2d5azM1ZjJvV3oxZUxEWTV4RlJkT2djdmRZT29Oejh5cDNfMGNTc21KUnV6V1hIRmlLU0dvbDNNOVdnbjBQSkJCWi1GdDJGV3pUVlFGYW16ZGNmT3ctS09JOUF5eFI5eXlISW01T3c?oc=5",
-   "source": "Yahoo!ニュース",
    "at": "2026-11-12T09:40+09:00"
   },
   {
@@ -461,11 +455,25 @@
  "osaka": [],
  "world": [
   {
+   "title": "北朝鮮が軍事境界線（MDL）から直線距離でわずか60キロほど離れた東海岸に大規模な海軍基地を建設中だという。",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14b25zSi1Da2xOYXhTN2NQWDJ5c3A2WXZNSWhpMVlmazhySGxKX05VM3lhZ2d3Q1Q5aWxqY0FKZnpmWDhvZjRrT1pYa2ItZ00tVHkw?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-12T10:34+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "｢ロシアの聖域｣なのに､もう中国海軍が来ても拒めない…プーチンが習近平に頭を上げられなくなった理由",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hVUIzaEFMc3ltc3NWeThHV29xRnp2OTdyeS14VGJwN3A1MFoweFgyajRuTENsWlZkbWtleTM2WTh4VWRyQlNwZ3RpTVJ6NlFBRDdNMGkwelBZQ2dFMkxDdzZSb18wMU5pQ0NUNG5GcENPX05Dc01QNkR2a2ZDNTQ?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T10:15+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "｢ロシアの聖域｣なのに､もう中国海軍が来ても拒めない…プーチンが習近平に頭を上げられなくなった理由",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ab2piWDRUMVk0UUZEaEFyTkgxM1g3OTAybFlsUkVJU0VnZnVYdzJaNUJNOURaOEwtMnhIMGVyNFl0WklwNDZ0SDM4RXhPTFJsbXNlTFR0elJBNWZFN3dUYVk1aw?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-12T10:15+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに（ロイター）",
@@ -585,27 +593,13 @@
    "source": "Excite エキサイト",
    "at": "2026-11-12T07:47+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イラン、海峡「封鎖」を表明 米軍報復、協議再開は不透明",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mMlQ1akRkNWNqV2xrT3hRYWkzQk5HRk0wMmRVZ19QZU5iXzE5ZnZLZHVnS3JSb2N4Q2dXaDhxSllZRTl3OHYyYzhQdHN1M296VXFVeFlZSmJMZw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-12T07:30+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "【図解】暗号資産窃取の「精鋭」＝バイナンス攻撃の北朝鮮ハッカー―被害拡大、日本企業も標的（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QNXlWT1Roek0zLWxRbjJvYzZiS3lpblR0TVpsWlpUWEdhOWx0VDZmaERMS0d2MkR5aXotNENsODEtVVJieEViNG1lTENwdksxRTd0UmNuMER5T1BqVEN1ZUdZSFVfa1Q1VGVld3A0Z3A0TzlBMmxnOXZDN3huajg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T07:19+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモの通信障害が完全復旧　今回も原因は5G SA交換機の輻輳」"
+    "「【ドコモ通信障害】原因は「交換機の過負荷」…5G SAで約9時間の通信障害「サイ」"
    ]
   },
   "japan": {
