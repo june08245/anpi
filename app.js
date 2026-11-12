@@ -724,6 +724,9 @@ const newsUrgent = n => ({ title: n.title, link: n.link, source: n.source, at: n
 const CYBER_LOCAL_PLACES = ["大阪", "関西", "近畿", "関電", "大阪ガス", "大阪メトロ", "生野", "旭区", "西日本", "全国", "東海から"];
 const CYBER_LOCAL_WORDS = ["サイバー攻撃", "ランサムウェア", "通信障害", "システム障害", "大規模障害", "つながりにくい", "取引できず", "利用できず"];
 const CARRIERS = ["ドコモ", "docomo", "au", "KDDI", "ソフトバンク", "SoftBank", "楽天モバイル", "LINE", "信用金庫", "信金", "ゆうちょ", "全銀", "ATM", "PayPay", "ICOCA", "交通系IC", "コンビニ"];
+const PLATFORMS = ["マイクロソフト", "Microsoft", "Outlook", "アウトルック", "Teams", "チームズ", "Google", "グーグル", "Gmail",
+  "iCloud", "アップル", "AWS", "アマゾン ウェブ", "Azure", "Cloudflare", "クラウドフレア", "X（旧ツイッター）", "Instagram", "インスタグラム", "YouTube"];
+const PLATFORM_WORDS = ["大規模", "世界", "全国", "通信障害", "システム障害", "接続できず", "使用できず", "使えず", "送れず", "ログインできず"];
 const CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つながらない"];
 // もう直ったことを伝える見出し（「復旧のめど立たず」のような、まだ続いているものは除く）
 const RESOLVED_RE = /(で復旧|復旧した|復旧しました|全面復旧|全て復旧|すべて復旧|復旧済み|解消|運転再開|サービス再開|利用再開|取引再開|営業再開)/;
@@ -735,7 +738,9 @@ function localCyber(news) {
     const t = n.title;
     if (isResolved(t)) return false;
     if (CYBER_LOCAL_PLACES.some(p => t.includes(p)) && CYBER_LOCAL_WORDS.some(w => t.includes(w))) return true;
-    return CARRIERS.some(c => t.includes(c)) && CARRIER_WORDS.some(w => t.includes(w)) && !t.includes("流出");
+    if (CARRIERS.some(c => t.includes(c)) && CARRIER_WORDS.some(w => t.includes(w)) && !t.includes("流出")) return true;
+    // 世界中で使われているネットサービス（メール・クラウドなど）の大規模障害
+    return PLATFORMS.some(c => t.includes(c)) && PLATFORM_WORDS.some(w => t.includes(w)) && t.includes("障害") && !t.includes("流出");
   });
 }
 function assessOsaka(info) {

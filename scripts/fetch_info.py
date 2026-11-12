@@ -103,6 +103,10 @@ CARRIERS = ["ドコモ", "docomo", "au", "KDDI", "ソフトバンク", "SoftBank
             # お金・交通など、住んでいる場所に関係なく生活に響くもの
             "信用金庫", "信金", "ゆうちょ", "全銀", "ATM", "PayPay", "ICOCA", "交通系IC", "コンビニ"]
 CARRIER_WORDS = ["通信障害", "障害", "つながりにくい", "つながらない"]
+# 世界中で使われているネットサービス（メール・クラウドなど）の大規模障害
+PLATFORMS = ["マイクロソフト", "Microsoft", "Outlook", "アウトルック", "Teams", "チームズ", "Google", "グーグル", "Gmail",
+             "iCloud", "アップル", "AWS", "アマゾン ウェブ", "Azure", "Cloudflare", "クラウドフレア", "X（旧ツイッター）", "Instagram", "インスタグラム", "YouTube"]
+PLATFORM_WORDS = ["大規模", "世界", "全国", "通信障害", "システム障害", "接続できず", "使用できず", "使えず", "送れず", "ログインできず"]
 
 # ---------- 危険度の判定（目安） ----------
 # 世界：直近24時間のニュース見出しに出てくる言葉で判定
@@ -390,6 +394,8 @@ def local_cyber(news, now):
         if any(p in t for p in CYBER_LOCAL_PLACES) and any(w in t for w in CYBER_LOCAL_WORDS):
             out.append(n)
         elif any(c in t for c in CARRIERS) and any(w in t for w in CARRIER_WORDS) and "流出" not in t:
+            out.append(n)
+        elif any(c in t for c in PLATFORMS) and any(w in t for w in PLATFORM_WORDS) and "障害" in t and "流出" not in t:
             out.append(n)
     return out
 
