@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:00+09:00",
+ "updated": "2026-11-12T17:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,12 +179,6 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "金正恩氏、建造進める海軍基地視察 大型艦係留用、初期段階か",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15dVRFTF9ZbGh2YVVQTEpVR2dIdXNEYmVJcFJTZW1sVlNLa3lBeGY4b2tPdHhSU0pTMW4wanpYQVZXUnRXYTNNTllBY3B3TUVMU1FuZDYycDZrUE93ZnV0UHprWTNQTzNfS0Nwa1RST0lReUV0LWc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-12T15:34+09:00"
-    },
-    {
      "title": "北朝鮮・金正恩政権15年、核は何を変えたか―米韓の反撃をためらわせ、強硬な行動を後押しする危険",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVRjRHNoYTJsZ0hYalN6X2VYVlF3dWtmT2N6cUpuX2M1TXltUlZmZlEtdkd4T3oyMU1Rd2hiWkRDYlFGOUVFUGtpN3RYUnAxQzMxek5JYXNNUUZkVUtzSmcxQi1PYnZ4a19WaGp4bmRYWjZ3LW1CMGF5a0ZDQXhOdHczNEZRWHg3?oc=5",
      "source": "Yahoo!ニュース",
@@ -213,6 +207,12 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdFVkdmE3MjQ5QlJWQUhWWmdiWk80RkZBanFLbi14elZjVmY3NU85WEllVktpWWZvcU45enBTeUxqRm53MDFRUHdGZnpLQi1kQkHSAVRBVV95cUxQVGI2cWUzR3IzMnhYM0ZwYnVvRHZlNml2bDZTR0s4NGNoTVVyNFhGQ1AzN0M1SllNMEQ3S18wMVhMS2NHbTFZRUNnN0dtV183bEdHN1k?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-12T11:49+09:00"
+    },
+    {
+     "title": "金正恩氏、建造進める海軍基地視察 大型艦係留用、初期段階か",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15dVRFTF9ZbGh2YVVQTEpVR2dIdXNEYmVJcFJTZW1sVlNLa3lBeGY4b2tPdHhSU0pTMW4wanpYQVZXUnRXYTNNTllBY3B3TUVMU1FuZDYycDZrUE93ZnV0UHprWTNQTzNfS0Nwa1RST0lReUV0LWc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-12T11:00+09:00"
     }
    ]
   },
@@ -239,16 +239,16 @@
      "at": "2026-11-12T14:55+09:00"
     },
     {
-     "title": "ゼレンスキー大統領「不可能だ」 ロシア代表団「我々の土地はすべて戻される」従来主張に反発 ウクライナ和平協議終了",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdVJEa3hfLVZieGo3MnFtdnNOcWh5bm85eTVlQWtEeVNLclE5VTlBOWZGWUREUjFHcmtydmRjSGVFamxGNXdNU0pIeDVUeXpmRlpHQTlpN3JDOWRXc29jNGxFOG1obl9wd25Oc1IwMnRXX2JyMGNYQ0RCNzZTNWs?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-12T13:13+09:00"
-    },
-    {
      "title": "｢ロシアの聖域｣なのに､もう中国海軍が来ても拒めない…プーチンが習近平に頭を上げられなくなった理由 (2ページ目)",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KelUtU2VPTVlwa29ldWM2S25wOGZwZ2RwR1RVd3BWaFFqZmtTc0p0cno5djVBbWF6WHBtQTJYNTJOajk3V3MtR0cxb2JvVmFGRENtVTFGbVE?oc=5",
      "source": "PRESIDENT Online（プレジ",
      "at": "2026-11-12T10:00+09:00"
+    },
+    {
+     "title": "ゼレンスキー大統領「不可能だ」 ロシア代表団「我々の土地はすべて戻される」従来主張に反発 ウクライナ和平協議終了",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdVJEa3hfLVZieGo3MnFtdnNOcWh5bm85eTVlQWtEeVNLclE5VTlBOWZGWUREUjFHcmtydmRjSGVFamxGNXdNU0pIeDVUeXpmRlpHQTlpN3JDOWRXc29jNGxFOG1obl9wd25Oc1IwMnRXX2JyMGNYQ0RCNzZTNWs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T09:48+09:00"
     },
     {
      "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
@@ -361,10 +361,34 @@
    "at": "2026-11-12T13:05+09:00"
   },
   {
-   "title": "不正アクセスによる情報漏えいなし 県運営の5つの配信サイト 外部の運営会社が調査結果報告 富山",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tU0dJaTFoa2sxTHgtSXZXdHBzd3BUelhsUnBhWXlFazR4by1naTdLU29YdTlBemgycnJnMlRORTM2LTY2UmZqWnM1UXpTTldvMFpzZ2dONzZRZw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-12T16:52+09:00"
+   "title": "「無印良品」運営 良品計画の社長が謝罪 ネットストアは再開めど立たず…利用者の声は 相次ぐ不正アクセスによる個人情報流出（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGY21nRFpEYmoyeENsTF9uWC1nYlFLVVk5YThOdzBhTjlGbUF2YUg1RjQycmlScE44OUl6WVd1RDlPdnBzN3dXS043UW5zODI4UVVsN0FtMFRWa3ZzcjdWTXVEekRodUJHSk1Bdi0tQmpVLUI5azZVMjZUeFN3RWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T17:08+09:00"
+  },
+  {
+   "title": "ワンキャリア、Notion AIのチャット履歴に最大約2,300件の個人情報流出の恐れ Fireworks AIへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU1LaGRHZUFJd3M3WTRZZ3BqQUNvNlpjS0ZyUFd3SUJPeWhGTVRNNjhCV3JXbkpJRXpvdjMyZk1XNkN0SHYzNW42U2thaVpPVWtYN0p4ZTRrM2YwS0hOUXNHTDVTSVdOWUNXQTNJQzdEcmlkYXRrdV9JQW1ldkFIcTlQOGpqZHZHbThtclpPUmF0azlONXVVTzBoaUU0Ymp6X1hEblJBMHlQTktrQVRSNzZySQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-12T17:05+09:00"
+  },
+  {
+   "title": "良品計画、サイバー攻撃で2年連続のECサイト停止 「アスクルショック」後も備えに甘さ",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUkhaQ3JsdmdxUjdWQThrclNNbGJOWGthU2lCYnFMWUVIb3BZYkNpSUJBYWpodTBNZ1ByVkFqU2hmVy1ic2NUaDlsR001cHlScE11bzlhbC0zRHdwUDNfTm9tcTQ4aEE?oc=5",
+   "source": "日経ビジネス電子版",
+   "at": "2026-11-12T17:00+09:00"
+  },
+  {
+   "title": "アサヒ、サイバー攻撃下の出荷作戦（後編）～危機の物流を支えたチーム意識",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MbGk0NzJHWmZmNzl3QVNKWFZpb3dCYzE0VjRZejF0cDRZWnFzbHQ1eW94QUZnQjNWUC1wbV9Cc1NPQ1Y3MDMyRUVBUnFpamRDd1F3SFBJdGE4Q1hCaWlVVkRvZVcyRnc?oc=5",
+   "source": "日経ビジネス電子版",
+   "at": "2026-11-12T17:00+09:00"
+  },
+  {
+   "title": "不正アクセスによる情報漏えいなし 県運営の5つの配信サイト 外部の運営会社が調査結果報告 富山（チューリップテレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYjJSZDZScjhkTEdRUEFtMUEyeFNCdEhSZ29xbW9YQ1NzeTgtejdyU3pfNEpERVNROWNrdDdpQXpxeTNvOWk1Zm85UFFTSUxsVjVCcmJNMGR4X3RxUE1fekhydkFfWU0xcFdhNnZpa1JTUzlEVFB6aVlWci1JejA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T16:53+09:00"
   },
   {
    "title": "むつ市システム 不正アクセスでメールアドレス漏えいか 青森",
@@ -397,18 +421,6 @@
    "at": "2026-11-12T16:00+09:00"
   },
   {
-   "title": "世界で相次ぐ「AIハッキング」に…韓国国家AI戦略委、「サイバーレジリエンスTF」発足（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQzBVS3RrMGFYY1ZROUI0RkxOX2E0cmZoUUtheFo0eG1hTENONmg3WlotTDhuSEM0M3Z6TFQ1WTlVWm5vTnd3VDNSUW9qQUhhZ0pCVEduaWNFem5Gd0tPa0xKT2NhY1ZhSHRsZEM5bDVlVW82Y2RWdDJMTzZ1SjA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T15:53+09:00"
-  },
-  {
-   "title": "山形県 メールマガジン運営企業への不正アクセス 調査結果を発表 県運用分の情報漏えいは確認されず（YBC山形放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hQzNGZWdBOGNHaHk3RHRPNzVyT01sbUVsTG81YTltUlRJeUF0UktnS3NrN1NXaTlKMlNTcXR3M3NWZWY0Vnc5a2lyZzg2NWdpSFNBbFdJdEVlc3ZSdjBVY0M2Y2dHRXZzRnBVVVppWEsyWERBTzR3ZVdTSXBFWTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T15:48+09:00"
-  },
-  {
    "title": "サイバー攻撃の自衛策、『ダイソー』グッズが最強だった⇨「どんな凄腕ハッカーでもハッキングできない」「自分もしてる」の声",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZ0YyTGtYZEJBVzNTX0UtMkp1YWk1UFRmQ0stamlfQlJBYUZTRUN5bkhZWmpxOTFqdW1TbkcwcmJkTmgyLU00TE9iRXlCMEdEQV9FeVFhT0RWV2VmaHVJekNFUGtxZ1lqTFBKakdHVGZTZ1RJc0t1ZQ?oc=5",
    "source": "ハフポスト",
@@ -419,18 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tZGVQVkE0VnVrajBmTDVuSHY2dlBGVFlEOThFNnlDNW50VE5HSmVDTzNwY0U4Sk9lOGtENlh1UmppbU5TcG53alZzT2c0cGRFeGFYbVM1eHB4WHd6dUNj?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-12T15:31+09:00"
-  },
-  {
-   "title": "ラクスルの不正アクセスでAdobe Express連携の印刷データ最大249ファイルに漏えいのおそれ 宛名リストは対象外",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRoZFBDWGxQamZTZk9FNmItSUpYN01RSkNiMVRXcy1aR09vOUxiXy1oYS12eEp1RWdTOGJPUGJRLU9fVWRqZXlVeHNReFZfbldzRzVPRV9LYW16YlFCcnNtUEkwWGVtQzEwVi0yQWE1X1Z4TXB2NGlNR1VJWHNuN3N3TmM5MWdqLXBjUk44ZUhLZFVkaUFGLUtOTmxZbEZsMXJXX2E0UklfMHdZU2Q4MWxn?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-12T15:30+09:00"
-  },
-  {
-   "title": "メンテナンスのお知らせ（クレジットカード決済）",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sazlMTEpzSXZxM25lUkE3eTlwZDhibWRlMnBLOGg5UWFiZWxkN041TnJpY0N0V1VJV2ZmSXBXM1pEd1VhM2tKUFJENzJDZ1pURW1MTWRQbnlzWk5L?oc=5",
-   "source": "U-NEXTヘルプセンター",
-   "at": "2026-11-12T15:21+09:00"
   }
  ],
  "osaka": [],
@@ -455,13 +455,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T15:36+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "金正恩氏、建造進める海軍基地視察 大型艦係留用、初期段階か",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15dVRFTF9ZbGh2YVVQTEpVR2dIdXNEYmVJcFJTZW1sVlNLa3lBeGY4b2tPdHhSU0pTMW4wanpYQVZXUnRXYTNNTllBY3B3TUVMU1FuZDYycDZrUE93ZnV0UHprWTNQTzNfS0Nwa1RST0lReUV0LWc?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-12T15:34+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "トランプ大統領、退役軍人の日の演説でイラン戦争を擁護",
@@ -527,13 +520,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ゼレンスキー大統領「不可能だ」 ロシア代表団「我々の土地はすべて戻される」従来主張に反発 ウクライナ和平協議終了",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdVJEa3hfLVZieGo3MnFtdnNOcWh5bm85eTVlQWtEeVNLclE5VTlBOWZGWUREUjFHcmtydmRjSGVFamxGNXdNU0pIeDVUeXpmRlpHQTlpN3JDOWRXc29jNGxFOG1obl9wd25Oc1IwMnRXX2JyMGNYQ0RCNzZTNWs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T13:13+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "海軍現代化·核武装化速度戦に要塞化·多目的化基地建設督励北朝鮮、元山近隣の踏村港署工事推定",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQVVvV1V5UXdKTEM4UkpMM3p1QVh4XzBVYV9Qdl9KNXJNdWtuQ2l6THpBOTUzWHRXRnJOZS1jbHpVaWdnYmlETk1qblZmVzhJOWZJ?oc=5",
    "source": "매일경제",
@@ -569,11 +555,25 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "金正恩氏、建造進める海軍基地視察 大型艦係留用、初期段階か",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15dVRFTF9ZbGh2YVVQTEpVR2dIdXNEYmVJcFJTZW1sVlNLa3lBeGY4b2tPdHhSU0pTMW4wanpYQVZXUnRXYTNNTllBY3B3TUVMU1FuZDYycDZrUE93ZnV0UHprWTNQTzNfS0Nwa1RST0lReUV0LWc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-12T11:00+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "｢ロシアの聖域｣なのに､もう中国海軍が来ても拒めない…プーチンが習近平に頭を上げられなくなった理由",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hVUIzaEFMc3ltc3NWeThHV29xRnp2OTdyeS14VGJwN3A1MFoweFgyajRuTENsWlZkbWtleTM2WTh4VWRyQlNwZ3RpTVJ6NlFBRDdNMGkwelBZQ2dFMkxDdzZSb18wMU5pQ0NUNG5GcENPX05Dc01QNkR2a2ZDNTQ?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T10:15+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wajNvZjY1TEZiQXpGaXNWZVFWOHVCQk53cHFlU2h0eFdBSHdocDc0YTExZ05IQVV6QnNwR18xYzUxSFhFUzdnZFJBdTBUS2dIWHBXOWlLU05pSmZYclFHcGZMSmVBOW8tLUMzeDRZOFRQNFlfZTBGWl9iVTBKNlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T10:11+09:00",
+   "topic": "欧州・NATO"
   }
  ],
  "status": {
