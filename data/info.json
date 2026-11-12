@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:30+09:00",
+ "updated": "2026-11-13T06:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,12 +95,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "【連載】中間選挙の衝撃 揺れる米国と世界（４）米、「最後の一撃」検討か、イラン、核開発再開も",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MSWxTUEk0R1RlMVR1ZmZQWFNrT0E3QUh2OHFwWUNMTTJuQUl1TG1vaktNY0taN0tsc1pQc3ljaF9BRlMyYzBWYWFiY0FQMUx3WUhNTkd0NGNWc3ptODRLQmpyVGJPb2p2RG5zSDZ3UWhleWJu?oc=5",
-     "source": "世界日報DIGITAL",
-     "at": "2026-11-13T06:20+09:00"
-    },
-    {
      "title": "トランプ大統領「イランとの合意は必要ない」",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
      "source": "テレ朝NEWS",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdzVzazdZX3F4LWFBX1pydVd0RGFUbk5PM3plMXBvV3ZYbkdTd2o0eWJKVktESkZxeG5XN09TNDNUTlpHZld1UW5HYTNHLXM0SnRzMW43MGVTcUh2blpyZkhqdVU3bG1qMzFWTQ?oc=5",
      "source": "폴리타임즈",
      "at": "2026-11-12T19:40+09:00"
+    },
+    {
+     "title": "トランプ氏、イラン戦争に「我々は勝った」と発言 退役軍人の日の式典で",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwaVZhaUVjTU03Y25xOFEzZnZGVG56aXZoWTRuU29OdDU5MllKRWNWRXRHd1JuWXI5dE15eGduMHBBdUNLZ2xaeDNRSjR3eUlYNXIxRnBsT3dHME5O?oc=5",
+     "source": "BBC",
+     "at": "2026-11-12T16:48+09:00"
     }
    ]
   },
@@ -228,7 +228,7 @@
     },
     {
      "title": "プーチン大統領が米特使らと会談 ウクライナ東部での人道支援を提案 「制圧」主張を誇示か",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qNC0tZ1lrWUFaT2hSMmpydndiVHY2dWtabDJFRFR6cUhVN0FsNnNYV3lJMkhJa3lUaXFnYlF0Q0s1dHdtN0JGeTFKYVlEM3lieHFKRnZiMDFzTVBCaFg4U2RkTFE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zMFY3d2I4c1NiXzJsMlFtUmlndFZaSURhYndwWUFjOWJETUpwTHlsNzNfV1RVbS04b01hS3BLMDY2WGhTQnVadmFqNGktYWx5THBYMUFLZ052UFk5SC1tMkRmS1YwTzZRT3QtRDRLOU1RcFJ6?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-13T06:13+09:00"
     },
@@ -342,19 +342,25 @@
  "outage": [],
  "japan": [
   {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  },
+  {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-12T08:55+09:00"
-  },
-  {
-   "title": "HUR：ロシアは700発の弾道ミサイルと数千発の巡航ミサイルを保有",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtNTFZM0dFQXZ5ejg2dUswb1dqLXFVSmg2MHp4ekFEOGo2dW1yTGVHNk1sR3oxQkxzYzQ2RlpGRG9mWEM5cWJPU3F1cjFOYnBxMmRqMXdyU1ltR1c4azdNLWhrcE1mbEQ3?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-12T08:26+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "MS、米で大規模通信障害 AIのサービスにも影響",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GYjd1YXhFREVfNVU2ZnFWZUVqeUtWX3VaY1VJYWRtMHZybDVLWk5nNmZJRlJNZUhIbFZIOWpzeVpsTEFrMk0tNFp6bkJPTU82NHdvRlJJaWx5TElRWXhj?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-13T06:24+09:00"
+  },
   {
    "title": "MS業務ソフトで大規模通信障害　「アウトルック」など",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTduenVYdU5EQ2xrTkdBbGhoZzZpX1daSWlabXJTRlkzM2VDSENRT2IxR29ZSm1TSmhqdVBxMzc5MTFuYXN1UW9MX01CQk9xNllITFVMSURhZkp2QzBVYzA2Uy1WN3lOSUVQUENiMHdMWmZ1SmFOZVgwS1ZPQnRXdjZkT0FJVHcta1YtVGVR0gGTAUFVX3lxTE9rR2VlLWFwUTFaTU15d0pDUGhrcThILVdLQjJTNHpHa0NkZWZRLWxJOGVhaTJvMXRwVU5iMDBNTk1BcGlFRGRyU1NMWTlaUVBfbTVXRFlVeXhKczc5ampWZEM3TThfZFNKTFY1b0dYaTJXeHhTcmtXeU5PQ0NObUZISi1DUDR4ZlBRV3ZvYlJOQnlxZw?oc=5",
@@ -380,6 +386,12 @@
    "at": "2026-11-13T06:15+09:00"
   },
   {
+   "title": "ＭＳ、米で大規模通信障害 ＡＩのサービスにも影響 | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hQTJYMFJYRzZXaklLT2VsZS1vVTRObERjOHBEVWlib1RjTURWXzhRWmlxTEVIODVvN2xVYlRoZ3lEMmt3bXFMbG9vQU52cGwyeUQ5OVVvTmFjaVBWNGc?oc=5",
+   "source": "福井新聞社",
+   "at": "2026-11-13T06:14+09:00"
+  },
+  {
    "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuY00yU0JPYVl6QmlNdzEwc3R1eUxnRndNR3N0VTJDbUhPQ2NMbTg0aEI2dXM2aF9sTUlsOWZMX09kMWktWllGbG9KNUoyS3BV?oc=5",
    "source": "Yahoo!ニュース",
@@ -390,6 +402,12 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHc0VU5EUXZiT05vcTJsYURCekZaVVBiMnVSLW54ak9BY29VRk5VMTQzaTVPMEEwb29DTGZSWXlXQUh0M1g4dnpuYlRXTUUxTlpYSmVycnNlWU1KV1FRcmU2SGNjQUpXMy1YNDlkQTBEOHBrdUNGdkNyLUpSYWFjYl96Y2d2Y0ZOd1pFcU5UY09YaDhFZUpVeWJJVm55SV8x0gGTAUFVX3lxTE1CRHF3Q3pkSEdDaXE3azExNGJnaEFPMFJUU0tBdk54ejk3aXZCUjRhYXMtNEhGZXBMWDlmendjNjhjS0l3RGphYTNpZ0FmZVFUMlZqOTJtakc4VzRENEtyZ0lEa1JFamR3TkJ3NmgyVlJET0oxSVR3ZkZDVnJtNEVFY2FiMEdUdERBV3ZvZ2RSLWZnNA?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-13T06:11+09:00"
+  },
+  {
+   "title": "アウトルックでメール送れず 「マイクロソフト365」で大規模障害",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-13T06:05+09:00"
   },
   {
    "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響",
@@ -426,35 +444,10 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lVWNRbVpxTjRIa3RyY2xOTTFRY04tb3d2MmJxRFBRZWxhR2pLRXpFWEJWN3U5eGs0ZnUwNzZTeHp0VnVMTGxPc2M3QzN0eGtKWkFhUmlZdjF5WklYczlvZkdtSlZsNkU?oc=5",
    "source": "J-CAST ニュース",
    "at": "2026-11-12T23:36+09:00"
-  },
-  {
-   "title": "マルエツなどで利用の「Scan＆Go ignica」に不正アクセス、6万4,003アカウントの個人情報流出のおそれ 氏名・メールアドレスが対象|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYmNxNWJPTGJvY19vTFRERGVPWE10RmlXaEc3Ry14Q0JEaUhzR194MlZQM0RxVGk5dTU5ZDlWVGhRZ045d3NYN3o1R2RwbkRaY0JvYVk0cEYxODNzclcwVGg0Vl82b01WSFhyRzR4VGptV2pQd09UcXEyOC14QVJFSFhMS1JmOTJ4VnFnVVdnM19kQUQxNFl3VW9nWGxZSG4yVlBfMQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T06:29+09:00"
-  },
-  {
-   "title": "携帯電話各社のロゴ - キャリア決済、相談相次ぐ 無断でゲーム課金、高額支払い - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVbzI0WHd2UzF4VkdyVldFLVJJX1Y3RVhZNjg1R1VZNmZOMU9rTzdTaW10S1E4SnotdDBhSmlEaGhubkpSMnBRX0VuaUFHZlVjdlN0OWlMdw?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-13T06:23+09:00"
-  },
-  {
-   "title": "JA共済、最大約285万人分の個人情報漏えいの見込み ロードサービス委託先PCSへの不正アクセス、口座情報も対象",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFpfYXZUTk10bG1PdjJOVTVqc1B1WjFfYlhPZDd0Wi1PUUFZS28zNFNWS2prUFpOdThSdlF1azQ2M2pSbTdDbkV4RDBZSzVIRHhEQmVjM3drbDBabTZhYnBlMjdWSzVFakRSYWJlc1lPblhZQ3R6S1pfTHhYaFV1Nzg2ZHMyTnlNWU9uZUVTMzZmdWlsMFZoUFo5NEM4MXNOcGMzbkIyNnpvR1U?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T06:21+09:00"
   }
  ],
  "osaka": [],
  "world": [
-  {
-   "title": "【連載】中間選挙の衝撃 揺れる米国と世界（４）米、「最後の一撃」検討か、イラン、核開発再開も",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MSWxTUEk0R1RlMVR1ZmZQWFNrT0E3QUh2OHFwWUNMTTJuQUl1TG1vaktNY0taN0tsc1pQc3ljaF9BRlMyYzBWYWFiY0FQMUx3WUhNTkd0NGNWc3ptODRLQmpyVGJPb2p2RG5zSDZ3UWhleWJu?oc=5",
-   "source": "世界日報DIGITAL",
-   "at": "2026-11-13T06:20+09:00",
-   "topic": "イラン・アメリカ"
-  },
   {
    "title": "ウクライナ、ロシア、米国3カ国協議の論点 - ウクライナとロシア、領土の溝埋まらず 米含む3ヵ国協議 安保交渉への欧州参加でも対立 - 写真・画像(2/2)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMDBfdDE4WUNFSi04TzlzMDBXb3RlRDRZM0ljeWxMSmpaaGM3SnZ4MjFkYlZoR1F0dlc5bEZ5aVY5bEVONk1MUXdvNkJaeVpQVnpSRy01Yw?oc=5",
@@ -464,7 +457,7 @@
   },
   {
    "title": "プーチン大統領が米特使らと会談 ウクライナ東部での人道支援を提案 「制圧」主張を誇示か",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qNC0tZ1lrWUFaT2hSMmpydndiVHY2dWtabDJFRFR6cUhVN0FsNnNYV3lJMkhJa3lUaXFnYlF0Q0s1dHdtN0JGeTFKYVlEM3lieHFKRnZiMDFzTVBCaFg4U2RkTFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zMFY3d2I4c1NiXzJsMlFtUmlndFZaSURhYndwWUFjOWJETUpwTHlsNzNfV1RVbS04b01hS3BLMDY2WGhTQnVadmFqNGktYWx5THBYMUFLZ052UFk5SC1tMkRmS1YwTzZRT3QtRDRLOU1RcFJ6?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-13T06:13+09:00",
    "topic": "ロシア"
@@ -587,19 +580,26 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T21:05+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "北朝鮮外相 非核化促すG7外相声明を一蹴",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80VkY5ODFmVlU0bTNnejk3U3YxcDNlZUxER0FvbTNBelFfdjFvZW0tbEpPa1ZycFVpdFhWTTNOVElTY2tySW1YRTQ3dW5OdUpVdnZRZGxPMVNNNEhfNDJyeXR2c3daMWV0UDlDUWtCbHEzWXFCakpLdEo4SzdGMkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T20:10+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ“つながりにくい”通信を招いた「3つの要因」とは？5G基地局数でKDDI・」"
+    "「ＭＳ、米で大規模通信障害 ＡＩのサービスにも影響 | 全国のニュース」"
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
