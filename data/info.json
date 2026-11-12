@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:00+09:00",
+ "updated": "2026-11-13T03:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -342,6 +342,12 @@
  "outage": [],
  "japan": [
   {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  },
+  {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
    "source": "Mezha.net",
@@ -384,6 +390,12 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tekRUUDlhU21kdnQ3Vlh4OExib3R4bUlqOC1yTjhhanJoS0xHdEpONDlwb3J0cWRYQk5haUhnblYxdjlCa0tBWHl1YzVNVjV5SV9Sag?oc=5",
    "source": "ktv.jp",
    "at": "2026-11-12T18:45+09:00"
+  },
+  {
+   "title": "サイバー攻撃でイラン関与と非難 仏政府が声明 700店舗のスーパー冷蔵設備が被害（ANNニュース）",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2VGZzbVA4UF9MMU45blFiZ0NfeEI2VU50aDZKQnVlaElfUlFQYU9hamVoUTV4cXl2VGZWbVpSTmU0SG9reHdEZ3BZYjBPdWwyNng5RGc1VXNWbVI5enB6VEU2SUZpQQ?oc=5",
+   "source": "www.nagoyatv.com",
+   "at": "2026-11-13T02:08+09:00"
   },
   {
    "title": "クレカ“全ケタ”109万件 不正アクセスで流出か『良品計画』社長が謝罪",
@@ -432,12 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGZoWWdHczVBSGx6ZmRkQmZpY0s4aDhjRm5IN2NRWjZEelBGQkRXS3UwZ0VrdFNxN3RmVUsxMnlnTjhVNjZ0WHY2WTY3eThGa3dxZzNkSDlzVGExVWk3YXVPQVpoblhGZEh6elNVZlZNNWxIZENEMjNDcno3dFdXVG1pbUlZcVQyUEYyYXMyNkVNeUFzVFBqZzNibFlKZ18z?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-12T22:25+09:00"
-  },
-  {
-   "title": "「超PayPay祭」が11月20日スタート！ PayPayカードのタッチ決済で「PayPayスクラッチくじ」が必ず当たる",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzN1luTTQ1UURQelBkTzZOZERPLTI3Z1dTQ2x3cEpPcjltaGNLTkt2LXQ1eEUyYjVQajFLVnRsQ1BCZmhLMnkwX2FnQ29QdjNIWFdJS2FwTTFGZzJjTEV4XzRPT2xaMVVtMmc?oc=5",
-   "source": "AppBank",
-   "at": "2026-11-12T22:13+09:00"
   }
  ],
  "osaka": [],
@@ -591,9 +597,9 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
