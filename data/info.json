@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:15+09:00",
+ "updated": "2026-11-13T01:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,16 +221,22 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナの無人機、フィンランド湾の公海上でロシア艦艇を攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLZUNRR3pFYnlTZUlFazAxTHJqaTJ5dXdvQnpBNG44T3lNY1ZLem9OaHR6U0U5Yjg5bFJsbEJvN29hLUJNaklfT0RQY1Q5OThxNEE?oc=5",
+     "source": "株探",
+     "at": "2026-11-13T01:18+09:00"
+    },
+    {
+     "title": "ウクライナ東部で人道支援提案 プーチン氏、米特使らと会談で",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kbElSRTk4aHVGeV9YR3Y2X3k0VGhQMURUZmRzRk1FbUZlaDBZOEQtYWNLeTh5UGlVc2c0eWJ6N2NyMEZnRXdFdTk4aw?oc=5",
+     "source": "47NEWS",
+     "at": "2026-11-12T23:31+09:00"
+    },
+    {
      "title": "NATO事務総長のマーク・ルッテ氏は、ウクライナ戦争でロシアが毎月被っている損失を、ベトナム戦争への14年間の関与で米国が記録した総損失と比較している",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS25kR3pGcXU1X2ljakNiT2Z0UzhmQ1FDcjdEb0dIMU9lQ3NpWHVhZVA4NFFORVAxY3lraVh0TkQtUGdTdDFRS0ktS1NidFpIYzc4bFREZkFLcDBldE5QZUZmZVo2SW91V0Z4T05iOTYzWktSaURDUlhHdHZrdXZaV2drNjM5cGVJa3VIdmJOcWM2S3p1SHNUcHR1dzlxdHBiRDE1Z2xXcVV0QXVWVWNxYlpuOXM?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-12T23:07+09:00"
-    },
-    {
-     "title": "ウクライナ東部で人道支援提案 プーチン氏、米特使らと会談で",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zSGUtbUZvRFY3b1JLZUVsYnk1bVZmU3JubW9sSVB1bEJEdDE2cW9XVUNiTk12Mno5b1dYRXVBNU1GcnlOM0lRR1psaHBPLWo1c0NjUA?oc=5",
-     "source": "中日新聞Web",
-     "at": "2026-11-12T23:01+09:00"
     },
     {
      "title": "ロシア大統領がウクライナ東部での支援提案",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5VXAwWk54QnRTQ0g3cWEtVkdBQU9VbHFGX1BSa05VUHNRQnhudjM4VnlYMWpCYm1PcVF2NDRlekcyWkFYSENSS2NWSUhFckV0dEJsb2tSbzBQYU5XQzE3UlIwNA?oc=5",
      "source": "時事ドットコム",
      "at": "2026-11-12T21:53+09:00"
-    },
-    {
-     "title": "プーチン氏、米特使と会談＝ウクライナ和平協議か",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY3ZGcjhUcW5oX25tOV95cUFoOHdmd19KYXoxaVhwUUFwUWg2V0Z4SlhiSWVXblpQRTc5NGY1QmhaQ1lLc1dwS2pkLWhhY3NNZDR3ZA?oc=5",
-     "source": "時事通信ニュース",
-     "at": "2026-11-12T21:25+09:00"
     }
    ]
   },
@@ -270,8 +270,8 @@
     },
     {
      "title": "イタリアの学校に爆破予告…のべ8000校超に メールには欧州で相次ぐ予告と“同じ人物”の署名",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yODExaGtnN21Gdm1IelhUV2dkQ2UtSGc3YjJ3NnJMSlVGSXVvaDFOamw4QXY3QW5zQUVSSFphLW0ya1VWbGRJYV9kVnJVUFVwZzhFVXFDRE51WE1IUF9MRXR4SE4wQzFn?oc=5",
-     "source": "Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFF0VU45SkRzZjZIemo3QV9HZFBCMy1lR2paMzFZMmFWMkdxTWUxMm4xRmpmZzJ1QkllQ2tSWFhpYjFJdXdQVnVvTUNjNU1KNHdkek1wQ00xRm1rRXVmUEZUNDE0Wi1YUWJodW9aSHd1R2UwRE1aZ2ZET2dIY21pM3FLdV8?oc=5",
+     "source": "日テレNEWS NNN",
      "at": "2026-11-12T23:58+09:00"
     },
     {
@@ -404,6 +404,12 @@
    "at": "2026-11-12T23:47+09:00"
   },
   {
+   "title": "人気アーティストFC、相次ぐ情報漏洩 ラルク、EBiDAN… 「アララ」不正アクセスで（スポニチアネックス）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NanF1QndrX0NqUDU5WHpibm42YWZZVjNHdkZReW5yb0djS2wteG5vSVZvUnVwYWhLOUlqUndjdkFrVmRzN1prOTNPbU43Sk90QlJqcmVKSjVLN3owazl4SjFDRkNNRnNaREJ1SkZta1VtWnNNMFZ0MjRaSlpzWkk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T23:24+09:00"
+  },
+  {
    "title": "アクサ損害保険「MyAXA」に不正アクセス 関連Webサービスは11月12日に再開、影響範囲を調査中",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkI5UE1CR0xNbFMzcnFmM3pGSFBTamFQRXBEU2NucWp0VVhQNElWeEx3WEkwelladF9iaHVnYTlZOWhJU1NDLTE2RG9RQ3Nmci1RS1I0aU80dXdEel8wdGhiM05NRWMxRmpLVzJrMldDR1UySnFsLS00aDVFTElMQ1ZkR0l6QS1Md1lsOEQ0VWN4ZzdvcW5vbFhjSkZleWZvQUl5dVE0UjBrVWRV?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -438,16 +444,17 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nUnVIblRremdiZ2RERzNJRVd2WTFJelc2RVNmSWJOUEFmMG5SZTlLOFMwSUktYWRMX3lLLVJTaE9PZ3l3bjBHbE5idw?oc=5",
    "source": "47NEWS",
    "at": "2026-11-12T21:45+09:00"
-  },
-  {
-   "title": "東京ガス、メールアドレス8万件流出＝アララ不正アクセスで(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREVYTG96LXIzTjZPenRPZlV1ME9kMTZ1S3FKVnd1ZklUUlJjNHVfZnpHaVVvQkxCMkp2Z1FoSzE2eUQxbm03OGZwcVJBRS1XRzFjd01reC1KZ3RTV0Vna1lqUnhJX2VnY2RHdHNyQTJucGxyeEpjQi1DTC1GYmlYTlUyNUprQ2M?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-12T21:36+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ウクライナの無人機、フィンランド湾の公海上でロシア艦艇を攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLZUNRR3pFYnlTZUlFazAxTHJqaTJ5dXdvQnpBNG44T3lNY1ZLem9OaHR6U0U5Yjg5bFJsbEJvN29hLUJNaklfT0RQY1Q5OThxNEE?oc=5",
+   "source": "株探",
+   "at": "2026-11-13T01:18+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "「ミソジニスタン州指導者」と署名が…ヨーロッパで相次ぐ爆破予告 “ロシアの関与”疑う見方も…目的は",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsa1dhcTd4Z2RIaEdFN0cteXhSTWdYbkZzVktEX1lyMjNJNEpuZndpNkN3MTBNMmJDVGhKZExtZkdER2kydDdYcEtOWkF5N1NxdTlCU0hOWnB2a215cTVkR0p2UV9IdmhU?oc=5",
@@ -457,23 +464,23 @@
   },
   {
    "title": "イタリアの学校に爆破予告…のべ8000校超に メールには欧州で相次ぐ予告と“同じ人物”の署名",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yODExaGtnN21Gdm1IelhUV2dkQ2UtSGc3YjJ3NnJMSlVGSXVvaDFOamw4QXY3QW5zQUVSSFphLW0ya1VWbGRJYV9kVnJVUFVwZzhFVXFDRE51WE1IUF9MRXR4SE4wQzFn?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFF0VU45SkRzZjZIemo3QV9HZFBCMy1lR2paMzFZMmFWMkdxTWUxMm4xRmpmZzJ1QkllQ2tSWFhpYjFJdXdQVnVvTUNjNU1KNHdkek1wQ00xRm1rRXVmUEZUNDE0Wi1YUWJodW9aSHd1R2UwRE1aZ2ZET2dIY21pM3FLdV8?oc=5",
+   "source": "日テレNEWS NNN",
    "at": "2026-11-12T23:58+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "ウクライナ東部で人道支援提案 プーチン氏、米特使らと会談で",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kbElSRTk4aHVGeV9YR3Y2X3k0VGhQMURUZmRzRk1FbUZlaDBZOEQtYWNLeTh5UGlVc2c0eWJ6N2NyMEZnRXdFdTk4aw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-12T23:31+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "NATO事務総長のマーク・ルッテ氏は、ウクライナ戦争でロシアが毎月被っている損失を、ベトナム戦争への14年間の関与で米国が記録した総損失と比較している",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS25kR3pGcXU1X2ljakNiT2Z0UzhmQ1FDcjdEb0dIMU9lQ3NpWHVhZVA4NFFORVAxY3lraVh0TkQtUGdTdDFRS0ktS1NidFpIYzc4bFREZkFLcDBldE5QZUZmZVo2SW91V0Z4T05iOTYzWktSaURDUlhHdHZrdXZaV2drNjM5cGVJa3VIdmJOcWM2S3p1SHNUcHR1dzlxdHBiRDE1Z2xXcVV0QXVWVWNxYlpuOXM?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-12T23:07+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ東部で人道支援提案 プーチン氏、米特使らと会談で",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zSGUtbUZvRFY3b1JLZUVsYnk1bVZmU3JubW9sSVB1bEJEdDE2cW9XVUNiTk12Mno5b1dYRXVBNU1GcnlOM0lRR1psaHBPLWo1c0NjUA?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-12T23:01+09:00",
    "topic": "ロシア"
   },
   {
@@ -495,13 +502,6 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5VXAwWk54QnRTQ0g3cWEtVkdBQU9VbHFGX1BSa05VUHNRQnhudjM4VnlYMWpCYm1PcVF2NDRlekcyWkFYSENSS2NWSUhFckV0dEJsb2tSbzBQYU5XQzE3UlIwNA?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-12T21:53+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "プーチン氏、米特使と会談＝ウクライナ和平協議か",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JY3ZGcjhUcW5oX25tOV95cUFoOHdmd19KYXoxaVhwUUFwUWg2V0Z4SlhiSWVXblpQRTc5NGY1QmhaQ1lLc1dwS2pkLWhhY3NNZDR3ZA?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-12T21:25+09:00",
    "topic": "ロシア"
   },
   {
@@ -607,6 +607,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「攻撃」1件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
@@ -623,10 +624,10 @@
      "at": "2026-11-12T18:51+09:00"
     },
     {
-     "title": "「ミソジニスタン州指導者」と署名が…ヨーロッパで相次ぐ爆破予告 “ロシアの関与”疑う見方も…目的は",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsa1dhcTd4Z2RIaEdFN0cteXhSTWdYbkZzVktEX1lyMjNJNEpuZndpNkN3MTBNMmJDVGhKZExtZkdER2kydDdYcEtOWkF5N1NxdTlCU0hOWnB2a215cTVkR0p2UV9IdmhU?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-13T00:01+09:00"
+     "title": "ウクライナの無人機、フィンランド湾の公海上でロシア艦艇を攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLZUNRR3pFYnlTZUlFazAxTHJqaTJ5dXdvQnpBNG44T3lNY1ZLem9OaHR6U0U5Yjg5bFJsbEJvN29hLUJNaklfT0RQY1Q5OThxNEE?oc=5",
+     "source": "株探",
+     "at": "2026-11-13T01:18+09:00"
     }
    ]
   }
