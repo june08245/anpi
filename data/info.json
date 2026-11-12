@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:30+09:00",
+ "updated": "2026-11-12T17:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮が、韓国型原子力潜水艦（核潜水艦）の建造と日本の核潜水導入論議などに反発し、海軍力増強の正当性を主張した。",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmUlZ2RFRRNlFTUmxscjB1eVBoaFBWRktIZTQ0NUllQzdpZXBxRlBoaDFydDFDUi1OVENXd0lwTWx6ZEJ4UFowUl9heXp3ZU45bk80?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-12T17:36+09:00"
+    },
+    {
      "title": "北朝鮮・金正恩政権15年、核は何を変えたか―米韓の反撃をためらわせ、強硬な行動を後押しする危険",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVRjRHNoYTJsZ0hYalN6X2VYVlF3dWtmT2N6cUpuX2M1TXltUlZmZlEtdkd4T3oyMU1Rd2hiWkRDYlFGOUVFUGtpN3RYUnAxQzMxek5JYXNNUUZkVUtzSmcxQi1PYnZ4a19WaGp4bmRYWjZ3LW1CMGF5a0ZDQXhOdHczNEZRWHg3?oc=5",
      "source": "Yahoo!ニュース",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdFVkdmE3MjQ5QlJWQUhWWmdiWk80RkZBanFLbi14elZjVmY3NU85WEllVktpWWZvcU45enBTeUxqRm53MDFRUHdGZnpLQi1kQkHSAVRBVV95cUxQVGI2cWUzR3IzMnhYM0ZwYnVvRHZlNml2bDZTR0s4NGNoTVVyNFhGQ1AzN0M1SllNMEQ3S18wMVhMS2NHbTFZRUNnN0dtV183bEdHN1k?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-12T11:49+09:00"
-    },
-    {
-     "title": "金正恩氏、建造進める海軍基地視察 大型艦係留用、初期段階か",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15dVRFTF9ZbGh2YVVQTEpVR2dIdXNEYmVJcFJTZW1sVlNLa3lBeGY4b2tPdHhSU0pTMW4wanpYQVZXUnRXYTNNTllBY3B3TUVMU1FuZDYycDZrUE93ZnV0UHprWTNQTzNfS0Nwa1RST0lReUV0LWc?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-12T11:00+09:00"
     }
    ]
   },
@@ -287,16 +287,16 @@
      "at": "2026-11-12T09:38+09:00"
     },
     {
-     "title": "イタリアで6300校に爆破予告 イギリスの学校も標的に",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBY0ZVRklMMkJEcFg1Yy1Nc1ZHRF9aQllPWnUwZF8zdDRNWUVYcDFYYWdCcDB6QVJiTEx0bDJRQ2tZcFpwZk1RZURfYnV1QUJMMDZhZ2hWMzUwZ0Zpb1Fj?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-12T09:13+09:00"
-    },
-    {
      "title": "イタリア6300の学校に爆破予告 生徒は避難で混乱広がる 欧州各地で脅迫メール騒動続く",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85ZHFpb1VuZ0owczBwODRqMzlzZEMzNWRLYmtTemZES0stUm9ObmF6eEtmSm1CVU15Y2FKNWh3cDdmcWJ4dFpnVlhqdE1CUEh5VklHQUNrY0ZGUk9GRkRB?oc=5",
      "source": "千葉テレビ放送株式会社",
      "at": "2026-11-12T06:53+09:00"
+    },
+    {
+     "title": "イタリアと英国、学校に爆破予告相次ぐ 一部避難、「組織的攻撃」か",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyQVJVT1hJVWRwVjJpLUhfRHBjVkdMbHBRRVBJTUlNeHlldEpQajlldDdtVWtualVLd3N3dGlrZFBhM1BNcDdOQ3lNVi1sSS01dW14VHhoendocm5UR3lsdlpiZw?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-12T06:23+09:00"
     }
    ]
   }
@@ -362,16 +362,28 @@
    "at": "2026-11-12T16:14+09:00"
   },
   {
-   "title": "【速報】ダイハツ・トヨタ・スバルの3車種 17万6000台をリコール 電気装置の不具合でエンジンが始動できない恐れ",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kRXAtOVBOcFRzcG1kU0hCT0ZFNUFpaFJhc2E3OWoyVy11LWFVSWRwa3VIbUE4M0loRS00WjNxYkVua25vYVBnTUI2Nm0wT0oyMGE4TVlacFIzS1pxb010Q2daQWJwZXBCeDAxZlFB?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-12T15:07+09:00"
+   "title": "メーカーズシャツ鎌倉、アララ不正アクセスでメアド16万件流出",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zYWpCZWllM2xqenk4NW40Z2dGQ25CM0Z1dUpRQ0ZUbHZ1blo3bG5ZVXktT3ZnQnAxakphX0dEYVh6RW9CeVJ1MFBLZnYycHBEdEJidGw5SURoMVY3OFFjTWk2SFJ5c2ZJMXBYOQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-12T17:41+09:00"
   },
   {
-   "title": "GMOあおぞらAPI障害、円建てステーブルコインJPYCの交換サービスにも波及",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wNk5pa3ZBNV84UHUyanZqb2dMYUp2bGZKRk1SSHVyeTJKd2cyMkx5R2p0anJ2UXpGdXBFUTU1cVFuWFdwc1BfNVZqLVo4allFazdyNzBERnFqYUVLTHZBdjZmVW5rMHMwUzdaejhpaUl4XzQ2?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-12T13:05+09:00"
+   "title": "不要なクレカ情報削除せず 不正アクセス、社長「責任を痛感」 良品計画（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sdDU4aXZfQ2tPTGZjdnBnRUMzUGZGVlU4UHNkWjZQUnRobV9iam5MY2hSYUlYMUZFSzdHMW03b053V2MzZm8taHkzSEN2SFFxU1lVaWo2ZzRVRGVJTWs5Sk43d0gyQ09xaVRUNGVFMkZJR2d4WGh0M2NQWV81c2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T17:36+09:00"
+  },
+  {
+   "title": "東京ガス、アララ不正アクセスでメアド8万件超流出",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuak1CR3FVRm15QmVuR2ZlcVBmRDN1aF9zNndZVUsyTzVaWHFvaXplWk1KbThSajljOUdpaVJtWDN4RDJDX2tTTFhhV2VWODJZekFMMk1feElONG1LR3lWZTNmLS1fcUJuTWlFYQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-12T17:33+09:00"
+  },
+  {
+   "title": "百十四銀行 株主のメールアドレス1500件漏えい 配信システムに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xTk9OV0FvaEVWeWw2TmFXSEltWEVSTGNlLWJMdUlnV3FfLU1GWG04X0NiMnNOSnJPTkkzdWxnTm9hYU5YTFVZb0tJTjFULU8x?oc=5",
+   "source": "KSBニュース",
+   "at": "2026-11-12T17:27+09:00"
   },
   {
    "title": "サイバー攻撃相次ぐなか…京都府警と損保ジャパン合同の「セキュリティセミナー」関連会社や取引先経由で大企業狙う「サプライチェーン攻撃」のリスクなど紹介",
@@ -380,10 +392,10 @@
    "at": "2026-11-12T17:25+09:00"
   },
   {
-   "title": "東京ガス、顧客のメールアドレス８万５５６５件漏えい…「アララ」不正アクセス受け",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OVktPRkR6bXk4UG1CWjdJWTlYbXNVY0tMckdTaWRYY2luTHQ4ZmdoWm9xZnZzTjJ5eGphVnR5Sk90MHFOQmFra1BockVqSzJ4bjVfekstSUhWOFJ2V2hOOExuaGVYS092SDlWdHFR?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-12T17:20+09:00"
+   "title": "二戸市が利用「マイナンバーカード交付予約・管理システム」に不正アクセス メールアドレス漏洩の可能性 岩手（IBC岩手放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NHFoX2NFTjFqalhBTUZQWW1JX0RaYmh4dlZGamo1WkhjdkJfNjF0a3E0OUpTZkM4MlF2cU80bV9zYjhqb01ER3dRQ19sTEVVUWsxNVNRY01vUm94WktIaTlkd1FFMUR5SnI2TzI2WlFraGVFV2FGMHNKYWxWcms?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T17:23+09:00"
   },
   {
    "title": "アクサ損害保険「MyAXA」に不正アクセス 関連Webサービスは11月12日に再開、影響範囲を調査中",
@@ -422,12 +434,6 @@
    "at": "2026-11-12T17:00+09:00"
   },
   {
-   "title": "不正アクセスによる情報漏えいなし 県運営の5つの配信サイト 外部の運営会社が調査結果報告 富山（チューリップテレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iYjJSZDZScjhkTEdRUEFtMUEyeFNCdEhSZ29xbW9YQ1NzeTgtejdyU3pfNEpERVNROWNrdDdpQXpxeTNvOWk1Zm85UFFTSUxsVjVCcmJNMGR4X3RxUE1fekhydkFfWU0xcFdhNnZpa1JTUzlEVFB6aVlWci1JejA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T16:53+09:00"
-  },
-  {
    "title": "むつ市システム 不正アクセスでメールアドレス漏えいか 青森",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51RE9yQVRRYzd5RExvd1BDM2JpUm1oN3ZkVk5NdzBUeWtXWnJtbHJtWlkwUzZaYTVJUms2TnpWclI0RVZZbjZ1dFN3TGlsQklZVWEwRFNMR2Z0UV9yYzZJ?oc=5",
    "source": "NHKニュース",
@@ -438,16 +444,17 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zWnBiMGxacUFBS1NzYVdFNi1Ja0JZdVVLX09CSzFCUEplVjU5VDdhRXNuSVhQV29TSU52VzdmQWVGc3BfQ2t3eHA5TGZrbk52YTlqcnN0TjV1ZV8zaDEwWmtSNkkyYnRoNnVMTEwtbzFtUQ?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-12T16:27+09:00"
-  },
-  {
-   "title": "二戸市が利用「マイナンバーカード交付予約・管理システム」に不正アクセス メールアドレス漏洩の可能性 岩手（IBC岩手放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NHFoX2NFTjFqalhBTUZQWW1JX0RaYmh4dlZGamo1WkhjdkJfNjF0a3E0OUpTZkM4MlF2cU80bV9zYjhqb01ER3dRQ19sTEVVUWsxNVNRY01vUm94WktIaTlkd1FFMUR5SnI2TzI2WlFraGVFV2FGMHNKYWxWcms?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T16:22+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮が、韓国型原子力潜水艦（核潜水艦）の建造と日本の核潜水導入論議などに反発し、海軍力増強の正当性を主張した。",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmUlZ2RFRRNlFTUmxscjB1eVBoaFBWRktIZTQ0NUllQzdpZXBxRlBoaDFydDFDUi1OVENXd0lwTWx6ZEJ4UFowUl9heXp3ZU45bk80?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-12T17:36+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "トランプ氏、イラン戦争に「我々は勝った」と発言 退役軍人の日の式典で",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwaVZhaUVjTU03Y25xOFEzZnZGVG56aXZoWTRuU29OdDU5MllKRWNWRXRHd1JuWXI5dE15eGduMHBBdUNLZ2xaeDNRSjR3eUlYNXIxRnBsT3dHME5O?oc=5",
@@ -566,13 +573,6 @@
    "source": "Infoseek",
    "at": "2026-11-12T11:48+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "金正恩氏、建造進める海軍基地視察 大型艦係留用、初期段階か",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15dVRFTF9ZbGh2YVVQTEpVR2dIdXNEYmVJcFJTZW1sVlNLa3lBeGY4b2tPdHhSU0pTMW4wanpYQVZXUnRXYTNNTllBY3B3TUVMU1FuZDYycDZrUE93ZnV0UHprWTNQTzNfS0Nwa1RST0lReUV0LWc?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-12T11:00+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "ロシア軍は一日で17回、ドネツィク州を砲撃し、クラマトルシクでは一人が負傷 - ドネツィク州軍政府",
