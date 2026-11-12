@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:30+09:00",
+ "updated": "2026-11-13T04:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "プーチン氏、次回和平協議に欧州参加を了承 米欧に対応迫る＝米特使",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa01xM0hjUVpydjNiWlB3OXhoV2FvQUI0aEFwM2U3dG0xRkZDV0lqVHNGM0E5dFdCdW9DYjV6Z3dvYUl4eTI0NWpueFExNEVCN25hRjR4TDlUbzBvRHFYa19vc1R3d2d6UERUQzVlX2VQS1FJY0RUVlYwWllGRXRkQ2sybGZ6Zw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-13T04:36+09:00"
+    },
+    {
      "title": "プーチン大統領、米ウィトコフ特使らと会談 新たな人道支援として“ウクライナ東部での住民避難”提案",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kMWNGUXY0bzlfUV83QlA1ZWp5bkR6ZVJrcGZPZkpLVTlCN3M3U3Nsa3duVXZad1d4eFQ1M1FpNEw2amJXMm4wc3gwYzJ4Vk9oUDR0MUMtbnY1OEJRWVAtM01EaXpLZk1fbkNEd2NB?oc=5",
      "source": "au Webポータル",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRbjdBYXhCTjlhYWM3RlVlRkZzTHBiNzluYzVzR1A2R0U1T3BqV2hhNUdoMDN1a1NmdDQtR2JZNW0xVGFsSVRYUnAtS0RJNVk4b2gyWllmUFM?oc=5",
      "source": "京都新聞デジタル",
      "at": "2026-11-12T22:17+09:00"
-    },
-    {
-     "title": "スターリンク制限、ウクライナ軍の迎撃能力弱める－ロシアの攻撃前に フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFRBdUlJYUpzUk10aGo1QkJPUElJOHJocm9CbzRpUzZadnRZZThRbzhiUmpIbXROdHZjZjEwT01oRGd3SzZFZVlOMXhUQ01IZGdmTW5yQm9Vc2ZwMVpHSnVEZkxUMnBiWVhzWmNIdVZLd2d6NkNtZ0wwQUJxRjBEWHJMRG5hbTg?oc=5",
-     "source": "TBSテレビ",
-     "at": "2026-11-12T22:15+09:00"
     }
    ]
   },
@@ -380,6 +380,12 @@
    "at": "2026-11-12T21:43+09:00"
   },
   {
+   "title": "【速報】小学生を車ではね7人にけが・骨折も 殺人未遂罪問われた男は起訴内容「黙秘します。減刑は望みません」 検察側「死刑になろうと準備」指摘 弁護側「発達障害が動機など影響ならその部分は非難できない」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tekRUUDlhU21kdnQ3Vlh4OExib3R4bUlqOC1yTjhhanJoS0xHdEpONDlwb3J0cWRYQk5haUhnblYxdjlCa0tBWHl1YzVNVjV5SV9Sag?oc=5",
+   "source": "ktv.jp",
+   "at": "2026-11-12T20:19+09:00"
+  },
+  {
    "title": "Windows 11の11月更新KB5132061がインストールできない不具合、Microsoftが修正を配信開始",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYRXhQbTFKSzA3amo1ZkNJZ1BScWwxLTl4bmpsbmZLNnhnMldobU1QcGlzWGtqbHhyMHg0bGlWTU5OMFR1b0dxOWxFSkd4MUdBZ1pEU254TkRYS3hFalA0bUFJRC1jLVU?oc=5",
    "source": "enjoypclife.net",
@@ -422,9 +428,9 @@
    "at": "2026-11-13T00:00+09:00"
   },
   {
-   "title": "不正アクセス受け“無印良品”謝罪 クレカ番号約109万件が流出か",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwUjBqVmNabTZBNHdqMFltS3E4UHczS2JSWkp5TTVGX09oSUxJQ2c4WVF0alhDWHhTcmk2b0hXNEVYaFhhbUFMVXA5cHdCcUI1d2xmbXE4YTk0dzluLTBZ?oc=5",
-   "source": "千葉テレビ放送株式会社",
+   "title": "不正アクセス受け“無印良品”謝罪 クレカ番号約109万件が流出か（FNNプライムオンライン（フジテレビ系））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55MTBESTZCTjFSTnJ0X2lJb19uZFo5SUlrTWtTaTlUNDdjZy1xQU5ldEhKNjRSenl3MkJFUmRBUDM1ekVZQUYxSnp2ZzdTUGEtUmtrYXh6ZURNQWdpTC1VcEVvQlJrekxmSTVscXVsOWRqLXBnWmFnUFZ0YzNEWVE?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-12T23:47+09:00"
   },
   {
@@ -432,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NanF1QndrX0NqUDU5WHpibm42YWZZVjNHdkZReW5yb0djS2wteG5vSVZvUnVwYWhLOUlqUndjdkFrVmRzN1prOTNPbU43Sk90QlJqcmVKSjVLN3owazl4SjFDRkNNRnNaREJ1SkZta1VtWnNNMFZ0MjRaSlpzWkk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T23:24+09:00"
-  },
-  {
-   "title": "アクサ損害保険「MyAXA」に不正アクセス 関連Webサービスは11月12日に再開、影響範囲を調査中",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkI5UE1CR0xNbFMzcnFmM3pGSFBTamFQRXBEU2NucWp0VVhQNElWeEx3WEkwelladF9iaHVnYTlZOWhJU1NDLTE2RG9RQ3Nmci1RS1I0aU80dXdEel8wdGhiM05NRWMxRmpLVzJrMldDR1UySnFsLS00aDVFTElMQ1ZkR0l6QS1Md1lsOEQ0VWN4ZzdvcW5vbFhjSkZleWZvQUl5dVE0UjBrVWRV?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-12T22:59+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "プーチン氏、次回和平協議に欧州参加を了承 米欧に対応迫る＝米特使",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa01xM0hjUVpydjNiWlB3OXhoV2FvQUI0aEFwM2U3dG0xRkZDV0lqVHNGM0E5dFdCdW9DYjV6Z3dvYUl4eTI0NWpueFExNEVCN25hRjR4TDlUbzBvRHFYa19vc1R3d2d6UERUQzVlX2VQS1FJY0RUVlYwWllGRXRkQ2sybGZ6Zw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-13T04:36+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "プーチン氏「新たな欧州安全保障」に理解か　米特使と会談「NATO不拡大」条件に",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcy1zSlU1MGNYckw3V2piTGx2N09Ba3o1dE9ZaU5iRXFCbzBaQW5fNWhZdkU4VjNWMkYzRVhKVXZuODlXUlVBR1AzVWowdlh1N2xPS0RxMjZYeENMdDFkeDJJejRqeDVHWmdvSndQNzMwNU8yWUlMVzEyZ0M1aFJSLXI5SlVId9IBiwFBVV95cUxQT2s1YXpLdGphWGFRYTlFRktvMklNUmFoc1hrOWs0c2R5Uk9Hd3pPTGpVRkdwVG9iWG1aZnM1bjhYd1I0a0JaM25IMy0yUFlvN045U2owM1dBS2Nhc0otSnpTbHhXYWxpdjFoRWQzY0oxOTNVQ2d2bUFWT3RGT0YtM3lseE5pMXNLaTNr?oc=5",
@@ -520,13 +527,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "スターリンク制限、ウクライナ軍の迎撃能力弱める－ロシアの攻撃前に フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFRBdUlJYUpzUk10aGo1QkJPUElJOHJocm9CbzRpUzZadnRZZThRbzhiUmpIbXROdHZjZjEwT01oRGd3SzZFZVlOMXhUQ01IZGdmTW5yQm9Vc2ZwMVpHSnVEZkxUMnBiWVhzWmNIdVZLd2d6NkNtZ0wwQUJxRjBEWHJMRG5hbTg?oc=5",
-   "source": "TBSテレビ",
-   "at": "2026-11-12T22:15+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
    "source": "Yahoo!ニュース",
@@ -601,7 +601,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「攻撃」1件",
-    "ロシア：「攻撃」2件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
