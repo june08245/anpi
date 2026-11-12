@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:45+09:00",
+ "updated": "2026-11-12T19:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -239,8 +239,8 @@
      "at": "2026-11-12T16:37+09:00"
     },
     {
-     "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(6/6)",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wLUlDRmtySGlXNnNfZWRPX3ctd0ZEYWtPVTIxMEZnQzFKdW04Z0tWZEdfcGIwVHQxWlk0cUxEcWxhOTQyMnI3NnRxLTRaeEdfMmZUUVk0NElJd3FIUjJz?oc=5",
+     "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(2/6)",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYjJ4V3pzQUVOd1FhN2lzUkItVlJHLTd3aGRNOUhlMmdWcTJOMEp4LXlUcWtNVlpuV2hOMkZGSGZzNG14QVJkODNMUXpFU2F4emFRV2xFTTc3SjBrVU9j?oc=5",
      "source": "JBpress",
      "at": "2026-11-12T15:00+09:00"
     },
@@ -356,12 +356,6 @@
  ],
  "cyber": [
   {
-   "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導 通信障害も相次ぎ信頼揺らぐ",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMUo3R3NhNGlWNTNVbTF1MEE5eTg0bnB0UjhXT3FfZGVoWi1NcWh3WFBHN2E3dXR4UGkxbi0zanR1U1dLdlF6dm0wMUpOT295dHdzb0FVUQ?oc=5",
-   "source": "J-CAST ニュース",
-   "at": "2026-11-12T18:30+09:00"
-  },
-  {
    "title": "ANAアプリとウェブでシステム不具合、予約取得や搭乗口変更に混乱",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuNmNDMWV4Y0lWX2ViazVoQUhXaWJnak9NVER0WWVFY0xGaWZaNk1GSEVjZEZQSHF2VFhrLUNtQzF1WHNGLWxkSVgwZmRxVGFrcHc3XzVFNA?oc=5",
    "source": "X",
@@ -374,21 +368,39 @@
    "at": "2026-11-12T15:39+09:00"
   },
   {
-   "title": "セキュリティ企業が不正アクセス受ける サイバーセキュリティクラウド（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZS1JNjhLOUlkQl9JN0NOQ2xxQndiZlhpb1Z6cXNaVjFVa1gyY3loMGRMTUtrVG1CbWJDYWJlTDk2Q2daZmFUNVR5WXB1SVZGRF9fcHNMbjVRem96YWpoTnU3NWVXdl9ZeTJiUmFLUFhoY1kxNXJ1NXB1ZHN1Z3c?oc=5",
+   "title": "職員採用試験で1464人分の個人情報漏えい 動画面接システムへの不正アクセスが原因【高知市】（高知さんさんテレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9leGNoTEYyeXZ0cWk2MElkS3JJTExFbko5Qk5WMW1Oa2V5Um5KM1l0TkgwOWhtLXlzUGltSmZ5eXJkdDUwanltekV2aGZSaDlQRFUyMGhCWHdKUTQxQ25jMFNCNTFYeUtrc3JJN2Z6LTJqQzhsWXZzMjFobGQzaG8?oc=5",
    "source": "Yahoo!ニュース",
+   "at": "2026-11-12T18:52+09:00"
+  },
+  {
+   "title": "自衛隊が平時から重要インフラのサイバー脅威を探知、安保3文書に明記へ（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2YlgyVGFjaVNuRWxGTDZ0WWVPbXFQMWI4Nl93NXFGbldEVEpHSmR0Qm5STFQxd2RmSTdpTkQyNzN4TTF6VmJpNEl6RUw2LVZXYmQ4SURWZ3ItVXN5SVdKN2NIZGlCSVFudDRCaGZKSjVEN3ZDdk8yV3hfYTRYcjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T18:45+09:00"
+  },
+  {
+   "title": "セキュリティ企業が不正アクセス受ける サイバーセキュリティクラウド",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hcWIzaTFhTllJNGRweEppOTFIWExwWVozQUhKakRHLXF4NENGejJkR0FMSUlTOV9icHU0dENpOUJjZUpGTy1uUEFNMkIwQTBoRjBMa3VqN3ZCWkJpanNSMWxMRUNORVVMU2treWlETlE1QQ?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-12T18:35+09:00"
   },
   {
-   "title": "県の子育て支援事業 約8200件情報漏えい メール配信システムが不正アクセス受け 大分（TOSテレビ大分）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CVVJ3QWtDdDN0WjlmM0NTYVBBUUk3eGpZRWpxcUVKWVhVVTNablQ4T1pjWU5FR0dKNGFKQThuTzBCRzI1VFBTbHNIeGVDR2JCSzR5WHdUWERacFBOUzZsTko3Sy1OQm1MU09yUFotaXZhaDFkenpKMzRWc3BHNVk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T18:31+09:00"
+   "title": "サイバーセキュリティクラウド、開発基盤GitHubに不正アクセス 従業員認証情報1件流出で顧客情報に漏えい懸念",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKbkpSa2Z3Y1k0eFZhU1VYWlp1ZUJqM3FnQnhrODVGN3RtUTRaWWxfNkg1YndsNDd1MVE4Q2RSQzNMYUlBcUhZZlBjSll4SjYzam1uRjRJenRma1NLNlQ4WmdyQkRuQ3Z3RDVwRmZZRDA4bVZV?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-12T18:35+09:00"
   },
   {
    "title": "「早く対応していれば」無印良品が謝罪 不正アクセス受けクレカ番号16桁流出 “マスクなし”情報「5年前に削除すべきだった」",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWFdzVzYwTkd5eUg3dWhIVGdFLU5VdjNrZHd0dGRfdV9wcFpGVzJmM1YyMXhpemhYTUJac1dhYnlHNXBVclR6eS1Hd0tzRzhNYm1JM1NfZkc4Z2pUSTNfX1lNaXdEbEM4REljRVhyS1RfNE1HRHNGMDF5b0J4VEU?oc=5",
    "source": "Yahoo!ニュース",
+   "at": "2026-11-12T18:30+09:00"
+  },
+  {
+   "title": "県の子育て支援事業 約8200件情報漏えい メール配信システムが不正アクセス受け 大分",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IR1RLQjk3WkdsYXB2OGdibXoxd3J5N0pqVnlZZXBjMEt3SUViaU1sOU1qdDRGQXphYXk3R3d0SXgtNTB3X1VzWlpXLWlqZw?oc=5",
+   "source": "FNNプライムオンライン",
    "at": "2026-11-12T18:30+09:00"
   },
   {
@@ -410,6 +422,12 @@
    "at": "2026-11-12T17:41+09:00"
   },
   {
+   "title": "不要なクレカ情報削除せず 不正アクセス、社長「責任を痛感」―良品計画",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Tk4yTWU0YUxNMERweGc0TThZUmZDcmVJNUJtMGxnOTBIQTUzZGtFdHNOcnVEOGVucHpWOWZmSjhEWHV3OEtLeTVfcDVoeEg4QVoxWEltNThZM1NHTVpwM01Hdw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-12T17:35+09:00"
+  },
+  {
    "title": "東京ガス、アララ不正アクセスでメアド8万件超流出",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuak1CR3FVRm15QmVuR2ZlcVBmRDN1aF9zNndZVUsyTzVaWHFvaXplWk1KbThSajljOUdpaVJtWDN4RDJDX2tTTFhhV2VWODJZekFMMk1feElONG1LR3lWZTNmLS1fcUJuTWlFYQ?oc=5",
    "source": "日本経済新聞",
@@ -426,24 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkI5UE1CR0xNbFMzcnFmM3pGSFBTamFQRXBEU2NucWp0VVhQNElWeEx3WEkwelladF9iaHVnYTlZOWhJU1NDLTE2RG9RQ3Nmci1RS1I0aU80dXdEel8wdGhiM05NRWMxRmpLVzJrMldDR1UySnFsLS00aDVFTElMQ1ZkR0l6QS1Md1lsOEQ0VWN4ZzdvcW5vbFhjSkZleWZvQUl5dVE0UjBrVWRV?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-12T17:19+09:00"
-  },
-  {
-   "title": "セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TaHVaUmNwVHY5dXpaZ2ZpUF96SkJYTWxhVjlpcmRWZUt2MWZfWENPTTAzaGd6SmNFVi1yZEpkQm1nY0xfS1dJRGI2UFkzNFFRaEFtQnBMSk1aMVBfTXhfM3B2RXF3bUU4cWc?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-12T17:15+09:00"
-  },
-  {
-   "title": "ワンキャリア、Notion AIのチャット履歴に最大約2,300件の個人情報流出の恐れ Fireworks AIへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU1LaGRHZUFJd3M3WTRZZ3BqQUNvNlpjS0ZyUFd3SUJPeWhGTVRNNjhCV3JXbkpJRXpvdjMyZk1XNkN0SHYzNW42U2thaVpPVWtYN0p4ZTRrM2YwS0hOUXNHTDVTSVdOWUNXQTNJQzdEcmlkYXRrdV9JQW1ldkFIcTlQOGpqZHZHbThtclpPUmF0azlONXVVTzBoaUU0Ymp6X1hEblJBMHlQTktrQVRSNzZySQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-12T17:05+09:00"
-  },
-  {
-   "title": "良品計画、サイバー攻撃で2年連続のECサイト停止 「アスクルショック」後も備えに甘さ",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUkhaQ3JsdmdxUjdWQThrclNNbGJOWGthU2lCYnFMWUVIb3BZYkNpSUJBYWpodTBNZ1ByVkFqU2hmVy1ic2NUaDlsR001cHlScE11bzlhbC0zRHdwUDNfTm9tcTQ4aEE?oc=5",
-   "source": "日経ビジネス電子版",
-   "at": "2026-11-12T17:00+09:00"
   }
  ],
  "osaka": [],
@@ -512,8 +512,8 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(6/6)",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wLUlDRmtySGlXNnNfZWRPX3ctd0ZEYWtPVTIxMEZnQzFKdW04Z0tWZEdfcGIwVHQxWlk0cUxEcWxhOTQyMnI3NnRxLTRaeEdfMmZUUVk0NElJd3FIUjJz?oc=5",
+   "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(2/6)",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JYjJ4V3pzQUVOd1FhN2lzUkItVlJHLTd3aGRNOUhlMmdWcTJOMEp4LXlUcWtNVlpuV2hOMkZGSGZzNG14QVJkODNMUXpFU2F4emFRV2xFTTc3SjBrVU9j?oc=5",
    "source": "JBpress",
    "at": "2026-11-12T15:00+09:00",
    "topic": "ロシア"
@@ -591,9 +591,9 @@
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
