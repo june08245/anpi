@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:00+09:00",
+ "updated": "2026-11-13T04:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "プーチン氏「新たな欧州安全保障」に理解か　米特使と会談「NATO不拡大」条件に",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcy1zSlU1MGNYckw3V2piTGx2N09Ba3o1dE9ZaU5iRXFCbzBaQW5fNWhZdkU4VjNWMkYzRVhKVXZuODlXUlVBR1AzVWowdlh1N2xPS0RxMjZYeENMdDFkeDJJejRqeDVHWmdvSndQNzMwNU8yWUlMVzEyZ0M1aFJSLXI5SlVId9IBiwFBVV95cUxQT2s1YXpLdGphWGFRYTlFRktvMklNUmFoc1hrOWs0c2R5Uk9Hd3pPTGpVRkdwVG9iWG1aZnM1bjhYd1I0a0JaM25IMy0yUFlvN045U2owM1dBS2Nhc0otSnpTbHhXYWxpdjFoRWQzY0oxOTNVQ2d2bUFWT3RGT0YtM3lseE5pMXNLaTNr?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-13T04:05+09:00"
+    },
+    {
      "title": "エマニュエル・マクロンは、ヨーロッパの学校や空港に影響を及ぼした一連の爆破予告を受け、国防会議を招集する予定です",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkZZdVZPLXZTX3FtQTQweHVCSHhJNFMxc1VNd2w5QUNOZXdnRGFndkEtTnlrWUhGNF9nY0NzYnlCdWZ3Nk9INGpvQURiVGdRUjhpcThvc0Vzd2kzSU5YQmFMMU8zeVJ5SklYWEFTUm82S25CUThNNm9qYmdoenpHNnc5T05qYnY2cEVqMG1hcDdyMDVSX1FaOWhfOHJuUmQwTDk0c1p6TU5MdWQwQkl3?oc=5",
      "source": "Informat.ro",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNzlsWjhXSTItWEJyMC1XVWstQnN3UmVjeGtWMTJsblVIdUlhWE9PVHdESzJFVWRZZHpvQVhnQjUwVVN3M0E0cktCZS1NVTNyVkU0TXVobG5DWW1VU3lSYW13?oc=5",
      "source": "読売新聞",
      "at": "2026-11-12T20:07+09:00"
-    },
-    {
-     "title": "ノルウェー治安機関がロシアの破壊工作を警戒、2026年に脅威が高まる",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vYWJySHZyNWVXM1FNcjh5ZEVhSjFRWjNLNHlXUHNBQ1pISm9wNzNCQzN1blI1Sk1wU1ptRldUZWFER19lNlh4aWo2bGJGSWdzbWZyS0pmSW1tanIyMEZJSUhSdGRINEV4OTVFUWJyaw?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-12T19:12+09:00"
     }
    ]
   }
@@ -342,6 +342,12 @@
  "outage": [],
  "japan": [
   {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  },
+  {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
    "source": "Mezha.net",
@@ -349,6 +355,12 @@
   }
  ],
  "cyber": [
+  {
+   "title": "Outlookで障害、今夜メールが表示されないのはなぜ？",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0VmMXh4TjB2Vnh4NDlNLW5BZ2dLcXhaclRZVDJuemtwMVd5d2pDYThhRVBLNmZleEQzWEN4YXpvQkgtTHBWTmVNeU1vMlZmUFJOd1dTRHJwclFRMWhiMUlORy1sT0xSZFNDQjdjM3BaRFh3Yjh6NkRwenNpRG9ZQjNjb3B2OGUzdy1lX0ExTGZOMktoUWZxWWlscFVYU2dYMzNTcXVNX0d5YnNqaGVrWDRkMA?oc=5",
+   "source": "Sortir à Paris",
+   "at": "2026-11-13T03:45+09:00"
+  },
   {
    "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
@@ -432,16 +444,17 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkI5UE1CR0xNbFMzcnFmM3pGSFBTamFQRXBEU2NucWp0VVhQNElWeEx3WEkwelladF9iaHVnYTlZOWhJU1NDLTE2RG9RQ3Nmci1RS1I0aU80dXdEel8wdGhiM05NRWMxRmpLVzJrMldDR1UySnFsLS00aDVFTElMQ1ZkR0l6QS1Md1lsOEQ0VWN4ZzdvcW5vbFhjSkZleWZvQUl5dVE0UjBrVWRV?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-12T22:59+09:00"
-  },
-  {
-   "title": "キユーピーの顧客メアド１２万５７８８件、東京ガスは８万５５６５件漏えい…「アララ」へ不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5LVh5amstNlM5bXNLNVN4Mm5aUHVYb0RHa2RadTNGc2x4OUthdU51a3RWNTFmajRrQTFfeGVXWUZVNWFXZWZ6a0JiYkF1N2VtZUlkYWlYZ0cwekZSaWNjdWN2cV8wQQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-12T22:53+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "プーチン氏「新たな欧州安全保障」に理解か　米特使と会談「NATO不拡大」条件に",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcy1zSlU1MGNYckw3V2piTGx2N09Ba3o1dE9ZaU5iRXFCbzBaQW5fNWhZdkU4VjNWMkYzRVhKVXZuODlXUlVBR1AzVWowdlh1N2xPS0RxMjZYeENMdDFkeDJJejRqeDVHWmdvSndQNzMwNU8yWUlMVzEyZ0M1aFJSLXI5SlVId9IBiwFBVV95cUxQT2s1YXpLdGphWGFRYTlFRktvMklNUmFoc1hrOWs0c2R5Uk9Hd3pPTGpVRkdwVG9iWG1aZnM1bjhYd1I0a0JaM25IMy0yUFlvN045U2owM1dBS2Nhc0otSnpTbHhXYWxpdjFoRWQzY0oxOTNVQ2d2bUFWT3RGT0YtM3lseE5pMXNLaTNr?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-13T04:05+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "プーチン大統領、米ウィトコフ特使らと会談 新たな人道支援として“ウクライナ東部での住民避難”提案",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kMWNGUXY0bzlfUV83QlA1ZWp5bkR6ZVJrcGZPZkpLVTlCN3M3U3Nsa3duVXZad1d4eFQ1M1FpNEw2amJXMm4wc3gwYzJ4Vk9oUDR0MUMtbnY1OEJRWVAtM01EaXpLZk1fbkNEd2NB?oc=5",
@@ -555,13 +568,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ノルウェー治安機関がロシアの破壊工作を警戒、2026年に脅威が高まる",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vYWJySHZyNWVXM1FNcjh5ZEVhSjFRWjNLNHlXUHNBQ1pISm9wNzNCQzN1blI1Sk1wU1ptRldUZWFER19lNlh4aWo2bGJGSWdzbWZyS0pmSW1tanIyMEZJSUhSdGRINEV4OTVFUWJyaw?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-12T19:12+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "台湾有事　在日米軍基地が中国の攻撃対象となる可能性　沖縄や横須賀などに脅威　民間インフラにも波及か",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZaFc0WTAydzdhaG9RdW9OR0kxQkl1QzlFRVRsdFNLdmpjRTZqNUR0bHloVFNKUDg2WXNVVHBGQWpwaWpvTk5GYnZCNG5EYXlDZ19QYW1FNHbSAV5BVV95cUxOT01jOXJ3ME5UVnBQcjhXcmVrZnlFTkVIMVlKRDg5cHFNUW50TjVSY2NjQjFqbUxiZE5YbnFlSnJzWFp2bGh1RGMwanZFR2xpQWlyemV3NHpMaHBJWU53?oc=5",
    "source": "大紀元 エポックタイムズ",
@@ -591,9 +597,9 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
@@ -602,7 +608,7 @@
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」2件",
-    "欧州・NATO：「攻撃」「爆破予告」5件"
+    "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
