@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:00+09:00",
+ "updated": "2026-11-12T13:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-12T13:07:00+09:00",
+   "place": "三陸沖",
+   "mag": "4.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-12T02:15:00+09:00",
    "place": "青森県東方沖",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-10T16:53:00+09:00",
-   "place": "愛媛県南予",
-   "mag": "3.0",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -96,8 +96,8 @@
    "items": [
     {
      "title": "イラン 核濃縮物質の搬出否定 米攻撃なら“遠方基地を標的”",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpb2xUaDlMS3J4SHBCMDIzN3RIU0hENzVnQVI3aWVaekd2Y29lenVBZkhKQmpUVC1CNHJxcjZHYWFidGZlRkFfRzE4ME1JOGlKaWxWWjFfbVNRNmhjNS1ULUtJWURjTTFRb1pjck5GanFsck1IQmRxWElR?oc=5",
-     "source": "テレ朝NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92V05SakhoVGNCLXRGWVhNb19HaVZyd08wMHZqVmNRRllBd19XY0FMZzdVSWdhdGJHMlRJY2w1aUFYYzNlMXVSa0V4WmVBRzY0UU8wRXhwNGtqWm5DTzBkUW16UTMwZEp4?oc=5",
+     "source": "HOME広島ホームテレビ",
      "at": "2026-11-12T12:31+09:00"
     },
     {
@@ -204,8 +204,8 @@
     },
     {
      "title": "金正恩氏 海軍基地の建設現場視察＝「目標期間内に完成を」",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTWJKQjN5aV9sMzA0bmo1LWNheTViZU40OWExZHRMV096SEhnQkMxM2hlOTg5TnBtbDljX3R3dzFuc0NJSmtSSE5WWFZPbXhLNGJqVUU0SDZrZw?oc=5",
-     "source": "聯合ニュース",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FQktGWTdvTlRTMDNUdndxWjVoM0U0SFlVZnZ3ckw0bjBiaXZnNGo4U2w5S2owSWlJYXZFM3RFVUxSX2dBNTBKakpESWM0MktqbzdzSjBYS1pxSFZwZXo4a3J6UUZpdW5KSWxJeE5PZmdhaG1hR3ZTbDZGdmFmQ28?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-12T08:26+09:00"
     },
     {
@@ -247,7 +247,7 @@
     {
      "title": "ゼレンスキー氏、ロシア和平協議に「好機」－欧州に交渉代表選出促す",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT3NfTjdvWWgzeDJqMkw2SGhmRHdHVXA0elc4VUhWQzVuQVB4cUdrY3hTdlRGQ25pRHpWQTFRbHBpanlxOFFfTjM3M0xUVGtPMWpwOWh0ZC1QWVpWTEVEbENLSEJzMU9aVTJ1RVAxS0xCMnd4dDI5V3B6LS1qNXAzQ09xYVQxLWQyd2xabjNR?oc=5",
-     "source": "Bloomberg",
+     "source": "Bloomberg.com",
      "at": "2026-11-12T07:52+09:00"
     },
     {
@@ -374,6 +374,18 @@
    "at": "2026-11-12T10:31+09:00"
   },
   {
+   "title": "不正アクセスによる顧客情報漏えいで開かれた良品計画の記者会見。右から2人目は清水智社長＝12日午後、東京都文京区 - 良品計画社長が漏えい謝罪 会見で、109万件流出か - 写真・画像(2/2)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DSDJUbG5IRnh2WEJJWHBwc3h1MFJaQ2EyUUNad2tsdGV0TGc0NEFNUWxtVnFnelVYc01wRVNneEYzZTh3S1dkeUVXZy0yTWh2R0ljZzdNWQ?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-12T13:10+09:00"
+  },
+  {
+   "title": "キユーピー、メアド12万件超流出＝アララへの不正アクセスで(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1ppc2YxbHRQX3lZTDNjUlA4RmNDemF5c1FaZ3pobzhQWHNzSGFxRkp6VU1QRnh0UjFGYUttY0dSa2dDZTZaSEpyZ05nT3I3VjdSeDdMeGhQZm5EaHpQYXFWUWJoalpZOVRXOHNvNWE1OHdPeDRub0xCZkxURmVJSWJpX2lWY00?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-12T13:02+09:00"
+  },
+  {
    "title": "不正アクセスによる個人情報の漏えい等に関する注意喚起",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaG9YOXlIeFBGWFdxUXlLYTFQSEduMlhkUkxydnA3RmN0dVctR0JoRzFPNnVobFJkREQtQWhaM1k4TWdaMzh1ZjdQSWdRVEJwb2tMTUJqVWtQRjlYS2NfNEJuaUo3SnNhS1d5WkRGQmtSSkdReFRqMEpUN1ZNaG5FUWJoQWRmaE5kSnpGeVFTUTF4dXpTQi1pWkJZcw?oc=5",
    "source": "前橋市",
@@ -410,12 +422,6 @@
    "at": "2026-11-12T12:00+09:00"
   },
   {
-   "title": "盗まれたパスワードが、ランサムウェアの入口になる",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WdFI1UjAxNmxscEJkLXJmbTZDMlRzOVliX2JQeWtuWC04NWRSY21ZZE1TYkM4SGMxZlNWWm9hQWJTVDNGNTY0Z1lnLS1Yb0pmTUx5Yw?oc=5",
-   "source": "ASCII.jp",
-   "at": "2026-11-12T11:59+09:00"
-  },
-  {
    "title": "電通デジタル「TONARIWA」に不正アクセス 個人情報漏えいのおそれ、日本郵便のLINEも停止",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54YTlMZFNDMGJsOHBsODdUQ0UycHFTUWJCay1jZ3dfZ3FzSjd5Z0JQV1lCQ0ZYYmNQN0ZsM0RCTHZiUzgyTTNRVmpwcTkyel82UVgyYjgxMmZnaFFSTDVTZW9RUXl5czQ?oc=5",
    "source": "NOVAIST",
@@ -432,20 +438,14 @@
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZV29HeUpYMVpIQmUzMkJmQ2MxMVpBY3d1ck91cF9fd3N0bHFvamFlSG51TjVxc3N6aXoyVEZ1S01MSkJCbmJJSF9R?oc=5",
    "source": "LOGISTICS TODAY",
    "at": "2026-11-12T11:48+09:00"
-  },
-  {
-   "title": "【医療機関向け】「ランサムウェア調査＆復旧ワンストップサービス」提供開始 電子カルテ停止からの早期再開を後押し",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlYwSm5iaDZJWV93WGpkaU9lRE5ac242T0U0UWFNSC1OR3hKbmhsdk00RDVpbjEzNHRDT1lGdGpNdk1PMHZRaWE1Y05JX3IxZlNOc1VaT1RZMXFLTVlGM2QxalRTYUpYeTFsV3N1YlY0MEw4cVNXNVFtWmQ1M05EdmF3?oc=5",
-   "source": "南日本新聞",
-   "at": "2026-11-12T11:40+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
    "title": "イラン 核濃縮物質の搬出否定 米攻撃なら“遠方基地を標的”",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpb2xUaDlMS3J4SHBCMDIzN3RIU0hENzVnQVI3aWVaekd2Y29lenVBZkhKQmpUVC1CNHJxcjZHYWFidGZlRkFfRzE4ME1JOGlKaWxWWjFfbVNRNmhjNS1ULUtJWURjTTFRb1pjck5GanFsck1IQmRxWElR?oc=5",
-   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92V05SakhoVGNCLXRGWVhNb19HaVZyd08wMHZqVmNRRllBd19XY0FMZzdVSWdhdGJHMlRJY2w1aUFYYzNlMXVSa0V4WmVBRzY0UU8wRXhwNGtqWm5DTzBkUW16UTMwZEp4?oc=5",
+   "source": "HOME広島ホームテレビ",
    "at": "2026-11-12T12:31+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -563,8 +563,8 @@
   },
   {
    "title": "金正恩氏 海軍基地の建設現場視察＝「目標期間内に完成を」",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTWJKQjN5aV9sMzA0bmo1LWNheTViZU40OWExZHRMV096SEhnQkMxM2hlOTg5TnBtbDljX3R3dzFuc0NJSmtSSE5WWFZPbXhLNGJqVUU0SDZrZw?oc=5",
-   "source": "聯合ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FQktGWTdvTlRTMDNUdndxWjVoM0U0SFlVZnZ3ckw0bjBiaXZnNGo4U2w5S2owSWlJYXZFM3RFVUxSX2dBNTBKakpESWM0MktqbzdzSjBYS1pxSFZwZXo4a3J6UUZpdW5KSWxJeE5PZmdhaG1hR3ZTbDZGdmFmQ28?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-12T08:26+09:00",
    "topic": "北朝鮮"
   },
@@ -606,8 +606,8 @@
    "items": [
     {
      "title": "イラン 核濃縮物質の搬出否定 米攻撃なら“遠方基地を標的”",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpb2xUaDlMS3J4SHBCMDIzN3RIU0hENzVnQVI3aWVaekd2Y29lenVBZkhKQmpUVC1CNHJxcjZHYWFidGZlRkFfRzE4ME1JOGlKaWxWWjFfbVNRNmhjNS1ULUtJWURjTTFRb1pjck5GanFsck1IQmRxWElR?oc=5",
-     "source": "テレ朝NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92V05SakhoVGNCLXRGWVhNb19HaVZyd08wMHZqVmNRRllBd19XY0FMZzdVSWdhdGJHMlRJY2w1aUFYYzNlMXVSa0V4WmVBRzY0UU8wRXhwNGtqWm5DTzBkUW16UTMwZEp4?oc=5",
+     "source": "HOME広島ホームテレビ",
      "at": "2026-11-12T12:31+09:00"
     },
     {
