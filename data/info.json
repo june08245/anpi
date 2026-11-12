@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:30+09:00",
+ "updated": "2026-11-13T00:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -342,6 +342,12 @@
  "outage": [],
  "japan": [
   {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  },
+  {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
    "source": "Mezha.net",
@@ -398,10 +404,10 @@
    "at": "2026-11-13T00:00+09:00"
   },
   {
-   "title": "不正アクセス受け“無印良品”謝罪 クレカ番号約109万件が流出か（FNNプライムオンライン）",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96dXdyN2NhYUFHejlRek56ZUZjTkpmSDI4UXNIel9xT2stZGJ1RXZHQ0ptVWJBakRFUFpWVWR6YVlQWXo5dWRsOTRkVTJMNG1FSERJOHRwZGhDUDdPNHZqRkZYOHZXZmNtM09QYzBURFVNZw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-12T23:40+09:00"
+   "title": "不正アクセス受け“無印良品”謝罪 クレカ番号約109万件が流出か",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwUjBqVmNabTZBNHdqMFltS3E4UHczS2JSWkp5TTVGX09oSUxJQ2c4WVF0alhDWHhTcmk2b0hXNEVYaFhhbUFMVXA5cHdCcUI1d2xmbXE4YTk0dzluLTBZ?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-12T23:47+09:00"
   },
   {
    "title": "「ぐるとち」不正アクセスで公開停止 偽サイト移動するよう改ざん 栃木県が注意呼びかけ",
@@ -597,9 +603,9 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
