@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:30+09:00",
+ "updated": "2026-11-12T20:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -264,8 +264,8 @@
    "items": [
     {
      "title": "イタリア公立校８割強の６３００校に爆破予告…メローニ首相ら、国家的組織による「ハイブリッド攻撃」の見方",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0MUhpYW14N1FQMVpQT05Lc2M5bWRvbEw0dnBkNU9iMS1Hbi1hQ2VZblE0YkRqTWc5ZW1IbHozV1JldUd1QjV5Wm5hby01UTRtNi1CQ3ZxbnVLR3dzcE8wamx5bmcxLTE3aFRkM2x2V1Atb01KdndDUWtSeFBnV2s?oc=5",
-     "source": "Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNzlsWjhXSTItWEJyMC1XVWstQnN3UmVjeGtWMTJsblVIdUlhWE9PVHdESzJFVWRZZHpvQVhnQjUwVVN3M0E0cktCZS1NVTNyVkU0TXVobG5DWW1VU3lSYW13?oc=5",
+     "source": "読売新聞",
      "at": "2026-11-12T20:07+09:00"
     },
     {
@@ -357,15 +357,27 @@
  "cyber": [
   {
    "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導 通信障害も相次ぎ信頼揺らぐ",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uSkdMSllPS1Y3d3R2X3ZRV09UX0FSZGRON1dadHBQX3hGMFNSeWl0eF9wUzc3ckZNOGlZREVNODh2elZ4VXY4VVdaNGN2TTE3eDg4U0c1QjgzRFBGVW11S21laXM2VkE1OENTWWlRcXNFZzRLRk4w?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-12T18:51+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMUo3R3NhNGlWNTNVbTF1MEE5eTg0bnB0UjhXT3FfZGVoWi1NcWh3WFBHN2E3dXR4UGkxbi0zanR1U1dLdlF6dm0wMUpOT295dHdzb0FVUQ?oc=5",
+   "source": "J-CAST ニュース",
+   "at": "2026-11-12T19:35+09:00"
   },
   {
    "title": "【速報】小学生を車ではね7人にけが・骨折も 殺人未遂罪問われた男は起訴内容「黙秘します。減刑は望みません」 検察側「死刑になろうと準備」指摘 弁護側「発達障害が動機など影響ならその部分は非難できない」",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tekRUUDlhU21kdnQ3Vlh4OExib3R4bUlqOC1yTjhhanJoS0xHdEpONDlwb3J0cWRYQk5haUhnblYxdjlCa0tBWHl1YzVNVjV5SV9Sag?oc=5",
    "source": "ktv.jp",
    "at": "2026-11-12T18:45+09:00"
+  },
+  {
+   "title": "セキュリティーサービス企業に不正アクセス 顧客情報漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sS2Z4MlVwREdtMDR5RDRrU05NZHYxYTlCcEdWWGp2M3ZLYldDMHBUZHVKYmxJdmZFdGZvREltVkFFOV82Sk5TM3l4QlZjMTAtZ2xoLU5QajRHWlFQaVJn?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-12T20:39+09:00"
+  },
+  {
+   "title": "百十四銀行 不正アクセスで株主のメールアドレス1500件漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WbHYzdERQdXF5TFl6RnFfa2ZwNmM2NUlXWHl4TzlCRHlTWjdLSjJLaV9xRERZSnh1YU1GaVQyVVZPZmg1QkNVRkJpY2JRNl9vMDVQY3dPbHY5TkMwMzhr?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-12T20:22+09:00"
   },
   {
    "title": "滋賀県甲賀市に不正アクセス、個人情報など2万5千件流出か 音声放送システムのサーバーが被害",
@@ -429,21 +441,9 @@
   },
   {
    "title": "那須塩原市でメールアドレス5000件超漏えい アララ不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fcFNnQ2psUTNkOXdFYnR3dkl3QW1rd1VtY1g2WVY4UUpIOVZrX2Y1OHBYdTJya05rNHVETGRkYlZ5NzVFSkE0N043SjBudW1mSnlicENGT3NRMmc?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-12T19:02+09:00"
-  },
-  {
-   "title": "【特集】「家族の誕生日に日本のウイスキーを…」120万円被害の男性語る 高級ウイスキー購入名目にした詐欺 不正アクセスで友人になりすましか【長野】（2026年11月12日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UWTZ5NldoenRfZ0VhOUhYMHVJQ2hKaWpnMjR4X2g0TGhuYzg2aUVBWmszRl9LZjJ3a243NnAyN2h5bVFUQU5aOVFacmdJNjNzNFNjM04wREZCY1NOaDJHLWtsb2tyRFVaX3BaUXM3TjJIWUk1UjJrZ3dERkIxbjg?oc=5",
-   "source": "日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KNmd2WDRaTFZyanBpV3E4QktPWjN5WGxNdl9VYUlEck9UYkpNcnZHYTFYeTV4SFU4M2VrS2pSZUNacFQzNzlVN1NUNA?oc=5",
+   "source": "47NEWS",
    "at": "2026-11-12T19:00+09:00"
-  },
-  {
-   "title": "セキュリティ企業が不正アクセス受ける サイバーセキュリティクラウド",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hcWIzaTFhTllJNGRweEppOTFIWExwWVozQUhKakRHLXF4NENGejJkR0FMSUlTOV9icHU0dENpOUJjZUpGTy1uUEFNMkIwQTBoRjBMa3VqN3ZCWkJpanNSMWxMRUNORVVMU2treWlETlE1QQ?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-12T18:35+09:00"
   }
  ],
  "osaka": [],
@@ -457,8 +457,8 @@
   },
   {
    "title": "イタリア公立校８割強の６３００校に爆破予告…メローニ首相ら、国家的組織による「ハイブリッド攻撃」の見方",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0MUhpYW14N1FQMVpQT05Lc2M5bWRvbEw0dnBkNU9iMS1Hbi1hQ2VZblE0YkRqTWc5ZW1IbHozV1JldUd1QjV5Wm5hby01UTRtNi1CQ3ZxbnVLR3dzcE8wamx5bmcxLTE3aFRkM2x2V1Atb01KdndDUWtSeFBnV2s?oc=5",
-   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNzlsWjhXSTItWEJyMC1XVWstQnN3UmVjeGtWMTJsblVIdUlhWE9PVHdESzJFVWRZZHpvQVhnQjUwVVN3M0E0cktCZS1NVTNyVkU0TXVobG5DWW1VU3lSYW13?oc=5",
+   "source": "読売新聞",
    "at": "2026-11-12T20:07+09:00",
    "topic": "欧州・NATO"
   },
