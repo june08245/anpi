@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:00+09:00",
+ "updated": "2026-11-12T16:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -191,10 +191,10 @@
      "at": "2026-11-12T14:37+09:00"
     },
     {
-     "title": "北朝鮮、東海岸に海軍基地建設…金正恩委員長「海上主権に直結」",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWN4cG81WlBwLVVndXVUM3NmNm9aMzdCSnlCT3JCaTZuSlZndU9FN00wZ3BXQ1hnaXBqTDk5X0lWcGNOU3ZKTFJTWENteExHUHhYU0FiRWxIblZjb2JjX3lwaVoxMllQdE1NNnRiZEZUZm5xOGVfVE5PVnU4Y01tZ2JieXhCN1HSAYwBQVVfeXFMUEd6a0ZoMURrMEVUVUhjU3dsSFRObGRZcnpkdG10TmFraE1Uc1BfVGRlQkZod2UwTDk1Q0drMTdyN19ueV8xbXAtOUxtZTVBM2FOUk43VUlfazd0N1YxcEFzWFN1aGtYQXBiRzBFMTFadW5BM2l1UDBrSnhfUG9wUzdhQmF5WG5aMktyeFg?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-12T14:09+09:00"
+     "title": "北朝鮮、東海岸に海軍基地建設…金正恩委員長「海上主権に直結」（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1d0hyS1BTRFBoM1A4VzE3Z0VfRDgydUZuZXhaUXhMcVN1R2xLem1kM3NpRFFqUllqNmdiMW1tay12eGR6S3hYZTVPeEpKaXhaenRxM0lnWl9LaEhyZV9YOVFtRFVsZ1V6S0Ywd2Joams0aWoxb3V3WldwZDBZTDg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T14:11+09:00"
     },
     {
      "title": "北朝鮮の新型駆逐艦「崔賢」、核危機では出港だけで米韓に負担の可能性…米専門サイト分析",
@@ -275,12 +275,6 @@
      "at": "2026-11-12T11:48+09:00"
     },
     {
-     "title": "イタリア全土の学校およそ6000校に爆破予告「イタリア人へのジェノサイド」生徒ら一時避難 欧州で爆破予告相次ぐ…",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GZ005cEZnOERpTjVLd0N2bUE0aWNfUDFKSjBlM19GUEZtSlpFVjd3UlJqWDdpY2o5eFhmYnp1THZ6RGVNQXY5X0lPbUVqUEhqNjZfeWJDOFRubzkz?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-12T11:35+09:00"
-    },
-    {
      "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wajNvZjY1TEZiQXpGaXNWZVFWOHVCQk53cHFlU2h0eFdBSHdocDc0YTExZ05IQVV6QnNwR18xYzUxSFhFUzdnZFJBdTBUS2dIWHBXOWlLU05pSmZYclFHcGZMSmVBOW8tLUMzeDRZOFRQNFlfZTBGWl9iVTBKNlk?oc=5",
      "source": "Yahoo!ニュース",
@@ -297,6 +291,12 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBY0ZVRklMMkJEcFg1Yy1Nc1ZHRF9aQllPWnUwZF8zdDRNWUVYcDFYYWdCcDB6QVJiTEx0bDJRQ2tZcFpwZk1RZURfYnV1QUJMMDZhZ2hWMzUwZ0Zpb1Fj?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-12T09:13+09:00"
+    },
+    {
+     "title": "イタリア6300の学校に爆破予告 生徒は避難で混乱広がる 欧州各地で脅迫メール騒動続く",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85ZHFpb1VuZ0owczBwODRqMzlzZEMzNWRLYmtTemZES0stUm9ObmF6eEtmSm1CVU15Y2FKNWh3cDdmcWJ4dFpnVlhqdE1CUEh5VklHQUNrY0ZGUk9GRkRB?oc=5",
+     "source": "千葉テレビ放送株式会社",
+     "at": "2026-11-12T06:53+09:00"
     }
    ]
   }
@@ -343,6 +343,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "ANAアプリとウェブでシステム不具合、予約取得や搭乗口変更に混乱",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuNmNDMWV4Y0lWX2ViazVoQUhXaWJnak9NVER0WWVFY0xGaWZaNk1GSEVjZEZQSHF2VFhrLUNtQzF1WHNGLWxkSVgwZmRxVGFrcHc3XzVFNA?oc=5",
+   "source": "X",
+   "at": "2026-11-12T16:14+09:00"
+  },
+  {
    "title": "【速報】ダイハツ・トヨタ・スバルの3車種 17万6000台をリコール 電気装置の不具合でエンジンが始動できない恐れ",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kRXAtOVBOcFRzcG1kU0hCT0ZFNUFpaFJhc2E3OWoyVy11LWFVSWRwa3VIbUE4M0loRS00WjNxYkVua25vYVBnTUI2Nm0wT0oyMGE4TVlacFIzS1pxb010Q2daQWJwZXBCeDAxZlFB?oc=5",
    "source": "Excite エキサイト",
@@ -365,6 +371,18 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EcDBFRVhoY3pqVDU0RGZzcFFoMnlvLUY2d2RlZmQ3QVBjMXJaNnJNYUxhZHVnS0FNV1Z5ZzlfcTlzRWdFZGVmM0d3SXUxVTg3OWFr?oc=5",
    "source": "東京報道新聞",
    "at": "2026-11-12T11:34+09:00"
+  },
+  {
+   "title": "【重要】Terravieでのメール配信サービスへの不正アクセスによるお客様情報の流出について｜トピックス",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhUkFFU3NBWmV4Y2FqNWlKMW50YVItMmJYcUJfY2dOcUJFVW04LXZJcDhUbFR4Tk9mLVhIcTE3cVpJUndLS24zanNlM3lfdjJUTVpYN1ZwNncxQTFXTVE?oc=5",
+   "source": "アドベンチャーワールド",
+   "at": "2026-11-12T16:07+09:00"
+  },
+  {
+   "title": "REVOLVE（リボルブ）不正アクセス、影響対象は151万5,073人 米州当局の公式資料で判明、保存カード情報に影響のおそれ",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVA2YXhMLUc3OVNycUR6NF92QTZmNzk2UFZRaVlFaUxSbXZpU3I3VXlHRUVlTlk1WHdiMXBPZTFKRnRWaloyTzJNUjNXSFQwMHI1NDJNa0JuZ2t1ODRqMjM4eGpkbWx6VWhMVU1ibk5OcWE0YWlybm9xamxwX2hhUGpLdTlLRGo0azVmS3BVaDJLLW9QV1JRSC1n?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-12T16:00+09:00"
   },
   {
    "title": "山形県 メールマガジン運営企業への不正アクセス 調査結果を発表 県運用分の情報漏えいは確認されず（YBC山形放送）",
@@ -413,24 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnbm9XcGVPa3dtbW1Qdk1nSEREUExLNE81U2p0NXhUYjV2V01jVGh3U1F6LUpOWmczUmt1Unh4a0pzRGpxbDlVeVdMTDF0NVJCZWJOTy1NWlNsbmpOWWdIWGpYMlJ3VkpSRGRwcTRhQVZ1UQ?oc=5",
    "source": "ITmedia",
    "at": "2026-11-12T15:10+09:00"
-  },
-  {
-   "title": "栃木県が運営のサイトに不正アクセス 偽サイトに注意を",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZTVZxWDZKQnAyTkhrVGU4d1ZLYmFXam5jYVRxYm9ER294ck83ZkpTZl9lSWFHdDkxY1lOdi1memF1LVpGaFNYbS05NHNmbmF5cUFZR2VRQlpnaUZ5akdF?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-12T15:03+09:00"
-  },
-  {
-   "title": "山口県、中小企業のサイバー攻撃対策で特別相談窓口を設置 国の補助金活用も案内",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VFpLMzE4OVF0T1dxX3lRRHJBRy00cmNVSnA4NUdja3pPRlhiQnBLTEZVZV9LVzNzT1JacVUyempRR3pmVktSSlBoZXVzMXd0RFRqYTlzWVYxdw?oc=5",
-   "source": "中国新聞デジタル",
-   "at": "2026-11-12T14:39+09:00"
-  },
-  {
-   "title": "「無印良品」の不正アクセス、良品計画社長「システムの一部に脆弱性あった」と陳謝…クレジットカード番号含む個人情報漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vNzNBWklESDY0LTI3aVN0VG1sM0FmSUpHZWxDTHo3aDlQYThDdHl2N1R3dlUxT21FdGthOTFWT1V5Z2Z0SjNBaVJxQ3d2SDNNOUltdktaTzdCVHJoTG5RN0Jad0o?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-12T14:34+09:00"
   }
  ],
  "osaka": [],
@@ -499,10 +499,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "北朝鮮、東海岸に海軍基地建設…金正恩委員長「海上主権に直結」",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWN4cG81WlBwLVVndXVUM3NmNm9aMzdCSnlCT3JCaTZuSlZndU9FN00wZ3BXQ1hnaXBqTDk5X0lWcGNOU3ZKTFJTWENteExHUHhYU0FiRWxIblZjb2JjX3lwaVoxMllQdE1NNnRiZEZUZm5xOGVfVE5PVnU4Y01tZ2JieXhCN1HSAYwBQVVfeXFMUEd6a0ZoMURrMEVUVUhjU3dsSFRObGRZcnpkdG10TmFraE1Uc1BfVGRlQkZod2UwTDk1Q0drMTdyN19ueV8xbXAtOUxtZTVBM2FOUk43VUlfazd0N1YxcEFzWFN1aGtYQXBiRzBFMTFadW5BM2l1UDBrSnhfUG9wUzdhQmF5WG5aMktyeFg?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-12T14:09+09:00",
+   "title": "北朝鮮、東海岸に海軍基地建設…金正恩委員長「海上主権に直結」（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1d0hyS1BTRFBoM1A4VzE3Z0VfRDgydUZuZXhaUXhMcVN1R2xLem1kM3NpRFFqUllqNmdiMW1tay12eGR6S3hYZTVPeEpKaXhaenRxM0lnWl9LaEhyZV9YOVFtRFVsZ1V6S0Ywd2Joams0aWoxb3V3WldwZDBZTDg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T14:11+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -555,13 +555,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "イタリア全土の学校およそ6000校に爆破予告「イタリア人へのジェノサイド」生徒ら一時避難 欧州で爆破予告相次ぐ…",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GZ005cEZnOERpTjVLd0N2bUE0aWNfUDFKSjBlM19GUEZtSlpFVjd3UlJqWDdpY2o5eFhmYnp1THZ6RGVNQXY5X0lPbUVqUEhqNjZfeWJDOFRubzkz?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-12T11:35+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "原油先物1ドル超下落、イランやウクライナ巡る和平協議進展に期待",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ocy1PMkpNLTRhNl82b0tDN2tYXzQ2ZmRoQjV4LUdOY0REWW0zek15dTlrckFVNmFIblh0Zk1vYXAxYkZ6bXRyOUhkOUV4M1NIX0duZkVHMGxDT1VwNEpwa01mcVJ5WHBqQi15OXY5Y2RIWE9kbDh3SkYxanE3ZzQ?oc=5",
    "source": "Reuters",
@@ -574,6 +567,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T10:11+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "｢ロシアの聖域｣なのに､もう中国海軍が来ても拒めない…プーチンが習近平に頭を上げられなくなった理由 (2ページ目)",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KelUtU2VPTVlwa29ldWM2S25wOGZwZ2RwR1RVd3BWaFFqZmtTc0p0cno5djVBbWF6WHBtQTJYNTJOajk3V3MtR0cxb2JvVmFGRENtVTFGbVE?oc=5",
+   "source": "PRESIDENT Online（プレジ",
+   "at": "2026-11-12T10:00+09:00",
+   "topic": "ロシア"
   }
  ],
  "status": {
