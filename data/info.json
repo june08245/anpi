@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:30+09:00",
+ "updated": "2026-11-13T02:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T21:05+09:00"
+    },
+    {
      "title": "トランプ大統領、退役軍人の日の演説でイラン戦争を擁護",
      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQd0k4Zjh4TE1KREk2RlQzdHZscC11UDUzMFl3d2tId0pELThOck9lS0xHbHJkcDc4WFhxRnk3MHRQRzFYeDFacW53enR3RXBtci1hQmhBa3pCODNCdkFJQXV1SmNBT1kxbGpCamNjbWhlUDdnTnpmZGYtWng2QzcwTEwwSmdDZnV6RXJ0TGRLVWp5VUs4Rzk2U3VaS2RIMW1aak9TbV9mY3JxbnFYdTdZekYxY2FCUmJNUzg5MkFjSFh1LVpUQV82Zm42elBzMmh2cF9UNnpCTHl1OUd2ZHRGRWNTRGFhNllmWTg5akZIREotNUNFWHRaNk04UmlDVkdkam16OGZHa0R6RmYtZThqb0U0cVlxWjFGUXlxSUV6TlJtQU5KczZfUktzMTF6NjV0ZlFPRXpEejNCVThwZkN0U2RYLTdfWEdZZThYNUUtazBaU1hXN0MzNU9UVUxlcWt2YUJYYWtWRzcxOV91eTZFc0RNc2lxMnlzcV9TS0JfRXdNdTg?oc=5",
      "source": "アラブニュース",
@@ -111,12 +117,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwaVZhaUVjTU03Y25xOFEzZnZGVG56aXZoWTRuU29OdDU5MllKRWNWRXRHd1JuWXI5dE15eGduMHBBdUNLZ2xaeDNRSjR3eUlYNXIxRnBsT3dHME5O?oc=5",
      "source": "BBC",
      "at": "2026-11-12T16:48+09:00"
-    },
-    {
-     "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-12T16:06+09:00"
     },
     {
      "title": "イラン高官 核濃縮物質の持ち出しを否定（ABEMA TIMES）",
@@ -513,6 +513,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T21:05+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "トランプ大統領、退役軍人の日の演説でイラン戦争を擁護",
    "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQd0k4Zjh4TE1KREk2RlQzdHZscC11UDUzMFl3d2tId0pELThOck9lS0xHbHJkcDc4WFhxRnk3MHRQRzFYeDFacW53enR3RXBtci1hQmhBa3pCODNCdkFJQXV1SmNBT1kxbGpCamNjbWhlUDdnTnpmZGYtWng2QzcwTEwwSmdDZnV6RXJ0TGRLVWp5VUs4Rzk2U3VaS2RIMW1aak9TbV9mY3JxbnFYdTdZekYxY2FCUmJNUzg5MkFjSFh1LVpUQV82Zm42elBzMmh2cF9UNnpCTHl1OUd2ZHRGRWNTRGFhNllmWTg5akZIREotNUNFWHRaNk04UmlDVkdkam16OGZHa0R6RmYtZThqb0U0cVlxWjFGUXlxSUV6TlJtQU5KczZfUktzMTF6NjV0ZlFPRXpEejNCVThwZkN0U2RYLTdfWEdZZThYNUUtazBaU1hXN0MzNU9UVUxlcWt2YUJYYWtWRzcxOV91eTZFc0RNc2lxMnlzcV9TS0JfRXdNdTg?oc=5",
    "source": "アラブニュース",
@@ -574,13 +581,6 @@
    "source": "매일경제",
    "at": "2026-11-12T17:36+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "トランプ氏、イラン戦争に「我々は勝った」と発言 退役軍人の日の式典で",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwaVZhaUVjTU03Y25xOFEzZnZGVG56aXZoWTRuU29OdDU5MllKRWNWRXRHd1JuWXI5dE15eGduMHBBdUNLZ2xaeDNRSjR3eUlYNXIxRnBsT3dHME5O?oc=5",
-   "source": "BBC",
-   "at": "2026-11-12T16:48+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -609,7 +609,7 @@
      "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-12T16:06+09:00"
+     "at": "2026-11-12T21:05+09:00"
     },
     {
      "title": "台湾有事　在日米軍基地が中国の攻撃対象となる可能性　沖縄や横須賀などに脅威　民間インフラにも波及か",
