@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:15+09:00",
+ "updated": "2026-11-13T07:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -107,6 +107,12 @@
      "at": "2026-11-13T06:04+09:00"
     },
     {
+     "title": "トランプ大統領「イランとの合意は必要ない」",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-13T05:29+09:00"
+    },
+    {
      "title": "欧州基地「反撃対象になる」 イラン 米軍が攻撃で利用なら",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BamlRX1hNTXlONHVUYkJ3clVwRHNOckhRYnpxN1JBMXFqZlN3bVdEUUxTTTl5ZGl5NkthX3lMbkNRRGRUTmZVSnV2YkhMcUI0Ymdwd3pNWDNqQXV2UTA4NEc0cw?oc=5",
      "source": "読売新聞",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tcER4ekdreTFYeGhYeThvbU0wTnp5Z29uajNlZGJCY3AxajBPLWdSU19FMTk0OWFIdUh1U3Q2emZRNldmTXdUR1lfdUcwdk9QRURZZXg3dUsyaWpxdjUzWjR1UXJtUngwcTl2S2lIc01pV3FORmRrX0lxNmpOQmM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-12T21:05+09:00"
-    },
-    {
-     "title": "戦争にも選挙にも惨敗したトランプ氏の「精神勝利」…イランが7項目の終戦条件を突きつけ圧力",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdzVzazdZX3F4LWFBX1pydVd0RGFUbk5PM3plMXBvV3ZYbkdTd2o0eWJKVktESkZxeG5XN09TNDNUTlpHZld1UW5HYTNHLXM0SnRzMW43MGVTcUh2blpyZkhqdVU3bG1qMzFWTQ?oc=5",
-     "source": "폴리타임즈",
-     "at": "2026-11-12T19:40+09:00"
     }
    ]
   },
@@ -342,6 +342,12 @@
  "outage": [],
  "japan": [
   {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  },
+  {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
    "source": "Mezha.net",
@@ -356,28 +362,28 @@
  ],
  "cyber": [
   {
+   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KdmUzY1haU0N5YzAwYVlXanJ4TF9DM2p1ZXpULXlyODdncG9Ybl9LVEVjY3MtZXVLTE1XNm9BS0I4dG5WV3k3bnRpOHVkVnlDeDFWMmFJX3FHbjNHV1FyOVNuTFJMODBSaTRTU2FWQU52bXcyWGhIbEdyUGY3OHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T07:27+09:00"
+  },
+  {
+   "title": "Microsoft 365で大規模障害、Outlookに接続できず TeamsやCopilotにも影響の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55VGJab1JRNFNlaWplT2FiUXlIcG03MGJnbnU5S1k1R0RyS2tydVh4Zm10S2RFYkhHWGJvaXRYTnZ4QXVaSXdtWGRXc1NRZHY0WVZocTRBNm43b1M5RWJfZV82bEh1YWdJ?oc=5",
+   "source": "マイナビニュース",
+   "at": "2026-11-13T07:24+09:00"
+  },
+  {
+   "title": "「まずは速報です」水卜麻美アナ、大規模システム障害伝える「安全に復旧させる作業を進めているということです」…「ＺＩＰ！」",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUpyRmJmREJOR210b1NNc3dtd3dvUWRVSWgwaTQ2dmZBMFpON0lxcENtYm1iSFFvTEM2SlVxbGx0SktCTll0X1dNM3l1ZWlzaS1qenJsRUp3SmRRU1lVVzR0TDk1QVdFd0JUN1ZtcDliclBoaDVzampFMVNGZ0l2V253bEE4R21Ld2pscjhR0gGTAUFVX3lxTE5vVHNhZkRmaHJXWVVsOVRtZUxnOGgzZXlRR2JVeno0T1NLcFYzYm9FVmplbGc1eENBelZuM1Z4UTNNS2FqV3c4WGZEWnFSRk1ubDJZaVdaX3QtSnVqYl9BXzJXMEdZaWl6UUdxbVh2dmVFN2J2Q0IzNVBfS01Ib21YM3R5QU9meDkzTmJSaTgxNnM5UQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-13T07:23+09:00"
+  },
+  {
    "title": "アウトルックでメール送れず 「マイクロソフト365」で大規模障害",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-13T07:09+09:00"
-  },
-  {
-   "title": "マイクロソフトで大規模な通信障害　世界各地でOutlook使用できず…",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOM21vd0lSSlRnS3RaTzdvektqRHhwcjM0X0dJZlN2VGplNEZGZXdyVWxSRGhPVFdtSnlrVTcwMjZDR2NFUnVLbzJmektRTGM5emQxbUlyNzlaY1V4SHNpOS15dThKREM2MDUtaW9IN2pNdmF1RVUwNk5PYWlUVzhXd3J2eHE3aU9LempPZmtiOHRQOU51bmdIZEhfUGdOYksyUDdWeXZYTWh6SUdWalJLNTlOZlNnMWloYXg4aC1PZlRWU1ZVNTZZdXlMZ3RpOUxncVgyN3JZNkNnc03SAYsBQVVfeXFMTTh2UWZuSlVpLTRwb1Z6UHZOcmVHZE9OYzRMN3RtZ1h5VTNBczlnMXkycVVRNDhKRE1BakdITl9JUmhRZmxEYnBiS25JbW9TVDhVNEY2UXdoRXZWMlNYYnZTZEJDY0I4STZyYW1hdGdaWGozMHJZQlJna1FRdEstRUdHV1pSaHNTS1lEaw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T06:51+09:00"
-  },
-  {
-   "title": "米マイクロソフトのメール「アウトルック」などで大規模システム障害…世界各地にも影響の可能性（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CaUlmVlB6ZnlIOU00YmNIQWg1eE5GVUFjd3M0NFhYUUdDT1ZoY2RsM010b3NNU3VBaHMteF9DR1pqbF9ORVNsX2NGVThBZ3NMbXh1cmVLWlRvdXd4UjZnMmU1QWxJYkJmc1RQMXVYN1lnWm1fRURVekdrVkViTU0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T06:44+09:00"
-  },
-  {
-   "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tN2dvd0hleXVhNTFieVQ0cm80SFh0TzZ6cF9tT3NtSkFoNFlyQ3BSSm5SMnBORllleGQ4RjZWNl9KNmNfd2NUZU1uaGttSmxtOUJzbXE5ZGlSSlNFMUdVRE9MbGd6MVY4SFE?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-13T06:41+09:00"
   },
   {
    "title": "「アウトルック」や「チームズ」などで不具合 クラウド型サービス「マイクロソフト365」大規模なシステム障害が発生",
@@ -404,6 +410,12 @@
    "at": "2026-11-13T06:24+09:00"
   },
   {
+   "title": "米マイクロソフトのメール「アウトルック」などで大規模システム障害…世界各地にも影響の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40S0FsbWJkdmY3TUV3Q2hlVHA0WXNhbTh5UXNUWmtlcEtSbEVWaWZ5NFZNUDJySHg0YTdua3FxZHh0YTVHS0tlN05DNTRVYUJod3NHQXBIekZxSlhqa1gweThvYkE?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-13T06:19+09:00"
+  },
+  {
    "title": "ＭＳ業務ソフトで大規模通信障害 「アウトルック」など",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWd1ZHNCYzNGVmVVem1WMVJ4MWpFQ3lJSG5xZGtvMEZxVkZJX3lxYzllQnNBQzl0UHJ1cFhlZzc1ZHEyYTRTVXdkUVFzV21rejFXQ295bWk3Z1VHY2RCVjhjM3pyMk5xaHQ5SUhTQVZEc3ByQ1EtOG5GdE5oS1hNOUN3?oc=5",
    "source": "長崎新聞ホームページ",
@@ -422,7 +434,7 @@
    "at": "2026-11-13T06:14+09:00"
   },
   {
-   "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定",
+   "title": "マイクロソフト「365」大規模障害",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuY00yU0JPYVl6QmlNdzEwc3R1eUxnRndNR3N0VTJDbUhPQ2NMbTg0aEI2dXM2aF9sTUlsOWZMX09kMWktWllGbG9KNUoyS3BV?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T06:13+09:00"
@@ -434,16 +446,10 @@
    "at": "2026-11-13T05:58+09:00"
   },
   {
-   "title": "NTTドコモで通信障害 先週に続き再び",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUlBlSWd1M3ZBUk81NzZqdkUzUDZNX2puNC1DTER0dGlTLTltSkZDTmNraENqLTBKbllabnc4MXpsVVNQSVFXUFFMdmg3QXA1Ul9BMXZxamx4NUZEWXc?oc=5",
-   "source": "テレ東BIZ",
-   "at": "2026-11-13T05:50+09:00"
-  },
-  {
-   "title": "国家サイバー統括室、産業用冷凍・冷蔵設備へのサイバー攻撃に関して注意喚起（ネットショップ担当者フォーラム）",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN2ZBV3ZuS1RkbUJSRUZIRXdRUHBiRkxXYlc5Q3BQM0syUHlvOHVkSnpkeWljMG5oNmFiNm5qblFleGUyZFQ1RDdDM29UdjNLUUdZQ1ZiVS1KdlNmb1U2bDZtSV9LcGtnVVVBZHFCUW9kUDhmTGtnM016WFpYekFfSHdCT3pxdkFqSlhIRnQ2S2hGa2JEckZxbnl3WnlZN1dxdm9EOFFTSGpKZ0owSmFtcjZfQkZGeTJRdFk0ejQ0ZlNFSlZPRUFmSEc2UDA2RFVXR01JYkRSaURiM05uLV8td0pNM0Z1aTNZT08za3E0eEViRjVGWkg0VFlkRGE2WDUyZHBMVA?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T07:13+09:00"
+   "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQNGVQTExndm1RUVlGdHJqbVBxZVFDakhBUjlXT0N2TXlEa2lJSXZDMm0zS1h1UmtxV2N4dmVCREpZUXZJWnI1WnpEd01jUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-13T05:43+09:00"
   }
  ],
  "osaka": [],
@@ -519,6 +525,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "トランプ大統領「イランとの合意は必要ない」",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-13T05:29+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "南シナ海への領土的野心を崩さぬ中国、アメリカと軍事的対立 「国内問題」の認識 防衛研「中国安全保障レポート」",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95dDAtWmo4UVVvZ0V0REFqRWlKR3dOQVA4YTF4alNhZnFUa19EbUUyZTdQai1yc2lEeFgwYm5jUzFmeGdkX2NfM0pEY3hoTW05R0xZYzRnSVdtY185V2p3enlZVnN3VktodWlKRm1B?oc=5",
    "source": "au Webポータル",
@@ -580,26 +593,19 @@
    "source": "アラブニュース",
    "at": "2026-11-12T23:58+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イタリアの学校に爆破予告…のべ8000校超に メールには欧州で相次ぐ予告と“同じ人物”の署名",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFF0VU45SkRzZjZIemo3QV9HZFBCMy1lR2paMzFZMmFWMkdxTWUxMm4xRmpmZzJ1QkllQ2tSWFhpYjFJdXdQVnVvTUNjNU1KNHdkek1wQ00xRm1rRXVmUEZUNDE0Wi1YUWJodW9aSHd1R2UwRE1aZ2ZET2dIY21pM3FLdV8?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-12T23:58+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「NTTドコモで通信障害 先週に続き再び」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
