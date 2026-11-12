@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:30+09:00",
+ "updated": "2026-11-12T18:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,12 +95,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "トランプ氏、退役軍人の日の演説で対イラン戦争を正当化 戦争を始めたのはイラン側だと主張",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MU2hlTU5ZVlIyTWFnYTg3Y0dDYlJXM0hDR0RjeWJ3WkhkNXhNcG9JWmFubnMtY3FsaEcxQ0F0a1JqYVBRX25EbTdVelpZdjBSajgtUXRMT29GN0VpUHJN?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-12T17:25+09:00"
-    },
-    {
      "title": "トランプ氏、イラン戦争に「我々は勝った」と発言 退役軍人の日の式典で",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwaVZhaUVjTU03Y25xOFEzZnZGVG56aXZoWTRuU29OdDU5MllKRWNWRXRHd1JuWXI5dE15eGduMHBBdUNLZ2xaeDNRSjR3eUlYNXIxRnBsT3dHME5O?oc=5",
      "source": "BBC",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1RKYmZmMHZUcXVUckIzbEgxdHRBbmpQRDNJc0pfcnRHR3lKckprTllJNjZiUXIxWC1hTWJVUXoyQ1psQ21LQUYtUnl4c0lwR0JZWmotNlB4c0stNE9pdzdDSDU1Z1dnWGJSWTN2NGE1UnF1MkZNdEFuOWREdjJQLWpPSXNPcGZ60gGcAUFVX3lxTE40czlBX09RRG9GMDB1ZThyNFhNM3J4V09fWmFUWm0xdG9Ta25maU90YmZlZERRa3pySER2Yk5SemJEUy0yUjNnNlptd1d5Q2NaLWtCZUJVdTRTWGtYc1M3SHhoREpTWEdPZXJMWHZfUk1iUGtwV3RjOE1ZM0hLQy1hbTk5S1J2NklDSHBQUGcxRjJESjk3YURkd3p6ag?oc=5",
      "source": "Chosunbiz",
      "at": "2026-11-12T14:17+09:00"
+    },
+    {
+     "title": "イラン 核濃縮物質の搬出否定 米攻撃なら“遠方基地を標的”",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpb2xUaDlMS3J4SHBCMDIzN3RIU0hENzVnQVI3aWVaekd2Y29lenVBZkhKQmpUVC1CNHJxcjZHYWFidGZlRkFfRzE4ME1JOGlKaWxWWjFfbVNRNmhjNS1ULUtJWURjTTFRb1pjck5GanFsck1IQmRxWElR?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-12T12:31+09:00"
     }
    ]
   },
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍、ウクライナ各地の軍需工場に大規模攻撃と発表",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXN3V1l1UUpzV3E3LWdoVDRXVHQxWDlTeDAzZ1VRdnNqT1ZTREtIM0VjSWw2QzdmOGFtaHNWZWFiR1lfNUl3QzZxX1lGMEtqWnRFenk2bEprUHhkdUpLaklFVUtwUERJTXBYNzJLTlFvVWxqSjI1OUVweVFmZlZ2U1pyVnVtdw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-12T18:37+09:00"
+    },
+    {
      "title": "米国特使の訪問日に、サンクトペテルブルクでロシア軍大佐が爆発により死亡",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObkthWXVoRW9jX0xOa1Q1dGtDclVIXzBnM3lqazVCNnVsV0g2X3AtcXhxUmdqT3RzbnJUc2pRdFVyYVY3SUcwSWQ5emV1cnJoZTNNeUp0TXd2cnJqc1NzMWpnWEQ5dnZzLVpPN0N5NjJrdFBvR19WX0NWU1Q5R1llZExnWmFWMWJhSTNMTFFSYlQ4UkdMdEluWVRsa1JKWVI5ZndBdk5FS1lHcmJFb1FPQjNB?oc=5",
      "source": "Informat.ro",
@@ -233,8 +239,8 @@
      "at": "2026-11-12T16:37+09:00"
     },
     {
-     "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(1/6)",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dWUWJTVnRSWWdmU2FZMldjVFI5aDJqSW9RclpsN2hoWFU1VVNscW50czlHV0ZFaGIzdHk5MlpiVUljeFpVVVVNYi1sX3k0QnRMMkItTDZjUnQ0QkhOVUZ5NjI1Vm5hNVNTbHR2d0RsMnJqTEpHbE5tQWdsanBfNjVDMlB2OUY1Y1VhOE80aUpvQ0ZSYnkxenRxT3h5ZkRGZW5XV0MtNGI5U0J6U1E?oc=5",
+     "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(6/6)",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wLUlDRmtySGlXNnNfZWRPX3ctd0ZEYWtPVTIxMEZnQzFKdW04Z0tWZEdfcGIwVHQxWlk0cUxEcWxhOTQyMnI3NnRxLTRaeEdfMmZUUVk0NElJd3FIUjJz?oc=5",
      "source": "JBpress",
      "at": "2026-11-12T15:00+09:00"
     },
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjE5QnVXWmMxUEc0dlNzX0N3NEgxN0gtdFR1Z04xaWFhWGNLNFJSZ1JHNHQ1V3psNFMyLU9XQ2FQNllkY1FtQlRpM1hPbmFBV2VaajlnSUU0SWRoNEY3clFxQVg2YnJZc3pZNHZyaHhRS2VNSGlKS1JPQzUwcjV4YnFEbUthN19NRnZ4WGxWczJZZGY4alM4aHN1YWFzNHNTVzB3Yg?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-12T11:12+09:00"
-    },
-    {
-     "title": "ロシア軍は一日で17回、ドネツィク州を砲撃し、クラマトルシクでは一人が負傷 - ドネツィク州軍政府",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjZjS2xaamtOY2R1Z1pWOXlIODJ6Q1BCcUF4WXlrc0c5eEdLQmRaUnd4V2FNdlBfdUhjcVVYOTNMdGw3cF9VdDZuTHdWX1pFVGZ3Rl9zU3BOTUtydDVIVDM5ZTAwSVJkWVhfRjFYUFRQMHVSVC1rQVJnR1BkMkNXLUtKQWRKckRjSzFJWmJJeGZQNUM4am45d19WdnNJVkE?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-12T10:16+09:00"
     }
    ]
   },
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "南海トラフ地震を想定した訓練と対策本部会議 被害状況の把握手順や今後の災害対応方針を確認（RKB毎日放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ha3NiWkltZk9tQ3R2cjZwQWo3UjdtNzdrWHRzVVVGelhjSTZKN0t6cmQ1UENpY0FPSk5vY2otUzF6T1gtQmFteGtORDRJSlZ2VGdBUW9FT1luU1loN2J0eFVhNWl2UlU5cGRDMndGM2M3bTZ1TmJFX0ZEc3VrY2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T18:34+09:00"
+  },
+  {
    "title": "高知 室戸 南海トラフ地震の孤立地域想定した物資配送訓練",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zTlZkYlhINHJXZmlERGVIbFIwT1ZsdDNpNmFVZjVVSVlqOFUyNExpSXFXR3B6Q3RsMWNtYjNhbzFHclEybkh1cGlxNV9vdVNMVmQ4YVNiOXJiUHBZT0Fz?oc=5",
    "source": "NHKニュース",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tQkNuR25pOEl0TlUtU2hDb3dCZ2UwOHZNOWVfbzNHZEQ1b0ZaX1MzWjZ0TDJwcDluWE1DSmtSU3draEVVTnR6VDNDTHRDOS1kUHVKT1lUdlNfOC1rR3YycHVHUFdiVDhCQXprd2FUcGN6dTNYUlhtdGpwNGlNeEU?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T15:00+09:00"
-  },
-  {
-   "title": "南海トラフ地震発生時の被害想定と行動シナリオ、今年度中に公表へ 和歌山県の検討委員会",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMV91WDNHbEwxWjNQRGVjdWlsUWpFV2JzQ3BaeHpJaWViM2V3cGZQUkV3Nm5KN1VBN3R2WGJ2cVZSWm1HWldfXzBfZ01LRm96SHdlR1RDRFJEYkg2NFJnMW9KSGFSam9laHE3bVJwUlFfVGxnS1lnUGtxSENMQVBwYm54djFhTEJMeE13Yw?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-12T09:00+09:00"
   }
  ],
  "outage": [],
@@ -356,10 +356,10 @@
  ],
  "cyber": [
   {
-   "title": "【速報】ダイハツ・トヨタ・スバルの3車種 17万6000台をリコール 電気装置の不具合でエンジンが始動できないおそれ（読売テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tcHZhelVUNUZnaDBkdVNsWEpHRWNLYkpwaVk4QWlYV21TQVU5ZHdaTEdLZzhqQUNRWVM5V3MxeHdHaEhwamw5c3lGRU1JLXFyUEZkdmh1Yk5mWFFEVXoxUFQ0Q19TNW5yck1KUXBtVExLWXVhczJtaE51U3pyTkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T17:55+09:00"
+   "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導 通信障害も相次ぎ信頼揺らぐ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMUo3R3NhNGlWNTNVbTF1MEE5eTg0bnB0UjhXT3FfZGVoWi1NcWh3WFBHN2E3dXR4UGkxbi0zanR1U1dLdlF6dm0wMUpOT295dHdzb0FVUQ?oc=5",
+   "source": "J-CAST ニュース",
+   "at": "2026-11-12T18:30+09:00"
   },
   {
    "title": "ANAアプリとウェブでシステム不具合、予約取得や搭乗口変更に混乱",
@@ -368,16 +368,34 @@
    "at": "2026-11-12T16:14+09:00"
   },
   {
+   "title": "【お知らせ】2026/11/30 ランチタイムセミナーのご案内「精神障害の労災認定とSOGI～心理的負荷はどのように評価されるのか～」 | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VTEFieno5ZThVZ2dFWnFSdTV3SGp5OFF0N2RwaU4xcEpTdVJILTFEMmh5WV9pbDRtZ0cwUFIyc3ZjRlE?oc=5",
+   "source": "LGBT法連合会",
+   "at": "2026-11-12T15:39+09:00"
+  },
+  {
+   "title": "セキュリティ企業が不正アクセス受ける サイバーセキュリティクラウド（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZS1JNjhLOUlkQl9JN0NOQ2xxQndiZlhpb1Z6cXNaVjFVa1gyY3loMGRMTUtrVG1CbWJDYWJlTDk2Q2daZmFUNVR5WXB1SVZGRF9fcHNMbjVRem96YWpoTnU3NWVXdl9ZeTJiUmFLUFhoY1kxNXJ1NXB1ZHN1Z3c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T18:35+09:00"
+  },
+  {
+   "title": "県の子育て支援事業 約8200件情報漏えい メール配信システムが不正アクセス受け 大分（TOSテレビ大分）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CVVJ3QWtDdDN0WjlmM0NTYVBBUUk3eGpZRWpxcUVKWVhVVTNablQ4T1pjWU5FR0dKNGFKQThuTzBCRzI1VFBTbHNIeGVDR2JCSzR5WHdUWERacFBOUzZsTko3Sy1OQm1MU09yUFotaXZhaDFkenpKMzRWc3BHNVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T18:31+09:00"
+  },
+  {
+   "title": "「早く対応していれば」無印良品が謝罪 不正アクセス受けクレカ番号16桁流出 “マスクなし”情報「5年前に削除すべきだった」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWFdzVzYwTkd5eUg3dWhIVGdFLU5VdjNrZHd0dGRfdV9wcFpGVzJmM1YyMXhpemhYTUJac1dhYnlHNXBVclR6eS1Hd0tzRzhNYm1JM1NfZkc4Z2pUSTNfX1lNaXdEbEM4REljRVhyS1RfNE1HRHNGMDF5b0J4VEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T18:30+09:00"
+  },
+  {
    "title": "政府が人工知能(AI)を活用したサイバー攻撃が増えることに対応してハッキングを事前に遮断するだけでなく、攻撃を受けた後も電力·通信·金融など核心サービスを維持し迅速に復旧する体系を用意する。 AIデー..",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Kb3ByejA3b2pUb0N5ZnliZnhUWFk0bDU1VVdhclJ2dTkwMGJxeFl0VHZOZWFFN2NtcHNoT2xSTWVPTlpSWXNLbDhHRQ?oc=5",
    "source": "매일경제",
    "at": "2026-11-12T18:16+09:00"
-  },
-  {
-   "title": "アララ社への不正アクセスで、テレビ新広島の運営サービスからメールアドレス５１９２人分が漏洩",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WN2RYR00yOHd6LWQ1NDB6dzZTdUUxcl8wRGVoM0FFZGhVUkhaOHBOQVAzYVFycUplOWk1NFNFT1RqMEZtQmlMaHMzaGZMM0Jzc1A4NU9CekRlbkRHYUNtZHFEYlFZdTd2aGVFdjBTckVVTThYZjFNal9Vd2h5djg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T18:10+09:00"
   },
   {
    "title": "なぜ「無印良品週間」セール続行？ 不正アクセス検知から発表まで4日、社長「反省はもちろんある」",
@@ -392,12 +410,6 @@
    "at": "2026-11-12T17:41+09:00"
   },
   {
-   "title": "不要なクレカ情報削除せず 不正アクセス、社長「責任を痛感」 良品計画（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sdDU4aXZfQ2tPTGZjdnBnRUMzUGZGVlU4UHNkWjZQUnRobV9iam5MY2hSYUlYMUZFSzdHMW03b053V2MzZm8taHkzSEN2SFFxU1lVaWo2ZzRVRGVJTWs5Sk43d0gyQ09xaVRUNGVFMkZJR2d4WGh0M2NQWV81c2M?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T17:36+09:00"
-  },
-  {
    "title": "東京ガス、アララ不正アクセスでメアド8万件超流出",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuak1CR3FVRm15QmVuR2ZlcVBmRDN1aF9zNndZVUsyTzVaWHFvaXplWk1KbThSajljOUdpaVJtWDN4RDJDX2tTTFhhV2VWODJZekFMMk1feElONG1LR3lWZTNmLS1fcUJuTWlFYQ?oc=5",
    "source": "日本経済新聞",
@@ -407,12 +419,6 @@
    "title": "東京ガス、顧客のメールアドレス８万５５６５件漏えい…「アララ」不正アクセス受け",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUNHdiM1FzMXNrYUtnS3hHb3p6b1pZUjBKMVhCV2U4UHBTN0tTdEJUV0Z0dWlSRWx4TmRnUWxJdmhjQXVDNG9sQ2NtbTNJTGpUUmxCVHVzYmZ0alRBS09sZk5CVHc?oc=5",
    "source": "読売新聞",
-   "at": "2026-11-12T17:20+09:00"
-  },
-  {
-   "title": "VTuberのグッズストアや「vaultroom」で購入者情報流出の恐れ 物流委託先に不正アクセス（KAI-YOU）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SGJWRGg2MTFSRm11MDBMRGJrczFreF9uRjNoNVRkYm8yOGozR3pINnVqdF9fNlJnR19KbjRkZmlId3lFbjc3bkhNTzZGM1lQRXBRNVprQ0J0LW5hNU93ZzBWR0x1cFFMWVJKMXFpbmhrUDdSVDJ1dGlaZWRrMHc?oc=5",
-   "source": "Yahoo! JAPAN",
    "at": "2026-11-12T17:20+09:00"
   },
   {
@@ -438,16 +444,17 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUkhaQ3JsdmdxUjdWQThrclNNbGJOWGthU2lCYnFMWUVIb3BZYkNpSUJBYWpodTBNZ1ByVkFqU2hmVy1ic2NUaDlsR001cHlScE11bzlhbC0zRHdwUDNfTm9tcTQ4aEE?oc=5",
    "source": "日経ビジネス電子版",
    "at": "2026-11-12T17:00+09:00"
-  },
-  {
-   "title": "アサヒ、サイバー攻撃下の出荷作戦（後編）～危機の物流を支えたチーム意識",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MbGk0NzJHWmZmNzl3QVNKWFZpb3dCYzE0VjRZejF0cDRZWnFzbHQ1eW94QUZnQjNWUC1wbV9Cc1NPQ1Y3MDMyRUVBUnFpamRDd1F3SFBJdGE4Q1hCaWlVVkRvZVcyRnc?oc=5",
-   "source": "日経ビジネス電子版",
-   "at": "2026-11-12T17:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア軍、ウクライナ各地の軍需工場に大規模攻撃と発表",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXN3V1l1UUpzV3E3LWdoVDRXVHQxWDlTeDAzZ1VRdnNqT1ZTREtIM0VjSWw2QzdmOGFtaHNWZWFiR1lfNUl3QzZxX1lGMEtqWnRFenk2bEprUHhkdUpLaklFVUtwUERJTXBYNzJLTlFvVWxqSjI1OUVweVFmZlZ2U1pyVnVtdw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-12T18:37+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "正恩氏、海軍基地建設を視察 「重大な核心事業」 北朝鮮（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2SVk4bHIzM1ZWY0lfUGdTbWFuQ0JqVkVsZUdOT2I4Z3d5NlJWcm9LZXZsRGMwbXp0cXhxclhleVRsdlJ5cVg0LTVqSmVDMzhyMXVITUdBbndtbVhGY1RyY0h4MUx5ZE5QTkgzV3JNUFRRVTI5TmtQU2lybnhaUHc?oc=5",
@@ -468,13 +475,6 @@
    "source": "매일경제",
    "at": "2026-11-12T17:36+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "トランプ氏、退役軍人の日の演説で対イラン戦争を正当化 戦争を始めたのはイラン側だと主張",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MU2hlTU5ZVlIyTWFnYTg3Y0dDYlJXM0hDR0RjeWJ3WkhkNXhNcG9JWmFubnMtY3FsaEcxQ0F0a1JqYVBRX25EbTdVelpZdjBSajgtUXRMT29GN0VpUHJN?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-12T17:25+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "トランプ氏、イラン戦争に「我々は勝った」と発言 退役軍人の日の式典で",
@@ -512,8 +512,8 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(1/6)",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0dWUWJTVnRSWWdmU2FZMldjVFI5aDJqSW9RclpsN2hoWFU1VVNscW50czlHV0ZFaGIzdHk5MlpiVUljeFpVVVVNYi1sX3k0QnRMMkItTDZjUnQ0QkhOVUZ5NjI1Vm5hNVNTbHR2d0RsMnJqTEpHbE5tQWdsanBfNjVDMlB2OUY1Y1VhOE80aUpvQ0ZSYnkxenRxT3h5ZkRGZW5XV0MtNGI5U0J6U1E?oc=5",
+   "title": "ロシアの攻撃で電力危機のウクライナ、大打撃の国民生活、中国製EVと蓄電池が急速に普及(6/6)",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wLUlDRmtySGlXNnNfZWRPX3ctd0ZEYWtPVTIxMEZnQzFKdW04Z0tWZEdfcGIwVHQxWlk0cUxEcWxhOTQyMnI3NnRxLTRaeEdfMmZUUVk0NElJd3FIUjJz?oc=5",
    "source": "JBpress",
    "at": "2026-11-12T15:00+09:00",
    "topic": "ロシア"
@@ -575,25 +575,25 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "イラン 核濃縮物質の搬出否定 米攻撃なら“遠方基地を標的”",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpb2xUaDlMS3J4SHBCMDIzN3RIU0hENzVnQVI3aWVaekd2Y29lenVBZkhKQmpUVC1CNHJxcjZHYWFidGZlRkFfRzE4ME1JOGlKaWxWWjFfbVNRNmhjNS1ULUtJWURjTTFRb1pjck5GanFsck1IQmRxWElR?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-12T12:31+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "イタリアで約6300の学校に爆破予告 生徒ら一時避難など混乱広がる ヨーロッパで予告相次ぐ",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IUjdrazdmczl0N09yLWxnVWdZNE9BdWpoUTRzRVlXWkxoQ1VtSV9rOW9lM3NPZ010Q0pTcHFpWFZVcVpQenk3SUZJQ2JDeHFfbWVYOHR0SGZfNm15TWVwOXVUMUNPTXdE?oc=5",
    "source": "Infoseek",
    "at": "2026-11-12T11:48+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ロシア軍、朝からヘルソンを砲撃とドローンで攻撃 - 州軍政府",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjE5QnVXWmMxUEc0dlNzX0N3NEgxN0gtdFR1Z04xaWFhWGNLNFJSZ1JHNHQ1V3psNFMyLU9XQ2FQNllkY1FtQlRpM1hPbmFBV2VaajlnSUU0SWRoNEY3clFxQVg2YnJZc3pZNHZyaHhRS2VNSGlKS1JPQzUwcjV4YnFEbUthN19NRnZ4WGxWczJZZGY4alM4aHN1YWFzNHNTVzB3Yg?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-12T11:12+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
   "osaka": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "警報なし・大きな揺れや停電の報道なし"
+    "「「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導」"
    ]
   },
   "japan": {
@@ -605,8 +605,8 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」2件",
-    "ロシア：「攻撃」「侵攻」4件",
+    "イラン・アメリカ：「攻撃」「封鎖」3件",
+    "ロシア：「攻撃」「侵攻」5件",
     "欧州・NATO：「攻撃」「爆破予告」6件"
    ],
    "items": [
@@ -617,10 +617,10 @@
      "at": "2026-11-12T15:26+09:00"
     },
     {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月12日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQc29Yd3ZpUkRIQTk2M0MtRnNKSzNQTTRsbThENWdKVmZHOFU3Q1YzSmM5Wlg4cXRtY2owTnlicnl2TEEtb3pDODNIR1M4enhPekloZjNYMW9HSGUzRklj?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-12T16:37+09:00"
+     "title": "ロシア軍、ウクライナ各地の軍需工場に大規模攻撃と発表",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXN3V1l1UUpzV3E3LWdoVDRXVHQxWDlTeDAzZ1VRdnNqT1ZTREtIM0VjSWw2QzdmOGFtaHNWZWFiR1lfNUl3QzZxX1lGMEtqWnRFenk2bEprUHhkdUpLaklFVUtwUERJTXBYNzJLTlFvVWxqSjI1OUVweVFmZlZ2U1pyVnVtdw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-12T18:37+09:00"
     },
     {
      "title": "欧州で数千の学校に偽の爆破予告　イタリア、英スコットランドなどで",
