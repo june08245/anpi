@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:15+09:00",
+ "updated": "2026-11-13T04:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -246,8 +246,8 @@
     },
     {
      "title": "ロシア大統領がウクライナ東部での支援提案",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oWjdhTEFwV0FDd0R3R1huQU5zeEFkbEx5ZVZ4MEcyUnFOd2szM0lpT1dtWF9QaF9SX2N6eG5jaER2VjlOczRrWWl1LTF0T25rOTVVRzFzYTJNOG5uOUE?oc=5",
-     "source": "沖縄タイムス社",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRbjdBYXhCTjlhYWM3RlVlRkZzTHBiNzluYzVzR1A2R0U1T3BqV2hhNUdoMDN1a1NmdDQtR2JZNW0xVGFsSVRYUnAtS0RJNVk4b2gyWllmUFM?oc=5",
+     "source": "京都新聞デジタル",
      "at": "2026-11-12T22:17+09:00"
     },
     {
@@ -341,12 +341,6 @@
  ],
  "outage": [],
  "japan": [
-  {
-   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-12T19:12+09:00"
-  },
   {
    "title": "ロシア軍が弾道ミサイルと123機のドローンでウクライナを攻撃、17カ所で着弾 - ウクライナ軍",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWdLV2xwMkdqM0tRRm52ajdGX0ptYzJCUUZCMWl2Z1NwTUF6dXFZTURmbElVelRvanJvTzJqcWZpbTEyWVN2VldydVNua3dwQUtOR1F3R1k5V3dxTmVaWW56NkdYMkpXRTBTRkNIUUc5VjQ1LU9UYWh5SzNKVzVwc0FoTEltMmR6RUloX1FwZFNNdGIyOUxkcGZWajVGbW1yZFVoRnctbw?oc=5",
@@ -520,8 +514,8 @@
   },
   {
    "title": "ロシア大統領がウクライナ東部での支援提案",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oWjdhTEFwV0FDd0R3R1huQU5zeEFkbEx5ZVZ4MEcyUnFOd2szM0lpT1dtWF9QaF9SX2N6eG5jaER2VjlOczRrWWl1LTF0T25rOTVVRzFzYTJNOG5uOUE?oc=5",
-   "source": "沖縄タイムス社",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRbjdBYXhCTjlhYWM3RlVlRkZzTHBiNzluYzVzR1A2R0U1T3BqV2hhNUdoMDN1a1NmdDQtR2JZNW0xVGFsSVRYUnAtS0RJNVk4b2gyWllmUFM?oc=5",
+   "source": "京都新聞デジタル",
    "at": "2026-11-12T22:17+09:00",
    "topic": "ロシア"
   },
@@ -597,9 +591,9 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
