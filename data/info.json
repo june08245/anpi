@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:15+09:00",
+ "updated": "2026-11-12T10:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "｢ロシアの聖域｣なのに､もう中国海軍が来ても拒めない…プーチンが習近平に頭を上げられなくなった理由",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hVUIzaEFMc3ltc3NWeThHV29xRnp2OTdyeS14VGJwN3A1MFoweFgyajRuTENsWlZkbWtleTM2WTh4VWRyQlNwZ3RpTVJ6NlFBRDdNMGkwelBZQ2dFMkxDdzZSb18wMU5pQ0NUNG5GcENPX05Dc01QNkR2a2ZDNTQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T10:15+09:00"
+    },
+    {
      "title": "ドイツ軍、中国製ドローン・車両の使用を中止…情報流出を懸念（中央日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAycVJqdWFJMUJqRWdRekFTSU8ydjUtT2xxbkNSTm5IQmU5clM4QXk3aVlWZnRQWkhndFNLV0ZQdkRfNGZvZzE4SzFzZ1F4TWJxa1ZEZDhXT0JRZWZ4angyOVVkdGpOWmc4d0pRRk80WHV1cVhhV29KaE0zczhqeGs?oc=5",
      "source": "Yahoo!ニュース",
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOHNSUUJWZ0JyZmM2SEtZUUFUS0hzU3R3Z3lFYUdmdGI0ZmRYZEotSGxQb2NPSWEtWnRUT3MxNEhjTWczcFN2b0VPZzJNZEJBY0QySHhoVjJIN0ZlZHVEbDU2T2FfRXNIYW1aQkFNT0NPamtyemhfSjF5RHprUVNrSmI3VGU?oc=5",
      "source": "Reuters",
      "at": "2026-11-11T14:49+09:00"
-    },
-    {
-     "title": "【図解】中国海軍・海警100隻超が西太平洋に展開 台湾包囲を想定した「未公表演習」か | 李忠謙（リー・チョンチエン） | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ocUM0ZnJ6TGVlYS00cjNDVS1uY2RXYVMxSGVFMS0wVmtaY1FwZ3FxS2tkNXE4OWVHYzVSZTkxQ0J6Y2wyUF95blE1endPOU5Z?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-11T10:13+09:00"
     }
    ]
   },
@@ -263,10 +263,10 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40SUJhNFpxd1Z3bzNxdi16SnU5Ym5VR2lGakI2XzE0c1N1SlRSTk05V2ptU09uQlBLeDk0a3pmZ2kyd3lhTjJmcHBUQTYtbmdGYU93RW9OS2R5OGRHY2VDV3o4dkxFQVpvTVJLeHV4S052bHN6V3V1TDBDNm93dw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-12T09:41+09:00"
+     "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wajNvZjY1TEZiQXpGaXNWZVFWOHVCQk53cHFlU2h0eFdBSHdocDc0YTExZ05IQVV6QnNwR18xYzUxSFhFUzdnZFJBdTBUS2dIWHBXOWlLU05pSmZYclFHcGZMSmVBOW8tLUMzeDRZOFRQNFlfZTBGWl9iVTBKNlk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T10:11+09:00"
     },
     {
      "title": "欧州の学校7000校以上に爆破予告メール…当局「危険の兆候なし」（中央日報日本語版）",
@@ -360,10 +360,10 @@
    "at": "2026-11-11T11:03+09:00"
   },
   {
-   "title": "【注意】きょう午前11時に「Jアラート」全国一斉テスト…屋外スピーカーから放送へ スマホは鳴らない（NBC長崎放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IeVlMTUZHWElaWGJrOGVwS3F3S0kweTRUUk9NdEVWUDV5VG5xRi0zQjR6U3VxaU8wMVRJc1NYcHBTWm5GRDhiN0tDUUdkemJhQm9TSWd0dUR3alctVFAzOGU3WnppdkpiUDQzSzZZaGFVSUFDaWtPYkZ2NDhsVXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-11T10:30+09:00"
+   "title": "【注意】きょう午前11時に「Jアラート」全国一斉テスト…屋外スピーカーから放送へ スマホは鳴らない",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxUmFudnM3N2pmUXROX09PN1RQZHJMaFpfeWdTcjQ2VFZKV0pTU3ZlT3RsaThRWmZlRms0VEVBWFRDTkR2dnNfUGlQTTY1bDNGQW8wWkk5bFByc3VnQXRRVzBxT3YtVlFrRk96bzB3?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-11T10:31+09:00"
   }
  ],
  "cyber": [
@@ -384,6 +384,24 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBySVNXcjdXd1NtY2JQMmdGQjIwcHFWZldxREw1NUNoUDg2WWx0dExKMGRSV0pxdVgzOVRkS1NYOFViUVJUV0w1UjhUenZ1NVE?oc=5",
    "source": "blog of mobile",
    "at": "2026-11-12T05:23+09:00"
+  },
+  {
+   "title": "サイバー被害》GMO・熊谷正寿代表（53）の謝罪会見に満ちていた“自己陶酔感”の正体…何度も見せた「アゴを上げて頷く」仕草の意味とは（文春オンライン",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVGZZWEVKX0VHY25NWVhYeEhFVWN5RXh3R1doMmtIUEg5c1NlLXBIVmc5UWpHZGlTNUtCNWRQZzlMR2prbDR2ekNKanNaSDRWdWFMcGVBR1lLSGEyanFMUHNPMDE4cUZuSVd5TWhYTlh6WUI3YVEyY0tyeVctOGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T10:12+09:00"
+  },
+  {
+   "title": "無印良品の不正アクセス問題の経緯(THE PAGE)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzIxanBFajF6c19pOFlhWE9OeWZzRXNPaHRhSnJLNG91M0xfSU9mejlBSGtBYUNXc0dJbzNQUjI3bllUdnNnaDhvYWYtMzJDelF0SjFUV3Z3UDZRNEx1WTNnejhXOFZfTEd2NGdiREJqVWZDUV83SXJOeTBkRmV5YlJEaUNleU0?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-12T10:11+09:00"
+  },
+  {
+   "title": "維新の会・串田氏 相次ぐサイバー攻撃、ペットに被害もたらす可能性を指摘",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jbHV5bW5hTjlSZ3dlazZkalhiRmJYYWZGWGZOT3FfQUZBdGhUQ1hWMlVVSUVqal9NSlcydkdEeEwzV1c0cG5mNjlyZnpUVVdwcWMxV1dhdHA2ZTVBZnJ5a0VQSUNPaFJZamJmNg?oc=5",
+   "source": "カナロコ",
+   "at": "2026-11-12T10:10+09:00"
   },
   {
    "title": "S&J、加速するAIによるサイバー攻撃の高度化・高速化に対応、AIと専門家による「WebアプリソースコードAI診断」の提供を開始",
@@ -410,6 +428,12 @@
    "at": "2026-11-12T10:00+09:00"
   },
   {
+   "title": "靖国神社サイトに不正アクセス 名前やメアドなど1万4500件漏洩（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WUGtPLWp1amllaUdabWhnOFd5ZnVzWXkzYmZtQmVQbzVPSlMtLTNtby1wZjVrOVVzYnppakdTTHRPSWd4MzBINDluYWZMbXVLaDNiVmx2VElMQnlqNXdyRTU2dkZUMm8zbkUwN1oyTFh6dmZ3c241cGtvdGF0eHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T09:57+09:00"
+  },
+  {
    "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40SUJhNFpxd1Z3bzNxdi16SnU5Ym5VR2lGakI2XzE0c1N1SlRSTk05V2ptU09uQlBLeDk0a3pmZ2kyd3lhTjJmcHBUQTYtbmdGYU93RW9OS2R5OGRHY2VDV3o4dkxFQVpvTVJLeHV4S052bHN6V3V1TDBDNm93dw?oc=5",
    "source": "Reuters",
@@ -432,47 +456,30 @@
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY01hYVUyd3RWbEZ6S2lGMTk0cHAtcDBkV2hyakFYMjdfMXRpWGZ6S2toQWtybXRCNXN0dEc3Q0JWcDEwYnFUOFlQVGM5Y2lTUEhTR2xzMUZ1UEFVMC1mM19QNzVGYlAyRTR5Zm1SdXJ3Unc5NWNaWkRwTWI1c09FVEh4aWpVY20ybXdnRmhmZ3p2eml0NEp4RENkMGpGTW0tcU0xdw?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-12T09:30+09:00"
-  },
-  {
-   "title": "ゲーセン不正アクセス問題、ALL.Net・Aimeの停止は約半月になるか…大きな進展がない場合、次回報告は11月17日。いまだ再開の目処立たず（Game Spark）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HVWVscTg4cnF4Q0lGR1hzV0F0UkVaRkUwSzZWLXlfQWl2bU42M1ZZejFtUV9rd19jSDZGa25yTW1ZZXBoT2ZiNXBwWUc5RW5kSXMtRFZBcWhjWmI5TlRxTUU0ZXFXS3ZEYjZLT1RVajlDaHdINzlyZkF5RlpSMTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T09:17+09:00"
-  },
-  {
-   "title": "Tempura technologies、NVIDIA Inception Program に参加 AIによるサイバー攻撃から企業を守る「Securiy」、NVIDIAのAI技術との連携を推進",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKTUQ0NGtLZEJMX1hiYV9IX2xKU3lsZE42eGJmLUVCaHJKLVVHdzZrZU56NERnYlBrNG5pU2tSN2pjSUxhZm80enRZaUhhYzJPczVYS2FXYVY1NmF4VHROMzBBQUFVQUxpeVE?oc=5",
-   "source": "PR TIMES",
-   "at": "2026-11-12T09:10+09:00"
-  },
-  {
-   "title": "不正アクセス調査を初めて依頼する際の「雛形」を公開 JPCERT（Impress Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISlZ2a0xNRVZNeWF1azNZWG5UMEhjendUVXpWNUJsNG9KcEViNnYtM2ZQWk5DaktOXzlzektVVS1XSjV3YnBDX3BHYU4xZGVOLUd4V09GRWZDbnJLY1l4UjlvVVlNSHY1Y2xfVGxOREh6MXg3TDhYTVU0NlMzVGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T09:00+09:00"
-  },
-  {
-   "title": "11月ロイター企業調査：サイバー対策投資拡大6割、ＢＣＰ・開示体制に課題　今年1割に攻撃の影響",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOF9PVkVOWEVwVG9oV3dJckcwTTkyTEZKVXVCd3EyaFA5REtxazgxTDZ3elNZSjBIaE1XcGxFeXM0STFkd3FnaW95b2JGcHVsbE1TMDBkNXdlRWplOEtQWTdRc3NGWWl5Vm9ES1RPdlU2aVR5ZDdOVW1aekU1TlZleXpUN2RhUXpFVGNDNk1ZSThsaUVwMUdZczUwaG5uSU5hZ2FPZ0d2NHhFelVxSUVxbExDeGdqR184bzVFVVNsbzF4OUtIQ2hzY1FuS1VsM29kTlZJMDBSc9IBhwFBVV95cUxNRTBpV2VPMHZld2N2UjRkTWdoYkZaczVkbnJzZFhGMjh2eHJWaXpHajZ5UUJIQVQ2cEo3QzZWMktNVnFFRWl4NEFpUVRqV084d1lWTEZCQjlrR3J0UHdRLXV3NE9zUVFJbjA1OTZfdWRUX2FxYUJ0NUVoYXE4S2YzUjhwNnNUdkk?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-12T08:12+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "｢ロシアの聖域｣なのに､もう中国海軍が来ても拒めない…プーチンが習近平に頭を上げられなくなった理由",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hVUIzaEFMc3ltc3NWeThHV29xRnp2OTdyeS14VGJwN3A1MFoweFgyajRuTENsWlZkbWtleTM2WTh4VWRyQlNwZ3RpTVJ6NlFBRDdNMGkwelBZQ2dFMkxDdzZSb18wMU5pQ0NUNG5GcENPX05Dc01QNkR2a2ZDNTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T10:15+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wajNvZjY1TEZiQXpGaXNWZVFWOHVCQk53cHFlU2h0eFdBSHdocDc0YTExZ05IQVV6QnNwR18xYzUxSFhFUzdnZFJBdTBUS2dIWHBXOWlLU05pSmZYclFHcGZMSmVBOW8tLUMzeDRZOFRQNFlfZTBGWl9iVTBKNlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-12T10:11+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "ゼレンスキー大統領「不可能だ」 ロシア代表団「我々の土地はすべて戻される」従来主張に反発 ウクライナ和平協議終了",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SdkpmN2xTZmV1NFNSclhnRDk4T0swV0JYRURuSmRWbHdnbEt4dHY5MEIzQS1UUTU4Z0NJc2xDeDlmeTVYQTMtUlFKVGgxdw?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-12T09:48+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40SUJhNFpxd1Z3bzNxdi16SnU5Ym5VR2lGakI2XzE0c1N1SlRSTk05V2ptU09uQlBLeDk0a3pmZ2kyd3lhTjJmcHBUQTYtbmdGYU93RW9OS2R5OGRHY2VDV3o4dkxFQVpvTVJLeHV4S052bHN6V3V1TDBDNm93dw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-12T09:41+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "欧州の学校7000校以上に爆破予告メール…当局「危険の兆候なし」（中央日報日本語版）",
@@ -592,13 +599,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T07:19+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "暗号資産窃取の「精鋭」 バイナンス攻撃の北朝鮮ハッカー―被害拡大、日本企業も標的",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUUFIOXpVSGVONHdkek5xbEpDUTRRYkEyRTUzVTBld3hIOHg1akVrM1pvUV9HTjViMmVXWjU4YXdTQlVPWDVDYmxLU2hHWTZUNWlKcW03Q0U1aU5kWU1lSjFrYw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-12T07:09+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -635,10 +635,10 @@
      "at": "2026-11-12T07:19+09:00"
     },
     {
-     "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40SUJhNFpxd1Z3bzNxdi16SnU5Ym5VR2lGakI2XzE0c1N1SlRSTk05V2ptU09uQlBLeDk0a3pmZ2kyd3lhTjJmcHBUQTYtbmdGYU93RW9OS2R5OGRHY2VDV3o4dkxFQVpvTVJLeHV4S052bHN6V3V1TDBDNm93dw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-12T09:41+09:00"
+     "title": "イタリアで全国約6300の学校にウソの爆破予告 欧州で脅迫やサイバー攻撃相次ぎ、疑惑の目はロシアやイランに（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wajNvZjY1TEZiQXpGaXNWZVFWOHVCQk53cHFlU2h0eFdBSHdocDc0YTExZ05IQVV6QnNwR18xYzUxSFhFUzdnZFJBdTBUS2dIWHBXOWlLU05pSmZYclFHcGZMSmVBOW8tLUMzeDRZOFRQNFlfZTBGWl9iVTBKNlk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-12T10:11+09:00"
     }
    ]
   }
