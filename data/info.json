@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:15+09:00",
+ "updated": "2026-11-13T10:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,16 +221,16 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFhjZ0lUZUp6dFNUd296V2w1Yl81MXBIdjJnRDNMdl9zOGZ6d1hXMUEtWTY2U1NIT29GaDZwekszd2ZYVlk4Qm1nRkFfbkJ0US1wdUNHaThXVGUzeHIxcGpHempGVUFpMDVLakFaZENzTldxZVdqSlpGTW5oNHNJcXhIX0Z6azVtLXVSaFVZcmYwcnRNWE04aHFQb2M0U1pKNXFjemJYamp4ZWEza2ZmSHhrSXlwenVmV2N1cklNeW96UURPSVlUb9IBeEFVX3lxTE0wZE51TnRRc1VqUElaR3JCeHlydzhxRENib21NbjVrS3NqTEx0cGtsOVd1dU9pTHpVODQtcTYyeGpoZVZ1LUtHNW85TlotamFKSUstZkFiWDBrN3FtUUd3eFdTWnExYTYyWHU0YTUwMTFUYmxZaVJNWQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-13T09:56+09:00"
+     "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-13T10:07+09:00"
     },
     {
-     "title": "プーチン氏、ウクライナ巡り米特使と会談 欧州への強硬姿勢明示",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OeDBlYUhYN1gzTnE2R0pFTXVEenlkRjhIQjZOSVZCU3pFbHN4UVVvcjhnVEFJRWxrSUpMYlc0TjJ0MmlKazJWUTYzMHJ4Uzc0OThTRy16cFhIZE9OdWJrcDRrYUFlUDBS?oc=5",
-     "source": "毎日新聞",
-     "at": "2026-11-13T09:44+09:00"
+     "title": "ロシアが簡素な迎撃ドローン「ソーコル-I」を投入 戦場に適応した低コスト・量産型か",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVk9PWTRDTHkzTXFza3I4ZXVTSGxoRG5ad1J5RGZPMkF5T1ptQWl4aXpzejlleTFWZTIxM0J5S3JEOHFPMTduVVh6RklPc2dLckNxZ1dfcFpXNnlDekZrbE9GNTZ6WGNRYUc3bWh0dTVaRnZyNXU3NU1BV1kxVVE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-13T08:49+09:00"
     },
     {
      "title": "プーチン氏、外国軍派遣容認せず ウクライナ和平巡り米特使と会談",
@@ -343,16 +343,16 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoMVloNm5lTF94RVI2QUJKLXF2YXhPM2JnNm1VZVhjNElCNU5lbkhZNXJ4QmgxQ2R3WGRPcWNBNXRSc1hkTzhLMWxYemtzRjRVZ2Z1d0NSSUNtSWYySklfd29pVl9NaVV1bFN6VkRtMktWczBQNHowcThR?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-13T10:12+09:00"
+  },
+  {
    "title": "アウトルックでメール送れず 「マイクロソフト365」で大規模障害",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-13T10:07+09:00"
-  },
-  {
-   "title": "Microsoft 365で大規模障害、Outlook・Teams・Copilotにつながらず。復旧したサーバーがまた止まる事態で長期化",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nN0FXaF9SVjNtWFRKS045SVdqNkV3SXpCNmRpRDJ0V3B1VXRlbUl0ekM0blJhVHp3M2FvbS1BVElXN0JKSjVtVGZjT1pDSzQ3d3ljcVY2YmtIdmhvcHRtYkNuUG9Ib2lJQUF3TXZn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-13T09:56+09:00"
   },
   {
    "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定",
@@ -361,22 +361,28 @@
    "at": "2026-11-13T09:56+09:00"
   },
   {
+   "title": "Microsoft 365で大規模障害、Outlook・Teams・Copilotにつながらず。復旧したサーバーがまた止まる事態で長期化",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45Qkx6TGk3TUxCZjNucHhIMTNWUHg0NmVxZldqQlNUTU5vTGtZcWd2djk3TGZzQ0JqcmhHV2NlakJHbXI0MFJwVHphM1lBc2FkXzlBVmZyVkkyZERfeTlOMjdvUGRYRHM?oc=5",
+   "source": "テクノエッジ TechnoEdge",
+   "at": "2026-11-13T09:43+09:00"
+  },
+  {
    "title": "【重要】Microsoftシステム障害によるメール送受信・一部業務への影響について",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IeTl4cUNWSUJVd2RteWZOSC1GMWRHcktJbnoyUmlhamMyeV9HeVhzOFhJa2c0OXNsWEhSMC03LU5HTGwwVlRxTmpaMkNPNDY1ZU1BMVR3?oc=5",
    "source": "中央学院大学",
    "at": "2026-11-13T09:39+09:00"
   },
   {
-   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoMVloNm5lTF94RVI2QUJKLXF2YXhPM2JnNm1VZVhjNElCNU5lbkhZNXJ4QmgxQ2R3WGRPcWNBNXRSc1hkTzhLMWxYemtzRjRVZ2Z1d0NSSUNtSWYySklfd29pVl9NaVV1bFN6VkRtMktWczBQNHowcThR?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T09:38+09:00"
-  },
-  {
    "title": "おくやみ情報・ニュース 更新障害のお知らせ｜障害・メンテナンス情報",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiWXhndzhKbGw3RG85ZUExUmFCcjlPNGJURF92TUprcWx0a3pCOVlieG9HT0JlU2NNR2o2MlhaSFA2WjNCT2tDMC1KZTdIcmFFUnNOeHFTTUoyUW9XSFlOMUlYZ3o?oc=5",
    "source": "NICE TV",
    "at": "2026-11-13T09:32+09:00"
+  },
+  {
+   "title": "【Microsoft 365障害】Outlookに接続できない！TeamsやCopilotにも影響、状況と今やること（11月13日）",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sYVlCYlQtMk50a014aHBGakIwN2xwRXNpcGJzb1owZ3NBV3N5N3B0dG1JZi1VdlVkUU9kM040bHZjeTNmUmdWbmtuX0Y2YVJ2VTYyWjdXVkNsSjRabzBWSEVOZUJWR2ZDUExv?oc=5",
+   "source": "enjoypclife.net",
+   "at": "2026-11-13T09:17+09:00"
   },
   {
    "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
@@ -391,22 +397,28 @@
    "at": "2026-11-13T09:07+09:00"
   },
   {
-   "title": "NTTドコモ、全国で通信障害 復旧の見込みは「改めてお知らせ」",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Z0JteWdSR183eFRfZGFoRlh4a20xSElIWUZrcFdlb2NnT0FzbUVOUVVDbnlHMGR4OXdRSUY2NXpkYjdwaHNYUlZJeFVhLVMyLVdkRlc2T0pCLUtWWjJEN1pSdzk5amc?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-13T08:08+09:00"
-  },
-  {
    "title": "マイクロソフト 大規模な通信障害 日本などアメリカ以外の地域にも及ぶ可能性（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQzBPMFh4UGtFMDlZNV90SXhEb3RuMzBjS0szTG9OSHV6ZEt6dldwalc3UWtTaWdNOC1CT2dnUlBNbk5KeUFmeDEydm9iYUd3Zm1LWjNvZDZXQWxqcUExS183Q1F6NEt6c2NYUHJYWmx3dGp5T0VqUnVrcHhETVk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T07:47+09:00"
   },
   {
-   "title": "マイクロソフト大規模障害 世界のメール、AIに影響 復旧へ別設備移行急ぐ",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3lnRmlzMVJLbExyNjUyRzVIemI5MGViT0U4OEZxX2FmcFpCcWFyX2ZTNy0yeTl2UDdoLWpnTEZRcG5FbFZacnlLdS1TWFp2bkYwcFRoTzZ4eUhCbF90V1FrZ0l4MTUxQ3JvQWNkMnVWa011dUxDaWpjM012RzdybzVaTUdxMmEwaWh5d2d3?oc=5",
-   "source": "日刊スポーツ",
-   "at": "2026-11-13T07:12+09:00"
+   "title": "チェンジＨＤが安値更新、子会社の減損損失や不正アクセスで下方修正(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmpjZ2M0UTRRUTIySFh6MGZkdEkzQWZNZmtLUmxrSFhfOEIyZkY2WW1xcnY0Q01VZVFsaktIOGIxdVBubTlMSl9WcEFlR2J1ZnoyTWRrbUNjMnZBTUFsd1V1cnctYUZWQ3pCWjBhb0cxUVp5OHprNHEyWDdhdDI4aTNmYXJiaWs?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-13T10:17+09:00"
+  },
+  {
+   "title": "サンフレッチェ広島、顧客のメールアドレス2900件が漏えい 委託先への不正アクセスでクラブが謝罪",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IYjh3emE5b1I1Ui1wRTBkaTBWOG1PMkY0NVJLUE53ZGlYSGZoT0YxX2l4aWZsa2YxelFhT0pBVkQ0WGU4RGp4LVk1ZVBVOTJTdTBPbGQ0azNlVlRqUUJHODZjVmM?oc=5",
+   "source": "フットボールチャンネル",
+   "at": "2026-11-13T10:13+09:00"
+  },
+  {
+   "title": "ITR「IT投資動向調査2027」結果発表--重視するIT課題、2位はサイバー攻撃対策",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiQ1VFMWlGd3AtTkxtRklEdkRIZXZPSFVWTkNrNDBVV0JvSC0xajFBbVhoamxDTVd6YTc5Y2ZHRDVXMDhSQ3ZQNXlhUEJ3a3VOOG5N?oc=5",
+   "source": "ZDNET Japan",
+   "at": "2026-11-13T10:13+09:00"
   },
   {
    "title": "中国AIモデル、仏スーパーへのサイバー攻撃に使用－ベッセント氏",
@@ -419,22 +431,17 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yTl9MMHZrakpwUXJjcllLeVNUc2c4b3FyS1A2aldoZlZlWnZqcEVKZjBmWlo2MExOM2lXelE4ZDlNLVJ5eHRfUHpWWTljTjQyWmZ6TUZ3TkdkTHJZZ3BKWg?oc=5",
    "source": "株探",
    "at": "2026-11-13T10:02+09:00"
-  },
-  {
-   "title": "TOKYO GLOBAL GATEWAY、メールアドレス1万4,143件の情報漏えいを確認 アララへの不正アクセスで学校団体・イベント参加者らに影響|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWEdoMVBNd0pYeWpGS2IzdC1zVWVKcVdVUVpUYjJ0VFBiRlRMN18ycXlXTGNMeTVtdDN6QWlCTG5TYjZRSFVya1BScmFiRFk3ZnozOEpxZkZHcllBQ1hHZUZ6ZHpGQ2FreUUxMWNtYmJpY3BlUm5QUmJNbmwwNDNUSTNBTktyUVppbHltczJ3U1QySzh0Qko0?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T10:00+09:00"
-  },
-  {
-   "title": "【共催Webセミナー】サイバー攻撃が増えるなか脆弱性にどう向き合うか、Priv TechとHackerOneが全2回で解説",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sUEdCOUc2NG5yeWtzM2FXYmdLZ094UzhHR09wWkw4eDQ0ajVTVTZhRGJkZF9LZWc5VkFVSGZldWxxY2czNVdac2Z0cV9yQUJFM1JnckxaMExPRUVESFNqbVZPTXkxZ0ZqR2c?oc=5",
-   "source": "PR TIMES",
-   "at": "2026-11-13T10:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T10:07+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "フランスの駅で爆弾騒ぎ、イタリアでも学校に爆破予告…関与を疑われるロシアは否定",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAycEZndFVEeG85dmVaNHBGc2VscWxXdTlBekxtX0pUZkxKNWFUNzUzS3F1TnFHdTROZ3lhN2RwLWY4ZFgzSHRSdWtSSDBJYmVjSjNhbUdGWkdFU1JYbTZna2w4aGJ5OGfSAWxBVV95cUxQSEFheEpHeEVkT1JTVnFoaUx0MGdiR3Raem51T05TNFhDT0ZkN3lUWUg3OU9NUEVETldkWUthYnNNR2tnb0NFU05mV283Y0RjY3NHN0ctVFlGRDZFR0M5QjBNdmxkN2FmLTVJRGM?oc=5",
@@ -443,25 +450,11 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeFhjZ0lUZUp6dFNUd296V2w1Yl81MXBIdjJnRDNMdl9zOGZ6d1hXMUEtWTY2U1NIT29GaDZwekszd2ZYVlk4Qm1nRkFfbkJ0US1wdUNHaThXVGUzeHIxcGpHempGVUFpMDVLakFaZENzTldxZVdqSlpGTW5oNHNJcXhIX0Z6azVtLXVSaFVZcmYwcnRNWE04aHFQb2M0U1pKNXFjemJYamp4ZWEza2ZmSHhrSXlwenVmV2N1cklNeW96UURPSVlUb9IBeEFVX3lxTE0wZE51TnRRc1VqUElaR3JCeHlydzhxRENib21NbjVrS3NqTEx0cGtsOVd1dU9pTHpVODQtcTYyeGpoZVZ1LUtHNW85TlotamFKSUstZkFiWDBrN3FtUUd3eFdTWnExYTYyWHU0YTUwMTFUYmxZaVJNWQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T09:56+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "「言葉だけじゃ済まさんぞ」日本の原潜導入を北朝鮮が威嚇",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlb2pzck5qZXlDQXF1bFBrQm40SkhDWE40Wk9URGxfdmVyVHFqZmc2R2w5X1VCdUhyTmVVTU1rSXlKTUFQTEV2Y2U0UXFmVEdjdkhZdV8xSjVqV2JfM08yczlYcXNtZ1hmR1F4V3hxa1hWZ2ZLRWow0gF8QVVfeXFMTzA3NGd4aTYzSXZiOS0yNmQ5dlBNZXBmTm5FcWtqcFR5ZXlPWVRzMjliMG9RRTNFY3h6cXhITDRiQjZLV1VpYS1VV29xOTBPY1E5UlZQVmRrdVFZNDYzTVZ1amxBY2plMVlsVkZjSlVYQldKZWVJdTdoT1Nocw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-13T09:49+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "プーチン氏、ウクライナ巡り米特使と会談 欧州への強硬姿勢明示",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OeDBlYUhYN1gzTnE2R0pFTXVEenlkRjhIQjZOSVZCU3pFbHN4UVVvcjhnVEFJRWxrSUpMYlc0TjJ0MmlKazJWUTYzMHJ4Uzc0OThTRy16cFhIZE9OdWJrcDRrYUFlUDBS?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-13T09:44+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "イタリア、3778校に爆破予告でも大半は休校せず 政府が方針変更",
@@ -476,6 +469,13 @@
    "source": "NHKニュース",
    "at": "2026-11-13T09:21+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシアが簡素な迎撃ドローン「ソーコル-I」を投入 戦場に適応した低コスト・量産型か",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVk9PWTRDTHkzTXFza3I4ZXVTSGxoRG5ad1J5RGZPMkF5T1ptQWl4aXpzejlleTFWZTIxM0J5S3JEOHFPMTduVVh6RklPc2dLckNxZ1dfcFpXNnlDekZrbE9GNTZ6WGNRYUc3bWh0dTVaRnZyNXU3NU1BV1kxVVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T08:49+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "北朝鮮、東海岸に新たな海軍基地…金正恩総書記が建設現場を視察",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「アウトルックでメール送れず 「マイクロソフト365」で大規模障害」"
+    "「マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…」"
    ]
   },
   "japan": {
