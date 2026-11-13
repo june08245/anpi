@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T02:00+09:00",
+ "updated": "2026-11-14T02:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -107,12 +107,6 @@
      "at": "2026-11-14T00:34+09:00"
     },
     {
-     "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJYVFsSkhWMTFlQ1diYjV6QVAyVlpYd1RmczFGdjBVbHlhRFdNYURObVNlSHlkZ2k5S1ViN0w1QmFjZUJoLVRWekwzUW4yWFZheEl2UFBzOG15X1NGLWs3N1JtcjRwSldTcjJELUp3X1JjVkJONmdaMDdB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-14T00:07+09:00"
-    },
-    {
      "title": "イラン バーレーンの米軍通信設備を攻撃と発表",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTE9tUHREYWNVN1kxQTNXTTdLTjNxcDJNMjI5QU5NdW9oNGN1NlNGLW9PRWtyV1oyc1JkajZrTGZqcnJWOFlIX21HNjFzZy1Ma2Z3ZmR0NTRnOFA1Wmdz?oc=5",
      "source": "NHKニュース",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnLUFTNzIzWk5Qc0ZFeU83OG42eXNlaDNXcWVlQ2FiUUg4UDZ0OXJvajE4Z1RhY1Uxa1BtQk5LNFVDYWp6em9vVlRWVGhZV3RMNUdKaWo2Z3M?oc=5",
      "source": "京都新聞デジタル",
      "at": "2026-11-13T22:27+09:00"
+    },
+    {
+     "title": "イラン、バーレーンの米軍レーダーを攻撃と発表",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ3F6OGw3Vm5yVkdabmVCN2VaZXNrV3dwUTkwMUdVRnh5aTVZSHZ5ODhodld0R29qSkgyd19DY2ZyY3NIc2E4dlBFcE8yTk1NYVoxS3ZhOUxscTRMeXUxVjBua1FtOUM1TndUNQ?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-13T17:22+09:00"
     }
    ]
   },
@@ -471,13 +471,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJYVFsSkhWMTFlQ1diYjV6QVAyVlpYd1RmczFGdjBVbHlhRFdNYURObVNlSHlkZ2k5S1ViN0w1QmFjZUJoLVRWekwzUW4yWFZheEl2UFBzOG15X1NGLWs3N1JtcjRwSldTcjJELUp3X1JjVkJONmdaMDdB?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-14T00:07+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "イラン バーレーンの米軍通信設備を攻撃と発表",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTE9tUHREYWNVN1kxQTNXTTdLTjNxcDJNMjI5QU5NdW9oNGN1NlNGLW9PRWtyV1oyc1JkajZrTGZqcnJWOFlIX21HNjFzZy1Ma2Z3ZmR0NTRnOFA1Wmdz?oc=5",
    "source": "NHKニュース",
@@ -569,6 +562,13 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "イラン、バーレーンの米軍レーダーを攻撃と発表",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ3F6OGw3Vm5yVkdabmVCN2VaZXNrV3dwUTkwMUdVRnh5aTVZSHZ5ODhodld0R29qSkgyd19DY2ZyY3NIc2E4dlBFcE8yTk1NYVoxS3ZhOUxscTRMeXUxVjBua1FtOUM1TndUNQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-13T17:22+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "韓国高官と中満国連事務次長 北朝鮮核やAI問題など協議",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nQUNIU3czcjJNb0dYZTV1bXlyVm1jNUQwbGQ4cFN2NUFFR3NzMzRwMmkzOUFXRXo0bzY0RmZhMU5JOVM0UkdwYkwwYUNOQmhnZFdJSlBSelRyYXZoUDlQNUkyZ2ZIVTlzZzE5SFZMdUVwQUZvXy00T0wzRUNrdkk?oc=5",
    "source": "Yahoo!ニュース",
@@ -600,17 +600,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」3件",
+    "イラン・アメリカ：「攻撃」3件",
     "北朝鮮：「攻撃」「ミサイル」2件",
     "ロシア：「攻撃」「空爆」4件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJYVFsSkhWMTFlQ1diYjV6QVAyVlpYd1RmczFGdjBVbHlhRFdNYURObVNlSHlkZ2k5S1ViN0w1QmFjZUJoLVRWekwzUW4yWFZheEl2UFBzOG15X1NGLWs3N1JtcjRwSldTcjJELUp3X1JjVkJONmdaMDdB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-14T00:07+09:00"
+     "title": "イラン バーレーンの米軍通信設備を攻撃と発表",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTE9tUHREYWNVN1kxQTNXTTdLTjNxcDJNMjI5QU5NdW9oNGN1NlNGLW9PRWtyV1oyc1JkajZrTGZqcnJWOFlIX21HNjFzZy1Ma2Z3ZmR0NTRnOFA1Wmdz?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-13T23:47+09:00"
     },
     {
      "title": "【北朝鮮の\"なりすまし社員\"が同僚に？】AIフェイクで面接を突破／1日で80億円を資金洗浄→ミサイル開発の資金に／AIで暗号資産が“崩壊”か／「サギ師も被害者」の衝撃実態【1on1 Tech】",
