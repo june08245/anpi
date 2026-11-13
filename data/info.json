@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:00+09:00",
+ "updated": "2026-11-13T13:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "トランプ大統領「イランとの合意は必要ない」",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-13T12:57+09:00"
+    },
+    {
      "title": "イラン、バーレーンの米レーダー攻撃発表",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zQVlzVWV0UWc3aHpzQlVFaTdFZ293WUZLT044djFkVjNoTWgxYjhFVnRhaXZjZVlITGFMMFdOUlpzMGU1UktQa3BaN1V6ZnNQY2F0eDJVYXBrNGhGN0E?oc=5",
      "source": "沖縄タイムス社",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1OTBPZTdYNWpOMzllM2VoNkJMZFNLQUNkTnRpRXMyRkYwRkNhNi1xSU94RG42Q0dtalVYd3dtcW9id0RiZHkxM2hyb0lFMW1GdzI3Z21sd2ZWUWxqS1g4?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-13T09:21+09:00"
-    },
-    {
-     "title": "トランプ大統領「イランとの合意は不要」　交渉主導のバンス副大統領に“国内の腐敗問題への集中”を指示",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzJnWl9rQW9UXy1BUjJPMDZ5U1JSOUZ3MzVBUFlrUFd1c0NVd2V3d215bUlhc0VIUVI2VHhkaTd3aUsxZ3pKYTNtc3gxODF0d0dGR0U4YjV1dFNBcjhyUHNsS2hyVmJDMmNNamc4STVnTDF5Y1MzcWQtQ1ZHSkR4RWlRemtKdDBENUNZeXkta19sa1BCa3ZTcDUwNUVwUl9HSmFFTHl1NDRvT3BOMHI0emZOX1VYZ2pJQlU2NDBESVNGOFHSAXNBVV95cUxPQkZwMDhaTXRBeWtDekRuaGJuY1pLMlk5SlBXQWNabm9kSUxuSUNOOUZKV0Q1Q1pWRFd0WUsxdXRrb21PQV9VLURoUmt6VmZsdGxvMlJ0MmVuSHMwdW9taDdZU25lRHJTWUpYQW5heUN5bUxV?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-13T08:10+09:00"
     }
    ]
   },
@@ -340,13 +340,38 @@
   }
  ],
  "outage": [],
- "japan": [],
+ "japan": [
+  {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  }
+ ],
  "cyber": [
   {
-   "title": "マイクロソフト大規模障害 「サイバー攻撃ではない」と広報担当者",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xWi0ySnpQazZuQmpaUG5MN2E0MWp0NHNGekJZTFBxNmV3eWh0RUh6Tnk4SkRIdUdCenMtR1QtV3AydDVWeTlCSXdZS1p4OWx5eU1ydEl5YmpCSTF4WDdvdWF5X1h5ODdFbDJSRFBzZGtmTFhuZWc?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-13T12:51+09:00"
+   "title": "【速報】マイクロソフト大規模障害 「サイバー攻撃を示唆する事実確認されず」（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUVgwMTFnbmk2ZlpSbzYtRGk4ZzB3UG5OXzJHRV9NaVRrOXVNVUU3aVdKeklfVFdxdVJwZGNxVEd0SFRJcC1MY3lTLVY5NmItVlBIYlZZazhTdmNRV05mWnZxOHVFWDRmQWpkQml2TWxsSGtxSDEtS2o3a3NSTXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T13:09+09:00"
+  },
+  {
+   "title": "【情報まとめ】マイクロソフトで大規模通信障害 世界各地でOutlook使用できず…",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-13T13:08+09:00"
+  },
+  {
+   "title": "マイクロソフトの障害は「サイバー攻撃ではない」（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15cEp1bkVPSGNWdWJKMWpVZGljZkpxVTBqb2paWkJPempWSUg4clMtU0lxZU1CWlJRYS1NcVRPLWJ1dXRnQ3UtOG4tSUNUOWFRMmU0VVQtOEF1ZWpvT05kS0hfY1otYzduYWlOWHFNUk01bGxQazFiNEhtZGlhOFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T12:57+09:00"
+  },
+  {
+   "title": "Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jYW9aTVpPcndISUV5SkVRZEFtTmQtdkFTQ1ZTQW5aUHgzbkpISUQ5VGNQNDFDM1FDcS1IS0Z0bFR4SVF2NmtuS2V5RC10RVlDMVJCVzZlMTdVU0R4cl93ZGRaUVhjT0RXOTFwVmRn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T12:50+09:00"
   },
   {
    "title": "Microsoft 365における世界規模のシステム障害について ｜日本臓器移植ネットワーク",
@@ -365,24 +390,6 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYkZNbk5YNWVoV0FOMTZXNGpTTDlMZVhxY3RBcUZ0Q0F4R0h4a3R2MVhlVUVvT3BLa0wwX3I0cEJoMkRuZzJYM1MzU2dMRm1NX0tvSw?oc=5",
    "source": "中日新聞Web",
    "at": "2026-11-13T12:35+09:00"
-  },
-  {
-   "title": "あれ？メールが見られない マイクロソフト障害、政府の反応と影響は",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-13T12:16+09:00"
-  },
-  {
-   "title": "【情報まとめ】マイクロソフトで大規模通信障害 世界各地でOutlook使用できず…",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T12:15+09:00"
-  },
-  {
-   "title": "【困惑】「生活できない」「スケジュールが見られない」マイクロソフトの複数のサービスで大規模なシステム障害（読売テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRkFoVTRRZkFZb19fNVdKaHhWOGFvNlRNbVFMb2JGUkd5dmxOdGJCR0tuMXJ6UElKV3A4XzRhWWVOdEctNUpPQjk3ODV4RnNmTURKUllia0F5SDFxZE5kNU1TN1E2MFVZT21xQnFma1ZNZmRSOW5ibEd4M1dnVk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T12:15+09:00"
   },
   {
    "title": "【重要】システム障害によるメール送受信の不具合について（Microsoft Outlook）",
@@ -415,6 +422,12 @@
    "at": "2026-11-13T11:46+09:00"
   },
   {
+   "title": "「FAXでお届けする」長妻議員の“事務連絡”に国会笑いの瞬間…マイクロソフトの通信障害受け代替手段訴え",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZHBvd2s4YW9xNDg1d24yUEVuVUxKR09idlZJcFpIYUVGNlU3eDZyYm1JRHZXSTVQVVhlVzY2VFdwSmY1MDdwMGZrTGhMOGkxSXJTYQ?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-13T11:44+09:00"
+  },
+  {
    "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iYXUyLUxzdzI1Wm5vVmk4Z09WOVVvU2YxMU04UTlZYzhBX2hObmt1YnA2SV9JSlJEcG1BN1EtSm53LVJVRHNUNFlvNXVMRld4Y0N4ZnA1UFY2R3JZVlgw?oc=5",
    "source": "ライブドアニュース",
@@ -425,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHU2tTT0tDSldUZ0pBSDV5dFhEelNGcHZjUmtoVUV4WXJiaDFoQlRYbzlSYWwxQm5TSkpXWmtOeWg0ZDZabUJ3S2RBcWZ4SDlyRVZrRGhYSzQydw?oc=5",
    "source": "ツエーゲン金沢 公式サイト",
    "at": "2026-11-13T11:15+09:00"
-  },
-  {
-   "title": "Microsoftで世界的な通信障害　OutlookやTeams、シンガポールにも影響",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xd0UtSVlXM0lyYXpGSlA3YVUxYXZyeFh6WFV2NGQybTdqY2ZfU012NEVtTGhmc2RicU9HNVRTMzhtMk1lWFVhRtIBTkFVX3lxTFBvYndPOHFSTXZ2dGdmanZQODFxOHJRQnYtVkJybGtmdmhhdzBCY09pZDM5YzAtcGxPTkZsVnJrdW1rV0dISl9JQW9rSFNPQQ?oc=5",
-   "source": "AsiaX",
-   "at": "2026-11-13T11:10+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "トランプ大統領「イランとの合意は必要ない」",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-13T12:57+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "イラン、バーレーンの米レーダー攻撃発表",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zQVlzVWV0UWc3aHpzQlVFaTdFZ293WUZLT044djFkVjNoTWgxYjhFVnRhaXZjZVlITGFMMFdOUlpzMGU1UktQa3BaN1V6ZnNQY2F0eDJVYXBrNGhGN0E?oc=5",
@@ -567,26 +581,19 @@
    "source": "AFPBB News",
    "at": "2026-11-13T08:34+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "トランプ大統領「イランとの合意は不要」　交渉主導のバンス副大統領に“国内の腐敗問題への集中”を指示",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzJnWl9rQW9UXy1BUjJPMDZ5U1JSOUZ3MzVBUFlrUFd1c0NVd2V3d215bUlhc0VIUVI2VHhkaTd3aUsxZ3pKYTNtc3gxODF0d0dGR0U4YjV1dFNBcjhyUHNsS2hyVmJDMmNNamc4STVnTDF5Y1MzcWQtQ1ZHSkR4RWlRemtKdDBENUNZeXkta19sa1BCa3ZTcDUwNUVwUl9HSmFFTHl1NDRvT3BOMHI0emZOX1VYZ2pJQlU2NDBESVNGOFHSAXNBVV95cUxPQkZwMDhaTXRBeWtDekRuaGJuY1pLMlk5SlBXQWNabm9kSUxuSUNOOUZKV0Q1Q1pWRFd0WUsxdXRrb21PQV9VLURoUmt6VmZsdGxvMlJ0MmVuSHMwdW9taDdZU25lRHJTWUpYQW5heUN5bUxV?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T08:10+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト大規模障害 「サイバー攻撃ではない」と広報担当者」"
+    "「【速報】マイクロソフト大規模障害 「サイバー攻撃を示唆する事実確認されず」（TB」"
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
