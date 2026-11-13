@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:45+09:00",
+ "updated": "2026-11-13T16:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イスラエルメディア「米中央軍、イランへの再攻撃の可能性に備えるよう米軍に指示」",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENWVNVTZweC1MUzFVRE5tMl9pV05YT0hzS0hrajNXRVdOaF9oUHFPLVVodU5tSmRaOXNZdG5MX3dhUXcwWUlXNkxXeGotSVcwbjc1eDJfWFRUbFk?oc=5",
+     "source": "TRT 日本語",
+     "at": "2026-11-13T15:57+09:00"
+    },
+    {
      "title": "イランが新設の「地下ミサイル都市」を公開 トンネル内にあふれる各種ミサイル",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQ2N0Wjk4S3VxVnZnbTFTcEVnbHlQY0xzaFJJdl9DM1lzakRjeXYzQlhBNkJpMnhLbWZ0SGRydVU4U2wzM0U3b0VFY3FtYTFMT001REY0bXJsS3JpWUdZRlRySHFmUQ?oc=5",
      "source": "CGTN Japanese",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
      "source": "京都新聞デジタル",
      "at": "2026-11-13T12:35+09:00"
-    },
-    {
-     "title": "米軍、イスラエルにイランに対する作戦再開を指示したという噂を否定",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzN1NnNqSUY1YXFjLTRRbUFwM2hvTlB5WHlWV3NwamRlS3lXWFVPMWtXX1BUOWREOEdodU9rNWQ1eWlqRDdwZ3NBV1dMcy1SUnVzMFAwdktqcVhCcVBLRWxURnoyLUFmaDZna0k2Zm1mSlF2eEEwcE93a2tqOVdzM01fNUhIbV83djBhbURvZ0M5M054d09pT2l5VF81cGdGVnowUHBWMXV4Y1plX3ZWZmJacXhxQ19y?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-13T12:34+09:00"
     }
    ]
   },
@@ -340,7 +340,14 @@
   }
  ],
  "outage": [],
- "japan": [],
+ "japan": [
+  {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "米マイクロソフト（MSFT.US）のシステム障害により香港取引所の電子メールサービスが影響を受けましたが",
@@ -373,12 +380,6 @@
    "at": "2026-11-13T15:00+09:00"
   },
   {
-   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-13T15:00+09:00"
-  },
-  {
    "title": "マイクロソフト障害「サイバー攻撃確認されず」 政府の反応と影響は",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
    "source": "朝日新聞",
@@ -397,44 +398,57 @@
    "at": "2026-11-13T13:54+09:00"
   },
   {
-   "title": "マイクロソフト大規模障害 「サイバー攻撃を示唆するものはない」",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2LXc4QTJMZVdUTnlxenQ1NDJQbTcwZFZSOHg0Y1MyMmk0dXNIOFJWNVR3TmRVMXlGSWtTejR6SmNDQ3hCbTVOS1JQcWx2Y1ViZEp4M3QwSFhiWmZsTGtabGhOelYtelAyUUVSamlrUXd6TUNYTlE?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-13T13:53+09:00"
-  },
-  {
    "title": "マイクロソフトの障害は「サイバー攻撃ではない」",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2aktLV0FvSHFzQkkzNzhIaWJBbnBLaUVjUUFQN1VYRUlDZEJlNF94dGVvZ2hPZTZqSGxjcXpUQjdVM2dWUllsRWI0MTdKN0F3M1V3VjRmOGpPaGpES0VmTllib0E3UWJDWVNvak1PcDl3dw?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-13T13:17+09:00"
   },
   {
-   "title": "【速報】吉村知事「大阪府庁において『Outlook』を使っていますので現在メールが使えない状態」と説明 「マイクロソフト365」大規模障害について 「早期の対応を注視したい」",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Qb1h1eXFJT1gzMkNLeTdiUDNSaXNHV1M1TEVyTDdRN0RXZlNSazhxU0dLQXl5MDNkcDVPZ0tXTWdJY3FXTWVLUkFqQUFPdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-13T13:07+09:00"
+   "title": "ＧＭＯ、不正アクセス影響は３０億円超",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4UFFLblk5bzZyMkRndkdLUXhnd2dRaklSaVNfVkpLaEJHa3czVGlITGx6T2dJYUNYU0xHTENhZEZ5WE5Tb2s2WmZVdk9yQ0tOLUxMSGJXRmdleUp3SUE?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-13T15:54+09:00"
   },
   {
-   "title": "Microsoft 365における世界規模のシステム障害について ｜日本臓器移植ネットワーク",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBwc0lpX1R3SU4zNkVTaDZLVmc5b1RzY21WdG5FN3VpVUpzRjVNb0p2Ynp6ZUZFZkEwaVRN?oc=5",
-   "source": "Howl.Link",
-   "at": "2026-11-13T12:44+09:00"
-  },
-  {
-   "title": "ロート製薬、委託先の電話システム経由で不正アクセス。顧客情報最大約280万件流出、通話音声からクレカ情報も",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JNU9FT3hPREY4NUQzQ2VQVXJYWUdoTHVJaUk3cnpqWXVuaU1yLTliRkJTcTQyNzJabWZVc0s2VDZkN1pYZnZXUEhWYnhmVGxDcndJT1dQZjU4WTgwdjJ2VkpZeHRDQUw5anU5WFFldy1LLTl1aGxDWTRRVjZ2cUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T15:31+09:00"
-  },
-  {
-   "title": "渋谷区、教育ICT・民生ICT基盤の情報が第三者に閲覧された可能性 デジタルアーツのクラウドサービスに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPem1ZeXlXTzRqaEMzNDBCR3dDY05pQl9UR3ZDby1qbDgyUW9yZkZNaVktX2Ixcm9td2k0Rm1QbWxKVllpMjVWMDBwNnNROVNsNDZCQjR2cGJ0VU45bmRxUHp3Y080cndIakxYblBHMkFfRmZSQno0Q01vd0gxV0lmR3ZHUmJJVHdEMlhMMWV5NEE3UElkYU1fY1ZlRHlwLWhIcW5id3dxWC1iWDUzRk14aklMc0tYbkszWUFGWGhmMml1OXg2cnNLNg?oc=5",
+   "title": "NTTソノリティ、Notion AIの入力・応答記録が流出した可能性 委託先Fireworks AIへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjMzamRTMGhmUXpFWHNfRE1WdXhhcjBZMWdIRnZldnhtT21rVzFGbllrR1ZjQWtPR2FVMktlZ0F0UDVDTUYzTjdGY2EtYU5ydExWVXhDR0FheXNHWW9paFAyT3YtRnBDZ2N0NDNQeVNFNEpzb0taMG5sQmdub25GTnozS0RUV0VHU2tvV0NsN0hRYV9MaWRaYlhlZ0lyUnd1UXJVWnUtRQ?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T15:30+09:00"
+   "at": "2026-11-13T15:53+09:00"
+  },
+  {
+   "title": "阪神、不正アクセスを発表",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhYVN2TDBBczRrdzlJVWk5d2xNNGxfX1Y3bUdIVWkyTEpJcUd0U0tzOHJJRVpNYVc2MExuSk53VTRFNDROUURTZTNLNnJraGdpSGY1Z201LWU?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-13T15:52+09:00"
+  },
+  {
+   "title": "阪神、不正アクセスを発表 応募者情報流出の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaHB1ZlpxU0Z0cTAzMHM4RkcyQ3o0UVdFVXhmWmhiZ2hfVjhqR0pZcW0zNVZYRzlWZmZ6NllOd01ibF9wOGZGS3JZWUl2aklaX28wb1pLX2VDMmxI?oc=5",
+   "source": "琉球新報デジタル",
+   "at": "2026-11-13T15:52+09:00"
+  },
+  {
+   "title": "アットホーム「賃貸管理システム」に不正アクセス、入居者・オーナーら6,901件の個人情報漏えいのおそれ",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmYwazVyWEtEeWhadk5iTFFjTTVwS3ppXzFyN0VQdVBLNXlQcGE3UVFNNV9kRVp1NUJsM0xKckxTb3FNT0gxc0YzREs5MUR0LVc4cldpZzdOS0xRM09DNDg2bGdodlZSYjRmRWtuZG9WT2RseGpRU1BXQVloT1hnWmtEdmxMTEM0OFhtN2VwbnpRelFST25ial9NZmdEcFh3dlV3cTRB?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T15:48+09:00"
+  },
+  {
+   "title": "Qoo10で不正アクセス、住所の座標や身体的特徴まで閲覧の恐れ 件数は未公表、調査中",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kQUNlSGk0ZWlkb1Qwai1acnhncnZzcVRadnd3dlM2TnI4eDhXcE1PV1BIZHAybng2T1ZBM3lsVWxTS0xJeUlGSFRidlNPZ2lGWGo0?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-13T15:45+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イスラエルメディア「米中央軍、イランへの再攻撃の可能性に備えるよう米軍に指示」",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENWVNVTZweC1MUzFVRE5tMl9pV05YT0hzS0hrajNXRVdOaF9oUHFPLVVodU5tSmRaOXNZdG5MX3dhUXcwWUlXNkxXeGotSVcwbjc1eDJfWFRUbFk?oc=5",
+   "source": "TRT 日本語",
+   "at": "2026-11-13T15:57+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "中国軍の偵察型無人機と推定中国無人機が与那国島と台湾の間を往復（11月11日、BZK-005）",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbFR3a0pGekJCSFZWS2pvTG9aNzVFRnVkYWRUekVVUk1oYzE1U0lEU0c3b3RHSlBwNkNLMnBPZzhzOUthMmRySWRLMFdmYkpCSUJyVW4wUjc2QmNv?oc=5",
@@ -489,13 +503,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
    "source": "京都新聞デジタル",
    "at": "2026-11-13T12:35+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "米軍、イスラエルにイランに対する作戦再開を指示したという噂を否定",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzN1NnNqSUY1YXFjLTRRbUFwM2hvTlB5WHlWV3NwamRlS3lXWFVPMWtXX1BUOWREOEdodU9rNWQ1eWlqRDdwZ3NBV1dMcy1SUnVzMFAwdktqcVhCcVBLRWxURnoyLUFmaDZna0k2Zm1mSlF2eEEwcE93a2tqOVdzM01fNUhIbV83djBhbURvZ0M5M054d09pT2l5VF81cGdGVnowUHBWMXV4Y1plX3ZWZmJacXhxQ19y?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-13T12:34+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -584,24 +591,24 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「報復」5件",
     "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "イランが新設の「地下ミサイル都市」を公開 トンネル内にあふれる各種ミサイル",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQ2N0Wjk4S3VxVnZnbTFTcEVnbHlQY0xzaFJJdl9DM1lzakRjeXYzQlhBNkJpMnhLbWZ0SGRydVU4U2wzM0U3b0VFY3FtYTFMT001REY0bXJsS3JpWUdZRlRySHFmUQ?oc=5",
-     "source": "CGTN Japanese",
-     "at": "2026-11-13T15:16+09:00"
+     "title": "イスラエルメディア「米中央軍、イランへの再攻撃の可能性に備えるよう米軍に指示」",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENWVNVTZweC1MUzFVRE5tMl9pV05YT0hzS0hrajNXRVdOaF9oUHFPLVVodU5tSmRaOXNZdG5MX3dhUXcwWUlXNkxXeGotSVcwbjc1eDJfWFRUbFk?oc=5",
+     "source": "TRT 日本語",
+     "at": "2026-11-13T15:57+09:00"
     },
     {
      "title": "ウクライナのStarshieldに再度の速度制限、「ロシアからの攻撃を阻止できない」とゼレンスキー大統領が報告",
