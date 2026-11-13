@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:00+09:00",
+ "updated": "2026-11-13T14:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNnVrVmRfbG5Jd2dfQ2FqUlFmSW5pdUl2QjNMazhNVzRPeVR3VldoelhBcXZJQUY4Z3NIVkx6Yjd1blVaYnlrclNPeFBIVEFNRkRQc2ViRFpIWGRBampHWms0STAzamR1bUUxVWE1TUxhOEZFNE80TUN5blhuT0U?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-13T14:06+09:00"
+    },
+    {
      "title": "イラン側 バーレーンの米施設攻撃",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ISjI5Xzh0TWxiUHgzeUE1dHlfenBfZ0RrTEJ6QTNvTHdEbjR2NnM5VXBCU3VGWE1BNi1PaFNMeVBldlRPcl9Vb0JPVE4yNE1a?oc=5",
      "source": "Yahoo!ニュース",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvek14eDNRU2hkcTJJM1dSQlNMYXZqSzJveGJGekhLaGJVWHByTGNxRWR5TjRzYmxUOUxLU3dQSE5fOHg5TC1VVXdqSDhKWnJTeUFGOE9DN3Q2ZFUwQUhUVnNpQkI1aDN0U1plSVB3?oc=5",
      "source": "Infoseek",
      "at": "2026-11-13T11:46+09:00"
-    },
-    {
-     "title": "米、６日連続でイラン攻撃 覚書違反主張、協議は継続",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CM3lhZkRiYmoyUVdoYWxHYW0zMnZkOUxjRjhzbC13WjQyVzJIQll3Y1ZKM3NJc1RhX29yV05wc2gwN2ZoSjM0elZNcko1YXEyeUZkejQzT0E5OVdRdmFTYklkY3N0TGltSlo3bnJPZzZ6WE5HV2pzc0E0YkY?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-13T11:09+09:00"
     }
    ]
   },
@@ -350,6 +350,12 @@
  ],
  "cyber": [
   {
+   "title": "佐川急便、手荷物預かりサービスの受付を停止 Microsoft 365障害の影響",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuN2VaWXBJM21jTTh4dUE1WEM0S01tTUc0UGlRUF95OGRvX1hzSmJneVFGLU9zUWs0MGpwa3g5MWc2LTM2aFFad0tEbUYzTlhYOWc?oc=5",
+   "source": "CNET Japan",
+   "at": "2026-11-13T14:09+09:00"
+  },
+  {
    "title": "あれ？メールが見られない マイクロソフト障害、政府の反応と影響は",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
    "source": "朝日新聞",
@@ -362,10 +368,22 @@
    "at": "2026-11-13T13:30+09:00"
   },
   {
+   "title": "マイクロソフト365大規模障害、「サイバー攻撃を示唆する事実ない」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1N2E2d3lpZWdlMTlDQ0VPdURZMVVFUkgtVmdhaWZBWEt1V3ZYMXFMbF9ETXNxREdtRVdyMjIyUm9ic3R1NlloVmpoRldPbUZIbC1rbFlGcUEzWlFtWmRjM2U1OHNtSC1qYVNqUw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-13T13:25+09:00"
+  },
+  {
    "title": "マイクロソフトの障害は「サイバー攻撃ではない」",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2aktLV0FvSHFzQkkzNzhIaWJBbnBLaUVjUUFQN1VYRUlDZEJlNF94dGVvZ2hPZTZqSGxjcXpUQjdVM2dWUllsRWI0MTdKN0F3M1V3VjRmOGpPaGpES0VmTllib0E3UWJDWVNvak1PcDl3dw?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-13T13:17+09:00"
+  },
+  {
+   "title": "マイクロソフト不具合で佐川急便 一部予約受付停止 マイクロソフト「サイバー攻撃示唆する事実ない」（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZ1BtV0JzVHNELVZzeXo0N0JjN1liUVg4UGtUQTkxQkFKTU1mc2NYbXd1WW1VcWJadXFoZnZNM2JDMTNmT1ByM0lsZUh6V1lvZ3NYOE0wZmdzWllMRUlWcHdORlF1LUVuN2tRMGhoaEd6MUdNeFI4b1hWT0RhWXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T13:14+09:00"
   },
   {
    "title": "【速報】マイクロソフト大規模障害 「サイバー攻撃を示唆する事実確認されず」",
@@ -380,12 +398,6 @@
    "at": "2026-11-13T13:07+09:00"
   },
   {
-   "title": "Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jYW9aTVpPcndISUV5SkVRZEFtTmQtdkFTQ1ZTQW5aUHgzbkpISUQ5VGNQNDFDM1FDcS1IS0Z0bFR4SVF2NmtuS2V5RC10RVlDMVJCVzZlMTdVU0R4cl93ZGRaUVhjT0RXOTFwVmRn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-13T12:50+09:00"
-  },
-  {
    "title": "Microsoft 365における世界規模のシステム障害について ｜日本臓器移植ネットワーク",
    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBwc0lpX1R3SU4zNkVTaDZLVmc5b1RzY21WdG5FN3VpVUpzRjVNb0p2Ynp6ZUZFZkEwaVRN?oc=5",
    "source": "Howl.Link",
@@ -398,9 +410,9 @@
    "at": "2026-11-13T12:35+09:00"
   },
   {
-   "title": "【困惑】「生活できない」「スケジュールが見られない」マイクロソフトの複数のサービスで大規模なシステム障害（読売テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRkFoVTRRZkFZb19fNVdKaHhWOGFvNlRNbVFMb2JGUkd5dmxOdGJCR0tuMXJ6UElKV3A4XzRhWWVOdEctNUpPQjk3ODV4RnNmTURKUllia0F5SDFxZE5kNU1TN1E2MFVZT21xQnFma1ZNZmRSOW5ibEd4M1dnVk0?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "【困惑】「生活できない」「スケジュールが見られない」マイクロソフトの複数のサービスで大規模なシステム障害",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRndaa3RwMi1iVVlYczhXekx6YjVQamxzVk1jZ0RaYXRWWXk2OHllNWQzMXJ3NEhwZUl5Z3lOeEo5QzU0SUpNN3o3MnF6NExfZGdncE5XaE9jWWdXdUFkd1JJUmFRUmhIbjA4c2ZvaFRiV0VhQ3JrM01iM3ZmTVZHaVppM3lfZ3M?oc=5",
+   "source": "日テレNEWS NNN",
    "at": "2026-11-13T12:15+09:00"
   },
   {
@@ -426,22 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mdERpbExLMTl4NFZENEtKRDh3YjdRVFA1dmg5ajkwRzVMeGRTdDVDamxPRWRSWmVnX2tsWWlXTjR4Q2h5R1A4NjVoZHZVR1dlZ0xMc0FBamNJd1FCTi1BS1FoaEpuSFBjMmxIa3RR?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-13T11:54+09:00"
-  },
-  {
-   "title": "米マイクロソフト「アウトルック」などで大規模障害、全面復旧のメドは不明…日本政府のネットワークにも影響",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04ZGZtWDlQdVR3RWFrS25JcHNfOHprMzdUWXZtRnZUTmlHUXhGQ1VteHFQRXJGZFNnNVBRczN5WUJYR3l6NFk4WHhWbkJiV3p3UkdFYjdBazBLcVVKQXFkWTJyQTg?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-13T11:46+09:00"
-  },
-  {
-   "title": "「FAXでお届けする」長妻議員の“事務連絡”に国会笑いの瞬間…マイクロソフトの通信障害受け代替手段訴え",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZHBvd2s4YW9xNDg1d24yUEVuVUxKR09idlZJcFpIYUVGNlU3eDZyYm1JRHZXSTVQVVhlVzY2VFdwSmY1MDdwMGZrTGhMOGkxSXJTYQ?oc=5",
-   "source": "ABEMA TIMES",
-   "at": "2026-11-13T11:44+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNnVrVmRfbG5Jd2dfQ2FqUlFmSW5pdUl2QjNMazhNVzRPeVR3VldoelhBcXZJQUY4Z3NIVkx6Yjd1blVaYnlrclNPeFBIVEFNRkRQc2ViRFpIWGRBampHWms0STAzamR1bUUxVWE1TUxhOEZFNE80TUN5blhuT0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T14:06+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "イラン側 バーレーンの米施設攻撃",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ISjI5Xzh0TWxiUHgzeUE1dHlfenBfZ0RrTEJ6QTNvTHdEbjR2NnM5VXBCU3VGWE1BNi1PaFNMeVBldlRPcl9Vb0JPVE4yNE1a?oc=5",
@@ -534,13 +541,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米、６日連続でイラン攻撃 覚書違反主張、協議は継続",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CM3lhZkRiYmoyUVdoYWxHYW0zMnZkOUxjRjhzbC13WjQyVzJIQll3Y1ZKM3NJc1RhX29yV05wc2gwN2ZoSjM0elZNcko1YXEyeUZkejQzT0E5OVdRdmFTYklkY3N0TGltSlo3bnJPZzZ6WE5HV2pzc0E0YkY?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-13T11:09+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "プーチン大統領がアメリカの特使と会談 ウクライナ東部で新たな人道支援を表明 領土問題では従来の主張繰り返す",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LT3FHRC1YOHRpT0I0ZkYzTkdGckpDRkUyQlJEbTg3Vkk0NVBxUGtSbmVaTVRER1BNTzAtYXVYQ3A3QjZkYmI2Qlpxa01RSmszUW5panR5LTJJNmp4T0tLNFVaWWZkSXdtQkhYQzdGUlRhM0FWTFFUN28zTTgxX0k?oc=5",
    "source": "Yahoo!ニュース",
@@ -605,10 +605,10 @@
    ],
    "items": [
     {
-     "title": "イラン側 バーレーンの米施設攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ISjI5Xzh0TWxiUHgzeUE1dHlfenBfZ0RrTEJ6QTNvTHdEbjR2NnM5VXBCU3VGWE1BNi1PaFNMeVBldlRPcl9Vb0JPVE4yNE1a?oc=5",
+     "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNnVrVmRfbG5Jd2dfQ2FqUlFmSW5pdUl2QjNMazhNVzRPeVR3VldoelhBcXZJQUY4Z3NIVkx6Yjd1blVaYnlrclNPeFBIVEFNRkRQc2ViRFpIWGRBampHWms0STAzamR1bUUxVWE1TUxhOEZFNE80TUN5blhuT0U?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-13T12:57+09:00"
+     "at": "2026-11-13T14:06+09:00"
     },
     {
      "title": "ウクライナのStarshieldに再度の速度制限、「ロシアからの攻撃を阻止できない」とゼレンスキー大統領が報告",
