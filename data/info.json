@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:45+09:00",
+ "updated": "2026-11-13T20:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-13T19:42:00+09:00",
+   "place": "和歌山県北部",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-13T15:26:00+09:00",
    "place": "熊本県熊本地方",
@@ -72,16 +82,6 @@
    "at": "2026-11-12T13:46:00+09:00",
    "place": "トカラ列島近海",
    "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-12T13:07:00+09:00",
-   "place": "三陸沖",
-   "mag": "4.7",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -234,7 +234,7 @@
     },
     {
      "title": "ロシア軍、ウクライナ南部オデーサを攻撃　死者２名、負傷者５名",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObFEzdkptUG16NmNtQWNwVXpydmRZS09TZWJtREVyRnhVMC1Xd2pabnNJWWhodHZtaUQ1VjQ0a3Vjb1NaZmx4SUVaVDZYV0RPbTBqdkt2aFJoWE84LU9ORDBIbVRNTG1kMDRGZDZvVmI4dzFyX09yV0plZ2p4N3BGT3pyLTBPdjRBWTJuSEhUd2JiUjI0dXRaSEZCYzJHNVJIRzNESGdEVGFXTHJ2U0pFS0JaYlZ5QzVORDJzONIBvAFBVV95cUxObFEzdkptUG16NmNtQWNwVXpydmRZS09TZWJtREVyRnhVMC1Xd2pabnNJWWhodHZtaUQ1VjQ0a3Vjb1NaZmx4SUVaVDZYV0RPbTBqdkt2aFJoWE84LU9ORDBIbVRNTG1kMDRGZDZvVmI4dzFyX09yV0plZ2p4N3BGT3pyLTBPdjRBWTJuSEhUd2JiUjI0dXRaSEZCYzJHNVJIRzNESGdEVGFXTHJ2U0pFS0JaYlZ5QzVORDJzOA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0V0NlNwcXpDWi02LXk3cnIzQWowZkU1ZnhkeXJJSjB5VUpCVTBqTmQzR0FqcExtR3ZnUmhKTl9nN1hWS2xNaDhFZE9DQ3Q2YUY0V2F0c0ZPdlBWWTdMY3pfNnNUNVZYT3hBS1hmVXNZM3ZPY0VYclFtaF9ZYWNvUjZYVUY1SEdWVkJfNVN2bVBTRlZmLU15UWJnU09LWHE0c0Rmd1BBUnY2Y1djYkFoc3ZZcTNia1HSAbwBQVVfeXFMTmxRM3ZKbVBtejZjbUFjcFV6cnZkWUtPU2VibURFckZ4VTAtV3dqWm5zSVloaHR2bWlENVY0NGt1Y29TWmZseElFWlQ2WFdET20wanZLdmhSaFhPOC1PTkQwSG1UTUxtZDA0RmQ2b1ZiOHcxcl9PcldKZWdqeDdwRk96ci0wT3Y0QVkybkhIVHdiYlIyNHV0WkhGQmMyRzVSSEczREhnRFRhV0xydlNKRUtCWmJWeUM1TkQyczg?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-13T17:49+09:00"
     },
@@ -321,12 +321,6 @@
    "at": "2026-11-13T18:33+09:00"
   },
   {
-   "title": "南海トラフ地震 被災想定10県知事が防災庁へ政策提言",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03RDZITVZHQ2oxZEhLaXpfeWFadXV1bGFTejhVYjlLX2xSdXh4SFZpQlpNZ1l2M3pweV9iUTZud201VFNWbmZlV0FJMFJQd3NfVTRhRGo5Ui12TTYwTXY4?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-13T17:03+09:00"
-  },
-  {
    "title": "【解説】内閣府が南海トラフ地震臨時情報のガイドライン改定版を公表へ「自らの命は自らで守る」「あらかじめ決めておくこと」が有効(放送局のニュース )",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdV8tcG04MEh0RnlyVDNuem9zUnpfaUQtZGtHU1lPTmlWMHoydXQ3N2U3MzVUTnFLVXV5b3VEUlJ5a0Z6TWtEMWhjMkdORlZ5UTF4V1lCRFJBbjh1OE84NC1IRDdyNjREUF9fNFE4ZGV2NXpkTmc?oc=5",
    "source": "tenki.jp",
@@ -337,11 +331,29 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PZ1V6eFp0b1lieFY2Y28yVVBhWnRBbmtsVnhFcG91WWNHYzVtallBWXR2S0hfNFNwWE1pekFJTzJYYW9kSjhMQ3BveXZSNmZKQUVKWldzalpWb0pHM1AzekFGanNhRXc2RlJYeU5KekJ1OTRUUmc?oc=5",
    "source": "tenki.jp",
    "at": "2026-11-13T16:38+09:00"
+  },
+  {
+   "title": "南海トラフ地震 被災想定10県知事が防災庁へ政策提言",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOYnpUZzhGcnNXcHRPNFgwTmZyWWpMNHpCVHdrTXJKbFlsT29XYmFlMnB0TG9GbVFaajR4NFlIbFZ3d285UTlQR1ZGMy1hZGY4aWlnYk9hVHJTclYzUHRB?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-13T16:34+09:00"
   }
  ],
  "outage": [],
  "japan": [],
  "cyber": [
+  {
+   "title": "「電話がつながりにくい」わけではないが...NTT東日本の「113」「116」にMicrosoft 365障害の余波",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMOWJBaHE2OXRtUjFpSV9mdWJpUXJMX2RybzVhNGhLdFUxeTFUUzh2a0xjRHJveFRTb2V0cUNWYmxoUTA5NTdhUlE1bi0yWWdIM1FpQk1JaHRSaXJNczQyd3l0UkhFMnNnLVlVM0R3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T19:51+09:00"
+  },
+  {
+   "title": "マイクロソフトのシステム障害 県内でも熊本市役所や企業でメールの送受信ができないなど影響",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYcjJxb2p0WTU4QzNHTjJUcldrYXltSUhicGFmXzdrc01qN09TSHVxSGZqcUNQSWIzSzBWWEZNZHU0VkVITEZTaHJ6QVAwWmo0eWhrb3gydl9odEFuQTd3blNhWXk0QU1MVlltc3FB?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-13T19:38+09:00"
+  },
   {
    "title": "日本マイクロソフト、サイバー攻撃「示唆する事実なし」＝大規模障害(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYk1FX2dTUG9kbVJqZ05POVBFMURwN1BGZGpvNjdPZ3JJTHBTTGlYVzhFTkVrSDFHWTN3VEp6dmU1ekdEZnVvX3JaQkhQWnJjWjRBV1BpU0NrVENNbGZlZGtwUUh0U0QtZkpRM3dubmFRODNrZ0JxN0RKUnJBMGUxdXF5aGFla0U?oc=5",
@@ -355,45 +367,21 @@
    "at": "2026-11-13T19:32+09:00"
   },
   {
-   "title": "「電話がつながりにくい」わけではないが...NTT東日本の「113」「116」にMicrosoft 365障害の余波",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YUFNtWkhGU0JjYTJfTm1oRTh4NVREUG5HR1pmdEJXV0oxNU5tNko0andnY09FQ0RaVVRmdkdrcWpZMXFFSG14c2FVbmNhQ3JYUG9LdXFrWQ?oc=5",
-   "source": "J-CAST ニュース",
-   "at": "2026-11-13T19:30+09:00"
-  },
-  {
-   "title": "[TKUニュース 26.11.13 19:00 ] マイクロソフトのシステム障害 県内でも熊本市役所や企業でメールの送受信ができないなど影響",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85TGhkbkhJemFfVnVYWGp5c0FmWUQtTncyYTlrd2pGZTh6ZWI0cTBKOGNWY2hKUEZ5bmJsU1RZVEpOeDZGb1Rub29UVTdOOXQtMUR4TWRjazBiVHgxdDRmeFlHMA?oc=5",
-   "source": "TKU テレビ熊本",
-   "at": "2026-11-13T19:28+09:00"
-  },
-  {
-   "title": "マイクロソフトのシステム障害 影響は関西にも 大阪府庁や大阪市役所ではメール使えず電話やチャットで臨時対応",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdEM3YzdjSE5sWGp5cGQ3LTRmQ2RNWFdKa01HdGh6cWJvbGJxVXd5RVhHcEpaMWxZcmNrVDZwUUtpRng4SUF1c3BHUGFJOXc2SHJnRm1JZjlSN3ZabkxfeHllYXBKaU5CRlV3S19XWDEyc2JqSmhIZFZkc2FEd3M?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T19:16+09:00"
-  },
-  {
    "title": "マイクロソフトの大規模システム障害「改善が確認されている」 (2026年11月13日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBScERDUWU1SndjTjVQY0hCelpoTEZXdkU3eGh1Q182Qk9abFl2T083b2FhMWRjcnhZZzczR1JTSnlKYkhMVzdHbnlDQ3ROYWZ6WmxqX2hJUk5OTExHWEE?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-13T19:06+09:00"
   },
   {
-   "title": "マイクロソフト「サイバー攻撃ではない」　世界で大規模システム障害、Outlookなどに接続できない状態続く",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14NHN0Y1R3X0loX2s0ek9SVC03NFcxUU55NWxubEkxRWZBVURsWjJ2eWRTSW9WV0N3ZE1fSGFyWkgtRWx4ZTc5Sm8zdU9WclVxNl92RDJrMjg5OU1jaUhXbjJZRmJ4a3JwTGNvZkthSDXSAXZBVV95cUxPcnJDb3hLUGp6aFVxY1Z3TkhTT0FWYWdWS01SWGFBWlJlN3FUSlNsbldOcHdYOGZZa1U1QlpRV3FKZ3JPZVFVZ2dwbXJuZnEtTWpVSGJGdW03amJrMG5OaHZiRWlOSmh0Nl9Bd1l0Y2lId2x1MGN3?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T19:02+09:00"
+   "title": "【情報まとめ】マイクロソフトで大規模通信障害 「徐々に改善し始めた」と発表 完全復旧はまだ",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-13T19:00+09:00"
   },
   {
-   "title": "「電話となると情報も絞ってお伝えしないと」マイクロソフトシステム障害で宮崎県庁もメール使えず",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3FDelkyMnZ6Y1FTbzc4OTBBdEs2Z2xNbVFPRWMyZ1BPOVNrVmFyaTVrcTMwU1lnQS1SRVpXa1pibWxwMm93NHdiUWhCVk9veU5lLXVlZ2MtRnpfWklkMjlITGVyTk9kbGRJWTNPOVFXWF9pUGhPM3YzZXNFdmREWnZmTQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-13T19:02+09:00"
-  },
-  {
-   "title": "マイクロソフト　大規模システム障害 県内でも",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQekFSZHkyX21kUmlEUkpaLXdVbDIwVWpfWTNYR1g1RzBOT2liN1JqSnB0R3VLUFl6eW5EWWxxSGVFejhVMWhXRFBWaXZrNnNMTUN3Rlk4VkRLVTVSQnAzMzVBVTJBVUV4WGJLZ29QZk5nczVEMWctM3lrbmlZSWVCTjZiZ9IBiAFBVV95cUxQT19VWHNIQzl2bG1CX1JXbXJlODFic0JJRGJHbVc2a3FXMlBHRlY3TGwtV2tQMnZZdm9COEtQZ2hkZkNlZnFqOWdtZUV0Q3lEdzlYYVpIOWplNjVoVmI3VzMzNHlCdGZpT3JaY3Z4NU43dzNVZXFVcWo0T3lEZ2ZtR1U4OEF1SUVf?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "マイクロソフト 大規模システム障害 県内でも",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0SE9XNmdHRWU0RzQwbGR2QVFQdFpFTHdVYnVRbmdmUGJqenN6V1dfQWE2cjNhSUNpWVR6M2dONzhwckh2bDQtYzA4c1FvX0szTlJWWHpOWXpsc05hdGJHZzZCbW40WFE4UjI0UG5iaw?oc=5",
+   "source": "HOME広島ホームテレビ",
    "at": "2026-11-13T18:50+09:00"
   },
   {
@@ -427,10 +415,22 @@
    "at": "2026-11-13T18:26+09:00"
   },
   {
-   "title": "マイクロソフト社の大規模システム障害で高知県内にも影響【高知】 (2026年11月13日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZEhWNFVNamNIZG1iVFRndzJCajBad3ZIODVQallxbWRIZGNZYk1rVjNRcEVxTkROZTFtNVhkbzNtZkpjM1JLMXgzRnIxNWRaTEVKNXpKS0tBMFMyc0E?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-13T18:21+09:00"
+   "title": "GMO 不正アクセスによる被害額は約30億円と公表",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbktNRWZkWHM3UUJrZ1lvU0ZVRTVLSXNhS2tyeXZ6by1aUEJKaUpHc1l6aW9FZTZ5aExsblpGcXk0dXpXMmRISkIxQTVCanZhMEVmTDlabVlIOEpPeGcyNTJacU1mU1BVZjdudVdwR1c5MlRIMUpxa0RVcnZ2Q2RwWXdFZFpha1FrTy1jMUZkTlFSVmxYNWNhV25LamdjREU0dHl0TndXVDhfci1JVTdpRnYyaFphdjJVOVBYaENnb0FERG1UT2lLRUt1WFdNR1dPU3RzWXhMeTBxUlhTUXJRdU9IbVFka1ow?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-13T19:56+09:00"
+  },
+  {
+   "title": "“不正アクセス”のGMO決算会見 業績への影響は30.5億円を想定 2943口座から補償申請 5000円の見舞金は1万件超",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kVmJjWlNEUnZoYVJmeFRkVGQyekVvcFIyVUNCWG9sQTZJR3hSWDUwMWJEVS00OEt2Z3c2MHRqVlNmVkY3ZEg4dEUzclB4VUJTaFBJR3ZWcGhWbFpObGVEZWg1SG93UGRoNzVfUEJR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T19:49+09:00"
+  },
+  {
+   "title": "巨人発表　サイバー攻撃によるメールアドレス流出のお詫び　公式ファンクラブの会員情報　約８０万件が対象",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkExcGdMcWFyakNfck9OaEtBcXJnTFBnaDk4RExBQm1mOG15elpQVGFyWE9yQ3Jqd2EzTTBETnBOUnEtelBvdTcxaFdDcEhiTGdJSWZBdmo5Y3o1TUctSHhoT1ZISEJocU1KbFNhN3A0VGFtSkEzdG5NclI4cXdtWXZ1THDSAYoBQVVfeXFMTllKa3JwQ1pBTTlnMEhRMVFKVF9jRk9MT1Fzb0ZsUEQySW56R0ctckM1UFNoR29QUVpQQ21rNnhsdHpERnJ0Qkt1ejF4S2tDcTBRMUtCQkZhOV9WTGpNLWFUNFI1Wm9rck9keFJFTE5qYXVMMmd2RlBLLTJVaTBvUkgxcjQ5amVrSWtn?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-13T19:47+09:00"
   }
  ],
  "osaka": [],
@@ -472,7 +472,7 @@
   },
   {
    "title": "ロシア軍、ウクライナ南部オデーサを攻撃　死者２名、負傷者５名",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObFEzdkptUG16NmNtQWNwVXpydmRZS09TZWJtREVyRnhVMC1Xd2pabnNJWWhodHZtaUQ1VjQ0a3Vjb1NaZmx4SUVaVDZYV0RPbTBqdkt2aFJoWE84LU9ORDBIbVRNTG1kMDRGZDZvVmI4dzFyX09yV0plZ2p4N3BGT3pyLTBPdjRBWTJuSEhUd2JiUjI0dXRaSEZCYzJHNVJIRzNESGdEVGFXTHJ2U0pFS0JaYlZ5QzVORDJzONIBvAFBVV95cUxObFEzdkptUG16NmNtQWNwVXpydmRZS09TZWJtREVyRnhVMC1Xd2pabnNJWWhodHZtaUQ1VjQ0a3Vjb1NaZmx4SUVaVDZYV0RPbTBqdkt2aFJoWE84LU9ORDBIbVRNTG1kMDRGZDZvVmI4dzFyX09yV0plZ2p4N3BGT3pyLTBPdjRBWTJuSEhUd2JiUjI0dXRaSEZCYzJHNVJIRzNESGdEVGFXTHJ2U0pFS0JaYlZ5QzVORDJzOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0V0NlNwcXpDWi02LXk3cnIzQWowZkU1ZnhkeXJJSjB5VUpCVTBqTmQzR0FqcExtR3ZnUmhKTl9nN1hWS2xNaDhFZE9DQ3Q2YUY0V2F0c0ZPdlBWWTdMY3pfNnNUNVZYT3hBS1hmVXNZM3ZPY0VYclFtaF9ZYWNvUjZYVUY1SEdWVkJfNVN2bVBTRlZmLU15UWJnU09LWHE0c0Rmd1BBUnY2Y1djYkFoc3ZZcTNia1HSAbwBQVVfeXFMTmxRM3ZKbVBtejZjbUFjcFV6cnZkWUtPU2VibURFckZ4VTAtV3dqWm5zSVloaHR2bWlENVY0NGt1Y29TWmZseElFWlQ2WFdET20wanZLdmhSaFhPOC1PTkQwSG1UTUxtZDA0RmQ2b1ZiOHcxcl9PcldKZWdqeDdwRk96ci0wT3Y0QVkybkhIVHdiYlIyNHV0WkhGQmMyRzVSSEczREhnRFRhV0xydlNKRUtCWmJWeUM1TkQyczg?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-13T17:49+09:00",
    "topic": "ロシア"
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「日本マイクロソフト、サイバー攻撃「示唆する事実なし」＝大規模障害(時事通信)」"
+    "「マイクロソフトのシステム障害 県内でも熊本市役所や企業でメールの送受信ができない」"
    ]
   },
   "japan": {
