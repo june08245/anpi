@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:45+09:00",
+ "updated": "2026-11-14T06:54+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -343,6 +343,24 @@
  "japan": [],
  "cyber": [
   {
+   "title": "【速報】アメリカ国内の航空機全便で離陸停止命令　通信障害の影響か　米連邦航空局",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdGphOExPVGRDTmtGU24wczBsbENOZnhZZXBsRlNISjNIWXlQUkVoSDQ1RnMzUElZT1k0NVhJNVRDc2plT1VYclFXN0pzV0l6a0x5SGlFTllHSHpqUnlVZTBPT3FhS0RUY3FmYjQzdXRWVWJxXzRSSGhUaTV3Q0VsOWxMVi1uUdIBiwFBVV95cUxOYndXbF9QaFh2NUJUZ1BzcW1hazlmYmc1RnlWa2FONHhteXV0Ml9hSVdhckF1RnI3MUZhQ2c3OGhqUWhWQTl0cW1ZYzJSZG5zbmswaXNSSkhQOVJvWGUzTEg2dERFcFl3Q1M2cjJRUE5BUm9fb1hMcFpqdHhvTmgxX3JWQ3VxUHcwTnM0?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T06:53+09:00"
+  },
+  {
+   "title": "全米の空港で航空機離陸を緊急停止 大規模通信障害と当局が発表",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNczBmbWg4TTNnYVUtQzBpNXBWQkU5d0EwRTh5a2xrTHVSblJqdVRmNmdLWDUtTDhQTUFUc2JPc0l4RVhsbmk4VF9CT3ZMUHhLa1A2Uzc2N1psUzZncVc4ZEVuR1JYbXVsUXFydA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-14T06:45+09:00"
+  },
+  {
+   "title": "【速報】アメリカ全土の空港で航空機の地上待機命令 管制センターで通信障害が発生",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EaHV3LVlaVU1qWFpUbFJCV1JrWFRnQUh0bGoyaEUtWmFESnFWM3oxcG5tSWlaUXZRTmdOX2lCVDNlaVpNNVpEZ3VEcV9MeDRGQjBmZjhtbw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-14T06:44+09:00"
+  },
+  {
    "title": "ＭＳの世界的通信障害収束へ、アウトルックなど約24時間混乱（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MZWtXTnZDY0Ezc0M4LVJJVzEwNVNnRWpOY3dDeUIxaUtCVkROLWRSWk91VDd6NTAxR3BwcWZUSGxrTk5NZkJuaV82TE1MbF9Xdi1aSmFFR3hHOXlEWnFjcXhpcWl1Y2dOcGZlcHBHSW5wSFFDX0k4MmY1cGJCeG8?oc=5",
    "source": "Yahoo!ニュース",
@@ -413,24 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW1wQW1vdnViV21lUjJkS2c0eFFNMXZuQk94a3ZwQTU4bDBQcmdiTE00SXNaaEVyTUxROW91NGw4dUV6emVPdURuRzhnak5aejdjYnNaZzJ4VDAwY0NTVTdGWkRfd1hENHJpUlRuajRnYUlMcndnT1lDbjNVZzh0QkxTb3RvTkdTeW1zU25ncjQ4OWVyVGpmYmZXbG8zbmk2QmdONXJfcw?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-14T06:30+09:00"
-  },
-  {
-   "title": "サイバー攻撃 セキュリティー再徹底を 相談窓口の周知も 県ＤＸ本部幹事会",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04RDVvNjJGUDZZdlIta0dpaUV2WkgxTFlZd2NwUnVWWERQeTFTcUVITHgxWnlmRnhpVEQwR3RyMVZIbFgxcjRCVFRkVXlrSmxCYkFuMHF1a0ViOXp4ZlRmRFJpTEs2V3NhR2hyamxrMUQxNVg0?oc=5",
-   "source": "株式会社 北鹿新聞社",
-   "at": "2026-11-14T06:03+09:00"
-  },
-  {
-   "title": "GMOへのサイバー攻撃の影響で650万円損失…被害投資家が登場、池上彰＆粗品に実態を赤裸々告白",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PNHRNTlJ1UExJQ0RsOWFfZmpMMEpjaDdxd2JucThRT05oODRJMXk0NnFQNUJVcEp1c2hFTUw3eGRiWm1MODBvbml1R2dwZUtMV3JMRnBUQjdHN2ktVGpyWQ?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-14T06:00+09:00"
-  },
-  {
-   "title": "大阪府と堺市の食費支援事業で不正アクセス 申請者のメールアドレス漏えいのおそれ",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02SkJINXRKdTRTUDREWk40MDBDTmE5MEw0MGxxUkQwVDc0MWJYenlyVkVGMGlNTFZfQ3pBMWhPak1hekpwVElKamhScw?oc=5",
-   "source": "サカイタイムズ",
-   "at": "2026-11-14T06:00+09:00"
   }
  ],
  "osaka": [],
