@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:15+09:00",
+ "updated": "2026-11-13T13:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン側 バーレーンの米施設攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ISjI5Xzh0TWxiUHgzeUE1dHlfenBfZ0RrTEJ6QTNvTHdEbjR2NnM5VXBCU3VGWE1BNi1PaFNMeVBldlRPcl9Vb0JPVE4yNE1a?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-13T12:57+09:00"
+    },
+    {
      "title": "トランプ大統領「イランとの合意は必要ない」",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
      "source": "テレ朝NEWS",
@@ -102,8 +108,8 @@
     },
     {
      "title": "イラン、バーレーンの米レーダー攻撃発表",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zQVlzVWV0UWc3aHpzQlVFaTdFZ293WUZLT044djFkVjNoTWgxYjhFVnRhaXZjZVlITGFMMFdOUlpzMGU1UktQa3BaN1V6ZnNQY2F0eDJVYXBrNGhGN0E?oc=5",
-     "source": "沖縄タイムス社",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
+     "source": "京都新聞デジタル",
      "at": "2026-11-13T12:35+09:00"
     },
     {
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CM3lhZkRiYmoyUVdoYWxHYW0zMnZkOUxjRjhzbC13WjQyVzJIQll3Y1ZKM3NJc1RhX29yV05wc2gwN2ZoSjM0elZNcko1YXEyeUZkejQzT0E5OVdRdmFTYklkY3N0TGltSlo3bnJPZzZ6WE5HV2pzc0E0YkY?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-13T11:09+09:00"
-    },
-    {
-     "title": "米大統領「イラン合意は不要」 副大統領には国内対応を要請",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1OTBPZTdYNWpOMzllM2VoNkJMZFNLQUNkTnRpRXMyRkYwRkNhNi1xSU94RG42Q0dtalVYd3dtcW9id0RiZHkxM2hyb0lFMW1GdzI3Z21sd2ZWUWxqS1g4?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-13T09:21+09:00"
     }
    ]
   },
@@ -340,15 +340,14 @@
   }
  ],
  "outage": [],
- "japan": [
-  {
-   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-12T19:12+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
+  {
+   "title": "マイクロソフトの障害は「サイバー攻撃ではない」",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2aktLV0FvSHFzQkkzNzhIaWJBbnBLaUVjUUFQN1VYRUlDZEJlNF94dGVvZ2hPZTZqSGxjcXpUQjdVM2dWUllsRWI0MTdKN0F3M1V3VjRmOGpPaGpES0VmTllib0E3UWJDWVNvak1PcDl3dw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-13T13:17+09:00"
+  },
   {
    "title": "【速報】マイクロソフト大規模障害 「サイバー攻撃を示唆する事実確認されず」（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUVgwMTFnbmk2ZlpSbzYtRGk4ZzB3UG5OXzJHRV9NaVRrOXVNVUU3aVdKeklfVFdxdVJwZGNxVEd0SFRJcC1MY3lTLVY5NmItVlBIYlZZazhTdmNRV05mWnZxOHVFWDRmQWpkQml2TWxsSGtxSDEtS2o3a3NSTXM?oc=5",
@@ -362,10 +361,10 @@
    "at": "2026-11-13T13:08+09:00"
   },
   {
-   "title": "マイクロソフトの障害は「サイバー攻撃ではない」（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15cEp1bkVPSGNWdWJKMWpVZGljZkpxVTBqb2paWkJPempWSUg4clMtU0lxZU1CWlJRYS1NcVRPLWJ1dXRnQ3UtOG4tSUNUOWFRMmU0VVQtOEF1ZWpvT05kS0hfY1otYzduYWlOWHFNUk01bGxQazFiNEhtZGlhOFE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T12:57+09:00"
+   "title": "【速報】吉村知事「大阪府庁において『Outlook』を使っていますので現在メールが使えない状態」と説明 「マイクロソフト365」大規模障害について 「早期の対応を注視したい」",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Qb1h1eXFJT1gzMkNLeTdiUDNSaXNHV1M1TEVyTDdRN0RXZlNSazhxU0dLQXl5MDNkcDVPZ0tXTWdJY3FXTWVLUkFqQUFPdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-13T13:07+09:00"
   },
   {
    "title": "Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響",
@@ -390,6 +389,12 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYkZNbk5YNWVoV0FOMTZXNGpTTDlMZVhxY3RBcUZ0Q0F4R0h4a3R2MVhlVUVvT3BLa0wwX3I0cEJoMkRuZzJYM1MzU2dMRm1NX0tvSw?oc=5",
    "source": "中日新聞Web",
    "at": "2026-11-13T12:35+09:00"
+  },
+  {
+   "title": "【困惑】「生活できない」「スケジュールが見られない」マイクロソフトの複数のサービスで大規模なシステム障害（読売テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRkFoVTRRZkFZb19fNVdKaHhWOGFvNlRNbVFMb2JGUkd5dmxOdGJCR0tuMXJ6UElKV3A4XzRhWWVOdEctNUpPQjk3ODV4RnNmTURKUllia0F5SDFxZE5kNU1TN1E2MFVZT21xQnFma1ZNZmRSOW5ibEd4M1dnVk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T12:15+09:00"
   },
   {
    "title": "【重要】システム障害によるメール送受信の不具合について（Microsoft Outlook）",
@@ -426,22 +431,17 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZHBvd2s4YW9xNDg1d24yUEVuVUxKR09idlZJcFpIYUVGNlU3eDZyYm1JRHZXSTVQVVhlVzY2VFdwSmY1MDdwMGZrTGhMOGkxSXJTYQ?oc=5",
    "source": "ABEMA TIMES",
    "at": "2026-11-13T11:44+09:00"
-  },
-  {
-   "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iYXUyLUxzdzI1Wm5vVmk4Z09WOVVvU2YxMU04UTlZYzhBX2hObmt1YnA2SV9JSlJEcG1BN1EtSm53LVJVRHNUNFlvNXVMRld4Y0N4ZnA1UFY2R3JZVlgw?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-13T11:20+09:00"
-  },
-  {
-   "title": "メール不達などのシステム障害について",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHU2tTT0tDSldUZ0pBSDV5dFhEelNGcHZjUmtoVUV4WXJiaDFoQlRYbzlSYWwxQm5TSkpXWmtOeWg0ZDZabUJ3S2RBcWZ4SDlyRVZrRGhYSzQydw?oc=5",
-   "source": "ツエーゲン金沢 公式サイト",
-   "at": "2026-11-13T11:15+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イラン側 バーレーンの米施設攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ISjI5Xzh0TWxiUHgzeUE1dHlfenBfZ0RrTEJ6QTNvTHdEbjR2NnM5VXBCU3VGWE1BNi1PaFNMeVBldlRPcl9Vb0JPVE4yNE1a?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T12:57+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "トランプ大統領「イランとの合意は必要ない」",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
@@ -451,8 +451,8 @@
   },
   {
    "title": "イラン、バーレーンの米レーダー攻撃発表",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zQVlzVWV0UWc3aHpzQlVFaTdFZ293WUZLT044djFkVjNoTWgxYjhFVnRhaXZjZVlITGFMMFdOUlpzMGU1UktQa3BaN1V6ZnNQY2F0eDJVYXBrNGhGN0E?oc=5",
-   "source": "沖縄タイムス社",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
+   "source": "京都新聞デジタル",
    "at": "2026-11-13T12:35+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -569,13 +569,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "米大統領「イラン合意は不要」 副大統領には国内対応を要請",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1OTBPZTdYNWpOMzllM2VoNkJMZFNLQUNkTnRpRXMyRkYwRkNhNi1xSU94RG42Q0dtalVYd3dtcW9id0RiZHkxM2hyb0lFMW1GdzI3Z21sd2ZWUWxqS1g4?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-13T09:21+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "北朝鮮、東海岸に新たな海軍基地…金正恩総書記が建設現場を視察",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VV0xMRDdjNl9XRzc1S1FDVENOa3dEVVFVSkRJcG5hd2Q1RXU5OEhBRWRxWWtSRldfbFZTYjJhZjE4YnhfUzVVLVl6Y2s2Q21zd2pSR0F0V215dVZTY254V1ozWTdxVTF3MWxxRkFiRVFId9IBVEFVX3lxTE0xWHNWX0hxY3g2T1dQd3VyTWF0N0s0aFpzM0RBVERnZzFZY1haOE9JLWNCZlpVVHJDWjNGMU9HZ0Y5WEl6ekNiai1qZlpNQzF5YVNfaw?oc=5",
    "source": "AFPBB News",
@@ -591,25 +584,25 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「空爆」3件",
+    "イラン・アメリカ：「攻撃」「空爆」4件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "イラン、バーレーンの米レーダー攻撃発表",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zQVlzVWV0UWc3aHpzQlVFaTdFZ293WUZLT044djFkVjNoTWgxYjhFVnRhaXZjZVlITGFMMFdOUlpzMGU1UktQa3BaN1V6ZnNQY2F0eDJVYXBrNGhGN0E?oc=5",
-     "source": "沖縄タイムス社",
-     "at": "2026-11-13T12:35+09:00"
+     "title": "イラン側 バーレーンの米施設攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ISjI5Xzh0TWxiUHgzeUE1dHlfenBfZ0RrTEJ6QTNvTHdEbjR2NnM5VXBCU3VGWE1BNi1PaFNMeVBldlRPcl9Vb0JPVE4yNE1a?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-13T12:57+09:00"
     },
     {
      "title": "台湾有事　在日米軍基地が中国の攻撃対象となる可能性　沖縄や横須賀などに脅威　民間インフラにも波及か",
