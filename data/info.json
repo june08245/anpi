@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:15+09:00",
+ "updated": "2026-11-13T18:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,10 +95,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イラン革命防衛隊、バーレーンの米軍レーダー攻撃と発表",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ3F6OGw3Vm5yVkdabmVCN2VaZXNrV3dwUTkwMUdVRnh5aTVZSHZ5ODhodld0R29qSkgyd19DY2ZyY3NIc2E4dlBFcE8yTk1NYVoxS3ZhOUxscTRMeXUxVjBua1FtOUM1TndUNQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-13T17:22+09:00"
+     "title": "イラン革命防衛隊、バーレーンの米軍早期警戒レーダー攻撃を主張 破壊の裏付けは確認されず",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5INVF2eGhHY0IwSDRGbXBpb3lINUZfSmlIZmFfYkpfZi1QNlMyR0U0TEFyZ0hObG82anVCUkc4TlRibndfRnhRRjAwTnRXc1JIYTFqOGQwMUliS2FZaW4ydzFuSE5wcE9BdGc?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-13T18:18+09:00"
     },
     {
      "title": "イスラエルメディア「米中央軍、イランへの再攻撃の可能性に備えるよう米軍に指示」",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍、ウクライナ南部ザポリッジャを攻撃 １７歳の男性死亡、４名負傷",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0hZWG9YbWlLbjc3OWR0VXNhcDRXSzNTZkNyTU9XeEppSjBqdWtfZV9RUWxoYjdJN1pSekhRZTNlQmI2VnZRSUhrOEtQQk1ET0ZJWV9BTnNnZ0pfcHRLbHpuNThBaFJKVlprUGRJUy05X2ZmYU5vbXdpRFdQYXdIYXU4ejZkZ1d5d1NMMFdqdmZlUlRONGRGeEZjTTluUTdIVUh3NDZpbkVxOFpiaksyVkpaYTV6N3NwMzRoOERZZjdKX1pFaThyVtIBzgFBVV95cUxPcWVVRWxHdHZwY3RUOGlhMEpEZ0J0NV9keG9WRE9iLUFtVFptTEswOGdPNnJmMng4OEZ2a1ZzakhTQ2hEeTBScVlZYk53cmRSa2lTWVZRT1BOUThpU0NmZlViek84RkJBeTR3ZWptQ2I2THUzNzJXX0drM2xtLTRReEIwOUsxcmh6b1ROX3paRnRDQl9lMC1BLU9oMWZLYmJ6QWtIVzRvUHNxeDJ4THN5U2c1NlgxdFR4MXd3VXdyYTd6V25nNFNnUm5XeUw1UQ?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-13T17:59+09:00"
+    },
+    {
      "title": "ウクライナ西部リウネをロシア軍攻撃　集合住宅で火災、６名負傷",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVF90aXZ3U3JQUk9HQ3VnaVBsVlhzb0wwNEFaNFhoSlE0SU0wMllla0dadE5sTE4tM19tMGp6SkxXZ2FqNWtfVmFwNm9MaFJCelNIRVI0MzIxQmRVU3VRODB0UEIyRks4RldkSkJkOFRhSEEzVjhCT3lZMVJOWFRoWC1tVUV2UGpCbmtPUjRHNDQ3RGs4aDk5emJqdnE3dGhGUmp2bU4zLXF0WTJzUmx2Q0taeE1zaFJrbDNlaThuZnVmOVnSAcgBQVVfeXFMTWZUZVhYOE1LVVgybXVGY0ZlV1RsNWd2YUpRMFVkbkNzdTRTSGM3UTVjTXN2MGpsb0s0QU5oeGJMM3pHRXNFNU9kZGVHY3pWcjlfLV9Fa0tWeW9FcERHWFpzYnhYWkZzb0lkbDV4Zno1Z19QdEdkdXhkZ2pUY1VMNG1PcnN0c3FfZUs1N0lYQWRxZlc3dlhfUXdVcUdsWEZ5LTI2ZE0yQm1kU1dBZ0JfU05kMnNlYl9EQnlnNEZYaThWWTdhRUgtWHg?oc=5",
      "source": "ウクルインフォルム通信",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbno2b3BuZ2pBZ1FrdkJhUXdYNXFXLUpaSTFEV0hvdDItWmVaYlVBRlBjZ043TzA4S19IWmlUNUxjTUxXUjE2cGl2Q1FqczRrTTNWdXVORFNIVlUzN3ZFNNIBZkFVX3lxTE85d2ZRNW5PZlpNY1hMWUpYZHVMdjE4VXNtSExWV25NckN6akgzalBYVG1uVmctWERjN29Oa0JYQXNySTg3Q3JoWm1Fa05wdTdlMkp5blM2Q1hvamlRMGhsWHNfS2hjZw?oc=5",
      "source": "BBC",
      "at": "2026-11-13T16:18+09:00"
-    },
-    {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XeXhQS2k1X0haQ0tBdk9UVkpMTFBQQ1R3VFdLRjlsck1IQ1lGTG1mdjNibnNhYktSdEkzRzhGRXpUVUo2TERkUmllZG5iNGktNm1KbkdqbXFBcUZQWlhr?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-13T16:13+09:00"
     }
    ]
   },
@@ -350,6 +350,12 @@
  ],
  "cyber": [
   {
+   "title": "マイクロソフト社の大規模システム障害で高知県内にも影響【高知】 (2026年11月13日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZEhWNFVNamNIZG1iVFRndzJCajBad3ZIODVQallxbWRIZGNZYk1rVjNRcEVxTkROZTFtNVhkbzNtZkpjM1JLMXgzRnIxNWRaTEVKNXpKS0tBMFMyc0E?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-13T18:21+09:00"
+  },
+  {
    "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
    "source": "時事ドットコム",
@@ -368,10 +374,10 @@
    "at": "2026-11-13T17:53+09:00"
   },
   {
-   "title": "マイクロソフト社の大規模システム障害で高知県内にも影響【高知】",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5va25fZzhTOUVqV0RLbktZQXl5X1BkaEFNTWdjYTIyd3U3Smh4M05md1BTa2lXWi1XWS1uWVUwRldtb2dIalMxVV9YUQ?oc=5",
-   "source": "TVer",
-   "at": "2026-11-13T17:26+09:00"
+   "title": "マイクロソフト障害「サイバー攻撃確認されず」 政府の反応と影響は",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-13T17:49+09:00"
   },
   {
    "title": "「あらゆる地域のユーザーに影響」マイクロソフトで大規模システム障害 政府に大阪府、企業でも…アウトルックやチームズ使えず",
@@ -404,44 +410,52 @@
    "at": "2026-11-13T17:00+09:00"
   },
   {
-   "title": "【情報まとめ】マイクロソフトで大規模通信障害、世界各地でOutlook使用できず 復旧作業「良い結果」から一転「効果出ていない」",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T16:25+09:00"
-  },
-  {
-   "title": "GMOインターネットグループ サイバー攻撃による業績影響は30億円超の見通し 最終利益は前年同期比27.1％増",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13bEl6SEVXbGZ1eWdTb1hRNXQ3eFg5T0d6cFZmNTFYVG1XRWJJOTlKVkt2c1drOER1SDBkWllaS3JhTVlMOFVSMnJpcVJWWVZvZzlFR0p0dE8wWXJDUC03aTRqMkhXQzhIY2Q3elF5cl9qVFdt?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-13T18:08+09:00"
-  },
-  {
-   "title": "IT資産「すべて把握を」 不正アクセス対策、有効な手だては 熊本市のセキュリティー会社に聞く",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rcU9mS2dHYVhuZEE0YjBvdjRNaHRNV3l6UHVZczlDakhYaWxFOUNWc0JaNTc4YllCWGowZzRDclcwSWtsUk1DQTlNQ05EbEE?oc=5",
-   "source": "熊本日日新聞社",
-   "at": "2026-11-13T18:06+09:00"
-  },
-  {
-   "title": "内閣府「OKINAWA41」のレンタルサーバーに不正アクセス、5,973人の個人情報漏えいのおそれ アララ事案とは別件",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXlCeVZXUWdRazVpeFVrVEJybjZzcXhib1drWm0teUZ0VXNqZlZwckZadi10TTNMa3JiVGFjRUR2cGpLcGNIZmUyVDRWNG05MDFueGE5VmhQZUQ5Y1hsXzlBUGJYbnU3X0Jlby1HbEhhMlJQeVRobmxVek1DdV9fRnpYSGZwaF81LUdLRDZZeDUzdjF6eFVTZ2E0cEpmXzdJOVE5bjU3V05HVjJZRm1uZGFGanc0dw?oc=5",
+   "title": "ヒューマンアジャスト、LINE友だち情報最大11万6,518人の情報漏えいのおそれ 委託先COMSBI（SaaS版）への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEI2SXl1S1RNYTN1eDFzZGxwSjA5MWFMUkdmUjBBVUxNNmJMeXdmQkQwTHB0dDh3VE1BWlE4aEFSVEdHcHotN0pqNlFWWlRjTW1NR3VuOTJPOHhCY3dQN0xDdzRiZ3BzSjh6dVpHQk5lN2c1ckJwZTJFZmNOWVRjbXg0M0pRZUdsWUJUdEwtYkNjakpCbGJja2t1Q2tUanc?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T18:06+09:00"
+   "at": "2026-11-13T18:20+09:00"
   },
   {
-   "title": "相次ぐサイバー攻撃 県内企業も対策強化",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSRGl6aWlOa1NOc2hROC1qNWlUbWZ1bHdpbU96SnNkVHA4d3VwMTUyajRHb0YySk1tQ25ZSDA1REFueXZaek14WnV6VTFTamc?oc=5",
-   "source": "熊本日日新聞社",
-   "at": "2026-11-13T17:58+09:00"
+   "title": "「お名前.com」不正アクセス、補償申請約30億円に GMOインターネットが決算説明会で謝罪",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNzV6bUNvbzNsNnljNUxZampxQS1UeXNIUlpKYWlzdl9PeXlGcG9FSWpzV3pGLTVfQ0tpMjVuTXU2WlhyRGZDRzNZcENRNmU0UGFPNHJpcnFxSXFTaVdTV1NVcTA4a0ROZFE?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-13T18:17+09:00"
   },
   {
-   "title": "〔決算〕GMO、業績影響は30．5億円＝不正アクセス、顧客補償で(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWNyUmlvY09RY3lVWjBoV3ZPQnZxVjNHQkZQNXZvZlJfYmdtX0E1OU5QZFd0SDRydVlYcXA1M1ZXRkhLMGNINjh6ZU53ZFd0RkgwcDJDbFJIdEZWQ2RMbEdkaUMwMk5hbUVGLVpLNEV3MzNDc0k1bGJ3bXp0X0RDX2U4SmZyTlE?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-13T17:53+09:00"
+   "title": "GMO、不正アクセスで30億円計上へ 信用低下、金融で顧客離れも [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeV9WZWY4c2lQV2hNMkZ6bUxrMmpfYzF2aXJYNElPbjhVeXNrb3RaUE9KSjhlaWtHUWdtMjQwZEY0ZWRCRXlJZ0xGdTByeGR1aUdFM2ZwTDZuZkd0NVNLQWxKTkVBVzJyNjVMQXZlcXQyaFdEZzJuM0xNUjdMT0JBWnJpZXNIa2ZvZnFoWGZQUkN5SEE?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-13T18:16+09:00"
+  },
+  {
+   "title": "大阪公立大学、NEC管理クラウドへのサイバー攻撃で約17万人分の個人情報漏えい-NECと再委託先がシステム移行後もデータ削除せず|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGFjTG1vR3hwd0cwX1E1RHV5Z2p1VThhRm9sQ2hQbzZrLWhoTHRmeWY5TnBNR1Y2SUJQa3NQWFBjUEZzQ0tjVDM1TEhJNkNhT2VsSXVhbXVpQzZRM1dsUUk0WWw3dXBLVldDbW9POU0tSFZ2TTN3QWJlUm5VZmdZeXp6TUJEeE5pOFlacnlMWG42VXFCcWk0?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T18:15+09:00"
+  },
+  {
+   "title": "日産、個人情報74件漏洩か 委託先へ不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qU25HcDljZzJiNjdpVkpCS0MtVjd0NWJTOU5VbmFsLUNoX1pWSEc3Vk0wbktCOWpFR0U1SnMxZTVTckFyU1ZydTdzdE84VndSWXl1T2Ixb28tREN6ZWZ4b1ZsTFctTzRJemtENg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-13T18:15+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イラン革命防衛隊、バーレーンの米軍早期警戒レーダー攻撃を主張 破壊の裏付けは確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5INVF2eGhHY0IwSDRGbXBpb3lINUZfSmlIZmFfYkpfZi1QNlMyR0U0TEFyZ0hObG82anVCUkc4TlRibndfRnhRRjAwTnRXc1JIYTFqOGQwMUliS2FZaW4ydzFuSE5wcE9BdGc?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-13T18:18+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシア軍、ウクライナ南部ザポリッジャを攻撃 １７歳の男性死亡、４名負傷",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0hZWG9YbWlLbjc3OWR0VXNhcDRXSzNTZkNyTU9XeEppSjBqdWtfZV9RUWxoYjdJN1pSekhRZTNlQmI2VnZRSUhrOEtQQk1ET0ZJWV9BTnNnZ0pfcHRLbHpuNThBaFJKVlprUGRJUy05X2ZmYU5vbXdpRFdQYXdIYXU4ejZkZ1d5d1NMMFdqdmZlUlRONGRGeEZjTTluUTdIVUh3NDZpbkVxOFpiaksyVkpaYTV6N3NwMzRoOERZZjdKX1pFaThyVtIBzgFBVV95cUxPcWVVRWxHdHZwY3RUOGlhMEpEZ0J0NV9keG9WRE9iLUFtVFptTEswOGdPNnJmMng4OEZ2a1ZzakhTQ2hEeTBScVlZYk53cmRSa2lTWVZRT1BOUThpU0NmZlViek84RkJBeTR3ZWptQ2I2THUzNzJXX0drM2xtLTRReEIwOUsxcmh6b1ROX3paRnRDQl9lMC1BLU9oMWZLYmJ6QWtIVzRvUHNxeDJ4THN5U2c1NlgxdFR4MXd3VXdyYTd6V25nNFNnUm5XeUw1UQ?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-13T17:59+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "フィンランドがバルト海でロシア軍艦が攻撃されたことを発見",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2toMHV2ei1pcG55eEt2MktPVEFBTER0NG1MWndUOVpQWnhtcl9nY01YSi0tVTVvamllaDRyVW93V3o5SFJ1SjNmc1NOMmx5RC15LXVSZTBETi1pV2ZRQmZ3S2JxQXpyS3h6MkFGSy1tQUpwLUtNTWtwN1J4LTN4dXFOSWsyUnI2elZ2NTFfamtJdlhZb1F4SVozRHFpc1JwMEpV?oc=5",
@@ -455,13 +469,6 @@
    "source": "ウクルインフォルム通信",
    "at": "2026-11-13T17:31+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "イラン革命防衛隊、バーレーンの米軍レーダー攻撃と発表",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ3F6OGw3Vm5yVkdabmVCN2VaZXNrV3dwUTkwMUdVRnh5aTVZSHZ5ODhodld0R29qSkgyd19DY2ZyY3NIc2E4dlBFcE8yTk1NYVoxS3ZhOUxscTRMeXUxVjBua1FtOUM1TndUNQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T17:22+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "米特使、プーチン氏と会談 その後にゼレンスキー氏とも（BBC News）",
@@ -496,13 +503,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbno2b3BuZ2pBZ1FrdkJhUXdYNXFXLUpaSTFEV0hvdDItWmVaYlVBRlBjZ043TzA4S19IWmlUNUxjTUxXUjE2cGl2Q1FqczRrTTNWdXVORFNIVlUzN3ZFNNIBZkFVX3lxTE85d2ZRNW5PZlpNY1hMWUpYZHVMdjE4VXNtSExWV25NckN6akgzalBYVG1uVmctWERjN29Oa0JYQXNySTg3Q3JoWm1Fa05wdTdlMkp5blM2Q1hvamlRMGhsWHNfS2hjZw?oc=5",
    "source": "BBC",
    "at": "2026-11-13T16:18+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XeXhQS2k1X0haQ0tBdk9UVkpMTFBQQ1R3VFdLRjlsck1IQ1lGTG1mdjNibnNhYktSdEkzRzhGRXpUVUo2TERkUmllZG5iNGktNm1KbkdqbXFBcUZQWlhr?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-13T16:13+09:00",
    "topic": "ロシア"
   },
   {
@@ -587,7 +587,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト」"
+    "「マイクロソフト社の大規模システム障害で高知県内にも影響【高知】 (2026年11」"
    ]
   },
   "japan": {
@@ -600,21 +600,21 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
-    "ロシア：「攻撃」「侵攻」3件",
+    "ロシア：「攻撃」3件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "イラン革命防衛隊、バーレーンの米軍レーダー攻撃と発表",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ3F6OGw3Vm5yVkdabmVCN2VaZXNrV3dwUTkwMUdVRnh5aTVZSHZ5ODhodld0R29qSkgyd19DY2ZyY3NIc2E4dlBFcE8yTk1NYVoxS3ZhOUxscTRMeXUxVjBua1FtOUM1TndUNQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-13T17:22+09:00"
+     "title": "イラン革命防衛隊、バーレーンの米軍早期警戒レーダー攻撃を主張 破壊の裏付けは確認されず",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5INVF2eGhHY0IwSDRGbXBpb3lINUZfSmlIZmFfYkpfZi1QNlMyR0U0TEFyZ0hObG82anVCUkc4TlRibndfRnhRRjAwTnRXc1JIYTFqOGQwMUliS2FZaW4ydzFuSE5wcE9BdGc?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-13T18:18+09:00"
     },
     {
-     "title": "ウクライナ西部リウネをロシア軍攻撃　集合住宅で火災、６名負傷",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVF90aXZ3U3JQUk9HQ3VnaVBsVlhzb0wwNEFaNFhoSlE0SU0wMllla0dadE5sTE4tM19tMGp6SkxXZ2FqNWtfVmFwNm9MaFJCelNIRVI0MzIxQmRVU3VRODB0UEIyRks4RldkSkJkOFRhSEEzVjhCT3lZMVJOWFRoWC1tVUV2UGpCbmtPUjRHNDQ3RGs4aDk5emJqdnE3dGhGUmp2bU4zLXF0WTJzUmx2Q0taeE1zaFJrbDNlaThuZnVmOVnSAcgBQVVfeXFMTWZUZVhYOE1LVVgybXVGY0ZlV1RsNWd2YUpRMFVkbkNzdTRTSGM3UTVjTXN2MGpsb0s0QU5oeGJMM3pHRXNFNU9kZGVHY3pWcjlfLV9Fa0tWeW9FcERHWFpzYnhYWkZzb0lkbDV4Zno1Z19QdEdkdXhkZ2pUY1VMNG1PcnN0c3FfZUs1N0lYQWRxZlc3dlhfUXdVcUdsWEZ5LTI2ZE0yQm1kU1dBZ0JfU05kMnNlYl9EQnlnNEZYaThWWTdhRUgtWHg?oc=5",
+     "title": "ロシア軍、ウクライナ南部ザポリッジャを攻撃 １７歳の男性死亡、４名負傷",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0hZWG9YbWlLbjc3OWR0VXNhcDRXSzNTZkNyTU9XeEppSjBqdWtfZV9RUWxoYjdJN1pSekhRZTNlQmI2VnZRSUhrOEtQQk1ET0ZJWV9BTnNnZ0pfcHRLbHpuNThBaFJKVlprUGRJUy05X2ZmYU5vbXdpRFdQYXdIYXU4ejZkZ1d5d1NMMFdqdmZlUlRONGRGeEZjTTluUTdIVUh3NDZpbkVxOFpiaksyVkpaYTV6N3NwMzRoOERZZjdKX1pFaThyVtIBzgFBVV95cUxPcWVVRWxHdHZwY3RUOGlhMEpEZ0J0NV9keG9WRE9iLUFtVFptTEswOGdPNnJmMng4OEZ2a1ZzakhTQ2hEeTBScVlZYk53cmRSa2lTWVZRT1BOUThpU0NmZlViek84RkJBeTR3ZWptQ2I2THUzNzJXX0drM2xtLTRReEIwOUsxcmh6b1ROX3paRnRDQl9lMC1BLU9oMWZLYmJ6QWtIVzRvUHNxeDJ4THN5U2c1NlgxdFR4MXd3VXdyYTd6V25nNFNnUm5XeUw1UQ?oc=5",
      "source": "ウクルインフォルム通信",
-     "at": "2026-11-13T17:31+09:00"
+     "at": "2026-11-13T17:59+09:00"
     },
     {
      "title": "フィンランドがバルト海でロシア軍艦が攻撃されたことを発見",
