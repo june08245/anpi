@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:00+09:00",
+ "updated": "2026-11-13T18:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -350,10 +350,22 @@
  ],
  "cyber": [
   {
+   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-13T17:57+09:00"
+  },
+  {
+   "title": "米マイクロソフト「アウトルック」などで大規模障害、全面復旧のメドは不明…日本政府のネットワークにも影響",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04ZGZtWDlQdVR3RWFrS25JcHNfOHprMzdUWXZtRnZUTmlHUXhGQ1VteHFQRXJGZFNnNVBRczN5WUJYR3l6NFk4WHhWbkJiV3p3UkdFYjdBazBLcVVKQXFkWTJyQTg?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-13T17:53+09:00"
+  },
+  {
    "title": "【重要】Microsoft 365 の通信障害に対する本市の状況について",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3BFMHY0bjhUVEk1RS1RY0tBM0JvN3UxODAyZkVnbVd4ZjltbXNtSEt4bmc4M05XdjgyUGxpeDNDQzk0aTlsWVR0QXVRZGJWS211T0FXSHR4M19selYzekNzQW5MV0RSdnAwRTl4Yy1naWNmeVN0Wm5TRHNKdjJrVDdHY0xJNnYyMlhORS1ScUg3V1dtdHY0Z25B?oc=5",
    "source": "陸前高田市ホームページ",
-   "at": "2026-11-13T17:54+09:00"
+   "at": "2026-11-13T17:53+09:00"
   },
   {
    "title": "マイクロソフト社の大規模システム障害で高知県内にも影響【高知】",
@@ -398,46 +410,34 @@
    "at": "2026-11-13T16:25+09:00"
   },
   {
-   "title": "マイクロソフトで大規模障害 世界各地に影響、復旧見通せず",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JVEhwQ1FRRi1xNmcxSy1wWE9fbFZxcDd6NEN1b2cyd3hqbS1YWXZuaDhWRHZFR0RITWlURHh0STJUb1NvZUxTenh3bk9UaDlXaFdCXzIzTVNnREtNQlRfZ19KX3J5MmVJTlppQmMxeVp1QdIBVEFVX3lxTE1vTUhLLURkVXAxVWN5V3BGNTNubURWUlFmZDJEYkNtQ3M5YlpYNURabHZrNk0tTHlzc19nY2RTX1JTeHp5WS1yZ0hnQ1NfcDVMNjdVcg?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-13T16:20+09:00"
+   "title": "GMOインターネットグループ サイバー攻撃による業績影響は30億円超の見通し 最終利益は前年同期比27.1％増",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13bEl6SEVXbGZ1eWdTb1hRNXQ3eFg5T0d6cFZmNTFYVG1XRWJJOTlKVkt2c1drOER1SDBkWllaS3JhTVlMOFVSMnJpcVJWWVZvZzlFR0p0dE8wWXJDUC03aTRqMkhXQzhIY2Q3elF5cl9qVFdt?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-13T18:08+09:00"
   },
   {
-   "title": "Microsoftで大規模なシステム障害「各方面への連絡お手上げ」など困惑の声 (2026年11月13日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXaDRYZWM0NzcxSzF5VDZ2M3dMclFsNnFKRE4zUFJGanM3RWhlQ0tEZFo5RmJNNDlqODV6NF9EQzhKMTAxazhxQ1BGbV9ocXRuc1MwME5ydkwxVHprSkE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-13T16:16+09:00"
+   "title": "IT資産「すべて把握を」 不正アクセス対策、有効な手だては 熊本市のセキュリティー会社に聞く",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rcU9mS2dHYVhuZEE0YjBvdjRNaHRNV3l6UHVZczlDakhYaWxFOUNWc0JaNTc4YllCWGowZzRDclcwSWtsUk1DQTlNQ05EbEE?oc=5",
+   "source": "熊本日日新聞社",
+   "at": "2026-11-13T18:06+09:00"
   },
   {
-   "title": "マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信など不具合 “サイバー攻撃の示唆なし”",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45dllEUHAtQ2ZKa2t6cHdEU0xuRnc0WnZqR2dMbFpRcUtzWEZ2QnVRYnJKRmhpY09ldWVqeXdXVlNuaXFWcU9GWWZ0M2JLRS1EZHRnM3BuSGNWb0cyVXN4RkRKTmR0NUxMZzFEUnBR?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-13T16:13+09:00"
+   "title": "内閣府「OKINAWA41」のレンタルサーバーに不正アクセス、5,973人の個人情報漏えいのおそれ アララ事案とは別件",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXlCeVZXUWdRazVpeFVrVEJybjZzcXhib1drWm0teUZ0VXNqZlZwckZadi10TTNMa3JiVGFjRUR2cGpLcGNIZmUyVDRWNG05MDFueGE5VmhQZUQ5Y1hsXzlBUGJYbnU3X0Jlby1HbEhhMlJQeVRobmxVek1DdV9fRnpYSGZwaF81LUdLRDZZeDUzdjF6eFVTZ2E0cEpmXzdJOVE5bjU3V05HVjJZRm1uZGFGanc0dw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T18:06+09:00"
+  },
+  {
+   "title": "相次ぐサイバー攻撃 県内企業も対策強化",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSRGl6aWlOa1NOc2hROC1qNWlUbWZ1bHdpbU96SnNkVHA4d3VwMTUyajRHb0YySk1tQ25ZSDA1REFueXZaek14WnV6VTFTamc?oc=5",
+   "source": "熊本日日新聞社",
+   "at": "2026-11-13T17:58+09:00"
   },
   {
    "title": "〔決算〕GMO、業績影響は30．5億円＝不正アクセス、顧客補償で(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWNyUmlvY09RY3lVWjBoV3ZPQnZxVjNHQkZQNXZvZlJfYmdtX0E1OU5QZFd0SDRydVlYcXA1M1ZXRkhLMGNINjh6ZU53ZFd0RkgwcDJDbFJIdEZWQ2RMbEdkaUMwMk5hbUVGLVpLNEV3MzNDc0k1bGJ3bXp0X0RDX2U4SmZyTlE?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-13T17:53+09:00"
-  },
-  {
-   "title": "ECモール Qoo10に不正アクセス、氏名・住所・地理座標などの個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWVDSHBlQnRucTRfSFU0RlJfUElxVTNEZEl1SlVrZjJrRXJSYnMxQnZxenhJUmtORW5BR3hDY3p0UHVRbll1M0NMWEc0Z0pIbDdROU50RXZzRkJhVTlvQ0ZSaTZjdm1abVM4YnUtdVBiR0tlYUtOMHEteWZIWDU4dWFSS0YtRllHQ3BPMXNIbUZvcWNOd05UYngtbGNFUGY2bXhMWA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T17:30+09:00"
-  },
-  {
-   "title": "GMOのFXサービス、不正アクセスで費用30億円 他事業で解約増加も",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51dE5lQTRzeDBqTlNuVW1NUEdlb2o3WmltVE9LYXVWUU5ZaEhPTVdrUjIyRXNQSVZ4MkxaVUR1ODBma3FUNWFYcG9Lb1gxY0hWNW9LZWNONWppbzhDcmNPY1hWLTZYV0FIZldpUw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T17:29+09:00"
-  },
-  {
-   "title": "GMO 不正アクセスによる被害額公表 約30億 グループ全体で総点検中 明日には完了へ｜Quebee キュエビー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zbWM4elFMNnpITXd1aVBZcmpXTThueF92OG1hMzNkZVo1X2FrM09BRVV6Ml9PWnJjR2diMTFHcGpIdzNwVDBIT2NJQUIxMU5CY0F0aFBvUE4?oc=5",
-   "source": "QAB 琉球朝日放送",
-   "at": "2026-11-13T17:18+09:00"
   }
  ],
  "osaka": [],
@@ -587,7 +587,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「【重要】Microsoft 365 の通信障害に対する本市の状況について」"
+    "「業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト」"
    ]
   },
   "japan": {
