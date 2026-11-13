@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:00+09:00",
+ "updated": "2026-11-13T12:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -239,6 +239,12 @@
      "at": "2026-11-13T11:03+09:00"
     },
     {
+     "title": "ウクライナはフィンランド湾でロシアの軍艦を攻撃した。12日（現地時間）、英国BBC放送によると、ウクライナ国家保安局（SBU）はバルト海沿岸のロシア石油輸出港であるウストルガを狙った大規模ドローン作戦..",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kSlk5MExvQWZGM1FCNDZaNjBsaVZHQ3A3MTlFV3JJN1A4aF9JT3JQWHFIRTg1TDVyVGwwX1dEeVdva3VFU3FRZUdWWERQcTA?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-13T10:50+09:00"
+    },
+    {
      "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
      "source": "Yahoo!ニュース",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVk9PWTRDTHkzTXFza3I4ZXVTSGxoRG5ad1J5RGZPMkF5T1ptQWl4aXpzejlleTFWZTIxM0J5S3JEOHFPMTduVVh6RklPc2dLckNxZ1dfcFpXNnlDekZrbE9GNTZ6WGNRYUc3bWh0dTVaRnZyNXU3NU1BV1kxVVE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-13T08:49+09:00"
-    },
-    {
-     "title": "プーチン氏、外国軍派遣容認せず ウクライナ和平巡り米特使と会談",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15amgwcVVaWjZEUndieXBMLS1xdExkQWhBVUczV09jc19rdzVGMko3anJYYlFDVmVVeVdEeTQ3OEZVcFdxbWJkVFEtd2dFZDJUV0R1QnBSR193WXg0ZmF1OWNqcw?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-13T08:30+09:00"
     }
    ]
   },
@@ -350,16 +350,34 @@
  ],
  "cyber": [
   {
+   "title": "【重要】システム障害によるメール送受信の不具合について（Microsoft Outlook）",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SVFg4cHVUelZfR2k4MnVpMzU5dHB4Y1hoZ1dodUtWVVEtYl8zNXB4QUNhWVNlMUpUeDZYRF9ZOHJtazUwYWFMNUMtbnhPQWozOXpocjhXMWxxNHdYa3c?oc=5",
+   "source": "児童健全育成推進財団",
+   "at": "2026-11-13T12:00+09:00"
+  },
+  {
+   "title": "マイクロソフトのシステム障害 広島県内にも影響",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0SkZXaUlCMTN4VHEzaEtsTEIxN3E5dFY3TXhCMzBQcUlOLVg4cWt4cGdHYm83NWFDX09hUkJ0RlZkN0REamNGOGZPUEZMdm5HWHh4Zm4tb09QVWZlTkxDeEhWcHEwUW9KNGRJQkJn?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-13T12:00+09:00"
+  },
+  {
    "title": "「会議で使う予定だから困る」マイクロソフト大規模なシステム障害 鹿児島県内でも困惑の声",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0xBa29GU3otZmxwTDNrSkJzdS04OUx3eVJ3TDdoa3daRl9zVC1FSktGNUJfSXBGOS11MVRVN3Q5QTdvWTNxYXpkdFZOY2dNbVp5OW5MRE01YjBMQWZCdWlUaVNPZ0JTVnlXWUdzOUxnNDJ3cXFjSnQ2YU94NzVoUzVuN0YzTXc?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-13T11:55+09:00"
   },
   {
-   "title": "富山県庁「電子メールが使えない」 マイクロソフト通信障害（北日本放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pSW5yajRjamRUY1JQUHUyVEhXTTVlbUZNQWRXdExrdC1FUW1uNkNRSXhKSVM2eXd4WWxHdUl1akl5bWFVTGU2RXk3QmwwU1lWd3NKWTF2SVJaTmJ4OENILXNFdUF6ZVlVVFJiN2VXRHJhN2NnYnVhb0JnNWxudE0?oc=5",
+   "title": "富山県庁「電子メールが使えない」 マイクロソフト通信障害",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mdERpbExLMTl4NFZENEtKRDh3YjdRVFA1dmg5ajkwRzVMeGRTdDVDamxPRWRSWmVnX2tsWWlXTjR4Q2h5R1A4NjVoZHZVR1dlZ0xMc0FBamNJd1FCTi1BS1FoaEpuSFBjMmxIa3RR?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-13T11:54+09:00"
+  },
+  {
+   "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IV2tIenlTMXNlNHpsSUF0cUxLN2hXVDc3QUJabGpVLWN0UjU2UE45TDl6MGRfM2l2WEZVY3RSdERKVm1CaUZfQlREQlVVS3lUcWt5YnFtdGNYRVV6c2xJdklsSnFSaGVKaUk4dVFseTRWRVBTdUM5ekE2YkRiR3c?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-13T11:53+09:00"
+   "at": "2026-11-13T11:50+09:00"
   },
   {
    "title": "「FAXでお届けする」長妻議員の“事務連絡”に国会笑いの瞬間…マイクロソフトの通信障害受け代替手段訴え（ABEMA TIMES）",
@@ -368,7 +386,7 @@
    "at": "2026-11-13T11:45+09:00"
   },
   {
-   "title": "ANA、予約システムの一部に障害、予約できない場合も 電話窓口も混雑",
+   "title": "ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qNWlKYlZ3NFdqOTVoWndBcnd6WkM1TXFTX0ktdU0yX2YyQmZ2Skw0LTZIdFI0QzI3MGU1OEJrOW9IUG5NTS1KVzJET0pXVFZraUpPWjNhUFgtOElPeFM5dUw2ZDZHRnlTU3c?oc=5",
    "source": "ITmedia",
    "at": "2026-11-13T11:40+09:00"
@@ -380,10 +398,10 @@
    "at": "2026-11-13T11:30+09:00"
   },
   {
-   "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmlvclpNM0RMVURtSVllMHh6YkpJdkt1OF9rZnZuLVNlNkJHaVhub05mRUxuUl9WamVocGVJRGwxSEJDT1BPbXJKY1JZbE5MVWNtcEp2d25jMG5kN2pMbnhBcWxTNVhNcVRhYnFGbWppamszSFZ3LTZpdUIxbXkxa9IBhgFBVV95cUxNOEpRS2RKVjN2LTg1LU1vTEE5NnZMSV9PX1lXMmpxMm9IWFBtY2N5dHpnMzRyR3UtNTNadXJURFh0NndteFhCakllbVIxSlljcmxYLWlyTGNmWGswQnplU2w4TTdxMGJsbmxrdkZyQWpkUzlzanlONVp4aGtqY3BCdllTNjFQZw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T11:20+09:00"
+   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-13T11:28+09:00"
   },
   {
    "title": "メール不達などのシステム障害について",
@@ -416,28 +434,10 @@
    "at": "2026-11-13T10:23+09:00"
   },
   {
-   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-13T10:13+09:00"
-  },
-  {
-   "title": "【重要】Microsoftシステム障害によるメール送受信・一部業務への影響について",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IeTl4cUNWSUJVd2RteWZOSC1GMWRHcktJbnoyUmlhamMyeV9HeVhzOFhJa2c0OXNsWEhSMC03LU5HTGwwVlRxTmpaMkNPNDY1ZU1BMVR3?oc=5",
-   "source": "中央学院大学",
-   "at": "2026-11-13T09:39+09:00"
-  },
-  {
-   "title": "カラコン通販「Appeal(アピール)」、メールアドレス3万8,904件が情報流出 データX経由でアララ「repica」の不正アクセスが波及",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV01qbks0Q0dMb3EwRnE2NWhSNXNqUFNjbkhscDh0NzhZTmV1TERMd2pmYTIxSnNtNTJIRjVueDZoa3NEYlcxWnVQOEljNDkwVkZGZTVPeUMzanJzM2VnUTRBeTVMdnFta2pCRHh2WmNqQmRsVjR1cGkxeExnTTdmX0d4cjZGS1M1ZlQtT2JSSHBaMElqNE4xWkxtcmtfY0xxMXlrbFQya2Q0QQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T11:50+09:00"
-  },
-  {
-   "title": "宝くじ公式サイトに不正アクセス 4436アカウントに被害",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zM1lZX1ZLZTRiUFg1czdNalhyQ3pWVkllY1BraGtzcFJRQWhpUnVqcnpkdDBEci1xdHdLWXJyVnpySGY1UGtwbnRzZThTUC0zRXk5SWU0OFVGZ2RuNlM0ZFhCTlc?oc=5",
-   "source": "Impress Watch",
-   "at": "2026-11-13T11:38+09:00"
+   "title": "不正アクセスによる個人情報の漏えい等に関する注意喚起",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWFNVnNjeWFBeTFKVkd5dDZ2MHF5bFFyRUNQeTVZUmFoejFzNXdnMG1NbHJtRmxsZ2pweWljNk1CdVM1bURMRzRyRTQ5ZlNQeVUydy01clI0Q0ZBejJCa29QckszLTZsN2dDZVR2YmZ4b1FTMDNDRTVjYnVycWo1bDYtcExoZ2dGMHJjc1ZqVQ?oc=5",
+   "source": "鹿児島県公式ホームページ",
+   "at": "2026-11-13T12:12+09:00"
   }
  ],
  "osaka": [],
@@ -499,6 +499,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "ウクライナはフィンランド湾でロシアの軍艦を攻撃した。12日（現地時間）、英国BBC放送によると、ウクライナ国家保安局（SBU）はバルト海沿岸のロシア石油輸出港であるウストルガを狙った大規模ドローン作戦..",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kSlk5MExvQWZGM1FCNDZaNjBsaVZHQ3A3MTlFV3JJN1A4aF9JT3JQWHFIRTg1TDVyVGwwX1dEeVdva3VFU3FRZUdWWERQcTA?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-13T10:50+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
    "source": "Yahoo!ニュース",
@@ -541,13 +548,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "プーチン氏、外国軍派遣容認せず ウクライナ和平巡り米特使と会談",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15amgwcVVaWjZEUndieXBMLS1xdExkQWhBVUczV09jc19rdzVGMko3anJYYlFDVmVVeVdEeTQ3OEZVcFdxbWJkVFEtd2dFZDJUV0R1QnBSR193WXg0ZmF1OWNqcw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-13T08:30+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "トランプ大統領「イランとの合意は不要」　交渉主導のバンス副大統領に“国内の腐敗問題への集中”を指示",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzJnWl9rQW9UXy1BUjJPMDZ5U1JSOUZ3MzVBUFlrUFd1c0NVd2V3d215bUlhc0VIUVI2VHhkaTd3aUsxZ3pKYTNtc3gxODF0d0dGR0U4YjV1dFNBcjhyUHNsS2hyVmJDMmNNamc4STVnTDF5Y1MzcWQtQ1ZHSkR4RWlRemtKdDBENUNZeXkta19sa1BCa3ZTcDUwNUVwUl9HSmFFTHl1NDRvT3BOMHI0emZOX1VYZ2pJQlU2NDBESVNGOFHSAXNBVV95cUxPQkZwMDhaTXRBeWtDekRuaGJuY1pLMlk5SlBXQWNabm9kSUxuSUNOOUZKV0Q1Q1pWRFd0WUsxdXRrb21PQV9VLURoUmt6VmZsdGxvMlJ0MmVuSHMwdW9taDdZU25lRHJTWUpYQW5heUN5bUxV?oc=5",
    "source": "ｄメニューニュース",
@@ -587,7 +587,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「「会議で使う予定だから困る」マイクロソフト大規模なシステム障害 鹿児島県内でも困」"
+    "「【重要】システム障害によるメール送受信の不具合について（Microsoft Ou」"
    ]
   },
   "japan": {
@@ -601,6 +601,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「空爆」3件",
     "中国・台湾：「攻撃」1件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
@@ -617,10 +618,10 @@
      "at": "2026-11-12T18:51+09:00"
     },
     {
-     "title": "フランスの駅で爆弾騒ぎ、イタリアでも学校に爆破予告…関与を疑われるロシアは否定",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAycEZndFVEeG85dmVaNHBGc2VscWxXdTlBekxtX0pUZkxKNWFUNzUzS3F1TnFHdTROZ3lhN2RwLWY4ZFgzSHRSdWtSSDBJYmVjSjNhbUdGWkdFU1JYbTZna2w4aGJ5OGfSAWxBVV95cUxQSEFheEpHeEVkT1JTVnFoaUx0MGdiR3Raem51T05TNFhDT0ZkN3lUWUg3OU9NUEVETldkWUthYnNNR2tnb0NFU05mV283Y0RjY3NHN0ctVFlGRDZFR0M5QjBNdmxkN2FmLTVJRGM?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-13T10:01+09:00"
+     "title": "ウクライナはフィンランド湾でロシアの軍艦を攻撃した。12日（現地時間）、英国BBC放送によると、ウクライナ国家保安局（SBU）はバルト海沿岸のロシア石油輸出港であるウストルガを狙った大規模ドローン作戦..",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kSlk5MExvQWZGM1FCNDZaNjBsaVZHQ3A3MTlFV3JJN1A4aF9JT3JQWHFIRTg1TDVyVGwwX1dEeVdva3VFU3FRZUdWWERQcTA?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-13T10:50+09:00"
     }
    ]
   }
