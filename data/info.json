@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:45+09:00",
+ "updated": "2026-11-14T01:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン革命防衛隊、バーレーンの米軍レーダー破壊を主張―米中央軍は否定",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54bVFCQnR4dEZEWFVpd2dZZEY0VHRYclhodXNDR1gwVDllZVVPYXpYczJaZEVubEtlQldQQUdUd3ViRXNLUUhvY1QzNHF6U05yaDZQa3hzQlR5amo5MzNia1QtSdIBaEFVX3lxTFA1aVIyWGl0T25kRjFfU0ctQ3VKc1BCLUh2VFFhMXhFN3lSa25CUkp3N2NIYV9hSlpBclJJblZHeWQtMjBjUDhIUVA1Um92eEVHWnIxa0FYbVNJbVNiN0hwM2J3UWYxcVVF?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-14T00:34+09:00"
+    },
+    {
      "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJYVFsSkhWMTFlQ1diYjV6QVAyVlpYd1RmczFGdjBVbHlhRFdNYURObVNlSHlkZ2k5S1ViN0w1QmFjZUJoLVRWekwzUW4yWFZheEl2UFBzOG15X1NGLWs3N1JtcjRwSldTcjJELUp3X1JjVkJONmdaMDdB?oc=5",
      "source": "テレ朝NEWS",
@@ -117,12 +123,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnLUFTNzIzWk5Qc0ZFeU83OG42eXNlaDNXcWVlQ2FiUUg4UDZ0OXJvajE4Z1RhY1Uxa1BtQk5LNFVDYWp6em9vVlRWVGhZV3RMNUdKaWo2Z3M?oc=5",
      "source": "京都新聞デジタル",
      "at": "2026-11-13T22:27+09:00"
-    },
-    {
-     "title": "イラン革命防衛隊、バーレーンの米軍早期警戒レーダー攻撃を主張 破壊の裏付けは確認されず",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5INVF2eGhHY0IwSDRGbXBpb3lINUZfSmlIZmFfYkpfZi1QNlMyR0U0TEFyZ0hObG82anVCUkc4TlRibndfRnhRRjAwTnRXc1JIYTFqOGQwMUliS2FZaW4ydzFuSE5wcE9BdGc?oc=5",
-     "source": "NOVAIST",
-     "at": "2026-11-13T18:18+09:00"
     },
     {
      "title": "イラン、バーレーンの米軍レーダーを攻撃と発表",
@@ -443,6 +443,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "イラン革命防衛隊、バーレーンの米軍レーダー破壊を主張―米中央軍は否定",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54bVFCQnR4dEZEWFVpd2dZZEY0VHRYclhodXNDR1gwVDllZVVPYXpYczJaZEVubEtlQldQQUdUd3ViRXNLUUhvY1QzNHF6U05yaDZQa3hzQlR5amo5MzNia1QtSdIBaEFVX3lxTFA1aVIyWGl0T25kRjFfU0ctQ3VKc1BCLUh2VFFhMXhFN3lSa25CUkp3N2NIYV9hSlpBclJJblZHeWQtMjBjUDhIUVA1Um92eEVHWnIxa0FYbVNJbVNiN0hwM2J3UWYxcVVF?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-14T00:34+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJYVFsSkhWMTFlQ1diYjV6QVAyVlpYd1RmczFGdjBVbHlhRFdNYURObVNlSHlkZ2k5S1ViN0w1QmFjZUJoLVRWekwzUW4yWFZheEl2UFBzOG15X1NGLWs3N1JtcjRwSldTcjJELUp3X1JjVkJONmdaMDdB?oc=5",
    "source": "テレ朝NEWS",
@@ -520,13 +527,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "イラン革命防衛隊、バーレーンの米軍早期警戒レーダー攻撃を主張 破壊の裏付けは確認されず",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5INVF2eGhHY0IwSDRGbXBpb3lINUZfSmlIZmFfYkpfZi1QNlMyR0U0TEFyZ0hObG82anVCUkc4TlRibndfRnhRRjAwTnRXc1JIYTFqOGQwMUliS2FZaW4ydzFuSE5wcE9BdGc?oc=5",
-   "source": "NOVAIST",
-   "at": "2026-11-13T18:18+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ロシア軍、ウクライナ南部オデーサを攻撃　死者２名、負傷者５名",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0V0NlNwcXpDWi02LXk3cnIzQWowZkU1ZnhkeXJJSjB5VUpCVTBqTmQzR0FqcExtR3ZnUmhKTl9nN1hWS2xNaDhFZE9DQ3Q2YUY0V2F0c0ZPdlBWWTdMY3pfNnNUNVZYT3hBS1hmVXNZM3ZPY0VYclFtaF9ZYWNvUjZYVUY1SEdWVkJfNVN2bVBTRlZmLU15UWJnU09LWHE0c0Rmd1BBUnY2Y1djYkFoc3ZZcTNia1HSAbwBQVVfeXFMTmxRM3ZKbVBtejZjbUFjcFV6cnZkWUtPU2VibURFckZ4VTAtV3dqWm5zSVloaHR2bWlENVY0NGt1Y29TWmZseElFWlQ2WFdET20wanZLdmhSaFhPOC1PTkQwSG1UTUxtZDA0RmQ2b1ZiOHcxcl9PcldKZWdqeDdwRk96ci0wT3Y0QVkybkhIVHdiYlIyNHV0WkhGQmMyRzVSSEczREhnRFRhV0xydlNKRUtCWmJWeUM1TkQyczg?oc=5",
    "source": "ウクルインフォルム通信",
@@ -600,7 +600,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」5件",
+    "イラン・アメリカ：「攻撃」「報復」4件",
     "北朝鮮：「攻撃」「ミサイル」2件",
     "ロシア：「攻撃」「空爆」4件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
