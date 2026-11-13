@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:00+09:00",
+ "updated": "2026-11-13T15:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -185,9 +185,9 @@
      "at": "2026-11-13T14:58+09:00"
     },
     {
-     "title": "北朝鮮外相「核保有の意志は絶対に不変」…G7の非核化要求を一蹴",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkliWThsQmVISllsM0hIR3hheVpxemxSbGtZMkFOc1dLZXN0cGRkQXlXTDBZRHFyVkdYdE1WUnRMRk05TDNPNGp6UUNWV05ycHZjQ2pSYU5qNFFuaDhLdkF5WnFBY3JRcHlNZXQwcVprRXlEVi1tdnpaYm8ySGtLd0hvSG9iWjjSAYwBQVVfeXFMT2pQQ2ZkMHgwUVVvYVVDb0MwTXRzVDc4ek9Bdm1vY1VIaGZYelMtWDVtQ1U2aGhuRENiR1hpYV9hRnlMQXFZMHpQRk9hQXJKSzhEZ1Z2UnFndzMzSW02Y1hfb1hMVk1EY2JrNVNnWkVzSHFuemdXblc0Y1BsXzFTdHhKQmU3RVgydC0tZXk?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "北朝鮮外相「核保有の意志は絶対に不変」…G7の非核化要求を一蹴（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXWGMxRTlUbGx1RkdkYVhneUxJN1ljTzlucUs5bWJlMTFkUnJXU0VjaUg3VWplX3FIVFFPYy02dmdDWU5wcHZXTzd6UWstem92aWJjQW1OSkpsRmdnUk9lM2VMMVp2WE9vZVBwVjZHSDcyb0FTX29YN2s3MXZ0N0U?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-13T11:37+09:00"
     },
     {
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "【解説】アメリカ・ロシア・ウクライナ 高官協議で進展は | キャッチ！ キャスター記事 | キャッチ!世界のトップニュース",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFhxOUlUREIwQkVCVnlyNzZYQU1pamFmaU1WdWZ6d2Niak03UVJ3dVoxa09WVjlrYTFsUGJEMHJtR2ZDeHNFUkhIaENzVVFSQzdNWkxtZWhST1YxVFlpQWxEbGxma1RSdXFCakNvMDA4Vi1OSW0zUDhXa0pkdlEySzEzVE9JTVpaaEQtZWVLc3o2U3c?oc=5",
+     "source": "NHK ONE",
+     "at": "2026-11-13T14:22+09:00"
+    },
+    {
      "title": "ウクライナのStarshieldに再度の速度制限、「ロシアからの攻撃を阻止できない」とゼレンスキー大統領が報告",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS05JS1NCWVhvY191eThkN3JzV2JHUmRULWxEc2tFNkQwTzRkSG56M2h6Mzl6TUpsaWtmZlNhTm9QdVA4UzBqWnlrbGlzWURMR0Y4aTBoMzZ3bzlhWVJzVE5Ka2lXb1VjRWdkVnNmY3pwUWFSY3hKMFRYOGJvMkdrWXNqR3lOc2REU0JpQnNsX3h0eVVFT0w3TmFR?oc=5",
      "source": "GIGAZINE",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kSlk5MExvQWZGM1FCNDZaNjBsaVZHQ3A3MTlFV3JJN1A4aF9JT3JQWHFIRTg1TDVyVGwwX1dEeVdva3VFU3FRZUdWWERQcTA?oc=5",
      "source": "매일경제",
      "at": "2026-11-13T10:50+09:00"
-    },
-    {
-     "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-13T10:07+09:00"
     }
    ]
   },
@@ -343,6 +343,18 @@
  "japan": [],
  "cyber": [
   {
+   "title": "【重要】Microsoft 365のシステム障害に伴うお問い合わせ対応についてのお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13X3AyOHdrM05hMUZtemJWYl8xM1FwWTlPSGdWMWZRZURVU1VSazlKenhkdUlBY2FDRG9MUXR1M191YkJzZUhYdzNxSnpxX1JSei03bTBGN0s1ekNMZnZMQw?oc=5",
+   "source": "東京財団",
+   "at": "2026-11-13T15:00+09:00"
+  },
+  {
+   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-13T15:00+09:00"
+  },
+  {
    "title": "ECAD ソリューションズに不正アクセス、9月末からシステム障害続く サポート・ダウンロード機能に影響",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXZJX3lZcG9lR0M4V2lHN0hHWXN1b0hoT0UwWU5rYVNRdFVZMUZzTU9KSmZJY2xjMS1hbHpmNl9zNS1hTThJbjdqUWJVLUQ3QzRlaFlkd2dQNi0zaTZZV0ljSFg4Q3EwLXVab3Z3ZWdnVlhEUzcwSVpmNDlKZGFDWUg4Rm53UlhaakhaZWR1T19QMWhVa2dFNm5ya2FSeW1Vc1JrajVNVks?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -403,34 +415,22 @@
    "at": "2026-11-13T12:15+09:00"
   },
   {
+   "title": "大阪市、「行政オンラインシステム」利用者のメールアドレス１０７万件が漏えい…アララ不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rM0JaQkJvMnNkRUJGbnBjWEhKQWU3ODlWSERLU2NHVmprUE1pSFc0MXZoelVHVXJPVGtmNFpwZUljMnFCVkF1ZkJBbWYwSUNZVWRDWmlFcVlpYmhleVAydDd0ZDJSSkZZMXp5ZjBR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T15:07+09:00"
+  },
+  {
+   "title": "公益財団法人合気会への不正アクセスでハッカーがサイバー攻撃とデータ摂取を主張、8.2万行のSQLデータを独自確認",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFlJTDhGZk9vZEFIcVBpanFmNzdNT2loejhvNUQ4VDBXT0tvaE9KZUFHTmdReWplTkI0VmNMX3VEdFZhRjJrWkxFQkNTdTNhNWNzcDM0OXgxcHp4YnRQSFMxQlhaMmRjdFlpanBHbmJ0SHU2TF9RTzJ1XzFfWHJiRFgzQzdpcF9JT0llSXhhSlB5ZW15T0djU0tzaw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T15:00+09:00"
+  },
+  {
    "title": "阪神が不正アクセス被害を公表し謝罪、野球教室イベントの応募情報流出（スポニチアネックス）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cTJDeGp2aWNpNGZ2ZEx3WVVVZVl2T0JuWXVCSlNXYUNvZ25mUFBiNkxXS2trWHd6UF9OamFROHo2VnFWSnhrN2c5UXFfa2pJeTRTZE1GV3JuTkx5TERYLV9BWjMzY3p4LUQtYzhoZzhpdjA0THRKNkVrbkJyTGs?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T14:56+09:00"
-  },
-  {
-   "title": "レイヤーエックスCTO、サイバー攻撃「受ける前提で社内訓練を」",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WHIwN19IbkV1VTI5a1dUZWpYWkpOT2RCWEpZT0h0eHFUc1VDcjFYeEtTR0pJMEZwWEx6UUlPWVR5b0MwX2JmSUhrT0EzbXNndUZYeWFpa0xsRFlPS1dINFR2Smhlc0c2X1hIeA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T14:44+09:00"
-  },
-  {
-   "title": "阪神が謝罪 野球教室イベントの応募者情報が不正アクセスにより外部へ流出 最大155件が該当 現在は二次被害はなし",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5d2RCVmNkRlZvVDFWVGFySjlvS0VLS1RzZ0ZScEhWSmZVMlpFbFZJXzl6cHFFX3VOLVpmTXV6R0NZM3Y1WU4tQzNBem5xRWk2Qi1vOWcwV0gyYWJuWE0xbmNDNmlKM3ZBVFNSSUdn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-13T14:32+09:00"
-  },
-  {
-   "title": "Brave group、ぶいすぽっ！など11通販サイトに情報流出の可能性 オープンロジへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNy1CWXh6MjRnV284cVRJTV9wWklSQks4bjI1WHJWZ1BTajR3ZTZ4clB6Rko0bG5vUkNWSTJJTmJUa09QSnk3UGJSbUNMZEI2bzJIdHRGMDVZVzZ3Nk9aemlnX0VyeU5WWVZwWi10azI4eldFMEI3bnZKbUJ3UnJVZ01yd2V3eS1QcFRkbTlrd2Z1dU1mWkV3eQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T14:32+09:00"
-  },
-  {
-   "title": "【サムライ解説】AIを悪用した不正アクセスのパターンが見えてきました〜公開サーバーに対する総攻撃〜",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ea1lJTnpla19mc0x6VUVpNWJlUGl5eDVGd2dESDVrYTFVRi1iT1Itb2FqSzhoYUV0a0dIakVqOFpLVVd4NGpKb3ZxTFpwTkdLdDY4d0lWQ0xRTkZVUE1aZGx4dURoT2xuLXln?oc=5",
-   "source": "JIJICO",
-   "at": "2026-11-13T14:31+09:00"
   }
  ],
  "osaka": [],
@@ -448,6 +448,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T14:52+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "【解説】アメリカ・ロシア・ウクライナ 高官協議で進展は | キャッチ！ キャスター記事 | キャッチ!世界のトップニュース",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFhxOUlUREIwQkVCVnlyNzZYQU1pamFmaU1WdWZ6d2Niak03UVJ3dVoxa09WVjlrYTFsUGJEMHJtR2ZDeHNFUkhIaENzVVFSQzdNWkxtZWhST1YxVFlpQWxEbGxma1RSdXFCakNvMDA4Vi1OSW0zUDhXa0pkdlEySzEzVE9JTVpaaEQtZWVLc3o2U3c?oc=5",
+   "source": "NHK ONE",
+   "at": "2026-11-13T14:22+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "イランがバーレーンの米軍施設攻撃 米のイラン南部攻撃の報復と主張 9月上旬以来",
@@ -520,9 +527,9 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "北朝鮮外相「核保有の意志は絶対に不変」…G7の非核化要求を一蹴",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkliWThsQmVISllsM0hIR3hheVpxemxSbGtZMkFOc1dLZXN0cGRkQXlXTDBZRHFyVkdYdE1WUnRMRk05TDNPNGp6UUNWV05ycHZjQ2pSYU5qNFFuaDhLdkF5WnFBY3JRcHlNZXQwcVprRXlEVi1tdnpaYm8ySGtLd0hvSG9iWjjSAYwBQVVfeXFMT2pQQ2ZkMHgwUVVvYVVDb0MwTXRzVDc4ek9Bdm1vY1VIaGZYelMtWDVtQ1U2aGhuRENiR1hpYV9hRnlMQXFZMHpQRk9hQXJKSzhEZ1Z2UnFndzMzSW02Y1hfb1hMVk1EY2JrNVNnWkVzSHFuemdXblc0Y1BsXzFTdHhKQmU3RVgydC0tZXk?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "北朝鮮外相「核保有の意志は絶対に不変」…G7の非核化要求を一蹴（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXWGMxRTlUbGx1RkdkYVhneUxJN1ljTzlucUs5bWJlMTFkUnJXU0VjaUg3VWplX3FIVFFPYy02dmdDWU5wcHZXTzd6UWstem92aWJjQW1OSkpsRmdnUk9lM2VMMVp2WE9vZVBwVjZHSDcyb0FTX29YN2s3MXZ0N0U?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-13T11:37+09:00",
    "topic": "北朝鮮"
   },
@@ -555,13 +562,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T10:07+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "フランスの駅で爆弾騒ぎ、イタリアでも学校に爆破予告…関与を疑われるロシアは否定",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAycEZndFVEeG85dmVaNHBGc2VscWxXdTlBekxtX0pUZkxKNWFUNzUzS3F1TnFHdTROZ3lhN2RwLWY4ZFgzSHRSdWtSSDBJYmVjSjNhbUdGWkdFU1JYbTZna2w4aGJ5OGfSAWxBVV95cUxQSEFheEpHeEVkT1JTVnFoaUx0MGdiR3Raem51T05TNFhDT0ZkN3lUWUg3OU9NUEVETldkWUthYnNNR2tnb0NFU05mV283Y0RjY3NHN0ctVFlGRDZFR0M5QjBNdmxkN2FmLTVJRGM?oc=5",
    "source": "Infoseek",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト大規模障害 「サイバー攻撃を示唆するものはない」」"
+    "「【重要】Microsoft 365のシステム障害に伴うお問い合わせ対応についての」"
    ]
   },
   "japan": {
