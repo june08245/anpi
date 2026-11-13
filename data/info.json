@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:45+09:00",
+ "updated": "2026-11-13T13:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -343,6 +343,24 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフト大規模障害 「サイバー攻撃ではない」と広報担当者",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xWi0ySnpQazZuQmpaUG5MN2E0MWp0NHNGekJZTFBxNmV3eWh0RUh6Tnk4SkRIdUdCenMtR1QtV3AydDVWeTlCSXdZS1p4OWx5eU1ydEl5YmpCSTF4WDdvdWF5X1h5ODdFbDJSRFBzZGtmTFhuZWc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-13T12:51+09:00"
+  },
+  {
+   "title": "Microsoft 365における世界規模のシステム障害について ｜日本臓器移植ネットワーク",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBwc0lpX1R3SU4zNkVTaDZLVmc5b1RzY21WdG5FN3VpVUpzRjVNb0p2Ynp6ZUZFZkEwaVRN?oc=5",
+   "source": "Howl.Link",
+   "at": "2026-11-13T12:44+09:00"
+  },
+  {
+   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-13T12:37+09:00"
+  },
+  {
    "title": "大規模なマイクロソフト通信障害 愛知県庁でもメール送受信できず",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYkZNbk5YNWVoV0FOMTZXNGpTTDlMZVhxY3RBcUZ0Q0F4R0h4a3R2MVhlVUVvT3BLa0wwX3I0cEJoMkRuZzJYM1MzU2dMRm1NX0tvSw?oc=5",
    "source": "中日新聞Web",
@@ -361,9 +379,9 @@
    "at": "2026-11-13T12:15+09:00"
   },
   {
-   "title": "【困惑】「生活できない」「スケジュールが見られない」マイクロソフトの複数のサービスで大規模なシステム障害",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRndaa3RwMi1iVVlYczhXekx6YjVQamxzVk1jZ0RaYXRWWXk2OHllNWQzMXJ3NEhwZUl5Z3lOeEo5QzU0SUpNN3o3MnF6NExfZGdncE5XaE9jWWdXdUFkd1JJUmFRUmhIbjA4c2ZvaFRiV0VhQ3JrM01iM3ZmTVZHaVppM3lfZ3M?oc=5",
-   "source": "日テレNEWS NNN",
+   "title": "【困惑】「生活できない」「スケジュールが見られない」マイクロソフトの複数のサービスで大規模なシステム障害（読売テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRkFoVTRRZkFZb19fNVdKaHhWOGFvNlRNbVFMb2JGUkd5dmxOdGJCR0tuMXJ6UElKV3A4XzRhWWVOdEctNUpPQjk3ODV4RnNmTURKUllia0F5SDFxZE5kNU1TN1E2MFVZT21xQnFma1ZNZmRSOW5ibEd4M1dnVk0?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-13T12:15+09:00"
   },
   {
@@ -397,12 +415,6 @@
    "at": "2026-11-13T11:46+09:00"
   },
   {
-   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-13T11:28+09:00"
-  },
-  {
    "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iYXUyLUxzdzI1Wm5vVmk4Z09WOVVvU2YxMU04UTlZYzhBX2hObmt1YnA2SV9JSlJEcG1BN1EtSm53LVJVRHNUNFlvNXVMRld4Y0N4ZnA1UFY2R3JZVlgw?oc=5",
    "source": "ライブドアニュース",
@@ -419,18 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xd0UtSVlXM0lyYXpGSlA3YVUxYXZyeFh6WFV2NGQybTdqY2ZfU012NEVtTGhmc2RicU9HNVRTMzhtMk1lWFVhRtIBTkFVX3lxTFBvYndPOHFSTXZ2dGdmanZQODFxOHJRQnYtVkJybGtmdmhhdzBCY09pZDM5YzAtcGxPTkZsVnJrdW1rV0dISl9JQW9rSFNPQQ?oc=5",
    "source": "AsiaX",
    "at": "2026-11-13T11:10+09:00"
-  },
-  {
-   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoMVloNm5lTF94RVI2QUJKLXF2YXhPM2JnNm1VZVhjNElCNU5lbkhZNXJ4QmgxQ2R3WGRPcWNBNXRSc1hkTzhLMWxYemtzRjRVZ2Z1d0NSSUNtSWYySklfd29pVl9NaVV1bFN6VkRtMktWczBQNHowcThR?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T11:00+09:00"
-  },
-  {
-   "title": "ドコモ“つながりにくい”通信を招いた「3つの要因」とは？5G基地局数でKDDI・ソフトバンクに大きな後れ、NTT完全子会社化後の経営判断に何があったのか",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fVy1DNFM3QWUzaWNQZG9yY1VJMkhfdjhrX1ZpNHpHcnc3ak5hNGMzQ2FxMDFkSUNjVWdoMHNpOEYzZy1lbjR3TkJOYTE?oc=5",
-   "source": "ダイヤモンド・オンライン",
-   "at": "2026-11-13T10:23+09:00"
   }
  ],
  "osaka": [],
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「大規模なマイクロソフト通信障害 愛知県庁でもメール送受信できず」"
+    "「マイクロソフト大規模障害 「サイバー攻撃ではない」と広報担当者」"
    ]
   },
   "japan": {
