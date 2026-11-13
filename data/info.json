@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:09+09:00",
+ "updated": "2026-11-13T16:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -156,9 +156,9 @@
     },
     {
      "title": "南シナ海への領土的野心を崩さぬ中国、アメリカと軍事的対立 「国内問題」の認識 防衛研「中国安全保障レポート」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95dDAtWmo4UVVvZ0V0REFqRWlKR3dOQVA4YTF4alNhZnFUa19EbUUyZTdQai1yc2lEeFgwYm5jUzFmeGdkX2NfM0pEY3hoTW05R0xZYzRnSVdtY185V2p3enlZVnN3VktodWlKRm1B?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-13T05:02+09:00"
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckoteEFDZVVsX2Vpb0RvcTVQMjlhQ1cwdWlyaE9MSFhJZ0dJOTJyNEk1ZEd4ODZEZkRJRVNGQVZoc0g5cWJuZXQ2Q1NmUExyVW9YQkdCbjR4VXpBclBiMWstTlJ4U2lDSndFdjdaQ1Atd0p0TG1SWjAtOFVqZFVOLWFOLXY0N1J1VTB4UkFhRGFtbThXVEVScW1uRWV0aEhQWkVTMU0wcXVabHZPeWpxVXFtd0FfMTAzck96VUFqcjBWZlZHY2Uw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-13T05:07+09:00"
     },
     {
      "title": "中国海軍・海警・「海上民兵」が連携、南シナ海で「他国の船舶に対する圧力を強めている」…防衛研究所が警鐘",
@@ -343,6 +343,18 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信など不具合 “サイバー攻撃の示唆なし”",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wUTBMTTVSYk5SSnlldEtFcjBGalVPVTF3UXhNVmx2ZlpxUTlua2d0VmJ3anltelFjNGZldVY3b2l3WGxVeHhYUlpycWFTRUlncnpRcmRJeGZrZTRQRlJjclY2VnBBaC1CTXJ2Wmtn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T16:07+09:00"
+  },
+  {
+   "title": "マイクロソフトでシステム障害　佐賀県庁や西部ガス、西鉄にも影響",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94QlZ1akw5b3ZuSHh1dDd2Q3VQNlJuWGZaS0JqcEFfVERKZzJFMFdXdjQ1bWJVUTRTelJlS0V4UEVHWHhHTkRWejZQYkFiUl82b0o4WmtlNmJELWFyaWh1MFE3RGFxLWRNMGpNYdIBckFVX3lxTE9Sd3l4X3BTeTFXVWVCRnhnaVVyU0l1TXJCVDBqMzh3M05PdDNJZ0ZMazRRTDAzV2J4ZlJBU21MckZER29KN2pEajJGVVFmbzNMRnFGS1lEQTZqYXp1VzZxYzZnb2dyOXRnNXhEMEtqVGppUQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-13T16:06+09:00"
+  },
+  {
    "title": "【重要】Microsoft 365のシステム障害に伴うサポート対応について",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85R3h5ZkN0RmlsMTNsTE1hMlh5dl9STHJGc2N1X3NLRlFpV202SUJ6OWFxTHNHMUw3S3M3QS1HbTNGbVFKbUJPS0RR?oc=5",
    "source": "FUNDINNO",
@@ -356,9 +368,15 @@
   },
   {
    "title": "マイクロソフト通信障害 鹿児島市のメール不通に",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSm83TEVrT0NWUU1DZno1SWdPWm4yS05HLUdDYlcxV1Nld0tPSUN3NHRlZkJ5OXlGRVFUVjRhVWRPYVFOd3ZsN18zTnJ3QWJJU2lPb2RYcHU2cVlzellpamZIb0c3akk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52cmI1MUZiODByQlZMbVZRdkhLUWxKamFqdm9YWnlqdjBqeWFTQTBtN3ZVN1EzbklySWp3SGZxQzlJT0ozX2dETkZPVVMxdHVyTW5YaE1HbmVsRkhwM2t5X040QjM?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-13T15:56+09:00"
+  },
+  {
+   "title": "マイクロソフト障害「サイバー攻撃確認されず」 政府の反応と影響は",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-13T15:54+09:00"
   },
   {
    "title": "米マイクロソフト（MSFT.US）のシステム障害により香港取引所の電子メールサービスが影響を受けましたが",
@@ -385,28 +403,16 @@
    "at": "2026-11-13T15:00+09:00"
   },
   {
-   "title": "マイクロソフト障害「サイバー攻撃確認されず」 政府の反応と影響は",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-13T14:55+09:00"
-  },
-  {
-   "title": "佐川急便、手荷物預かりサービスの受付を停止 Microsoft 365障害の影響",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuN2VaWXBJM21jTTh4dUE1WEM0S01tTUc0UGlRUF95OGRvX1hzSmJneVFGLU9zUWs0MGpwa3g5MWc2LTM2aFFad0tEbUYzTlhYOWc?oc=5",
-   "source": "CNET Japan",
-   "at": "2026-11-13T14:09+09:00"
-  },
-  {
-   "title": "マイクロソフト大規模障害、復旧が難航 世界の企業・政府機関に影響",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObWRSaWc0eEJHMW9OLTZmY2dIRndCNFRORTJlQlNRTHl5WFNCMUZuQXBEa2RkU1pzMlFiM0JVQndmVE1iYmpSZm8wX1pBdmxtUm1od25sQVFXT3pUTWt6YXExVTZ4blM2TG4yR2RhQ2FvaC0tdnliX3R4Z01sSGhKU0xrQmRaMFd3NUFOVlFXa1E?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-13T13:54+09:00"
-  },
-  {
    "title": "GMO不正アクセス問題 顧客補償費用などで約30億円想定と発表",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wX3ZLSmtfckdHSXloMkxZRUtfNEFmeUVVLWtSSnZ4Tk1oRGpYSkdHRnJlMFM4SUNlRzN2VURFaW1mcHNBOVFpS19McUt5NVpYVlQ4cGxsdkVkTlAxcjZB?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-13T16:06+09:00"
+  },
+  {
+   "title": "滋賀・甲賀市の「防災無線」 災害時の緊急情報などが放送できない状態に 音声放送システムに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wUlZacEZSWk0teFhzSU9zZXlPLWNFOVlnUnc2SnczM3hsWEdReFgyVE1BdXZyS1lYVWRBM2w0R2xvOGwxLU1TZ1k5alMta193M3BsRjU3SjdZMlhqbWVzQ2dDRFpodkJYcmFJZlFR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T16:05+09:00"
   },
   {
    "title": "阪神、不正アクセスを発表",
@@ -425,12 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BZ2wzR1ZuSkplaEdzUlRfZ1N5Y1ZyMWFRLVJVMEYxTkpkNW84Zy1HQzljUVRPSV9FYms1RXVNZVNua0trSHQ4cUxIcmh6akduRUJaYTk1TVhZUQ?oc=5",
    "source": "北海道新聞デジタル",
    "at": "2026-11-13T16:00+09:00"
-  },
-  {
-   "title": "ＧＭＯ、不正アクセス影響は３０億円超",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4UFFLblk5bzZyMkRndkdLUXhnd2dRaklSaVNfVkpLaEJHa3czVGlITGx6T2dJYUNYU0xHTENhZEZ5WE5Tb2s2WmZVdk9yQ0tOLUxMSGJXRmdleUp3SUE?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-13T15:54+09:00"
   }
  ],
  "osaka": [],
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「【重要】Microsoft 365のシステム障害に伴うサポート対応について」"
+    "「マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信な」"
    ]
   },
   "japan": {
