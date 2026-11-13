@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:54+09:00",
+ "updated": "2026-11-14T07:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "12日、モスクワでロシアのプーチン大統領（左）と面会するウィットコフ米和平交渉担当特使（タス＝共同） - プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か - 写真・画像(1/3)",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPYkZsd3ZGM1pQTzAzOTRfUkhKTUxpcmxEbGhfRXJUamd3UzRJeUxBNGg3SHBVSXJYTy1PR3V5eXBhVXJCeE5Fcnp1NmF0bFJlTElnUDU1TQ?oc=5",
+     "source": "西日本新聞me",
+     "at": "2026-11-14T06:55+09:00"
+    },
+    {
      "title": "プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HdGRiRW44Q1JRbmd3ZG91MzhsRXlxWml3T1J2VFhLNkN2VjNpR0NLSERobFdFTmV6N1FYRGxJVHYxTmJaZHpkUU5FSTk1RVlNZXVHTFpn?oc=5",
      "source": "西日本新聞me",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0lsTk9ZWlRFT1NfeDZqamRZYzBJcVAzcjU4d0dUQ0hFdnV0WFo1U0hPcE0wYkowVGUzQkZSM2pza0tKNkZYd3NMX2x3ajgxWXY1UkhOSTVCT0tPSXVTeDBsOUkybFowb0VTaG15RkJISUFGM05FRnQwWXVPX21Jb0RQYmxIN3o4ZVp2bU9DdExNSE9JVzhsMC0xNl9EUlRP0gGmAUFVX3lxTE5kUW1CTmF4ZWc0MlpDek5uSHBkLU9NdGlNZ1c0bEUxeEJiSHFxZ29JWVZKZFJDWUgzMHpRWmFjZjZVNmFyMDFTbkJjWWQzbzNJbm8xWGRPc0d2VmdMTFNQMWtlUkJvaTd3b1k1SnB1OUZNV0ZKTHpRRHFCaWV4VVNXOVZMZklydDhfMHpEbG9GR1ZLMjE5SGdKMmxXOEt3Mmxya0o4Z0E?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-13T23:22+09:00"
-    },
-    {
-     "title": "ロシア軍、キーウ州で一週間に10件のDTEKエネルギー施設を損傷",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0cwN2xCMmJ3TFp6SHFuS05YSUlwRDFCMzZQRnNNcmpsakFqYVlnY29hVVJuT21jY2hfb19DeXA3TlhGQUNVVXo2S2s5dG0xaDNQcklwcnhqNG1Eb2Q4SWoyU2J3aTVIZ1RpUnR4N1cwMHZ3WlAweTVCeGZZcjlmajFvT0NjNWowM3dMT3p2Vi1jRUd4RXI0UDBEQQ?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-13T23:13+09:00"
     }
    ]
   },
@@ -343,10 +343,22 @@
  "japan": [],
  "cyber": [
   {
+   "title": "【速報】アメリカ全土の空港で航空機の地上待機命令 管制センターで通信障害が発生",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2NieXowdW1JOGQxaVhrMkZUWGl3em9UZDJJRlhlQUVncmVsOGlfWDJCTXJ0V21YNnNTZ2VkRG1Gc2pBZEZnRHJrMHVUZnBJa1VvOVp3UURKdUJ2SmdDVWtydTN2VmNLYm42WTJlYnZ6Nm5hbm9wU3FKRURIVEJKTUstTkYtVGhlajBGbTBZWmhXMklXdzh1SlFKdmhGOG9NZEtfQW1MaXh4WE5YSGstR1I0cVN3STFQRURXaXZVQjZ2cWfSAXNBVV95cUxOeWlTQ2tTdE9NRGdBeklpRVM0VExzYlJWVmNNVG4tQXBRcTdpQnc4OE5tNW1KZVpCUlhFQWJmWXc3QnMwOUlUdmFzamE5Y2h3WG1ic2NwbERvOXVvb1ppdE93b2FqSmUwbU94azUwZ0lRbkRv?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T06:57+09:00"
+  },
+  {
    "title": "【速報】アメリカ国内の航空機全便で離陸停止命令　通信障害の影響か　米連邦航空局",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdGphOExPVGRDTmtGU24wczBsbENOZnhZZXBsRlNISjNIWXlQUkVoSDQ1RnMzUElZT1k0NVhJNVRDc2plT1VYclFXN0pzV0l6a0x5SGlFTllHSHpqUnlVZTBPT3FhS0RUY3FmYjQzdXRWVWJxXzRSSGhUaTV3Q0VsOWxMVi1uUdIBiwFBVV95cUxOYndXbF9QaFh2NUJUZ1BzcW1hazlmYmc1RnlWa2FONHhteXV0Ml9hSVdhckF1RnI3MUZhQ2c3OGhqUWhWQTl0cW1ZYzJSZG5zbmswaXNSSkhQOVJvWGUzTEg2dERFcFl3Q1M2cjJRUE5BUm9fb1hMcFpqdHhvTmgxX3JWQ3VxUHcwTnM0?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-14T06:53+09:00"
+  },
+  {
+   "title": "全米の空港に離陸停止措置＝通信障害で―航空局",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MYVRUZEN0bEJtWVh2OVNaX09La1ozVTFfODRsZzFVZ0pSLWozSkZGYmFhZnd2b3hORkE5WUJLa0V4YjVMWEMzTGoxWXNuZXZ6bUhNaUpDdlkwaUVTbnI0?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-14T06:51+09:00"
   },
   {
    "title": "全米の空港で航空機離陸を緊急停止 大規模通信障害と当局が発表",
@@ -355,10 +367,10 @@
    "at": "2026-11-14T06:45+09:00"
   },
   {
-   "title": "【速報】アメリカ全土の空港で航空機の地上待機命令 管制センターで通信障害が発生",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EaHV3LVlaVU1qWFpUbFJCV1JrWFRnQUh0bGoyaEUtWmFESnFWM3oxcG5tSWlaUXZRTmdOX2lCVDNlaVpNNVpEZ3VEcV9MeDRGQjBmZjhtbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-14T06:44+09:00"
+   "title": "【速報】米連邦航空局が、通信障害を理由に米国の全空港に対し航空機の離陸停止措置を発令した",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4teFo2Vk5zQ1dVZWdWQ29aTFBBRWFYSDFXd0tvNVBPbXNWQTE0UFFDZkROTjRrdWpWVzR3TXpiN2piZWRrOW8teFFWU01tazdzX1RPRVVIaDNBS0FUMWIxVkY3b3ZvUQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-14T06:42+09:00"
   },
   {
    "title": "ＭＳの世界的通信障害収束へ、アウトルックなど約24時間混乱（ロイター）",
@@ -419,22 +431,17 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxYTlQMnRBTmNiUTF2ZFZOQmo3NE5wUDc0QVlpMHZXUjEtb2x1a3Qxa1FiT24yMnpxOGQzTnluX2UxUW9PYlFBTHRqZ0NPbUM0c09uX0hBTDU4V3JwWXc?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-13T21:05+09:00"
-  },
-  {
-   "title": "マイクロソフトの世界的システム障害、オランダでも業務に影響",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1scTR0MlpWaDFJNkdHUTIzU1Q1OXJqZGVKSEpZanBBNGxxR3AzWFJGT2hwUzI0TjBvV1NWRF9yX2RzSlpWbmhhVmo4STVrR1B4?oc=5",
-   "source": "ポートフォリオ・オランダニュース",
-   "at": "2026-11-13T21:05+09:00"
-  },
-  {
-   "title": "四條畷市、園児18人・職員26人の情報漏えいのおそれ icucoの午睡チェックシステムに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWW1wQW1vdnViV21lUjJkS2c0eFFNMXZuQk94a3ZwQTU4bDBQcmdiTE00SXNaaEVyTUxROW91NGw4dUV6emVPdURuRzhnak5aejdjYnNaZzJ4VDAwY0NTVTdGWkRfd1hENHJpUlRuajRnYUlMcndnT1lDbjNVZzh0QkxTb3RvTkdTeW1zU25ncjQ4OWVyVGpmYmZXbG8zbmk2QmdONXJfcw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-14T06:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "12日、モスクワでロシアのプーチン大統領（左）と面会するウィットコフ米和平交渉担当特使（タス＝共同） - プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か - 写真・画像(1/3)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPYkZsd3ZGM1pQTzAzOTRfUkhKTUxpcmxEbGhfRXJUamd3UzRJeUxBNGg3SHBVSXJYTy1PR3V5eXBhVXJCeE5Fcnp1NmF0bFJlTElnUDU1TQ?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-14T06:55+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HdGRiRW44Q1JRbmd3ZG91MzhsRXlxWml3T1J2VFhLNkN2VjNpR0NLSERobFdFTmV6N1FYRGxJVHYxTmJaZHpkUU5FSTk1RVlNZXVHTFpn?oc=5",
@@ -503,13 +510,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0lsTk9ZWlRFT1NfeDZqamRZYzBJcVAzcjU4d0dUQ0hFdnV0WFo1U0hPcE0wYkowVGUzQkZSM2pza0tKNkZYd3NMX2x3ajgxWXY1UkhOSTVCT0tPSXVTeDBsOUkybFowb0VTaG15RkJISUFGM05FRnQwWXVPX21Jb0RQYmxIN3o4ZVp2bU9DdExNSE9JVzhsMC0xNl9EUlRP0gGmAUFVX3lxTE5kUW1CTmF4ZWc0MlpDek5uSHBkLU9NdGlNZ1c0bEUxeEJiSHFxZ29JWVZKZFJDWUgzMHpRWmFjZjZVNmFyMDFTbkJjWWQzbzNJbm8xWGRPc0d2VmdMTFNQMWtlUkJvaTd3b1k1SnB1OUZNV0ZKTHpRRHFCaWV4VVNXOVZMZklydDhfMHpEbG9GR1ZLMjE5SGdKMmxXOEt3Mmxya0o4Z0E?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-13T23:22+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア軍、キーウ州で一週間に10件のDTEKエネルギー施設を損傷",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0cwN2xCMmJ3TFp6SHFuS05YSUlwRDFCMzZQRnNNcmpsakFqYVlnY29hVVJuT21jY2hfb19DeXA3TlhGQUNVVXo2S2s5dG0xaDNQcklwcnhqNG1Eb2Q4SWoyU2J3aTVIZ1RpUnR4N1cwMHZ3WlAweTVCeGZZcjlmajFvT0NjNWowM3dMT3p2Vi1jRUd4RXI0UDBEQQ?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-13T23:13+09:00",
    "topic": "ロシア"
   },
   {
