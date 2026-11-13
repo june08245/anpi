@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:30+09:00",
+ "updated": "2026-11-13T14:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -107,12 +107,6 @@
      "at": "2026-11-13T12:57+09:00"
     },
     {
-     "title": "トランプ大統領「イランとの合意は必要ない」",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-13T12:57+09:00"
-    },
-    {
      "title": "イラン、バーレーンの米レーダー攻撃発表",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
      "source": "京都新聞デジタル",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvek14eDNRU2hkcTJJM1dSQlNMYXZqSzJveGJGekhLaGJVWHByTGNxRWR5TjRzYmxUOUxLU3dQSE5fOHg5TC1VVXdqSDhKWnJTeUFGOE9DN3Q2ZFUwQUhUVnNpQkI1aDN0U1plSVB3?oc=5",
      "source": "Infoseek",
      "at": "2026-11-13T11:46+09:00"
+    },
+    {
+     "title": "米、６日連続でイラン攻撃 覚書違反主張、協議は継続",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CM3lhZkRiYmoyUVdoYWxHYW0zMnZkOUxjRjhzbC13WjQyVzJIQll3Y1ZKM3NJc1RhX29yV05wc2gwN2ZoSjM0elZNcko1YXEyeUZkejQzT0E5OVdRdmFTYklkY3N0TGltSlo3bnJPZzZ6WE5HV2pzc0E0YkY?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-13T11:09+09:00"
     }
    ]
   },
@@ -380,12 +380,6 @@
    "at": "2026-11-13T13:17+09:00"
   },
   {
-   "title": "マイクロソフト不具合で佐川急便 一部予約受付停止 マイクロソフト「サイバー攻撃示唆する事実ない」（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZ1BtV0JzVHNELVZzeXo0N0JjN1liUVg4UGtUQTkxQkFKTU1mc2NYbXd1WW1VcWJadXFoZnZNM2JDMTNmT1ByM0lsZUh6V1lvZ3NYOE0wZmdzWllMRUlWcHdORlF1LUVuN2tRMGhoaEd6MUdNeFI4b1hWT0RhWXM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T13:14+09:00"
-  },
-  {
    "title": "【速報】マイクロソフト大規模障害 「サイバー攻撃を示唆する事実確認されず」",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45RlZCUGhybGg5ZGNTNVBCZlgzanF2ZVlQWWF5d1JibGJHNVd1V0N0aHVXRXU3RnFmTkxMbHJ4Wml3T2hDOW9vY3REUkhubmhiaDhEaGhrNA?oc=5",
    "source": "TBS NEWS DIG",
@@ -422,22 +416,28 @@
    "at": "2026-11-13T12:00+09:00"
   },
   {
-   "title": "マイクロソフトのシステム障害 広島県内にも影響",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0SkZXaUlCMTN4VHEzaEtsTEIxN3E5dFY3TXhCMzBQcUlOLVg4cWt4cGdHYm83NWFDX09hUkJ0RlZkN0REamNGOGZPUEZMdm5HWHh4Zm4tb09QVWZlTkxDeEhWcHEwUW9KNGRJQkJn?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-13T12:00+09:00"
+   "title": "阪神が謝罪 野球教室イベントの応募者情報が不正アクセスにより外部へ流出 最大155件が該当 現在は二次被害はなし",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5d2RCVmNkRlZvVDFWVGFySjlvS0VLS1RzZ0ZScEhWSmZVMlpFbFZJXzl6cHFFX3VOLVpmTXV6R0NZM3Y1WU4tQzNBem5xRWk2Qi1vOWcwV0gyYWJuWE0xbmNDNmlKM3ZBVFNSSUdn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T14:32+09:00"
   },
   {
-   "title": "「会議で使う予定だから困る」マイクロソフト大規模なシステム障害 鹿児島県内でも困惑の声",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0xBa29GU3otZmxwTDNrSkJzdS04OUx3eVJ3TDdoa3daRl9zVC1FSktGNUJfSXBGOS11MVRVN3Q5QTdvWTNxYXpkdFZOY2dNbVp5OW5MRE01YjBMQWZCdWlUaVNPZ0JTVnlXWUdzOUxnNDJ3cXFjSnQ2YU94NzVoUzVuN0YzTXc?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-13T11:55+09:00"
+   "title": "Brave group、ぶいすぽっ！など11通販サイトに情報流出の可能性 オープンロジへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNy1CWXh6MjRnV284cVRJTV9wWklSQks4bjI1WHJWZ1BTajR3ZTZ4clB6Rko0bG5vUkNWSTJJTmJUa09QSnk3UGJSbUNMZEI2bzJIdHRGMDVZVzZ3Nk9aemlnX0VyeU5WWVZwWi10azI4eldFMEI3bnZKbUJ3UnJVZ01yd2V3eS1QcFRkbTlrd2Z1dU1mWkV3eQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T14:32+09:00"
   },
   {
-   "title": "富山県庁「電子メールが使えない」 マイクロソフト通信障害",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mdERpbExLMTl4NFZENEtKRDh3YjdRVFA1dmg5ajkwRzVMeGRTdDVDamxPRWRSWmVnX2tsWWlXTjR4Q2h5R1A4NjVoZHZVR1dlZ0xMc0FBamNJd1FCTi1BS1FoaEpuSFBjMmxIa3RR?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-13T11:54+09:00"
+   "title": "三越伊勢丹グループ、アルバイト向け求人情報のメールアドレス2,511件が流出 アララ不正アクセスの影響",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTy1FcjdwaHpYUm9XXzRGS0NLcjZzUlVKUGZqNGNJNmpUOXBmV2hrN2VFNzdLYXc2VWZ2Vk01N2dQUjZXZUd5X3BFcTZKb21ncmM2VkQwUnFtV1U1RUJPcGZPWjUzaW1iMzdrMDk4ZlRCV3piN0hOYVpVdlA3dFNFU3FOZXBmTFQ5TXZLWXk5dXdwQ2VVZTVIWXFoeGtoMkFZVGxERUxtcw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T14:30+09:00"
+  },
+  {
+   "title": "マイクロソフト「サイバー攻撃を示唆する事実は確認されていない」（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11X2drdXNtd2hReVRXYkcyZmJhRkF6UmFpNWxMYlFFc3RnTHNJYU1XSEZLUVlpNmpzdjE4MnV1ZVh1bUtSa1dfWU0wNzZ5RkdLWkY1UXFKTXRQemZMd0laVm04Zm9QZVpTMl9yMVpNblRkTFA5Qmt5Vkxxbmc3bmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T14:30+09:00"
   }
  ],
  "osaka": [],
@@ -453,13 +453,6 @@
    "title": "イラン側 バーレーンの米施設攻撃",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ISjI5Xzh0TWxiUHgzeUE1dHlfenBfZ0RrTEJ6QTNvTHdEbjR2NnM5VXBCU3VGWE1BNi1PaFNMeVBldlRPcl9Vb0JPVE4yNE1a?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-13T12:57+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "トランプ大統領「イランとの合意は必要ない」",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
-   "source": "テレ朝NEWS",
    "at": "2026-11-13T12:57+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -541,6 +534,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "米、６日連続でイラン攻撃 覚書違反主張、協議は継続",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CM3lhZkRiYmoyUVdoYWxHYW0zMnZkOUxjRjhzbC13WjQyVzJIQll3Y1ZKM3NJc1RhX29yV05wc2gwN2ZoSjM0elZNcko1YXEyeUZkejQzT0E5OVdRdmFTYklkY3N0TGltSlo3bnJPZzZ6WE5HV2pzc0E0YkY?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-13T11:09+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "プーチン大統領がアメリカの特使と会談 ウクライナ東部で新たな人道支援を表明 領土問題では従来の主張繰り返す",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LT3FHRC1YOHRpT0I0ZkYzTkdGckpDRkUyQlJEbTg3Vkk0NVBxUGtSbmVaTVRER1BNTzAtYXVYQ3A3QjZkYmI2Qlpxa01RSmszUW5panR5LTJJNmp4T0tLNFVaWWZkSXdtQkhYQzdGUlRhM0FWTFFUN28zTTgxX0k?oc=5",
    "source": "Yahoo!ニュース",
@@ -599,7 +599,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「空爆」4件",
+    "イラン・アメリカ：「攻撃」「空爆」5件",
     "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
