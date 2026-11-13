@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:30+09:00",
+ "updated": "2026-11-13T13:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -379,22 +379,10 @@
    "at": "2026-11-13T12:44+09:00"
   },
   {
-   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-13T12:37+09:00"
-  },
-  {
    "title": "大規模なマイクロソフト通信障害 愛知県庁でもメール送受信できず",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYkZNbk5YNWVoV0FOMTZXNGpTTDlMZVhxY3RBcUZ0Q0F4R0h4a3R2MVhlVUVvT3BLa0wwX3I0cEJoMkRuZzJYM1MzU2dMRm1NX0tvSw?oc=5",
    "source": "中日新聞Web",
    "at": "2026-11-13T12:35+09:00"
-  },
-  {
-   "title": "【困惑】「生活できない」「スケジュールが見られない」マイクロソフトの複数のサービスで大規模なシステム障害（読売テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRkFoVTRRZkFZb19fNVdKaHhWOGFvNlRNbVFMb2JGUkd5dmxOdGJCR0tuMXJ6UElKV3A4XzRhWWVOdEctNUpPQjk3ODV4RnNmTURKUllia0F5SDFxZE5kNU1TN1E2MFVZT21xQnFma1ZNZmRSOW5ibEd4M1dnVk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T12:15+09:00"
   },
   {
    "title": "【重要】システム障害によるメール送受信の不具合について（Microsoft Outlook）",
@@ -431,6 +419,18 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZHBvd2s4YW9xNDg1d24yUEVuVUxKR09idlZJcFpIYUVGNlU3eDZyYm1JRHZXSTVQVVhlVzY2VFdwSmY1MDdwMGZrTGhMOGkxSXJTYQ?oc=5",
    "source": "ABEMA TIMES",
    "at": "2026-11-13T11:44+09:00"
+  },
+  {
+   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-13T11:28+09:00"
+  },
+  {
+   "title": "「Qoo10」不正アクセス、個人情報漏えい 「住所の地理座標」や「身体的特徴」も対象の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9raFhlTXBKbWpQZ1lfa1B1QWRocF9ETThrTkl3TDUtN0RFS0g2LUpfX2NuUldCazMtZ3ZJa3NnT2Jod284cGlwX01tSDFSaWRkZ1hpd2wzaWJiYlRST21fYk93MENpREJSOFE?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-13T13:31+09:00"
   }
  ],
  "osaka": [],
