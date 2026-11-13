@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:00+09:00",
+ "updated": "2026-11-13T17:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -233,6 +233,12 @@
      "at": "2026-11-13T16:13+09:00"
     },
     {
+     "title": "ウクライナ軍、東部で攻勢 ロシア軍は首都空襲を激化",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pd1FlcWJVaTd5TFVyUHp1NHdWcVJZbDBOTlhUZVk2aEw3QWVIeU05YUoyVUMtMFhjbTJnMHN0cVFEVDlLWEtWZmdFOUwxaWg1RGh6VXBMV2oxVF9Ja2JzdTczcHlkcEJ1cWJV?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-13T15:32+09:00"
+    },
+    {
      "title": "【解説】アメリカ・ロシア・ウクライナ 高官協議で進展は | キャッチ！ キャスター記事 | キャッチ!世界のトップニュース",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFhxOUlUREIwQkVCVnlyNzZYQU1pamFmaU1WdWZ6d2Niak03UVJ3dVoxa09WVjlrYTFsUGJEMHJtR2ZDeHNFUkhIaENzVVFSQzdNWkxtZWhST1YxVFlpQWxEbGxma1RSdXFCakNvMDA4Vi1OSW0zUDhXa0pkdlEySzEzVE9JTVpaaEQtZWVLc3o2U3c?oc=5",
      "source": "NHK ONE",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tTmlESWhrUnNRUGZTVUFRWm1rSDRfN0I2alFzNUhZMU16N2NTVzBaX1BfVWJ1SGVFRE16cVFodENzMU0xTnNaVE5VMFJXRVB0MEFxOFVyZE9oX2lJS0FRbUYwOWY?oc=5",
      "source": "NOVAIST",
      "at": "2026-11-13T11:48+09:00"
-    },
-    {
-     "title": "ロシアのドローン基地にドローンを突入させる映像公開 長距離を飛翔する兵器には長距離飛翔で対抗（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CeFdxSnJHY0xUUVRGOFgwYnFOaUk2S1Z0Z2ZkamZjZGt2SVFQek9Qd0pFYno5RmNFU01GNjZ1ZUppVGlfVE1Jcndn?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-13T11:42+09:00"
     }
    ]
   },
@@ -303,6 +303,18 @@
  ],
  "nankai": [
   {
+   "title": "【解説】内閣府が南海トラフ地震臨時情報のガイドライン改定版を公表へ「自らの命は自らで守る」「あらかじめ決めておくこと」が有効(放送局のニュース )",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdV8tcG04MEh0RnlyVDNuem9zUnpfaUQtZGtHU1lPTmlWMHoydXQ3N2U3MzVUTnFLVXV5b3VEUlJ5a0Z6TWtEMWhjMkdORlZ5UTF4V1lCRFJBbjh1OE84NC1IRDdyNjREUF9fNFE4ZGV2NXpkTmc?oc=5",
+   "source": "tenki.jp",
+   "at": "2026-11-13T16:39+09:00"
+  },
+  {
+   "title": "南海トラフ地震臨時情報の“ガイドライン改定版”公表 「巨大地震注意」での対応例など拡充…共通編・地方公共団体編・事業者編で再編成(放送局のニュース )",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PZ1V6eFp0b1lieFY2Y28yVVBhWnRBbmtsVnhFcG91WWNHYzVtallBWXR2S0hfNFNwWE1pekFJTzJYYW9kSjhMQ3BveXZSNmZKQUVKWldzalpWb0pHM1AzekFGanNhRXc2RlJYeU5KekJ1OTRUUmc?oc=5",
+   "source": "tenki.jp",
+   "at": "2026-11-13T16:38+09:00"
+  },
+  {
    "title": "南海トラフ地震 被災想定10県知事が防災庁へ政策提言",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOYnpUZzhGcnNXcHRPNFgwTmZyWWpMNHpCVHdrTXJKbFlsT29XYmFlMnB0TG9GbVFaajR4NFlIbFZ3d285UTlQR1ZGMy1hZGY4aWlnYk9hVHJTclYzUHRB?oc=5",
    "source": "NHKニュース",
@@ -325,18 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RTg1QUtYWk4zUkZFWm5qbFAyTkJDVUFCRTcyOGw4b2RCS3NNbWRPcWVkZmNEWkRvUE1OcEpxQ2N3OHI1VjM4TjhmYXVrZjNtZDdFTkVaQ1pUc3hFeFU1RDBRV2NVSWdtb2doSW43dGFydUJjRk5NVURTelc0TnM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T21:53+09:00"
-  },
-  {
-   "title": "南海トラフ巨大地震想定の訓練 九州地方整備局が開催",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ValRFVkRYU1NyNzJra3NxVXBrVkFFV3BORng3MDBON1VYZ3E0enFlVXN2SGhsbC0tX1JNWDhydEt2UFBVWjNQZmszWWhoZ1VFR2preU1YYW5UX29CM3VR?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-12T20:20+09:00"
-  },
-  {
-   "title": "南海トラフ地震を想定した訓練と対策本部会議 被害状況の把握手順や今後の災害対応方針を確認（RKB毎日放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ha3NiWkltZk9tQ3R2cjZwQWo3UjdtNzdrWHRzVVVGelhjSTZKN0t6cmQ1UENpY0FPSk5vY2otUzF6T1gtQmFteGtORDRJSlZ2VGdBUW9FT1luU1loN2J0eFVhNWl2UlU5cGRDMndGM2M3bTZ1TmJFX0ZEc3VrY2s?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-12T18:34+09:00"
   }
  ],
  "outage": [],
@@ -349,6 +349,18 @@
   }
  ],
  "cyber": [
+  {
+   "title": "Microsoftシステム障害による メールの不通について",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tVXl2OUxNQkFSSnR6TFRnWEpaUW5oeXVmaVA3SHV4V0FyWGEyQ1l3V0JDSHJoNmwxWXRlZWNQVnRfaDZNdV9JUF9CU2FELUFvRU5Lb2ViaDYxTU13SnItWG9qU1ExMXFPMU95RA?oc=5",
+   "source": "大阪歯科大学",
+   "at": "2026-11-13T17:04+09:00"
+  },
+  {
+   "title": "【不動産69社】倒産危険度ランキング2027最新版！大手デベも上位に・ドコモ“つながりにくい”通信を招いた「3つの要因」とは？・ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5",
+   "source": "ダイヤモンド・オンライン",
+   "at": "2026-11-13T17:00+09:00"
+  },
   {
    "title": "マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信など不具合 “サイバー攻撃の示唆なし”",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKMGtLcVk0MlN3UGZSZ0c3WEFBbUhqdW5sYWVWS0lGWTdNZlJQbC1pSVY3Ym02eENTLU1GbWZ2ZllJd0tKbHl1eWktSQ?oc=5",
@@ -398,46 +410,34 @@
    "at": "2026-11-13T16:04+09:00"
   },
   {
-   "title": "米マイクロソフト（MSFT.US）のシステム障害により香港取引所の電子メールサービスが影響を受けましたが",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6VjljaEcxenNiS2QxWm50SVJZWnB3UUNWbXVOM0s4bjNSbkt1QjlaLTZhcFV0RmR2WUlvNFJyc0dvR1EzRW01OWhfVkJPZW9yWW1uOHRwZUQ0QQ?oc=5",
-   "source": "Moomoo",
-   "at": "2026-11-13T15:44+09:00"
+   "title": "ロイヤルホテル、顧客のメアド8000件漏洩 アララへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wemFBdnpyOWlJQnViZDlZOTdWamxQeXRINU1kVjJyamVZRmlVNnBzOTNKUkVkd2xDbUtjUlhRMGdyYTRfVG9iQlJqLXlNa25hT2w2Y19YaHVXSzlPYkpjOHlNRE1udkNqZ0ZvbA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-13T17:10+09:00"
   },
   {
-   "title": "Microsoft 365の通信障害に伴う影響について",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YQ2ViR0F2Q3BDQWlzOG00YXlXeGJiYTFiVkZWaFB1TWJmS2RVOV9XSjNNNmxQeDNLUVZhODhtbkhVRWlNVzM4elA1dHNseDVzOHdKUmpTdDZ2bWRYdFlVdkZOQU1JRzAycXBaa0x3MHpUSVlLQW8yVmVJLVQ0dw?oc=5",
-   "source": "茨城大学",
-   "at": "2026-11-13T15:34+09:00"
+   "title": "本学が利用するクラウドサービスの委託先における不正アクセスについて",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFeUV0aEpnYWd3bVY4UXhLUV94YmUtZ3c5ZzBDMG5zMV9qbUxLay1HMHZzSUx5SnljTTBLOFg1S2pnNk12T0xCcHdxeEFzWkNBUWFsYUNwaEw?oc=5",
+   "source": "慶應義塾",
+   "at": "2026-11-13T17:03+09:00"
   },
   {
-   "title": "「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjNTaVdWal9aZ2FTd1VwMXlSdlM2SkJGclp5eF9MZ2xBZTNlNmNmbW5KTkJiYkk2LTVoQWl3M190cktmRjVMQTN6UUpEX1Z2X2RTSENzbDJkTG1HOHRVaFppSWtoUHBSUGxkdDZnSnNkUHVaV2c?oc=5",
-   "source": "窓の杜",
-   "at": "2026-11-13T15:22+09:00"
+   "title": "プレイド[4165]：当社サービスへの不正アクセスに関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aT1ZZWDJYM1lYZVRSd2M4WXNWVnJDcG16eUNFeDYxQmVpaHZjbTgxN25CRmltYUloQmxhZXBsZXctejhTYl9mNkUxU2R6bmNNRUJKVTYwU1VpaDh0bjVFUndtd3ZpSmNXLXc?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-13T17:00+09:00"
+  },
+  {
+   "title": "県提供のメール配信サービスの一部で不正アクセス＜新潟＞",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Mck1jVmZwRk5MTmNuMWtUZjlyd0tXdUZqaW85OFFZbVN5c2lMX2dFcGRxbEcyOHNxS3N5VGcwbFM5TjVvQlVEcFhiLXJudw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-13T17:00+09:00"
   },
   {
    "title": "神戸市アドレス８万件流出 「アララ」不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1teUtDTG9odFJTMHlmbklBS0w3UmJ4U21JY1BLV1Q4WG5hUmxieDdWNjdXaHBpRVFQMTNYRGRDVGpZRTQ5dWM0dVVTX0l0X0VoOWJISXJ3aTNtMWlnVUE?oc=5",
-   "source": "沖縄タイムス社",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBISkUteGFqbVJheVFYVE9KU2VJYkpJM19NZmRnN0NHa08xWEhkdzYtUHpqY21CTG8wbHd1bGRYSjZka0NIcjZiWGEzZW9LR0ZNLVd6UHl2YWd3c0tm?oc=5",
+   "source": "琉球新報デジタル",
    "at": "2026-11-13T16:54+09:00"
-  },
-  {
-   "title": "大阪市、行政システムでメアド漏洩107万件 アララ不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13WWs0NHRrQXVqeENsNU1uVWRpYkNYWHFfSEhoMWgxaWthazV3U19QV3pnTkxDVU5mYzFIZ3ZXNUZNQWNzRW9tUUJXdl9RMF8wUVk1amlEZmZjTEhlUFBUbDh0NEtJVGgzb3ltVQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T16:53+09:00"
-  },
-  {
-   "title": "サイバー攻撃に揺れる日本企業、中間決算の会見で浮き彫りになる明暗 [情報漏洩・個人情報流出の最新ニュース]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icGt5OEh0NEFQa1gtNzVaa1R3NS10cGotU3ZMb1lZYlZOR0d1Zy1lcjJNNkE3dHgwQXk5S0xfMTZmem4yWmxzQldFeVZxZ0lieVZEN1JEajNPWXREUlVkUThRRWdpems?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-13T16:35+09:00"
-  },
-  {
-   "title": "チェンジHDが年初来安値、ふるさと納税サイト不正アクセスと減損60億円で最終赤字転落へ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ucGxKS1FVQUI0SURYaHBUNDEwTDBtQ3VabFVXYnhDR2tLcE5KdThnYUNYck9HcjhOQzFRck9JM2gtN0NUdGU3dDFCXzJNUk1DOHFBajZvU2pEYXlmYzNiU21iYkRadGpwcU1hM1NLelhYYTRk?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-13T16:35+09:00"
   }
  ],
  "osaka": [],
@@ -469,6 +469,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T15:49+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ウクライナ軍、東部で攻勢 ロシア軍は首都空襲を激化",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pd1FlcWJVaTd5TFVyUHp1NHdWcVJZbDBOTlhUZVk2aEw3QWVIeU05YUoyVUMtMFhjbTJnMHN0cVFEVDlLWEtWZmdFOUwxaWg1RGh6VXBMV2oxVF9Ja2JzdTczcHlkcEJ1cWJV?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-13T15:32+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "中国軍の偵察型無人機と推定中国無人機が与那国島と台湾の間を往復（11月11日、BZK-005）",
@@ -541,13 +548,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシアのドローン基地にドローンを突入させる映像公開 長距離を飛翔する兵器には長距離飛翔で対抗（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CeFdxSnJHY0xUUVRGOFgwYnFOaUk2S1Z0Z2ZkamZjZGt2SVFQek9Qd0pFYno5RmNFU01GNjZ1ZUppVGlfVE1Jcndn?oc=5",
-   "source": "乗りものニュース",
-   "at": "2026-11-13T11:42+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "日本共産党の山添 拓議員の「死の商人国家」発言に問う-防衛産業は国防の基盤、中国の軍拡こそ直視すべき",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmJGdzFPWDZ5SVZ5eVZLVGE2bFFSdktBMjhLSnZiQTB4aXRaclhuc0E3U0c1QTNkbUF1NWN2SGhhSGVkdjNjdmtTZzhrTjF6Q3EwTUdwVWhreXE1Rjg4WmJVaUZnbjM0SjdVRjFDckVydlQ1Q0dZc0Z4SFl0WTdpZWE1MDlvUWZTOU9yYnF2TnM?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -587,7 +587,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信な」"
+    "「Microsoftシステム障害による メールの不通について」"
    ]
   },
   "japan": {
