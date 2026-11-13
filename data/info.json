@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:00+09:00",
+ "updated": "2026-11-13T16:09+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -340,15 +340,26 @@
   }
  ],
  "outage": [],
- "japan": [
-  {
-   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-12T19:12+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
+  {
+   "title": "【重要】Microsoft 365のシステム障害に伴うサポート対応について",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85R3h5ZkN0RmlsMTNsTE1hMlh5dl9STHJGc2N1X3NLRlFpV202SUJ6OWFxTHNHMUw3S3M3QS1HbTNGbVFKbUJPS0RR?oc=5",
+   "source": "FUNDINNO",
+   "at": "2026-11-13T16:04+09:00"
+  },
+  {
+   "title": "マイクロソフト障害 「サイバー攻撃の兆候は確認されていない」Copilot副社長 「不便をかけお詫びする」Xに謝罪の投稿",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFN0RUluMXBBbERaUy1ZMDROTFFTWnU0NHdGa2tYQnJCd3pJUUthNkllOHQwSUVoNnYxZ3c5RjZIc29YTW9EaWlvaWJLYW1kQnpVRDNsaVdpZ3Y2dS1OZGUzd1Nxa0IwTTRjcFg5bV9SQ01EQXZyYy1MOGRjWnVMWg?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-13T16:04+09:00"
+  },
+  {
+   "title": "マイクロソフト通信障害 鹿児島市のメール不通に",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSm83TEVrT0NWUU1DZno1SWdPWm4yS05HLUdDYlcxV1Nld0tPSUN3NHRlZkJ5OXlGRVFUVjRhVWRPYVFOd3ZsN18zTnJ3QWJJU2lPb2RYcHU2cVlzellpamZIb0c3akk?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-13T15:56+09:00"
+  },
   {
    "title": "米マイクロソフト（MSFT.US）のシステム障害により香港取引所の電子メールサービスが影響を受けましたが",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6VjljaEcxenNiS2QxWm50SVJZWnB3UUNWbXVOM0s4bjNSbkt1QjlaLTZhcFV0RmR2WUlvNFJyc0dvR1EzRW01OWhfVkJPZW9yWW1uOHRwZUQ0QQ?oc=5",
@@ -366,12 +377,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjNTaVdWal9aZ2FTd1VwMXlSdlM2SkJGclp5eF9MZ2xBZTNlNmNmbW5KTkJiYkk2LTVoQWl3M190cktmRjVMQTN6UUpEX1Z2X2RTSENzbDJkTG1HOHRVaFppSWtoUHBSUGxkdDZnSnNkUHVaV2c?oc=5",
    "source": "窓の杜",
    "at": "2026-11-13T15:22+09:00"
-  },
-  {
-   "title": "【重要】Microsoft 365のシステム障害に伴うお問い合わせ対応についてのお知らせ",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13X3AyOHdrM05hMUZtemJWYl8xM1FwWTlPSGdWMWZRZURVU1VSazlKenhkdUlBY2FDRG9MUXR1M191YkJzZUhYdzNxSnpxX1JSei03bTBGN0s1ekNMZnZMQw?oc=5",
-   "source": "東京財団",
-   "at": "2026-11-13T15:00+09:00"
   },
   {
    "title": "【情報まとめ】マイクロソフトで大規模通信障害、世界各地でOutlook使用できず 復旧作業「良い結果」から一転「効果出ていない」",
@@ -398,46 +403,34 @@
    "at": "2026-11-13T13:54+09:00"
   },
   {
-   "title": "マイクロソフトの障害は「サイバー攻撃ではない」",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2aktLV0FvSHFzQkkzNzhIaWJBbnBLaUVjUUFQN1VYRUlDZEJlNF94dGVvZ2hPZTZqSGxjcXpUQjdVM2dWUllsRWI0MTdKN0F3M1V3VjRmOGpPaGpES0VmTllib0E3UWJDWVNvak1PcDl3dw?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T13:17+09:00"
+   "title": "GMO不正アクセス問題 顧客補償費用などで約30億円想定と発表",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wX3ZLSmtfckdHSXloMkxZRUtfNEFmeUVVLWtSSnZ4Tk1oRGpYSkdHRnJlMFM4SUNlRzN2VURFaW1mcHNBOVFpS19McUt5NVpYVlQ4cGxsdkVkTlAxcjZB?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-13T16:06+09:00"
+  },
+  {
+   "title": "阪神、不正アクセスを発表",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wT1hlWG1aZXphdkY0cjRyX3draXZlaVVJdW1lMEs3Rlg2R2lHRjRPcEV6OUJzR2tmUUhqR1JRMWZKaG5fdVhxWjBFSzZyN00yYWk3YVo3MkppQzg?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-13T16:00+09:00"
+  },
+  {
+   "title": "不正アクセス影響、30．5億円＝GMOインターネット(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2ZfdUpuSnZlcXdGd25lbW5yMGlCNVlHMGxDU1htWl9ZbGE0ZDJWUE1FV2RJSjVBNEpnaTlQLVNnRTA4MFUzTDVlTVBHZ1RwYzZRd1BQblZrQ1FrWW5qLWNPRWMwbFNMWnNaMC1VeXcwTUpuY2pvV2dlUlkwclNlbEFhT1FFNm8?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-13T16:00+09:00"
+  },
+  {
+   "title": "阪神、不正アクセスを発表 応募者情報流出の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BZ2wzR1ZuSkplaEdzUlRfZ1N5Y1ZyMWFRLVJVMEYxTkpkNW84Zy1HQzljUVRPSV9FYms1RXVNZVNua0trSHQ4cUxIcmh6akduRUJaYTk1TVhZUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-13T16:00+09:00"
   },
   {
    "title": "ＧＭＯ、不正アクセス影響は３０億円超",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4UFFLblk5bzZyMkRndkdLUXhnd2dRaklSaVNfVkpLaEJHa3czVGlITGx6T2dJYUNYU0xHTENhZEZ5WE5Tb2s2WmZVdk9yQ0tOLUxMSGJXRmdleUp3SUE?oc=5",
    "source": "沖縄タイムス社",
    "at": "2026-11-13T15:54+09:00"
-  },
-  {
-   "title": "NTTソノリティ、Notion AIの入力・応答記録が流出した可能性 委託先Fireworks AIへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjMzamRTMGhmUXpFWHNfRE1WdXhhcjBZMWdIRnZldnhtT21rVzFGbllrR1ZjQWtPR2FVMktlZ0F0UDVDTUYzTjdGY2EtYU5ydExWVXhDR0FheXNHWW9paFAyT3YtRnBDZ2N0NDNQeVNFNEpzb0taMG5sQmdub25GTnozS0RUV0VHU2tvV0NsN0hRYV9MaWRaYlhlZ0lyUnd1UXJVWnUtRQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T15:53+09:00"
-  },
-  {
-   "title": "阪神、不正アクセスを発表",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhYVN2TDBBczRrdzlJVWk5d2xNNGxfX1Y3bUdIVWkyTEpJcUd0U0tzOHJJRVpNYVc2MExuSk53VTRFNDROUURTZTNLNnJraGdpSGY1Z201LWU?oc=5",
-   "source": "京都新聞デジタル",
-   "at": "2026-11-13T15:52+09:00"
-  },
-  {
-   "title": "阪神、不正アクセスを発表 応募者情報流出の可能性",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaHB1ZlpxU0Z0cTAzMHM4RkcyQ3o0UVdFVXhmWmhiZ2hfVjhqR0pZcW0zNVZYRzlWZmZ6NllOd01ibF9wOGZGS3JZWUl2aklaX28wb1pLX2VDMmxI?oc=5",
-   "source": "琉球新報デジタル",
-   "at": "2026-11-13T15:52+09:00"
-  },
-  {
-   "title": "アットホーム「賃貸管理システム」に不正アクセス、入居者・オーナーら6,901件の個人情報漏えいのおそれ",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmYwazVyWEtEeWhadk5iTFFjTTVwS3ppXzFyN0VQdVBLNXlQcGE3UVFNNV9kRVp1NUJsM0xKckxTb3FNT0gxc0YzREs5MUR0LVc4cldpZzdOS0xRM09DNDg2bGdodlZSYjRmRWtuZG9WT2RseGpRU1BXQVloT1hnWmtEdmxMTEM0OFhtN2VwbnpRelFST25ial9NZmdEcFh3dlV3cTRB?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T15:48+09:00"
-  },
-  {
-   "title": "Qoo10で不正アクセス、住所の座標や身体的特徴まで閲覧の恐れ 件数は未公表、調査中",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kQUNlSGk0ZWlkb1Qwai1acnhncnZzcVRadnd3dlM2TnI4eDhXcE1PV1BIZHAybng2T1ZBM3lsVWxTS0xJeUlGSFRidlNPZ2lGWGo0?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-13T15:45+09:00"
   }
  ],
  "osaka": [],
@@ -587,13 +580,13 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「米マイクロソフト（MSFT.US）のシステム障害により香港取引所の電子メールサー」"
+    "「【重要】Microsoft 365のシステム障害に伴うサポート対応について」"
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
