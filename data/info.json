@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:45+09:00",
+ "updated": "2026-11-13T17:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -227,6 +227,12 @@
      "at": "2026-11-13T16:18+09:00"
     },
     {
+     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XeXhQS2k1X0haQ0tBdk9UVkpMTFBQQ1R3VFdLRjlsck1IQ1lGTG1mdjNibnNhYktSdEkzRzhGRXpUVUo2TERkUmllZG5iNGktNm1KbkdqbXFBcUZQWlhr?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-13T16:13+09:00"
+    },
+    {
      "title": "【解説】アメリカ・ロシア・ウクライナ 高官協議で進展は | キャッチ！ キャスター記事 | キャッチ!世界のトップニュース",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFhxOUlUREIwQkVCVnlyNzZYQU1pamFmaU1WdWZ6d2Niak03UVJ3dVoxa09WVjlrYTFsUGJEMHJtR2ZDeHNFUkhIaENzVVFSQzdNWkxtZWhST1YxVFlpQWxEbGxma1RSdXFCakNvMDA4Vi1OSW0zUDhXa0pkdlEySzEzVE9JTVpaaEQtZWVLc3o2U3c?oc=5",
      "source": "NHK ONE",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CeFdxSnJHY0xUUVRGOFgwYnFOaUk2S1Z0Z2ZkamZjZGt2SVFQek9Qd0pFYno5RmNFU01GNjZ1ZUppVGlfVE1Jcndn?oc=5",
      "source": "乗りものニュース",
      "at": "2026-11-13T11:42+09:00"
-    },
-    {
-     "title": "プーチン大統領がアメリカの特使と会談 ウクライナ東部で新たな人道支援を表明 領土問題では従来の主張繰り返す",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LT3FHRC1YOHRpT0I0ZkYzTkdGckpDRkUyQlJEbTg3Vkk0NVBxUGtSbmVaTVRER1BNTzAtYXVYQ3A3QjZkYmI2Qlpxa01RSmszUW5panR5LTJJNmp4T0tLNFVaWWZkSXdtQkhYQzdGUlRhM0FWTFFUN28zTTgxX0k?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-13T11:03+09:00"
     }
    ]
   },
@@ -340,13 +340,26 @@
   }
  ],
  "outage": [],
- "japan": [],
+ "japan": [
+  {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信など不具合 “サイバー攻撃の示唆なし”",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKMGtLcVk0MlN3UGZSZ0c3WEFBbUhqdW5sYWVWS0lGWTdNZlJQbC1pSVY3Ym02eENTLU1GbWZ2ZllJd0tKbHl1eWktSQ?oc=5",
    "source": "TVer",
    "at": "2026-11-13T16:26+09:00"
+  },
+  {
+   "title": "【情報まとめ】マイクロソフトで大規模通信障害、世界各地でOutlook使用できず 復旧作業「良い結果」から一転「効果出ていない」",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-13T16:25+09:00"
   },
   {
    "title": "マイクロソフトで大規模障害 世界各地に影響、復旧見通せず",
@@ -385,12 +398,6 @@
    "at": "2026-11-13T16:04+09:00"
   },
   {
-   "title": "マイクロソフト障害「サイバー攻撃確認されず」 政府の反応と影響は",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-13T15:54+09:00"
-  },
-  {
    "title": "米マイクロソフト（MSFT.US）のシステム障害により香港取引所の電子メールサービスが影響を受けましたが",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6VjljaEcxenNiS2QxWm50SVJZWnB3UUNWbXVOM0s4bjNSbkt1QjlaLTZhcFV0RmR2WUlvNFJyc0dvR1EzRW01OWhfVkJPZW9yWW1uOHRwZUQ0QQ?oc=5",
    "source": "Moomoo",
@@ -409,28 +416,28 @@
    "at": "2026-11-13T15:22+09:00"
   },
   {
+   "title": "神戸市アドレス８万件流出 「アララ」不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1teUtDTG9odFJTMHlmbklBS0w3UmJ4U21JY1BLV1Q4WG5hUmxieDdWNjdXaHBpRVFQMTNYRGRDVGpZRTQ5dWM0dVVTX0l0X0VoOWJISXJ3aTNtMWlnVUE?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-13T16:54+09:00"
+  },
+  {
+   "title": "大阪市、行政システムでメアド漏洩107万件 アララ不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13WWs0NHRrQXVqeENsNU1uVWRpYkNYWHFfSEhoMWgxaWthazV3U19QV3pnTkxDVU5mYzFIZ3ZXNUZNQWNzRW9tUUJXdl9RMF8wUVk1amlEZmZjTEhlUFBUbDh0NEtJVGgzb3ltVQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-13T16:53+09:00"
+  },
+  {
    "title": "サイバー攻撃に揺れる日本企業、中間決算の会見で浮き彫りになる明暗 [情報漏洩・個人情報流出の最新ニュース]",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icGt5OEh0NEFQa1gtNzVaa1R3NS10cGotU3ZMb1lZYlZOR0d1Zy1lcjJNNkE3dHgwQXk5S0xfMTZmem4yWmxzQldFeVZxZ0lieVZEN1JEajNPWXREUlVkUThRRWdpems?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-13T16:35+09:00"
   },
   {
-   "title": "GMO、サイバー攻撃による不正取引、補償30億円　見舞金も",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUDJ3TEg1UW9wdURmSkFJRXZ6eGY1ODZJaDZueFhnRk9BUHVOQlNvWlVNNEJVcXBOSTE3d2I3UFVVQmtvTHl4MS1GTnQ1RTZISjJ1QXR3bmpWSUJlOUtVaFJxVGs0U1hWV2hJNDVhT19KZHpEQ2fSAYoBQVVfeXFMUHU2NDk1T1VYTXNKQWtHd19UYXZMWHNtQkNJTEJ0Z21lZWtaeXloUmpvd2ZvWWRndzBFdWFnSG9Ja0F5MWZKc1ROcHM2WFJ0clBZZjV2VmpUSFlqZ2hVMG12ckY4T1NqbWJMcFZ2ZGNwU2Y4dHN3MUhQSTQ0RFBHS2M1SFJYN2ZJZEhR?oc=5",
-   "source": "サンスポ",
-   "at": "2026-11-13T16:33+09:00"
-  },
-  {
-   "title": "和歌山県白浜町のアドベンチャーワールド、チケット購入者ら5,709件の情報流出を確認 アララ不正アクセスで認証・購入完了メールの定型文も対象|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHZ6TjhZb1NfXzFMOUF5d3l0Uk5leDVNcy1UcUs3WGg4WFBFVVNSTnJXeWo5UC16UkhHaG5HVXNHaFVDYnZJeUQ4R01xZTFWSnBhcVB6OVZsRFFfajRDN2hXNUVkTFg5cm5Sdy1KMlFfN3dJQkFYdXNBY1ZNU1R6aF9qU2QxWjE5bzM4OVVjT195UDZGM2x1c3dBZDkya3FMSEZtb2NZMA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T16:30+09:00"
-  },
-  {
-   "title": "GMO不正取引補償30億円　サイバー攻撃、見舞金も",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeExkX2lmb01qM3BkV0sxcW4xRWNzX0QzQkIwUEgweV9IQmc2UW1KVGRIX3JMZHNYNlg4b3ZXTjFXY0U5WXVNaUJyZU9TUmowMEtETVpwemIwcUZwR3JqMmdlNXRWQkNWT1hHMEktVVRYVEdNbmJ1OHBoX1pTeG1JSHJUUGlsN3JEVDctLWp30gGTAUFVX3lxTFBMWXhiX0hXZVUzQnpnd3VzWnVQN2s2MEhhM05obHdZRnowQlpHY1F4cXRVczV4VWdVLWxOb1JVNlo3RWM4R1c3SDdSeHFDekF1SWdKZUs2eTY5bVFMSnVZc3RRdUZmT3E5OURIbVpXVy1fNk5TcDdPWWZ5SzdNeWExN1p6Y3VDVjQ0MGgwX1M3TmxLSQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T16:27+09:00"
+   "title": "チェンジHDが年初来安値、ふるさと納税サイト不正アクセスと減損60億円で最終赤字転落へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ucGxKS1FVQUI0SURYaHBUNDEwTDBtQ3VabFVXYnhDR2tLcE5KdThnYUNYck9HcjhOQzFRck9JM2gtN0NUdGU3dDFCXzJNUk1DOHFBajZvU2pEYXlmYzNiU21iYkRadGpwcU1hM1NLelhYYTRk?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-13T16:35+09:00"
   }
  ],
  "osaka": [],
@@ -440,6 +447,13 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbno2b3BuZ2pBZ1FrdkJhUXdYNXFXLUpaSTFEV0hvdDItWmVaYlVBRlBjZ043TzA4S19IWmlUNUxjTUxXUjE2cGl2Q1FqczRrTTNWdXVORFNIVlUzN3ZFNNIBZkFVX3lxTE85d2ZRNW5PZlpNY1hMWUpYZHVMdjE4VXNtSExWV25NckN6akgzalBYVG1uVmctWERjN29Oa0JYQXNySTg3Q3JoWm1Fa05wdTdlMkp5blM2Q1hvamlRMGhsWHNfS2hjZw?oc=5",
    "source": "BBC",
    "at": "2026-11-13T16:18+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XeXhQS2k1X0haQ0tBdk9UVkpMTFBQQ1R3VFdLRjlsck1IQ1lGTG1mdjNibnNhYktSdEkzRzhGRXpUVUo2TERkUmllZG5iNGktNm1KbkdqbXFBcUZQWlhr?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-13T16:13+09:00",
    "topic": "ロシア"
   },
   {
@@ -562,13 +576,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "プーチン大統領がアメリカの特使と会談 ウクライナ東部で新たな人道支援を表明 領土問題では従来の主張繰り返す",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LT3FHRC1YOHRpT0I0ZkYzTkdGckpDRkUyQlJEbTg3Vkk0NVBxUGtSbmVaTVRER1BNTzAtYXVYQ3A3QjZkYmI2Qlpxa01RSmszUW5panR5LTJJNmp4T0tLNFVaWWZkSXdtQkhYQzdGUlRhM0FWTFFUN28zTTgxX0k?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T11:03+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "フランスの駅で爆弾騒ぎ、イタリアでも学校に爆破予告…関与を疑われるロシアは否定",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAycEZndFVEeG85dmVaNHBGc2VscWxXdTlBekxtX0pUZkxKNWFUNzUzS3F1TnFHdTROZ3lhN2RwLWY4ZFgzSHRSdWtSSDBJYmVjSjNhbUdGWkdFU1JYbTZna2w4aGJ5OGfSAWxBVV95cUxQSEFheEpHeEVkT1JTVnFoaUx0MGdiR3Raem51T05TNFhDT0ZkN3lUWUg3OU9NUEVETldkWUthYnNNR2tnb0NFU05mV283Y0RjY3NHN0ctVFlGRDZFR0M5QjBNdmxkN2FmLTVJRGM?oc=5",
    "source": "Infoseek",
@@ -584,16 +591,16 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
-    "ロシア：「攻撃」2件",
+    "ロシア：「攻撃」「侵攻」3件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
