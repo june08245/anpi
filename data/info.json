@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:00+09:00",
+ "updated": "2026-11-13T21:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -327,21 +327,33 @@
    "at": "2026-11-13T17:15+09:00"
   },
   {
+   "title": "南海トラフ地震 被災想定10県知事が防災庁へ政策提言",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03RDZITVZHQ2oxZEhLaXpfeWFadXV1bGFTejhVYjlLX2xSdXh4SFZpQlpNZ1l2M3pweV9iUTZud201VFNWbmZlV0FJMFJQd3NfVTRhRGo5Ui12TTYwTXY4?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-13T17:03+09:00"
+  },
+  {
    "title": "「備蓄は国が用意しろ」細野防災相の“緊急要請”が炎上…南海トラフ・首都直下地震で「助かったはずの命」が失われる衝撃の想定（ダイヤモンド・オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qV0pNVWxsWmhiSGVDNU1pMFUwTTI1WFBkZk4tRHc1T2Q5ZVRRb3gxWVJNVGRnN1BNeWlrMWxudEVLMmhJQUF4VGRTOTBnSGtzS3RDdHAybDdrcFY1cTNCeVRTMzdPNElCQkh4TEhKeHVqdkg5Vl8wYnVFQkpYbHc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T16:51+09:00"
-  },
-  {
-   "title": "【解説】内閣府が南海トラフ地震臨時情報のガイドライン改定版を公表へ「自らの命は自らで守る」「あらかじめ決めておくこと」が有効(放送局のニュース )",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdV8tcG04MEh0RnlyVDNuem9zUnpfaUQtZGtHU1lPTmlWMHoydXQ3N2U3MzVUTnFLVXV5b3VEUlJ5a0Z6TWtEMWhjMkdORlZ5UTF4V1lCRFJBbjh1OE84NC1IRDdyNjREUF9fNFE4ZGV2NXpkTmc?oc=5",
-   "source": "tenki.jp",
-   "at": "2026-11-13T16:39+09:00"
   }
  ],
  "outage": [],
  "japan": [],
  "cyber": [
+  {
+   "title": "マイクロソフト一時システム障害 「メール使えない」｢会議中止｣改善は？ (2026年11月13日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxYTlQMnRBTmNiUTF2ZFZOQmo3NE5wUDc0QVlpMHZXUjEtb2x1a3Qxa1FiT24yMnpxOGQzTnluX2UxUW9PYlFBTHRqZ0NPbUM0c09uX0hBTDU4V3JwWXc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-13T21:05+09:00"
+  },
+  {
+   "title": "マイクロソフトの世界的システム障害、オランダでも業務に影響",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1scTR0MlpWaDFJNkdHUTIzU1Q1OXJqZGVKSEpZanBBNGxxR3AzWFJGT2hwUzI0TjBvV1NWRF9yX2RzSlpWbmhhVmo4STVrR1B4?oc=5",
+   "source": "ポートフォリオ・オランダニュース",
+   "at": "2026-11-13T21:05+09:00"
+  },
   {
    "title": "マイクロソフトの通信障害 メールシステムなど県内でも影響多数 富山県",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQakJMb3gzSVpUQlRSVXRsRkhkOWluWWktYXROcmtyRE1wdE1ON2dxLXU5d0lFdnlEVkx4VGFDQkF5M3lNOFl6dkRIaWZ2VHJkMmlyYk5iZ0l5aThQS0xYaHNkeFh5Q3Rzd3FMUERB?oc=5",
@@ -373,28 +385,28 @@
    "at": "2026-11-13T19:38+09:00"
   },
   {
-   "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1reHBqb3gyVV9qNExYNFZSRHhVOXczclBVcThrSEg0b1p4d2NZWEZyNlA1dGxJM1pKU01CRVR3Vm9HaHhTRWxLeUNsUFl2MXJFT08tRkoyX2hoUFFvdzRsSG10UQ?oc=5",
+   "title": "読売巨人軍「CLUB GIANTS」にサイバー攻撃、メールアドレス80万7,030件が情報流出 会員情報の追加被害を調査",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcF9yODlJZmpSeDM5XzdJN002azhrYTdmUndDcno0bDhIUmJEdE9MQ1NWcmNUdmMwRWZYdUxCZWVVVHpfeDRCMm9oR3ludUF3LXlvYThXQ00xeEh4djk5ekhJbE9zMXNjaTd1elJTTlZNU05KQ3NXSkVKWllpOTNxOHVKSlI4RmRwQjN0NmN4NGJhaldV?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T21:12+09:00"
+  },
+  {
+   "title": "証券口座への不正アクセス増加＝10月は168件、前月の3．9倍―金融庁(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGNPYlBoSy1laDBBU2stZ1JSQ01pVWVVQkhDOFZxLWZCWl8tTjAtT1lVT0VVN0JLY0kzTzdBdTNUVEEyLVRLWHRJa1FLQThDdi1fQktTOTlQU0Njc09xWUV0RElRbUEyQnpWVERNd2xiX3N5eGJ5ZDVoazRxc2QxcUo3Y2FJSzQ?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-13T21:00+09:00"
+  },
+  {
+   "title": "画像・写真：サイバー対策で官民連携を：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jSXppVm1kY1B4UVA1b3FON21SejVKNDBEMFFFLW9Nc2NlbVhhaWgyUk01X21YaEZPY0dPQ3l3bE9TSTZVeUQ0STJfbi1XTFUwS2Q0eW1uZmZ6bElGQjY0WktxZTA?oc=5",
    "source": "時事ドットコム",
-   "at": "2026-11-13T19:32+09:00"
+   "at": "2026-11-13T20:59+09:00"
   },
   {
-   "title": "マイクロソフト 大規模システム障害 県内でも",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CTWFDeE1kQ0dJQkw2eGdXUnZ6Y285MkpJZ0ZTWmVkdU0tUDh3OVU2V3p1UDZRdjJmbmZxQ081OWI0WWNZYjI3MkRKNFNwRWdxRWFYaENwVDJNTk5oWjk1TVJFOEdYVTV0a0NBZ05nMGpaZzJKQUd1Z185VldmUQ?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-13T19:09+09:00"
-  },
-  {
-   "title": "マイクロソフトの大規模システム障害「改善が確認されている」 (2026年11月13日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBScERDUWU1SndjTjVQY0hCelpoTEZXdkU3eGh1Q182Qk9abFl2T083b2FhMWRjcnhZZzczR1JTSnlKYkhMVzdHbnlDQ3ROYWZ6WmxqX2hJUk5OTExHWEE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-13T19:06+09:00"
-  },
-  {
-   "title": "「改善し始めている」マイクロソフト大規模障害 午後6時すぎから徐々に改善と発表",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KV0NJNkp6c1pRME1LNEduMFAwWXR6a0hkQS1PVElJbEpYcEFCSWwtVnREMEk3MnM4QzFjYThtRkNtaDlNb2ZBdVBnWktQWFY4cW1meWVhSVVRSkNtbDFxMVNMVWZ1Vk5oOThCNHF1QVRRTjRqSTZtYzFn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T19:06+09:00"
+   "title": "◎サイバー対策で官民連携を",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLbF90V2NmOWR6LVlKTE1qN2pCMEdXSnVlSkY3OWhEYTVRSWExVlBSdTV4bURYZ092MGppQVhrQm1KQ2h6UEZBUUhKdEZwaTlkaXZZSQ?oc=5",
+   "source": "時事通信ニュース",
+   "at": "2026-11-13T20:59+09:00"
   },
   {
    "title": "内閣府の沖縄広報事業、不正アクセスで個人情報漏洩か 5973人分",
@@ -419,18 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLQnRoWWxHN3lCc2JWZEtuV0h2ZFhNbEdvWEFjS3A5RFZVc1F6ZVF4ajE4a1haWF9KTGZwNU5Tak9lc1B0dDRZaHBUaHNkWThqTWJmcFZXejRKdG0zNUE?oc=5",
    "source": "下野新聞社",
    "at": "2026-11-13T20:46+09:00"
-  },
-  {
-   "title": "マネックス証券の口座開設システムに不正アクセス、最大約113万件のメールアドレス・1592件の本人確認書類画像が漏えいのおそれ（INTERNET Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EelJ0SEs0eFRsTnpJMXZBa3JzX0hpR0xPckNRM2dzeTBBdlhUNG4tdmlkT1lDa2dULUVJamJTaFJ3WHktOTRiVnduelhubUxOVVBsSnUwcTVodkdTeHFjMHhlakxidkVKcDNCZ3VxLTFFemZCNUdVMDFicUtreFk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T20:45+09:00"
-  },
-  {
-   "title": "サイバー相、ＩＴ業界に協力要請 不正アクセス受け「情報必要」 | | 全国のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XR1BfNWZHdTdwY1BoZFpLNHc1M21rVzVsZWZhYk9RRTNrQTJ6Nl9Nc1dPUmJvYkwtLVIxNi1yMlZkQlNUcThvZEI2UWZCZXI1eUdaeFdR?oc=5",
-   "source": "佐賀新聞",
-   "at": "2026-11-13T20:29+09:00"
   }
  ],
  "osaka": [],
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフトの通信障害 メールシステムなど県内でも影響多数 富山県」"
+    "「マイクロソフト一時システム障害 「メール使えない」｢会議中止｣改善は？ (202」"
    ]
   },
   "japan": {
