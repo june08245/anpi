@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:15+09:00",
+ "updated": "2026-11-13T23:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -161,16 +161,16 @@
      "at": "2026-11-13T06:00+09:00"
     },
     {
-     "title": "南シナ海への領土的野心を崩さぬ中国、アメリカと軍事的対立 「国内問題」の認識 防衛研「中国安全保障レポート」",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckoteEFDZVVsX2Vpb0RvcTVQMjlhQ1cwdWlyaE9MSFhJZ0dJOTJyNEk1ZEd4ODZEZkRJRVNGQVZoc0g5cWJuZXQ2Q1NmUExyVW9YQkdCbjR4VXpBclBiMWstTlJ4U2lDSndFdjdaQ1Atd0p0TG1SWjAtOFVqZFVOLWFOLXY0N1J1VTB4UkFhRGFtbThXVEVScW1uRWV0aEhQWkVTMU0wcXVabHZPeWpxVXFtd0FfMTAzck96VUFqcjBWZlZHY2Uw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-13T05:07+09:00"
-    },
-    {
      "title": "防衛研究所 中国にとって南シナ海はアメリカと対抗する基盤 | NHKニュース | 安全保障、中国・台湾、アメリカ",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzeEFfTmN3U3cxQlFxTmZWMTdRa1dOTUZWT3VEQmVFLWtqeUtzYVlIMGtNQS14YllTMGhQRW9kZDU2Mzd2N0xhdGNQbEJvY3BUUnVLYVZzMmxXMENLTHNR?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-13T05:07+09:00"
+    },
+    {
+     "title": "南シナ海への領土的野心を崩さぬ中国、アメリカと軍事的対立 「国内問題」の認識 防衛研「中国安全保障レポート」",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95dDAtWmo4UVVvZ0V0REFqRWlKR3dOQVA4YTF4alNhZnFUa19EbUUyZTdQai1yc2lEeFgwYm5jUzFmeGdkX2NfM0pEY3hoTW05R0xZYzRnSVdtY185V2p3enlZVnN3VktodWlKRm1B?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-13T05:02+09:00"
     }
    ]
   },
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍のオデーサ攻撃　２名死亡、７名負傷",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0lsTk9ZWlRFT1NfeDZqamRZYzBJcVAzcjU4d0dUQ0hFdnV0WFo1U0hPcE0wYkowVGUzQkZSM2pza0tKNkZYd3NMX2x3ajgxWXY1UkhOSTVCT0tPSXVTeDBsOUkybFowb0VTaG15RkJISUFGM05FRnQwWXVPX21Jb0RQYmxIN3o4ZVp2bU9DdExNSE9JVzhsMC0xNl9EUlRP0gGmAUFVX3lxTE5kUW1CTmF4ZWc0MlpDek5uSHBkLU9NdGlNZ1c0bEUxeEJiSHFxZ29JWVZKZFJDWUgzMHpRWmFjZjZVNmFyMDFTbkJjWWQzbzNJbm8xWGRPc0d2VmdMTFNQMWtlUkJvaTd3b1k1SnB1OUZNV0ZKTHpRRHFCaWV4VVNXOVZMZklydDhfMHpEbG9GR1ZLMjE5SGdKMmxXOEt3Mmxya0o4Z0E?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-13T23:22+09:00"
+    },
+    {
      "title": "アメリカ仲介のロシアとの和平協議 次回からヨーロッパ諸国が参加へ～ゼレンスキー大統領（日テレNEWS NNN）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhOGhERml3Y1FTRHB4UFRQMlZEZnBKVGllaFdXYk5rSnpRcU0yNy1mYWpYTDR5OHhCUlZuSjNmR2R3bmRjX3gwT3Y0eVlGb0txaXJYTjcxZVIyVGhtdmd1d3hfMXJ0QnFtWmhCRWFrYTFUWVRYNFFLUS04U1hRSmc?oc=5",
      "source": "Yahoo!ニュース",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVF90aXZ3U3JQUk9HQ3VnaVBsVlhzb0wwNEFaNFhoSlE0SU0wMllla0dadE5sTE4tM19tMGp6SkxXZ2FqNWtfVmFwNm9MaFJCelNIRVI0MzIxQmRVU3VRODB0UEIyRks4RldkSkJkOFRhSEEzVjhCT3lZMVJOWFRoWC1tVUV2UGpCbmtPUjRHNDQ3RGs4aDk5emJqdnE3dGhGUmp2bU4zLXF0WTJzUmx2Q0taeE1zaFJrbDNlaThuZnVmOVnSAcgBQVVfeXFMTWZUZVhYOE1LVVgybXVGY0ZlV1RsNWd2YUpRMFVkbkNzdTRTSGM3UTVjTXN2MGpsb0s0QU5oeGJMM3pHRXNFNU9kZGVHY3pWcjlfLV9Fa0tWeW9FcERHWFpzYnhYWkZzb0lkbDV4Zno1Z19QdEdkdXhkZ2pUY1VMNG1PcnN0c3FfZUs1N0lYQWRxZlc3dlhfUXdVcUdsWEZ5LTI2ZE0yQm1kU1dBZ0JfU05kMnNlYl9EQnlnNEZYaThWWTdhRUgtWHg?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-13T17:31+09:00"
-    },
-    {
-     "title": "米特使、プーチン氏と会談　その後にゼレンスキー氏とも",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Belk4UF94MmhVR2hWV0tzSUIxXzA2OG9iUzJha1JETzV1QUo5cGxyWEpXbmo1XzJkX1V5Q2RidUNBOXNxMEUyQUFVQTJhdG9hNzBHWHh1YzlQbUd6NDlocdIBZkFVX3lxTE5qdXBNSXQ0R1U3UHI4dVZpb3NjTGVhUXFkejlKMm8tdEtRYlhVQ2RoeFVkSkp4REcyQkdjaUhyeUFJTml2eXdmSDhhTmxjSmVSbGdkYjZqd1RmenM3XzhldUJyT3d3QQ?oc=5",
-     "source": "BBC",
-     "at": "2026-11-13T17:16+09:00"
     }
    ]
   },
@@ -333,10 +333,10 @@
    "at": "2026-11-13T17:03+09:00"
   },
   {
-   "title": "「備蓄は国が用意しろ」細野防災相の“緊急要請”が炎上…南海トラフ・首都直下地震で「助かったはずの命」が失われる衝撃の想定（ダイヤモンド・オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qV0pNVWxsWmhiSGVDNU1pMFUwTTI1WFBkZk4tRHc1T2Q5ZVRRb3gxWVJNVGRnN1BNeWlrMWxudEVLMmhJQUF4VGRTOTBnSGtzS3RDdHAybDdrcFY1cTNCeVRTMzdPNElCQkh4TEhKeHVqdkg5Vl8wYnVFQkpYbHc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T16:51+09:00"
+   "title": "【解説】内閣府が南海トラフ地震臨時情報のガイドライン改定版を公表へ「自らの命は自らで守る」「あらかじめ決めておくこと」が有効(放送局のニュース )",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdV8tcG04MEh0RnlyVDNuem9zUnpfaUQtZGtHU1lPTmlWMHoydXQ3N2U3MzVUTnFLVXV5b3VEUlJ5a0Z6TWtEMWhjMkdORlZ5UTF4V1lCRFJBbjh1OE84NC1IRDdyNjREUF9fNFE4ZGV2NXpkTmc?oc=5",
+   "source": "tenki.jp",
+   "at": "2026-11-13T16:39+09:00"
   }
  ],
  "outage": [
@@ -380,12 +380,6 @@
    "at": "2026-11-13T21:05+09:00"
   },
   {
-   "title": "スーパーや物流にも影響…マイクロソフトで世界的な通信障害（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmRjR1c0xxWEdPQWJTY1MtZU84RXRCbVBBbHVrbDZsVXV6M3lNeEZ5WjdpYmJYY1pLOF9aejVHdnBJV25jVGtyQS1qY3FYMWlvQ2RZUE96c3BnMUdoTEpBVlVvWEhSbGdSdFk0YWFpV0tXU0ZhdU9hMkZMZEVFSVk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T20:30+09:00"
-  },
-  {
    "title": "MSの大規模システム障害が県内にも影響 \"メール使えず\"企業など対応追われる 山梨",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13bjA5WmxuRk1OelRYVXNHNGVVMVQzbVhaSXJNbUVOcjdEUFVUVF90S2xRVzRJcGh2WGVydEczeF9jM0hBQVFjT2Q1eUdiczN6YzRJTV90UTNncW9NME9YdXVUMmFQVmpjQ0dGS3Fn?oc=5",
    "source": "au Webポータル",
@@ -398,15 +392,27 @@
    "at": "2026-11-13T19:51+09:00"
   },
   {
-   "title": "プレイド「KARTE」に不正アクセス、全プロジェクトで全機能を緊急停止 配信も止まる",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwdllEdE9LeTZFWk1UdktiV2dvWVFsNU92ZjdTbUdzR0ZySTk3VU43THFEODhlLTZ4NF9MNFc5Zi1jb2kyZk5QeDcxWGtHWmttcmpJ?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-13T23:11+09:00"
+   "title": "プレイド「KARTE」に不正アクセス、全プロジェクトで全機能を緊急停止 配信も止まる（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80bWd0YmhiNnZob1NhUHVUcDdLVUJzNU9uTEtycmxGTnk5VkJaYmxlNUpnSERHVVFsdi1qNUR5Z3dSbGp2bG53eTIyX2F6aVcxXzFKcWVuSUZCX1hZbzJ6c2tBT1hEa2c4N2g2Wlloa0Z5cHByS3l5YXRtdUVrbHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T23:25+09:00"
+  },
+  {
+   "title": "ホンダ、株主のメールアドレス1741件が漏洩 アララ不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JMk1yYS1TNVBwY0pIWVhfbjJLQnZQWFU4cklzNFVia2M0MG43U2VRMjlXMnFSem9pSE5NRFlTUlNoU0llakdtS1pUQm9pVkhtalQzdUFKUG9ncWdOOS1WN2tOQTVjVXlvSmhiaA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-13T23:19+09:00"
   },
   {
    "title": "証券口座への不正アクセス増加＝10月は168件、前月の3．9倍―金融庁(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHE5MURfTC1wcG1NSi1JQkZ6N1FfR2JZZjhHQ0tfcTFIenlSTE1GN25OV0dFNVc3Vkw0aThuYXZqSHcza2QwQ2VZaGh4ZEdXT3BkR1dXd3NuUnVtbnBhTF9BQklQanA4TFF0elhxTTQwVUpJQTYwdlRubEx5ZkY4MlZEZ1B5dDg?oc=5",
    "source": "Yahoo!ファイナンス",
+   "at": "2026-11-13T23:00+09:00"
+  },
+  {
+   "title": "メールアドレス3万7931件が流出、新潟市のオンライン申請システム アララへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuMU8wWEd3RU9mVUVqVE04RkdKQmpfNE9LVDZHaGNuTlN3TkF5T1JIaFZ5ejJmNXpwSDR6eW9XVi1PTlRjeGhsZ0RDVGRYcjF0ZGRMQUVLel9lOHRJZ3c?oc=5",
+   "source": "新潟日報",
    "at": "2026-11-13T23:00+09:00"
   },
   {
@@ -428,20 +434,21 @@
    "at": "2026-11-13T22:10+09:00"
   },
   {
-   "title": "マネックス証券、口座開設システムに不正アクセス 一部は本人確認書類画像も",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zV093SkItRjluSzY4cDRBYkxDdDdhdVU1RS1VSEJHQ1Nvd0lfRTlJcnNoNURvS1lfWllJZ0pYM2ZuQXcxclFjeWszZldkNVg2czBRaVVJNW8waDc2UXNwOC04d0E?oc=5",
-   "source": "Impress Watch",
+   "title": "マネックス証券、口座開設システムに不正アクセス 一部は本人確認書類画像も（Impress Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fN3VJaXA2YjZrekVHSmRfQ1VoMWtIQzJVR0dxVkRTYUp3Y3BUTjJJOW41clM2ZjZSRDNqWUEyTElYYm94LWp5WGkyMWhGeUVrckpicXJPbFhxb0MxbDJScnN6alF6MEdBMlIwV3Z6Q01MQ3NUdHlfSl9meXpqOE0?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-13T21:28+09:00"
-  },
-  {
-   "title": "政府、セキュリティーの業界団体と意見交換 サイバー安保相「攻撃情報の提供を」",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ya3M2MllpeHRWcUJONDlCbWlzbmdIWEJLTlYtQ0s3NmwxOG1YZF8tcF9jdjJicFhpV0swbEN0eTdkUlpEMFpaekpSX1ZVTkZmNUFZVk1R?oc=5",
-   "source": "ニッキンONLINE",
-   "at": "2026-11-13T21:22+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア軍のオデーサ攻撃　２名死亡、７名負傷",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0lsTk9ZWlRFT1NfeDZqamRZYzBJcVAzcjU4d0dUQ0hFdnV0WFo1U0hPcE0wYkowVGUzQkZSM2pza0tKNkZYd3NMX2x3ajgxWXY1UkhOSTVCT0tPSXVTeDBsOUkybFowb0VTaG15RkJISUFGM05FRnQwWXVPX21Jb0RQYmxIN3o4ZVp2bU9DdExNSE9JVzhsMC0xNl9EUlRP0gGmAUFVX3lxTE5kUW1CTmF4ZWc0MlpDek5uSHBkLU9NdGlNZ1c0bEUxeEJiSHFxZ29JWVZKZFJDWUgzMHpRWmFjZjZVNmFyMDFTbkJjWWQzbzNJbm8xWGRPc0d2VmdMTFNQMWtlUkJvaTd3b1k1SnB1OUZNV0ZKTHpRRHFCaWV4VVNXOVZMZklydDhfMHpEbG9GR1ZLMjE5SGdKMmxXOEt3Mmxya0o4Z0E?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-13T23:22+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "フランス内相：欧州での偽の爆破予告は「外国からの干渉」とみられる",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXpFc3BvVnhhcXExTzVQMm1paUhaU0YxNGJQNHFOZHZIWW5JZkJvenI4dTFwUjN4QXhwY21PRGEtdlp4MHRDUnpJcEVMeVhrZVNNRUQwWmpwTGlXYjYzRHZRRFRwN2c1RXBodlhKTmtsUDRJdmJvbkllVThyT3JNVGtzQ09KWWZQM0ZYdk5XV0lKOTVoeTA2SWxTMGxKOVF2eTBhTThMQ0t1NXBpQng1NzhtOHY?oc=5",
@@ -541,13 +548,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米特使、プーチン氏と会談　その後にゼレンスキー氏とも",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Belk4UF94MmhVR2hWV0tzSUIxXzA2OG9iUzJha1JETzV1QUo5cGxyWEpXbmo1XzJkX1V5Q2RidUNBOXNxMEUyQUFVQTJhdG9hNzBHWHh1YzlQbUd6NDlocdIBZkFVX3lxTE5qdXBNSXQ0R1U3UHI4dVZpb3NjTGVhUXFkejlKMm8tdEtRYlhVQ2RoeFVkSkp4REcyQkdjaUhyeUFJTml2eXdmSDhhTmxjSmVSbGdkYjZqd1RmenM3XzhldUJyT3d3QQ?oc=5",
-   "source": "BBC",
-   "at": "2026-11-13T17:16+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "韓国高官と中満国連事務次長 北朝鮮核やAI問題など協議",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nQUNIU3czcjJNb0dYZTV1bXlyVm1jNUQwbGQ4cFN2NUFFR3NzMzRwMmkzOUFXRXo0bzY0RmZhMU5JOVM0UkdwYkwwYUNOQmhnZFdJSlBSelRyYXZoUDlQNUkyZ2ZIVTlzZzE5SFZMdUVwQUZvXy00T0wzRUNrdkk?oc=5",
    "source": "Yahoo!ニュース",
@@ -602,7 +602,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「攻撃」3件",
+    "ロシア：「攻撃」4件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
@@ -619,10 +619,10 @@
      "at": "2026-11-13T19:00+09:00"
     },
     {
-     "title": "ロシア軍、ウクライナ南部ザポリッジャを攻撃 １７歳の男性死亡、４名負傷",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0hZWG9YbWlLbjc3OWR0VXNhcDRXSzNTZkNyTU9XeEppSjBqdWtfZV9RUWxoYjdJN1pSekhRZTNlQmI2VnZRSUhrOEtQQk1ET0ZJWV9BTnNnZ0pfcHRLbHpuNThBaFJKVlprUGRJUy05X2ZmYU5vbXdpRFdQYXdIYXU4ejZkZ1d5d1NMMFdqdmZlUlRONGRGeEZjTTluUTdIVUh3NDZpbkVxOFpiaksyVkpaYTV6N3NwMzRoOERZZjdKX1pFaThyVtIBzgFBVV95cUxPcWVVRWxHdHZwY3RUOGlhMEpEZ0J0NV9keG9WRE9iLUFtVFptTEswOGdPNnJmMng4OEZ2a1ZzakhTQ2hEeTBScVlZYk53cmRSa2lTWVZRT1BOUThpU0NmZlViek84RkJBeTR3ZWptQ2I2THUzNzJXX0drM2xtLTRReEIwOUsxcmh6b1ROX3paRnRDQl9lMC1BLU9oMWZLYmJ6QWtIVzRvUHNxeDJ4THN5U2c1NlgxdFR4MXd3VXdyYTd6V25nNFNnUm5XeUw1UQ?oc=5",
+     "title": "ロシア軍のオデーサ攻撃　２名死亡、７名負傷",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0lsTk9ZWlRFT1NfeDZqamRZYzBJcVAzcjU4d0dUQ0hFdnV0WFo1U0hPcE0wYkowVGUzQkZSM2pza0tKNkZYd3NMX2x3ajgxWXY1UkhOSTVCT0tPSXVTeDBsOUkybFowb0VTaG15RkJISUFGM05FRnQwWXVPX21Jb0RQYmxIN3o4ZVp2bU9DdExNSE9JVzhsMC0xNl9EUlRP0gGmAUFVX3lxTE5kUW1CTmF4ZWc0MlpDek5uSHBkLU9NdGlNZ1c0bEUxeEJiSHFxZ29JWVZKZFJDWUgzMHpRWmFjZjZVNmFyMDFTbkJjWWQzbzNJbm8xWGRPc0d2VmdMTFNQMWtlUkJvaTd3b1k1SnB1OUZNV0ZKTHpRRHFCaWV4VVNXOVZMZklydDhfMHpEbG9GR1ZLMjE5SGdKMmxXOEt3Mmxya0o4Z0E?oc=5",
      "source": "ウクルインフォルム通信",
-     "at": "2026-11-13T17:59+09:00"
+     "at": "2026-11-13T23:22+09:00"
     }
    ]
   }
