@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:15+09:00",
+ "updated": "2026-11-13T21:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "アメリカ仲介のロシアとの和平協議 次回からヨーロッパ諸国が参加へ～ゼレンスキー大統領",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVcE8wNEtaakVRTEtQNmpFWkx3Q0tXdC1xWVZEVi10Z005clA5UVlRdG5QOF9EeHRULVdkZ0R3Z09sMWRpLUgxaVRSRVM1eXdwdm1vekVseHN0QXlsNExCTlkxeEM1RE9LdjBlM0pn?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-13T21:13+09:00"
+    },
+    {
      "title": "侵略終結に向けた米国・ロシア・ウクライナの交渉、欧州も加え「４者協議」に…プーチン氏「試してみよう」",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByelhpcldQYTJLVHVGZjRPMlJjdHNtYW5kTF9vSTVXbXhpR2VKdXRoRkVvZGQyTWVRRlJzSlJtc3BmUDFsOG1TZGpzUFB4VEVqbUZBejlic1NPYmxfTkp3cW1n?oc=5",
      "source": "読売新聞",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Belk4UF94MmhVR2hWV0tzSUIxXzA2OG9iUzJha1JETzV1QUo5cGxyWEpXbmo1XzJkX1V5Q2RidUNBOXNxMEUyQUFVQTJhdG9hNzBHWHh1YzlQbUd6NDlocdIBZkFVX3lxTE5qdXBNSXQ0R1U3UHI4dVZpb3NjTGVhUXFkejlKMm8tdEtRYlhVQ2RoeFVkSkp4REcyQkdjaUhyeUFJTml2eXdmSDhhTmxjSmVSbGdkYjZqd1RmenM3XzhldUJyT3d3QQ?oc=5",
      "source": "BBC",
      "at": "2026-11-13T17:16+09:00"
-    },
-    {
-     "title": "ロシア軍の無人機落下でキーウの病院一部破壊　患者３名が負傷",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR1p5Mkx5WXk2UGpTRmcwYkw4TFZrWTRXeWpkbUFHZ0xxQVh1cC1rQk8wOUZER25FYkxDeXI4cV9JUENEeWFhM0s1RTY2QjdxNmVhdWE2SUJxVXM3ZFJCOGF0ZWR1VnlVS3d1cjZ6RnpoNmJLWnh4VmZnODRPVGI2MXpJYXc0dmN6a3NoUUVBdkhldTJwc0ZlaWV0OG8yZ0FNT28ybldpcDR3aVNCZDlVanE2UkRRUEJReXNKQlRYZ19MX3FQRlJTNXp2NVV6d9IB0wFBVV95cUxPY1QwbVpjcFRWZGRGdlJtOWpNOEExendwSGwyS1JId1JPRGlYcEw5RTNVN3lxWlRTclBfbF9JUzhfc1h6WTVoM09nXzJ2UWY1QUhpWE1jWkZLT1BJcmNUTFNRWnkwVlZsTTNqazBXSUswVV82cnF1TG9VRF9HeE5vbG5rU0wtNE5KUTNxTmF5WEF3dGU4bnhfYkRiZjFmTmFhc2ZCTVE2YVlDa2I4bF92V0FYVDNtTVpIbE54OTdDS254Q05ZU1l6R1RET1hHOFBaa1BV?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-13T16:53+09:00"
     }
    ]
   },
@@ -304,9 +304,9 @@
  "nankai": [
   {
    "title": "南海トラフ想定、名古屋入管で被収容者の搬送訓練",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vTkxYN0V4RGVhbTczclotcUU2M1g1UXYyNEJPZVpaZ1E1Q1VuWEZpMG5saUxxMmZ3ZjNieTV0QmJiVmFUblRLNmZudVBJZ2lSOWxHaA?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-13T20:17+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yU2c5Q196c0dDZWtMUUd0UDgwSFBTQ0t6cHlObzB0bk51bFN1VEZyOXlGYVJybFpDMFhMdUFwV19BZllwVjdlb0pXUQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-13T21:17+09:00"
   },
   {
    "title": "南海トラフ地震に備える「命の道」 東洋町「海部野根道路」工事現場を小学生が見学【高知】",
@@ -343,6 +343,18 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフトで大規模な通信障害 石川、富山両県にも影響",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JeWZ3bDRGcEZLVEIySUtDc3RHbWNYQjlRVTdVOTJxR2kyZXVjclo2SkNvX082NVFoQWpKbVdZRDhGdzg3NDBuQ0RkX2RPRTVsUThaaW9MYVpNS0ZQWnlqUmFUTFJ3QQ?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-13T21:25+09:00"
+  },
+  {
+   "title": "マイクロソフトの通信障害 メールシステムなど県内でも影響多数 富山県",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WOW5rc2J4clZqXzJ2TERUZUhKTHRqSlpla0QzdHFqWHhnWmg1N0VDdVhkOTU3WmhsTlBMVGRsLUk4ME5XU0tpTGlNRQ?oc=5",
+   "source": "TVer",
+   "at": "2026-11-13T21:23+09:00"
+  },
+  {
    "title": "マイクロソフト一時システム障害 「メール使えない」｢会議中止｣改善は？ (2026年11月13日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxYTlQMnRBTmNiUTF2ZFZOQmo3NE5wUDc0QVlpMHZXUjEtb2x1a3Qxa1FiT24yMnpxOGQzTnluX2UxUW9PYlFBTHRqZ0NPbUM0c09uX0hBTDU4V3JwWXc?oc=5",
    "source": "ライブドアニュース",
@@ -355,10 +367,10 @@
    "at": "2026-11-13T21:05+09:00"
   },
   {
-   "title": "マイクロソフトの通信障害 メールシステムなど県内でも影響多数 富山県",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQakJMb3gzSVpUQlRSVXRsRkhkOWluWWktYXROcmtyRE1wdE1ON2dxLXU5d0lFdnlEVkx4VGFDQkF5M3lNOFl6dkRIaWZ2VHJkMmlyYk5iZ0l5aThQS0xYaHNkeFh5Q3Rzd3FMUERB?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-13T20:32+09:00"
+   "title": "未明から続いたマイクロソフトの大規模障害、午後8時に「一部復旧」",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-13T20:42+09:00"
   },
   {
    "title": "スーパーや物流にも影響…マイクロソフトで世界的な通信障害",
@@ -385,56 +397,51 @@
    "at": "2026-11-13T19:38+09:00"
   },
   {
+   "title": "政府、セキュリティーの業界団体と意見交換 サイバー安保相「攻撃情報の提供を」",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ya3M2MllpeHRWcUJONDlCbWlzbmdIWEJLTlYtQ0s3NmwxOG1YZF8tcF9jdjJicFhpV0swbEN0eTdkUlpEMFpaekpSX1ZVTkZmNUFZVk1R?oc=5",
+   "source": "ニッキンONLINE",
+   "at": "2026-11-13T21:22+09:00"
+  },
+  {
+   "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CNDE5Yzgyb2VPTXZpWnMxT19vRW9Wc21XdEJseThIVVFZWHhjTUhORkV5RUVMbmpLT2tNbE43ME9GX1RMTEJ6LUt5LV9kbTlEZFpRcnE1MDdHVEFnWkhZeE5sM3h5bUU?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-13T21:19+09:00"
+  },
+  {
+   "title": "守秘義務の対策検討へ　政府に情報提供遅れ懸念　サイバー攻撃で",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObUxfaU9hMTVsS1o2WnRQYkdaaGtsN3lURURTNEs0Mzl6YzVLVUdINGQwRzA3ZVF2NG83LTE5SjhYM3dhRDhsXzMybnhmVXJxUGhmNGwzcmtpaGNRTzhBR2xtZC1UNDhwWTh2ajBaUGszai10cXZ4b3YzRk1zNVJhUkVNRDVHSGlsajA1ZE9vRDV4cEpzVnhIV2lEeGx1Ull3UUl3VFhn0gGYAUFVX3lxTE5Ga09KX1RFYmk2LWZ3ZDBvek41N1pzTUQzSUtuUlpRQ25POGg4SXJfMTFMTzFhOWpKY1drVURxX3V5SnY2a0FHMjdDRms0enhKLXRaa0xEVDRDMF9oVks0Zm1xZU9ZMzNEQ3ZJbDNlaWhxYTcyTU5PS2o4SjdsT2F6VW4tTDdJTDFQeFdWUVJQdTZqUF82TFJ0?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-13T21:17+09:00"
+  },
+  {
    "title": "読売巨人軍「CLUB GIANTS」にサイバー攻撃、メールアドレス80万7,030件が情報流出 会員情報の追加被害を調査",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcF9yODlJZmpSeDM5XzdJN002azhrYTdmUndDcno0bDhIUmJEdE9MQ1NWcmNUdmMwRWZYdUxCZWVVVHpfeDRCMm9oR3ludUF3LXlvYThXQ00xeEh4djk5ekhJbE9zMXNjaTd1elJTTlZNU05KQ3NXSkVKWllpOTNxOHVKSlI4RmRwQjN0NmN4NGJhaldV?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-13T21:12+09:00"
   },
   {
-   "title": "証券口座への不正アクセス増加＝10月は168件、前月の3．9倍―金融庁(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGNPYlBoSy1laDBBU2stZ1JSQ01pVWVVQkhDOFZxLWZCWl8tTjAtT1lVT0VVN0JLY0kzTzdBdTNUVEEyLVRLWHRJa1FLQThDdi1fQktTOTlQU0Njc09xWUV0RElRbUEyQnpWVERNd2xiX3N5eGJ5ZDVoazRxc2QxcUo3Y2FJSzQ?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-13T21:00+09:00"
+   "title": "証券口座への不正アクセス増加 10月は168件、前月の3．9倍 金融庁（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUb1NSaUJEX2pqUmxNcm1OTDhYcUJ4R1JGVjJtYXB0UXFPUElCRi1rdzFoZEFVVEQ1dGg3Vk5JWXNGWVhMX2IwekJ6UUs2bjh5MXRsSmJWSjdpMW5uVFV4R05BZmhHQUNQUG1qN29XbmRWRnYybkxwM1AtOUpLNUU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T21:01+09:00"
   },
   {
    "title": "画像・写真：サイバー対策で官民連携を：時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jSXppVm1kY1B4UVA1b3FON21SejVKNDBEMFFFLW9Nc2NlbVhhaWgyUk01X21YaEZPY0dPQ3l3bE9TSTZVeUQ0STJfbi1XTFUwS2Q0eW1uZmZ6bElGQjY0WktxZTA?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-13T20:59+09:00"
-  },
-  {
-   "title": "◎サイバー対策で官民連携を",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLbF90V2NmOWR6LVlKTE1qN2pCMEdXSnVlSkY3OWhEYTVRSWExVlBSdTV4bURYZ092MGppQVhrQm1KQ2h6UEZBUUhKdEZwaTlkaXZZSQ?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-13T20:59+09:00"
-  },
-  {
-   "title": "内閣府の沖縄広報事業、不正アクセスで個人情報漏洩か 5973人分",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94ZVp6cTRYOTl4UmJBNVFPbmRmSjk5MWNfRXEySzZjSWo1aDIyYUVlX2NPMnlJcWphRFZvOXNjTGgzZ2t5SVhDbkJhcEthUXdqM0tJMS1SZ0hCakJscDlPZHFGak45WmlMUXdWeg?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T20:58+09:00"
-  },
-  {
-   "title": "不正アクセス 基本的な対策徹底で官民連携確認 古川デジタル相",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnb0pzeVZlbXdIRHNMMVZfZlF0X1lCV3F4dkltNVdOaE9MUXAtcWZzdFdtc2lXQlJxOEVKOGRyQnNOei1vVjBzWXN0bmNudEtTQk5fTFRoY00tMnhHeVdJ?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-13T20:53+09:00"
-  },
-  {
-   "title": "マーケ支援のプレイド、不正アクセスでサービス停止",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MU1RiQTI5c0gzYUxsR2h5ZlN0cEx1TG11cnZOSWM0bElCZkl1NkkxdWhPMmhNZ2J2bDd2U1QzQjFzY0JZNHNnTjJOaWlJTXV4dEI5VFNJcWZrLXN4eVdXMGVzSVItdk1yMmVfZA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T20:51+09:00"
-  },
-  {
-   "title": "サイバー相、ＩＴ業界に協力要請",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLQnRoWWxHN3lCc2JWZEtuV0h2ZFhNbEdvWEFjS3A5RFZVc1F6ZVF4ajE4a1haWF9KTGZwNU5Tak9lc1B0dDRZaHBUaHNkWThqTWJmcFZXejRKdG0zNUE?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-13T20:46+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "アメリカ仲介のロシアとの和平協議 次回からヨーロッパ諸国が参加へ～ゼレンスキー大統領",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVcE8wNEtaakVRTEtQNmpFWkx3Q0tXdC1xWVZEVi10Z005clA5UVlRdG5QOF9EeHRULVdkZ0R3Z09sMWRpLUgxaVRSRVM1eXdwdm1vekVseHN0QXlsNExCTlkxeEM1RE9LdjBlM0pn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-13T21:13+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "侵略終結に向けた米国・ロシア・ウクライナの交渉、欧州も加え「４者協議」に…プーチン氏「試してみよう」",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByelhpcldQYTJLVHVGZjRPMlJjdHNtYW5kTF9vSTVXbXhpR2VKdXRoRkVvZGQyTWVRRlJzSlJtc3BmUDFsOG1TZGpzUFB4VEVqbUZBejlic1NPYmxfTkp3cW1n?oc=5",
@@ -513,13 +520,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ロシア軍の無人機落下でキーウの病院一部破壊　患者３名が負傷",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR1p5Mkx5WXk2UGpTRmcwYkw4TFZrWTRXeWpkbUFHZ0xxQVh1cC1rQk8wOUZER25FYkxDeXI4cV9JUENEeWFhM0s1RTY2QjdxNmVhdWE2SUJxVXM3ZFJCOGF0ZWR1VnlVS3d1cjZ6RnpoNmJLWnh4VmZnODRPVGI2MXpJYXc0dmN6a3NoUUVBdkhldTJwc0ZlaWV0OG8yZ0FNT28ybldpcDR3aVNCZDlVanE2UkRRUEJReXNKQlRYZ19MX3FQRlJTNXp2NVV6d9IB0wFBVV95cUxPY1QwbVpjcFRWZGRGdlJtOWpNOEExendwSGwyS1JId1JPRGlYcEw5RTNVN3lxWlRTclBfbF9JUzhfc1h6WTVoM09nXzJ2UWY1QUhpWE1jWkZLT1BJcmNUTFNRWnkwVlZsTTNqazBXSUswVV82cnF1TG9VRF9HeE5vbG5rU0wtNE5KUTNxTmF5WEF3dGU4bnhfYkRiZjFmTmFhc2ZCTVE2YVlDa2I4bF92V0FYVDNtTVpIbE54OTdDS254Q05ZU1l6R1RET1hHOFBaa1BV?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-13T16:53+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イスラエルメディア「米中央軍、イランへの再攻撃の可能性に備えるよう米軍に指示」",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENWVNVTZweC1MUzFVRE5tMl9pV05YT0hzS0hrajNXRVdOaF9oUHFPLVVodU5tSmRaOXNZdG5MX3dhUXcwWUlXNkxXeGotSVcwbjc1eDJfWFRUbFk?oc=5",
    "source": "TRT 日本語",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト一時システム障害 「メール使えない」｢会議中止｣改善は？ (202」"
+    "「マイクロソフトで大規模な通信障害 石川、富山両県にも影響」"
    ]
   },
   "japan": {
