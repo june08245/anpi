@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:30+09:00",
+ "updated": "2026-11-14T03:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "韓国側を向く砲口 北朝鮮 軍事境界線に自走砲",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZMlY1OGgzZ3FnV0k1NS1ZZThtM2ZiNkVaeXR5cEx4VG5mVnFkN3Z0eVEzWE14QnNKNGNEZ2hvdFh0Y0VjU0JYS2RMQ3BTS2Q0QzB1aW1MNmh1ZmdlSGIydGxqSnpvNVpl?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-14T02:01+09:00"
+    },
+    {
      "title": "脱北者が語る「北朝鮮軍サイバー部隊」 ネット黎明期に金正日総書記が創設…中学から選抜しエリートが部隊へ【news23】",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vZkg1UHlBTWlWdFNiTnR3VW5jOThMRGF4ZjJPYVROMUdEQ1E0T1NHWTNKSjREa3o3WmdOdWM3dENrUzNmYkNYWU5IVWdINFpzVFZuVGc3bw?oc=5",
      "source": "TBS NEWS DIG",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsZ19EWGdobzN3ZjNzY1JqYUZMcUsyck1Ba0wydEJ3c1Q5SkV1NkVZdlVqbGN1N2FHQ0Fjenk4RkJiNkprQUhtWlBWLVlDNDZSQUHSAVRBVV95cUxPWTM3Q1dxSURNeEQtb0VfS21MdHZyRmw1U3RGVnZoVGRSNXVWTmhfY0hYTVkzR1NfR3I4YnhZano4cFFVWlNwbnZtNXdqVy1HODVGY1U?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-13T14:58+09:00"
-    },
-    {
-     "title": "北朝鮮外相「核保有の意志は絶対に不変」…G7の非核化要求を一蹴（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXWGMxRTlUbGx1RkdkYVhneUxJN1ljTzlucUs5bWJlMTFkUnJXU0VjaUg3VWplX3FIVFFPYy02dmdDWU5wcHZXTzd6UWstem92aWJjQW1OSkpsRmdnUk9lM2VMMVp2WE9vZVBwVjZHSDcyb0FTX29YN2s3MXZ0N0U?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-13T11:37+09:00"
     }
    ]
   },
@@ -339,14 +339,7 @@
    "at": "2026-11-13T16:51+09:00"
   }
  ],
- "outage": [
-  {
-   "title": "【速報】南海高野線と泉北線が運転見合わせ 停電の影響 復旧のめど立たず | 関西のニュース | ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HSXNyQ3R1OWJDRGVXNTdvMVc3RTNkMkFHQkYzczlha2RieXRIbzBCN3E3UUVoRmZteWk3X3ktZ2s4VU5hcXZFSFNCZ2JCeHYwMXE0eA?oc=5",
-   "source": "ktv.jp",
-   "at": "2026-11-13T21:23+09:00"
-  }
- ],
+ "outage": [],
  "japan": [],
  "cyber": [
   {
@@ -442,6 +435,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "韓国側を向く砲口 北朝鮮 軍事境界線に自走砲",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZMlY1OGgzZ3FnV0k1NS1ZZThtM2ZiNkVaeXR5cEx4VG5mVnFkN3Z0eVEzWE14QnNKNGNEZ2hvdFh0Y0VjU0JYS2RMQ3BTS2Q0QzB1aW1MNmh1ZmdlSGIydGxqSnpvNVpl?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-14T02:01+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "脱北者が語る「北朝鮮軍サイバー部隊」 ネット黎明期に金正日総書記が創設…中学から選抜しエリートが部隊へ【news23】",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vZkg1UHlBTWlWdFNiTnR3VW5jOThMRGF4ZjJPYVROMUdEQ1E0T1NHWTNKSjREa3o3WmdOdWM3dENrUzNmYkNYWU5IVWdINFpzVFZuVGc3bw?oc=5",
@@ -574,20 +574,12 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T17:15+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "中国軍の偵察型無人機と推定中国無人機が与那国島と台湾の間を往復（11月11日、BZK-005）",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbFR3a0pGekJCSFZWS2pvTG9aNzVFRnVkYWRUekVVUk1oYzE1U0lEU0c3b3RHSlBwNkNLMnBPZzhzOUthMmRySWRLMFdmYkpCSUJyVW4wUjc2QmNv?oc=5",
-   "source": "J ディフェンス ニュース",
-   "at": "2026-11-13T15:20+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "停電の報道（【速報】南海高野線と泉北線が運転見合わせ 停電の影響 復旧の）",
     "「【マイクロソフト大規模障害】「全く仕事にならない」OutlookやTeamsなど」"
    ]
   },
