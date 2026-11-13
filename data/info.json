@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:30+09:00",
+ "updated": "2026-11-13T21:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -125,9 +125,9 @@
      "at": "2026-11-13T12:57+09:00"
     },
     {
-     "title": "【速報】イラン、バーレーンの米レーダー攻撃発表",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Jak1uVmJ2RmlVdVRlRjZLNGhpVnAweHk0VVIzLTh3U1NnZWt3enVudUR1eWgzZEFsY2paMG1wZlZSNW1wZnhRZnRUcw?oc=5",
-     "source": "47NEWS",
+     "title": "イラン、バーレーンの米レーダー攻撃発表",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
+     "source": "京都新聞デジタル",
      "at": "2026-11-13T12:35+09:00"
     }
    ]
@@ -343,16 +343,28 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフトの通信障害 メールシステムなど県内でも影響多数 富山県 (2026年11月13日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jWXlYbjZISE03MzVnazh4S1ZkbHJFcENKVWVXNmtqc1RFVU1vaDJDb2ljX3JiUVo1UHpxS001N2RTOFNtU2ZUbERyOHZJUVlDRjRfT3NuUWViLWZ5OVE?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-13T21:40+09:00"
+  },
+  {
+   "title": "マイクロソフト大規模障害、複数の株式取引所でメール不具合も中核の取引は継続",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsN05UT0YweGxUR04zZnd0SGhTU2FCUEUyQ3lNMVlIZGRsQjJkbmQ0cjYwMHFBMGs0bDhVQVZtQnZYQ2s?oc=5",
+   "source": "CoinPost",
+   "at": "2026-11-13T21:30+09:00"
+  },
+  {
    "title": "マイクロソフトで大規模な通信障害 石川、富山両県にも影響",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JeWZ3bDRGcEZLVEIySUtDc3RHbWNYQjlRVTdVOTJxR2kyZXVjclo2SkNvX082NVFoQWpKbVdZRDhGdzg3NDBuQ0RkX2RPRTVsUThaaW9MYVpNS0ZQWnlqUmFUTFJ3QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzb2xiRzJja1NKcXNqTmFLb0J6UE9tb0wxXy1HaFVLdzNSMEJXWmx5bWJfeWdpLVdsYzVrRUV2NGJ4bGlVR3Fuai1OMUlYZDZ3MUR5NQ?oc=5",
    "source": "中日新聞Web",
    "at": "2026-11-13T21:25+09:00"
   },
   {
-   "title": "マイクロソフトの通信障害 メールシステムなど県内でも影響多数 富山県",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WOW5rc2J4clZqXzJ2TERUZUhKTHRqSlpla0QzdHFqWHhnWmg1N0VDdVhkOTU3WmhsTlBMVGRsLUk4ME5XU0tpTGlNRQ?oc=5",
-   "source": "TVer",
-   "at": "2026-11-13T21:23+09:00"
+   "title": "大規模なマイクロソフト通信障害 中部地方各地でも影響",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYkZNbk5YNWVoV0FOMTZXNGpTTDlMZVhxY3RBcUZ0Q0F4R0h4a3R2MVhlVUVvT3BLa0wwX3I0cEJoMkRuZzJYM1MzU2dMRm1NX0tvSw?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-13T21:19+09:00"
   },
   {
    "title": "マイクロソフト一時システム障害 「メール使えない」｢会議中止｣改善は？ (2026年11月13日掲載)",
@@ -391,10 +403,10 @@
    "at": "2026-11-13T19:51+09:00"
   },
   {
-   "title": "マイクロソフトのシステム障害 県内でも熊本市役所や企業でメールの送受信ができないなど影響",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYcjJxb2p0WTU4QzNHTjJUcldrYXltSUhicGFmXzdrc01qN09TSHVxSGZqcUNQSWIzSzBWWEZNZHU0VkVITEZTaHJ6QVAwWmo0eWhrb3gydl9odEFuQTd3blNhWXk0QU1MVlltc3FB?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-13T19:38+09:00"
+   "title": "マネックス証券、口座開設システムに不正アクセス 一部は本人確認書類画像も",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zV093SkItRjluSzY4cDRBYkxDdDdhdVU1RS1VSEJHQ1Nvd0lfRTlJcnNoNURvS1lfWllJZ0pYM2ZuQXcxclFjeWszZldkNVg2czBRaVVJNW8waDc2UXNwOC04d0E?oc=5",
+   "source": "Impress Watch",
+   "at": "2026-11-13T21:28+09:00"
   },
   {
    "title": "政府、セキュリティーの業界団体と意見交換 サイバー安保相「攻撃情報の提供を」",
@@ -409,28 +421,16 @@
    "at": "2026-11-13T21:19+09:00"
   },
   {
-   "title": "守秘義務の対策検討へ　政府に情報提供遅れ懸念　サイバー攻撃で",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObUxfaU9hMTVsS1o2WnRQYkdaaGtsN3lURURTNEs0Mzl6YzVLVUdINGQwRzA3ZVF2NG83LTE5SjhYM3dhRDhsXzMybnhmVXJxUGhmNGwzcmtpaGNRTzhBR2xtZC1UNDhwWTh2ajBaUGszai10cXZ4b3YzRk1zNVJhUkVNRDVHSGlsajA1ZE9vRDV4cEpzVnhIV2lEeGx1Ull3UUl3VFhn0gGYAUFVX3lxTE5Ga09KX1RFYmk2LWZ3ZDBvek41N1pzTUQzSUtuUlpRQ25POGg4SXJfMTFMTzFhOWpKY1drVURxX3V5SnY2a0FHMjdDRms0enhKLXRaa0xEVDRDMF9oVks0Zm1xZU9ZMzNEQ3ZJbDNlaWhxYTcyTU5PS2o4SjdsT2F6VW4tTDdJTDFQeFdWUVJQdTZqUF82TFJ0?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-13T21:17+09:00"
+   "title": "守秘義務の対策検討へ 政府に情報提供遅れ懸念 サイバー攻撃で（毎日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYmxBc1VXY2hXRVJlTC1zS0NXY3plTm1tM0NBTGhDX19VNnZlSXlwNDB0M3dKdHJLaGRiYkwxQU5aTU9tZ0lEM2x3eEZaSlQ0QUJyYUo2WFctNWo1LXJSakJhYndWSjQ3RUpNLTNSb0lCRUpCRHEtTkV0a21SY1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T21:18+09:00"
   },
   {
    "title": "読売巨人軍「CLUB GIANTS」にサイバー攻撃、メールアドレス80万7,030件が情報流出 会員情報の追加被害を調査",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcF9yODlJZmpSeDM5XzdJN002azhrYTdmUndDcno0bDhIUmJEdE9MQ1NWcmNUdmMwRWZYdUxCZWVVVHpfeDRCMm9oR3ludUF3LXlvYThXQ00xeEh4djk5ekhJbE9zMXNjaTd1elJTTlZNU05KQ3NXSkVKWllpOTNxOHVKSlI4RmRwQjN0NmN4NGJhaldV?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-13T21:12+09:00"
-  },
-  {
-   "title": "証券口座への不正アクセス増加 10月は168件、前月の3．9倍 金融庁（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUb1NSaUJEX2pqUmxNcm1OTDhYcUJ4R1JGVjJtYXB0UXFPUElCRi1rdzFoZEFVVEQ1dGg3Vk5JWXNGWVhMX2IwekJ6UUs2bjh5MXRsSmJWSjdpMW5uVFV4R05BZmhHQUNQUG1qN29XbmRWRnYybkxwM1AtOUpLNUU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T21:01+09:00"
-  },
-  {
-   "title": "画像・写真：サイバー対策で官民連携を：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jSXppVm1kY1B4UVA1b3FON21SejVKNDBEMFFFLW9Nc2NlbVhhaWgyUk01X21YaEZPY0dPQ3l3bE9TSTZVeUQ0STJfbi1XTFUwS2Q0eW1uZmZ6bElGQjY0WktxZTA?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-13T20:59+09:00"
   }
  ],
  "osaka": [],
@@ -562,9 +562,9 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "【速報】イラン、バーレーンの米レーダー攻撃発表",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Jak1uVmJ2RmlVdVRlRjZLNGhpVnAweHk0VVIzLTh3U1NnZWt3enVudUR1eWgzZEFsY2paMG1wZlZSNW1wZnhRZnRUcw?oc=5",
-   "source": "47NEWS",
+   "title": "イラン、バーレーンの米レーダー攻撃発表",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
+   "source": "京都新聞デジタル",
    "at": "2026-11-13T12:35+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフトで大規模な通信障害 石川、富山両県にも影響」"
+    "「マイクロソフトの通信障害 メールシステムなど県内でも影響多数 富山県 (2026」"
    ]
   },
   "japan": {
