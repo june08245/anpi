@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:45+09:00",
+ "updated": "2026-11-13T12:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン革命防衛隊、バーレーンの米レーダー攻撃 通信塔空爆に報復",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvek14eDNRU2hkcTJJM1dSQlNMYXZqSzJveGJGekhLaGJVWHByTGNxRWR5TjRzYmxUOUxLU3dQSE5fOHg5TC1VVXdqSDhKWnJTeUFGOE9DN3Q2ZFUwQUhUVnNpQkI1aDN0U1plSVB3?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-13T11:46+09:00"
+    },
+    {
      "title": "米大統領「イラン合意は不要」 副大統領には国内対応を要請",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1OTBPZTdYNWpOMzllM2VoNkJMZFNLQUNkTnRpRXMyRkYwRkNhNi1xSU94RG42Q0dtalVYd3dtcW9id0RiZHkxM2hyb0lFMW1GdzI3Z21sd2ZWUWxqS1g4?oc=5",
      "source": "NHKニュース",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BamlRX1hNTXlONHVUYkJ3clVwRHNOckhRYnpxN1JBMXFqZlN3bVdEUUxTTTl5ZGl5NkthX3lMbkNRRGRUTmZVSnV2YkhMcUI0Ymdwd3pNWDNqQXV2UTA4NEc0cw?oc=5",
      "source": "読売新聞",
      "at": "2026-11-13T05:00+09:00"
-    },
-    {
-     "title": "トランプ氏、イランとの停戦合意「不要」 バンス氏に国内集中を指示",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuWmp0TGlGUXNnRVBpSTNwOVFJZ3Z0ME5YQWU0ZFVQY1ZGeDNsd2RjaUFqV2s2SjA1REN2NlBjS2hCZ1ZCVm9vQU5zbTZuY3FVY3cxOGFqb0gwYllfTG5aTWwyeTU4ZDB5dk44Zw?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-13T04:47+09:00"
     }
    ]
   },
@@ -221,9 +221,15 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ロシアのドローン基地にドローンを突入させる映像公開 長距離を飛翔する兵器には長距離飛翔で対抗（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CeFdxSnJHY0xUUVRGOFgwYnFOaUk2S1Z0Z2ZkamZjZGt2SVFQek9Qd0pFYno5RmNFU01GNjZ1ZUppVGlfVE1Jcndn?oc=5",
-     "source": "乗りものニュース",
+     "title": "ウクライナ、スターシールドの時速161キロ制限を訴え ロシアのドローン迎撃に影響",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tTmlESWhrUnNRUGZTVUFRWm1rSDRfN0I2alFzNUhZMU16N2NTVzBaX1BfVWJ1SGVFRE16cVFodENzMU0xTnNaVE5VMFJXRVB0MEFxOFVyZE9oX2lJS0FRbUYwOWY?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-13T11:48+09:00"
+    },
+    {
+     "title": "ロシアのドローン基地にドローンを突入させる映像公開 長距離を飛翔する兵器には長距離飛翔で対抗",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BMzE1TTk1cHFmcDRKNzlsMzl4RE5CazVWUXNFUk5oaklRblJHbjRGTWRXQzcwSnh2RlNsV254dVhkM2FEWUJmQVBMLVlFcHBvZzVDRU5nYVBMcHN1VnNpdThDTWRoV0kyVkFDbll3?oc=5",
+     "source": "au Webポータル",
      "at": "2026-11-13T11:42+09:00"
     },
     {
@@ -233,10 +239,10 @@
      "at": "2026-11-13T11:03+09:00"
     },
     {
-     "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00ZVdObVp0SHJpZlBpTW9xc2pvQy00Zlp3WEptUjhEeE9BREROMk1wTkYxaHRSY2JmUEVLdk9TejFHQWhHTnoxWDltQTNIUVdyZlHSAVRBVV95cUxQY1ROZWFvZUNuY3FpQkkwNG5DSzFTcko4SGJYbng4S0tWQ0FHTTJnaVZpenZZVWlUb1lqMWVIaXhyTHYzSXFDU0FjQXo2NElCbkEtX3Q?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-13T09:56+09:00"
+     "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-13T10:07+09:00"
     },
     {
      "title": "ロシアが簡素な迎撃ドローン「ソーコル-I」を投入 戦場に適応した低コスト・量産型か",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15amgwcVVaWjZEUndieXBMLS1xdExkQWhBVUczV09jc19rdzVGMko3anJYYlFDVmVVeVdEeTQ3OEZVcFdxbWJkVFEtd2dFZDJUV0R1QnBSR193WXg0ZmF1OWNqcw?oc=5",
      "source": "時事ドットコム",
      "at": "2026-11-13T08:30+09:00"
-    },
-    {
-     "title": "米露ウクライナ協議の継続で合意 米特使がプーチン氏、ゼレンスキー氏と会談",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkp6Y3JmT1FwbVlkYTJXWW9sLUVJb0JjWGxJNUpURUR6U3l6UlRERE1ORWVoMUh6bjJ6NWJLbHF1Vmc0dUp0SDdLVXhseS1Pc01RUnVhQ2pwR281WHFvMjg2Um5kTzBkOUR2cmdHVVpMaHpIaUFnYXJZeF9raWdhVnBEYnpyS1ZRXzZJNA?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-13T08:21+09:00"
     }
    ]
   },
@@ -275,6 +275,12 @@
      "at": "2026-11-13T09:39+09:00"
     },
     {
+     "title": "【最新】ロシア・米国・ドイツ・日本の「防衛戦略」超解説、なぜ欧州は2029年恐れる？（ビジネス＋IT）",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOGNfYkJhdllxNFllMk5QZmVBUjBlRFRDaDFXeDVqTGM5aEFHblVQSHd3NTc4TFY3MFY0dzZ6ZmcxdU40UEdEWHQzaTQtdVlNRnZ2YkgwMGJ2eXdmdG53cVdUZmI0SVdpSi1INlFCa2kybjBqNHg4S0tqTnE0UGEtOUdkOTFPd3d5?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-13T07:00+09:00"
+    },
+    {
      "title": "【解説】相次ぐ爆破予告…ロシアのハイブリッド戦？ 専門家“ウクライナ支援で団結する欧州諸国の動揺狙っているのでは”",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VZjl5YzBJc0tnNkU5ZTVobkpCWk56V0Y1Nmxma0NmdXhWb2hTSjQ2TEZMWEphSm9OaVowOVA4eFJwcy05WTJuZktrSERLajhSTUFYOWQ5bWZoUE1YSFg4NmZZY1V3WkpxM21qR3hB?oc=5",
      "source": "au Webポータル",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JT0k3UmJ6bXdFTWZlNE9ta2VjMTAzWHBPREF0LXkwbndvRFJFVmQxaTUxTFpyMTBTeGdmcFZvanB4RkpJVHRZaXd6c2lleWkwU3BYTU9fZFNZVkMwbmM4OGNDb0hEOG44N2VWZGEyQWhJNUl3V0lYRmxSWjRDS0k?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-13T04:19+09:00"
-    },
-    {
-     "title": "エマニュエル・マクロンは、ヨーロッパの学校や空港に影響を及ぼした一連の爆破予告を受け、国防会議を招集する予定です",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkZZdVZPLXZTX3FtQTQweHVCSHhJNFMxc1VNd2w5QUNOZXdnRGFndkEtTnlrWUhGNF9nY0NzYnlCdWZ3Nk9INGpvQURiVGdRUjhpcThvc0Vzd2kzSU5YQmFMMU8zeVJ5SklYWEFTUm82S25CUThNNm9qYmdoenpHNnc5T05qYnY2cEVqMG1hcDdyMDVSX1FaOWhfOHJuUmQwTDk0c1p6TU5MdWQwQkl3?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-13T01:02+09:00"
     }
    ]
   }
@@ -340,8 +340,45 @@
   }
  ],
  "outage": [],
- "japan": [],
+ "japan": [
+  {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  }
+ ],
  "cyber": [
+  {
+   "title": "「会議で使う予定だから困る」マイクロソフト大規模なシステム障害 鹿児島県内でも困惑の声",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0xBa29GU3otZmxwTDNrSkJzdS04OUx3eVJ3TDdoa3daRl9zVC1FSktGNUJfSXBGOS11MVRVN3Q5QTdvWTNxYXpkdFZOY2dNbVp5OW5MRE01YjBMQWZCdWlUaVNPZ0JTVnlXWUdzOUxnNDJ3cXFjSnQ2YU94NzVoUzVuN0YzTXc?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-13T11:55+09:00"
+  },
+  {
+   "title": "富山県庁「電子メールが使えない」 マイクロソフト通信障害（北日本放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pSW5yajRjamRUY1JQUHUyVEhXTTVlbUZNQWRXdExrdC1FUW1uNkNRSXhKSVM2eXd4WWxHdUl1akl5bWFVTGU2RXk3QmwwU1lWd3NKWTF2SVJaTmJ4OENILXNFdUF6ZVlVVFJiN2VXRHJhN2NnYnVhb0JnNWxudE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T11:53+09:00"
+  },
+  {
+   "title": "「FAXでお届けする」長妻議員の“事務連絡”に国会笑いの瞬間…マイクロソフトの通信障害受け代替手段訴え（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vT09DZmVZeDBpZmZoYU11c0k0LUpXVDhJaWMybjUtNE51UU91dTRYZVlINFBodE5fd2lLQWd0dWlQUWRONHZHTmRTUmZKQ3FtaUFULW1CbzVQVU1zbWtGdnM1MnFxZjhNNXA5RFBNS3ZiR3lpTHFra2llblR2SE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T11:45+09:00"
+  },
+  {
+   "title": "ANA、予約システムの一部に障害、予約できない場合も 電話窓口も混雑",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qNWlKYlZ3NFdqOTVoWndBcnd6WkM1TXFTX0ktdU0yX2YyQmZ2Skw0LTZIdFI0QzI3MGU1OEJrOW9IUG5NTS1KVzJET0pXVFZraUpPWjNhUFgtOElPeFM5dUw2ZDZHRnlTU3c?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-13T11:40+09:00"
+  },
+  {
+   "title": "「マイクロソフト365」大規模障害 サーバー負担が原因、一部復旧",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1N2E2d3lpZWdlMTlDQ0VPdURZMVVFUkgtVmdhaWZBWEt1V3ZYMXFMbF9ETXNxREdtRVdyMjIyUm9ic3R1NlloVmpoRldPbUZIbC1rbFlGcUEzWlFtWmRjM2U1OHNtSC1qYVNqUw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-13T11:30+09:00"
+  },
   {
    "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmlvclpNM0RMVURtSVllMHh6YkpJdkt1OF9rZnZuLVNlNkJHaVhub05mRUxuUl9WamVocGVJRGwxSEJDT1BPbXJKY1JZbE5MVWNtcEp2d25jMG5kN2pMbnhBcWxTNVhNcVRhYnFGbWppamszSFZ3LTZpdUIxbXkxa9IBhgFBVV95cUxNOEpRS2RKVjN2LTg1LU1vTEE5NnZMSV9PX1lXMmpxMm9IWFBtY2N5dHpnMzRyR3UtNTNadXJURFh0NndteFhCakllbVIxSlljcmxYLWlyTGNmWGswQnplU2w4TTdxMGJsbmxrdkZyQWpkUzlzanlONVp4aGtqY3BCdllTNjFQZw?oc=5",
@@ -365,18 +402,6 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoMVloNm5lTF94RVI2QUJKLXF2YXhPM2JnNm1VZVhjNElCNU5lbkhZNXJ4QmgxQ2R3WGRPcWNBNXRSc1hkTzhLMWxYemtzRjRVZ2Z1d0NSSUNtSWYySklfd29pVl9NaVV1bFN6VkRtMktWczBQNHowcThR?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-13T11:00+09:00"
-  },
-  {
-   "title": "【重要】Microsoft社のシステム障害に伴う一部メール認証等への影響について",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sMllmSmJWOE90d0JUS1d2MUVxbjg0YU1kcFZDS2hZZFI3SWdRMjJvak40dC0xVkVyZDZzVFpBbWdoTGhuRGpBVW1kUDg3V3k2c0ZDUw?oc=5",
-   "source": "SBI VCトレード",
-   "at": "2026-11-13T10:53+09:00"
-  },
-  {
-   "title": "【情報まとめ】マイクロソフトで大規模通信障害 世界各地でＯｕｔｌｏｏｋ使用できず・・・（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42ckg4ZVlocndraDl1bVVxaE1aRVJMQzk3TXNySFdJZVVTdVFTUVV4dnZyUUJac0JsRFhRU0VjaDJJXzBaMnhqWDM1YWNhb3pJdVR2cVN6VkVFa1FxTDd2dmVqQUxjcXp6V3dDeG5QZE5Yc0Q5d2lKY2JTZmNCUUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T10:51+09:00"
   },
   {
    "title": "アウトルックでメール送れず 「マイクロソフト365」で大規模障害",
@@ -403,42 +428,38 @@
    "at": "2026-11-13T09:39+09:00"
   },
   {
-   "title": "【Microsoft 365障害】Outlookに接続できない！TeamsやCopilotにも影響、状況と今やること（11月13日）",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sYVlCYlQtMk50a014aHBGakIwN2xwRXNpcGJzb1owZ3NBV3N5N3B0dG1JZi1VdlVkUU9kM040bHZjeTNmUmdWbmtuX0Y2YVJ2VTYyWjdXVkNsSjRabzBWSEVOZUJWR2ZDUExv?oc=5",
-   "source": "enjoypclife.net",
-   "at": "2026-11-13T09:17+09:00"
-  },
-  {
-   "title": "NTTドコモ、全国で通信障害 復旧の見込みは「改めてお知らせ」",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Z0JteWdSR183eFRfZGFoRlh4a20xSElIWUZrcFdlb2NnT0FzbUVOUVVDbnlHMGR4OXdRSUY2NXpkYjdwaHNYUlZJeFVhLVMyLVdkRlc2T0pCLUtWWjJEN1pSdzk5amc?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-13T08:08+09:00"
+   "title": "カラコン通販「Appeal(アピール)」、メールアドレス3万8,904件が情報流出 データX経由でアララ「repica」の不正アクセスが波及",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV01qbks0Q0dMb3EwRnE2NWhSNXNqUFNjbkhscDh0NzhZTmV1TERMd2pmYTIxSnNtNTJIRjVueDZoa3NEYlcxWnVQOEljNDkwVkZGZTVPeUMzanJzM2VnUTRBeTVMdnFta2pCRHh2WmNqQmRsVjR1cGkxeExnTTdmX0d4cjZGS1M1ZlQtT2JSSHBaMElqNE4xWkxtcmtfY0xxMXlrbFQya2Q0QQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T11:50+09:00"
   },
   {
    "title": "宝くじ公式サイトに不正アクセス 4436アカウントに被害",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zM1lZX1ZLZTRiUFg1czdNalhyQ3pWVkllY1BraGtzcFJRQWhpUnVqcnpkdDBEci1xdHdLWXJyVnpySGY1UGtwbnRzZThTUC0zRXk5SWU0OFVGZ2RuNlM0ZFhCTlc?oc=5",
    "source": "Impress Watch",
    "at": "2026-11-13T11:38+09:00"
-  },
-  {
-   "title": "宮崎県警「サイバー警察部」新設へ 不正アクセスなどサイバー犯罪へ対処（宮崎日日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZR3BGVks2RHREdUxSNlZXYWZXaUtfdFMtbzBhaUNWWEp1OENPcjlKbU8yem82SlJ3MGFzcmVwNTJRTDR5X1A2NkNmZmN2eWpreTNobC1TQTRMMXBKODRrRk45WnVZZEdJNDd1VGIwSWx0UjBCemcyZkNNNlk2QVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T11:33+09:00"
-  },
-  {
-   "title": "テレビ東京コミュニケーションズ、3ストアの配送先情報が流出した可能性 オープンロジへのサイバー攻撃が波及",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdVF6bF9uRERQemJZQ1NzMEljM0J5LU9TQ3BHNUd6a21nNW4wMUthZ0lQNTJuaHZ5REJBNGxoR3d2bW5ZdzhXTC1UU0FiMnJTVGFVb3I2cVBaSFMyOXRQT20wNlNvUEtpbHh2ZGZEbTBHX3dwLVhCcWVKMnhWOW9WY01ydFgxLTZaTHZWQ2g0UHNyb1hSbTQ5WXpiYWJxNWlfMmoxTkpVbUcxVEc5eURfbQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T11:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "ロシアのドローン基地にドローンを突入させる映像公開 長距離を飛翔する兵器には長距離飛翔で対抗（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CeFdxSnJHY0xUUVRGOFgwYnFOaUk2S1Z0Z2ZkamZjZGt2SVFQek9Qd0pFYno5RmNFU01GNjZ1ZUppVGlfVE1Jcndn?oc=5",
-   "source": "乗りものニュース",
+   "title": "ウクライナ、スターシールドの時速161キロ制限を訴え ロシアのドローン迎撃に影響",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tTmlESWhrUnNRUGZTVUFRWm1rSDRfN0I2alFzNUhZMU16N2NTVzBaX1BfVWJ1SGVFRE16cVFodENzMU0xTnNaVE5VMFJXRVB0MEFxOFVyZE9oX2lJS0FRbUYwOWY?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-13T11:48+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "イラン革命防衛隊、バーレーンの米レーダー攻撃 通信塔空爆に報復",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvek14eDNRU2hkcTJJM1dSQlNMYXZqSzJveGJGekhLaGJVWHByTGNxRWR5TjRzYmxUOUxLU3dQSE5fOHg5TC1VVXdqSDhKWnJTeUFGOE9DN3Q2ZFUwQUhUVnNpQkI1aDN0U1plSVB3?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-13T11:46+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシアのドローン基地にドローンを突入させる映像公開 長距離を飛翔する兵器には長距離飛翔で対抗",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BMzE1TTk1cHFmcDRKNzlsMzl4RE5CazVWUXNFUk5oaklRblJHbjRGTWRXQzcwSnh2RlNsV254dVhkM2FEWUJmQVBMLVlFcHBvZzVDRU5nYVBMcHN1VnNpdThDTWRoV0kyVkFDbll3?oc=5",
+   "source": "au Webポータル",
    "at": "2026-11-13T11:42+09:00",
    "topic": "ロシア"
   },
@@ -478,18 +499,18 @@
    "topic": "ロシア"
   },
   {
+   "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T10:07+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "フランスの駅で爆弾騒ぎ、イタリアでも学校に爆破予告…関与を疑われるロシアは否定",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAycEZndFVEeG85dmVaNHBGc2VscWxXdTlBekxtX0pUZkxKNWFUNzUzS3F1TnFHdTROZ3lhN2RwLWY4ZFgzSHRSdWtSSDBJYmVjSjNhbUdGWkdFU1JYbTZna2w4aGJ5OGfSAWxBVV95cUxQSEFheEpHeEVkT1JTVnFoaUx0MGdiR3Raem51T05TNFhDT0ZkN3lUWUg3OU9NUEVETldkWUthYnNNR2tnb0NFU05mV283Y0RjY3NHN0ctVFlGRDZFR0M5QjBNdmxkN2FmLTVJRGM?oc=5",
    "source": "Infoseek",
    "at": "2026-11-13T10:01+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00ZVdObVp0SHJpZlBpTW9xc2pvQy00Zlp3WEptUjhEeE9BREROMk1wTkYxaHRSY2JmUEVLdk9TejFHQWhHTnoxWDltQTNIUVdyZlHSAVRBVV95cUxQY1ROZWFvZUNuY3FpQkkwNG5DSzFTcko4SGJYbng4S0tWQ0FHTTJnaVZpenZZVWlUb1lqMWVIaXhyTHYzSXFDU0FjQXo2NElCbkEtX3Q?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-13T09:56+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "イタリア、3778校に爆破予告でも大半は休校せず 政府が方針変更",
@@ -527,18 +548,18 @@
    "topic": "ロシア"
   },
   {
-   "title": "米露ウクライナ協議の継続で合意 米特使がプーチン氏、ゼレンスキー氏と会談",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkp6Y3JmT1FwbVlkYTJXWW9sLUVJb0JjWGxJNUpURUR6U3l6UlRERE1ORWVoMUh6bjJ6NWJLbHF1Vmc0dUp0SDdLVXhseS1Pc01RUnVhQ2pwR281WHFvMjg2Um5kTzBkOUR2cmdHVVpMaHpIaUFnYXJZeF9raWdhVnBEYnpyS1ZRXzZJNA?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-13T08:21+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "トランプ大統領「イランとの合意は不要」　交渉主導のバンス副大統領に“国内の腐敗問題への集中”を指示",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzJnWl9rQW9UXy1BUjJPMDZ5U1JSOUZ3MzVBUFlrUFd1c0NVd2V3d215bUlhc0VIUVI2VHhkaTd3aUsxZ3pKYTNtc3gxODF0d0dGR0U4YjV1dFNBcjhyUHNsS2hyVmJDMmNNamc4STVnTDF5Y1MzcWQtQ1ZHSkR4RWlRemtKdDBENUNZeXkta19sa1BCa3ZTcDUwNUVwUl9HSmFFTHl1NDRvT3BOMHI0emZOX1VYZ2pJQlU2NDBESVNGOFHSAXNBVV95cUxPQkZwMDhaTXRBeWtDekRuaGJuY1pLMlk5SlBXQWNabm9kSUxuSUNOOUZKV0Q1Q1pWRFd0WUsxdXRrb21PQV9VLURoUmt6VmZsdGxvMlJ0MmVuSHMwdW9taDdZU25lRHJTWUpYQW5heUN5bUxV?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-13T08:10+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "【最新】ロシア・米国・ドイツ・日本の「防衛戦略」超解説、なぜ欧州は2029年恐れる？（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOGNfYkJhdllxNFllMk5QZmVBUjBlRFRDaDFXeDVqTGM5aEFHblVQSHd3NTc4TFY3MFY0dzZ6ZmcxdU40UEdEWHQzaTQtdVlNRnZ2YkgwMGJ2eXdmdG53cVdUZmI0SVdpSi1INlFCa2kybjBqNHg4S0tqTnE0UGEtOUdkOTFPd3d5?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T07:00+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "【解説】相次ぐ爆破予告…ロシアのハイブリッド戦？ 専門家“ウクライナ支援で団結する欧州諸国の動揺狙っているのでは”",
@@ -560,48 +581,34 @@
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-13T06:00+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "トランプ大統領「イランとの合意は必要ない」",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1aUxtRGtpYzR5VDRSczg2ODY5ODVGMkdfSE9WYUxOcDhYM2s1MWd4Rll5ZU1faTNsMWpZbXMxdHNrbk5iVnJ6Vm1hZzBQZzI0NkhQdHF4c2dOT2dNa0JOQlpfbVE2bW9ZZ3ZWeGxkWFI5aVMzWGRMX1BB?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T05:29+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "南シナ海への領土的野心を崩さぬ中国、アメリカと軍事的対立 「国内問題」の認識 防衛研「中国安全保障レポート」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95dDAtWmo4UVVvZ0V0REFqRWlKR3dOQVA4YTF4alNhZnFUa19EbUUyZTdQai1yc2lEeFgwYm5jUzFmeGdkX2NfM0pEY3hoTW05R0xZYzRnSVdtY185V2p3enlZVnN3VktodWlKRm1B?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-13T05:02+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える」"
+    "「「会議で使う予定だから困る」マイクロソフト大規模なシステム障害 鹿児島県内でも困」"
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「ミサイル」2件",
+    "イラン・アメリカ：「攻撃」「空爆」3件",
     "中国・台湾：「攻撃」1件",
-    "欧州・NATO：「攻撃」「爆破予告」5件"
+    "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "米軍、イランのタンカー攻撃 ミサイルに対抗、応酬続く",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhd2FfbU9RX1k3dTVDMkVRbU9YZXVOa1JmTHozT1UwaU5zZXJ3MXRpNXNVaEE0bFNyQlhNZ0NnaU9SZy13Rm1BZ2lPNnJRV2pyVkptZ0JIRWZsRUVXZVRkeVBkSVpOcEdvd1kxaWFZS05LV3c?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-13T06:04+09:00"
+     "title": "イラン革命防衛隊、バーレーンの米レーダー攻撃 通信塔空爆に報復",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvek14eDNRU2hkcTJJM1dSQlNMYXZqSzJveGJGekhLaGJVWHByTGNxRWR5TjRzYmxUOUxLU3dQSE5fOHg5TC1VVXdqSDhKWnJTeUFGOE9DN3Q2ZFUwQUhUVnNpQkI1aDN0U1plSVB3?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-13T11:46+09:00"
     },
     {
      "title": "台湾有事　在日米軍基地が中国の攻撃対象となる可能性　沖縄や横須賀などに脅威　民間インフラにも波及か",
