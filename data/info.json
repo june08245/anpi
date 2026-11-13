@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:30+09:00",
+ "updated": "2026-11-13T18:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -119,9 +119,9 @@
      "at": "2026-11-13T14:06+09:00"
     },
     {
-     "title": "イラン、バーレーンの米レーダー攻撃発表",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
-     "source": "京都新聞デジタル",
+     "title": "【速報】イラン、バーレーンの米レーダー攻撃発表",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Jak1uVmJ2RmlVdVRlRjZLNGhpVnAweHk0VVIzLTh3U1NnZWt3enVudUR1eWgzZEFsY2paMG1wZlZSNW1wZnhRZnRUcw?oc=5",
+     "source": "47NEWS",
      "at": "2026-11-13T12:35+09:00"
     },
     {
@@ -350,10 +350,22 @@
  ],
  "cyber": [
   {
+   "title": "「朝からメールが使えない」 IT大手・マイクロソフトのサービスで大規模システム障害 世界各地で不具合が報告 山陰地方でも困惑の声 行政関連では影響なし 鳥取県・島根県",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXAtbVoyQzFYcVA5YjhTZWxweXNGNFFneHlscWI2TXJ2MzNBbTJWdWhlbkZ4Q1NPaWNHb0xJY2RhcnYyZnJfNXU5NUtTc0lpbmMxS2lZb0R4ZzFVY3JpSENHNGtyTzdiQm5FWmIzWmZ5bm9tVHNSUzRfVUtsWmk4Y216SkhQVXM?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-13T18:26+09:00"
+  },
+  {
    "title": "マイクロソフト社の大規模システム障害で高知県内にも影響【高知】 (2026年11月13日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZEhWNFVNamNIZG1iVFRndzJCajBad3ZIODVQallxbWRIZGNZYk1rVjNRcEVxTkROZTFtNVhkbzNtZkpjM1JLMXgzRnIxNWRaTEVKNXpKS0tBMFMyc0E?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-13T18:21+09:00"
+  },
+  {
+   "title": "マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信など不具合 “サイバー攻撃の示唆なし”",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xWWcycS1yNll3LW9HZzRJZWZOeHhFbEk5ZzMxVEp4VmpGd0VGNVRMcWR2RlFvUU1uVm4wRU1xZVZMVHMzWC1EMHdzTQ?oc=5",
+   "source": "TVer",
+   "at": "2026-11-13T18:18+09:00"
   },
   {
    "title": "業務用ソフトで大規模障害 「３６５」、メール送れず―米マイクロソフト",
@@ -404,40 +416,28 @@
    "at": "2026-11-13T17:04+09:00"
   },
   {
-   "title": "【不動産69社】倒産危険度ランキング2027最新版！大手デベも上位に・ドコモ“つながりにくい”通信を招いた「3つの要因」とは？・ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5",
-   "source": "ダイヤモンド・オンライン",
-   "at": "2026-11-13T17:00+09:00"
+   "title": "メール配信サービスに対する不正アクセスによる個人情報漏えいの可能性について",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY202aVBiVDA2VmpRSF9OXzAtS1hRUUZ6RXY5OUN3b3l4VDNLU2lvZVNGT0ZUWG5wYTVZMG92Y1N4c0ZhN3JBOEozeE9KWTl0SkJYNzdFUC1zcnpaRkFEeGMzaHBPM3N6c2VkR0NhcWhJcFZBVnhMQWdzVGI0c3MzeG8xcUFCU0VIM3Y3RzR0ZXJFdGFj?oc=5",
+   "source": "八戸市",
+   "at": "2026-11-13T18:43+09:00"
   },
   {
-   "title": "ヒューマンアジャスト、LINE友だち情報最大11万6,518人の情報漏えいのおそれ 委託先COMSBI（SaaS版）への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEI2SXl1S1RNYTN1eDFzZGxwSjA5MWFMUkdmUjBBVUxNNmJMeXdmQkQwTHB0dDh3VE1BWlE4aEFSVEdHcHotN0pqNlFWWlRjTW1NR3VuOTJPOHhCY3dQN0xDdzRiZ3BzSjh6dVpHQk5lN2c1ckJwZTJFZmNOWVRjbXg0M0pRZUdsWUJUdEwtYkNjakpCbGJja2t1Q2tUanc?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T18:20+09:00"
+   "title": "ロート製薬、通販システムへの不正アクセスで約280万人の情報漏えい 通話音声にカード情報も",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12M0l4S1hGa1NPV3BrSDJRM1EzU0xZSHVGVzFoQkdGa1N3dWt4WUxnV3g0MW1aMnM1UWdGWE9aZUtUSzJwTlExVzMwLTlQRjBxd3EzZ3QxYzktcmIyZlg1QllXQXhsQQ?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-13T18:39+09:00"
   },
   {
-   "title": "「お名前.com」不正アクセス、補償申請約30億円に GMOインターネットが決算説明会で謝罪",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNzV6bUNvbzNsNnljNUxZampxQS1UeXNIUlpKYWlzdl9PeXlGcG9FSWpzV3pGLTVfQ0tpMjVuTXU2WlhyRGZDRzNZcENRNmU0UGFPNHJpcnFxSXFTaVdTV1NVcTA4a0ROZFE?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-13T18:17+09:00"
+   "title": "大阪市、行政システムでメアド108万件漏洩 アララ不正アクセス影響 商品券事業でも（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiS2tUVWpjbVdadFJkRjVXUWlEcW4tRm5fYUhpRFZkQjRGNndDVm1rYkhLVEMxZzVFTWhzaHI3dk1SU05BeVh1VV9CQkFLY29aVU45YkZINWMtdk9fS1dsX2lnMDZPVkZtQXk5UnlETmt6Qm5WZm40alFFNGZsMnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T18:32+09:00"
   },
   {
-   "title": "GMO、不正アクセスで30億円計上へ 信用低下、金融で顧客離れも [情報漏洩・個人情報流出の最新ニュース]",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeV9WZWY4c2lQV2hNMkZ6bUxrMmpfYzF2aXJYNElPbjhVeXNrb3RaUE9KSjhlaWtHUWdtMjQwZEY0ZWRCRXlJZ0xGdTByeGR1aUdFM2ZwTDZuZkd0NVNLQWxKTkVBVzJyNjVMQXZlcXQyaFdEZzJuM0xNUjdMT0JBWnJpZXNIa2ZvZnFoWGZQUkN5SEE?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-13T18:16+09:00"
-  },
-  {
-   "title": "大阪公立大学、NEC管理クラウドへのサイバー攻撃で約17万人分の個人情報漏えい-NECと再委託先がシステム移行後もデータ削除せず|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGFjTG1vR3hwd0cwX1E1RHV5Z2p1VThhRm9sQ2hQbzZrLWhoTHRmeWY5TnBNR1Y2SUJQa3NQWFBjUEZzQ0tjVDM1TEhJNkNhT2VsSXVhbXVpQzZRM1dsUUk0WWw3dXBLVldDbW9POU0tSFZ2TTN3QWJlUm5VZmdZeXp6TUJEeE5pOFlacnlMWG42VXFCcWk0?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T18:15+09:00"
-  },
-  {
-   "title": "日産、個人情報74件漏洩か 委託先へ不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qU25HcDljZzJiNjdpVkpCS0MtVjd0NWJTOU5VbmFsLUNoX1pWSEc3Vk0wbktCOWpFR0U1SnMxZTVTckFyU1ZydTdzdE84VndSWXl1T2Ixb28tREN6ZWZ4b1ZsTFctTzRJemtENg?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T18:15+09:00"
+   "title": "GMO、不正アクセスの損失補償などで計30億5000万円計上（毎日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zblNCT3hLOFpWdHpDT3hvUnVKVm5NcW5vMWtPS21pelptdl92V0FsY0hZWVZmRHo3ZXZsajZBdUdCc1o2WnRJUHFhOWFoNFFPODJHUV90cnVQTlNaZ1lCX09HWEVLSjJKczY5YnhKVFp6SWZTdDhXNEQ1eTh4YVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T18:31+09:00"
   }
  ],
  "osaka": [],
@@ -541,9 +541,9 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "イラン、バーレーンの米レーダー攻撃発表",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HQVpPeEozYzFXNzJYdU9VQ2dKTXl1R0ljM1IzY01xUE8xTXRHcElkQmRtbkltRzBUU0lCR29FUkphT2pwNDhEZWVKdlk3clNnd3EwblZ0OFI?oc=5",
-   "source": "京都新聞デジタル",
+   "title": "【速報】イラン、バーレーンの米レーダー攻撃発表",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Jak1uVmJ2RmlVdVRlRjZLNGhpVnAweHk0VVIzLTh3U1NnZWt3enVudUR1eWgzZEFsY2paMG1wZlZSNW1wZnhRZnRUcw?oc=5",
+   "source": "47NEWS",
    "at": "2026-11-13T12:35+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -587,7 +587,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト社の大規模システム障害で高知県内にも影響【高知】 (2026年11」"
+    "「「朝からメールが使えない」 IT大手・マイクロソフトのサービスで大規模システム障」"
    ]
   },
   "japan": {
