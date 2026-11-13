@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:00+09:00",
+ "updated": "2026-11-14T06:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HdGRiRW44Q1JRbmd3ZG91MzhsRXlxWml3T1J2VFhLNkN2VjNpR0NLSERobFdFTmV6N1FYRGxJVHYxTmJaZHpkUU5FSTk1RVlNZXVHTFpn?oc=5",
+     "source": "西日本新聞me",
+     "at": "2026-11-14T06:00+09:00"
+    },
+    {
      "title": "2つの戦争進めるロシア、対欧州「ハイブリッド戦」は危険な新段階",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSi1TempqdEFWaGcySmc1anl3cF83VnVKYl9vd0dCdmNyV2JDSUJVYU1MTkVudW5OLTdtYUkzT2FxZ0NMdENJaW1mZHFPRDZ1ZWtJbVRVMjNabDBhWTQyek1zVC1TVjRZMXo4OWhrOW5GOE1vaFRSOWVvRjdZTGRHc3dMdERtSkh5YUdjOG1R?oc=5",
      "source": "Bloomberg.com",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEpGWS11YU80a1FjUTJUQjZxMkVBTE4wdjdqZXRrcGM3SDd6VEpwRW9uaW81cFFUNmt6Ml9VV1NGV19UeFVuRjRYQ2k2RVVkX1AyUC1ab3RRaDd4UEFPUl91emJ3d05MZUltNmJwN0kzeGFhYUdXc1V6MjA4LUNwQXhqY3k2M1BMM0ZnQ20wcl9WV25UTmRxay1VUFdlMGRDN0pnNG9QTnlFU0dVTFh30gG0AUFVX3lxTE5OREE0enJ2ZzcxYmR2alN1M2IwLTdkY2FPNkFMNUNkRk54bnpIZnFDbjQzMS1OVHlteWhGZjUydnUyT0pnYmRGMm16SHZleDdWWEV4VUczUlYzUTRfNVZ2Zm81dXRaNk8wdDZqM2pTYzlkVzBCSjJJUnJtaUxwc203Y2hTXzVMUmJhYldHQW1xUlozenR0RU1STVlkT1B0UUE4LVFDSW03SkM5R3FGeXBRTEhDTw?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-13T22:17+09:00"
-    },
-    {
-     "title": "アメリカ仲介のロシアとの和平協議 次回からヨーロッパ諸国が参加へ～ゼレンスキー大統領（日テレNEWS NNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhOGhERml3Y1FTRHB4UFRQMlZEZnBKVGllaFdXYk5rSnpRcU0yNy1mYWpYTDR5OHhCUlZuSjNmR2R3bmRjX3gwT3Y0eVlGb0txaXJYTjcxZVIyVGhtdmd1d3hfMXJ0QnFtWmhCRWFrYTFUWVRYNFFLUS04U1hRSmc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-13T21:10+09:00"
     }
    ]
   },
@@ -343,6 +343,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "システム障害によるメール受信の不具合を知らせる熊本市役所のホームページ - マイクロソフト障害、九州でも大わらわ メールをファクスに、予定管理は「手帳も併用」… - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlVjN2UDdNUkc5bmxUWTRybmFPRFFNY0dnUnk4bHQyZ3hOU1drQ2FydEZiSTEydWlhNE5fZUhFOG1tS0JFbGdoMkw3RVo3V2NYajFoeDhSWQ?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-14T06:10+09:00"
+  },
+  {
    "title": "マイクロソフト 世界規模で障害 沖縄県内でもメール停止",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ybl8zSFhhNXR3U1hYRUgySms0SmFSSG5CSnYxeFlqcWI3R3NMYnlnRlBwZDV5WjBQWTFrSElHVk40U25DZ0o2dXJhZy1tVFF4RzVQM1pVVl9oNzc3eXZYT040X3dwc1E?oc=5",
    "source": "琉球新報デジタル",
@@ -397,44 +403,45 @@
    "at": "2026-11-13T21:05+09:00"
   },
   {
+   "title": "サイバー攻撃 セキュリティー再徹底を 相談窓口の周知も 県ＤＸ本部幹事会",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04RDVvNjJGUDZZdlIta0dpaUV2WkgxTFlZd2NwUnVWWERQeTFTcUVITHgxWnlmRnhpVEQwR3RyMVZIbFgxcjRCVFRkVXlrSmxCYkFuMHF1a0ViOXp4ZlRmRFJpTEs2V3NhR2hyamxrMUQxNVg0?oc=5",
+   "source": "株式会社 北鹿新聞社",
+   "at": "2026-11-14T06:03+09:00"
+  },
+  {
+   "title": "GMOへのサイバー攻撃の影響で650万円損失…被害投資家が登場、池上彰＆粗品に実態を赤裸々告白",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PNHRNTlJ1UExJQ0RsOWFfZmpMMEpjaDdxd2JucThRT05oODRJMXk0NnFQNUJVcEp1c2hFTUw3eGRiWm1MODBvbml1R2dwZUtMV3JMRnBUQjdHN2ktVGpyWQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-14T06:00+09:00"
+  },
+  {
+   "title": "大阪府と堺市の食費支援事業で不正アクセス 申請者のメールアドレス漏えいのおそれ",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02SkJINXRKdTRTUDREWk40MDBDTmE5MEw0MGxxUkQwVDc0MWJYenlyVkVGMGlNTFZfQ3pBMWhPak1hekpwVElKamhScw?oc=5",
+   "source": "サカイタイムズ",
+   "at": "2026-11-14T06:00+09:00"
+  },
+  {
+   "title": "ドイツがITインフラに対するサイバー攻撃で反撃可能に 下院が情報活動拡大を可決",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DYThUZWlKQTVjM2x2MkJqLW40TzdWTkFUNUdXX1NLNFFTT2FMcmIzVDAxa1FpT1dBcEFvNzAxQ3NtZUFjRVNqVkIxNVpxWTJUSTRzTENsQ0EtSzNxamlGN2hPdFVXYnNtTVlaWmoyTjFXY3U1S1E?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-14T05:58+09:00"
+  },
+  {
    "title": "サイバー攻撃や特殊詐欺 経営者、防犯を強化 岐阜市 講演会で手口学ぶ",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSkIwVXJLVUlYZGo0MWtpMUIzOXRhdkdmZ3VXTHVjRG5QNWN0S09WMVE0N2hNVmVyQVhnUEU3ZEpLSTV0VFZRRnJTemtLWmZXZDFoR3Fn?oc=5",
    "source": "岐阜新聞デジタル",
    "at": "2026-11-14T05:00+09:00"
-  },
-  {
-   "title": "巨人ファンクラブ サイバー攻撃で会員情報８０万７０３０件流出",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NTGFUTS1ManBwNWJQUkN0TlM1Y2xxaEZ1TnBDTFdXeHVGMXY4OThvY25wSGRkeWtBQ3RmTXZhbmNnMEFra0tGdEFJeHplZklMMHNZelRzQzBTSlJOLVNfYThEYlg5ZEM2MTFWWA?oc=5",
-   "source": "デイリースポーツ",
-   "at": "2026-11-14T05:00+09:00"
-  },
-  {
-   "title": "千葉県の受託事業者に不正アクセス ７件情報漏えい可能性",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56bGxOajN4eFNwdVMzUkJYMm8wU2FoOG44clVsV0twV0xBZndlMkFMdDFvSzJGWXJBY1Zid1FGREdUYkRheTZXdTljUU9IODNmeU10T0lONDc?oc=5",
-   "source": "千葉日報オンライン",
-   "at": "2026-11-14T05:00+09:00"
-  },
-  {
-   "title": "マネックス証券、不正アクセス受け本人確認の画像１５９２件漏えい可能性…メールアドレスは最大１１３万件",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJWVRYYldpaU5qdHdNV09kVXNMbUxSTjhnVlEycUpjaFhFUmJlUEhLU0hCaWM2eDJQdEU4UmxUZDhTTEJZaS1CQk9IRnA1SG03bkJveENDRkxHekx3WkljdVhDdFA?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-14T03:19+09:00"
-  },
-  {
-   "title": "ベセント米財務長官「中国AIは危険」―仏スーパー冷蔵設備へのサイバー攻撃にイランが中国モデル使用と主張",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yS0pJdVNyNlVJWDlmN3o2NE5SM0pCREYtNmJnOVk2NVFhckYtZjVtZVJUbEhodUd5ZjVTMXZXZGpwYXpYbFZ3a042WlRROXNOQ3AybXlZbkxBdExBTGx6VXd6NNIBaEFVX3lxTFA0MFo4YzdyNlRmaDlZN3FyM3lrVlBucERyek9rUWhiMTlIbDB2OC1ZVWlMZWt1TkV4a2VNc0RwRVo4NTJsTEpia3BuZlFBdFE5UXB2SVA5Q1BDbkpFTUxnS1FidWF5ektG?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-14T01:17+09:00"
-  },
-  {
-   "title": "レアラ、法律事務所向け業務基盤システム『LEALA』のオプション、「セキュリティ強化パッケージ」の初期導入設定支援の特別価格キャンペーンを11月13日開始 ーSalesforceのセキュリティ基盤を活用する『LEALA』のオプションでサイバー攻撃や情報漏洩への備えを強化ー | チ",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rZk5XQWM2YWhJWEUyTW5qRXV6OFlfczVzQU9ON0pqeE1reENWTVpSemk5WHJKZ1QzLW1Ra2p0ek9MV0hvcmxyVDJ4bEpvenZiajlkbHJzeF91ZUFRd180?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-14T00:45+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HdGRiRW44Q1JRbmd3ZG91MzhsRXlxWml3T1J2VFhLNkN2VjNpR0NLSERobFdFTmV6N1FYRGxJVHYxTmJaZHpkUU5FSTk1RVlNZXVHTFpn?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-14T06:00+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "2つの戦争進めるロシア、対欧州「ハイブリッド戦」は危険な新段階",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSi1TempqdEFWaGcySmc1anl3cF83VnVKYl9vd0dCdmNyV2JDSUJVYU1MTkVudW5OLTdtYUkzT2FxZ0NMdENJaW1mZHFPRDZ1ZWtJbVRVMjNabDBhWTQyek1zVC1TVjRZMXo4OWhrOW5GOE1vaFRSOWVvRjdZTGRHc3dMdERtSkh5YUdjOG1R?oc=5",
@@ -527,13 +534,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "アメリカ仲介のロシアとの和平協議 次回からヨーロッパ諸国が参加へ～ゼレンスキー大統領（日テレNEWS NNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhOGhERml3Y1FTRHB4UFRQMlZEZnBKVGllaFdXYk5rSnpRcU0yNy1mYWpYTDR5OHhCUlZuSjNmR2R3bmRjX3gwT3Y0eVlGb0txaXJYTjcxZVIyVGhtdmd1d3hfMXJ0QnFtWmhCRWFrYTFUWVRYNFFLUS04U1hRSmc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T21:10+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "【北朝鮮の\"なりすまし社員\"が同僚に？】AIフェイクで面接を突破／1日で80億円を資金洗浄→ミサイル開発の資金に／AIで暗号資産が“崩壊”か／「サギ師も被害者」の衝撃実態【1on1 Tech】",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFSWZzUUFKSGE0YmZmYW5jMVNNZHoyXzcwS3RzRGhNZzRMN01taVZSZ1hXdlRvNERuQXl3Y21maFluZFE2RklrV0pVOWxqNlI1RWt0Rld5RUZCVHlrNTBJcXhtTVNyMmZTRHBhWURxZXhCSGFJ?oc=5",
    "source": "TBS NEWS DIG",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト 世界規模で障害 沖縄県内でもメール停止」"
+    "「システム障害によるメール受信の不具合を知らせる熊本市役所のホームページ - マイ」"
    ]
   },
   "japan": {
