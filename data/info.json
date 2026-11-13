@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:00+09:00",
+ "updated": "2026-11-14T00:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-14T00:03:00+09:00",
+   "place": "島根県西部",
+   "mag": "3.5",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-13T19:42:00+09:00",
    "place": "和歌山県北部",
@@ -72,16 +82,6 @@
    "at": "2026-11-12T21:34:00+09:00",
    "place": "大分県中部",
    "mag": "2.0",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-12T13:46:00+09:00",
-   "place": "トカラ列島近海",
-   "mag": "2.6",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -310,9 +310,9 @@
   },
   {
    "title": "南海トラフ地震に備える「命の道」 東洋町「海部野根道路」工事現場を小学生が見学【高知】",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZFg5WDQySHFDNjlUWGVWUnQyX203M0NnakNnbFZsU3FrY2RXdlcwZmNVWjVIQ2xtWnRWblZsa3pRYlR2djlvNGNJODJpN0NieHpoWjRNUnAwdnc?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-13T18:53+09:00"
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhMzdEWVRoaVdHUEp3QVA3VnBuVERfOWdBNWViNHN2LWphQ3JZOUdzcVR3TFFwdEdnQ1ByNjhCTVNJaFNlWVh3R2FxbDVGMHNSS0NLZWNqR2NwakJCQ01TSk91aF9ubWw0bk5PcXdJdw?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-13T19:11+09:00"
   },
   {
    "title": "【みんなと防災】学校の空き教室を活用し防災用品を備蓄 延岡市の沿岸部で進む南海トラフ地震への備え",
@@ -351,9 +351,9 @@
  "cyber": [
   {
    "title": "大規模システム障害のマイクロソフト、復旧状況について「日本は比較的安定した状態を維持」",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16aFFzX2I3Znl6ZDBQMkpJVlNNR253bVk2ZXFPZk9mVnVEZ2ZtUDFaeVlRLXlnVWVLMXNBd2F2SVFQZk5ybzJJUVB0UnFIaVgwa3JwVWhSS2hJcGFIWkFrSHI3NmJTNTRm?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-13T23:53+09:00"
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yQ25WSExhdXlXeTFpM2Z4R1NwZmJaa1VDOWtDVlgyNTlGLWt2aDdqNjhVbVhOZVMtdGkxajRBZkZZdVJTZDBHTlAwSjBhdmlUby01VXF3S0RGYXhSM2NIcjNRTEVkanhWUldUbTZB?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-13T23:54+09:00"
   },
   {
    "title": "マイクロソフトで大規模な通信障害 石川、富山両県にも影響",
@@ -386,10 +386,22 @@
    "at": "2026-11-13T21:05+09:00"
   },
   {
+   "title": "スーパーや物流にも影響…マイクロソフトで世界的な通信障害（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmRjR1c0xxWEdPQWJTY1MtZU84RXRCbVBBbHVrbDZsVXV6M3lNeEZ5WjdpYmJYY1pLOF9aejVHdnBJV25jVGtyQS1qY3FYMWlvQ2RZUE96c3BnMUdoTEpBVlVvWEhSbGdSdFk0YWFpV0tXU0ZhdU9hMkZMZEVFSVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T20:30+09:00"
+  },
+  {
    "title": "MSの大規模システム障害が県内にも影響 \"メール使えず\"企業など対応追われる 山梨",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13bjA5WmxuRk1OelRYVXNHNGVVMVQzbVhaSXJNbUVOcjdEUFVUVF90S2xRVzRJcGh2WGVydEczeF9jM0hBQVFjT2Q1eUdiczN6YzRJTV90UTNncW9NME9YdXVUMmFQVmpjQ0dGS3Fn?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-13T20:01+09:00"
+  },
+  {
+   "title": "マネックス証券、口座開設システムに不正アクセス メールアドレス最大113万件が漏えいの恐れ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JVVhuVkVQOEZ2OGdfUjFHdmRSTHlpSHpXWXd5V1VpUnUwQ1RKSGpiOVhfdVRZdjktZ0NVcnNMZ3h5Z2tOaVh3ZzJQMkExakxSTExfMmg1YzFNcFVpLVR5WHktTDFhM1R2QzY5QUJoMGg5X1Nk?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-13T23:55+09:00"
   },
   {
    "title": "マネックス委託先に不正アクセス メール最大113万件漏洩の恐れ | スマートニュース",
@@ -426,18 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuMU8wWEd3RU9mVUVqVE04RkdKQmpfNE9LVDZHaGNuTlN3TkF5T1JIaFZ5ejJmNXpwSDR6eW9XVi1PTlRjeGhsZ0RDVGRYcjF0ZGRMQUVLel9lOHRJZ3c?oc=5",
    "source": "新潟日報",
    "at": "2026-11-13T23:00+09:00"
-  },
-  {
-   "title": "不正アクセス被害のマネックス証券 免許証画像や「自撮り」流出か",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pRXIzcGZvSXVpenNMa2RiUE1pbFc1a3Zidm16SkhEUXBBcGQzZnB1aFRCX1dzalE1amVHX3JRSVA1a2ZzVzVtZnpiQUlyYjZwVmI5NVdEazhjZFg0R3Q1Ql9pSHRfNUE2Mk43NFFTbV9KQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T22:41+09:00"
-  },
-  {
-   "title": "画像・写真：サイバー対策で官民連携を：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jSXppVm1kY1B4UVA1b3FON21SejVKNDBEMFFFLW9Nc2NlbVhhaWgyUk01X21YaEZPY0dPQ3l3bE9TSTZVeUQ0STJfbi1XTFUwS2Q0eW1uZmZ6bElGQjY0WktxZTA?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-13T22:32+09:00"
   }
  ],
  "osaka": [],
