@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:00+09:00",
+ "updated": "2026-11-14T07:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "Axios：モサド長官は、ベンヤミン・ネタニヤフがイランとの戦争再開を求める圧力を強める中、米国当局者との会談のためワシントンを訪問している",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtjLU5kVTUzTmQ1U1oxZXREaWlMWlBLU2pGQjhtZWNSOWN3WFBFU2lpM0V6cmg0aXpIbU5FOF9qZ1lNamlNNGN4X2h5bFJUcHJBR0lyNnVpNHYtcDI3VjVkTk4yNWFsRUphNk1vckFfdERFRnAzQVdvZWpjY2NXalQzODVqWDZJQWZaWWtNXzFxZ3VqNTRUMHdjUTQ3RVVYUHdrMl9fQQ?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-14T06:05+09:00"
+    },
+    {
      "title": "米財務長官「イランの脅しに屈せず」、殺害予告で軍基地に転居",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55TmZEUElMZ2MzLW85dzFHVVE3S29wUW05SFRyS09aY25fNnA2ZEFDV29URWg1ZkxpU09aQjBSUU1lbnB2d0x2NTljYmJrVjBra1F2aWxDbEhVLU53ZmZfeWJWS3pfNW42RXM3R2lsVmZjT2cwODhhaVBmLUdQZ9IBgwFBVV95cUxOTVpiS3ZaY2NCaGlvMzlJM0hYMno0Sm9DUy1MdFU1WUtoeG1aVlQzUUtpeXkxWmZZZ0VVaTJ2bEZaZUFmVkVYTlAzakUyRWNVSWFhalBZQlBmblhwamZqcjZqV0lRcllGNnZ1cmxtLXdnZ1Jmc0tYSGNyaHJqRnlRdVZNRQ?oc=5",
      "source": "ｄメニューニュース",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41azB2RHhPdDhvSzJhZklUbmo0MkltUFZMOWlraVl1OVY0b3dfZVhTRF9sbzVGd2lXVjd4SHA3N3V6ZXZ3cUFlRE1qQVkyeG9NbnRfaHpGTTBGZ3NtX1E?oc=5",
      "source": "沖縄タイムス社",
      "at": "2026-11-13T22:27+09:00"
-    },
-    {
-     "title": "イラン、バーレーンの米軍レーダーを攻撃と発表",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ3F6OGw3Vm5yVkdabmVCN2VaZXNrV3dwUTkwMUdVRnh5aTVZSHZ5ODhodld0R29qSkgyd19DY2ZyY3NIc2E4dlBFcE8yTk1NYVoxS3ZhOUxscTRMeXUxVjBua1FtOUM1TndUNQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-13T17:22+09:00"
     }
    ]
   },
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "「北朝鮮は3日以内にミサイルを撃つか？」…肯定・否定の根拠を並べて判断を委ねる“AI参謀”、韓国企業が公開",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOcF9JcHY2VWVnaXZIak5CYTdfZmYwSWo4ZXI2cmRZNXJ4b1VMR0ZmdkJMYTZfSVFsNUl4ekJQUTc3SDJNY3dMelBvdDBQejFxRTgtczB5X2xWR2ZHR0pkTnBlZldZVGRsWkNDc3RhZ0F1R19tUUtKNEFyQnAwRkpPUWZfRXBTYWhHc2FPWFk2UVM2cDBuamJDSFVJX3FPd0E4MUZfZVRiNG54U2tWdmFULXExY1RMZmtWX0V4Vm9MNFAyYVBVeVdqNWhSeE9JTDRnYmxxczU5VFZnaEdUUnV2RHJJUm55VmtacllxWTZ4QUN5MWJUcUtIb1BRc1B3VUx3SG53eHJMdzlmU2NQMUlWZVN6WmpZRGJQQjVZWFlPVmtJNkZJbTBXR0NvQXZGUmRWcl9DSWNXdw?oc=5",
+     "source": "KOREA WAVE",
+     "at": "2026-11-14T07:10+09:00"
+    },
+    {
      "title": "韓国側を向く砲口 北朝鮮 軍事境界線に自走砲",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZMlY1OGgzZ3FnV0k1NS1ZZThtM2ZiNkVaeXR5cEx4VG5mVnFkN3Z0eVEzWE14QnNKNGNEZ2hvdFh0Y0VjU0JYS2RMQ3BTS2Q0QzB1aW1MNmh1ZmdlSGIydGxqSnpvNVpl?oc=5",
      "source": "毎日新聞",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nQUNIU3czcjJNb0dYZTV1bXlyVm1jNUQwbGQ4cFN2NUFFR3NzMzRwMmkzOUFXRXo0bzY0RmZhMU5JOVM0UkdwYkwwYUNOQmhnZFdJSlBSelRyYXZoUDlQNUkyZ2ZIVTlzZzE5SFZMdUVwQUZvXy00T0wzRUNrdkk?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-13T17:15+09:00"
-    },
-    {
-     "title": "北朝鮮、G7の「完全な非核化」声明に反発…核保有を続ける意志を改めて表明",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsZ19EWGdobzN3ZjNzY1JqYUZMcUsyck1Ba0wydEJ3c1Q5SkV1NkVZdlVqbGN1N2FHQ0Fjenk4RkJiNkprQUhtWlBWLVlDNDZSQUHSAVRBVV95cUxPWTM3Q1dxSURNeEQtb0VfS21MdHZyRmw1U3RGVnZoVGRSNXVWTmhfY0hYTVkzR1NfR3I4YnhZano4cFFVWlNwbnZtNXdqVy1HODVGY1U?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-13T14:58+09:00"
     }
    ]
   },
@@ -303,10 +303,10 @@
  ],
  "nankai": [
   {
-   "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 今後30年以内に震度6弱以上の地震が来る確率は？エリア別予測データ（全国地震動予測地図）",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwd1pscFh5di1UVUUwaG83T0RqTkxocDFzLUpiUkRZU1BvOXladlpiZXFHb0NIQXVkeUM4N2lndURCUmEzWUJMbXEwYk54N1BLcEJrZ3Y4U2tjWkZIUzdCeEs3LVZfMFk?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-14T06:14+09:00"
+   "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 今後30年以内に震度6弱以上の地震が来る確率は?エリア別予測データ（全国地震動予測地図） (ｔｙｓテレビ山口)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFd6QjBIdVc1QUhQbTJ6dlk5b2MxQzV2M3BidllwQmttaUl4ZUYxSVY5Tk02TVFHTEJBTVBfRjc3eXA5XzhMR3g0QlVhazhlal9NbF82WU0xUzU2d3ZHbUVSVmZHVVJEY2FkMGJKakZTZ284eFRYQklnSlZvUXlEOTZDV0Y3cTBTcVRELXh3?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T07:11+09:00"
   },
   {
    "title": "南海トラフ想定、名古屋入管で被収容者の搬送訓練",
@@ -343,8 +343,32 @@
  "japan": [],
  "cyber": [
   {
+   "title": "全米の空港で「異常事態」地上待機命令 運輸長官は「通信障害」説明",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WY3VSZ05GZTJfODZ4c0NBcFdUc0IyWk9FcDhvUzFFb0pDVEVTMGRGTi1TaXZUMWJyQVBpSlhiWW9GcWZzMHlCYzFKUmtkRGlhVHltRWZzby1yUlg5eGV0cC1hUnB2UC1OYlNvTkpsMjZ0czdMQ1VIY3RR?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-14T07:06+09:00"
+  },
+  {
+   "title": "全米で航空機の離陸停止措置、通信障害で 約7000便に影響か",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnNEcU4wSXQ4NnZmTWMtbk9nQ3NjSVRQbEtxaExiWUlTRkF0T2NZeHhXNTFmb01rTXRPNG40bV9lc0RLejlFSlBuYUp5N3IwSUs3QXVSNVdsWG5Bem5pd1pwb0oxOXJ0SWhnZzNxZG9XR3lMNGIyeVdha2tyejZXZFpFeUE2UTQ?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-14T07:05+09:00"
+  },
+  {
+   "title": "全米の空港に離陸停止措置 通信障害で 航空局（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mTmhESVpMTWlBM2tSaDVfQ00yaEJtaUJYdVVXNG5CWTdTQ1E4NGNZeVVLMGFMZFBaVy1wRzNBY1h6OWFWQ05tUFEyZTQzSUFIMUtEQkhNTy1DUzJoZHNsQnNBbVVnOGJHTVJvZHByUUR2WkhUYVdkZFNxX1ByOWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T07:00+09:00"
+  },
+  {
    "title": "【速報】アメリカ全土の空港で航空機の地上待機命令 管制センターで通信障害が発生",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV2NieXowdW1JOGQxaVhrMkZUWGl3em9UZDJJRlhlQUVncmVsOGlfWDJCTXJ0V21YNnNTZ2VkRG1Gc2pBZEZnRHJrMHVUZnBJa1VvOVp3UURKdUJ2SmdDVWtydTN2VmNLYm42WTJlYnZ6Nm5hbm9wU3FKRURIVEJKTUstTkYtVGhlajBGbTBZWmhXMklXdzh1SlFKdmhGOG9NZEtfQW1MaXh4WE5YSGstR1I0cVN3STFQRURXaXZVQjZ2cWfSAXNBVV95cUxOeWlTQ2tTdE9NRGdBeklpRVM0VExzYlJWVmNNVG4tQXBRcTdpQnc4OE5tNW1KZVpCUlhFQWJmWXc3QnMwOUlUdmFzamE5Y2h3WG1ic2NwbERvOXVvb1ppdE93b2FqSmUwbU94azUwZ0lRbkRv?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T06:57+09:00"
+  },
+  {
+   "title": "全米の航空機に離陸禁止命令、混乱拡大か　管制機能に通信障害",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNWphTGNBRHVlVHY3RjVyMjVrRlZHYjZyRHJYdjVMLU9CT0FhWi1DX1FCYldpcFY5N3NZYzc2Rm5ReEZGVjFGRWpwZ2VVSnlqZG5rd2RJenpNQTM2OTZ0Z2d1bzQ0LTFJTzlHTnZ2Y01SRTV2dVA4emo2Mkk0N1J6ZXV1ZHZWb0xqRmZnOV9DOGZvZ9IBlwFBVV95cUxPZEZSN2t4dXZTYVpCWU9nSDd3czJyeXJSeHhPZ3I5aUJfeUxXMTlPYVNUTXh0MDh6MjVaYk9fbGRZZ3Y0S01razVVVk80SzFxT20tc3M4TGQ2bXlOUWFQbGNlNXhTendjS1NFMFBXYlFvbG0zOTFJbFFZbHUxazlMS1p0R2VJeGJETUw1dm45UnAtSUhfSExv?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-14T06:57+09:00"
   },
@@ -356,9 +380,15 @@
   },
   {
    "title": "全米の空港に離陸停止措置＝通信障害で―航空局",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MYVRUZEN0bEJtWVh2OVNaX09La1ozVTFfODRsZzFVZ0pSLWozSkZGYmFhZnd2b3hORkE5WUJLa0V4YjVMWEMzTGoxWXNuZXZ6bUhNaUpDdlkwaUVTbnI0?oc=5",
-   "source": "Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CZThud0NPRElpWGZENGFEYWVZSVE5VnhfZ1dmcnU2NHR5djJ1WW1DQ1FZS3k5My16dEdNR2twOHFfN3FpYXZ5MFpMeGNlM0VSNUIya0dsSWZMQTBTeG5lZGVwYVdVZ9IBa0FVX3lxTE1TY0t1MTBDUTZDVmxqNk5qWl9hX255VmNza0lHWVY5M2kta0NaVG9QRnhQT2EwTzZPSVNLdWxfR25vQVM1cHVKdjE3NllPLXFVZUpCZmphNm5VLTlKMGlmZmtWV2tLZEM2RDlB?oc=5",
+   "source": "Infoseek",
    "at": "2026-11-14T06:51+09:00"
+  },
+  {
+   "title": "FAA通信障害で全米離陸停止 7000便混乱",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ21xVDh4RHZOQ2N2dk8ybnFtUTBQdVh4LW5ET3NTdjExRDk2MzhXWFFRUGVSdmhKT0RYTU1kN3p3X3VWa3V5NXY5cEp5TlVKUDFVa1FWTG53ZzhlR09JMlFzYUl0X211RzU3cmJucTZmZnBoNVlhU29VUjhPTmhzYWNVZG9nRkU50gGcAUFVX3lxTFBpZHBtSGl3NkdPX1B2aGc3b2NCa2FWUDNxVDIzX0xndzFxRGlqckJBb2gxTzNjR0E4WlhwV2s3b3Z3c00zQmVYWE1DVVo2S1R4SlA5NHFsVUhLaXdMSG5Lam53cEh3MmRSUDNrUkZhcjBFMXhhWUwxa3FZQnJoYUJVQXdUQjZ2SEZCbDhrLVc0VDhJeEVIWURCVmd1OA?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-14T06:48+09:00"
   },
   {
    "title": "全米の空港で航空機離陸を緊急停止 大規模通信障害と当局が発表",
@@ -391,12 +421,6 @@
    "at": "2026-11-14T05:00+09:00"
   },
   {
-   "title": "【マイクロソフト大規模障害】「全く仕事にならない」OutlookやTeamsなどにアクセスできず「サイバー攻撃を示唆する事実は確認されていない」【news23】（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14elE2aVJyemZ2Sk96VlJRLV9UY214Vk5JeTdNUlNpYmlBWS1hcFJfY2xac29YeWFiVEFWdHBnTzZ6b1JrQ1IzUzRXTTVyZlh4WEZoUmpQTjJkQlZQZ2IwN2VqaHdpYnVnVmFINnFfSW5qQmRfbGlQNF9hQ2dWTzQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T01:35+09:00"
-  },
-  {
    "title": "システム障害 マイクロソフト「日本は比較的安定状態を維持」も…完全復旧には至らず",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCUlg2V09vSU1IVWdudU9FMC0tY1NNbjc2Q2xheURxTTBQUUdXTk5hM1dHZWs4Z2ZmWTRRbmFUWHg1czBOekpsSHo5cjZoWmNFQWF6dTJfejFnQkpsYkRLcks4YjBCTmQ5?oc=5",
    "source": "Infoseek",
@@ -404,43 +428,33 @@
   },
   {
    "title": "大規模システム障害のマイクロソフト、復旧状況について「日本は比較的安定した状態を維持」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yQ25WSExhdXlXeTFpM2Z4R1NwZmJaa1VDOWtDVlgyNTlGLWt2aDdqNjhVbVhOZVMtdGkxajRBZkZZdVJTZDBHTlAwSjBhdmlUby01VXF3S0RGYXhSM2NIcjNRTEVkanhWUldUbTZB?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-13T23:54+09:00"
-  },
-  {
-   "title": "マイクロソフトで大規模な通信障害 石川、富山両県にも影響",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QY0RZQUZhRTV6cXpWNTJMckZUMzlXZm9MdTdzQUhXb0p0TzNUZXJoZXl6ZjduMTAxLUE1T0tYN3UxVnZYTVoyX2dXYw?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-13T22:16+09:00"
-  },
-  {
-   "title": "マイクロソフトの通信障害 メールシステムなど県内でも影響多数 富山県 (2026年11月13日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jWXlYbjZISE03MzVnazh4S1ZkbHJFcENKVWVXNmtqc1RFVU1vaDJDb2ljX3JiUVo1UHpxS001N2RTOFNtU2ZUbERyOHZJUVlDRjRfT3NuUWViLWZ5OVE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-13T21:40+09:00"
-  },
-  {
-   "title": "マイクロソフト大規模障害、複数の株式取引所でメール不具合も中核の取引は継続",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsN05UT0YweGxUR04zZnd0SGhTU2FCUEUyQ3lNMVlIZGRsQjJkbmQ0cjYwMHFBMGs0bDhVQVZtQnZYQ2s?oc=5",
-   "source": "CoinPost",
-   "at": "2026-11-13T21:30+09:00"
-  },
-  {
-   "title": "マイクロソフト一時システム障害 「メール使えない」｢会議中止｣改善は？ (2026年11月13日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxYTlQMnRBTmNiUTF2ZFZOQmo3NE5wUDc0QVlpMHZXUjEtb2x1a3Qxa1FiT24yMnpxOGQzTnluX2UxUW9PYlFBTHRqZ0NPbUM0c09uX0hBTDU4V3JwWXc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-13T21:05+09:00"
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXItbkNJN01qbURaYlZxNUJ1ZUdjUEFwWUU3dl9KUFN0cnZGcUhfY3FEOHlKYlJGUlpDcGRkR0hCVHQ4aGdSR1hYNlZ3TFZmWG5RcXJHTk1pbXVQY2VwSXRhMGJYNlBGSzVXV0hXVXgwMWFZT2VtUXJydUhGS3dZN3Y2bDg?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-13T23:53+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "「北朝鮮は3日以内にミサイルを撃つか？」…肯定・否定の根拠を並べて判断を委ねる“AI参謀”、韓国企業が公開",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOcF9JcHY2VWVnaXZIak5CYTdfZmYwSWo4ZXI2cmRZNXJ4b1VMR0ZmdkJMYTZfSVFsNUl4ekJQUTc3SDJNY3dMelBvdDBQejFxRTgtczB5X2xWR2ZHR0pkTnBlZldZVGRsWkNDc3RhZ0F1R19tUUtKNEFyQnAwRkpPUWZfRXBTYWhHc2FPWFk2UVM2cDBuamJDSFVJX3FPd0E4MUZfZVRiNG54U2tWdmFULXExY1RMZmtWX0V4Vm9MNFAyYVBVeVdqNWhSeE9JTDRnYmxxczU5VFZnaEdUUnV2RHJJUm55VmtacllxWTZ4QUN5MWJUcUtIb1BRc1B3VUx3SG53eHJMdzlmU2NQMUlWZVN6WmpZRGJQQjVZWFlPVmtJNkZJbTBXR0NvQXZGUmRWcl9DSWNXdw?oc=5",
+   "source": "KOREA WAVE",
+   "at": "2026-11-14T07:10+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "12日、モスクワでロシアのプーチン大統領（左）と面会するウィットコフ米和平交渉担当特使（タス＝共同） - プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か - 写真・画像(1/3)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPYkZsd3ZGM1pQTzAzOTRfUkhKTUxpcmxEbGhfRXJUamd3UzRJeUxBNGg3SHBVSXJYTy1PR3V5eXBhVXJCeE5Fcnp1NmF0bFJlTElnUDU1TQ?oc=5",
    "source": "西日本新聞me",
    "at": "2026-11-14T06:55+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "Axios：モサド長官は、ベンヤミン・ネタニヤフがイランとの戦争再開を求める圧力を強める中、米国当局者との会談のためワシントンを訪問している",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtjLU5kVTUzTmQ1U1oxZXREaWlMWlBLU2pGQjhtZWNSOWN3WFBFU2lpM0V6cmg0aXpIbU5FOF9qZ1lNamlNNGN4X2h5bFJUcHJBR0lyNnVpNHYtcDI3VjVkTk4yNWFsRUphNk1vckFfdERFRnAzQVdvZWpjY2NXalQzODVqWDZJQWZaWWtNXzFxZ3VqNTRUMHdjUTQ3RVVYUHdrMl9fQQ?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-14T06:05+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か",
@@ -560,20 +574,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T17:31+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "イラン、バーレーンの米軍レーダーを攻撃と発表",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZ3F6OGw3Vm5yVkdabmVCN2VaZXNrV3dwUTkwMUdVRnh5aTVZSHZ5ODhodld0R29qSkgyd19DY2ZyY3NIc2E4dlBFcE8yTk1NYVoxS3ZhOUxscTRMeXUxVjBua1FtOUM1TndUNQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T17:22+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "韓国高官と中満国連事務次長 北朝鮮核やAI問題など協議",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nQUNIU3czcjJNb0dYZTV1bXlyVm1jNUQwbGQ4cFN2NUFFR3NzMzRwMmkzOUFXRXo0bzY0RmZhMU5JOVM0UkdwYkwwYUNOQmhnZFdJSlBSelRyYXZoUDlQNUkyZ2ZIVTlzZzE5SFZMdUVwQUZvXy00T0wzRUNrdkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T17:15+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -592,8 +592,8 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」3件",
-    "北朝鮮：「攻撃」「ミサイル」2件",
+    "イラン・アメリカ：「攻撃」2件",
+    "北朝鮮：「攻撃」「ミサイル」3件",
     "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
@@ -605,10 +605,10 @@
      "at": "2026-11-13T23:47+09:00"
     },
     {
-     "title": "【北朝鮮の\"なりすまし社員\"が同僚に？】AIフェイクで面接を突破／1日で80億円を資金洗浄→ミサイル開発の資金に／AIで暗号資産が“崩壊”か／「サギ師も被害者」の衝撃実態【1on1 Tech】",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFSWZzUUFKSGE0YmZmYW5jMVNNZHoyXzcwS3RzRGhNZzRMN01taVZSZ1hXdlRvNERuQXl3Y21maFluZFE2RklrV0pVOWxqNlI1RWt0Rld5RUZCVHlrNTBJcXhtTVNyMmZTRHBhWURxZXhCSGFJ?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-13T19:00+09:00"
+     "title": "「北朝鮮は3日以内にミサイルを撃つか？」…肯定・否定の根拠を並べて判断を委ねる“AI参謀”、韓国企業が公開",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOcF9JcHY2VWVnaXZIak5CYTdfZmYwSWo4ZXI2cmRZNXJ4b1VMR0ZmdkJMYTZfSVFsNUl4ekJQUTc3SDJNY3dMelBvdDBQejFxRTgtczB5X2xWR2ZHR0pkTnBlZldZVGRsWkNDc3RhZ0F1R19tUUtKNEFyQnAwRkpPUWZfRXBTYWhHc2FPWFk2UVM2cDBuamJDSFVJX3FPd0E4MUZfZVRiNG54U2tWdmFULXExY1RMZmtWX0V4Vm9MNFAyYVBVeVdqNWhSeE9JTDRnYmxxczU5VFZnaEdUUnV2RHJJUm55VmtacllxWTZ4QUN5MWJUcUtIb1BRc1B3VUx3SG53eHJMdzlmU2NQMUlWZVN6WmpZRGJQQjVZWFlPVmtJNkZJbTBXR0NvQXZGUmRWcl9DSWNXdw?oc=5",
+     "source": "KOREA WAVE",
+     "at": "2026-11-14T07:10+09:00"
     },
     {
      "title": "黒海越えバルト海でも…ウクライナ、ドローンでロシア哨戒艦攻撃",
