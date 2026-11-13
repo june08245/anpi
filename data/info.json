@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:30+09:00",
+ "updated": "2026-11-14T01:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "脱北者が語る「北朝鮮軍サイバー部隊」 ネット黎明期に金正日総書記が創設…中学から選抜しエリートが部隊へ【news23】",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10bllqZUJhM3FhOE5kSVFIbG9ya2lxMy15VHRjT1VBR3F2ekJYOUhTRW42TndPWERleFdmVF9kS0p0bjhEOVlIMUF1QUkyS2NjQ1VCMTBacmpLeGp3eExNSURTemI?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-14T01:35+09:00"
+    },
+    {
      "title": "【北朝鮮の\"なりすまし社員\"が同僚に？】AIフェイクで面接を突破／1日で80億円を資金洗浄→ミサイル開発の資金に／AIで暗号資産が“崩壊”か／「サギ師も被害者」の衝撃実態【1on1 Tech】",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFSWZzUUFKSGE0YmZmYW5jMVNNZHoyXzcwS3RzRGhNZzRMN01taVZSZ1hXdlRvNERuQXl3Y21maFluZFE2RklrV0pVOWxqNlI1RWt0Rld5RUZCVHlrNTBJcXhtTVNyMmZTRHBhWURxZXhCSGFJ?oc=5",
      "source": "TBS NEWS DIG",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXWGMxRTlUbGx1RkdkYVhneUxJN1ljTzlucUs5bWJlMTFkUnJXU0VjaUg3VWplX3FIVFFPYy02dmdDWU5wcHZXTzd6UWstem92aWJjQW1OSkpsRmdnUk9lM2VMMVp2WE9vZVBwVjZHSDcyb0FTX29YN2s3MXZ0N0U?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-13T11:37+09:00"
-    },
-    {
-     "title": "存在感を増した金正恩、焦るトランプ…再燃する米朝首脳会談（朝鮮日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRZ1Y2RkNrQUFsa3RuVFgtRm9mcnNlb0JHQVh0ekt3YzRRQzN0SW4xSW81ZmJIc090YXlTNFVQaW1Sb1g3c3dfLWp3V1JYQWFfZUZWWHBPcU80aXVfaXk3bVZ5dUlHUDFqVjhLWlVEd2xVLU9HNXhzVVBvZ3BnaGc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-13T11:35+09:00"
     }
    ]
   },
@@ -350,6 +350,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "【マイクロソフト大規模障害】「全く仕事にならない」OutlookやTeamsなどにアクセスできず「サイバー攻撃を示唆する事実は確認されていない」【news23】（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14elE2aVJyemZ2Sk96VlJRLV9UY214Vk5JeTdNUlNpYmlBWS1hcFJfY2xac29YeWFiVEFWdHBnTzZ6b1JrQ1IzUzRXTTVyZlh4WEZoUmpQTjJkQlZQZ2IwN2VqaHdpYnVnVmFINnFfSW5qQmRfbGlQNF9hQ2dWTzQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T01:35+09:00"
+  },
+  {
    "title": "システム障害 マイクロソフト「日本は比較的安定状態を維持」も…完全復旧には至らず",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCUlg2V09vSU1IVWdudU9FMC0tY1NNbjc2Q2xheURxTTBQUUdXTk5hM1dHZWs4Z2ZmWTRRbmFUWHg1czBOekpsSHo5cjZoWmNFQWF6dTJfejFnQkpsYkRLcks4YjBCTmQ5?oc=5",
    "source": "Infoseek",
@@ -432,16 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VcV9Ec25XQnNOV3FBMjRkSUZWUkYwRHF2R2h4c0l6UURnV2psY2hiNnBSaFdkTFFwNlhwUFB4SnlDWC0wd1BicnI3NVdzbVBpV00xc1JOVkJxbC1mWEZMWkFnVDRoaVBKbFpvQWgyQXROak9KWFNiRmlOLVZ6c0k?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T23:19+09:00"
-  },
-  {
-   "title": "証券口座への不正アクセス増加＝10月は168件、前月の3．9倍―金融庁(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHE5MURfTC1wcG1NSi1JQkZ6N1FfR2JZZjhHQ0tfcTFIenlSTE1GN25OV0dFNVc3Vkw0aThuYXZqSHcza2QwQ2VZaGh4ZEdXT3BkR1dXd3NuUnVtbnBhTF9BQklQanA4TFF0elhxTTQwVUpJQTYwdlRubEx5ZkY4MlZEZ1B5dDg?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-13T23:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "脱北者が語る「北朝鮮軍サイバー部隊」 ネット黎明期に金正日総書記が創設…中学から選抜しエリートが部隊へ【news23】",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10bllqZUJhM3FhOE5kSVFIbG9ya2lxMy15VHRjT1VBR3F2ekJYOUhTRW42TndPWERleFdmVF9kS0p0bjhEOVlIMUF1QUkyS2NjQ1VCMTBacmpLeGp3eExNSURTemI?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-14T01:35+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "米財務長官「イランの脅しに屈せず」、殺害予告で軍基地に転居",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55TmZEUElMZ2MzLW85dzFHVVE3S29wUW05SFRyS09aY25fNnA2ZEFDV29URWg1ZkxpU09aQjBSUU1lbnB2d0x2NTljYmJrVjBra1F2aWxDbEhVLU53ZmZfeWJWS3pfNW42RXM3R2lsVmZjT2cwODhhaVBmLUdQZ9IBgwFBVV95cUxOTVpiS3ZaY2NCaGlvMzlJM0hYMno0Sm9DUy1MdFU1WUtoeG1aVlQzUUtpeXkxWmZZZ0VVaTJ2bEZaZUFmVkVYTlAzakUyRWNVSWFhalBZQlBmblhwamZqcjZqV0lRcllGNnZ1cmxtLXdnZ1Jmc0tYSGNyaHJqRnlRdVZNRQ?oc=5",
@@ -574,13 +581,6 @@
    "source": "J ディフェンス ニュース",
    "at": "2026-11-13T15:20+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "北朝鮮、G7の「完全な非核化」声明に反発…核保有を続ける意志を改めて表明",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsZ19EWGdobzN3ZjNzY1JqYUZMcUsyck1Ba0wydEJ3c1Q5SkV1NkVZdlVqbGN1N2FHQ0Fjenk4RkJiNkprQUhtWlBWLVlDNDZSQUHSAVRBVV95cUxPWTM3Q1dxSURNeEQtb0VfS21MdHZyRmw1U3RGVnZoVGRSNXVWTmhfY0hYTVkzR1NfR3I4YnhZano4cFFVWlNwbnZtNXdqVy1HODVGY1U?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-13T14:58+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -588,7 +588,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（【速報】南海高野線と泉北線が運転見合わせ 停電の影響 復旧の）",
-    "「システム障害 マイクロソフト「日本は比較的安定状態を維持」も…完全復旧には至らず」"
+    "「【マイクロソフト大規模障害】「全く仕事にならない」OutlookやTeamsなど」"
    ]
   },
   "japan": {
