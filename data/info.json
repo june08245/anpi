@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:30+09:00",
+ "updated": "2026-11-13T16:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "南海トラフ地震 被災想定10県知事が防災庁へ政策提言",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOYnpUZzhGcnNXcHRPNFgwTmZyWWpMNHpCVHdrTXJKbFlsT29XYmFlMnB0TG9GbVFaajR4NFlIbFZ3d285UTlQR1ZGMy1hZGY4aWlnYk9hVHJTclYzUHRB?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-13T16:34+09:00"
+  },
+  {
    "title": "南海トラフ巨大地震を想定し、九州地方整備局で開かれた訓練＝12日、福岡市 - 九地整、南海トラフ巨大地震に備え通信訓練 - 写真・画像(1/1)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NaTBTYVJQTWxWQ2VMS2lseUx2MDFiOUlHRDlzYWk5dF9FbjhmTk5CcFEyQVNCOXhRWHY5Yk9YaDBrS1otZ1pGXzJ5RlZNUDA0eWNrTG1Fcw?oc=5",
    "source": "西日本新聞me",
@@ -331,23 +337,10 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ha3NiWkltZk9tQ3R2cjZwQWo3UjdtNzdrWHRzVVVGelhjSTZKN0t6cmQ1UENpY0FPSk5vY2otUzF6T1gtQmFteGtORDRJSlZ2VGdBUW9FT1luU1loN2J0eFVhNWl2UlU5cGRDMndGM2M3bTZ1TmJFX0ZEc3VrY2s?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-12T18:34+09:00"
-  },
-  {
-   "title": "高知 室戸 南海トラフ地震の孤立地域想定した物資配送訓練",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zTlZkYlhINHJXZmlERGVIbFIwT1ZsdDNpNmFVZjVVSVlqOFUyNExpSXFXR3B6Q3RsMWNtYjNhbzFHclEybkh1cGlxNV9vdVNMVmQ4YVNiOXJiUHBZT0Fz?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-12T17:45+09:00"
   }
  ],
  "outage": [],
- "japan": [
-  {
-   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-12T19:12+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "マイクロソフト大規模システム障害 完全復旧の見通し立たず 世界中でメール送受信など不具合 “サイバー攻撃の示唆なし”",
@@ -366,6 +359,18 @@
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RUEttcXRSU0tCbm1YVW5ETU5mdW9RM3lRTzU3VWFEMnJTR2lNRnI0cEtIOWljN1kxNDFfTWNfTXpOSmxvR2ZJWWYzRzM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-13T16:19+09:00"
+  },
+  {
+   "title": "【まとめ】マイクロソフト大規模障害 OutlookやCopilot使用出来ず「休みにしようぜ」オフィス混乱",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMFd2bVlpUzItYzNYU01NT2kxd3JaQnJwOWFudnFuekFYeDRhZk9XMUNmV1lEZnBhdU5iMFM0X3I2a2haLU1CSWwtelVBaXk2bTdkR2JrRVROS0JubFNFaVVIRWNIVHpvUzg4VjE3d0ZGdGFWcmVDT19vNVpCNEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T16:19+09:00"
+  },
+  {
+   "title": "Microsoftで大規模なシステム障害「各方面への連絡お手上げ」など困惑の声 (2026年11月13日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXaDRYZWM0NzcxSzF5VDZ2M3dMclFsNnFKRE4zUFJGanM3RWhlQ0tEZFo5RmJNNDlqODV6NF9EQzhKMTAxazhxQ1BGbV9ocXRuc1MwME5ydkwxVHprSkE?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-13T16:16+09:00"
   },
   {
    "title": "【重要】Microsoft 365のシステム障害に伴うサポート対応について",
@@ -404,40 +409,28 @@
    "at": "2026-11-13T15:22+09:00"
   },
   {
-   "title": "【情報まとめ】マイクロソフトで大規模通信障害、世界各地でOutlook使用できず 復旧作業「良い結果」から一転「効果出ていない」",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-13T15:00+09:00"
+   "title": "サイバー攻撃に揺れる日本企業、中間決算の会見で浮き彫りになる明暗 [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icGt5OEh0NEFQa1gtNzVaa1R3NS10cGotU3ZMb1lZYlZOR0d1Zy1lcjJNNkE3dHgwQXk5S0xfMTZmem4yWmxzQldFeVZxZ0lieVZEN1JEajNPWXREUlVkUThRRWdpems?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-13T16:35+09:00"
   },
   {
-   "title": "ＧＭＯの不正アクセス問題、利用者からの被害申告は計２９４３口座で２９・９億円に（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kSjdiRF9ydnZpakluSmhjVnRldzZDc18yYU5iZHJWbVBycWV0eUp4d2U4WngwTFQtWWR6a2xCMVJna09Zck55NHo3bnBoYU9ieW5JaHk5XzdiazFlZXBrSF9MWDJWMEh5Sng5RnFrYXNWSjRtdGRKbE1ZLWhtZDA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T16:22+09:00"
+   "title": "GMO、サイバー攻撃による不正取引、補償30億円　見舞金も",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUDJ3TEg1UW9wdURmSkFJRXZ6eGY1ODZJaDZueFhnRk9BUHVOQlNvWlVNNEJVcXBOSTE3d2I3UFVVQmtvTHl4MS1GTnQ1RTZISjJ1QXR3bmpWSUJlOUtVaFJxVGs0U1hWV2hJNDVhT19KZHpEQ2fSAYoBQVVfeXFMUHU2NDk1T1VYTXNKQWtHd19UYXZMWHNtQkNJTEJ0Z21lZWtaeXloUmpvd2ZvWWRndzBFdWFnSG9Ja0F5MWZKc1ROcHM2WFJ0clBZZjV2VmpUSFlqZ2hVMG12ckY4T1NqbWJMcFZ2ZGNwU2Y4dHN3MUhQSTQ0RFBHS2M1SFJYN2ZJZEhR?oc=5",
+   "source": "サンスポ",
+   "at": "2026-11-13T16:33+09:00"
   },
   {
-   "title": "不正アクセス影響、３０．５億円＝顧客の損失補償やお見舞金―ＧＭＯ",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdHU1QTI2MnZRVGR2ckJuRWlnVnZmeEE0UEJVTGlOZFFxOTY2UjV5SDBSTTVzS3czS041bG43YzJvZXNlZklmTzNzMVhfbExjSDZWaTdQbEprTngwUFotYXVOVGNMLWF3N1dVMW9tblhCTVNjWUg2c3hMd0dQQ25nNUlzMnh1ODFiWEVwTlNFWdIBggFBVV95cUxNMVRLNUMwSVBHamlEWVdOcFJXZDVSXzFkTXFodW0xWllTbWdUWnExTnQxTTBZWldjS3FaQllGSHBtMVp0V0FhQUN0Z3hIUDktaFp2clNPMVhudV9UUTMzelB2S0FadmVtaE1zREx3azBhcjJQdExERFpXNmk1Sm01eHpR?oc=5",
+   "title": "和歌山県白浜町のアドベンチャーワールド、チケット購入者ら5,709件の情報流出を確認 アララ不正アクセスで認証・購入完了メールの定型文も対象|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHZ6TjhZb1NfXzFMOUF5d3l0Uk5leDVNcy1UcUs3WGg4WFBFVVNSTnJXeWo5UC16UkhHaG5HVXNHaFVDYnZJeUQ4R01xZTFWSnBhcVB6OVZsRFFfajRDN2hXNUVkTFg5cm5Sdy1KMlFfN3dJQkFYdXNBY1ZNU1R6aF9qU2QxWjE5bzM4OVVjT195UDZGM2x1c3dBZDkya3FMSEZtb2NZMA?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-13T16:30+09:00"
+  },
+  {
+   "title": "GMO不正取引補償30億円　サイバー攻撃、見舞金も",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeExkX2lmb01qM3BkV0sxcW4xRWNzX0QzQkIwUEgweV9IQmc2UW1KVGRIX3JMZHNYNlg4b3ZXTjFXY0U5WXVNaUJyZU9TUmowMEtETVpwemIwcUZwR3JqMmdlNXRWQkNWT1hHMEktVVRYVEdNbmJ1OHBoX1pTeG1JSHJUUGlsN3JEVDctLWp30gGTAUFVX3lxTFBMWXhiX0hXZVUzQnpnd3VzWnVQN2s2MEhhM05obHdZRnowQlpHY1F4cXRVczV4VWdVLWxOb1JVNlo3RWM4R1c3SDdSeHFDekF1SWdKZUs2eTY5bVFMSnVZc3RRdUZmT3E5OURIbVpXVy1fNk5TcDdPWWZ5SzdNeWExN1p6Y3VDVjQ0MGgwX1M3TmxLSQ?oc=5",
    "source": "ｄメニューニュース",
-   "at": "2026-11-13T16:22+09:00"
-  },
-  {
-   "title": "チェンジＨＤが安値更新、子会社の減損損失や不正アクセスで下方修正(ウエルスアドバイザー)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR3JUR2NnYmJYc1NqZE8zVk52Z090RGlKUWUzcUU0Q05odGVLbTdxZ19fb24zVDBSQW9mUlFodGhXMThta3dhTnlQRF9Vc2MtNDl6bUZOZEVkal9lRjJEMGpwV1pjNVRkc0RRT3Q3UlVVc0E4Tmtvb25EVkxnVFVhV1U1SUg1MkE?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-13T16:15+09:00"
-  },
-  {
-   "title": "大阪公立大学「学生・教職員の個人情報17万人分が漏えい」と発表 情報の一部には銀行口座番号やパスポート画像など約1400人分含まれる 10月のサイバー攻撃によるシステム障害を調査する中で判明（関西テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rN0ROeUloa2xBMWVfeVZyOVNNV2p2ckdxSTFSUm5wTGppRVlESGE4REFSSTRkS0JnZTgxQlpLZlhyamFtb2dNeWRGT3B2ZmpxbkpUcUFSdG1uMWlQLU80bWNCWmFVSlJ5dmdkTWNnQ1FUelNoaFJZcXhidy04SlU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T16:15+09:00"
-  },
-  {
-   "title": "GMO不正アクセス問題 顧客補償費用などで約30億円想定と発表",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wX3ZLSmtfckdHSXloMkxZRUtfNEFmeUVVLWtSSnZ4Tk1oRGpYSkdHRnJlMFM4SUNlRzN2VURFaW1mcHNBOVFpS19McUt5NVpYVlQ4cGxsdkVkTlAxcjZB?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-13T16:06+09:00"
+   "at": "2026-11-13T16:27+09:00"
   }
  ],
  "osaka": [],
@@ -591,9 +584,9 @@
    ]
   },
   "japan": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
+    "大きな地震やミサイルの報道なし"
    ]
   },
   "world": {
