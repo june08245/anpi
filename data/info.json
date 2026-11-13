@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:00+09:00",
+ "updated": "2026-11-14T05:16+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -343,6 +343,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフト 世界規模で障害 沖縄県内でもメール停止",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ybl8zSFhhNXR3U1hYRUgySms0SmFSSG5CSnYxeFlqcWI3R3NMYnlnRlBwZDV5WjBQWTFrSElHVk40U25DZ0o2dXJhZy1tVFF4RzVQM1pVVl9oNzc3eXZYT040X3dwc1E?oc=5",
+   "source": "琉球新報デジタル",
+   "at": "2026-11-14T05:00+09:00"
+  },
+  {
    "title": "【マイクロソフト大規模障害】「全く仕事にならない」OutlookやTeamsなどにアクセスできず「サイバー攻撃を示唆する事実は確認されていない」【news23】（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14elE2aVJyemZ2Sk96VlJRLV9UY214Vk5JeTdNUlNpYmlBWS1hcFJfY2xac29YeWFiVEFWdHBnTzZ6b1JrQ1IzUzRXTTVyZlh4WEZoUmpQTjJkQlZQZ2IwN2VqaHdpYnVnVmFINnFfSW5qQmRfbGlQNF9hQ2dWTzQ?oc=5",
    "source": "Yahoo!ニュース",
@@ -391,6 +397,18 @@
    "at": "2026-11-13T21:05+09:00"
   },
   {
+   "title": "巨人ファンクラブ サイバー攻撃で会員情報８０万７０３０件流出",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NTGFUTS1ManBwNWJQUkN0TlM1Y2xxaEZ1TnBDTFdXeHVGMXY4OThvY25wSGRkeWtBQ3RmTXZhbmNnMEFra0tGdEFJeHplZklMMHNZelRzQzBTSlJOLVNfYThEYlg5ZEM2MTFWWA?oc=5",
+   "source": "デイリースポーツ",
+   "at": "2026-11-14T05:00+09:00"
+  },
+  {
+   "title": "千葉県の受託事業者に不正アクセス ７件情報漏えい可能性",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56bGxOajN4eFNwdVMzUkJYMm8wU2FoOG44clVsV0twV0xBZndlMkFMdDFvSzJGWXJBY1Zid1FGREdUYkRheTZXdTljUU9IODNmeU10T0lONDc?oc=5",
+   "source": "千葉日報オンライン",
+   "at": "2026-11-14T05:00+09:00"
+  },
+  {
    "title": "マネックス証券、不正アクセス受け本人確認の画像１５９２件漏えい可能性…メールアドレスは最大１１３万件",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJWVRYYldpaU5qdHdNV09kVXNMbUxSTjhnVlEycUpjaFhFUmJlUEhLU0hCaWM2eDJQdEU4UmxUZDhTTEJZaS1CQk9IRnA1SG03bkJveENDRkxHekx3WkljdVhDdFA?oc=5",
    "source": "読売新聞",
@@ -413,24 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JVVhuVkVQOEZ2OGdfUjFHdmRSTHlpSHpXWXd5V1VpUnUwQ1RKSGpiOVhfdVRZdjktZ0NVcnNMZ3h5Z2tOaVh3ZzJQMkExakxSTExfMmg1YzFNcFVpLVR5WHktTDFhM1R2QzY5QUJoMGg5X1Nk?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-13T23:55+09:00"
-  },
-  {
-   "title": "ヤマダデンキ 不正アクセスで最大350万件が影響受けた可能性",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ucnVObERwVmQwMzBlaDZrejhLUzlTNXNNMTBCUWQwZmd4Qlh0NkhvNXpzSHFsMnVpVUlLM1JfS3pxMUxEd0Z0WTBiVWdQSVBiM1lwYjVoSEFQS1hDcDBF?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-13T23:39+09:00"
-  },
-  {
-   "title": "マネックス委託先に不正アクセス メール最大113万件漏洩の恐れ | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxONmF1QjcwLS1XOWNOTFlvT3p0Z3p2eE5jRncyLUh1WExUdEdfbTZfdTFaWGNHM0JXcy1UV293dlNzaHRrVVB3MDhlbGFDdGFfck9WWjNtY21TZk1KX3VjWUtwMWJydlEtTExYWFBvdVVQcjlMUGtISVJwcC1ub043SmZuWk05T01XcFhDQWRMZ05fTkVMX1UzVjNaU2UwcGZoN1BPMGJKWGtBbWk0SGthcDBfZjVocndzOVk0YUQwX2k1X1ZnQlpUci1LWVVNLXRpZmVVMUdCRHFMdlhOZnVtV2FZdGZ1dnlvYVhFMWktSmFUNGJaVzZfaDM1eklscjFUVE9tTkEzN3NWTkxqNjMzbW44N281SW51aFItNHlYMnJPcDdHTUlsZGRFVjdraGt4cDN4ZEdvZXNLaDJpekV2LUVXNzQ5YmlhZ0VhRTY3VVdSS2pHZnA4eU5RMnRvTkVLVWFTQXRzLWZnZmZDNExUVHhvUi0xRXo3S2hnVlN2NnJfTEZ2cTU1X0ZDUlI3Z1F1ZG9rckllZkdhMG1WY3ljWUEtdXlQOGNOTDB3Wk1MdGRxbjlYdUgyd3A5UDhEekU?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-13T23:38+09:00"
-  },
-  {
-   "title": "プレイド「KARTE」に不正アクセス、全プロジェクトで全機能を緊急停止 配信も止まる（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80bWd0YmhiNnZob1NhUHVUcDdLVUJzNU9uTEtycmxGTnk5VkJaYmxlNUpnSERHVVFsdi1qNUR5Z3dSbGp2bG53eTIyX2F6aVcxXzFKcWVuSUZCX1hZbzJ6c2tBT1hEa2c4N2g2Wlloa0Z5cHByS3l5YXRtdUVrbHc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T23:25+09:00"
   }
  ],
  "osaka": [],
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「【マイクロソフト大規模障害】「全く仕事にならない」OutlookやTeamsなど」"
+    "「マイクロソフト 世界規模で障害 沖縄県内でもメール停止」"
    ]
   },
   "japan": {
