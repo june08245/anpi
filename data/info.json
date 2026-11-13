@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:15+09:00",
+ "updated": "2026-11-14T08:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "欧州「5か国とEU」を代表団に ロシア・ウクライナ協議、仲介の米国は絞り込み要請",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NYTRfYTBNamc3eXp2MUFqaGROenc5cVQxWE55RGlDODd4MnY3NkYwdVJoYjhQeDYxVndqcXpsY3ExejlNS0RPWjhlck1EU1VUVW9BYmdCbW1ESEgyZGk4VWtnSnZ6cGluVVkwdU5zMHMwVG9UVUE?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-14T08:23+09:00"
+    },
+    {
      "title": "12日、モスクワでロシアのプーチン大統領（左）と面会するウィットコフ米和平交渉担当特使（タス＝共同） - プーチン氏、東部でも局地停戦と人道支援提案 ウクライナの実効支配誇示か - 写真・画像(1/3)",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPYkZsd3ZGM1pQTzAzOTRfUkhKTUxpcmxEbGhfRXJUamd3UzRJeUxBNGg3SHBVSXJYTy1PR3V5eXBhVXJCeE5Fcnp1NmF0bFJlTElnUDU1TQ?oc=5",
      "source": "西日本新聞me",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWRzbUNHcjVVUi1KZm5nMmZJMkV6R3JiazhCdFNTTVdSRkJlaXJMTGU4aFBlQTQtTmIzQnhYV2pOZklPX3NGVGxXclMyVnE2NkdGTkNieXBYWFdtTkRaeENfZE44QzRqUTlmcjBHMzdkbk1iSkFiNVJpUFlkM2ZiUTRHU2cwU2t3?oc=5",
      "source": "조선일보",
      "at": "2026-11-14T00:34+09:00"
-    },
-    {
-     "title": "ロシア軍のオデーサ攻撃　２名死亡、７名負傷",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0lsTk9ZWlRFT1NfeDZqamRZYzBJcVAzcjU4d0dUQ0hFdnV0WFo1U0hPcE0wYkowVGUzQkZSM2pza0tKNkZYd3NMX2x3ajgxWXY1UkhOSTVCT0tPSXVTeDBsOUkybFowb0VTaG15RkJISUFGM05FRnQwWXVPX21Jb0RQYmxIN3o4ZVp2bU9DdExNSE9JVzhsMC0xNl9EUlRP0gGmAUFVX3lxTE5kUW1CTmF4ZWc0MlpDek5uSHBkLU9NdGlNZ1c0bEUxeEJiSHFxZ29JWVZKZFJDWUgzMHpRWmFjZjZVNmFyMDFTbkJjWWQzbzNJbm8xWGRPc0d2VmdMTFNQMWtlUkJvaTd3b1k1SnB1OUZNV0ZKTHpRRHFCaWV4VVNXOVZMZklydDhfMHpEbG9GR1ZLMjE5SGdKMmxXOEt3Mmxya0o4Z0E?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-13T23:22+09:00"
     }
    ]
   },
@@ -343,16 +343,28 @@
  "japan": [],
  "cyber": [
   {
-   "title": "米航空通信障害、ソフトウエア更新調査か",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ENDZSODVrdS04aGU0RS1TYVBDZ29jSVJwSl9IY29BWWc4X3pUVmJ2YVJJQXZGTlF2NzdWakhDVnctUzhSLVZXZzdVdFBJbU5zcWVuQmtB?oc=5",
-   "source": "徳島新聞デジタル",
-   "at": "2026-11-14T08:09+09:00"
+   "title": "マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92aTljbGNZaWFEVXJxb2prQ3M3TTVNTHl4TjNVTVFfc1ZwVUY5QWg0WU9tTGxZZmgxSks4d2hlT2QzQXFvczV5YjVUNVdWbUh5aXRQS19lbS00OTFxZ1V5TGZDck53ZW8wRmR3cjB5Ni1EUHfSAXhBVV95cUxQMUVmZDFSaTAwVHExZGw3d1J1dkVFRGYza2c0aFdZaDZ1SUVRRlNBa0RxMU15Q1lnSEFQNVR5b0hzZUxfbUNDNmlBaG1zMDhuV0hzMWhFNEZwOHdaeThVQzlKMTk3WWRqXzZEaVhvb0dwMzBNLUJyQVI?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T08:18+09:00"
   },
   {
-   "title": "【マイクロソフト】システム障害「現在も復旧作業を継続」「サイバー攻撃を示唆する事実は確認されず」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11T3o3eU1PcEFlNkd4RkFpNHR6aTE4R1VFNjZvVWRzdTBqTXhkSUdBZTZrUGRLOXVIeDN2aTcyd3FObHhaUE5OdFk3YWpLdnl5cjMteUtTNFgxalFZbkN2QV9vRnhrdEVUX3IwNzFB?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-14T08:06+09:00"
+   "title": "米航空通信障害、ソフトウエア更新調査か",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOTQxejNMeHlCMlNCQ0xvallFeVpxX0cwTmNKaEpTMFQzR2ktRlZYQkNmSW1DRlVVRWJsZTZhNWZsa2t3QmZKM1FHSnR4dmdqeTlCS0JERDV5N3NWaHNGVFRHdkR5djNmem5FRzlCdzQyVnJhWWY3OV9XZkNxdTFxQlJtS19Bb3YxSUHSAY8BQVVfeXFMTTFfbkdyX0N2UWxHa1BCQ0JqcVVJbnhNQWtILTVPcDBhQVJXbGF3OTFtQ2tUNG1WQXFyWEJqZTVwX0pNdVQ2U2VkbzlWc29tdmVfRkwyVWVrZzRudFlaSW1PcUNiVVhPenE4a1E1b0t2TFNhMFVPMkIzXzJPQjgxZ0VnME9JelNuUTJnaEVZc2s?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T08:15+09:00"
+  },
+  {
+   "title": "【速報】アメリカ国内の航空機全便で離陸停止命令 通信障害の影響か 米連邦航空局",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGFSdHJHVVVDWm9xZVhobEQ2YWpSN1RFRWphX0VsZWZONmtxQ3dPZUV4dWVJbG92OFB5cnJ1ZTVqODVMQWdKb2dtNWN4Qm9VdE5mQ2NKdl9ybi1vS3Rxd3lzWl9sRkpBYjFlSHJzNE9SNEU3N2JZQTd4OVdsblNlVXpiTlAyZjJpbTk1MjhvMkxXdDVLWE5OWVFHSVJJckluZDVHQURReTVKV0dmeFlwNndiUHc?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-14T08:12+09:00"
+  },
+  {
+   "title": "全米の空港で航空機の離陸停止 通信障害、当局「脅威の兆候はなし」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNczBmbWg4TTNnYVUtQzBpNXBWQkU5d0EwRTh5a2xrTHVSblJqdVRmNmdLWDUtTDhQTUFUc2JPc0l4RVhsbmk4VF9CT3ZMUHhLa1A2Uzc2N1psUzZncVc4ZEVuR1JYbXVsUXFydA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-14T08:09+09:00"
   },
   {
    "title": "【情報まとめ】マイクロソフトで大規模通信障害「広範囲で復旧 安定し始める」と発表 未処理のメールは大幅に減少",
@@ -361,28 +373,28 @@
    "at": "2026-11-14T08:06+09:00"
   },
   {
-   "title": "マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zTkxHU1JpWm5GaUkyUzNHdU5QcWI4cGVnRUtYZElpcTE1a3liNFI4ZmNjR1BuaExROW1IbjFMa2lFRENteTZZWWtuMEFjbFZKWFHSAVRBVV95cUxQVk1vOGhLUk45aVh1V0l5bHdxUnh5c0FVckZOSUVmMF9lVlFIUk1TSmpSMklRQnRvUTdrSFJaejZrdV81YlBsbVdkX1UxRjE0Q1F0cmo?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-14T08:02+09:00"
+   "title": "【マイクロソフト】システム障害「現在も復旧作業を継続」「サイバー攻撃を示唆する事実は確認されず」（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lQW9aOEo4T1BHdnd0WDFQY0VLNlJYSW1CQkxHVWo4VFBkWE55aHlRZTVYZTR2N05Dc3NUZlZERnhwVXVtSkxBem5jajZ4bVlNdWVqaDdJVXc4Yl9wN1FYc3hLSE00M3RRRWJjV2d2d0tYXzdQR21WZXUzV0VjREU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T08:05+09:00"
   },
   {
-   "title": "「完全復旧めど未定」マイクロソフトの大規模システム障害（日テレNEWS NNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFS2JGbk5Yc01wR3lYbU1fSDc1Ml9Sa3ZaaGd2emVZcVNFVnhnT1ByOGZUTXoxX1ctZ1ZscGoxbmQ5WW1VRHYtVnU1bHRCWTA0T213OVFBOFBhRnlmUTZaMzU4NDkzb3VNS0x3QXR1amwyd1I5b3FBdUFCc2lFY0U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T07:46+09:00"
-  },
-  {
-   "title": "全米の空港で地上待機命令、通信障害で（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOS1hSczI3UVRBZXBRLXhqNXVlbUdEZWhlNVV3cl9pMzZxT0Zad21IYzdyT2IzbkxtbkUzb2JKMVJuZURzVl90cjBvbXVoN05EdF83XzJzd21vbjZONkZrVXJfSTF4a0NRN1Fud0h3V1NUZ2RzM0toaFV4bUdzemM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T07:40+09:00"
+   "title": "「完全復旧めど未定」マイクロソフトの大規模システム障害（2026年11月13日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFFuVVg0V044YmhleFM5bktseXNjNTZqSlhCaGZsQkZrdFYxRTFyNzVpbXlzSXN3eDVMRGJvRkdPanlyUW9pcktBRG10VThfeW5mMkFPekEyQ2ZFSjBDMC1sMzVINnNYeWJrQ0Q1V0VQdnRrSkVJaFJzZ1g2OU5wZG1HSkQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-14T07:42+09:00"
   },
   {
    "title": "全米の空港で離陸停止措置、管制に影響与える通信障害…発令は同時多発テロ後では２例目",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VN0t0d3p5VEt1dUV5NUlqWldnWDlYNnV6QUV1VldDN2ZUbmpoTWFxZnI0alV5eFJ5V1dPWXc4M0RRTThTakdVd1E2WFhqUEFoWjJjOU55YlhsVnlNdEdZTmR3?oc=5",
    "source": "読売新聞",
    "at": "2026-11-14T07:40+09:00"
+  },
+  {
+   "title": "全米の空港で地上待機命令、通信障害で",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbjRJbUhYSDJ6VUxuaUNPZzBnakFZNzVWVU1feFVIMVRUUlllcnFSLUlhY0hRWUxHTFFxb3R4S3NJVXhQVEh0cGc4aGRxdWtTSlHSAVRBVV95cUxQN1g0Y2F5ei1udkp3bzJqeWl6Nm9McHhXRW1tZm15ZEtLMTFjSTVocDJrdV83VlhfYWlTU1pUcWpMWDF3ZmV4TnhOQ2FNcVZ3OUFxYTc?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-14T07:35+09:00"
   },
   {
    "title": "マイクロソフトの大規模障害、「広範な復旧と安定が見られている」",
@@ -409,32 +421,27 @@
    "at": "2026-11-14T07:11+09:00"
   },
   {
+   "title": "全米で航空機の離陸停止＝通信障害か―当局が命令",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVk9LXzdycUoxR1VuWVo4Mm1oU2NxZ2JxaDRLUnkxOFdvM0dKWjRwamE5QTJ3WTM3SzZHT0FGUi1hUFY4MGlGeUJUcDRfNUtXUHBIMF9xa0RucXNGdjlGeVQzWERGbmN5Y1lLSzg4bHJHTDJJbERfd9IBfkFVX3lxTE9oOGZIOXpjWnRNbWJoLXI5cVFxRzhuUk0yNlRXWVJ6cWZ0bzZ4VEREYklsdDNFZUI5V1d6Qlg1RDNjM1NxLVhUZ3ZrSFpOUldlRTRQZ0oyVFdxRFpXR0Q4YXA1OXRkRS1wVFpuWGNDeE1MMkh3RGN4d1ZBeV9BUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T07:07+09:00"
+  },
+  {
    "title": "全米の空港で「異常事態」地上待機命令 運輸長官は「通信障害」説明",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qb0o4c1JETUlZYmUxWUR6RUwtSzhpZW9iSjI0N09ZZkNZckliUnZUTmp6WGFnMVBLZ1hTRVZqbzZuUWJoWTRkSWNpRTJNNXBQUHpncHBDenhUajUwTHRjaXRXamdvakRndjVveGFCRjVBZw?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-14T07:06+09:00"
-  },
-  {
-   "title": "全米で航空機の離陸停止＝通信障害か―当局が命令",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZmpJR2hVSkV6Tmp1eXdSTXlMUlMzQ1h3Ny1aQ3dvVVhQdDV0THI0TXVVZGNUcXl5QlRYZkRmVFRIZVFSbThnWXBuX2ZROWZZQXBoOA?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-14T07:04+09:00"
-  },
-  {
-   "title": "【速報】アメリカ国内の航空機全便で離陸停止命令　通信障害の影響か　米連邦航空局",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdGphOExPVGRDTmtGU24wczBsbENOZnhZZXBsRlNISjNIWXlQUkVoSDQ1RnMzUElZT1k0NVhJNVRDc2plT1VYclFXN0pzV0l6a0x5SGlFTllHSHpqUnlVZTBPT3FhS0RUY3FmYjQzdXRWVWJxXzRSSGhUaTV3Q0VsOWxMVi1uUdIBiwFBVV95cUxOYndXbF9QaFh2NUJUZ1BzcW1hazlmYmc1RnlWa2FONHhteXV0Ml9hSVdhckF1RnI3MUZhQ2c3OGhqUWhWQTl0cW1ZYzJSZG5zbmswaXNSSkhQOVJvWGUzTEg2dERFcFl3Q1M2cjJRUE5BUm9fb1hMcFpqdHhvTmgxX3JWQ3VxUHcwTnM0?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-14T06:53+09:00"
-  },
-  {
-   "title": "全米の航空機に離陸禁止命令、混乱拡大か 管制機能に通信障害",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5USVdON3R1T3AtQXBxMTZoNlFJZDIxNGs5NlZ5MkdKQjRuQ00xMGQ3LWxSMWpSb0xrM3BhZ0ZOTkJwQ0s1SzhHa2ozcXF5SHMzd2h5TThpd0RGVUVnRTdUSndwcVBYNkIw?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-14T06:53+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "欧州「5か国とEU」を代表団に ロシア・ウクライナ協議、仲介の米国は絞り込み要請",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NYTRfYTBNamc3eXp2MUFqaGROenc5cVQxWE55RGlDODd4MnY3NkYwdVJoYjhQeDYxVndqcXpsY3ExejlNS0RPWjhlck1EU1VUVW9BYmdCbW1ESEgyZGk4VWtnSnZ6cGluVVkwdU5zMHMwVG9UVUE?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-14T08:23+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "北朝鮮、東海岸に新たな海軍基地…金正恩総書記が建設現場を視察",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85V1pIRFdjeGZnQ3VfQlRWU1NiWGcwZl9xdGJWbG43c2MyWVdQY1RpX1FZamNSV1pKT2t1UnBDUlpBY1hoTW5KR3VwRGdIeFRNbGp5YWxIVUJfQ25f0gFUQVVfeXFMTTFYc1ZfSHFjeDZPV1B3dXJNYXQ3SzRoWnMzREFURGdnMVljWFo4T0ktY0JmWlVUckNaM0YxT0dnRjlYSXp6Q2JqLWpmWk1DMXlhU19r?oc=5",
@@ -541,13 +548,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア軍のオデーサ攻撃　２名死亡、７名負傷",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0lsTk9ZWlRFT1NfeDZqamRZYzBJcVAzcjU4d0dUQ0hFdnV0WFo1U0hPcE0wYkowVGUzQkZSM2pza0tKNkZYd3NMX2x3ajgxWXY1UkhOSTVCT0tPSXVTeDBsOUkybFowb0VTaG15RkJISUFGM05FRnQwWXVPX21Jb0RQYmxIN3o4ZVp2bU9DdExNSE9JVzhsMC0xNl9EUlRP0gGmAUFVX3lxTE5kUW1CTmF4ZWc0MlpDek5uSHBkLU9NdGlNZ1c0bEUxeEJiSHFxZ29JWVZKZFJDWUgzMHpRWmFjZjZVNmFyMDFTbkJjWWQzbzNJbm8xWGRPc0d2VmdMTFNQMWtlUkJvaTd3b1k1SnB1OUZNV0ZKTHpRRHFCaWV4VVNXOVZMZklydDhfMHpEbG9GR1ZLMjE5SGdKMmxXOEt3Mmxya0o4Z0E?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-13T23:22+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "フランス内相：欧州での偽の爆破予告は「外国からの干渉」とみられる",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXpFc3BvVnhhcXExTzVQMm1paUhaU0YxNGJQNHFOZHZIWW5JZkJvenI4dTFwUjN4QXhwY21PRGEtdlp4MHRDUnpJcEVMeVhrZVNNRUQwWmpwTGlXYjYzRHZRRFRwN2c1RXBodlhKTmtsUDRJdmJvbkllVThyT3JNVGtzQ09KWWZQM0ZYdk5XV0lKOTVoeTA2SWxTMGxKOVF2eTBhTThMQ0t1NXBpQng1NzhtOHY?oc=5",
    "source": "Informat.ro",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「【マイクロソフト】システム障害「現在も復旧作業を継続」「サイバー攻撃を示唆する事」"
+    "「マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明」"
    ]
   },
   "japan": {
@@ -594,7 +594,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」5件",
     "北朝鮮：「攻撃」「ミサイル」3件",
-    "ロシア：「攻撃」2件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
    "items": [
