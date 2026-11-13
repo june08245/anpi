@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:30+09:00",
+ "updated": "2026-11-13T15:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-13T15:26:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "2.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-13T10:52:00+09:00",
    "place": "熊本県熊本地方",
@@ -74,16 +84,6 @@
    "mag": "4.7",
    "maxi": "1",
    "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-12T02:15:00+09:00",
-   "place": "青森県東方沖",
-   "mag": "3.6",
-   "maxi": "2",
-   "maxiRank": 2,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -343,6 +343,24 @@
  "japan": [],
  "cyber": [
   {
+   "title": "米マイクロソフト（MSFT.US）のシステム障害により香港取引所の電子メールサービスが影響を受けましたが",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6VjljaEcxenNiS2QxWm50SVJZWnB3UUNWbXVOM0s4bjNSbkt1QjlaLTZhcFV0RmR2WUlvNFJyc0dvR1EzRW01OWhfVkJPZW9yWW1uOHRwZUQ0QQ?oc=5",
+   "source": "Moomoo",
+   "at": "2026-11-13T15:44+09:00"
+  },
+  {
+   "title": "Microsoft 365の通信障害に伴う影響について",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YQ2ViR0F2Q3BDQWlzOG00YXlXeGJiYTFiVkZWaFB1TWJmS2RVOV9XSjNNNmxQeDNLUVZhODhtbkhVRWlNVzM4elA1dHNseDVzOHdKUmpTdDZ2bWRYdFlVdkZOQU1JRzAycXBaa0x3MHpUSVlLQW8yVmVJLVQ0dw?oc=5",
+   "source": "茨城大学",
+   "at": "2026-11-13T15:34+09:00"
+  },
+  {
+   "title": "「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjNTaVdWal9aZ2FTd1VwMXlSdlM2SkJGclp5eF9MZ2xBZTNlNmNmbW5KTkJiYkk2LTVoQWl3M190cktmRjVMQTN6UUpEX1Z2X2RTSENzbDJkTG1HOHRVaFppSWtoUHBSUGxkdDZnSnNkUHVaV2c?oc=5",
+   "source": "窓の杜",
+   "at": "2026-11-13T15:22+09:00"
+  },
+  {
    "title": "【重要】Microsoft 365のシステム障害に伴うお問い合わせ対応についてのお知らせ",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13X3AyOHdrM05hMUZtemJWYl8xM1FwWTlPSGdWMWZRZURVU1VSazlKenhkdUlBY2FDRG9MUXR1M191YkJzZUhYdzNxSnpxX1JSei03bTBGN0s1ekNMZnZMQw?oc=5",
    "source": "東京財団",
@@ -361,12 +379,6 @@
    "at": "2026-11-13T15:00+09:00"
   },
   {
-   "title": "ECAD ソリューションズに不正アクセス、9月末からシステム障害続く サポート・ダウンロード機能に影響",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXZJX3lZcG9lR0M4V2lHN0hHWXN1b0hoT0UwWU5rYVNRdFVZMUZzTU9KSmZJY2xjMS1hbHpmNl9zNS1hTThJbjdqUWJVLUQ3QzRlaFlkd2dQNi0zaTZZV0ljSFg4Q3EwLXVab3Z3ZWdnVlhEUzcwSVpmNDlKZGFDWUg4Rm53UlhaakhaZWR1T19QMWhVa2dFNm5ya2FSeW1Vc1JrajVNVks?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T14:55+09:00"
-  },
-  {
    "title": "マイクロソフト障害「サイバー攻撃確認されず」 政府の反応と影響は",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
    "source": "朝日新聞",
@@ -374,8 +386,8 @@
   },
   {
    "title": "佐川急便、手荷物預かりサービスの受付を停止 Microsoft 365障害の影響",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiMmlmTVVuam05QWpKcThHdmppU0kxaUF2R0lpcWhMRURueXNQbkVDRG1JNnM2X3JqRm5lY1BINEUwR2l6cU9waVBBSklZVmlrQ2xKX2NGTndNc194Q0pob01SSDFTeVgyUDI5NTBZSVdWcm52M2IzR1JNeUNhOVE?oc=5",
-   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuN2VaWXBJM21jTTh4dUE1WEM0S01tTUc0UGlRUF95OGRvX1hzSmJneVFGLU9zUWs0MGpwa3g5MWc2LTM2aFFad0tEbUYzTlhYOWc?oc=5",
+   "source": "CNET Japan",
    "at": "2026-11-13T14:09+09:00"
   },
   {
@@ -409,28 +421,16 @@
    "at": "2026-11-13T12:44+09:00"
   },
   {
-   "title": "大規模なマイクロソフト通信障害 愛知県庁でもメール送受信できず",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYkZNbk5YNWVoV0FOMTZXNGpTTDlMZVhxY3RBcUZ0Q0F4R0h4a3R2MVhlVUVvT3BLa0wwX3I0cEJoMkRuZzJYM1MzU2dMRm1NX0tvSw?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-13T12:35+09:00"
+   "title": "ロート製薬、委託先の電話システム経由で不正アクセス。顧客情報最大約280万件流出、通話音声からクレカ情報も",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JNU9FT3hPREY4NUQzQ2VQVXJYWUdoTHVJaUk3cnpqWXVuaU1yLTliRkJTcTQyNzJabWZVc0s2VDZkN1pYZnZXUEhWYnhmVGxDcndJT1dQZjU4WTgwdjJ2VkpZeHRDQUw5anU5WFFldy1LLTl1aGxDWTRRVjZ2cUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T15:31+09:00"
   },
   {
-   "title": "【困惑】「生活できない」「スケジュールが見られない」マイクロソフトの複数のサービスで大規模なシステム障害",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRndaa3RwMi1iVVlYczhXekx6YjVQamxzVk1jZ0RaYXRWWXk2OHllNWQzMXJ3NEhwZUl5Z3lOeEo5QzU0SUpNN3o3MnF6NExfZGdncE5XaE9jWWdXdUFkd1JJUmFRUmhIbjA4c2ZvaFRiV0VhQ3JrM01iM3ZmTVZHaVppM3lfZ3M?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-13T12:15+09:00"
-  },
-  {
-   "title": "ティアックストア、メールアドレス流出を公表 MakeRepeaterで7,140件、メール配信プラスで7,050件 アララ不正アクセスの影響",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0VZa1Uxa0FtMXc2WFp5aDhCNmtfVUFPOHdnaS1QN1pxZkxtWC1tZDhsRzZ0X2V3N2c5V0ozdDVFTjNuc1lQM2VTc3QzaEwzOUpYSXZKUjlaeGtYODNJa3BUS1hUUVN1QXZERkx3akVhWHQtQnpKV2plcm1zREJuRnBFeW9nQzliWTBTSkxPYmpnUTRvU2szNlBVaFIzQWc1Q0tGZGVn?oc=5",
+   "title": "渋谷区、教育ICT・民生ICT基盤の情報が第三者に閲覧された可能性 デジタルアーツのクラウドサービスに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPem1ZeXlXTzRqaEMzNDBCR3dDY05pQl9UR3ZDby1qbDgyUW9yZkZNaVktX2Ixcm9td2k0Rm1QbWxKVllpMjVWMDBwNnNROVNsNDZCQjR2cGJ0VU45bmRxUHp3Y080cndIakxYblBHMkFfRmZSQno0Q01vd0gxV0lmR3ZHUmJJVHdEMlhMMWV5NEE3UElkYU1fY1ZlRHlwLWhIcW5id3dxWC1iWDUzRk14aklMc0tYbkszWUFGWGhmMml1OXg2cnNLNg?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-13T15:15+09:00"
-  },
-  {
-   "title": "大阪市、「行政オンラインシステム」利用者のメールアドレス１０７万件が漏えい…アララ不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZVnUxdm5qa2NwUzEyUGVPSk84MTZ5eERpdVFueS10NURISGZiNTR3V3R3Z1hnN1NIUWZfRkdMR19tOFc2OTctenZLQ1NNN3N2SkxsTE5VRXkzeDJmZGRrWlBXUVN4UQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-13T15:07+09:00"
+   "at": "2026-11-13T15:30+09:00"
   }
  ],
  "osaka": [],
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「【重要】Microsoft 365のシステム障害に伴うお問い合わせ対応についての」"
+    "「米マイクロソフト（MSFT.US）のシステム障害により香港取引所の電子メールサー」"
    ]
   },
   "japan": {
