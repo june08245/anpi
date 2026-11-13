@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:30+09:00",
+ "updated": "2026-11-13T23:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -227,6 +227,12 @@
      "at": "2026-11-13T23:22+09:00"
     },
     {
+     "title": "ロシア軍、ウクライナ南部ザポリッジャを空爆　負傷者２５名",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEpGWS11YU80a1FjUTJUQjZxMkVBTE4wdjdqZXRrcGM3SDd6VEpwRW9uaW81cFFUNmt6Ml9VV1NGV19UeFVuRjRYQ2k2RVVkX1AyUC1ab3RRaDd4UEFPUl91emJ3d05MZUltNmJwN0kzeGFhYUdXc1V6MjA4LUNwQXhqY3k2M1BMM0ZnQ20wcl9WV25UTmRxay1VUFdlMGRDN0pnNG9QTnlFU0dVTFh30gG0AUFVX3lxTE5OREE0enJ2ZzcxYmR2alN1M2IwLTdkY2FPNkFMNUNkRk54bnpIZnFDbjQzMS1OVHlteWhGZjUydnUyT0pnYmRGMm16SHZleDdWWEV4VUczUlYzUTRfNVZ2Zm81dXRaNk8wdDZqM2pTYzlkVzBCSjJJUnJtaUxwc203Y2hTXzVMUmJhYldHQW1xUlozenR0RU1STVlkT1B0UUE4LVFDSW03SkM5R3FGeXBRTEhDTw?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-13T22:17+09:00"
+    },
+    {
      "title": "アメリカ仲介のロシアとの和平協議 次回からヨーロッパ諸国が参加へ～ゼレンスキー大統領（日テレNEWS NNN）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhOGhERml3Y1FTRHB4UFRQMlZEZnBKVGllaFdXYk5rSnpRcU0yNy1mYWpYTDR5OHhCUlZuSjNmR2R3bmRjX3gwT3Y0eVlGb0txaXJYTjcxZVIyVGhtdmd1d3hfMXJ0QnFtWmhCRWFrYTFUWVRYNFFLUS04U1hRSmc?oc=5",
      "source": "Yahoo!ニュース",
@@ -237,12 +243,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByelhpcldQYTJLVHVGZjRPMlJjdHNtYW5kTF9vSTVXbXhpR2VKdXRoRkVvZGQyTWVRRlJzSlJtc3BmUDFsOG1TZGpzUFB4VEVqbUZBejlic1NPYmxfTkp3cW1n?oc=5",
      "source": "読売新聞",
      "at": "2026-11-13T19:20+09:00"
-    },
-    {
-     "title": "ロシア軍、ウクライナ南部ザポリッジャを攻撃 １７歳の男性死亡、４名負傷",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0hZWG9YbWlLbjc3OWR0VXNhcDRXSzNTZkNyTU9XeEppSjBqdWtfZV9RUWxoYjdJN1pSekhRZTNlQmI2VnZRSUhrOEtQQk1ET0ZJWV9BTnNnZ0pfcHRLbHpuNThBaFJKVlprUGRJUy05X2ZmYU5vbXdpRFdQYXdIYXU4ejZkZ1d5d1NMMFdqdmZlUlRONGRGeEZjTTluUTdIVUh3NDZpbkVxOFpiaksyVkpaYTV6N3NwMzRoOERZZjdKX1pFaThyVtIBzgFBVV95cUxPcWVVRWxHdHZwY3RUOGlhMEpEZ0J0NV9keG9WRE9iLUFtVFptTEswOGdPNnJmMng4OEZ2a1ZzakhTQ2hEeTBScVlZYk53cmRSa2lTWVZRT1BOUThpU0NmZlViek84RkJBeTR3ZWptQ2I2THUzNzJXX0drM2xtLTRReEIwOUsxcmh6b1ROX3paRnRDQl9lMC1BLU9oMWZLYmJ6QWtIVzRvUHNxeDJ4THN5U2c1NlgxdFR4MXd3VXdyYTd6V25nNFNnUm5XeUw1UQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-13T17:59+09:00"
     },
     {
      "title": "ロシア軍、ウクライナ南部オデーサを攻撃　死者２名、負傷者５名",
@@ -333,10 +333,10 @@
    "at": "2026-11-13T17:03+09:00"
   },
   {
-   "title": "【解説】内閣府が南海トラフ地震臨時情報のガイドライン改定版を公表へ「自らの命は自らで守る」「あらかじめ決めておくこと」が有効(放送局のニュース )",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdV8tcG04MEh0RnlyVDNuem9zUnpfaUQtZGtHU1lPTmlWMHoydXQ3N2U3MzVUTnFLVXV5b3VEUlJ5a0Z6TWtEMWhjMkdORlZ5UTF4V1lCRFJBbjh1OE84NC1IRDdyNjREUF9fNFE4ZGV2NXpkTmc?oc=5",
-   "source": "tenki.jp",
-   "at": "2026-11-13T16:39+09:00"
+   "title": "「備蓄は国が用意しろ」細野防災相の“緊急要請”が炎上…南海トラフ・首都直下地震で「助かったはずの命」が失われる衝撃の想定（ダイヤモンド・オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qV0pNVWxsWmhiSGVDNU1pMFUwTTI1WFBkZk4tRHc1T2Q5ZVRRb3gxWVJNVGRnN1BNeWlrMWxudEVLMmhJQUF4VGRTOTBnSGtzS3RDdHAybDdrcFY1cTNCeVRTMzdPNElCQkh4TEhKeHVqdkg5Vl8wYnVFQkpYbHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T16:51+09:00"
   }
  ],
  "outage": [
@@ -404,6 +404,12 @@
    "at": "2026-11-13T23:19+09:00"
   },
   {
+   "title": "マネックス証券、不正アクセスで最大113万件のメルアド漏えいの恐れ　本人確認書類画像1592件も - ITmedia Mobile",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QZThrWWJiS01mRWxxcTFocnhVNmNzYVY1NlpsYld4Um1lcTRrQUZnSXo2NXozSktpVTRhaF9UNGtHUXVfQXV5LXlPWEpldkljMzZhVDFpQmhSdmU4WVpmYTRVdkZBaHJwSVZad0p3a9IBaEFVX3lxTFBERDFoaXFpb1BoMllfRjlWMHg3aW9RdnRMWUswQlVLUDVLVUtNSzNPaXo1OXpBYXZJTHFldV9BMTlSbXBEUzg3X2pVZmVrYVI2WGtEQktMa1hKQktMUm5lTVdtR1ZBTG9q?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-13T23:11+09:00"
+  },
+  {
    "title": "証券口座への不正アクセス増加＝10月は168件、前月の3．9倍―金融庁(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHE5MURfTC1wcG1NSi1JQkZ6N1FfR2JZZjhHQ0tfcTFIenlSTE1GN25OV0dFNVc3Vkw0aThuYXZqSHcza2QwQ2VZaGh4ZEdXT3BkR1dXd3NuUnVtbnBhTF9BQklQanA4TFF0elhxTTQwVUpJQTYwdlRubEx5ZkY4MlZEZ1B5dDg?oc=5",
    "source": "Yahoo!ファイナンス",
@@ -432,12 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWHhXTjdJNG1ya0NsUmpPRURtS1Yxbjc3VXo1SGJ5YnZGajRocWtoQ0NGVnlodWJ0MGY2TVNRYWJGa2xEYk1PeWpkTEliQUtXLTkzaERLVXA4eHkyWVhMaHg4V0hrcUtQYmFUSEZzWGNCZw?oc=5",
    "source": "Infoseek",
    "at": "2026-11-13T22:10+09:00"
-  },
-  {
-   "title": "マネックス証券、口座開設システムに不正アクセス 一部は本人確認書類画像も（Impress Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fN3VJaXA2YjZrekVHSmRfQ1VoMWtIQzJVR0dxVkRTYUp3Y3BUTjJJOW41clM2ZjZSRDNqWUEyTElYYm94LWp5WGkyMWhGeUVrckpicXJPbFhxb0MxbDJScnN6alF6MEdBMlIwV3Z6Q01MQ3NUdHlfSl9meXpqOE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-13T21:28+09:00"
   }
  ],
  "osaka": [],
@@ -469,6 +469,13 @@
    "source": "京都新聞デジタル",
    "at": "2026-11-13T22:27+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシア軍、ウクライナ南部ザポリッジャを空爆　負傷者２５名",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEpGWS11YU80a1FjUTJUQjZxMkVBTE4wdjdqZXRrcGM3SDd6VEpwRW9uaW81cFFUNmt6Ml9VV1NGV19UeFVuRjRYQ2k2RVVkX1AyUC1ab3RRaDd4UEFPUl91emJ3d05MZUltNmJwN0kzeGFhYUdXc1V6MjA4LUNwQXhqY3k2M1BMM0ZnQ20wcl9WV25UTmRxay1VUFdlMGRDN0pnNG9QTnlFU0dVTFh30gG0AUFVX3lxTE5OREE0enJ2ZzcxYmR2alN1M2IwLTdkY2FPNkFMNUNkRk54bnpIZnFDbjQzMS1OVHlteWhGZjUydnUyT0pnYmRGMm16SHZleDdWWEV4VUczUlYzUTRfNVZ2Zm81dXRaNk8wdDZqM2pTYzlkVzBCSjJJUnJtaUxwc203Y2hTXzVMUmJhYldHQW1xUlozenR0RU1STVlkT1B0UUE4LVFDSW03SkM5R3FGeXBRTEhDTw?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-13T22:17+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "アメリカ仲介のロシアとの和平協議 次回からヨーロッパ諸国が参加へ～ゼレンスキー大統領（日テレNEWS NNN）",
@@ -504,13 +511,6 @@
    "source": "NOVAIST",
    "at": "2026-11-13T18:18+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア軍、ウクライナ南部ザポリッジャを攻撃 １７歳の男性死亡、４名負傷",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0hZWG9YbWlLbjc3OWR0VXNhcDRXSzNTZkNyTU9XeEppSjBqdWtfZV9RUWxoYjdJN1pSekhRZTNlQmI2VnZRSUhrOEtQQk1ET0ZJWV9BTnNnZ0pfcHRLbHpuNThBaFJKVlprUGRJUy05X2ZmYU5vbXdpRFdQYXdIYXU4ejZkZ1d5d1NMMFdqdmZlUlRONGRGeEZjTTluUTdIVUh3NDZpbkVxOFpiaksyVkpaYTV6N3NwMzRoOERZZjdKX1pFaThyVtIBzgFBVV95cUxPcWVVRWxHdHZwY3RUOGlhMEpEZ0J0NV9keG9WRE9iLUFtVFptTEswOGdPNnJmMng4OEZ2a1ZzakhTQ2hEeTBScVlZYk53cmRSa2lTWVZRT1BOUThpU0NmZlViek84RkJBeTR3ZWptQ2I2THUzNzJXX0drM2xtLTRReEIwOUsxcmh6b1ROX3paRnRDQl9lMC1BLU9oMWZLYmJ6QWtIVzRvUHNxeDJ4THN5U2c1NlgxdFR4MXd3VXdyYTd6V25nNFNnUm5XeUw1UQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-13T17:59+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ロシア軍、ウクライナ南部オデーサを攻撃　死者２名、負傷者５名",
@@ -602,7 +602,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「攻撃」4件",
+    "ロシア：「攻撃」「空爆」4件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
