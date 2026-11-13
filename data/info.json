@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:30+09:00",
+ "updated": "2026-11-13T09:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -340,8 +340,33 @@
   }
  ],
  "outage": [],
- "japan": [],
+ "japan": [
+  {
+   "title": "【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊張、比の上空を選択",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRmk0M2pxZmtrM0Z1dnhMcy00VEUzR0dtZGhJV29nMm5Qc2thRnhGcmRndHlES0s5V2dWNHN3dDI3UHQ2eXB4WDdKd1E3Q21EYlE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-12T19:12+09:00"
+  }
+ ],
  "cyber": [
+  {
+   "title": "【重要】Microsoftシステム障害によるメール送受信・一部業務への影響について",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IeTl4cUNWSUJVd2RteWZOSC1GMWRHcktJbnoyUmlhamMyeV9HeVhzOFhJa2c0OXNsWEhSMC03LU5HTGwwVlRxTmpaMkNPNDY1ZU1BMVR3?oc=5",
+   "source": "中央学院大学",
+   "at": "2026-11-13T09:39+09:00"
+  },
+  {
+   "title": "おくやみ情報・ニュース 更新障害のお知らせ｜障害・メンテナンス情報",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiWXhndzhKbGw3RG85ZUExUmFCcjlPNGJURF92TUprcWx0a3pCOVlieG9HT0JlU2NNR2o2MlhaSFA2WjNCT2tDMC1KZTdIcmFFUnNOeHFTTUoyUW9XSFlOMUlYZ3o?oc=5",
+   "source": "NICE TV",
+   "at": "2026-11-13T09:32+09:00"
+  },
+  {
+   "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQNGVQTExndm1RUVlGdHJqbVBxZVFDakhBUjlXT0N2TXlEa2lJSXZDMm0zS1h1UmtxV2N4dmVCREpZUXZJWnI1WnpEd01jUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-13T09:17+09:00"
+  },
   {
    "title": "【マイクロソフト３６５大規模障害】Ｏｕｔｌｏｏｋのメールに接続できず、Ｔｅａｍｓなど複数サービスに影響",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56NmZpMXlFQVRhbEJJay1lLXNadHRoeVhmYXlrelZ2YVdrdEFHaldpcmlvRVdQc09MMnFLRjU1VGhpbzJ2elVOeTlJaFVvOFBidXBrSw?oc=5",
@@ -367,12 +392,6 @@
    "at": "2026-11-13T08:29+09:00"
   },
   {
-   "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1N2E2d3lpZWdlMTlDQ0VPdURZMVVFUkgtVmdhaWZBWEt1V3ZYMXFMbF9ETXNxREdtRVdyMjIyUm9ic3R1NlloVmpoRldPbUZIbC1rbFlGcUEzWlFtWmRjM2U1OHNtSC1qYVNqUw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-13T08:14+09:00"
-  },
-  {
    "title": "マイクロソフト 大規模な通信障害 日本などアメリカ以外の地域にも及ぶ可能性（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQzBPMFh4UGtFMDlZNV90SXhEb3RuMzBjS0szTG9OSHV6ZEt6dldwalc3UWtTaWdNOC1CT2dnUlBNbk5KeUFmeDEydm9iYUd3Zm1LWjNvZDZXQWxqcUExS183Q1F6NEt6c2NYUHJYWmx3dGp5T0VqUnVrcHhETVk?oc=5",
    "source": "Yahoo!ニュース",
@@ -382,7 +401,7 @@
    "title": "「まずは速報です」水卜麻美アナ、大規模システム障害伝える「安全に復旧させる作業を進めているということです」…「ＺＩＰ！」",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VVEhBV0VHSk5hWlh6ZkFvbkhVcVhvUUVBdUtlQ2x4M1NQckMyUEMyN2thTFdtRnpFaHpzYW8tOWdSWHlxZF9MSjdCd2d4Rk9RclhkUUtJbTVlNEpuYm9aVVNCeHg5bThuMFdjMThUZGEwbW9HeU81QklBdnBHSEU?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-13T07:47+09:00"
+   "at": "2026-11-13T07:17+09:00"
   },
   {
    "title": "マイクロソフト大規模障害 世界のメール、AIに影響 復旧へ別設備移行急ぐ",
@@ -397,16 +416,10 @@
    "at": "2026-11-13T06:39+09:00"
   },
   {
-   "title": "MS、米で大規模通信障害 AIのサービスにも影響",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41cC0xc1RkUXp2YWRmQWVlLUR6TnBHWTB1S0xOdkNTa2NmQVByenBveTJpaFNXc2FHLVJjbXpnbXNJWGRNRTNIczNlRlI3aGR4bmJxbVZXM0dyTkhEak9qaGdFSS03OG1wam9JTUdYVWM?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-13T06:25+09:00"
-  },
-  {
-   "title": "ＭＳ、米で大規模通信障害 ＡＩのサービスにも影響",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCdWFzTjRsc1VOV2hHTEJ3MDE4WUFZMXRTT3VUUnBjOXJfYmU3ZVZJb1JqTFN1c2k2S29ZQkhSXzRtNzZVVmZBVlhsdGxNei1LdVhPZHd2TkpMS3FRZUlyc0RaVUo5WDVBVloyTGo0YURWNkNq?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-13T06:24+09:00"
+   "title": "「アララメッセージ」不正アクセス 佐世保市の地域通貨・させぼｅコイン アドレス３．５万件漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8ybW9zQ0NMM1NNZXBHU29qUU1hbGo2eVF1VE1SZWpBQWxVaHFkbGFqRXV4ZjlwUld5SVdLQWpaV1IyZTNoaFAtR2tIcw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-13T09:30+09:00"
   },
   {
    "title": "販促物作成サービス POPKIT、メールアドレス202,167件の流出を確認 アララへの不正アクセスが波及",
@@ -425,12 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDSFNYczVUY2FTZWlpM0dSNGNNWHhNcXQ0OTNXRm9VUXhaTFJwSVRlYTI0MnhCRGdmbGxWOTVRYm9KWVZzamNZRmFLT25NUFhXVW1sdHpyNWRYbzFUUjQ3YlBQZ1hidldOZmc?oc=5",
    "source": "PR TIMES",
    "at": "2026-11-13T09:00+09:00"
-  },
-  {
-   "title": "「AIでサイバー攻撃を防ぐ」ってこういうことなんだ",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEb2ZxQWlqYThBbDRmWVBUQzV1UUgzcUFDV05nN0VPVHcwdURIdHYtbTl0Rm9Pb3NLRUNDRzFMbnhFTG1QZmZhNVZreXhkbUtYbkdWNldPN1JoN0xTa3NuMXVJSkNXcEgzdHI0dkZR?oc=5",
-   "source": "Gizmodo",
-   "at": "2026-11-13T08:40+09:00"
   }
  ],
  "osaka": [],
@@ -580,13 +587,13 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「【マイクロソフト３６５大規模障害】Ｏｕｔｌｏｏｋのメールに接続できず、Ｔｅａｍｓ」"
+    "「【重要】Microsoftシステム障害によるメール送受信・一部業務への影響につい」"
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（【中国、潜水艦弾道ミサイル発射】日本通過ルートも想定 地域緊）"
    ]
   },
   "world": {
