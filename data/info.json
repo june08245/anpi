@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:45+09:00",
+ "updated": "2026-11-14T09:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,16 +95,16 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "トランプ氏、湾岸諸国の要請でイラン攻撃見送り 「悪の帝国」と非難 米軍は態勢増強（産経新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4NEhrd3hVeUlQMnYtMXphekVlMi1VWG5rTFU0Z1RlTlJlX0Y5WkhuLUp5VmtKLVJkRzJQT2U2Zm9CNnA3ZjROLXNRNVdoTDJHSTJ4blR0WFh2ZWFzYVFJOUFhWldyZGs4VXNCcUFOTW41ZEEtaHFpcjJwQjV1d1U?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-14T08:01+09:00"
-    },
-    {
      "title": "イラン革命防衛隊「バーレーンの米早期警戒施設を攻撃」…米国「すべて迎撃した」 : 国際 : 財経日報",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QZzdHOE4xWHdaWmhEYnJ5dGo4UmpBTlR0UWlCU21iOU1vb2lwS283UGlsZW1uSWw1ZmE2SnJHekdaaU5UclJmMDR4OWZocXktOFJLRjB6azJuNk8yYnNKOVowaw?oc=5",
      "source": "재경일보",
      "at": "2026-11-14T07:50+09:00"
+    },
+    {
+     "title": "トランプ氏、湾岸諸国の要請でイラン攻撃見送り 「悪の帝国」と非難 米軍は態勢増強",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUNNYkMxbzF0SUpJVkJEUG1oS3pKYWRlblZHWW5YMmtjTFRYczlsa1Y4aE9LbFkwdHlyMGlWNFU1X0psNERzMkZPa0JCd0VwMmdZVGNMUjNHQm13bEd0X0c3N0pnWFQzaUIya18wZE1CZjlLNzZjZUlUWmJMcGpFUUFJcnMzb0FKWEtaNQ?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-14T07:43+09:00"
     },
     {
      "title": "イランの革命防衛隊“バーレーンにある米軍設備を攻撃し破壊した”攻撃主張は9月以来 米軍は攻撃阻止したと否定",
@@ -343,10 +343,22 @@
  "japan": [],
  "cyber": [
   {
-   "title": "全米の空港で地上待機命令、通信障害で",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoUFBNcnVEWFlLZ0VEQzlVMVd5SS1Wdjd4OUoxZWVoTmlVY2xBV2h4MExMMmtZZm16cGItQk1vaURVS2tyamtIRmR1NDJGTVlI?oc=5",
+   "title": "全米の空港で地上待機命令、通信障害で (ＡＦＰ＝時事)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZG5rRVZPLUtyNVhFVUFKV1NmeU9TRW9tVTRnV21CZm9MblRDM2w5UU5HVFI5c0U3NzFOVlNtU0dET2l3c0xQZXZ1OUdSRlFUZGhyWndWcUY2X2dlRDN1QjRLaUR5NDRkWk9CVUYtVDE4THJmREY1OEpUQkR1VFJXR0VGU28tOURfV0MzUF9R?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-14T08:42+09:00"
+   "at": "2026-11-14T08:58+09:00"
+  },
+  {
+   "title": "米国全土で航空機の離陸停止…運輸長官「管制センターの通信障害」",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0lDai12MEs3NnhIOFY1TkVkZlBIdDA0alBldmhHNzNqeHp3TVF3d2RYRXNWQWE5dW1rQ0x0UFJkTXZEdktPM2owSkltbnVFenY0NGU3SmZ0eXp4c2F6ZVQ0aTdBMmw5RG5yUldYUW53cnlLRUtzQTJoMzF2MU1IekZfQWo5Um_SAYwBQVVfeXFMTXNramRuZC1qNU1oMHN4c1ZaMWtVOXNsQUJhVmxwemVaamEtQjA5Qm05Rjhwd0I4d095cl94X0ZmTm50VkZNaXJ6THEwSUxNeGRBRW9OUWJJNFVKZ3BBSHY0a2F0MXBEbXhNQ2RtZkpEWG1Ta2RCYW1XaEhzQS10dTVJMW5DQkNma0l5Z1k?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T08:56+09:00"
+  },
+  {
+   "title": "米連邦航空局（FAA）、通信障害で全米の離陸を一時全面停止 9.11同時多発テロ以来の異例の事態に",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEotaU5kcDM0Qm9LZlZhYUpQWmt6TXFWWTZyNzVrSmdTRWlUSDY0Y0ZDWnJZNWpWVERCbzJuYzJEcExzT1lpVi1YUklkVjlvdURWeDlZVzRhazl6YjlNOU1tWFg5TGt6cWdnMFo5ZEFnaWxEYXJrbmNwREhiaEdPcnpyZHFoT2lVR2l2WENqdS1uRXk4TG1yTy1xM0RmRnJwbHl4cVNCVTM4aUxJc3NRUXJvMnRKS2VuTWRMYzdRTExfcXNvVzJnSWJsaGlhelBwd3pKSVJfS2lBT081b3pJ?oc=5",
+   "source": "sky-budget スカイバジェット",
+   "at": "2026-11-14T08:41+09:00"
   },
   {
    "title": "米FAA、 通信 システム障害で全米空港の出発便を一斉停止 航空管制センターに影響",
@@ -362,15 +374,9 @@
   },
   {
    "title": "米航空通信障害、約７千便に影響か",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RYkVtUXNPZUhOMFd3ZEtyUzl6ZnRQT2pTRHF0aEY5WThkenNlV2trNjJRUEZRbXZ2SExjWkV5NWhfSEppb0JXVEdaMDF4UjlKZkIwdTl3?oc=5",
-   "source": "徳島新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fNS1haUlTdmMwSHRyRXMybTdGd1ZLbHd3cHBRRjl4WHZyYk1RWi05d204aDBkTThHWlh2LUFlVnY5bXQtQ2ZlSGhSbnY5cGV6R3VGcDJjV1Q?oc=5",
+   "source": "京都新聞デジタル",
    "at": "2026-11-14T08:36+09:00"
-  },
-  {
-   "title": "マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92aTljbGNZaWFEVXJxb2prQ3M3TTVNTHl4TjNVTVFfc1ZwVUY5QWg0WU9tTGxZZmgxSks4d2hlT2QzQXFvczV5YjVUNVdWbUh5aXRQS19lbS00OTFxZ1V5TGZDck53ZW8wRmR3cjB5Ni1EUHfSAXhBVV95cUxQMUVmZDFSaTAwVHExZGw3d1J1dkVFRGYza2c0aFdZaDZ1SUVRRlNBa0RxMU15Q1lnSEFQNVR5b0hzZUxfbUNDNmlBaG1zMDhuV0hzMWhFNEZwOHdaeThVQzlKMTk3WWRqXzZEaVhvb0dwMzBNLUJyQVI?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-14T08:18+09:00"
   },
   {
    "title": "【速報】アメリカ全土の空港で航空機の地上待機命令 管制センターで通信障害が発生",
@@ -389,6 +395,12 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNczBmbWg4TTNnYVUtQzBpNXBWQkU5d0EwRTh5a2xrTHVSblJqdVRmNmdLWDUtTDhQTUFUc2JPc0l4RVhsbmk4VF9CT3ZMUHhLa1A2Uzc2N1psUzZncVc4ZEVuR1JYbXVsUXFydA?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-14T08:09+09:00"
+  },
+  {
+   "title": "マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明（ＡＦＰ＝時事）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hSGdVa1k4QnVtZ0RZWmdCUTZ4Zk5PUTNUSDA5WWNkeUdGM05jUFhONktsbVVwZHBxTjctd1h5VFFGSjlfby1VaWV3TklaWkhmN3NQb2QtOTBTaDR6TWNzMUlHcHh5ZEt0ZThCTkVoakR3dm8zc25aSWFXNHhmaG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T08:07+09:00"
   },
   {
    "title": "【情報まとめ】マイクロソフトで大規模通信障害「広範囲で復旧 安定し始める」と発表 未処理のメールは大幅に減少",
@@ -419,18 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-14T07:24+09:00"
-  },
-  {
-   "title": "米連邦航空局、全米の空港ですべての出発便運航停止…通信障害で（2026年11月13日掲載）｜日テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFZBd3l5VHNaVmFjVDJuREFkR0JmS0VRbjZERFhZY0E2bXRZY3l6bmZqRXd5MDBvcEJLT0NvRVVuaGEyLVRKWERiLW1QSXEyYnhobjJoTndYNFhSQU80SEk2UmtMR1FmaGVUVnV6OXhJY0dwQ2Z2R090RHV5YXdyazA1dDk?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-14T07:23+09:00"
-  },
-  {
-   "title": "マイクロソフト、大規模障害から復旧進む＝サイバー攻撃原因ではない(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2hSSkpUc192WDdRbmpsLTA4SVJuZFUtcjVhLTRHSG9uSWFOYlc0ZmFsRTFzLUNXYXdwSUlhdGgxX1RwRkpzMGFUY2Z2T2RrMWdRakVvNGhhMWtfbkdlNU1QdTZ1dXpGc01SR21nWEVGNDdzSlFPVkFmLXBsZ3k4ZlFfUGFSSk0?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-14T07:18+09:00"
   }
  ],
  "osaka": [],
@@ -450,17 +450,17 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "トランプ氏、湾岸諸国の要請でイラン攻撃見送り 「悪の帝国」と非難 米軍は態勢増強（産経新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4NEhrd3hVeUlQMnYtMXphekVlMi1VWG5rTFU0Z1RlTlJlX0Y5WkhuLUp5VmtKLVJkRzJQT2U2Zm9CNnA3ZjROLXNRNVdoTDJHSTJ4blR0WFh2ZWFzYVFJOUFhWldyZGs4VXNCcUFOTW41ZEEtaHFpcjJwQjV1d1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T08:01+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "イラン革命防衛隊「バーレーンの米早期警戒施設を攻撃」…米国「すべて迎撃した」 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QZzdHOE4xWHdaWmhEYnJ5dGo4UmpBTlR0UWlCU21iOU1vb2lwS283UGlsZW1uSWw1ZmE2SnJHekdaaU5UclJmMDR4OWZocXktOFJLRjB6azJuNk8yYnNKOVowaw?oc=5",
    "source": "재경일보",
    "at": "2026-11-14T07:50+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "トランプ氏、湾岸諸国の要請でイラン攻撃見送り 「悪の帝国」と非難 米軍は態勢増強",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUNNYkMxbzF0SUpJVkJEUG1oS3pKYWRlblZHWW5YMmtjTFRYczlsa1Y4aE9LbFkwdHlyMGlWNFU1X0psNERzMkZPa0JCd0VwMmdZVGNMUjNHQm13bEd0X0c3N0pnWFQzaUIya18wZE1CZjlLNzZjZUlUWmJMcGpFUUFJcnMzb0FKWEtaNQ?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-14T07:43+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明」"
+    "「マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明（ＡＦＰ＝時」"
    ]
   },
   "japan": {
@@ -599,10 +599,10 @@
    ],
    "items": [
     {
-     "title": "トランプ氏、湾岸諸国の要請でイラン攻撃見送り 「悪の帝国」と非難 米軍は態勢増強（産経新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4NEhrd3hVeUlQMnYtMXphekVlMi1VWG5rTFU0Z1RlTlJlX0Y5WkhuLUp5VmtKLVJkRzJQT2U2Zm9CNnA3ZjROLXNRNVdoTDJHSTJ4blR0WFh2ZWFzYVFJOUFhWldyZGs4VXNCcUFOTW41ZEEtaHFpcjJwQjV1d1U?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-14T08:01+09:00"
+     "title": "イラン革命防衛隊「バーレーンの米早期警戒施設を攻撃」…米国「すべて迎撃した」 : 国際 : 財経日報",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QZzdHOE4xWHdaWmhEYnJ5dGo4UmpBTlR0UWlCU21iOU1vb2lwS283UGlsZW1uSWw1ZmE2SnJHekdaaU5UclJmMDR4OWZocXktOFJLRjB6azJuNk8yYnNKOVowaw?oc=5",
+     "source": "재경일보",
+     "at": "2026-11-14T07:50+09:00"
     },
     {
      "title": "「北朝鮮は3日以内にミサイルを撃つか？」…肯定・否定の根拠を並べて判断を委ねる“AI参謀”、韓国企業が公開",
