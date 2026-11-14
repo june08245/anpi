@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-14T21:30+09:00",
+ "updated": "2026-11-14T21:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [],
-  "headline": "注意報を解除します。",
-  "reported": "2026-11-09T09:01:00+09:00"
+  "items": [
+   {
+    "code": "14",
+    "name": "雷注意報",
+    "level": 2,
+    "status": "発表"
+   }
+  ],
+  "headline": "大阪府では、急な強い雨や落雷に注意してください。",
+  "reported": "2026-11-14T21:43:00+09:00"
  },
  "quakes": [
   {
@@ -161,16 +168,16 @@
      "at": "2026-11-13T15:20+09:00"
     },
     {
+     "title": "日中首脳会談は見送りへ 中国でAPEC開催 高市総理と習氏 短時間接触など検討進める",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TTEhOcThfZ1VtTll3dkI5X2tDUllwRUZab05HOXFsQ1JMdDhULWFWeHhUZUtVU1F2aWItYmtiLUJsX0tEZjM3VVg2N0ZPVnJwcUtZTjN6Ymt6WUtyVXFCWGxUR1Z1VlN1cjh5dE11c0JFbkU?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-13T12:15+09:00"
+    },
+    {
      "title": "日本共産党の山添 拓議員の「死の商人国家」発言に問う-防衛産業は国防の基盤、中国の軍拡こそ直視すべき",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmJGdzFPWDZ5SVZ5eVZLVGE2bFFSdktBMjhLSnZiQTB4aXRaclhuc0E3U0c1QTNkbUF1NWN2SGhhSGVkdjNjdmtTZzhrTjF6Q3EwTUdwVWhreXE1Rjg4WmJVaUZnbjM0SjdVRjFDckVydlQ1Q0dZc0Z4SFl0WTdpZWE1MDlvUWZTOU9yYnF2TnM?oc=5",
      "source": "合同会社ロケットボーイズ",
      "at": "2026-11-13T11:40+09:00"
-    },
-    {
-     "title": "ドイツ軍、中国製ドローンを段階的に使用中止へ ウクライナ戦争が示す「量産と供給網」の重要性、日本の防衛体制に残る課題",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTW80dFFEbzlsV1JDalRZTmFMX3lQdXdGWWNVM0JXbUdYZ3I4YWQzRDhENmFhZkJSZ1JPYjRJemFGbG5Jc2NIX1RZbEF5M1hOclUxdm5oQU1MaVE3LTBOczh0cUJEOXBtbzhsTnN2Ym1MdlptMTJ5cWlwVldzQ0ZhMGxBUklsTG9KX2RXV3V3TWpiRGcxd2dDMjR3SEFvTkdjT0VKYkM2dEVVT1ZWVUZFV2Rn?oc=5",
-     "source": "合同会社ロケットボーイズ",
-     "at": "2026-11-13T06:00+09:00"
     }
    ]
   },
@@ -315,12 +322,6 @@
    "at": "2026-11-14T18:25+09:00"
   },
   {
-   "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 30年以内に震度6弱以上の地震が発生する確率は？エリア別予測データ（政府・地震調査研究推進本部）",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PMzJEblhfQkRHS0VabUkwTlJTdXBJdlpWcHBSRkFENUotZ3Y1azZJR0VBc2x0MVR6ZFBQaGRzYi14VWVQWFJJTkdrVDBUWWR5TkgwYjBHZWpjQ08xbVBwVA?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-14T17:58+09:00"
-  },
-  {
    "title": "南海トラフ地震を想定 高松市で総合防災訓練 情報収集や復旧手順など確認 (2026年11月14日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvX01tUkJGYjBlUXktOUE3OThMdGdOSXA4bVBjUEtjZGZGYy1rZDdyczVlM1hWTThSbHcxSEkyWllTcFVKUjVyNk9velJtR041Q3ZxRmpzMjd6NEVfREE?oc=5",
    "source": "ライブドアニュース",
@@ -331,6 +332,12 @@
    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPdXViZVQxM1I2Z0tkeVdTMm9ZV2pOeVVpQTg2dXpKQklxXzFqMDZUZ1FGM3EtMzdhM3prdFJvWHh4WV81X3E2aWV0OHRobVhaTlZjRzFCS1hOdzk3bE9QU0FWWFVxNm1MQ3BuVFVaV2tCbVpwRzk2ZmFNSGxteDlfU3NmdkozN3FBbjVibTNFSk1XRlhVd0pqdmVVeEcxcmtPMkZUMEZnQmxrSG9ZOEV2UHc3bnZDRXZwVTV6MlM2VmljTXBqZUtZeGRxUlYxeTBKNzlwWDkzdVdqUXVMTl8yX2t0bVBqdGFTZmtXaEM2ZDVkbHloSHpqczZQZlRuX0NpRnZ2OXJlb1hkOEdfZ2ZFMEtraVZCeFpmUXVjMjBmOS1PRDdRZWFHWUFBVFFmaGVNeHYyMHpmSXk5MEJhSnZOLW9R?oc=5",
    "source": "cedarnews.net",
    "at": "2026-11-14T14:33+09:00"
+  },
+  {
+   "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 30年以内に震度6弱以上の地震が発生する確率は？エリア別予測データ（政府・地震調査研究推進本部）",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPUV9SalJYRWRaczNMZW9ZeXU3OFc0c0xVdEtaRXhpeEVYMGxydVZ0dFEwaGpqc0VnNUVrdS1oYmV5RE9COHFVdUZZTV9rdDJfU3huQWlTWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-14T07:01+09:00"
   },
   {
    "title": "名古屋入管で訓練 重症者搬送を想定 南海トラフ備え ／愛知",
@@ -359,6 +366,12 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLT2NkSENwRXRsdDZnb0hkeDNzM2NlTWxXbkNTZzlCWnpfOUQwX3BrcjNDNHl3ZHktNzBiRldBbl82ek15M2Q4Zm9wMS1rQW4zZWgzSW93WEU4Yy1xZmJj?oc=5",
    "source": "千葉テレビ放送",
    "at": "2026-11-14T19:56+09:00"
+  },
+  {
+   "title": "マイクロソフトの障害が全面復旧 丸1日続く、滞留メール処理完了",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qVGRqQ1Z3WGF5MHhBRDBDaUM3M3I5SjNTQlVDczB4b2VVS1lZc0RQYV9NZnlXamdMaEJjVVhaaVpkNzMyQWRsYm1ZVGdTOTJBamlGUUNDRGtXQkJCS2U4?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-14T19:49+09:00"
   },
   {
    "title": "アメリカ全土の空港で一時離陸停止 航空管制システムに通信障害 1万便超に影響 日本の空港でも遅延・欠航",
@@ -425,12 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52UFozY3F3Y3YtYWlYZ2FNZlVQSXFnUVhEVTdEdDF4dEFjZWRKQVU0UlhtVWxTT01OWWZkZDVvdGxncUVIWUJYTllEVm1PQnJEVVViQ3BvWGxYUkc0bFktRjd5REE?oc=5",
    "source": "読売新聞",
    "at": "2026-11-14T16:13+09:00"
-  },
-  {
-   "title": "マイクロソフト Outlookなどの大規模障害 全面復旧と発表 最新の国際ニュース【随時更新】",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJWNDMwWThLUnUzLTdYMnFqTEZXOGtJeXZZRG1oWU5xeGhCSzB3RG1OQlIzQ05sblR1VXhRWDRMM1dENHBvS1BpUEhLZUd4TmhERWhMT2RyMlVXZVg4V2ttVzlkWUF4VzZsdVVCRzIxSlo4MDgwRkJvNkJIQ1M1S0lYOWFxTlU5OF9UazFnRmlvbVFmYlhOR05acFlYNGhxbjNlWHFwSGhuZE1vUV8zaHlOWWI?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-14T15:54+09:00"
   }
  ],
  "osaka": [],
