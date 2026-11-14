@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T06:15+09:00",
+ "updated": "2026-11-15T06:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-14T21:43:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-15T06:17:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.8",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-15T01:50:00+09:00",
    "place": "茨城県沖",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-13T19:42:00+09:00",
-   "place": "和歌山県北部",
-   "mag": "2.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -150,6 +150,12 @@
      "at": "2026-11-15T06:00+09:00"
     },
     {
+     "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdTgybHVzNGZLRkFZNENidWpKc2hzNlVmRnBZV0FPUG8wdG4yb2FYcXhhODlhVW0yNS1teXFMZ09YZzVBMTlBczRZX3dRcEszd1BPWEZrSE95dw?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-14T12:13+09:00"
+    },
+    {
      "title": "【寄稿】中国軍、空母「遼寧」軸に3戦区海軍が西太平洋へ 第一列島線の「反封鎖」 能力を検証か",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLeTB1b2FjbEtmSUItbEcxdDd3aG44OWR0SFJhdEg0VXV1MGhzRkhJT05BVm14bzdLeVp2aThrSXRVc19sd25kblV1Ym80V3kx?oc=5",
      "source": "風傳媒",
@@ -162,22 +168,16 @@
      "at": "2026-11-13T22:08+09:00"
     },
     {
+     "title": "中国海軍・海警・「海上民兵」が連携、南シナ海で「他国の船舶に対する圧力を強めている」…防衛研究所が警鐘",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQnVMSjdLeEJ0UzhVVVhJWXhBVWFUY09KS2ducGJrWjF3YjBsSjlsbmprVDk0ZEE4X2lSQWpyUFItdGh4UHpya21YODNTWVZqRDR3bE5Xb1RNRGRsWU9COHpzY2tvNGNLQVB4b0tJQ1dIN0hEa3hjVWthdlhwbWVGQm5OMXBUb0M2WUVpNll3?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-13T18:36+09:00"
+    },
+    {
      "title": "習近平が台湾統一を「必ず実現」と宣言…トランプとの首脳会談直前に強硬姿勢を示す「狙い」とは（ニューズウィーク日本版）",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjc5dEZuWS1VZ1NxSjVnYlFKMFExN2ZKWjJINFNBTktSejBNMUxoaTBzZ2hGNjZsb2NfQWZSMzI4YlZ0cjl1YUMxTkt5Q1RXT3dJeGl6MWdfSWttb1NrNU9XeTN2YVdVaVhGeTNPel9KR3RaUXZxZFVRemMwSVU1LWdyY0wtRmNE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-13T17:31+09:00"
-    },
-    {
-     "title": "中国軍の偵察型無人機と推定中国無人機が与那国島と台湾の間を往復（11月11日、BZK-005）",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbFR3a0pGekJCSFZWS2pvTG9aNzVFRnVkYWRUekVVUk1oYzE1U0lEU0c3b3RHSlBwNkNLMnBPZzhzOUthMmRySWRLMFdmYkpCSUJyVW4wUjc2QmNv?oc=5",
-     "source": "J ディフェンス ニュース",
-     "at": "2026-11-13T15:20+09:00"
-    },
-    {
-     "title": "日本共産党の山添 拓議員の「死の商人国家」発言に問う-防衛産業は国防の基盤、中国の軍拡こそ直視すべき",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmJGdzFPWDZ5SVZ5eVZLVGE2bFFSdktBMjhLSnZiQTB4aXRaclhuc0E3U0c1QTNkbUF1NWN2SGhhSGVkdjNjdmtTZzhrTjF6Q3EwTUdwVWhreXE1Rjg4WmJVaUZnbjM0SjdVRjFDckVydlQ1Q0dZc0Z4SFl0WTdpZWE1MDlvUWZTOU9yYnF2TnM?oc=5",
-     "source": "合同会社ロケットボーイズ",
-     "at": "2026-11-13T11:40+09:00"
     }
    ]
   },
@@ -357,6 +357,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "航空管制システムで通信障害 アメリカの全空港で離陸停止措置（FNNプライムオンライン（フジテレビ系））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNXRENkhqcEtMV1JHUFZ3cEFmTlZpMWNhOUdKTHFyU1lLU0JPUTFmNG04amc0amlIYXd6ODFXOG5KM3RXQWZtaE40V3JPdzh1UGFISnUxQ0hlVlVacERaY0dSeEJXMVNZUEpoRmE2RDJEUk00UW5GUlF5Z0VpRGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T06:19+09:00"
+  },
+  {
    "title": "全米空港ストップ 通信障害「旧式設備に負荷」 ７０００便超欠航",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnbHgxamZkdWFaS3hFREI5NEV5Z2V0dHJ3MjRCYlpNSVM3ekxuaVZXeXpUY3l4RmRQUU1GTzVhbGJBVlRlSV82TFpmQXNJUTZWemVYTkhQcUZ0c3pL?oc=5",
    "source": "朝日新聞",
@@ -379,12 +385,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURUJ4RVZYZzdYeTNuYkxwcktzWWwxZVBhSElpdTV5OWZxRWV4ZWxNVFdBYl8zd2VoT3NtbThsS3YxUTB4UDczYmpCWGhRZjFzd3BhUUpBQQ?oc=5",
    "source": "X",
    "at": "2026-11-15T02:27+09:00"
-  },
-  {
-   "title": "アメリカの全空港で離陸停止措置 航空管制システムで通信障害（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52VXpFbU5VZm81U0R0c1Y3VWtOZFhickVmT0JyQTU2SFNVMmNJcWxuV1pnWVBvN0otZlRmZUI2VDEwZXFCYlN3aDdqM3hFckE1LW9GRTJ3QnJ6YjdqNW4tZmJTS0FZLWp4NkJPLUkydWNtQzlSRllWa1RGbjZ4RHc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T01:08+09:00"
   },
   {
    "title": "米FAA、全米の地上待機指示を解除―通信障害で4時間超運航停止、運輸長官「老朽化」指摘",
@@ -590,9 +590,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "【寄稿】中国軍、空母「遼寧」軸に3戦区海軍が西太平洋へ 第一列島線の「反封鎖」 能力を検証か",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLeTB1b2FjbEtmSUItbEcxdDd3aG44OWR0SFJhdEg0VXV1MGhzRkhJT05BVm14bzdLeVp2aThrSXRVc19sd25kblV1Ym80V3kx?oc=5",
-   "source": "風傳媒",
+   "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdTgybHVzNGZLRkFZNENidWpKc2hzNlVmRnBZV0FPUG8wdG4yb2FYcXhhODlhVW0yNS1teXFMZ09YZzVBMTlBczRZX3dRcEszd1BPWEZrSE95dw?oc=5",
+   "source": "山陽新聞",
    "at": "2026-11-14T12:13+09:00",
    "topic": "中国・台湾"
   }
