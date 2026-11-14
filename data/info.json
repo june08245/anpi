@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:30+09:00",
+ "updated": "2026-11-14T15:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-14T15:39:00+09:00",
+   "place": "根室半島南東沖",
+   "mag": "4.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-14T11:16:00+09:00",
    "place": "富山県西部",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-12T22:27:00+09:00",
-   "place": "千葉県北東部",
-   "mag": "3.9",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -94,12 +94,6 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
-    {
-     "title": "「対イラン戦争」どこに向かう？アメリカとイスラエルで選挙終了も (2026年11月14日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyZUdsSXEzZUhEcXlYNUxLbVh0Qm0zdGZ2ZEVIeFh3ZEMyM3JZUFBVY2VBejNVaTM2NjByNTJtV2c1azlGdDFuTmJSUkRLOVluMlBTRlQwUXNJbUhQTkE?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-14T15:04+09:00"
-    },
     {
      "title": "米軍、イランによるバーレーンのレーダー攻撃否定 「無人機撃墜」",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uem83bG45SjIzelpQRkstVGlwU2lVbjRUQjFDa2M1SE1ycmlqd3N6dlp6c3VJNXhfTFduTWZRajNyMmthV0ZNOHFvS1U4a1FNNnZNM3lQVWIwUQ?oc=5",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQU2RWNWRUSDJkUFlTcVpLRnlmUHZISk9oVmtEUVVfb0pDajRUVG5kWjd2N0lCeDRCWW1kZkZEMjR6X2gtbVl2My1UZXNhRl84YmtySmtGNUUzbTNKYlZQczIzUQ?oc=5",
      "source": "재경일보",
      "at": "2026-11-14T10:35+09:00"
+    },
+    {
+     "title": "イラン革命防衛隊、バーレーンにある米軍の早期警戒レーダーを攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvREJESS1RcTRZWWIzVXo5NkhEUXR0ckhzcGt3OVVIZVNEeFh1aEJXRmxuVldLUnhuS3Q1bDF2RzBoZUh0NVFnUkp0M2tHUHdlUWxQdg?oc=5",
+     "source": "Switch news",
+     "at": "2026-11-14T10:05+09:00"
     }
    ]
   },
@@ -343,6 +343,24 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフト、大規模システム障害が完全復旧（2026年11月13日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlBWaUNRd19La1ZFOG9vX2xtdDYtYmlOTy1yY3hNT0ZkSm1PN1h1ZWNYSXNiejhjRkFjNUtTSDQxcEVKYkdMa2x0c2VrZTU4UHNYUEsxVF9hRzVNUTFGWDZSX1NTUGp3XzA4NFo5VWxMbU1BYVBiTWV4MFU2VmZCZk1QQjc?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-14T15:26+09:00"
+  },
+  {
+   "title": "Outlookなど大規模障害 マイクロソフトが個人向けサービスの完全復旧を発表",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2J5NVpkVTd4bnRnOHVnWFdTcGpId1J0TXN3UVdGa0V4RW5iYl9STkFub1dmdTVCdUtwMzluQXRNZkFzUXZwQ1lzQUZKTkNDRTd3U2ZFZGR5eEo2T2s4YXpsWmZocVlEbGFzcWd4cGhrRjNTWlBKUHRkU3h0dk1ldTVWSUI3ejdWdjlXVDFPVFNfYWgzNWo5YWlBbDVCcmppdEUwNE9jaFNoVV9VOWZsNmljeDI?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-14T15:21+09:00"
+  },
+  {
+   "title": "米MS、個人向け障害復旧 企業向けは作業継続",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qVGRqQ1Z3WGF5MHhBRDBDaUM3M3I5SjNTQlVDczB4b2VVS1lZc0RQYV9NZnlXamdMaEJjVVhaaVpkNzMyQWRsYm1ZVGdTOTJBamlGUUNDRGtXQkJCS2U4?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-14T14:48+09:00"
+  },
+  {
    "title": "アメリカ、航空管制の通信障害で全米の航空機の出発を一時停止",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOExoc0VfaEVmZlJuTkpxZHFzVTROVWYzTS1kUkFfYUpZc2FmYzE5M1BoX3NtOEZjR2k3T3dhOVZXWTNGM1N5M0ZVV0FxbDZXaV9tcU9aMUlPOWNERVQtclVPQzJqbFJDR3JURjhWRUZwcWRhbWd0dmFsOXZlZWZfcUdUOXdMZnk2b2hCZFBBU2VSVm42WEJza3hFS3hjcE1ZX0ttM09SNWNlSGJKOG5lZ0pVd21SZS1mM1g1WVRSUldTQ0Ew?oc=5",
    "source": "VOV World",
@@ -413,35 +431,10 @@
    "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNZnhYcWZ1WkxzWVJFQ0JkaVo5Rk5RSHhObW9Md1dUWTZYZE1IY0x1emdzNVFIdGtwTFZNa3F1TGxnd2hBSmxKRl9zcTAwbkR1WjZGM1B2eVFVLWxGX1NNR1l4djRtR2EwUkNwOHNDaF9PQUJzZzhMZTRCcF9XWXRaS2dJaThiN3lJWlB0ZEZ3em9ud3pNNDRDSnMyT3dIY3pHNVVDUFVjLUJXTFdRUFR2V0E5UUtOR2YycmMtNVpUZXVSdGIzREwwdUFBRmt3Y1lXYnNxaFp6WGpzcW1weFJoZHdYU0ZJdDNqQlBuV25YOV9hcmxNQnNGaWxYQmlscHJVLUJfMHFxV0tjdFVRcENzZzZzTEZoSldLa3Ftb1dtMVk2LVdtNFpyTjhfYklTbGdxX0R1enpNeFRCMWZPSWV0VGNLdlZSa1dKeUlBU201Z3pCa2tBaEUwR2FkZXFzXzgwcVhqdmltVVBmcnllSFBnY3N6cThDOW1XUTBKTEZiVEFIejZfTUFUVXk4TUNkblVsY0N1TkpaQlNwUURodDRqZUxaVjY4eEZTVUFfWk5vdzl0TU5wYWFJM1pNSVpjdjJJZHpEVnNTOVlvNFBNMURQVFBaNkZybmJvREE1UGRKOA?oc=5",
    "source": "SmartNews",
    "at": "2026-11-14T11:02+09:00"
-  },
-  {
-   "title": "通信障害を受け、FAAが全米の空港で出発停止措置",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUpaQ3RoMGprRDRSSTdXcEJNU0J6U3hBQldUTUxMMG9XT0R5SkFxZTYwTTEwLTVvOHlObnNVMndkSUw5ckRfTy0tV202U2hFTkp0Qm5pNVI2cHNlaHVaQ1BiTk51N1drRU9fMVBCLXNsYVM0LWRXZ2FIX2NYbmZsYkVvamI3b1lxV003WWRRWlAxUQ?oc=5",
-   "source": "Unite.AI",
-   "at": "2026-11-14T10:30+09:00"
-  },
-  {
-   "title": "保釈金処理できず・市役所が来庁自粛要請・急患の電話連絡呼びかけ…マイクロソフト障害、北米各地でも影響",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkpWdklkNFVrRGstcnM5M0lQLWQ0eWtPWi1LREJFay1kTUV3ZnJVQTVXMWh3ZENvYWpHQ1ZCeDBFOWFtV0U1NWkxcTZPeTk3RDZ2eTdCQkdqWFktSm5PMGdRU3djMHJJZG04YmI4cEU4S3pKYjY2WldLRDl2ZzJqTEtoajhLNGJy0gGOAUFVX3lxTE4xT2JlOW85U1pPOXdfX05xeXFWeTFTTTduQ0phY0hhaVpETjIzOEQ3Rnp4d0NHZzFoTFhUZ3lPaFF3TEhBY3NmdlFvZzFPVDNOekVpNGYzLUhadVNoRVNHbGR0eFRYbkpreUNwUms0eTNMWkl4VGVHZ3hkTEpHX01CTlFIVXBzWjY3UVBDcnc?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-14T10:27+09:00"
-  },
-  {
-   "title": "日光宇都宮道路全線でETC通信障害 一般レーン無料開放",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SM3NOc1h5eDNUcnhnOFhnb2Y4ZGZaUXU5UUdKYmhZTDZ5NEpFODZJRUhHMU1Pa24tS1FfbWJsRjZqTjJnZ012aGxoMA?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-14T10:11+09:00"
   }
  ],
  "osaka": [],
  "world": [
-  {
-   "title": "「対イラン戦争」どこに向かう？アメリカとイスラエルで選挙終了も (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyZUdsSXEzZUhEcXlYNUxLbVh0Qm0zdGZ2ZEVIeFh3ZEMyM3JZUFBVY2VBejNVaTM2NjByNTJtV2c1azlGdDFuTmJSUkRLOVluMlBTRlQwUXNJbUhQTkE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-14T15:04+09:00",
-   "topic": "イラン・アメリカ"
-  },
   {
    "title": "米軍、イランによるバーレーンのレーダー攻撃否定 「無人機撃墜」",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uem83bG45SjIzelpQRkstVGlwU2lVbjRUQjFDa2M1SE1ycmlqd3N6dlp6c3VJNXhfTFduTWZRajNyMmthV0ZNOHFvS1U4a1FNNnZNM3lQVWIwUQ?oc=5",
@@ -534,6 +527,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "イラン革命防衛隊、バーレーンにある米軍の早期警戒レーダーを攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvREJESS1RcTRZWWIzVXo5NkhEUXR0ckhzcGt3OVVIZVNEeFh1aEJXRmxuVldLUnhuS3Q1bDF2RzBoZUh0NVFnUkp0M2tHUHdlUWxQdg?oc=5",
+   "source": "Switch news",
+   "at": "2026-11-14T10:05+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "米国と中国、ロシア首脳が一堂に会して北朝鮮問題を議論する可能性が提起され、韓半島外交·安保地形に及ぼす影響に関心が集まる。 米朝対話再開を望むドナルド·トランプ米大統領が北朝鮮と密接な関係を結んでいる..",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oVmFDbTRmellINkpETmIxQXBScmRLdEVTeGNicG9PaEtXRDFkUVBFdUdDVE15SldmcEZ1aTZ0NWlyTlNhUHc0Q2dSQVBENk0?oc=5",
    "source": "매일경제",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思っ」"
+    "「マイクロソフト、大規模システム障害が完全復旧（2026年11月13日掲載）」"
    ]
   },
   "japan": {
@@ -592,7 +592,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」3件",
+    "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「ミサイル」「侵攻」2件",
