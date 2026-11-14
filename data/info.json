@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:45+09:00",
+ "updated": "2026-11-14T16:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -343,16 +343,16 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフト Outlookなどの大規模障害 全面復旧と発表 最新の国際ニュース【随時更新】",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJWNDMwWThLUnUzLTdYMnFqTEZXOGtJeXZZRG1oWU5xeGhCSzB3RG1OQlIzQ05sblR1VXhRWDRMM1dENHBvS1BpUEhLZUd4TmhERWhMT2RyMlVXZVg4V2ttVzlkWUF4VzZsdVVCRzIxSlo4MDgwRkJvNkJIQ1M1S0lYOWFxTlU5OF9UazFnRmlvbVFmYlhOR05acFlYNGhxbjNlWHFwSGhuZE1vUV8zaHlOWWI?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-14T15:54+09:00"
+  },
+  {
    "title": "マイクロソフト、大規模システム障害が完全復旧（2026年11月13日掲載）",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlBWaUNRd19La1ZFOG9vX2xtdDYtYmlOTy1yY3hNT0ZkSm1PN1h1ZWNYSXNiejhjRkFjNUtTSDQxcEVKYkdMa2x0c2VrZTU4UHNYUEsxVF9hRzVNUTFGWDZSX1NTUGp3XzA4NFo5VWxMbU1BYVBiTWV4MFU2VmZCZk1QQjc?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-14T15:26+09:00"
-  },
-  {
-   "title": "Outlookなど大規模障害 マイクロソフトが個人向けサービスの完全復旧を発表",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2J5NVpkVTd4bnRnOHVnWFdTcGpId1J0TXN3UVdGa0V4RW5iYl9STkFub1dmdTVCdUtwMzluQXRNZkFzUXZwQ1lzQUZKTkNDRTd3U2ZFZGR5eEo2T2s4YXpsWmZocVlEbGFzcWd4cGhrRjNTWlBKUHRkU3h0dk1ldTVWSUI3ejdWdjlXVDFPVFNfYWgzNWo5YWlBbDVCcmppdEUwNE9jaFNoVV9VOWZsNmljeDI?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-14T15:21+09:00"
   },
   {
    "title": "米MS、個人向け障害復旧 企業向けは作業継続",
@@ -385,12 +385,6 @@
    "at": "2026-11-14T13:41+09:00"
   },
   {
-   "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（ITmedia Mobile）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdGZpV29UQXA4RFpxbnJaa2s1MjBlOXBUQjVyRDhpUm0ydVpkT0JjSXFyZFlmdGtiM2xEUDRQZVlhZldlRVkxOHhadXZQdUFJUnFjcGM3UUpNRWVvcm90SHFOZy1PNi05YWNZcVk3Y3hmNDQ5SThtY0pxQTBhaVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T13:25+09:00"
-  },
-  {
    "title": "全米の航空機、一時離陸停止 通信障害か、数時間後に解除",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PS2dpTzhIeEZlUzFMR0pVbG9wQzBTcDB1UGFORkdVWWQ0M0xrMVZsZGd0MUFYem1PV1o0MXlLLTFhMmZYd25IYXBlLS1fQ0k2bmdFbm15dzN6V2xCaEE5TU45Zw?oc=5",
    "source": "時事ドットコム",
@@ -415,6 +409,12 @@
    "at": "2026-11-14T11:51+09:00"
   },
   {
+   "title": "米FAA、全米の空港に地上待機命令 管制施設の通信障害で大規模な遅延・欠航の見込み",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WX1FNZUhhN0tFT3d5ajJUamJVWWltSjdVc1Zmem55YXZtVnFxQ1VRenRNbkNZMHR0M0o5NlZ5SnpnZWhvc2ZLZG8xblFLZ25FUi1NblpOc1BiQ0c3SVhj?oc=5",
+   "source": "千葉テレビ放送",
+   "at": "2026-11-14T11:29+09:00"
+  },
+  {
    "title": "アメリカの全空港「管制施設の通信システム障害」で離陸停止措置、４時間後に通信復旧し運航再開",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQUjg0VXRkN2pUQUNKb1hvSHR0QkMzVmtXSTYwS3RUeEZseld6QTE2VUY5VDFtTzlVTXh1SWViNmVfZHZFODhFNjc0MFFwNVg5MDZGRW04OGRqYVBzSHB4aU9wMnplTjhUUzhtNmRZZ2g?oc=5",
    "source": "Infoseek",
@@ -427,10 +427,10 @@
    "at": "2026-11-14T11:04+09:00"
   },
   {
-   "title": "全米の航空機地上待機命令が解除 通信障害原因、サイバー攻撃否定 | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNZnhYcWZ1WkxzWVJFQ0JkaVo5Rk5RSHhObW9Md1dUWTZYZE1IY0x1emdzNVFIdGtwTFZNa3F1TGxnd2hBSmxKRl9zcTAwbkR1WjZGM1B2eVFVLWxGX1NNR1l4djRtR2EwUkNwOHNDaF9PQUJzZzhMZTRCcF9XWXRaS2dJaThiN3lJWlB0ZEZ3em9ud3pNNDRDSnMyT3dIY3pHNVVDUFVjLUJXTFdRUFR2V0E5UUtOR2YycmMtNVpUZXVSdGIzREwwdUFBRmt3Y1lXYnNxaFp6WGpzcW1weFJoZHdYU0ZJdDNqQlBuV25YOV9hcmxNQnNGaWxYQmlscHJVLUJfMHFxV0tjdFVRcENzZzZzTEZoSldLa3Ftb1dtMVk2LVdtNFpyTjhfYklTbGdxX0R1enpNeFRCMWZPSWV0VGNLdlZSa1dKeUlBU201Z3pCa2tBaEUwR2FkZXFzXzgwcVhqdmltVVBmcnllSFBnY3N6cThDOW1XUTBKTEZiVEFIejZfTUFUVXk4TUNkblVsY0N1TkpaQlNwUURodDRqZUxaVjY4eEZTVUFfWk5vdzl0TU5wYWFJM1pNSVpjdjJJZHpEVnNTOVlvNFBNMURQVFBaNkZybmJvREE1UGRKOA?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-14T11:02+09:00"
+   "title": "両陛下が「海づくり大会」で大阪入り サイバー攻撃で予定変更も（毎日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGcldHZlBlNjZ2LTBMdUFBVTVfdHAtSnBfcXNramZfUXE3TDYwNDBzZ3Rpc3ZsVEphTW9JVnh1VDl2Zzh0MW4zR0lmV24zR2Q3Z29kaEFhNEY4Q3V2a1BkZE5BTktyZlAzUWtRa28xQ2lRRG1rT0o2cnpKYWN3TnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T15:50+09:00"
   }
  ],
  "osaka": [],
