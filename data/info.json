@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:30+09:00",
+ "updated": "2026-11-14T10:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、バーレーンの米軍レーダーを攻撃したと主張…米軍はドローン撃墜と発表 : 国際 : 財経日報",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQU2RWNWRUSDJkUFlTcVpLRnlmUHZISk9oVmtEUVVfb0pDajRUVG5kWjd2N0lCeDRCWW1kZkZEMjR6X2gtbVl2My1UZXNhRl84YmtySmtGNUUzbTNKYlZQczIzUQ?oc=5",
+     "source": "재경일보",
+     "at": "2026-11-14T10:35+09:00"
+    },
+    {
      "title": "イラン革命防衛隊、バーレーンにある米軍の早期警戒レーダーを攻撃",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvREJESS1RcTRZWWIzVXo5NkhEUXR0ckhzcGt3OVVIZVNEeFh1aEJXRmxuVldLUnhuS3Q1bDF2RzBoZUh0NVFnUkp0M2tHUHdlUWxQdg?oc=5",
      "source": "Switch news",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHQ4Y3pSaFk0MUY5anN1Q2NGMUdDejF3YVJhSUJia0RwSmhMODNVOTVBZGZodGJ5ZEEyTzdQWElMVW1xdXZ2c0V6aGlYdUVSQWZpdjVUUmNLUzdiY0FGOWVXRWoycERNdUJEUjFPMFdIWks0bVozSzZhU2RYYXAxbFNUQ1A?oc=5",
      "source": "日テレNEWS NNN",
      "at": "2026-11-14T07:34+09:00"
-    },
-    {
-     "title": "モサド長官がCIA長官と会談　イラン攻撃再開も協議か　米報道",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0dLN2RjbjJSbUZzcl9BY05sQXVlVEtwMU5uOUZxR2dhY2twNzE4MDl1bnZoY0FfeFplZG1ETHlYMDYxQk5zNFJ3NEJSUk1EbS1UVk9PSkJPbmN0VXlKU1dUaHNZWko0VEVaTWxJeURYRHQxbzhYSmk5a3pKSjhLMWxtUGRFaF8xcnJTbGlZaU11QdIBlwFBVV95cUxOSWhVS0xNV1VpcTc3ZzFtZG5OTHZ2SHR4RlBNOXBlalNHZUFlbzJPSVpKUjZrcTVmNjlCUDZkMExXT1A3VFVPcnlad284LTk3cFdic3lxeS1HbzJpMktvRXNiLWV4ZUxkU3NEc1VQYTBpYjByRXQwaHlQVkdPYjdMbGRpVDdpWG1Ud21GdzY5STR0dGhIZmdj?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-14T07:18+09:00"
     }
    ]
   },
@@ -179,10 +179,10 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "米中露首脳会談、19日開催へ　米高官、トランプ氏と北朝鮮との対話「計画ない」",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQS1FRFFpbE53V1pXTmFkTTVxcWNKejdJenJBbDBYcld6Z3B5V09TbkFyVHlxaGgxLVc4UlJ2THZfZDZkdlFDb2Q3allSamFfSGZ1Z1d4QTVaVl8xZjd5VHV1RlBOSjBIZV9YS25relpaYVV0ZWNmbVp0a1o3VmNsa3FyWFhZVlB6SU53MmluQkNmRlNEdFN1OFVGRTc2bWtub0ww0gGoAUFVX3lxTE42Uy1DeUtKR3l2SWZfc1B1YXljam16VEhrYjJadlVSY2lqVVdSZDdzWWVXRHRPTnZSaC1XR1I4RWJRVWZJNmUteVpDQW5xWXd1VTFiVi1qc292UnUtYmNmb0hfeHFpNmNPLTJJYm5Kb080cW5MWnI4cUhzMXFTTWFQcmxZU0MxdUI4OTRmcmNWa0JkRVBTeFFnaEVyQi1EN2VIRGVKWnNjWQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-14T10:17+09:00"
+     "title": "米中露首脳会談、19日開催へ 米高官、トランプ氏と北朝鮮との対話「計画ない」（産経新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBobXlhdjU4dml6WGlzbjh3NlRla29jOE0yV0JPZGlldTBRcW9aNTlhSFlHMHRNM0dvTXF6VjgwclVMS2hPVllyd25RczJ4Wll0ZXloZXIxcWhNZjh0emNzbWZqb09xMmNBTE0wTTBaeVVvSXZpdUNQMV9SVWFqN1U?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-14T10:27+09:00"
     },
     {
      "title": "米国と中国、ロシア首脳が一堂に会して北朝鮮問題を議論する可能性が提起され、韓半島外交·安保地形に及ぼす影響に関心が集まる。 米朝対話再開を望むドナルド·トランプ米大統領が北朝鮮と密接な関係を結んでいる..",
@@ -222,9 +222,9 @@
    "items": [
     {
      "title": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tVl9xMkxORVFyVWx6cUV2V2JER1kzdVExRWIzQmRaQzJodmQ0Z1ZrbnVQUXQ4YnoyTGdZcW9nUGoyV2tkWmM1RDJIamJ0SzhLT3lj?oc=5",
-     "source": "CNN",
-     "at": "2026-11-14T09:39+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vdDFnMU1Ea0ZuOW0yZGNrZnNfaGJ5TUpMWVB0MTB6djdHTEQyWlBRUjVhMXRGb1NLQzZsNE1ERzRUeVdqUzJZQnVXLTQzSXdzR0VfbFR4Sk9vRlVCbTlR?oc=5",
+     "source": "千葉テレビ放送",
+     "at": "2026-11-14T09:41+09:00"
     },
     {
      "title": "ロシア南部軍集団が1日にウクライナの重UAV114機を撃墜",
@@ -343,10 +343,22 @@
  "japan": [],
  "cyber": [
   {
-   "title": "全米のすべての空港で運航停止 地域航空管制センターの通信障害（AP通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aEZZSVJRdmFQa1QxaXM5dDRQYVRIR1N1Q1dHeWlLUERkR0locEtNVGNSbUZEeGg4MU1veHZJRUc2WUJuLW1JNzJFc2NyRmVDQnRoaFB2ZVU1S3BVNndBUy1WSW50dzByNlZQYWVUR2x6VWltbl93Q1JTMnhVcUE?oc=5",
+   "title": "航空機の通信障害で、何が最も心配ですか？",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TUDFaTTlqeEJXZmxCa0xxLW5VaEI2YVBadUg4RHBXYWZsWTd4WlFnalVLYmJRR3E0cUttbC12TWJlUEp2RndFUkd2alk?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-14T10:05+09:00"
+   "at": "2026-11-14T10:35+09:00"
+  },
+  {
+   "title": "保釈金処理できず・市役所が来庁自粛要請・急患の電話連絡呼びかけ…マイクロソフト障害、北米各地でも影響",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96SXlJR2Z5aHdEUk9BVDV0RkpWXzFuSkJvU3VrMnlQODhtSERXQ1llemZJbnBCU0t2QXdnc3BNXzNQdFIyLTZHY3c1UUZYNENyUlFOQkJRZUZab2QwMHBESkVSakgtN2JTc0N0c1NYQVJmVW5ESWRhU0sxSDdjWU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T10:27+09:00"
+  },
+  {
+   "title": "日光宇都宮道路全線でETC通信障害 一般レーン無料開放",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SbkFLVjI1cHRYcjBFcDFaai14SW50emZnSGw1WDFFTFBZUTA2azN2clBxTWRMejVpSUFVTEZIaXg5TnZabEVrSThPUi1KYlo5YVBsci1IY2N6MjQ?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-14T10:17+09:00"
   },
   {
    "title": "米マリン国土安全保障長官“サイバー攻撃の可能性低い”全米の空港で通信障害",
@@ -361,10 +373,10 @@
    "at": "2026-11-14T09:58+09:00"
   },
   {
-   "title": "【速報】アメリカ全土の空港で航空機の地上待機命令 管制センターで通信障害が発生（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OU3JSUlh1WkkwaTBYM21VbGhkOXVkQzBLM2s3ZEN4S0d1Q1NVNWx3eVJlWmdYS1lLQUYtZmNZZzU2bzFFVnJ5eXZyWlpuc25rUE1ra1MyNzdYbFhxbmNNN0Fpam5yd3pyNU9Rb0ZCbk5IYUpNX0o2MXBReDNQOFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T09:55+09:00"
+   "title": "全米で航空機の離陸停止 通信障害か―当局が命令",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PS2dpTzhIeEZlUzFMR0pVbG9wQzBTcDB1UGFORkdVWWQ0M0xrMVZsZGd0MUFYem1PV1o0MXlLLTFhMmZYd25IYXBlLS1fQ0k2bmdFbm15dzN6V2xCaEE5TU45Zw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-14T09:58+09:00"
   },
   {
    "title": "米マイクロソフトのロゴ＝13日（ロイター＝共同） - 米MS、大規模障害について謝罪 完全復旧の見通しは立たず - 写真・画像(1/1)",
@@ -403,12 +415,6 @@
    "at": "2026-11-14T09:17+09:00"
   },
   {
-   "title": "全米で航空機の離陸停止 通信障害か―当局が命令",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PS2dpTzhIeEZlUzFMR0pVbG9wQzBTcDB1UGFORkdVWWQ0M0xrMVZsZGd0MUFYem1PV1o0MXlLLTFhMmZYd25IYXBlLS1fQ0k2bmdFbm15dzN6V2xCaEE5TU45Zw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-14T09:17+09:00"
-  },
-  {
    "title": "米ＭＳ、大規模障害について謝罪 完全復旧の見通しは立たず",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwTFlRb05fdTJFUDFQNUNRemI4V3BCRVpic0RYTUlnZnBmT3hBNjIxZEtQd1ZYdFEwLU5MVFdxQi1Sel9wcER5VVJhRkZQc2xhSmxKU0VTdTNYSElITDZ6bTNDS0t0VHc?oc=5",
    "source": "中日新聞Web",
@@ -425,21 +431,22 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEotaU5kcDM0Qm9LZlZhYUpQWmt6TXFWWTZyNzVrSmdTRWlUSDY0Y0ZDWnJZNWpWVERCbzJuYzJEcExzT1lpVi1YUklkVjlvdURWeDlZVzRhazl6YjlNOU1tWFg5TGt6cWdnMFo5ZEFnaWxEYXJrbmNwREhiaEdPcnpyZHFoT2lVR2l2WENqdS1uRXk4TG1yTy1xM0RmRnJwbHl4cVNCVTM4aUxJc3NRUXJvMnRKS2VuTWRMYzdRTExfcXNvVzJnSWJsaGlhelBwd3pKSVJfS2lBT081b3pJ?oc=5",
    "source": "sky-budget スカイバジェット",
    "at": "2026-11-14T08:41+09:00"
-  },
-  {
-   "title": "米FAA、 通信 システム障害で全米空港の出発便を一斉停止 航空管制センターに影響",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2ZsV3NiQ0p4R2p6dm5Fd1NYRE8tSjRNWHlDeVpWZXZHaTZGN3piRXhMUE5jOWwzR2NFRk9CMVd4R2RqbURaOHZkdEd1N3lYQmJLV0NFTW1WSThGVmxRRWhSWUZROVZtZ0twSDJhR29iRFMwSVhjT0hCZkN4NFREZS16U0lOOHFuTFl3RkQtZVVEcnh1MTlVb0FLaDVkWVdWcl8yVFpKVnJlejQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-14T08:40+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "米中露首脳会談、19日開催へ　米高官、トランプ氏と北朝鮮との対話「計画ない」",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQS1FRFFpbE53V1pXTmFkTTVxcWNKejdJenJBbDBYcld6Z3B5V09TbkFyVHlxaGgxLVc4UlJ2THZfZDZkdlFDb2Q3allSamFfSGZ1Z1d4QTVaVl8xZjd5VHV1RlBOSjBIZV9YS25relpaYVV0ZWNmbVp0a1o3VmNsa3FyWFhZVlB6SU53MmluQkNmRlNEdFN1OFVGRTc2bWtub0ww0gGoAUFVX3lxTE42Uy1DeUtKR3l2SWZfc1B1YXljam16VEhrYjJadlVSY2lqVVdSZDdzWWVXRHRPTnZSaC1XR1I4RWJRVWZJNmUteVpDQW5xWXd1VTFiVi1qc292UnUtYmNmb0hfeHFpNmNPLTJJYm5Kb080cW5MWnI4cUhzMXFTTWFQcmxZU0MxdUI4OTRmcmNWa0JkRVBTeFFnaEVyQi1EN2VIRGVKWnNjWQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-14T10:17+09:00",
+   "title": "イラン、バーレーンの米軍レーダーを攻撃したと主張…米軍はドローン撃墜と発表 : 国際 : 財経日報",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQU2RWNWRUSDJkUFlTcVpLRnlmUHZISk9oVmtEUVVfb0pDajRUVG5kWjd2N0lCeDRCWW1kZkZEMjR6X2gtbVl2My1UZXNhRl84YmtySmtGNUUzbTNKYlZQczIzUQ?oc=5",
+   "source": "재경일보",
+   "at": "2026-11-14T10:35+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米中露首脳会談、19日開催へ 米高官、トランプ氏と北朝鮮との対話「計画ない」（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBobXlhdjU4dml6WGlzbjh3NlRla29jOE0yV0JPZGlldTBRcW9aNTlhSFlHMHRNM0dvTXF6VjgwclVMS2hPVllyd25RczJ4Wll0ZXloZXIxcWhNZjh0emNzbWZqb09xMmNBTE0wTTBaeVVvSXZpdUNQMV9SVWFqN1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T10:27+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -458,9 +465,9 @@
   },
   {
    "title": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tVl9xMkxORVFyVWx6cUV2V2JER1kzdVExRWIzQmRaQzJodmQ0Z1ZrbnVQUXQ4YnoyTGdZcW9nUGoyV2tkWmM1RDJIamJ0SzhLT3lj?oc=5",
-   "source": "CNN",
-   "at": "2026-11-14T09:39+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vdDFnMU1Ea0ZuOW0yZGNrZnNfaGJ5TUpMWVB0MTB6djdHTEQyWlBRUjVhMXRGb1NLQzZsNE1ERzRUeVdqUzJZQnVXLTQzSXdzR0VfbFR4Sk9vRlVCbTlR?oc=5",
+   "source": "千葉テレビ放送",
+   "at": "2026-11-14T09:41+09:00",
    "topic": "ロシア"
   },
   {
@@ -517,13 +524,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHQ4Y3pSaFk0MUY5anN1Q2NGMUdDejF3YVJhSUJia0RwSmhMODNVOTVBZGZodGJ5ZEEyTzdQWElMVW1xdXZ2c0V6aGlYdUVSQWZpdjVUUmNLUzdiY0FGOWVXRWoycERNdUJEUjFPMFdIWks0bVozSzZhU2RYYXAxbFNUQ1A?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-14T07:34+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "モサド長官がCIA長官と会談　イラン攻撃再開も協議か　米報道",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0dLN2RjbjJSbUZzcl9BY05sQXVlVEtwMU5uOUZxR2dhY2twNzE4MDl1bnZoY0FfeFplZG1ETHlYMDYxQk5zNFJ3NEJSUk1EbS1UVk9PSkJPbmN0VXlKU1dUaHNZWko0VEVaTWxJeURYRHQxbzhYSmk5a3pKSjhLMWxtUGRFaF8xcnJTbGlZaU11QdIBlwFBVV95cUxOSWhVS0xNV1VpcTc3ZzFtZG5OTHZ2SHR4RlBNOXBlalNHZUFlbzJPSVpKUjZrcTVmNjlCUDZkMExXT1A3VFVPcnlad284LTk3cFdic3lxeS1HbzJpMktvRXNiLWV4ZUxkU3NEc1VQYTBpYjByRXQwaHlQVkdPYjdMbGRpVDdpWG1Ud21GdzY5STR0dGhIZmdj?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-14T07:18+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -598,10 +598,10 @@
    ],
    "items": [
     {
-     "title": "イラン革命防衛隊、バーレーンにある米軍の早期警戒レーダーを攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvREJESS1RcTRZWWIzVXo5NkhEUXR0ckhzcGt3OVVIZVNEeFh1aEJXRmxuVldLUnhuS3Q1bDF2RzBoZUh0NVFnUkp0M2tHUHdlUWxQdg?oc=5",
-     "source": "Switch news",
-     "at": "2026-11-14T10:05+09:00"
+     "title": "イラン、バーレーンの米軍レーダーを攻撃したと主張…米軍はドローン撃墜と発表 : 国際 : 財経日報",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQU2RWNWRUSDJkUFlTcVpLRnlmUHZISk9oVmtEUVVfb0pDajRUVG5kWjd2N0lCeDRCWW1kZkZEMjR6X2gtbVl2My1UZXNhRl84YmtySmtGNUUzbTNKYlZQczIzUQ?oc=5",
+     "source": "재경일보",
+     "at": "2026-11-14T10:35+09:00"
     },
     {
      "title": "「北朝鮮は3日以内にミサイルを撃つか？」…肯定・否定の根拠を並べて判断を委ねる“AI参謀”、韓国企業が公開",
