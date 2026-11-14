@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:15+09:00",
+ "updated": "2026-11-14T17:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-14T16:37+09:00"
+    },
+    {
      "title": "ＥＵ首脳等、ロシア・ウクライナ戦争和平交渉における欧州の代表者につき合意",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWnNtVnV5bWRnajBKWVlMT1RDMGl4N2Q0emxZcU56dldyYXIteHVWa1RjN1dTcVJ0S3ozSkFUS1RzQnUwM0V4NUllUzFYZzgwdW5LaDhUV0FnNTZWQUlWWm9hbjhUY25BM241ZXB2T1o3VTBnenNFRkZSRnpfc0JFYk5rYmdidXFCTG0ycUdtYUtVUS1aTGwtSFRzZW04QnA3UjdJckowdXo5QkNtUzRDME5qRVBaWEVKenZFVEJMUm1xYVlzNHI2UVRGMGdkOTV2TXRzLXpfLWJZSmhPNUR5VkExLWtfYzQ10gHuAUFVX3lxTFBGNHctUkQxZGthUUFjSDRyanNoMUpscF9wY3VwcmtYcTA3c3FtaGhONl8wcmQ2RHFVZnJhZURnTkx1VUM5aWh5ZUJYMi1pWE5kVXd1SngxNXhFa3YxYnVJQlpUMUhVdHp0TlFHZnBMdVRPVkpRYUZwRlNSTEJxaWNLM3dkMmlrQzhCNGZ6LVM3NXZoNDdYdVNpeDNraDY2U1hldEtoRmR0ZTluN2hheEJlRHBTeUpWY216c21jY1NHbDNDRnAta1hPRmt5UldueUNhY083MXlmRXoxY0tEbUJWMlRTT21GbGxPb0pIUkE?oc=5",
      "source": "ウクルインフォルム通信",
@@ -237,12 +243,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJZ3MwRHE5R2JSTGczdUVNSU5GX2pHN3o1VmJ2MEktcnBZQk04eWFZSVFlNXRCWlhNSVZSYUJ6ZzlLdFBQbUpnN2czWExHcnI5MnNQOFFaaVVBQm00MXRwSDd0b1VxZEZDSFkwVE9XMGxxS28?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-14T11:52+09:00"
-    },
-    {
-     "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-14T11:12+09:00"
     },
     {
      "title": "2つの戦争進めるロシア、対欧州「ハイブリッド戦」は危険な新段階",
@@ -343,16 +343,16 @@
  "japan": [],
  "cyber": [
   {
-   "title": "【情報まとめ】マイクロソフト 大規模障害「全面的に復旧した」と発表 すべての製品の障害は解消",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-14T16:40+09:00"
-  },
-  {
    "title": "全米空港を襲った大規模通信障害――老朽化する社会インフラに潜む危機｜嗣江建栄",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwZlgtZWYzbWhVMEhqT1N6djZScGkwRFZ4Z3E1Zk11Yi1ZNzhlWHdLZW10N25rbFJQMWd6N0ZOQTFyelF0aXNscXRtRG5RaGJDakI5V0Q1ckUtOE1rRzBOZkhtS19DOFk?oc=5",
    "source": "JIJICO",
    "at": "2026-11-14T16:32+09:00"
+  },
+  {
+   "title": "マイクロソフトで大規模通信障害…政府や企業のシステムに影響も",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01NFg3MzhBcXdiZ1EteU1TOUdUUGxPZ0ZtV3NlXzVHQWNVdE4zQWJYWVFuSWYxUkpBSFFqN0RrbVZDYkt1RVZBb3UxQQ?oc=5",
+   "source": "TVer",
+   "at": "2026-11-14T16:18+09:00"
   },
   {
    "title": "全米の航空機、一時離陸停止 通信障害か、数時間後に解除",
@@ -371,6 +371,12 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJWNDMwWThLUnUzLTdYMnFqTEZXOGtJeXZZRG1oWU5xeGhCSzB3RG1OQlIzQ05sblR1VXhRWDRMM1dENHBvS1BpUEhLZUd4TmhERWhMT2RyMlVXZVg4V2ttVzlkWUF4VzZsdVVCRzIxSlo4MDgwRkJvNkJIQ1M1S0lYOWFxTlU5OF9UazFnRmlvbVFmYlhOR05acFlYNGhxbjNlWHFwSGhuZE1vUV8zaHlOWWI?oc=5",
    "source": "ABEMA",
    "at": "2026-11-14T15:54+09:00"
+  },
+  {
+   "title": "【情報まとめ】マイクロソフト 大規模障害「全面的に復旧した」と発表 すべての製品の障害は解消",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-14T15:30+09:00"
   },
   {
    "title": "マイクロソフト、大規模システム障害が完全復旧（2026年11月13日掲載）",
@@ -425,22 +431,9 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QTWg3UDJoWC1VZGpvMTJnbzRvTURNTE9KYnZkS2l4TUdHelNYUWEzOGNzY3pmSnduTXFWMmhGdTVIR0t4Y05MY3lwOEI4c0UwN2Vjem93?oc=5",
    "source": "KSBニュース",
    "at": "2026-11-14T11:56+09:00"
-  },
-  {
-   "title": "通信障害による全米の空港の出発停止をリアルタイム報道 Data is CITY が日米の便の状況と対策を即時発信",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdWZyc3htNk5EeS1SQ1NBNnlFM0MyOWNXWXRYZnlTdnlmS3pRMzZ5cnFjZHh4UDVubXpNanlOV0lLaVdkQ1lZcUlLZmYtdjkwczNkWmVyTGw5eUJRc0VOTkFNU2NHMkFFZUE?oc=5",
-   "source": "PR TIMES",
-   "at": "2026-11-14T11:51+09:00"
   }
  ],
- "osaka": [
-  {
-   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DLThRNnk2VzNfLVVBX0lqWFpPQmxLMVJPZE9pVzFLOGhJLVFzNFVnZEFSaDRpa3FMRnRyaDJqQWpuWURsSWs5STNSQjhDSXV2R0N2RS1sdmFhNmZ1QWpqVXRFUQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-14T11:09+09:00"
-  }
- ],
+ "osaka": [],
  "world": [
   {
    "title": "脱北者が語る北朝鮮の“サイバー部隊” 「1人の戦闘員も派遣せず、国家基盤を破壊できる」ネット黎明期に創設 中学から選抜しエリートが部隊へ【news23】（TBS NEWS DIG Powered by JNN）",
@@ -448,6 +441,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-14T16:55+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-14T16:37+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "米軍、イランによるバーレーンのレーダー攻撃否定 「無人機撃墜」",
@@ -503,13 +503,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJZ3MwRHE5R2JSTGczdUVNSU5GX2pHN3o1VmJ2MEktcnBZQk04eWFZSVFlNXRCWlhNSVZSYUJ6ZzlLdFBQbUpnN2czWExHcnI5MnNQOFFaaVVBQm00MXRwSDd0b1VxZEZDSFkwVE9XMGxxS28?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-14T11:52+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
-   "source": "乗りものニュース",
-   "at": "2026-11-14T11:12+09:00",
    "topic": "ロシア"
   },
   {
@@ -587,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「復旧：Microsoft 365大規模障害が約35時間ぶりに復旧、原因はネットワ」"
+    "「マイクロソフトで大規模通信障害…政府や企業のシステムに影響も」"
    ]
   },
   "japan": {
