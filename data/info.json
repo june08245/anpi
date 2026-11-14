@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:30+09:00",
+ "updated": "2026-11-14T11:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,10 +179,10 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "米中露首脳会談、19日開催へ 米高官、トランプ氏と北朝鮮との対話「計画ない」（産経新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBobXlhdjU4dml6WGlzbjh3NlRla29jOE0yV0JPZGlldTBRcW9aNTlhSFlHMHRNM0dvTXF6VjgwclVMS2hPVllyd25RczJ4Wll0ZXloZXIxcWhNZjh0emNzbWZqb09xMmNBTE0wTTBaeVVvSXZpdUNQMV9SVWFqN1U?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-14T10:27+09:00"
+     "title": "米中露首脳会談、19日開催へ 米高官、トランプ氏と北朝鮮との対話「計画ない」",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGFaNFVmVmxQWVY2SlN1ZjFYMnB1cGhkeENLMWVTTWZzdXlkbGJQR0FsMTFMWXJUZ1ZrTVFLdWZFMlp1eVBnOUszN3BBR3E2Q1RtZ2E3Umkxc3JoNGVJOFhSM3c0Vl84eFdtUWxCOGU4bUhOQVUzN1JFczd6UkFuUlNseTFGMTBOLW5Hbg?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-14T10:17+09:00"
     },
     {
      "title": "米国と中国、ロシア首脳が一堂に会して北朝鮮問題を議論する可能性が提起され、韓半島外交·安保地形に及ぼす影響に関心が集まる。 米朝対話再開を望むドナルド·トランプ米大統領が北朝鮮と密接な関係を結んでいる..",
@@ -343,6 +343,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "アメリカの全空港「管制施設の通信システム障害」で離陸停止措置、４時間後に通信復旧し運航再開",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQUjg0VXRkN2pUQUNKb1hvSHR0QkMzVmtXSTYwS3RUeEZseld6QTE2VUY5VDFtTzlVTXh1SWViNmVfZHZFODhFNjc0MFFwNVg5MDZGRW04OGRqYVBzSHB4aU9wMnplTjhUUzhtNmRZZ2g?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-14T11:23+09:00"
+  },
+  {
    "title": "全米で航空機の運航停止、「通信障害」の問題で 4時間あまり後に解除",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nWjJBOVBMZUE4ajVMMjNGZkFTemlnMm1BQ3M2YXhlWUJ4bUxNLVU1T1VyTktiV1dUeFQtdE5fWEdlLTdTc0lMR2RkeDlBd2Jj?oc=5",
    "source": "CNN",
@@ -352,12 +358,6 @@
    "title": "全米の航空機地上待機命令が解除 通信障害原因、サイバー攻撃否定 | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNZnhYcWZ1WkxzWVJFQ0JkaVo5Rk5RSHhObW9Md1dUWTZYZE1IY0x1emdzNVFIdGtwTFZNa3F1TGxnd2hBSmxKRl9zcTAwbkR1WjZGM1B2eVFVLWxGX1NNR1l4djRtR2EwUkNwOHNDaF9PQUJzZzhMZTRCcF9XWXRaS2dJaThiN3lJWlB0ZEZ3em9ud3pNNDRDSnMyT3dIY3pHNVVDUFVjLUJXTFdRUFR2V0E5UUtOR2YycmMtNVpUZXVSdGIzREwwdUFBRmt3Y1lXYnNxaFp6WGpzcW1weFJoZHdYU0ZJdDNqQlBuV25YOV9hcmxNQnNGaWxYQmlscHJVLUJfMHFxV0tjdFVRcENzZzZzTEZoSldLa3Ftb1dtMVk2LVdtNFpyTjhfYklTbGdxX0R1enpNeFRCMWZPSWV0VGNLdlZSa1dKeUlBU201Z3pCa2tBaEUwR2FkZXFzXzgwcVhqdmltVVBmcnllSFBnY3N6cThDOW1XUTBKTEZiVEFIejZfTUFUVXk4TUNkblVsY0N1TkpaQlNwUURodDRqZUxaVjY4eEZTVUFfWk5vdzl0TU5wYWFJM1pNSVpjdjJJZHpEVnNTOVlvNFBNMURQVFBaNkZybmJvREE1UGRKOA?oc=5",
    "source": "SmartNews",
-   "at": "2026-11-14T11:02+09:00"
-  },
-  {
-   "title": "アメリカの全空港「管制施設の通信障害」で離陸停止措置、４時間後に通信復旧し運航再開",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iRGhnNnUwVllrVlRLR0xfcVlXZW9jZURlbzRVV3VraGlpZmgzX1dPeDlDNm0zc2pucGcwOF9raWRSZndoUmR1UFhsZGpfRk01YW1nUEhHQ0k3Rk5nSEpXOGVR?oc=5",
-   "source": "読売新聞",
    "at": "2026-11-14T11:02+09:00"
   },
   {
@@ -377,6 +377,12 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUpaQ3RoMGprRDRSSTdXcEJNU0J6U3hBQldUTUxMMG9XT0R5SkFxZTYwTTEwLTVvOHlObnNVMndkSUw5ckRfTy0tV202U2hFTkp0Qm5pNVI2cHNlaHVaQ1BiTk51N1drRU9fMVBCLXNsYVM0LWRXZ2FIX2NYbmZsYkVvamI3b1lxV003WWRRWlAxUQ?oc=5",
    "source": "Unite.AI",
    "at": "2026-11-14T10:30+09:00"
+  },
+  {
+   "title": "保釈金処理できず・市役所が来庁自粛要請・急患の電話連絡呼びかけ…マイクロソフト障害、北米各地でも影響",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xM3l6WGQ1NndDSUYyZVJtNk5uaXBZSkw1Q2ZYeS1QUHFfbDFQdXJOeFBBWTRXc2dmbEIwcHN2QU1tUE44RGlNQW90RnNSSTdDVHE5Z1NPaFg3NG9LcDY4MlBybGd5c2tPbDZ5LTB3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-14T10:27+09:00"
   },
   {
    "title": "日光宇都宮道路全線でETC通信障害 一般レーン無料開放",
@@ -425,12 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEEtdl9yQjF1X2VkR05XY1V5NnJQSVFNdFdZSjVrbVBMQ3REY2R5WjM3UUxLN0hsZnRCWW9GMFhMYVl3a2ZLdkU3TFJtX1BDaHJnc1Fnb1h4dmxrdjRRZ2hxWFZzYUNhLUtLRFNNYVRtbS00a25MM2FPMC02WnRzWjBMZGxwZXEx0gGcAUFVX3lxTE50MThTcDVMYTQ2TTNzbE9SVkNGNHBjT3hCeldBdXVYS1JxV1hkNkJuZi1paC1TenNobF9MRXR1RDA5T3cyaFVDQm41TmtGY0ZMSHp6RUhZVjdNZ3A3ZlJWbEFQNzYtT1h1WG1iSGdYVUdWWFlsRzdQWUJMbDhvT3c0R2NNZlc4b0tTYVM0MHdvOEJZQi1vZkVEbkV0Sw?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-14T09:17+09:00"
-  },
-  {
-   "title": "米連邦航空局（FAA）、通信障害で全米の離陸を一時全面停止 9.11同時多発テロ以来の異例の事態に",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEotaU5kcDM0Qm9LZlZhYUpQWmt6TXFWWTZyNzVrSmdTRWlUSDY0Y0ZDWnJZNWpWVERCbzJuYzJEcExzT1lpVi1YUklkVjlvdURWeDlZVzRhazl6YjlNOU1tWFg5TGt6cWdnMFo5ZEFnaWxEYXJrbmNwREhiaEdPcnpyZHFoT2lVR2l2WENqdS1uRXk4TG1yTy1xM0RmRnJwbHl4cVNCVTM4aUxJc3NRUXJvMnRKS2VuTWRMYzdRTExfcXNvVzJnSWJsaGlhelBwd3pKSVJfS2lBT081b3pJ?oc=5",
-   "source": "sky-budget スカイバジェット",
-   "at": "2026-11-14T08:41+09:00"
   }
  ],
  "osaka": [],
@@ -464,10 +464,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米中露首脳会談、19日開催へ 米高官、トランプ氏と北朝鮮との対話「計画ない」（産経新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBobXlhdjU4dml6WGlzbjh3NlRla29jOE0yV0JPZGlldTBRcW9aNTlhSFlHMHRNM0dvTXF6VjgwclVMS2hPVllyd25RczJ4Wll0ZXloZXIxcWhNZjh0emNzbWZqb09xMmNBTE0wTTBaeVVvSXZpdUNQMV9SVWFqN1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T10:27+09:00",
+   "title": "米中露首脳会談、19日開催へ 米高官、トランプ氏と北朝鮮との対話「計画ない」",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGFaNFVmVmxQWVY2SlN1ZjFYMnB1cGhkeENLMWVTTWZzdXlkbGJQR0FsMTFMWXJUZ1ZrTVFLdWZFMlp1eVBnOUszN3BBR3E2Q1RtZ2E3Umkxc3JoNGVJOFhSM3c0Vl84eFdtUWxCOGU4bUhOQVUzN1JFczd6UkFuUlNseTFGMTBOLW5Hbg?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-14T10:17+09:00",
    "topic": "北朝鮮"
   },
   {
