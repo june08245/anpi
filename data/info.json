@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-14T11:12+09:00"
+    },
+    {
      "title": "2つの戦争進めるロシア、対欧州「ハイブリッド戦」は危険な新段階",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBLXEtZWtyUzN4WnlSNUUydm9TYWxrM2FMcUFfd3hsMl8wNk5NU3VtaWJfZDBaYm1xVFNPRUxPclNUVlktcHJTTWRLNEhPM0g4aVdnTDdsc3VJd0w2eG5KSjVrNERQVU1rLWgwbnAxQnN3dzJU?oc=5",
      "source": "TBS NEWS DIG",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XcmZ5OTZOU19NS2sxZmg5UEtsT1R5ZGZBaHlrTUZUR18tMHdaamR2c1g5eFN5SDBxdGR4NDBLRXQ2UjRYenkyQzV4a1daQ3dBZzRReTlza2VpTkd3RXFYb2tB?oc=5",
      "source": "読売新聞",
      "at": "2026-11-14T09:29+09:00"
-    },
-    {
-     "title": "欧州「5か国とEU」を代表団に ロシア・ウクライナ協議、仲介の米国は絞り込み要請（産経新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yZHVvaDVSQ2Vtdm5jXzN2bGdBZTBTd3dTUWtWVTd2a0c0cDFGMHRVVjJuRWhLUlU1T29fNVJvWHcyMDR2b3NFeG1nMDJsOVYwLU1tWEt2QkdkNzJoM2x1dHZfOEVCMVh1d3JDMU81UmJyZUFGeVpvRWVmcTFwQWc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-14T08:35+09:00"
     }
    ]
   },
@@ -436,6 +436,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-14T11:12+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "2つの戦争進めるロシア、対欧州「ハイブリッド戦」は危険な新段階",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBLXEtZWtyUzN4WnlSNUUydm9TYWxrM2FMcUFfd3hsMl8wNk5NU3VtaWJfZDBaYm1xVFNPRUxPclNUVlktcHJTTWRLNEhPM0g4aVdnTDdsc3VJd0w2eG5KSjVrNERQVU1rLWgwbnAxQnN3dzJU?oc=5",
    "source": "TBS NEWS DIG",
@@ -504,13 +511,6 @@
    "source": "매일경제",
    "at": "2026-11-14T09:23+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "欧州「5か国とEU」を代表団に ロシア・ウクライナ協議、仲介の米国は絞り込み要請（産経新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yZHVvaDVSQ2Vtdm5jXzN2bGdBZTBTd3dTUWtWVTd2a0c0cDFGMHRVVjJuRWhLUlU1T29fNVJvWHcyMDR2b3NFeG1nMDJsOVYwLU1tWEt2QkdkNzJoM2x1dHZfOEVCMVh1d3JDMU81UmJyZUFGeVpvRWVmcTFwQWc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T08:35+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "北朝鮮、東海岸に新たな海軍基地…金正恩総書記が建設現場を視察",
@@ -594,6 +594,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」6件",
     "北朝鮮：「ミサイル」1件",
+    "ロシア：「ミサイル」「侵攻」1件",
     "欧州・NATO：「攻撃」「爆破予告」2件"
    ],
    "items": [
@@ -610,10 +611,10 @@
      "at": "2026-11-14T07:18+09:00"
     },
     {
-     "title": "フランス内相：欧州での偽の爆破予告は「外国からの干渉」とみられる",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXpFc3BvVnhhcXExTzVQMm1paUhaU0YxNGJQNHFOZHZIWW5JZkJvenI4dTFwUjN4QXhwY21PRGEtdlp4MHRDUnpJcEVMeVhrZVNNRUQwWmpwTGlXYjYzRHZRRFRwN2c1RXBodlhKTmtsUDRJdmJvbkllVThyT3JNVGtzQ09KWWZQM0ZYdk5XV0lKOTVoeTA2SWxTMGxKOVF2eTBhTThMQ0t1NXBpQng1NzhtOHY?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-13T22:39+09:00"
+     "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-14T11:12+09:00"
     }
    ]
   }
