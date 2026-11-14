@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:00+09:00",
+ "updated": "2026-11-14T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -327,26 +327,32 @@
    "at": "2026-11-14T14:52+09:00"
   },
   {
-   "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 今後30年以内に震度6弱以上の地震が発生する確率は？エリア別予測データ（政府・地震調査研究推進本部）",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwd1pscFh5di1UVUUwaG83T0RqTkxocDFzLUpiUkRZU1BvOXladlpiZXFHb0NIQXVkeUM4N2lndURCUmEzWUJMbXEwYk54N1BLcEJrZ3Y4U2tjWkZIUzdCeEs3LVZfMFk?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-14T07:01+09:00"
-  },
-  {
    "title": "名古屋入管で訓練 重症者搬送を想定 南海トラフ備え ／愛知",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Y25aejZuamVNSlN6eEpnTlVJclVveVlYaWlWX1AwS29jSEVqVzRjRnczdzRDQ0V2bmUzWmM3M2NXaGxjWHYyU05Gc01ZMjJReHd5RzZjczFjUE1oS3c5LVFZZUlydHFR?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-14T05:01+09:00"
+  },
+  {
+   "title": "南海トラフ想定、名古屋入管で被収容者の搬送訓練",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vTkxYN0V4RGVhbTczclotcUU2M1g1UXYyNEJPZVpaZ1E1Q1VuWEZpMG5saUxxMmZ3ZjNieTV0QmJiVmFUblRLNmZudVBJZ2lSOWxHaA?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-13T20:17+09:00"
   }
  ],
  "outage": [],
  "japan": [],
  "cyber": [
   {
+   "title": "サイバー対策と通信障害 半導体関連の好調な動き 地震からの復旧と事業転換【熊本の経済1週間】（11/7～13）",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wOW1RSzI3R2YySWRpUVRTOWFyTGU5REYwTGhiZUxIT0NuVXVIY1RZem1LelJsNF85SEhCQ3hkdzM4YUZrVTFUYl92TmZOR2s?oc=5",
+   "source": "熊本日日新聞社",
+   "at": "2026-11-14T20:00+09:00"
+  },
+  {
    "title": "アメリカ全土の空港で一時離陸停止 航空管制システムに通信障害 1万便超に影響 日本の空港でも遅延・欠航",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yeWJHbFpCcEgwNFdsbVRIT3BWNWtTWEtUTjY0ZDJwWkFFdWs2Z1gxV3lHMkYyNWtRRXFJVUQxR0pseTloT0lacm5zbnhXYm4xYWViajBad0NCVDhnWGlLTlZOM2FoVklhWG1LUXZDRHc3N3R4alhpX2VfdldzVHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T19:04+09:00"
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tTTk4STAzTVFTNlozTWtFUWpla2FZYlRwQkFRU1JtUGJHX292U05EWGZiWlp5d1ZNbGI3cDM4VnktaEZUNE9RWmZQeEJtaXJ1ZEdDVTNhNmpQT1gxOHhiSGxhVnc0VEo0X1pkYXd3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-14T19:05+09:00"
   },
   {
    "title": "【大規模通信障害】全米の航空機に一時地上待機命令 欠航・遅延…“約150万人足止め”",
@@ -425,22 +431,9 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-14T15:30+09:00"
-  },
-  {
-   "title": "マイクロソフト、大規模システム障害が完全復旧（2026年11月13日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlBWaUNRd19La1ZFOG9vX2xtdDYtYmlOTy1yY3hNT0ZkSm1PN1h1ZWNYSXNiejhjRkFjNUtTSDQxcEVKYkdMa2x0c2VrZTU4UHNYUEsxVF9hRzVNUTFGWDZSX1NTUGp3XzA4NFo5VWxMbU1BYVBiTWV4MFU2VmZCZk1QQjc?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-14T15:26+09:00"
   }
  ],
- "osaka": [
-  {
-   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DLThRNnk2VzNfLVVBX0lqWFpPQmxLMVJPZE9pVzFLOGhJLVFzNFVnZEFSaDRpa3FMRnRyaDJqQWpuWURsSWs5STNSQjhDSXV2R0N2RS1sdmFhNmZ1QWpqVXRFUQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-14T11:09+09:00"
-  }
- ],
+ "osaka": [],
  "world": [
   {
    "title": "ルビオ国務長官、経済的に弱体化したイランに対するさらなる米軍の行動は不要であると述べる",
@@ -603,7 +596,7 @@
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「攻撃」「爆破予告」2件"
+    "欧州・NATO：「爆破予告」1件"
    ],
    "items": [
     {
