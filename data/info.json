@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:00+09:00",
+ "updated": "2026-11-15T07:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -234,12 +234,6 @@
      "at": "2026-11-15T02:59+09:00"
     },
     {
-     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-15T02:24+09:00"
-    },
-    {
      "title": "ロシアで2日間にわたり車両爆発が相次ぐ…軍将校が死亡、親ロシア派の人物が負傷 : 国際 : 財経日報",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xQmN1SjBxeTRXVzRTeE1qLTdLeHJOQWZUQkJOeDYwN1dlOTRRc2gxR2R6UVBqX192dUtyd1lnUmYzZDVjMkNOQjE5ZFY1S05GdDlBUFlObzR1TU1XcFRJeEdxbw?oc=5",
      "source": "재경일보",
@@ -262,6 +256,12 @@
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEpIWjRrWmp4RzFxUmlnMm9hWGN3MzdBQ1BEZUVTWFlGZzE0SmFtUzFzYmZoQnlyTEdsRktNTW1sMEhfWlZpaTd1NURNN21Ick5uM3AtdldKc1oxVXhxLVY4SjBfeGY1Wno1X2x5UFp3bnVteEw0QnJBa0UwNlRGMUdHOHllZFh5WmJnd0Q1M2NQR3ZqYldqMw?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-14T16:04+09:00"
+    },
+    {
+     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-14T15:30+09:00"
     }
    ]
   },
@@ -357,6 +357,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "全米の空港で一時離陸停止 通信障害により1万6000便に影響・インフラ老朽化が浮き彫りに",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVm96bm1ubFExZUNaZTV0NHpJcGl0ZGx4ZDFJaUlHWkltNWpjblBDd2R0b2hKSGU3Ny12ZVpUQVBrTzFHRGdudU02UFk5S21CZDVz?oc=5",
+   "source": "東京報道新聞",
+   "at": "2026-11-15T07:03+09:00"
+  },
+  {
    "title": "航空管制システムで通信障害 アメリカの全空港で離陸停止措置（FNNプライムオンライン（フジテレビ系））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNXRENkhqcEtMV1JHUFZ3cEFmTlZpMWNhOUdKTHFyU1lLU0JPUTFmNG04amc0amlIYXd6ODFXOG5KM3RXQWZtaE40V3JPdzh1UGFISnUxQ0hlVlVacERaY0dSeEJXMVNZUEpoRmE2RDJEUk00UW5GUlF5Z0VpRGM?oc=5",
    "source": "Yahoo!ニュース",
@@ -399,6 +405,12 @@
    "at": "2026-11-14T23:15+09:00"
   },
   {
+   "title": "全米空港で離陸停止4時間超 管制の通信障害で1万6000便に影響 (2026年11月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ibHdwTXVYY29KWW9ob3RFX2YtbmdZOEdGWGJQcHlzcURqNTBDdHpnVnE2S2tVYjBaa1NPMl92Qkh3VExpc1VweHBsbHNENzFTWDFzdWxzTTNmRXVWbUE?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-14T21:39+09:00"
+  },
+  {
    "title": "通信障害で全米の航空便が一時停止 1万5千便以上に影響 | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPajE5ek5KSkUwVkhwV1dZbEtNeThYS043d2dBSldHSVJnX28xSUFpRzNrZUlzTFRYMHlNNnp6SGZpMnBXRENwLUIxbk5SQ2N5X1RxNGRiUkRaejFZNVEteWtmWlRjQTl2NVk5RHM0cHhBWGMzcUl3U2JocVdCMkJuMkpjQ3VWU2x4Qmhld3JDNGw1ekpiUUg3NlU5R0xBREpQeXRlUnl6MWtaRExmZlUyWEppeGd0SkVyN3VmM1FGcm5ORDMyRnF4UTlFUWNFZnlsM0RfNU9nUW1kOFF6dVZHSTUxYThIMWRIMEFPQk1xcHlIUGN5RVFIZUdmNS02S2ZZLWRpdTkwU0M0cWZWa0hBSTg0Sy1kRk0tdHR5clllaGtjV3VfN1pPeFBxMmJGM0NZWmxSYzRURWRIWW5tWjJWN2p2dWhJb2RMZkNUd2NZUVZtMkI0NTlYdXVyRjZBVHdHXy15QWdLeHNyRzZCRFdGbXA4LVdFOUIzQkdvUWh3a0ZUYkdjcGFxSnlhdm80dm5TcDdrUWJXa2txdw?oc=5",
    "source": "SmartNews",
@@ -429,22 +441,10 @@
    "at": "2026-11-14T19:03+09:00"
   },
   {
-   "title": "マイクロソフト大障害、丸1日超で全面復旧 原因は攻撃でもAIでもなく過去の増強作業（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZmV5c3VLVTE3TWdZZlpHTHhMdnczQk45TUN0SFdZZEFTZmN6bVJhYW04UGMtZ1NlRi0yVnFkTEljZ2t0d0ZjNjMzUDlYWWROc1JRRDZqM19tY3NLTDJEZFJ4YlF5SGR3aTlaNUNXVUUxUlFheDhfSVBMN2lNbUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T18:55+09:00"
-  },
-  {
-   "title": "Microsoftは、OutlookとTeamsを停止させた世界的な障害の原因を特定し、いつ再び利用可能になるかを発表",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFFMeXRiaGNxbTFkQlpRVjJ0S09vZ2wyVXlZRDVMX0JOSnBoSjJRaUEzUW9pT252RGxMY2doS3FWOVI1aVl1WFNuOVBvdnU3NFpFZXJxUE5IYlFyMnVNNDhfLWlSaGdHR2ZmamxVMDc5ejZ2d3duQWNSTWp0RFJjUWJkemVmWXg5UzRVSGJkdmxkaW9wVDNieGZtdDNoNmJQMndBVjJJY1hJQXc?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-14T18:27+09:00"
-  },
-  {
-   "title": "【大規模通信障害】全米の航空機に一時地上待機命令 欠航・遅延…“約150万人足止め”",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jRGhfVC1oX21BVFdLMk9pYUdxMFZCVl9aU1B4Y1EydlE0TXYwdnNEQkVsc3FfVnpJeHZXNnFSbTVTaGJXRzQ5ekUxcw?oc=5",
-   "source": "TVer",
-   "at": "2026-11-14T18:26+09:00"
+   "title": "米全土の空港で一時離陸停止 管制の通信障害で日本も遅延欠航 (2026年11月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YVW00RkJjU3VMc0xrOF9Ea2NyOFlPNTg5UGdnOWM4N0pTVXRaYkY2eXQzNUJyWWdGR0VqbWkwT3dMbWZjWVAtaEFNZEZDVkQzc2pOc2VFeWYxYThDR0E?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-14T19:03+09:00"
   }
  ],
  "osaka": [
@@ -489,13 +489,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWszZDU4MElyazlEa3J5d3FmWjlSdEs4SFV5Q2h5LXpScjJhWVEwTDduc1hHQnFLQVc2SE52WkhYUXl2S0pHSWZDMWlLeXNYTXYtNEZCUGdjVjNjanozX2JhdUdnVjBuaUZuaVlGZXV1LUJVMkQ0LTdvMjJtckxzU2ExdTUtRkFNR0xfdGhCdlg3YUxfSXpTR0kxX1I2OFI4TFY0?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-15T02:59+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-15T02:24+09:00",
    "topic": "ロシア"
   },
   {
@@ -587,6 +580,13 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEpIWjRrWmp4RzFxUmlnMm9hWGN3MzdBQ1BEZUVTWFlGZzE0SmFtUzFzYmZoQnlyTEdsRktNTW1sMEhfWlZpaTd1NURNN21Ick5uM3AtdldKc1oxVXhxLVY4SjBfeGY1Wno1X2x5UFp3bnVteEw0QnJBa0UwNlRGMUdHOHllZFh5WmJnd0Q1M2NQR3ZqYldqMw?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-14T16:04+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-14T15:30+09:00",
    "topic": "ロシア"
   },
   {
