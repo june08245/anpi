@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:30+09:00",
+ "updated": "2026-11-14T16:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -343,10 +343,16 @@
  "japan": [],
  "cyber": [
   {
-   "title": "マイクロソフトで大規模通信障害…政府や企業のシステムに影響も",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01NFg3MzhBcXdiZ1EteU1TOUdUUGxPZ0ZtV3NlXzVHQWNVdE4zQWJYWVFuSWYxUkpBSFFqN0RrbVZDYkt1RVZBb3UxQQ?oc=5",
-   "source": "TVer",
-   "at": "2026-11-14T16:18+09:00"
+   "title": "全米空港を襲った大規模通信障害――老朽化する社会インフラに潜む危機｜嗣江建栄",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwZlgtZWYzbWhVMEhqT1N6djZScGkwRFZ4Z3E1Zk11Yi1ZNzhlWHdLZW10N25rbFJQMWd6N0ZOQTFyelF0aXNscXRtRG5RaGJDakI5V0Q1ckUtOE1rRzBOZkhtS19DOFk?oc=5",
+   "source": "JIJICO",
+   "at": "2026-11-14T16:32+09:00"
+  },
+  {
+   "title": "全米の航空機、一時離陸停止 通信障害か、数時間後に解除",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PS2dpTzhIeEZlUzFMR0pVbG9wQzBTcDB1UGFORkdVWWQ0M0xrMVZsZGd0MUFYem1PV1o0MXlLLTFhMmZYd25IYXBlLS1fQ0k2bmdFbm15dzN6V2xCaEE5TU45Zw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-14T16:12+09:00"
   },
   {
    "title": "復旧：Microsoft 365大規模障害が約35時間ぶりに復旧、原因はネットワーク増強時の問題とMicrosoft（テクノエッジ）",
@@ -401,12 +407,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdkVaVkh0dW1FM0IzOEVXaXBYYXhGYnhHbjEtSEo3cEI4b2dqTFVHZThndVRDNmY3MTlidVVJLVJZRW5mT3d3NE9jYkh0cTh3VWpkdWs1bXpyc1BlS040bNIBZkFVX3lxTE16OXpEVVV4R2tsdVVvaDVpTnZ6RC1WZWFWQWZ3VHF2cE5odXJYQ1BOQUtJVWRoOWNuVXlVUEtqVUtEUUlySlFJQlN6V0JfTlI0ckdXRjFRUFB4TTluaWtFME9nVDQtUQ?oc=5",
    "source": "BBC",
    "at": "2026-11-14T13:48+09:00"
-  },
-  {
-   "title": "全米の航空機、一時離陸停止 通信障害か、数時間後に解除",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PS2dpTzhIeEZlUzFMR0pVbG9wQzBTcDB1UGFORkdVWWQ0M0xrMVZsZGd0MUFYem1PV1o0MXlLLTFhMmZYd25IYXBlLS1fQ0k2bmdFbm15dzN6V2xCaEE5TU45Zw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-14T12:21+09:00"
   },
   {
    "title": "【中継】全米の空港で大規模通信障害 航空機の地上待機命令…解除される 1万4000便超が遅延・欠航（2026年11月13日掲載）",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフトで大規模通信障害…政府や企業のシステムに影響も」"
+    "「復旧：Microsoft 365大規模障害が約35時間ぶりに復旧、原因はネットワ」"
    ]
   },
   "japan": {
