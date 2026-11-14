@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:45+09:00",
+ "updated": "2026-11-14T10:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜と発表",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXdjTnRheC1kYTFjY29Xc2ZpZmxHSWxENmVLUU1SSmFxZHRZYWt5Ul9CM2ZXTWx5RUprNEFKa01WSjB6LXUyNUtabmc1ZXFCREJob2dRN05GalZoNVloS0dCeE9kejQ5WS1NVjJnSEthcjVqdXpuVWNwbUstUk9uWll3N042SnJjR0ZLVVlDUlprai15TTVZZW9EeGNuaWN1Sk1nd3daVWdiM044VEE3V0dtS20?oc=5",
+     "source": "ABEMA",
+     "at": "2026-11-14T09:51+09:00"
+    },
+    {
      "title": "イラン革命防衛隊「バーレーンの米早期警戒施設を攻撃」…米国「すべて迎撃した」 : 国際 : 財経日報",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QZzdHOE4xWHdaWmhEYnJ5dGo4UmpBTlR0UWlCU21iOU1vb2lwS283UGlsZW1uSWw1ZmE2SnJHekdaaU5UclJmMDR4OWZocXktOFJLRjB6azJuNk8yYnNKOVowaw?oc=5",
      "source": "재경일보",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWtjLU5kVTUzTmQ1U1oxZXREaWlMWlBLU2pGQjhtZWNSOWN3WFBFU2lpM0V6cmg0aXpIbU5FOF9qZ1lNamlNNGN4X2h5bFJUcHJBR0lyNnVpNHYtcDI3VjVkTk4yNWFsRUphNk1vckFfdERFRnAzQVdvZWpjY2NXalQzODVqWDZJQWZaWWtNXzFxZ3VqNTRUMHdjUTQ3RVVYUHdrMl9fQQ?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-14T06:05+09:00"
-    },
-    {
-     "title": "米中央司令部、イランのバーレーンでのレーダー攻撃を否定",
-     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtcVVIZy1hZzh1OFFQbWFKSm5TQ2VIMjZRbk92bXRQRFB5UXVtaXZhbU5PU1F1TXVUN3RUXzh5b2ZPRGvSAUJBVV95cUxQYy1yNzM4T2lYSUxpRDFreTNVU1FOdTFsZHY4WU5xQkVuTHRidDM0RDhHODlfcUdydnhPUWNBbjRtVXc?oc=5",
-     "source": "VOI.ID",
-     "at": "2026-11-14T05:00+09:00"
     }
    ]
   },
@@ -343,22 +343,52 @@
  "japan": [],
  "cyber": [
   {
+   "title": "全米の航空機に離陸禁止命令、混乱拡大か 管制機能に通信障害",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5USVdON3R1T3AtQXBxMTZoNlFJZDIxNGs5NlZ5MkdKQjRuQ00xMGQ3LWxSMWpSb0xrM3BhZ0ZOTkJwQ0s1SzhHa2ozcXF5SHMzd2h5TThpd0RGVUVnRTdUSndwcVBYNkIw?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-14T09:53+09:00"
+  },
+  {
+   "title": "米マイクロソフトのロゴ＝13日（ロイター＝共同） - 米MS、大規模障害について謝罪 完全復旧の見通しは立たず - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyNFZQdjF5bW1GeFp2NFFGbExvcHRxYlNoOHU2NUJKV0VOQUUtb2ZVOXNqbG13X19aUVZSRHR1aEZoWDBPQkRMWkZ2ZHhGNFFrZ2xlTnFwZw?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-14T09:52+09:00"
+  },
+  {
+   "title": "マイクロソフトが大規模障害を謝罪「重く受け止めている」…全面復旧見通し立たず、サイバー攻撃の影響否定",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGQ3BCaU42VVVrUU00ZFAxQnQtdzVlSmktOFI3dFBfbTdfczRtSEIxSVlzdXlSeEQtcVd3a1piN0kzMFY2ODNnR0JQMklBQ2RUZkxfbnBRV196dDFuZDQtYm9RODByMzd0dVRJS1p1cGtySWJnZXJfRTkweFI5S1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T09:43+09:00"
+  },
+  {
+   "title": "全米でフライト突如運航停止：FAAが通信障害で全国地上待機命令、約7000便に影響",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RcDRnSHRXNlNZQm9NYnBKRnpIcGtZdzhZQmJfSUlCcVV3Tkc1WlBKZE41M2tRb0tTX3RVTkZNbUU2UlRVSzI5Ymlrdm1VeTFUQ0M4bVdSUkgxSmRTbkRPbHNEdzI1RnVXZGxrUGM3di1vcHlw?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-14T09:35+09:00"
+  },
+  {
    "title": "米気象局、ウェブサイト情報にアクセスできないなど通信障害発生（日テレNEWS NNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NW9NQ0I1eG1xelNpRFFZVVNkUGlhaThYQjhucG5SaF8ycXFmaDFSUmZldndmTVRfSWVJZGduWWRyRlNoSVRJV0dEaTNLcEhESlpDcDBOVDJTVm4tMUs2YjZnQXg4ajVPaV9wN2JXQU55Y2c1S3ZUd1NCcHlCREE?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-14T09:31+09:00"
   },
   {
-   "title": "「完全復旧めど未定」マイクロソフトの大規模システム障害",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4SGRKX05kT01hT2Q2T1k2SGRrblIyOW9OVl9ielk0bWlKR0hONDZkRFR6S2xxdWx6Qksxb2FrOEJQQWJVOVpHcHFmYw?oc=5",
-   "source": "TVer",
-   "at": "2026-11-14T09:18+09:00"
-  },
-  {
    "title": "米全空港で離陸停止 通信障害でFAA指示 サイバー攻撃否定",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEEtdl9yQjF1X2VkR05XY1V5NnJQSVFNdFdZSjVrbVBMQ3REY2R5WjM3UUxLN0hsZnRCWW9GMFhMYVl3a2ZLdkU3TFJtX1BDaHJnc1Fnb1h4dmxrdjRRZ2hxWFZzYUNhLUtLRFNNYVRtbS00a25MM2FPMC02WnRzWjBMZGxwZXEx0gGcAUFVX3lxTE50MThTcDVMYTQ2TTNzbE9SVkNGNHBjT3hCeldBdXVYS1JxV1hkNkJuZi1paC1TenNobF9MRXR1RDA5T3cyaFVDQm41TmtGY0ZMSHp6RUhZVjdNZ3A3ZlJWbEFQNzYtT1h1WG1iSGdYVUdWWFlsRzdQWUJMbDhvT3c0R2NNZlc4b0tTYVM0MHdvOEJZQi1vZkVEbkV0Sw?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-14T09:17+09:00"
+  },
+  {
+   "title": "全米で航空機の離陸停止 通信障害か―当局が命令",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PS2dpTzhIeEZlUzFMR0pVbG9wQzBTcDB1UGFORkdVWWQ0M0xrMVZsZGd0MUFYem1PV1o0MXlLLTFhMmZYd25IYXBlLS1fQ0k2bmdFbm15dzN6V2xCaEE5TU45Zw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-14T09:17+09:00"
+  },
+  {
+   "title": "米ＭＳ、大規模障害について謝罪 完全復旧の見通しは立たず",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwTFlRb05fdTJFUDFQNUNRemI4V3BCRVpic0RYTUlnZnBmT3hBNjIxZEtQd1ZYdFEwLU5MVFdxQi1Sel9wcER5VVJhRkZQc2xhSmxKU0VTdTNYSElITDZ6bTNDS0t0VHc?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-14T09:12+09:00"
   },
   {
    "title": "全米の空港で航空機に地上待機命令、管制センターの通信障害で約7000便に影響（ビジネス＋IT）",
@@ -401,40 +431,17 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGFSdHJHVVVDWm9xZVhobEQ2YWpSN1RFRWphX0VsZWZONmtxQ3dPZUV4dWVJbG92OFB5cnJ1ZTVqODVMQWdKb2dtNWN4Qm9VdE5mQ2NKdl9ybi1vS3Rxd3lzWl9sRkpBYjFlSHJzNE9SNEU3N2JZQTd4OVdsblNlVXpiTlAyZjJpbTk1MjhvMkxXdDVLWE5OWVFHSVJJckluZDVHQURReTVKV0dmeFlwNndiUHc?oc=5",
    "source": "ABEMA",
    "at": "2026-11-14T08:12+09:00"
-  },
-  {
-   "title": "全米の空港で航空機の離陸停止 通信障害、当局「脅威の兆候はなし」",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNczBmbWg4TTNnYVUtQzBpNXBWQkU5d0EwRTh5a2xrTHVSblJqdVRmNmdLWDUtTDhQTUFUc2JPc0l4RVhsbmk4VF9CT3ZMUHhLa1A2Uzc2N1psUzZncVc4ZEVuR1JYbXVsUXFydA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-14T08:09+09:00"
-  },
-  {
-   "title": "【情報まとめ】マイクロソフトで大規模通信障害「広範囲で復旧 安定し始める」と発表 未処理のメールは大幅に減少",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-14T08:06+09:00"
-  },
-  {
-   "title": "全米の空港で離陸停止措置、管制に影響与える通信障害…発令は同時多発テロ後では２例目",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VN0t0d3p5VEt1dUV5NUlqWldnWDlYNnV6QUV1VldDN2ZUbmpoTWFxZnI0alV5eFJ5V1dPWXc4M0RRTThTakdVd1E2WFhqUEFoWjJjOU55YlhsVnlNdEdZTmR3?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-14T07:40+09:00"
-  },
-  {
-   "title": "米連邦航空局、全米の空港ですべての出発便運航停止…通信障害で（2026年11月13日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFZBd3l5VHNaVmFjVDJuREFkR0JmS0VRbjZERFhZY0E2bXRZY3l6bmZqRXd5MDBvcEJLT0NvRVVuaGEyLVRKWERiLW1QSXEyYnhobjJoTndYNFhSQU80SEk2UmtMR1FmaGVUVnV6OXhJY0dwQ2Z2R090RHV5YXdyazA1dDk?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-14T07:23+09:00"
-  },
-  {
-   "title": "マイクロソフト、大規模障害から復旧進む＝サイバー攻撃原因ではない(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2hSSkpUc192WDdRbmpsLTA4SVJuZFUtcjVhLTRHSG9uSWFOYlc0ZmFsRTFzLUNXYXdwSUlhdGgxX1RwRkpzMGFUY2Z2T2RrMWdRakVvNGhhMWtfbkdlNU1QdTZ1dXpGc01SR21nWEVGNDdzSlFPVkFmLXBsZ3k4ZlFfUGFSSk0?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-14T07:18+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜と発表",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXdjTnRheC1kYTFjY29Xc2ZpZmxHSWxENmVLUU1SSmFxZHRZYWt5Ul9CM2ZXTWx5RUprNEFKa01WSjB6LXUyNUtabmc1ZXFCREJob2dRN05GalZoNVloS0dCeE9kejQ5WS1NVjJnSEthcjVqdXpuVWNwbUstUk9uWll3N042SnJjR0ZLVVlDUlprai15TTVZZW9EeGNuaWN1Sk1nd3daVWdiM044VEE3V0dtS20?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-14T09:51+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tVl9xMkxORVFyVWx6cUV2V2JER1kzdVExRWIzQmRaQzJodmQ0Z1ZrbnVQUXQ4YnoyTGdZcW9nUGoyV2tkWmM1RDJIamJ0SzhLT3lj?oc=5",
@@ -534,13 +541,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米中央司令部、イランのバーレーンでのレーダー攻撃を否定",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtcVVIZy1hZzh1OFFQbWFKSm5TQ2VIMjZRbk92bXRQRFB5UXVtaXZhbU5PU1F1TXVUN3RUXzh5b2ZPRGvSAUJBVV95cUxQYy1yNzM4T2lYSUxpRDFreTNVU1FOdTFsZHY4WU5xQkVuTHRidDM0RDhHODlfcUdydnhPUWNBbjRtVXc?oc=5",
-   "source": "VOI.ID",
-   "at": "2026-11-14T05:00+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "2つの戦争進めるロシア、対欧州「ハイブリッド戦」は危険な新段階",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSi1TempqdEFWaGcySmc1anl3cF83VnVKYl9vd0dCdmNyV2JDSUJVYU1MTkVudW5OLTdtYUkzT2FxZ0NMdENJaW1mZHFPRDZ1ZWtJbVRVMjNabDBhWTQyek1zVC1TVjRZMXo4OWhrOW5GOE1vaFRSOWVvRjdZTGRHc3dMdERtSkh5YUdjOG1R?oc=5",
    "source": "Bloomberg",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「「完全復旧めど未定」マイクロソフトの大規模システム障害」"
+    "「米マイクロソフトのロゴ＝13日（ロイター＝共同） - 米MS、大規模障害について」"
    ]
   },
   "japan": {
@@ -598,10 +598,10 @@
    ],
    "items": [
     {
-     "title": "イラン革命防衛隊「バーレーンの米早期警戒施設を攻撃」…米国「すべて迎撃した」 : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QZzdHOE4xWHdaWmhEYnJ5dGo4UmpBTlR0UWlCU21iOU1vb2lwS283UGlsZW1uSWw1ZmE2SnJHekdaaU5UclJmMDR4OWZocXktOFJLRjB6azJuNk8yYnNKOVowaw?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-14T07:50+09:00"
+     "title": "イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜と発表",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXdjTnRheC1kYTFjY29Xc2ZpZmxHSWxENmVLUU1SSmFxZHRZYWt5Ul9CM2ZXTWx5RUprNEFKa01WSjB6LXUyNUtabmc1ZXFCREJob2dRN05GalZoNVloS0dCeE9kejQ5WS1NVjJnSEthcjVqdXpuVWNwbUstUk9uWll3N042SnJjR0ZLVVlDUlprai15TTVZZW9EeGNuaWN1Sk1nd3daVWdiM044VEE3V0dtS20?oc=5",
+     "source": "ABEMA",
+     "at": "2026-11-14T09:51+09:00"
     },
     {
      "title": "「北朝鮮は3日以内にミサイルを撃つか？」…肯定・否定の根拠を並べて判断を委ねる“AI参謀”、韓国企業が公開",
