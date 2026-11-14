@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T03:30+09:00",
+ "updated": "2026-11-15T03:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -447,7 +447,14 @@
    "at": "2026-11-14T17:55+09:00"
   }
  ],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DLThRNnk2VzNfLVVBX0lqWFpPQmxLMVJPZE9pVzFLOGhJLVFzNFVnZEFSaDRpa3FMRnRyaDJqQWpuWURsSWs5STNSQjhDSXV2R0N2RS1sdmFhNmZ1QWpqVXRFUQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-14T11:09+09:00"
+  }
+ ],
  "world": [
   {
    "title": "ウクライナ軍はロシアの石油施設と空軍基地を攻撃した",
