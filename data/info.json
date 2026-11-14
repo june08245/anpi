@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:30+09:00",
+ "updated": "2026-11-14T17:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -113,12 +113,6 @@
      "at": "2026-11-14T13:26+09:00"
     },
     {
-     "title": "19日に史上初の米中ロ首脳会談を開催 ホワイトハウス発表 トランプ氏・習主席氏・プーチン氏が核軍縮やイラン情勢など協議へ",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4eV9KeXpIYkg4THdhTXhha1lSX242SEM3UmpTRkgtbXo5dzNJR0lnUVRfM0JqcmRQV3J5UVNBcmFpbk1VUHdFUVVNSDZVMjliZlNJc25PRDdRUUhFMmxnN3hRbUlsX3JXWk9MVnJn?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-14T12:52+09:00"
-    },
-    {
      "title": "イラン、バーレーンの米軍レーダーを攻撃したと主張…米軍はドローン撃墜と発表 : 国際 : 財経日報",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQU2RWNWRUSDJkUFlTcVpLRnlmUHZISk9oVmtEUVVfb0pDajRUVG5kWjd2N0lCeDRCWW1kZkZEMjR6X2gtbVl2My1UZXNhRl84YmtySmtGNUUzbTNKYlZQczIzUQ?oc=5",
      "source": "재경일보",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvREJESS1RcTRZWWIzVXo5NkhEUXR0ckhzcGt3OVVIZVNEeFh1aEJXRmxuVldLUnhuS3Q1bDF2RzBoZUh0NVFnUkp0M2tHUHdlUWxQdg?oc=5",
      "source": "Switch news",
      "at": "2026-11-14T10:05+09:00"
+    },
+    {
+     "title": "イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜と発表",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXdjTnRheC1kYTFjY29Xc2ZpZmxHSWxENmVLUU1SSmFxZHRZYWt5Ul9CM2ZXTWx5RUprNEFKa01WSjB6LXUyNUtabmc1ZXFCREJob2dRN05GalZoNVloS0dCeE9kejQ5WS1NVjJnSEthcjVqdXpuVWNwbUstUk9uWll3N042SnJjR0ZLVVlDUlprai15TTVZZW9EeGNuaWN1Sk1nd3daVWdiM044VEE3V0dtS20?oc=5",
+     "source": "ABEMA",
+     "at": "2026-11-14T09:51+09:00"
     }
    ]
   },
@@ -343,6 +343,24 @@
  "japan": [],
  "cyber": [
   {
+   "title": "通信障害影響…日本発着便にも欠航や遅延 遅延などの影響残る見込み（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRmFya2hybUtUaXJzNE94SC1ob2FhQ2dvRi1ZVTBZYTU0WDRYWkdIZmxKT1VoQUx5SE91ZTc2WG9tRHBSVEZpSGFNRDlQOWo1TUVORGd1UmRPWXNPZXNxMktEVGN6WEY1eEVpTmxlQ09YRFc5eThmSnRyX2R5WVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T17:34+09:00"
+  },
+  {
+   "title": "【大規模通信障害】全米の航空機に一時地上待機命令 欠航・遅延…“約150万人足止め”（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZRGxvZW1fU0JVMWVLendCLTYtWm1zNlltUGZFS3VGSGZMSDVJRW5tUHU3bUdPM3ZHMVVqVHRjejdqcVd4bVU3VFVwbVpTbS02Y2U2WGI1VDU1NVlONWJ0R1pwa1pFa1pVYkNFTXZaSDRfYmxuZXgxczFOM2UwQkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T17:30+09:00"
+  },
+  {
+   "title": "全米の航空機、一時離陸停止 通信障害か、数時間後に解除",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PS2dpTzhIeEZlUzFMR0pVbG9wQzBTcDB1UGFORkdVWWQ0M0xrMVZsZGd0MUFYem1PV1o0MXlLLTFhMmZYd25IYXBlLS1fQ0k2bmdFbm15dzN6V2xCaEE5TU45Zw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-14T17:13+09:00"
+  },
+  {
    "title": "全米空港を襲った大規模通信障害――老朽化する社会インフラに潜む危機｜嗣江建栄",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwZlgtZWYzbWhVMEhqT1N6djZScGkwRFZ4Z3E1Zk11Yi1ZNzhlWHdLZW10N25rbFJQMWd6N0ZOQTFyelF0aXNscXRtRG5RaGJDakI5V0Q1ckUtOE1rRzBOZkhtS19DOFk?oc=5",
    "source": "JIJICO",
@@ -355,16 +373,10 @@
    "at": "2026-11-14T16:18+09:00"
   },
   {
-   "title": "全米の航空機、一時離陸停止 通信障害か、数時間後に解除",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PS2dpTzhIeEZlUzFMR0pVbG9wQzBTcDB1UGFORkdVWWQ0M0xrMVZsZGd0MUFYem1PV1o0MXlLLTFhMmZYd25IYXBlLS1fQ0k2bmdFbm15dzN6V2xCaEE5TU45Zw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-14T16:12+09:00"
-  },
-  {
-   "title": "復旧：Microsoft 365大規模障害が約35時間ぶりに復旧、原因はネットワーク増強時の問題とMicrosoft（テクノエッジ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5eWh5OU0yUG03Rm53VUt2OTByWm1NaEZlUlRxVTBxZGRKM1llNTc5ZDJ1eFN1WWtHSi1VRnBTbmRrUndvZTVsRU9JVGYtTWRVcDlfbThNUUZEY0tsb1IxUklHUmFPcVg5THFCRFgtQUZ0ZzBqT3ZNMXFtY3lPaXM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T15:58+09:00"
+   "title": "米マイクロソフトが大規模障害の全面復旧を発表、原因は「設備増強作業の不備」…サイバー攻撃やＡＩ暴走は否定",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOU50WXBzR3pJenhqODVCbTJuMG5mZ25aSDIwYzlhbkluR2E2NnRfOGFRTDh4ZDUzeXNIV0lqa0RCZ21BV1RrYjFGWnZma3oxX3lPckZraS1SYVU2bXprMkJWM3NUYTlJME83d0R3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-14T16:13+09:00"
   },
   {
    "title": "マイクロソフト Outlookなどの大規模障害 全面復旧と発表 最新の国際ニュース【随時更新】",
@@ -419,18 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdkVaVkh0dW1FM0IzOEVXaXBYYXhGYnhHbjEtSEo3cEI4b2dqTFVHZThndVRDNmY3MTlidVVJLVJZRW5mT3d3NE9jYkh0cTh3VWpkdWs1bXpyc1BlS040bNIBZkFVX3lxTE16OXpEVVV4R2tsdVVvaDVpTnZ6RC1WZWFWQWZ3VHF2cE5odXJYQ1BOQUtJVWRoOWNuVXlVUEtqVUtEUUlySlFJQlN6V0JfTlI0ckdXRjFRUFB4TTluaWtFME9nVDQtUQ?oc=5",
    "source": "BBC",
    "at": "2026-11-14T13:48+09:00"
-  },
-  {
-   "title": "【中継】全米の空港で大規模通信障害 航空機の地上待機命令…解除される 1万4000便超が遅延・欠航（2026年11月13日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzlLTElrX2xXSVRGdmllVXY0STFRZGNScDlqMmRLWEMzZVdyVVZOckFpeHl3REhiRUFOSGdrYWh2a1IwYWhFa1JJVnlPQm9waXcwUFFndm4tbGhYM3hIRm91ekc3U2JDcTcyTTR6TlVNVEN6SXltR1BVS3BrU00tZ2NrVm0?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-14T12:02+09:00"
-  },
-  {
-   "title": "マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QTWg3UDJoWC1VZGpvMTJnbzRvTURNTE9KYnZkS2l4TUdHelNYUWEzOGNzY3pmSnduTXFWMmhGdTVIR0t4Y05MY3lwOEI4c0UwN2Vjem93?oc=5",
-   "source": "KSBニュース",
-   "at": "2026-11-14T11:56+09:00"
   }
  ],
  "osaka": [],
@@ -476,13 +476,6 @@
    "source": "ウクルインフォルム通信",
    "at": "2026-11-14T13:16+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "19日に史上初の米中ロ首脳会談を開催 ホワイトハウス発表 トランプ氏・習主席氏・プーチン氏が核軍縮やイラン情勢など協議へ",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4eV9KeXpIYkg4THdhTXhha1lSX242SEM3UmpTRkgtbXo5dzNJR0lnUVRfM0JqcmRQV3J5UVNBcmFpbk1VUHdFUVVNSDZVMjliZlNJc25PRDdRUUhFMmxnN3hRbUlsX3JXWk9MVnJn?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-14T12:52+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "ロシアが悪名高い「花びら地雷」の新型を投入 ドローン散布専用、危険度増す",
@@ -541,6 +534,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜と発表",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXdjTnRheC1kYTFjY29Xc2ZpZmxHSWxENmVLUU1SSmFxZHRZYWt5Ul9CM2ZXTWx5RUprNEFKa01WSjB6LXUyNUtabmc1ZXFCREJob2dRN05GalZoNVloS0dCeE9kejQ5WS1NVjJnSEthcjVqdXpuVWNwbUstUk9uWll3N042SnJjR0ZLVVlDUlprai15TTVZZW9EeGNuaWN1Sk1nd3daVWdiM044VEE3V0dtS20?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-14T09:51+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシア、和平協議でNATOに東側部隊の撤退を要求",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OZjMtcEx2V1BlWi1JZTdxWlFGS3RtU3EyUkxJemNHN0xET2o4N1QyTWJRcEFWc1ZhSUVuQTRBNDh3djhrU1lzX1RNQ0phVy1VRm50VXREYVBoX1ZjZzFBWnYteWtvWVhVMnhIVEpn?oc=5",
    "source": "Mezha.net",
@@ -592,11 +592,11 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」4件",
+    "イラン・アメリカ：「攻撃」5件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「ミサイル」「侵攻」2件",
-    "欧州・NATO：「攻撃」「爆破予告」3件"
+    "欧州・NATO：「攻撃」「爆破予告」2件"
    ],
    "items": [
     {
