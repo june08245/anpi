@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:30+09:00",
+ "updated": "2026-11-14T14:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米軍、イランによるバーレーンのレーダー攻撃否定 「無人機撃墜」",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uem83bG45SjIzelpQRkstVGlwU2lVbjRUQjFDa2M1SE1ycmlqd3N6dlp6c3VJNXhfTFduTWZRajNyMmthV0ZNOHFvS1U4a1FNNnZNM3lQVWIwUQ?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-14T14:21+09:00"
+    },
+    {
      "title": "ルビオ氏、経済的に弱体化したイランに対するさらなる米軍の行動は不要であると述べる",
      "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxNN0FWWjNhQ2ZRcDRfMUxEcTkyQndzTDdTNmRDTDVpRklfNllaUnNBQnZHQjF2Y1FNTHo5a19YMVNIMlZHRWF3c3RIX09tcEpVODlOdW1mc01pVHZYLTJSVkVXX0VBNmpSS1ZMTWJDRlp4d040UnJMNk5zcG5RQnFJU1hsMEdsaEJFQ3RWdlpDNFBOTFRrcjFQcE00S3pLYkdjZDB5V0x5aHJoS0k0M1dHV1ZPT1c1NDhMclF1aDd0NjA3YWUzSk01TjhiR3IxWE5OejZ4R2xWMlNUMEtkOXFwQ2tYb1lIS3h2akFhSU1wVk5YZDBCWTFKR0VHVUJ0M0NEN193M0U5QV9yUldFdWRqdURfSTkzeVgzNlZXX0FjZ2xRd0FucEdKTWRvYzZ3Y1ZuMUNONUZsZ2ttM2JSQkNPX1M2bVZ2RFlHelBZWWNMWnk3eEQyc0ZEQTB4aEwzR1EzRUNwQmJZRjhfcE0yV2RpaHppS29Dd2RXMGFvREJpS21HQk54VGthckJHUmtvcGtjcElzLWVxeGVJQnl4Zk1vUE9yYVF2TlRIb0FkYkRHaXFaR2ZxZWlhdkQtNDQ0TUxSOEhHdGxHblNwQ0gwNWpjVEpOTmtLSndRak1CMm1xLXNrbko2emNWdU5BR3JVRTMyTTdKU2pYeWxOeFhzVDR0MXJLZmI4QjZvOFdDQ2ZycjllSlhyVTB3TE9Td0h1c0ZpeUp5YnhfMHlqS2M?oc=5",
      "source": "アラブニュース",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvREJESS1RcTRZWWIzVXo5NkhEUXR0ckhzcGt3OVVIZVNEeFh1aEJXRmxuVldLUnhuS3Q1bDF2RzBoZUh0NVFnUkp0M2tHUHdlUWxQdg?oc=5",
      "source": "Switch news",
      "at": "2026-11-14T10:05+09:00"
-    },
-    {
-     "title": "イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜と発表",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXdjTnRheC1kYTFjY29Xc2ZpZmxHSWxENmVLUU1SSmFxZHRZYWt5Ul9CM2ZXTWx5RUprNEFKa01WSjB6LXUyNUtabmc1ZXFCREJob2dRN05GalZoNVloS0dCeE9kejQ5WS1NVjJnSEthcjVqdXpuVWNwbUstUk9uWll3N042SnJjR0ZLVVlDUlprai15TTVZZW9EeGNuaWN1Sk1nd3daVWdiM044VEE3V0dtS20?oc=5",
-     "source": "ABEMA",
-     "at": "2026-11-14T09:51+09:00"
     }
    ]
   },
@@ -303,16 +303,16 @@
  ],
  "nankai": [
   {
+   "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 今後30年以内に震度6弱以上の地震が発生する確率は？エリア別予測データ（政府・地震調査研究推進本部）",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MEwxTFQ2WThfdWFCdkZtTjFwWU5WaTdkdDJVZVhvWmJ3VmJIT21KQnBpaDgyaktTWnExRHJyams4UkVhZ3VfZG04S1VlVzYyUTQwci1fRE1oTENUTktvYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-14T14:25+09:00"
+  },
+  {
    "title": "南海トラフ地震を想定 高松市で総合防災訓練 情報収集や復旧手順など確認",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kNE5Femc0VzFla0RsZ05KWEFUZi0xQXR6bE9JMjhFaEdXM3dQbXJOcW80eXZaYzF5eUkyWFVZYjRaS2VDeWZFOTZULWRIQlJkX2JNT3BQYUxqeEl5SHpqcVNyM3drbmt5UXJZR0JDTQ?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-14T12:26+09:00"
-  },
-  {
-   "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 今後30年以内に震度6弱以上の地震が発生する確率は？エリア別予測データ（政府・地震調査研究推進本部）",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMd01oaGR0ZmxOUk0tbS0wQnAwSUVwUmkzSDB3WGN6cXV6M2xzSFV2LTdDTzR2OEdVXzB1S191TDRlQlh3ZVd3NjFSWUpBNk1vQ0NLdzVIY09uUFIwanVhTGtzYklsc24wZGdGZHRB?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-14T07:16+09:00"
   },
   {
    "title": "名古屋入管で訓練 重症者搬送を想定 南海トラフ備え ／愛知",
@@ -365,12 +365,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdkVaVkh0dW1FM0IzOEVXaXBYYXhGYnhHbjEtSEo3cEI4b2dqTFVHZThndVRDNmY3MTlidVVJLVJZRW5mT3d3NE9jYkh0cTh3VWpkdWs1bXpyc1BlS040bNIBZkFVX3lxTE16OXpEVVV4R2tsdVVvaDVpTnZ6RC1WZWFWQWZ3VHF2cE5odXJYQ1BOQUtJVWRoOWNuVXlVUEtqVUtEUUlySlFJQlN6V0JfTlI0ckdXRjFRUFB4TTluaWtFME9nVDQtUQ?oc=5",
    "source": "BBC",
    "at": "2026-11-14T13:41+09:00"
-  },
-  {
-   "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（ITmedia Mobile）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdGZpV29UQXA4RFpxbnJaa2s1MjBlOXBUQjVyRDhpUm0ydVpkT0JjSXFyZFlmdGtiM2xEUDRQZVlhZldlRVkxOHhadXZQdUFJUnFjcGM3UUpNRWVvcm90SHFOZy1PNi05YWNZcVk3Y3hmNDQ5SThtY0pxQTBhaVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T13:25+09:00"
   },
   {
    "title": "全米の航空機、一時離陸停止 通信障害か、数時間後に解除",
@@ -431,10 +425,23 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SM3NOc1h5eDNUcnhnOFhnb2Y4ZGZaUXU5UUdKYmhZTDZ5NEpFODZJRUhHMU1Pa24tS1FfbWJsRjZqTjJnZ012aGxoMA?oc=5",
    "source": "47NEWS",
    "at": "2026-11-14T10:11+09:00"
+  },
+  {
+   "title": "「京成スカイライナー」予約システムに不正アクセス 最大約337万件の個人情報が流出の可能性 インターネットでの座席予約は利用停止で再開見込み立たず（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsSS0wWDVISVVHWmU0S3ptT2ZlZzN1UlRscDUyQzNBYmgxYUs5M09IN0lpZ1AtV0pib2ZpcVcxVGZQakxwY2FQSTJVZFZtQUNaZExiN0NQWWZKbXlUSUdLSjdWRWhZdVJpQXgyUGJpMm96TTFCNzZxa3AzQmtqWmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T14:37+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米軍、イランによるバーレーンのレーダー攻撃否定 「無人機撃墜」",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uem83bG45SjIzelpQRkstVGlwU2lVbjRUQjFDa2M1SE1ycmlqd3N6dlp6c3VJNXhfTFduTWZRajNyMmthV0ZNOHFvS1U4a1FNNnZNM3lQVWIwUQ?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-14T14:21+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ルビオ氏、経済的に弱体化したイランに対するさらなる米軍の行動は不要であると述べる",
    "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxNN0FWWjNhQ2ZRcDRfMUxEcTkyQndzTDdTNmRDTDVpRklfNllaUnNBQnZHQjF2Y1FNTHo5a19YMVNIMlZHRWF3c3RIX09tcEpVODlOdW1mc01pVHZYLTJSVkVXX0VBNmpSS1ZMTWJDRlp4d040UnJMNk5zcG5RQnFJU1hsMEdsaEJFQ3RWdlpDNFBOTFRrcjFQcE00S3pLYkdjZDB5V0x5aHJoS0k0M1dHV1ZPT1c1NDhMclF1aDd0NjA3YWUzSk01TjhiR3IxWE5OejZ4R2xWMlNUMEtkOXFwQ2tYb1lIS3h2akFhSU1wVk5YZDBCWTFKR0VHVUJ0M0NEN193M0U5QV9yUldFdWRqdURfSTkzeVgzNlZXX0FjZ2xRd0FucEdKTWRvYzZ3Y1ZuMUNONUZsZ2ttM2JSQkNPX1M2bVZ2RFlHelBZWWNMWnk3eEQyc0ZEQTB4aEwzR1EzRUNwQmJZRjhfcE0yV2RpaHppS29Dd2RXMGFvREJpS21HQk54VGthckJHUmtvcGtjcElzLWVxeGVJQnl4Zk1vUE9yYVF2TlRIb0FkYkRHaXFaR2ZxZWlhdkQtNDQ0TUxSOEhHdGxHblNwQ0gwNWpjVEpOTmtLSndRak1CMm1xLXNrbko2emNWdU5BR3JVRTMyTTdKU2pYeWxOeFhzVDR0MXJLZmI4QjZvOFdDQ2ZycjllSlhyVTB3TE9Td0h1c0ZpeUp5YnhfMHlqS2M?oc=5",
@@ -520,13 +527,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "イランがバーレーンにある米軍レーダー施設攻撃 9月以来 米側は撃墜と発表",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXdjTnRheC1kYTFjY29Xc2ZpZmxHSWxENmVLUU1SSmFxZHRZYWt5Ul9CM2ZXTWx5RUprNEFKa01WSjB6LXUyNUtabmc1ZXFCREJob2dRN05GalZoNVloS0dCeE9kejQ5WS1NVjJnSEthcjVqdXpuVWNwbUstUk9uWll3N042SnJjR0ZLVVlDUlprai15TTVZZW9EeGNuaWN1Sk1nd3daVWdiM044VEE3V0dtS20?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-14T09:51+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vdDFnMU1Ea0ZuOW0yZGNrZnNfaGJ5TUpMWVB0MTB6djdHTEQyWlBRUjVhMXRGb1NLQzZsNE1ERzRUeVdqUzJZQnVXLTQzSXdzR0VfbFR4Sk9vRlVCbTlR?oc=5",
    "source": "千葉テレビ放送",
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思っ」"
+    "「マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」"
    ]
   },
   "japan": {
@@ -600,10 +600,10 @@
    ],
    "items": [
     {
-     "title": "イランが湾岸地域の米軍施設を攻撃、2カ月ぶり 合意の望み薄れる中",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMG14M05WOTNpbkpDNGZPa3VndE12LUJWUi1GRHdXT0RoUVB6OHZLZE5kajAtb2xGT0dwZzJnaENKOFRCOWxnMFZVVFZ6bWkyQ244c1ZMdjY4bzlxVXFvNldSRGh1UlpHczRXN2xn?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-14T13:26+09:00"
+     "title": "米軍、イランによるバーレーンのレーダー攻撃否定 「無人機撃墜」",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uem83bG45SjIzelpQRkstVGlwU2lVbjRUQjFDa2M1SE1ycmlqd3N6dlp6c3VJNXhfTFduTWZRajNyMmthV0ZNOHFvS1U4a1FNNnZNM3lQVWIwUQ?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-14T14:21+09:00"
     },
     {
      "title": "【寄稿】中国軍、空母「遼寧」軸に3戦区海軍が西太平洋へ 第一列島線の「反封鎖」 能力を検証か",
