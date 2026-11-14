@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:00+09:00",
+ "updated": "2026-11-14T14:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -155,12 +155,6 @@
      "at": "2026-11-13T15:20+09:00"
     },
     {
-     "title": "日中首脳会談は見送りへ 中国でAPEC開催 高市総理と習氏 短時間接触など検討進める",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TTEhOcThfZ1VtTll3dkI5X2tDUllwRUZab05HOXFsQ1JMdDhULWFWeHhUZUtVU1F2aWItYmtiLUJsX0tEZjM3VVg2N0ZPVnJwcUtZTjN6Ymt6WUtyVXFCWGxUR1Z1VlN1cjh5dE11c0JFbkU?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-13T12:15+09:00"
-    },
-    {
      "title": "日本共産党の山添 拓議員の「死の商人国家」発言に問う-防衛産業は国防の基盤、中国の軍拡こそ直視すべき",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmJGdzFPWDZ5SVZ5eVZLVGE2bFFSdktBMjhLSnZiQTB4aXRaclhuc0E3U0c1QTNkbUF1NWN2SGhhSGVkdjNjdmtTZzhrTjF6Q3EwTUdwVWhreXE1Rjg4WmJVaUZnbjM0SjdVRjFDckVydlQ1Q0dZc0Z4SFl0WTdpZWE1MDlvUWZTOU9yYnF2TnM?oc=5",
      "source": "合同会社ロケットボーイズ",
@@ -171,6 +165,12 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTW80dFFEbzlsV1JDalRZTmFMX3lQdXdGWWNVM0JXbUdYZ3I4YWQzRDhENmFhZkJSZ1JPYjRJemFGbG5Jc2NIX1RZbEF5M1hOclUxdm5oQU1MaVE3LTBOczh0cUJEOXBtbzhsTnN2Ym1MdlptMTJ5cWlwVldzQ0ZhMGxBUklsTG9KX2RXV3V3TWpiRGcxd2dDMjR3SEFvTkdjT0VKYkM2dEVVT1ZWVUZFV2Rn?oc=5",
      "source": "合同会社ロケットボーイズ",
      "at": "2026-11-13T06:00+09:00"
+    },
+    {
+     "title": "防衛研究所 中国にとって南シナ海はアメリカと対抗する基盤",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzeEFfTmN3U3cxQlFxTmZWMTdRa1dOTUZWT3VEQmVFLWtqeUtzYVlIMGtNQS14YllTMGhQRW9kZDU2Mzd2N0xhdGNQbEJvY3BUUnVLYVZzMmxXMENLTHNR?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-13T05:07+09:00"
     }
    ]
   },
@@ -343,6 +343,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "通信障害で全米の航空機が一時停止 1万5千便以上に影響 | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOT3UyQlVENGEwRGh6TkMzbk9mWF9DOFktYlU5dFpTR1drRTN0QnFreGFvaDlna3FYdW5YUnhaQTJqWTgwbnRXRHFpMEpjb2lwd3hyb0EyX3NWSkNldjRqWEJTZm5zSGhKRDY3d2MxaVBSQkoyV3VQSVhKSFlzYVBTUFk0WTVhMHN2SVNIQk50S3lyOTNtbU41UlptYk5DYzFPeTNveFhzTGN2VUdGeGQzRFRpMXlKajlSSE1Lc3R6dGdMbWFrVm1sV3hTcXloTDkySjR4QWI2NTN0Ykd2SGRuNTZtR2NjM0hSZ0NxUUxwc2FEYW03dk5uWTRuMjhqUUVYZmFKa1RueS1ZOWlDWG5mMGhPd2ZqZS1jQTNraVpwV3JkenNzQjBjZG1GM0FqZzBlS2RFSXBLUjRHU2VuRUpxZmZHSjdaZ2VmME5aaW5rc2tZSU9xczRVTUNpTEJjRGRhbEgyelBiMXpLNkpuQlcwTzdkSjZSQlBlZDlNWHY1eEI2WEtaTHNJYXZIdVg5R3lRUXhyOWUxMXd4dw?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-14T14:01+09:00"
+  },
+  {
    "title": "全米の空港で航空機に約4時間の地上待機命令　「通信障害」と運輸長官は説明",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdkVaVkh0dW1FM0IzOEVXaXBYYXhGYnhHbjEtSEo3cEI4b2dqTFVHZThndVRDNmY3MTlidVVJLVJZRW5mT3d3NE9jYkh0cTh3VWpkdWs1bXpyc1BlS040bNIBZkFVX3lxTE16OXpEVVV4R2tsdVVvaDVpTnZ6RC1WZWFWQWZ3VHF2cE5odXJYQ1BOQUtJVWRoOWNuVXlVUEtqVUtEUUlySlFJQlN6V0JfTlI0ckdXRjFRUFB4TTluaWtFME9nVDQtUQ?oc=5",
    "source": "BBC",
@@ -379,6 +385,12 @@
    "at": "2026-11-14T11:56+09:00"
   },
   {
+   "title": "米FAA、全米の空港に地上待機命令 管制施設の通信障害で大規模な遅延・欠航の見込み",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WX1FNZUhhN0tFT3d5ajJUamJVWWltSjdVc1Zmem55YXZtVnFxQ1VRenRNbkNZMHR0M0o5NlZ5SnpnZWhvc2ZLZG8xblFLZ25FUi1NblpOc1BiQ0c3SVhj?oc=5",
+   "source": "千葉テレビ放送",
+   "at": "2026-11-14T11:29+09:00"
+  },
+  {
    "title": "アメリカの全空港「管制施設の通信システム障害」で離陸停止措置、４時間後に通信復旧し運航再開",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQUjg0VXRkN2pUQUNKb1hvSHR0QkMzVmtXSTYwS3RUeEZseld6QTE2VUY5VDFtTzlVTXh1SWViNmVfZHZFODhFNjc0MFFwNVg5MDZGRW04OGRqYVBzSHB4aU9wMnplTjhUUzhtNmRZZ2g?oc=5",
    "source": "Infoseek",
@@ -410,27 +422,15 @@
   },
   {
    "title": "日光宇都宮道路全線でETC通信障害 一般レーン無料開放",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SbkFLVjI1cHRYcjBFcDFaai14SW50emZnSGw1WDFFTFBZUTA2azN2clBxTWRMejVpSUFVTEZIaXg5TnZabEVrSThPUi1KYlo5YVBsci1IY2N6MjQ?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-14T10:17+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SM3NOc1h5eDNUcnhnOFhnb2Y4ZGZaUXU5UUdKYmhZTDZ5NEpFODZJRUhHMU1Pa24tS1FfbWJsRjZqTjJnZ012aGxoMA?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-14T10:11+09:00"
   },
   {
-   "title": "米マイクロソフトのロゴ＝13日（ロイター＝共同） - 米MS、大規模障害について謝罪 完全復旧の見通しは立たず - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyNFZQdjF5bW1GeFp2NFFGbExvcHRxYlNoOHU2NUJKV0VOQUUtb2ZVOXNqbG13X19aUVZSRHR1aEZoWDBPQkRMWkZ2ZHhGNFFrZ2xlTnFwZw?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-14T09:52+09:00"
-  },
-  {
-   "title": "マイクロソフトが大規模障害を謝罪「重く受け止めている」…全面復旧見通し立たず、サイバー攻撃の影響否定",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vWjEtdjAtS2NzNTlsdm9tMG9Nam1DcFE2Umg2ZGNEU2hrc21nY1FldkRzM1RaZHhkeTlkWVBzRnA5S2hDMGRBbVdIMWE4N2I1TldINTJOMDhBNjdSV09aSThiZW0?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-14T09:42+09:00"
-  },
-  {
-   "title": "全米で航空機離陸「全面停止」…通信障害で1万1000便遅延・欠航",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3hDenJwbUc5bjJIYjRBeFRvbXU1LXZxNmlvOHdYcFJhTl9sRHlVU0dSa0xDNEZfUkY5ZHY5a0Vtek53aE45ZmVDMGJmRk5mZnFQbTF1eHN6MXZ0ZmNLU19OTk5MSmFnNHFxaDgyeFNDWjluQ1I0d1RSV2pBUUFIdGZ2SkF3ZFh0?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-14T09:39+09:00"
+   "title": "マネックス証券で不正アクセス被害 本人確認の画像データ1592件漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EbTdMLTJGVnJ0X29PaXZUN0twSGE0UUM5Q0poa3pQQm9RU3BkdnAxR0NCZlEyUjZWdUVHLUxrZUFvRlB4alV1cDV4UnNtdE56dUVkdk1CLWthR05LbGNZdlY5RlZxZ2x1MF9hMEhHa3hvanJv?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-14T14:08+09:00"
   }
  ],
  "osaka": [],
