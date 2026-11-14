@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:15+09:00",
+ "updated": "2026-11-15T07:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -145,15 +145,9 @@
    "items": [
     {
      "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-15T06:00+09:00"
-    },
-    {
-     "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdTgybHVzNGZLRkFZNENidWpKc2hzNlVmRnBZV0FPUG8wdG4yb2FYcXhhODlhVW0yNS1teXFMZ09YZzVBMTlBczRZX3dRcEszd1BPWEZrSE95dw?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-14T12:13+09:00"
     },
     {
      "title": "【寄稿】中国軍、空母「遼寧」軸に3戦区海軍が西太平洋へ 第一列島線の「反封鎖」 能力を検証か",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjc5dEZuWS1VZ1NxSjVnYlFKMFExN2ZKWjJINFNBTktSejBNMUxoaTBzZ2hGNjZsb2NfQWZSMzI4YlZ0cjl1YUMxTkt5Q1RXT3dJeGl6MWdfSWttb1NrNU9XeTN2YVdVaVhGeTNPel9KR3RaUXZxZFVRemMwSVU1LWdyY0wtRmNE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-13T17:31+09:00"
+    },
+    {
+     "title": "中国軍の偵察型無人機と推定中国無人機が与那国島と台湾の間を往復（11月11日、BZK-005）",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbFR3a0pGekJCSFZWS2pvTG9aNzVFRnVkYWRUekVVUk1oYzE1U0lEU0c3b3RHSlBwNkNLMnBPZzhzOUthMmRySWRLMFdmYkpCSUJyVW4wUjc2QmNv?oc=5",
+     "source": "J ディフェンス ニュース",
+     "at": "2026-11-13T15:20+09:00"
     }
    ]
   },
@@ -228,10 +228,22 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WM2EwRVl5U0NHSWtmX0ZsNndIY1kwSEQwQ3BPMXVGU0lITm1BbEpDaFRmRDVrcE5GZzk4M2dUVDluenkzQkN2M0JENWtJRXZUTXdrb1JwSkI?oc=5",
+     "source": "AERA DIGITAL",
+     "at": "2026-11-15T07:00+09:00"
+    },
+    {
      "title": "ウクライナ軍はロシアの石油施設と空軍基地を攻撃した",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWszZDU4MElyazlEa3J5d3FmWjlSdEs4SFV5Q2h5LXpScjJhWVEwTDduc1hHQnFLQVc2SE52WkhYUXl2S0pHSWZDMWlLeXNYTXYtNEZCUGdjVjNjanozX2JhdUdnVjBuaUZuaVlGZXV1LUJVMkQ0LTdvMjJtckxzU2ExdTUtRkFNR0xfdGhCdlg3YUxfSXpTR0kxX1I2OFI4TFY0?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-15T02:59+09:00"
+    },
+    {
+     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-15T02:24+09:00"
     },
     {
      "title": "ロシアで2日間にわたり車両爆発が相次ぐ…軍将校が死亡、親ロシア派の人物が負傷 : 国際 : 財経日報",
@@ -250,18 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0NBTkRTUHBlUEJFdklpVHFUTlAxck9PeVU0czNoSkVzS1VpQ2pNdk11a2YxczRWNktDdlgxV205NEs3OUR2YzE5M0RNYml3TGNIWlkwUXIyLU94THZsbmdQdkxaNXRCMHNtNHQtT3hlX0JLSnRWVFZvY2RSMHFQQ0d0Y19nTGV0ZVIwYWNhSE1TT05K?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-14T16:32+09:00"
-    },
-    {
-     "title": "ロシア軍がクシュグムを攻撃、45歳の男性が死亡",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEpIWjRrWmp4RzFxUmlnMm9hWGN3MzdBQ1BEZUVTWFlGZzE0SmFtUzFzYmZoQnlyTEdsRktNTW1sMEhfWlZpaTd1NURNN21Ick5uM3AtdldKc1oxVXhxLVY4SjBfeGY1Wno1X2x5UFp3bnVteEw0QnJBa0UwNlRGMUdHOHllZFh5WmJnd0Q1M2NQR3ZqYldqMw?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-14T16:04+09:00"
-    },
-    {
-     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-14T15:30+09:00"
     }
    ]
   },
@@ -328,12 +328,6 @@
    "at": "2026-11-14T14:52+09:00"
   },
   {
-   "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 今後30年以内に震度6弱以上の地震が発生する確率は？エリア別予測データ（政府・地震調査研究推進本部）",
-   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPdXViZVQxM1I2Z0tkeVdTMm9ZV2pOeVVpQTg2dXpKQklxXzFqMDZUZ1FGM3EtMzdhM3prdFJvWHh4WV81X3E2aWV0OHRobVhaTlZjRzFCS1hOdzk3bE9QU0FWWFVxNm1MQ3BuVFVaV2tCbVpwRzk2ZmFNSGxteDlfU3NmdkozN3FBbjVibTNFSk1XRlhVd0pqdmVVeEcxcmtPMkZUMEZnQmxrSG9ZOEV2UHc3bnZDRXZwVTV6MlM2VmljTXBqZUtZeGRxUlYxeTBKNzlwWDkzdVdqUXVMTl8yX2t0bVBqdGFTZmtXaEM2ZDVkbHloSHpqczZQZlRuX0NpRnZ2OXJlb1hkOEdfZ2ZFMEtraVZCeFpmUXVjMjBmOS1PRDdRZWFHWUFBVFFmaGVNeHYyMHpmSXk5MEJhSnZOLW9R?oc=5",
-   "source": "cedarnews.net",
-   "at": "2026-11-14T14:33+09:00"
-  },
-  {
    "title": "【全国マップ掲載】南海トラフ沿いは“濃い赤”に 30年以内に震度6弱以上の地震が発生する確率は？エリア別予測データ（政府・地震調査研究推進本部）",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPUV9SalJYRWRaczNMZW9ZeXU3OFc0c0xVdEtaRXhpeEVYMGxydVZ0dFEwaGpqc0VnNUVrdS1oYmV5RE9COHFVdUZZTV9rdDJfU3huQWlTWQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -344,6 +338,12 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Y25aejZuamVNSlN6eEpnTlVJclVveVlYaWlWX1AwS29jSEVqVzRjRnczdzRDQ0V2bmUzWmM3M2NXaGxjWHYyU05Gc01ZMjJReHd5RzZjczFjUE1oS3c5LVFZZUlydHFR?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-14T05:01+09:00"
+  },
+  {
+   "title": "南海トラフ地震に備える「命の道」 東洋町「海部野根道路」工事現場を小学生が見学【高知】（テレビ高知）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVVBrOGp4Q1pJY0dIN0JKTlRCQ2hTdmIyY2hFbkdpUUVXbVFVcXdsaTBtTnEzVDNzdVgwYndEYUNkb3hoOFlkeGh3MjBjUm1ZVkE1Q0RrVHNKLW9yUVh2MzgxbnVPbGtMVEN6UjE1d3hNSmRkS182LUE4T3B5M2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-13T18:54+09:00"
   }
  ],
  "outage": [
@@ -357,10 +357,16 @@
  "japan": [],
  "cyber": [
   {
+   "title": "ニフティ「@nifty」でシステム障害、Webメールやココログにログインできず 11月15日午前3時5分から",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmNkNnFMZE1WSjhLUzJJXzJIdXZaQXlUS29WZks4c3ZtUExkZlZxREQwUmxzZUM1RGRkRDc4QXQzdmlOR1hNUjB5TmdVZ2hDcjVhNVJqS2dWZ05RcnFYdXQwSTlDdUY5YW5IcTAtNVZjamwyc1BoUV8tS29hVzlCV1BhdHhKdG1DQmtwU2V2cG9oRlk5cnJIMg?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-15T07:15+09:00"
+  },
+  {
    "title": "全米の空港で一時離陸停止 通信障害により1万6000便に影響・インフラ老朽化が浮き彫りに",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVm96bm1ubFExZUNaZTV0NHpJcGl0ZGx4ZDFJaUlHWkltNWpjblBDd2R0b2hKSGU3Ny12ZVpUQVBrTzFHRGdudU02UFk5S21CZDVz?oc=5",
    "source": "東京報道新聞",
-   "at": "2026-11-15T07:03+09:00"
+   "at": "2026-11-15T07:04+09:00"
   },
   {
    "title": "航空管制システムで通信障害 アメリカの全空港で離陸停止措置（FNNプライムオンライン（フジテレビ系））",
@@ -439,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBbEF2eVZIX3duVm5SakFSTGtzbFZWaVFIUnVmSkxnN21pRWRPZ2hCWFM4RUh3WklWWWNqeWxobm9Ta0xIODFhcDJ0X0pzdw?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-14T19:03+09:00"
-  },
-  {
-   "title": "米全土の空港で一時離陸停止 管制の通信障害で日本も遅延欠航 (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YVW00RkJjU3VMc0xrOF9Ea2NyOFlPNTg5UGdnOWM4N0pTVXRaYkY2eXQzNUJyWWdGR0VqbWkwT3dMbWZjWVAtaEFNZEZDVkQzc2pOc2VFeWYxYThDR0E?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-14T19:03+09:00"
   }
  ],
  "osaka": [
@@ -456,6 +456,13 @@
   }
  ],
  "world": [
+  {
+   "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WM2EwRVl5U0NHSWtmX0ZsNndIY1kwSEQwQ3BPMXVGU0lITm1BbEpDaFRmRDVrcE5GZzk4M2dUVDluenkzQkN2M0JENWtJRXZUTXdrb1JwSkI?oc=5",
+   "source": "AERA DIGITAL",
+   "at": "2026-11-15T07:00+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "アメリカ＆イスラエル、ふたつの選挙でさらに泥沼化！ イラン戦争の「終戦シナリオ」は迷宮に...（週プレNEWS）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUzZRXzBUcU92WUY3U2lXNElpVzd0LW55b2tWOXJjWXlYS05JeGJvc1FzcXE0dXlUc2I5MEdzaDZVQ2xLNXF5TWlQNDlRMEhpZXJkN0JJNFJVcHNIZ3VjVEdpU2U2Q2M3cVoyOE45YTJDVktvMHpuOEJmTGVpYWs?oc=5",
@@ -479,7 +486,7 @@
   },
   {
    "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
    "source": "東洋経済オンライン",
    "at": "2026-11-15T06:00+09:00",
    "topic": "中国・台湾"
@@ -489,6 +496,13 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWszZDU4MElyazlEa3J5d3FmWjlSdEs4SFV5Q2h5LXpScjJhWVEwTDduc1hHQnFLQVc2SE52WkhYUXl2S0pHSWZDMWlLeXNYTXYtNEZCUGdjVjNjanozX2JhdUdnVjBuaUZuaVlGZXV1LUJVMkQ0LTdvMjJtckxzU2ExdTUtRkFNR0xfdGhCdlg3YUxfSXpTR0kxX1I2OFI4TFY0?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-15T02:59+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-15T02:24+09:00",
    "topic": "ロシア"
   },
   {
@@ -576,23 +590,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア軍がクシュグムを攻撃、45歳の男性が死亡",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEpIWjRrWmp4RzFxUmlnMm9hWGN3MzdBQ1BEZUVTWFlGZzE0SmFtUzFzYmZoQnlyTEdsRktNTW1sMEhfWlZpaTd1NURNN21Ick5uM3AtdldKc1oxVXhxLVY4SjBfeGY1Wno1X2x5UFp3bnVteEw0QnJBa0UwNlRGMUdHOHllZFh5WmJnd0Q1M2NQR3ZqYldqMw?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-14T16:04+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdydERZVldMN1ZUdHFmNEZNZUVCcEtPTzRXXzBIZEJBdVhuTXEtOVlQY3hIX2o2OFI2VDcxRGxqcUxSX0RFRHM2YUV2bVE0cGtITkdObmlVYnpxMWNSeTRkTTFOZklMdFRyb1VGcDluZ1gxR1ZBM2Z5Y0JmWU9ueHFZUUpsbzA?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-14T15:30+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdTgybHVzNGZLRkFZNENidWpKc2hzNlVmRnBZV0FPUG8wdG4yb2FYcXhhODlhVW0yNS1teXFMZ09YZzVBMTlBczRZX3dRcEszd1BPWEZrSE95dw?oc=5",
-   "source": "山陽新聞",
+   "title": "【寄稿】中国軍、空母「遼寧」軸に3戦区海軍が西太平洋へ 第一列島線の「反封鎖」 能力を検証か",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLeTB1b2FjbEtmSUItbEcxdDd3aG44OWR0SFJhdEg0VXV1MGhzRkhJT05BVm14bzdLeVp2aThrSXRVc19sd25kblV1Ym80V3kx?oc=5",
+   "source": "風傳媒",
    "at": "2026-11-14T12:13+09:00",
    "topic": "中国・台湾"
   }
@@ -616,8 +616,8 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」2件",
     "中国・台湾：「ミサイル」「封鎖」2件",
-    "北朝鮮：「ミサイル」2件",
-    "ロシア：「攻撃」3件"
+    "北朝鮮：「ミサイル」1件",
+    "ロシア：「攻撃」「侵攻」3件"
    ],
    "items": [
     {
