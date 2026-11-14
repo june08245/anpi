@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:15+09:00",
+ "updated": "2026-11-14T14:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -245,10 +245,10 @@
      "at": "2026-11-14T11:00+09:00"
     },
     {
-     "title": "EU外相、ウクライナ和平交渉でロシアの「わな」に警戒 停戦優先を訴え（ＡＦＰ＝時事）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84LWRQM2xwZTJpWW1tSThVMkhHbEhCdzdfOFZWcWxMNDJWLW43VjYyVjR1VlF0VWFFR09pdUxtMVhaeUxVb0tNakU3U1pSTEtpdExyV0JTb1g0VWNKMGtZV1FvMGVLTHN1X1NNeWpGMHQxeGNzeUlyRE00R3cwSUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-14T10:58+09:00"
+     "title": "EU外相、ウクライナ和平交渉でロシアの「わな」に警戒 停戦優先を訴え",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iMlJjb3Rnc185aTlkM3VJTkl3cGtEbHFuRmdzNXBJcDgzVFlxTXpjMGZjeVlsUnV6X1NiZ1Z3NmtHeFpZbGtfS3pLLWVXMl9SNmRBdUNLRmZmLXR3NkJ2Z05uNVk2UEdVdnhtMWlKTmtqQzDSAXhBVV95cUxPOGdERmw0VmVXSFR2MnVuS2U4dVpXdl94MkNBWE83Rk8wVnlCSTRkZmRjcjh3eWJwd3RmZXM4WGhteEtzUkVwd2hPamwyeDNQMWtzUDVQSWoyYjQ0S1V0ZzZTZWJDaDA3Q0JiWEdjZTlBcXp3UTBxV3M?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-14T10:54+09:00"
     },
     {
      "title": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡",
@@ -343,6 +343,18 @@
  "japan": [],
  "cyber": [
   {
+   "title": "アメリカ、航空管制の通信障害で全米の航空機の出発を一時停止",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOExoc0VfaEVmZlJuTkpxZHFzVTROVWYzTS1kUkFfYUpZc2FmYzE5M1BoX3NtOEZjR2k3T3dhOVZXWTNGM1N5M0ZVV0FxbDZXaV9tcU9aMUlPOWNERVQtclVPQzJqbFJDR3JURjhWRUZwcWRhbWd0dmFsOXZlZWZfcUdUOXdMZnk2b2hCZFBBU2VSVm42WEJza3hFS3hjcE1ZX0ttM09SNWNlSGJKOG5lZ0pVd21SZS1mM1g1WVRSUldTQ0Ew?oc=5",
+   "source": "VOV World",
+   "at": "2026-11-14T14:15+09:00"
+  },
+  {
+   "title": "FAAシステム障害、数十億ドルの近代化投資にもかかわらず老朽化を露呈",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qV1ozSVlXTEgxS1JXMU9HaDdmZ0Y2ZFJfUC1DaWNzQkx0bEppclp3cVNXYUVEd1hDLVBlZHYwaWdBdm04ZWNnX3RwVGJxVjFtVGlwUkxtalNscVdBQ0tVNVB0blphTS12dThWbzJwdng?oc=5",
+   "source": "Investing.com - FX",
+   "at": "2026-11-14T14:13+09:00"
+  },
+  {
    "title": "通信障害で全米の航空機が一時停止 1万5千便以上に影響 | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOT3UyQlVENGEwRGh6TkMzbk9mWF9DOFktYlU5dFpTR1drRTN0QnFreGFvaDlna3FYdW5YUnhaQTJqWTgwbnRXRHFpMEpjb2lwd3hyb0EyX3NWSkNldjRqWEJTZm5zSGhKRDY3d2MxaVBSQkoyV3VQSVhKSFlzYVBTUFk0WTVhMHN2SVNIQk50S3lyOTNtbU41UlptYk5DYzFPeTNveFhzTGN2VUdGeGQzRFRpMXlKajlSSE1Lc3R6dGdMbWFrVm1sV3hTcXloTDkySjR4QWI2NTN0Ykd2SGRuNTZtR2NjM0hSZ0NxUUxwc2FEYW03dk5uWTRuMjhqUUVYZmFKa1RueS1ZOWlDWG5mMGhPd2ZqZS1jQTNraVpwV3JkenNzQjBjZG1GM0FqZzBlS2RFSXBLUjRHU2VuRUpxZmZHSjdaZ2VmME5aaW5rc2tZSU9xczRVTUNpTEJjRGRhbEgyelBiMXpLNkpuQlcwTzdkSjZSQlBlZDlNWHY1eEI2WEtaTHNJYXZIdVg5R3lRUXhyOWUxMXd4dw?oc=5",
    "source": "SmartNews",
@@ -359,12 +371,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdGZpV29UQXA4RFpxbnJaa2s1MjBlOXBUQjVyRDhpUm0ydVpkT0JjSXFyZFlmdGtiM2xEUDRQZVlhZldlRVkxOHhadXZQdUFJUnFjcGM3UUpNRWVvcm90SHFOZy1PNi05YWNZcVk3Y3hmNDQ5SThtY0pxQTBhaVU?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-14T13:25+09:00"
-  },
-  {
-   "title": "全米の空港で航空機の離陸一時停止 通信障害、当局「脅威の兆候なし」",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNczBmbWg4TTNnYVUtQzBpNXBWQkU5d0EwRTh5a2xrTHVSblJqdVRmNmdLWDUtTDhQTUFUc2JPc0l4RVhsbmk4VF9CT3ZMUHhLa1A2Uzc2N1psUzZncVc4ZEVuR1JYbXVsUXFydA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-14T12:47+09:00"
   },
   {
    "title": "全米の航空機、一時離陸停止 通信障害か、数時間後に解除",
@@ -385,10 +391,10 @@
    "at": "2026-11-14T11:56+09:00"
   },
   {
-   "title": "米FAA、全米の空港に地上待機命令 管制施設の通信障害で大規模な遅延・欠航の見込み",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WX1FNZUhhN0tFT3d5ajJUamJVWWltSjdVc1Zmem55YXZtVnFxQ1VRenRNbkNZMHR0M0o5NlZ5SnpnZWhvc2ZLZG8xblFLZ25FUi1NblpOc1BiQ0c3SVhj?oc=5",
-   "source": "千葉テレビ放送",
-   "at": "2026-11-14T11:29+09:00"
+   "title": "通信障害による全米の空港の出発停止をリアルタイム報道 Data is CITY が日米の便の状況と対策を即時発信",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdWZyc3htNk5EeS1SQ1NBNnlFM0MyOWNXWXRYZnlTdnlmS3pRMzZ5cnFjZHh4UDVubXpNanlOV0lLaVdkQ1lZcUlLZmYtdjkwczNkWmVyTGw5eUJRc0VOTkFNU2NHMkFFZUE?oc=5",
+   "source": "PR TIMES",
+   "at": "2026-11-14T11:51+09:00"
   },
   {
    "title": "アメリカの全空港「管制施設の通信システム障害」で離陸停止措置、４時間後に通信復旧し運航再開",
@@ -425,12 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SM3NOc1h5eDNUcnhnOFhnb2Y4ZGZaUXU5UUdKYmhZTDZ5NEpFODZJRUhHMU1Pa24tS1FfbWJsRjZqTjJnZ012aGxoMA?oc=5",
    "source": "47NEWS",
    "at": "2026-11-14T10:11+09:00"
-  },
-  {
-   "title": "マネックス証券で不正アクセス被害 本人確認の画像データ1592件漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EbTdMLTJGVnJ0X29PaXZUN0twSGE0UUM5Q0poa3pQQm9RU3BkdnAxR0NCZlEyUjZWdUVHLUxrZUFvRlB4alV1cDV4UnNtdE56dUVkdk1CLWthR05LbGNZdlY5RlZxZ2x1MF9hMEhHa3hvanJv?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-14T14:08+09:00"
   }
  ],
  "osaka": [],
@@ -492,10 +492,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "EU外相、ウクライナ和平交渉でロシアの「わな」に警戒 停戦優先を訴え（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84LWRQM2xwZTJpWW1tSThVMkhHbEhCdzdfOFZWcWxMNDJWLW43VjYyVjR1VlF0VWFFR09pdUxtMVhaeUxVb0tNakU3U1pSTEtpdExyV0JTb1g0VWNKMGtZV1FvMGVLTHN1X1NNeWpGMHQxeGNzeUlyRE00R3cwSUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T10:58+09:00",
+   "title": "EU外相、ウクライナ和平交渉でロシアの「わな」に警戒 停戦優先を訴え",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iMlJjb3Rnc185aTlkM3VJTkl3cGtEbHFuRmdzNXBJcDgzVFlxTXpjMGZjeVlsUnV6X1NiZ1Z3NmtHeFpZbGtfS3pLLWVXMl9SNmRBdUNLRmZmLXR3NkJ2Z05uNVk2UEdVdnhtMWlKTmtqQzDSAXhBVV95cUxPOGdERmw0VmVXSFR2MnVuS2U4dVpXdl94MkNBWE83Rk8wVnlCSTRkZmRjcjh3eWJwd3RmZXM4WGhteEtzUkVwd2hPamwyeDNQMWtzUDVQSWoyYjQ0S1V0ZzZTZWJDaDA3Q0JiWEdjZTlBcXp3UTBxV3M?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T10:54+09:00",
    "topic": "ロシア"
   },
   {
