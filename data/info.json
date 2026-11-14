@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:00+09:00",
+ "updated": "2026-11-14T09:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-09T09:01:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-14T09:02:00+09:00",
+   "place": "浦河沖",
+   "mag": "3.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-14T00:03:00+09:00",
    "place": "島根県西部",
@@ -72,16 +82,6 @@
    "at": "2026-11-12T21:43:00+09:00",
    "place": "熊本県熊本地方",
    "mag": "2.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-12T21:34:00+09:00",
-   "place": "大分県中部",
-   "mag": "2.0",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -349,10 +349,10 @@
    "at": "2026-11-14T08:58+09:00"
   },
   {
-   "title": "米国全土で航空機の離陸停止…運輸長官「管制センターの通信障害」",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0lDai12MEs3NnhIOFY1TkVkZlBIdDA0alBldmhHNzNqeHp3TVF3d2RYRXNWQWE5dW1rQ0x0UFJkTXZEdktPM2owSkltbnVFenY0NGU3SmZ0eXp4c2F6ZVQ0aTdBMmw5RG5yUldYUW53cnlLRUtzQTJoMzF2MU1IekZfQWo5Um_SAYwBQVVfeXFMTXNramRuZC1qNU1oMHN4c1ZaMWtVOXNsQUJhVmxwemVaamEtQjA5Qm05Rjhwd0I4d095cl94X0ZmTm50VkZNaXJ6THEwSUxNeGRBRW9OUWJJNFVKZ3BBSHY0a2F0MXBEbXhNQ2RtZkpEWG1Ta2RCYW1XaEhzQS10dTVJMW5DQkNma0l5Z1k?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-14T08:56+09:00"
+   "title": "米国全土で航空機の離陸停止…運輸長官「管制センターの通信障害」（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0T1g1MVpYZ0MyNkVaOEtPa3JfOWp2SHF0Mngxdko3TDhMeW1GQ0E2Nk9jSnFyR05hSEFtYjg0UDVrZ0o4Y0U0NHhJbUg0N1BTekV1NU9aYmNLZWZQcTI1azB4OF95WmlyQ0hUMjBJc1Nfa3pBWkRsOWw2SnJUVnc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T08:57+09:00"
   },
   {
    "title": "米連邦航空局（FAA）、通信障害で全米の離陸を一時全面停止 9.11同時多発テロ以来の異例の事態に",
@@ -379,6 +379,12 @@
    "at": "2026-11-14T08:36+09:00"
   },
   {
+   "title": "米航空通信障害、ソフトウエア更新調査か",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOTQxejNMeHlCMlNCQ0xvallFeVpxX0cwTmNKaEpTMFQzR2ktRlZYQkNmSW1DRlVVRWJsZTZhNWZsa2t3QmZKM1FHSnR4dmdqeTlCS0JERDV5N3NWaHNGVFRHdkR5djNmem5FRzlCdzQyVnJhWWY3OV9XZkNxdTFxQlJtS19Bb3YxSUHSAY8BQVVfeXFMTTFfbkdyX0N2UWxHa1BCQ0JqcVVJbnhNQWtILTVPcDBhQVJXbGF3OTFtQ2tUNG1WQXFyWEJqZTVwX0pNdVQ2U2VkbzlWc29tdmVfRkwyVWVrZzRudFlaSW1PcUNiVVhPenE4a1E1b0t2TFNhMFVPMkIzXzJPQjgxZ0VnME9JelNuUTJnaEVZc2s?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-14T08:15+09:00"
+  },
+  {
    "title": "【速報】アメリカ全土の空港で航空機の地上待機命令 管制センターで通信障害が発生",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fbjN6MUpqTHNVa0l6UFZVdzVFTEVPemU3akdIaFFnV0lLeEF3SS14WmVhbkk3U2E3UU1lZXJDVXVVYUJUQXVMUFdual8yT1UxWUhObjg3UUZtaTRsYk50bERnNWlWdHpSdkxucEdNWnp6cjla?oc=5",
    "source": "TBS NEWS DIG",
@@ -397,22 +403,10 @@
    "at": "2026-11-14T08:09+09:00"
   },
   {
-   "title": "マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hSGdVa1k4QnVtZ0RZWmdCUTZ4Zk5PUTNUSDA5WWNkeUdGM05jUFhONktsbVVwZHBxTjctd1h5VFFGSjlfby1VaWV3TklaWkhmN3NQb2QtOTBTaDR6TWNzMUlHcHh5ZEt0ZThCTkVoakR3dm8zc25aSWFXNHhmaG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T08:07+09:00"
-  },
-  {
    "title": "【情報まとめ】マイクロソフトで大規模通信障害「広範囲で復旧 安定し始める」と発表 未処理のメールは大幅に減少",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-14T08:06+09:00"
-  },
-  {
-   "title": "【マイクロソフト】システム障害「現在も復旧作業を継続」「サイバー攻撃を示唆する事実は確認されず」（日テレNEWS NNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lQW9aOEo4T1BHdnd0WDFQY0VLNlJYSW1CQkxHVWo4VFBkWE55aHlRZTVYZTR2N05Dc3NUZlZERnhwVXVtSkxBem5jajZ4bVlNdWVqaDdJVXc4Yl9wN1FYc3hLSE00M3RRRWJjV2d2d0tYXzdQR21WZXUzV0VjREU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T08:05+09:00"
   },
   {
    "title": "「完全復旧めど未定」マイクロソフトの大規模システム障害（2026年11月13日掲載）｜日テレNEWS NNN",
@@ -431,6 +425,12 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFlHRS03bGpJbW0taWR6c0FnTW5ON3gxSXpLNTVJTlBLWXp0MTBMaXZjWXJMLTR3SzVjanVYTURHV2JkdGR6MktOQUxCMG43VENmLWtreU9LRlZaNWR6S2xJWGpFTVU?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-14T07:24+09:00"
+  },
+  {
+   "title": "米連邦航空局、全米の空港ですべての出発便運航停止…通信障害で（2026年11月13日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFZBd3l5VHNaVmFjVDJuREFkR0JmS0VRbjZERFhZY0E2bXRZY3l6bmZqRXd5MDBvcEJLT0NvRVVuaGEyLVRKWERiLW1QSXEyYnhobjJoTndYNFhSQU80SEk2UmtMR1FmaGVUVnV6OXhJY0dwQ2Z2R090RHV5YXdyazA1dDk?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-14T07:23+09:00"
   }
  ],
  "osaka": [],
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト、世界的な大規模障害を謝罪 サイバー攻撃ではないと説明（ＡＦＰ＝時」"
+    "「「完全復旧めど未定」マイクロソフトの大規模システム障害（2026年11月13日掲」"
    ]
   },
   "japan": {
