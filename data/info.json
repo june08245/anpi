@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:15+09:00",
+ "updated": "2026-11-15T08:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -354,14 +354,7 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [
-  {
-   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-14T23:13+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "SmackDownスーパースターが通信障害による飛行機の運休により足止めされたと報じられる",
@@ -406,6 +399,12 @@
    "at": "2026-11-15T05:00+09:00"
   },
   {
+   "title": "米航空通信障害、ソフトウエア更新調査か",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhR1k0Tm5VN1VfNU13LXhUMXUxZlFMejE1YXIwT0JnY3h3aEJoTWlRVTNyMkhqVlBySDRBbm9xWHJ3RlRlam96UXZTTHJhMUJPQlBsTk4tYjk1ZU14djVteV9yb2tWaW05clk0RFdhcXExbnlncndfMdIBhAFBVV95cUxQaVc4MVYtZVh6LWlhMDBlNERtQ3d1WWk4OGR2a2c5dkZGSVVCeGs4aHBDVmVDSDZ4M1BWT3Bic0NjeGN5MmJwN19jRFhvd3p1ME1GZnhEempUdDNvY1ZvTEdJTXcwTWJxcGF4QXlsMG5DdHZVVFRrOWpiYTJaVlptNlE5LUs?oc=5",
+   "source": "大分合同新聞",
+   "at": "2026-11-15T04:03+09:00"
+  },
+  {
    "title": "米FAA、全米の空港に地上待機命令 管制施設の通信障害で大規模な遅延・欠航の見込み",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DMlh1M21aNkdZTVNXcklpM045Z2MtX2pmeEViYTNDMXVRaGRtcnVadEZrQWpHbllTOFBwUnQ0bzlrX1B3aFZLTzNyYmVXRUxRek5QTkZOVQ?oc=5",
    "source": "TRAICY（トライシー）",
@@ -446,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wOW1RSzI3R2YySWRpUVRTOWFyTGU5REYwTGhiZUxIT0NuVXVIY1RZem1LelJsNF85SEhCQ3hkdzM4YUZrVTFUYl92TmZOR2s?oc=5",
    "source": "熊本日日新聞社",
    "at": "2026-11-14T20:00+09:00"
-  },
-  {
-   "title": "マイクロソフトの障害が全面復旧 丸1日続く、滞留メール処理完了",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qVGRqQ1Z3WGF5MHhBRDBDaUM3M3I5SjNTQlVDczB4b2VVS1lZc0RQYV9NZnlXamdMaEJjVVhaaVpkNzMyQWRsYm1ZVGdTOTJBamlGUUNDRGtXQkJCS2U4?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-14T19:49+09:00"
   }
  ],
  "osaka": [
