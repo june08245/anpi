@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:00+09:00",
+ "updated": "2026-11-14T22:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-14T21:43:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-14T22:02:00+09:00",
+   "place": "和歌山県北部",
+   "mag": "2.9",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-14T15:39:00+09:00",
    "place": "根室半島南東沖",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-13T03:48:00+09:00",
-   "place": "茨城県沖",
-   "mag": "3.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -150,12 +150,6 @@
      "at": "2026-11-14T12:13+09:00"
     },
     {
-     "title": "中国、原潜ミサイル発射実験 太平洋に着弾、日本は懸念伝達",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QX0dDRFROb2REbUVJS21ZXzBrd3R4eTNpMW01ZlZqSWViUWh3cl8wZWgzblJfWnN0UGwweGNBTGVMUWRGQmlieGRrWXBINzIyemt2Mm1wVElnRWxxQnRnYTBSazVUV0ZLR28wbnBnSQ?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-14T10:00+09:00"
-    },
-    {
      "title": "習近平が台湾統一を「必ず実現」と宣言…トランプとの首脳会談直前に強硬姿勢を示す「狙い」とは（ニューズウィーク日本版）",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjc5dEZuWS1VZ1NxSjVnYlFKMFExN2ZKWjJINFNBTktSejBNMUxoaTBzZ2hGNjZsb2NfQWZSMzI4YlZ0cjl1YUMxTkt5Q1RXT3dJeGl6MWdfSWttb1NrNU9XeTN2YVdVaVhGeTNPel9KR3RaUXZxZFVRemMwSVU1LWdyY0wtRmNE?oc=5",
      "source": "Yahoo!ニュース",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTW80dFFEbzlsV1JDalRZTmFMX3lQdXdGWWNVM0JXbUdYZ3I4YWQzRDhENmFhZkJSZ1JPYjRJemFGbG5Jc2NIX1RZbEF5M1hOclUxdm5oQU1MaVE3LTBOczh0cUJEOXBtbzhsTnN2Ym1MdlptMTJ5cWlwVldzQ0ZhMGxBUklsTG9KX2RXV3V3TWpiRGcxd2dDMjR3SEFvTkdjT0VKYkM2dEVVT1ZWVUZFV2Rn?oc=5",
      "source": "合同会社ロケットボーイズ",
      "at": "2026-11-13T06:00+09:00"
+    },
+    {
+     "title": "防衛研究所 中国にとって南シナ海はアメリカと対抗する基盤",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzeEFfTmN3U3cxQlFxTmZWMTdRa1dOTUZWT3VEQmVFLWtqeUtzYVlIMGtNQS14YllTMGhQRW9kZDU2Mzd2N0xhdGNQbEJvY3BUUnVLYVZzMmxXMENLTHNR?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-13T05:07+09:00"
     }
    ]
   },
@@ -273,7 +273,7 @@
      "title": "ロシア 米ウクライナとの協議でも東欧のNATO軍撤退を再び要求 (2026年11月14日掲載)",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FSDZDVzlmMDVQazBYS2V3UW95Q3h4cnFlUmZsWGpmdXVWYmJMN20zdkJyQ20yMEF5clF1VnktX1ZVc3pkWW1CZHROWFBVZVpsZENPb3VUM0lBYnRqYVE?oc=5",
      "source": "ライブドアニュース",
-     "at": "2026-11-14T21:15+09:00"
+     "at": "2026-11-14T20:03+09:00"
     },
     {
      "title": "2つの戦争進めるロシア、対欧州「ハイブリッド戦」は危険な新段階",
@@ -346,7 +346,14 @@
    "at": "2026-11-14T05:01+09:00"
   }
  ],
- "outage": [],
+ "outage": [
+  {
+   "title": "南海高野線で停電 約3時間運転見合わせ 堺東駅前のバス停やタクシー乗り場に長い列 帰宅客ら約7万人に影響 原因は急行列車の故障（関西テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FQU15b2NkaWNIZUxWdWRtMmktN0NXQkJ5SnlzcjRLaDluV0xKX2hNbjhQZlkyMlJaRGFQTU1vaEg1Nk1iZmtoY1FMUmxGc1R6SUh1ZzJjaVN0NmU0SUNhVUg4OEFWWGo3VDVDc0Iyb3FMQkRvQVE2bjNtTUZGNG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T07:53+09:00"
+  }
+ ],
  "japan": [],
  "cyber": [
   {
@@ -440,28 +447,21 @@
    "at": "2026-11-14T16:13+09:00"
   }
  ],
- "osaka": [
-  {
-   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DLThRNnk2VzNfLVVBX0lqWFpPQmxLMVJPZE9pVzFLOGhJLVFzNFVnZEFSaDRpa3FMRnRyaDJqQWpuWURsSWs5STNSQjhDSXV2R0N2RS1sdmFhNmZ1QWpqVXRFUQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-14T11:09+09:00"
-  }
- ],
+ "osaka": [],
  "world": [
-  {
-   "title": "ロシア 米ウクライナとの協議でも東欧のNATO軍撤退を再び要求 (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FSDZDVzlmMDVQazBYS2V3UW95Q3h4cnFlUmZsWGpmdXVWYmJMN20zdkJyQ20yMEF5clF1VnktX1ZVc3pkWW1CZHROWFBVZVpsZENPb3VUM0lBYnRqYVE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-14T21:15+09:00",
-   "topic": "欧州・NATO"
-  },
   {
    "title": "ロシアで2日間にわたり車両爆発が相次ぐ…軍将校が死亡、親ロシア派の人物が負傷 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xQmN1SjBxeTRXVzRTeE1qLTdLeHJOQWZUQkJOeDYwN1dlOTRRc2gxR2R6UVBqX192dUtyd1lnUmYzZDVjMkNOQjE5ZFY1S05GdDlBUFlObzR1TU1XcFRJeEdxbw?oc=5",
    "source": "재경일보",
    "at": "2026-11-14T20:55+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "ロシア 米ウクライナとの協議でも東欧のNATO軍撤退を再び要求 (2026年11月14日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FSDZDVzlmMDVQazBYS2V3UW95Q3h4cnFlUmZsWGpmdXVWYmJMN20zdkJyQ20yMEF5clF1VnktX1ZVc3pkWW1CZHROWFBVZVpsZENPb3VUM0lBYnRqYVE?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-14T20:03+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "イラン国連大使；「米は外交的解決を約束するなら直ちに侵略と封鎖を終止すべき」",
@@ -569,13 +569,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "中国、原潜ミサイル発射実験 太平洋に着弾、日本は懸念伝達",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QX0dDRFROb2REbUVJS21ZXzBrd3R4eTNpMW01ZlZqSWViUWh3cl8wZWgzblJfWnN0UGwweGNBTGVMUWRGQmlieGRrWXBINzIyemt2Mm1wVElnRWxxQnRnYTBSazVUV0ZLR28wbnBnSQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-14T10:00+09:00",
-   "topic": "中国・台湾"
-  },
-  {
    "title": "ロシア、和平協議でNATOに東側部隊の撤退を要求",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OZjMtcEx2V1BlWi1JZTdxWlFGS3RtU3EyUkxJemNHN0xET2o4N1QyTWJRcEFWc1ZhSUVuQTRBNDh3djhrU1lzX1RNQ0phVy1VRm50VXREYVBoX1ZjZzFBWnYteWtvWVhVMnhIVEpn?oc=5",
    "source": "Mezha.net",
@@ -588,12 +581,20 @@
    "source": "매일경제",
    "at": "2026-11-14T09:23+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮、東海岸に新たな海軍基地…金正恩総書記が建設現場を視察",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85V1pIRFdjeGZnQ3VfQlRWU1NiWGcwZl9xdGJWbG43c2MyWVdQY1RpX1FZamNSV1pKT2t1UnBDUlpBY1hoTW5KR3VwRGdIeFRNbGp5YWxIVUJfQ25f0gFUQVVfeXFMTTFYc1ZfSHFjeDZPV1B3dXJNYXQ3SzRoWnMzREFURGdnMVljWFo4T0ktY0JmWlVUckNaM0YxT0dnRjlYSXp6Q2JqLWpmWk1DMXlhU19r?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-14T08:12+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
+    "停電の報道（南海高野線で停電 約3時間運転見合わせ 堺東駅前のバス停やタ）",
     "「Microsoftは、OutlookとTeamsを停止させた世界的な障害の原因を」"
    ]
   },
@@ -607,7 +608,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」3件",
-    "中国・台湾：「ミサイル」「封鎖」2件",
+    "中国・台湾：「封鎖」1件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「爆破予告」1件"
