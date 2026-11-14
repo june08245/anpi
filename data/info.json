@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:30+09:00",
+ "updated": "2026-11-15T05:37+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -363,6 +363,12 @@
    "at": "2026-11-15T05:00+09:00"
   },
   {
+   "title": "全米４時間離陸停止 「通信障害」 １万６０００便に影響",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92emJDejJxX3RtbGdzaXZUVGVhY1V6bnRyNlJ5dmRzb1N5MEZaYXpZMVJBT1FKSjVUZHdLbEYwdnFjcGx5QzBVMHQ3MTlPckF6T3FjZnB5WlBfb0FXbkt3WFZjQQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-15T05:00+09:00"
+  },
+  {
    "title": "米FAA、全米の空港に地上待機命令 管制施設の通信障害で大規模な遅延・欠航の見込み",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DMlh1M21aNkdZTVNXcklpM045Z2MtX2pmeEViYTNDMXVRaGRtcnVadEZrQWpHbllTOFBwUnQ0bzlrX1B3aFZLTzNyYmVXRUxRek5QTkZOVQ?oc=5",
    "source": "TRAICY（トライシー）",
@@ -439,15 +445,16 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WYmhYZVlqMXZvVEF0b1NZVWJTUzNqa005RUNtVmh6cW4wczFOaVdGdFMzanU2Rmd3cV9WRXhNZFV2VlpXTTBDM3dSbw?oc=5",
    "source": "TVer",
    "at": "2026-11-14T18:18+09:00"
-  },
-  {
-   "title": "2001年同時多発テロ以来…全米の空港で4時間の「地上待機命令」 約8000便欠航150万人に影響 大規模な通信障害は老朽化が原因 混乱続く",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93Y0NGVDZjZEh3NldMQkthLVRDd0pSTUNQaWVwVFBzc2xNejMzd014WWdRQ2lRSFo5S3hMNUhKeWRacVlTbEhHa1phS2RQWVlIQ0N2ZGE5OA?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-14T17:55+09:00"
   }
  ],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DLThRNnk2VzNfLVVBX0lqWFpPQmxLMVJPZE9pVzFLOGhJLVFzNFVnZEFSaDRpa3FMRnRyaDJqQWpuWURsSWs5STNSQjhDSXV2R0N2RS1sdmFhNmZ1QWpqVXRFUQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-14T11:09+09:00"
+  }
+ ],
  "world": [
   {
    "title": "ウクライナ軍はロシアの石油施設と空軍基地を攻撃した",
