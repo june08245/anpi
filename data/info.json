@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:15+09:00",
+ "updated": "2026-11-14T16:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -343,6 +343,18 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフトで大規模通信障害…政府や企業のシステムに影響も",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01NFg3MzhBcXdiZ1EteU1TOUdUUGxPZ0ZtV3NlXzVHQWNVdE4zQWJYWVFuSWYxUkpBSFFqN0RrbVZDYkt1RVZBb3UxQQ?oc=5",
+   "source": "TVer",
+   "at": "2026-11-14T16:18+09:00"
+  },
+  {
+   "title": "復旧：Microsoft 365大規模障害が約35時間ぶりに復旧、原因はネットワーク増強時の問題とMicrosoft（テクノエッジ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5eWh5OU0yUG03Rm53VUt2OTByWm1NaEZlUlRxVTBxZGRKM1llNTc5ZDJ1eFN1WWtHSi1VRnBTbmRrUndvZTVsRU9JVGYtTWRVcDlfbThNUUZEY0tsb1IxUklHUmFPcVg5THFCRFgtQUZ0ZzBqT3ZNMXFtY3lPaXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T15:58+09:00"
+  },
+  {
    "title": "マイクロソフト Outlookなどの大規模障害 全面復旧と発表 最新の国際ニュース【随時更新】",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJWNDMwWThLUnUzLTdYMnFqTEZXOGtJeXZZRG1oWU5xeGhCSzB3RG1OQlIzQ05sblR1VXhRWDRMM1dENHBvS1BpUEhLZUd4TmhERWhMT2RyMlVXZVg4V2ttVzlkWUF4VzZsdVVCRzIxSlo4MDgwRkJvNkJIQ1M1S0lYOWFxTlU5OF9UazFnRmlvbVFmYlhOR05acFlYNGhxbjNlWHFwSGhuZE1vUV8zaHlOWWI?oc=5",
    "source": "ABEMA",
@@ -353,6 +365,12 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlBWaUNRd19La1ZFOG9vX2xtdDYtYmlOTy1yY3hNT0ZkSm1PN1h1ZWNYSXNiejhjRkFjNUtTSDQxcEVKYkdMa2x0c2VrZTU4UHNYUEsxVF9hRzVNUTFGWDZSX1NTUGp3XzA4NFo5VWxMbU1BYVBiTWV4MFU2VmZCZk1QQjc?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-14T15:26+09:00"
+  },
+  {
+   "title": "マイクロソフト障害が全面復旧 メールやAI、ほぼ丸1日経て",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aeHhkczlQNUVZNG9FaEZGSEVLZjVLMVJNM2kwdWthcVdGbHRFcTJpYndoN01hUHVEeDFNa3RPLU0zaDRyMEhSWjJ6VnljTUZ3TXV5SmQzUVVBcFhUYnQ0SmpzOHpJUF9lSFpqZw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-14T15:01+09:00"
   },
   {
    "title": "米MS、個人向け障害復旧 企業向けは作業継続",
@@ -413,24 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQUjg0VXRkN2pUQUNKb1hvSHR0QkMzVmtXSTYwS3RUeEZseld6QTE2VUY5VDFtTzlVTXh1SWViNmVfZHZFODhFNjc0MFFwNVg5MDZGRW04OGRqYVBzSHB4aU9wMnplTjhUUzhtNmRZZ2g?oc=5",
    "source": "Infoseek",
    "at": "2026-11-14T11:22+09:00"
-  },
-  {
-   "title": "全米で航空機の運航停止、「通信障害」の問題で 4時間あまり後に解除",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nWjJBOVBMZUE4ajVMMjNGZkFTemlnMm1BQ3M2YXhlWUJ4bUxNLVU1T1VyTktiV1dUeFQtdE5fWEdlLTdTc0lMR2RkeDlBd2Jj?oc=5",
-   "source": "CNN",
-   "at": "2026-11-14T11:04+09:00"
-  },
-  {
-   "title": "全米の航空機地上待機命令が解除 通信障害原因、サイバー攻撃否定 | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNZnhYcWZ1WkxzWVJFQ0JkaVo5Rk5RSHhObW9Md1dUWTZYZE1IY0x1emdzNVFIdGtwTFZNa3F1TGxnd2hBSmxKRl9zcTAwbkR1WjZGM1B2eVFVLWxGX1NNR1l4djRtR2EwUkNwOHNDaF9PQUJzZzhMZTRCcF9XWXRaS2dJaThiN3lJWlB0ZEZ3em9ud3pNNDRDSnMyT3dIY3pHNVVDUFVjLUJXTFdRUFR2V0E5UUtOR2YycmMtNVpUZXVSdGIzREwwdUFBRmt3Y1lXYnNxaFp6WGpzcW1weFJoZHdYU0ZJdDNqQlBuV25YOV9hcmxNQnNGaWxYQmlscHJVLUJfMHFxV0tjdFVRcENzZzZzTEZoSldLa3Ftb1dtMVk2LVdtNFpyTjhfYklTbGdxX0R1enpNeFRCMWZPSWV0VGNLdlZSa1dKeUlBU201Z3pCa2tBaEUwR2FkZXFzXzgwcVhqdmltVVBmcnllSFBnY3N6cThDOW1XUTBKTEZiVEFIejZfTUFUVXk4TUNkblVsY0N1TkpaQlNwUURodDRqZUxaVjY4eEZTVUFfWk5vdzl0TU5wYWFJM1pNSVpjdjJJZHpEVnNTOVlvNFBNMURQVFBaNkZybmJvREE1UGRKOA?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-14T11:02+09:00"
-  },
-  {
-   "title": "両陛下が「海づくり大会」で大阪入り サイバー攻撃で予定変更も（毎日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGcldHZlBlNjZ2LTBMdUFBVTVfdHAtSnBfcXNramZfUXE3TDYwNDBzZ3Rpc3ZsVEphTW9JVnh1VDl2Zzh0MW4zR0lmV24zR2Q3Z29kaEFhNEY4Q3V2a1BkZE5BTktyZlAzUWtRa28xQ2lRRG1rT0o2cnpKYWN3TnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T15:50+09:00"
   }
  ],
  "osaka": [],
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト、大規模システム障害が完全復旧（2026年11月13日掲載）」"
+    "「マイクロソフトで大規模通信障害…政府や企業のシステムに影響も」"
    ]
   },
   "japan": {
