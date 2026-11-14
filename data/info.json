@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:00+09:00",
+ "updated": "2026-11-14T17:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "脱北者が語る北朝鮮の“サイバー部隊” 「1人の戦闘員も派遣せず、国家基盤を破壊できる」ネット黎明期に創設 中学から選抜しエリートが部隊へ【news23】（TBS NEWS DIG Powered by JNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYmFzT2Jsbm1JR0psazdsV2xNZkR3YzN4N1RFUDV4T0M5VVF5TkxqendmamlVYTBRTXQxYXU4ODhCX09MRmZHWDdMeE9VS1c2b2Q3U3B3WE9BbGZydVJiRUhnQXc4Qm1QckJqMWpfbVZLeWQtdTBsclhwWXExZ2c?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-14T16:55+09:00"
+    },
+    {
      "title": "米中露首脳会談、19日開催へ 米高官、トランプ氏と北朝鮮との対話「計画ない」",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGFaNFVmVmxQWVY2SlN1ZjFYMnB1cGhkeENLMWVTTWZzdXlkbGJQR0FsMTFMWXJUZ1ZrTVFLdWZFMlp1eVBnOUszN3BBR3E2Q1RtZ2E3Umkxc3JoNGVJOFhSM3c0Vl84eFdtUWxCOGU4bUhOQVUzN1JFczd6UkFuUlNseTFGMTBOLW5Hbg?oc=5",
      "source": "産経ニュース",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYc1RqQTE1ZjZCdWVNMzMyUHlFamh6dlREQkZCYXpCbTRaTm5FVFNHWFFDZkhxc2s3bVVoUE9wdkpkWEdkSDhiMVVvWGlXb1YtZ2dteWdBNV9vTTFzcVdMYUJFcWJ0TTR2TEtpVGM2dU1hdzYxamxsM01tUmw5c1U?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-14T05:21+09:00"
-    },
-    {
-     "title": "韓国側を向く砲口 北朝鮮、軍事境界線に自走砲",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZMlY1OGgzZ3FnV0k1NS1ZZThtM2ZiNkVaeXR5cEx4VG5mVnFkN3Z0eVEzWE14QnNKNGNEZ2hvdFh0Y0VjU0JYS2RMQ3BTS2Q0QzB1aW1MNmh1ZmdlSGIydGxqSnpvNVpl?oc=5",
-     "source": "毎日新聞",
-     "at": "2026-11-14T02:01+09:00"
     }
    ]
   },
@@ -343,6 +343,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "【情報まとめ】マイクロソフト 大規模障害「全面的に復旧した」と発表 すべての製品の障害は解消",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-14T16:40+09:00"
+  },
+  {
    "title": "全米空港を襲った大規模通信障害――老朽化する社会インフラに潜む危機｜嗣江建栄",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwZlgtZWYzbWhVMEhqT1N6djZScGkwRFZ4Z3E1Zk11Yi1ZNzhlWHdLZW10N25rbFJQMWd6N0ZOQTFyelF0aXNscXRtRG5RaGJDakI5V0Q1ckUtOE1rRzBOZkhtS19DOFk?oc=5",
    "source": "JIJICO",
@@ -425,16 +431,24 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdWZyc3htNk5EeS1SQ1NBNnlFM0MyOWNXWXRYZnlTdnlmS3pRMzZ5cnFjZHh4UDVubXpNanlOV0lLaVdkQ1lZcUlLZmYtdjkwczNkWmVyTGw5eUJRc0VOTkFNU2NHMkFFZUE?oc=5",
    "source": "PR TIMES",
    "at": "2026-11-14T11:51+09:00"
-  },
-  {
-   "title": "アメリカの全空港「管制施設の通信システム障害」で離陸停止措置、４時間後に通信復旧し運航再開",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQUjg0VXRkN2pUQUNKb1hvSHR0QkMzVmtXSTYwS3RUeEZseld6QTE2VUY5VDFtTzlVTXh1SWViNmVfZHZFODhFNjc0MFFwNVg5MDZGRW04OGRqYVBzSHB4aU9wMnplTjhUUzhtNmRZZ2g?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-14T11:22+09:00"
   }
  ],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DLThRNnk2VzNfLVVBX0lqWFpPQmxLMVJPZE9pVzFLOGhJLVFzNFVnZEFSaDRpa3FMRnRyaDJqQWpuWURsSWs5STNSQjhDSXV2R0N2RS1sdmFhNmZ1QWpqVXRFUQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-14T11:09+09:00"
+  }
+ ],
  "world": [
+  {
+   "title": "脱北者が語る北朝鮮の“サイバー部隊” 「1人の戦闘員も派遣せず、国家基盤を破壊できる」ネット黎明期に創設 中学から選抜しエリートが部隊へ【news23】（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYmFzT2Jsbm1JR0psazdsV2xNZkR3YzN4N1RFUDV4T0M5VVF5TkxqendmamlVYTBRTXQxYXU4ODhCX09MRmZHWDdMeE9VS1c2b2Q3U3B3WE9BbGZydVJiRUhnQXc4Qm1QckJqMWpfbVZLeWQtdTBsclhwWXExZ2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T16:55+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "米軍、イランによるバーレーンのレーダー攻撃否定 「無人機撃墜」",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Uem83bG45SjIzelpQRkstVGlwU2lVbjRUQjFDa2M1SE1ycmlqd3N6dlp6c3VJNXhfTFduTWZRajNyMmthV0ZNOHFvS1U4a1FNNnZNM3lQVWIwUQ?oc=5",
@@ -566,13 +580,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYc1RqQTE1ZjZCdWVNMzMyUHlFamh6dlREQkZCYXpCbTRaTm5FVFNHWFFDZkhxc2s3bVVoUE9wdkpkWEdkSDhiMVVvWGlXb1YtZ2dteWdBNV9vTTFzcVdMYUJFcWJ0TTR2TEtpVGM2dU1hdzYxamxsM01tUmw5c1U?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-14T05:21+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "韓国側を向く砲口 北朝鮮、軍事境界線に自走砲",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZMlY1OGgzZ3FnV0k1NS1ZZThtM2ZiNkVaeXR5cEx4VG5mVnFkN3Z0eVEzWE14QnNKNGNEZ2hvdFh0Y0VjU0JYS2RMQ3BTS2Q0QzB1aW1MNmh1ZmdlSGIydGxqSnpvNVpl?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-14T02:01+09:00",
    "topic": "北朝鮮"
   }
  ],
