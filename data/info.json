@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:00+09:00",
+ "updated": "2026-11-14T12:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -343,6 +343,24 @@
  "japan": [],
  "cyber": [
   {
+   "title": "【中継】全米の空港で大規模通信障害 航空機の地上待機命令…解除される 1万4000便超が遅延・欠航",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mSk1fRmJ2eFRSWkNnNGdHZTk3UE9iRlhuVTBjal9PRkw0bUlodzRnbkR5ZlBYdy1DNzQ0dEExYzk3YWttMGJXUDdOU1lJNm1kMFhZVVk5VmxObFVESDVmMDVNQnpnaldTb2FtaU5n?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-14T12:04+09:00"
+  },
+  {
+   "title": "航空機の運航に関わる通信障害で、何が最も心配ですか？",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sTERrSzVLSS1vN0c5NFU2TDVtbHF4OXgwNi1KWl9GOXVJWFVwUzU3X0oxLWw1VUtlVXp6eWpUSTBFZzF2ZXFMZ1RzMGo?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T12:00+09:00"
+  },
+  {
+   "title": "マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QTWg3UDJoWC1VZGpvMTJnbzRvTURNTE9KYnZkS2l4TUdHelNYUWEzOGNzY3pmSnduTXFWMmhGdTVIR0t4Y05MY3lwOEI4c0UwN2Vjem93?oc=5",
+   "source": "KSBニュース",
+   "at": "2026-11-14T11:56+09:00"
+  },
+  {
    "title": "アメリカの全空港「管制施設の通信システム障害」で離陸停止措置、４時間後に通信復旧し運航再開",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQUjg0VXRkN2pUQUNKb1hvSHR0QkMzVmtXSTYwS3RUeEZseld6QTE2VUY5VDFtTzlVTXh1SWViNmVfZHZFODhFNjc0MFFwNVg5MDZGRW04OGRqYVBzSHB4aU9wMnplTjhUUzhtNmRZZ2g?oc=5",
    "source": "Infoseek",
@@ -365,12 +383,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNczBmbWg4TTNnYVUtQzBpNXBWQkU5d0EwRTh5a2xrTHVSblJqdVRmNmdLWDUtTDhQTUFUc2JPc0l4RVhsbmk4VF9CT3ZMUHhLa1A2Uzc2N1psUzZncVc4ZEVuR1JYbXVsUXFydA?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-14T10:55+09:00"
-  },
-  {
-   "title": "航空機の通信障害で、何が最も心配ですか？",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TUDFaTTlqeEJXZmxCa0xxLW5VaEI2YVBadUg4RHBXYWZsWTd4WlFnalVLYmJRR3E0cUttbC12TWJlUEp2RndFUkd2alk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T10:35+09:00"
   },
   {
    "title": "通信障害を受け、FAAが全米の空港で出発停止措置",
@@ -419,18 +431,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RcDRnSHRXNlNZQm9NYnBKRnpIcGtZdzhZQmJfSUlCcVV3Tkc1WlBKZE41M2tRb0tTX3RVTkZNbUU2UlRVSzI5Ymlrdm1VeTFUQ0M4bVdSUkgxSmRTbkRPbHNEdzI1RnVXZGxrUGM3di1vcHlw?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-14T09:35+09:00"
-  },
-  {
-   "title": "米気象局、ウェブサイト情報にアクセスできないなど通信障害発生（2026年11月13日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmJKazF1eFppYW1Hd2E2V1I2V2ZnR2x3ckpZUHdzM0NWaEx1WDR4VWx3SFQ0YWVJYmVvZlZvbHY1a0NWLWw4SUtkRDctOG50alRFaE85TW5uSkdvd2hNVHR3M25teGd5RmExSzlkWGM3cldjeXpDbnFaX1JPd0x4VDQwWUQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-14T09:31+09:00"
-  },
-  {
-   "title": "米全空港で離陸停止 通信障害でFAA指示 サイバー攻撃否定",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEEtdl9yQjF1X2VkR05XY1V5NnJQSVFNdFdZSjVrbVBMQ3REY2R5WjM3UUxLN0hsZnRCWW9GMFhMYVl3a2ZLdkU3TFJtX1BDaHJnc1Fnb1h4dmxrdjRRZ2hxWFZzYUNhLUtLRFNNYVRtbS00a25MM2FPMC02WnRzWjBMZGxwZXEx0gGcAUFVX3lxTE50MThTcDVMYTQ2TTNzbE9SVkNGNHBjT3hCeldBdXVYS1JxV1hkNkJuZi1paC1TenNobF9MRXR1RDA5T3cyaFVDQm41TmtGY0ZMSHp6RUhZVjdNZ3A3ZlJWbEFQNzYtT1h1WG1iSGdYVUdWWFlsRzdQWUJMbDhvT3c0R2NNZlc4b0tTYVM0MHdvOEJZQi1vZkVEbkV0Sw?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-14T09:17+09:00"
   }
  ],
  "osaka": [],
@@ -580,7 +580,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「米マイクロソフトのロゴ＝13日（ロイター＝共同） - 米MS、大規模障害について」"
+    "「マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」"
    ]
   },
   "japan": {
