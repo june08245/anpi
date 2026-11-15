@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:30+09:00",
+ "updated": "2026-11-15T10:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -283,9 +283,9 @@
     },
     {
      "title": "アメリカ側がウクライナに「NATO加盟と引き換えにドンバス撤退」初めて打診 ゼレンスキー大統領明らかに",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OV3B4b3E3WWdlMVVOeUxmQUNELXZkcFZ2MW01VW5wSnVKdkFkTFRqZl92T0FNZ2V0UU1ucXBYc1FVUG1RR2RzS1htaFlSaTc0S0Qwd2VSSmxYOHN0ekJkVXJheWNOUFBXRUxuQUZ3T21uUlNY?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-14T23:32+09:00"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMEV1T0J6VFc0YVhEa2xnMldjTEl4cmMzNjJKTVpiUmUzdHpIa21Bdk1KSnh3b0FUX24yQ1pnZEhUVlI4RkZWbEM1ako1d2lDUDloWTZraG1SWWlubGN4UnpIUG9VN2RMWVZKZ1ZYYzdFSWNFamlQeFZrdzV6dk0?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-14T23:31+09:00"
     },
     {
      "title": "ロシア 米ウクライナとの協議でも東欧のNATO軍撤退を再び要求 (2026年11月14日掲載)",
@@ -360,13 +360,20 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
+  }
+ ],
  "cyber": [
   {
-   "title": "ニフティ、@niftyのログインとWebメールが全国で障害 ココログも書けず原因は未公表（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEYll1UXJHZC1PRER6NEpfdmwwVGxXSW5SSHp0TDR2RlFiV0U3aU1peW1aRUI2QlpLWFp5bjV6LW1WTEg4elhnM0pYeFFsNmEya3BIUExjcnpMQjZlNmNGT3NrUDhSajdKd2xEU3lXYWpzQ2ZOSEZCVGFhVDVMLTA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T09:55+09:00"
+   "title": "ニフティ、@niftyのログインとWebメールが全国で障害 ココログも書けず原因は未公表",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NUmEtbWN2cDkxRkw4M3o1WHA0VjlpSFF1QnFBMnhNcFNlWEt3ZkRNeGFtWEFzMkxvb2FsQmRxczRySXlqZ1ZtTzBReGdlTjd2U0dJ?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-15T09:43+09:00"
   },
   {
    "title": "SmackDownスーパースターが通信障害による飛行機の運休により足止めされたと報じられる",
@@ -435,10 +442,10 @@
    "at": "2026-11-15T00:56+09:00"
   },
   {
-   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
-   "source": "GameWith",
-   "at": "2026-11-15T00:06+09:00"
+   "title": "不正アクセスを受けたセガのアーケード向けネットワークサービス「ALL․Net」一部復旧。『オンゲキ』『セガNET麻雀 MJ Arcade』など、一部タイトルが稼働再開",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNnRQX3ByMWpOelI4ZlBsWTQ5OWRCb2RwWHFoaU03LUJtbkUtMHBzVWl1a1c3SjdDcUxsQUV0d05LTVNwVTNwQW16dXhmXzROa1B1aVZ2dEIwRVdxQ3Z2WjNVRHVEZ2ZEdFVqZw?oc=5",
+   "source": "AUTOMATON",
+   "at": "2026-11-15T10:31+09:00"
   },
   {
    "title": "ＧＭＯ黒田朝日 ３人抜きで首位浮上「自分の仕事は１００％できた」 社内では不正アクセス問題も「影響されることなく集中して臨めた」 実業団駅伝デビュー（デイリースポーツ）",
@@ -534,9 +541,9 @@
   },
   {
    "title": "アメリカ側がウクライナに「NATO加盟と引き換えにドンバス撤退」初めて打診 ゼレンスキー大統領明らかに",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OV3B4b3E3WWdlMVVOeUxmQUNELXZkcFZ2MW01VW5wSnVKdkFkTFRqZl92T0FNZ2V0UU1ucXBYc1FVUG1RR2RzS1htaFlSaTc0S0Qwd2VSSmxYOHN0ekJkVXJheWNOUFBXRUxuQUZ3T21uUlNY?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-14T23:32+09:00",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMEV1T0J6VFc0YVhEa2xnMldjTEl4cmMzNjJKTVpiUmUzdHpIa21Bdk1KSnh3b0FUX24yQ1pnZEhUVlI4RkZWbEM1ako1d2lDUDloWTZraG1SWWlubGN4UnpIUG9VN2RMWVZKZ1ZYYzdFSWNFamlQeFZrdzV6dk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T23:31+09:00",
    "topic": "欧州・NATO"
   },
   {
