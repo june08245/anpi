@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T21:45+09:00",
+ "updated": "2026-11-15T22:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "国際的な焦点:イランがバーレーンでの米国レーダーシステム攻撃について発言",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzUwa19XZ2ZBUTJTS2FYR3JzOEZUUGVVdUtXaVBwUHI5aDNIZFRlcWwxQjlETFc4ZUxpNGhtWFJCSWpRNUttVzhzSk0zX2NmeWZFZWhrWVVUcTlCNWU5UzQ3Z0JVNFZEUUwycllIa0U4OWdOMV9VSTBPenZwQm9YMnBCNXZaZFg0TVByOU9vR3FVeElWQTFObWlfOHAtcGhtT3NDbXJPWUI1aC1nMmVSSTM0NHJhTFZFZEQzMw?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-15T21:45+09:00"
+    },
+    {
      "title": "イランがバーレーンの米軍施設を攻撃 湾岸諸国が2カ月ぶり標的に",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSnZDMGRrWW0wdTZOVUcwLVhGT0l3SE9YWFJRblpHYllCaXRMNHZuSWJwZFBhUC0tb0ViMG1YUUlhX2hIS2dXZ0NTekt0Zldldy11YjRBNFRsUmdiQmJUQWlMd3h0RGM?oc=5",
      "source": "朝日新聞",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ZDh0aE1kWFR2LU5BS2dBZ3k2VWVGLS00b015TWI4LVZORGVwczJnS21NRVB5bkVtNWpEYzdFVFlkZy1TSk5BU21JZ3hUY3Nnd0xZSkx1WDc1eVRDMVE?oc=5",
      "source": "ライブドアニュース",
      "at": "2026-11-15T18:30+09:00"
-    },
-    {
-     "title": "イラン、バーレーンの米軍基地へのドローン攻撃を主張",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzkxb1NNWEx3cGZWYURQak1nZmlkdWdzNkhOcEthOGR0UzlpbC0tcDFSYVNfanVoNjN0eGJOaFBtY3RoR3d1UkRlMEZSYUdhMTI5WlNZMXNMWkJxQWV1cVF3bW1Vc3NUSXFWXy1xOHNDbGlqaVZPcXBxbDhYZG9KNXpsQ0lJazFSLTRsV0puLTA5V2hGNkNHV3kyWmg?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-15T17:51+09:00"
     }
    ]
   },
@@ -203,16 +203,16 @@
      "at": "2026-11-15T13:25+09:00"
     },
     {
-     "title": "「軍事での存在感」競う後継者候補ジュエと叔母・金与正…北朝鮮\"最高権力\"の行方は（金賢） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVk9mRElFb0tkSWRYN1ZEelptWlpENFBpakJ6aHhSUE9Nbk05Z05ZSE1MNGI4RktVcVpvVVh3dzlwOXRtWjkzWW5JRHFwcTR4Ull2ZTNxanhuS3BnQTNIV3htSmNZU0xfVzdGVnZ1d3B1YUhyZGlIc2xON05XZDNHUWpGY0ZSUVhX?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-15T06:11+09:00"
-    },
-    {
      "title": "金与正氏、李在明大統領に容赦なき罵倒！融和政策は空回り、北朝鮮ミサイルはウクライナで進化か（高英起） - エキスパート",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2VlSGM0UDVmYXlid2g1X3FpMHN2b2lVWGg4ZldkeU5kNUtKVjNOQktFY19JQ3BoMzNZUTdpX0lkTDlrTDQyeFlGVlBVYXRiS1I0NHlVeHR3bG9BdEplbUJ4OG0zemEweUFKZjlZMlAwVTZMbnkwMm0ybXdWM0ZQQktLeUYya1A4?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-15T06:05+09:00"
+    },
+    {
+     "title": "「軍事での存在感」競う後継者候補ジュエと叔母・金与正…北朝鮮”最高権力”の行方は",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MQU1QcF82blV2ZFl1dFQzWmctaG1UamRLbmJqZUpqQVlBM1NqNjQ1cjYweHluUTRfN1ZRQXdXWS1lSzYyN0UwcUxqRWxSNlFCV1o5OS0tYXFLSG9rUkd0V1lPQWo2NFp6RHMxZHkwUkVaQWlkOVVR0gF8QVVfeXFMT21IczN0RHJjUkozY0hsSjZqWlMyRHBTd29tc2NJT2RNeEhZYkxEVXBYenAxbEpDM2diUjRsRmRXaDg5UEtFSVh0TjJCTm1zT2pZc0NOTEtVbnpVMFBQc05hYmRiWFRwVmdzY011QjluTTZrZmwxZ29ISGUyWQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-15T05:47+09:00"
     }
    ]
   },
@@ -294,7 +294,7 @@
     },
     {
      "title": "アメリカ側がウクライナに「NATO加盟と引き換えにドンバス撤退」初めて打診 ゼレンスキー大統領明らかに",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaG5DcjhKb09EdFkwRHA0TEo1YnhGMHU3VnBkRUhJbFljM2hTbDVUdjhGRGpUalgxYkstcV9OYmI0bmR6N2tQd3Z3ZFhwOGVGQ1l4YjRxX3FDZEdXNEt5X3hKRklsaG5GVlJ5REZPM1M?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OV3B4b3E3WWdlMVVOeUxmQUNELXZkcFZ2MW01VW5wSnVKdkFkTFRqZl92T0FNZ2V0UU1ucXBYc1FVUG1RR2RzS1htaFlSaTc0S0Qwd2VSSmxYOHN0ekJkVXJheWNOUFBXRUxuQUZ3T21uUlNY?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-14T23:32+09:00"
     }
@@ -353,9 +353,27 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WY0dubkdYSVYxVXhuOFdteTEyMnA5UVdrSnpmYVQwYkhNaWpadGtGLW83enh3dkozZ2VhcEdkaWJJNDBO?oc=5",
    "source": "@DIME アットダイム",
    "at": "2026-11-15T21:00+09:00"
+  },
+  {
+   "title": "【2022年版】もしも「君の名は」が実在したら...【NHKニュース・Jアラートシミュレーション】 Alex De Minaur (QgXFvDvw4i)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGhmbDBSaHlCZzJHVGtLNU1BbFNySWxZb0hVcnFnTTVvYjBzRkpsT1kyQklUSm1idThDWGlVaEljc281SlRvVlZRY1B3LTJnZTFDWWVIeW1HdW9qSERoYS1uOFlTQjczajF3dEVLUWFQM2tjYTZ6MXdFMjdoRkhwSkxBcw?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-15T11:38+09:00"
+  },
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "2001年同時多発テロ以来…全米の空港で4時間の「地上待機命令」 約8000便欠航150万人に影響 大規模な通信障害は老朽化が原因 混乱続く",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZdjNlVXNwd01kOHBPdHhmUWExcWswOXBPcFctQ2FkRkY0LS1xQ1phMzZvSmk3dTV2SmhHeE1xUk5qcjgtVnk1eDJKejVpQ2lJUHp6Zm4yZldfNFhtb3kyQW1DMXozNWc?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-15T21:10+09:00"
+  },
   {
    "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSG5WRHNlMlliZDBxbGo0dVVPSHJ4TUctTV9JOGlGcXV3SnByVllKNm5oVzVCSzdsd1JDZ21XRDg5eUZ0X3dzVjR5SWt6WVQ4NTM3WmVrM1JSNVRwc1JwUDVlVmdiV1NzbDFiSkdXeXFzSEVybWtmV1JSb1ZKQjA?oc=5",
@@ -411,12 +429,6 @@
    "at": "2026-11-15T15:30+09:00"
   },
   {
-   "title": "米航空機 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HZDA0c2w3NF9ON2NWaThldkJTMEN5VVlHSG10YUN3aWtmbzJlWWJFOWFHcFo3cGdYMUE1RWp5R1BmcW9NcnNMQk5ZaHFsNl9iUk1WbE9lM1NFVk9TSl9sVjJsdUVLQm9IVmJTLTZnWjZfTlk?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-15T12:53+09:00"
-  },
-  {
    "title": "EC事業者向け受注管理システム「GoQSystem」、サイバー攻撃で約437万人の個人情報漏洩の恐れ",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3hfT3FEZmhfVnBIZnMtQmRMVnJHcUFEdkd4cFBZTER0X1NSb2c1ZTgydmdqUVZVTVRvZVJaY0J3RDA5NG5hanRTY1pnRUlOU0JNdzlkeHRpMTkya3NzNDNiZlpmSHR1anVkbXVDU2NIcXM3amZWaENJRUdkeU9SS2M5S2RiZ1lVWHo2cVdUZThUUVdMS3c?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -435,20 +447,27 @@
    "at": "2026-11-15T20:49+09:00"
   },
   {
+   "title": "利用者を学生と教職員に限定して開館した大阪公立大森之宮キャンパスの図書館＝9日午後、大阪市 - 【不正アクセス】データの金庫、神話揺らぐ 波状攻撃、対策見直し急務 - 写真・画像(3/3)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3Y2s1NTZDdjBnLUFtMU9NZlpoTkgwcTBQbkdEeFVTNzEwWkVYWmk4VGtlak1CSVo4cVk1MkszcU93bl9zdG5QVDQ2N0RicHFXTWhxdHVyVQ?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-15T20:20+09:00"
+  },
+  {
    "title": "サイバー攻撃された病院を視察 上野厚生労働大臣「対策を徹底していく」 外部接続の集約化への支援や専門人材の育成など 来年度予算の概算要求で約137億円計上",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13b3R1MEJpeGVhdXI5MENENUlnMFhldGxGLVE0ckFrbHdTaG9UV0JDX2NvS0lSZENERTZUTlo0ZEh5aWx5TTUwUXlJaVAtVzhSY0pRV3lXVQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-15T19:29+09:00"
-  },
-  {
-   "title": "福井 不正アクセスの影響でデジタル通貨サービスを一時停止",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aN18tdEpHak5OSUZMYVhERUJUdlp6YlI1TlJrQms0aUhHTTg0NnZWVjZFNksyczV1b3JLRm5JVVBLdG42VDRmeHF6TU5hdHkzNW5PcHdVOEF5RjV5LVM0?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-15T18:52+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "国際的な焦点:イランがバーレーンでの米国レーダーシステム攻撃について発言",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzUwa19XZ2ZBUTJTS2FYR3JzOEZUUGVVdUtXaVBwUHI5aDNIZFRlcWwxQjlETFc4ZUxpNGhtWFJCSWpRNUttVzhzSk0zX2NmeWZFZWhrWVVUcTlCNWU5UzQ3Z0JVNFZEUUwycllIa0U4OWdOMV9VSTBPenZwQm9YMnBCNXZaZFg0TVByOU9vR3FVeElWQTFObWlfOHAtcGhtT3NDbXJPWUI1aC1nMmVSSTM0NHJhTFZFZEQzMw?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-15T21:45+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "イランがバーレーンの米軍施設を攻撃 湾岸諸国が2カ月ぶり標的に",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSnZDMGRrWW0wdTZOVUcwLVhGT0l3SE9YWFJRblpHYllCaXRMNHZuSWJwZFBhUC0tb0ViMG1YUUlhX2hIS2dXZ0NTekt0Zldldy11YjRBNFRsUmdiQmJUQWlMd3h0RGM?oc=5",
@@ -489,13 +508,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ZDh0aE1kWFR2LU5BS2dBZ3k2VWVGLS00b015TWI4LVZORGVwczJnS21NRVB5bkVtNWpEYzdFVFlkZy1TSk5BU21JZ3hUY3Nnd0xZSkx1WDc1eVRDMVE?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-15T18:30+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イラン、バーレーンの米軍基地へのドローン攻撃を主張",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzkxb1NNWEx3cGZWYURQak1nZmlkdWdzNkhOcEthOGR0UzlpbC0tcDFSYVNfanVoNjN0eGJOaFBtY3RoR3d1UkRlMEZSYUdhMTI5WlNZMXNMWkJxQWV1cVF3bW1Vc3NUSXFWXy1xOHNDbGlqaVZPcXBxbDhYZG9KNXpsQ0lJazFSLTRsV0puLTA5V2hGNkNHV3kyWmg?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-15T17:51+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -612,10 +624,10 @@
    ],
    "items": [
     {
-     "title": "イランがバーレーンの米軍施設を攻撃 湾岸諸国が2カ月ぶり標的に",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSnZDMGRrWW0wdTZOVUcwLVhGT0l3SE9YWFJRblpHYllCaXRMNHZuSWJwZFBhUC0tb0ViMG1YUUlhX2hIS2dXZ0NTekt0Zldldy11YjRBNFRsUmdiQmJUQWlMd3h0RGM?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-15T20:32+09:00"
+     "title": "国際的な焦点:イランがバーレーンでの米国レーダーシステム攻撃について発言",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzUwa19XZ2ZBUTJTS2FYR3JzOEZUUGVVdUtXaVBwUHI5aDNIZFRlcWwxQjlETFc4ZUxpNGhtWFJCSWpRNUttVzhzSk0zX2NmeWZFZWhrWVVUcTlCNWU5UzQ3Z0JVNFZEUUwycllIa0U4OWdOMV9VSTBPenZwQm9YMnBCNXZaZFg0TVByOU9vR3FVeElWQTFObWlfOHAtcGhtT3NDbXJPWUI1aC1nMmVSSTM0NHJhTFZFZEQzMw?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-15T21:45+09:00"
     },
     {
      "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
