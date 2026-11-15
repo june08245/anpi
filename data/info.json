@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T21:00+09:00",
+ "updated": "2026-11-15T21:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,9 +137,9 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "高市首相が中国開催APECへ 日中関係に打開策は？「米中露会談」への懸念（2026年11月14日掲載）",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBva0RFbEhwTmwzVUlueXctVktiRVpEX1ZfTnN3eTh2UTlnM2M3M3FEMkpsN1JyTWo0ODJVUjFBTm5iZUF3MnlJUkNnYUY2MG5JVFI4aGFPenkwMkpfY0NrNG1nNTRDV2pxRGNVTFZYRVdPTzJ0Ny1rUGlUX3BQZw?oc=5",
-     "source": "日テレNEWS NNN",
+     "title": "高市首相が中国開催APECへ 日中関係に打開策は？「米中露会談」への懸念（日テレNEWS NNN）",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcG9Wd1kyU3hGeUYwTkdjZmROQkQzY3FibzVwdHFkQkNNWGNzXzAtM1c4WXVqYkhkMEFqV2NKUTMwOUxSZm9ZdjRRMDFQTDUtSERleXpOY3RwOTNuZWI4dEFwd0dqUkNpYlBJZUl1ZTNtUU04dEs0OFExNXJMaGZXYm9ITWpEMVlGMi1XSk5QUXVPd1Y1S1J1allR?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-15T14:00+09:00"
     },
     {
@@ -347,8 +347,21 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "弾道ミサイル攻撃に備えて地下施設が〝命を守る〟施設に！国や自治体が進める「地下施設シェルター化」計画",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WY0dubkdYSVYxVXhuOFdteTEyMnA5UVdrSnpmYVQwYkhNaWpadGtGLW83enh3dkozZ2VhcEdkaWJJNDBO?oc=5",
+   "source": "@DIME アットダイム",
+   "at": "2026-11-15T21:00+09:00"
+  }
+ ],
  "cyber": [
+  {
+   "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmdPUnBNX2NISzl5VVdrWWg5QzctRG56d0RnZERKcndJWU1oRDVhV29QMHZ3MVhoQm45emZXS2ZVVWNJTHhhbWRGZFlXdWl4cXlDX25FWWZ6bTFja0YtZU1HTTB4bWdqdF9oaU94dDB3ajlyYWtKWk5qbEJnU1pDUFpVQzNGcklX0gGOAUFVX3lxTE9MbVd5Z2FlTzlFZURIdGFaRWRZdDJoNVNvNVFJamE4MzMxaEFiUTllQmRkY3lxZGxRWURTckQwTmJoT1RSTzVDb0pWQk1Bb2dTQjBJUVhjSGJHa2hJdzh5ODZseWtCMG90eFZUVF95eGxqci1lV1IxWjQ3M3FTTTFVMW9JVzQ1b2FOeTN6RGc?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-15T20:58+09:00"
+  },
   {
    "title": "Microsoft障害で浮き彫りになった日本のFAX事情：政府は電話やチャットで対応、意外な利用実態も",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82Umt0anhzWEhzdGNJSmJUaVBIS3VoTTlYaWxKVnRWTS1nQ2ZVa192Z0pYaTBVbnJGQmItbHAtUHJFeVZkcXktZkhlUnhTSEE5Q2tGTThhT2JwejZKSWhybkN3enIzVDYzbjJ3eGVJMDc?oc=5",
@@ -404,22 +417,16 @@
    "at": "2026-11-15T12:53+09:00"
   },
   {
-   "title": "米航空便 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdE5pRG41ZlEyQVhRTG9ORTRyNzNCd3J5ekhHMnFPazAybkxuV2dUMzh4c3UyUEk5ZFljU05YNEhXZ3ZYMkc1c0lELVJEQVlmZmdKZzJzTQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-15T12:45+09:00"
+   "title": "EC事業者向け受注管理システム「GoQSystem」、サイバー攻撃で約437万人の個人情報漏洩の恐れ",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3hfT3FEZmhfVnBIZnMtQmRMVnJHcUFEdkd4cFBZTER0X1NSb2c1ZTgydmdqUVZVTVRvZVJaY0J3RDA5NG5hanRTY1pnRUlOU0JNdzlkeHRpMTkya3NzNDNiZlpmSHR1anVkbXVDU2NIcXM3amZWaENJRUdkeU9SS2M5S2RiZ1lVWHo2cVdUZThUUVdMS3c?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-15T21:09+09:00"
   },
   {
-   "title": "NTTドコモで不正アクセスと5G SA通信障害が発生――「複数システムが有機的に連動する際の仕組みを悪用」とはなんなのか：石川温のスマホ業界新聞 - ITmedia Mobile",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UM2ZKQlM0NDJXNHQxV2dobUtIaDJxOXEyalNJWVJJU2NaR2RmVVlDWkZoUERBNG1LN1FERmtKak5fU2tpZ0ZyaFNRQ29vV05tMENjamVacVZNRk1VbUQ5NkZFdjFsTkwxR0J6bmJrMNIBaEFVX3lxTE13aUFmUktub2tGTlUycmhoQ1FfT2JDMTU4OFNOTmpPVlR2VWRhdGViQXA0UHdUdTlFTjA5elNOLThSWHZ4U1YzRkVQQmpidTJWQzZVbjVfWGVpTFR6XzRTZ3N5VWJnN3VT?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-15T12:00+09:00"
-  },
-  {
-   "title": "14日も6000便以上が欠航、7000便以上が遅延 アメリカの空港で混乱続く 航空管制の通信障害で離陸停止措置",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NbThFQXFxYlNVZ0FBN2F0dWlsYUxsdUZjbG00SUJJOEh6YXBpekhlVHVOdGF0c3piMW1jeVRQS0tOb2V6Wkp5MUlYSlVXTUpfQ1dNTjVNV3NmN0xjVDZPdUNLWG5USWFJcnB2ejlB?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-15T11:58+09:00"
+   "title": "福井県「ふくアプリ」、Pokepayへの不正アクセスで一時全面停止 11月15日16時45分に再開、BankPayチャージは停止継続",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVN5RkRGdkpTa25MQXJ6RTJGU25KUUJUamozRk13bnNmb0FJaGhsT0RRVmhxQXF2Z2hGbzZKdmxfM1cxY2dFamxzWnVlaWY3cnRoTWFmOXZ4blo2Yk9EbHZQemZVYllHU1FlanoxdWdxdHJDT240R3JSYU9CcHFDem1jOUdDaDl4bGsxcUZDbGZJeHptclRLNktNSk1fb1pG?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-15T21:00+09:00"
   },
   {
    "title": "GFS Educationの会員サイトに不正アクセス、約11万人の個人情報漏えいのおそれ-同日 GFS監修 投資の達人講座もサイバー攻撃|セキュリティニュースのセキュリティ対策Lab",
@@ -428,16 +435,16 @@
    "at": "2026-11-15T20:49+09:00"
   },
   {
-   "title": "台湾外交部の領事サイトにサイバー攻撃、旅券写真7万2702点が流出 海外の委任状2万6072点も窃取",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWk5Scm42OFQteUJFTXFIT19KNllSU0FZVzZWOW84SkF3alp3blQzU2JyZW1GM3RlSkhMN2tMSnUzQUpuVDdudG5kRmM2ekxGbkFsVGJFMGg2aWwyb3R1bUZRUXF3aGo5WHlPeE5ZMng5ZU1ZaEVhdFZaZ1NEVUNBNmNlSjQ4dS0xMEpLNkdhQnhPNjBWVDlVXzVwUVQxQlpUOVdGQ1dJN2dsTDFr?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-15T20:30+09:00"
+   "title": "サイバー攻撃された病院を視察 上野厚生労働大臣「対策を徹底していく」 外部接続の集約化への支援や専門人材の育成など 来年度予算の概算要求で約137億円計上",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13b3R1MEJpeGVhdXI5MENENUlnMFhldGxGLVE0ckFrbHdTaG9UV0JDX2NvS0lSZENERTZUTlo0ZEh5aWx5TTUwUXlJaVAtVzhSY0pRV3lXVQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-15T19:29+09:00"
   },
   {
-   "title": "本田技研工業（Honda）、個人株主のメールアドレス1,741件が漏えい 電子ギフト委託先が利用するアララへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEN5Vmx3NVVqQldpMk9Pb0tPTWszcUxGZl9rQXVHazc1Ry1vd29wYzdNbUdVMi0ta0ZYbmFlYm1LUUREbEtMOWlyVVVGeGxidFV2OHMyOEhmQ3BLSlJHQy1Ha1R3RFlDdkU1bERJeS0xWU9tQW05ZGtIZ1dQRmdrbU9QaFVwQnk1N3lPa2JjV3N3MEtpaXdPOUE1dzlaV1JWYUpv?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-15T20:00+09:00"
+   "title": "福井 不正アクセスの影響でデジタル通貨サービスを一時停止",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aN18tdEpHak5OSUZMYVhERUJUdlp6YlI1TlJrQms0aUhHTTg0NnZWVjZFNksyczV1b3JLRm5JVVBLdG42VDRmeHF6TU5hdHkzNW5PcHdVOEF5RjV5LVM0?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-15T18:52+09:00"
   }
  ],
  "osaka": [],
@@ -534,9 +541,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "高市首相が中国開催APECへ 日中関係に打開策は？「米中露会談」への懸念（2026年11月14日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBva0RFbEhwTmwzVUlueXctVktiRVpEX1ZfTnN3eTh2UTlnM2M3M3FEMkpsN1JyTWo0ODJVUjFBTm5iZUF3MnlJUkNnYUY2MG5JVFI4aGFPenkwMkpfY0NrNG1nNTRDV2pxRGNVTFZYRVdPTzJ0Ny1rUGlUX3BQZw?oc=5",
-   "source": "日テレNEWS NNN",
+   "title": "高市首相が中国開催APECへ 日中関係に打開策は？「米中露会談」への懸念（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcG9Wd1kyU3hGeUYwTkdjZmROQkQzY3FibzVwdHFkQkNNWGNzXzAtM1c4WXVqYkhkMEFqV2NKUTMwOUxSZm9ZdjRRMDFQTDUtSERleXpOY3RwOTNuZWI4dEFwd0dqUkNpYlBJZUl1ZTNtUU04dEs0OFExNXJMaGZXYm9ITWpEMVlGMi1XSk5QUXVPd1Y1S1J1allR?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-15T14:00+09:00",
    "topic": "中国・台湾"
   },
