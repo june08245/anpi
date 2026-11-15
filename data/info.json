@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:00+09:00",
+ "updated": "2026-11-15T13:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -316,16 +316,16 @@
  ],
  "nankai": [
   {
+   "title": "【避難所設営訓練】兵庫南あわじ市 南海トラフ巨大地震想定 避難所にテントやベッド設置",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtRndkRWNNU0xVTXNPRkNiZjMxQ2pieFJWME5PTWVBRXRNVW5taEcxREZVUlVFZ2xHZDJIUVNvWW1oZ2RhOVVwOFU2UQ?oc=5",
+   "source": "TVer",
+   "at": "2026-11-15T13:06+09:00"
+  },
+  {
    "title": "南海トラフ巨大地震に備えて 静岡県総合防災訓練始まる 2026年は磐田市・袋井市・森町が会場に（テレビ静岡NEWS）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TdzdhaUxJLXQ5ZXRzXzN1YVBQaEg4NnI1R1RmWHVwVENReHR5YndzS2NjMW5Ha0dJVmxhQVFsVnRUTDlSN0d1eUp2UDVQU1VtdGZjLXRxNVBYaUJhc2NzLXNoN0RLM19jcmhkYXlCVUN3SnNQdFRSdUNXaXRORzQ?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-15T12:18+09:00"
-  },
-  {
-   "title": "【避難所設営訓練】兵庫南あわじ市 南海トラフ巨大地震想定 避難所にテントやベッド設置",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TMVFlSEY1SUVwNGx0MDlHaktLbXRSLTl1enU2ZUM1NFdfQUxiT0x1LWVlQ201SUZhTldzMDFTZ3NXbHRfWTE4QlpSRzYtdE9DWWJwTmF5cXg4UHJBcm9YRkN3aXBoMmxPMzhnWFZn?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-15T11:17+09:00"
   },
   {
    "title": "南海トラフ巨大地震想定 高松などで香川県の総合防災訓練",
@@ -360,14 +360,7 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [
-  {
-   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-14T23:13+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "米航空便 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
@@ -406,16 +399,16 @@
    "at": "2026-11-15T10:42+09:00"
   },
   {
-   "title": "ニフティ、@niftyのログインとWebメールが全国で障害 ココログも書けず原因は未公表",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NUmEtbWN2cDkxRkw4M3o1WHA0VjlpSFF1QnFBMnhNcFNlWEt3ZkRNeGFtWEFzMkxvb2FsQmRxczRySXlqZ1ZtTzBReGdlTjd2U0dJ?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-15T09:43+09:00"
+   "title": "ニフティ、@niftyのログインとWebメールが全国で障害 ココログも書けず原因は未公表（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEYll1UXJHZC1PRER6NEpfdmwwVGxXSW5SSHp0TDR2RlFiV0U3aU1peW1aRUI2QlpLWFp5bjV6LW1WTEg4elhnM0pYeFFsNmEya3BIUExjcnpMQjZlNmNGT3NrUDhSajdKd2xEU3lXYWpzQ2ZOSEZCVGFhVDVMLTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T09:55+09:00"
   },
   {
    "title": "全米の空港で一時離陸停止 通信障害により1万6000便に影響・インフラ老朽化が浮き彫りに",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVm96bm1ubFExZUNaZTV0NHpJcGl0ZGx4ZDFJaUlHWkltNWpjblBDd2R0b2hKSGU3Ny12ZVpUQVBrTzFHRGdudU02UFk5S21CZDVz?oc=5",
    "source": "東京報道新聞",
-   "at": "2026-11-15T07:04+09:00"
+   "at": "2026-11-15T07:18+09:00"
   },
   {
    "title": "航空管制システムで通信障害 アメリカの全空港で離陸停止措置",
