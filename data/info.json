@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:15+09:00",
+ "updated": "2026-11-15T13:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-15T09:22:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-15T13:16:00+09:00",
+   "place": "渡島地方東部",
+   "mag": "2.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-15T06:31:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -90,16 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-14T09:02:00+09:00",
-   "place": "浦河沖",
-   "mag": "3.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -150,14 +150,14 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害？暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWRMcjBIbENpYTN2TTZNbHNINFhDWllYUV8xZWpjNjM3d2ctS2JfSi1IdWljUGhtN2NzdlN2VFdXYmFZSEdtaDA1dzdmWWpScm4tTm5rcUlwRG9VNlNXbkZfNjlPMk0?oc=5",
+     "source": "TBS NEWS DIG",
      "at": "2026-11-15T10:00+09:00"
     },
     {
      "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-15T06:00+09:00"
     },
@@ -360,13 +360,20 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "米航空便 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GM2FXdkFWWXMtQ1ZCVVBBczd5dkwwUlNKUHlGWHNlXzNlV1lZZjdsNENGeUZjNGxIMDFreHVWVHIxalU5eEM3bDNaR1lzQ2QwcVhJdDI4TTVQYXhCNWhkNVpnSGZ4TDFUTExKbWh3?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-15T12:45+09:00"
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HZDA0c2w3NF9ON2NWaThldkJTMEN5VVlHSG10YUN3aWtmbzJlWWJFOWFHcFo3cGdYMUE1RWp5R1BmcW9NcnNMQk5ZaHFsNl9iUk1WbE9lM1NFVk9TSl9sVjJsdUVLQm9IVmJTLTZnWjZfTlk?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-15T12:53+09:00"
   },
   {
    "title": "SmackDownスーパースターが通信障害による飛行機の運休により足止めされたと報じられる",
@@ -429,6 +436,12 @@
    "at": "2026-11-15T05:13+09:00"
   },
   {
+   "title": "不正アクセスでデジタル地域通貨「はぴコイン」決裁できず 「ふくアプリ」全サービス利用停止 個人情報漏えいは確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sT3FTOG5aMDdLdVJlUnlOcVdhUXRBVVk5ZGEwVTRsTVBhQTNrM1B0YmtKa2JWbWZhZ2dSMGk5bUJVbHZQQndkOThxcVJQMUcyb3FGX095RVRkZm1MYldwYkIzYVVVbWdJ?oc=5",
+   "source": "福井テレビ",
+   "at": "2026-11-15T13:25+09:00"
+  },
+  {
    "title": "【速報】福井県のデジタル地域通貨「はぴコイン」の決済出来ず　不正アクセスの影響　「ふくアプリ」の全サービス停止中",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NdVk0b1JDcE9fcGMzUExXSlJtZ2tzOXlJN0M1R1lWNmNkN2JTMHRpVTg1UXBHdzFlZGtOb0c4QnZ6V1BmSVVfLVhod18telhYZUNERFJoV3ZXdVE4bFlKdENsYUJiWEJQbnVwUFdTRUlVN2tFVEJxeXhTSdIBgAFBVV95cUxNbjMzZE1keE1LLVlJdkkxeWs3N0ZQQWdGQ2JsakVwUkZfUVExVzVHbFo5RnFCeUl2VXB1LVpFcXlVbVg4V2JmYjJpVUk2RmJ4UWl2NzdlN19sY2tISURweVpmdTR6R2ZPYkRiZk1OSGpGQkpuaTloZVBWM0o4b0ZKbQ?oc=5",
    "source": "ｄメニューニュース",
@@ -445,12 +458,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblhDcjFuRVZzT1V5Qmp5X1owcXJYU3JpeU5maEcxNEdsS19FaHAzVnA0cGNYX25wRTQxcVhTc3NjSEFBRmp1RU9KcG1CcEZkck1KNm45clREdGJFbmhjZzIybGN0Z0hGX2lnaFAzc2MyVTI4VlJrZGRPMWJXSnBiM1dILThVVmZ1ajhLRkEzVGNvSlAzS3JCOWhLc0poM29UWFhF?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-15T11:29+09:00"
-  },
-  {
-   "title": "山口ＦＧ子会社が運営するＥＣサイト、メルマガ登録会員のアドレス３２８７件流出…「アララ」不正アクセス（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zRDVndWU5ZjBQQU1CVUJEd1g2M1RQQzJPdmk3elBWMnphR21vV1pjUW1sQ2VGdmZSQW1SVHYxSmJPcEcybVBWN3o2WEFKcHZ2bV8tWXUxc3BZOFZxX3dDNWs1Vk9zT3lqZzk0eVBSOUk0Uld6aWY1QkU4U2UwRDQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T11:09+09:00"
   }
  ],
  "osaka": [],
@@ -477,9 +484,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害？暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWRMcjBIbENpYTN2TTZNbHNINFhDWllYUV8xZWpjNjM3d2ctS2JfSi1IdWljUGhtN2NzdlN2VFdXYmFZSEdtaDA1dzdmWWpScm4tTm5rcUlwRG9VNlNXbkZfNjlPMk0?oc=5",
+   "source": "TBS NEWS DIG",
    "at": "2026-11-15T10:00+09:00",
    "topic": "中国・台湾"
   },
@@ -520,7 +527,7 @@
   },
   {
    "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
    "source": "東洋経済オンライン",
    "at": "2026-11-15T06:00+09:00",
    "topic": "中国・台湾"
