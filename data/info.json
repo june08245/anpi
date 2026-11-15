@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:00+09:00",
+ "updated": "2026-11-16T07:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -150,7 +150,7 @@
     },
     {
      "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MWlc5bUQ2bXJQclJVQXRmd29abW5COUlicm9aaGIzMDVPak5EekNRcGd4Uk1IcEl1UDZMVmRxOGpTTENleW1hMFNhWHAwUElVU3ZNWGt5MF9vV1E?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-15T06:00+09:00"
     },
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”（AERA DIGITAL）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WWnIyNVVFN2k0Q3dqdnd2TkVHU1FGaGNUdEpaYWxfMmhRSVFCYTNDYnN6RzZmLTYwa3JieEU1dHBGMEdPREJmY1U0TGRpS0JvN3h4WWhzUjBkblRwU2tjYkZxMXBaYldNbWszZmdmLXBOSzdUZEt2RHFtWHJkbEE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-16T07:03+09:00"
+    },
+    {
      "title": "エストニア、ロシア国境閉鎖へ 防衛企業への破壊工作疑惑受け",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWZIaW9uRU1fZXdnZmtDU25NbENvelBRRzFIZWQ2OXphS08xMUVFTW1ta202aDFRMjh1TTROOTRVNm5PNG1UZWVfR0ljdk10UUJjWEgzYWZabi1nV1F2eGswQk1wcnhFZ3lnTmlRaVc3c2pNcmVpdW53c1NOaDlWZ0dOa09qUQ?oc=5",
      "source": "Reuters",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXhPdUkyamhjMlU2endPaXdFbmRzVUtJZkZCdmU4MWs2c2Z1aUVxcjIwUzJLZGJGM1hHeUNlQlRLa3NlV0lSYTY5NWxjTlIzNkNiZ2tmMHBIZkZjV3MwWUtEVnVSU0hTM1kwcUtld09xR3VuWkk5M2p2LUIzUURRTTBaOWQ4UdIBiwFBVV95cUxNU3hKWnoxQkJUd2M3OGh6SkRqNUU0UXMyNTBVbFRKaS1mODlKTzRZbEE2cUdxakhNXzlYS1ZMSlNWU1BIbGtOMEM5X1F2R0EzdGY3LTZpWlh0LWZtdTJEdHppbUxETTlwUXBURzVldGpCNHUwWVU4NzVSdmJSTWNpVk5MVVF1Rld2dHNj?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-16T04:18+09:00"
-    },
-    {
-     "title": "ウクライナ軍はロシアの製油所、石油化学コンビナート、ヘリコプター工場を攻撃した",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmN3N2NXSVN5bE5MVi00WVp4TDFNUFFvNjdwM2Z0MU9QaU1KcHNGbi1NMmlwQ3Bmc1hGUTdNakgzZ3BkajdETVZEcXo4SzE0bFFud2hxOUE0dWlTcFVnbTctSW85REItSzFkdGo1bjg5VVpTX2MzRFczUFl2a2tMNW92cnBaQ05zS1NzNHl3bUhudnVoak5OVG5Sc1lZd194RXFjNlNPcVEyNzVyRDlJ?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-16T01:33+09:00"
     }
    ]
   },
@@ -387,6 +387,30 @@
    "at": "2026-11-15T21:10+09:00"
   },
   {
+   "title": "【図解】サイバー攻撃「自律化」が脅威に＝AIエージェント悪用、防御後手（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MHhaY05OWEFpd292SWllVnlqRjdva2VmMzY3RktlRVh2VXpWQW5nWXdndkhZYTdzeHBqXzNZQTRmalY2cGx6Sl9Wdlc5NmFialMyRWlyY1UzaFdWVU1JTzNaMDZpYVlqOXh3RERXc253ZXVKQVN2cnkwaUI1YW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T07:13+09:00"
+  },
+  {
+   "title": "サイバー攻撃「自律化」が脅威に AIエージェント悪用、防御後手（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fbHVOSDB5dmc5T3BnVjEwbkNGV1dDNGNiYzhuVUIzN0Z6Q2Nfd0dsNnIzbVJRTUZFYjR6QWFGdHloYk5LOHMwRklCUW9RV0RKQk9NRGhFbTlfcFBQVlJza3lzdGw4SF84blVPdWgtOWd2NzVHbDFobkxkeE5ZTG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T07:12+09:00"
+  },
+  {
+   "title": "サイバー防御「サボる企業」が得をする？ 経済学で見えた「企業努力」の残酷な現実",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95OTZvdTFqSnZyTzVwdFc4NF9aVEluQU5ZXzhyNkZPZEhzTW5vd3UyUDNLbFoyelFGVWFHU1VSY09tckRqcWlrT0J2R0R5MGc?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-16T07:00+09:00"
+  },
+  {
+   "title": "【苫小牧市】道南バスの支払い方法が変わります！新運賃箱でタッチ決済に対応、QRバスカードも11月20日から発売へ",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByYWhwbjhqNENBS2pnOXdfT2F3Nzdna1FfM05YQy1hQ3lJVnJFbVJXcDRiNFRta293OERaZzdJLWM0aUNxSXFzM2VvX0IxbW12ZEdKSm40SWxFSXhEYWxCMw?oc=5",
+   "source": "地域ニュースサイト号外NET",
+   "at": "2026-11-16T06:58+09:00"
+  },
+  {
    "title": "フランス郵政大手「ラ・ポスト」傘下企業でサイバー攻撃 2200万人分の個人情報流出（FNNプライムオンライン（フジテレビ系））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05NlJYcWpjd1E5cXhlM2pmZG04U2lRQ1h2cFpCMmFDd0lPRmRfT0M4TFNTRGhpY284YTV5MWM5YlIyZ250Q0hxaEV0WVR1UGd4Z3pacVQ1TXVOV1VVMElwbktWN3NHd0RWcFdRMjRleGR0eVhxUE9zckQtczNfVnc?oc=5",
    "source": "Yahoo!ニュース",
@@ -403,12 +427,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FUU80MTRPU1hUQjRSUnVOaVdHZHpNbFpPbmVZX2ZtbldRQzFpaXVXUjRmeVVSbl9YWWhHRlV1MUdWbkRlN0NlbVZuUTBVZw?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-16T06:40+09:00"
-  },
-  {
-   "title": "フランスで２千万人個人情報流出",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WVDVsaEE4RFgxOWVXNTVyTlpfTkFKYXlrblNlS1RHVkxWVWFlbWxNeXVnMS1MQ213YlRJMEM1U1BmMWxuRGlvaHc2SHpjN2JLLWlMXzVlaXFteVdISlVWVDVyaVBDM0h3R0xXMWtRMy1LM0xwWkhVctIBhAFBVV95cUxPNW5KZGc0NUxLVmFSTzI3UzltY0Nmc3ZtQ0JrR2pOTzRDa2NPdTdHTC1za0t3SXN3Xzhoc1RaRjdsUDdNcDNLOXpuUkVlbUhQUjBLRmxmcDNEeG1IYU1NaDQ3a0JZeDhaT1d6ODVCTC1OMmkyVVdmS1hvenkzTEpXOG5ZSGo?oc=5",
-   "source": "大分合同新聞",
-   "at": "2026-11-16T06:27+09:00"
   },
   {
    "title": "サイバー攻撃への政府対応を巡る年代別の評価 - 消費減税効果、与党支持層も疑問視 世論調査 - 写真・画像(2/2)",
@@ -435,28 +453,10 @@
    "at": "2026-11-16T05:42+09:00"
   },
   {
-   "title": "香港ディズニーでチケット窃盗か 不正アクセスで、1万7千枚（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14QXJodTgzMnZDbU5mRWE1bmkyYlBhYWhSRXR4S0QxZ0FLenNqV0FsTTRtemJwWGMzSXhNWDNfSTlTQlF1c2gyM3JTbVcyZ011WVczY3RvX0ZjYUtCSnFzSzdtQm5DbzJWUnM4OGN3NTUxaURndnJNTWNQZGpxMzQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T05:41+09:00"
-  },
-  {
    "title": "フランスで２千万人個人情報流出 最大規模、サイバー攻撃で",
    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5qMEhkY014Znp3bm8tVVo3YTY5R0JQSGhfUTZMZUMyZi01ZFVoN043OThobS0zeFBKX3dz?oc=5",
    "source": "Howl.Link",
    "at": "2026-11-16T05:34+09:00"
-  },
-  {
-   "title": "サイバーセキュリティ対策の強化は、特定の組織・業界に限らず「我が国社会全体で対応する」必要がある！",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jbEN1N1FuOE5FUTNNVTE5b21Xd2g3b1hCeVlyb0ZNVTlfbTBnZEhyZE8teVdCd0JGczhOazNGdVdJT19TRzZmZg?oc=5",
-   "source": "GemMed",
-   "at": "2026-11-16T05:30+09:00"
-  },
-  {
-   "title": "AIは｢システムの裏口｣を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは\"課題の95%\"を完遂",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FbFQzVUFPR045Mkk4eGdZajZjQzBXSXA2ZU8xTTlQbXNUbXBvWU9QSzdTcmJIcmdHRm9rY0RkcFZ6QW44ZkIyMm9GckNIVWVtYlE?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-16T05:30+09:00"
   }
  ],
  "osaka": [
@@ -468,6 +468,13 @@
   }
  ],
  "world": [
+  {
+   "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”（AERA DIGITAL）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WWnIyNVVFN2k0Q3dqdnd2TkVHU1FGaGNUdEpaYWxfMmhRSVFCYTNDYnN6RzZmLTYwa3JieEU1dHBGMEdPREJmY1U0TGRpS0JvN3h4WWhzUjBkblRwU2tjYkZxMXBaYldNbWszZmdmLXBOSzdUZEt2RHFtWHJkbEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T07:03+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "エストニア、ロシア国境閉鎖へ 防衛企業への破壊工作疑惑受け（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81M1hHVHBVM1hjQ0VIa1NXZU1TSE1RVTlla1dSZzZtZzF1SDNXSVBxNXUtZ1puR3ZGNzAtS242WXpLS3pFNURwZWNrLVF5V2VqUEFIckJ3OEhGQzVSSEFKTTk2R3Rhb1Qxa2RFZVdxSkJjakw3c0plZTBPNUhvZ3c?oc=5",
@@ -551,13 +558,6 @@
    "source": "Informat.ro",
    "at": "2026-11-16T02:50+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ウクライナ軍はロシアの製油所、石油化学コンビナート、ヘリコプター工場を攻撃した",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmN3N2NXSVN5bE5MVi00WVp4TDFNUFFvNjdwM2Z0MU9QaU1KcHNGbi1NMmlwQ3Bmc1hGUTdNakgzZ3BkajdETVZEcXo4SzE0bFFud2hxOUE0dWlTcFVnbTctSW85REItSzFkdGo1bjg5VVpTX2MzRFczUFl2a2tMNW92cnBaQ05zS1NzNHl3bUhudnVoak5OVG5Sc1lZd194RXFjNlNPcVEyNzVyRDlJ?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-16T01:33+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "エストニアは、ロシア軍参謀本部情報総局（GRU）に帰属される破壊工作未遂を受け、ロシアとの国境閉鎖を発表した",
@@ -644,10 +644,10 @@
      "at": "2026-11-16T04:00+09:00"
     },
     {
-     "title": "エストニア、ロシア国境閉鎖へ 防衛企業への破壊工作疑惑受け",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWZIaW9uRU1fZXdnZmtDU25NbENvelBRRzFIZWQ2OXphS08xMUVFTW1ta202aDFRMjh1TTROOTRVNm5PNG1UZWVfR0ljdk10UUJjWEgzYWZabi1nV1F2eGswQk1wcnhFZ3lnTmlRaVc3c2pNcmVpdW53c1NOaDlWZ0dOa09qUQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-16T06:36+09:00"
+     "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”（AERA DIGITAL）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WWnIyNVVFN2k0Q3dqdnd2TkVHU1FGaGNUdEpaYWxfMmhRSVFCYTNDYnN6RzZmLTYwa3JieEU1dHBGMEdPREJmY1U0TGRpS0JvN3h4WWhzUjBkblRwU2tjYkZxMXBaYldNbWszZmdmLXBOSzdUZEt2RHFtWHJkbEE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-16T07:03+09:00"
     }
    ]
   }
