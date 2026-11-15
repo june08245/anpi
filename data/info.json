@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-15T12:00+09:00",
- "errors": [
-  "world_topics",
-  "nankai",
-  "outage",
-  "japan",
-  "cyber",
-  "osaka"
- ],
+ "updated": "2026-11-15T12:15+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -241,16 +234,16 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシアへの経済制裁はなぜ戦争を止められないのか……中国という「抜け穴」と欧州を襲う「市場のしっぺ返し」",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scFFidXlhRW5fb3pwMDY3UkJUNlRwM3hoWnlOYUNQQWYtcU9ldGhpV3Y2MWhuX0lfSXpCanRQRlpZUW9zcVhzWE1MZ3VTLW1heFJQOXdVSUc0QQ?oc=5",
+     "source": "みんかぶ（マガジン）",
+     "at": "2026-11-15T12:00+09:00"
+    },
+    {
      "title": "ロシア軍がザポロジェ地方のテルシャンカを支配",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUUxR1dxbExOU1JNX0Rsc2x3LThLYVJkM1dYTnQyWXVZRHNYZHRZbi1OMkNzblZpRjRpbENSSWc5ME8zSkoxZnNXVGNyMExjZ0RyYWZnQ2c3a3hTanBaYXdoTEVzUlhZQ2F2dXoybUx5REUxcWYzQWpfMW4wS1BpRE1BdS1SdlV2MUx0bzNxV2RfTnJfVXcxcjVn?oc=5",
      "source": "Laodong.vn",
      "at": "2026-11-15T08:54+09:00"
-    },
-    {
-     "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-15T08:37+09:00"
     },
     {
      "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”",
@@ -283,6 +276,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "ロシアへの経済制裁はなぜ戦争を止められないのか……中国という「抜け穴」と欧州を襲う「市場のしっぺ返し」",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scFFidXlhRW5fb3pwMDY3UkJUNlRwM3hoWnlOYUNQQWYtcU9ldGhpV3Y2MWhuX0lfSXpCanRQRlpZUW9zcVhzWE1MZ3VTLW1heFJQOXdVSUc0QQ?oc=5",
+     "source": "みんかぶ（マガジン）",
+     "at": "2026-11-15T12:00+09:00"
+    },
+    {
      "title": "米、NATO加盟と引き換えに東部撤退を打診か ウクライナ大統領が明かす : 国際 : 財経日報",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jWDBWY19ZbEVMSzY5OGZEZkRHZGtlOVNLM2piMjVfTmJ4SjVUa3NXYmc2RWszU3duVGY4WWJ6V3RrWjhwLTJTT2tRV0c2TlJGQ2x5Nm00Y3p5dHItMzJIN2kzOA?oc=5",
      "source": "재경일보",
@@ -311,12 +310,6 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OZjMtcEx2V1BlWi1JZTdxWlFGS3RtU3EyUkxJemNHN0xET2o4N1QyTWJRcEFWc1ZhSUVuQTRBNDh3djhrU1lzX1RNQ0phVy1VRm50VXREYVBoX1ZjZzFBWnYteWtvWVhVMnhIVEpn?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-14T09:51+09:00"
-    },
-    {
-     "title": "フランス内相：欧州での偽の爆破予告は「外国からの干渉」とみられる",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXpFc3BvVnhhcXExTzVQMm1paUhaU0YxNGJQNHFOZHZIWW5JZkJvenI4dTFwUjN4QXhwY21PRGEtdlp4MHRDUnpJcEVMeVhrZVNNRUQwWmpwTGlXYjYzRHZRRFRwN2c1RXBodlhKTmtsUDRJdmJvbkllVThyT3JNVGtzQ09KWWZQM0ZYdk5XV0lKOTVoeTA2SWxTMGxKOVF2eTBhTThMQ0t1NXBpQng1NzhtOHY?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-13T22:39+09:00"
     }
    ]
   }
@@ -367,8 +360,21 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
+  }
+ ],
  "cyber": [
+  {
+   "title": "14日も6000便以上が欠航、7000便以上が遅延 アメリカの空港で混乱続く 航空管制の通信障害で離陸停止措置",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZlBlc25SM20waFF3eTE0ZnBOSEV2T0VqZFF2WWEzWVNqYy1pZ2pDSUh1bkxSem5QbDQ5TUdodmUxeGFTelBJV3R0bFNNV182XzFGNGpaYzg0aThORVhzdlNhdFdiNUF2a25VSFU4OGU3eUZfVXl6UzRsbGhzVVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T11:59+09:00"
+  },
   {
    "title": "Windows 11の11月セキュリティ更新で脆弱性修正もインストール不具合相次ぐ",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURUJ4RVZYZzdYeTNuYkxwcktzWWwxZVBhSElpdTV5OWZxRWV4ZWxNVFdBYl8zd2VoT3NtbThsS3YxUTB4UDczYmpCWGhRZjFzd3BhUUpBQQ?oc=5",
@@ -418,24 +424,6 @@
    "at": "2026-11-15T05:13+09:00"
   },
   {
-   "title": "全米空港ストップ 通信障害「旧式設備に負荷」 ７０００便超欠航",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnbHgxamZkdWFaS3hFREI5NEV5Z2V0dHJ3MjRCYlpNSVM3ekxuaVZXeXpUY3l4RmRQUU1GTzVhbGJBVlRlSV82TFpmQXNJUTZWemVYTkhQcUZ0c3pL?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-15T05:00+09:00"
-  },
-  {
-   "title": "全米４時間離陸停止 「通信障害」 １万６０００便に影響",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92emJDejJxX3RtbGdzaXZUVGVhY1V6bnRyNlJ5dmRzb1N5MEZaYXpZMVJBT1FKSjVUZHdLbEYwdnFjcGx5QzBVMHQ3MTlPckF6T3FjZnB5WlBfb0FXbkt3WFZjQQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-15T05:00+09:00"
-  },
-  {
-   "title": "米航空通信障害、ソフトウエア更新調査か",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhR1k0Tm5VN1VfNU13LXhUMXUxZlFMejE1YXIwT0JnY3h3aEJoTWlRVTNyMkhqVlBySDRBbm9xWHJ3RlRlam96UXZTTHJhMUJPQlBsTk4tYjk1ZU14djVteV9yb2tWaW05clk0RFdhcXExbnlncndfMdIBhAFBVV95cUxQaVc4MVYtZVh6LWlhMDBlNERtQ3d1WWk4OGR2a2c5dkZGSVVCeGs4aHBDVmVDSDZ4M1BWT3Bic0NjeGN5MmJwN19jRFhvd3p1ME1GZnhEempUdDNvY1ZvTEdJTXcwTWJxcGF4QXlsMG5DdHZVVFRrOWpiYTJaVlptNlE5LUs?oc=5",
-   "source": "大分合同新聞",
-   "at": "2026-11-15T04:03+09:00"
-  },
-  {
    "title": "新潟市「e-NIIGATA」でメールアドレス3万7,931件が漏えい アララへの不正アクセス、申請通知メールは停止続く",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblhDcjFuRVZzT1V5Qmp5X1owcXJYU3JpeU5maEcxNEdsS19FaHAzVnA0cGNYX25wRTQxcVhTc3NjSEFBRmp1RU9KcG1CcEZkck1KNm45clREdGJFbmhjZzIybGN0Z0hGX2lnaFAzc2MyVTI4VlJrZGRPMWJXSnBiM1dILThVVmZ1ajhLRkEzVGNvSlAzS3JCOWhLc0poM29UWFhF?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -458,10 +446,29 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNnRQX3ByMWpOelI4ZlBsWTQ5OWRCb2RwWHFoaU03LUJtbkUtMHBzVWl1a1c3SjdDcUxsQUV0d05LTVNwVTNwQW16dXhmXzROa1B1aVZ2dEIwRVdxQ3Z2WjNVRHVEZ2ZEdFVqZw?oc=5",
    "source": "AUTOMATON",
    "at": "2026-11-15T10:31+09:00"
+  },
+  {
+   "title": "ＧＭＯ黒田朝日 ３人抜きで首位浮上「自分の仕事は１００％できた」 社内では不正アクセス問題も「影響されることなく集中して臨めた」 実業団駅伝デビュー",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wMGFlTUpfa0RQNzZxOVpkbHRQakFkekF5RU1vdWVwVWJjQkI1c2tLYTRFTlFzZFFqbjdDSllkLVRVS1FKc3ZEUm85WXRsRGNESDFxdkg3YUJtMUpLUDgyN0FZQnRFYXFLRzVN?oc=5",
+   "source": "デイリースポーツ",
+   "at": "2026-11-15T10:21+09:00"
+  },
+  {
+   "title": "【ＡＩ悪用の拠点確認】流出被害「第２波」懸念 サイバー攻撃、収束見えず",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WNTRwSzlCVXV4cDY1eHpUYWRsNmVBdjdYWGROYWd5cTFrT3ZQblh4ZWo0VHBZMzhSWDJ1YzBpUkVCYTM4NjY5RXNGb2dNZld0T0lRRmRfRktZd25uT0E?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-15T10:10+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシアへの経済制裁はなぜ戦争を止められないのか……中国という「抜け穴」と欧州を襲う「市場のしっぺ返し」",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scFFidXlhRW5fb3pwMDY3UkJUNlRwM3hoWnlOYUNQQWYtcU9ldGhpV3Y2MWhuX0lfSXpCanRQRlpZUW9zcVhzWE1MZ3VTLW1heFJQOXdVSUc0QQ?oc=5",
+   "source": "みんかぶ（マガジン）",
+   "at": "2026-11-15T12:00+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "米、NATO加盟と引き換えに東部撤退を打診か ウクライナ大統領が明かす : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jWDBWY19ZbEVMSzY5OGZEZkRHZGtlOVNLM2piMjVfTmJ4SjVUa3NXYmc2RWszU3duVGY4WWJ6V3RrWjhwLTJTT2tRV0c2TlJGQ2x5Nm00Y3p5dHItMzJIN2kzOA?oc=5",
@@ -481,13 +488,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUUxR1dxbExOU1JNX0Rsc2x3LThLYVJkM1dYTnQyWXVZRHNYZHRZbi1OMkNzblZpRjRpbENSSWc5ME8zSkoxZnNXVGNyMExjZ0RyYWZnQ2c3a3hTanBaYXdoTEVzUlhZQ2F2dXoybUx5REUxcWYzQWpfMW4wS1BpRE1BdS1SdlV2MUx0bzNxV2RfTnJfVXcxcjVn?oc=5",
    "source": "Laodong.vn",
    "at": "2026-11-15T08:54+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
-   "source": "乗りものニュース",
-   "at": "2026-11-15T08:37+09:00",
    "topic": "ロシア"
   },
   {
@@ -620,8 +620,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」2件",
-    "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」3件"
+    "ロシア：「攻撃」「侵攻」2件"
    ],
    "items": [
     {
@@ -631,16 +630,10 @@
      "at": "2026-11-14T21:09+09:00"
     },
     {
-     "title": "【寄稿】中国軍、空母「遼寧」軸に3戦区海軍が西太平洋へ 第一列島線の「反封鎖」 能力を検証か",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLeTB1b2FjbEtmSUItbEcxdDd3aG44OWR0SFJhdEg0VXV1MGhzRkhJT05BVm14bzdLeVp2aThrSXRVc19sd25kblV1Ym80V3kx?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-14T12:13+09:00"
-    },
-    {
-     "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-15T08:37+09:00"
+     "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WM2EwRVl5U0NHSWtmX0ZsNndIY1kwSEQwQ3BPMXVGU0lITm1BbEpDaFRmRDVrcE5GZzk4M2dUVDluenkzQkN2M0JENWtJRXZUTXdrb1JwSkI?oc=5",
+     "source": "AERA DIGITAL",
+     "at": "2026-11-15T07:00+09:00"
     }
    ]
   }
