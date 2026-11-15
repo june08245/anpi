@@ -1,9 +1,15 @@
 {
- "updated": "2026-11-15T09:15+09:00",
+ "updated": "2026-11-15T09:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
+   {
+    "code": "10",
+    "name": "大雨注意報",
+    "level": 2,
+    "status": "発表"
+   },
    {
     "code": "14",
     "name": "雷注意報",
@@ -11,8 +17,8 @@
     "status": "発表"
    }
   ],
-  "headline": "大阪府では、急な強い雨や落雷に注意してください。",
-  "reported": "2026-11-14T21:43:00+09:00"
+  "headline": "大阪府では、低い土地の浸水や河川の増水に注意してください。",
+  "reported": "2026-11-15T09:22:00+09:00"
  },
  "quakes": [
   {
@@ -354,7 +360,14 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "SmackDownスーパースターが通信障害による飛行機の運休により足止めされたと報じられる",
@@ -367,6 +380,12 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVm96bm1ubFExZUNaZTV0NHpJcGl0ZGx4ZDFJaUlHWkltNWpjblBDd2R0b2hKSGU3Ny12ZVpUQVBrTzFHRGdudU02UFk5S21CZDVz?oc=5",
    "source": "東京報道新聞",
    "at": "2026-11-15T07:04+09:00"
+  },
+  {
+   "title": "航空管制システムで通信障害 アメリカの全空港で離陸停止措置",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5URF9JWmxmT0NYVXg4OVpUak5BVjRuR3V4SG5saDNwYjY2Rlg5Y2hoQmlSdWhxUmt1aFhQZFU4S2MtNWpPMWktZGN5c05iM3pZZW1idWhhSzBrVmJuTmZUZHVUU0pqd0hKek43Y21n?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-15T06:18+09:00"
   },
   {
    "title": "マイクロソフト 大規模システム障害 復旧作業続く",
@@ -439,12 +458,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qVGRqQ1Z3WGF5MHhBRDBDaUM3M3I5SjNTQlVDczB4b2VVS1lZc0RQYV9NZnlXamdMaEJjVVhaaVpkNzMyQWRsYm1ZVGdTOTJBamlGUUNDRGtXQkJCS2U4?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-14T19:49+09:00"
-  },
-  {
-   "title": "ＧＭＯの１区・鶴川が区間賞 同社では不正アクセス問題も「僕たちの仕事は悪い流れを断ち切ること」 ３６分５７秒の区間新記録マーク（デイリースポーツ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLSEdyNll5QzRXbUlzT293cnFXc281SU1NMlNHdTk5RGMwM0xrdEtkTkRNd3RoaHBWXy10dW1lSFppbnlIQ3htVXJTSmdhaEpVS0ZaS1pqbk1laVlobzA3Z1lKdGVOWXV0bTBFT09IdEFtWmE2bThDMHpOdzhDQTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T09:06+09:00"
   }
  ],
  "osaka": [
