@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:15+09:00",
+ "updated": "2026-11-16T08:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -150,7 +150,7 @@
     },
     {
      "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MWlc5bUQ2bXJQclJVQXRmd29abW5COUlicm9aaGIzMDVPak5EekNRcGd4Uk1IcEl1UDZMVmRxOGpTTENleW1hMFNhWHAwUElVU3ZNWGt5MF9vV1E?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-15T06:00+09:00"
     },
@@ -179,10 +179,10 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "非核化を消し去る絶好の機会…「第2のヤルタ会談」を狙う金正恩氏",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUblBwMGdvUmtMTllvNjJlOWlCZkdxVEVIeXVlTlAwNG82VnJWODFZOGRKM1ZDWVlXUkJKczJVU1hrQ3VJNWdHa3pHSlJqN1ZkanZmWDcxZ0ROMmxHdmdod3VDcmk1YkXSAWxBVV95cUxONHJMTFRHdXJmZVk4S0duaUtBWnVCd2drN29EbHpXSzRiTGh0SGF1X3pLTkduTUtFcjhxVG8zNTZuZ2Z6cFFXeUJQbWhUd21WV1BxLTVFUXBKUVVnN1d1cWxLbTZvVTdnenBGdGs?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-16T08:04+09:00"
+     "title": "非核化を消し去る絶好の機会…「第2のヤルタ会談」を狙う金正恩氏（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RWWw2S1NZOHhjUk01OEpjSlJ0R1hyeUdWUUZwaXROMXRVUGd5Ul81aW5raGtvaFJ3NElJd3RHSmJhcEtDZEtvYUprN3VPQnlWYlJ5blNnNGIxSDJsNEd5QmxWTDRZWUZQTUYtYmxtNlZmeTU4cEI5VGdZOGc0NHM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-16T08:16+09:00"
     },
     {
      "title": "ウクライナの子ども、北朝鮮へ強制移送後に思想注入…欧州議会が制裁決議",
@@ -362,10 +362,22 @@
  ],
  "cyber": [
   {
-   "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxNXhydzR5S3I3czNmOUxTc0ZTSThOZzl2UTdmYTBZT3NDZ21DRnJWWWtrRUpUbGstZnVRVTY2d2RMMDctWUVrQ1lpTVFsU0FXWTJXeHdGaDRTb1ZiZWU1TUFSel90aUxGWXc?oc=5",
+   "title": "京成、公式サイト「システム不具合」で閲覧できない状態に 復旧未定",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qV25nSHkwQ181V1NOQXFqU1RzcGlLUml3X0lsVF9GS3ZJTTlqMW5RTEh4aERBOTE1Y1NXWElCcEtaUE5CNW5WT0NlZGk1QlBnd1RFWE5wZWtGRkhFWmdwTXFZU2xZNGlBQnc?oc=5",
    "source": "ITmedia",
-   "at": "2026-11-16T08:05+09:00"
+   "at": "2026-11-16T08:24+09:00"
+  },
+  {
+   "title": "ニュース - 【個人パートナー】Microsoft 365のシステム障害による配信メールの開始について",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BRTdGV2ctS2Fmc2ZDS0kzTkliSUtDX0JuUkYyMmxhUmpBdER2QXU3RDc0cU83ZWhqWWEzSXN3SjJhc1ZQYTdwN1dtTnFROU9uLUVqMEJPeW5yVHdETWh0SGNMLXc?oc=5",
+   "source": "日野レッドドルフィンズ オフィシャルサイ",
+   "at": "2026-11-16T08:18+09:00"
+  },
+  {
+   "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く（ITmedia NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0VTdUSGNCRF82SHYxYWxHaVdldGZDU2c0Q2ZBTTliYUZNMTBrb3ZQeDVzMDJzclQwTFF3dW93VXhXWDJqSFpIS1gzT3l6UGxxbGNyYk1vWEMyaDR3MHpOaWlXRTNNbmZDZWNOaW41MVAwRFBvSnQ2aGdQYThtM2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T08:08+09:00"
   },
   {
    "title": "マイクロソフトの障害でメールを送れないとき、従業員は何をするのか？ もちろん、ミームを作る",
@@ -374,10 +386,16 @@
    "at": "2026-11-16T07:45+09:00"
   },
   {
-   "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zd2RjeHltRFBSNHlVVEdOWjZoekQ0TzBvZHFsSE1sMXdPWm1fU19JVldXV1FBaUlGU3Y3Yjh2SkgzQVVzeVJJeE5vdk9TZWdxN2c?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-16T04:47+09:00"
+   "title": "マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrNmszQlBPZkxGdTQ1NXhoX0prQkVEanpDaXZOZ3ZONXpIaTdranQ1VEhYb0FkSU9VMlF1Q0ZjU1NYWkU5NU5LbWJMcV8zVXNFX1VqWnFR?oc=5",
+   "source": "KAB 熊本朝日放送",
+   "at": "2026-11-16T07:26+09:00"
+  },
+  {
+   "title": "エイコー、ランサムウェア被害を公表 11月9日に一部システムで不正アクセス確認、振込先変更を装う連絡に注意喚起",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblg5TDhLLUg0VXpvMVU3ejlpc2xJc2o0WUJFTjhHdDlDYzdkM0lGZHhOeTBlbjVjMExfTDNCaHJ0YTl3VXVwdG9fUUNTQ3JyQnFSU1Z0SWwwb09PTFl1c0dKRXNlRVNid3BWenF6QXBSdVZyOTFpUjVHTHRoUVpXN1dZRC13WEUzOWgyVmxIZzFQdGY0c2FTZk1iOGdmTGxvSkxXcEUwZ1U?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-16T08:15+09:00"
   },
   {
    "title": "アクサ損害保険「MyAXA」に不正アクセス、約59万7千件の顧客情報が漏えいした可能性",
@@ -432,24 +450,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0Q3bWJDaFFwWU03SWtfMHlBc1N6TzRLSEwxVXpxNk1RWHdsS25VZmhsNGVKdUdCN19TN1QwY0hVV3BHUDdSdUVFYWl1UzJhWkRwem42VldfMWRXWndkZXJtNFBQMndQZGFGUnctcXhwdnNoNFpUbmxxa2lVTm1CeUZzYTkwX1VrSmh2N29kal93bk5vOWlWZTdWUnpUMmxRbFN5bVRwNUZvdw?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-16T07:23+09:00"
-  },
-  {
-   "title": "【図解】サイバー攻撃「自律化」が脅威に＝AIエージェント悪用、防御後手（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MHhaY05OWEFpd292SWllVnlqRjdva2VmMzY3RktlRVh2VXpWQW5nWXdndkhZYTdzeHBqXzNZQTRmalY2cGx6Sl9Wdlc5NmFialMyRWlyY1UzaFdWVU1JTzNaMDZpYVlqOXh3RERXc253ZXVKQVN2cnkwaUI1YW8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T07:13+09:00"
-  },
-  {
-   "title": "サイバー攻撃「自律化」が脅威に AIエージェント悪用、防御後手（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fbHVOSDB5dmc5T3BnVjEwbkNGV1dDNGNiYzhuVUIzN0Z6Q2Nfd0dsNnIzbVJRTUZFYjR6QWFGdHloYk5LOHMwRklCUW9RV0RKQk9NRGhFbTlfcFBQVlJza3lzdGw4SF84blVPdWgtOWd2NzVHbDFobkxkeE5ZTG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T07:12+09:00"
-  },
-  {
-   "title": "サイバー防御「サボる企業」が得をする？ 経済学で見えた「企業努力」の残酷な現実",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95OTZvdTFqSnZyTzVwdFc4NF9aVEluQU5ZXzhyNkZPZEhzTW5vd3UyUDNLbFoyelFGVWFHU1VSY09tckRqcWlrT0J2R0R5MGc?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-16T07:00+09:00"
   }
  ],
  "osaka": [
@@ -462,10 +462,10 @@
  ],
  "world": [
   {
-   "title": "非核化を消し去る絶好の機会…「第2のヤルタ会談」を狙う金正恩氏",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUblBwMGdvUmtMTllvNjJlOWlCZkdxVEVIeXVlTlAwNG82VnJWODFZOGRKM1ZDWVlXUkJKczJVU1hrQ3VJNWdHa3pHSlJqN1ZkanZmWDcxZ0ROMmxHdmdod3VDcmk1YkXSAWxBVV95cUxONHJMTFRHdXJmZVk4S0duaUtBWnVCd2drN29EbHpXSzRiTGh0SGF1X3pLTkduTUtFcjhxVG8zNTZuZ2Z6cFFXeUJQbWhUd21WV1BxLTVFUXBKUVVnN1d1cWxLbTZvVTdnenBGdGs?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-16T08:04+09:00",
+   "title": "非核化を消し去る絶好の機会…「第2のヤルタ会談」を狙う金正恩氏（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RWWw2S1NZOHhjUk01OEpjSlJ0R1hyeUdWUUZwaXROMXRVUGd5Ul81aW5raGtvaFJ3NElJd3RHSmJhcEtDZEtvYUprN3VPQnlWYlJ5blNnNGIxSDJsNEd5QmxWTDRZWUZQTUYtYmxtNlZmeTU4cEI5VGdZOGc0NHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T08:16+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -606,7 +606,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える」"
+    "「ニュース - 【個人パートナー】Microsoft 365のシステム障害による配」"
    ]
   },
   "japan": {
