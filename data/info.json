@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:00+09:00",
+ "updated": "2026-11-15T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -288,7 +288,7 @@
     },
     {
      "title": "停戦交渉で米国がNATO加盟条件にドンバス譲渡案提示か ゼレンスキーは撤退拒否方針",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmYyXzdKRVFTSnNtMFpQQmd5M3FFbE4xOF8za0Z5dnhqWWdMdWNDUlRsVFUtLWdsMEpnU1BBakxHWGJnUmJPU0hVUkt0d3ZnR2NzZlp6MEczQzdMRVlsTzY5Vk1qYklNSTZaMkRwQ0hzaG9CVW1YSE5nQkRWbUtXUkdKa0VvQnBHMHY3bFpnWGtPSEdIUWMxSzUzYmXSAZwBQVVfeXFMT3ZmMl83SkVRU0pzbTBaUEJneTNxRWxOMThfM2tGeXZ4allnTHVjQ1JUbFRVLS1nbDBKZ1NQQWpMR1hiZ1JiT1NIVVJLdHd2Z0djc2ZaejBHM0M3TEVZbE82OVZNamJJTUk2WjJEcENIc2hvQlVtWEhOZ0JEVm1LV1JHSmtFb0JwRzB2N2xaZ1hrT0hHSFFjMUs1M2Jl?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3RSa3BwMUQxbXhpTjhzUDV6UjNqZWIwRFIxRjczVUxVVGowdXd5TVFWaTVwN1dqTzU1Nzd5TVdLREV2dEdCb3M2bHY0c04ybi0zNGZuaWs5QzE5N0pmNWgzRzlGXzFZclUzT2VOVnJHcVQ0NlNLQzlwdXBPNWpaVU1QUkpDUEha0gGcAUFVX3lxTE92ZjJfN0pFUVNKc20wWlBCZ3kzcUVsTjE4XzNrRnl2eGpZZ0x1Y0NSVGxUVS0tZ2wwSmdTUEFqTEdYYmdSYk9TSFVSS3R3dmdHY3NmWnowRzNDN0xFWWxPNjlWTWpiSU1JNloyRHBDSHNob0JVbVhITmdCRFZtS1dSR0prRW9CcEcwdjdsWmdYa09IR0hRYzFLNTNiZQ?oc=5",
      "source": "Chosunbiz",
      "at": "2026-11-15T01:39+09:00"
     },
@@ -347,13 +347,32 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "【2022年版】もしも「君の名は」が実在したら...【NHKニュース・Jアラートシミュレーション】 Alex De Minaur (QgXFvDvw4i)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGhmbDBSaHlCZzJHVGtLNU1BbFNySWxZb0hVcnFnTTVvYjBzRkpsT1kyQklUSm1idThDWGlVaEljc281SlRvVlZRY1B3LTJnZTFDWWVIeW1HdW9qSERoYS1uOFlTQjczajF3dEVLUWFQM2tjYTZ6MXdFMjdoRkhwSkxBcw?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-15T11:38+09:00"
+  },
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "Microsoft障害で浮き彫りになった日本のFAX事情：政府は電話やチャットで対応、意外な利用実態も",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82Umt0anhzWEhzdGNJSmJUaVBIS3VoTTlYaWxKVnRWTS1nQ2ZVa192Z0pYaTBVbnJGQmItbHAtUHJFeVZkcXktZkhlUnhTSEE5Q2tGTThhT2JwejZKSWhybkN3enIzVDYzbjJ3eGVJMDc?oc=5",
    "source": "XenoSpectrum",
    "at": "2026-11-15T18:35+09:00"
+  },
+  {
+   "title": "NTTドコモ、全国で通信障害 復旧の見込みは「改めてお知らせ」",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FeWNTMkFkNWZsVVNVYkIzOWZmMTNmNlB4WXVxQjFidEhDZ0FPQXRVMHpqOTB5aGk3aWFxbzdhTW4yUWhITDEyQXZWVURTZkw0V1JVa2cyRmZ4QQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-15T18:11+09:00"
   },
   {
    "title": "マイクロソフト 大規模システム障害 復旧作業続く",
@@ -410,10 +429,10 @@
    "at": "2026-11-15T11:58+09:00"
   },
   {
-   "title": "「政府のシステムにも支障」官房副長官 マイクロソフト大規模障害で政府業務にも影響",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OUko3bkgxRnpmOUZFdEp2VnNlZjZ3UkFZOXJZb1BZb01NTUdncnNjZ05Bak9uLXBSdVA5NENfLVBJTXE1UUF4YzdKVldVYW15SXBmU2J5THdiNEk?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-15T10:14+09:00"
+   "title": "本田技研工業（Honda）、個人株主のメールアドレス1,741件が漏えい 電子ギフト委託先が利用するアララへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEN5Vmx3NVVqQldpMk9Pb0tPTWszcUxGZl9rQXVHazc1Ry1vd29wYzdNbUdVMi0ta0ZYbmFlYm1LUUREbEtMOWlyVVVGeGxidFV2OHMyOEhmQ3BLSlJHQy1Ha1R3RFlDdkU1bERJeS0xWU9tQW05ZGtIZ1dQRmdrbU9QaFVwQnk1N3lPa2JjV3N3MEtpaXdPOUE1dzlaV1JWYUpv?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-15T20:00+09:00"
   },
   {
    "title": "サイバー攻撃された病院を視察 上野厚生労働大臣「対策を徹底していく」 外部接続の集約化への支援や専門人材の育成など 来年度予算の概算要求で約137億円計上（TBS NEWS DIG Powered by JNN）",
@@ -432,12 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZQWt5cEZUR2FXQ2drLW0wMUsxdmwxSTgzR0h4MFlicGMwSmlibzF0WjNna1ZnVHk1TTY4LV9BRUhyNExLYnlJYWxhcnZ1Q2QtbURF?oc=5",
    "source": "東京新聞",
    "at": "2026-11-15T18:50+09:00"
-  },
-  {
-   "title": "上野厚労相、サイバー攻撃受けた川崎市の病院視察…外部専門人材の活用や職員教育の徹底訴え",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtdEM4TXh0RkxvWWpyUEdKQ2tqLU9WclBDTE5CWEs4b2J3U3VlamFTR25WM2RJQ01PX0d4Y2dDdllnclE0R3NoeDRtMW83d19aeEFoOU9FNEJGWXNUZkxIcnpvdWRPZm5scGswbTRB?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-15T18:18+09:00"
   }
  ],
  "osaka": [],
@@ -587,7 +600,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト 大規模システム障害 復旧作業続く」"
+    "「NTTドコモ、全国で通信障害 復旧の見込みは「改めてお知らせ」」"
    ]
   },
   "japan": {
