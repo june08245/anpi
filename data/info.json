@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T03:30+09:00",
+ "updated": "2026-11-16T03:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -167,10 +167,10 @@
      "at": "2026-11-14T12:13+09:00"
     },
     {
-     "title": "エヌビディアめぐるスパイ疑惑の女性が設立した中国企業、輸出禁止のAI半導体を入手 米報道",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZnFTaWhYRzhBcmJZVnR4amtwY2hCS2VHZnktYXJKaFJibUFIOUtfRTZJOVJvTEhxMUVJanFmckdlVjlCY05EUng2V2tFVUFLNVHSAVRBVV95cUxQSFE4a2xLVGtZUC12LTNWLXdBNTh4cFBrX3RpMWVmcFlKNXkya1g5VzIyby01YU9EUVc3SFBEazZFMTlzV2Z2VmNlZ3htazN0VGVtSm0?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-14T08:03+09:00"
+     "title": "エヌビディアめぐるスパイ疑惑の女性が設立した中国企業、輸出禁止のAI半導体を入手 米報道 (ＡＦＰ＝時事)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEJEQmNYbENTRHUtTEFPVGNDNUZZbF9vZEJjMHQ2SE1vdkJsOUI4UE42ckp4X01oVTZGaWNOb3pXWDFtMlhtNi1WZnkwUlhfcE9yWU0tOEQ3V2M4NkRQaVBidjlHVl8wdERTNEpWS295cVVRaW9BRHpRNUN2aUgzM1pNUWJGcHZDYm5xeTdR?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-14T08:07+09:00"
     }
    ]
   },
@@ -178,6 +178,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮、ハッキングしたコインで本当にミサイル買えるのか",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEhWTzZsQXFuRlRxdS1Yd055UmRSdVRMNlVCc1kxMmRBdEQtbnJQdTh2ZUkyVWE2MmFfeTcxSmZQdmJGWWYxaWRpZDF4UjlYT2pXS0Q3a0k3M0NEVDZUZHRsRXY0QUxkT3JtUGFuSGhjVUlMQ0tTbWp4aVJqUXFFY21BM2lEbkllNWxSVGJB?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-16T03:00+09:00"
+    },
     {
      "title": "北朝鮮も動く…キム・ジョンウン氏最側近、米中ロ会談前にモスクワへ",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeF84M24zdEYyNDdUUXFxekZ5ZV9uM1dId0RtTDFUV1FOYUNoQ1J0WnlIZ0IxQjN5dVpWOFF4VElqSThHLVdxcEtOM0wxNnFjeHNad1JHbW5McDlvTTZaWjlVRE1jenZVejkwM19uMzZBQnJXd0FJM0tuSHJOVF9Cd0w3T21TZw?oc=5",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnMzOEZ3dGV2dU9PU1dRa0xhakxiLVVGcHVqQlN6cmpUdmZIckNRb0w1THZTOGF1V1U0QkVTYlYyVVVqbGZNMnU0eGE2bncwV0ZRb3JrOG50Skt0S2l1eXZZOUU3NXBycWtGbTBXRTQ4aTB2SWkyRjBkYnJWV2U3U2taS3IzSFVW?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-15T16:00+09:00"
-    },
-    {
-     "title": "史上初の米中ロ首脳会談の懸念…金正恩「第2のヤルタ会談」狙う（2）（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zekh1aTRiYzdBQkM1SjZNek9GdjZZWWl3ZTItOEwyQXpBb21QcFR0VEdBSGU3RzFhUm5pQk1ybFNxdExRSl9RMGJLTy1pVzhKMnRPVjZGa1RGWVR0UWgzMjgyNnJLdnlESjJCU1U3TXdIRFN5ODQxbVZ3bFVPSWc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-15T13:25+09:00"
     }
    ]
   },
@@ -263,6 +263,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "欧州委員会、WHO、NATOは、戦争やパンデミックに脆弱な欧州の病院に対し、緊急対策を求めている",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVk1tZm15elBBYk5WRkk0TGEyQUxuQ3J5ckYxVHZqZThJM0RuV1F2ZWlkZUFQOXhUZnJGU1E4WkdnSXhvMElobFdtN1J3MTVDUGRNSkFwWEx4djB2SkQzU1Q3X1VmeENMbjQtbW1HM3RSR2I4RkxYQkRCUXd0Y0RQZ1l4UVQ0NF9pZWQtZ2x0M1VYTjVDdC1KYVRKY0QtN2c?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-16T02:50+09:00"
+    },
+    {
      "title": "エストニアは、ロシア軍参謀本部情報総局（GRU）に帰属される破壊工作未遂を受け、ロシアとの国境閉鎖を発表した",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGcyUWk2bGx2ZUFKT2U0QXpNek5vSkdNMkpQMlktRzBWTlB2QUhMV0lHaEJXak52UVFEV1ZrS3B1YlhfU2xDM3lUVDhnM2hNTVkzcllvV0g0QVRtZmRzcW5abjFERlhUcVViUmpzWE42WWpZRy11V1hBZ2g3S1ZyMFBGRFU3dTVhVTR0Y1pMU3FxVEdiYzZvbkl6SVE2MWE5RzlJdTFVU0I0QQ?oc=5",
      "source": "Informat.ro",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scFFidXlhRW5fb3pwMDY3UkJUNlRwM3hoWnlOYUNQQWYtcU9ldGhpV3Y2MWhuX0lfSXpCanRQRlpZUW9zcVhzWE1MZ3VTLW1heFJQOXdVSUc0QQ?oc=5",
      "source": "みんかぶ（マガジン）",
      "at": "2026-11-15T12:00+09:00"
-    },
-    {
-     "title": "米、NATO加盟と引き換えに東部撤退を打診か ウクライナ大統領が明かす : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jWDBWY19ZbEVMSzY5OGZEZkRHZGtlOVNLM2piMjVfTmJ4SjVUa3NXYmc2RWszU3duVGY4WWJ6V3RrWjhwLTJTT2tRV0c2TlJGQ2x5Nm00Y3p5dHItMzJIN2kzOA?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-15T11:03+09:00"
     }
    ]
   }
@@ -353,21 +353,15 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WY0dubkdYSVYxVXhuOFdteTEyMnA5UVdrSnpmYVQwYkhNaWpadGtGLW83enh3dkozZ2VhcEdkaWJJNDBO?oc=5",
    "source": "@DIME アットダイム",
    "at": "2026-11-15T21:00+09:00"
-  },
-  {
-   "title": "Jアラート訓練放送 2022.6.15 @Jアラート @訓練放送 @本番では、津波が来るから直ぐ避難。@交差点注意です。 Taylor Heinicke Nfl Retirement (rBrqBvwBAJ)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHlCQ0JfdDFRZ1ctZGJVVzc3VnJJWjRKRFg0YVNaaUUtQVZDUWpoajZMWGxwOWhEUjlRejNILVNNZUNFdnNFLW9WY0NuZTc4ZzFhbGFFOURad3lmaGxORFAza2tMdUpMRTRrQUVqaVduSjB6RTh0QXJUazVBRzVtcGVB?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-15T20:28+09:00"
-  },
-  {
-   "title": "令和最初のJアラート全国一斉情報伝達訓練放送 Shakira (uY9Fa2Ec2E)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHhHUnk2Yk02a1pYOWsxWHQyekNvSnc4bW1LX0FDLUwyZTVJVlZPMWlhbFU4c2l5N2dYWVIybWJZUUptVWpaNDE0OVc4WXk4MlVKbVR2VXNZcTd4T2dxSlRsVEl6Y3lJUEJPSjA1TGVNeTlJM19hOW1SdFM3d0c1MUx5X2FvU2M?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-15T11:09+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "Outlook障害、ラジオ局でも影響 リスナーのお便り届かず SNSでコメント募集",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SNzYzXzVjUjR1VG1YWjNsZWFIWmFfZlY3dmk3UGxXWjNxYS15cjk4WGpicWZjYU5TOE9FLURabUQzdENlNUhpOUxEX0RhR1U4MUR2X2l3cXg3YUwwNVFreDBxY19qMlRDeDdGd1ROdDNTQQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-16T01:01+09:00"
+  },
   {
    "title": "2001年同時多発テロ以来…全米の空港で4時間の「地上待機命令」 約8000便欠航150万人に影響 大規模な通信障害は老朽化が原因 混乱続く",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZdjNlVXNwd01kOHBPdHhmUWExcWswOXBPcFctQ2FkRkY0LS1xQ1phMzZvSmk3dTV2SmhHeE1xUk5qcjgtVnk1eDJKejVpQ2lJUHp6Zm4yZldfNFhtb3kyQW1DMXozNWc?oc=5",
@@ -409,12 +403,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd19Ka0Q1cW94Y2pxQmJMeE1ZRWplcUVGT1dRd1A1bTdTeXNfeHVQVUxXWExjOFMtcjN5dkxGYnlneXpUbkdlYXZkSk9TcGgxRVJOM1QzcGZlczBOR3dNVmh3U0lhZkhDVllKTnkzMGJ6eFVTNzUtVUxWSG9qRkNkWmtiNGxkODNy0gGcAUFVX3lxTE03dERWMXR2NkphbUU2Mzd6RWR4RnhNbjFrRFNBR2JsMW9wQ2JhMjhQSmlYNFpwTmplX2ZiUXBPRUl2ZTVDQVZPbEdnV0ZYSTZKTmViajlPQWlrU0ZFY09URmJPX3Vyb3hxTnNrOG8wM0Qwb2txN0lVZEphOFM3NS1QZmxQNm9zUXh2cWMzUFdialNYU0FockF5UHNjSg?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-15T15:31+09:00"
-  },
-  {
-   "title": "両陛下が大阪訪問 システム障害で日程一部変更 | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPTnlTTFdaYUN0SXpraElNRWxJZXFDUmZXeTk4VzhZNElwaHVMeGQySkJIRlNQT2w5X1RmM3hYS0Vjb195LWlqT2dvMEFJT0pFdlExNXB0Y2FjT2JaUVVOai1WNmFDMFJxa2V2WnRxcFJiN1VoYzVMZVNuOGVPSk1HUUxMd3BMN0pFTlVXZUJ3a2JRVzZoV0FnZE1TNEw1OGVPX3RHS1k2WlYtelZQeHlWQ1NNT1ZTZDItZ0ptQWFKaDFWZ2M3a21NTk9yU0FDTGVSX0ktMm5HM0lRMTdLcjlaSU5wcDFuNGJZZG1CMlNJVmZTaG5rdG40N3JHQ3BRdkdLZ3dlU1hCaHFmVVZ5ZUkzMUE4Ty0zeFBScWZmVEVkMmI0M1FZcVhHd2QyaHhYeDYxdG8xM3A5eG1ZRFk5aGNnX1hNTDVFNUhnRmxnQ0Z2c282Ykd3MXRXSmYwQmtKYU13N2VwSldqbFVXOVp4M19MTUttY3hSNW9lYWd4cnc2QXZOalZBN2V6TGFwYw?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-15T15:18+09:00"
   },
   {
    "title": "香港ディズニーランドのシステムに不正アクセスの疑い 1万7000枚の電子チケットのQRコードが盗まれたか",
@@ -468,6 +456,20 @@
   }
  ],
  "world": [
+  {
+   "title": "北朝鮮、ハッキングしたコインで本当にミサイル買えるのか",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEhWTzZsQXFuRlRxdS1Yd055UmRSdVRMNlVCc1kxMmRBdEQtbnJQdTh2ZUkyVWE2MmFfeTcxSmZQdmJGWWYxaWRpZDF4UjlYT2pXS0Q3a0k3M0NEVDZUZHRsRXY0QUxkT3JtUGFuSGhjVUlMQ0tTbWp4aVJqUXFFY21BM2lEbkllNWxSVGJB?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-16T03:00+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "欧州委員会、WHO、NATOは、戦争やパンデミックに脆弱な欧州の病院に対し、緊急対策を求めている",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVk1tZm15elBBYk5WRkk0TGEyQUxuQ3J5ckYxVHZqZThJM0RuV1F2ZWlkZUFQOXhUZnJGU1E4WkdnSXhvMElobFdtN1J3MTVDUGRNSkFwWEx4djB2SkQzU1Q3X1VmeENMbjQtbW1HM3RSR2I4RkxYQkRCUXd0Y0RQZ1l4UVQ0NF9pZWQtZ2x0M1VYTjVDdC1KYVRKY0QtN2c?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-16T02:50+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "ウクライナ軍はロシアの製油所、石油化学コンビナート、ヘリコプター工場を攻撃した",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmN3N2NXSVN5bE5MVi00WVp4TDFNUFFvNjdwM2Z0MU9QaU1KcHNGbi1NMmlwQ3Bmc1hGUTdNakgzZ3BkajdETVZEcXo4SzE0bFFud2hxOUE0dWlTcFVnbTctSW85REItSzFkdGo1bjg5VVpTX2MzRFczUFl2a2tMNW92cnBaQ05zS1NzNHl3bUhudnVoak5OVG5Sc1lZd194RXFjNlNPcVEyNzVyRDlJ?oc=5",
@@ -593,20 +595,6 @@
    "source": "AFPBB News",
    "at": "2026-11-15T16:10+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "米中ロ首脳会談を前に対日批判を強める北朝鮮 「敗戦国」「戦犯国」「新軍国主義」を連呼！（辺真一） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnMzOEZ3dGV2dU9PU1dRa0xhakxiLVVGcHVqQlN6cmpUdmZIckNRb0w1THZTOGF1V1U0QkVTYlYyVVVqbGZNMnU0eGE2bncwV0ZRb3JrOG50Skt0S2l1eXZZOUU3NXBycWtGbTBXRTQ4aTB2SWkyRjBkYnJWV2U3U2taS3IzSFVW?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T16:00+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "ウクライナに東部撤退を打診か アメリカ、NATO加盟と引き換えに ゼレンスキー大統領（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yZW9IeVdza2R2bEtEdi1HT29nZHFMbVNUQlZQdjdBcHJTQTFtQ3Nld1BaaHBLMFN6bk5yTkdUM2xHQ2pqTm8ydkUzcjBBcjV4ZUNsZVNyNkxya1NDMVdNbHRIc1BOWGE2VUhwZlc1S0x5MEF5N3lIc0h1MTFhWGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T14:05+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -626,7 +614,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」6件",
-    "北朝鮮：「攻撃」1件",
+    "北朝鮮：「攻撃」「ミサイル」2件",
     "ロシア：「攻撃」「侵攻」6件",
     "欧州・NATO：「破壊工作」1件"
    ],
@@ -638,10 +626,10 @@
      "at": "2026-11-15T22:39+09:00"
     },
     {
-     "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IUlZhbWVsRndHclNyV2lMVVlDQkRETVB2NXllc1ZaSU15Z201UUhzUDhReUhxbS1UR0o2MldkSm1fNGNHcDV5bFJXSU9YczhhNkxOedIBVEFVX3lxTE5IUlZhbWVsRndHclNyV2lMVVlDQkRETVB2NXllc1ZaSU15Z201UUhzUDhReUhxbS1UR0o2MldkSm1fNGNHcDV5bFJXSU9YczhhNkxOeQ?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-15T16:10+09:00"
+     "title": "北朝鮮、ハッキングしたコインで本当にミサイル買えるのか",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEhWTzZsQXFuRlRxdS1Yd055UmRSdVRMNlVCc1kxMmRBdEQtbnJQdTh2ZUkyVWE2MmFfeTcxSmZQdmJGWWYxaWRpZDF4UjlYT2pXS0Q3a0k3M0NEVDZUZHRsRXY0QUxkT3JtUGFuSGhjVUlMQ0tTbWp4aVJqUXFFY21BM2lEbkllNWxSVGJB?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-16T03:00+09:00"
     },
     {
      "title": "ウクライナ軍はロシアの製油所、石油化学コンビナート、ヘリコプター工場を攻撃した",
