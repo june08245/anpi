@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T09:45+09:00",
+ "updated": "2026-11-15T09:58+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -111,7 +111,7 @@
      "title": "アメリカ＆イスラエル、ふたつの選挙でさらに泥沼化！ イラン戦争の「終戦シナリオ」は迷宮に...（週プレNEWS）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUzZRXzBUcU92WUY3U2lXNElpVzd0LW55b2tWOXJjWXlYS05JeGJvc1FzcXE0dXlUc2I5MEdzaDZVQ2xLNXF5TWlQNDlRMEhpZXJkN0JJNFJVcHNIZ3VjVEdpU2U2Q2M3cVoyOE45YTJDVktvMHpuOEJmTGVpYWs?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-15T06:37+09:00"
+     "at": "2026-11-15T06:31+09:00"
     },
     {
      "title": "ルビオ国務長官、経済的に弱体化したイランに対するさらなる米軍の行動は不要であると述べる",
@@ -162,12 +162,6 @@
      "at": "2026-11-14T12:13+09:00"
     },
     {
-     "title": "中国、原潜ミサイル発射実験 太平洋に着弾、日本は懸念伝達",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QX0dDRFROb2REbUVJS21ZXzBrd3R4eTNpMW01ZlZqSWViUWh3cl8wZWgzblJfWnN0UGwweGNBTGVMUWRGQmlieGRrWXBINzIyemt2Mm1wVElnRWxxQnRnYTBSazVUV0ZLR28wbnBnSQ?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-14T10:00+09:00"
-    },
-    {
      "title": "中国の海洋調査船、潜水艦作戦を支援か 台湾東部の地形や水文調査 台湾有事で米軍排除",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkRVb01Yei1RTFE1S0xQb0xUVzVfU081dlVaekxsTXVIMVAtd0ItX3c0Y0EyZjgzTjVZNHlzeTVkUG1lTVFsQWd4SS02LU9xR0pPUVBWVlotOG1ON0k4bUtPMnRQbXRSVDVjdkFQVzQ4V1htZHNuSWNmd043OWI5N1RlTjdSRHNJdUp0WmhWeXdCcC1JeXU2Um9CZw?oc=5",
      "source": "JAPAN Forward",
@@ -184,6 +178,12 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbjc5dEZuWS1VZ1NxSjVnYlFKMFExN2ZKWjJINFNBTktSejBNMUxoaTBzZ2hGNjZsb2NfQWZSMzI4YlZ0cjl1YUMxTkt5Q1RXT3dJeGl6MWdfSWttb1NrNU9XeTN2YVdVaVhGeTNPel9KR3RaUXZxZFVRemMwSVU1LWdyY0wtRmNE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-13T17:31+09:00"
+    },
+    {
+     "title": "中国軍の偵察型無人機と推定中国無人機が与那国島と台湾の間を往復（11月11日、BZK-005）",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbFR3a0pGekJCSFZWS2pvTG9aNzVFRnVkYWRUekVVUk1oYzE1U0lEU0c3b3RHSlBwNkNLMnBPZzhzOUthMmRySWRLMFdmYkpCSUJyVW4wUjc2QmNv?oc=5",
+     "source": "J ディフェンス ニュース",
+     "at": "2026-11-13T15:20+09:00"
     }
    ]
   },
@@ -360,8 +360,21 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
+  }
+ ],
  "cyber": [
+  {
+   "title": "ニフティ、@niftyのログインとWebメールが全国で障害 ココログも書けず原因は未公表",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NUmEtbWN2cDkxRkw4M3o1WHA0VjlpSFF1QnFBMnhNcFNlWEt3ZkRNeGFtWEFzMkxvb2FsQmRxczRySXlqZ1ZtTzBReGdlTjd2U0dJ?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-15T09:43+09:00"
+  },
   {
    "title": "SmackDownスーパースターが通信障害による飛行機の運休により足止めされたと報じられる",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56di1VRlg2UFhNbWgzaVJzXzN5bHgyT0F5eWRMbVF6NmtOLXNuLUswUXIxMHE5NDFoeGc0ZDQ1ai1DU0F4ZmVnSjA4YVZyWXlaeWlYUnBhTQ?oc=5",
@@ -441,12 +454,6 @@
    "at": "2026-11-14T20:09+09:00"
   },
   {
-   "title": "サイバー対策と通信障害 半導体関連の好調な動き 地震からの復旧と事業転換【熊本の経済1週間】（11/7～13）",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wOW1RSzI3R2YySWRpUVRTOWFyTGU5REYwTGhiZUxIT0NuVXVIY1RZem1LelJsNF85SEhCQ3hkdzM4YUZrVTFUYl92TmZOR2s?oc=5",
-   "source": "熊本日日新聞社",
-   "at": "2026-11-14T20:00+09:00"
-  },
-  {
    "title": "ゲーセンALL.Net・Aime不正アクセス問題、セガ13タイトル試験稼働へ！メンテから2週間…『オンゲキ』『頭文字DAC』など再開。『maimai』は引き続き停止",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aVjU2NzRLZWVua2VSaUdBUE5vaTZFNTVDLVAzVzY1TVRFV2FzRmVDUVJiX19lRkhwcGlhb0dvUl9mY0x6cWJrMkV4aEVmc0RqNFF3U1JkMFRPaVZwcV9xVHF4WQ?oc=5",
    "source": "Infoseek",
@@ -487,7 +494,7 @@
    "title": "アメリカ＆イスラエル、ふたつの選挙でさらに泥沼化！ イラン戦争の「終戦シナリオ」は迷宮に...（週プレNEWS）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EUzZRXzBUcU92WUY3U2lXNElpVzd0LW55b2tWOXJjWXlYS05JeGJvc1FzcXE0dXlUc2I5MEdzaDZVQ2xLNXF5TWlQNDlRMEhpZXJkN0JJNFJVcHNIZ3VjVEdpU2U2Q2M3cVoyOE45YTJDVktvMHpuOEJmTGVpYWs?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-15T06:37+09:00",
+   "at": "2026-11-15T06:31+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -620,7 +627,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」2件",
-    "中国・台湾：「ミサイル」「封鎖」2件",
+    "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「ミサイル」3件"
    ],
