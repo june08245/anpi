@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:15+09:00",
+ "updated": "2026-11-15T15:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -295,7 +295,7 @@
     },
     {
      "title": "アメリカ側がウクライナに「NATO加盟と引き換えにドンバス撤退」初めて打診 ゼレンスキー大統領明らかに",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OV3B4b3E3WWdlMVVOeUxmQUNELXZkcFZ2MW01VW5wSnVKdkFkTFRqZl92T0FNZ2V0UU1ucXBYc1FVUG1RR2RzS1htaFlSaTc0S0Qwd2VSSmxYOHN0ekJkVXJheWNOUFBXRUxuQUZ3T21uUlNY?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaG5DcjhKb09EdFkwRHA0TEo1YnhGMHU3VnBkRUhJbFljM2hTbDVUdjhGRGpUalgxYkstcV9OYmI0bmR6N2tQd3Z3ZFhwOGVGQ1l4YjRxX3FDZEdXNEt5X3hKRklsaG5GVlJ5REZPM1M?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-14T23:32+09:00"
     },
@@ -354,7 +354,20 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "【2022年版】もしも「君の名は」が実在したら...【NHKニュース・Jアラートシミュレーション】 Alex De Minaur (QgXFvDvw4i)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGhmbDBSaHlCZzJHVGtLNU1BbFNySWxZb0hVcnFnTTVvYjBzRkpsT1kyQklUSm1idThDWGlVaEljc281SlRvVlZRY1B3LTJnZTFDWWVIeW1HdW9qSERoYS1uOFlTQjczajF3dEVLUWFQM2tjYTZ6MXdFMjdoRkhwSkxBcw?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-15T11:38+09:00"
+  },
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "米航空便 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
@@ -417,6 +430,18 @@
    "at": "2026-11-15T07:18+09:00"
   },
   {
+   "title": "韓国の地域商品券アプリに不正アクセス、利用者3083人の個人情報が閲覧される",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96NW04c2kyQ3JmMWxCMk4zNGVwc21FU0xPQURSVWVKeV8xajlZQk0zdzNGTUM2NHZ3TlpJeFZXaklKV3pySkhXV1FUQktyaWdDS0cxZl81bV9waFU5ZDFESXZ5Ui04QURhcHk4SXVSb3RCZ9IBVEFVX3lxTE5GajFNaW9YS1NYclpnNTdnZzV5a3VETjBuYndycWgxRmRueVJxc2Y2SW5kTFkyMnpQaGRReWN0TmJzNkFyUjdxcmFxT2xUWHJVaG14dw?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-15T15:28+09:00"
+  },
+  {
+   "title": "福井県のデジタル地域通貨「はぴコイン」に不正アクセス アプリの全サービスが利用停止に",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5keWJoT3JUbTZDUktib0VPVS1MVmFwcXk2Z19xNFJ2R3k1XzI0VmlzUklKTWtNYWhRMWNzU1hqX0E1RWR0ekJkdlFJaUR4MXlTM1FxclJnWm9rWFRIQjFtb3oyOWFjWGs?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-15T15:14+09:00"
+  },
+  {
    "title": "フランス郵便の支店が、大規模なサイバー攻撃で2,200万人分のデータが盗まれたことを確認",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVJzUldtc1hhTnRPY2FHR1dfMWZTcldyNGZrSGJNX3FzaUo0azFhVUc4M1hoQUxEMnlXUzMtR1lELWplc1lVMTAyR2VEWlB3djJKVkRrRWFDNlU4SkxLSGxmNGFBcWJlSlROSV9jQV9KWndlU24tOGV0bU9LMS1TRXZLekRNV2JoaV9YOUN6RkZUQktSdlBHT3g2bG9wQmtyUGpFUldLbjFZc2J2N3FGclhR?oc=5",
    "source": "Informat.ro",
@@ -433,18 +458,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sLS1mRDhFWkVreWVLT2dfeWVsMW1ReEVPcHhZSUtkWThHZFFDb0tQcE1pUkVvdXpSZVNWaEZ1eDNsazVUc09DMnJSd1Z1UnlYelMxbzA4NDN1WTJkOTQyeWpzOUFvQUI4dEJobEljWlNEaUlJMXh6bG93RmRnV00?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-15T14:22+09:00"
-  },
-  {
-   "title": "川口市が、施設予約システムへの不正アクセスで個人情報の漏洩について発表してます。",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iZmJOWFpTTjBmSmtybjlRVkNkOGFWemxoc2tiX3JIeEJmSFhtcjJrcWJoS09tZVQ4VFV4TGhkemVHWnpJdUFrOWpjUFlxTVZXT0kyZzc2TXpsUQ?oc=5",
-   "source": "川口マガジン",
-   "at": "2026-11-15T14:08+09:00"
-  },
-  {
-   "title": "近鉄不動産「パラディ学園前」、LINE登録情報最大3,716件が漏えい 委託先利用のCOMSBIに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHVLa3prbW1nczIxb09TR2tEOVpxSmdpMV9vanFSRjRtZmtjVmFOaWQyTE9EOXZjb09fVl90X0dROTh2cE1tek82NDh5b2RfM25RZTNITUVUOUlxZlRsc0x1b2FHOW04RFpRZm9pVEw5a3NVV0s3ZXFDWTZFLXp2N3VYTmlQWFFPLTc0OVRORmRfNmNtTE04b29pMktTVHRYb0RuZDlRd1lDQQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-15T14:00+09:00"
   }
  ],
  "osaka": [],
