@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T14:15+09:00",
+ "updated": "2026-11-15T14:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -174,10 +174,10 @@
      "at": "2026-11-14T12:13+09:00"
     },
     {
-     "title": "中国、原潜ミサイル発射実験 太平洋に着弾、日本は懸念伝達",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QX0dDRFROb2REbUVJS21ZXzBrd3R4eTNpMW01ZlZqSWViUWh3cl8wZWgzblJfWnN0UGwweGNBTGVMUWRGQmlieGRrWXBINzIyemt2Mm1wVElnRWxxQnRnYTBSazVUV0ZLR28wbnBnSQ?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-14T10:00+09:00"
+     "title": "中国の海洋調査船、潜水艦作戦を支援か 台湾東部の地形や水文調査 台湾有事で米軍排除",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkRVb01Yei1RTFE1S0xQb0xUVzVfU081dlVaekxsTXVIMVAtd0ItX3c0Y0EyZjgzTjVZNHlzeTVkUG1lTVFsQWd4SS02LU9xR0pPUVBWVlotOG1ON0k4bUtPMnRQbXRSVDVjdkFQVzQ4V1htZHNuSWNmd043OWI5N1RlTjdSRHNJdUp0WmhWeXdCcC1JeXU2Um9CZw?oc=5",
+     "source": "JAPAN Forward",
+     "at": "2026-11-13T22:08+09:00"
     }
    ]
   },
@@ -185,6 +185,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "史上初の米中ロ首脳会談の懸念…金正恩「第2のヤルタ会談」狙う（1）",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpQm5SSGtEdFdwbk1mbzU1MXFOdFd3UGhzQUlFV0RvZnpIb3p1cWpzb0RKNk0ycGliemFKdHdGaW5heURWVzFXRkN2dVBiVVpmZFRNNQ?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-15T13:25+09:00"
+    },
     {
      "title": "「軍事での存在感」競う後継者候補ジュエと叔母・金与正…北朝鮮\"最高権力\"の行方は（金賢） - エキスパート",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVk9mRElFb0tkSWRYN1ZEelptWlpENFBpakJ6aHhSUE9Nbk05Z05ZSE1MNGI4RktVcVpvVVh3dzlwOXRtWjkzWW5JRHFwcTR4Ull2ZTNxanhuS3BnQTNIV3htSmNZU0xfVzdGVnZ1d3B1YUhyZGlIc2xON05XZDNHUWpGY0ZSUVhX?oc=5",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Qzh1LV8tNFpwQzZOVWxwYmNnU05nbXI4cHVKYnVVX3JwTDdkNUhsZHUxaWhKOVFvZmlla1UzeU03SFN4ZGpfUVA5NzJseXRGZjFFcGgwX1ZPTURPQ0NHcG5LUWo1ZjhOYVFETE5qTUJWVDhYZy1zVl8ydDAtMEE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-14T10:05+09:00"
-    },
-    {
-     "title": "「北朝鮮は3日以内にミサイルを撃つか？」…肯定・否定の根拠を並べて判断を委ねる“AI参謀”、韓国企業が公開",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNQjNFd1lzekctbDdKd1Y5dDI1MnNWRFBrMFIxbS1lRUdWRG5VbnRUQTB0TkwtYmNka3hSdWNnZlNiZ2VTanEyZUdyZ3hJVGw0M0JtY0JvVmpZZDdVaXVESEo1R0pvY3pDVnJ2RXgteTBQd1FfbWpvMnBqVjFfVTg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-14T07:12+09:00"
     }
    ]
   },
@@ -354,14 +354,7 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [
-  {
-   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-14T23:13+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "米航空便 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
@@ -424,6 +417,12 @@
    "at": "2026-11-15T06:18+09:00"
   },
   {
+   "title": "「陸上部の仕事はレースで結果を出すこと」 本社が不正アクセス騒動、GMO監督＆黒田朝日ら選手が明かした胸中「会社のことは会社の方で…」（THE ANSWER）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sLS1mRDhFWkVreWVLT2dfeWVsMW1ReEVPcHhZSUtkWThHZFFDb0tQcE1pUkVvdXpSZVNWaEZ1eDNsazVUc09DMnJSd1Z1UnlYelMxbzA4NDN1WTJkOTQyeWpzOUFvQUI4dEJobEljWlNEaUlJMXh6bG93RmRnV00?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T14:22+09:00"
+  },
+  {
    "title": "川口市が、施設予約システムへの不正アクセスで個人情報の漏洩について発表してます。",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iZmJOWFpTTjBmSmtybjlRVkNkOGFWemxoc2tiX3JIeEJmSFhtcjJrcWJoS09tZVQ4VFV4TGhkemVHWnpJdUFrOWpjUFlxTVZXT0kyZzc2TXpsUQ?oc=5",
    "source": "川口マガジン",
@@ -446,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKM3FOU0JvYlFVcW0wY1B4UlVUVVBUOXk2MVhfNU9IOUtPUy1JRGFvTnM4ZU5zWTJ4RHNCVnVvb09mNTcxTkZEdDMzU3NRbUNMcHBv?oc=5",
    "source": "ビジネス+IT",
    "at": "2026-11-15T13:17+09:00"
-  },
-  {
-   "title": "【速報】福井県のデジタル地域通貨「はぴコイン」の決済出来ず　不正アクセスの影響　「ふくアプリ」の全サービス停止中",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NdVk0b1JDcE9fcGMzUExXSlJtZ2tzOXlJN0M1R1lWNmNkN2JTMHRpVTg1UXBHdzFlZGtOb0c4QnZ6V1BmSVVfLVhod18telhYZUNERFJoV3ZXdVE4bFlKdENsYUJiWEJQbnVwUFdTRUlVN2tFVEJxeXhTSdIBgAFBVV95cUxNbjMzZE1keE1LLVlJdkkxeWs3N0ZQQWdGQ2JsakVwUkZfUVExVzVHbFo5RnFCeUl2VXB1LVpFcXlVbVg4V2JmYjJpVUk2RmJ4UWl2NzdlN19sY2tISURweVpmdTR6R2ZPYkRiZk1OSGpGQkpuaTloZVBWM0o4b0ZKbQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-15T12:46+09:00"
   }
  ],
  "osaka": [],
@@ -483,6 +476,13 @@
    "source": "TBS NEWS DIG",
    "at": "2026-11-15T13:35+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "史上初の米中ロ首脳会談の懸念…金正恩「第2のヤルタ会談」狙う（1）",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpQm5SSGtEdFdwbk1mbzU1MXFOdFd3UGhzQUlFV0RvZnpIb3p1cWpzb0RKNk0ycGliemFKdHdGaW5heURWVzFXRkN2dVBiVVpmZFRNNQ?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-15T13:25+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "米中ロ首脳、19日に初の3者会談 ロシアも開催確認",
@@ -588,13 +588,6 @@
    "source": "ABEMA",
    "at": "2026-11-14T21:09+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア 米ウクライナとの協議でも東欧のNATO軍撤退を再び要求 (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FSDZDVzlmMDVQazBYS2V3UW95Q3h4cnFlUmZsWGpmdXVWYmJMN20zdkJyQ20yMEF5clF1VnktX1ZVc3pkWW1CZHROWFBVZVpsZENPb3VUM0lBYnRqYVE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-14T20:03+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
