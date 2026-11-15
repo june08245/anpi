@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:30+09:00",
+ "updated": "2026-11-16T00:35+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -447,7 +447,14 @@
    "at": "2026-11-15T21:09+09:00"
   }
  ],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "開幕3日で異例の完売…大阪の名物イベントで「マグカップめじるし」人気爆発、ネットで高額転売相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9laUMwSFhwNk44eGNUM2UzOHFVZ3QtV25YYWlFaFhLUzBDeWVqaWRqakVBR200cWhsNmt1MmNhcEs4WVdRTGdYYjU3bWhZcGhrZG1GcQ?oc=5",
+   "source": "Lmaga.jp",
+   "at": "2026-11-15T21:30+09:00"
+  }
+ ],
  "world": [
   {
    "title": "イスラエル情報機関は、イランがトランプ氏を標的とした攻撃を計画していると非難",
