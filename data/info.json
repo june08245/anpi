@@ -1,15 +1,9 @@
 {
- "updated": "2026-11-15T13:30+09:00",
+ "updated": "2026-11-15T13:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
-   {
-    "code": "10",
-    "name": "大雨注意報",
-    "level": 2,
-    "status": "発表"
-   },
    {
     "code": "14",
     "name": "雷注意報",
@@ -17,8 +11,8 @@
     "status": "発表"
    }
   ],
-  "headline": "大阪府では、低い土地の浸水や河川の増水に注意してください。",
-  "reported": "2026-11-15T09:22:00+09:00"
+  "headline": "注意報を解除します。",
+  "reported": "2026-11-15T13:29:00+09:00"
  },
  "quakes": [
   {
@@ -108,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "北国の暮らし直撃”灯油高”　冬到来　各地で不安の声　原因はイラン攻撃　アメリカ中間選挙大敗　トランプ政権イラン再攻撃の可能性は【サンデーモーニング】",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpOGhkSVFIZXlJYzE2ekM2ZXBGUnAweDdQQzFOMl9NLVlnbVZsNW5fdmxFRFpHMVkyRnpFX1dYbnVRZHB2YmliX3NzV1ZKaVVzdHVoOGxyX3NPbEtmcWtqckowTEtMUVJxcFZxVUVB0gFzQVVfeXFMUDYwVDItY0tSNWtoMVc2aTdRUmEweG80am5XeVY1ZlRlak9DOThzb011VHU1MjZPRWt4bXF5QXJmaG5Mczc5dEZCTzY0VWE5eTJoc2t2Y2RXWmZkWlBsQUNYc0R0b0lVUHV1S3hyX1JnVTlrUQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-15T13:35+09:00"
+    },
+    {
      "title": "イラン、地下「ミサイル都市」を公開 「戦闘再開なら米軍への広域攻撃」 | スマートニュース",
      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNUEJLU2NWOVR5QnFfcUZYa2VNQnhIaFlZNTdDODF2UVE2UVYxMW11cWFnWVRKa3ZCeENHVG1vYUtpNjRvRVUyb3YxN3FvVHRmcjJhalBpaFdReVkweGdvWlpYU1RmWGI3MjZkVlF4bG9lUWxLQXhTVjBfN2V0amtDM18tUFpfOXBwSm1qRXBmb3RGQm5nNHVucmlLTGZCS2pLWGgwXzZXVVBwUk04VHk0dVBRQXpESXRucXlFVkdvYW5LTnZuX1F6MnYzcjJlLWJrZU1pQVcySUlNYVRqdUdsMExRWTRrb2ZEMmhQbXlCNWkwRmhtR0d5cEtlTFlaNjZkZTJrczM4ZlZ2b2lLNGw1STJVdTJ1cGtfRzVmdUFMcXhTSmt4WDNzay1Ra1BhbmNkZFVxNkxXWjZFNkd3RVhNUDliY0Y2OS1YbXoxcU15WlYzTzFnOFNnVVVBWWRubEk5YmFjdGtSb0RuMVdpLTIxSTVtb0hTeUxSRDFjcjYwb0NnbzJyQ3hfdE8wLW9XMl9HU1dRUzFMejdmOEtzMjNKUjl5TFRfNmZMRnNPdlF1cGJyRzYzNXVkY0VRdHd3S21mbHRhUmRBTTJqTnk5RVlWNVZTWk9Dd1ZicFNlVjVmRnItNE5XaXJuYXRCdFNzVVpCbXJjODRRcWpVNGNJNEx4T19JYw?oc=5",
      "source": "SmartNews",
@@ -136,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxORmJQZU9sOUxWUXFtb0ZGOWJIOGNZTFJINU5LWGlfcFV3R2hLdUtpb3JUSUl0QzNEWWNYc0lHZS1WcU9leGFWbEhuME9IekpKamROUE00MjBqMXU3aG55OWNZOGxtZlJKdktmQ0V4NlBQVC1kZlItWlV5bjlKRmo2NEJfdHRDMlNkYkN2NEdGNHllblFzY3o5emMzUlZCS1ZzRURRbElqVV9qT1I3NFhzUUZMeWlwcHEydDA2eHpBUDRNT2Z6R1AzeUx2SjVHYjhZMU9tQ0F0OFNrYXlMRjBoZ2lleFVLcXp6azJzd2Q5SEVKUU9TLTdmaXhDbnYtZnl5cmFpWE03NHhMUGlYbmNaNkdWQkZ1MXFXZXJ0WHdyRHQ0QjVzdnZXREw1aEg5QTZBbG1wTlRqNmV1YjI4bk1GdFBoR05DWmlMMWdTR1R1dW9id2J3cXFHZDM5NVJhWl8xaE1WdWwtZlowYVFET0VKNkRGcjFqY2hKS2Rsa2lKUjNlV3NyQ2NNYmlhR3NpTHVDbW1FdllTTllPcG94dUp6SVRsVE5iOHpCVEJZYUZRcHpLUmhpVWZweEhJQXlsRXlRRzFjbklkZVByUlF2cXgyVkhiT3JuMkZFWHI1RTlnSjlQRmRMWkFmT2RXMklydHNIR1RIVlBuZFl2dw?oc=5",
      "source": "Pars Today",
      "at": "2026-11-14T19:48+09:00"
-    },
-    {
-     "title": "分析 |対イラン戦争で米の損失隠蔽を試みるトランプ政権",
-     "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQRWtXNWwzMXoxZ0dFaDRjYjV5TGNFTnE4RVc1dVQwYUpuSnhBT2hselBLT2dKZEtGWGJTRlJVQWNndHN5R0JWdmVXcUpFd1F3WmhyTEd6bnQtVG1DRkdRTXRkWlJTSERpRlVfV0Rmd1AzdkxUMGI3cktkSkduMGNJRWEtRTY3TG1XbTFMR2xVTlhxa1dtaEd4aGhMUkkwWU5mdGh3N0RkS1R2al9lMVVoN2x5RDUxWHMwM3dhUHFYN3lKc2pPcXJaR2s3QTVseW0zeDRFNFF5bXZ2NEhVbnlPeFNUbFNFcDJpbDN2WEZVMG5VMzNrY18wa1FYb2dyeUVQU3htZ3pNNkViQi1aWjJjRlY5LWcta0lkUmxqS0pjS3F5RVFqYU5ZeVJ3WkUta0tuWjhGX3Y4TDJoNzl1QlhIUEk2VjdvZHhuR1RhSVlLaGJObkEybUk0WC03SVc3Y21YRGVFNVc1aUNWbVVpbFhVMzUtcUtPR0hab3kwVkIwQWRUVE0?oc=5",
-     "source": "Pars Today",
-     "at": "2026-11-14T18:16+09:00"
     }
    ]
   },
@@ -150,9 +144,9 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害？暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWRMcjBIbENpYTN2TTZNbHNINFhDWllYUV8xZWpjNjM3d2ctS2JfSi1IdWljUGhtN2NzdlN2VFdXYmFZSEdtaDA1dzdmWWpScm4tTm5rcUlwRG9VNlNXbkZfNjlPMk0?oc=5",
-     "source": "TBS NEWS DIG",
+     "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-15T10:00+09:00"
     },
     {
@@ -210,12 +204,6 @@
      "at": "2026-11-14T16:55+09:00"
     },
     {
-     "title": "米中露首脳会談、19日開催へ 米高官、トランプ氏と北朝鮮との対話「計画ない」",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGFaNFVmVmxQWVY2SlN1ZjFYMnB1cGhkeENLMWVTTWZzdXlkbGJQR0FsMTFMWXJUZ1ZrTVFLdWZFMlp1eVBnOUszN3BBR3E2Q1RtZ2E3Umkxc3JoNGVJOFhSM3c0Vl84eFdtUWxCOGU4bUhOQVUzN1JFczd6UkFuUlNseTFGMTBOLW5Hbg?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-14T10:17+09:00"
-    },
-    {
      "title": "［深層ＮＥＷＳ］北朝鮮のサイバー攻撃、吉永ケンジ氏「能力の高さに気づき外貨獲得にも活用」（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Qzh1LV8tNFpwQzZOVWxwYmNnU05nbXI4cHVKYnVVX3JwTDdkNUhsZHUxaWhKOVFvZmlla1UzeU03SFN4ZGpfUVA5NzJseXRGZjFFcGgwX1ZPTURPQ0NHcG5LUWo1ZjhOYVFETE5qTUJWVDhYZy1zVl8ydDAtMEE?oc=5",
      "source": "Yahoo!ニュース",
@@ -226,6 +214,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNQjNFd1lzekctbDdKd1Y5dDI1MnNWRFBrMFIxbS1lRUdWRG5VbnRUQTB0TkwtYmNka3hSdWNnZlNiZ2VTanEyZUdyZ3hJVGw0M0JtY0JvVmpZZDdVaXVESEo1R0pvY3pDVnJ2RXgteTBQd1FfbWpvMnBqVjFfVTg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-14T07:12+09:00"
+    },
+    {
+     "title": "シリコンバレーの大物も陥った「美人の罠」…中国スパイ疑惑の女性実業家と、韓国を震撼させた北朝鮮HUMINTの共通点",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYc1RqQTE1ZjZCdWVNMzMyUHlFamh6dlREQkZCYXpCbTRaTm5FVFNHWFFDZkhxc2s3bVVoUE9wdkpkWEdkSDhiMVVvWGlXb1YtZ2dteWdBNV9vTTFzcVdMYUJFcWJ0TTR2TEtpVGM2dU1hdzYxamxsM01tUmw5c1U?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-14T05:21+09:00"
     }
    ]
   },
@@ -233,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "米中ロ首脳、19日に初の3者会談 ロシアも開催確認",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YOHRwbWxuZDJPcnpiX05abExFeE5GU3ZHM0RRWU5ZNjg0RWRXX19BQVhDdDNDT3dNX3YtQ2FjNzVzWUxYcFF5SWZBWHpqYWRJWm0zWU1QZF9BTl9xeFBF0gFkQVVfeXFMT1ZicURiMENLdlNhVnI2UzRWaVZ2SHZhYmMxb0ZwaGJ2eG1kcTNiLTdTUWpOU1dKS1pESTF2UTd6aWU0TE1fNGd5bDNZRWFDRGZ3b1FaaE1rM3AtbjBrdFFBUVpUTQ?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-15T13:16+09:00"
+    },
     {
      "title": "ロシアへの経済制裁はなぜ戦争を止められないのか……中国という「抜け穴」と欧州を襲う「市場のしっぺ返し」",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scFFidXlhRW5fb3pwMDY3UkJUNlRwM3hoWnlOYUNQQWYtcU9ldGhpV3Y2MWhuX0lfSXpCanRQRlpZUW9zcVhzWE1MZ3VTLW1heFJQOXdVSUc0QQ?oc=5",
@@ -262,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-15T02:24+09:00"
-    },
-    {
-     "title": "ロシアで2日間にわたり車両爆発が相次ぐ…軍将校が死亡、親ロシア派の人物が負傷 : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xQmN1SjBxeTRXVzRTeE1qLTdLeHJOQWZUQkJOeDYwN1dlOTRRc2gxR2R6UVBqX192dUtyd1lnUmYzZDVjMkNOQjE5ZFY1S05GdDlBUFlObzR1TU1XcFRJeEdxbw?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-14T20:55+09:00"
     }
    ]
   },
@@ -334,10 +328,10 @@
    "at": "2026-11-14T19:45+09:00"
   },
   {
-   "title": "最大6.5メートルの津波　南海トラフ地震など大災害時の避難所生活にどう備える　小学校で子どもや保護者らが訓練　兵庫・南あわじ市",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JMks5OHpkU1pKb0FURncyVHB2VWpDRV9iVjBHTFVCenJyVHdjTXBQbzdvdlFZeFlRTl90T0JaWEpsbnhSTXVYYUNsSnB3b3JPNUhSS3E1MTBkbTVmQ0p4SHgwVldqNTZxMHZFQWFBekNNbWhWdVlsWG130gF_QVVfeXFMTnV1TmZBYllKQ21Ob3dOZld4MnBKRmhaUEZObnZIQnRsZmZGRWN5ajdsZ2JscjhwMl9adHh4aGpzclNrQU5MeDJpd3J3d0dKWmRHNFdTSC1kdk1WLTZORUFuQml1ZTdCSEFwTEtmMDlpQ2lic1M5X2ZYRS1fMjlBdw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-14T17:10+09:00"
+   "title": "最大6.5メートルの津波 南海トラフ地震など大災害時の避難所生活にどう備える 小学校で子どもや保護者らが訓練 兵庫・南あわじ市（関西テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56ZGVGNHltcFFBQS05Ymd4M1JHSW00OGRyQ2VaVjY5MXZfUFZpX0w4LU1sX2NOek13ZXNKTW0tWG0wcmlPclA5MVdLamdDZ0xtVkFFZ0hTRUlXSVFaSEhVMmZVWUlCMW52T21faV8zZVdPb1hQZlEwZmxadVJnYkk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-14T18:03+09:00"
   },
   {
    "title": "南海トラフ地震を想定 高松市で総合防災訓練 情報収集や復旧手順など確認 (2026年11月14日掲載)",
@@ -360,14 +354,7 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [
-  {
-   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-14T23:13+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "米航空便 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
@@ -412,6 +399,12 @@
    "at": "2026-11-15T09:55+09:00"
   },
   {
+   "title": "米国で記録的な航空管制システム障害、FAAは土曜夜までの正常化を約束 約1万便が欠航",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0MXRyWlhROGFkWEhNUl9RMklGcTZDNHpiYmZ4b3NCNUloUm1WNHZoTmJod2hkZllIem54cW5uVXkyTXEwVTZFWVpjYlg3ejh2ampTYS1GMHNvaXZvNTByTjR0aWtkZ19RWFZVakFQZ3hjR0Qz?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-15T07:55+09:00"
+  },
+  {
    "title": "全米の空港で一時離陸停止 通信障害により1万6000便に影響・インフラ老朽化が浮き彫りに",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVm96bm1ubFExZUNaZTV0NHpJcGl0ZGx4ZDFJaUlHWkltNWpjblBDd2R0b2hKSGU3Ny12ZVpUQVBrTzFHRGdudU02UFk5S21CZDVz?oc=5",
    "source": "東京報道新聞",
@@ -452,16 +445,24 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YSVJZNTZNNVNVcGhHVk1xbWFiN2pHVzZsVTV3ZjZhdWxNMEhVN3dtYkpYUDVxVlQwVXI4RXNSZTVqV213NFd4VjZEcFdldHpSV0ZtZWFBQ3hlMGpRdEE?oc=5",
    "source": "福井新聞社",
    "at": "2026-11-15T12:35+09:00"
-  },
-  {
-   "title": "新潟市「e-NIIGATA」でメールアドレス3万7,931件が漏えい アララへの不正アクセス、申請通知メールは停止続く",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblhDcjFuRVZzT1V5Qmp5X1owcXJYU3JpeU5maEcxNEdsS19FaHAzVnA0cGNYX25wRTQxcVhTc3NjSEFBRmp1RU9KcG1CcEZkck1KNm45clREdGJFbmhjZzIybGN0Z0hGX2lnaFAzc2MyVTI4VlJrZGRPMWJXSnBiM1dILThVVmZ1ajhLRkEzVGNvSlAzS3JCOWhLc0poM29UWFhF?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-15T11:29+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北国の暮らし直撃”灯油高”　冬到来　各地で不安の声　原因はイラン攻撃　アメリカ中間選挙大敗　トランプ政権イラン再攻撃の可能性は【サンデーモーニング】",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpOGhkSVFIZXlJYzE2ekM2ZXBGUnAweDdQQzFOMl9NLVlnbVZsNW5fdmxFRFpHMVkyRnpFX1dYbnVRZHB2YmliX3NzV1ZKaVVzdHVoOGxyX3NPbEtmcWtqckowTEtMUVJxcFZxVUVB0gFzQVVfeXFMUDYwVDItY0tSNWtoMVc2aTdRUmEweG80am5XeVY1ZlRlak9DOThzb011VHU1MjZPRWt4bXF5QXJmaG5Mczc5dEZCTzY0VWE5eTJoc2t2Y2RXWmZkWlBsQUNYc0R0b0lVUHV1S3hyX1JnVTlrUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-15T13:35+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米中ロ首脳、19日に初の3者会談 ロシアも開催確認",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YOHRwbWxuZDJPcnpiX05abExFeE5GU3ZHM0RRWU5ZNjg0RWRXX19BQVhDdDNDT3dNX3YtQ2FjNzVzWUxYcFF5SWZBWHpqYWRJWm0zWU1QZF9BTl9xeFBF0gFkQVVfeXFMT1ZicURiMENLdlNhVnI2UzRWaVZ2SHZhYmMxb0ZwaGJ2eG1kcTNiLTdTUWpOU1dKS1pESTF2UTd6aWU0TE1fNGd5bDNZRWFDRGZ3b1FaaE1rM3AtbjBrdFFBUVpUTQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-15T13:16+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "イラン、地下「ミサイル都市」を公開 「戦闘再開なら米軍への広域攻撃」 | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNUEJLU2NWOVR5QnFfcUZYa2VNQnhIaFlZNTdDODF2UVE2UVYxMW11cWFnWVRKa3ZCeENHVG1vYUtpNjRvRVUyb3YxN3FvVHRmcjJhalBpaFdReVkweGdvWlpYU1RmWGI3MjZkVlF4bG9lUWxLQXhTVjBfN2V0amtDM18tUFpfOXBwSm1qRXBmb3RGQm5nNHVucmlLTGZCS2pLWGgwXzZXVVBwUk04VHk0dVBRQXpESXRucXlFVkdvYW5LTnZuX1F6MnYzcjJlLWJrZU1pQVcySUlNYVRqdUdsMExRWTRrb2ZEMmhQbXlCNWkwRmhtR0d5cEtlTFlaNjZkZTJrczM4ZlZ2b2lLNGw1STJVdTJ1cGtfRzVmdUFMcXhTSmt4WDNzay1Ra1BhbmNkZFVxNkxXWjZFNkd3RVhNUDliY0Y2OS1YbXoxcU15WlYzTzFnOFNnVVVBWWRubEk5YmFjdGtSb0RuMVdpLTIxSTVtb0hTeUxSRDFjcjYwb0NnbzJyQ3hfdE8wLW9XMl9HU1dRUzFMejdmOEtzMjNKUjl5TFRfNmZMRnNPdlF1cGJyRzYzNXVkY0VRdHd3S21mbHRhUmRBTTJqTnk5RVlWNVZTWk9Dd1ZicFNlVjVmRnItNE5XaXJuYXRCdFNzVVpCbXJjODRRcWpVNGNJNEx4T19JYw?oc=5",
@@ -484,9 +485,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害？暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWRMcjBIbENpYTN2TTZNbHNINFhDWllYUV8xZWpjNjM3d2ctS2JfSi1IdWljUGhtN2NzdlN2VFdXYmFZSEdtaDA1dzdmWWpScm4tTm5rcUlwRG9VNlNXbkZfNjlPMk0?oc=5",
-   "source": "TBS NEWS DIG",
+   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-15T10:00+09:00",
    "topic": "中国・台湾"
   },
@@ -575,13 +576,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシアで2日間にわたり車両爆発が相次ぐ…軍将校が死亡、親ロシア派の人物が負傷 : 国際 : 財経日報",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xQmN1SjBxeTRXVzRTeE1qLTdLeHJOQWZUQkJOeDYwN1dlOTRRc2gxR2R6UVBqX192dUtyd1lnUmYzZDVjMkNOQjE5ZFY1S05GdDlBUFlObzR1TU1XcFRJeEdxbw?oc=5",
-   "source": "재경일보",
-   "at": "2026-11-14T20:55+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ロシア 米ウクライナとの協議でも東欧のNATO軍撤退を再び要求 (2026年11月14日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FSDZDVzlmMDVQazBYS2V3UW95Q3h4cnFlUmZsWGpmdXVWYmJMN20zdkJyQ20yMEF5clF1VnktX1ZVc3pkWW1CZHROWFBVZVpsZENPb3VUM0lBYnRqYVE?oc=5",
    "source": "ライブドアニュース",
@@ -593,13 +587,6 @@
    "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxORmJQZU9sOUxWUXFtb0ZGOWJIOGNZTFJINU5LWGlfcFV3R2hLdUtpb3JUSUl0QzNEWWNYc0lHZS1WcU9leGFWbEhuME9IekpKamROUE00MjBqMXU3aG55OWNZOGxtZlJKdktmQ0V4NlBQVC1kZlItWlV5bjlKRmo2NEJfdHRDMlNkYkN2NEdGNHllblFzY3o5emMzUlZCS1ZzRURRbElqVV9qT1I3NFhzUUZMeWlwcHEydDA2eHpBUDRNT2Z6R1AzeUx2SjVHYjhZMU9tQ0F0OFNrYXlMRjBoZ2lleFVLcXp6azJzd2Q5SEVKUU9TLTdmaXhDbnYtZnl5cmFpWE03NHhMUGlYbmNaNkdWQkZ1MXFXZXJ0WHdyRHQ0QjVzdnZXREw1aEg5QTZBbG1wTlRqNmV1YjI4bk1GdFBoR05DWmlMMWdTR1R1dW9id2J3cXFHZDM5NVJhWl8xaE1WdWwtZlowYVFET0VKNkRGcjFqY2hKS2Rsa2lKUjNlV3NyQ2NNYmlhR3NpTHVDbW1FdllTTllPcG94dUp6SVRsVE5iOHpCVEJZYUZRcHpLUmhpVWZweEhJQXlsRXlRRzFjbklkZVByUlF2cXgyVkhiT3JuMkZFWHI1RTlnSjlQRmRMWkFmT2RXMklydHNIR1RIVlBuZFl2dw?oc=5",
    "source": "Pars Today",
    "at": "2026-11-14T19:48+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "分析 |対イラン戦争で米の損失隠蔽を試みるトランプ政権",
-   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQRWtXNWwzMXoxZ0dFaDRjYjV5TGNFTnE4RVc1dVQwYUpuSnhBT2hselBLT2dKZEtGWGJTRlJVQWNndHN5R0JWdmVXcUpFd1F3WmhyTEd6bnQtVG1DRkdRTXRkWlJTSERpRlVfV0Rmd1AzdkxUMGI3cktkSkduMGNJRWEtRTY3TG1XbTFMR2xVTlhxa1dtaEd4aGhMUkkwWU5mdGh3N0RkS1R2al9lMVVoN2x5RDUxWHMwM3dhUHFYN3lKc2pPcXJaR2s3QTVseW0zeDRFNFF5bXZ2NEhVbnlPeFNUbFNFcDJpbDN2WEZVMG5VMzNrY18wa1FYb2dyeUVQU3htZ3pNNkViQi1aWjJjRlY5LWcta0lkUmxqS0pjS3F5RVFqYU5ZeVJ3WkUta0tuWjhGX3Y4TDJoNzl1QlhIUEk2VjdvZHhuR1RhSVlLaGJObkEybUk0WC03SVc3Y21YRGVFNVc1aUNWbVVpbFhVMzUtcUtPR0hab3kwVkIwQWRUVE0?oc=5",
-   "source": "Pars Today",
-   "at": "2026-11-14T18:16+09:00",
    "topic": "イラン・アメリカ"
   }
  ],
@@ -619,16 +606,16 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「ミサイル」3件",
+    "イラン・アメリカ：「攻撃」「ミサイル」4件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「侵攻」2件"
    ],
    "items": [
     {
-     "title": "イラン、地下「ミサイル都市」を公開 「戦闘再開なら米軍への広域攻撃」 | スマートニュース",
-     "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNUEJLU2NWOVR5QnFfcUZYa2VNQnhIaFlZNTdDODF2UVE2UVYxMW11cWFnWVRKa3ZCeENHVG1vYUtpNjRvRVUyb3YxN3FvVHRmcjJhalBpaFdReVkweGdvWlpYU1RmWGI3MjZkVlF4bG9lUWxLQXhTVjBfN2V0amtDM18tUFpfOXBwSm1qRXBmb3RGQm5nNHVucmlLTGZCS2pLWGgwXzZXVVBwUk04VHk0dVBRQXpESXRucXlFVkdvYW5LTnZuX1F6MnYzcjJlLWJrZU1pQVcySUlNYVRqdUdsMExRWTRrb2ZEMmhQbXlCNWkwRmhtR0d5cEtlTFlaNjZkZTJrczM4ZlZ2b2lLNGw1STJVdTJ1cGtfRzVmdUFMcXhTSmt4WDNzay1Ra1BhbmNkZFVxNkxXWjZFNkd3RVhNUDliY0Y2OS1YbXoxcU15WlYzTzFnOFNnVVVBWWRubEk5YmFjdGtSb0RuMVdpLTIxSTVtb0hTeUxSRDFjcjYwb0NnbzJyQ3hfdE8wLW9XMl9HU1dRUzFMejdmOEtzMjNKUjl5TFRfNmZMRnNPdlF1cGJyRzYzNXVkY0VRdHd3S21mbHRhUmRBTTJqTnk5RVlWNVZTWk9Dd1ZicFNlVjVmRnItNE5XaXJuYXRCdFNzVVpCbXJjODRRcWpVNGNJNEx4T19JYw?oc=5",
-     "source": "SmartNews",
-     "at": "2026-11-15T12:10+09:00"
+     "title": "北国の暮らし直撃”灯油高”　冬到来　各地で不安の声　原因はイラン攻撃　アメリカ中間選挙大敗　トランプ政権イラン再攻撃の可能性は【サンデーモーニング】",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpOGhkSVFIZXlJYzE2ekM2ZXBGUnAweDdQQzFOMl9NLVlnbVZsNW5fdmxFRFpHMVkyRnpFX1dYbnVRZHB2YmliX3NzV1ZKaVVzdHVoOGxyX3NPbEtmcWtqckowTEtMUVJxcFZxVUVB0gFzQVVfeXFMUDYwVDItY0tSNWtoMVc2aTdRUmEweG80am5XeVY1ZlRlak9DOThzb011VHU1MjZPRWt4bXF5QXJmaG5Mczc5dEZCTzY0VWE5eTJoc2t2Y2RXWmZkWlBsQUNYc0R0b0lVUHV1S3hyX1JnVTlrUQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-15T13:35+09:00"
     },
     {
      "title": "金与正氏、李在明大統領に容赦なき罵倒！融和政策は空回り、北朝鮮ミサイルはウクライナで進化か（高英起） - エキスパート",
