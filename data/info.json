@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:15+09:00",
+ "updated": "2026-11-16T07:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランがバーレーン米基地を連続攻撃 米は対話中断し長期圧力方針",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmRRM1Zrb2kyM0I0V3ZoTXk5ZlByXzFIZlVld1JrNzJ5bnNSY0VNWXc1QmVsajNHSVpMY3RHcFQtNDlNTUprSlFobkhJOTdRNTFLT0p4aWxxb19KX2R6NjEzV010dU80S0JWbW1xSnUtQlcwOV9qQmY3NWJUNEVtWW5QOU5kVkZQ?oc=5",
+     "source": "Chosunbiz",
+     "at": "2026-11-16T07:18+09:00"
+    },
+    {
      "title": "イラン、２カ月ぶりに米軍基地を空爆…米国の「封鎖強化」方針に強硬対応 : 日本•国際",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaERvOXdENnNJYlM5aFVQQ0xpTnE1ZjVLSHNVdldoN0JrcERWNjhDcjFtaWwyS2R5cWNVdnpHVjQzVThENnprQUJwelhMMk1LSXpSVGVDUkxyU180RXUzcTVvNks?oc=5",
      "source": "ハンギョレ新聞",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emhfQmhRREVsMlFBbFVnazVGZTlxZUZtR2Y1b1oyZHF1SU1PVklDNC1rV25iSWdvNkFnVU9jYklmeWtLeUNLV1ZkRHJ4RDhD?oc=5",
      "source": "F1-Gate.com",
      "at": "2026-11-15T22:39+09:00"
-    },
-    {
-     "title": "イランがバーレーンの米軍施設を攻撃 湾岸諸国が2カ月ぶり標的に",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSnZDMGRrWW0wdTZOVUcwLVhGT0l3SE9YWFJRblpHYllCaXRMNHZuSWJwZFBhUC0tb0ViMG1YUUlhX2hIS2dXZ0NTekt0Zldldy11YjRBNFRsUmdiQmJUQWlMd3h0RGM?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-15T20:32+09:00"
     }
    ]
   },
@@ -387,6 +387,12 @@
    "at": "2026-11-15T21:10+09:00"
   },
   {
+   "title": "広島ガス、電気契約情報約3,200件に漏えいのおそれ 両毛システムズへのランサムウェア攻撃で判明",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0Q3bWJDaFFwWU03SWtfMHlBc1N6TzRLSEwxVXpxNk1RWHdsS25VZmhsNGVKdUdCN19TN1QwY0hVV3BHUDdSdUVFYWl1UzJhWkRwem42VldfMWRXWndkZXJtNFBQMndQZGFGUnctcXhwdnNoNFpUbmxxa2lVTm1CeUZzYTkwX1VrSmh2N29kal93bk5vOWlWZTdWUnpUMmxRbFN5bVRwNUZvdw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-16T07:23+09:00"
+  },
+  {
    "title": "【図解】サイバー攻撃「自律化」が脅威に＝AIエージェント悪用、防御後手（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MHhaY05OWEFpd292SWllVnlqRjdva2VmMzY3RktlRVh2VXpWQW5nWXdndkhZYTdzeHBqXzNZQTRmalY2cGx6Sl9Wdlc5NmFialMyRWlyY1UzaFdWVU1JTzNaMDZpYVlqOXh3RERXc253ZXVKQVN2cnkwaUI1YW8?oc=5",
    "source": "Yahoo!ニュース",
@@ -451,12 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zYk00UFRraFBmYkUtYU1BQ2lMWHJDMEw1UERjUTRJaDY5alFHSU9WZEhXSDRzRXBkc2ZGdG1ZMEJLSWl6M1dmRnd4RW1Ja0ZCV2RVTXdyUlpDUQ?oc=5",
    "source": "北海道新聞デジタル",
    "at": "2026-11-16T05:42+09:00"
-  },
-  {
-   "title": "フランスで２千万人個人情報流出 最大規模、サイバー攻撃で",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5qMEhkY014Znp3bm8tVVo3YTY5R0JQSGhfUTZMZUMyZi01ZFVoN043OThobS0zeFBKX3dz?oc=5",
-   "source": "Howl.Link",
-   "at": "2026-11-16T05:34+09:00"
   }
  ],
  "osaka": [
@@ -468,6 +468,13 @@
   }
  ],
  "world": [
+  {
+   "title": "イランがバーレーン米基地を連続攻撃 米は対話中断し長期圧力方針",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmRRM1Zrb2kyM0I0V3ZoTXk5ZlByXzFIZlVld1JrNzJ5bnNSY0VNWXc1QmVsajNHSVpMY3RHcFQtNDlNTUprSlFobkhJOTdRNTFLT0p4aWxxb19KX2R6NjEzV010dU80S0JWbW1xSnUtQlcwOV9qQmY3NWJUNEVtWW5QOU5kVkZQ?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-16T07:18+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”（AERA DIGITAL）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WWnIyNVVFN2k0Q3dqdnd2TkVHU1FGaGNUdEpaYWxfMmhRSVFCYTNDYnN6RzZmLTYwa3JieEU1dHBGMEdPREJmY1U0TGRpS0JvN3h4WWhzUjBkblRwU2tjYkZxMXBaYldNbWszZmdmLXBOSzdUZEt2RHFtWHJkbEE?oc=5",
@@ -600,13 +607,6 @@
    "source": "Bloomberg.com",
    "at": "2026-11-15T23:09+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イスラエル情報機関は、イランがトランプ氏を標的とした攻撃を計画していると非難",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVZfRGlWbnFUc2RFTDMwQURRNmcxNTZIYklMa0lzV0xJaHBseEp0VmlyRS1jZzRyb1ROQWNqTlRYellJSTlkTkU0R3FEcWFmVkJXV3JVbWFXMWwzdTc1Wk8zQzdHbjU3bGdzUGk0dEdQY3hYQUNsUjNkc2hwYjFhaDRwbC1JZlpfZUdJbzJCRGctdzFkMXo1WjA3elV5akQyZ3p1bmJraWJ2c3g3Z2wxQnhrQWEwYzdhT0E?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-15T22:56+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -632,10 +632,10 @@
    ],
    "items": [
     {
-     "title": "イラン、２カ月ぶりに米軍基地を空爆…米国の「封鎖強化」方針に強硬対応 : 日本•国際",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaERvOXdENnNJYlM5aFVQQ0xpTnE1ZjVLSHNVdldoN0JrcERWNjhDcjFtaWwyS2R5cWNVdnpHVjQzVThENnprQUJwelhMMk1LSXpSVGVDUkxyU180RXUzcTVvNks?oc=5",
-     "source": "ハンギョレ新聞",
-     "at": "2026-11-16T06:08+09:00"
+     "title": "イランがバーレーン米基地を連続攻撃 米は対話中断し長期圧力方針",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmRRM1Zrb2kyM0I0V3ZoTXk5ZlByXzFIZlVld1JrNzJ5bnNSY0VNWXc1QmVsajNHSVpMY3RHcFQtNDlNTUprSlFobkhJOTdRNTFLT0p4aWxxb19KX2R6NjEzV010dU80S0JWbW1xSnUtQlcwOV9qQmY3NWJUNEVtWW5QOU5kVkZQ?oc=5",
+     "source": "Chosunbiz",
+     "at": "2026-11-16T07:18+09:00"
     },
     {
      "title": "北朝鮮、英才教育でハッカー量産 サイバー攻撃にＡＩ駆使、核開発資金に",
