@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T06:00+09:00",
- "errors": [],
+ "updated": "2026-11-16T06:15+09:00",
+ "errors": [
+  "world_topics",
+  "nankai",
+  "outage",
+  "japan",
+  "cyber",
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -8,6 +15,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-16T06:08:00+09:00",
+   "place": "愛知県東部",
+   "mag": "3.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-16T04:34:00+09:00",
    "place": "愛知県東部",
@@ -74,16 +91,6 @@
    "mag": "2.3",
    "maxi": "1",
    "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-15T06:17:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.8",
-   "maxi": "3",
-   "maxiRank": 3,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
