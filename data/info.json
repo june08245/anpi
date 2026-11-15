@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:45+09:00",
+ "updated": "2026-11-15T23:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "F1カタールGP開催を前に中東情勢緊迫 イランがバーレーンの米軍基地をドローン攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emhfQmhRREVsMlFBbFVnazVGZTlxZUZtR2Y1b1oyZHF1SU1PVklDNC1rV25iSWdvNkFnVU9jYklmeWtLeUNLV1ZkRHJ4RDhD?oc=5",
+     "source": "F1-Gate.com",
+     "at": "2026-11-15T22:39+09:00"
+    },
+    {
      "title": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZmZDTGxfeWxPa1RfUzM0b0xsMUJBLWlmM3pIZUhoSDJnQ2xFZmxITGtMOEdrRThEUXRDZUJ6eldETmRBbmlocmpjYWl3U0NnUW5WMVdObnllQXppcWpKU3VLUmpoOHJtbUNEZQ?oc=5",
      "source": "日本経済新聞",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uNDFZVmx2bFBtdmx0MWsySVlRTzRfWk5lX3QzV1FsN0dES182cy01YUJoVHJyS250OUtYa3VOTE16ZHU5bUgyNjJQdVg1cjFkMTNFSTFiOTkyVksxMFE?oc=5",
      "source": "ライブドアニュース",
      "at": "2026-11-15T18:43+09:00"
-    },
-    {
-     "title": "イラン“米軍のレーダー施設攻撃” ホルムズ海峡で緊張続く",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raE5fN0VoUV9qbGQtX3hrTlRleVh4RHlFeFBRVkVibkRuc292U25MVHN3clJPeHJlbHRPdDQzS1R2NzFpSDZQUEZxbGlJOVo0dGlBMVhybWtoNXlZYlRB?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-15T18:36+09:00"
     }
    ]
   },
@@ -150,7 +150,7 @@
     },
     {
      "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MWlc5bUQ2bXJQclJVQXRmd29abW5COUlicm9aaGIzMDVPak5EekNRcGd4Uk1IcEl1UDZMVmRxOGpTTENleW1hMFNhWHAwUElVU3ZNWGt5MF9vV1E?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-15T06:00+09:00"
     },
@@ -357,6 +357,12 @@
  ],
  "cyber": [
   {
+   "title": "2001年同時多発テロ以来…全米の空港で4時間の「地上待機命令」 約8000便欠航150万人に影響 大規模な通信障害は老朽化が原因 混乱続く",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZdjNlVXNwd01kOHBPdHhmUWExcWswOXBPcFctQ2FkRkY0LS1xQ1phMzZvSmk3dTV2SmhHeE1xUk5qcjgtVnk1eDJKejVpQ2lJUHp6Zm4yZldfNFhtb3kyQW1DMXozNWc?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-15T21:10+09:00"
+  },
+  {
    "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSG5WRHNlMlliZDBxbGo0dVVPSHJ4TUctTV9JOGlGcXV3SnByVllKNm5oVzVCSzdsd1JDZ21XRDg5eUZ0X3dzVjR5SWt6WVQ4NTM3WmVrM1JSNVRwc1JwUDVlVmdiV1NzbDFiSkdXeXFzSEVybWtmV1JSb1ZKQjA?oc=5",
    "source": "Yahoo!ニュース",
@@ -424,9 +430,9 @@
   },
   {
    "title": "「サイバーセキュリティ対策を医療機関でも徹底していくことが大事」上野厚労相がサイバー攻撃を受けた病院を視察",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JWjJ2dEw2TjNENWgzSm1EV2VpWVdoNnhqazdNUXVpT1BxYUtuRnptQjRPT2pSbUVYT1BiM3ZJeU9ZOFNWeXBrYVFVYzVMdm10YWJHc3ZIX0NPWjJiZ25Qak4wbWFQbXZBeEQ4SjBjUEJLVWVCV3BrN00wc0piaFE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T22:09+09:00"
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjlRVUU2U3hWdzdFYUVQdmtlOGxBcTlKMEF3UENra3hMSGVLYzd0M2ZGM3hCOXlvNU5lb1NuTndmVzZzdExTNFo3bHhYdENfM1lXeFVyODcxR1hJc2k1S1NTVHRpMlV5VzJaQ25SZlRWTXZwOE9hbzBtRXFEQk5yTQ?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-15T22:13+09:00"
   },
   {
    "title": "サイバー対策「ブロッキング」賛成７７％、反対１１％を大きく上回る…読売新聞世論調査",
@@ -439,16 +445,17 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3hfT3FEZmhfVnBIZnMtQmRMVnJHcUFEdkd4cFBZTER0X1NSb2c1ZTgydmdqUVZVTVRvZVJaY0J3RDA5NG5hanRTY1pnRUlOU0JNdzlkeHRpMTkya3NzNDNiZlpmSHR1anVkbXVDU2NIcXM3amZWaENJRUdkeU9SS2M5S2RiZ1lVWHo2cVdUZThUUVdMS3c?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-15T21:09+09:00"
-  },
-  {
-   "title": "福井県「ふくアプリ」、Pokepayへの不正アクセスで一時全面停止 11月15日16時45分に再開、BankPayチャージは停止継続",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVN5RkRGdkpTa25MQXJ6RTJGU25KUUJUamozRk13bnNmb0FJaGhsT0RRVmhxQXF2Z2hGbzZKdmxfM1cxY2dFamxzWnVlaWY3cnRoTWFmOXZ4blo2Yk9EbHZQemZVYllHU1FlanoxdWdxdHJDT240R3JSYU9CcHFDem1jOUdDaDl4bGsxcUZDbGZJeHptclRLNktNSk1fb1pG?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-15T21:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "F1カタールGP開催を前に中東情勢緊迫 イランがバーレーンの米軍基地をドローン攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emhfQmhRREVsMlFBbFVnazVGZTlxZUZtR2Y1b1oyZHF1SU1PVklDNC1rV25iSWdvNkFnVU9jYklmeWtLeUNLV1ZkRHJ4RDhD?oc=5",
+   "source": "F1-Gate.com",
+   "at": "2026-11-15T22:39+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZmZDTGxfeWxPa1RfUzM0b0xsMUJBLWlmM3pIZUhoSDJnQ2xFZmxITGtMOEdrRThEUXRDZUJ6eldETmRBbmlocmpjYWl3U0NnUW5WMVdObnllQXppcWpKU3VLUmpoOHJtbUNEZQ?oc=5",
@@ -489,13 +496,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uNDFZVmx2bFBtdmx0MWsySVlRTzRfWk5lX3QzV1FsN0dES182cy01YUJoVHJyS250OUtYa3VOTE16ZHU5bUgyNjJQdVg1cjFkMTNFSTFiOTkyVksxMFE?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-15T18:43+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イラン“米軍のレーダー施設攻撃” ホルムズ海峡で緊張続く",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raE5fN0VoUV9qbGQtX3hrTlRleVh4RHlFeFBRVkVibkRuc292U25MVHN3clJPeHJlbHRPdDQzS1R2NzFpSDZQUEZxbGlJOVo0dGlBMVhybWtoNXlZYlRB?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-15T18:36+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -612,10 +612,10 @@
    ],
    "items": [
     {
-     "title": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZmZDTGxfeWxPa1RfUzM0b0xsMUJBLWlmM3pIZUhoSDJnQ2xFZmxITGtMOEdrRThEUXRDZUJ6eldETmRBbmlocmpjYWl3U0NnUW5WMVdObnllQXppcWpKU3VLUmpoOHJtbUNEZQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-15T22:32+09:00"
+     "title": "F1カタールGP開催を前に中東情勢緊迫 イランがバーレーンの米軍基地をドローン攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emhfQmhRREVsMlFBbFVnazVGZTlxZUZtR2Y1b1oyZHF1SU1PVklDNC1rV25iSWdvNkFnVU9jYklmeWtLeUNLV1ZkRHJ4RDhD?oc=5",
+     "source": "F1-Gate.com",
+     "at": "2026-11-15T22:39+09:00"
     },
     {
      "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
