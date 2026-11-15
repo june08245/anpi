@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:15+09:00",
+ "updated": "2026-11-15T16:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-15T16:23:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "3.1",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-15T14:00:00+09:00",
    "place": "茨城県沖",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-14T15:39:00+09:00",
-   "place": "根室半島南東沖",
-   "mag": "4.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -143,9 +143,9 @@
      "at": "2026-11-15T14:00+09:00"
     },
     {
-     "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害？暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWRMcjBIbENpYTN2TTZNbHNINFhDWllYUV8xZWpjNjM3d2ctS2JfSi1IdWljUGhtN2NzdlN2VFdXYmFZSEdtaDA1dzdmWWpScm4tTm5rcUlwRG9VNlNXbkZfNjlPMk0?oc=5",
-     "source": "TBS NEWS DIG",
+     "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-15T10:00+09:00"
     },
     {
@@ -179,10 +179,10 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年（KOREA WAVE）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94d0RWS2ZmQy1RenJPUVpYa3ZTQXg0cld5a2xGYm8zb3MxNFZlUXR4aUdEMUViS2RKcmp1eEMtbnROSWlRVE4za0NzNGZERVRVVmVMN05YQ3p6MTN6SXh6dW0taXg5TDBSdkVRUXB1QzBtSXQ5RDdva3VMMWdURXc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-15T16:03+09:00"
+     "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iZ2hyWFd6TzVjRWlPcDlQbmVYSjBWc0FtTW5MM2sxRzVhYURqbjNyR1Y1YlhuNVN1RGFwOE92UkxSQnVfZDdwcF82SDEzRXFUMmtvQVcyclNlcFpuR3YwcHJjTlNOQXhqREoyR1hXM1VNQdIBVEFVX3lxTE5IUlZhbWVsRndHclNyV2lMVVlDQkRETVB2NXllc1ZaSU15Z201UUhzUDhReUhxbS1UR0o2MldkSm1fNGNHcDV5bFJXSU9YczhhNkxOeQ?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-15T16:10+09:00"
     },
     {
      "title": "史上初の米中ロ首脳会談の懸念…金正恩「第2のヤルタ会談」狙う（2）（中央日報日本語版）",
@@ -251,10 +251,10 @@
      "at": "2026-11-15T08:54+09:00"
     },
     {
-     "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WM2EwRVl5U0NHSWtmX0ZsNndIY1kwSEQwQ3BPMXVGU0lITm1BbEpDaFRmRDVrcE5GZzk4M2dUVDluenkzQkN2M0JENWtJRXZUTXdrb1JwSkI?oc=5",
-     "source": "AERA DIGITAL",
-     "at": "2026-11-15T07:00+09:00"
+     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-15T08:19+09:00"
     }
    ]
   },
@@ -347,7 +347,14 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [],
+ "japan": [
+  {
+   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-14T23:13+09:00"
+  }
+ ],
  "cyber": [
   {
    "title": "通信障害続く中マイアミで機体接触",
@@ -378,12 +385,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURUJ4RVZYZzdYeTNuYkxwcktzWWwxZVBhSElpdTV5OWZxRWV4ZWxNVFdBYl8zd2VoT3NtbThsS3YxUTB4UDczYmpCWGhRZjFzd3BhUUpBQQ?oc=5",
    "source": "X",
    "at": "2026-11-15T11:18+09:00"
-  },
-  {
-   "title": "【情報まとめ】「Outlook」など「マイクロソフト365」のサービスで世界的な大規模障害 「全面復旧」すべての製品の障害は解消と発表",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-15T10:42+09:00"
   },
   {
    "title": "「政府のシステムにも支障」官房副長官 マイクロソフト大規模障害で政府業務にも影響",
@@ -438,23 +439,29 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HR0I3NTB2ZDNfTkozN1A4MUw1SHk4OVZQN01haUZ2M3pJOXEwa0JseHVMSnAzVUs3YWdJZzdsLVFvRjVveFV3Nnc0REI4VlBaS0lUM2VnSzRCZGVGZkVrblNOcWNEbzFiZUJIZ3lsLTZER3FN?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-15T15:25+09:00"
+  },
+  {
+   "title": "韓国の地域商品券アプリに不正アクセス、利用者3083人の個人情報が閲覧される",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMeDRqMDQ4em85dVJjOFZnM0tSamxKWkpIQzJINnQwblFHZkpXM1B1enlMQjgzWW5KbkwzWGotWGpHVGp0U0xGYjEzNE5xeGJRUnfSAVRBVV95cUxORmoxTWlvWEtTWHJaZzU3Z2c1eWt1RE4wbmJ3cnFoMUZkbnlScXNmNkluZExZMjJ6UGhkUXljdE5iczZBclI3cXJhcU9sVFhyVWhteHc?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-15T15:23+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iZ2hyWFd6TzVjRWlPcDlQbmVYSjBWc0FtTW5MM2sxRzVhYURqbjNyR1Y1YlhuNVN1RGFwOE92UkxSQnVfZDdwcF82SDEzRXFUMmtvQVcyclNlcFpuR3YwcHJjTlNOQXhqREoyR1hXM1VNQdIBVEFVX3lxTE5IUlZhbWVsRndHclNyV2lMVVlDQkRETVB2NXllc1ZaSU15Z201UUhzUDhReUhxbS1UR0o2MldkSm1fNGNHcDV5bFJXSU9YczhhNkxOeQ?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-15T16:10+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "バーレーンの米軍施設を無人機攻撃とイラン",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcWtRSEZqWWRLLVhkODhrR2EyWTF5VHJ1TzlpZGFEekpiWEZUVld1UHlmRlZJdXJLTEZkUzR3QlFCNmF5VGRGcWg1aHZqZC1LMVlXdGF3SnM?oc=5",
    "source": "京都新聞デジタル",
    "at": "2026-11-15T16:05+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年（KOREA WAVE）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94d0RWS2ZmQy1RenJPUVpYa3ZTQXg0cld5a2xGYm8zb3MxNFZlUXR4aUdEMUViS2RKcmp1eEMtbnROSWlRVE4za0NzNGZERVRVVmVMN05YQ3p6MTN6SXh6dW0taXg5TDBSdkVRUXB1QzBtSXQ5RDdva3VMMWdURXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T16:03+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "イランがバーレーンの米軍基地を再攻撃、ホルムズ海峡の危機深まる",
@@ -548,9 +555,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害？暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWRMcjBIbENpYTN2TTZNbHNINFhDWllYUV8xZWpjNjM3d2ctS2JfSi1IdWljUGhtN2NzdlN2VFdXYmFZSEdtaDA1dzdmWWpScm4tTm5rcUlwRG9VNlNXbkZfNjlPMk0?oc=5",
-   "source": "TBS NEWS DIG",
+   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-15T10:00+09:00",
    "topic": "中国・台湾"
   },
@@ -562,10 +569,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WM2EwRVl5U0NHSWtmX0ZsNndIY1kwSEQwQ3BPMXVGU0lITm1BbEpDaFRmRDVrcE5GZzk4M2dUVDluenkzQkN2M0JENWtJRXZUTXdrb1JwSkI?oc=5",
-   "source": "AERA DIGITAL",
-   "at": "2026-11-15T07:00+09:00",
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-15T08:19+09:00",
    "topic": "ロシア"
   },
   {
@@ -600,8 +607,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
-    "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「侵攻」1件"
+    "北朝鮮：「攻撃」「ミサイル」2件"
    ],
    "items": [
     {
@@ -611,16 +617,10 @@
      "at": "2026-11-15T16:05+09:00"
     },
     {
-     "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年（KOREA WAVE）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94d0RWS2ZmQy1RenJPUVpYa3ZTQXg0cld5a2xGYm8zb3MxNFZlUXR4aUdEMUViS2RKcmp1eEMtbnROSWlRVE4za0NzNGZERVRVVmVMN05YQ3p6MTN6SXh6dW0taXg5TDBSdkVRUXB1QzBtSXQ5RDdva3VMMWdURXc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-15T16:03+09:00"
-    },
-    {
-     "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WM2EwRVl5U0NHSWtmX0ZsNndIY1kwSEQwQ3BPMXVGU0lITm1BbEpDaFRmRDVrcE5GZzk4M2dUVDluenkzQkN2M0JENWtJRXZUTXdrb1JwSkI?oc=5",
-     "source": "AERA DIGITAL",
-     "at": "2026-11-15T07:00+09:00"
+     "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iZ2hyWFd6TzVjRWlPcDlQbmVYSjBWc0FtTW5MM2sxRzVhYURqbjNyR1Y1YlhuNVN1RGFwOE92UkxSQnVfZDdwcF82SDEzRXFUMmtvQVcyclNlcFpuR3YwcHJjTlNOQXhqREoyR1hXM1VNQdIBVEFVX3lxTE5IUlZhbWVsRndHclNyV2lMVVlDQkRETVB2NXllc1ZaSU15Z201UUhzUDhReUhxbS1UR0o2MldkSm1fNGNHcDV5bFJXSU9YczhhNkxOeQ?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-15T16:10+09:00"
     }
    ]
   }
