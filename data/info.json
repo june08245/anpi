@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T02:45+09:00",
+ "updated": "2026-11-16T03:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-16T02:43:00+09:00",
+   "place": "薩摩半島西方沖",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-16T00:57:00+09:00",
    "place": "大阪府北部",
@@ -74,16 +84,6 @@
    "mag": "3.7",
    "maxi": "1",
    "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-15T00:05:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "3.9",
-   "maxi": "3",
-   "maxiRank": 3,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -353,21 +353,15 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WY0dubkdYSVYxVXhuOFdteTEyMnA5UVdrSnpmYVQwYkhNaWpadGtGLW83enh3dkozZ2VhcEdkaWJJNDBO?oc=5",
    "source": "@DIME アットダイム",
    "at": "2026-11-15T21:00+09:00"
-  },
-  {
-   "title": "Jアラート訓練放送 2022.6.15 @Jアラート @訓練放送 @本番では、津波が来るから直ぐ避難。@交差点注意です。 Taylor Heinicke Nfl Retirement (rBrqBvwBAJ)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHlCQ0JfdDFRZ1ctZGJVVzc3VnJJWjRKRFg0YVNaaUUtQVZDUWpoajZMWGxwOWhEUjlRejNILVNNZUNFdnNFLW9WY0NuZTc4ZzFhbGFFOURad3lmaGxORFAza2tMdUpMRTRrQUVqaVduSjB6RTh0QXJUazVBRzVtcGVB?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-15T20:28+09:00"
-  },
-  {
-   "title": "令和最初のJアラート全国一斉情報伝達訓練放送 Shakira (uY9Fa2Ec2E)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHhHUnk2Yk02a1pYOWsxWHQyekNvSnc4bW1LX0FDLUwyZTVJVlZPMWlhbFU4c2l5N2dYWVIybWJZUUptVWpaNDE0OVc4WXk4MlVKbVR2VXNZcTd4T2dxSlRsVEl6Y3lJUEJPSjA1TGVNeTlJM19hOW1SdFM3d0c1MUx5X2FvU2M?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-15T11:09+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "Outlook障害、ラジオ局でも影響 リスナーのお便り届かず SNSでコメント募集",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SNzYzXzVjUjR1VG1YWjNsZWFIWmFfZlY3dmk3UGxXWjNxYS15cjk4WGpicWZjYU5TOE9FLURabUQzdENlNUhpOUxEX0RhR1U4MUR2X2l3cXg3YUwwNVFreDBxY19qMlRDeDdGd1ROdDNTQQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-16T01:01+09:00"
+  },
   {
    "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSG5WRHNlMlliZDBxbGo0dVVPSHJ4TUctTV9JOGlGcXV3SnByVllKNm5oVzVCSzdsd1JDZ21XRDg5eUZ0X3dzVjR5SWt6WVQ4NTM3WmVrM1JSNVRwc1JwUDVlVmdiV1NzbDFiSkdXeXFzSEVybWtmV1JSb1ZKQjA?oc=5",
@@ -409,12 +403,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd19Ka0Q1cW94Y2pxQmJMeE1ZRWplcUVGT1dRd1A1bTdTeXNfeHVQVUxXWExjOFMtcjN5dkxGYnlneXpUbkdlYXZkSk9TcGgxRVJOM1QzcGZlczBOR3dNVmh3U0lhZkhDVllKTnkzMGJ6eFVTNzUtVUxWSG9qRkNkWmtiNGxkODNy0gGcAUFVX3lxTE03dERWMXR2NkphbUU2Mzd6RWR4RnhNbjFrRFNBR2JsMW9wQ2JhMjhQSmlYNFpwTmplX2ZiUXBPRUl2ZTVDQVZPbEdnV0ZYSTZKTmViajlPQWlrU0ZFY09URmJPX3Vyb3hxTnNrOG8wM0Qwb2txN0lVZEphOFM3NS1QZmxQNm9zUXh2cWMzUFdialNYU0FockF5UHNjSg?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-15T15:31+09:00"
-  },
-  {
-   "title": "Windows 11の11月セキュリティ更新で脆弱性修正もインストール不具合相次ぐ",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURUJ4RVZYZzdYeTNuYkxwcktzWWwxZVBhSElpdTV5OWZxRWV4ZWxNVFdBYl8zd2VoT3NtbThsS3YxUTB4UDczYmpCWGhRZjFzd3BhUUpBQQ?oc=5",
-   "source": "X",
-   "at": "2026-11-15T15:30+09:00"
   },
   {
    "title": "両陛下が大阪訪問 システム障害で日程一部変更 | スマートニュース",
