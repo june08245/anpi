@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:15+09:00",
+ "updated": "2026-11-15T22:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -353,21 +353,15 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WY0dubkdYSVYxVXhuOFdteTEyMnA5UVdrSnpmYVQwYkhNaWpadGtGLW83enh3dkozZ2VhcEdkaWJJNDBO?oc=5",
    "source": "@DIME アットダイム",
    "at": "2026-11-15T21:00+09:00"
-  },
-  {
-   "title": "令和最初のJアラート全国一斉情報伝達訓練放送 Shakira (uY9Fa2Ec2E)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHhHUnk2Yk02a1pYOWsxWHQyekNvSnc4bW1LX0FDLUwyZTVJVlZPMWlhbFU4c2l5N2dYWVIybWJZUUptVWpaNDE0OVc4WXk4MlVKbVR2VXNZcTd4T2dxSlRsVEl6Y3lJUEJPSjA1TGVNeTlJM19hOW1SdFM3d0c1MUx5X2FvU2M?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-15T11:09+09:00"
-  },
-  {
-   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-14T23:13+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "2001年同時多発テロ以来…全米の空港で4時間の「地上待機命令」 約8000便欠航150万人に影響 大規模な通信障害は老朽化が原因 混乱続く",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZdjNlVXNwd01kOHBPdHhmUWExcWswOXBPcFctQ2FkRkY0LS1xQ1phMzZvSmk3dTV2SmhHeE1xUk5qcjgtVnk1eDJKejVpQ2lJUHp6Zm4yZldfNFhtb3kyQW1DMXozNWc?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-15T21:10+09:00"
+  },
   {
    "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSG5WRHNlMlliZDBxbGo0dVVPSHJ4TUctTV9JOGlGcXV3SnByVllKNm5oVzVCSzdsd1JDZ21XRDg5eUZ0X3dzVjR5SWt6WVQ4NTM3WmVrM1JSNVRwc1JwUDVlVmdiV1NzbDFiSkdXeXFzSEVybWtmV1JSb1ZKQjA?oc=5",
@@ -423,10 +417,16 @@
    "at": "2026-11-15T15:30+09:00"
   },
   {
+   "title": "サイバー攻撃で2200万人情報流出 フランス郵政公社の傘下企業（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ec1NaSWJBd3V0d3Q3M0xTdkd1cXhHQlotSkMtaHBzbktnVzFkcUpqOVE0Z0QzOC1FMnZmcXQ2cWpJR2M5dFNsZDVPeFBvMGF1N05mVTJNZGphX01Obzd3TGpQazFEaW1IWHFTOGN4T2RWLWN5dTFUbnNVSWVoZm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T22:16+09:00"
+  },
+  {
    "title": "「サイバーセキュリティ対策を医療機関でも徹底していくことが大事」上野厚労相がサイバー攻撃を受けた病院を視察",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92el9BUE1oUW9Ndk9GY1RVWUQtYy1zdHZpNWZmZTY0OU8xSXhteHZIZXBkb2hHQ0ptMzc2UTB6R21yTFBUYlNZd2E2VFFEdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-15T22:08+09:00"
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFQXAwdkVHT21TckNOSmJtOFI3MEhWSGRtaHp3WVU1dHEyMnNpVGFqNm4xSlZaX3JUcWVJMmZuQ2lkRlRhUXltM0FXRXhiRUlScHU4MXY5RWhyS0NIVVczdmF4ZFpaZmt0eFNtNkZ3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-15T22:13+09:00"
   },
   {
    "title": "サイバー対策「ブロッキング」賛成７７％、反対１１％を大きく上回る…読売新聞世論調査",
@@ -445,18 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVN5RkRGdkpTa25MQXJ6RTJGU25KUUJUamozRk13bnNmb0FJaGhsT0RRVmhxQXF2Z2hGbzZKdmxfM1cxY2dFamxzWnVlaWY3cnRoTWFmOXZ4blo2Yk9EbHZQemZVYllHU1FlanoxdWdxdHJDT240R3JSYU9CcHFDem1jOUdDaDl4bGsxcUZDbGZJeHptclRLNktNSk1fb1pG?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-15T21:00+09:00"
-  },
-  {
-   "title": "GFS Educationの会員サイトに不正アクセス、約11万人の個人情報漏えいのおそれ-同日 GFS監修 投資の達人講座もサイバー攻撃|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb3FSQVhvTWxWUXFLNmVCTHRVODdLMDZWUUdBdGFuWHd2b0dzazJUNk1NTG5xU1UzWVB1V0VNcVB5QnVVMm00aE5idTRrWjNPZ0ZoOWgxdEVFRWQxQmFJbHlJbzBWWFBZWktPaElfZkRoTUdSLUJNZGY1Z2JGVHJ6Smt5Nkd5TTdsOU9QdkJ6N09rQ2lwdXJ2RzNLYm9NLVVKcXZoaUxNN3lEMmg2WFA0YlFrbDk?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-15T20:49+09:00"
-  },
-  {
-   "title": "はぴコイン決済一時停止 不正アクセスで予防的措置 デジタル商品券は予定通り11月16日から販売 福井県",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YSVJZNTZNNVNVcGhHVk1xbWFiN2pHVzZsVTV3ZjZhdWxNMEhVN3dtYkpYUDVxVlQwVXI4RXNSZTVqV213NFd4VjZEcFdldHpSV0ZtZWFBQ3hlMGpRdEE?oc=5",
-   "source": "福井新聞社",
-   "at": "2026-11-15T20:30+09:00"
   }
  ],
  "osaka": [],
