@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:00+09:00",
+ "updated": "2026-11-15T18:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、バーレーンの米軍基地へのドローン攻撃を主張",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzkxb1NNWEx3cGZWYURQak1nZmlkdWdzNkhOcEthOGR0UzlpbC0tcDFSYVNfanVoNjN0eGJOaFBtY3RoR3d1UkRlMEZSYUdhMTI5WlNZMXNMWkJxQWV1cVF3bW1Vc3NUSXFWXy1xOHNDbGlqaVZPcXBxbDhYZG9KNXpsQ0lJazFSLTRsV0puLTA5V2hGNkNHV3kyWmg?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-15T17:51+09:00"
+    },
+    {
      "title": "イラン革命防衛隊 “バーレーンにある米軍の防空レーダー攻撃” 声明で発表",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRHNRX2xla0FEODFSYmxOSEZuTnRzXzJ6WGpzaTlCeTJWUGpmT3o2ejRIMEdTWHV3LUF1ajFRdks0RDFGay1ZOWp2TV9tMjJVaDFieHdZNA?oc=5",
      "source": "TBS NEWS DIG",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcWtRSEZqWWRLLVhkODhrR2EyWTF5VHJ1TzlpZGFEekpiWEZUVld1UHlmRlZJdXJLTEZkUzR3QlFCNmF5VGRGcWg1aHZqZC1LMVlXdGF3SnM?oc=5",
      "source": "京都新聞デジタル",
      "at": "2026-11-15T16:05+09:00"
-    },
-    {
-     "title": "イランがバーレーンの米軍基地を再攻撃、ホルムズ海峡の危機深まる",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hQVpJTkcwRnhyTXVmNmJ6OGp2Nmx4X0dEdFNaS3FuVnQ1LUQtX2dfc0NhMjdka3lYUVZRdWdONmZ0ZEFrLTJZQWRWbDBoWjNzVzIwU0QxQTJXbkphTVFsUF8zZEVJYllWRGc?oc=5",
-     "source": "Investing.com - FX",
-     "at": "2026-11-15T15:29+09:00"
     }
    ]
   },
@@ -136,12 +136,6 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
-    {
-     "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
-     "source": "東洋経済オンライン",
-     "at": "2026-11-15T16:21+09:00"
-    },
     {
      "title": "高市首相が中国開催APECへ 日中関係に打開策は？「米中露会談」への懸念（2026年11月14日掲載）",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBva0RFbEhwTmwzVUlueXctVktiRVpEX1ZfTnN3eTh2UTlnM2M3M3FEMkpsN1JyTWo0ODJVUjFBTm5iZUF3MnlJUkNnYUY2MG5JVFI4aGFPenkwMkpfY0NrNG1nNTRDV2pxRGNVTFZYRVdPTzJ0Ny1rUGlUX3BQZw?oc=5",
@@ -153,6 +147,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-15T10:00+09:00"
+    },
+    {
+     "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
+     "source": "東洋経済オンライン",
+     "at": "2026-11-15T06:00+09:00"
     },
     {
      "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
@@ -233,16 +233,16 @@
      "at": "2026-11-15T13:50+09:00"
     },
     {
-     "title": "米中ロ首脳、19日に初の3者会談 ロシアも開催確認",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YOHRwbWxuZDJPcnpiX05abExFeE5GU3ZHM0RRWU5ZNjg0RWRXX19BQVhDdDNDT3dNX3YtQ2FjNzVzWUxYcFF5SWZBWHpqYWRJWm0zWU1QZF9BTl9xeFBF0gFkQVVfeXFMT1ZicURiMENLdlNhVnI2UzRWaVZ2SHZhYmMxb0ZwaGJ2eG1kcTNiLTdTUWpOU1dKS1pESTF2UTd6aWU0TE1fNGd5bDNZRWFDRGZ3b1FaaE1rM3AtbjBrdFFBUVpUTQ?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-15T13:16+09:00"
-    },
-    {
      "title": "ロシアへの経済制裁はなぜ戦争を止められないのか……中国という「抜け穴」と欧州を襲う「市場のしっぺ返し」",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scFFidXlhRW5fb3pwMDY3UkJUNlRwM3hoWnlOYUNQQWYtcU9ldGhpV3Y2MWhuX0lfSXpCanRQRlpZUW9zcVhzWE1MZ3VTLW1heFJQOXdVSUc0QQ?oc=5",
      "source": "みんかぶ（マガジン）",
      "at": "2026-11-15T12:00+09:00"
+    },
+    {
+     "title": "ハルキウでロシア軍の二度目の攻撃により消防車が損傷",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzV2WGlHTms3ZS1jRm9JZlRkWVRyQkJkdGZWSmRSRGFXQ2Jpc0x4N0FWRlZqVFJKQnQ0Qi1YbmhXVUN1STJLNHNuS04xQ09QdWtMQ2F5RlMwbm9pZTY4UmRaWkN3WmprTFNtUGZFYmhrTUZKRkpEOUFGY3NnZ0ZrZURQQkx2T3EwajNlWm54cVNZTURFRFE?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-15T10:51+09:00"
     },
     {
      "title": "ロシア軍、ジトーミル州のエネルギーインフラを攻撃",
@@ -303,6 +303,18 @@
  ],
  "nankai": [
   {
+   "title": "もし南海トラフ巨大地震が来たら 静岡県総合防災訓練 支援物資の積み込み・生活用水の確保・トリアージなど どう行動すべきか確認",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lanpYT1VlaVhYOEMtUHJRdFpRSV9vYTJuRVpacVJZaFFOcUtsTjhGZW9POTAtWUthWFN2ZnBmRTh3ZFFGRnp3dlZOS0hUZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-15T18:10+09:00"
+  },
+  {
+   "title": "「囲まれたんでびっくり」 災害時の報道のあり方を住民と記者が考える 関西７局の記者らが避難所生活を体験 南海トラフ地震に備え訓練 兵庫・南あわじ市（関西テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaRkRsVnBRdWtpVWRUeTNSWExWcGdEaVY5Z2ZSTVNSeno2d3dvdHRpcVFNV2NvQVZZLTdzS2pRWUFSa0RMb2RZM2JtZF9lR3pTeVBzRXdVdUFEODJ6VDlnU1c0dlotVHB6dkdkTHFOTGJpdGFpQnZyZDB6UGVBbDg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T18:00+09:00"
+  },
+  {
    "title": "南海トラフ地震を想定した静岡県の総合防災訓練 磐田市、袋井市、森町を会場に３００団体６万７５００人が参加（静岡朝日テレビ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qWEZCdDd2cm5GOE8ySWF4Z3VVa0ZTa2I5M3lBeTJjRTh2aTQwQU1XTl9UOUkyc2kxTjJxaHpYV3FmYnI2V1Y4bDJuVm1PS3NtTW03c3I3UGJNSWQyVFBLV2IxOHhYWEdERGRnZXFDNWNScV9iQ0ljTkdEYlRLekU?oc=5",
    "source": "Yahoo!ニュース",
@@ -325,18 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fMl9TMkUyU1RHNHVYZnBnV2dqampxZ19CUDZROEdac05Tcm9vRlJRdTdkcGJENkVESGpvMGpFWWRVZER6SFo2V2xnWjdIMHJDNE9Cb0lmcEtHX19TYVpJ?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-14T19:45+09:00"
-  },
-  {
-   "title": "最大6.5メートルの津波 南海トラフ地震など大災害時の避難所生活にどう備える 小学校で子どもや保護者らが訓練 兵庫・南あわじ市（関西テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56ZGVGNHltcFFBQS05Ymd4M1JHSW00OGRyQ2VaVjY5MXZfUFZpX0w4LU1sX2NOek13ZXNKTW0tWG0wcmlPclA5MVdLamdDZ0xtVkFFZ0hTRUlXSVFaSEhVMmZVWUlCMW52T21faV8zZVdPb1hQZlEwZmxadVJnYkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T18:03+09:00"
-  },
-  {
-   "title": "南海トラフ地震を想定 高松市で総合防災訓練 情報収集や復旧手順など確認 (2026年11月14日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvX01tUkJGYjBlUXktOUE3OThMdGdOSXA4bVBjUEtjZGZGYy1rZDdyczVlM1hWTThSbHcxSEkyWllTcFVKUjVyNk9velJtR041Q3ZxRmpzMjd6NEVfREE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-14T14:52+09:00"
   }
  ],
  "outage": [
@@ -443,6 +443,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "イラン、バーレーンの米軍基地へのドローン攻撃を主張",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzkxb1NNWEx3cGZWYURQak1nZmlkdWdzNkhOcEthOGR0UzlpbC0tcDFSYVNfanVoNjN0eGJOaFBtY3RoR3d1UkRlMEZSYUdhMTI5WlNZMXNMWkJxQWV1cVF3bW1Vc3NUSXFWXy1xOHNDbGlqaVZPcXBxbDhYZG9KNXpsQ0lJazFSLTRsV0puLTA5V2hGNkNHV3kyWmg?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-15T17:51+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "イラン革命防衛隊 “バーレーンにある米軍の防空レーダー攻撃” 声明で発表",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRHNRX2xla0FEODFSYmxOSEZuTnRzXzJ6WGpzaTlCeTJWUGpmT3o2ejRIMEdTWHV3LUF1ajFRdks0RDFGay1ZOWp2TV9tMjJVaDFieHdZNA?oc=5",
    "source": "TBS NEWS DIG",
@@ -478,13 +485,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-15T16:21+09:00",
-   "topic": "中国・台湾"
-  },
-  {
    "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iZ2hyWFd6TzVjRWlPcDlQbmVYSjBWc0FtTW5MM2sxRzVhYURqbjNyR1Y1YlhuNVN1RGFwOE92UkxSQnVfZDdwcF82SDEzRXFUMmtvQVcyclNlcFpuR3YwcHJjTlNOQXhqREoyR1hXM1VNQdIBVEFVX3lxTE5IUlZhbWVsRndHclNyV2lMVVlDQkRETVB2NXllc1ZaSU15Z201UUhzUDhReUhxbS1UR0o2MldkSm1fNGNHcDV5bFJXSU9YczhhNkxOeQ?oc=5",
    "source": "AFPBB News",
@@ -504,13 +504,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-15T16:00+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "イランがバーレーンの米軍基地を再攻撃、ホルムズ海峡の危機深まる",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hQVpJTkcwRnhyTXVmNmJ6OGp2Nmx4X0dEdFNaS3FuVnQ1LUQtX2dfc0NhMjdka3lYUVZRdWdONmZ0ZEFrLTJZQWRWbDBoWjNzVzIwU0QxQTJXbkphTVFsUF8zZEVJYllWRGc?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-15T15:29+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "ウクライナ、ロシア、米国3カ国協議の論点 - 【ウクライナ米ロ3カ国高官協議】戦後安保構想で思惑交錯 領土問題、溝埋まらず - 写真・画像(2/2)",
@@ -548,13 +541,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米中ロ首脳、19日に初の3者会談 ロシアも開催確認",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YOHRwbWxuZDJPcnpiX05abExFeE5GU3ZHM0RRWU5ZNjg0RWRXX19BQVhDdDNDT3dNX3YtQ2FjNzVzWUxYcFF5SWZBWHpqYWRJWm0zWU1QZF9BTl9xeFBF0gFkQVVfeXFMT1ZicURiMENLdlNhVnI2UzRWaVZ2SHZhYmMxb0ZwaGJ2eG1kcTNiLTdTUWpOU1dKS1pESTF2UTd6aWU0TE1fNGd5bDNZRWFDRGZ3b1FaaE1rM3AtbjBrdFFBUVpUTQ?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-15T13:16+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ロシアへの経済制裁はなぜ戦争を止められないのか……中国という「抜け穴」と欧州を襲う「市場のしっぺ返し」",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scFFidXlhRW5fb3pwMDY3UkJUNlRwM3hoWnlOYUNQQWYtcU9ldGhpV3Y2MWhuX0lfSXpCanRQRlpZUW9zcVhzWE1MZ3VTLW1heFJQOXdVSUc0QQ?oc=5",
    "source": "みんかぶ（マガジン）",
@@ -569,6 +555,13 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "ハルキウでロシア軍の二度目の攻撃により消防車が損傷",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzV2WGlHTms3ZS1jRm9JZlRkWVRyQkJkdGZWSmRSRGFXQ2Jpc0x4N0FWRlZqVFJKQnQ0Qi1YbmhXVUN1STJLNHNuS04xQ09QdWtMQ2F5RlMwbm9pZTY4UmRaWkN3WmprTFNtUGZFYmhrTUZKRkpEOUFGY3NnZ0ZrZURQQkx2T3EwajNlWm54cVNZTURFRFE?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-15T10:51+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシア軍、ジトーミル州のエネルギーインフラを攻撃",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pRVJNeVlHZDg4bmMxMjNQb2YxZjJvOXJGSUYzNVBlR2NwYnFROGZwRlpIWXU3RFdhbHlsT19GRDk3U3hmVGVfTnEwUkNqcGVPUWFPdDVTWkRCYWR4X3FSbnh6SkxVM19p?oc=5",
    "source": "Mezha.net",
@@ -581,6 +574,13 @@
    "source": "Mezha.net",
    "at": "2026-11-15T10:41+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T10:00+09:00",
+   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -601,14 +601,14 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」6件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「攻撃」2件"
+    "ロシア：「攻撃」3件"
    ],
    "items": [
     {
-     "title": "イラン革命防衛隊 “バーレーンにある米軍の防空レーダー攻撃” 声明で発表",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRHNRX2xla0FEODFSYmxOSEZuTnRzXzJ6WGpzaTlCeTJWUGpmT3o2ejRIMEdTWHV3LUF1ajFRdks0RDFGay1ZOWp2TV9tMjJVaDFieHdZNA?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-15T17:38+09:00"
+     "title": "イラン、バーレーンの米軍基地へのドローン攻撃を主張",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzkxb1NNWEx3cGZWYURQak1nZmlkdWdzNkhOcEthOGR0UzlpbC0tcDFSYVNfanVoNjN0eGJOaFBtY3RoR3d1UkRlMEZSYUdhMTI5WlNZMXNMWkJxQWV1cVF3bW1Vc3NUSXFWXy1xOHNDbGlqaVZPcXBxbDhYZG9KNXpsQ0lJazFSLTRsV0puLTA5V2hGNkNHV3kyWmg?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-15T17:51+09:00"
     },
     {
      "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
@@ -617,10 +617,10 @@
      "at": "2026-11-15T16:10+09:00"
     },
     {
-     "title": "ロシア軍、ジトーミル州のエネルギーインフラを攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pRVJNeVlHZDg4bmMxMjNQb2YxZjJvOXJGSUYzNVBlR2NwYnFROGZwRlpIWXU3RFdhbHlsT19GRDk3U3hmVGVfTnEwUkNqcGVPUWFPdDVTWkRCYWR4X3FSbnh6SkxVM19p?oc=5",
+     "title": "ハルキウでロシア軍の二度目の攻撃により消防車が損傷",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORzV2WGlHTms3ZS1jRm9JZlRkWVRyQkJkdGZWSmRSRGFXQ2Jpc0x4N0FWRlZqVFJKQnQ0Qi1YbmhXVUN1STJLNHNuS04xQ09QdWtMQ2F5RlMwbm9pZTY4UmRaWkN3WmprTFNtUGZFYmhrTUZKRkpEOUFGY3NnZ0ZrZURQQkx2T3EwajNlWm54cVNZTURFRFE?oc=5",
      "source": "Mezha.net",
-     "at": "2026-11-15T10:49+09:00"
+     "at": "2026-11-15T10:51+09:00"
     }
    ]
   }
