@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:45+09:00",
+ "updated": "2026-11-16T08:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,16 +95,16 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、２カ月ぶりに米軍基地を空爆…米国の「封鎖強化」方針に強硬対応（ハンギョレ新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUGJOTDFQeUJjVm9NeDNVV1A5N1ZJVlZVelIwOFluaVdiTmI5akdSNGNmNXh6bEVQSlppZjR6VkcwNVlQX1p6bldDZElVOElpVkJrNEFOTEpGRUJOaUxrYkk1dkIzdW9XVmpIN0xZN2dSVVZobGdib0NMaWJfTXc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-16T07:26+09:00"
+    },
+    {
      "title": "イランがバーレーン米基地を連続攻撃 米は対話中断し長期圧力方針",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmRRM1Zrb2kyM0I0V3ZoTXk5ZlByXzFIZlVld1JrNzJ5bnNSY0VNWXc1QmVsajNHSVpMY3RHcFQtNDlNTUprSlFobkhJOTdRNTFLT0p4aWxxb19KX2R6NjEzV010dU80S0JWbW1xSnUtQlcwOV9qQmY3NWJUNEVtWW5QOU5kVkZQ0gGcAUFVX3lxTE9RSmlXM0FHRkl6OU91dDMzeFdQRl9SNW42dzMzY0Y0bHpJSG40MlZTZEtzVTRIYWUwSDNzNmVadlVOZzR0LTlndDZwQ0pRdEdYU01scVdQNG9zcVBsR1ZTTlBnQmx6eUJzcFg5S0NaOGFmNGtvV1MwSUt3bkZOdlpHYTBrOGppX3I1cGIyZE9BZlNrR0Q5SjFMQnJuWQ?oc=5",
      "source": "Chosunbiz",
      "at": "2026-11-16T07:18+09:00"
-    },
-    {
-     "title": "イラン、２カ月ぶりに米軍基地を空爆…米国の「封鎖強化」方針に強硬対応 : 日本•国際",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaERvOXdENnNJYlM5aFVQQ0xpTnE1ZjVLSHNVdldoN0JrcERWNjhDcjFtaWwyS2R5cWNVdnpHVjQzVThENnprQUJwelhMMk1LSXpSVGVDUkxyU180RXUzcTVvNks?oc=5",
-     "source": "ハンギョレ新聞",
-     "at": "2026-11-16T06:08+09:00"
     },
     {
      "title": "イラン大使館、帰還する駆逐艦の米海軍将校「2人を見つけ出す」",
@@ -150,7 +150,7 @@
     },
     {
      "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MWlc5bUQ2bXJQclJVQXRmd29abW5COUlicm9aaGIzMDVPak5EekNRcGd4Uk1IcEl1UDZMVmRxOGpTTENleW1hMFNhWHAwUElVU3ZNWGt5MF9vV1E?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-15T06:00+09:00"
     },
@@ -339,14 +339,7 @@
    "at": "2026-11-15T17:59+09:00"
   }
  ],
- "outage": [
-  {
-   "title": "南海高野線で停電 約3時間運転見合わせ 堺東駅前のバス停やタクシー乗り場に長い列 帰宅客ら約7万人に影響 原因は急行列車の故障（関西テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FQU15b2NkaWNIZUxWdWRtMmktN0NXQkJ5SnlzcjRLaDluV0xKX2hNbjhQZlkyMlJaRGFQTU1vaEg1Nk1iZmtoY1FMUmxGc1R6SUh1ZzJjaVN0NmU0SUNhVUg4OEFWWGo3VDVDc0Iyb3FMQkRvQVE2bjNtTUZGNG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-14T07:53+09:00"
-  }
- ],
+ "outage": [],
  "japan": [
   {
    "title": "ゼレンスキー氏、ロシアによる新たな弾道ミサイル攻撃の可能性を警告",
@@ -369,6 +362,12 @@
  ],
  "cyber": [
   {
+   "title": "マイクロソフトの障害でメールを送れないとき、従業員は何をするのか？ もちろん、ミームを作る",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNEl6azFGbWRJMGlaZGdnSkhDYjZaeUJkeHp0U0tIWVhZRU0xcTd4d2s3OUFNQWFCYklidDhtSWxXOHhqR2hRdVRLWjRjM3NTTHdla2lmcFNKYXl0VzJuSWNRVkNyRURoVXNXZWFtQTRvRWpXSkE0M2hUZDRXVmlDc2xsM2JUWWhaX3ZiSDBLSV9sdXNUZGZITzRTZktBdw?oc=5",
+   "source": "Business Insider Jap",
+   "at": "2026-11-16T07:45+09:00"
+  },
+  {
    "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zd2RjeHltRFBSNHlVVEdOWjZoekQ0TzBvZHFsSE1sMXdPWm1fU19JVldXV1FBaUlGU3Y3Yjh2SkgzQVVzeVJJeE5vdk9TZWdxN2c?oc=5",
    "source": "山陽新聞",
@@ -388,9 +387,9 @@
   },
   {
    "title": "Qoo10に不正アクセス 住所や任意入力の身体的特徴も閲覧された可能性",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01NzM3T01LMGRYekRqRmYwa0M3Z1RLV2hnVWdtN2ZMQVdXRnJ3LTN6eGdKbGFTVlpYekFJZzdtM05ySGhQS1BqNVRxOHpfVUctYUE?oc=5",
-   "source": "CNET Japan",
-   "at": "2026-11-16T07:40+09:00"
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTldRcE5GdFR3b0R2UTgwcnlvcE4yeUxMbE84YXkxcVhfTTlwczFuWFpOc3hHVS16UnFSc1ZXZ0otamVyQ1JWYlJiT2FGcE4yVzZCb2t3U1VGeW5vb2RsMDdnLXpYWE9INUYzVnF1VzlnTUEwZzRoSms2N0JCWjEtUWxCZmFTdkNoRU52a2tn?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T07:56+09:00"
   },
   {
    "title": "フランス郵政大手「ラ・ポスト」傘下企業でサイバー攻撃 2200万人分の個人情報流出",
@@ -442,21 +441,15 @@
   },
   {
    "title": "上野厚労大臣がサイバー攻撃被害の病院を視察 13万人分個人情報漏洩 「対策の徹底を」",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FUU80MTRPU1hUQjRSUnVOaVdHZHpNbFpPbmVZX2ZtbldRQzFpaXVXUjRmeVVSbl9YWWhHRlV1MUdWbkRlN0NlbVZuUTBVZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-16T06:40+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2RkQyNEtHTTJONFMxTTd2OTVVLXpiWmhKXzFFWWduZUVvNXhnbG5zNkFQOHBDV28zNHdBNFl3MDVJZ1hlR2FVZDdHV190YWpvMDM0RkpSX3BFQ2R3V0VN?oc=5",
+   "source": "千葉テレビ放送",
+   "at": "2026-11-16T06:44+09:00"
   },
   {
    "title": "サイバー攻撃への政府対応を巡る年代別の評価 - 消費減税効果、与党支持層も疑問視 世論調査 - 写真・画像(2/2)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sMHg1UFcxa0ZGOXFPYUpMc1ZnazNxdUNBcC0tOXYwU2s1N2xuLW02UW9xTGJzME52V3NGdXlrZnFtZUVBOFZPTUs3MElNbVVXcnV2Zl81QQ?oc=5",
    "source": "西日本新聞me",
    "at": "2026-11-16T06:18+09:00"
-  },
-  {
-   "title": "ジーニー「GENIEE MA」不正アクセスの費用負担が3億3,600万円で確定 クラウド計算資源の不正利用、1億5,500万円を追加計上|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjZMYzVHcDc4N25XUmttdElGWG1zbVVZdkpiRUdmeXRucW94UVNaUXlNQlBvQ2M2TGl6d1hydVJ2dmhuTmJjQU9FUDZ6S3lRUVo0UHJkV2dpX2hQZjlRNlFjTGVQa2RMQS0wMHluTUU5ZERiRGxJWlBvVTlsSVdpd2FvMmFpQVdxZ2RjRHd1bmNKQUFEVFBTQUFrU0tiN1RtZkEtSDVaWFg?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-16T06:00+09:00"
   }
  ],
  "osaka": [
@@ -474,6 +467,13 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-16T07:31+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "イラン、２カ月ぶりに米軍基地を空爆…米国の「封鎖強化」方針に強硬対応（ハンギョレ新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUGJOTDFQeUJjVm9NeDNVV1A5N1ZJVlZVelIwOFluaVdiTmI5akdSNGNmNXh6bEVQSlppZjR6VkcwNVlQX1p6bldDZElVOElpVkJrNEFOTEpGRUJOaUxrYkk1dkIzdW9XVmpIN0xZN2dSVVZobGdib0NMaWJfTXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T07:26+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "イランがバーレーン米基地を連続攻撃 米は対話中断し長期圧力方針",
@@ -509,13 +509,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-16T06:13+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "イラン、２カ月ぶりに米軍基地を空爆…米国の「封鎖強化」方針に強硬対応 : 日本•国際",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaERvOXdENnNJYlM5aFVQQ0xpTnE1ZjVLSHNVdldoN0JrcERWNjhDcjFtaWwyS2R5cWNVdnpHVjQzVThENnprQUJwelhMMk1LSXpSVGVDUkxyU180RXUzcTVvNks?oc=5",
-   "source": "ハンギョレ新聞",
-   "at": "2026-11-16T06:08+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "米中ロ首脳会談を前に「プーチン大統領」を焦らせる最前線の惨状…上官が兵士を粛清する“ゼロイング”の悪夢、前線に送られた新兵の生存期間は“最短10日間”とも",
@@ -632,10 +625,10 @@
    ],
    "items": [
     {
-     "title": "イランがバーレーン米基地を連続攻撃 米は対話中断し長期圧力方針",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmRRM1Zrb2kyM0I0V3ZoTXk5ZlByXzFIZlVld1JrNzJ5bnNSY0VNWXc1QmVsajNHSVpMY3RHcFQtNDlNTUprSlFobkhJOTdRNTFLT0p4aWxxb19KX2R6NjEzV010dU80S0JWbW1xSnUtQlcwOV9qQmY3NWJUNEVtWW5QOU5kVkZQ0gGcAUFVX3lxTE9RSmlXM0FHRkl6OU91dDMzeFdQRl9SNW42dzMzY0Y0bHpJSG40MlZTZEtzVTRIYWUwSDNzNmVadlVOZzR0LTlndDZwQ0pRdEdYU01scVdQNG9zcVBsR1ZTTlBnQmx6eUJzcFg5S0NaOGFmNGtvV1MwSUt3bkZOdlpHYTBrOGppX3I1cGIyZE9BZlNrR0Q5SjFMQnJuWQ?oc=5",
-     "source": "Chosunbiz",
-     "at": "2026-11-16T07:18+09:00"
+     "title": "イラン、２カ月ぶりに米軍基地を空爆…米国の「封鎖強化」方針に強硬対応（ハンギョレ新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUGJOTDFQeUJjVm9NeDNVV1A5N1ZJVlZVelIwOFluaVdiTmI5akdSNGNmNXh6bEVQSlppZjR6VkcwNVlQX1p6bldDZElVOElpVkJrNEFOTEpGRUJOaUxrYkk1dkIzdW9XVmpIN0xZN2dSVVZobGdib0NMaWJfTXc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-16T07:26+09:00"
     },
     {
      "title": "北朝鮮、英才教育でハッカー量産 サイバー攻撃にＡＩ駆使、核開発資金に",
