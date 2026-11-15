@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:30+09:00",
+ "updated": "2026-11-15T22:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZmZDTGxfeWxPa1RfUzM0b0xsMUJBLWlmM3pIZUhoSDJnQ2xFZmxITGtMOEdrRThEUXRDZUJ6eldETmRBbmlocmpjYWl3U0NnUW5WMVdObnllQXppcWpKU3VLUmpoOHJtbUNEZQ?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-15T22:32+09:00"
+    },
+    {
      "title": "国際的な焦点:イランがバーレーンでの米国レーダーシステム攻撃について発言",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzUwa19XZ2ZBUTJTS2FYR3JzOEZUUGVVdUtXaVBwUHI5aDNIZFRlcWwxQjlETFc4ZUxpNGhtWFJCSWpRNUttVzhzSk0zX2NmeWZFZWhrWVVUcTlCNWU5UzQ3Z0JVNFZEUUwycllIa0U4OWdOMV9VSTBPenZwQm9YMnBCNXZaZFg0TVByOU9vR3FVeElWQTFObWlfOHAtcGhtT3NDbXJPWUI1aC1nMmVSSTM0NHJhTFZFZEQzMw?oc=5",
      "source": "Laodong.vn",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raE5fN0VoUV9qbGQtX3hrTlRleVh4RHlFeFBRVkVibkRuc292U25MVHN3clJPeHJlbHRPdDQzS1R2NzFpSDZQUEZxbGlJOVo0dGlBMVhybWtoNXlZYlRB?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-15T18:36+09:00"
-    },
-    {
-     "title": "バーレーンの米軍施設を攻撃 イラン革命防衛隊、報復か (2026年11月15日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ZDh0aE1kWFR2LU5BS2dBZ3k2VWVGLS00b015TWI4LVZORGVwczJnS21NRVB5bkVtNWpEYzdFVFlkZy1TSk5BU21JZ3hUY3Nnd0xZSkx1WDc1eVRDMVE?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-15T18:30+09:00"
     }
    ]
   },
@@ -357,12 +357,6 @@
  ],
  "cyber": [
   {
-   "title": "2001年同時多発テロ以来…全米の空港で4時間の「地上待機命令」 約8000便欠航150万人に影響 大規模な通信障害は老朽化が原因 混乱続く",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZdjNlVXNwd01kOHBPdHhmUWExcWswOXBPcFctQ2FkRkY0LS1xQ1phMzZvSmk3dTV2SmhHeE1xUk5qcjgtVnk1eDJKejVpQ2lJUHp6Zm4yZldfNFhtb3kyQW1DMXozNWc?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-15T21:10+09:00"
-  },
-  {
    "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSG5WRHNlMlliZDBxbGo0dVVPSHJ4TUctTV9JOGlGcXV3SnByVllKNm5oVzVCSzdsd1JDZ21XRDg5eUZ0X3dzVjR5SWt6WVQ4NTM3WmVrM1JSNVRwc1JwUDVlVmdiV1NzbDFiSkdXeXFzSEVybWtmV1JSb1ZKQjA?oc=5",
    "source": "Yahoo!ニュース",
@@ -417,6 +411,12 @@
    "at": "2026-11-15T15:30+09:00"
   },
   {
+   "title": "両陛下が大阪訪問 システム障害で日程一部変更 | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPTnlTTFdaYUN0SXpraElNRWxJZXFDUmZXeTk4VzhZNElwaHVMeGQySkJIRlNQT2w5X1RmM3hYS0Vjb195LWlqT2dvMEFJT0pFdlExNXB0Y2FjT2JaUVVOai1WNmFDMFJxa2V2WnRxcFJiN1VoYzVMZVNuOGVPSk1HUUxMd3BMN0pFTlVXZUJ3a2JRVzZoV0FnZE1TNEw1OGVPX3RHS1k2WlYtelZQeHlWQ1NNT1ZTZDItZ0ptQWFKaDFWZ2M3a21NTk9yU0FDTGVSX0ktMm5HM0lRMTdLcjlaSU5wcDFuNGJZZG1CMlNJVmZTaG5rdG40N3JHQ3BRdkdLZ3dlU1hCaHFmVVZ5ZUkzMUE4Ty0zeFBScWZmVEVkMmI0M1FZcVhHd2QyaHhYeDYxdG8xM3A5eG1ZRFk5aGNnX1hNTDVFNUhnRmxnQ0Z2c282Ykd3MXRXSmYwQmtKYU13N2VwSldqbFVXOVp4M19MTUttY3hSNW9lYWd4cnc2QXZOalZBN2V6TGFwYw?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-15T15:18+09:00"
+  },
+  {
    "title": "サイバー攻撃で2200万人情報流出 フランス郵政公社の傘下企業（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ec1NaSWJBd3V0d3Q3M0xTdkd1cXhHQlotSkMtaHBzbktnVzFkcUpqOVE0Z0QzOC1FMnZmcXQ2cWpJR2M5dFNsZDVPeFBvMGF1N05mVTJNZGphX01Obzd3TGpQazFEaW1IWHFTOGN4T2RWLWN5dTFUbnNVSWVoZm8?oc=5",
    "source": "Yahoo!ニュース",
@@ -424,9 +424,9 @@
   },
   {
    "title": "「サイバーセキュリティ対策を医療機関でも徹底していくことが大事」上野厚労相がサイバー攻撃を受けた病院を視察",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFQXAwdkVHT21TckNOSmJtOFI3MEhWSGRtaHp3WVU1dHEyMnNpVGFqNm4xSlZaX3JUcWVJMmZuQ2lkRlRhUXltM0FXRXhiRUlScHU4MXY5RWhyS0NIVVczdmF4ZFpaZmt0eFNtNkZ3?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-15T22:13+09:00"
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JWjJ2dEw2TjNENWgzSm1EV2VpWVdoNnhqazdNUXVpT1BxYUtuRnptQjRPT2pSbUVYT1BiM3ZJeU9ZOFNWeXBrYVFVYzVMdm10YWJHc3ZIX0NPWjJiZ25Qak4wbWFQbXZBeEQ4SjBjUEJLVWVCV3BrN00wc0piaFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T22:09+09:00"
   },
   {
    "title": "サイバー対策「ブロッキング」賛成７７％、反対１１％を大きく上回る…読売新聞世論調査",
@@ -449,6 +449,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZmZDTGxfeWxPa1RfUzM0b0xsMUJBLWlmM3pIZUhoSDJnQ2xFZmxITGtMOEdrRThEUXRDZUJ6eldETmRBbmlocmpjYWl3U0NnUW5WMVdObnllQXppcWpKU3VLUmpoOHJtbUNEZQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-15T22:32+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "国際的な焦点:イランがバーレーンでの米国レーダーシステム攻撃について発言",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzUwa19XZ2ZBUTJTS2FYR3JzOEZUUGVVdUtXaVBwUHI5aDNIZFRlcWwxQjlETFc4ZUxpNGhtWFJCSWpRNUttVzhzSk0zX2NmeWZFZWhrWVVUcTlCNWU5UzQ3Z0JVNFZEUUwycllIa0U4OWdOMV9VSTBPenZwQm9YMnBCNXZaZFg0TVByOU9vR3FVeElWQTFObWlfOHAtcGhtT3NDbXJPWUI1aC1nMmVSSTM0NHJhTFZFZEQzMw?oc=5",
@@ -489,13 +496,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raE5fN0VoUV9qbGQtX3hrTlRleVh4RHlFeFBRVkVibkRuc292U25MVHN3clJPeHJlbHRPdDQzS1R2NzFpSDZQUEZxbGlJOVo0dGlBMVhybWtoNXlZYlRB?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-15T18:36+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "バーレーンの米軍施設を攻撃 イラン革命防衛隊、報復か (2026年11月15日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ZDh0aE1kWFR2LU5BS2dBZ3k2VWVGLS00b015TWI4LVZORGVwczJnS21NRVB5bkVtNWpEYzdFVFlkZy1TSk5BU21JZ3hUY3Nnd0xZSkx1WDc1eVRDMVE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-15T18:30+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -612,10 +612,10 @@
    ],
    "items": [
     {
-     "title": "国際的な焦点:イランがバーレーンでの米国レーダーシステム攻撃について発言",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzUwa19XZ2ZBUTJTS2FYR3JzOEZUUGVVdUtXaVBwUHI5aDNIZFRlcWwxQjlETFc4ZUxpNGhtWFJCSWpRNUttVzhzSk0zX2NmeWZFZWhrWVVUcTlCNWU5UzQ3Z0JVNFZEUUwycllIa0U4OWdOMV9VSTBPenZwQm9YMnBCNXZaZFg0TVByOU9vR3FVeElWQTFObWlfOHAtcGhtT3NDbXJPWUI1aC1nMmVSSTM0NHJhTFZFZEQzMw?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-15T21:45+09:00"
+     "title": "バーレーンの米軍施設に攻撃 イラン革命防衛隊、報復か",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZmZDTGxfeWxPa1RfUzM0b0xsMUJBLWlmM3pIZUhoSDJnQ2xFZmxITGtMOEdrRThEUXRDZUJ6eldETmRBbmlocmpjYWl3U0NnUW5WMVdObnllQXppcWpKU3VLUmpoOHJtbUNEZQ?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-15T22:32+09:00"
     },
     {
      "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
