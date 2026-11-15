@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:00+09:00",
+ "updated": "2026-11-15T23:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イスラエル情報機関は、イランがトランプ氏を標的とした攻撃を計画していると非難",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVZfRGlWbnFUc2RFTDMwQURRNmcxNTZIYklMa0lzV0xJaHBseEp0VmlyRS1jZzRyb1ROQWNqTlRYellJSTlkTkU0R3FEcWFmVkJXV3JVbWFXMWwzdTc1Wk8zQzdHbjU3bGdzUGk0dEdQY3hYQUNsUjNkc2hwYjFhaDRwbC1JZlpfZUdJbzJCRGctdzFkMXo1WjA3elV5akQyZ3p1bmJraWJ2c3g3Z2wxQnhrQWEwYzdhT0E?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-15T22:56+09:00"
+    },
+    {
      "title": "F1カタールGP開催を前に中東情勢緊迫 イランがバーレーンの米軍基地をドローン攻撃",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emhfQmhRREVsMlFBbFVnazVGZTlxZUZtR2Y1b1oyZHF1SU1PVklDNC1rV25iSWdvNkFnVU9jYklmeWtLeUNLV1ZkRHJ4RDhD?oc=5",
      "source": "F1-Gate.com",
@@ -122,12 +128,6 @@
      "title": "イラン革命防衛隊、バーレーンにある米軍防空レーダーを攻撃…米軍は発表せず",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93SjNybUU3c29sRW9BVDE0OC1Qb0JnWnNsdkdCUTJlUDZpYzA5WE9fWXNKRjUtZ1ZFZGhOSXlnV0J2QjBIYThNVGZZWkNMcEN3NHZpVUNVVWxsN2NLaWN1ZTRB?oc=5",
      "source": "読売新聞",
-     "at": "2026-11-15T18:43+09:00"
-    },
-    {
-     "title": "イラン革命防衛隊 バーレーンの米軍レーダーを無人機で攻撃と発表 (2026年11月15日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uNDFZVmx2bFBtdmx0MWsySVlRTzRfWk5lX3QzV1FsN0dES182cy01YUJoVHJyS250OUtYa3VOTE16ZHU5bUgyNjJQdVg1cjFkMTNFSTFiOTkyVksxMFE?oc=5",
-     "source": "ライブドアニュース",
      "at": "2026-11-15T18:43+09:00"
     }
    ]
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "南海トラフ想定し連携確認 延岡市など県総合防災訓練",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oc1Y5cFVYdjB3UEt1RHgzeU83VDk1RTQtNTMwZ3ZMWnlrRmkxYkoyMFd4cF9Ra0dFNnF1OFNRVkhIUjhVUEEtZ1gtY3FFNnZ1YVlZV2lLVl83aVZiR2JrWXFVOEF6TXc?oc=5",
+   "source": "宮崎日日新聞",
+   "at": "2026-11-15T22:59+09:00"
+  },
+  {
    "title": "南海トラフ巨大地震を想定 延岡市など県北エリアで宮崎県総合防災訓練",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqQkFqZl9mbXVsQXZkdFhaUVhYaUFTU3d5SnQtRURJQUt0VXNPYWloRWFPXzlCYXV2cm8zSVA2WTZaempwbENlMzJCaw?oc=5",
    "source": "TVer",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtRndkRWNNU0xVTXNPRkNiZjMxQ2pieFJWME5PTWVBRXRNVW5taEcxREZVUlVFZ2xHZDJIUVNvWW1oZ2RhOVVwOFU2UQ?oc=5",
    "source": "TVer",
    "at": "2026-11-15T13:06+09:00"
-  },
-  {
-   "title": "南海トラフ巨大地震に備えて 静岡県総合防災訓練始まる 2026年は磐田市・袋井市・森町が会場に",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xTS1NanB6eFJHY0ZUUFEwS3gwaFJ4MGpRM1ItUndBekt1cTRQQjVlUUc4aW53WUg5dDdyTnNuVDFTMHQwUXp0TjU4WUo1UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-15T12:10+09:00"
   }
  ],
  "outage": [
@@ -353,6 +353,18 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WY0dubkdYSVYxVXhuOFdteTEyMnA5UVdrSnpmYVQwYkhNaWpadGtGLW83enh3dkozZ2VhcEdkaWJJNDBO?oc=5",
    "source": "@DIME アットダイム",
    "at": "2026-11-15T21:00+09:00"
+  },
+  {
+   "title": "Jアラート訓練放送 2022.6.15 @Jアラート @訓練放送 @本番では、津波が来るから直ぐ避難。@交差点注意です。 Taylor Heinicke Nfl Retirement (rBrqBvwBAJ)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHlCQ0JfdDFRZ1ctZGJVVzc3VnJJWjRKRFg0YVNaaUUtQVZDUWpoajZMWGxwOWhEUjlRejNILVNNZUNFdnNFLW9WY0NuZTc4ZzFhbGFFOURad3lmaGxORFAza2tMdUpMRTRrQUVqaVduSjB6RTh0QXJUazVBRzVtcGVB?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-15T20:28+09:00"
+  },
+  {
+   "title": "令和最初のJアラート全国一斉情報伝達訓練放送 Shakira (uY9Fa2Ec2E)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHhHUnk2Yk02a1pYOWsxWHQyekNvSnc4bW1LX0FDLUwyZTVJVlZPMWlhbFU4c2l5N2dYWVIybWJZUUptVWpaNDE0OVc4WXk4MlVKbVR2VXNZcTd4T2dxSlRsVEl6Y3lJUEJPSjA1TGVNeTlJM19hOW1SdFM3d0c1MUx5X2FvU2M?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-15T11:09+09:00"
   }
  ],
  "cyber": [
@@ -450,6 +462,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "イスラエル情報機関は、イランがトランプ氏を標的とした攻撃を計画していると非難",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVZfRGlWbnFUc2RFTDMwQURRNmcxNTZIYklMa0lzV0xJaHBseEp0VmlyRS1jZzRyb1ROQWNqTlRYellJSTlkTkU0R3FEcWFmVkJXV3JVbWFXMWwzdTc1Wk8zQzdHbjU3bGdzUGk0dEdQY3hYQUNsUjNkc2hwYjFhaDRwbC1JZlpfZUdJbzJCRGctdzFkMXo1WjA3elV5akQyZ3p1bmJraWJ2c3g3Z2wxQnhrQWEwYzdhT0E?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-15T22:56+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "F1カタールGP開催を前に中東情勢緊迫 イランがバーレーンの米軍基地をドローン攻撃",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emhfQmhRREVsMlFBbFVnazVGZTlxZUZtR2Y1b1oyZHF1SU1PVklDNC1rV25iSWdvNkFnVU9jYklmeWtLeUNLV1ZkRHJ4RDhD?oc=5",
    "source": "F1-Gate.com",
@@ -488,13 +507,6 @@
    "title": "イラン革命防衛隊、バーレーンにある米軍防空レーダーを攻撃…米軍は発表せず",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93SjNybUU3c29sRW9BVDE0OC1Qb0JnWnNsdkdCUTJlUDZpYzA5WE9fWXNKRjUtZ1ZFZGhOSXlnV0J2QjBIYThNVGZZWkNMcEN3NHZpVUNVVWxsN2NLaWN1ZTRB?oc=5",
    "source": "読売新聞",
-   "at": "2026-11-15T18:43+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イラン革命防衛隊 バーレーンの米軍レーダーを無人機で攻撃と発表 (2026年11月15日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uNDFZVmx2bFBtdmx0MWsySVlRTzRfWk5lX3QzV1FsN0dES182cy01YUJoVHJyS250OUtYa3VOTE16ZHU5bUgyNjJQdVg1cjFkMTNFSTFiOTkyVksxMFE?oc=5",
-   "source": "ライブドアニュース",
    "at": "2026-11-15T18:43+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -612,10 +624,10 @@
    ],
    "items": [
     {
-     "title": "F1カタールGP開催を前に中東情勢緊迫 イランがバーレーンの米軍基地をドローン攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emhfQmhRREVsMlFBbFVnazVGZTlxZUZtR2Y1b1oyZHF1SU1PVklDNC1rV25iSWdvNkFnVU9jYklmeWtLeUNLV1ZkRHJ4RDhD?oc=5",
-     "source": "F1-Gate.com",
-     "at": "2026-11-15T22:39+09:00"
+     "title": "イスラエル情報機関は、イランがトランプ氏を標的とした攻撃を計画していると非難",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVZfRGlWbnFUc2RFTDMwQURRNmcxNTZIYklMa0lzV0xJaHBseEp0VmlyRS1jZzRyb1ROQWNqTlRYellJSTlkTkU0R3FEcWFmVkJXV3JVbWFXMWwzdTc1Wk8zQzdHbjU3bGdzUGk0dEdQY3hYQUNsUjNkc2hwYjFhaDRwbC1JZlpfZUdJbzJCRGctdzFkMXo1WjA3elV5akQyZ3p1bmJraWJ2c3g3Z2wxQnhrQWEwYzdhT0E?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-15T22:56+09:00"
     },
     {
      "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
