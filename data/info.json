@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:30+09:00",
+ "updated": "2026-11-15T18:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン“米軍のレーダー施設攻撃” ホルムズ海峡で緊張続く",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raE5fN0VoUV9qbGQtX3hrTlRleVh4RHlFeFBRVkVibkRuc292U25MVHN3clJPeHJlbHRPdDQzS1R2NzFpSDZQUEZxbGlJOVo0dGlBMVhybWtoNXlZYlRB?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-15T18:36+09:00"
+    },
+    {
      "title": "イラン、バーレーンの米軍基地へのドローン攻撃を主張",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzkxb1NNWEx3cGZWYURQak1nZmlkdWdzNkhOcEthOGR0UzlpbC0tcDFSYVNfanVoNjN0eGJOaFBtY3RoR3d1UkRlMEZSYUdhMTI5WlNZMXNMWkJxQWV1cVF3bW1Vc3NUSXFWXy1xOHNDbGlqaVZPcXBxbDhYZG9KNXpsQ0lJazFSLTRsV0puLTA5V2hGNkNHV3kyWmg?oc=5",
      "source": "Informat.ro",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5neWhVdWtVaEcwQWJXUWV1YzNIUEJqTy1GVFlDSk01UFNEeEN6dHk1bk1PWk1sTlJTZl9ockp3TzRtWm5QQjEzWVNhcHNCTmd6NW9PME43TUt2YnlnVzhYQUp4NkZEMUp0cG83RWZmN3Y?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-15T16:31+09:00"
-    },
-    {
-     "title": "バーレーンの米軍施設を無人機攻撃とイラン",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcWtRSEZqWWRLLVhkODhrR2EyWTF5VHJ1TzlpZGFEekpiWEZUVld1UHlmRlZJdXJLTEZkUzR3QlFCNmF5VGRGcWg1aHZqZC1LMVlXdGF3SnM?oc=5",
-     "source": "京都新聞デジタル",
-     "at": "2026-11-15T16:05+09:00"
     }
    ]
   },
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "南海トラフ巨大地震を想定 延岡市など県北エリアで宮崎県総合防災訓練",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RNGFIRVNDQXZfTkhnYlh0SG0wTk93V2hHTnplNXI5TEh5bHYxNGViRVR1TUlaNnJUZ3NTVkhRTkdxNDJMX2lOUlF0VVZBZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-15T18:20+09:00"
+  },
+  {
    "title": "もし南海トラフ巨大地震が来たら 静岡県総合防災訓練 支援物資の積み込み・生活用水の確保・トリアージなど どう行動すべきか確認（テレビ静岡NEWS）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yMGQ4Q0kzMmZocFpJNEtYX3dlUC0zUnRONWxfb3ZqVkhJTFdLMEs1VHFySmdFTGhYcVhHM1ItOG42eE56SDFuZ3YxY0lVOXFmSXBKN1l3cUl1b0ZPMTF1YVFOekZWWF8zX1dxQXRnay02Tkc5QzVsdnladE1LYUE?oc=5",
    "source": "Yahoo!ニュース",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xTS1NanB6eFJHY0ZUUFEwS3gwaFJ4MGpRM1ItUndBekt1cTRQQjVlUUc4aW53WUg5dDdyTnNuVDFTMHQwUXp0TjU4WUo1UQ?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-15T12:10+09:00"
-  },
-  {
-   "title": "南海トラフ巨大地震想定 高松などで香川県の総合防災訓練",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fMl9TMkUyU1RHNHVYZnBnV2dqampxZ19CUDZROEdac05Tcm9vRlJRdTdkcGJENkVESGpvMGpFWWRVZER6SFo2V2xnWjdIMHJDNE9Cb0lmcEtHX19TYVpJ?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-14T19:45+09:00"
   }
  ],
  "outage": [
@@ -349,12 +349,6 @@
  ],
  "japan": [],
  "cyber": [
-  {
-   "title": "マイクロソフト 大規模システム障害 復旧作業続く",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wb09pVmxlQmxKeTE2aDF5MnJKWHQ4VmxrSDV4aWU0WVk3Z0hCelZSOFdvU2FOeHZDS3BBekJIS2VnZk9jU3V1MnhmZU5RalVFWEZ1bF9Hd1JsMkl0ZktzMGctOA?oc=5",
-   "source": "テレ東BIZ",
-   "at": "2026-11-15T17:41+09:00"
-  },
   {
    "title": "【情報まとめ】「Outlook」など「マイクロソフト365」のサービスで世界的な大規模障害 「根本的原因への対応完了」米MSが全面復旧発表",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaWNWd05rUWhPekRqTGtPZ3JFa3VFQlJmWEg5MW9vYklPcVhtLWJ2QkVLVkp1WURXWTYwRGJpalJjNHRwUW1hbWU5aEVqMFJtNHNPcWdZaHVaZm51c1UxUm1BZ25nc2hzSjlmbDNzZGdsak12ZjB1N2xn?oc=5",
@@ -375,9 +369,9 @@
   },
   {
    "title": "米航空便 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdE5pRG41ZlEyQVhRTG9ORTRyNzNCd3J5ekhHMnFPazAybkxuV2dUMzh4c3UyUEk5ZFljU05YNEhXZ3ZYMkc1c0lELVJEQVlmZmdKZzJzTQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-15T12:45+09:00"
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HZDA0c2w3NF9ON2NWaThldkJTMEN5VVlHSG10YUN3aWtmbzJlWWJFOWFHcFo3cGdYMUE1RWp5R1BmcW9NcnNMQk5ZaHFsNl9iUk1WbE9lM1NFVk9TSl9sVjJsdUVLQm9IVmJTLTZnWjZfTlk?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-15T12:53+09:00"
   },
   {
    "title": "米航空機 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
@@ -411,8 +405,14 @@
   },
   {
    "title": "上野厚労相、サイバー攻撃受けた川崎市の病院視察…外部専門人材の活用や職員教育の徹底訴え",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmhNN0x3Rm9DSnN0RVhCam5Fa3VpQnYwMGJzN3JSazAwUXJDbVc1TlY1R0FjOGpBMEpDR0hWS2NqbnFrdTQyeW1leDVzLU54MFRoY01lZjVUbjRkelg4cEtYTEFfamZFOXlGZmliNmM2MjlVMlM2ZkVXR3NFS1Q5T3JGdXVKZEswOTNpMdIBkgFBVV95cUxNbVhyVXJpX05aWEdzdE5mdjlwcGszVHJuT0FDaFctUmlLTndyMEhUd0xfT3ozZkwybm5TWjQ2WXFfTkEyN0wyT2FUZjZuZDJ1dkhjVU1FVVZ3bTY0Ym1nV0U4d3drWGs2UU44ckZtbV9YMTR5U0dpZF84QnNRYXUtZVZFd1ZwWXZ5aTdBU0tZVXFlUQ?oc=5",
-   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40NFN4VXB2N1U2M2laNXlUTkoyQkJmQVZkei1DemlIMm5sOWk0a1o4Z0lQVWZhZVpYR1FyMmxWdTI0Y1Uyczl5Tk9hc2dQRGJSN1dwb3Vma0h0c2RPNWV1WTBSY19PZw?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-15T18:18+09:00"
+  },
+  {
+   "title": "はぴコインに不正アクセス、「ふくアプリ」の全サービス一時停止 11月15日、福井県が発表",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YSVJZNTZNNVNVcGhHVk1xbWFiN2pHVzZsVTV3ZjZhdWxNMEhVN3dtYkpYUDVxVlQwVXI4RXNSZTVqV213NFd4VjZEcFdldHpSV0ZtZWFBQ3hlMGpRdEE?oc=5",
+   "source": "福井新聞社",
    "at": "2026-11-15T18:18+09:00"
   },
   {
@@ -442,6 +442,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イラン“米軍のレーダー施設攻撃” ホルムズ海峡で緊張続く",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raE5fN0VoUV9qbGQtX3hrTlRleVh4RHlFeFBRVkVibkRuc292U25MVHN3clJPeHJlbHRPdDQzS1R2NzFpSDZQUEZxbGlJOVo0dGlBMVhybWtoNXlZYlRB?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-15T18:36+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "イラン、バーレーンの米軍基地へのドローン攻撃を主張",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzkxb1NNWEx3cGZWYURQak1nZmlkdWdzNkhOcEthOGR0UzlpbC0tcDFSYVNfanVoNjN0eGJOaFBtY3RoR3d1UkRlMEZSYUdhMTI5WlNZMXNMWkJxQWV1cVF3bW1Vc3NUSXFWXy1xOHNDbGlqaVZPcXBxbDhYZG9KNXpsQ0lJazFSLTRsV0puLTA5V2hGNkNHV3kyWmg?oc=5",
@@ -490,13 +497,6 @@
    "source": "AFPBB News",
    "at": "2026-11-15T16:10+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "バーレーンの米軍施設を無人機攻撃とイラン",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcWtRSEZqWWRLLVhkODhrR2EyWTF5VHJ1TzlpZGFEekpiWEZUVld1UHlmRlZJdXJLTEZkUzR3QlFCNmF5VGRGcWg1aHZqZC1LMVlXdGF3SnM?oc=5",
-   "source": "京都新聞デジタル",
-   "at": "2026-11-15T16:05+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "米中ロ首脳会談を前に対日批判を強める北朝鮮 「敗戦国」「戦犯国」「新軍国主義」を連呼！（辺真一） - エキスパート",
@@ -587,7 +587,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフト 大規模システム障害 復旧作業続く」"
+    "「NTTドコモで不正アクセスと5G SA通信障害が発生――「複数システムが有機的に」"
    ]
   },
   "japan": {
@@ -605,10 +605,10 @@
    ],
    "items": [
     {
-     "title": "イラン、バーレーンの米軍基地へのドローン攻撃を主張",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzkxb1NNWEx3cGZWYURQak1nZmlkdWdzNkhOcEthOGR0UzlpbC0tcDFSYVNfanVoNjN0eGJOaFBtY3RoR3d1UkRlMEZSYUdhMTI5WlNZMXNMWkJxQWV1cVF3bW1Vc3NUSXFWXy1xOHNDbGlqaVZPcXBxbDhYZG9KNXpsQ0lJazFSLTRsV0puLTA5V2hGNkNHV3kyWmg?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-15T17:51+09:00"
+     "title": "イラン“米軍のレーダー施設攻撃” ホルムズ海峡で緊張続く",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raE5fN0VoUV9qbGQtX3hrTlRleVh4RHlFeFBRVkVibkRuc292U25MVHN3clJPeHJlbHRPdDQzS1R2NzFpSDZQUEZxbGlJOVo0dGlBMVhybWtoNXlZYlRB?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-15T18:36+09:00"
     },
     {
      "title": "韓国軍、北朝鮮の「複合攻撃」に備えドローン対策を急ぐ…装備導入に2～3年",
