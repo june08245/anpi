@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T09:00+09:00",
+ "updated": "2026-11-15T09:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -145,7 +145,7 @@
    "items": [
     {
      "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-15T06:00+09:00"
     },
@@ -234,6 +234,12 @@
      "at": "2026-11-15T08:54+09:00"
     },
     {
+     "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-15T08:37+09:00"
+    },
+    {
      "title": "「ロシア人とウクライナ人は一つの民族」 侵攻7カ月前にプーチンが論文に記していた“世界観”",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WM2EwRVl5U0NHSWtmX0ZsNndIY1kwSEQwQ3BPMXVGU0lITm1BbEpDaFRmRDVrcE5GZzk4M2dUVDluenkzQkN2M0JENWtJRXZUTXdrb1JwSkI?oc=5",
      "source": "AERA DIGITAL",
@@ -255,12 +261,6 @@
      "title": "ロシアで2日間にわたり車両爆発が相次ぐ…軍将校が死亡、親ロシア派の人物が負傷 : 国際 : 財経日報",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xQmN1SjBxeTRXVzRTeE1qLTdLeHJOQWZUQkJOeDYwN1dlOTRRc2gxR2R6UVBqX192dUtyd1lnUmYzZDVjMkNOQjE5ZFY1S05GdDlBUFlObzR1TU1XcFRJeEdxbw?oc=5",
      "source": "재경일보",
-     "at": "2026-11-14T20:55+09:00"
-    },
-    {
-     "title": "シビハ氏：ウクライナとナイジェリア、ロシアによるナイジェリア人の勧誘と食料安全保障について協議",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLTZMNDR2SFMyQjlpWkx3cXJ1MzBXN015WFJVSE1EQ3N3dHJqblhpV0pMMlNVTWNHaG5fbktQRG9iaGxDSjRSaURKM0hmVHdQMEJ6bU9mbUt2SlpqaUl3Y3dDazlKTlVPNFpmckVXZy1CQVkwOENxUTdBRHJVdEJnbEdpRzJOYldjYjBJZ0ZKY1RLbGJSSlRHVGdXRG9ESjQ3?oc=5",
-     "source": "Mezha.net",
      "at": "2026-11-14T20:55+09:00"
     }
    ]
@@ -354,14 +354,7 @@
    "at": "2026-11-14T07:53+09:00"
   }
  ],
- "japan": [
-  {
-   "title": "Jアラートが鳴ったときの対応について Halifax (1plE2qMYIM)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2kzaXpMb0tXcGY5VHhEcmVyUTg5aHhYa0FUeHcyT3h4V3FqT19uejFRZkRzYS04Nlk5WWVwU3VtS0Vvai12WlJUclRFVWNpSm1tMXlmQ1p2QkJlcTctUTkxV2NrbFE0Y3pZWXd0Y2xBYlF4eVFoY0RlUDl1T2RJcmpR?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-14T23:13+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "SmackDownスーパースターが通信障害による飛行機の運休により足止めされたと報じられる",
@@ -374,12 +367,6 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxVm96bm1ubFExZUNaZTV0NHpJcGl0ZGx4ZDFJaUlHWkltNWpjblBDd2R0b2hKSGU3Ny12ZVpUQVBrTzFHRGdudU02UFk5S21CZDVz?oc=5",
    "source": "東京報道新聞",
    "at": "2026-11-15T07:04+09:00"
-  },
-  {
-   "title": "航空管制システムで通信障害 アメリカの全空港で離陸停止措置（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNXRENkhqcEtMV1JHUFZ3cEFmTlZpMWNhOUdKTHFyU1lLU0JPUTFmNG04amc0amlIYXd6ODFXOG5KM3RXQWZtaE40V3JPdzh1UGFISnUxQ0hlVlVacERaY0dSeEJXMVNZUEpoRmE2RDJEUk00UW5GUlF5Z0VpRGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T06:19+09:00"
   },
   {
    "title": "マイクロソフト 大規模システム障害 復旧作業続く",
@@ -452,6 +439,12 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qVGRqQ1Z3WGF5MHhBRDBDaUM3M3I5SjNTQlVDczB4b2VVS1lZc0RQYV9NZnlXamdMaEJjVVhaaVpkNzMyQWRsYm1ZVGdTOTJBamlGUUNDRGtXQkJCS2U4?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-14T19:49+09:00"
+  },
+  {
+   "title": "ＧＭＯの１区・鶴川が区間賞 同社では不正アクセス問題も「僕たちの仕事は悪い流れを断ち切ること」 ３６分５７秒の区間新記録マーク（デイリースポーツ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLSEdyNll5QzRXbUlzT293cnFXc281SU1NMlNHdTk5RGMwM0xrdEtkTkRNd3RoaHBWXy10dW1lSFppbnlIQ3htVXJTSmdhaEpVS0ZaS1pqbk1laVlobzA3Z1lKdGVOWXV0bTBFT09IdEFtWmE2bThDMHpOdzhDQTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-15T09:06+09:00"
   }
  ],
  "osaka": [
@@ -468,6 +461,13 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUUxR1dxbExOU1JNX0Rsc2x3LThLYVJkM1dYTnQyWXVZRHNYZHRZbi1OMkNzblZpRjRpbENSSWc5ME8zSkoxZnNXVGNyMExjZ0RyYWZnQ2c3a3hTanBaYXdoTEVzUlhZQ2F2dXoybUx5REUxcWYzQWpfMW4wS1BpRE1BdS1SdlV2MUx0bzNxV2RfTnJfVXcxcjVn?oc=5",
    "source": "Laodong.vn",
    "at": "2026-11-15T08:54+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "前線から“1000km離れた”ロシア艦が炎上 ウクライナ侵攻後に就役した新型ミサイル艦だった（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1vMzhCMERpZUhmUVdjNHFicHhzek1yWTE5RG9LUERRVFJlSDV6SDR3UFJDNlptUTczV2pvb2ZiMUpSd1FDUHpSOWRR?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-15T08:37+09:00",
    "topic": "ロシア"
   },
   {
@@ -500,7 +500,7 @@
   },
   {
    "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
    "source": "東洋経済オンライン",
    "at": "2026-11-15T06:00+09:00",
    "topic": "中国・台湾"
@@ -551,13 +551,6 @@
    "title": "ロシアで2日間にわたり車両爆発が相次ぐ…軍将校が死亡、親ロシア派の人物が負傷 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xQmN1SjBxeTRXVzRTeE1qLTdLeHJOQWZUQkJOeDYwN1dlOTRRc2gxR2R6UVBqX192dUtyd1lnUmYzZDVjMkNOQjE5ZFY1S05GdDlBUFlObzR1TU1XcFRJeEdxbw?oc=5",
    "source": "재경일보",
-   "at": "2026-11-14T20:55+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "シビハ氏：ウクライナとナイジェリア、ロシアによるナイジェリア人の勧誘と食料安全保障について協議",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLTZMNDR2SFMyQjlpWkx3cXJ1MzBXN015WFJVSE1EQ3N3dHJqblhpV0pMMlNVTWNHaG5fbktQRG9iaGxDSjRSaURKM0hmVHdQMEJ6bU9mbUt2SlpqaUl3Y3dDazlKTlVPNFpmckVXZy1CQVkwOENxUTdBRHJVdEJnbEdpRzJOYldjYjBJZ0ZKY1RLbGJSSlRHVGdXRG9ESjQ3?oc=5",
-   "source": "Mezha.net",
    "at": "2026-11-14T20:55+09:00",
    "topic": "ロシア"
   },
@@ -623,7 +616,7 @@
     "イラン・アメリカ：「攻撃」「封鎖」2件",
     "中国・台湾：「ミサイル」「封鎖」2件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「攻撃」「侵攻」2件"
+    "ロシア：「攻撃」「ミサイル」3件"
    ],
    "items": [
     {
