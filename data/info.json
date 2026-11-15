@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:45+09:00",
+ "updated": "2026-11-15T13:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -150,9 +150,9 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害？暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWRMcjBIbENpYTN2TTZNbHNINFhDWllYUV8xZWpjNjM3d2ctS2JfSi1IdWljUGhtN2NzdlN2VFdXYmFZSEdtaDA1dzdmWWpScm4tTm5rcUlwRG9VNlNXbkZfNjlPMk0?oc=5",
-     "source": "TBS NEWS DIG",
+     "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-15T10:00+09:00"
     },
     {
@@ -295,7 +295,7 @@
     },
     {
      "title": "アメリカ側がウクライナに「NATO加盟と引き換えにドンバス撤退」初めて打診 ゼレンスキー大統領明らかに",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaG5DcjhKb09EdFkwRHA0TEo1YnhGMHU3VnBkRUhJbFljM2hTbDVUdjhGRGpUalgxYkstcV9OYmI0bmR6N2tQd3Z3ZFhwOGVGQ1l4YjRxX3FDZEdXNEt5X3hKRklsaG5GVlJ5REZPM1M?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OV3B4b3E3WWdlMVVOeUxmQUNELXZkcFZ2MW01VW5wSnVKdkFkTFRqZl92T0FNZ2V0UU1ucXBYc1FVUG1RR2RzS1htaFlSaTc0S0Qwd2VSSmxYOHN0ekJkVXJheWNOUFBXRUxuQUZ3T21uUlNY?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-14T23:32+09:00"
     },
@@ -370,6 +370,18 @@
  ],
  "cyber": [
   {
+   "title": "米航空便 14日も1万4000便以上が遅延・欠航 15日中に運航正常化へ 通信障害による地上待機命令の影響で",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GM2FXdkFWWXMtQ1ZCVVBBczd5dkwwUlNKUHlGWHNlXzNlV1lZZjdsNENGeUZjNGxIMDFreHVWVHIxalU5eEM3bDNaR1lzQ2QwcVhJdDI4TTVQYXhCNWhkNVpnSGZ4TDFUTExKbWh3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-15T12:45+09:00"
+  },
+  {
+   "title": "SmackDownスーパースターが通信障害による飛行機の運休により足止めされたと報じられる",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56di1VRlg2UFhNbWgzaVJzXzN5bHgyT0F5eWRMbVF6NmtOLXNuLUswUXIxMHE5NDFoeGc0ZDQ1ai1DU0F4ZmVnSjA4YVZyWXlaeWlYUnBhTQ?oc=5",
+   "source": "WWE LIVE HEADLINES",
+   "at": "2026-11-15T12:32+09:00"
+  },
+  {
    "title": "NTTドコモで不正アクセスと5G SA通信障害が発生――「複数システムが有機的に連動する際の仕組みを悪用」とはなんなのか：石川温のスマホ業界新聞 - ITmedia Mobile",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UM2ZKQlM0NDJXNHQxV2dobUtIaDJxOXEyalNJWVJJU2NaR2RmVVlDWkZoUERBNG1LN1FERmtKak5fU2tpZ0ZyaFNRQ29vV05tMENjamVacVZNRk1VbUQ5NkZFdjFsTkwxR0J6bmJrMNIBaEFVX3lxTE13aUFmUktub2tGTlUycmhoQ1FfT2JDMTU4OFNOTmpPVlR2VWRhdGViQXA0UHdUdTlFTjA5elNOLThSWHZ4U1YzRkVQQmpidTJWQzZVbjVfWGVpTFR6XzRTZ3N5VWJnN3VT?oc=5",
    "source": "ITmedia",
@@ -377,9 +389,9 @@
   },
   {
    "title": "14日も6000便以上が欠航、7000便以上が遅延 アメリカの空港で混乱続く 航空管制の通信障害で離陸停止措置",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZlBlc25SM20waFF3eTE0ZnBOSEV2T0VqZFF2WWEzWVNqYy1pZ2pDSUh1bkxSem5QbDQ5TUdodmUxeGFTelBJV3R0bFNNV182XzFGNGpaYzg0aThORVhzdlNhdFdiNUF2a25VSFU4OGU3eUZfVXl6UzRsbGhzVVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-15T11:59+09:00"
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NbThFQXFxYlNVZ0FBN2F0dWlsYUxsdUZjbG00SUJJOEh6YXBpekhlVHVOdGF0c3piMW1jeVRQS0tOb2V6Wkp5MUlYSlVXTUpfQ1dNTjVNV3NmN0xjVDZPdUNLWG5USWFJcnB2ejlB?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-15T11:58+09:00"
   },
   {
    "title": "Windows 11の11月セキュリティ更新で脆弱性修正もインストール不具合相次ぐ",
@@ -398,12 +410,6 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NUmEtbWN2cDkxRkw4M3o1WHA0VjlpSFF1QnFBMnhNcFNlWEt3ZkRNeGFtWEFzMkxvb2FsQmRxczRySXlqZ1ZtTzBReGdlTjd2U0dJ?oc=5",
    "source": "ビジネス+IT",
    "at": "2026-11-15T09:43+09:00"
-  },
-  {
-   "title": "SmackDownスーパースターが通信障害による飛行機の運休により足止めされたと報じられる",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56di1VRlg2UFhNbWgzaVJzXzN5bHgyT0F5eWRMbVF6NmtOLXNuLUswUXIxMHE5NDFoeGc0ZDQ1ai1DU0F4ZmVnSjA4YVZyWXlaeWlYUnBhTQ?oc=5",
-   "source": "WWE LIVE HEADLINES",
-   "at": "2026-11-15T08:05+09:00"
   },
   {
    "title": "全米の空港で一時離陸停止 通信障害により1万6000便に影響・インフラ老朽化が浮き彫りに",
@@ -430,6 +436,12 @@
    "at": "2026-11-15T05:13+09:00"
   },
   {
+   "title": "【速報】福井県のデジタル地域通貨「はぴコイン」の決済出来ず　不正アクセスの影響　「ふくアプリ」の全サービス停止中",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NdVk0b1JDcE9fcGMzUExXSlJtZ2tzOXlJN0M1R1lWNmNkN2JTMHRpVTg1UXBHdzFlZGtOb0c4QnZ6V1BmSVVfLVhod18telhYZUNERFJoV3ZXdVE4bFlKdENsYUJiWEJQbnVwUFdTRUlVN2tFVEJxeXhTSdIBgAFBVV95cUxNbjMzZE1keE1LLVlJdkkxeWs3N0ZQQWdGQ2JsakVwUkZfUVExVzVHbFo5RnFCeUl2VXB1LVpFcXlVbVg4V2JmYjJpVUk2RmJ4UWl2NzdlN19sY2tISURweVpmdTR6R2ZPYkRiZk1OSGpGQkpuaTloZVBWM0o4b0ZKbQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-15T12:46+09:00"
+  },
+  {
    "title": "はぴコインに不正アクセス、予防的措置で「ふくアプリ」の全サービス停止 11月15日、福井県が発表",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YSVJZNTZNNVNVcGhHVk1xbWFiN2pHVzZsVTV3ZjZhdWxNMEhVN3dtYkpYUDVxVlQwVXI4RXNSZTVqV213NFd4VjZEcFdldHpSV0ZtZWFBQ3hlMGpRdEE?oc=5",
    "source": "福井新聞社",
@@ -446,18 +458,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zRDVndWU5ZjBQQU1CVUJEd1g2M1RQQzJPdmk3elBWMnphR21vV1pjUW1sQ2VGdmZSQW1SVHYxSmJPcEcybVBWN3o2WEFKcHZ2bV8tWXUxc3BZOFZxX3dDNWs1Vk9zT3lqZzk0eVBSOUk0Uld6aWY1QkU4U2UwRDQ?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-15T11:09+09:00"
-  },
-  {
-   "title": "東大生協電子マネーで不正アクセス 15日15時までサービス停止 現時点で情報漏洩は確認されず",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVejdMdG9CaFZrQXlxUnU1UzVFSG8wb2dXRGdlWXhXOW5HOW9VNWZCNGxrRGpES3NmRDhzMjcwVlpibUxWQmYzRUpOZkVZTEZNQTd0Ty1WdTJVUV9mb2J0bktiRUY?oc=5",
-   "source": "東大新聞オンライン",
-   "at": "2026-11-15T10:56+09:00"
-  },
-  {
-   "title": "不正アクセスを受けたセガのアーケード向けネットワークサービス「ALL․Net」一部復旧。『オンゲキ』『セガNET麻雀 MJ Arcade』など、一部タイトルが稼働再開",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNnRQX3ByMWpOelI4ZlBsWTQ5OWRCb2RwWHFoaU03LUJtbkUtMHBzVWl1a1c3SjdDcUxsQUV0d05LTVNwVTNwQW16dXhmXzROa1B1aVZ2dEIwRVdxQ3Z2WjNVRHVEZ2ZEdFVqZw?oc=5",
-   "source": "AUTOMATON",
-   "at": "2026-11-15T10:31+09:00"
   }
  ],
  "osaka": [],
@@ -484,9 +484,9 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害？暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWWRMcjBIbENpYTN2TTZNbHNINFhDWllYUV8xZWpjNjM3d2ctS2JfSi1IdWljUGhtN2NzdlN2VFdXYmFZSEdtaDA1dzdmWWpScm4tTm5rcUlwRG9VNlNXbkZfNjlPMk0?oc=5",
-   "source": "TBS NEWS DIG",
+   "title": "【戦後最大の“大スパイ”時代】FBI長官「10時間ごとに中国がらみのスパイ案件発生」米半導体大手でも“ハニトラ”被害?暗躍の舞台は軍事から経済分野へ 元公安捜査官が語る日本での対策は",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-15T10:00+09:00",
    "topic": "中国・台湾"
   },
@@ -555,7 +555,7 @@
   },
   {
    "title": "アメリカ側がウクライナに「NATO加盟と引き換えにドンバス撤退」初めて打診 ゼレンスキー大統領明らかに",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaG5DcjhKb09EdFkwRHA0TEo1YnhGMHU3VnBkRUhJbFljM2hTbDVUdjhGRGpUalgxYkstcV9OYmI0bmR6N2tQd3Z3ZFhwOGVGQ1l4YjRxX3FDZEdXNEt5X3hKRklsaG5GVlJ5REZPM1M?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OV3B4b3E3WWdlMVVOeUxmQUNELXZkcFZ2MW01VW5wSnVKdkFkTFRqZl92T0FNZ2V0UU1ucXBYc1FVUG1RR2RzS1htaFlSaTc0S0Qwd2VSSmxYOHN0ekJkVXJheWNOUFBXRUxuQUZ3T21uUlNY?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-14T23:32+09:00",
    "topic": "欧州・NATO"
