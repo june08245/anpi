@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:00+09:00",
+ "updated": "2026-11-16T23:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -167,10 +167,10 @@
      "at": "2026-11-16T13:16+09:00"
     },
     {
-     "title": "中国軍サイバーセキュリティの第一人者・郭世澤氏、中国科学院サイトから姿消す",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SWU0Q0RhYU8yLVplVU56Uk5zQWU0QS1SRFlBejVJZjhuV0dkQUp2LVFWanowa0ZoVmY4Wm5NNVI1YS1vUGlBVm85a0NJZXc?oc=5",
-     "source": "看中国 / VisionTimesJP",
-     "at": "2026-11-16T12:13+09:00"
+     "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
+     "source": "Taiwan Today",
+     "at": "2026-11-16T11:08+09:00"
     }
    ]
   },
@@ -252,7 +252,7 @@
     },
     {
      "title": "ウクライナがロシアに最大級のドローン攻撃、「クリミア橋」が損傷",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWVCeDBPUzFCUTI2UjY5X3FDdWo2Umo4dFRNeFB6a1dMUTM0Y0NrWnVjYXUzQTlUd2JEck9GN0VUb0JPY3NhS1FxcWs4Qnd3cDNtR0FJM2NVOXBQT2FMRHZsQVlnNWJHWTJqNEpoMmJPNkNkaVZzekY5b2E5dEpkUlUwN3RzaUVBbGNVZlln?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82ZHE3RWNWUnZIaXBxeHA3THFVTktsWEhRNy1yYXFsNmQtSGdFSWhZeE9mTHI1Z2htMFhXblB2Q1ltWUdTUGp1TG0xUmxEQTFGeGE5aHJIei1QR2J3QjdQdEVINHdFRmhsVFlYZ0ZkOFpUTFQxNEZB?oc=5",
      "source": "Bloomberg.com",
      "at": "2026-11-16T19:45+09:00"
     }
@@ -357,12 +357,6 @@
  ],
  "cyber": [
   {
-   "title": "マイクロソフトで大規模な通信障害世界各地でOutlook使用できず…",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNS0VJdExKT0RQdXVZTFEwZ1pxb1NPNEpFLXp6MWU2RGhzSmt0d1pGOFVxRGpwODVldEdlOTgwdzk3ZGpHM1F5cHRHa3phajJNSzBueWtkVEY5LXJNb0JXWWY1NlhqVkU?oc=5",
-   "source": "朝日放送",
-   "at": "2026-11-16T22:01+09:00"
-  },
-  {
    "title": "ATCシステム障害でFAAが離陸停止、米航空貨物は回復へ",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3ZaSEQwM3lyanAzY0h3LUdnNHZiQ3M4bE1ZTmN2X3p4NkZOYUI1U3lhenViV2lXVlJXX2dIRmZOczA0dGVRM243a1FybXZaRVBDV2wzaUdtQXRXNWc1aEpldVZDdmtCMGxSWWpNb0Y4VDdnc1ZBM25mbjFacXBrNDFZaW5YY2F1bDRIT0hoM0RnS3BYTFlTWUVVSmdVQ3FYTmRjRmc5M2tBY3pT?oc=5",
    "source": "IndexBox",
@@ -445,6 +439,12 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWmljMHI0d0ZTeGtKWWtWRnd4bVZaNHlZRWxhVDRTYWg0WDhzNmc5TUU4YllYZU5JblJ1Q0h6WnMwbjhsNDBYNklGNjZMS3dJcEh1SmFTQUdOWHZfN3lEQTJXZ19pbklzX3FqNl9vTW8wZndrenI1cDJCdy04UU8xVG41cUJBWW8?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-16T21:29+09:00"
+  },
+  {
+   "title": "情報漏えいは38万件超＝バンダイ子会社の不正アクセスで(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHRna3ZwandVWmh5RE1aSHQ1STRiVm1Qb19sVnppeUhBNWpDdC1QWFVzVEpnV1liZ1oxRTBLWVRrNGszRXhoVWZ3dW9ram90WHF5ajNJZWhZdVAwRWtqX1NRTEs4d0RjLUpEQkZJOTBGY0ZkQTZkTXpqNnNjV0VCLUFXU1VuZjQ?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-16T21:28+09:00"
   }
  ],
  "osaka": [
@@ -521,7 +521,7 @@
   },
   {
    "title": "ウクライナがロシアに最大級のドローン攻撃、「クリミア橋」が損傷",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWVCeDBPUzFCUTI2UjY5X3FDdWo2Umo4dFRNeFB6a1dMUTM0Y0NrWnVjYXUzQTlUd2JEck9GN0VUb0JPY3NhS1FxcWs4Qnd3cDNtR0FJM2NVOXBQT2FMRHZsQVlnNWJHWTJqNEpoMmJPNkNkaVZzekY5b2E5dEpkUlUwN3RzaUVBbGNVZlln?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82ZHE3RWNWUnZIaXBxeHA3THFVTktsWEhRNy1yYXFsNmQtSGdFSWhZeE9mTHI1Z2htMFhXblB2Q1ltWUdTUGp1TG0xUmxEQTFGeGE5aHJIei1QR2J3QjdQdEVINHdFRmhsVFlYZ0ZkOFpUTFQxNEZB?oc=5",
    "source": "Bloomberg.com",
    "at": "2026-11-16T19:45+09:00",
    "topic": "ロシア"
@@ -602,7 +602,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「マイクロソフトで大規模な通信障害世界各地でOutlook使用できず…」"
+    "「ドコモ、また通信障害＝今月3度目、6時間後に復旧(時事通信)」"
    ]
   },
   "japan": {
