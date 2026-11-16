@@ -1,6 +1,9 @@
 {
- "updated": "2026-11-17T05:30+09:00",
- "errors": [],
+ "updated": "2026-11-17T05:45+09:00",
+ "errors": [
+  "outage",
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -149,35 +152,72 @@
      "at": "2026-11-16T17:37+09:00"
     },
     {
+     "title": "【人物】53日逃亡、支援者は50人超 台湾議員の元側近・張俊傑被告、「典型的なスパイの手口」 と情報当局",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QODlTbnY2R1p4Y3ZsQ1VPX0JYdVdJWnlYeTF1cXpEVDdyRUI5OGtXc2t5QzhZZmF5bFB3WEFJdkhNdWpKSW9NUUJvNXA1dWd6?oc=5",
+     "source": "風傳媒",
+     "at": "2026-11-16T15:55+09:00"
+    },
+    {
      "title": "米中露首脳会談の狙いは日本なのに、APECで高市首相を冷遇しないよう中国政府に求めた日本政府の不見識",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWs1VkQzS294VjlDWE11TkV1R0xVa1hEV1h6VFVQd0lHbDNxLU0xRWRNUVhaYUhoVW8wTThpUjk5ZFhuTGJ2VS1DMWl4RFo1SDBqZWxkSWpKNUxaYURoVktnTXFUamVUT3JERlhWY3pnVzhfWFJQeXRfTkRmaXBzUjB2TjdXQkpv?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-16T15:11+09:00"
     },
     {
+     "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
+     "source": "Taiwan Today",
+     "at": "2026-11-16T11:08+09:00"
+    },
+    {
      "title": "【第１４２０回】中国軍の演習、米軍来援阻止へ焦点移行",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeFZCWXVDR1JPS19wU2J2OUp1UDE0eGg5QzdmcWNFZlg1WWg4QmNLbU8xci1iZkpWVTQ4Ul9KRXZ0S2NJZVcxRjVSVXZmQQ?oc=5",
      "source": "公益財団法人 国家基本問題研究所",
      "at": "2026-11-16T10:46+09:00"
-    },
-    {
-     "title": "民間空港も病院も総動員…「台湾有事」を見据えた史上最大の日米軍事演習「キーン・ソード27」の真の狙い",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01eE8xSEd1TVdZelZXeDhKaXpkaTloVmdTMjhpMGFUcndscVJNdUdqZVg2Rno5TFBLOXVBR0pvT3RnSjVKWWt6MktsUi1QSHp3eHhjandYcXB4VXU3ZS1J?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-16T07:00+09:00"
-    },
-    {
-     "title": "高市首相が中国開催APECへ 日中関係に打開策は？「米中露会談」への懸念（2026年11月14日掲載）",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBva0RFbEhwTmwzVUlueXctVktiRVpEX1ZfTnN3eTh2UTlnM2M3M3FEMkpsN1JyTWo0ODJVUjFBTm5iZUF3MnlJUkNnYUY2MG5JVFI4aGFPenkwMkpfY0NrNG1nNTRDV2pxRGNVTFZYRVdPTzJ0Ny1rUGlUX3BQZw?oc=5",
-     "source": "日テレNEWS NNN",
-     "at": "2026-11-15T14:00+09:00"
     }
    ]
   },
   {
    "key": "nk",
    "label": "北朝鮮",
-   "items": []
+   "items": [
+    {
+     "title": "プーチン氏、金正恩氏がＡＰＥＣで訪中なら会談も＝報道官（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14NXJ2dEpJV3d2VVJqWTRXejdobGo5TF9RMkROZ2FLcnRVek9vcDZZVHZXbWZFN0I3aWdDOExhUjNZeDFGNTRIbEJSR0tkX1dneTcxYndQNFBDaVVwRXEzcnZjLUUyQjk0XzFoSElSVm42V3VmYzFqYWdWVjdhMjA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-17T05:22+09:00"
+    },
+    {
+     "title": "（目撃者 北朝鮮の初核実験から２０年：上）核の資金源、暗躍する北朝鮮ハッカー",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSFpMY0hCajhDVkRYeF9DaGtNX0QyYmZfVkVheXIxb3B2bVlmb0tyYWkwbTExaDZLeThfeWdnRDZKR0xDSHJBR0xHbXJGQzhXeU1qRkQ2QllnQTBy?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-17T05:00+09:00"
+    },
+    {
+     "title": "トランプ氏「金正恩氏と会うかも」 米中ロ首脳会談ではウクライナ情勢も協議へ",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xa0w5eHU2Q1M1anZ1VmlCRkdiVnBFNzkzbFE1TmkxVU1jTVpDNkNyQUw0Q19uVmVjaVRQdExyRHZMVjc5RFYzSlI1eFQwM280ME4yUWZhdG1Nbl9LNEtUWWpKdzJfcl9xcnI0N25taURVT3VZSE5nLTd3?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-17T03:15+09:00"
+    },
+    {
+     "title": "トランプ大統領“金正恩総書記と会うかもしれない” ASEANなど一連の首脳会議への出発を前に（2026年11月17日掲載）",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFp1UGdBRDA3dXd5eUtPRXEwTnNxNXVGWU52NzZScTZrZ0Z2QXVpQW1hQ0I4RE0wSnhHMVluRy1TZnl0U3R0b3Fwemo1Z3dqUTk3V0g4MU9OeDQ2SzFaN2kxOUJLMlg4T09vajhMVEZUUnNkRFlqdGRCODhyd2hCQnRDVW4?oc=5",
+     "source": "日テレNEWS NNN",
+     "at": "2026-11-17T01:08+09:00"
+    },
+    {
+     "title": "トランプ米大統領、北朝鮮の金総書記と中国で会談する可能性を示唆（TBS CROSS DIG with Bloomberg）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUEROZ3NkaU1oekNFb0Z0SG95UVg4YlhLSEU0X2g4Z0V3ZkV4SHFTV0hFVzJhVFl6NGZfQ1RvODJZeWI0elpDd2tOTGdaaU1uUmZaZ0xVSTdMZnJNcHZFWW5lMFYzR24xN2lYOHp4bkplUF8ySHRSWWFjZ0pjaFE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-17T01:06+09:00"
+    },
+    {
+     "title": "トランプ氏、金正恩氏との会談の可能性に言及",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWdwWElYdnF3Q1Y0MkFtME5HVGlPZHlsSy1RanZZZ19fZzJJcXR6ZGVkcWJMRVVMMmF1RjNMb1dlTmlHM3A3SEdzWklyRXVua1hqa3dadGJENVNFdXBfRVRkeDlpT09SUV9lX0dFa0FBQ0FZU01aUEluelZ6bHgwSGREeW1mZkN1bjhSblFUZnNlN3U4d2ZGZWx4bHY5MXdCU0E?oc=5",
+     "source": "WSJ",
+     "at": "2026-11-17T00:57+09:00"
+    }
+   ]
   },
   {
    "key": "russia",
@@ -197,7 +237,7 @@
     },
     {
      "title": "ロシアは攻撃の準備を整えた＝ゼレンシキー宇大統領、空襲警報に注意を向けるよう国民に呼びかけ",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVG5fbGhhX1l1bTRFQmEyQk9CZnFFVVUxVUdNZ2psLUVsemxweG90Tnp5MUk4eXNDSGlrOVl1R3VvWXlERGphZEFjYlZNSEZxLUZZZjROTVktYkE0eEJQbjc1VGdReVFHRVBzM0p4azdUNzMwNTM2NzNXdmN0THcyQ2xOd0NPenVTWTBYVVhGQlhVbHlVR01tNXRxOTdBbHFGSzRJcnN3di1vRzZGaXVUM3JOM05mdXI1OV9PblRJeDdycmQ2VHpBaTJ0a0txRGFBWkVaODBQWXN1X25McC1PRXlJMGh1Z1ZBY2k5RXhmS1hGR25MVDNVVmRKUmhrd0g1TzRyMzNqcUXSAY4CQVVfeXFMTU9TUDc3bXhWZVFsRkhWaWktZnhzRnNBREhQU01BdTVLVm9ES05YdWtHRUExbzFWRExaWDh3SlZCS3ZSQWtReFVXNFIyaE52WVNiZ2JuNnc5ZTh5bWVZcWZSMUtsWHp5NVdNS0d2Mk5vQm02U0txc3pzcjJjcHNxWHJBZEJHa2JjN3FWSVpBOGZBT2lCREFNSWZtdTZocDhhWk1LU2NPMDBTV0FPZ3Q1bHVOXy1lRnJySTFBQUJoMFdPTzY1dHlaTmhsX2d4SWx4UUE0TXBWRjN4WmRhZU9jV3lRNWdLMmJCU2o4ODZtTlpZMXQ1dGJyalUxVGR2aGdCT2NOVzNscUJ0aEh5Mmh3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVG5fbGhhX1l1bTRFQmEyQk9CZnFFVVUxVUdNZ2psLUVsemxweG90Tnp5MUk4eXNDSGlrOVl1R3VvWXlERGphZEFjYlZNSEZxLUZZZjROTVktYkE0eEJQbjc1VGdReVFHRVBzM0p4azdUNzMwNTM2NzNXdmN0THcyQ2xOd0NPenVTWTBYVVhGQlhVbHlVR01tNXRxOTdBbHFGSzRJcnN3di1vRzZGaXVUM3JOM05mdXI1OV9PblRJeDdycmQ2VHpBaTJ0a0txRGFBWkVaODBQWXN1X25McC1PRXlJMGh1Z1ZBY2k5RXhmS1hGR25MVDNVVmRKUmhrd0g1TzRyMzNqcUU?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-17T04:33+09:00"
     },
@@ -232,6 +272,12 @@
      "at": "2026-11-17T02:07+09:00"
     },
     {
+     "title": "イタリアの学校に再び爆破予告メール、40分後に爆発と予告も避難なし",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3d3VEh5VUFwZngwNW5ZZlhGZHBSTkVMRzNqMTFiV2Y4dVBJTWlJdm5JREJQcTltSkFVUElYNzJESEdVZVh4eGhyY2tQdjFQZTlSWWF4SmkwbFEyVmZCemNfVEp3NlpfNGpfT3pIR0dUT29Ua1dHMGZhVzNsVGhJdWl3OHJrREZ0X2pRTWhpY08zR0NUWWhHSFJB?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-16T21:36+09:00"
+    },
+    {
      "title": "カラス氏、ロシアに欧州の要求を提示 - ウクライナの国境尊重と戦争犯罪への責任追及",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZnFmTGYyZVFjbTdINlJFYjZGWElzTVNabWpLcE5YY2lHMUJCajBKaG9KaUNMWllpRkFKUDVINml5Ukg3UHVMQjgxdXBTOE9HYXU1TEU2bks1TU93RGdsZzd4RnRVcWVW?oc=5",
      "source": "Mezha.net",
@@ -250,16 +296,10 @@
      "at": "2026-11-16T15:25+09:00"
     },
     {
-     "title": "NATO、アルバニアでの2027年首脳会議を中止",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN19xNEt5ME9OSHl1Q2tFdEVtdHF5YVZlS05IU2ZWdVFPRnNERlZzWnhla1Bkc05ndXpLX1Z4RmZQYXpkSXBYdXQxbkdYdmxKOVI5ZlRKNEljTHh4dUJXcXBxLU5nVEVCc3pxNWlSbVdySmR2VElMNWNjbS0yejB1WWl3V1I5TEM2djc0ZTh0NUNzeHZ6WmRfZA?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-16T11:52+09:00"
-    },
-    {
-     "title": "エストニア、ロシアとの道路国境3カ所を12月1日から閉鎖へ 防衛企業への破壊工作未遂を受け",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BOTBnVkRSbGtYOWdkTzJGXzliY09mZ3R0NENxTmRUM3d1R0N6VGhKNkw1b1VZZnVMdzYySGQ4SmMwVFg0WDRyRGZQRTJnUFlRQU5sWTNCT2JCdTRzU3Uyekxib0xlbDVVOUE?oc=5",
-     "source": "NOVAIST",
-     "at": "2026-11-16T11:02+09:00"
+     "title": "欧州各国を襲った数千通の爆破予告メール、空の便や学校に混乱 戦闘機発進も",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HYlZJVDdBb1FtcFg1S2FxYUt5TGNMUjBoeUNScFcyRlNFekdQYXVTN3p4c1JIUElDQ3djeGpMVUJKN1NyQWdwOTNWMF9BX0pMdGxuQXZaNGtLZEZ1dDdz?oc=5",
+     "source": "千葉テレビ放送",
+     "at": "2026-11-16T11:56+09:00"
     }
    ]
   }
@@ -312,6 +352,12 @@
  ],
  "japan": [
   {
+   "title": "ゼレンスキー大統領、ロシアが弾道ミサイルと巡航ミサイルの生産を計画していると発言",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUlZZ1JLSWxVTDI5VHdCeU1WSklDd2RiQ05PR3k5TnBEOTcycTdMLS1TUFRYNnAwNDA0bnZ6b0Z5UnZ0dXpfS0g3TVdfX2dnS0pORWUxSEwzWmFsRnpnTE1vUHFhUWlKc3F3YzVubmRZVk5iTHp4LUwxZkUtQllnZkNkQW40R0owa0ZiUTM0U0g5a0k2bVVySVBDVQ?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-16T19:57+09:00"
+  },
+  {
    "title": "Jアラート誤送信で謝罪 原因は「訓練の情報消去せず」 Spain (k7MZAyO8Qp)",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEtKeThGVXJ0VTVMRFdQQmVoVE1HbzZJNHVuczQ1NnBVYUUxRFR5cHpzTU95X1JkU3dzcnJqZ1JXMTc5LVZzMVhVMUVtTzBkd1JjOVZ4dDVjelE1WWVvTDdOQmFIZk5JQjhBdnZPcjVwbHE1M1VJbkl6cVBlWlJNeWk3QmltT0dESXc?oc=5",
    "source": "Unisba Media",
@@ -338,16 +384,28 @@
    "at": "2026-11-16T23:04+09:00"
   },
   {
-   "title": "ドコモ 11月3度目の通信障害 高速通信サービス「5G SA」",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLMUg5YkUxX2gtZ1V4WXJrZ2VVU3ViOEFUTTZhM0c5dW5GSkpIQno4QUpVUlRZTm1WZGd2aWdlWnRtVlJrdE1vZW9EZVNzeXB2QlYwem0wRVJsNkhpd1RyaGVsTQ?oc=5",
-   "source": "テレ東BIZ",
-   "at": "2026-11-16T22:00+09:00"
-  },
-  {
    "title": "ATCシステム障害でFAAが離陸停止、米航空貨物は回復へ",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3ZaSEQwM3lyanAzY0h3LUdnNHZiQ3M4bE1ZTmN2X3p4NkZOYUI1U3lhenViV2lXVlJXX2dIRmZOczA0dGVRM243a1FybXZaRVBDV2wzaUdtQXRXNWc1aEpldVZDdmtCMGxSWWpNb0Y4VDdnc1ZBM25mbjFacXBrNDFZaW5YY2F1bDRIT0hoM0RnS3BYTFlTWUVVSmdVQ3FYTmRjRmc5M2tBY3pT?oc=5",
    "source": "IndexBox",
    "at": "2026-11-16T21:11+09:00"
+  },
+  {
+   "title": "MOTEX(エムオーテックス)、Webサイトへの不正アクセスで1万6,301件のイベント申込・来場者の個人情報漏洩の恐れ-LANSCOPE関連サイトを一部再開|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUtyMVFPZDFqeU81a29haWJWMGRFbWR6elBteVV0WjNyUHFkOVhpSVZ3emVxbzZPSHNXclhvaXdKRXdBUDJhakx0M0ZyWHFiWWdPbjFEUjNuWk9FX2NqeVRPdDliQjJLZEpmMmtKeGwzTXU5UVg4Y2MtQ1dIUkdoOVQ1OHdHZkdBYk55ME9waWZkbGFLTTFNVUU0TFptNTA5NDBoeg?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-17T05:30+09:00"
+  },
+  {
+   "title": "スーパーコンピューター「富岳」不正アクセス 利用者の情報が流出した可能性",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGM2MEoxMlVHZ1FlYW1UVVIwVlVxQjN4SGhtYjhLVzFRZzFKTU1oUExvcklXX3FCdU1sR2E5b3pPUTJ0UThrUXN6RWtpYmtFNm9OYjNWZ1hhRWhiS3VpMTRzdVVpRHdzd0VPNGxySzdEU1o2MkhVZjRMU2pmYkpoM05Zd2lSQWdsOWMtbXhn?oc=5",
+   "source": "スポニチ Sponichi Annex",
+   "at": "2026-11-17T05:30+09:00"
+  },
+  {
+   "title": "FBIとAWSが警鐘：AIエージェントが産業規模でサイバー攻撃を自動化",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oMlgzMUZVelVvWlU4emlEa1pQUnh1UUJMMGxRaHRYYXV5OHE0Zm44RE9aU3JFSUFaT3FlVjBEbVc5RnVyblhrVVpYX2NxNFMxaFMwRFV1VTQ2c3VaYktsTkFqTnpCWVZvclhVbnBleWZHZ1Fm?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-17T05:25+09:00"
   },
   {
    "title": "香港ディズニーランドに不正アクセス 電子チケット大量盗難か",
@@ -356,9 +414,21 @@
    "at": "2026-11-17T05:18+09:00"
   },
   {
+   "title": "【お詫び】（第2報）アララ社への不正アクセスによる情報流出およびメールサービス停止について|インフォメーション",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BSGlLOGJRNS03bDgxT0N2Vlk5LUFVcmpRdGdaVENIbnplSkw0a3hydW5GalBlemdZTmNuU2t0eXFRWHBzREt1UGpJMU1aMHRaaWExQTlMQmhRd2VJLUIzTUdTTDNVUjU2VGJTSFRteldEdTRl?oc=5",
+   "source": "神戸新聞",
+   "at": "2026-11-17T05:10+09:00"
+  },
+  {
    "title": "理化学研究所のスーパーコンピュータ「富岳」の運用システムに不正アクセス 11月12日に確認、情報漏えいの有無を調査",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGV2bHFyZ3dYVDZsOFIzcXpLVmtrUURDLVFhc0RCMGxnXzdkbWVsOVdYT0lZRlZaenFCRnVhdV9Gbk9KVkJvT3lqMkctY21kbzNxU0JETjZ0c2lYdWV0WG9KSnViaWpsWDlhMzN6ZlRjc0x1WS0wN29HLXpuMDI4c3piR2c4dG41T0JYcE9OXzNIeFAzcWNLWQ?oc=5",
    "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-17T05:00+09:00"
+  },
+  {
+   "title": "「富岳」に不正アクセス スパコン 利用者情報流出恐れ 理研運用停止",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lOG11X2U1bWV1UWFCZ0FjWDdJSURLcHZPa3ZwMFJ0NWo4d213MmdnbGY4TmpGbFY1REp1VGNnY00zWnRHQ2lXOUlXMl9ScjQ2UnpkdWk4bl9vUFZZQkE?oc=5",
+   "source": "福井新聞社",
    "at": "2026-11-17T05:00+09:00"
   },
   {
@@ -384,30 +454,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFNVNKTURiWGUxVDJJV25nNEMybjFtS2JnbFZUN2xQNEhjQmpDQ2o1N1gxOThDc3NKT2N2R19UbHBEcXgwRDJmc1ZtNENNdWEtUjVaNTZIdE0zdw?oc=5",
    "source": "北海道新聞デジタル",
    "at": "2026-11-17T04:00+09:00"
-  },
-  {
-   "title": "Google：ロシア語を話すハッカーがAIエージェントを利用して自律型サイバー攻撃を実行",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFBrQ3hNR3kxcW55aUpKclZMcm5NemZRU1ctSHZiMTBUeDk5RlU0cmY1aDlNVTI4Tjg2TTF3Zk91R0gybnloUkMzclJpX3djMHdVRmg5WlRVRmU3OHZYMm16UlEzeXg4NHZtVU5LVVIxU3Uxam91eGVhdml1QThQbkd3Y1Q1MGk0WW5hRjdhUHd0cHY0T0pEam9fbWpvV0JuWDhYS3M0OEJ3ZW9RNlE?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-17T03:53+09:00"
-  },
-  {
-   "title": "カリフォルニア州、AIモデルによるサイバー攻撃でOpenAIを提訴",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aOTZCaF96dTlOMHNBVHZaaWhucjNiMWVNeFdLeXQ5bXdsQkhNZkdBRWttOURNZWtRX3h4MUxzWlpZcmxxTTUtRWsyb1hQaUF6cXhrazBwT1hjenVHbk1tN0ZYS25TUzFQLXVZeHk1VGM?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-17T03:47+09:00"
-  },
-  {
-   "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-17T02:07+09:00"
-  },
-  {
-   "title": "スパコン 「富岳」に不正アクセス 4200人分情報流出恐れ 運用停止",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MbUZSbXl6QzNoaXc1VmZOUktXUDZLVzdhLTE2MHJRTjlYZ1hDek1mYUs3UHRoX2hSTDhzZFdMRm1xc3NGcFhOQlBVYlplZ0Y2ZUpGTXlBMEJpRjU4dDVWdlh5NXpQMUhB?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-17T02:03+09:00"
   }
  ],
  "osaka": [
@@ -419,6 +465,13 @@
   }
  ],
  "world": [
+  {
+   "title": "プーチン氏、金正恩氏がＡＰＥＣで訪中なら会談も＝報道官（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14NXJ2dEpJV3d2VVJqWTRXejdobGo5TF9RMkROZ2FLcnRVek9vcDZZVHZXbWZFN0I3aWdDOExhUjNZeDFGNTRIbEJSR0tkX1dneTcxYndQNFBDaVVwRXEzcnZjLUUyQjk0XzFoSElSVm42V3VmYzFqYWdWVjdhMjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T05:22+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "爆発繰り返し激しい炎が...ウクライナがロシアのニジネカムスクの工業施設をドローン攻撃...集合住宅にも攻撃及び3に負傷",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0cTFCZ3BGRjVNUUNwYm5ocXFUMzRwVXBGOGo0MEdPMmptcXgtNzlBdEllTGp6ei1Fb1F1TlJERXczRFF6Wm5RcjA3MjlWTlgzMV92dlM4c2w?oc=5",
@@ -434,8 +487,15 @@
    "topic": "ロシア"
   },
   {
+   "title": "（目撃者 北朝鮮の初核実験から２０年：上）核の資金源、暗躍する北朝鮮ハッカー",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BSFpMY0hCajhDVkRYeF9DaGtNX0QyYmZfVkVheXIxb3B2bVlmb0tyYWkwbTExaDZLeThfeWdnRDZKR0xDSHJBR0xHbXJGQzhXeU1qRkQ2QllnQTBy?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-17T05:00+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ロシアは攻撃の準備を整えた＝ゼレンシキー宇大統領、空襲警報に注意を向けるよう国民に呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVG5fbGhhX1l1bTRFQmEyQk9CZnFFVVUxVUdNZ2psLUVsemxweG90Tnp5MUk4eXNDSGlrOVl1R3VvWXlERGphZEFjYlZNSEZxLUZZZjROTVktYkE0eEJQbjc1VGdReVFHRVBzM0p4azdUNzMwNTM2NzNXdmN0THcyQ2xOd0NPenVTWTBYVVhGQlhVbHlVR01tNXRxOTdBbHFGSzRJcnN3di1vRzZGaXVUM3JOM05mdXI1OV9PblRJeDdycmQ2VHpBaTJ0a0txRGFBWkVaODBQWXN1X25McC1PRXlJMGh1Z1ZBY2k5RXhmS1hGR25MVDNVVmRKUmhrd0g1TzRyMzNqcUXSAY4CQVVfeXFMTU9TUDc3bXhWZVFsRkhWaWktZnhzRnNBREhQU01BdTVLVm9ES05YdWtHRUExbzFWRExaWDh3SlZCS3ZSQWtReFVXNFIyaE52WVNiZ2JuNnc5ZTh5bWVZcWZSMUtsWHp5NVdNS0d2Mk5vQm02U0txc3pzcjJjcHNxWHJBZEJHa2JjN3FWSVpBOGZBT2lCREFNSWZtdTZocDhhWk1LU2NPMDBTV0FPZ3Q1bHVOXy1lRnJySTFBQUJoMFdPTzY1dHlaTmhsX2d4SWx4UUE0TXBWRjN4WmRhZU9jV3lRNWdLMmJCU2o4ODZtTlpZMXQ1dGJyalUxVGR2aGdCT2NOVzNscUJ0aEh5Mmh3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVG5fbGhhX1l1bTRFQmEyQk9CZnFFVVUxVUdNZ2psLUVsemxweG90Tnp5MUk4eXNDSGlrOVl1R3VvWXlERGphZEFjYlZNSEZxLUZZZjROTVktYkE0eEJQbjc1VGdReVFHRVBzM0p4azdUNzMwNTM2NzNXdmN0THcyQ2xOd0NPenVTWTBYVVhGQlhVbHlVR01tNXRxOTdBbHFGSzRJcnN3di1vRzZGaXVUM3JOM05mdXI1OV9PblRJeDdycmQ2VHpBaTJ0a0txRGFBWkVaODBQWXN1X25McC1PRXlJMGh1Z1ZBY2k5RXhmS1hGR25MVDNVVmRKUmhrd0g1TzRyMzNqcUU?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-17T04:33+09:00",
    "topic": "ロシア"
@@ -446,6 +506,13 @@
    "source": "アラブニュース",
    "at": "2026-11-17T04:05+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "トランプ氏「金正恩氏と会うかも」 米中ロ首脳会談ではウクライナ情勢も協議へ",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xa0w5eHU2Q1M1anZ1VmlCRkdiVnBFNzkzbFE1TmkxVU1jTVpDNkNyQUw0Q19uVmVjaVRQdExyRHZMVjc5RFYzSlI1eFQwM280ME4yUWZhdG1Nbl9LNEtUWWpKdzJfcl9xcnI0N25taURVT3VZSE5nLTd3?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-17T03:15+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
@@ -476,6 +543,27 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "トランプ大統領“金正恩総書記と会うかもしれない” ASEANなど一連の首脳会議への出発を前に（2026年11月17日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFp1UGdBRDA3dXd5eUtPRXEwTnNxNXVGWU52NzZScTZrZ0Z2QXVpQW1hQ0I4RE0wSnhHMVluRy1TZnl0U3R0b3Fwemo1Z3dqUTk3V0g4MU9OeDQ2SzFaN2kxOUJLMlg4T09vajhMVEZUUnNkRFlqdGRCODhyd2hCQnRDVW4?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-17T01:08+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "トランプ米大統領、北朝鮮の金総書記と中国で会談する可能性を示唆（TBS CROSS DIG with Bloomberg）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUEROZ3NkaU1oekNFb0Z0SG95UVg4YlhLSEU0X2g4Z0V3ZkV4SHFTV0hFVzJhVFl6NGZfQ1RvODJZeWI0elpDd2tOTGdaaU1uUmZaZ0xVSTdMZnJNcHZFWW5lMFYzR24xN2lYOHp4bkplUF8ySHRSWWFjZ0pjaFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T01:06+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "トランプ氏、金正恩氏との会談の可能性に言及",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWdwWElYdnF3Q1Y0MkFtME5HVGlPZHlsSy1RanZZZ19fZzJJcXR6ZGVkcWJMRVVMMmF1RjNMb1dlTmlHM3A3SEdzWklyRXVua1hqa3dadGJENVNFdXBfRVRkeDlpT09SUV9lX0dFa0FBQ0FZU01aUEluelZ6bHgwSGREeW1mZkN1bjhSblFUZnNlN3U4d2ZGZWx4bHY5MXdCU0E?oc=5",
+   "source": "WSJ",
+   "at": "2026-11-17T00:57+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
    "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
    "source": "アラブニュース",
@@ -488,6 +576,13 @@
    "source": "ニューズウィーク日本版",
    "at": "2026-11-16T22:10+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "イタリアの学校に再び爆破予告メール、40分後に爆発と予告も避難なし",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3d3VEh5VUFwZngwNW5ZZlhGZHBSTkVMRzNqMTFiV2Y4dVBJTWlJdm5JREJQcTltSkFVUElYNzJESEdVZVh4eGhyY2tQdjFQZTlSWWF4SmkwbFEyVmZCemNfVEp3NlpfNGpfT3pIR0dUT29Ua1dHMGZhVzNsVGhJdWl3OHJrREZ0X2pRTWhpY08zR0NUWWhHSFJB?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-16T21:36+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "イランがバーレーンの米軍施設攻撃 ホルムズ海峡の敵対行為にドローンで報復と主張（ANNニュース）",
@@ -509,55 +604,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-16T17:58+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "「いいね」で台湾軍の人脈を収集か 将官を紹介する中国系FBページに安全当局が警戒 | 楊舒媚（ヤン・シューメイ） | ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfZjdkV0hPTEEyY0x3ZV9zOXRsOFdfSVpkdWRGaHFNWHZnT0kwdmpMWU1ROENGLUUtZ3E3UV9ZTi1sYTlQSndDODAyLUczZjJW?oc=5",
-   "source": "風傳媒",
-   "at": "2026-11-16T17:37+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "エストニア、ロシアとの国境閉鎖へ－防衛企業への破壊工作未遂受け",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRHB4bVhlUnIxNDhydnVueDRrMEhNWjhxUlBUQTJPZGJGdTJfMmZpbGRZczg2VXhCbWNBMllpS0FuTy1zbWRrZFZmZHZlWTd1dHNjN1k0S0VJUzZwRHlLZjdzb2FxbW00cHRnTnhXeXlFVEda?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-16T17:35+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "米陸軍少佐が告発書を提出 米兵6人が死亡したイランの攻撃めぐり",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DbllESENoSGFETmN2WkYxZWdtRWFoWE5rYlItQ2RXYjhBbm1ON2tSY20yWjFOaWlIeUtFY212THNoYUtSS0FERHlvM01ZZDFh?oc=5",
-   "source": "CNN",
-   "at": "2026-11-16T17:26+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ブレント原油96.28ドル、イランがバーレーン米基地攻撃で上昇、強気98ドル・弱気91ドル",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOER4TmRhNTlaLVA2dzFUR21DUDRGUkpQQmZXdHNrZmVzS01lcXNsSjNRTWJQU040ZnhBWVpBZTg4YnN6d3NtV0NaRy0zcW9HaS1ycFNCcE1SOUJIQ0NNLXFfYzM4a3FSVGxwNE5PdGR4NXhzUVIwdVFlQ2FPU0RzNUJHQUQ0aDcxZEZGaw?oc=5",
-   "source": "FinanceFeeds",
-   "at": "2026-11-16T17:11+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシアの対ウクライナ戦争終結に向けた次回の交渉ラウンドに、EUが参加へ",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVAzejctb3JkSkdwV1ZyeUN0YjEtVU8zenJfMnJLVGQ4NDZpSi0td3lkbDN6ZDRQcm5UajdyTHdrallWcFViN1lwMWVBMG9aWDRRVUlYZzlnRmMyUG9BOS1HVDQwd1FmMFRiTlYyMDdjaWJ4aUZsRVRFOWt3ak1Hc1RjSWZoUWRIa1E?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-16T15:25+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "米中露首脳会談の狙いは日本なのに、APECで高市首相を冷遇しないよう中国政府に求めた日本政府の不見識",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWs1VkQzS294VjlDWE11TkV1R0xVa1hEV1h6VFVQd0lHbDNxLU0xRWRNUVhaYUhoVW8wTThpUjk5ZFhuTGJ2VS1DMWl4RFo1SDBqZWxkSWpKNUxaYURoVktnTXFUamVUT3JERlhWY3pnVzhfWFJQeXRfTkRmaXBzUjB2TjdXQkpv?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T15:11+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "NATO、アルバニアでの2027年首脳会議を中止",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN19xNEt5ME9OSHl1Q2tFdEVtdHF5YVZlS05IU2ZWdVFPRnNERlZzWnhla1Bkc05ndXpLX1Z4RmZQYXpkSXBYdXQxbkdYdmxKOVI5ZlRKNEljTHh4dUJXcXBxLU5nVEVCc3pxNWlSbVdySmR2VElMNWNjbS0yejB1WWl3V1I5TEM2djc0ZTh0NUNzeHZ6WmRfZA?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-16T11:52+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -580,7 +626,7 @@
     "イラン・アメリカ：「攻撃」「報復」5件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」4件",
-    "欧州・NATO：「攻撃」「破壊工作」3件"
+    "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
