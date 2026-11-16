@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:15+09:00",
+ "updated": "2026-11-17T04:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -101,12 +101,6 @@
      "at": "2026-11-17T04:05+09:00"
     },
     {
-     "title": "イラン外相とパキスタン軍トップが協議、地域和平や安保巡り",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHpOMXRIQWFpenIyVUVHa1hvXzZkVWRVUzBSdnVSZ2xRQi01dlBUWGxObDl0ZGJEeHZ0UXFWUzZWbmRZN3IxWmM5bXlTYmZBcnFWQUdKWC1jLXBnbm1yeEQ2aFpoNDctalpUaUtwc2JQS2JiU2lqYjRab2xYSldxc3ZtN0s5ZU0?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-17T01:29+09:00"
-    },
-    {
      "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
      "source": "アラブニュース",
@@ -129,6 +123,12 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DbllESENoSGFETmN2WkYxZWdtRWFoWE5rYlItQ2RXYjhBbm1ON2tSY20yWjFOaWlIeUtFY212THNoYUtSS0FERHlvM01ZZDFh?oc=5",
      "source": "CNN",
      "at": "2026-11-16T17:26+09:00"
+    },
+    {
+     "title": "ブレント原油96.28ドル、イランがバーレーン米基地攻撃で上昇、強気98ドル・弱気91ドル",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOER4TmRhNTlaLVA2dzFUR21DUDRGUkpQQmZXdHNrZmVzS01lcXNsSjNRTWJQU040ZnhBWVpBZTg4YnN6d3NtV0NaRy0zcW9HaS1ycFNCcE1SOUJIQ0NNLXFfYzM4a3FSVGxwNE5PdGR4NXhzUVIwdVFlQ2FPU0RzNUJHQUQ0aDcxZEZGaw?oc=5",
+     "source": "FinanceFeeds",
+     "at": "2026-11-16T17:11+09:00"
     }
    ]
   },
@@ -161,16 +161,16 @@
      "at": "2026-11-16T15:11+09:00"
     },
     {
+     "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
+     "source": "Taiwan Today",
+     "at": "2026-11-16T11:08+09:00"
+    },
+    {
      "title": "【第１４２０回】中国軍の演習、米軍来援阻止へ焦点移行",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeFZCWXVDR1JPS19wU2J2OUp1UDE0eGg5QzdmcWNFZlg1WWg4QmNLbU8xci1iZkpWVTQ4Ul9KRXZ0S2NJZVcxRjVSVXZmQQ?oc=5",
      "source": "公益財団法人 国家基本問題研究所",
      "at": "2026-11-16T10:46+09:00"
-    },
-    {
-     "title": "民間空港も病院も総動員…「台湾有事」を見据えた史上最大の日米軍事演習「キーン・ソード27」の真の狙い",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01eE8xSEd1TVdZelZXeDhKaXpkaTloVmdTMjhpMGFUcndscVJNdUdqZVg2Rno5TFBLOXVBR0pvT3RnSjVKWWt6MktsUi1QSHp3eHhjandYcXB4VXU3ZS1J?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-16T07:00+09:00"
     }
    ]
   },
@@ -399,16 +399,28 @@
    "at": "2026-11-16T22:01+09:00"
   },
   {
+   "title": "米大手銀行とZelleで顧客からサービス障害の報告",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3J0VUhfajVQeVJjM3lDaFRMcXl5ZEx3SVJ1WnFRQ2FYN3B2dVZtWTgzTWZaR0dUTTNnYXBuS2w1X2tsM0M3OXBETVB4dXhkMVEtVy1aRHlJVFQ0b19iZGJCWjI1U2dGeElsM0F0OEFjdDYxZ0tCZ1pKbGxrOEVNc0pyU2pWT0Z4X01mOEZIMTBCZkpleHN0Z1BqMnROcGNtZVE?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-16T21:15+09:00"
+  },
+  {
    "title": "ATCシステム障害でFAAが離陸停止、米航空貨物は回復へ",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3ZaSEQwM3lyanAzY0h3LUdnNHZiQ3M4bE1ZTmN2X3p4NkZOYUI1U3lhenViV2lXVlJXX2dIRmZOczA0dGVRM243a1FybXZaRVBDV2wzaUdtQXRXNWc1aEpldVZDdmtCMGxSWWpNb0Y4VDdnc1ZBM25mbjFacXBrNDFZaW5YY2F1bDRIT0hoM0RnS3BYTFlTWUVVSmdVQ3FYTmRjRmc5M2tBY3pT?oc=5",
    "source": "IndexBox",
    "at": "2026-11-16T21:11+09:00"
   },
   {
-   "title": "総合防災訓練でドローンなどデジタル活用進む 専門家は「災害時のシステム障害」想定の必要性を指摘＝静岡県",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RM2szZ0hnQnNBU21tRjgtNzZSYnotcDdOa3ItbW9Id3FpSzU0RjhrcEJHWl9QUGdRMENRdHduN0xKbVBsRHM2X09ZbkFQdnBqV2pFVlZIV05jUWw1ZXNKV25hSmxpZmtsR1pGWUJB?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-16T20:17+09:00"
+   "title": "AIが全自動サイバー攻撃、Googleが観測 無料ツールを悪用",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16M0VQbkdXQVhiWjZ6TUk4V3AtOHdNODlRVVJ0U1BTMjdGb3BncFRkUnJkdFJuNnE2UENnUV9wYUI4OEJVYVBTM2JIczVhT3N5RlhER0xCejZPUy1wMS1tLWNHcTNEdl9QeS1kQw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-17T04:15+09:00"
+  },
+  {
+   "title": "「富岳」に不正アクセス スパコン情報流出の恐れ 理研 運用停止し調査",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2TUItZkNGRUFaNEpxQi1OVGI4RXlIMEtLRF9Da0dHTDJqQy1qUlhRZnUtem9jcGpZWm5VeEVBQ3cwR1daVHp6cGpfQk5vaDNxbkNTbkZBTFNzTG05R3c?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-17T04:00+09:00"
   },
   {
    "title": "Google：ロシア語を話すハッカーがAIエージェントを利用して自律型サイバー攻撃を実行",
@@ -445,18 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FSUx3ejZhU19XenlRcjRzbHFpbVExY2x3b0RfVWYwQmx4ZzhPeXlfb3lleHBoTjVYYURSS1RTQVVvamdJdDhrbEkxZ3VLdw?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-17T01:58+09:00"
-  },
-  {
-   "title": "バンダイナムコ子会社に不正アクセス、一番くじ41万件の氏名・住所・電話番号漏えいか",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40eDNtWmctRmRjaU5OTzg1T0Z6QUlnZFBnazhGRGd0aHdVZlNzWGQzRG41UkY1amtkUVNXSkFoWWFTWWZDV0YtSUhoN05oOUxEMlhB?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-17T01:45+09:00"
-  },
-  {
-   "title": "理化学研究所のスパコン「富岳」に不正アクセス 利用者の氏名やメールアドレスが漏えいした可能性 理研は外部からのアクセス遮断",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LN0pJUnMtcEduWmpaQmFGMElzRzQ5cjVkVDZRRXNaWUxCUVZ0MHFIUllMYldrSDJ2UU9XT0tYRHdBenY3UnBaZUYzc3BTSDBLSFozaXNlNHQ2bnplRk5zdDc2UTBmMWpBcEl2VE1LX1NfNW9Sb0V0ODlhM0FYOVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T01:29+09:00"
   }
  ],
  "osaka": [
@@ -509,13 +509,6 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-17T02:07+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "イラン外相とパキスタン軍トップが協議、地域和平や安保巡り",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHpOMXRIQWFpenIyVUVHa1hvXzZkVWRVUzBSdnVSZ2xRQi01dlBUWGxObDl0ZGJEeHZ0UXFWUzZWbmRZN3IxWmM5bXlTYmZBcnFWQUdKWC1jLXBnbm1yeEQ2aFpoNDctalpUaUtwc2JQS2JiU2lqYjRab2xYSldxc3ZtN0s5ZU0?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-17T01:29+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "トランプ大統領“金正恩総書記と会うかもしれない” ASEANなど一連の首脳会議への出発を前に（2026年11月16日掲載）",
@@ -607,6 +600,13 @@
    "source": "ニューズウィーク日本版",
    "at": "2026-11-16T19:20+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "イランが2カ月ぶりにバーレーンの米軍施設攻撃…フーシ派はサウジとイエメンに攻勢（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVmdVRFkzV2JpN2hxb2huOERwSi1od0ZYVW1vOXhoRkdzZThGeDdxSElxbzAxVUs0ZldXWmR5cTlyZnU4czlSVGY5YTZZRTBHZm5wUGRoTEg2V3lfVnFhNlhfNGhZM1J6bkJwYl82dlBpNGRUUk9iUV9lOE1wWmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T17:58+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -626,7 +626,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「報復」5件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」5件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
