@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T03:00+09:00",
+ "updated": "2026-11-17T03:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン外相とパキスタン軍トップが協議、地域和平や安保巡り",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHpOMXRIQWFpenIyVUVHa1hvXzZkVWRVUzBSdnVSZ2xRQi01dlBUWGxObDl0ZGJEeHZ0UXFWUzZWbmRZN3IxWmM5bXlTYmZBcnFWQUdKWC1jLXBnbm1yeEQ2aFpoNDctalpUaUtwc2JQS2JiU2lqYjRab2xYSldxc3ZtN0s5ZU0?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-17T01:29+09:00"
+    },
+    {
      "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
      "source": "アラブニュース",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DbllESENoSGFETmN2WkYxZWdtRWFoWE5rYlItQ2RXYjhBbm1ON2tSY20yWjFOaWlIeUtFY212THNoYUtSS0FERHlvM01ZZDFh?oc=5",
      "source": "CNN",
      "at": "2026-11-16T17:26+09:00"
-    },
-    {
-     "title": "ブレント原油96.28ドル、イランがバーレーン米基地攻撃で上昇、強気98ドル・弱気91ドル",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOER4TmRhNTlaLVA2dzFUR21DUDRGUkpQQmZXdHNrZmVzS01lcXNsSjNRTWJQU040ZnhBWVpBZTg4YnN6d3NtV0NaRy0zcW9HaS1ycFNCcE1SOUJIQ0NNLXFfYzM4a3FSVGxwNE5PdGR4NXhzUVIwdVFlQ2FPU0RzNUJHQUQ0aDcxZEZGaw?oc=5",
-     "source": "FinanceFeeds",
-     "at": "2026-11-16T17:11+09:00"
     }
    ]
   },
@@ -221,10 +221,10 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MaGxCSG1FdEFfQ1JJbWxNUlZpc3BLejhKTGEyajFmX3YyMVBfbEtvVDBLTWJjMUZJSmNOWFByVXVMMHhJZi1pODZVOVJKWWdJaFlZcXFnVGtIWGZxSTlwbVRlX2RFdVM3YnpwOUtjOGpXYlE5bTBUaVcteC03NUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T02:31+09:00"
+     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-17T02:25+09:00"
     },
     {
      "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
@@ -349,6 +349,12 @@
  ],
  "japan": [
   {
+   "title": "ゼレンスキー大統領、ロシアが弾道ミサイルと巡航ミサイルの生産を計画していると発言",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUlZZ1JLSWxVTDI5VHdCeU1WSklDd2RiQ05PR3k5TnBEOTcycTdMLS1TUFRYNnAwNDA0bnZ6b0Z5UnZ0dXpfS0g3TVdfX2dnS0pORWUxSEwzWmFsRnpnTE1vUHFhUWlKc3F3YzVubmRZVk5iTHp4LUwxZkUtQllnZkNkQW40R0owa0ZiUTM0U0g5a0k2bVVySVBDVQ?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-16T19:57+09:00"
+  },
+  {
    "title": "Jアラート誤送信で謝罪 原因は「訓練の情報消去せず」 Spain (k7MZAyO8Qp)",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEtKeThGVXJ0VTVMRFdQQmVoVE1HbzZJNHVuczQ1NnBVYUUxRFR5cHpzTU95X1JkU3dzcnJqZ1JXMTc5LVZzMVhVMUVtTzBkd1JjOVZ4dDVjelE1WWVvTDdOQmFIZk5JQjhBdnZPcjVwbHE1M1VJbkl6cVBlWlJNeWk3QmltT0dESXc?oc=5",
    "source": "Unisba Media",
@@ -363,10 +369,10 @@
  ],
  "cyber": [
   {
-   "title": "Outlook障害、ラジオ局でも影響 リスナーのお便り届かず SNSでコメント募集",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SNzYzXzVjUjR1VG1YWjNsZWFIWmFfZlY3dmk3UGxXWjNxYS15cjk4WGpicWZjYU5TOE9FLURabUQzdENlNUhpOUxEX0RhR1U4MUR2X2l3cXg3YUwwNVFreDBxY19qMlRDeDdGd1ROdDNTQQ?oc=5",
+   "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zd2RjeHltRFBSNHlVVEdOWjZoekQ0TzBvZHFsSE1sMXdPWm1fU19JVldXV1FBaUlGU3Y3Yjh2SkgzQVVzeVJJeE5vdk9TZWdxN2c?oc=5",
    "source": "山陽新聞",
-   "at": "2026-11-17T01:30+09:00"
+   "at": "2026-11-17T02:13+09:00"
   },
   {
    "title": "もう大丈夫？ Microsoft世界規模の障害から全面復旧 Outlook・Teams停止で各国に影響、同社が謝罪（11/16）",
@@ -405,16 +411,16 @@
    "at": "2026-11-17T02:07+09:00"
   },
   {
-   "title": "スーパーコンピュータ「富岳」に不正アクセス 最大4222人の氏名やメールアドレスなど流出の可能性 理化学研究所は運用停止し原因を調査（関西テレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ramstak9XUlVRemNCUTlCXzVnY1g1aFd3dUV5c2FxQnV5aFl1Z3BPLVY5TWhsaFVIaFB0bmxRZktxRi1FYXFtWWl6a0luNk5SOWtyMWlxOFBHVVIwNGZNbDg5emptWXNsNDFWVTJOOWdlcS1SNV9fQzdKRUJFZXM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T02:02+09:00"
-  },
-  {
    "title": "富岳にサイバー攻撃 「機密の塊」スパコンも標的の時代",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YTnNUbkN1MXQzaGgzanJOWGVwU1gwS3ZDckFKWTlSbFYzMUQ5RW5jZ3NHay1mTklVYkFNMnQ2Z1ZBcW53Q0l4Z2VBYzhnTGJPMVhTQTVUM2UzMlZyZTNsNHBFeXNLYkFsSnVFWA?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-17T02:00+09:00"
+  },
+  {
+   "title": "スーパーコンピュータ「富岳」に不正アクセス 最大4222人の氏名やメールアドレスなど流出の可能性 理化学研究所は運用停止し原因を調査",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FSUx3ejZhU19XenlRcjRzbHFpbVExY2x3b0RfVWYwQmx4ZzhPeXlfb3lleHBoTjVYYURSS1RTQVVvamdJdDhrbEkxZ3VLdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-17T01:58+09:00"
   },
   {
    "title": "バンダイナムコ子会社に不正アクセス、一番くじ41万件の氏名・住所・電話番号漏えいか",
@@ -429,10 +435,10 @@
    "at": "2026-11-17T01:29+09:00"
   },
   {
-   "title": "スーパーコンピューター「富岳」に不正アクセス 最大4597人分の個人情報やファイルなどが漏えいか",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xdlpVZ2ZtanhjNGk0VnJoVHhnNXhJZjR1cGhFUXgyVE51YVhxTmtMMlFpUGNOcXNDanU3OG5Tbm1QbldhWFpUNWZfOUNmV096Nmdnamtvcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-17T01:15+09:00"
+   "title": "スーパーコンピューター「富岳」に不正アクセス　最大4597人分の個人情報やファイルなどが漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tcUZSaHU5RXhBSHZqMDhUTXUwdVU4UWppQ3ROSGVJank1blUzeWdJYklEWVJnSk01a0F1UzIxczVkSzNMS2tWWXgxZzFXQnNBZ0tyZmJDNjlEdUdBNjFIdGJKZmw1dkV0Wl91Rkd0SdIBdEFVX3lxTE5aRWZqclNCUUJSVHo4VEQyQmNGYzdVc3JoVjBWX3Rva01oNXZFOFBnTUptOVBSU1dEcERoNlBsZEFnU1dkM1lSVzByYkJ6Nm9KMUpXcFlEeE9PRzhPZnBuSWdTMGJRY05aVmJTODRZTllfRnNC?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-17T01:26+09:00"
   },
   {
    "title": "国内で相次ぐサイバー攻撃、その最前線に立つ私たちは何をすべきか",
@@ -463,10 +469,10 @@
  ],
  "world": [
   {
-   "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MaGxCSG1FdEFfQ1JJbWxNUlZpc3BLejhKTGEyajFmX3YyMVBfbEtvVDBLTWJjMUZJSmNOWFByVXVMMHhJZi1pODZVOVJKWWdJaFlZcXFnVGtIWGZxSTlwbVRlX2RFdVM3YnpwOUtjOGpXYlE5bTBUaVcteC03NUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T02:31+09:00",
+   "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-17T02:25+09:00",
    "topic": "ロシア"
   },
   {
@@ -482,6 +488,13 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-17T02:07+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "イラン外相とパキスタン軍トップが協議、地域和平や安保巡り",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHpOMXRIQWFpenIyVUVHa1hvXzZkVWRVUzBSdnVSZ2xRQi01dlBUWGxObDl0ZGJEeHZ0UXFWUzZWbmRZN3IxWmM5bXlTYmZBcnFWQUdKWC1jLXBnbm1yeEQ2aFpoNDctalpUaUtwc2JQS2JiU2lqYjRab2xYSldxc3ZtN0s5ZU0?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-17T01:29+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "トランプ米大統領、北朝鮮の金総書記と中国で会談する可能性を示唆",
@@ -594,13 +607,6 @@
    "source": "ニューズウィーク日本版",
    "at": "2026-11-16T19:20+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "イランが2カ月ぶりにバーレーンの米軍施設攻撃…フーシ派はサウジとイエメンに攻勢（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVmdVRFkzV2JpN2hxb2huOERwSi1od0ZYVW1vOXhoRkdzZThGeDdxSElxbzAxVUs0ZldXWmR5cTlyZnU4czlSVGY5YTZZRTBHZm5wUGRoTEg2V3lfVnFhNlhfNGhZM1J6bkJwYl82dlBpNGRUUk9iUV9lOE1wWmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T17:58+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -608,7 +614,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「マイクロソフトで大規模な通信障害世界各地でOutlook使用できず…」"
+    "「日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える」"
    ]
   },
   "japan": {
@@ -620,7 +626,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」5件",
+    "イラン・アメリカ：「攻撃」「報復」4件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」5件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
@@ -639,10 +645,10 @@
      "at": "2026-11-16T19:20+09:00"
     },
     {
-     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MaGxCSG1FdEFfQ1JJbWxNUlZpc3BLejhKTGEyajFmX3YyMVBfbEtvVDBLTWJjMUZJSmNOWFByVXVMMHhJZi1pODZVOVJKWWdJaFlZcXFnVGtIWGZxSTlwbVRlX2RFdVM3YnpwOUtjOGpXYlE5bTBUaVcteC03NUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T02:31+09:00"
+     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-17T02:25+09:00"
     }
    ]
   }
