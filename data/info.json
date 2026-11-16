@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:45+09:00",
+ "updated": "2026-11-17T02:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-17T01:45:00+09:00",
+   "place": "宮古島近海",
+   "mag": "3.9",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-16T13:28:00+09:00",
    "place": "静岡県東部",
@@ -74,16 +84,6 @@
    "mag": "3.1",
    "maxi": "2",
    "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-15T14:00:00+09:00",
-   "place": "茨城県沖",
-   "mag": "3.6",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -167,10 +167,10 @@
      "at": "2026-11-16T15:11+09:00"
     },
     {
-     "title": "米国、韓・日など同盟国とAIサプライチェーン共同防衛…中国牽制「パックス・シリカ」拡大",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFF6WlNiSlR2bElvR3NobEdDdTk1RHktdlpfbUxTZHY4VTVJVlg4VnFIVGFsT005QUhqNV9BREZpdk1aUU40UlFvTWVTN3Nna2VwSE9OOGZlVXV0dkM0M1hyMUdBVTAxX1JXRnl4N0dKQVp4ekFVUnhXQTNXSDg2RmE3b1Z3OTjSAYwBQVVfeXFMTlFjaWd1eWNaNndVYlJWTWVZbjh1ZWhaVWdHRnpaMGV1a3huN1ZxX0R5SmRXQ0pOdkltYl9TM3Y3Sl84aW5HZjBwSXg3bHBDOUcxY2prd3pQb1pkaEJuMTl2LUo2QzNxb05XUkowWFlUYlMzT3VLNEd1ODU5b2haQmIzNS1vemxyQjMxS0w?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-16T13:16+09:00"
+     "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
+     "source": "Taiwan Today",
+     "at": "2026-11-16T11:08+09:00"
     }
    ]
   },
@@ -375,12 +375,6 @@
    "at": "2026-11-16T22:01+09:00"
   },
   {
-   "title": "福岡市のHP閲覧障害、外部業者の機材故障が原因 市長選情報など閲覧できず",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ISWFKckNMTFBLZWZHM2tBdVNTanRwSjYzdlpwMVRaRjBHUzk2SjNXRXJLTm9HTWE1NHpJZG4zc0tQXzBMbko4T1VRVHNKb3ptT21WM1V3?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-16T21:50+09:00"
-  },
-  {
    "title": "ATCシステム障害でFAAが離陸停止、米航空貨物は回復へ",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3ZaSEQwM3lyanAzY0h3LUdnNHZiQ3M4bE1ZTmN2X3p4NkZOYUI1U3lhenViV2lXVlJXX2dIRmZOczA0dGVRM243a1FybXZaRVBDV2wzaUdtQXRXNWc1aEpldVZDdmtCMGxSWWpNb0Y4VDdnc1ZBM25mbjFacXBrNDFZaW5YY2F1bDRIT0hoM0RnS3BYTFlTWUVVSmdVQ3FYTmRjRmc5M2tBY3pT?oc=5",
    "source": "IndexBox",
@@ -391,6 +385,12 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1Q1RDFNSzFZUTlQWTVMWGtXSVZpc3p0SjdmSUxJemdqeERQaEl1V0ZyemFrNUIxUXlnTldxSHh0emtWRXhMTjBnb0d2enl2dmZNWFJIenViLWQ3SnJ6ZWwwQTRlVnJxenJFcTVZQ2hIWnIyMlptd3dKclJNUmZmdThDQ2JFekk?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-16T20:07+09:00"
+  },
+  {
+   "title": "バンダイナムコ子会社に不正アクセス、一番くじ41万件の氏名・住所・電話番号漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40eDNtWmctRmRjaU5OTzg1T0Z6QUlnZFBnazhGRGd0aHdVZlNzWGQzRG41UkY1amtkUVNXSkFoWWFTWWZDV0YtSUhoN05oOUxEMlhB?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-17T01:45+09:00"
   },
   {
    "title": "理化学研究所のスパコン「富岳」に不正アクセス 利用者の氏名やメールアドレスが漏えいした可能性 理研は外部からのアクセス遮断",
