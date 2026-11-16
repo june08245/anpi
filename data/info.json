@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:30+09:00",
+ "updated": "2026-11-17T02:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,16 +221,22 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-17T02:25+09:00"
+     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MaGxCSG1FdEFfQ1JJbWxNUlZpc3BLejhKTGEyajFmX3YyMVBfbEtvVDBLTWJjMUZJSmNOWFByVXVMMHhJZi1pODZVOVJKWWdJaFlZcXFnVGtIWGZxSTlwbVRlX2RFdVM3YnpwOUtjOGpXYlE5bTBUaVcteC03NUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-17T02:31+09:00"
     },
     {
      "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LZzBxMHJVdU5EU3NQN1Iwdm9nZ2V6T3JwZ0lmNXVDckVTZjhSMGFXdGNHTGFGZXNWZ2JJY250S0V4NkppelhwbmJCdHZ3S2Rac0FqQ1VB?oc=5",
      "source": "KFB福島放送",
      "at": "2026-11-17T02:07+09:00"
+    },
+    {
+     "title": "ウクライナ、ロシアに最大規模のドローン攻撃 橋や製油所標的",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS25wSFNaaFVaTkV4VlgycG9CeEMxTmh0eVhUX3FPX19TdmFXaTE5bmJlaWxOLVozdTM5YUFGQWx2Q09MWTN1YlA5S2JDbHYwYnhIT2NEMnlZOGtUWEJVWGU0eWdXVERWYUVzNlZwWDdYcGY4ZnllYkxNU2hOcWhfcmRXRHJTUQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-17T01:07+09:00"
     },
     {
      "title": "ウクライナ、クリミア橋を攻撃―ロシアは無人機1336機を迎撃と発表",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90OWhvOWVWdHMwMHlZd2JaUzk1SjlXOVFsWDlvT01wWlF4WWFBcThNcVBNcEFXeEtha0NPRFNBOG5pUVd4aDBOQUpjYVdFWXhwbllGaXFocURGeWRrbzhZ?oc=5",
      "source": "ニューズウィーク日本版",
      "at": "2026-11-16T21:12+09:00"
-    },
-    {
-     "title": "ウクライナ、ロシアに開戦後最大の無人機攻撃＝ロ国防省",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS25wSFNaaFVaTkV4VlgycG9CeEMxTmh0eVhUX3FPX19TdmFXaTE5bmJlaWxOLVozdTM5YUFGQWx2Q09MWTN1YlA5S2JDbHYwYnhIT2NEMnlZOGtUWEJVWGU0eWdXVERWYUVzNlZwWDdYcGY4ZnllYkxNU2hOcWhfcmRXRHJTUQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-16T20:28+09:00"
     }
    ]
   },
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "西日本は「すでに南海トラフ地震発生前の地震活動期」京大教授が指摘 (2026年11月16日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1md3VtZWdHWVNRcHkyTXVDamhuMEJGd0xINURFWG1KODFfOUFVRHQzMXFNdXZmUGNHUWNoUldYNk5rNWhiYXVOZ0lQWE1PcDBmRmtucHpyYWxEQ0ZxMXc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-17T02:04+09:00"
+  },
+  {
    "title": "「南海トラフ巨大地震を想起された方も多かったのでは」浜松市で82年ぶりに震度5弱以上を観測した地震 市長が備えの再確認を呼びかけ＝静岡",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pY1hWWmk4ZzlQa2FLQVFFeVRibFIzbko0UjdrbkhPZmFOc19rdlFiVzV3XzJLLWt0YWhKLTdRTnJvQU04M2libTU1ZS1vYzdfdm9OaTQ2blVpbHdSVUhsME9xc2lOR3FCVXJoVEpB?oc=5",
    "source": "au Webポータル",
@@ -313,12 +319,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pM19QaG9qOUNTamdub0NVVUhMQllmdjNvemhtS0g4M1JfUzdJNWwzTXhfYVZacWNIaV9nYktIb1l4RlRHS2lBamsyUUkzN19rQnZuZXctZXpOTWhIaWRv?oc=5",
    "source": "千葉テレビ放送",
    "at": "2026-11-16T20:03+09:00"
-  },
-  {
-   "title": "西日本は「すでに南海トラフ地震発生前の地震活動期」京大教授が指摘 (2026年11月16日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1md3VtZWdHWVNRcHkyTXVDamhuMEJGd0xINURFWG1KODFfOUFVRHQzMXFNdXZmUGNHUWNoUldYNk5rNWhiYXVOZ0lQWE1PcDBmRmtucHpyYWxEQ0ZxMXc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-16T19:50+09:00"
   },
   {
    "title": "浜松で震度5弱の地震から1週間…静岡県が総合防災訓練を実施 南海トラフ巨大地震に備えて 県内全体で6万人超が参加 中学生「地域を助けたい」",
@@ -348,12 +348,6 @@
   }
  ],
  "japan": [
-  {
-   "title": "Jアラート誤送信で謝罪 原因は「訓練の情報消去せず」 Spain (k7MZAyO8Qp)",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEtKeThGVXJ0VTVMRFdQQmVoVE1HbzZJNHVuczQ1NnBVYUUxRFR5cHpzTU95X1JkU3dzcnJqZ1JXMTc5LVZzMVhVMUVtTzBkd1JjOVZ4dDVjelE1WWVvTDdOQmFIZk5JQjhBdnZPcjVwbHE1M1VJbkl6cVBlWlJNeWk3QmltT0dESXc?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-16T13:53+09:00"
-  },
   {
    "title": "ロシアの弾道ミサイルの脅威を受け、ウクライナで空襲警報",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXJrQy1QNndpQXQ4YWVlQ29PaXlJcDA0UXVGSklXek5JMngzdi1IUzhWV00xZUItSWszS3c4SUw2bFpUZVc1UENWMV9raXk4X3Z5LVNZMDN4cVVLRmk1RHNNMVFER3Z3SDhDa0RRa3ltTllITV9pQWItbTNBRmFNcHFGdUh4Si1DVDdieUxJMjVoWE5pQnNZ?oc=5",
@@ -435,12 +429,6 @@
    "at": "2026-11-17T01:10+09:00"
   },
   {
-   "title": "理研のスパコン「富岳」に不正アクセス システムの改ざんも確認 [情報漏洩・個人情報流出の最新ニュース]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNjRQNW5pM1pjYWZ6YlBwV3FvY3lBenhNV0ZOQ2ZnU2pLZk9ZVExsbjlhZy00ZlgwcjUweVRjaDdINW8yMzRYYTV0M2NMWk54OGpNUUkzeGF3Z1NFSlVObmRUZGV4eFk?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-17T00:58+09:00"
-  },
-  {
    "title": "Tempura technologies、NVIDIA Inception Program に参加 AIによるサイバー攻撃から企業を守る「Securiy」、NVIDIAのAI技術との連携を推進",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iUzlnTC1wVU1pMHB3MVY3dWZUZ2tPeU5CZnZuYmZGVzRsTUg5cWcyLUVPcjUybkVKaXkxWFQyMzFheTRwLWZwanJIYWdDV0MwSGI1RHV6OWdSd29pV1ZTbGRHSE01dFZxYW9iTGNqbzM1YkN1?oc=5",
    "source": "Excite エキサイト",
@@ -451,6 +439,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSm1ncHV5a25JTi0xYTZ1cG1rRlBXNTNQbzFRMTdMbGxVdUNHaVlIYjZmSVg0WVVkZ1lkV2NZaG9pV0JrMnlLRE4zcFlEMUl3TVgwY1BIb0p6V24xcm13LTN5eFliaG5VSUI2Wk1RZ2JUT2s0YThFWmwwSXN2Mlk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-17T00:32+09:00"
+  },
+  {
+   "title": "スパコン「富岳」に不正アクセス 研究データ流出の恐れ、運用停止",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wYi1yaklVYi1jWHVVQkJGLTFub3hzVDItR28xWTlZZEtmeDNiNFZNTUNNLXRyR1dSRThOaXN0d0xOeER6NVE3WWhSejlnN1Z6aDBZ?oc=5",
+   "source": "東京新聞",
+   "at": "2026-11-17T00:19+09:00"
   }
  ],
  "osaka": [
@@ -463,10 +457,10 @@
  ],
  "world": [
   {
-   "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-17T02:25+09:00",
+   "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MaGxCSG1FdEFfQ1JJbWxNUlZpc3BLejhKTGEyajFmX3YyMVBfbEtvVDBLTWJjMUZJSmNOWFByVXVMMHhJZi1pODZVOVJKWWdJaFlZcXFnVGtIWGZxSTlwbVRlX2RFdVM3YnpwOUtjOGpXYlE5bTBUaVcteC03NUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T02:31+09:00",
    "topic": "ロシア"
   },
   {
@@ -496,6 +490,13 @@
    "source": "日テレNEWS NNN",
    "at": "2026-11-17T01:08+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "ウクライナ、ロシアに最大規模のドローン攻撃 橋や製油所標的",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS25wSFNaaFVaTkV4VlgycG9CeEMxTmh0eVhUX3FPX19TdmFXaTE5bmJlaWxOLVozdTM5YUFGQWx2Q09MWTN1YlA5S2JDbHYwYnhIT2NEMnlZOGtUWEJVWGU0eWdXVERWYUVzNlZwWDdYcGY4ZnllYkxNU2hOcWhfcmRXRHJTUQ?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-17T01:07+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "トランプ氏、金正恩氏との会談の可能性に言及",
@@ -582,13 +583,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ウクライナ、ロシアに開戦後最大の無人機攻撃＝ロ国防省",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS25wSFNaaFVaTkV4VlgycG9CeEMxTmh0eVhUX3FPX19TdmFXaTE5bmJlaWxOLVozdTM5YUFGQWx2Q09MWTN1YlA5S2JDbHYwYnhIT2NEMnlZOGtUWEJVWGU0eWdXVERWYUVzNlZwWDdYcGY4ZnllYkxNU2hOcWhfcmRXRHJTUQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-16T20:28+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イランが2カ月ぶりにバーレーンの米軍施設攻撃…フーシ派はサウジとイエメンに攻勢（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVmdVRFkzV2JpN2hxb2huOERwSi1od0ZYVW1vOXhoRkdzZThGeDdxSElxbzAxVUs0ZldXWmR5cTlyZnU4czlSVGY5YTZZRTBHZm5wUGRoTEg2V3lfVnFhNlhfNGhZM1J6bkJwYl82dlBpNGRUUk9iUV9lOE1wWmM?oc=5",
    "source": "Yahoo!ニュース",
@@ -639,10 +633,10 @@
      "at": "2026-11-16T22:10+09:00"
     },
     {
-     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-17T02:25+09:00"
+     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MaGxCSG1FdEFfQ1JJbWxNUlZpc3BLejhKTGEyajFmX3YyMVBfbEtvVDBLTWJjMUZJSmNOWFByVXVMMHhJZi1pODZVOVJKWWdJaFlZcXFnVGtIWGZxSTlwbVRlX2RFdVM3YnpwOUtjOGpXYlE5bTBUaVcteC03NUk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-17T02:31+09:00"
     }
    ]
   }
