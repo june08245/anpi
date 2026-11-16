@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:00+09:00",
+ "updated": "2026-11-16T09:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,10 +95,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RHBONV95eDM3OTBUTmxadzJ4eVJWNi04T0dvdHYwdnR3cWpnZDhTT1lkRFdLT2JYcmVSaXdPSmYzVXFHcHAxMGdPZE8xNGNqQ3dqYV9zdnhXRjF2Y0tJNUFJQWMzT0szZ09ZN0tSZDJSSkNmdGFFSnFKaVF5Sjg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T08:31+09:00"
+     "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1k4S2xXdnQ2N2J2MDZRb21zOGVSWU94VE5HdGJ1MjFHTWVNWlZFZnE0TmRNQ2hxVXgyTjFiUURBY0QzQVY4TEVnYnU0aUFjam9acW1EMXNXY09iSlYyeUJvbnZsWXhoc1FKNW1TQ3pVZHdmWjdNeW50N1pqSFcxemVYV0RLU2s?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-16T08:28+09:00"
     },
     {
      "title": "イランはウラン濃縮の停止について米国と協議していないと断言",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "【写真】東海岸の海軍基地建設現場を訪問した金正恩国務委員長",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ESHRMdlRMQlNPaDdpTUZJa2VnZTg2VU5vaDd2aG1yYXpmSGVzRUNqOV81OEdRcnV0UWdXWnREdUdubVdSdV9ueUxIUWhBNjhtd2tLeA?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-16T08:55+09:00"
+    },
+    {
      "title": "非核化を消し去る絶好の機会…「第2のヤルタ会談」を狙う金正恩氏（中央日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RWWw2S1NZOHhjUk01OEpjSlJ0R1hyeUdWUUZwaXROMXRVUGd5Ul81aW5raGtvaFJ3NElJd3RHSmJhcEtDZEtvYUprN3VPQnlWYlJ5blNnNGIxSDJsNEd5QmxWTDRZWUZQTUYtYmxtNlZmeTU4cEI5VGdZOGc0NHM?oc=5",
      "source": "Yahoo!ニュース",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeF84M24zdEYyNDdUUXFxekZ5ZV9uM1dId0RtTDFUV1FOYUNoQ1J0WnlIZ0IxQjN5dVpWOFF4VElqSThHLVdxcEtOM0wxNnFjeHNad1JHbW5McDlvTTZaWjlVRE1jenZVejkwM19uMzZBQnJXd0FJM0tuSHJOVF9Cd0w3T21TZw?oc=5",
      "source": "조선일보",
      "at": "2026-11-16T00:49+09:00"
-    },
-    {
-     "title": "【社説】初の米中ロ会談、北朝鮮は同盟強化も韓国は意思疎通困難",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1MzR2k1cGNTWXU0eDhCOEZJU01nMjZjRXh3dnBTWkxpZ2NQSnZzeWh0QTR6ZndNdG5FWFFHaHNZZ0dNb2I1RVhFaUFXUDI5VEF2ZGNiN0dXWWtMZkdwSEpDVThpcGpuZ2txQV8wMTRrWkN2aGlYdzRXVEVkTEc5ag?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-16T00:00+09:00"
     }
    ]
   },
@@ -374,16 +374,16 @@
  ],
  "cyber": [
   {
+   "title": "【復旧完了】Microsoft 365のシステム障害解消に伴うサポート再開のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80RnVNdWdQajNCYmlOMTRjRWxQQUllbHJvYkY0TnBqRmRkdDBxY2E0eFNRWjlhWFZtNjNLeEo3UXJwTHFCNlRHQWtn?oc=5",
+   "source": "FUNDINNO",
+   "at": "2026-11-16T09:04+09:00"
+  },
+  {
    "title": "京成、公式サイト「システム不具合」で閲覧できない状態に 復旧未定",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qV25nSHkwQ181V1NOQXFqU1RzcGlLUml3X0lsVF9GS3ZJTTlqMW5RTEh4aERBOTE1Y1NXWElCcEtaUE5CNW5WT0NlZGk1QlBnd1RFWE5wZWtGRkhFWmdwTXFZU2xZNGlBQnc?oc=5",
    "source": "ITmedia",
    "at": "2026-11-16T08:24+09:00"
-  },
-  {
-   "title": "ニュース - 【個人パートナー】Microsoft 365のシステム障害による配信メールの開始について",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BRTdGV2ctS2Fmc2ZDS0kzTkliSUtDX0JuUkYyMmxhUmpBdER2QXU3RDc0cU83ZWhqWWEzSXN3SjJhc1ZQYTdwN1dtTnFROU9uLUVqMEJPeW5yVHdETWh0SGNMLXc?oc=5",
-   "source": "日野レッドドルフィンズ オフィシャルサイ",
-   "at": "2026-11-16T08:18+09:00"
   },
   {
    "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
@@ -402,6 +402,24 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrNmszQlBPZkxGdTQ1NXhoX0prQkVEanpDaXZOZ3ZONXpIaTdranQ1VEhYb0FkSU9VMlF1Q0ZjU1NYWkU5NU5LbWJMcV8zVXNFX1VqWnFR?oc=5",
    "source": "KAB 熊本朝日放送",
    "at": "2026-11-16T07:26+09:00"
+  },
+  {
+   "title": "ニュース - 【個人パートナー】Microsoft 365のシステム障害による配信メールの開始について",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BRTdGV2ctS2Fmc2ZDS0kzTkliSUtDX0JuUkYyMmxhUmpBdER2QXU3RDc0cU83ZWhqWWEzSXN3SjJhc1ZQYTdwN1dtTnFROU9uLUVqMEJPeW5yVHdETWh0SGNMLXc?oc=5",
+   "source": "日野レッドドルフィンズ オフィシャルサイ",
+   "at": "2026-11-16T06:18+09:00"
+  },
+  {
+   "title": "サイバー攻撃机上演習のつくり方 ワークショップ 2027",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jRWVOR0FJWlpSRzk5WnJ1UmJ6X21OOTlzbXJqc1hETS05cnlfRGduOEJpdFhLLWtGSml5Mk01cDh5M0I1VDZfU3c1TFJ3SFF6MDQySVZTQTlkSzg3N1dtOEhlcFBJQnlLWmc?oc=5",
+   "source": "PR TIMES",
+   "at": "2026-11-16T09:00+09:00"
+  },
+  {
+   "title": "激化するサイバー攻撃に官民連携で対応を 古川大臣とITベンダが意見交換会",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aNDQ5YmlBMC1hNUpTVGdRelllWmJqT29nck42QTdoXzFVQUV3ZXpSYkdjeVBHMnhiaDgzeURnY05QV0NaNUhTSDdHZHpDNkotb1k1cXRndDc4WlVVREswdmF6RmE?oc=5",
+   "source": "Impress Watch",
+   "at": "2026-11-16T09:00+09:00"
   },
   {
    "title": "三井住友信託銀行、顧客のメールアドレス2,351件の流出を確認 Fleekdrive経由でアララへの不正アクセスが波及",
@@ -444,24 +462,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ncVVHeTE4YXBUZ0tkS3BnUTN2NnJUMDhuTmpXWXhOWGxXM3lJQ3dPRjlVMXgySHN1Wms0UGRKZzNXbUZxMmZDdGctYjBGd2pMY3pFRGRPM3A5cDBQbW1nOFUzaWVxYndGRml0dHZlQlhnSm9ZbEE?oc=5",
    "source": "産経ニュース",
    "at": "2026-11-16T08:00+09:00"
-  },
-  {
-   "title": "Qoo10に不正アクセス 住所や任意入力の身体的特徴も閲覧された可能性",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HUEtGbWc3NFE3eTQzcEVTb0tyRmFoUVYtRmdWZDlnZVhHMGRrSWFreVRncGVnQjgyU3pfR01IcV9TRm9IamdoRTZsRVRma0xSMkpTVzcyOEp4X0NsWERr?oc=5",
-   "source": "千葉テレビ放送",
-   "at": "2026-11-16T07:57+09:00"
-  },
-  {
-   "title": "フランス郵政大手「ラ・ポスト」傘下企業でサイバー攻撃 2200万人分の個人情報流出",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmlHNEdPZTJDZ0VlX0g4eDF5LVE4dEUySDNnS0lZb2w0QWRqaFRORGV3THRKSWtidjR5OGFIMXNUOFBYeWVNSVF2b2tOUTZlVWQxS21nYVZDZEVXc2hTM2prWm5UWjdmSjVGTzlvVmdmRkNqRlBnSnowNkx5RFp0ZQ?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-16T07:33+09:00"
-  },
-  {
-   "title": "仏郵政傘下にサイバー攻撃 2200万人分の情報流出 | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPMmV1WjA0cnJBY0l6bUMtT0ZVRWFwRVlDMWFlR3k2ZzluNXlScXJHTENQM0NFZTJqUXQxb21IWExrNENRM2dGRFFHYXBIUWR0OVdCRGJ5VVBkNW1hMW9naUxfUkZnUlZuR05GaU1JWXpSdlRZbWV3ZFJEZlBYVlJjMFF3clpkVTFneG01SXhnZ2wtOGxuZEdSQlZuM0huOWNKLV8yNEY0WXlvQnNLbExBN1Bna0MwZ3pfZjl1Zi1WbE5lQnhUeWVsQ3liTndOa3FLTXczbUxiN2Q4Y05aeTgxeDNhZGNMeHA0aWphc1R3QVNnMmlPaFNvcE1MYkZLUFBkVkpuUGVwX1ByZ3ZCek5QUnczOFZFVmJRUFdLZEJZaWZ1Mkp6N1lwV25nZGN4ak1rVzBVaXJHNjJDMDg2ZmpQZDhrRWQ2NUxZTWpjZUdGV2c4dVFQb2RQNFRoRlZoVk80Mlg0OFJUUW44WUhC?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-16T07:33+09:00"
   }
  ],
  "osaka": [
@@ -469,7 +469,7 @@
    "title": "開幕3日で異例の完売…大阪の名物イベントで「マグカップめじるし」人気爆発、ネットで高額転売相次ぐ",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9laUMwSFhwNk44eGNUM2UzOHFVZ3QtV25YYWlFaFhLUzBDeWVqaWRqakVBR200cWhsNmt1MmNhcEs4WVdRTGdYYjU3bWhZcGhrZG1GcQ?oc=5",
    "source": "Lmaga.jp",
-   "at": "2026-11-15T21:04+09:00"
+   "at": "2026-11-15T21:35+09:00"
   }
  ],
  "world": [
@@ -481,11 +481,11 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RHBONV95eDM3OTBUTmxadzJ4eVJWNi04T0dvdHYwdnR3cWpnZDhTT1lkRFdLT2JYcmVSaXdPSmYzVXFHcHAxMGdPZE8xNGNqQ3dqYV9zdnhXRjF2Y0tJNUFJQWMzT0szZ09ZN0tSZDJSSkNmdGFFSnFKaVF5Sjg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T08:31+09:00",
-   "topic": "イラン・アメリカ"
+   "title": "【写真】東海岸の海軍基地建設現場を訪問した金正恩国務委員長",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ESHRMdlRMQlNPaDdpTUZJa2VnZTg2VU5vaDd2aG1yYXpmSGVzRUNqOV81OEdRcnV0UWdXWnREdUdubVdSdV9ueUxIUWhBNjhtd2tLeA?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-16T08:55+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "ロシアがチェルノモルスクの港湾管理機関と変電所を攻撃",
@@ -493,6 +493,13 @@
    "source": "Laodong.vn",
    "at": "2026-11-16T08:30+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1k4S2xXdnQ2N2J2MDZRb21zOGVSWU94VE5HdGJ1MjFHTWVNWlZFZnE0TmRNQ2hxVXgyTjFiUURBY0QzQVY4TEVnYnU0aUFjam9acW1EMXNXY09iSlYyeUJvbnZsWXhoc1FKNW1TQ3pVZHdmWjdNeW50N1pqSFcxemVYV0RLU2s?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-16T08:28+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "新興国ｅｙｅ＞前週のロシアＲＴＳ指数、ウクライナ和平３者協議再開を受け反発＝ＢＲＩＣｓ市況(ウエルスアドバイザー)",
@@ -605,20 +612,13 @@
    "source": "조선일보",
    "at": "2026-11-16T03:00+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "欧州委員会、WHO、NATOは、戦争やパンデミックに脆弱な欧州の病院に対し、緊急対策を求めている",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVk1tZm15elBBYk5WRkk0TGEyQUxuQ3J5ckYxVHZqZThJM0RuV1F2ZWlkZUFQOXhUZnJGU1E4WkdnSXhvMElobFdtN1J3MTVDUGRNSkFwWEx4djB2SkQzU1Q3X1VmeENMbjQtbW1HM3RSR2I4RkxYQkRCUXd0Y0RQZ1l4UVQ0NF9pZWQtZ2x0M1VYTjVDdC1KYVRKY0QtN2c?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-16T02:50+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ニュース - 【個人パートナー】Microsoft 365のシステム障害による配」"
+    "「マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」"
    ]
   },
   "japan": {
@@ -637,10 +637,10 @@
    ],
    "items": [
     {
-     "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RHBONV95eDM3OTBUTmxadzJ4eVJWNi04T0dvdHYwdnR3cWpnZDhTT1lkRFdLT2JYcmVSaXdPSmYzVXFHcHAxMGdPZE8xNGNqQ3dqYV9zdnhXRjF2Y0tJNUFJQWMzT0szZ09ZN0tSZDJSSkNmdGFFSnFKaVF5Sjg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T08:31+09:00"
+     "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1k4S2xXdnQ2N2J2MDZRb21zOGVSWU94VE5HdGJ1MjFHTWVNWlZFZnE0TmRNQ2hxVXgyTjFiUURBY0QzQVY4TEVnYnU0aUFjam9acW1EMXNXY09iSlYyeUJvbnZsWXhoc1FKNW1TQ3pVZHdmWjdNeW50N1pqSFcxemVYV0RLU2s?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-16T08:28+09:00"
     },
     {
      "title": "北朝鮮、英才教育でハッカー量産 サイバー攻撃にＡＩ駆使、核開発資金に",
