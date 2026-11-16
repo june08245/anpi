@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-16T16:45+09:00",
- "errors": [
-  "world_topics",
-  "nankai",
-  "outage",
-  "japan",
-  "cyber",
-  "osaka"
- ],
+ "updated": "2026-11-16T17:00+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -156,6 +149,12 @@
      "at": "2026-11-16T15:11+09:00"
     },
     {
+     "title": "米国、韓・日など同盟国とAIサプライチェーン共同防衛…中国牽制「パックス・シリカ」拡大",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMUpLeGNEMS03Njk2Q25BR0VWY1pielV1RjV0bzItZTVOWUF6WVdMcGN4eFcwYXRHek5tSTdvMVdXREdnNC1HZ2ZtdTdiVWtlLXBpc010QW1CeDR0SnAyVVI3cGNfN3FaSGpyVHNMd3NkQ3hlX1h2UXgzaGJSV3N4ZklHMllzWUMzSU1EMDI4TjhjeGdNOHluakRJNXFsOThXM045ZTloc0lXREFFZkFlS0F2bTlkeE95YWthQUFueE5EVG8zcXhESWM0ZDdHUHdaMlhSUkQwUGdRM0cz0gGMAUFVX3lxTE5RY2lndXljWjZ3VWJSVk1lWW44dWVoWlVnR0Z6WjBldWt4bjdWcV9EeUpkV0NKTnZJbWJfUzN2N0pfOGluR2YwcEl4N2xwQzlHMWNqa3d6UG9aZGhCbjE5di1KNkMzcW9OV1JKMFhZVGJTM091SzRHdTg1OW9oWkJiMzUtb3psckIzMUtM?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-16T13:16+09:00"
+    },
+    {
      "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
      "source": "Taiwan Today",
@@ -172,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6b3RycExHN05YZzJRMmR6VXdIb0FxTFZwN0ZCOE5BOUlqVGFlS3JiSUZwNWhPMVBhdmxTU0xDSkhwcjBGSE5wSkhub2IxYk9FNVNKVmdVZDFZQk5xbmk0R0ZVbEFfUmttNmxxaFR6MGQ?oc=5",
      "source": "Investing.com - FX",
      "at": "2026-11-16T10:19+09:00"
-    },
-    {
-     "title": "民間空港も病院も総動員…「台湾有事」を見据えた史上最大の日米軍事演習「キーン・ソード27」の真の狙い",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01eE8xSEd1TVdZelZXeDhKaXpkaTloVmdTMjhpMGFUcndscVJNdUdqZVg2Rno5TFBLOXVBR0pvT3RnSjVKWWt6MktsUi1QSHp3eHhjandYcXB4VXU3ZS1J?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-16T07:00+09:00"
     }
    ]
   },
@@ -185,6 +178,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮系ハッカー勢力による韓国議員補佐陣詐称したサイバー攻撃を捕捉",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMV9wSUktTnI4NWdkQk1VRzZqa0dKMzlLa1A1YWFCMWNPb3JfMnppNjgtU0xDWTJabkM4d1pfeHVjWGRGSlJDREtXLUY5ejQtRmUxYg?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-16T16:30+09:00"
+    },
     {
      "title": "【北朝鮮サイバー攻撃】英才教育でハッカー量産 ＡＩ駆使、核開発資金に",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xbHBNMm02alRPRUFrdTdnT3JyX2EwZHBpUllhdW04NFBDU3h3N2NCSC1peHlnSTJoM0tLcnVtUThWcXprUW95WUl5dWpSOU1vVzVXaUZnQ3FHUQ?oc=5",
@@ -211,15 +210,9 @@
     },
     {
      "title": "金正恩氏側近が米中ロ会談前に訪ロ 韓国政府「関連動向注視」",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVEFMd3hnak1HanhqeHFvWE5LRDc1bThTV0NJRWMtU3ZCRnhwQlBuMl9RMzFWUERDWkNNeHd4SWR2dWQtY19hT3dMaUtZSlloRUVoVjhIODB3Z3haaGVKZmFuU1IxMGJqTS1aQ3BLaHlSVFRGbF8zRjlabTVjREE?oc=5",
-     "source": "Yahoo!ニュース",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aNUNzcHR5VDZEUDNyWXpvdkZzOW0wLTJoRmVZTHlQUVRBZllZbGpZX2Z4NG05bkl2Q3dxSHE1ZUU5QWtKYzVFMTJIa0JGWmp5Z2MwQi1NalVndw?oc=5",
+     "source": "聯合ニュース",
      "at": "2026-11-16T12:09+09:00"
-    },
-    {
-     "title": "「資材の横流し」蔓延で金正恩の肝いり政策に暗雲…軍保衛局が秘密調査（高英起） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUU9LUkgyT0JYMktjQmZ2ejVxY2hqakhPT2dkOEJQMnBLX3lpekU5SlZpQ2tFMWlZdjByUWJDblhxaXAwdGlUWGhyMzgwMmpzOGpXcFVoQzdVRTdYVklYNGladjBmMnAyTVY1dGhyS0daMTd5c2JYVFQwWHJvajhoa295VU1DSndu?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T11:35+09:00"
     }
    ]
   },
@@ -228,10 +221,16 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "【詳細】ロシア ウクライナに軍事侵攻（11月15日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RdG1OQlVTc2dxV3lwcWRnZFVQRC15SzVGNGJoNG5paFFZWXA4WUFGb0R0ZXFBeEVYbU9xb3podzFwaEZXREhHV0RkNlRLdDNXQU1wVFZlOTF4Mnd3WUNN?oc=5",
+     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月16日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdFVib0lvc2Z1UnBjdVRwMDNScU43TTJzUHgtcElwcHhFS2RxYTJsM2c2NWY0bk1raWtaZ3c2alU2ZzVTMmZEdHQ1bWdoMWVWNWlsNFd3X2VfS2FnUlFB?oc=5",
      "source": "NHKニュース",
-     "at": "2026-11-16T10:40+09:00"
+     "at": "2026-11-16T16:42+09:00"
+    },
+    {
+     "title": "元英国首相が北極圏のロシア軍基地への圧力の可能性に言及",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOampPdEFBZW9mUGhNNUJOWXJyY3h3UUhoRkJMSGR0MURHUlRjR25LYnE5Z2lOYktMbXpwTzdLTlZrWU9WZnNiWnU4TXgyN3dMZmhpdlVuTjdCR2hLaU8ydDFYN0VIWl8yaVNOd1JWR05ZMWxrZ1ZDajBnQXY0RW9xWEtXc3ZpQUpIN0NDNWZwU0FsN2NXLUJoLWloNldWc2FsVnEwZ1NkZ1ZEMXNKRVRyblRBczZhVzlYVWxRWA?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-16T10:44+09:00"
     },
     {
      "title": "ロシア軍の攻撃でドニプロの一人が死亡、3人が負傷、車両が炎上",
@@ -256,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHZ0bm9fcmp6b2ZiS2ZtN0xYMlZzbDlqRzRnSjBGRU9wQlhTQ0NhdUlMUFBFV3F5aTM2Vl9LWlBEeVk1RXV4TUM1SFdwVGx4S015VG5ySXNJQWgwVV9RVGhzZUlxTGVkcDRjaVhaRk5yNFFsWnlkREdSOThGdlEtMjFCS0ZCVzg?oc=5",
      "source": "Yahoo!ファイナンス",
      "at": "2026-11-16T08:24+09:00"
-    },
-    {
-     "title": "エストニア、ロシア国境閉鎖へ 露軍情報機関の破壊工作を理由に（毎日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qX0laWWpRQ3V4bmo5dDRZdThYMEpTSjYwMjZGdkgxbDJySUhwdkhKaFR3Tms2VFpYQmFUajRKLWwzNFJYRmVveVdlZWhBVG11eFhwZ1pxNElEejFuZ2JUanNXWURIREllOHhMak1uaDViNWF0di1sTjRQWjNVWEE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T07:29+09:00"
     }
    ]
   },
@@ -295,9 +288,9 @@
     },
     {
      "title": "エストニアがロシアとの国境閉鎖へ、防衛企業への放火未遂受け",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Oc1VfNTgxVW42NlRjWmVIQnF1VUJhWmR1WHJ1WUhRZ2x4Qy1Rem1nb0FzTUg4UF9nNGlZcWxVM2hKVFBIYUZNZUt1WTBURVVneHfSAVRBVV95cUxQazhGZ0ZLYS1ScFZIaDlqNm52SUZGY3haTVgwUDhGNEpBc1dLYWdOQWs5WktQNC01d25TRm9OcXRoeXlIbzlzTFdhMWRwdC1TQUU3Nlk?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-16T10:07+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4aVdXTjBSMjBST1Bha0hmWVRFdUhxR2EwcHJXbWxPMTNpRURYZXZFeEFlTHBzRWpqRUNpM1BEaE0xQjF2TlB5Yy1oZzR3eVBJWDdkSVRFdFdNdFA3VVlFY3QyMFrSAWRBVV95cUxQeGlXV04wUjIwUk9QYWtIZllURXVIcUdhMHByV21sTzEzaUVEWGV2RXhBZUxwc0VqakVDaTNQRGhNMUIxdk5QeWMtaGc0d3lQSVg3ZElURXRXTXRQN1VZRWN0MjBa?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-16T10:01+09:00"
     },
     {
      "title": "エストニア、ロシアとの国境を閉鎖へ 破壊工作を計画とロシア政府を非難",
@@ -309,6 +302,12 @@
   }
  ],
  "nankai": [
+  {
+   "title": "6万7500人が地震訓練 磐田市・袋井市・森町で南海トラフ想定",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VcElqdUhQdE9NUExGNGxMX0hoalRaN1Jlc2JVN3NqMFdvOVlsY2RUbkI0VHdlWkZKcHFSdG1LU3B4RG5RMjhNUUppWFc5aU1jalBxb3hzSGktSDVmbkIzczAzVDdQcGxKSFNn?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-16T16:24+09:00"
+  },
   {
    "title": "南海トラフ地震Ｍ９・１級を想定、被災者救助や応急的な復旧の手順確認…１００機関１０００人参加（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DcVhtYU9xdW9scDhsOWxocGp0LTZtWGpwMk03eEVhZTNLWnBNUEJWRVZGMnFhT3FrTWV2azJrU2gwNmp2YWZ0bV9YV0p5aDB6Uzh6YV9acWJPaXRUNVoyNkhnaE1Tb0NSMVB2TnYtV0ZOQ1FrZHdEVXJ4ZGUwMDQ?oc=5",
@@ -338,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mbml5ZnJCb29TWGFmQ1l6b1pWdTBrVTJkdTNlTlFNYnllbkpTTjFRQ3UxcGFyT0ItWlhZWUNqZTFpYko0NnZBSDlaUnk0MmMyWFY3QmNKd1V5OF9STFp3dmowWllSeFg3?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-16T05:03+09:00"
-  },
-  {
-   "title": "南海トラフ想定し連携確認 延岡市など県総合防災訓練",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oc1Y5cFVYdjB3UEt1RHgzeU83VDk1RTQtNTMwZ3ZMWnlrRmkxYkoyMFd4cF9Ra0dFNnF1OFNRVkhIUjhVUEEtZ1gtY3FFNnZ1YVlZV2lLVl83aVZiR2JrWXFVOEF6TXc?oc=5",
-   "source": "宮崎日日新聞",
-   "at": "2026-11-15T22:59+09:00"
   }
  ],
  "outage": [
@@ -372,20 +365,50 @@
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WY0dubkdYSVYxVXhuOFdteTEyMnA5UVdrSnpmYVQwYkhNaWpadGtGLW83enh3dkozZ2VhcEdkaWJJNDBO?oc=5",
    "source": "@DIME アットダイム",
    "at": "2026-11-15T21:00+09:00"
+  },
+  {
+   "title": "Jアラート訓練放送 2022.6.15 @Jアラート @訓練放送 @本番では、津波が来るから直ぐ避難。@交差点注意です。 Taylor Heinicke Nfl Retirement (rBrqBvwBAJ)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHlCQ0JfdDFRZ1ctZGJVVzc3VnJJWjRKRFg0YVNaaUUtQVZDUWpoajZMWGxwOWhEUjlRejNILVNNZUNFdnNFLW9WY0NuZTc4ZzFhbGFFOURad3lmaGxORFAza2tMdUpMRTRrQUVqaVduSjB6RTh0QXJUazVBRzVtcGVB?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-15T20:28+09:00"
   }
  ],
  "cyber": [
   {
-   "title": "ドコモの通信障害“約95%復旧” 「5G SA」サービスで障害発生…今月だけで3回目",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aa0dObkV2MkJLeTJUakVRcE9MQXQyNHNYbDNuVHNJWTdiaUF4cDBuYzNrTjFXUkRlRzNyNWVmVUY4aXJ3SV9RVER0Rko5M3owUUN5TW5IdklXT3FsdHhBdW1maEtRb1FYWXh1bXVn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-16T16:22+09:00"
+   "title": "ドコモの「5G SA」通信障害が完全復旧、全国で一時利用しづらい状況に",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wNUY3T3lIMnkzTkZlWHk3a09jeGZtbnF3V0VPNmZybkdNdG00ZjBMUEdWbThqM1lNWHZZVUhldFd0bnB6TFpMc19Qa0xMa1NKZVp0UGwtSjZSVnM4RVRuRWl3OVI1Tkk?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-16T16:56+09:00"
+  },
+  {
+   "title": "ドコモ「5G SA」今月3度目の障害、約6時間で復旧 原因は同じ「交換機への通信集中」",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Lc1YtTlFFNFhsenZCRlZMeFNzeEJWTTNvcUFrT25FNExZTFZjdGhNeFY5S2VjVGpzaXV4Y2dsbHBfcmtWZkpjYkJycDUtSDNtMk12RE85OWswZGZnZ3ZKcTBrRHlUODZTSkE?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-16T16:46+09:00"
+  },
+  {
+   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧 – Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42NWEtSVd1eWNxVWZUazNEUUhKaGxQWnJCdHNmeTVObll0YVNVekZTck5UOENFRDA5c01QMEZUTVh2R1BHNHBUWnRmWEhMQzE3SW5UQXRxQ2o?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "at": "2026-11-16T16:39+09:00"
+  },
+  {
+   "title": "ドコモの通信障害“約95%復旧” 「5G SA」サービスで障害発生…今月だけで3回目 （2026年11月15日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nU0I5LW5xcTFGNlpBUGJsNXhHV0QtYzZnN2hZTXdRY0ZoWDZEREFtdXk2TERZY3pTQi1qV181bkpXMWhkQ1prd1dWWTVIaGtES2IyN3NMdEo5V0FFNW8yc2U1ZEpteHZqM2hJSHlvQ2cxQUllRzNFN0lvR2k?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-16T16:21+09:00"
   },
   {
    "title": "NTTドコモ「5G SA」で全国で通信障害 95％以上の利用者で復旧 障害は今月3回目",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iNDFNN2k3M1JHZG5VeEdqSld5T0pkRmppRmRTODFvZTV6TDkxemhsZHNqYk4zUEVKRVdFWDZLbkpDaFBYS1BRaXRWUU5PNXN3UWtqelFTN0lTYnROaGQzUVdVblRZQ1NHR3RxTXdwaW1HMDQ?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-16T16:08+09:00"
+  },
+  {
+   "title": "ドコモ 5G SA通信障害 95%超復旧 (2026年11月16日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxOE1YNV9yTFJadlRUTEtrdGJnSGxLVUc5Ums2REMyaXVKY1hxNFNXRExjRGt4UTVYQnRwR3EtTTZ2UXhWSW1XQzdKLXR2a0JXNlJxTnpiWW51MTlYWnc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-16T15:54+09:00"
   },
   {
    "title": "「原因はクラウドサービス関連機器の故障」福岡市HPの閲覧障害　市長選特設サイトも閲覧できず",
@@ -412,58 +435,34 @@
    "at": "2026-11-16T14:43+09:00"
   },
   {
-   "title": "16日のドコモ通信障害、60％復旧",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PQnNnRnY5NWNfb3liVXlZcXZXSGg3RWtHM2VyUDh3aGZBYm93WFg3ak90R1JRbUVOdkJUb1JnUElJdVByR2lxa0l0VTZlS0RzZFdsZWFoN2c1NER3aUF3LUF1LVB4eW8?oc=5",
-   "source": "ケータイ Watch",
-   "at": "2026-11-16T14:08+09:00"
+   "title": "電子チケット１万７０００枚窃盗か＝香港ディズニーに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZX0M1b191TXR3VmJwVkhWMGdadG5icE14cUczakdyaGpBREdrZXBrckpta3VUNzhKdEV6WklDOVNYWW9Jb3d1d3JYNDV0bXh5bVBybmFlTTU?oc=5",
+   "source": "リスク対策.com",
+   "at": "2026-11-16T16:50+09:00"
   },
   {
-   "title": "NTTドコモで全国規模の通信障害 16日午前10時2分から5G SAの音声通話やデータ通信に影響 午後1時現在も復旧せず",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwak5WakhaTWJjSmNTMTJtMkVzeHJZZ3BmU3BadUo5ekRubU1KUEV3Q1NFcE1CUW9nS2NUN1BRa09BV21YN1Z0UlBB?oc=5",
-   "source": "ケンオー・ドットコム",
-   "at": "2026-11-16T14:05+09:00"
+   "title": "北朝鮮系ハッカー勢力による韓国議員補佐陣詐称したサイバー攻撃を捕捉",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Bd3hBNGljMnpReXZGZTlURGJ6WDZ5YlJNbGc1UGVmMDU1eWlvOXAycHpJRU1VM1hJWlNqREw1V2NkZ09YdkdhNzFpTnRrT2xJakdURC0telNIMkpEV3VQalNrS05iVGPSAWxBVV95cUxOOGtlZzlySkRfS2JGZ0tDX0hUYml3WVhkaU1YSHAyOUhGajlUMFd1ajUxcDdKdkdwTnZkS0g3Z3VDWTRwWVMxQ2h1RDR6N2ZwRmx0emR0Q3k3Rzc3bGY4cWdrNGlIaHRqRGlnc1M?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-16T16:30+09:00"
   },
   {
-   "title": "【速報】スーパーコンピュータ「富岳」に不正アクセス　理化学研究所",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NcGhlUFRfRTEtaURaQlFkNmppNk10dmluZlRqTDRfc2VOLWtRTFNZYzFfVzNCclJGaTRyWDhhWW5UcXBKNXEyMHhjQVNHck1uUWR6MEJOdmpxVV9QQS1iUURiakdqQmVfZ0VLZGlvVDZvSlJLX0dNcnlR0gF_QVVfeXFMT09wajNQckZ0bFlWMm04dnc2YUlPcDc0bnBBYm85aWN0TnYtRG1wTkFsU0xFV2llTFQyV1poNFlIdjY3SDJLakpfX3VSQW56dnN4ZURhOW03OVNlU1NTaXZYVzFGV05qYm1hZDh3V29mcU9zNThWSTFaWjlhRVBnTQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-16T16:14+09:00"
-  },
-  {
-   "title": "【北朝鮮サイバー攻撃】英才教育でハッカー量産 ＡＩ駆使、核開発資金に",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xbHBNMm02alRPRUFrdTdnT3JyX2EwZHBpUllhdW04NFBDU3h3N2NCSC1peHlnSTJoM0tLcnVtUThWcXprUW95WUl5dWpSOU1vVzVXaUZnQ3FHUQ?oc=5",
-   "source": "中国新聞デジタル",
-   "at": "2026-11-16T16:12+09:00"
-  },
-  {
-   "title": "理研のスパコン「富岳」に不正アクセス 最先端の研究、企業も利用（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yR3hBc3QtYmxJaUNIbW9GeUk2b1hMMGpycWR1dU53Tk1RSl9uaV9lY2dTU1E5aU9IS01pY3dVeldBMHk4cVBDUjZldGV3czkwUHo1Qm85YmZXdVctUTZuVFhWUUcwQ1lRT3lPbTZpUm1wLU1GbHpvOHk0Y0hQeVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T16:06+09:00"
-  },
-  {
-   "title": "スパコン富岳に不正アクセス 理研、情報漏えい有無調査（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CX0RSM01RZ3ZBSFhLTVZ1UlpYMWZEUnZ5WHFGYm01OUtxNmRtdnFwQ0J0dUowTXpyVWpJbV9QUDJhUC1XS1FQYTlDd0M0eGJkWDg4TEJiSVNGbExTcHJrcXJtdjUwRzB1X1dZQ19YU3FMcTBwMkdVNFZSX183U3c?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T16:06+09:00"
-  },
-  {
-   "title": "スパコン富岳に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CeERUdGpiOHpiWWpkRTctYVgwZXMzOXI4a1FBSnJXMnA5elFzLWtVZlR1ejAxT1pTZW5jQkhSaERTcV80UEt2TERUSFk5c05qckFjY2tJeEcydw?oc=5",
-   "source": "中国新聞デジタル",
-   "at": "2026-11-16T16:06+09:00"
-  },
-  {
-   "title": "JR九州商事「駅長おすすめのJQ MALL」などでメールアドレス 約5万件漏えい アララへの不正アクセスが波及",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU01TTHBHQ21JMzFZUy1CUVE4LW5yRk1taDV3aU9kc3lRa0dDUmttMk83SWZTX3FseTA4TlZUVHRrUklZQnJQUUJCdnhZSVFCak9LdFpxaGJEZ0VaSk1ZMzBMMmx0TnpUd2FJbGY3dmphcTRhbmdhazRJWnB2NUdqRU9ZMzg5Y2h6LUJTdzFwQ0I2elNZT1FTakVEZDZUTVp6?oc=5",
+   "title": "大阪府、行政オンラインシステムのメールアドレス10万7,804件が漏えい 外部メール配信サービスへの不正アクセスで判明",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1NVZ05jSkVOeUloc2ZlMjBuZ1AwSXQ4SjhTZ2lLaWZsMVRPdlR4cTZJck9WWDFfeWxoQ0VVdUNMQk5SUXFvOUhOdVNuQTdjd1JDVUxkSl9vZmJFQzN5VWhkeGQ5NER3TWNTLTJxMWhUMGt6OWRiSUx1NmN4M2JQQWFSQXBPRkxteF9Nc0xpNDloYUMyV1E?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-16T16:06+09:00"
+   "at": "2026-11-16T16:30+09:00"
   },
   {
-   "title": "富岳不正アクセスで利用者情報漏れた可能性",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oUk9TWkxLTXpKQ2puVk1PWV9mdnhHdXNLb1JNVGRfTHNieEdIYWRPeTdER296MjRZVUE5NndhWmIwWk9jcVRhMXpsaGUySGhoRjQ5X2NSb1k?oc=5",
-   "source": "京都新聞デジタル",
-   "at": "2026-11-16T16:06+09:00"
+   "title": "アイキューブドシステムズ[4495]：当社システムへの不正アクセス及び情報漏えいに関するお知らせ 2026年11月16日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrX0tPbmE0N0M0Qk5IZkVaZU1laUkxVER3NTlLTS1tNlFvTHFtMDB3bGt4dGtMc1BGcml5cXhUakhkQXNxVUx5elRKSmd1UWFKTldfbXJzWEZzVlJXU2pFdXhycE1IbEZJelE?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-16T16:30+09:00"
+  },
+  {
+   "title": "スパコン「富岳」に不正アクセス 運用停止し理研が調査 | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNVzhNVnptQ1pfa0pmMzV0RlZXN1hzUnJRaHcxTnVrQVpMR2Z0UHRpb2VCTzBsTHM2dEphSTJsNEhzWWVTZ3BGM3VDQk5zZFZuQmJkMlB3X1Q1OG93bzZYdTZ6SVR2enZpc0s3NUJzUTdjMzlxcFBQQ1hYYzNCVkxnamFOSkgxeU1HdjlTWGtXOHVaYU9qeU8waVFZTjRHLTdvYkFJRDlfNG5zZUR3WUVFM2hybDVHdW1DdE1VTDg5V1pjREdmM0JVMmVOVFI0eFc2b1NyVENZTGFFVE04NUxhQW5SZDhnUl9Qajkza3JNRk92VU0tMVozLVFHMnRqRjlCcFAtSTVNYVJtVjZ3TmRMLTI0blgwZ1hHeS1qa1VJQXRGSlpjQlNDRjFfdzlrbmkxZjlad0VnVTRZc2pDVzRuVVVLRE02ajV0QzFHcnNyM0syOHBidlNEWWF3ejdxWUFSRFdzR0dMOGF0YWlfQjhPVk9yM1AwUHppazBnU21xS2N2b0hncjM2LTRWeUdFY1prUE40U2prS2FmMU4zNEJfU0hCYw?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-16T16:30+09:00"
   }
  ],
  "osaka": [
@@ -477,10 +476,24 @@
    "title": "開幕3日で異例の完売…大阪の名物イベントで「マグカップめじるし」人気爆発、ネットで高額転売相次ぐ",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9laUMwSFhwNk44eGNUM2UzOHFVZ3QtV25YYWlFaFhLUzBDeWVqaWRqakVBR200cWhsNmt1MmNhcEs4WVdRTGdYYjU3bWhZcGhrZG1GcQ?oc=5",
    "source": "Lmaga.jp",
-   "at": "2026-11-15T21:05+09:00"
+   "at": "2026-11-15T21:35+09:00"
   }
  ],
  "world": [
+  {
+   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月16日の動き）",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdFVib0lvc2Z1UnBjdVRwMDNScU43TTJzUHgtcElwcHhFS2RxYTJsM2c2NWY0bk1raWtaZ3c2alU2ZzVTMmZEdHQ1bWdoMWVWNWlsNFd3X2VfS2FnUlFB?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-16T16:42+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "北朝鮮系ハッカー勢力による韓国議員補佐陣詐称したサイバー攻撃を捕捉",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMV9wSUktTnI4NWdkQk1VRzZqa0dKMzlLa1A1YWFCMWNPb3JfMnppNjgtU0xDWTJabkM4d1pfeHVjWGRGSlJDREtXLUY5ejQtRmUxYg?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-16T16:30+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "【北朝鮮サイバー攻撃】英才教育でハッカー量産 ＡＩ駆使、核開発資金に",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xbHBNMm02alRPRUFrdTdnT3JyX2EwZHBpUllhdW04NFBDU3h3N2NCSC1peHlnSTJoM0tLcnVtUThWcXprUW95WUl5dWpSOU1vVzVXaUZnQ3FHUQ?oc=5",
@@ -538,9 +551,16 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "米国、韓・日など同盟国とAIサプライチェーン共同防衛…中国牽制「パックス・シリカ」拡大",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMUpLeGNEMS03Njk2Q25BR0VWY1pielV1RjV0bzItZTVOWUF6WVdMcGN4eFcwYXRHek5tSTdvMVdXREdnNC1HZ2ZtdTdiVWtlLXBpc010QW1CeDR0SnAyVVI3cGNfN3FaSGpyVHNMd3NkQ3hlX1h2UXgzaGJSV3N4ZklHMllzWUMzSU1EMDI4TjhjeGdNOHluakRJNXFsOThXM045ZTloc0lXREFFZkFlS0F2bTlkeE95YWthQUFueE5EVG8zcXhESWM0ZDdHUHdaMlhSUkQwUGdRM0cz0gGMAUFVX3lxTE5RY2lndXljWjZ3VWJSVk1lWW44dWVoWlVnR0Z6WjBldWt4bjdWcV9EeUpkV0NKTnZJbWJfUzN2N0pfOGluR2YwcEl4N2xwQzlHMWNqa3d6UG9aZGhCbjE5di1KNkMzcW9OV1JKMFhZVGJTM091SzRHdTg1OW9oWkJiMzUtb3psckIzMUtM?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-16T13:16+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "金正恩氏側近が米中ロ会談前に訪ロ 韓国政府「関連動向注視」",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVEFMd3hnak1HanhqeHFvWE5LRDc1bThTV0NJRWMtU3ZCRnhwQlBuMl9RMzFWUERDWkNNeHd4SWR2dWQtY19hT3dMaUtZSlloRUVoVjhIODB3Z3haaGVKZmFuU1IxMGJqTS1aQ3BLaHlSVFRGbF8zRjlabTVjREE?oc=5",
-   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aNUNzcHR5VDZEUDNyWXpvdkZzOW0wLTJoRmVZTHlQUVRBZllZbGpZX2Z4NG05bkl2Q3dxSHE1ZUU5QWtKYzVFMTJIa0JGWmp5Z2MwQi1NalVndw?oc=5",
+   "source": "聯合ニュース",
    "at": "2026-11-16T12:09+09:00",
    "topic": "北朝鮮"
   },
@@ -564,13 +584,6 @@
    "source": "Laodong.vn",
    "at": "2026-11-16T11:52+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "「資材の横流し」蔓延で金正恩の肝いり政策に暗雲…軍保衛局が秘密調査（高英起） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUU9LUkgyT0JYMktjQmZ2ejVxY2hqakhPT2dkOEJQMnBLX3lpekU5SlZpQ2tFMWlZdjByUWJDblhxaXAwdGlUWGhyMzgwMmpzOGpXcFVoQzdVRTdYVklYNGladjBmMnAyTVY1dGhyS0daMTd5c2JYVFQwWHJvajhoa295VU1DSndu?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T11:35+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "F1カタールGPは開催できるのか？隣国バーレーンがイランの攻撃を迎撃 標的から中東の3サーキットまでの距離を計測",
@@ -601,25 +614,11 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "【詳細】ロシア ウクライナに軍事侵攻（11月15日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RdG1OQlVTc2dxV3lwcWRnZFVQRC15SzVGNGJoNG5paFFZWXA4WUFGb0R0ZXFBeEVYbU9xb3podzFwaEZXREhHV0RkNlRLdDNXQU1wVFZlOTF4Mnd3WUNN?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-16T10:40+09:00",
+   "title": "元英国首相が北極圏のロシア軍基地への圧力の可能性に言及",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOampPdEFBZW9mUGhNNUJOWXJyY3h3UUhoRkJMSGR0MURHUlRjR25LYnE5Z2lOYktMbXpwTzdLTlZrWU9WZnNiWnU4TXgyN3dMZmhpdlVuTjdCR2hLaU8ydDFYN0VIWl8yaVNOd1JWR05ZMWxrZ1ZDajBnQXY0RW9xWEtXc3ZpQUpIN0NDNWZwU0FsN2NXLUJoLWloNldWc2FsVnEwZ1NkZ1ZEMXNKRVRyblRBczZhVzlYVWxRWA?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-16T10:44+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "2027年に向けた習近平の政治基盤強化：党規律、軍粛清、中国統治のジレンマ（2）【中国問題グローバル研究所】 執筆 Fisco",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6b3RycExHN05YZzJRMmR6VXdIb0FxTFZwN0ZCOE5BOUlqVGFlS3JiSUZwNWhPMVBhdmxTU0xDSkhwcjBGSE5wSkhub2IxYk9FNVNKVmdVZDFZQk5xbmk0R0ZVbEFfUmttNmxxaFR6MGQ?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-16T10:19+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "イラン、交渉のカード減り中東での軍事的威嚇を強化 : 国際 : 財経日報",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Qm8tRTdMT2xOX1BGR3V6ME1Fb29sNmgwUVN6S2xGS2dKOUduTF81Slh4SVFYNTFtSDVGbWxYTTNHR3NZUkJ2WVEzamxUUzk2WWU0QXkxTXJ5Wjc4NVZIVG5Xaw?oc=5",
-   "source": "재경일보",
-   "at": "2026-11-16T10:15+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -627,7 +626,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「ドコモの通信障害“約95%復旧” 「5G SA」サービスで障害発生…今月だけで3」"
+    "「ドコモの「5G SA」通信障害が完全復旧、全国で一時利用しづらい状況に」"
    ]
   },
   "japan": {
@@ -640,8 +639,8 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
-    "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「侵攻」5件",
+    "北朝鮮：「攻撃」2件",
+    "ロシア：「攻撃」「侵攻」4件",
     "欧州・NATO：「爆破予告」「破壊工作」4件"
    ],
    "items": [
@@ -652,16 +651,16 @@
      "at": "2026-11-16T13:40+09:00"
     },
     {
-     "title": "【北朝鮮サイバー攻撃】英才教育でハッカー量産 ＡＩ駆使、核開発資金に",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xbHBNMm02alRPRUFrdTdnT3JyX2EwZHBpUllhdW04NFBDU3h3N2NCSC1peHlnSTJoM0tLcnVtUThWcXprUW95WUl5dWpSOU1vVzVXaUZnQ3FHUQ?oc=5",
-     "source": "中国新聞デジタル",
-     "at": "2026-11-16T16:12+09:00"
+     "title": "北朝鮮系ハッカー勢力による韓国議員補佐陣詐称したサイバー攻撃を捕捉",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMV9wSUktTnI4NWdkQk1VRzZqa0dKMzlLa1A1YWFCMWNPb3JfMnppNjgtU0xDWTJabkM4d1pfeHVjWGRGSlJDREtXLUY5ejQtRmUxYg?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-16T16:30+09:00"
     },
     {
-     "title": "【詳細】ロシア ウクライナに軍事侵攻（11月15日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RdG1OQlVTc2dxV3lwcWRnZFVQRC15SzVGNGJoNG5paFFZWXA4WUFGb0R0ZXFBeEVYbU9xb3podzFwaEZXREhHV0RkNlRLdDNXQU1wVFZlOTF4Mnd3WUNN?oc=5",
+     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月16日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdFVib0lvc2Z1UnBjdVRwMDNScU43TTJzUHgtcElwcHhFS2RxYTJsM2c2NWY0bk1raWtaZ3c2alU2ZzVTMmZEdHQ1bWdoMWVWNWlsNFd3X2VfS2FnUlFB?oc=5",
      "source": "NHKニュース",
-     "at": "2026-11-16T10:40+09:00"
+     "at": "2026-11-16T16:42+09:00"
     }
    ]
   }
