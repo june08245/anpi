@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:45+09:00",
+ "updated": "2026-11-17T00:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -179,16 +179,16 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "トランプ氏、北朝鮮・金氏と会談の可能性示唆 アジア歴訪中",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHFua1kyRnZHaExKUENtMVcwWWhiemVLVHdxX3Nsa2NoS2o1b19UZnlnQ0xzRGxCQzlPMDNXSnFsQVNpNzZHNUJYYVFnelNHakVtX0JKZlBxUlFtdXJjcUZ4UFI4TzlWc0ItTGdGS1JYeTFWbFI3N1Rmczk4ZFZyX0Y2UUVqdHM?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-16T23:46+09:00"
+    },
+    {
      "title": "トランプ大統領、アジア歴訪中に北朝鮮の金正恩氏と会談する可能性に言及",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94UVFpaGpwQXhUbjB1RG92cXM5cXZuaFNaZjNGQW5TNkdFUWNzLXRFblAySnRPWEdMRlJCTHdUUDdjZmJJc0FpcGJKVks4bDg2Zmc?oc=5",
      "source": "株探",
      "at": "2026-11-16T23:33+09:00"
-    },
-    {
-     "title": "【トランプ米大統領】「北朝鮮の金正恩総書記と会談する可能性も」(フィスコ)",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXFuZ0h4UWN2dmtiX01ZZU1OUHFaeTBadjd2dkRCOENYLXpFTWxpYWlKa3VnZEJGOURySThSZ2JhSi1leHAxMmoydGw5TjBpc2N5REl4WnJsNmJELUJBcGJvaTJZQ181WXdudzNqM1NCdF8zUzNsTUh2eElaOGplN2piZkdPSW8?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "at": "2026-11-16T23:32+09:00"
     },
     {
      "title": "北朝鮮系ハッカー勢力による韓国議員補佐陣詐称したサイバー攻撃を捕捉（中央日報日本語版）",
@@ -357,6 +357,24 @@
  ],
  "cyber": [
   {
+   "title": "もう大丈夫？ Microsoft世界規模の障害から全面復旧 Outlook・Teams停止で各国に影響、同社が謝罪（11/16）",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpMVh2dTdGYWRILUFNaVZfeWZDOXVKZElUeEFUS2ppYUJVMW94cDdrVEZyMW1KUG9pY2h3UFdZSXVNVTduVEJiZ0pwX1Y?oc=5",
+   "source": "LALALA USA",
+   "at": "2026-11-16T23:47+09:00"
+  },
+  {
+   "title": "NTTドコモ「5G SA」で11月3度目の通信障害 約6時間で復旧も専用設備における安定性確保に課題",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UYUJJZkctYnAxSjE3bkZvcElpZ3pOd3VSSGJDOWlMUUVxTkwzRUpZSlhTbzVfS18zME1uelJUOU1BTndfUzh5bzFaYVVkRGMyaTRz?oc=5",
+   "source": "東京報道新聞",
+   "at": "2026-11-16T23:04+09:00"
+  },
+  {
+   "title": "マイクロソフトで大規模な通信障害世界各地でOutlook使用できず…",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNS0VJdExKT0RQdXVZTFEwZ1pxb1NPNEpFLXp6MWU2RGhzSmt0d1pGOFVxRGpwODVldEdlOTgwdzk3ZGpHM1F5cHRHa3phajJNSzBueWtkVEY5LXJNb0JXWWY1NlhqVkU?oc=5",
+   "source": "朝日放送",
+   "at": "2026-11-16T22:01+09:00"
+  },
+  {
    "title": "福岡市のHP閲覧障害、外部業者の機材故障が原因 市長選情報など閲覧できず",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ISWFKckNMTFBLZWZHM2tBdVNTanRwSjYzdlpwMVRaRjBHUzk2SjNXRXJLTm9HTWE1NHpJZG4zc0tQXzBMbko4T1VRVHNKb3ptT21WM1V3?oc=5",
    "source": "西日本新聞me",
@@ -387,22 +405,22 @@
    "at": "2026-11-16T19:33+09:00"
   },
   {
-   "title": "NTTドコモ「5G SA」通信障害が完全復旧 通信障害は今月3度目",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVOGhRZ2QtSUlXOGxZSGNSN3NMVXFlSmlQM2EwWlJzZ05GUUhRTVI4V0kxS2g1WWRVUHN5VFp0UlRFdVNLTFpLT0NSbw?oc=5",
-   "source": "TVer",
-   "at": "2026-11-16T19:21+09:00"
+   "title": "香港ディズニーランドに不正アクセス 電子チケット盗難か（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yRXZUSHRjc3NRN0FNT2YtN0RqNGx0VGdqdTdjLURVTVVVdDhnY3RweGZiU2FObDZoM0wzeUVhblFQQUh4U2ZYbW4xTjNpakU1QWRrNTh6cFNlbnRFYURPelBCOV9jbUFpWTdjRFlncjJMMG1zS3NqT3ljZE0tSFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T23:45+09:00"
   },
   {
-   "title": "ドコモの5G SA通信障害、約6時間で復旧 原因は交換機への通信集中",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWFwa0VBaVQ4U2F4VmxDdTZHTTdZQWpDYjg3bXA2ajQtZzgwcktWa3VlTXNPY3RYcV9IUi1WeURTS2xkanhIVUpGUXlCRWxrSm90UzQtTVV2QUtzMmFxOG5fRjVfWllXX2k2UkV1bFVodDAwZTI4Y2s3ZU42UVY2Mg?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-16T19:14+09:00"
+   "title": "スパコン「富岳」にも不正アクセス 世界トップ級の計算能力誇り 大学・企業の研究や製品の開発に利用 流出した情報は「確認中」",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwMFpiWjFKUWhjZ0hDdzlUYzFBYkpiSmoyVU42WElaZGNLNWRzcFUyWjVSTVdlaGs2MnA1OEN2eFVxMXpzSHRkVllZMHBrTWtUb2JjZEJsU2hGb3FDUWtpSVBzV2M?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-16T23:44+09:00"
   },
   {
    "title": "「PLAZA」など運営のTBS-HDグループ会社で個人情報漏洩か メルマガ配信委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vb3BoMWNXTmtfb0NZbTBDVllla3MtX2ppSU1tWV80Wk1VUFhsTzFmZTRWcnE1MUhIOWUzNlpRR0QwM2lDYTNxODJMU0dMUXlnY0NVYUtyZFZ1TUxwTF80STI0QkxLUEExOFI5T0t1eGxKOG8zZmJ2OVQyMDZNaEU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T23:12+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1YWF2bk9PWkY1aTZFY1RwSlZZUG0za21jcHN2U1lJU2ZzQnpnMU9RV1NSVE1FMkc1MTBzaXlNWXpvVVVCOGg2SjNxSG9oaHU1NXRvUmtfYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-16T23:13+09:00"
   },
   {
    "title": "県公式ショップ「新潟直送計画」で個人情報漏えいか システムに不正アクセス",
@@ -427,24 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU96dl9fVmJiWXNWVkJZSnlVQV9GajcxV29DSmFPaUFQZS15TzlaQkFxaVcweVhQa2JJVXVwMGxxbWVLS0xSRzJwVm5hMDlwS1psTXpDOXVYekRUNGVnREpQMFA5SzMyaHgzb0Z5eHNWaUxCZ0hzdnF3NUZXRUp3S3dNeHpVQmtCdkdTSU5KSlFtUlYtNllyOUk0RTY2ZTl3OFNIQU51YlRzeDA?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-16T22:00+09:00"
-  },
-  {
-   "title": "mineoユーザーのメルアドが漏えいした可能性 委託先で不正アクセス発生（ITmedia Mobile）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nazZqZzBTNEc4VWt6SlFNcE5jRkd5UjBXZTVQTUg4dXhTX1ZUMFRxdm9YRXdOal95UDZaamF0VVFBU0xpOTVHaUFScFVaLXB6bXpVWWdILVJWWElCeHhTLTBIVnlUdkpWd3piaXkxamk5VXJqelBHdDRtVFBaUUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T21:59+09:00"
-  },
-  {
-   "title": "神戸で稼働のスパコン「富岳」に不正アクセス 利用者情報流出か",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdjlxSGoyLWxhdVBCbGFVVGhsRFl1R1I0dDBONFNjR05sWjN4bGhrb3VGTTdGXy12SDJTYTRsUU5menA5VWVlLUJwbw?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-16T21:54+09:00"
-  },
-  {
-   "title": "バンダイナムコ、一番くじ関連で延べ41万3,527件の個人情報漏えいのおそれ 物流子会社への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmlZbHlWRnVvUXZ1X1RjenNwYUpLTm4tUDA1U0ZiN1llOGd2RlB6Y1hiYkVxVzNhVmVXSlROWU9PbzJNa3kyMndCZzZ5ZjJJRzdCUVFvNGU0YU1lVlRBTmx3NjFMa0hMQlQ1d3dLY0pvVWc0NWNrR2FmTnE4RkhsQUsya3BJMkcyUmZZRnhQVFN4YUh6?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-16T21:36+09:00"
   }
  ],
  "osaka": [
@@ -457,17 +457,17 @@
  ],
  "world": [
   {
+   "title": "トランプ氏、北朝鮮・金氏と会談の可能性示唆 アジア歴訪中",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHFua1kyRnZHaExKUENtMVcwWWhiemVLVHdxX3Nsa2NoS2o1b19UZnlnQ0xzRGxCQzlPMDNXSnFsQVNpNzZHNUJYYVFnelNHakVtX0JKZlBxUlFtdXJjcUZ4UFI4TzlWc0ItTGdGS1JYeTFWbFI3N1Rmczk4ZFZyX0Y2UUVqdHM?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-16T23:46+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "トランプ大統領、アジア歴訪中に北朝鮮の金正恩氏と会談する可能性に言及",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94UVFpaGpwQXhUbjB1RG92cXM5cXZuaFNaZjNGQW5TNkdFUWNzLXRFblAySnRPWEdMRlJCTHdUUDdjZmJJc0FpcGJKVks4bDg2Zmc?oc=5",
    "source": "株探",
    "at": "2026-11-16T23:33+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "【トランプ米大統領】「北朝鮮の金正恩総書記と会談する可能性も」(フィスコ)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXFuZ0h4UWN2dmtiX01ZZU1OUHFaeTBadjd2dkRCOENYLXpFTWxpYWlKa3VnZEJGOURySThSZ2JhSi1leHAxMmoydGw5TjBpc2N5REl4WnJsNmJELUJBcGJvaTJZQ181WXdudzNqM1NCdF8zUzNsTUh2eElaOGplN2piZkdPSW8?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-16T23:32+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -602,7 +602,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「ドコモ、また通信障害＝今月3度目、6時間後に復旧(時事通信)」"
+    "「マイクロソフトで大規模な通信障害世界各地でOutlook使用できず…」"
    ]
   },
   "japan": {
