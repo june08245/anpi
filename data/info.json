@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:18+09:00",
+ "updated": "2026-11-16T09:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -96,9 +96,9 @@
    "items": [
     {
      "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1k4S2xXdnQ2N2J2MDZRb21zOGVSWU94VE5HdGJ1MjFHTWVNWlZFZnE0TmRNQ2hxVXgyTjFiUURBY0QzQVY4TEVnYnU0aUFjam9acW1EMXNXY09iSlYyeUJvbnZsWXhoc1FKNW1TQ3pVZHdmWjdNeW50N1pqSFcxemVYV0RLU2s?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-16T08:28+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSDk0bDNPVXIyVzZEajVvTzdQLUdZMEJRb3hlVXNqZk1xdV84cWlNeW5WTXJONnRTUDZmTmpsd3RsNm9IdHBJby0xTDc1ZHdsS252MUd3SDl0VG9EV0tlalBNRE1BaGp3QmZDUA?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-16T08:29+09:00"
     },
     {
      "title": "イランはウラン濃縮の停止について米国と協議していないと断言",
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮ハッカー集団「ラザルス」、韓国のサーバー３０カ所を攻撃対象に",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UTzFpd3ltT1hTWkNtVTdPTEhVeHhsTGVVT0VOWHBid05LcVhGV2EwbVpWQUxCMks2cDBMbzhLTDF3OGZqSmhhNllIVk90Q3dzTG5YWkVrWjhHQnFuOUxyckZMb2dYQQ?oc=5",
+     "source": "동아일보",
+     "at": "2026-11-16T09:27+09:00"
+    },
+    {
      "title": "【写真】東海岸の海軍基地建設現場を訪問した金正恩国務委員長",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ESHRMdlRMQlNPaDdpTUZJa2VnZTg2VU5vaDd2aG1yYXpmSGVzRUNqOV81OEdRcnV0UWdXWnREdUdubVdSdV9ueUxIUWhBNjhtd2tLeA?oc=5",
      "source": "中央日報",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEhWTzZsQXFuRlRxdS1Yd055UmRSdVRMNlVCc1kxMmRBdEQtbnJQdTh2ZUkyVWE2MmFfeTcxSmZQdmJGWWYxaWRpZDF4UjlYT2pXS0Q3a0k3M0NEVDZUZHRsRXY0QUxkT3JtUGFuSGhjVUlMQ0tTbWp4aVJqUXFFY21BM2lEbkllNWxSVGJB?oc=5",
      "source": "조선일보",
      "at": "2026-11-16T03:00+09:00"
-    },
-    {
-     "title": "北朝鮮も動く…キム・ジョンウン氏最側近、米中ロ会談前にモスクワへ",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeF84M24zdEYyNDdUUXFxekZ5ZV9uM1dId0RtTDFUV1FOYUNoQ1J0WnlIZ0IxQjN5dVpWOFF4VElqSThHLVdxcEtOM0wxNnFjeHNad1JHbW5McDlvTTZaWjlVRE1jenZVejkwM19uMzZBQnJXd0FJM0tuSHJOVF9Cd0w3T21TZw?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-16T00:49+09:00"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシアにおびき寄せた外国人の旅券を取り上げて戦場に…「プーチン大統領」戦死者最大66万人の“穴埋め”は「外国人の人身売買」「報奨金目当ての人狩り」（デイリー新潮）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GY2MyWVJ6Rkl4dFFzU0lWbktPSjh4ZnJBeUlaa0R4ZFl2ZzBqc093T3NLVmtySlltaWJOQ2t6cUhSWFJzS3pvWXFVNnhzb1JFeTl5N0pTRk8tY2xpWFU1ZEN6ZzEzUElJcVFEak5tNk01Nzg3Ymo5VlF0aWJhVXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-16T09:03+09:00"
+    },
     {
      "title": "ロシアがチェルノモルスクの港湾管理機関と変電所を攻撃",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGhmaWpaWU5kenR5RVdHeV9LZFRyNHpfS2NWTWpfbTNwVXRmdEE3VHltbWw0UVg5Ry0wX2FVUGt6TEZmc0U1dkxFSS10RlVkei1WVDJmVVhlVUN5SVJ4VUVmR1R2V0FXUGNTSnZ5bkN3VUIwU0t4T2R2Zlo5Y2FOTE1pa21KbjJGeXNJcGtZYnRlbmJYQTl3cHQxMzlXQnVYRjMtSGFMd28xVVdB?oc=5",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWZIaW9uRU1fZXdnZmtDU25NbENvelBRRzFIZWQ2OXphS08xMUVFTW1ta202aDFRMjh1TTROOTRVNm5PNG1UZWVfR0ljdk10UUJjWEgzYWZabi1nV1F2eGswQk1wcnhFZ3lnTmlRaVc3c2pNcmVpdW53c1NOaDlWZ0dOa09qUQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-16T06:36+09:00"
-    },
-    {
-     "title": "ロシアにおびき寄せた外国人の旅券を取り上げて戦場に…「プーチン大統領」戦死者最大66万人の“穴埋め”は「外国人の人身売買」「報奨金目当ての人狩り」（デイリー新潮）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GY2MyWVJ6Rkl4dFFzU0lWbktPSjh4ZnJBeUlaa0R4ZFl2ZzBqc093T3NLVmtySlltaWJOQ2t6cUhSWFJzS3pvWXFVNnhzb1JFeTl5N0pTRk8tY2xpWFU1ZEN6ZzEzUElJcVFEak5tNk01Nzg3Ymo5VlF0aWJhVXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T06:13+09:00"
     }
    ]
   },
@@ -354,22 +354,10 @@
    "at": "2026-11-15T21:00+09:00"
   },
   {
-   "title": "Jアラート訓練放送 2022.6.15 @Jアラート @訓練放送 @本番では、津波が来るから直ぐ避難。@交差点注意です。 Taylor Heinicke Nfl Retirement (rBrqBvwBAJ)",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHlCQ0JfdDFRZ1ctZGJVVzc3VnJJWjRKRFg0YVNaaUUtQVZDUWpoajZMWGxwOWhEUjlRejNILVNNZUNFdnNFLW9WY0NuZTc4ZzFhbGFFOURad3lmaGxORFAza2tMdUpMRTRrQUVqaVduSjB6RTh0QXJUazVBRzVtcGVB?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-15T20:28+09:00"
-  },
-  {
    "title": "【2022年版】もしも「君の名は」が実在したら...【NHKニュース・Jアラートシミュレーション】 Alex De Minaur (QgXFvDvw4i)",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGhmbDBSaHlCZzJHVGtLNU1BbFNySWxZb0hVcnFnTTVvYjBzRkpsT1kyQklUSm1idThDWGlVaEljc281SlRvVlZRY1B3LTJnZTFDWWVIeW1HdW9qSERoYS1uOFlTQjczajF3dEVLUWFQM2tjYTZ6MXdFMjdoRkhwSkxBcw?oc=5",
    "source": "Unisba Media",
    "at": "2026-11-15T11:38+09:00"
-  },
-  {
-   "title": "令和最初のJアラート全国一斉情報伝達訓練放送 Shakira (uY9Fa2Ec2E)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHhHUnk2Yk02a1pYOWsxWHQyekNvSnc4bW1LX0FDLUwyZTVJVlZPMWlhbFU4c2l5N2dYWVIybWJZUUptVWpaNDE0OVc4WXk4MlVKbVR2VXNZcTd4T2dxSlRsVEl6Y3lJUEJPSjA1TGVNeTlJM19hOW1SdFM3d0c1MUx5X2FvU2M?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-15T11:09+09:00"
   }
  ],
  "cyber": [
@@ -474,6 +462,20 @@
  ],
  "world": [
   {
+   "title": "北朝鮮ハッカー集団「ラザルス」、韓国のサーバー３０カ所を攻撃対象に",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UTzFpd3ltT1hTWkNtVTdPTEhVeHhsTGVVT0VOWHBid05LcVhGV2EwbVpWQUxCMks2cDBMbzhLTDF3OGZqSmhhNllIVk90Q3dzTG5YWkVrWjhHQnFuOUxyckZMb2dYQQ?oc=5",
+   "source": "동아일보",
+   "at": "2026-11-16T09:27+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシアにおびき寄せた外国人の旅券を取り上げて戦場に…「プーチン大統領」戦死者最大66万人の“穴埋め”は「外国人の人身売買」「報奨金目当ての人狩り」（デイリー新潮）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GY2MyWVJ6Rkl4dFFzU0lWbktPSjh4ZnJBeUlaa0R4ZFl2ZzBqc093T3NLVmtySlltaWJOQ2t6cUhSWFJzS3pvWXFVNnhzb1JFeTl5N0pTRk8tY2xpWFU1ZEN6ZzEzUElJcVFEak5tNk01Nzg3Ymo5VlF0aWJhVXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T09:03+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "エストニア、ロシアとの国境を12月から全面閉鎖 防衛企業の放火未遂など破壊工作に対抗（産経新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpZWhjV0JCWlM0TTJpUy1EV3lvVHczUVE1SjJuWVlDMGlxQktYenp6QTVLQmllRFVIS2prZ1RGdzFCNW9EbjZFQ3VfRVF0S05ON1hEc3ZySkFEVE5Ddy1Vb0tSLV96RW1uOHNTX0R1ZkFFX0RMS0trcmk0bXRoY1U?oc=5",
    "source": "Yahoo!ニュース",
@@ -496,9 +498,9 @@
   },
   {
    "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1k4S2xXdnQ2N2J2MDZRb21zOGVSWU94VE5HdGJ1MjFHTWVNWlZFZnE0TmRNQ2hxVXgyTjFiUURBY0QzQVY4TEVnYnU0aUFjam9acW1EMXNXY09iSlYyeUJvbnZsWXhoc1FKNW1TQ3pVZHdmWjdNeW50N1pqSFcxemVYV0RLU2s?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-16T08:28+09:00",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSDk0bDNPVXIyVzZEajVvTzdQLUdZMEJRb3hlVXNqZk1xdV84cWlNeW5WTXJONnRTUDZmTmpsd3RsNm9IdHBJby0xTDc1ZHdsS252MUd3SDl0VG9EV0tlalBNRE1BaGp3QmZDUA?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-16T08:29+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -586,13 +588,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシアにおびき寄せた外国人の旅券を取り上げて戦場に…「プーチン大統領」戦死者最大66万人の“穴埋め”は「外国人の人身売買」「報奨金目当ての人狩り」（デイリー新潮）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GY2MyWVJ6Rkl4dFFzU0lWbktPSjh4ZnJBeUlaa0R4ZFl2ZzBqc093T3NLVmtySlltaWJOQ2t6cUhSWFJzS3pvWXFVNnhzb1JFeTl5N0pTRk8tY2xpWFU1ZEN6ZzEzUElJcVFEak5tNk01Nzg3Ymo5VlF0aWJhVXM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T06:13+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "エストニア、ロシアとの国境を封鎖へ ドローン施設への爆破未遂受け",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fRlNwalVRdWp2aGY5enRhNUthZ05fWHlkRUZkVDdtUkFTNkoycTRNbFlkYjU0UDF6SEc5Y1RldEZyU1JMVVMzRWZmM3RRX0RTNTE2REQzREVqMnBLNnpFR1V1aW1qNjg?oc=5",
    "source": "朝日新聞",
@@ -604,13 +599,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2RkbW02QUQtYVVBaWpmZngwTVFjT0xpQlR1dEtRUWxEdzNLUHF0QnpXNUJMajAtYm5tSnJacWp2bWlBNGJmaGg0VWtvWFV1M196Y3huY05wNVFJV3BjazA5bGo3Uzlrb2U4TVRFNmFBZ1hFLXB6dk1xLWZMcnMybWxvU1Vqa01R?oc=5",
    "source": "조선일보",
    "at": "2026-11-16T05:19+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮、英才教育でハッカー量産 サイバー攻撃にＡＩ駆使、核開発資金に",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OMlo2dW0yRWp2R001WUhDbnpobHViRk9saHY3Y1M3ZnhuVWJ1X196NDNqa3Vtbzd1SFU2cE1QZHRhTmxsWVBBNVRSeFAyenJuZ1dsYWVpTC0yZVU?oc=5",
-   "source": "山陰中央新報デジタル",
-   "at": "2026-11-16T04:00+09:00",
    "topic": "北朝鮮"
   }
  ],
@@ -631,22 +619,22 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「空爆」4件",
-    "北朝鮮：「攻撃」「ミサイル」2件",
+    "北朝鮮：「攻撃」「ミサイル」3件",
     "ロシア：「攻撃」「侵攻」4件",
     "欧州・NATO：「封鎖」「破壊工作」5件"
    ],
    "items": [
     {
      "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1k4S2xXdnQ2N2J2MDZRb21zOGVSWU94VE5HdGJ1MjFHTWVNWlZFZnE0TmRNQ2hxVXgyTjFiUURBY0QzQVY4TEVnYnU0aUFjam9acW1EMXNXY09iSlYyeUJvbnZsWXhoc1FKNW1TQ3pVZHdmWjdNeW50N1pqSFcxemVYV0RLU2s?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-16T08:28+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSDk0bDNPVXIyVzZEajVvTzdQLUdZMEJRb3hlVXNqZk1xdV84cWlNeW5WTXJONnRTUDZmTmpsd3RsNm9IdHBJby0xTDc1ZHdsS252MUd3SDl0VG9EV0tlalBNRE1BaGp3QmZDUA?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-16T08:29+09:00"
     },
     {
-     "title": "北朝鮮、英才教育でハッカー量産 サイバー攻撃にＡＩ駆使、核開発資金に",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OMlo2dW0yRWp2R001WUhDbnpobHViRk9saHY3Y1M3ZnhuVWJ1X196NDNqa3Vtbzd1SFU2cE1QZHRhTmxsWVBBNVRSeFAyenJuZ1dsYWVpTC0yZVU?oc=5",
-     "source": "山陰中央新報デジタル",
-     "at": "2026-11-16T04:00+09:00"
+     "title": "北朝鮮ハッカー集団「ラザルス」、韓国のサーバー３０カ所を攻撃対象に",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UTzFpd3ltT1hTWkNtVTdPTEhVeHhsTGVVT0VOWHBid05LcVhGV2EwbVpWQUxCMks2cDBMbzhLTDF3OGZqSmhhNllIVk90Q3dzTG5YWkVrWjhHQnFuOUxyckZMb2dYQQ?oc=5",
+     "source": "동아일보",
+     "at": "2026-11-16T09:27+09:00"
     },
     {
      "title": "ロシアがチェルノモルスクの港湾管理機関と変電所を攻撃",
