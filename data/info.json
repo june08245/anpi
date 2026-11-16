@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:30+09:00",
+ "updated": "2026-11-16T15:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -355,6 +355,12 @@
    "at": "2026-11-16T04:39+09:00"
   },
   {
+   "title": "ゼレンスキー氏、ロシアによる新たな弾道ミサイル攻撃の可能性を警告",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjBLZzlVTGd3UHMtS1lXTTYzZkFQOG91QWp5NzlNNVNEalRGMG94Q29KMEp6ODAwQS1zM2EwY3ZXcVlaTkxtMjBmYVFPQnhHTkZMN1RXNElBTERQYXZ1SDRCelUzM3JBYWJrQlFPOTNWVmF2a1hhYXRzUmRhRThPT3B4WlVUcjB0VmVLcnBzWGZMbUtKMUJ3U29tc0Q?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-15T22:34+09:00"
+  },
+  {
    "title": "弾道ミサイル攻撃に備えて地下施設が〝命を守る〟施設に！国や自治体が進める「地下施設シェルター化」計画",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WY0dubkdYSVYxVXhuOFdteTEyMnA5UVdrSnpmYVQwYkhNaWpadGtGLW83enh3dkozZ2VhcEdkaWJJNDBO?oc=5",
    "source": "@DIME アットダイム",
@@ -368,6 +374,12 @@
   }
  ],
  "cyber": [
+  {
+   "title": "「原因はクラウドサービス関連機器の故障」福岡市HPの閲覧障害　市長選特設サイトも閲覧できず",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0MnRJQy0zOVJHeGg3SVV3R1NxbG9DMnFVeHNIZU01NEpPTmJnbkRDR19SU01fNUY4akZFRDc4TkhmRVpoeXVpa0ZYaUNjWVpTYWhVc0N4MGdBdVFXZjk3VWJkOUVFaFZhQjFPNtIBckFVX3lxTFBHOENkMmdObGdqSGlHOGxieFhoMktTZ0RGSlZJSEl6QmhHS0NMTEVOeVp6MnVOVnhuRkJMM2gyUUpLQVh5SDJTMmtKUDR2OXpCU3ZrSUZjczUyYTVHMk1wWnQ3RGZ4ZVlGb1NKUElSaHdQQQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-16T15:31+09:00"
+  },
   {
    "title": "【ヤフコメで話題】「ドコモの通信障害が相次ぎ信頼性に疑問」「利用者から補償や抜本的対策を求める声」 - 繰り返される通信障害に不満と不安が広がる（Yahoo!ニュース オリジナル THE PAGE）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YTFgyRVlFVUExcUdudlJtR3F0WjR1WDlBVkZJLUVlVm9mVVAyVUJQd3dnT3pjdFNVcEpIaWc4RXZHWkVBYU4tQ0ItSmd4dTMwQ1hCTHhvRHd4NXUxYTZ5eGd1YXpReWpHNDJVMm1Wa0txZWFNUlYzcEdjUmNtdWs?oc=5",
@@ -423,40 +435,34 @@
    "at": "2026-11-16T13:50+09:00"
   },
   {
-   "title": "ドコモでまたも通信障害、11月3度目 (2026年11月16日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sTmtTZ0ROVlhTSFNuT2JXYTdmN2RrVzNfMXNfb2RrcURDVEpxUWp2Rl8xSkEwSVBTMkctLXl3WjVNczA1cDRId0F2V1ZLcTVGRmQybXNOOHhDQVFIc2c?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-16T12:57+09:00"
+   "title": "米国全土で航空網が一時停止、老朽化した通信回線の更新作業中に障害が発生した可能性",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vNXlTSlBwUTVPOEdtWlJXakVpM3FsZGRIWWdFLW9UbUxGbWo1NFE2dHhRUHdzNUl3MXVpZjJRWVU2cGJTLUJLTi0xN2I2Z2pWYlFTWUNtaFdQZHJBWk9VV016T2xWQVFib25J?oc=5",
+   "source": "INTERNET Watch",
+   "at": "2026-11-16T13:08+09:00"
   },
   {
-   "title": "【通信障害】ドコモで今月3度目の障害発生、全国のユーザー対象で原因調査中",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BYWV5UmlhV0NncWZTeDJzNzFJV01CaWlTODVHVng4WXE1eUpYWTNmUnA0TzlUNW5qd1JnZ0xZXzBFbHpsazZCZ0M5akl0VTZId1lGRnNEb1FRVGowV1Jja1lMa1hjM1ExQVB5SkwzMHZuTmhpTWExazZyY1hBQQ?oc=5",
-   "source": "Buzzap！（バザップ！）",
-   "at": "2026-11-16T12:56+09:00"
+   "title": "神戸市「e-KOBE」でメールアドレス85,707件が漏えい アララへの不正アクセスで申請通知メール停止",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWU5uRmFOSzV6R3VJSm02dTRRY1FHVmZWa2V4SFVqT3pqRUpyY2NGRmFidGdYMGdaYk9BY1htVTNRa012WkozZWwwMEwzMkRMbmNaVGpmdnVqM3JwcjBNdV9jRXc3bHJEM2FmUUNqd0RXWjRtaXdnWEdiQ2JBVGl3cG0yT2RfT0VVRnBB?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-16T15:30+09:00"
   },
   {
-   "title": "スパコン「富岳」に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSkFRN3E4SEJVVXBqSzBmM2tEemVtVjRxVVoyMldSZkxRNzI5U251b0VIeDRYSkk4a2ZZdU8wWkdwSE5zZ0xsdWxYQXdVbTZZQzRUcHZLYjYtVEJ4ekIzQ3NNNnlXLVNNNG55SE9rWHI1WGx1ZmhKdkNNdElxSXBnYlNCNWtVVlpmZ256MXJkV3dYb292NXRmQi1oLU3SAY8BQVVfeXFMT2xvblFITXdWeV85RmR1QlBRUE1kM3VhV0FpazRhYkRkSmNqM2RIZmx4STMyQVpvNExkRWtOV2RGbEk1VWpWZjc3X1hSQ3JBTkdkZkk0OWxzRmkxS3haUmo2WUZrb2dBUS05U1pKOUkyWTVDaHI2cHBzcko3NDVsdzB1cWtvaWVpRElwTVJ3S1U?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "【速報】日清食品 LINE公式アカウントに「友だち追加」していたユーザーIDやアカウント名137万件超情報漏えい 外部サービスに不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RckIzajk3T2pTclJyV19INTRDV1dwZFFOZXkwZlQ5dW04bWpGUHZzeFYzUFFFck9RV2ZvalNmN3YzOVdkYmt1VFp4bnc5MTQzVURBNGtEdlRvUkJy?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-16T15:29+09:00"
+  },
+  {
+   "title": "スーパーコンピューター「富岳」に不正アクセス 情報流出の内容は「確認中」 理化学研究所が回答",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvS2NvcTdTR3RZTG92OTZXd0tNQmJjMDJPN0VQUnNIUmNCQzRKNUhSMUdkc3FSN1oza3EyTFduaEpIemlzdXZTdTlTNnJhYjMzOWp4UVA4WQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-16T15:25+09:00"
+  },
+  {
+   "title": "【速報】スパコン「富岳」に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44VzNRdGlaZ0pWOVVqYW52WTJfN2gtUkFxM3M4bG85dHNrUnhXdWsyVWZfZjVIS0xvTEExR0lJb2txZHBheXhHTzRUTQ?oc=5",
+   "source": "47NEWS",
    "at": "2026-11-16T15:14+09:00"
-  },
-  {
-   "title": "関通、サイバー攻撃の教訓を事業化し評価",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13dGVZNmZyd3dYdWpycEg5R1hJZGxUeVhBOEYyX3lEVl9UTnExTmpYYlBRWjlFYnZEZ1pXM1RJakpGekVZZ1g5YkdB?oc=5",
-   "source": "LOGISTICS TODAY",
-   "at": "2026-11-16T14:58+09:00"
-  },
-  {
-   "title": "キリンビール、オンラインショップ会員のメールアドレス5万9千件が流出 委託先アララに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yT2d3eGo2OC1yWDFXTFVRNVVyOFM2WkRZeU1abFM2eGtPNGk5TmZKMEkyeTNJTk1qM2NYZG12Uy15SENJbWd1dlJCV1hkSjNKOXV6ZGRjZmpDM0IzRGdKbFpBcWxSVkhOYjJKZ2FJRTE2eWpD?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-16T14:55+09:00"
-  },
-  {
-   "title": "香港のディズニーで不正アクセス 電子チケット盗み取られたか",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nTVYtaThnODNPY2ZySzA4MXBZR2JOU1ZVQkE5ODVkRG9LdVBOdWdWQWg1a1M2MzQ2b0t4WHY3ZUZfZ3dBTXVKY0U4dXJqQndOaUd2YnotVDliMmF1Y0Vn?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-16T14:54+09:00"
   }
  ],
  "osaka": [
@@ -470,7 +476,7 @@
    "title": "開幕3日で異例の完売…大阪の名物イベントで「マグカップめじるし」人気爆発、ネットで高額転売相次ぐ",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9laUMwSFhwNk44eGNUM2UzOHFVZ3QtV25YYWlFaFhLUzBDeWVqaWRqakVBR200cWhsNmt1MmNhcEs4WVdRTGdYYjU3bWhZcGhrZG1GcQ?oc=5",
    "source": "Lmaga.jp",
-   "at": "2026-11-15T21:35+09:00"
+   "at": "2026-11-15T21:05+09:00"
   }
  ],
  "world": [
