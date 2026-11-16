@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:15+09:00",
+ "updated": "2026-11-16T16:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -288,9 +288,9 @@
     },
     {
      "title": "エストニアがロシアとの国境閉鎖へ、防衛企業への放火未遂受け",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4aVdXTjBSMjBST1Bha0hmWVRFdUhxR2EwcHJXbWxPMTNpRURYZXZFeEFlTHBzRWpqRUNpM1BEaE0xQjF2TlB5Yy1oZzR3eVBJWDdkSVRFdFdNdFA3VVlFY3QyMFrSAWRBVV95cUxQeGlXV04wUjIwUk9QYWtIZllURXVIcUdhMHByV21sTzEzaUVEWGV2RXhBZUxwc0VqakVDaTNQRGhNMUIxdk5QeWMtaGc0d3lQSVg3ZElURXRXTXRQN1VZRWN0MjBa?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-16T10:01+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Oc1VfNTgxVW42NlRjWmVIQnF1VUJhWmR1WHJ1WUhRZ2x4Qy1Rem1nb0FzTUg4UF9nNGlZcWxVM2hKVFBIYUZNZUt1WTBURVVneHfSAVRBVV95cUxQazhGZ0ZLYS1ScFZIaDlqNm52SUZGY3haTVgwUDhGNEpBc1dLYWdOQWs5WktQNC01d25TRm9OcXRoeXlIbzlzTFdhMWRwdC1TQUU3Nlk?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-16T10:07+09:00"
     },
     {
      "title": "エストニア、ロシアとの国境を閉鎖へ 破壊工作を計画とロシア政府を非難",
@@ -349,12 +349,6 @@
  ],
  "japan": [
   {
-   "title": "Jアラート誤送信で謝罪 原因は「訓練の情報消去せず」 Spain (k7MZAyO8Qp)",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEtKeThGVXJ0VTVMRFdQQmVoVE1HbzZJNHVuczQ1NnBVYUUxRFR5cHpzTU95X1JkU3dzcnJqZ1JXMTc5LVZzMVhVMUVtTzBkd1JjOVZ4dDVjelE1WWVvTDdOQmFIZk5JQjhBdnZPcjVwbHE1M1VJbkl6cVBlWlJNeWk3QmltT0dESXc?oc=5",
-   "source": "Unisba Media",
-   "at": "2026-11-16T13:53+09:00"
-  },
-  {
    "title": "ロシアの弾道ミサイルの脅威を受け、ウクライナで空襲警報",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXJrQy1QNndpQXQ4YWVlQ29PaXlJcDA0UXVGSklXek5JMngzdi1IUzhWV00xZUItSWszS3c4SUw2bFpUZVc1UENWMV9raXk4X3Z5LVNZMDN4cVVLRmk1RHNNMVFER3Z3SDhDa0RRa3ltTllITV9pQWItbTNBRmFNcHFGdUh4Si1DVDdieUxJMjVoWE5pQnNZ?oc=5",
    "source": "Mezha.net",
@@ -375,10 +369,16 @@
  ],
  "cyber": [
   {
+   "title": "ドコモの通信障害“約95%復旧” 「5G SA」サービスで障害発生…今月だけで3回目",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aa0dObkV2MkJLeTJUakVRcE9MQXQyNHNYbDNuVHNJWTdiaUF4cDBuYzNrTjFXUkRlRzNyNWVmVUY4aXJ3SV9RVER0Rko5M3owUUN5TW5IdklXT3FsdHhBdW1maEtRb1FYWXh1bXVn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-16T16:22+09:00"
+  },
+  {
    "title": "NTTドコモ「5G SA」で全国で通信障害 95％以上の利用者で復旧 障害は今月3回目",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByQ1haTHBRYW0zanp1VXU5VF9HNXh2dzNQOWxZclpaSHpqR2M3bnhhMXFiMU42dVJqQmtfZVJwTlZueEQxSDg1cGFoTTJYSHFfQTdYRDVZaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-16T15:54+09:00"
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iNDFNN2k3M1JHZG5VeEdqSld5T0pkRmppRmRTODFvZTV6TDkxemhsZHNqYk4zUEVKRVdFWDZLbkpDaFBYS1BRaXRWUU5PNXN3UWtqelFTN0lTYnROaGQzUVdVblRZQ1NHR3RxTXdwaW1HMDQ?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-16T16:08+09:00"
   },
   {
    "title": "「原因はクラウドサービス関連機器の故障」福岡市HPの閲覧障害　市長選特設サイトも閲覧できず",
@@ -417,10 +417,10 @@
    "at": "2026-11-16T14:05+09:00"
   },
   {
-   "title": "ドコモ、また通信障害＝今月3回目、全国で(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2ZFaDRyZndyVGNjSWo3SjREQVBfSHJHR2w4Z01obWJBWWxyeDYyNGdvdHRJZDVxRXl4dFNveWtFVlNDZXpIN2JXYlZQU1BfeFJfMGVwZG5KQTB4bFBzRHU2UjBYUFBZZVAyOEw5Qk5VWUZwMjRNdnFpWTRfTTZ4M1ctTGhKM2c?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-16T13:54+09:00"
+   "title": "【速報】スーパーコンピュータ「富岳」に不正アクセス　理化学研究所",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NcGhlUFRfRTEtaURaQlFkNmppNk10dmluZlRqTDRfc2VOLWtRTFNZYzFfVzNCclJGaTRyWDhhWW5UcXBKNXEyMHhjQVNHck1uUWR6MEJOdmpxVV9QQS1iUURiakdqQmVfZ0VLZGlvVDZvSlJLX0dNcnlR0gF_QVVfeXFMT09wajNQckZ0bFlWMm04dnc2YUlPcDc0bnBBYm85aWN0TnYtRG1wTkFsU0xFV2llTFQyV1poNFlIdjY3SDJLakpfX3VSQW56dnN4ZURhOW03OVNlU1NTaXZYVzFGV05qYm1hZDh3V29mcU9zNThWSTFaWjlhRVBnTQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-16T16:14+09:00"
   },
   {
    "title": "【北朝鮮サイバー攻撃】英才教育でハッカー量産 ＡＩ駆使、核開発資金に",
@@ -457,12 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oUk9TWkxLTXpKQ2puVk1PWV9mdnhHdXNLb1JNVGRfTHNieEdIYWRPeTdER296MjRZVUE5NndhWmIwWk9jcVRhMXpsaGUySGhoRjQ5X2NSb1k?oc=5",
    "source": "京都新聞デジタル",
    "at": "2026-11-16T16:06+09:00"
-  },
-  {
-   "title": "サイバー攻撃は「被害が出る前」から始まっている...政府と企業が今すぐ取り組むべき「3つの対策」",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93NlVWT1dINTMxa3VpRWNRcFIwcUFZcEQxSVktdlE4OVVmZ2NQODNiQi1QNkM0c2ZIekh1R05LS1BsQWtNY1BiVXFPTGN4R3V6RnhtTDh0MHpfZw?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-16T16:00+09:00"
   }
  ],
  "osaka": [
@@ -626,7 +620,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「ドコモ、またまた5G SA通信障害。今月3回目、12月には値上げも控える」"
+    "「ドコモの通信障害“約95%復旧” 「5G SA」サービスで障害発生…今月だけで3」"
    ]
   },
   "japan": {
