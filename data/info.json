@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:30+09:00",
+ "updated": "2026-11-16T13:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,26 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-16T13:28:00+09:00",
+   "place": "静岡県東部",
+   "mag": "2.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-16T13:24:00+09:00",
+   "place": "石川県能登地方",
+   "mag": "5.1",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-16T06:08:00+09:00",
    "place": "愛知県東部",
@@ -67,26 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-15T13:16:00+09:00",
-   "place": "渡島地方東部",
-   "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-15T06:31:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -94,6 +94,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
+     "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-16T13:40+09:00"
+    },
     {
      "title": "イラン、バーレーンの米軍基地をドローン攻撃",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RSWtXMnNXRHZGMEh4cG9WbmJOYzI0T2JidkdJNzVxTkJnTE9YdURXMkxJeWV4ZmllcjZudHJEaWx2WHd6LWI0WnNkSVV1a0Q3QkVYMU1ldjcydWpvMXRGY9IBZkFVX3lxTE13WGN4MlFKS1MyUk9YWXUtb1QwaXBuSmQ5THNMWTQyQUh0b1dDdmNXb1hrQlh0anVnc0ZMQm44M21OcDFqcXNWNFM3ZndCSWk5VmplRGpBTnQ2S3owUGs4QjhyWXZ4Zw?oc=5",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1k4S2xXdnQ2N2J2MDZRb21zOGVSWU94VE5HdGJ1MjFHTWVNWlZFZnE0TmRNQ2hxVXgyTjFiUURBY0QzQVY4TEVnYnU0aUFjam9acW1EMXNXY09iSlYyeUJvbnZsWXhoc1FKNW1TQ3pVZHdmWjdNeW50N1pqSFcxemVYV0RLU2s?oc=5",
      "source": "Reuters",
      "at": "2026-11-16T08:28+09:00"
-    },
-    {
-     "title": "ネゴシエーターの責任者は、イランが合意または戦争を準備する用意があると強調した",
-     "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1BU0FHb0JuVjhieTVIZ19UcFk1dk9fWHhLYy10eV92dWVpZTRDcXlrb0ZpTmczRG1wNURHUmdiakl6N2PSAUJBVV95cUxPZmNSQmlsVEQ4R3lRekliMnc1MDFQLTE4VXVPMlFDeWpwNUd2RTA4S2YxYUh6eEl6RGZqdmJtLUtCYWc?oc=5",
-     "source": "VOI.ID",
-     "at": "2026-11-16T08:00+09:00"
     }
    ]
   },
@@ -392,28 +392,10 @@
    "at": "2026-11-16T12:45+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害 高速通信サービスで今月3度目",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoVVEzS29kUFJjYndFb1d4SnlwSkljeDJRSWhibnlBczBaVDZFTVZoRGhnRjRQaU9jSUFkMzczMzNLbl9vb3UyN1k2X2ZKaXJYQ0lLX2JnWkxZRk9QZnc?oc=5",
-   "source": "新潟日報",
-   "at": "2026-11-16T12:40+09:00"
-  },
-  {
-   "title": "マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrNmszQlBPZkxGdTQ1NXhoX0prQkVEanpDaXZOZ3ZONXpIaTdranQ1VEhYb0FkSU9VMlF1Q0ZjU1NYWkU5NU5LbWJMcV8zVXNFX1VqWnFR?oc=5",
-   "source": "KAB 熊本朝日放送",
-   "at": "2026-11-16T12:30+09:00"
-  },
-  {
    "title": "NTTドコモ、また通信障害 今月3度目 5G SAに影響",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHplNzMzOUJKYTJhRUVVdWFTdWk3ZmZmTFhSMlBlVHBMODVvUjBJNDB3ZUVaY2x3LW5UUWNBVy1UV2hzNk9vYjRxZVFYSWkxUHg3VEJDdzV4YTBBUkdQQ0pXWUFtZHlSRF94Q3pDVXVoTU1UZFZmUHZTdGdJekRwRA?oc=5",
    "source": "UQライフ",
    "at": "2026-11-16T12:26+09:00"
-  },
-  {
-   "title": "ドコモ、今月3度目の全国的な通信障害 またも「5G SA」のみ、4G切替でつながる可能性案内（オタク総研）",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlpNU1J5am45LUcwaVlXQ0phT0IyQjU0VFFiSmJYNVJEeExHVXJyUUI4N2hOQm9jeVRhRWdENGVPVnNMeE4waE5rTEloS3N6MUR6bXNZZ3Q4UXNFaTVrRFl1WG84VTlfQmVPVnV3QmI0aTBJVE9rYzl0N3Z4Q1pkcWFmVVV2czdZd19NRGF3?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T12:24+09:00"
   },
   {
    "title": "ドコモ、今月3度目の大規模通信障害 今回も「5G SA」契約者のみで全国的に発生",
@@ -453,9 +435,27 @@
   },
   {
    "title": "ドコモ、また通信障害＝今月３回目、全国で",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xU2llajctNDZfMkczbmxUUnVGa0syX1JzOWVKWktnQWxlZ2dzcUgwYkdVQVlUdnBST05ZYXZXQU40RUVHX29WaVhpclpncUZJSzVwOTQ5OVk5TGM0WnQ3WTF2TG02YmgzNlRz0gFrQVVfeXFMTjFTaWVqNy00Nl8yRzNubFRSdUZrSzJfUnM5ZUpaS2dBbGVnZ3NxSDBiR1VBWVR2cFJPTllhdldBTjRFRUdfb1ZpWGlyWmdxRklLNXA5NDk5WTlMYzRadDdZMXZMbTZiaDM2VHM?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KQnpWdzBLcUFiazFRaFdKa1VuV2tBaVk4QzVVWWhqbTk2RzRNandfVEwyUkFWMlhSRU9tdTBySUpfSHNzUUVXeC10aVdHWUtoMDU5NQ?oc=5",
+   "source": "時事通信ニュース",
    "at": "2026-11-16T11:54+09:00"
+  },
+  {
+   "title": "ＮＴＴドコモが今月３回目の通信障害、「５Ｇ ＳＡ」で通話やデータ読み込みに影響…サイバー攻撃は否定",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96aWY2OHhmY0hpaVl2eTlPNzFUVUQ2UWlLRmgtd2YyMFBURTdQZFNVVVBHNE9JZGpHT1JOUU5uWE1MNVNsdm55dmdJUFB4UjloZjB5YkNfdWUzVkE5OUg3VmVtOWs?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-16T11:53+09:00"
+  },
+  {
+   "title": "NTTドコモ、11月16日10時2分から全国で通信障害 5G SAの通話・データ通信・SMSに影響、今月3回目",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGVNdXlHaWRBdmVvSTA4Zk4wN0hsT09BVzI2bTR6bHRwQ1N6STV6TURsVmFLZDJmRUxKczdIZExyNW0zVVlTUFdySlRIMnNPWHhaR0Q0dDFQS0JSTHJENVlLZUxfUW1xaFA4MU9ZQkVhSWNMTVFXYVBtT1hiTlJSdnlOa1RQb0E1MlFKdzBSaExaVWRFV1FqWGh4Rnk?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-16T11:52+09:00"
+  },
+  {
+   "title": "ドコモでまた通信障害 SNSでは「今月分を割引して」の声も",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RLWRWcHNoVTNlTHNudm8wMHpnelNZSWpDM2k5WXk4cEpZNl9ESmRNVGszNHQ1aGh2cHVZNG00MENSNEFMMnlBVw?oc=5",
+   "source": "emogram",
+   "at": "2026-11-16T11:43+09:00"
   }
  ],
  "osaka": [
@@ -473,6 +473,13 @@
   }
  ],
  "world": [
+  {
+   "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
+   "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
+   "source": "アラブニュース",
+   "at": "2026-11-16T13:40+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "止められなかった北朝鮮の核開発、日本はどう備える？",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XampZVzBBYm53TnVHUEJCamJ4RmJCbFFacDBqZ24tVXZzRC1QMno5YlpoRTFFVEdjd005ZEdEbXNmZW1NV0ZpZEs4d3BFN0JraWxqd2R3Xy1SQQ?oc=5",
@@ -605,13 +612,6 @@
    "source": "産経ニュース",
    "at": "2026-11-16T08:35+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ロシアがチェルノモルスクの港湾管理機関と変電所を攻撃",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGhmaWpaWU5kenR5RVdHeV9LZFRyNHpfS2NWTWpfbTNwVXRmdEE3VHltbWw0UVg5Ry0wX2FVUGt6TEZmc0U1dkxFSS10RlVkei1WVDJmVVhlVUN5SVJ4VUVmR1R2V0FXUGNTSnZ5bkN3VUIwU0t4T2R2Zlo5Y2FOTE1pa21KbjJGeXNJcGtZYnRlbmJYQTl3cHQxMzlXQnVYRjMtSGFMd28xVVdB?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-16T08:30+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -630,17 +630,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」3件",
+    "イラン・アメリカ：「攻撃」4件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「侵攻」5件",
     "欧州・NATO：「爆破予告」「破壊工作」4件"
    ],
    "items": [
     {
-     "title": "イラン、バーレーンの米軍基地をドローン攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RSWtXMnNXRHZGMEh4cG9WbmJOYzI0T2JidkdJNzVxTkJnTE9YdURXMkxJeWV4ZmllcjZudHJEaWx2WHd6LWI0WnNkSVV1a0Q3QkVYMU1ldjcydWpvMXRGY9IBZkFVX3lxTE13WGN4MlFKS1MyUk9YWXUtb1QwaXBuSmQ5THNMWTQyQUh0b1dDdmNXb1hrQlh0anVnc0ZMQm44M21OcDFqcXNWNFM3ZndCSWk5VmplRGpBTnQ2S3owUGs4QjhyWXZ4Zw?oc=5",
-     "source": "BBC",
-     "at": "2026-11-16T11:59+09:00"
+     "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
+     "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-16T13:40+09:00"
     },
     {
      "title": "北朝鮮連係ハッキング組織「キム·スキ」と疑われるハッカーが国会議員室選任秘書官を詐称しセミナー参加者を狙ったサイバー攻撃を試みた。16日、国内セキュリティ企業のジニエンスによると、攻撃者は今年9月に開..",
