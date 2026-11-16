@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:22+09:00",
+ "updated": "2026-11-17T02:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -167,10 +167,10 @@
      "at": "2026-11-16T15:11+09:00"
     },
     {
-     "title": "米国、韓・日など同盟国とAIサプライチェーン共同防衛…中国牽制「パックス・シリカ」拡大",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFF6WlNiSlR2bElvR3NobEdDdTk1RHktdlpfbUxTZHY4VTVJVlg4VnFIVGFsT005QUhqNV9BREZpdk1aUU40UlFvTWVTN3Nna2VwSE9OOGZlVXV0dkM0M1hyMUdBVTAxX1JXRnl4N0dKQVp4ekFVUnhXQTNXSDg2RmE3b1Z3OTjSAYwBQVVfeXFMTlFjaWd1eWNaNndVYlJWTWVZbjh1ZWhaVWdHRnpaMGV1a3huN1ZxX0R5SmRXQ0pOdkltYl9TM3Y3Sl84aW5HZjBwSXg3bHBDOUcxY2prd3pQb1pkaEJuMTl2LUo2QzNxb05XUkowWFlUYlMzT3VLNEd1ODU5b2haQmIzNS1vemxyQjMxS0w?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-16T13:16+09:00"
+     "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
+     "source": "Taiwan Today",
+     "at": "2026-11-16T11:08+09:00"
     }
    ]
   },
@@ -221,9 +221,15 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
+     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
      "source": "テレ朝NEWS",
+     "at": "2026-11-17T02:25+09:00"
+    },
+    {
+     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LZzBxMHJVdU5EU3NQN1Iwdm9nZ2V6T3JwZ0lmNXVDckVTZjhSMGFXdGNHTGFGZXNWZ2JJY250S0V4NkppelhwbmJCdHZ3S2Rac0FqQ1VB?oc=5",
+     "source": "KFB福島放送",
      "at": "2026-11-17T02:07+09:00"
     },
     {
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS25wSFNaaFVaTkV4VlgycG9CeEMxTmh0eVhUX3FPX19TdmFXaTE5bmJlaWxOLVozdTM5YUFGQWx2Q09MWTN1YlA5S2JDbHYwYnhIT2NEMnlZOGtUWEJVWGU0eWdXVERWYUVzNlZwWDdYcGY4ZnllYkxNU2hOcWhfcmRXRHJTUQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-16T20:28+09:00"
-    },
-    {
-     "title": "ウクライナ、ロシアに最大規模のドローン攻撃　橋や製油所標的",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kUm54ZXZSS0VqcXdOa0hCQkh1cV9JSGdjaUlFRlI2ODVmOERkTjZiazcxNzZxSUlsWU1ySTR3djVBMDNtYlA4RGNxbE9sNnJvMEh2WjY0Vi11QnBDZ21rZjdmcGc5S1BmRnZyTFdfNWVYaGRTX3JuX3Njd3c5QdIBgwFBVV95cUxQQm1qb0poY1Y5N2piU3BqQTI1QzhGZW5GcFRUdXU5bWI0LVh1V3RXdUp6ZHQyQUJmYXNTVHhrcHJzdTc1enMtSjVlZHFUWDlxRXJTT2FVNlZDWE1iR25uMXU5amhOT01aVzA2bnRzazd3cW93MTRPS0dFRkJ1VFJHMWVjTQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-16T20:27+09:00"
     }
    ]
   },
@@ -349,6 +349,12 @@
  ],
  "japan": [
   {
+   "title": "Jアラート誤送信で謝罪 原因は「訓練の情報消去せず」 Spain (k7MZAyO8Qp)",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEtKeThGVXJ0VTVMRFdQQmVoVE1HbzZJNHVuczQ1NnBVYUUxRFR5cHpzTU95X1JkU3dzcnJqZ1JXMTc5LVZzMVhVMUVtTzBkd1JjOVZ4dDVjelE1WWVvTDdOQmFIZk5JQjhBdnZPcjVwbHE1M1VJbkl6cVBlWlJNeWk3QmltT0dESXc?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-16T13:53+09:00"
+  },
+  {
    "title": "ロシアの弾道ミサイルの脅威を受け、ウクライナで空襲警報",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXJrQy1QNndpQXQ4YWVlQ29PaXlJcDA0UXVGSklXek5JMngzdi1IUzhWV00xZUItSWszS3c4SUw2bFpUZVc1UENWMV9raXk4X3Z5LVNZMDN4cVVLRmk1RHNNMVFER3Z3SDhDa0RRa3ltTllITV9pQWItbTNBRmFNcHFGdUh4Si1DVDdieUxJMjVoWE5pQnNZ?oc=5",
    "source": "Mezha.net",
@@ -381,9 +387,15 @@
    "at": "2026-11-16T21:11+09:00"
   },
   {
-   "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象｜Quebee キュエビー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMXpLYzUwODE4RE1McVhnbHRjOHVDbTBwLXdEODVRZlo2Y0RwdVRvY1hiU3dabUg5WTA2ckViQTQ4NTlpRXNrekR2LUpINmhpOHVaXzMtYXc?oc=5",
-   "source": "QAB 琉球朝日放送",
+   "title": "総合防災訓練でドローンなどデジタル活用進む 専門家は「災害時のシステム障害」想定の必要性を指摘＝静岡県",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RM2szZ0hnQnNBU21tRjgtNzZSYnotcDdOa3ItbW9Id3FpSzU0RjhrcEJHWl9QUGdRMENRdHduN0xKbVBsRHM2X09ZbkFQdnBqV2pFVlZIV05jUWw1ZXNKV25hSmxpZmtsR1pGWUJB?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-16T20:17+09:00"
+  },
+  {
+   "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-17T02:07+09:00"
   },
   {
@@ -439,12 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSm1ncHV5a25JTi0xYTZ1cG1rRlBXNTNQbzFRMTdMbGxVdUNHaVlIYjZmSVg0WVVkZ1lkV2NZaG9pV0JrMnlLRE4zcFlEMUl3TVgwY1BIb0p6V24xcm13LTN5eFliaG5VSUI2Wk1RZ2JUT2s0YThFWmwwSXN2Mlk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-17T00:32+09:00"
-  },
-  {
-   "title": "スパコン「富岳」に不正アクセス 研究データ流出の恐れ、運用停止",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wYi1yaklVYi1jWHVVQkJGLTFub3hzVDItR28xWTlZZEtmeDNiNFZNTUNNLXRyR1dSRThOaXN0d0xOeER6NVE3WWhSejlnN1Z6aDBZ?oc=5",
-   "source": "東京新聞",
-   "at": "2026-11-17T00:19+09:00"
   }
  ],
  "osaka": [
@@ -457,11 +463,25 @@
  ],
  "world": [
   {
+   "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-17T02:25+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LZzBxMHJVdU5EU3NQN1Iwdm9nZ2V6T3JwZ0lmNXVDckVTZjhSMGFXdGNHTGFGZXNWZ2JJY250S0V4NkppelhwbmJCdHZ3S2Rac0FqQ1VB?oc=5",
+   "source": "KFB福島放送",
+   "at": "2026-11-17T02:07+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-17T02:07+09:00",
-   "topic": "ロシア"
+   "topic": "欧州・NATO"
   },
   {
    "title": "トランプ米大統領、北朝鮮の金総書記と中国で会談する可能性を示唆",
@@ -569,13 +589,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナ、ロシアに最大規模のドローン攻撃　橋や製油所標的",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kUm54ZXZSS0VqcXdOa0hCQkh1cV9JSGdjaUlFRlI2ODVmOERkTjZiazcxNzZxSUlsWU1ySTR3djVBMDNtYlA4RGNxbE9sNnJvMEh2WjY0Vi11QnBDZ21rZjdmcGc5S1BmRnZyTFdfNWVYaGRTX3JuX3Njd3c5QdIBgwFBVV95cUxQQm1qb0poY1Y5N2piU3BqQTI1QzhGZW5GcFRUdXU5bWI0LVh1V3RXdUp6ZHQyQUJmYXNTVHhrcHJzdTc1enMtSjVlZHFUWDlxRXJTT2FVNlZDWE1iR25uMXU5amhOT01aVzA2bnRzazd3cW93MTRPS0dFRkJ1VFJHMWVjTQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-16T20:27+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イランが2カ月ぶりにバーレーンの米軍施設攻撃…フーシ派はサウジとイエメンに攻勢（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVmdVRFkzV2JpN2hxb2huOERwSi1od0ZYVW1vOXhoRkdzZThGeDdxSElxbzAxVUs0ZldXWmR5cTlyZnU4czlSVGY5YTZZRTBHZm5wUGRoTEg2V3lfVnFhNlhfNGhZM1J6bkJwYl82dlBpNGRUUk9iUV9lOE1wWmM?oc=5",
    "source": "Yahoo!ニュース",
@@ -588,13 +601,6 @@
    "source": "風傳媒",
    "at": "2026-11-16T17:37+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "エストニア、ロシアとの国境閉鎖へ－防衛企業への破壊工作未遂受け",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRHB4bVhlUnIxNDhydnVueDRrMEhNWjhxUlBUQTJPZGJGdTJfMmZpbGRZczg2VXhCbWNBMllpS0FuTy1zbWRrZFZmZHZlWTd1dHNjN1k0S0VJUzZwRHlLZjdzb2FxbW00cHRnTnhXeXlFVEda?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-16T17:35+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -633,10 +639,10 @@
      "at": "2026-11-16T22:10+09:00"
     },
     {
-     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
+     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aQTBiX3YwMzJCZmRKZGF1cE5kOXBOaGxfcTVZaVljZVdmSXhaZkJpRU5ZOXl0MVE5eFJtdktSNEN4bVdJc1VZQWViYTBRdHQ1emQwNVBKR2FQRDhUVy1WOEx4TTRwSjNhd2UtOUttQ3JGVm0xM2NLWUdB?oc=5",
      "source": "テレ朝NEWS",
-     "at": "2026-11-17T02:07+09:00"
+     "at": "2026-11-17T02:25+09:00"
     }
    ]
   }
