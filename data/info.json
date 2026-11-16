@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:45+09:00",
+ "updated": "2026-11-16T14:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
+     "source": "Taiwan Today",
+     "at": "2026-11-16T11:08+09:00"
+    },
+    {
      "title": "【第１４２０回】中国軍の演習、米軍来援阻止へ焦点移行",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeFZCWXVDR1JPS19wU2J2OUp1UDE0eGg5QzdmcWNFZlg1WWg4QmNLbU8xci1iZkpWVTQ4Ul9KRXZ0S2NJZVcxRjVSVXZmQQ?oc=5",
      "source": "公益財団法人 国家基本問題研究所",
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NE14bEpDa2Vldi1iZnJJaTBtWHR5RTBPMmwyQWk3THNKWkJYdUhIY2JEZmZZeW1IeVJ1ajFtSDMxTFJJel9vamxIRGgzcGI1Z0UwaGdPNldMS2JvTEJTQlFwRk92NVQyY3F0VFpvbUk1M2ZUdFNRc1NKMlQzaHc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-15T10:00+09:00"
-    },
-    {
-     "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kVWMxWTZFNm1RQ290QUpNakpKYnlvSkNrYkVVbjVCbnFNVWEyVG5QNUxUaGZYZXFmbmtlSEwwU01zcTU2R0kxbm02Qlp6aXNtdk52UUNkaDl2SEItUzRF?oc=5",
-     "source": "東洋経済オンライン",
-     "at": "2026-11-15T06:00+09:00"
     }
    ]
   },
@@ -178,6 +178,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "＜北朝鮮内部＞やり過ぎだ！ 農村からの食糧流出を徹底取り締まり 没収に住民の抗議騒動も 軍部隊まで検問実施",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wWFZSTWk3aFRpbUZGZlhYNkNNZjNXSkRmM1JJMGNNbGw4V3lEV19peUxaVHI5aDJ0TzdUVUsxeTNReEpuSWUzWWlSUnJqQUtSWEZoSGt1Z0VBWEhxZzBOc2ZoYjRzeWREOVBVbks0YU1OeTVENHRWeFBaalAybTg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-16T13:47+09:00"
+    },
     {
      "title": "止められなかった北朝鮮の核開発、日本はどう備える？",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XampZVzBBYm53TnVHUEJCamJ4RmJCbFFacDBqZ24tVXZzRC1QMno5YlpoRTFFVEdjd005ZEdEbXNmZW1NV0ZpZEs4d3BFN0JraWxqd2R3Xy1SQQ?oc=5",
@@ -206,12 +212,6 @@
      "title": "北朝鮮も動く…金正恩総書記の側近、米中ロ会談前にモスクワへ（朝鮮日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVXk5QThPVTlmYUZTQ3pMN3JWa0dnU1U1WGJmRVFfNFp2eEc4RTkyajdrUFlvOWdDQ0ptbm9tWFlLNWMzVW1wOURqRmw5eTBpRTUtT0lfRWZaTEdkbWNfX2dVWTZ5YlZzZ0VkcVVUVkJFUk1DaDk2TGVla0lheHM?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-16T10:47+09:00"
-    },
-    {
-     "title": "北朝鮮連係ハッキング組織「キム·スキ」と疑われるハッカーが国会議員室選任秘書官を詐称しセミナー参加者を狙ったサイバー攻撃を試みた。16日、国内セキュリティ企業のジニエンスによると、攻撃者は今年9月に開..",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XRnkwUkNFSlVWbGRKRHNKSDY5S3Q1MFJZeGlVUWdtWWoteW1fdnBIRkhuVTZueEJjVjBwbVZacjN1cHV3TGdOeFBuVlhkQ1E?oc=5",
-     "source": "매일경제",
      "at": "2026-11-16T10:47+09:00"
     }
    ]
@@ -368,6 +368,12 @@
  ],
  "cyber": [
   {
+   "title": "ドコモ、また通信障害＝今月3回目、全国で(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2ZFaDRyZndyVGNjSWo3SjREQVBfSHJHR2w4Z01obWJBWWxyeDYyNGdvdHRJZDVxRXl4dFNveWtFVlNDZXpIN2JXYlZQU1BfeFJfMGVwZG5KQTB4bFBzRHU2UjBYUFBZZVAyOEw5Qk5VWUZwMjRNdnFpWTRfTTZ4M1ctTGhKM2c?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-16T13:54+09:00"
+  },
+  {
    "title": "米国全土で航空便が一時停止、老朽化した通信回線の更新作業中に障害が発生した可能性",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vNXlTSlBwUTVPOEdtWlJXakVpM3FsZGRIWWdFLW9UbUxGbWo1NFE2dHhRUHdzNUl3MXVpZjJRWVU2cGJTLUJLTi0xN2I2Z2pWYlFTWUNtaFdQZHJBWk9VV016T2xWQVFib25J?oc=5",
    "source": "INTERNET Watch",
@@ -384,12 +390,6 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BYWV5UmlhV0NncWZTeDJzNzFJV01CaWlTODVHVng4WXE1eUpYWTNmUnA0TzlUNW5qd1JnZ0xZXzBFbHpsazZCZ0M5akl0VTZId1lGRnNEb1FRVGowV1Jja1lMa1hjM1ExQVB5SkwzMHZuTmhpTWExazZyY1hBQQ?oc=5",
    "source": "Buzzap！（バザップ！）",
    "at": "2026-11-16T12:56+09:00"
-  },
-  {
-   "title": "ドコモで通信障害 大分県内でもつながりにくい状態に 「５ＧＳＡ」契約者が対象（ＯＡＢ大分朝日放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NWM3QzI2VUlPUVBlTEtLenNOOEQ3bFdrNWkwVi1fUGdnQjdGdkRXNzhrMUdybUVtdzFEWFpYWmE5REJJYkVfTEJoTVVtOGJUUHU2d09UY2JjYUkwT2dnOG1DQnNQcVZPbFZTY0JuNXVjZXpDVm82cXJmaHVyaFk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T12:45+09:00"
   },
   {
    "title": "NTTドコモ、また通信障害 今月3度目 5G SAに影響",
@@ -452,10 +452,10 @@
    "at": "2026-11-16T11:52+09:00"
   },
   {
-   "title": "ドコモでまた通信障害 SNSでは「今月分を割引して」の声も",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RLWRWcHNoVTNlTHNudm8wMHpnelNZSWpDM2k5WXk4cEpZNl9ESmRNVGszNHQ1aGh2cHVZNG00MENSNEFMMnlBVw?oc=5",
-   "source": "emogram",
-   "at": "2026-11-16T11:43+09:00"
+   "title": "オープンロジ／不正アクセスにより顧客の個人情報漏えい、入・出荷業務は継続",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YMVNXNmdnQ1NRbTZtdW5td1hFa1pCdk11TGY1UW1ZeXdoTjhsdUFkOF9EOW9TaHJaNUpxa2pRakI5M0FXRHpnbUlyVXl4eVhEekNsVw?oc=5",
+   "source": "物流ニュースのLNEWS",
+   "at": "2026-11-16T13:58+09:00"
   }
  ],
  "osaka": [
@@ -473,6 +473,13 @@
   }
  ],
  "world": [
+  {
+   "title": "＜北朝鮮内部＞やり過ぎだ！ 農村からの食糧流出を徹底取り締まり 没収に住民の抗議騒動も 軍部隊まで検問実施",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wWFZSTWk3aFRpbUZGZlhYNkNNZjNXSkRmM1JJMGNNbGw4V3lEV19peUxaVHI5aDJ0TzdUVUsxeTNReEpuSWUzWWlSUnJqQUtSWEZoSGt1Z0VBWEhxZzBOc2ZoYjRzeWREOVBVbks0YU1OeTVENHRWeFBaalAybTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T13:47+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
    "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
@@ -537,6 +544,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
+   "source": "Taiwan Today",
+   "at": "2026-11-16T11:08+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "エストニア、ロシアとの道路国境3カ所を12月1日から閉鎖へ 防衛企業への破壊工作未遂を受け",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BOTBnVkRSbGtYOWdkTzJGXzliY09mZ3R0NENxTmRUM3d1R0N6VGhKNkw1b1VZZnVMdzYySGQ4SmMwVFg0WDRyRGZQRTJnUFlRQU5sWTNCT2JCdTRzU3Uyekxib0xlbDVVOUE?oc=5",
    "source": "NOVAIST",
@@ -547,13 +561,6 @@
    "title": "北朝鮮も動く…金正恩総書記の側近、米中ロ会談前にモスクワへ（朝鮮日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVXk5QThPVTlmYUZTQ3pMN3JWa0dnU1U1WGJmRVFfNFp2eEc4RTkyajdrUFlvOWdDQ0ptbm9tWFlLNWMzVW1wOURqRmw5eTBpRTUtT0lfRWZaTEdkbWNfX2dVWTZ5YlZzZ0VkcVVUVkJFUk1DaDk2TGVla0lheHM?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-16T10:47+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮連係ハッキング組織「キム·スキ」と疑われるハッカーが国会議員室選任秘書官を詐称しセミナー参加者を狙ったサイバー攻撃を試みた。16日、国内セキュリティ企業のジニエンスによると、攻撃者は今年9月に開..",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XRnkwUkNFSlVWbGRKRHNKSDY5S3Q1MFJZeGlVUWdtWWoteW1fdnBIRkhuVTZueEJjVjBwbVZacjN1cHV3TGdOeFBuVlhkQ1E?oc=5",
-   "source": "매일경제",
    "at": "2026-11-16T10:47+09:00",
    "topic": "北朝鮮"
   },
@@ -605,20 +612,13 @@
    "source": "産経ニュース",
    "at": "2026-11-16T09:35+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "エストニア、ロシアとの国境を12月から全面閉鎖 防衛企業の放火未遂など破壊工作に対抗",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEdtRlpnM21tUFFTLVVHemJ1VjlDWFJPZ0gwVjZFMHpYcGQtWTF2WlJacEtVZ2NNU3BwU3BmS3BwY3d4TVVMYUlpSS1BMlRycHp4TVQ0NDBzYjFVUFRaRjVUUGY0NkthaFJ6ZFAxbmU5aVU5SV9oQ04xY1I2WlRiTHFsdGRVLWtBdHVscQ?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-16T08:35+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモでまたも通信障害、11月3度目 (2026年11月16日掲載)」"
+    "「ドコモ、また通信障害＝今月3回目、全国で(時事通信)」"
    ]
   },
   "japan": {
@@ -631,7 +631,6 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
-    "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「侵攻」5件",
     "欧州・NATO：「爆破予告」「破壊工作」4件"
    ],
@@ -643,16 +642,16 @@
      "at": "2026-11-16T13:40+09:00"
     },
     {
-     "title": "北朝鮮連係ハッキング組織「キム·スキ」と疑われるハッカーが国会議員室選任秘書官を詐称しセミナー参加者を狙ったサイバー攻撃を試みた。16日、国内セキュリティ企業のジニエンスによると、攻撃者は今年9月に開..",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XRnkwUkNFSlVWbGRKRHNKSDY5S3Q1MFJZeGlVUWdtWWoteW1fdnBIRkhuVTZueEJjVjBwbVZacjN1cHV3TGdOeFBuVlhkQ1E?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-16T10:47+09:00"
-    },
-    {
      "title": "【詳細】ロシア ウクライナに軍事侵攻（11月15日の動き）",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RdG1OQlVTc2dxV3lwcWRnZFVQRC15SzVGNGJoNG5paFFZWXA4WUFGb0R0ZXFBeEVYbU9xb3podzFwaEZXREhHV0RkNlRLdDNXQU1wVFZlOTF4Mnd3WUNN?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-16T10:40+09:00"
+    },
+    {
+     "title": "欧州各国を襲った数千通の爆破予告メール、空の便や学校に混乱 戦闘機発進も",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HYlZJVDdBb1FtcFg1S2FxYUt5TGNMUjBoeUNScFcyRlNFekdQYXVTN3p4c1JIUElDQ3djeGpMVUJKN1NyQWdwOTNWMF9BX0pMdGxuQXZaNGtLZEZ1dDdz?oc=5",
+     "source": "千葉テレビ放送",
+     "at": "2026-11-16T11:56+09:00"
     }
    ]
   }
