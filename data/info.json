@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:45+09:00",
+ "updated": "2026-11-16T16:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -288,9 +288,9 @@
     },
     {
      "title": "エストニアがロシアとの国境閉鎖へ、防衛企業への放火未遂受け",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Oc1VfNTgxVW42NlRjWmVIQnF1VUJhWmR1WHJ1WUhRZ2x4Qy1Rem1nb0FzTUg4UF9nNGlZcWxVM2hKVFBIYUZNZUt1WTBURVVneHfSAVRBVV95cUxQazhGZ0ZLYS1ScFZIaDlqNm52SUZGY3haTVgwUDhGNEpBc1dLYWdOQWs5WktQNC01d25TRm9OcXRoeXlIbzlzTFdhMWRwdC1TQUU3Nlk?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-16T10:07+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4aVdXTjBSMjBST1Bha0hmWVRFdUhxR2EwcHJXbWxPMTNpRURYZXZFeEFlTHBzRWpqRUNpM1BEaE0xQjF2TlB5Yy1oZzR3eVBJWDdkSVRFdFdNdFA3VVlFY3QyMFrSAWRBVV95cUxQeGlXV04wUjIwUk9QYWtIZllURXVIcUdhMHByV21sTzEzaUVEWGV2RXhBZUxwc0VqakVDaTNQRGhNMUIxdk5QeWMtaGc0d3lQSVg3ZElURXRXTXRQN1VZRWN0MjBa?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-16T10:01+09:00"
     },
     {
      "title": "エストニア、ロシアとの国境を閉鎖へ 破壊工作を計画とロシア政府を非難",
@@ -375,6 +375,12 @@
  ],
  "cyber": [
   {
+   "title": "NTTドコモ「5G SA」で全国で通信障害 95％以上の利用者で復旧 障害は今月3回目",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zMVFPcnRvN3ZHZE52VGlETkt2SWxyTHNaUXlwdUR5NF9zWGVMWmxYM1dZOFNwUXZGVElOemJreHdrLVRHd0NPc19FNEZCTUlITF9YUEh1WG1nTUhx?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-16T15:54+09:00"
+  },
+  {
    "title": "「原因はクラウドサービス関連機器の故障」福岡市HPの閲覧障害　市長選特設サイトも閲覧できず",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0MnRJQy0zOVJHeGg3SVV3R1NxbG9DMnFVeHNIZU01NEpPTmJnbkRDR19SU01fNUY4akZFRDc4TkhmRVpoeXVpa0ZYaUNjWVpTYWhVc0N4MGdBdVFXZjk3VWJkOUVFaFZhQjFPNtIBckFVX3lxTFBHOENkMmdObGdqSGlHOGxieFhoMktTZ0RGSlZJSEl6QmhHS0NMTEVOeVp6MnVOVnhuRkJMM2gyUUpLQVh5SDJTMmtKUDR2OXpCU3ZrSUZjczUyYTVHMk1wWnQ3RGZ4ZVlGb1NKUElSaHdQQQ?oc=5",
    "source": "Infoseek",
@@ -405,12 +411,6 @@
    "at": "2026-11-16T14:43+09:00"
   },
   {
-   "title": "ドコモ、また「5G SA」で通信障害 今月3回目【更新】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40Y3pRYlpxeEhwUkNSa3UzOVZWaGg2ckVMYTBjdUI5UkhpMWtwdFdqVC0wWDl1S3NVOGQ3ZXdkbkJCdjRfT3NIT21WV2tjcnlN?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T14:24+09:00"
-  },
-  {
    "title": "16日のドコモ通信障害、60％復旧",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PQnNnRnY5NWNfb3liVXlZcXZXSGg3RWtHM2VyUDh3aGZBYm93WFg3ak90R1JRbUVOdkJUb1JnUElJdVByR2lxa0l0VTZlS0RzZFdsZWFoN2c1NER3aUF3LUF1LVB4eW8?oc=5",
    "source": "ケータイ Watch",
@@ -435,10 +435,16 @@
    "at": "2026-11-16T13:50+09:00"
   },
   {
-   "title": "米国全土で航空網が一時停止、老朽化した通信回線の更新作業中に障害が発生した可能性",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vNXlTSlBwUTVPOEdtWlJXakVpM3FsZGRIWWdFLW9UbUxGbWo1NFE2dHhRUHdzNUl3MXVpZjJRWVU2cGJTLUJLTi0xN2I2Z2pWYlFTWUNtaFdQZHJBWk9VV016T2xWQVFib25J?oc=5",
-   "source": "INTERNET Watch",
-   "at": "2026-11-16T13:08+09:00"
+   "title": "スパコン「富岳」運用システム不正アクセス 理研が情報漏洩の有無調査 大学なども利用",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcmZRaTR6R1luTjlOdllCSmVSbDUxWUg1dUc1SVJZNU1JZUx6RkdLRWhzRHdWcFU3LXRFbmRmZVZsbHVqTGRJdGU4Qzh5Vzc3S3ZXbTI4MXNMT0cwaG1xQkF0Zy04ajNZak5aWUtTTFNLakR3UXc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-16T15:52+09:00"
+  },
+  {
+   "title": "【図解】サイバー攻撃「自律化」が脅威に＝AIエージェント悪用、防御後手（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MHhaY05OWEFpd292SWllVnlqRjdva2VmMzY3RktlRVh2VXpWQW5nWXdndkhZYTdzeHBqXzNZQTRmalY2cGx6Sl9Wdlc5NmFialMyRWlyY1UzaFdWVU1JTzNaMDZpYVlqOXh3RERXc253ZXVKQVN2cnkwaUI1YW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T15:38+09:00"
   },
   {
    "title": "神戸市「e-KOBE」でメールアドレス85,707件が漏えい アララへの不正アクセスで申請通知メール停止",
@@ -457,12 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvS2NvcTdTR3RZTG92OTZXd0tNQmJjMDJPN0VQUnNIUmNCQzRKNUhSMUdkc3FSN1oza3EyTFduaEpIemlzdXZTdTlTNnJhYjMzOWp4UVA4WQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-16T15:25+09:00"
-  },
-  {
-   "title": "【速報】スパコン「富岳」に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44VzNRdGlaZ0pWOVVqYW52WTJfN2gtUkFxM3M4bG85dHNrUnhXdWsyVWZfZjVIS0xvTEExR0lJb2txZHBheXhHTzRUTQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-16T15:14+09:00"
   }
  ],
  "osaka": [
@@ -615,9 +615,9 @@
   },
   {
    "title": "エストニアがロシアとの国境閉鎖へ、防衛企業への放火未遂受け",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Oc1VfNTgxVW42NlRjWmVIQnF1VUJhWmR1WHJ1WUhRZ2x4Qy1Rem1nb0FzTUg4UF9nNGlZcWxVM2hKVFBIYUZNZUt1WTBURVVneHfSAVRBVV95cUxQazhGZ0ZLYS1ScFZIaDlqNm52SUZGY3haTVgwUDhGNEpBc1dLYWdOQWs5WktQNC01d25TRm9OcXRoeXlIbzlzTFdhMWRwdC1TQUU3Nlk?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-16T10:07+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4aVdXTjBSMjBST1Bha0hmWVRFdUhxR2EwcHJXbWxPMTNpRURYZXZFeEFlTHBzRWpqRUNpM1BEaE0xQjF2TlB5Yy1oZzR3eVBJWDdkSVRFdFdNdFA3VVlFY3QyMFrSAWRBVV95cUxQeGlXV04wUjIwUk9QYWtIZllURXVIcUdhMHByV21sTzEzaUVEWGV2RXhBZUxwc0VqakVDaTNQRGhNMUIxdk5QeWMtaGc0d3lQSVg3ZElURXRXTXRQN1VZRWN0MjBa?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-16T10:01+09:00",
    "topic": "欧州・NATO"
   }
  ],
