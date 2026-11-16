@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-17T02:15+09:00",
- "errors": [
-  "world_topics",
-  "nankai",
-  "outage",
-  "japan",
-  "cyber",
-  "osaka"
- ],
+ "updated": "2026-11-17T02:22+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -132,10 +125,10 @@
      "at": "2026-11-16T17:26+09:00"
     },
     {
-     "title": "イラン、バーレーンの米軍基地をドローン攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RSWtXMnNXRHZGMEh4cG9WbmJOYzI0T2JidkdJNzVxTkJnTE9YdURXMkxJeWV4ZmllcjZudHJEaWx2WHd6LWI0WnNkSVV1a0Q3QkVYMU1ldjcydWpvMXRGY9IBZkFVX3lxTE13WGN4MlFKS1MyUk9YWXUtb1QwaXBuSmQ5THNMWTQyQUh0b1dDdmNXb1hrQlh0anVnc0ZMQm44M21OcDFqcXNWNFM3ZndCSWk5VmplRGpBTnQ2S3owUGs4QjhyWXZ4Zw?oc=5",
-     "source": "BBC",
-     "at": "2026-11-16T11:59+09:00"
+     "title": "ブレント原油96.28ドル、イランがバーレーン米基地攻撃で上昇、強気98ドル・弱気91ドル",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOER4TmRhNTlaLVA2dzFUR21DUDRGUkpQQmZXdHNrZmVzS01lcXNsSjNRTWJQU040ZnhBWVpBZTg4YnN6d3NtV0NaRy0zcW9HaS1ycFNCcE1SOUJIQ0NNLXFfYzM4a3FSVGxwNE5PdGR4NXhzUVIwdVFlQ2FPU0RzNUJHQUQ0aDcxZEZGaw?oc=5",
+     "source": "FinanceFeeds",
+     "at": "2026-11-16T17:11+09:00"
     }
    ]
   },
@@ -174,10 +167,10 @@
      "at": "2026-11-16T15:11+09:00"
     },
     {
-     "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
-     "source": "Taiwan Today",
-     "at": "2026-11-16T11:08+09:00"
+     "title": "米国、韓・日など同盟国とAIサプライチェーン共同防衛…中国牽制「パックス・シリカ」拡大",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFF6WlNiSlR2bElvR3NobEdDdTk1RHktdlpfbUxTZHY4VTVJVlg4VnFIVGFsT005QUhqNV9BREZpdk1aUU40UlFvTWVTN3Nna2VwSE9OOGZlVXV0dkM0M1hyMUdBVTAxX1JXRnl4N0dKQVp4ekFVUnhXQTNXSDg2RmE3b1Z3OTjSAYwBQVVfeXFMTlFjaWd1eWNaNndVYlJWTWVZbjh1ZWhaVWdHRnpaMGV1a3huN1ZxX0R5SmRXQ0pOdkltYl9TM3Y3Sl84aW5HZjBwSXg3bHBDOUcxY2prd3pQb1pkaEJuMTl2LUo2QzNxb05XUkowWFlUYlMzT3VLNEd1ODU5b2haQmIzNS1vemxyQjMxS0w?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-16T13:16+09:00"
     }
    ]
   },
@@ -228,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-17T02:07+09:00"
+    },
+    {
      "title": "ウクライナ、クリミア橋を攻撃―ロシアは無人機1336機を迎撃と発表",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NeEd1RVVaalZQMWE2UEdObDRjNTJ3QUs1S3ZCZkE4TmhPbmZrSXVnX3lkWHRxVWIwYkdyd1p5Q0FSM25kakpIT3hKT0E1aDZEd3ZyWnNwRk1nTmV5QktBN1hIb9IBaEFVX3lxTE53VlNwTHVkTmtDbXl1YUNWdV9nNUJ6Ny1tdmNQOUZoTHBuNWlPemQ0SnFEV0YzUXdpUE5fMDQ5WXFzQkFUYzFnMGEzTTd0bjE5a1Y3b2FnMDhBNVRLT3hzcUhCUXlKQTdB?oc=5",
      "source": "財経新聞",
@@ -256,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kUm54ZXZSS0VqcXdOa0hCQkh1cV9JSGdjaUlFRlI2ODVmOERkTjZiazcxNzZxSUlsWU1ySTR3djVBMDNtYlA4RGNxbE9sNnJvMEh2WjY0Vi11QnBDZ21rZjdmcGc5S1BmRnZyTFdfNWVYaGRTX3JuX3Njd3c5QdIBgwFBVV95cUxQQm1qb0poY1Y5N2piU3BqQTI1QzhGZW5GcFRUdXU5bWI0LVh1V3RXdUp6ZHQyQUJmYXNTVHhrcHJzdTc1enMtSjVlZHFUWDlxRXJTT2FVNlZDWE1iR25uMXU5amhOT01aVzA2bnRzazd3cW93MTRPS0dFRkJ1VFJHMWVjTQ?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-16T20:27+09:00"
-    },
-    {
-     "title": "「スターリンク」速度制限解消せず、ロシア軍のエネルギー施設攻撃拡大「人命に直結」…ゼレンスキー大統領訴え",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mRUhrOUxOa0V6S3loSUJmWnp4QUxLd05zbW5TekpSdmpyVkl4M1lpUGt0UlVUYm9EX0wtNngwSm5aOG03X2xYOW1mN25IZ3lnZW55Q1hKdlJUV1JHMS1TaVhn?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-16T20:22+09:00"
     }
    ]
   },
@@ -269,6 +262,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-17T02:07+09:00"
+    },
     {
      "title": "イタリアの学校に再び爆破予告メール、40分後に爆発と予告も避難なし",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3d3VEh5VUFwZngwNW5ZZlhGZHBSTkVMRzNqMTFiV2Y4dVBJTWlJdm5JREJQcTltSkFVUElYNzJESEdVZVh4eGhyY2tQdjFQZTlSWWF4SmkwbFEyVmZCemNfVEp3NlpfNGpfT3pIR0dUT29Ua1dHMGZhVzNsVGhJdWl3OHJrREZ0X2pRTWhpY08zR0NUWWhHSFJB?oc=5",
@@ -298,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN19xNEt5ME9OSHl1Q2tFdEVtdHF5YVZlS05IU2ZWdVFPRnNERlZzWnhla1Bkc05ndXpLX1Z4RmZQYXpkSXBYdXQxbkdYdmxKOVI5ZlRKNEljTHh4dUJXcXBxLU5nVEVCc3pxNWlSbVdySmR2VElMNWNjbS0yejB1WWl3V1I5TEM2djc0ZTh0NUNzeHZ6WmRfZA?oc=5",
      "source": "Laodong.vn",
      "at": "2026-11-16T11:52+09:00"
-    },
-    {
-     "title": "エストニア、ロシアとの道路国境3カ所を12月1日から閉鎖へ 防衛企業への破壊工作未遂を受け",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BOTBnVkRSbGtYOWdkTzJGXzliY09mZ3R0NENxTmRUM3d1R0N6VGhKNkw1b1VZZnVMdzYySGQ4SmMwVFg0WDRyRGZQRTJnUFlRQU5sWTNCT2JCdTRzU3Uyekxib0xlbDVVOUE?oc=5",
-     "source": "NOVAIST",
-     "at": "2026-11-16T11:02+09:00"
     }
    ]
   }
@@ -388,10 +381,22 @@
    "at": "2026-11-16T21:11+09:00"
   },
   {
-   "title": "ドコモ、また通信障害＝今月3度目、6時間後に復旧(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1Q1RDFNSzFZUTlQWTVMWGtXSVZpc3p0SjdmSUxJemdqeERQaEl1V0ZyemFrNUIxUXlnTldxSHh0emtWRXhMTjBnb0d2enl2dmZNWFJIenViLWQ3SnJ6ZWwwQTRlVnJxenJFcTVZQ2hIWnIyMlptd3dKclJNUmZmdThDQ2JFekk?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-16T20:07+09:00"
+   "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象｜Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMXpLYzUwODE4RE1McVhnbHRjOHVDbTBwLXdEODVRZlo2Y0RwdVRvY1hiU3dabUg5WTA2ckViQTQ4NTlpRXNrekR2LUpINmhpOHVaXzMtYXc?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "at": "2026-11-17T02:07+09:00"
+  },
+  {
+   "title": "スーパーコンピュータ「富岳」に不正アクセス 最大4222人の氏名やメールアドレスなど流出の可能性 理化学研究所は運用停止し原因を調査（関西テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ramstak9XUlVRemNCUTlCXzVnY1g1aFd3dUV5c2FxQnV5aFl1Z3BPLVY5TWhsaFVIaFB0bmxRZktxRi1FYXFtWWl6a0luNk5SOWtyMWlxOFBHVVIwNGZNbDg5emptWXNsNDFWVTJOOWdlcS1SNV9fQzdKRUJFZXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T02:02+09:00"
+  },
+  {
+   "title": "富岳にサイバー攻撃 「機密の塊」スパコンも標的の時代",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YTnNUbkN1MXQzaGgzanJOWGVwU1gwS3ZDckFKWTlSbFYzMUQ5RW5jZ3NHay1mTklVYkFNMnQ2Z1ZBcW53Q0l4Z2VBYzhnTGJPMVhTQTVUM2UzMlZyZTNsNHBFeXNLYkFsSnVFWA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-17T02:00+09:00"
   },
   {
    "title": "バンダイナムコ子会社に不正アクセス、一番くじ41万件の氏名・住所・電話番号漏えいか",
@@ -406,10 +411,10 @@
    "at": "2026-11-17T01:29+09:00"
   },
   {
-   "title": "スーパーコンピューター「富岳」に不正アクセス 最大4597人分の個人情報やファイルなどが漏えいか",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xdlpVZ2ZtanhjNGk0VnJoVHhnNXhJZjR1cGhFUXgyVE51YVhxTmtMMlFpUGNOcXNDanU3OG5Tbm1QbldhWFpUNWZfOUNmV096Nmdnamtvcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-17T01:15+09:00"
+   "title": "スーパーコンピューター「富岳」に不正アクセス　最大4597人分の個人情報やファイルなどが漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tcUZSaHU5RXhBSHZqMDhUTXUwdVU4UWppQ3ROSGVJank1blUzeWdJYklEWVJnSk01a0F1UzIxczVkSzNMS2tWWXgxZzFXQnNBZ0tyZmJDNjlEdUdBNjFIdGJKZmw1dkV0Wl91Rkd0SdIBdEFVX3lxTE5aRWZqclNCUUJSVHo4VEQyQmNGYzdVc3JoVjBWX3Rva01oNXZFOFBnTUptOVBSU1dEcERoNlBsZEFnU1dkM1lSVzByYkJ6Nm9KMUpXcFlEeE9PRzhPZnBuSWdTMGJRY05aVmJTODRZTllfRnNC?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-17T01:26+09:00"
   },
   {
    "title": "国内で相次ぐサイバー攻撃、その最前線に立つ私たちは何をすべきか",
@@ -440,18 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wYi1yaklVYi1jWHVVQkJGLTFub3hzVDItR28xWTlZZEtmeDNiNFZNTUNNLXRyR1dSRThOaXN0d0xOeER6NVE3WWhSejlnN1Z6aDBZ?oc=5",
    "source": "東京新聞",
    "at": "2026-11-17T00:19+09:00"
-  },
-  {
-   "title": "香港ディズニーに不正アクセス 電子チケット1万7000枚盗難の疑い 最新の国際ニュース【随時更新】",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkFZay1sWFdIYVY2ZWF6bExmbVZKUHBZTjIwdGpFMXlaT1NCbmtuN24yZF9nM3A1Q0hIUWVWRWhra1FRY3l6Ml9MVUJ6V1lCR09WakdOLVUyVk1TWEZXQTJDQ3N6dklJTE4xemV4ZmFqYnRYYl92U1NCNkJyekdMd2JZNzd4Z2h4cmNoZWdWXzNHMlhpWnBRWndQVUVrQ01RU2loNm9DUjlFQ3ZEOFpmTmY4T2Q?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-16T23:50+09:00"
-  },
-  {
-   "title": "香港ディズニーランドに不正アクセス 電子チケット盗難か（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yRXZUSHRjc3NRN0FNT2YtN0RqNGx0VGdqdTdjLURVTVVVdDhnY3RweGZiU2FObDZoM0wzeUVhblFQQUh4U2ZYbW4xTjNpakU1QWRrNTh6cFNlbnRFYURPelBCOV9jbUFpWTdjRFlncjJMMG1zS3NqT3ljZE0tSFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T23:45+09:00"
   }
  ],
  "osaka": [
@@ -463,6 +456,13 @@
   }
  ],
  "world": [
+  {
+   "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-17T02:07+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "トランプ米大統領、北朝鮮の金総書記と中国で会談する可能性を示唆",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FT2VjZGtBM0pJVURUTGR4bWsxRXBveVh5TDFnaVFja1NKTjFzOFZaTWdfSTEwQlpZZVFtVkktMk5GQ2hLZ3llVHpWYnUya2NMQ3oxc1g0d1lpU182c1QxaDVPemppS1lxVEh6SFFKQnIzZlhnMkVTWVNn0gF_QVVfeXFMT3pTOUNETkZkbTRlRjc2Q0MtbjNrTTBVRG44U2FFUDFGbFQ5OUw5dURqZEZYdzFNSlM4N2J6WklCRTdkeTdkd0xqUTdPSVV2bFdpV1I0dFFYTVRjZlRzNTdwcnhYOVJySjVmcW5aWi1vTlF4QXZPbVZRQXBKbjB3bw?oc=5",
@@ -576,13 +576,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "「スターリンク」速度制限解消せず、ロシア軍のエネルギー施設攻撃拡大「人命に直結」…ゼレンスキー大統領訴え",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mRUhrOUxOa0V6S3loSUJmWnp4QUxLd05zbW5TekpSdmpyVkl4M1lpUGt0UlVUYm9EX0wtNngwSm5aOG03X2xYOW1mN25IZ3lnZW55Q1hKdlJUV1JHMS1TaVhn?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-16T20:22+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イランが2カ月ぶりにバーレーンの米軍施設攻撃…フーシ派はサウジとイエメンに攻勢（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVmdVRFkzV2JpN2hxb2huOERwSi1od0ZYVW1vOXhoRkdzZThGeDdxSElxbzAxVUs0ZldXWmR5cTlyZnU4czlSVGY5YTZZRTBHZm5wUGRoTEg2V3lfVnFhNlhfNGhZM1J6bkJwYl82dlBpNGRUUk9iUV9lOE1wWmM?oc=5",
    "source": "Yahoo!ニュース",
@@ -624,7 +617,7 @@
     "イラン・アメリカ：「攻撃」「報復」5件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」5件",
-    "欧州・NATO：「爆破予告」「破壊工作」4件"
+    "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
@@ -640,10 +633,10 @@
      "at": "2026-11-16T22:10+09:00"
     },
     {
-     "title": "ウクライナ、クリミア橋を攻撃―ロシアは無人機1336機を迎撃と発表",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NeEd1RVVaalZQMWE2UEdObDRjNTJ3QUs1S3ZCZkE4TmhPbmZrSXVnX3lkWHRxVWIwYkdyd1p5Q0FSM25kakpIT3hKT0E1aDZEd3ZyWnNwRk1nTmV5QktBN1hIb9IBaEFVX3lxTE53VlNwTHVkTmtDbXl1YUNWdV9nNUJ6Ny1tdmNQOUZoTHBuNWlPemQ0SnFEV0YzUXdpUE5fMDQ5WXFzQkFUYzFnMGEzTTd0bjE5a1Y3b2FnMDhBNVRLT3hzcUhCUXlKQTdB?oc=5",
-     "source": "財経新聞",
-     "at": "2026-11-16T22:28+09:00"
+     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-17T02:07+09:00"
     }
    ]
   }
