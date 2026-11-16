@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:00+09:00",
+ "updated": "2026-11-16T18:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランが2カ月ぶりにバーレーンの米軍施設攻撃…フーシ派はサウジとイエメンに攻勢",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0xYd3pBdDh4YzExVm02ZWprdWRuVHkzREJ0LVVEaXhpVEduTE81ZUdfZWRSWWI0M2hGaHVLM3piVlNQZkNYMUtwRlBTZ2hkVldOSGIwbUc0RXZPbU44dnB2bmlTdzdNeDNMNTNoZEdiR2hoWnpuMEN0dV9MQlRhZjBpeXhlQkHSAYwBQVVfeXFMTlBVSVdIZFdCV0Zoc01mMWtoVmFNcU1jQ09rUjQzWHhHMkxDdUw3QVR6VWtXUEVwalBtVkQwaUxmSmJIVVdhVlVnMVFWeGdUaU1tUzk0RUtQZzZ3OWdMbjJGRm9UTUVEWVJmM3RseGVtVVdkU0pZVG5xVVVpNGlNZlRMQ2xuQXFQU1laZ2s?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-16T17:58+09:00"
+    },
+    {
      "title": "米陸軍少佐が告発書を提出 米兵6人が死亡したイランの攻撃めぐり",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcDFibk5oR0R2dGxWUHlzeFBFSXdMV0RRQ3NsZUZXNzJHcHZ3Vm5CNEQ0WllPNzg5bTRBRGZvbzk4ZUI1Q193bUJCcWRRWmRybHlUWEQ1VWdkZVM3dExXb0hLaTlzbXhqTzJBRURn?oc=5",
      "source": "Excite エキサイト",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Qm8tRTdMT2xOX1BGR3V6ME1Fb29sNmgwUVN6S2xGS2dKOUduTF81Slh4SVFYNTFtSDVGbWxYTTNHR3NZUkJ2WVEzamxUUzk2WWU0QXkxTXJ5Wjc4NVZIVG5Xaw?oc=5",
      "source": "재경일보",
      "at": "2026-11-16T10:15+09:00"
-    },
-    {
-     "title": "イラン、バーレーンの米防空施設再び攻撃 フーシはサウジ攻撃",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1k4S2xXdnQ2N2J2MDZRb21zOGVSWU94VE5HdGJ1MjFHTWVNWlZFZnE0TmRNQ2hxVXgyTjFiUURBY0QzQVY4TEVnYnU0aUFjam9acW1EMXNXY09iSlYyeUJvbnZsWXhoc1FKNW1TQ3pVZHdmWjdNeW50N1pqSFcxemVYV0RLU2s?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-16T08:28+09:00"
     }
    ]
   },
@@ -156,7 +156,7 @@
     },
     {
      "title": "米国、韓・日など同盟国とAIサプライチェーン共同防衛…中国牽制「パックス・シリカ」拡大",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFF6WlNiSlR2bElvR3NobEdDdTk1RHktdlpfbUxTZHY4VTVJVlg4VnFIVGFsT005QUhqNV9BREZpdk1aUU40UlFvTWVTN3Nna2VwSE9OOGZlVXV0dkM0M1hyMUdBVTAxX1JXRnl4N0dKQVp4ekFVUnhXQTNXSDg2RmE3b1Z3OTjSAYwBQVVfeXFMTlFjaWd1eWNaNndVYlJWTWVZbjh1ZWhaVWdHRnpaMGV1a3huN1ZxX0R5SmRXQ0pOdkltYl9TM3Y3Sl84aW5HZjBwSXg3bHBDOUcxY2prd3pQb1pkaEJuMTl2LUo2QzNxb05XUkowWFlUYlMzT3VLNEd1ODU5b2haQmIzNS1vemxyQjMxS0w?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMUpLeGNEMS03Njk2Q25BR0VWY1pielV1RjV0bzItZTVOWUF6WVdMcGN4eFcwYXRHek5tSTdvMVdXREdnNC1HZ2ZtdTdiVWtlLXBpc010QW1CeDR0SnAyVVI3cGNfN3FaSGpyVHNMd3NkQ3hlX1h2UXgzaGJSV3N4ZklHMllzWUMzSU1EMDI4TjhjeGdNOHluakRJNXFsOThXM045ZTloc0lXREFFZkFlS0F2bTlkeE95YWthQUFueE5EVG8zcXhESWM0ZDdHUHdaMlhSUkQwUGdRM0cz0gGMAUFVX3lxTE5RY2lndXljWjZ3VWJSVk1lWW44dWVoWlVnR0Z6WjBldWt4bjdWcV9EeUpkV0NKTnZJbWJfUzN2N0pfOGluR2YwcEl4N2xwQzlHMWNqa3d6UG9aZGhCbjE5di1KNkMzcW9OV1JKMFhZVGJTM091SzRHdTg1OW9oWkJiMzUtb3psckIzMUtM?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-16T13:16+09:00"
     },
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナ南部ドニプロでロシア軍の攻撃により集合住宅が損傷　死者１名、負傷者１０名",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVVVRVTlXSG0wVnNzMlJTY0RLX1kydy10YnNTRE5sbGFjbWF1MkRScmVQZjRONXUtWmd4N1JFNm1nSGd5aEJ6bnJzV2ktdUpETXMzR05MeFBJRWNFdWllZ2JfaThTeXc1a0l0X0Q3N01hTXo0eVY2ZGRjWS1PMDVHcnRib09jSkIzLWdnbk83LVZaM1Fqa1VlYXJ0R3M4aEZyRG00MEEzSEQ3QjllM2Q5LU80RTFhUDgzRnFScVBBU0Z5b0NJQU5Lek5lZjh5OUw1YWJNQXdmbjRNajlfM3oyR2ZiZXA1dm1vMFHSAe8BQVVfeXFMUFJfWm5XSzdzNzdOWDNpSmExd0NRM2V1Y1Vobk5FdzJhanZDWGF2RlVXV1RqT3BscWtsWjZ6ZnNmWlRITjhXdGlFaS0ya1RaVHR4Si1Ya3VIZXFtZElDVGFnWTdIZlpoVUYyWUpYbG9TUTdZS2VTak1Yc2hhel9DellRYzhQUTBTNHFTb201SGdZUEJlV0h2S3hiOVloNUtFLWV1el80OG04dWo1cUwtLUliMEh3X2tZZGtCNWQ2bW82b05ZcEczb2FBTnRqS2x4WUZXT3FpMVp6V2lJWGlUNzJ6eVgxLWdsUlZZeEVuZUk?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-16T17:49+09:00"
+    },
+    {
      "title": "ロシアはウクライナに対する新たな弾道ミサイル攻撃を準備している＝ゼレンシキー宇大統領",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWVyTUpaUmYwcUk3UXhyYWJBVlhUQXlYRmNzajNxOThOLU5ocVNaU3lkMkM4aFlvWVZGNnJ1Y1g4Q2RfTTdCaU9QSkxSZWxORzdFQUpZVmZpazJEVHhvMkVPcHpyaGV6OU4wQ2pLRFBvTTRlUDdkOUZSX1o0WWRaYTJLMGZzeGdsNTFHaDg0MVBKa1VIcFFYbGprSURTa19YZEYwcC1mdHRVZTI3RThlMXVNcFBGNlhqRmhkbE94am53clRGNFBXVW85YjlGWTdDdzdhNlRWSWN6VTdBSHM4WFFuN3JkaC1uWjVB0gHwAUFVX3lxTE90LXgyeThzamZpSVVjMm9NLW1nUGJrNkREaDZid1JkWmpTWURzYm1NcnZabEFCaWdVcEVWWElDTXVzOU5DWnNpRE9uMFNYSGJsWml5Mjk3dThlRUQyYk5iWG9RMXFNQW10R0JiUWxfbmpMZWU2S3NLQ3duVDRTU3B6WkdLSkl4M3Y3elYyaXB2bW40dlRONTc3bkRSdHkzVnFpYU54VFFXVEFHdXhNNk9ZN244aldCX0pkNFFGd3lTRGlWYzhkWGdWZG9YMGo2VURtTVI1N3o5THZMWmY4b21hV3J6VllIUDBldW5HMWRnWA?oc=5",
      "source": "ウクルインフォルム通信",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHhtMmxYWnI4QWwwNkpjeExRSU1nVFY1cW42YUxXOUdldVNMcW9rVDdFZFdWckUtaE1DT0E1VXdSNDNRZVUtTE1tNmg1N0xUNGhKNnpmQjc1WXN3YVFIY0tGRUZ3cmdVd2owdTVCX0dKZFp5V1J2TEFrUF9rYkdjWkFibVdQYlJ5dUg1dWhUQnh6VlRYVERfb0N1TWJ0X1E?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-16T10:38+09:00"
-    },
-    {
-     "title": "カラス氏、ロシアの要求を「ばかげている」と批判 停戦から交渉を始めるよう呼びかけ",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zM24zekxuWkpJR3loVUtPMGdOMF9kN0RTZnFadnVwWDNjc2hpMXA3ZkRiMDZZUjQxeXZxbGIteUotdWVhWXduemNUQmJleVNjc2RzeXZBM1dxZHl1UHFzNHhaZ19zVjhh?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-16T10:14+09:00"
     }
    ]
   },
@@ -303,12 +303,6 @@
  ],
  "nankai": [
   {
-   "title": "6万7500人が地震訓練 磐田市・袋井市・森町で南海トラフ想定",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VcElqdUhQdE9NUExGNGxMX0hoalRaN1Jlc2JVN3NqMFdvOVlsY2RUbkI0VHdlWkZKcHFSdG1LU3B4RG5RMjhNUUppWFc5aU1jalBxb3hzSGktSDVmbkIzczAzVDdQcGxKSFNn?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-16T16:24+09:00"
-  },
-  {
    "title": "南海トラフ地震Ｍ９・１級を想定、被災者救助や応急的な復旧の手順確認…１００機関１０００人参加（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DcVhtYU9xdW9scDhsOWxocGp0LTZtWGpwMk03eEVhZTNLWnBNUEJWRVZGMnFhT3FrTWV2azJrU2gwNmp2YWZ0bV9YV0p5aDB6Uzh6YV9acWJPaXRUNVoyNkhnaE1Tb0NSMVB2TnYtV0ZOQ1FrZHdEVXJ4ZGUwMDQ?oc=5",
    "source": "Yahoo!ニュース",
@@ -337,6 +331,12 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mbml5ZnJCb29TWGFmQ1l6b1pWdTBrVTJkdTNlTlFNYnllbkpTTjFRQ3UxcGFyT0ItWlhZWUNqZTFpYko0NnZBSDlaUnk0MmMyWFY3QmNKd1V5OF9STFp3dmowWllSeFg3?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-16T05:03+09:00"
+  },
+  {
+   "title": "南海トラフ想定し連携確認 延岡市など県総合防災訓練",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oc1Y5cFVYdjB3UEt1RHgzeU83VDk1RTQtNTMwZ3ZMWnlrRmkxYkoyMFd4cF9Ra0dFNnF1OFNRVkhIUjhVUEEtZ1gtY3FFNnZ1YVlZV2lLVl83aVZiR2JrWXFVOEF6TXc?oc=5",
+   "source": "宮崎日日新聞",
+   "at": "2026-11-15T22:59+09:00"
   }
  ],
  "outage": [
@@ -369,6 +369,12 @@
  ],
  "cyber": [
   {
+   "title": "ドコモでまた通信障害、今月3度目 こだわりの「真の5G」拡大に影",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5teHdia1AybHYtaVVuOTRicmNkRl82SHp3eEx2RXBna3BHWkpWMzFVRHpfYmp3Q1pRSlMxTDBXeXNiQ2h1SDJHZElQRXIxV1laMFd2bzZQRjhnRVV0N3N5bDA3bkZmWkNoU0FZckZ0NWJGbm1xZ3lHYzZB?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-16T18:00+09:00"
+  },
+  {
    "title": "ドコモの「5G SA」通信障害は15時58分に回復 一時的に設定変更した人は元に戻したか確認を（ITmedia Mobile）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzRFh6R20wWlEyOFFybkNQNGpQVW1EeDA0MmVrTTJlOW9YVnRhZTVnUDdtb0JwXzF4QVNEc1oxRHl6ekM3R0tZS1RQT3RFRmVTQ2o3b255OGMtMHVXSmNQWERSOUl3Y2xIWlFsQk0xbms4b3RWMU1iQWdleVYycWM?oc=5",
    "source": "Yahoo!ニュース",
@@ -385,6 +391,12 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcTFMUWt6QmlHVTBxTnhPZXppNkRsRlBKUHV0N0xMYk1tQnVEQk02ZVNqYU5nSjZ5bEY3ci1tYmVUMkhsMkFncVdqdjMxZE5rNGlkRjUyREw2ZE1XYm80?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-16T17:18+09:00"
+  },
+  {
+   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3OFN0cWY1eWtNTnppWGFaQnAwUnYxdE55SWgtWnZOMmNMOXBVSkhDdllhLXItRjdTcDZ6T19ZaGZZRGw2cVdia2xxMGFteHFuNW9JUWVRYWFVOHc?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-16T17:15+09:00"
   },
   {
    "title": "NTTドコモ「5G SA」の通信障害が復旧 原因は交換機への通信の集中 今月3回目",
@@ -417,46 +429,34 @@
    "at": "2026-11-16T16:49+09:00"
   },
   {
-   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1dUOUVEckJfbnNSWjVuWklfOU1PRlpxbGY3aGNxS1pOZTZtT180QU1kVjRwZF9ITVZTbVpEeE9Gam9kRTY1cjF3R2EyZ0NLZ05nMm5qTzlDUEMzWjBoQlBNeE9SellrcUhFU0h2bks5UWFaSXNCazZzaEo1Nk9ZNHNSOExSTXExa0JpNjZabWUzaUM2N2N0MGdBZkx5X25aXzcyQ3lyeFdtSkpfbXRJVERmVDI?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-16T16:48+09:00"
-  },
-  {
    "title": "ドコモ「5G SA」今月3度目の障害、約6時間で復旧 原因は同じ「交換機への通信集中」",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Lc1YtTlFFNFhsenZCRlZMeFNzeEJWTTNvcUFrT25FNExZTFZjdGhNeFY5S2VjVGpzaXV4Y2dsbHBfcmtWZkpjYkJycDUtSDNtMk12RE85OWswZGZnZ3ZKcTBrRHlUODZTSkE?oc=5",
    "source": "ITmedia",
    "at": "2026-11-16T16:46+09:00"
   },
   {
-   "title": "ドコモの通信障害“約95%復旧” 「5G SA」サービスで障害発生…今月だけで3回目",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTZwOWZUMEh1RkhIV3VONC1kdWNuZHRwRjZHNUFqZ2RoR2tZX1c2VG42ZFlPR0ExS19pQXZzaF9xelVvdU9IS2FTREd4V0MzRkd5WnFMZlk4N1ptclBKUXNfWU4yY1UzSDZVandGMnVSaWRVdUozZk1sOHEweERRZw?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-16T16:22+09:00"
+   "title": "スパコン「富岳」不正アクセス受け停止　利用者情報流出の恐れ",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHljSWJhd2hBTnhMUkNhN2dIZDlEMHVabkhOeW54RncxdWNzUzZnckNDcHdUUmNWQ1RMb1VYclBtcFdxeTVMaTRtQVA5NlI4NWZySHJyZ1BYT2dxWEhORURoemREdVV4RG91MlZDX1pNQlhjdE1MYjlfZGxVSjczOFpXT2RKdHpNQjlKNWQwcGNRamvSAZgBQVVfeXFMTnRfb2Y0QkMtYXlmZktmN0RoX1l5QmNDdm9WWkhReGYxc3RjUGdjYjV5UVNYbEJmWnFMNnNSOEw5ZURuYkFIdWhscndsV0doeXFIV1JVamp4VExKazRGT3kwNkZSSDhFZkRmM0dmMDlVOFluZjgzQUdMNUlVYXd4c1l1UllaRXgtV0ZPVzZ5M0NYcnhPclFKMzY?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-16T18:07+09:00"
   },
   {
-   "title": "CLOMO MDMの運用システムに不正アクセス、顧客情報が漏えい 検知から公表まで14日",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Vd0hQRjY4QnVZUzZ2S1FwTzF1Uk5LZy13Tk1lTVpOMkkxZHRfWnM3YzNNdW1QQ18tVVNHN2QzWHdoMVJ5OThWSGNiNnpTV3ZPVEtJ?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-16T17:45+09:00"
+   "title": "講師が「フィッシング詐欺」被害…長野県主催の研修会の講師が利用するグーグルのアカウントに不正アクセス…約360人の個人情報が漏えいした可能性",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mRUs4djNhejU2dGZYd3Y0bDRRZERlQjE0MG0yUm9uWWdQZXVxU3NmSGY5b1pNNWs3YlBCdktjT3hKbWx0TmJfNUttVjNua0FIQlB1TGd4dzJhYUwyc3RmRVJYNUtaMENJLWg4dU9RRXFNVVY30gF6QVVfeXFMTTlrdnU5Q25PVUtiOVdSVmU4S1J4M3lBNHR2VkVmVkx3ektwUEJfNmdxR3lROFZTa2ZHYUVFMXU4eEdyOUNqRFhZUXc4QXdvNzV3TjJYVTV0UDZmdmNlQzVPa1RhYno2TE9nTGY1QWxjazE3U0o2STJlanc?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-16T17:57+09:00"
   },
   {
-   "title": "ゲーム内チャット経由で「トロイの木馬」を仕掛けるサイバー攻撃発生。今や個人開発ゲームでも狙われる",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mZVBCQ1oxWXQzSW8yVHJLSmFCQ0FSdlhlUGlwSElGaFNGdGVRTXVHS2NxVVdUYTlLQ3JZN0V0eFoyaHBtSERrLWE2bGt1NGVGZmFMbFRRbUVQVXF5U2VUUDFKUHJLVkF2UE1Reg?oc=5",
-   "source": "AUTOMATON",
-   "at": "2026-11-16T17:44+09:00"
+   "title": "ChatGPTのチャット内でクレカ決済できる「ChatGPT Wallet」が登場",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zcVRqV2g5cTNQWEZLZm9Zc3RQQUhvMEZRSHBJNW5YQlJDQUhONkEyUDlyLUtOVHZGRlpjXzN4eE1PelpBNUdNWTN6ZDlGWHZwTy1yb25nWXpXa1RYUzVB?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-16T17:49+09:00"
   },
   {
-   "title": "富岳が不正アクセス受け運用停止 情報流出の可能性 | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOOGsxaktZZC1NU0xfR0J3YWdkbEUwSWZscU9DN0VMXzNnLTduOVdoa0lubHFzUWxITVQ3em1aNVFDS0dLM0NjYWtDSFFiTHNxa0tNRE82Wm44RE9YSVl2RjZPYlhtd0gzcGNZeEh0OEdhaU1XTm95N3VxbjZTa3V3ME5Ha25MQUVxZ0t1UzRYSnpDR2pSaFhLMTF3bm01M1UxckZFUGxPeVZLaUF4S0lFQm9Xc1MzWlRPcDVadVRyY1JWeFczcm5FMGhqTWhXV1NjTG5wTmg2YUIzQjJlbWF5a0d2elhhdmlqNmpRcmZLV29sZ1ZyN0hGVmxjZEJLeWZ2YnpjMWttMGJEZFVSaFlEYTlHakQ2dm55VWhtV05WamFxelFuYU9wczRJTEpITnlVSjgwdzB5RVRjSTZtZFR0aEdTdWdiM25OakVLb01XWFVFcDZpd25mYmRCb0VNVW43eGFFeDBiNlNUMTRua0twZ3ZkTl81Sldsb0tvdzhiOU5QSWVLdmFQcjROOA?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-16T17:44+09:00"
-  },
-  {
-   "title": "「タイムズカー」会員数１０月１万４０００人減、「不正アクセスで退会者増加」…免許画像などの漏えい影響",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05cTJZRlBzUjB0U3BvY3ZvYUxweUM5d2Z2YlEzWGx1WUJ5d2xCSEIweVhSVFk0b2pTaGd1VVZtUFdtbWhpbl92Z3dUNUhjdWVKQ2tWTmh0RDEwLXNabThLekVvQUk?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-16T17:42+09:00"
+   "title": "最先端スパコン「富岳」に不正アクセス 企業の機密情報流出に懸念",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUS1ab0dSZXlRUno5aTZUcVhNaENWc0gzcFlUX1A4U2lMc0ZtcVY2SG9Va05DcGNtdFFRT2NzUng1V3M5ZFZGdnBUeWNUdk9wTk44RjlHSHNrZnZITGJrY0R6cHhSVmZPcUxvUw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-16T17:46+09:00"
   }
  ],
  "osaka": [
@@ -474,6 +474,20 @@
   }
  ],
  "world": [
+  {
+   "title": "イランが2カ月ぶりにバーレーンの米軍施設攻撃…フーシ派はサウジとイエメンに攻勢",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0xYd3pBdDh4YzExVm02ZWprdWRuVHkzREJ0LVVEaXhpVEduTE81ZUdfZWRSWWI0M2hGaHVLM3piVlNQZkNYMUtwRlBTZ2hkVldOSGIwbUc0RXZPbU44dnB2bmlTdzdNeDNMNTNoZEdiR2hoWnpuMEN0dV9MQlRhZjBpeXhlQkHSAYwBQVVfeXFMTlBVSVdIZFdCV0Zoc01mMWtoVmFNcU1jQ09rUjQzWHhHMkxDdUw3QVR6VWtXUEVwalBtVkQwaUxmSmJIVVdhVlVnMVFWeGdUaU1tUzk0RUtQZzZ3OWdMbjJGRm9UTUVEWVJmM3RseGVtVVdkU0pZVG5xVVVpNGlNZlRMQ2xuQXFQU1laZ2s?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-16T17:58+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ウクライナ南部ドニプロでロシア軍の攻撃により集合住宅が損傷　死者１名、負傷者１０名",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVVVRVTlXSG0wVnNzMlJTY0RLX1kydy10YnNTRE5sbGFjbWF1MkRScmVQZjRONXUtWmd4N1JFNm1nSGd5aEJ6bnJzV2ktdUpETXMzR05MeFBJRWNFdWllZ2JfaThTeXc1a0l0X0Q3N01hTXo0eVY2ZGRjWS1PMDVHcnRib09jSkIzLWdnbk83LVZaM1Fqa1VlYXJ0R3M4aEZyRG00MEEzSEQ3QjllM2Q5LU80RTFhUDgzRnFScVBBU0Z5b0NJQU5Lek5lZjh5OUw1YWJNQXdmbjRNajlfM3oyR2ZiZXA1dm1vMFHSAe8BQVVfeXFMUFJfWm5XSzdzNzdOWDNpSmExd0NRM2V1Y1Vobk5FdzJhanZDWGF2RlVXV1RqT3BscWtsWjZ6ZnNmWlRITjhXdGlFaS0ya1RaVHR4Si1Ya3VIZXFtZElDVGFnWTdIZlpoVUYyWUpYbG9TUTdZS2VTak1Yc2hhel9DellRYzhQUTBTNHFTb201SGdZUEJlV0h2S3hiOVloNUtFLWV1el80OG04dWo1cUwtLUliMEh3X2tZZGtCNWQ2bW82b05ZcEczb2FBTnRqS2x4WUZXT3FpMVp6V2lJWGlUNzJ6eVgxLWdsUlZZeEVuZUk?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-16T17:49+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "米陸軍少佐が告発書を提出 米兵6人が死亡したイランの攻撃めぐり",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcDFibk5oR0R2dGxWUHlzeFBFSXdMV0RRQ3NsZUZXNzJHcHZ3Vm5CNEQ0WllPNzg5bTRBRGZvbzk4ZUI1Q193bUJCcWRRWmRybHlUWEQ1VWdkZVM3dExXb0hLaTlzbXhqTzJBRURn?oc=5",
@@ -560,7 +574,7 @@
   },
   {
    "title": "米国、韓・日など同盟国とAIサプライチェーン共同防衛…中国牽制「パックス・シリカ」拡大",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFF6WlNiSlR2bElvR3NobEdDdTk1RHktdlpfbUxTZHY4VTVJVlg4VnFIVGFsT005QUhqNV9BREZpdk1aUU40UlFvTWVTN3Nna2VwSE9OOGZlVXV0dkM0M1hyMUdBVTAxX1JXRnl4N0dKQVp4ekFVUnhXQTNXSDg2RmE3b1Z3OTjSAYwBQVVfeXFMTlFjaWd1eWNaNndVYlJWTWVZbjh1ZWhaVWdHRnpaMGV1a3huN1ZxX0R5SmRXQ0pOdkltYl9TM3Y3Sl84aW5HZjBwSXg3bHBDOUcxY2prd3pQb1pkaEJuMTl2LUo2QzNxb05XUkowWFlUYlMzT3VLNEd1ODU5b2haQmIzNS1vemxyQjMxS0w?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMUpLeGNEMS03Njk2Q25BR0VWY1pielV1RjV0bzItZTVOWUF6WVdMcGN4eFcwYXRHek5tSTdvMVdXREdnNC1HZ2ZtdTdiVWtlLXBpc010QW1CeDR0SnAyVVI3cGNfN3FaSGpyVHNMd3NkQ3hlX1h2UXgzaGJSV3N4ZklHMllzWUMzSU1EMDI4TjhjeGdNOHluakRJNXFsOThXM045ZTloc0lXREFFZkFlS0F2bTlkeE95YWthQUFueE5EVG8zcXhESWM0ZDdHUHdaMlhSUkQwUGdRM0cz0gGMAUFVX3lxTE5RY2lndXljWjZ3VWJSVk1lWW44dWVoWlVnR0Z6WjBldWt4bjdWcV9EeUpkV0NKTnZJbWJfUzN2N0pfOGluR2YwcEl4N2xwQzlHMWNqa3d6UG9aZGhCbjE5di1KNkMzcW9OV1JKMFhZVGJTM091SzRHdTg1OW9oWkJiMzUtb3psckIzMUtM?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-16T13:16+09:00",
    "topic": "中国・台湾"
@@ -599,20 +613,6 @@
    "source": "Laodong.vn",
    "at": "2026-11-16T11:52+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "「資材の横流し」蔓延で金正恩の肝いり政策に暗雲…軍保衛局が秘密調査（高英起） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUU9LUkgyT0JYMktjQmZ2ejVxY2hqakhPT2dkOEJQMnBLX3lpekU5SlZpQ2tFMWlZdjByUWJDblhxaXAwdGlUWGhyMzgwMmpzOGpXcFVoQzdVRTdYVklYNGladjBmMnAyTVY1dGhyS0daMTd5c2JYVFQwWHJvajhoa295VU1DSndu?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T11:35+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "F1カタールGP会場から約111km･･･隣国バーレーンがイランの攻撃を迎撃、来季開幕戦バーレーンGP会場までわずか11km 中東3サーキットの位置関係？",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XQy1vMXhXTmFtWURtb2MzX2pBZjk5S1RUclFxcVA3aHVGdC0tR0NfUFBid3I2TUhERHpfMUJ4V2ZfTUNaN0pPZjRvQzEwUDZLZXhfbW5xU0NCUHU0ZThBM2JfRTg5WlBiWmZXMlhUeHZ1YjFEWXJxNTZ2VDlJQjQ?oc=5",
-   "source": "TopNews",
-   "at": "2026-11-16T11:12+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -620,7 +620,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「ドコモの「5G SA」通信障害は15時58分に回復 一時的に設定変更した人は元に」"
+    "「ドコモでまた通信障害、今月3度目 こだわりの「真の5G」拡大に影」"
    ]
   },
   "japan": {
@@ -634,15 +634,15 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」5件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「ミサイル」4件",
+    "ロシア：「攻撃」「ミサイル」5件",
     "欧州・NATO：「爆破予告」「破壊工作」4件"
    ],
    "items": [
     {
-     "title": "米陸軍少佐が告発書を提出 米兵6人が死亡したイランの攻撃めぐり",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcDFibk5oR0R2dGxWUHlzeFBFSXdMV0RRQ3NsZUZXNzJHcHZ3Vm5CNEQ0WllPNzg5bTRBRGZvbzk4ZUI1Q193bUJCcWRRWmRybHlUWEQ1VWdkZVM3dExXb0hLaTlzbXhqTzJBRURn?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-16T17:41+09:00"
+     "title": "イランが2カ月ぶりにバーレーンの米軍施設攻撃…フーシ派はサウジとイエメンに攻勢",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0xYd3pBdDh4YzExVm02ZWprdWRuVHkzREJ0LVVEaXhpVEduTE81ZUdfZWRSWWI0M2hGaHVLM3piVlNQZkNYMUtwRlBTZ2hkVldOSGIwbUc0RXZPbU44dnB2bmlTdzdNeDNMNTNoZEdiR2hoWnpuMEN0dV9MQlRhZjBpeXhlQkHSAYwBQVVfeXFMTlBVSVdIZFdCV0Zoc01mMWtoVmFNcU1jQ09rUjQzWHhHMkxDdUw3QVR6VWtXUEVwalBtVkQwaUxmSmJIVVdhVlVnMVFWeGdUaU1tUzk0RUtQZzZ3OWdMbjJGRm9UTUVEWVJmM3RseGVtVVdkU0pZVG5xVVVpNGlNZlRMQ2xuQXFQU1laZ2s?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-16T17:58+09:00"
     },
     {
      "title": "北朝鮮系ハッカー勢力による韓国議員補佐陣詐称したサイバー攻撃を捕捉",
@@ -651,10 +651,10 @@
      "at": "2026-11-16T16:30+09:00"
     },
     {
-     "title": "ロシアはウクライナに対する新たな弾道ミサイル攻撃を準備している＝ゼレンシキー宇大統領",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWVyTUpaUmYwcUk3UXhyYWJBVlhUQXlYRmNzajNxOThOLU5ocVNaU3lkMkM4aFlvWVZGNnJ1Y1g4Q2RfTTdCaU9QSkxSZWxORzdFQUpZVmZpazJEVHhvMkVPcHpyaGV6OU4wQ2pLRFBvTTRlUDdkOUZSX1o0WWRaYTJLMGZzeGdsNTFHaDg0MVBKa1VIcFFYbGprSURTa19YZEYwcC1mdHRVZTI3RThlMXVNcFBGNlhqRmhkbE94am53clRGNFBXVW85YjlGWTdDdzdhNlRWSWN6VTdBSHM4WFFuN3JkaC1uWjVB0gHwAUFVX3lxTE90LXgyeThzamZpSVVjMm9NLW1nUGJrNkREaDZid1JkWmpTWURzYm1NcnZabEFCaWdVcEVWWElDTXVzOU5DWnNpRE9uMFNYSGJsWml5Mjk3dThlRUQyYk5iWG9RMXFNQW10R0JiUWxfbmpMZWU2S3NLQ3duVDRTU3B6WkdLSkl4M3Y3elYyaXB2bW40dlRONTc3bkRSdHkzVnFpYU54VFFXVEFHdXhNNk9ZN244aldCX0pkNFFGd3lTRGlWYzhkWGdWZG9YMGo2VURtTVI1N3o5THZMWmY4b21hV3J6VllIUDBldW5HMWRnWA?oc=5",
+     "title": "ウクライナ南部ドニプロでロシア軍の攻撃により集合住宅が損傷　死者１名、負傷者１０名",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVVVRVTlXSG0wVnNzMlJTY0RLX1kydy10YnNTRE5sbGFjbWF1MkRScmVQZjRONXUtWmd4N1JFNm1nSGd5aEJ6bnJzV2ktdUpETXMzR05MeFBJRWNFdWllZ2JfaThTeXc1a0l0X0Q3N01hTXo0eVY2ZGRjWS1PMDVHcnRib09jSkIzLWdnbk83LVZaM1Fqa1VlYXJ0R3M4aEZyRG00MEEzSEQ3QjllM2Q5LU80RTFhUDgzRnFScVBBU0Z5b0NJQU5Lek5lZjh5OUw1YWJNQXdmbjRNajlfM3oyR2ZiZXA1dm1vMFHSAe8BQVVfeXFMUFJfWm5XSzdzNzdOWDNpSmExd0NRM2V1Y1Vobk5FdzJhanZDWGF2RlVXV1RqT3BscWtsWjZ6ZnNmWlRITjhXdGlFaS0ya1RaVHR4Si1Ya3VIZXFtZElDVGFnWTdIZlpoVUYyWUpYbG9TUTdZS2VTak1Yc2hhel9DellRYzhQUTBTNHFTb201SGdZUEJlV0h2S3hiOVloNUtFLWV1el80OG04dWo1cUwtLUliMEh3X2tZZGtCNWQ2bW82b05ZcEczb2FBTnRqS2x4WUZXT3FpMVp6V2lJWGlUNzJ6eVgxLWdsUlZZeEVuZUk?oc=5",
      "source": "ウクルインフォルム通信",
-     "at": "2026-11-16T17:32+09:00"
+     "at": "2026-11-16T17:49+09:00"
     }
    ]
   }
