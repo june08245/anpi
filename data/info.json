@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:00+09:00",
+ "updated": "2026-11-16T17:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -294,9 +294,9 @@
     },
     {
      "title": "エストニア、ロシアとの国境を閉鎖へ 破壊工作を計画とロシア政府を非難",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lVjZlRDFFblFtZlJrUlh2UGFKbW1OTmMyTE9yRXQzOWh2LWFWWnlpWkN3ZjQ1cnhOOWhvdks2dUFsM2hiOUsxY3I3a3JpTHE2RlZTZ1cxTWxLbEJscUZKblFkLU0tRVVTd3piQ0lR?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-16T09:56+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKMEJPcC1PWnVsdU9DMHpFamI5Y2hRVjFpYWhMLWhQZWdTWWN4R3ZOTnVnQVp4SzdtRDVxbV9haF95V1VVVklvUWVWS3BKMjNneE9v?oc=5",
+     "source": "CNN",
+     "at": "2026-11-16T09:47+09:00"
     }
    ]
   }
@@ -349,6 +349,12 @@
  ],
  "japan": [
   {
+   "title": "Jアラート誤送信で謝罪 原因は「訓練の情報消去せず」 Spain (k7MZAyO8Qp)",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEtKeThGVXJ0VTVMRFdQQmVoVE1HbzZJNHVuczQ1NnBVYUUxRFR5cHpzTU95X1JkU3dzcnJqZ1JXMTc5LVZzMVhVMUVtTzBkd1JjOVZ4dDVjelE1WWVvTDdOQmFIZk5JQjhBdnZPcjVwbHE1M1VJbkl6cVBlWlJNeWk3QmltT0dESXc?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-16T13:53+09:00"
+  },
+  {
    "title": "ロシアの弾道ミサイルの脅威を受け、ウクライナで空襲警報",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXJrQy1QNndpQXQ4YWVlQ29PaXlJcDA0UXVGSklXek5JMngzdi1IUzhWV00xZUItSWszS3c4SUw2bFpUZVc1UENWMV9raXk4X3Z5LVNZMDN4cVVLRmk1RHNNMVFER3Z3SDhDa0RRa3ltTllITV9pQWItbTNBRmFNcHFGdUh4Si1DVDdieUxJMjVoWE5pQnNZ?oc=5",
    "source": "Mezha.net",
@@ -375,22 +381,58 @@
  ],
  "cyber": [
   {
+   "title": "ドコモ、5Gサービスで通信障害、今月3度目 音声通話などに支障",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHbkItMnBidnVuV3gzTWlfT3p4V0djT2I2Qm92cmFPMVNlaG5PeEN6azlYa0NfX1Bzc01HOEE4aFVBaERoblRrZ2Y1UXB5OV9vN2dLTFdVaUJjM1lGYkhUalZPQkNPRzA?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-16T17:07+09:00"
+  },
+  {
+   "title": "通信障害は今月3回目 NTTドコモ 一部サービスの通信障害は全面復旧 - 【アベマ厳選】注目の最新&独自ニュースをチェック! - 厳選 (ニュース) | 無料動画・見逃し配信を見るなら",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSGN3QUwxOFl2SFVHdE9SRjVVUEZCRTl0cmJsaXkwY0p0Uk1Ja1owd1FWM215bGtzSmNnV1UzTW81TWZPMjBBT3plWUgzZ1FUekx5UFZJUHVNYmdzSHI0VHVUb0hzRTFRUXh2TzQxdTNfSlFzblFBWWVjRXBpZFFybWNhMHVXUW5yWTFFcEx4TWlIZkYyN1MyY1gwQmtQUDF3eDlIVHZDNjhBM3luQV90R1ptT1dTUXczUm9lbmc4MEFZOFk5Wlg3ZUNpd3NKMVZwWTJtdUpBcm5aSVB3Nm1GVk8wa3hEQTI2?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-16T16:59+09:00"
+  },
+  {
+   "title": "NTTドコモ「5G SA」で全国で通信障害 95％以上の利用者で復旧 障害は今月3回目",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yZTdDZklYMm1fR0xFY1lMYm1tMFl6bFRWMTRzWnZKZzUxRHBuVk9QUkFfZHBnd0RUcXZCbGdoN1pSQ0oxNlFMR1BDdTdla1NyZGRidHZyc2ZKXzN4NnZrelpvY29xRVktZ0VEbDYtM2NuZEVn?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-16T16:58+09:00"
+  },
+  {
    "title": "ドコモの「5G SA」通信障害が完全復旧、全国で一時利用しづらい状況に",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wNUY3T3lIMnkzTkZlWHk3a09jeGZtbnF3V0VPNmZybkdNdG00ZjBMUEdWbThqM1lNWHZZVUhldFd0bnB6TFpMc19Qa0xMa1NKZVp0UGwtSjZSVnM4RVRuRWl3OVI1Tkk?oc=5",
    "source": "ケータイ Watch",
    "at": "2026-11-16T16:56+09:00"
   },
   {
-   "title": "ドコモ「5G SA」今月3度目の障害、約6時間で復旧 原因は同じ「交換機への通信集中」",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Lc1YtTlFFNFhsenZCRlZMeFNzeEJWTTNvcUFrT25FNExZTFZjdGhNeFY5S2VjVGpzaXV4Y2dsbHBfcmtWZkpjYkJycDUtSDNtMk12RE85OWswZGZnZ3ZKcTBrRHlUODZTSkE?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-16T16:46+09:00"
+   "title": "NTTドコモ「5G SA」の通信障害が復旧 原因は交換機への通信の集中 今月3回目",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uaUtxczlhX2VzWWIzbGw5VUZaNVR4c0RRa2dPVWpJbUdDQmJEall3Si1XQmpaazNSelZHcHJnbExNYmVTcThNU3h2S1hqVkZXcE9STnRwOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-16T16:56+09:00"
   },
   {
-   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧 – Quebee キュエビー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42NWEtSVd1eWNxVWZUazNEUUhKaGxQWnJCdHNmeTVObll0YVNVekZTck5UOENFRDA5c01QMEZUTVh2R1BHNHBUWnRmWEhMQzE3SW5UQXRxQ2o?oc=5",
-   "source": "QAB 琉球朝日放送",
-   "at": "2026-11-16T16:39+09:00"
+   "title": "5日&11日に続き…ドコモ通信障害 (2026年11月16日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIbHBEeTRvY1JtbzBoU0RaUHRhTzgtZE1UcjB5R04xazNORFFnTEhVdXJTbV9UX01rY1ptZHN0VzdFY3RUYk56RllHQlhKQ3FDS04yU1JDYlBvMmVsUmc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-16T16:55+09:00"
+  },
+  {
+   "title": "ドコモ「5G SA」今月3度目の障害、約6時間で復旧 原因は同じ「交換機への通信集中」（ITmedia NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tb081TndpLVZ5RXVZZlVEajF4YmpVczV2Nm5zcXEtWFI0RGRleE0zbTl1Wng0QUx6a2c1cnN3cEJRNnVlWXhKbDc2czdBeFllY2RKNEpVeE9ENFVKTHAyVlJ1Y2Q0S2QxMkl6Y2pfYkFSNzVRMGt0LUg3aUxYNjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T16:49+09:00"
+  },
+  {
+   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1dUOUVEckJfbnNSWjVuWklfOU1PRlpxbGY3aGNxS1pOZTZtT180QU1kVjRwZF9ITVZTbVpEeE9Gam9kRTY1cjF3R2EyZ0NLZ05nMm5qTzlDUEMzWjBoQlBNeE9SellrcUhFU0h2bks5UWFaSXNCazZzaEo1Nk9ZNHNSOExSTXExa0JpNjZabWUzaUM2N2N0MGdBZkx5X25aXzcyQ3lyeFdtSkpfbXRJVERmVDI?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-16T16:48+09:00"
+  },
+  {
+   "title": "ドコモ、全国の通信障害が復旧 11月に入り3度目",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWWc4NXNUbDh3RVZtaUdZdWhFNlFsUW1wblFWbXptSnBmR1Btb1Buc0FHR3dsbzlCd0E1c2NJUXZvTVB6VnkzYXFncmJIT1l5R0lEdVk1SUpuVGxZalRsbEFVOFZTOTRHcWpnWQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-16T16:43+09:00"
   },
   {
    "title": "ドコモの通信障害“約95%復旧” 「5G SA」サービスで障害発生…今月だけで3回目 （2026年11月15日掲載）",
@@ -399,10 +441,10 @@
    "at": "2026-11-16T16:21+09:00"
   },
   {
-   "title": "NTTドコモ「5G SA」で全国で通信障害 95％以上の利用者で復旧 障害は今月3回目",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iNDFNN2k3M1JHZG5VeEdqSld5T0pkRmppRmRTODFvZTV6TDkxemhsZHNqYk4zUEVKRVdFWDZLbkpDaFBYS1BRaXRWUU5PNXN3UWtqelFTN0lTYnROaGQzUVdVblRZQ1NHR3RxTXdwaW1HMDQ?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-16T16:08+09:00"
+   "title": "京成電鉄の公式サイトが20時間超停止、提供会社のシステム不具合で復旧未定",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mSTlpYUIzVExYNjd6Rk9UV29xckVIM2lYa0pseGVzSFlKZmZWZU5NUjVVaU1zTXhWbk5YQnJaSFU4TXRpMU15YUduWFJCeWlJTDlZQmlxMURQYldnY25zZ1FabUsyemY5QTFUZEY4ejFlVnM1?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-16T16:05+09:00"
   },
   {
    "title": "ドコモ 5G SA通信障害 95%超復旧 (2026年11月16日掲載)",
@@ -423,46 +465,10 @@
    "at": "2026-11-16T15:15+09:00"
   },
   {
-   "title": "Coinbase India、銀行パートナーの障害を受けインドルピーの出金停止",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4wNDFFdjQ4cWxGa1lFQWxzZTdoalk0UXZ1VDNkdkNCTE91S01vblo1UkFobXVXVHp4QlJvLWROaDdCNFE?oc=5",
-   "source": "NEXTMONEY",
-   "at": "2026-11-16T15:05+09:00"
-  },
-  {
-   "title": "ドコモ、またまた5G SA通信障害。今月3回目、12月には値上げも控える",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCYkg2cHUwQVF1LU5YV1A1cFdKXzE1S2Z5ZkxpeUpjQjlUUDdCTC1IZXdkR3Jod0xqYVd6T0lzemNxYTBjYkZ5TFV2WHRIMXlucmNTemNHdWVTNE5DWktVdGh0aE1NbGJIQ0RnMUQwbXYwZ9IBd0FVX3lxTE95Q2FpRDY5bzFTOURzbXNXUHZmXzFlZzFUWW41ZWd4SzdYQUY4VXlKd3UwZXdFYzJjRjM1UkQ5VkxoMGk0ZGxvMHgxeWtaWXdjcDlZMlJsam5LWV9GSnE2NGRCMzBvcWY0Z1FWaTZZRUlJSlJJZUxJ?oc=5",
-   "source": "すまほん!!",
-   "at": "2026-11-16T14:43+09:00"
-  },
-  {
-   "title": "電子チケット１万７０００枚窃盗か＝香港ディズニーに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZX0M1b191TXR3VmJwVkhWMGdadG5icE14cUczakdyaGpBREdrZXBrckpta3VUNzhKdEV6WklDOVNYWW9Jb3d1d3JYNDV0bXh5bVBybmFlTTU?oc=5",
-   "source": "リスク対策.com",
-   "at": "2026-11-16T16:50+09:00"
-  },
-  {
-   "title": "北朝鮮系ハッカー勢力による韓国議員補佐陣詐称したサイバー攻撃を捕捉",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Bd3hBNGljMnpReXZGZTlURGJ6WDZ5YlJNbGc1UGVmMDU1eWlvOXAycHpJRU1VM1hJWlNqREw1V2NkZ09YdkdhNzFpTnRrT2xJakdURC0telNIMkpEV3VQalNrS05iVGPSAWxBVV95cUxOOGtlZzlySkRfS2JGZ0tDX0hUYml3WVhkaU1YSHAyOUhGajlUMFd1ajUxcDdKdkdwTnZkS0g3Z3VDWTRwWVMxQ2h1RDR6N2ZwRmx0emR0Q3k3Rzc3bGY4cWdrNGlIaHRqRGlnc1M?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-16T16:30+09:00"
-  },
-  {
-   "title": "大阪府、行政オンラインシステムのメールアドレス10万7,804件が漏えい 外部メール配信サービスへの不正アクセスで判明",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1NVZ05jSkVOeUloc2ZlMjBuZ1AwSXQ4SjhTZ2lLaWZsMVRPdlR4cTZJck9WWDFfeWxoQ0VVdUNMQk5SUXFvOUhOdVNuQTdjd1JDVUxkSl9vZmJFQzN5VWhkeGQ5NER3TWNTLTJxMWhUMGt6OWRiSUx1NmN4M2JQQWFSQXBPRkxteF9Nc0xpNDloYUMyV1E?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-16T16:30+09:00"
-  },
-  {
-   "title": "アイキューブドシステムズ[4495]：当社システムへの不正アクセス及び情報漏えいに関するお知らせ 2026年11月16日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrX0tPbmE0N0M0Qk5IZkVaZU1laUkxVER3NTlLTS1tNlFvTHFtMDB3bGt4dGtMc1BGcml5cXhUakhkQXNxVUx5elRKSmd1UWFKTldfbXJzWEZzVlJXU2pFdXhycE1IbEZJelE?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-16T16:30+09:00"
-  },
-  {
-   "title": "スパコン「富岳」に不正アクセス 運用停止し理研が調査 | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNVzhNVnptQ1pfa0pmMzV0RlZXN1hzUnJRaHcxTnVrQVpMR2Z0UHRpb2VCTzBsTHM2dEphSTJsNEhzWWVTZ3BGM3VDQk5zZFZuQmJkMlB3X1Q1OG93bzZYdTZ6SVR2enZpc0s3NUJzUTdjMzlxcFBQQ1hYYzNCVkxnamFOSkgxeU1HdjlTWGtXOHVaYU9qeU8waVFZTjRHLTdvYkFJRDlfNG5zZUR3WUVFM2hybDVHdW1DdE1VTDg5V1pjREdmM0JVMmVOVFI0eFc2b1NyVENZTGFFVE04NUxhQW5SZDhnUl9Qajkza3JNRk92VU0tMVozLVFHMnRqRjlCcFAtSTVNYVJtVjZ3TmRMLTI0blgwZ1hHeS1qa1VJQXRGSlpjQlNDRjFfdzlrbmkxZjlad0VnVTRZc2pDVzRuVVVLRE02ajV0QzFHcnNyM0syOHBidlNEWWF3ejdxWUFSRFdzR0dMOGF0YWlfQjhPVk9yM1AwUHppazBnU21xS2N2b0hncjM2LTRWeUdFY1prUE40U2prS2FmMU4zNEJfU0hCYw?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-16T16:30+09:00"
+   "title": "【第二報】第三者による不正アクセスに伴う化粧品ブランド「akyrise（あきゅらいず）」の会員情報漏えいに関するお詫びとお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yTVM5bjZ5WEVpWmFUMGxSa0RfT3NWMzF5U1hmdzJtX0NmeThiakhFdlZqc3U2R3FzekU5T1NuQmZsb3gxWXdsc1FZM0Vmbnky?oc=5",
+   "source": "株式会社ユーグレナ",
+   "at": "2026-11-16T17:02+09:00"
   }
  ],
  "osaka": [
@@ -626,7 +632,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「ドコモの「5G SA」通信障害が完全復旧、全国で一時利用しづらい状況に」"
+    "「ドコモ、5Gサービスで通信障害、今月3度目 音声通話などに支障」"
    ]
   },
   "japan": {
