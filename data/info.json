@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-16T20:00+09:00",
- "errors": [
-  "world_topics",
-  "nankai",
-  "outage",
-  "japan",
-  "cyber",
-  "osaka"
- ],
+ "updated": "2026-11-16T20:15+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -228,6 +221,24 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍の航空基地をウクライナが攻撃…「30回の爆発音」、夜空を照らす炎を捉えた映像",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rcU9yTjlwSHpFMDREZ19tamVzQ1hKVnFQR3RHUUJHWk5WelNPTl9rTXZua1NNWlFndHJnSHUtSXRaV3loRGt4WkZmdEM2Y0VrckJ3T3o4bjlPQQ?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-16T19:53+09:00"
+    },
+    {
+     "title": "ウクライナがロシアに最大級のドローン攻撃、「クリミア橋」が損傷",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWVCeDBPUzFCUTI2UjY5X3FDdWo2Umo4dFRNeFB6a1dMUTM0Y0NrWnVjYXUzQTlUd2JEck9GN0VUb0JPY3NhS1FxcWs4Qnd3cDNtR0FJM2NVOXBQT2FMRHZsQVlnNWJHWTJqNEpoMmJPNkNkaVZzekY5b2E5dEpkUlUwN3RzaUVBbGNVZlln?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-16T19:45+09:00"
+    },
+    {
+     "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-16T19:06+09:00"
+    },
+    {
      "title": "ウクライナ、1300機超の無人機でロシア攻撃 クリミア橋も標的に（ＡＦＰ＝時事）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yMkVhYXpwdlFkOVFaeV80eGl1enJEYnBjUWxleGZBdkRmSG5NeVVTUmJoZlpxR2g4WXAzdGVSRUgyc0x3cDd1WEZLQmprX0JZenc0WWh3ZUdfY1JIdFEtZUhjTVVmTE9zQ0VVeW55bTVHd3JwMUpLSUxZd0ZMZm8?oc=5",
      "source": "Yahoo!ニュース",
@@ -244,24 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVVVRVTlXSG0wVnNzMlJTY0RLX1kydy10YnNTRE5sbGFjbWF1MkRScmVQZjRONXUtWmd4N1JFNm1nSGd5aEJ6bnJzV2ktdUpETXMzR05MeFBJRWNFdWllZ2JfaThTeXc1a0l0X0Q3N01hTXo0eVY2ZGRjWS1PMDVHcnRib09jSkIzLWdnbk83LVZaM1Fqa1VlYXJ0R3M4aEZyRG00MEEzSEQ3QjllM2Q5LU80RTFhUDgzRnFScVBBU0Z5b0NJQU5Lek5lZjh5OUw1YWJNQXdmbjRNajlfM3oyR2ZiZXA1dm1vMFHSAe8BQVVfeXFMUFJfWm5XSzdzNzdOWDNpSmExd0NRM2V1Y1Vobk5FdzJhanZDWGF2RlVXV1RqT3BscWtsWjZ6ZnNmWlRITjhXdGlFaS0ya1RaVHR4Si1Ya3VIZXFtZElDVGFnWTdIZlpoVUYyWUpYbG9TUTdZS2VTak1Yc2hhel9DellRYzhQUTBTNHFTb201SGdZUEJlV0h2S3hiOVloNUtFLWV1el80OG04dWo1cUwtLUliMEh3X2tZZGtCNWQ2bW82b05ZcEczb2FBTnRqS2x4WUZXT3FpMVp6V2lJWGlUNzJ6eVgxLWdsUlZZeEVuZUk?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-16T17:49+09:00"
-    },
-    {
-     "title": "ロシアはウクライナに対する新たな弾道ミサイル攻撃を準備している＝ゼレンシキー宇大統領",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWVyTUpaUmYwcUk3UXhyYWJBVlhUQXlYRmNzajNxOThOLU5ocVNaU3lkMkM4aFlvWVZGNnJ1Y1g4Q2RfTTdCaU9QSkxSZWxORzdFQUpZVmZpazJEVHhvMkVPcHpyaGV6OU4wQ2pLRFBvTTRlUDdkOUZSX1o0WWRaYTJLMGZzeGdsNTFHaDg0MVBKa1VIcFFYbGprSURTa19YZEYwcC1mdHRVZTI3RThlMXVNcFBGNlhqRmhkbE94am53clRGNFBXVW85YjlGWTdDdzdhNlRWSWN6VTdBSHM4WFFuN3JkaC1uWjVB0gHwAUFVX3lxTE90LXgyeThzamZpSVVjMm9NLW1nUGJrNkREaDZid1JkWmpTWURzYm1NcnZabEFCaWdVcEVWWElDTXVzOU5DWnNpRE9uMFNYSGJsWml5Mjk3dThlRUQyYk5iWG9RMXFNQW10R0JiUWxfbmpMZWU2S3NLQ3duVDRTU3B6WkdLSkl4M3Y3elYyaXB2bW40dlRONTc3bkRSdHkzVnFpYU54VFFXVEFHdXhNNk9ZN244aldCX0pkNFFGd3lTRGlWYzhkWGdWZG9YMGo2VURtTVI1N3o5THZMWmY4b21hV3J6VllIUDBldW5HMWRnWA?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-16T17:32+09:00"
-    },
-    {
-     "title": "ウクライナ、クリミアの主要な橋を攻撃＝ロシア任命知事（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KRUVjM1pxWmFZbm1QZjVUUlNDaW5DMkJqSEszMFNuTVZ6UkVlYVhHV1hrX2ZnN1BVMmNMNHl6RFlyVnVPSjM0Uk5DMjA1NjBUaWFjTnh6ZjFIbllXUjlZdjZwbGtfRm1QT0FEdXIta2RsZjJQNHE2VWxrUlVVSjQ?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T17:25+09:00"
-    },
-    {
-     "title": "ロシア軍、ウクライナ南部のエネルギー施設等を攻撃　負傷者６名",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzNJbDExV093S2p0TzJqV0FpVjVuU0RRaVBFVUxxQk5USVEyTExvSzlHNm9zeWsxaGN5Q3ZUalg0SHVfOFMxLVgyUWlOVFB6QXlQX2FOVGJWSjNMN1lydGFPRGJuODlNNXhrSjB2bmJ2dmlQWm5BRGFJNUNfVDVkZG5SWHpKc3g5T0JITDY0eFd4V3NBa05vNm41SC1PQ1dJbTVOS0lULVd6OEk0cnk0TjlyYVB4alFxR1hyUFYxMNIBxAFBVV95cUxOMEExY01LVmo4c2FQUmpkS3RzWkk3X1dPUjYzdXJOMWFiM2NKY1R6LU5OM2hLN2kxUzBFSUlUaVBaanJaeGlMc0NmRXpKMkRpMVMxR1hfQnp1NHV4WHRkS0pKRl8tVDFOSGJIall0ZGVqMVFrVWFjaXdCUDhjOC1lWEpqMW9TNUxoVW1EbUJ5QTdseHpVNEFPT2VBZExGcWtSaGt4YU5OaGpwRHhzejJSNm55c1hZNGl4RWFNLUo1S2pRUmVP?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-16T17:03+09:00"
     }
    ]
   },
@@ -271,9 +264,9 @@
    "items": [
     {
      "title": "エストニア、ロシアとの国境閉鎖へ－防衛企業への破壊工作未遂受け",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSzcxUzlOdDBVOUpLbDk1N3pjdnRVOFVoSDl5ZjdQdXJhbThxeFNCTzJ6MTdwX18tRGVaSzRKQnR5ZEQ5THlLc1ZyVjFjRzFudW9JUmlPZDBodWctMFJ2SzJOd0QxNW9TanpZZlp0akY3NVpENXln?oc=5",
-     "source": "Bloomberg.com",
-     "at": "2026-11-16T14:04+09:00"
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRHB4bVhlUnIxNDhydnVueDRrMEhNWjhxUlBUQTJPZGJGdTJfMmZpbGRZczg2VXhCbWNBMllpS0FuTy1zbWRrZFZmZHZlWTd1dHNjN1k0S0VJUzZwRHlLZjdzb2FxbW00cHRnTnhXeXlFVEda?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-16T17:35+09:00"
     },
     {
      "title": "欧州各国を襲った数千通の爆破予告メール、空の便や学校に混乱 戦闘機発進も",
@@ -310,16 +303,16 @@
  ],
  "nankai": [
   {
+   "title": "「すでに南海トラフ地震前の活動期」京大教授が警鐘…約30年ぶり愛知の震度5強は無関係も西日本に迫る真のリスク",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzRXZMY1NNVWtuWVBKMkx0Z2Zpd0lyVjR5RGdic0J0d2pVXzVDU1lTa29yZTN5dGdDMWNLN0VqMWNCNHF5bEhNd0tSVnJORks1MzdrS3VPLWZaak9tZHFXNVd1SXV1b3FTc21HWHowNXFiUFU5ZlpoZA?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-16T20:03+09:00"
+  },
+  {
    "title": "浜松で震度5弱の地震から1週間…静岡県が総合防災訓練を実施 南海トラフ巨大地震に備えて 県内全体で6万人超が参加 中学生「地域を助けたい」（テレビ静岡NEWS）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUURKQ0VTYWdVNFlZeVg3N1NMQWdnbHRqak00cFVNQm53LVJvZXcxdFlSMDdUV3hZdWF3cnpkRm43ak5sVF9VZlNlUkpidEpEb1ZiZ0wtaENPLXhLYTZ5a2JyR3BpcFlCdHNBdUtrcHdpMUt4RFh1eFhNMGJFNW8?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-16T18:58+09:00"
-  },
-  {
-   "title": "6万7500人が地震訓練 磐田市・袋井市・森町で南海トラフ想定",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zM280QnVvYjluc1EwZ3c0NDE4ZkpyOHhaZGNoWU5fcVJlclY3UzdMTV9lSnNtMkJ0cWRrVVRUTTZBWWdHWWhiN1praw?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-16T16:46+09:00"
   },
   {
    "title": "南海トラフ地震Ｍ９・１級を想定、被災者救助や応急的な復旧の手順確認…１００機関１０００人参加（読売新聞オンライン）",
@@ -376,6 +369,30 @@
  ],
  "cyber": [
   {
+   "title": "ドコモ、また通信障害＝今月3度目、6時間後に復旧(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1Q1RDFNSzFZUTlQWTVMWGtXSVZpc3p0SjdmSUxJemdqeERQaEl1V0ZyemFrNUIxUXlnTldxSHh0emtWRXhMTjBnb0d2enl2dmZNWFJIenViLWQ3SnJ6ZWwwQTRlVnJxenJFcTVZQ2hIWnIyMlptd3dKclJNUmZmdThDQ2JFekk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-16T20:07+09:00"
+  },
+  {
+   "title": "総合防災訓練でドローンなどデジタル活用進む 専門家は「災害時のシステム障害」想定の必要性を指摘=静岡県",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aak1taGRlRm5MUl9yM2Q2SzE0Q1g4eF94VzB2V0F0TVpNazY4WTlWaWhocGszTDhEZ2xxWE56QkNZekQzWW1iaTJUN0czd0x2cUVFVVlrWFd5TGFHY2Nwc3RqaTZkTkZ3OFhHWFdEMWtKTzNYZzZzT3BaQUw3Z1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T20:03+09:00"
+  },
+  {
+   "title": "ドコモ、また通信障害（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzZEM2cjBPVW9uZ1NPQVZhRDZwV1VWbEtLWnVoOGMwYzk5X0ltSkk0MGNhQU9lTm5LTDZNN3JHa1R5WmdnVFFGRHFDSDVta2djcy03YnNMcGNTdkNkTjN5QURLVVUtZ1JKaGFVVVR1eUpYVTM4R2ZZeE1hdTRQZmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T20:00+09:00"
+  },
+  {
+   "title": "NTTドコモの通信障害は完全復旧も今月で3度目 原因は通信サービス利用の交換機にアクセス集中 サイバー攻撃など確認されず",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkpEUkw4elBqOWY1VHg5VTRqbkpoVUZTRGtzX0VaM2VWTUxfMklWdTFMTjFJQzdUb2tOdDJJbmE2Mk5wWWFnUWdHOF90NlFfVUdEYUxlelhpY280MlBRVXV0amxNb0ltLTJLSXgzbjM4cUJUX0MzOEpSTFNaU2xDZQ?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-16T19:43+09:00"
+  },
+  {
    "title": "NTTドコモ「5G SA」通信障害が完全復旧 通信障害は今月3度目",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVOGhRZ2QtSUlXOGxZSGNSN3NMVXFlSmlQM2EwWlJzZ05GUUhRTVI4V0kxS2g1WWRVUHN5VFp0UlRFdVNLTFpLT0NSbw?oc=5",
    "source": "TVer",
@@ -406,64 +423,40 @@
    "at": "2026-11-16T18:26+09:00"
   },
   {
-   "title": "ドコモ、また通信障害＝今月３度目、６時間後に復旧",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85XzVUYnc1c0FkR3BUQUc3WUtWOU9RY1FaNlBJaERJUVNJSEJnVUNId09mWlhLWkI3aDhaLWdhWUZSRFkwTlN6UHFWbUhnOTBYdTVoQ010Z1Y?oc=5",
-   "source": "リスク対策.com",
-   "at": "2026-11-16T18:20+09:00"
+   "title": "四国電力ウェブ委託会社に不正アクセス 約60万件の情報流出",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxeXdRRVkyTlBGSFdJX3o4Z18wR1lUMUtRVmVlQmplRDV2MFhGUHFTVWdRZWtKS01yeHBZZ1RKSkdNcE1pa3N1eWdKWld4VWRXTTRmaU9meWY2akVjdmlZ?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-16T20:08+09:00"
   },
   {
-   "title": "ドコモ、また通信障害 今月３度目、６時間後に復旧",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1VGY4bVlXU1JDSjJacXRhVk42cXJMSXdrWFJYS2VxYTEtcUVGMk01ZmYweURwRkNMRDU2eFlmQzJvbENuWk1KcHpWYzZLdmZwMjM1cWwxRlBSSWVVcDFzZHNUaw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-16T18:09+09:00"
-  },
-  {
-   "title": "ドコモでまた通信障害、今月3度目 こだわりの「真の5G」拡大に影",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zYndSQmdJbHg4UkxDT2pHNWs4OVNVR2duWkRIekZtTXdicnNDRnVJUnNOdjFMQmhGQ0MtbnlsMVo5VXBzTzJEdkh6b1ltTjUwekxHRUh6b1N0R3g2RzcxTXc3dlpGWEE?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-16T18:00+09:00"
-  },
-  {
-   "title": "ドコモの「5G SA」通信障害は15時58分に回復　一時的に設定変更した人は元に戻したか確認を - ITmedia Mobile",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MVEpzdmVYUkJ4ZWw5aURYbngzWEtYOWYwMGxndjNSNm5yUnBPVHB6VTNvX1NSOGkwdExoeldFZ0F0UHhJYlZtaDVkV0M4Z1EzMmJCLU9JdThPZTJzb1ZRMFVzZHRvUVlrVDMyek5GY9IBaEFVX3lxTE9JVzJ3TjhKT01FbUxDNGxpS28tZG9jOFNySjN6NmFBaUc1bWhrQjZBS2xJM0xUTjVXSVRmcG9xWmVNeWVEZ2MwVW9XR3RabWFScFNWa2dKVmpQZmNUc3didXREb3JRZTdS?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-16T17:45+09:00"
-  },
-  {
-   "title": "早島町メルマガ アドレス８２９件流出 「アララ」への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pQzVYSlA3Q0VwVjF2ajRsWEhFLTdINENNNkNESnd6RnoxSU14VmpDWVlqNjV5WHZiNW9vMHNMOXNOUUk0RDdxUUxFTlNmWUstdVE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-16T19:37+09:00"
-  },
-  {
-   "title": "香港ディズニーに不正アクセス 電子チケット1万7000枚盗難の疑い",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pV3VOczNVc1NrMXZDNXlfdjEzTkY3TndTampDektRWnc1ZjJpUHBBUFdvSVI3Q29mTmtCN08ydHpoVkhnNElCcmFLOHMxbmtOLWJPNFVEZXVHYVlRaEFZd1I5aG1xbmE2blVOLXkyOHk0cGJtMGNPVkNB?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-16T19:35+09:00"
-  },
-  {
-   "title": "スパコン「富岳」の接続システムに不正アクセス 利用者情報が流出か 詳細調査し運用を一時停止 理研",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1feG02dTlVM0dvU1Rwckw4dHFKTkM5NnU0cXZiU3VIQTZDLXA4czZ4N19lbExZc1hrVFpOTXBPY0ZxQ0FkaUNRMHgxR1hCdXRuWVUwNWhhVjNfbkxwSUUzN0paQWcxYTRvQWxpMWdsTkw3NXpoal9oR0tlVllTNTg?oc=5",
+   "title": "岡山県早島町のメルマガアドレス829件流出 「アララ」への不正アクセスで（山陽新聞デジタル）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4dC01SmR5eDhmNXRRMm10TnVVM3RQbTFoTWtXQXV5OGxSWkQ2dnhqbThjWUxKZjR0a3NRel8wUDlnWDJLNnNDUTlKbGpfQWIzdTRTNWJlNlhvc3B1bjgxRDV1Z1VyN2lWLXFSVTNrV3VrTnl5MzFfci1xSlA2bzg?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-16T19:22+09:00"
+   "at": "2026-11-16T20:06+09:00"
   },
   {
-   "title": "最先端スパコン「富岳」に不正アクセス 企業の機密情報流出に懸念",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUS1ab0dSZXlRUno5aTZUcVhNaENWc0gzcFlUX1A4U2lMc0ZtcVY2SG9Va05DcGNtdFFRT2NzUng1V3M5ZFZGdnBUeWNUdk9wTk44RjlHSHNrZnZITGJrY0R6cHhSVmZPcUxvUw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-16T19:10+09:00"
+   "title": "台湾、サイバーセキュリティ脅威でアジア太平洋首位 サイバー保険料は7年間で約6倍に急増し5億台湾ドル突破",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hQXN5TVlqZjF3aWl5ekxWeWNPZzJEMTVqX2lERTRrYTNuSXUtT2NuY2J0QjNYSTBxWjBnaFJidFl2ME96T2RTOGhaY1Noei1hMnp3LXJaczRCWEJGbHVIVDRZVnZZTnBLeXhkSlBrbE0zOVhf?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-16T20:05+09:00"
   },
   {
-   "title": "四国電力、顧客情報約60万件流出 プレイドへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzclREQ0RwRHhKMlBrVEp5Tl85Y3hqeTgxWkdudjZSNmlqSTluX0RwdGY2RzVnUHEwdEdBVGdDb21WU1o4Wm1PVDdBRlBzdl9GNkV2UTkydUF1enFSeHduY3Y3MDJ3OXBOZGRKdw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-16T19:09+09:00"
+   "title": "エネコム、不正アクセスで法人顧客や協力会社担当者など計2940件の個人情報流出の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Eei1vbGFvLTFmODg4dHY4bW5rX1pYREhESGdEdDR3LWFMd0NXZ2xtYXdrTFBfbEVqWk9lSTVNMmZ6ZkNKZGZOd2MtTlh4amlybjN2bzdJNlowUQ?oc=5",
+   "source": "中国新聞デジタル",
+   "at": "2026-11-16T20:00+09:00"
   },
   {
-   "title": "スパコン「富岳」に不正アクセス 全利用者に影響か、秘密鍵や認証情報の持ち出し懸念（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGR3ZOU2JtY2YzMGlqUDdRa0l3R2FIQkd3bExOTjY1REtiRHBSQjNVWnIzWm9KWFFqX19YSmZYNEJnT2tjMW8wQU5VdFlsSlI0UGo5OGYyeXNrNHVMR3FIZkRMR2c5bGRHRXJYeVJGbEI1SEJsRkVIOHlndkZQQnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T19:05+09:00"
+   "title": "《不正アクセス》四国電力 約60万件の顧客情報漏えい【高知】",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBweUdLMEk3cTdRR3p4dGVKbTFmUEU2eFFyR3hMcTJnWThJaEVUeEJoSFBBMW1uRWV1SjlZWGZnUDU2aVlQOUJ4SjlGamJGSnZGRHFVYlZ0YU10dEVuMlQ0YjFSZ3M2ZUdoSUNfaG9B?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-16T19:55+09:00"
+  },
+  {
+   "title": "奈良県内のインフラ事業者などサイバー攻撃の対策を学ぶ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMb2otQUg2MHhRa3pOZEk3UGJfRkFBY2RzbjRoSjJhazJ6N0wxMHFTNVd0alo1R2s0SkI5ZmhRc09RM0VPRzVOV182Rk1DZUJlQmF4X1dKWmF1ZjlSay1J?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-16T19:46+09:00"
   }
  ],
  "osaka": [
@@ -482,6 +475,20 @@
  ],
  "world": [
   {
+   "title": "ロシア軍の航空基地をウクライナが攻撃…「30回の爆発音」、夜空を照らす炎を捉えた映像",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rcU9yTjlwSHpFMDREZ19tamVzQ1hKVnFQR3RHUUJHWk5WelNPTl9rTXZua1NNWlFndHJnSHUtSXRaV3loRGt4WkZmdEM2Y0VrckJ3T3o4bjlPQQ?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-16T19:53+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ウクライナがロシアに最大級のドローン攻撃、「クリミア橋」が損傷",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWVCeDBPUzFCUTI2UjY5X3FDdWo2Umo4dFRNeFB6a1dMUTM0Y0NrWnVjYXUzQTlUd2JEck9GN0VUb0JPY3NhS1FxcWs4Qnd3cDNtR0FJM2NVOXBQT2FMRHZsQVlnNWJHWTJqNEpoMmJPNkNkaVZzekY5b2E5dEpkUlUwN3RzaUVBbGNVZlln?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-16T19:45+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
    "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
    "source": "アラブニュース",
@@ -494,6 +501,13 @@
    "source": "ニューズウィーク日本版",
    "at": "2026-11-16T19:20+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wTHg4bVNqYk81b1BucWlhT2N3VXc3ei1LU3RJdlB6SXd4WUZYVG9RNzNTbjlKamwxbkR3WGRFYlRfUE5FY3pVdFFFN1BkWl9CT2xZazFkaWJLdGtlejNlTHBTUm9DeGRneGpUdmZXMXp5YVNpckdoZGJCc0s?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-16T19:06+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "ウクライナ、1300機超の無人機でロシア攻撃 クリミア橋も標的に（ＡＦＰ＝時事）",
@@ -531,11 +545,11 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ロシアはウクライナに対する新たな弾道ミサイル攻撃を準備している＝ゼレンシキー宇大統領",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWVyTUpaUmYwcUk3UXhyYWJBVlhUQXlYRmNzajNxOThOLU5ocVNaU3lkMkM4aFlvWVZGNnJ1Y1g4Q2RfTTdCaU9QSkxSZWxORzdFQUpZVmZpazJEVHhvMkVPcHpyaGV6OU4wQ2pLRFBvTTRlUDdkOUZSX1o0WWRaYTJLMGZzeGdsNTFHaDg0MVBKa1VIcFFYbGprSURTa19YZEYwcC1mdHRVZTI3RThlMXVNcFBGNlhqRmhkbE94am53clRGNFBXVW85YjlGWTdDdzdhNlRWSWN6VTdBSHM4WFFuN3JkaC1uWjVB0gHwAUFVX3lxTE90LXgyeThzamZpSVVjMm9NLW1nUGJrNkREaDZid1JkWmpTWURzYm1NcnZabEFCaWdVcEVWWElDTXVzOU5DWnNpRE9uMFNYSGJsWml5Mjk3dThlRUQyYk5iWG9RMXFNQW10R0JiUWxfbmpMZWU2S3NLQ3duVDRTU3B6WkdLSkl4M3Y3elYyaXB2bW40dlRONTc3bkRSdHkzVnFpYU54VFFXVEFHdXhNNk9ZN244aldCX0pkNFFGd3lTRGlWYzhkWGdWZG9YMGo2VURtTVI1N3o5THZMWmY4b21hV3J6VllIUDBldW5HMWRnWA?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-16T17:32+09:00",
-   "topic": "ロシア"
+   "title": "エストニア、ロシアとの国境閉鎖へ－防衛企業への破壊工作未遂受け",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRHB4bVhlUnIxNDhydnVueDRrMEhNWjhxUlBUQTJPZGJGdTJfMmZpbGRZczg2VXhCbWNBMllpS0FuTy1zbWRrZFZmZHZlWTd1dHNjN1k0S0VJUzZwRHlLZjdzb2FxbW00cHRnTnhXeXlFVEda?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-16T17:35+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "米陸軍少佐が告発書を提出 米兵6人が死亡したイランの攻撃めぐり",
@@ -543,20 +557,6 @@
    "source": "CNN",
    "at": "2026-11-16T17:26+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ウクライナ、クリミアの主要な橋を攻撃＝ロシア任命知事（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KRUVjM1pxWmFZbm1QZjVUUlNDaW5DMkJqSEszMFNuTVZ6UkVlYVhHV1hrX2ZnN1BVMmNMNHl6RFlyVnVPSjM0Uk5DMjA1NjBUaWFjTnh6ZjFIbllXUjlZdjZwbGtfRm1QT0FEdXIta2RsZjJQNHE2VWxrUlVVSjQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-16T17:25+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア軍、ウクライナ南部のエネルギー施設等を攻撃　負傷者６名",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzNJbDExV093S2p0TzJqV0FpVjVuU0RRaVBFVUxxQk5USVEyTExvSzlHNm9zeWsxaGN5Q3ZUalg0SHVfOFMxLVgyUWlOVFB6QXlQX2FOVGJWSjNMN1lydGFPRGJuODlNNXhrSjB2bmJ2dmlQWm5BRGFJNUNfVDVkZG5SWHpKc3g5T0JITDY0eFd4V3NBa05vNm41SC1PQ1dJbTVOS0lULVd6OEk0cnk0TjlyYVB4alFxR1hyUFYxMNIBxAFBVV95cUxOMEExY01LVmo4c2FQUmpkS3RzWkk3X1dPUjYzdXJOMWFiM2NKY1R6LU5OM2hLN2kxUzBFSUlUaVBaanJaeGlMc0NmRXpKMkRpMVMxR1hfQnp1NHV4WHRkS0pKRl8tVDFOSGJIall0ZGVqMVFrVWFjaXdCUDhjOC1lWEpqMW9TNUxoVW1EbUJ5QTdseHpVNEFPT2VBZExGcWtSaGt4YU5OaGpwRHhzejJSNm55c1hZNGl4RWFNLUo1S2pRUmVP?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-16T17:03+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "北朝鮮系ハッカー勢力による韓国議員補佐陣詐称したサイバー攻撃を捕捉",
@@ -585,13 +585,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-16T14:12+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "エストニア、ロシアとの国境閉鎖へ－防衛企業への破壊工作未遂受け",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZSzcxUzlOdDBVOUpLbDk1N3pjdnRVOFVoSDl5ZjdQdXJhbThxeFNCTzJ6MTdwX18tRGVaSzRKQnR5ZEQ5THlLc1ZyVjFjRzFudW9JUmlPZDBodWctMFJ2SzJOd0QxNW9TanpZZlp0akY3NVpENXln?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-16T14:04+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "＜北朝鮮内部＞やり過ぎだ！ 農村からの食糧流出を徹底取り締まり 没収に住民の抗議騒動も 軍部隊まで検問実施",
@@ -627,7 +620,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「NTTドコモ「5G SA」通信障害が完全復旧 通信障害は今月3度目」"
+    "「ドコモ、また通信障害＝今月3度目、6時間後に復旧(時事通信)」"
    ]
   },
   "japan": {
@@ -642,7 +635,7 @@
     "イラン・アメリカ：「攻撃」5件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「ミサイル」6件",
+    "ロシア：「攻撃」5件",
     "欧州・NATO：「爆破予告」「破壊工作」4件"
    ],
    "items": [
