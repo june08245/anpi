@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:30+09:00",
+ "updated": "2026-11-16T09:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -125,10 +125,10 @@
      "at": "2026-11-16T07:18+09:00"
     },
     {
-     "title": "イラン大使館、帰還する駆逐艦の米海軍将校「2人を見つけ出す」",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNGpiZ2dnc2NxZ3FOd0pSVFl4TXhnM0xEM1p1WG1RTTdWQkg1ODRsSHplYlFfQ000RTl4Ykxwc0w2bWlVWjR3MGxfM3RHVnhJTVgzSDlpY0tuVENJUXJpeExjd0lHUlJCV01oelN1WkROcEozT09SZXVLWUtqS3luX1VBdUZLOVQ0NjlmNWx3YzRhTkowVUE?oc=5",
+     "title": "ブリンケン氏、米国によるイランへの地上侵攻は「完全な惨事」になると語る",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVFsSWlPLUhiWjRsalJybEdOTG80UllrOVdSX1lvejVoRndjdkczWXhsV1hBdHBtX0R4ZWwyeEZseXdIQXRNOWJNOFJwcEluMXI5TzY0cXVkU1E5NG5BeVUyNDFic1pUSnRkNDNoZ0V2X19ib2s1RjE3SGplNlpEOERlTmJtcWNlZF95WVVxaDJ5QkZnV2Rz?oc=5",
      "source": "Mezha.net",
-     "at": "2026-11-15T23:14+09:00"
+     "at": "2026-11-16T02:31+09:00"
     }
    ]
   },
@@ -179,6 +179,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "米中ロ首脳が初の３者会談へ 核軍縮や北朝鮮問題を協議か",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fVFZkZzVUS0d3OVo5bkRCUHRBVmpPSkZYNE5XbVUzc3hPUTRwRnkxdDJVcElXQktieEtkUjVfYWRZaS1ncTB1Q2RKRklHMWJ0NEhMdDA1UGZaNFVJeEUtMlNmak9yQQ?oc=5",
+     "source": "동아일보",
+     "at": "2026-11-16T09:28+09:00"
+    },
+    {
      "title": "北朝鮮ハッカー集団「ラザルス」、韓国のサーバー３０カ所を攻撃対象に",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UTzFpd3ltT1hTWkNtVTdPTEhVeHhsTGVVT0VOWHBid05LcVhGV2EwbVpWQUxCMks2cDBMbzhLTDF3OGZqSmhhNllIVk90Q3dzTG5YWkVrWjhHQnFuOUxyckZMb2dYQQ?oc=5",
      "source": "동아일보",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OMlo2dW0yRWp2R001WUhDbnpobHViRk9saHY3Y1M3ZnhuVWJ1X196NDNqa3Vtbzd1SFU2cE1QZHRhTmxsWVBBNVRSeFAyenJuZ1dsYWVpTC0yZVU?oc=5",
      "source": "山陰中央新報デジタル",
      "at": "2026-11-16T04:00+09:00"
-    },
-    {
-     "title": "北朝鮮、ハッキングしたコインで本当にミサイル買えるのか",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEhWTzZsQXFuRlRxdS1Yd055UmRSdVRMNlVCc1kxMmRBdEQtbnJQdTh2ZUkyVWE2MmFfeTcxSmZQdmJGWWYxaWRpZDF4UjlYT2pXS0Q3a0k3M0NEVDZUZHRsRXY0QUxkT3JtUGFuSGhjVUlMQ0tTbWp4aVJqUXFFY21BM2lEbkllNWxSVGJB?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-16T03:00+09:00"
     }
    ]
   },
@@ -303,6 +303,12 @@
  ],
  "nankai": [
   {
+   "title": "雨の中 南海トラフに備え 県と3市町 合同防災訓練 ／静岡",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mbml5ZnJCb29TWGFmQ1l6b1pWdTBrVTJkdTNlTlFNYnllbkpTTjFRQ3UxcGFyT0ItWlhZWUNqZTFpYko0NnZBSDlaUnk0MmMyWFY3QmNKd1V5OF9STFp3dmowWllSeFg3?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-16T09:07+09:00"
+  },
+  {
    "title": "すわ南海トラフ地震か【上昇気流】",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkYS1kU1VJc05KZ0hvLXBuaUVNVFR2cDJvYWNZOV9INlZQS2VXNXBMVm5BYXlkN3pGNnBhU3o4eHFGM2p3MEhZNUNSNHNaenpuWGNneExoYUdGX2xLTlMtaXFn?oc=5",
    "source": "世界日報DIGITAL",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqQkFqZl9mbXVsQXZkdFhaUVhYaUFTU3d5SnQtRURJQUt0VXNPYWloRWFPXzlCYXV2cm8zSVA2WTZaempwbENlMzJCaw?oc=5",
    "source": "TVer",
    "at": "2026-11-15T19:56+09:00"
-  },
-  {
-   "title": "「囲まれたんでびっくり」 災害時の報道のあり方を住民と記者が考える 関西７局の記者らが避難所生活を体験 南海トラフ地震に備え訓練 兵庫・南あわじ市",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51elY2dHdCWmxWT2pLcFhDZGNoZnQwSDJKYTVrRTBfTE1RVHNQWVplSnVteHluQ2w5bGFBc0dUSGl1bG1fLTJaakpLSTUzUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-15T17:59+09:00"
   }
  ],
  "outage": [],
@@ -354,10 +354,22 @@
    "at": "2026-11-15T21:00+09:00"
   },
   {
+   "title": "Jアラート訓練放送 2022.6.15 @Jアラート @訓練放送 @本番では、津波が来るから直ぐ避難。@交差点注意です。 Taylor Heinicke Nfl Retirement (rBrqBvwBAJ)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHlCQ0JfdDFRZ1ctZGJVVzc3VnJJWjRKRFg0YVNaaUUtQVZDUWpoajZMWGxwOWhEUjlRejNILVNNZUNFdnNFLW9WY0NuZTc4ZzFhbGFFOURad3lmaGxORFAza2tMdUpMRTRrQUVqaVduSjB6RTh0QXJUazVBRzVtcGVB?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-15T20:28+09:00"
+  },
+  {
    "title": "【2022年版】もしも「君の名は」が実在したら...【NHKニュース・Jアラートシミュレーション】 Alex De Minaur (QgXFvDvw4i)",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGhmbDBSaHlCZzJHVGtLNU1BbFNySWxZb0hVcnFnTTVvYjBzRkpsT1kyQklUSm1idThDWGlVaEljc281SlRvVlZRY1B3LTJnZTFDWWVIeW1HdW9qSERoYS1uOFlTQjczajF3dEVLUWFQM2tjYTZ6MXdFMjdoRkhwSkxBcw?oc=5",
    "source": "Unisba Media",
    "at": "2026-11-15T11:38+09:00"
+  },
+  {
+   "title": "令和最初のJアラート全国一斉情報伝達訓練放送 Shakira (uY9Fa2Ec2E)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHhHUnk2Yk02a1pYOWsxWHQyekNvSnc4bW1LX0FDLUwyZTVJVlZPMWlhbFU4c2l5N2dYWVIybWJZUUptVWpaNDE0OVc4WXk4MlVKbVR2VXNZcTd4T2dxSlRsVEl6Y3lJUEJPSjA1TGVNeTlJM19hOW1SdFM3d0c1MUx5X2FvU2M?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-15T11:09+09:00"
   }
  ],
  "cyber": [
@@ -368,10 +380,10 @@
    "at": "2026-11-16T09:04+09:00"
   },
   {
-   "title": "京成、公式サイト「システム不具合」で閲覧できない状態に 復旧未定",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qV25nSHkwQ181V1NOQXFqU1RzcGlLUml3X0lsVF9GS3ZJTTlqMW5RTEh4aERBOTE1Y1NXWElCcEtaUE5CNW5WT0NlZGk1QlBnd1RFWE5wZWtGRkhFWmdwTXFZU2xZNGlBQnc?oc=5",
+   "title": "京成、公式サイト「システム不具合」で閲覧できない状態に 復旧未定（画像）（1/2枚目）",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ONmROWnZ1TjZYX1VRcGs3eWtfWDJOanhQeTdoZ1hkM2dKcW4tbTI3aHZqZmVISkYxa09ydkNHREpIZWUyYnJ6YUJtX0k3djFLTmVlR1I0MkpJSzY2NWZ3RkJBZkloeWc0SjdxSURaWXJuaXdrZzdSR1ZPYUlCdw?oc=5",
    "source": "ITmedia",
-   "at": "2026-11-16T08:24+09:00"
+   "at": "2026-11-16T08:48+09:00"
   },
   {
    "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
@@ -428,6 +440,12 @@
    "at": "2026-11-16T08:15+09:00"
   },
   {
+   "title": "サイバー攻撃「自律化」が脅威に ＡＩエージェント悪用、防御後手",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JTVZYTk10SHJjQ2cteF8tM2pPdS04SVBrMFpKaUZ6MHhGMzFRcHRFT2xCOGtSYnNtd2ZBRUgtTGgzWFZ0T014QUlwanB1bVhjQnBKaWh4YjgydVYzMmhHb3p4dw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-16T08:08+09:00"
+  },
+  {
    "title": "アクサ損害保険「MyAXA」に不正アクセス、約59万7千件の顧客情報が漏えいした可能性",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51eUt0QVFWdzhjVUdnRGhXaTlDZTdhZURPazNjSzliYXRHeEowY050ajN3Z1hVNFQ4ZUY5Y3l5WXhPMkFGSm5EUllyYlotazdwVlBVNUN4aDdGb2dFMnVGM1hfc3lZQ1JacFdKVw?oc=5",
    "source": "ScanNetSecurity",
@@ -444,12 +462,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JSFBPTEFHNFlBRmRQUFlvLVhIYlJpTnoteUUxaG5NZm5oX0dyZWROV1YwVmI1dmRsekhpT1Z5azlyNGhiTEo2dUp5T05qeE93WnRKU0pwakFVcVF0d192NlhYNEtsdlY3MEloUQ?oc=5",
    "source": "ScanNetSecurity",
    "at": "2026-11-16T08:05+09:00"
-  },
-  {
-   "title": "政府、ブロッキングの是非議論へ サイバー攻撃、二次被害抑止で",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yZ2NzUFlpTEsxWG9obEZ4Ums4M2w0ZHZyM2xXRlVQRjJQQnF4Mmh4SVdJR0RzYmI1UnNVVTN2dlM1SmhYV0VZcV9FVGF1R05JalE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-16T08:04+09:00"
   }
  ],
  "osaka": [
@@ -461,6 +473,13 @@
   }
  ],
  "world": [
+  {
+   "title": "米中ロ首脳が初の３者会談へ 核軍縮や北朝鮮問題を協議か",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fVFZkZzVUS0d3OVo5bkRCUHRBVmpPSkZYNE5XbVUzc3hPUTRwRnkxdDJVcElXQktieEtkUjVfYWRZaS1ncTB1Q2RKRklHMWJ0NEhMdDA1UGZaNFVJeEUtMlNmak9yQQ?oc=5",
+   "source": "동아일보",
+   "at": "2026-11-16T09:28+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "北朝鮮ハッカー集団「ラザルス」、韓国のサーバー３０カ所を攻撃対象に",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UTzFpd3ltT1hTWkNtVTdPTEhVeHhsTGVVT0VOWHBid05LcVhGV2EwbVpWQUxCMks2cDBMbzhLTDF3OGZqSmhhNllIVk90Q3dzTG5YWkVrWjhHQnFuOUxyckZMb2dYQQ?oc=5",
@@ -593,13 +612,6 @@
    "source": "朝日新聞",
    "at": "2026-11-16T05:38+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ウクライナの子ども、北朝鮮へ強制移送後に思想注入…欧州議会が制裁決議",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2RkbW02QUQtYVVBaWpmZngwTVFjT0xpQlR1dEtRUWxEdzNLUHF0QnpXNUJMajAtYm5tSnJacWp2bWlBNGJmaGg0VWtvWFV1M196Y3huY05wNVFJV3BjazA5bGo3Uzlrb2U4TVRFNmFBZ1hFLXB6dk1xLWZMcnMybWxvU1Vqa01R?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-16T05:19+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -618,8 +630,8 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「空爆」4件",
-    "北朝鮮：「攻撃」「ミサイル」3件",
+    "イラン・アメリカ：「攻撃」「空爆」5件",
+    "北朝鮮：「攻撃」2件",
     "ロシア：「攻撃」「侵攻」4件",
     "欧州・NATO：「封鎖」「破壊工作」5件"
    ],
