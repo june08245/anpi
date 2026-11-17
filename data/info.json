@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:30+09:00",
+ "updated": "2026-11-18T02:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-18T02:35:00+09:00",
+   "place": "島根県西部",
+   "mag": "3.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-18T01:29:00+09:00",
    "place": "熊本県阿蘇地方",
@@ -72,16 +82,6 @@
    "at": "2026-11-17T01:45:00+09:00",
    "place": "宮古島近海",
    "mag": "3.9",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-16T13:28:00+09:00",
-   "place": "静岡県東部",
-   "mag": "2.8",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -381,16 +381,16 @@
    "at": "2026-11-18T00:25+09:00"
   },
   {
-   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EbDNFeGh3M0llSFBXTE5kNU04dUsyT1pNd083N1VCbEpBWExMX0g5cHN4R0M1MFM5eXhxRE0xZzhZWXk5aVVGYUczWmY4ZThVZzJIT2lHTlZMWDQ?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-17T21:55+09:00"
-  },
-  {
    "title": "障害多発のドコモ、総務大臣が「大変遺憾」。今月3回の短期間、毎週連続の通信障害",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oQlZfWmN5LXNDdUl5TEhSQVFvSkMzS0ExUFdOM1RvcENJc0c4S0F1c0ZCbGdrWlVoNTV2T2hYamVuREtOTnRjYXYxRGJLSDM2MkM4TDc3MGpFUGxydHVSNmFMNi00eWdfQ1pEcHJfNktzSU9mWTRVckpqY9IBgAFBVV95cUxNczRPOTBKYkZhQ09IUDRpN0ozX2I4bDg3eFlVYWtMVWpEVjcxQ1h2dmZ6Qi1XODdPWWlCSEI5Sm1sM3AtS1JXVUlZMkdIOVQ2YzMzeTZvOHNZYnRLMTlrZkJtVE5HbEJwQURFcDdzOFA4SG56d1B2RXZZNkNHNm9oRw?oc=5",
    "source": "すまほん!!",
    "at": "2026-11-17T19:33+09:00"
+  },
+  {
+   "title": "「ジンズ」の会員情報、最大1829万アカウント分が漏えい 委託先のマーケティングツールに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBNHl2SmVVVmpvZTZaRkJlcUE1QjN2MVVCcUNUVzZiajdUT3YxZUVaM2pyS1BZUXFHdXh5dUFSRXRHZmRHTmNqOVp2Z29fWFpFdFA5QkY1UWxWRjlCSXhzVVNjYmFrR2hUbXpCRjRGaDhxaURJUmZXRUJ0dHdxZXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T02:00+09:00"
   },
   {
    "title": "「AIによる攻撃はAIで守る」NTTが語るAI時代のサイバー防衛、ネットワークのセンサー化も",
@@ -429,9 +429,9 @@
    "at": "2026-11-17T22:30+09:00"
   },
   {
-   "title": "楽天証券に不正アクセス 顧客情報が漏えいした可能性 最大1572万件（日テレNEWS NNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84VEFHbnZWaVZCdVlrZEJUdGU5ZC1Kb1NIRmFzbjYxcWNVU3lZdzdOay1rTDk3Z3hrWVRlQnV4ZTVXRDk3WnJ6dUw1bXZ6MlhvM3dBaXNMaTdGdVV3LUtpUi03U3ZaVFU3WGJTdVNEVlNLZzJaQ0RiRGh2aDNXSDQ?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "楽天証券に不正アクセス 顧客情報が漏えいした可能性 最大1572万件（2026年11月17日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12cTVQR0dDeW9JTU1iU3A0MEdxRFV0WDJsMlZMX1p3VVBzRjdpMXJBVUFmUjBNQ1N3NzlfdmtjMzVkTU1XVEdPWWg4TVB6THlOZnNOcElDdWRFTmNVWnRrY256Z1BCaDhYWXhialZBektpUFptbzNkY211dW0?oc=5",
+   "source": "日テレNEWS NNN",
    "at": "2026-11-17T22:25+09:00"
   },
   {
@@ -600,7 +600,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…」"
+    "「障害多発のドコモ、総務大臣が「大変遺憾」。今月3回の短期間、毎週連続の通信障害」"
    ]
   },
   "japan": {
