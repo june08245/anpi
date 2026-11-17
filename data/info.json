@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:30+09:00",
+ "updated": "2026-11-17T19:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-17T19:33:00+09:00",
+   "place": "三陸沖",
+   "mag": "4.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-17T17:00:00+09:00",
    "place": "千葉県北東部",
@@ -72,16 +82,6 @@
    "at": "2026-11-16T06:08:00+09:00",
    "place": "愛知県東部",
    "mag": "3.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-16T04:34:00+09:00",
-   "place": "愛知県東部",
-   "mag": "2.6",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzZzbU9CQjdDSVEwZjFVSWt5Y2VWR2ZBVVpyN2RRNmh4ZzlJbnZjR1k3Y2R4Y25XX01JVWp5aXFMc2d4X2tlZXpQcktETVdNLUxsejRhc1hjQ2VidlJDWFNtQVIxS3F2VUdvMmdkMklndURXdE9EaEpmaXd4d3J6RTlSVERCaDliVjE1d3N3?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-17T19:27+09:00"
+    },
+    {
      "title": "ロシア軍がウクライナ南部の学校空爆、７２人死亡・４人不明…支援物資配布拠点として利用",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nUmhBeE9sdS1zNjBxUlR3UFNUbjc1d09kMTJTMjZCZWhMa3QwSVU1TWcteWVQS0FXNG9wZ3NRUUtkTmc4UEpHVFlUclhYcVpDUWpDQU1zNzd2YUh1VW1GVGln?oc=5",
      "source": "読売新聞",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXczWEFqU1hESFc0YXpCY0xZNU5RWXpEVVFRbXptejRiLVJDcjIwZmkxbjlZdjdwenhwS0R5eDA4Zjcya2l2aFpmMUNmSTJlS3puSDBndnpJd2NRTVNaancySWZHbEhWMzQzbW9WN2xYTW4wcVc5Y3JKVFVFODl4SElqa0QtMVFX?oc=5",
      "source": "조선일보",
      "at": "2026-11-17T17:21+09:00"
-    },
-    {
-     "title": "ウクライナに続きイランでも戦争が長引き、中国·ロシア·イラン·北朝鮮（CRINK）は戦場で団結している。 これに対抗して、米国と友好国は単なる武器取引や技術移転を越え、相互運用性と共同生産に基づいた防..",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lYnVyWWJJTkFmTnpqcUpxUWdvSmZCMThNazM2S3h0YTc1Wms1dENjWnVfVlAzSTJ0VWJ1VnE3VnhpT09MVmhaZEg5MmdpUWtHUkJaaEVPNjI?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-17T17:10+09:00"
     }
    ]
   },
@@ -270,7 +270,7 @@
     },
     {
      "title": "ロシアが揺さぶるNATO東翼、ウクライナ戦争を支える「支作戦」の狙い",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0NDliVnFJcF80X2pSREJGREtxR1Y2cS1kdUhxS0NKWTVQRVRkbE9menZaTlJtUE9kTFQ2WXIxbXpzQ1Q3cWd3aEFlSmNObzEzOTFoVXRR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrYmQ2cE96YUxJMUROYkNXOWRHckZGLTRIQjFteTA3WWNLU0oxUHVucHZjeFhpVEFwYWhLM3picnpfQWxpLUp0bTV6dlRid1U0dmNnbEJLNlFGUERaOUVN?oc=5",
      "source": "JBpress",
      "at": "2026-11-17T06:00+09:00"
     },
@@ -381,10 +381,10 @@
  ],
  "cyber": [
   {
-   "title": "藤井総務大臣「根本原因の究明を」ドコモ通信障害（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yYmdQbk54dVkycW5uY2pzTE1jdktNRk5hbTZZMDdYY1piWDJ5RE5GV3Z1TlJxbmtUUk1Hb3B5NU9GWjlHT0Rtd2VUbTRERnFmYU83N3l4N1RJT3JxeV9TT2lPN1lySTBQYmp6Qm1ZdVNTc3JHeXhQRHEtdUJtRGc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T19:03+09:00"
+   "title": "藤井総務大臣「根本原因の究明を」ドコモ通信障害",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjRjV2xYaXNJS0dXcVYyazlMNjRDTEdXWUtjaU0wTlRpeWl5MjlyTkNXeGgzdHd3VUdwSlY2ZzYtSWZqZkJRSVlJbEJ4Z1J6R1FkalJ5ZUJaVWV5S1h5Rl9MMUNtZDM0VVJ4c3k1RVpPV015UHBoQjgyWTdEQUtjLQ?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-17T19:01+09:00"
   },
   {
    "title": "メルカリ、Android版がダウンロードできなくなる不具合　Playストアにはエラー画面、削除しないよう呼びかけ",
@@ -399,16 +399,58 @@
    "at": "2026-11-17T18:00+09:00"
   },
   {
-   "title": "NTTドコモ「半月に3度」の通信障害にユーザー怒り 5G SAの「4G切り替え」案内が裏目、料金値上げにも批判が",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ad1kwSkpNVVN4b3Jid2NsLTJCUXhMS3dKWThhRjlVbWd4enI5N3NXVW40VVBESXVQMl93OXpvSWdHdmE5UUFlcC1GLXhCaWEyQTZET0pBWVZWd1NKbmxkbDdCeUxpUnp1Q29VWnZn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-17T17:21+09:00"
+   "title": "ジンズHD、会員の個人情報漏洩 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yLVNGNXJuRThlSDRCZG4xTjV0SFFnY25velJKRzRodkpJR0ZtRVdYVk1kdm4zd3ZSWGl5c1FFQmh6MTZMOG1GSlpVVGUtd3VrdHpGWVNIQ25HaXFhLWNsLVZKUXFDdUV1S2RGbA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-17T19:35+09:00"
+  },
+  {
+   "title": "ＡＩが人間の手を借りずサイバー攻撃、弱点突くプログラムを自動作成…米グーグルが事例初確認",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQVhxY3BZaEN0aFhvUTVVU3VqZWRYOERiRlJLNWliRWM5S1BReGRMNTdSSlpyMUpFMWM3TEVybEFBalZuWFI2TkpkV1Jtb2JaaHJRcXB1cnE5WXZXcUhCcFJKMVBLTUEtUHROWE1ERFBrbGlaVms1dDNTUW01R3NmOFpDTnZDZV9XdXVFTdIBkgFBVV95cUxPd0JSSzBkTmV0bHVUUTl6TnFUVGxFR1RscmxwcU1OVnBodVJ4VDBiYjlNY0p1VkpHNjUtdHlEcTR6RFB4ZGdJNmJ4Mzc2SE1vX1gybEtyUExxV3B3dm1MSkhqdnBWNFh0WjUzUHBCR3RhT29zOUpuWVZKS3JLUWlZVUdJaW5QdmJTdEJVd1RSdTB4UQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-17T19:35+09:00"
+  },
+  {
+   "title": "「富岳」不正アクセス、研究データ流出の可能性 住友ゴムは計算中断",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnJsT0FnRDE3TTRUVjdURmpaSnZVSzFZcGl4TE5xNEk3S0VxOF9FUkNkZUM1SDQ2TU5wZ01OenA0dmkyYzFWb0lmb2g4V2l5dVMzLVpxT2tLT043RDNkZkZQNS1ZQ250TlNqZ2VaQ1NxN1B0Y2VQOTlpS25jU0k3S002V19Zb3c?oc=5",
+   "source": "日経クロステック",
+   "at": "2026-11-17T19:35+09:00"
+  },
+  {
+   "title": "無印、株主優待を電子券から紙に サイバー攻撃被害でアプリの安全確保困難",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TaUpILWJncy1fcE9GSExZa3czLW9MZHZ3UGpVQWZWTGlCdEN3VFVKQVVGRk5WdFBZNU9zMXFjcG9lVzAtUVUyajBKTndST05Ka1JZN2JmeTM3SFVVYndpMXhyQXFVa3ozYnZFcjBZaDViV081Y0E?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-17T19:33+09:00"
+  },
+  {
+   "title": "氷見市 不正アクセスでメールアドレス約1000人分漏えい（2026年11月17日掲載）｜KNB NEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjhocEVrcGtkbmhzdjBiT1RUeUhQUWFGVmV3ZzhsSmJLTlhGcDY2SGNkS0hTRV82QTZtMFkwcmpZYktnOGFkUFFycG9hdk8yLW9fODM0dWViYktmTlFLWVhzM3R0Q2lxenJnTlozamhXUC1fUElwa1ZDd1lUcENCMEtNNWlmYnc?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-17T19:29+09:00"
+  },
+  {
+   "title": "楽天証券で最大1570万件あまりの顧客情報流出か 不正アクセスの可能性を確認 ログインIDや顧客番号など パスワードや暗証番号は含まれず",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNWEV1bFItMk1hc242UHVxRWJIdU9GVHhNRWFRVEZ0M0IzbTRrVlBWOFhhcV91WTdhaDkxWHVOWmdWVUtiTTFuUS1UZnU5VWlwZUc4VzVObTB5YmRTdEhPOThJMkR6MkltN1Atc0YyNF9Rd0l1?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-17T19:27+09:00"
+  },
+  {
+   "title": "楽天証券に不正アクセス 年収や口座番号など最大447万件流出か [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaRG1McTV0Vjd4UVQtZlJqaTdFWEJxS21tNEl3RTI0RXJiR29KM2ZfYlJLYXJBdGtCcEx4dElfNmttMG92V1hJWi1jeE5GdGxXc1NobDZ1U3NLbUs0Z0s0UzNSQU9iZw?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-17T19:27+09:00"
   },
   {
    "title": "スパコン｢富岳｣にも不正アクセス トヨタやJR東海も活用… 東海地方への影響と専門家が語るリスクとは",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkWXVNOEs5eDJ0dTVYaF9ib3drV0YwajYwSFd1Y1hPc3E4VUMxSGRiWnhiYjZhY0tKM1lVTFNlMllKWXJFSFJfa2loLVZHRTJKUjBIeFhSNm5xVEFIdVFXZ09ZZmk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Vmh1dEJTT25FVFBSb1lvZERKbENhblBXUC1kaDJfazdPZk5yYUliV3pxODAxWlljYnZ4cXN4eXdacXN5MWE3UWFsLWZQVi1LOWRNQXdFa1VMQQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-17T19:23+09:00"
+  },
+  {
+   "title": "楽天証券に不正アクセス 最大約1125万口座のログインIDなど情報漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BUjB3c25xUXV0WmNpZGxpc3V2N0tEajBUNlNsWi05TDVYREh4Z0loSnpWVVJ6Q0pyZ2N5NEN2VDNYaG94djZBempuTHVaYU9RRDBLX0ZtQ19USlVfMnM2ajZzY3RVOFV3VHJqMUV3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-17T19:21+09:00"
   },
   {
    "title": "楽天証券に不正アクセス、最大1,125万口座の情報漏えいのおそれ。氏名や資産情報も対象",
@@ -423,56 +465,21 @@
    "at": "2026-11-17T19:05+09:00"
   },
   {
-   "title": "つくば市「LEBER」でメールアドレス計1万6,570件が漏えい 学校の健康観察・休日夜間の医療相談に影響、アララへの不正アクセスが波及|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXppbmw2YU1wYWYxYkJ6c0FmU203dFFOZXBSUEJGT2ljNk5ZdUJoTmRxbkhKVzFudlB0Y0F5MVNWY3RPd0lDalZKQ1RiZVVleDJsMC1OWERsRkx6YlVLNVlIMW9hYkM2REpzcHJqWDJRWVRrajZIelpubUo2c1JvTzhZdFN4am91NGVwenR6bEJPbmVoaTFUSWFWWlo2R3FxZW1fT2VZUnA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-17T19:00+09:00"
-  },
-  {
-   "title": "WOWOW、顧客情報漏洩の可能性 プレイドへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96WmdOTmlWV2s4NjhfWFpQWlNic3h4MHd1T0gxNnpoT1hYMHdOZ1NRZGE3UDNpbW1OYzljXzBFZGJaN0p6djVSUEhmdWZ6a2diZXJvSkJCcDl1SEE3UTQ4ZHo5ZzJHM2pTQ0NINg?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-17T18:58+09:00"
-  },
-  {
-   "title": "みぃなセキュリティ研究所｜ネット詐欺・不正アクセスから一人でも多く",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Tb0tudDFIVlgwRDJxZkxVc2ltT2ZWSUNvZmhseUJ6aGVVZDJ6RW16MndRYVlyRnFBU1hiRG5mWU10MUNaRGNKd3I1bw?oc=5",
-   "source": "クラウドファンディング - READYF",
-   "at": "2026-11-17T18:56+09:00"
-  },
-  {
-   "title": "《不正アクセス》高知県警演奏会チケット購入者情報が漏えいのおそれ【高知】",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nSzFNbUNTTWN3bktDUkhfdmd3aUZIM1JGNTY2MWFQZktGMjNhaGp5eEpYdHRMSEcwUXhmOXprbUc0a25WNWgzOERTaFYzaTVrUFJpUUJHb1BZcmFfTkhzb1lMNnphLXJ1NlZEVVBR?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-17T18:54+09:00"
-  },
-  {
-   "title": "楽天証券、最大約1125万口座の顧客情報漏えいの可能性--テスト環境に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd2M2c3V2c254NkZ4SXVvZVZFVDlTMVhkMXljY3dRWl91Q2NRaXdkX0FIdjU3eWF5XzJSTWgzRVNfRENKNS1weXBzYnB1bXJiem0w?oc=5",
-   "source": "ZDNET Japan",
-   "at": "2026-11-17T18:54+09:00"
-  },
-  {
-   "title": "【山口】パスワードのメモ帳が人気！不正アクセスによる情報漏洩が相次いだ影響（yab山口朝日放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cmVsdDNyM1dVX2VnXzVSNGluT29EaTROTEFYdUNFQjNLRXBsTndFSHFCblBOM2pRMjlaUDRGQ01POE1Nb3pyYWVNcVY3TFAwTGVnLVhMMXF3UExTNWx0NlNTU1ZjNkhHYzBxQk14ckcwUHEzZWJYRGpBejJrT2M?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T18:53+09:00"
-  },
-  {
-   "title": "不正アクセス》高知県警演奏会チケット購入者情報が漏えいのおそれ【高知】（2026年11月17日掲載",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pd0xocEpoeTJ1cE1MLWpKdlk5N2NFc0VkVVlhUnRCZjZiY1RpdTdsLU55WkVtNG1EeDQzQVpIWkszc1JHdk15RFZkV1dGQl9KQzFGWmJSZ0FfdEJFdE5ORnA0T1lQalByc3hDMTBfcldpeU4yVTN6X3EzZkZPZzA?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-17T18:52+09:00"
-  },
-  {
-   "title": "郡山市オンライン申請サービス 約7,500件のメールアドレス漏えい 不正アクセスの影響・福島（2026年11月17日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzAyYVI1ZmJOcEFzRDFVRVdoTk1MYXRrT2wzalMyakF6R19FLTRJRkFCUWtGNzVTLWxoTDgxaFpGaHVRM1RGeDNqd0cxakUzUVdNX2U5Snc3Uk5GZnB1bm9DU0tJcUVuVWQ4bnRtd2MxOG8ydW5XZ3U5dmFFWGllVEU4MjBSb1U?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-17T18:49+09:00"
+   "title": "「対応に万全期す」 スパコン「富岳」不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uUlU0dDB1RmxKNTJEUkFtemRDMkhfXzNaNEhwOTFNV2diSGI3bjM3ejliNEVya25MWlJFSENQSmlxbHBmSy1zMHhfaEZXczVQeVpBZQ?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-17T19:04+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzZzbU9CQjdDSVEwZjFVSWt5Y2VWR2ZBVVpyN2RRNmh4ZzlJbnZjR1k3Y2R4Y25XX01JVWp5aXFMc2d4X2tlZXpQcktETVdNLUxsejRhc1hjQ2VidlJDWFNtQVIxS3F2VUdvMmdkMklndURXdE9EaEpmaXd4d3J6RTlSVERCaDliVjE1d3N3?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-17T19:27+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "【速報】トランプ大統領がフィリピン･マニラに到着 ASEAN首脳会議などへ出席のため 19日には史上初の米中ロ首脳会談へ 北朝鮮･金正恩総書記と会談の可能性も",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lSm9jX0piOEpHOWV6cFRZWGliU0tMZVNneWRUVm1mMU51TDNkV1NPbkE0b0pObVRrN0VrcXR3d0U4aUNIallVRU9LWHFXamh5blFQVlU3aw?oc=5",
@@ -572,13 +579,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ウクライナに続きイランでも戦争が長引き、中国·ロシア·イラン·北朝鮮（CRINK）は戦場で団結している。 これに対抗して、米国と友好国は単なる武器取引や技術移転を越え、相互運用性と共同生産に基づいた防..",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lYnVyWWJJTkFmTnpqcUpxUWdvSmZCMThNazM2S3h0YTc1Wms1dENjWnVfVlAzSTJ0VWJ1VnE3VnhpT09MVmhaZEg5MmdpUWtHUkJaaEVPNjI?oc=5",
-   "source": "매일경제",
-   "at": "2026-11-17T17:10+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米ワシントンで放射性物質拡散させる「汚い爆弾」攻撃をイランが検討か トランプ政権高官を標的に CNN報道 化学兵器の使用も",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xa2dGX3hRNTBGNFdoTG1UNEJfQUZxWFMtaFQ4dE82WHFvcW5mQnpPMzRaS2F3TFBYd01JRldDTktqQzU1eEdhTGdaSVBHVHBVRXdHcDRhVnlGUU5ac0U4YkpwM1dNUWNHa1Q1WnZwdElNNnlM?oc=5",
    "source": "TBS NEWS DIG",
@@ -618,7 +618,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「藤井総務大臣「根本原因の究明を」ドコモ通信障害（ABEMA TIMES）」"
+    "「藤井総務大臣「根本原因の究明を」ドコモ通信障害」"
    ]
   },
   "japan": {
@@ -633,7 +633,7 @@
     "イラン・アメリカ：「攻撃」「報復」6件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」「空爆」4件",
+    "ロシア：「攻撃」「空爆」5件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
    "items": [
