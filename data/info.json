@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:45+09:00",
+ "updated": "2026-11-18T03:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-18T02:54:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.3",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-18T02:35:00+09:00",
    "place": "島根県西部",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-17T01:45:00+09:00",
-   "place": "宮古島近海",
-   "mag": "3.9",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -95,22 +95,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "米国、ホルムズ海峡でイランのケシュム島を攻撃：公式発表",
-     "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcENaTDVEbDRDZlk3WGRHVmwzTlcxNmcwTkxvZ0VtTTR4OXJVR0tlNVZDSG1ZNlJuVFNTaHFhR05pRnZ0dGNpMEtjdk9paGFVODI5VW9ManprMWZRMEJuc1pZVmZEdTFGb3VJcS1TeXBTX1BRUDlLU1NaMnZNTXpRNzZKQVhUdFpSTF9qTlBUcFREVTd0MGZnR0ZfNkE3UkMzTFZTMnI1YlNiTmhaLVpPaFZWS0VmQXpwbnhtbUVMMjIzUV9sUTRTNXF5dnlUM3pWbjlFMk13WV9YMkhuOVBzMzB2Q3JySXdiakFFT1U5dGZyc1ZDZEw2UkNUUzNLSkdGNTE2OWtVMm1NLUV0UGFIZWtqbHlpU0FaSVRLX2cwQzBYemdjdGxiYXRrRllWYWdNcmEwSEVlN05UOHNkM0JEcjN3SDBrdFlaOUJNd1pPdWdUbVhPUG5UWlVDTmNzelpyQVVnRVVoRE0tQ25tcTZJVlBWYlRkUEJtOUVHVEJIU0VZblk?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-18T01:40+09:00"
-    },
-    {
      "title": "イラン、バーレーンの米軍施設攻撃 仲介国と協議続く中でも",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONnktWGhDZjU2MEU4ekE4VGtnUWY5akNMTDNudGhscEhxODhTTWwwbTA5TUY0bkJSLXpWS3FkTEtONGlxVlNSV3ZXRXlfbDRMUEFxdXlGQ0otejRkZWMwekNwMjNjbTRLQTNQc3VkWjlWUFVUZXVZWWFvbTQyVXdSMUFuNTR5QTQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-18T00:45+09:00"
-    },
-    {
-     "title": "イラン、5日間で3度目の米軍施設攻撃―バーレーンのレーダー狙う",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJa3R3c1NtQjNYUzdBVlJlaHRiVU9hOXZuOW1QeWtablhDeEpTejByUENhYW5sR08wZW5nMjZKNVhDYUtveDVjX1ljS3JfR0xUMEp0WDZQX0N6SkhnbkFRUFg4TdIBaEFVX3lxTE9sbU15M0habjE0aVBQLTZXVDJYeERlZnhFNVp1N2VyUHpOMmZDV0VrWnZGZko4Ukw4QXlmdXB6NUJpWVB4WHBqcEZBYWRxbVdOTmQ4Z01XU29HdXhQNDVzWDVnVTJuRGlv?oc=5",
-     "source": "財経新聞",
-     "at": "2026-11-17T22:23+09:00"
     },
     {
      "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道",
@@ -129,6 +117,18 @@
      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTGJsU3VKYVB6T2VMRjBnZUQyRHdVbnZOenNzUm51YzZ4bDRRTzVJUDBlZlA2bThJczFfUS1GVGpSU2t4U3FEc2l3bjZ0SG12RzFVZmNRcjNPSTdLRjVZTzM3Sml3TV9GUHhxOW5xcGRFMTN0M1pWamFvVHVCVzNrY0xsa3k4VzhFZW5XbU1DRk1oZEMwZnN5bGNpVm95cDB2R25NYTdaOWRjdHZZUXU4NUFjaFRBa1JhbW9JeFUtOVlldWo4MU82TEEzLVRnWXZRMFIxQ3ZwMG5ZNm83bWxVX0FfSkVKUjFKM3hjTU51NFZ2THI3MHF3Qno2aGNlRWdUU0VSem5YVGJRRWNtd1preS0xU2xzYXNWS21teDMzbVhUUERRbmNXWGQ4LUJGdFBDc1B3VG9nWldTNjNya0xOaGU4aWRxNnJLNy1NSlFERnVlcTl4MHFIbXRrWHRMZw?oc=5",
      "source": "Pars Today",
      "at": "2026-11-17T19:27+09:00"
+    },
+    {
+     "title": "イラン革命防衛隊:「9機目の米無人機MQM-170を捕獲」",
+     "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNek5qdnJlMGhZdTJlaUI1SXNOX2E1a3lEdHlTcHNSR0VTNHpvdkdIME4yY3dEbUFQTUlrV3VvdDJWTDhmNmdRNjRlUXNrY19mT3ZGTHY5b2Izc2pHb0I2S3kyODRUWmUwUlZHcEhOemJ6MXpnNUtCZWRlYXhKSGJZNGRleGphcWJXSHZTQWlublozUU9sQW9mNnB3VnR6bHBVWXhaUjhkMTlFVVBqOHhKM1J0bDBsQUJ5SURmaDVGR0hhVDFaVGdMcXd4NjJvWlM5QmZ5c2huZHQ3YVRLR1FaZUdzNGtmRk81Vm1JejBzNDRyQU40Z2xtTnlwZzIzOFg3SnRVYnh6MHlmbEdoYWs0M1FMTDkwemdCVEQyVUhWQUlZR1B0eG1USkpsWFItTjNXUjVORDhQclg?oc=5",
+     "source": "Pars Today",
+     "at": "2026-11-17T18:55+09:00"
+    },
+    {
+     "title": "イランがバーレーンの米軍施設再攻撃　4日間で3度目　ドローンによる領空侵犯に報復",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNTB2cklLU0V5RUJ6RG1pMlFmMXV5cFdNMVMwZlNFYS1wdjhNRm9BLUo0YjR0RTI0VXRkZk8wUWJtaGNXcDVUTWRlM3FqQkhNcURIZUdLQ0xtSUhlUUc3enhPTDdsU2NCWEdfS0pBUWFLdm13bi1adXp6dm56WGU4Z0Y2Q2NUQdIBiwFBVV95cUxOQm5qOHoxQk9pZXJmRUZSMTBSX3NyQm1TZy1QTmNfMV9ySER3NTdibHg1NDFiSEFPd2t2eE5TRHVCM2NHUzQ3cHpSQml2MGNpeFIycXlva09HMzhPMVRkY3NOeUE1OWpYRDNQQ1pHdHlJVU10NVlOcmFFalhxRlhYX2pRMDBiOVVjTkFR?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-17T18:32+09:00"
     }
    ]
   },
@@ -381,10 +381,10 @@
    "at": "2026-11-18T00:25+09:00"
   },
   {
-   "title": "障害多発のドコモ、総務大臣が「大変遺憾」。今月3回の短期間、毎週連続の通信障害",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oQlZfWmN5LXNDdUl5TEhSQVFvSkMzS0ExUFdOM1RvcENJc0c4S0F1c0ZCbGdrWlVoNTV2T2hYamVuREtOTnRjYXYxRGJLSDM2MkM4TDc3MGpFUGxydHVSNmFMNi00eWdfQ1pEcHJfNktzSU9mWTRVckpqY9IBgAFBVV95cUxNczRPOTBKYkZhQ09IUDRpN0ozX2I4bDg3eFlVYWtMVWpEVjcxQ1h2dmZ6Qi1XODdPWWlCSEI5Sm1sM3AtS1JXVUlZMkdIOVQ2YzMzeTZvOHNZYnRLMTlrZkJtVE5HbEJwQURFcDdzOFA4SG56d1B2RXZZNkNHNm9oRw?oc=5",
-   "source": "すまほん!!",
-   "at": "2026-11-17T19:33+09:00"
+   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EbDNFeGh3M0llSFBXTE5kNU04dUsyT1pNd083N1VCbEpBWExMX0g5cHN4R0M1MFM5eXhxRE0xZzhZWXk5aVVGYUczWmY4ZThVZzJIT2lHTlZMWDQ?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-17T21:55+09:00"
   },
   {
    "title": "「ジンズ」の会員情報、最大1829万アカウント分が漏えい 委託先のマーケティングツールに不正アクセス",
@@ -456,13 +456,6 @@
  "osaka": [],
  "world": [
   {
-   "title": "米国、ホルムズ海峡でイランのケシュム島を攻撃：公式発表",
-   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcENaTDVEbDRDZlk3WGRHVmwzTlcxNmcwTkxvZ0VtTTR4OXJVR0tlNVZDSG1ZNlJuVFNTaHFhR05pRnZ0dGNpMEtjdk9paGFVODI5VW9ManprMWZRMEJuc1pZVmZEdTFGb3VJcS1TeXBTX1BRUDlLU1NaMnZNTXpRNzZKQVhUdFpSTF9qTlBUcFREVTd0MGZnR0ZfNkE3UkMzTFZTMnI1YlNiTmhaLVpPaFZWS0VmQXpwbnhtbUVMMjIzUV9sUTRTNXF5dnlUM3pWbjlFMk13WV9YMkhuOVBzMzB2Q3JySXdiakFFT1U5dGZyc1ZDZEw2UkNUUzNLSkdGNTE2OWtVMm1NLUV0UGFIZWtqbHlpU0FaSVRLX2cwQzBYemdjdGxiYXRrRllWYWdNcmEwSEVlN05UOHNkM0JEcjN3SDBrdFlaOUJNd1pPdWdUbVhPUG5UWlVDTmNzelpyQVVnRVVoRE0tQ25tcTZJVlBWYlRkUEJtOUVHVEJIU0VZblk?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-18T01:40+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "【中継】トランプ大統領、金正恩総書記との会談は？ 記者団に対し「金総書記は来たがっている」（2026年11月17日掲載）",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3VnSUg5dzZqcmZrczBwRG82VlFRdnFUMGN4QXI0VHdlOFY4ZVNWWEtjeFRfY2tCanNoQ084d3E1OFFveXZEdkQ2c2ptc2NvQWpWZzVDTUczU2lRT1FsSzZpci1sd0VVQUp1N3p3ZExSS0o0SWJEMUZiR3dsMzFmNlhJZ2c?oc=5",
    "source": "日テレNEWS NNN",
@@ -489,13 +482,6 @@
    "source": "朝日新聞",
    "at": "2026-11-17T23:55+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "イラン、5日間で3度目の米軍施設攻撃―バーレーンのレーダー狙う",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJa3R3c1NtQjNYUzdBVlJlaHRiVU9hOXZuOW1QeWtablhDeEpTejByUENhYW5sR08wZW5nMjZKNVhDYUtveDVjX1ljS3JfR0xUMEp0WDZQX0N6SkhnbkFRUFg4TdIBaEFVX3lxTE9sbU15M0habjE0aVBQLTZXVDJYeERlZnhFNVp1N2VyUHpOMmZDV0VrWnZGZko4Ukw4QXlmdXB6NUJpWVB4WHBqcEZBYWRxbVdOTmQ4Z01XU29HdXhQNDVzWDVnVTJuRGlv?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-17T22:23+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "クリミア大橋の「道路橋」が崩落か ウクライナがロシアに連日大規模ドローン攻撃｜Quebee キュエビー",
@@ -575,6 +561,20 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "イラン革命防衛隊:「9機目の米無人機MQM-170を捕獲」",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNek5qdnJlMGhZdTJlaUI1SXNOX2E1a3lEdHlTcHNSR0VTNHpvdkdIME4yY3dEbUFQTUlrV3VvdDJWTDhmNmdRNjRlUXNrY19mT3ZGTHY5b2Izc2pHb0I2S3kyODRUWmUwUlZHcEhOemJ6MXpnNUtCZWRlYXhKSGJZNGRleGphcWJXSHZTQWlublozUU9sQW9mNnB3VnR6bHBVWXhaUjhkMTlFVVBqOHhKM1J0bDBsQUJ5SURmaDVGR0hhVDFaVGdMcXd4NjJvWlM5QmZ5c2huZHQ3YVRLR1FaZUdzNGtmRk81Vm1JejBzNDRyQU40Z2xtTnlwZzIzOFg3SnRVYnh6MHlmbEdoYWs0M1FMTDkwemdCVEQyVUhWQUlZR1B0eG1USkpsWFItTjNXUjVORDhQclg?oc=5",
+   "source": "Pars Today",
+   "at": "2026-11-17T18:55+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イランがバーレーンの米軍施設再攻撃　4日間で3度目　ドローンによる領空侵犯に報復",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNTB2cklLU0V5RUJ6RG1pMlFmMXV5cFdNMVMwZlNFYS1wdjhNRm9BLUo0YjR0RTI0VXRkZk8wUWJtaGNXcDVUTWRlM3FqQkhNcURIZUdLQ0xtSUhlUUc3enhPTDdsU2NCWEdfS0pBUWFLdm13bi1adXp6dm56WGU4Z0Y2Q2NUQdIBiwFBVV95cUxOQm5qOHoxQk9pZXJmRUZSMTBSX3NyQm1TZy1QTmNfMV9ySER3NTdibHg1NDFiSEFPd2t2eE5TRHVCM2NHUzQ3cHpSQml2MGNpeFIycXlva09HMzhPMVRkY3NOeUE1OWpYRDNQQ1pHdHlJVU10NVlOcmFFalhxRlhYX2pRMDBiOVVjTkFR?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-17T18:32+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "国連軍司令部、地雷爆発後に北朝鮮と会談推進…韓国政府の謝罪要求後に頓挫（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vaXpsMnY5aVR5eEhSaHlPYXA5MXNJazhJQUh6bWZhQ25PMnExeWpSXzhjUl9HYW1MWWRRSXZ4T1AtZ3Fic212eGpHdWRWYnppSDRlV0dZTUx3QWpkT2NMUnN2clBqY3Zya3hSZXhxeUFOZlYwajIxbnFkcko4aVU?oc=5",
    "source": "Yahoo!ニュース",
@@ -600,7 +600,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「障害多発のドコモ、総務大臣が「大変遺憾」。今月3回の短期間、毎週連続の通信障害」"
+    "「マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…」"
    ]
   },
   "japan": {
@@ -612,16 +612,16 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」5件",
+    "イラン・アメリカ：「攻撃」「報復」4件",
     "ロシア：「攻撃」「報復」6件",
     "欧州・NATO：「破壊工作」2件"
    ],
    "items": [
     {
-     "title": "米国、ホルムズ海峡でイランのケシュム島を攻撃：公式発表",
-     "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcENaTDVEbDRDZlk3WGRHVmwzTlcxNmcwTkxvZ0VtTTR4OXJVR0tlNVZDSG1ZNlJuVFNTaHFhR05pRnZ0dGNpMEtjdk9paGFVODI5VW9ManprMWZRMEJuc1pZVmZEdTFGb3VJcS1TeXBTX1BRUDlLU1NaMnZNTXpRNzZKQVhUdFpSTF9qTlBUcFREVTd0MGZnR0ZfNkE3UkMzTFZTMnI1YlNiTmhaLVpPaFZWS0VmQXpwbnhtbUVMMjIzUV9sUTRTNXF5dnlUM3pWbjlFMk13WV9YMkhuOVBzMzB2Q3JySXdiakFFT1U5dGZyc1ZDZEw2UkNUUzNLSkdGNTE2OWtVMm1NLUV0UGFIZWtqbHlpU0FaSVRLX2cwQzBYemdjdGxiYXRrRllWYWdNcmEwSEVlN05UOHNkM0JEcjN3SDBrdFlaOUJNd1pPdWdUbVhPUG5UWlVDTmNzelpyQVVnRVVoRE0tQ25tcTZJVlBWYlRkUEJtOUVHVEJIU0VZblk?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-18T01:40+09:00"
+     "title": "イラン、バーレーンの米軍施設攻撃 仲介国と協議続く中でも",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONnktWGhDZjU2MEU4ekE4VGtnUWY5akNMTDNudGhscEhxODhTTWwwbTA5TUY0bkJSLXpWS3FkTEtONGlxVlNSV3ZXRXlfbDRMUEFxdXlGQ0otejRkZWMwekNwMjNjbTRLQTNQc3VkWjlWUFVUZXVZWWFvbTQyVXdSMUFuNTR5QTQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-18T00:45+09:00"
     },
     {
      "title": "クリミア半島とロシア本土結ぶクリミア大橋、ウクライナ軍の攻撃で一部崩落…軍参謀本部発表",
