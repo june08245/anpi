@@ -1,9 +1,6 @@
 {
- "updated": "2026-11-17T17:15+09:00",
- "errors": [
-  "japan",
-  "osaka"
- ],
+ "updated": "2026-11-17T17:30+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -98,6 +95,18 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "バーレーンの米軍施設攻撃とイラン",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SMU5fWGxxeGJseFRReGktbHBmZkxJdDFRMFlGXzRlWTdUX1lOejBXanlpTzl4STRiMTFQVVU5UnF4LTk0Wm5NN01OVWNkNVJremJ3TU5sR2stRmx5N1E?oc=5",
+     "source": "沖縄タイムス社",
+     "at": "2026-11-17T17:24+09:00"
+    },
+    {
+     "title": "バーレーン、イランの攻撃阻止と表明 革命防衛隊「米レーダー標的」",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONnktWGhDZjU2MEU4ekE4VGtnUWY5akNMTDNudGhscEhxODhTTWwwbTA5TUY0bkJSLXpWS3FkTEtONGlxVlNSV3ZXRXlfbDRMUEFxdXlGQ0otejRkZWMwekNwMjNjbTRLQTNQc3VkWjlWUFVUZXVZWWFvbTQyVXdSMUFuNTR5QTQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-17T17:22+09:00"
+    },
+    {
      "title": "米ワシントンで放射性物質拡散させる「汚い爆弾」攻撃をイランが検討か トランプ政権高官を標的に CNN報道 化学兵器の使用も",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xa2dGX3hRNTBGNFdoTG1UNEJfQUZxWFMtaFQ4dE82WHFvcW5mQnpPMzRaS2F3TFBYd01JRldDTktqQzU1eEdhTGdaSVBHVHBVRXdHcDRhVnlGUU5ac0U4YkpwM1dNUWNHa1Q1WnZwdElNNnlM?oc=5",
      "source": "TBS NEWS DIG",
@@ -120,18 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHAydTNNYmZHcVNoX1BJX2dMc21nckxyU0pRMGJGaDFuVWl5ZERkQmxxcGhFVGM2UW9WaTl2NzJnbUtlOEQ0emtYTlFoUjM1ZlAxcVVadUxnd1lLTnVBYjV5RHdsM19kWXRnb19LNklMX3c3eXNpWFgwYWktVXA2TGdpZnlNSms?oc=5",
      "source": "Reuters",
      "at": "2026-11-17T12:51+09:00"
-    },
-    {
-     "title": "イランが米首都で「汚い爆弾」保持の情報 高官を標的？ ベセント財務長官は軍施設に退避",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWFZZjRrVHpUWV8tZktDeEpQN1ItSkFaYWp2MU5tTTUxWGRhMGs2N1ZKWkJyLU9VVFl0N0I1QXh6T0swSWtYdDVMT3RwSUZiSVBOZmx3dTVsd05UbEN4NV9HLUtPeGpzZjRfdlBiU21XdjNSQ29UOVhmZFI3WGlJWEh0Rnpnd016VHJlRA?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-17T10:51+09:00"
-    },
-    {
-     "title": "【田母神俊雄のニュース・レビュー】イラン戦争に勝てないアメリカ　繰り返される大国の誤算",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwbGFuYkJMOF96VFJ6TDZYUklxUExSZm5HQmt1QXViU1FjeGEwME9GdUxvaFVKV2FaRUNRRWQ4UkRjV2ZWdjhCRFJZcUdfWHVZMUpCODV3Nm9qeS00aTJkRUc4RmFaS2lBSk5sNkJRQ0JaZ2lvYW800gF3QVVfeXFMUDBsYW5iQkw4X3pUUnpMNlhSSXFQTFJmbkdCa3VBdWJTUWN4YTAwT0Z1TG9oVUpXYVpFQ1FFZDhSRGNXZlZ2OEJEUllxR19YdVkxSkI4NXc2b2p5LTRpMmRFRzhGYVpLaUFKTmw2QlFDQlpnaW9hbzQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-17T10:00+09:00"
     }
    ]
   },
@@ -170,10 +167,10 @@
      "at": "2026-11-16T17:37+09:00"
     },
     {
-     "title": "米中露首脳会談の狙いは日本なのに、APECで高市首相を冷遇しないよう中国政府に求めた日本政府の不見識",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWs1VkQzS294VjlDWE11TkV1R0xVa1hEV1h6VFVQd0lHbDNxLU0xRWRNUVhaYUhoVW8wTThpUjk5ZFhuTGJ2VS1DMWl4RFo1SDBqZWxkSWpKNUxaYURoVktnTXFUamVUT3JERlhWY3pnVzhfWFJQeXRfTkRmaXBzUjB2TjdXQkpv?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T15:11+09:00"
+     "title": "【人物】53日逃亡、支援者は50人超 台湾議員の元側近・張俊傑被告、「典型的なスパイの手口」 と情報当局",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QODlTbnY2R1p4Y3ZsQ1VPX0JYdVdJWnlYeTF1cXpEVDdyRUI5OGtXc2t5QzhZZmF5bFB3WEFJdkhNdWpKSW9NUUJvNXA1dWd6?oc=5",
+     "source": "風傳媒",
+     "at": "2026-11-16T15:55+09:00"
     }
    ]
   },
@@ -224,10 +221,16 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に（BBC News）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3eEw5bG4tb0ZWMTRoM2ktMTNqS3pZWXJOZzNIZmdmY3RXWWsxY2dTeG0yMXd5NFdhTEFBNklMX2lXZk5YZWxVNTNYQmFUN19QM0doY0ExSkFZcldQeVVicXNOVGhFdUJTd2xkNnhBM1BGeEktZGZvX2ktMFR3WUE?oc=5",
+     "title": "訂正（16日配信記事）-ウクライナ、クリミア橋をドローン攻撃 被害は軽微とロシア発表（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KRUVjM1pxWmFZbm1QZjVUUlNDaW5DMkJqSEszMFNuTVZ6UkVlYVhHV1hrX2ZnN1BVMmNMNHl6RFlyVnVPSjM0Uk5DMjA1NjBUaWFjTnh6ZjFIbllXUjlZdjZwbGtfRm1QT0FEdXIta2RsZjJQNHE2VWxrUlVVSjQ?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-17T16:52+09:00"
+     "at": "2026-11-17T17:08+09:00"
+    },
+    {
+     "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表　米欧ウのオンライン協議の後に",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZGJSb1ZlS29aXzhqNHQ3LVc4aHJFQ3dnUHVPYmxPUnkwSk5tUmJJQ3NZMVJ1Ql9CWXdRNmthUlUtZW9CVTNCSnRRNFRTRnFyV2t2WjdOVW50dkdFZHRqddIBZkFVX3lxTFBzLS1ERnM1UFZydm45S01EdjFoRlNxeE5aVEkwMDctcmlQb3QyUTNyMHRCZ2k1a0F2YU9yNEJfZUlXMHBlT3JScUhFU2oxN2xLMGVFUGZuUmVXUUNjY3pCdS0wN2stZw?oc=5",
+     "source": "BBC",
+     "at": "2026-11-17T16:53+09:00"
     },
     {
      "title": "ロシアの攻撃後、ウクライナ南部ドニプロが完全停電",
@@ -252,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0l4dzhIREZwdE8xYTZic1VNVTd3NmE3Vk8wWE9XdjJ5WnExRVJaR0hqSDVJVFVKOExqUjJrTHJ2R3ZNdlBnMV9WcjFlQjltV1VhSmd1b3hISnJ5Y01lSFRKUTQxOFVWQ090MnJXY1hFOUtCVGxBTnFCZnJSUzRYYUlqMHY1SGx0OTJUMUV6WFp4QzRZNDVRbjRLWkFyU3RuY0lTTHBfVlFJSUtnaXU1bWM4QzJSRWY0eUJTTnFBSFJCanNjdHfSAcsBQVVfeXFMTzhqSzYyYmp0dnRrMERpMXVQbVJPQ2VxeG9KeTVQSXp6SDBPNkt2a1JoSzRDSzBIT2JvNWVqa25DSWRqWW1UTHVJMFBGOGUyV3NxYVdOZkFxYzhYMm9tVkRKSjBPMjFXZ3dvNjgzRzFsNHBSWmhlUWZXRTRQeUZOekxzRDg1d1ZZMFU4b2NSTHg4ODlTUmh6VldwUjRGMmxmMHU4Vmw2aEJRN1NwTHNiUFVBeDJJcGh4VEg3dFJISFJQVlotVy1fOTZ6LU0?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-17T15:52+09:00"
-    },
-    {
-     "title": "ウクライナが過去最大のドローン攻撃、クリミア半島の象徴的な橋に被害とロシア",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcEtZc3RHUktQNXcxWEhoVl9CTnJHY3lWbnp2RDV3bXdIUEYteDE0NU9aX1BtV1pENUY2WGt5ZXVTM2hLdnM3anpBWExsVmJ0cDFMckpZZk4xbTRGaWFYRdIBZkFVX3lxTE5iWjcyZ0RpTDVGbXVKVmZaM253Y3huUTgxMVNIempjWU9IVGdfSEFtTzJWUm5HT2N2WDdUSmVNelhyV1NZZ0IzY25MRU9JaFRQNGpfd2ZLaWd4RGc4eGhFQjJnTUZHdw?oc=5",
-     "source": "BBC",
-     "at": "2026-11-17T14:25+09:00"
     }
    ]
   },
@@ -284,6 +281,12 @@
      "at": "2026-11-17T02:07+09:00"
     },
     {
+     "title": "イタリアの学校に再び爆破予告メール、40分後に爆発と予告も避難なし",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3d3VEh5VUFwZngwNW5ZZlhGZHBSTkVMRzNqMTFiV2Y4dVBJTWlJdm5JREJQcTltSkFVUElYNzJESEdVZVh4eGhyY2tQdjFQZTlSWWF4SmkwbFEyVmZCemNfVEp3NlpfNGpfT3pIR0dUT29Ua1dHMGZhVzNsVGhJdWl3OHJrREZ0X2pRTWhpY08zR0NUWWhHSFJB?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-16T21:36+09:00"
+    },
+    {
      "title": "カラス氏、ロシアに欧州の要求を提示 - ウクライナの国境尊重と戦争犯罪への責任追及",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZnFmTGYyZVFjbTdINlJFYjZGWElzTVNabWpLcE5YY2lHMUJCajBKaG9KaUNMWllpRkFKUDVINml5Ukg3UHVMQjgxdXBTOE9HYXU1TEU2bks1TU93RGdsZzd4RnRVcWVW?oc=5",
      "source": "Mezha.net",
@@ -294,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRHB4bVhlUnIxNDhydnVueDRrMEhNWjhxUlBUQTJPZGJGdTJfMmZpbGRZczg2VXhCbWNBMllpS0FuTy1zbWRrZFZmZHZlWTd1dHNjN1k0S0VJUzZwRHlLZjdzb2FxbW00cHRnTnhXeXlFVEda?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-16T17:35+09:00"
-    },
-    {
-     "title": "ロシアの対ウクライナ戦争終結に向けた次回の交渉ラウンドに、EUが参加へ",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVAzejctb3JkSkdwV1ZyeUN0YjEtVU8zenJfMnJLVGQ4NDZpSi0td3lkbDN6ZDRQcm5UajdyTHdrallWcFViN1lwMWVBMG9aWDRRVUlYZzlnRmMyUG9BOS1HVDQwd1FmMFRiTlYyMDdjaWJ4aUZsRVRFOWt3ak1Hc1RjSWZoUWRIa1E?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-16T15:25+09:00"
     }
    ]
   }
@@ -373,9 +370,15 @@
  "cyber": [
   {
    "title": "NTTドコモ「半月に3度」の通信障害にユーザー怒り 5G SAの「4G切り替え」案内が裏目、料金値上げにも批判が",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRM2pDSk95Wjl1cnpWSFp0NWFEakVCNGtsbk1UMHBOVlBNWWVuN3I4R2U4bnRNN2tGRnpqT2x0Zl9CMzYxLTc2eFFGd0pEMGZOVG1yMG5Caw?oc=5",
-   "source": "J-CAST ニュース",
-   "at": "2026-11-17T17:10+09:00"
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ad1kwSkpNVVN4b3Jid2NsLTJCUXhMS3dKWThhRjlVbWd4enI5N3NXVW40VVBESXVQMl93OXpvSWdHdmE5UUFlcC1GLXhCaWEyQTZET0pBWVZWd1NKbmxkbDdCeUxpUnp1Q29VWnZn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-17T17:21+09:00"
+  },
+  {
+   "title": "ドコモ通信障害 藤井総務大臣「大変遺憾」 今月3度目 「根本原因の究明を」",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nUGJyNXRTUGt0Ui1IVDZNMHpaWE1vaGdIZ1BpSkN4VjBjZGJ2WXBzeHBjQWJHQ1VxSzB5RmozdXpGRUdCZjVIV0RGOVNRcndHTm5uWDAxZEVCc01LQ2ZPVTdHNXR0Z0pmN0FicU9kY2c4UQ?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-17T17:15+09:00"
   },
   {
    "title": "ドコモ3度の通信障害、藤井総務相「大変遺憾」 原因究明求める",
@@ -388,6 +391,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Z1V3djFWY28zek1neGlUZXNFRXRZdk96VnMzUVJYUGVnd3lyVEs0RGVnc29id1pTYWNNX0h2Wmh0clV0dDVJZ3VPQ1k0SWVSU1U4eF9YVmpKUWFjNElpM0tHblNEUUg1UUVkRkZ3eTV6dThPVkpmOTFHQmo3Mjg?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-17T16:49+09:00"
+  },
+  {
+   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3OFN0cWY1eWtNTnppWGFaQnAwUnYxdE55SWgtWnZOMmNMOXBVSkhDdllhLXItRjdTcDZ6T19ZaGZZRGw2cVdia2xxMGFteHFuNW9JUWVRYWFVOHc?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-17T16:32+09:00"
   },
   {
    "title": "ドコモ通信障害に「大変遺憾」――総務省がコメント 5G SAは“11月に3度も”つながらず（ITmedia Mobile）",
@@ -408,10 +417,22 @@
    "at": "2026-11-17T15:12+09:00"
   },
   {
-   "title": "ドコモ3度の通信障害「大変遺憾」と総務相 「構造的な課題、洗い出し求める」",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92MVZ5Rl9FZ25TaW90OERsYm1PQkwwVm5MTkpaNFVQX0lNdlhPVTdjbFRic3FDSlpaYWtYLTRCczh3V1pUMFduNnhOeUxwblBlbHZ6S2t6ek5SUVFiekN6NHlYMGxkMDZOZ1E?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-17T15:06+09:00"
+   "title": "Contabo、自社システムへの不正アクセスを発表 全VNCパスワードをリセット",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMHZkYm1UWXZ3dXpaZDB3WHd3azhhemxtTkFVX0V2bU8zUzJFbi1mNFoxX01TZzBQcGhJa0plNHplekZ6RlhBM2FWZ2FnU2k0M0hFaUJ1Zm0xeGdwSUxaTFlTN01tRjlPMG15NXR3cFVXMENwYVZnZWozVVpqQUZYbWxhNWo5REhZOFdJ?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-17T17:27+09:00"
+  },
+  {
+   "title": "足利市、健康観察アプリでメールアドレス漏えい アララ不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yLUFaVFBwbHJ2QmVTaGRpV0xyeWZVQ3UtTTM1WHdHckxna25wSktldmQxR1lwY0l1dUtsaDJvQnRkSnRFWjR0bjNEbEJ0Tml3Si1NWFdlWEZ3XzQ?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-17T17:21+09:00"
+  },
+  {
+   "title": "筑波銀行、個人情報流出は3900件あまり 提携先の不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ueHRfVnJpVEVaN21YSVROMW9mYVB2ZmdkczFVSjVBZXp1ZG1BSG00VjlVZ0dxNnJKdUtKWTV0TmV0WHdrcWtEOXFubF9wRWY3a3p5QURzWXE2ZU9XUDlNY2JMTFFTRzRySkZ4VQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-17T17:15+09:00"
   },
   {
    "title": "キリンビバ、アララへの不正アクセスで情報漏洩 顧客のメアド154件",
@@ -436,34 +457,31 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzYzUUtjSmtvRnc2QklTWnVjRm9OcGVnbndkcW5JUWlQWklEYjNHRHBYdWhldHJXQkJjR3pnckJLdlhQS0NoU0JsX3ZRREJ3a2dtOWZNZHd0VVFIVktRMFJ1OHFSNDMxRHB5cG43WjN0cUNlN0JfclZXTkhHOWN4aUtIOWNFdTRsdG40ZUNLVk04dTVDOE9Pc2VHdnRYbzBMOWc?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-17T16:54+09:00"
-  },
-  {
-   "title": "カザフスタン、11月17日のサイバー攻撃説を否定",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0FtcXpHbTlNQU93UGlheGdtRi1vRkdEN3pDYV9wTEM5dHJJRDVfVTQzQmZmejBtU3dzR0hTVkZ1TG1hSzBGWDRnZFI1MzdUMi1PY0VweTVjalNqRVZhal9kd1pJWkhFVmVtcmt3aVFfQ3JVV0NaQmp6a2dEQXV5bnIzdnI?oc=5",
-   "source": "Pasquale Pillitteri",
-   "at": "2026-11-17T16:51+09:00"
-  },
-  {
-   "title": "「アインズ&トルペ」などで会員情報流出か プレイドへの不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RQ1c4TGVqVG5sYl9SQThvbF90TWh3TEZhS2JGb1hNWlZmblZMc0lPdTUxZ2Q2LTRhRGoyc3hFVmJPQk1ERkFtTlNfbld6OEhSVFVEOWg4Y0hIZVNNazRGbkUtYXFtTWhadGlNXw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-17T16:48+09:00"
-  },
-  {
-   "title": "保護者らのメルアド1万6570件が漏えい つくば市のアプリ利用者 不正アクセス受け",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xNkU3LUJYUHBuYU5RZjdTMmxVZjdZRnpFVU9RN0Vjc0UxVldjdzI1TUN6ckN5REVOMWZsaDdESVVvRGUxTFNMNW85SQ?oc=5",
-   "source": "NEWSつくば",
-   "at": "2026-11-17T16:46+09:00"
-  },
-  {
-   "title": "スパコン「富岳」へ不正アクセス、最大4597人の情報漏えいの恐れ",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LUlB2TXhYQUxjU05nRWJYMXVmQTVqam94bWxvV2pZNW9JM1RaS2VwZkpoSEtRU0R2SWhieGdxSWJhQm5ZT01SSTRMaG1MZTBLTGZmVzRkOXRhbnlVcFFCaDBIaEhWSHdhenZDTVJB?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-17T16:41+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "バーレーンの米軍施設攻撃とイラン",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SMU5fWGxxeGJseFRReGktbHBmZkxJdDFRMFlGXzRlWTdUX1lOejBXanlpTzl4STRiMTFQVVU5UnF4LTk0Wm5NN01OVWNkNVJremJ3TU5sR2stRmx5N1E?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-17T17:24+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "バーレーン、イランの攻撃阻止と表明 革命防衛隊「米レーダー標的」",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONnktWGhDZjU2MEU4ekE4VGtnUWY5akNMTDNudGhscEhxODhTTWwwbTA5TUY0bkJSLXpWS3FkTEtONGlxVlNSV3ZXRXlfbDRMUEFxdXlGQ0otejRkZWMwekNwMjNjbTRLQTNQc3VkWjlWUFVUZXVZWWFvbTQyVXdSMUFuNTR5QTQ?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-17T17:22+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "訂正（16日配信記事）-ウクライナ、クリミア橋をドローン攻撃 被害は軽微とロシア発表（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KRUVjM1pxWmFZbm1QZjVUUlNDaW5DMkJqSEszMFNuTVZ6UkVlYVhHV1hrX2ZnN1BVMmNMNHl6RFlyVnVPSjM0Uk5DMjA1NjBUaWFjTnh6ZjFIbllXUjlZdjZwbGtfRm1QT0FEdXIta2RsZjJQNHE2VWxrUlVVSjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T17:08+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "米ワシントンで放射性物質拡散させる「汚い爆弾」攻撃をイランが検討か トランプ政権高官を標的に CNN報道 化学兵器の使用も",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xa2dGX3hRNTBGNFdoTG1UNEJfQUZxWFMtaFQ4dE82WHFvcW5mQnpPMzRaS2F3TFBYd01JRldDTktqQzU1eEdhTGdaSVBHVHBVRXdHcDRhVnlGUU5ac0U4YkpwM1dNUWNHa1Q1WnZwdElNNnlM?oc=5",
@@ -472,10 +490,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表 米欧ウのオンライン協議の後に（BBC News）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3eEw5bG4tb0ZWMTRoM2ktMTNqS3pZWXJOZzNIZmdmY3RXWWsxY2dTeG0yMXd5NFdhTEFBNklMX2lXZk5YZWxVNTNYQmFUN19QM0doY0ExSkFZcldQeVVicXNOVGhFdUJTd2xkNnhBM1BGeEktZGZvX2ktMFR3WUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T16:52+09:00",
+   "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表　米欧ウのオンライン協議の後に",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZGJSb1ZlS29aXzhqNHQ3LVc4aHJFQ3dnUHVPYmxPUnkwSk5tUmJJQ3NZMVJ1Ql9CWXdRNmthUlUtZW9CVTNCSnRRNFRTRnFyV2t2WjdOVW50dkdFZHRqddIBZkFVX3lxTFBzLS1ERnM1UFZydm45S01EdjFoRlNxeE5aVEkwMDctcmlQb3QyUTNyMHRCZ2k1a0F2YU9yNEJfZUlXMHBlT3JScUhFU2oxN2xLMGVFUGZuUmVXUUNjY3pCdS0wN2stZw?oc=5",
+   "source": "BBC",
+   "at": "2026-11-17T16:53+09:00",
    "topic": "ロシア"
   },
   {
@@ -563,13 +581,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ウクライナが過去最大のドローン攻撃、クリミア半島の象徴的な橋に被害とロシア",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUcEtZc3RHUktQNXcxWEhoVl9CTnJHY3lWbnp2RDV3bXdIUEYteDE0NU9aX1BtV1pENUY2WGt5ZXVTM2hLdnM3anpBWExsVmJ0cDFMckpZZk4xbTRGaWFYRdIBZkFVX3lxTE5iWjcyZ0RpTDVGbXVKVmZaM253Y3huUTgxMVNIempjWU9IVGdfSEFtTzJWUm5HT2N2WDdUSmVNelhyV1NZZ0IzY25MRU9JaFRQNGpfd2ZLaWd4RGc4eGhFQjJnTUZHdw?oc=5",
-   "source": "BBC",
-   "at": "2026-11-17T14:25+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ABC「金正恩委員長、深圳まで移動できずトランプ大統領との会談は困難」（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xcjVFNzhhb3BxMGJ6QUdMLWxmc092RWxfdjkyN1Q3NzUwNHlDMWhxQ3R1ZFlka21NZ2lURXhmY2tBQkdWNjlUTGlnNDY4NXBiSGM1akZGbUVKWUltN3VjMEpKT0JadEhFNTBGdzhvd3JqWDhFWmpEWmc2WDdGWkE?oc=5",
    "source": "Yahoo!ニュース",
@@ -589,20 +600,6 @@
    "source": "朝日新聞",
    "at": "2026-11-17T13:11+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "米長官、イランのバーレーン攻撃非難",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHAydTNNYmZHcVNoX1BJX2dMc21nckxyU0pRMGJGaDFuVWl5ZERkQmxxcGhFVGM2UW9WaTl2NzJnbUtlOEQ0emtYTlFoUjM1ZlAxcVVadUxnd1lLTnVBYjV5RHdsM19kWXRnb19LNklMX3c3eXNpWFgwYWktVXA2TGdpZnlNSms?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-17T12:51+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "プーチン大統領、金正恩氏の最側近と会談－米中ロの首脳会談を控え",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQW9vM0NVclNObzFTekJrbG1MMlNJWE9YSnh1N25FMzZ5OWkzTWgtLXBaY2NtOFhPYl9TLWRqb0ZFaHdfTFJWcGh5Tm9CblZ2MWlLblp4cTdLTlp3YlM3S205c2ZCV2ZucWVqa3l6LXFDYl9kUlFWSGp5amFrcGlEQXNUeUF1dDBMUzFrZlR3?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-17T12:39+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -621,18 +618,18 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」4件",
+    "イラン・アメリカ：「攻撃」6件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「攻撃」「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」5件",
-    "欧州・NATO：「攻撃」「破壊工作」3件"
+    "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "米ワシントンで放射性物質拡散させる「汚い爆弾」攻撃をイランが検討か トランプ政権高官を標的に CNN報道 化学兵器の使用も",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xa2dGX3hRNTBGNFdoTG1UNEJfQUZxWFMtaFQ4dE82WHFvcW5mQnpPMzRaS2F3TFBYd01JRldDTktqQzU1eEdhTGdaSVBHVHBVRXdHcDRhVnlGUU5ac0U4YkpwM1dNUWNHa1Q1WnZwdElNNnlM?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-17T16:53+09:00"
+     "title": "バーレーンの米軍施設攻撃とイラン",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SMU5fWGxxeGJseFRReGktbHBmZkxJdDFRMFlGXzRlWTdUX1lOejBXanlpTzl4STRiMTFQVVU5UnF4LTk0Wm5NN01OVWNkNVJremJ3TU5sR2stRmx5N1E?oc=5",
+     "source": "沖縄タイムス社",
+     "at": "2026-11-17T17:24+09:00"
     },
     {
      "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
