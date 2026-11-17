@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:30+09:00",
+ "updated": "2026-11-17T13:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,22 +137,10 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkxkZW81Q3ZFaHF6SXdBWXJ5a2Vfc3ZvZnNGSy1FN09Kb0ptUVZVSFk2N3V2eXpGNW9LZTFrMEcxYlFJOHVuZEhwT1JJdjBkeDdVYi1wWHpoWmhiSk1n?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-16T22:10+09:00"
-    },
-    {
      "title": "「いいね」で台湾軍の人脈を収集か 将官を紹介する中国系FBページに安全当局が警戒 | 楊舒媚（ヤン・シューメイ） | ニュース",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfZjdkV0hPTEEyY0x3ZV9zOXRsOFdfSVpkdWRGaHFNWHZnT0kwdmpMWU1ROENGLUUtZ3E3UV9ZTi1sYTlQSndDODAyLUczZjJW?oc=5",
      "source": "風傳媒",
      "at": "2026-11-16T17:37+09:00"
-    },
-    {
-     "title": "【人物】53日逃亡、支援者は50人超 台湾議員の元側近・張俊傑被告、「典型的なスパイの手口」 と情報当局",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QODlTbnY2R1p4Y3ZsQ1VPX0JYdVdJWnlYeTF1cXpEVDdyRUI5OGtXc2t5QzhZZmF5bFB3WEFJdkhNdWpKSW9NUUJvNXA1dWd6?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-16T15:55+09:00"
     },
     {
      "title": "米中露首脳会談の狙いは日本なのに、APECで高市首相を冷遇しないよう中国政府に求めた日本政府の不見識",
@@ -167,70 +155,39 @@
      "at": "2026-11-16T12:13+09:00"
     },
     {
-     "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
-     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
-     "source": "Taiwan Today",
-     "at": "2026-11-16T11:08+09:00"
+     "title": "【第１４２０回】中国軍の演習、米軍来援阻止へ焦点移行",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeFZCWXVDR1JPS19wU2J2OUp1UDE0eGg5QzdmcWNFZlg1WWg4QmNLbU8xci1iZkpWVTQ4Ul9KRXZ0S2NJZVcxRjVSVXZmQQ?oc=5",
+     "source": "公益財団法人 国家基本問題研究所",
+     "at": "2026-11-16T10:46+09:00"
+    },
+    {
+     "title": "2027年に向けた習近平の政治基盤強化：党規律、軍粛清、中国統治のジレンマ（2）【中国問題グローバル研究所】",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkE4MjZtUVo1b2paR1IwMmlMZkJHc3BWbXhfaDZRZUViUXlXczQ2QmZFLWgwVERZekdBSVp0SDZieDlXTldnalBXbDhOTmhGRjEzT1FiUVB1OG0zMDNFZVFlUVNxOGNZX21jVzVRNlZDZlhhYkFKVURtcUk3WkxIbWJTazhmVHQzb3BHatIBjAFBVV95cUxQWkE4MjZtUVo1b2paR1IwMmlMZkJHc3BWbXhfaDZRZUViUXlXczQ2QmZFLWgwVERZekdBSVp0SDZieDlXTldnalBXbDhOTmhGRjEzT1FiUVB1OG0zMDNFZVFlUVNxOGNZX21jVzVRNlZDZlhhYkFKVURtcUk3WkxIbWJTazhmVHQzb3BHag?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-16T10:19+09:00"
+    },
+    {
+     "title": "民間空港も病院も総動員…「台湾有事」を見据えた史上最大の日米軍事演習「キーン・ソード27」の真の狙い",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01eE8xSEd1TVdZelZXeDhKaXpkaTloVmdTMjhpMGFUcndscVJNdUdqZVg2Rno5TFBLOXVBR0pvT3RnSjVKWWt6MktsUi1QSHp3eHhjandYcXB4VXU3ZS1J?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-16T07:00+09:00"
     }
    ]
   },
   {
    "key": "nk",
    "label": "北朝鮮",
-   "items": [
-    {
-     "title": "北朝鮮の巡航ミサイル「飛行場攻撃」写真に合成の疑い…4年前の滑走路画像を使った可能性（KOREA WAVE）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YRTR5WF90Q01hVUU1amhoSFE4LWVGQURDS3lLQTE1QndhQWlHT3BnM1lYN1pGbmxaNkFMTmxCQldEU0dlMjNlNnBaZ2ZvRWUxYW5IZlYwcnhPSlRPNXJVNHdsZDB1R1Y2THNfZ0FQWWhjSWhnTDE2MjlUeFBaeVU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T13:12+09:00"
-    },
-    {
-     "title": "米大統領 金正恩氏と会談の可能性",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zZHJVZnZLdHRIZjNpRDQweXAxSnA1TEZyT1A2cS04UGRBcFVGOHRKd2RKX1NraFF3bVppQ2hYUHhXenB5R200eXk5Y3lWMjJ0?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T12:44+09:00"
-    },
-    {
-     "title": "プーチン大統領、金正恩氏の最側近と会談－米中ロの首脳会談を控え",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQW9vM0NVclNObzFTekJrbG1MMlNJWE9YSnh1N25FMzZ5OWkzTWgtLXBaY2NtOFhPYl9TLWRqb0ZFaHdfTFJWcGh5Tm9CblZ2MWlLblp4cTdLTlp3YlM3S205c2ZCV2ZucWVqa3l6LXFDYl9kUlFWSGp5amFrcGlEQXNUeUF1dDBMUzFrZlR3?oc=5",
-     "source": "Bloomberg.com",
-     "at": "2026-11-17T12:39+09:00"
-    },
-    {
-     "title": "トランプ氏、金正恩総書記と会談行う可能性に言及…中国に正恩氏が来るかは「習近平主席次第だ」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQlNWc2d4MW16Y0ZVTVh5aXRaOWk5S2FZb3I3X003TjgySGtIbjZ6WVdycG13LVloakFsYUcyMUZRQlFSc0lPYk5ySXJmSkFFSndMOGZOVm9uQ0QwSEpuaHVNQTFqYS0yYzA0eWZR?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-17T12:14+09:00"
-    },
-    {
-     "title": "トランプ大統領「金正恩氏と会談の可能性」金総書記、訪中の場合プーチン大統領とも会談か（2026年11月16日掲載）",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWhNUmozV0ZPcmY3SDBTaTcwbExHbUpRaHBsNzRYQnpqZVE1YnQwbkM4VGxhVzdnMjJvUDFSdUtFdXh5amxUalg1aTlRMDdXdzhJMkN6YkstRnQ1MFEzU3ZrSFptcnVQREhnZ3k1RjlzODIxSlZmY2xwbUhtblBXbWpBeUE?oc=5",
-     "source": "日テレNEWS NNN",
-     "at": "2026-11-17T11:56+09:00"
-    },
-    {
-     "title": "トランプ大統領「金正恩氏と会談するかも」 史上初の米中ロ首脳会談への同席問われ…「習近平国家主席次第」 非核化問題など協議へ（TBS NEWS DIG Powered by JNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RGp6bEpOWDZKUXNYS21nbEhjaGFnOHlyNnhpbXRQbGdMUTlGbHVCaVpteU96Tl9ZdUdxNmNLYUM4Ymx1dzVTaHAyNk5TSkt5dng2eUtVZFlyZ2RRT1k3M2Ffazd3RWYtY25WdXhVYy1aZm1TaFN6c0JUc2JIZTA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T11:49+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "key": "russia",
    "label": "ロシア",
    "items": [
     {
-     "title": "【オピニオン】ウクライナ戦争がプーチン氏に有利に働く理由",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0pNSFhkVkVPY3REM3NwVVJHNHRNRUwxOTl3dVhxZ2lxZlkyb1pCMDd3QnVPbTNNSU43QjM3UHpyQmxGeC0zTFJpRG1UMC1WZVFxSlFHVmd6dmhBcDBSQWJKZ3NNNGpjNFVNeU9oQllHOVpuTzJzYVdzSml4c0tsbEphcw?oc=5",
-     "source": "WSJ",
-     "at": "2026-11-17T13:22+09:00"
-    },
-    {
-     "title": "ロシアは共同声明発表狙う 米中との3カ国首脳会談で",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51UkxqTGI5cHJVa1c5elUzVl91WmJ1WXM2MlNkbnFMaS1GZmJkeXNEZUVUaGdfR0pzMDMwSExjWHpoM0g2RjdMWmdZdHZVUVVjSzJYdXE0WWtyWWxVSGlfbk5GSUd6UHc2aktVZnk5Q3JfQVhpMzBj?oc=5",
+     "title": "ロシア軍とみられる航空機2機、福岡県沖で領空侵犯 空自が緊急発進",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HN0UtaVl5S3RMaGlydkNRamU5ZnBpeXpVd1duazBTX2xpR0hTa0JOYmRJS1o1SkRBR19lQnFHYnhCWmFPOXZHMDN0OUtqNmxVRXE2MWNUWk1wWEJ4Q2R0dDVmUERpMFZ2aVhBag?oc=5",
      "source": "日本経済新聞",
-     "at": "2026-11-17T11:45+09:00"
+     "at": "2026-11-17T12:00+09:00"
     },
     {
      "title": "ウクライナ軍の“異例の空挺部隊”がロシア占領地に侵入！ 降下から敵拠点への突入まで無人で遂行する衝撃映像を公開",
@@ -245,16 +202,22 @@
      "at": "2026-11-17T11:16+09:00"
     },
     {
-     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表 (テレビ朝日系（ANN）)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGFRR0ZIOXhWQkpqZVctY3IxWTdGNmFzc2VXMzgyNXh0R0dwMi1YLWpUcTI2OEhsV2plNkFlU2pYX0lQSW1sTkZYd0dURThhZEUxTXR6XzdSWWE5UkRDM0tTQ3czRGlSdmZCT1FQLXhyZ0t5clc1T3dDSFNFTVRhS3I2RC1jNDhLcXhlNlRn?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T10:28+09:00"
+     "title": "ロシア軍のウクライナ南部の村への攻撃、死者72人に 当局発表",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1laDQ0bVlwSXRFOVIydHU4VnBmc1ZIeUN3MXpPa0FBSDhSY3Y0cGdhVzNCMFlxaFB2cnRpYXJidHpwVTNuSk5fV1VtM3VRcE5hbVHSAVRBVV95cUxNX0dyLWFoU0NNSXhjS1NZXzVDYnN0YUlZeUZ3bHFVMGt5cDUyT2NQZldjWGlTNFhuR3JmTGdYWmlvMDZfYjlield3QWFhYzdpdEg3NUc?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-17T09:40+09:00"
     },
     {
-     "title": "推定ロシア機が領空侵犯、日本政府は抗議 19日に米中ロ首脳会談",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEd2VWVCdVpVMEVDMnpOeHRoTXNvUVVpTXJ5ZjhydUdpbFBla2d0MFl2SE96MzJtelc0WFliaktvR0o0YjFLNmh2cjFIOGhqQXR3M3c1WGE4SVVRN3diRDVjZ3VKSURVMkJ2RGxaZW01R1hZTE1iR2MzVE5nM1M2SnNZR2p0SUU?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-17T10:24+09:00"
+     "title": "ウクライナ軍、東部で攻勢 ロシア軍は首都空襲を激化",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiXzZMZUpwS0hEUGlQWUdENllNTU01b2s3dzNRc1RhUThVdkxNSUpBbVo1LTNDb2ttdE5jLVRDaHktYWNnSTRkNkZETVB5UVo2dGUxSGlPcUxIdw?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-17T09:07+09:00"
+    },
+    {
+     "title": "ウクライナ軍がロシアに向けて1300機以上のドローンを発射、ケルチ橋も攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40cUV5SnZid1U1T0wyUWF2TUttOFdXUC1zbmM4U0pSMl9ndm9iWnJBVmNld2N2dFJUZEh1LVRodFNwa0JGaGQ1WGVSU2RfazVCMGYtQw?oc=5",
+     "source": "Switch news",
+     "at": "2026-11-17T09:05+09:00"
     }
    ]
   },
@@ -269,22 +232,10 @@
      "at": "2026-11-17T06:00+09:00"
     },
     {
-     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-17T02:07+09:00"
-    },
-    {
      "title": "イタリアの学校に再び爆破予告メール、40分後に爆発と予告も避難なし",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3d3VEh5VUFwZngwNW5ZZlhGZHBSTkVMRzNqMTFiV2Y4dVBJTWlJdm5JREJQcTltSkFVUElYNzJESEdVZVh4eGhyY2tQdjFQZTlSWWF4SmkwbFEyVmZCemNfVEp3NlpfNGpfT3pIR0dUT29Ua1dHMGZhVzNsVGhJdWl3OHJrREZ0X2pRTWhpY08zR0NUWWhHSFJB?oc=5",
      "source": "Pasquale Pillitteri",
      "at": "2026-11-16T21:36+09:00"
-    },
-    {
-     "title": "カラス氏、ロシアに欧州の要求を提示 - ウクライナの国境尊重と戦争犯罪への責任追及",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZnFmTGYyZVFjbTdINlJFYjZGWElzTVNabWpLcE5YY2lHMUJCajBKaG9KaUNMWllpRkFKUDVINml5Ukg3UHVMQjgxdXBTOE9HYXU1TEU2bks1TU93RGdsZzd4RnRVcWVW?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-16T19:41+09:00"
     },
     {
      "title": "エストニア、ロシアとの国境閉鎖へ－防衛企業への破壊工作未遂受け",
@@ -293,10 +244,22 @@
      "at": "2026-11-16T17:35+09:00"
     },
     {
-     "title": "ロシアの対ウクライナ戦争終結に向けた次回の交渉ラウンドに、EUが参加へ",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVAzejctb3JkSkdwV1ZyeUN0YjEtVU8zenJfMnJLVGQ4NDZpSi0td3lkbDN6ZDRQcm5UajdyTHdrallWcFViN1lwMWVBMG9aWDRRVUlYZzlnRmMyUG9BOS1HVDQwd1FmMFRiTlYyMDdjaWJ4aUZsRVRFOWt3ak1Hc1RjSWZoUWRIa1E?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-16T15:25+09:00"
+     "title": "欧州各国を襲った数千通の爆破予告メール、空の便や学校に混乱 戦闘機発進も",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HYlZJVDdBb1FtcFg1S2FxYUt5TGNMUjBoeUNScFcyRlNFekdQYXVTN3p4c1JIUElDQ3djeGpMVUJKN1NyQWdwOTNWMF9BX0pMdGxuQXZaNGtLZEZ1dDdz?oc=5",
+     "source": "千葉テレビ放送",
+     "at": "2026-11-16T11:56+09:00"
+    },
+    {
+     "title": "NATO、アルバニアでの2027年首脳会議を中止",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN19xNEt5ME9OSHl1Q2tFdEVtdHF5YVZlS05IU2ZWdVFPRnNERlZzWnhla1Bkc05ndXpLX1Z4RmZQYXpkSXBYdXQxbkdYdmxKOVI5ZlRKNEljTHh4dUJXcXBxLU5nVEVCc3pxNWlSbVdySmR2VElMNWNjbS0yejB1WWl3V1I5TEM2djc0ZTh0NUNzeHZ6WmRfZA?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-16T11:52+09:00"
+    },
+    {
+     "title": "エストニア、ロシアとの道路国境3カ所を12月1日から閉鎖へ 防衛企業への破壊工作未遂を受け",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BOTBnVkRSbGtYOWdkTzJGXzliY09mZ3R0NENxTmRUM3d1R0N6VGhKNkw1b1VZZnVMdzYySGQ4SmMwVFg0WDRyRGZQRTJnUFlRQU5sWTNCT2JCdTRzU3Uyekxib0xlbDVVOUE?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-16T11:02+09:00"
     }
    ]
   }
@@ -367,6 +330,12 @@
    "at": "2026-11-16T19:57+09:00"
   },
   {
+   "title": "防災行政無線 三重県四日市市 11時 Jアラート試験放送 Glasgow Warriors Vs Cardiff Rugby (JaZJ3s1nfp)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkJNNENzTk5aMjMzWEFNeEZHRFdIcE45Mk4xZ0o2b256azN1Y01zUHVCTzB3Z1VUNlAtNFNlN0NOaUduS2wxYzF6RjZ0QUNBdE00R2hKVVFPMFdkNHl0V3psYmJIZWhqRnpqbTZQLThxMkctX19vNHN4U0NvUC1PWG5n?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-16T16:07+09:00"
+  },
+  {
    "title": "Jアラート誤送信で謝罪 原因は「訓練の情報消去せず」 Spain (k7MZAyO8Qp)",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEtKeThGVXJ0VTVMRFdQQmVoVE1HbzZJNHVuczQ1NnBVYUUxRFR5cHpzTU95X1JkU3dzcnJqZ1JXMTc5LVZzMVhVMUVtTzBkd1JjOVZ4dDVjelE1WWVvTDdOQmFIZk5JQjhBdnZPcjVwbHE1M1VJbkl6cVBlWlJNeWk3QmltT0dESXc?oc=5",
    "source": "Unisba Media",
@@ -374,6 +343,12 @@
   }
  ],
  "cyber": [
+  {
+   "title": "京王電鉄、10～12月の宿泊収入18億円減 サイバー攻撃で予約システムに障害",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzbmtVUFRhMDRWZVdVd2FwYnNJNndzX01YdTJQWFhvWEpDRWdMdXYwSy1nMGJSdGtDQ3F0MXBXQnhLZVc3a2dwNXFlQTRmQVNuSHR6UlBiNkxGMWQ5clU3cGNncFU4NkZEZTVwZEk4emVUNFA1Y0E?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-17T13:36+09:00"
+  },
   {
    "title": "ドコモ通信障害、今月3度目 藤井総務相「大変遺憾」根本原因の究明を要求",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84cWlDdkQxYktUclN4WFRuRkFDdU9qSHBzdUpKeHNzU0Y2d0F0RE1Vdm85Ykc0dk5KcV82VWpGZ0U3Y2ZLdjVNN2dXajl1SU1GbF9XS1ZiV3FXYW9tbndpc1Y3WXlGV1JRaFdfX1NGSDNjQ3hW?oc=5",
@@ -385,12 +360,6 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nUGJyNXRTUGt0Ui1IVDZNMHpaWE1vaGdIZ1BpSkN4VjBjZGJ2WXBzeHBjQWJHQ1VxSzB5RmozdXpGRUdCZjVIV0RGOVNRcndHTm5uWDAxZEVCc01LQ2ZPVTdHNXR0Z0pmN0FicU9kY2c4UQ?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-17T12:47+09:00"
-  },
-  {
-   "title": "JPモルガン・チェースの技術的問題でアメリカのオンラインバンキングに次々と障害発生",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90QUN5bkU0S05vcFRaV195N01OWVVNZE9NU0s2RzdUa3lDaW02M3RPSEltd0UwaGhjNFhndThpamotaUt4R1VOMTZTVUFhR1NpbHR3RDdEb0pwR0htN1MwakRCNA?oc=5",
-   "source": "GIGAZINE",
-   "at": "2026-11-17T12:30+09:00"
   },
   {
    "title": "NTTドコモ 今月3回目の通信障害に対し、藤井総務大臣「根本原因の究明求める」",
@@ -459,28 +428,14 @@
    "at": "2026-11-17T09:20+09:00"
   },
   {
-   "title": "米チェース銀行、オンラインサービスに障害 数千人が不具合報告",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0X0dfcm9zUlJHZWpGS2tvLXhkRzdSMXBxS1dNMjVNVWJsdWJzU0UyN0llbFpfU3o1NUp5SF9vamozMlF6T0FuYWozQXBmWVpJbDdkd2dfdw?oc=5",
-   "source": "CNN",
-   "at": "2026-11-17T09:02+09:00"
+   "title": "米ユナイテッド航空でシステム障害、出発便が地上停止 FAAの一時停止から数日",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94Vk5kaFJodDlMNmRVR2hkQzRoS0xmcTNMQnJaOFNFSXM2VTVCSXNOeTdid0FEUGgxVXRjdldpZzFfc0lXamgyWWNwRHZISWZ5U2IwWWJKNHlwYVhwOXF6RTRvaUh1OVJDVjlCeHJTUlVfSGpK?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-17T08:25+09:00"
   }
  ],
  "osaka": [],
  "world": [
-  {
-   "title": "【オピニオン】ウクライナ戦争がプーチン氏に有利に働く理由",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0pNSFhkVkVPY3REM3NwVVJHNHRNRUwxOTl3dVhxZ2lxZlkyb1pCMDd3QnVPbTNNSU43QjM3UHpyQmxGeC0zTFJpRG1UMC1WZVFxSlFHVmd6dmhBcDBSQWJKZ3NNNGpjNFVNeU9oQllHOVpuTzJzYVdzSml4c0tsbEphcw?oc=5",
-   "source": "WSJ",
-   "at": "2026-11-17T13:22+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "北朝鮮の巡航ミサイル「飛行場攻撃」写真に合成の疑い…4年前の滑走路画像を使った可能性（KOREA WAVE）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YRTR5WF90Q01hVUU1amhoSFE4LWVGQURDS3lLQTE1QndhQWlHT3BnM1lYN1pGbmxaNkFMTmxCQldEU0dlMjNlNnBaZ2ZvRWUxYW5IZlYwcnhPSlRPNXJVNHdsZDB1R1Y2THNfZ0FQWWhjSWhnTDE2MjlUeFBaeVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T13:12+09:00",
-   "topic": "北朝鮮"
-  },
   {
    "title": "イランがワシントンで「汚い爆弾」や化学兵器で攻撃計画か 米CNN",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXBzUWdTd1ZnOWJqWFFOM2lGMnF3RE1OLThMekZrNGpxdm9scTk1cFhOSVk4SW5vWVFoUkpaRlh4c1RXY2RuNGtjaWVVc2Y2RTQxdllmTDg0cEctMlBiYnFtd0ZHdkFDazBLZ29JVTNzdkZaOWZhTjdFSVE0MFNhOWJQXzJJQlZHT2xwNk5sN19xQmM?oc=5",
@@ -496,45 +451,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米大統領 金正恩氏と会談の可能性",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zZHJVZnZLdHRIZjNpRDQweXAxSnA1TEZyT1A2cS04UGRBcFVGOHRKd2RKX1NraFF3bVppQ2hYUHhXenB5R200eXk5Y3lWMjJ0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T12:44+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "プーチン大統領、金正恩氏の最側近と会談－米中ロの首脳会談を控え",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQW9vM0NVclNObzFTekJrbG1MMlNJWE9YSnh1N25FMzZ5OWkzTWgtLXBaY2NtOFhPYl9TLWRqb0ZFaHdfTFJWcGh5Tm9CblZ2MWlLblp4cTdLTlp3YlM3S205c2ZCV2ZucWVqa3l6LXFDYl9kUlFWSGp5amFrcGlEQXNUeUF1dDBMUzFrZlR3?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-17T12:39+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "トランプ氏、金正恩総書記と会談行う可能性に言及…中国に正恩氏が来るかは「習近平主席次第だ」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQlNWc2d4MW16Y0ZVTVh5aXRaOWk5S2FZb3I3X003TjgySGtIbjZ6WVdycG13LVloakFsYUcyMUZRQlFSc0lPYk5ySXJmSkFFSndMOGZOVm9uQ0QwSEpuaHVNQTFqYS0yYzA0eWZR?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-17T12:14+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "トランプ大統領「金正恩氏と会談の可能性」金総書記、訪中の場合プーチン大統領とも会談か（2026年11月16日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWhNUmozV0ZPcmY3SDBTaTcwbExHbUpRaHBsNzRYQnpqZVE1YnQwbkM4VGxhVzdnMjJvUDFSdUtFdXh5amxUalg1aTlRMDdXdzhJMkN6YkstRnQ1MFEzU3ZrSFptcnVQREhnZ3k1RjlzODIxSlZmY2xwbUhtblBXbWpBeUE?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-17T11:56+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "トランプ大統領「金正恩氏と会談するかも」 史上初の米中ロ首脳会談への同席問われ…「習近平国家主席次第」 非核化問題など協議へ（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81RGp6bEpOWDZKUXNYS21nbEhjaGFnOHlyNnhpbXRQbGdMUTlGbHVCaVpteU96Tl9ZdUdxNmNLYUM4Ymx1dzVTaHAyNk5TSkt5dng2eUtVZFlyZ2RRT1k3M2Ffazd3RWYtY25WdXhVYy1aZm1TaFN6c0JUc2JIZTA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T11:49+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "ロシアは共同声明発表狙う 米中との3カ国首脳会談で",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51UkxqTGI5cHJVa1c5elUzVl91WmJ1WXM2MlNkbnFMaS1GZmJkeXNEZUVUaGdfR0pzMDMwSExjWHpoM0g2RjdMWmdZdHZVUVVjSzJYdXE0WWtyWWxVSGlfbk5GSUd6UHc2aktVZnk5Q3JfQVhpMzBj?oc=5",
+   "title": "ロシア軍とみられる航空機2機、福岡県沖で領空侵犯 空自が緊急発進",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HN0UtaVl5S3RMaGlydkNRamU5ZnBpeXpVd1duazBTX2xpR0hTa0JOYmRJS1o1SkRBR19lQnFHYnhCWmFPOXZHMDN0OUtqNmxVRXE2MWNUWk1wWEJ4Q2R0dDVmUERpMFZ2aVhBag?oc=5",
    "source": "日本経済新聞",
-   "at": "2026-11-17T11:45+09:00",
+   "at": "2026-11-17T12:00+09:00",
    "topic": "ロシア"
   },
   {
@@ -566,25 +486,18 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表 (テレビ朝日系（ANN）)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGFRR0ZIOXhWQkpqZVctY3IxWTdGNmFzc2VXMzgyNXh0R0dwMi1YLWpUcTI2OEhsV2plNkFlU2pYX0lQSW1sTkZYd0dURThhZEUxTXR6XzdSWWE5UkRDM0tTQ3czRGlSdmZCT1FQLXhyZ0t5clc1T3dDSFNFTVRhS3I2RC1jNDhLcXhlNlRn?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T10:28+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "推定ロシア機が領空侵犯、日本政府は抗議 19日に米中ロ首脳会談",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEd2VWVCdVpVMEVDMnpOeHRoTXNvUVVpTXJ5ZjhydUdpbFBla2d0MFl2SE96MzJtelc0WFliaktvR0o0YjFLNmh2cjFIOGhqQXR3M3c1WGE4SVVRN3diRDVjZ3VKSURVMkJ2RGxaZW01R1hZTE1iR2MzVE5nM1M2SnNZR2p0SUU?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-17T10:24+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "【田母神俊雄のニュース・レビュー】イラン戦争に勝てないアメリカ　繰り返される大国の誤算",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwbGFuYkJMOF96VFJ6TDZYUklxUExSZm5HQmt1QXViU1FjeGEwME9GdUxvaFVKV2FaRUNRRWQ4UkRjV2ZWdjhCRFJZcUdfWHVZMUpCODV3Nm9qeS00aTJkRUc4RmFaS2lBSk5sNkJRQ0JaZ2lvYW800gF3QVVfeXFMUDBsYW5iQkw4X3pUUnpMNlhSSXFQTFJmbkdCa3VBdWJTUWN4YTAwT0Z1TG9oVUpXYVpFQ1FFZDhSRGNXZlZ2OEJEUllxR19YdVkxSkI4NXc2b2p5LTRpMmRFRzhGYVpLaUFKTmw2QlFDQlpnaW9hbzQ?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-17T10:00+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ロシア軍のウクライナ南部の村への攻撃、死者72人に 当局発表",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1laDQ0bVlwSXRFOVIydHU4VnBmc1ZIeUN3MXpPa0FBSDhSY3Y0cGdhVzNCMFlxaFB2cnRpYXJidHpwVTNuSk5fV1VtM3VRcE5hbVHSAVRBVV95cUxNX0dyLWFoU0NNSXhjS1NZXzVDYnN0YUlZeUZ3bHFVMGt5cDUyT2NQZldjWGlTNFhuR3JmTGdYWmlvMDZfYjlield3QWFhYzdpdEg3NUc?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-17T09:40+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "イラク、親イラン勢力拠点に軍派遣 ２０日までの撤退要求、米圧力か",
@@ -594,6 +507,20 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ウクライナ軍、東部で攻勢 ロシア軍は首都空襲を激化",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiXzZMZUpwS0hEUGlQWUdENllNTU01b2s3dzNRc1RhUThVdkxNSUpBbVo1LTNDb2ttdE5jLVRDaHktYWNnSTRkNkZETVB5UVo2dGUxSGlPcUxIdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-17T09:07+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ウクライナ軍がロシアに向けて1300機以上のドローンを発射、ケルチ橋も攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40cUV5SnZid1U1T0wyUWF2TUttOFdXUC1zbmM4U0pSMl9ndm9iWnJBVmNld2N2dFJUZEh1LVRodFNwa0JGaGQ1WGVSU2RfazVCMGYtQw?oc=5",
+   "source": "Switch news",
+   "at": "2026-11-17T09:05+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシアが揺さぶるNATO東翼、ウクライナ戦争を支える「支作戦」の狙い",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrYmQ2cE96YUxJMUROYkNXOWRHckZGLTRIQjFteTA3WWNLU0oxUHVucHZjeFhpVEFwYWhLM3picnpfQWxpLUp0bTV6dlRid1U0dmNnbEJLNlFGUERaOUVN?oc=5",
    "source": "JBpress",
@@ -601,10 +528,52 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-17T02:07+09:00",
+   "title": "イタリアの学校に再び爆破予告メール、40分後に爆発と予告も避難なし",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3d3VEh5VUFwZngwNW5ZZlhGZHBSTkVMRzNqMTFiV2Y4dVBJTWlJdm5JREJQcTltSkFVUElYNzJESEdVZVh4eGhyY2tQdjFQZTlSWWF4SmkwbFEyVmZCemNfVEp3NlpfNGpfT3pIR0dUT29Ua1dHMGZhVzNsVGhJdWl3OHJrREZ0X2pRTWhpY08zR0NUWWhHSFJB?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-16T21:36+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "「いいね」で台湾軍の人脈を収集か 将官を紹介する中国系FBページに安全当局が警戒 | 楊舒媚（ヤン・シューメイ） | ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfZjdkV0hPTEEyY0x3ZV9zOXRsOFdfSVpkdWRGaHFNWHZnT0kwdmpMWU1ROENGLUUtZ3E3UV9ZTi1sYTlQSndDODAyLUczZjJW?oc=5",
+   "source": "風傳媒",
+   "at": "2026-11-16T17:37+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "エストニア、ロシアとの国境閉鎖へ－防衛企業への破壊工作未遂受け",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRHB4bVhlUnIxNDhydnVueDRrMEhNWjhxUlBUQTJPZGJGdTJfMmZpbGRZczg2VXhCbWNBMllpS0FuTy1zbWRrZFZmZHZlWTd1dHNjN1k0S0VJUzZwRHlLZjdzb2FxbW00cHRnTnhXeXlFVEda?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-16T17:35+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "米中露首脳会談の狙いは日本なのに、APECで高市首相を冷遇しないよう中国政府に求めた日本政府の不見識",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWs1VkQzS294VjlDWE11TkV1R0xVa1hEV1h6VFVQd0lHbDNxLU0xRWRNUVhaYUhoVW8wTThpUjk5ZFhuTGJ2VS1DMWl4RFo1SDBqZWxkSWpKNUxaYURoVktnTXFUamVUT3JERlhWY3pnVzhfWFJQeXRfTkRmaXBzUjB2TjdXQkpv?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-16T15:11+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "中国軍サイバーセキュリティの第一人者・郭世澤氏、中国科学院サイトから姿消す",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SWU0Q0RhYU8yLVplVU56Uk5zQWU0QS1SRFlBejVJZjhuV0dkQUp2LVFWanowa0ZoVmY4Wm5NNVI1YS1vUGlBVm85a0NJZXc?oc=5",
+   "source": "看中国 / VisionTimesJP",
+   "at": "2026-11-16T12:13+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "欧州各国を襲った数千通の爆破予告メール、空の便や学校に混乱 戦闘機発進も",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HYlZJVDdBb1FtcFg1S2FxYUt5TGNMUjBoeUNScFcyRlNFekdQYXVTN3p4c1JIUElDQ3djeGpMVUJKN1NyQWdwOTNWMF9BX0pMdGxuQXZaNGtLZEZ1dDdz?oc=5",
+   "source": "千葉テレビ放送",
+   "at": "2026-11-16T11:56+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "NATO、アルバニアでの2027年首脳会議を中止",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN19xNEt5ME9OSHl1Q2tFdEVtdHF5YVZlS05IU2ZWdVFPRnNERlZzWnhla1Bkc05ndXpLX1Z4RmZQYXpkSXBYdXQxbkdYdmxKOVI5ZlRKNEljTHh4dUJXcXBxLU5nVEVCc3pxNWlSbVdySmR2VElMNWNjbS0yejB1WWl3V1I5TEM2djc0ZTh0NUNzeHZ6WmRfZA?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-16T11:52+09:00",
    "topic": "欧州・NATO"
   }
  ],
@@ -626,10 +595,8 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」3件",
-    "中国・台湾：「攻撃」1件",
-    "北朝鮮：「攻撃」「ミサイル」1件",
-    "ロシア：「攻撃」2件",
-    "欧州・NATO：「攻撃」「爆破予告」3件"
+    "ロシア：「攻撃」3件",
+    "欧州・NATO：「爆破予告」「破壊工作」2件"
    ],
    "items": [
     {
@@ -639,16 +606,16 @@
      "at": "2026-11-17T13:11+09:00"
     },
     {
-     "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkxkZW81Q3ZFaHF6SXdBWXJ5a2Vfc3ZvZnNGSy1FN09Kb0ptUVZVSFk2N3V2eXpGNW9LZTFrMEcxYlFJOHVuZEhwT1JJdjBkeDdVYi1wWHpoWmhiSk1n?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-16T22:10+09:00"
+     "title": "ロシア軍の攻撃、キーウの主要な橋2本に被害 市長発表",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FaUJKS1hjTzlEdURQWV9LSnNPdjA1LWNNTzJjTUZBejgwRE1QOVp5Q0lTbnFLdjcwdWpySzBaRnE0MUx5OGJvNS0zcE8xamFOY1HSAVRBVV95cUxNUUl6U1RaR2xxWEtWNlE2MUU3ZmZJUmRqU0lZRUcxX2p1aWQ0cUd5SkRudjdlckxzMjYydUtHaktFeXAxVmVZSzdTRG5TZEpvMFVfd2o?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-17T11:16+09:00"
     },
     {
-     "title": "北朝鮮の巡航ミサイル「飛行場攻撃」写真に合成の疑い…4年前の滑走路画像を使った可能性（KOREA WAVE）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YRTR5WF90Q01hVUU1amhoSFE4LWVGQURDS3lLQTE1QndhQWlHT3BnM1lYN1pGbmxaNkFMTmxCQldEU0dlMjNlNnBaZ2ZvRWUxYW5IZlYwcnhPSlRPNXJVNHdsZDB1R1Y2THNfZ0FQWWhjSWhnTDE2MjlUeFBaeVU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T13:12+09:00"
+     "title": "イタリアの学校に再び爆破予告メール、40分後に爆発と予告も避難なし",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3d3VEh5VUFwZngwNW5ZZlhGZHBSTkVMRzNqMTFiV2Y4dVBJTWlJdm5JREJQcTltSkFVUElYNzJESEdVZVh4eGhyY2tQdjFQZTlSWWF4SmkwbFEyVmZCemNfVEp3NlpfNGpfT3pIR0dUT29Ua1dHMGZhVzNsVGhJdWl3OHJrREZ0X2pRTWhpY08zR0NUWWhHSFJB?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-16T21:36+09:00"
     }
    ]
   }
