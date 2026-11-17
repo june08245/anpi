@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:45+09:00",
+ "updated": "2026-11-17T11:00+09:00",
  "errors": [
   "osaka"
  ],
@@ -97,6 +97,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランが米首都で「汚い爆弾」保持の情報 高官を標的？ ベセント財務長官は軍施設に退避",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWFZZjRrVHpUWV8tZktDeEpQN1ItSkFaYWp2MU5tTTUxWGRhMGs2N1ZKWkJyLU9VVFl0N0I1QXh6T0swSWtYdDVMT3RwSUZiSVBOZmx3dTVsd05UbEN4NV9HLUtPeGpzZjRfdlBiU21XdjNSQ29UOVhmZFI3WGlJWEh0Rnpnd016VHJlRA?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-17T10:51+09:00"
+    },
+    {
      "title": "イラク、親イラン勢力拠点に軍派遣 20日までの撤退要求、米圧力か（時事通信）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tXzJ3WEtFRVJDN3FmUDlINXJxYTQzdG5mMjJzekhoeEZzeEpWQjREdTBTZ0tLdVhXRXdSU21IemQ4M2dVaFlCUEYtdXhjUmJjWDVtdURQb0o3M1VXMTY3YVFEck5CV0E3ck84SVQxWU85dW9NQm5LekU0UUxRM2M?oc=5",
      "source": "Yahoo!ニュース",
@@ -125,12 +131,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DbllESENoSGFETmN2WkYxZWdtRWFoWE5rYlItQ2RXYjhBbm1ON2tSY20yWjFOaWlIeUtFY212THNoYUtSS0FERHlvM01ZZDFh?oc=5",
      "source": "CNN",
      "at": "2026-11-16T17:26+09:00"
-    },
-    {
-     "title": "ブレント原油96.28ドル、イランがバーレーン米基地攻撃で上昇、強気98ドル・弱気91ドル",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOER4TmRhNTlaLVA2dzFUR21DUDRGUkpQQmZXdHNrZmVzS01lcXNsSjNRTWJQU040ZnhBWVpBZTg4YnN6d3NtV0NaRy0zcW9HaS1ycFNCcE1SOUJIQ0NNLXFfYzM4a3FSVGxwNE5PdGR4NXhzUVIwdVFlQ2FPU0RzNUJHQUQ0aDcxZEZGaw?oc=5",
-     "source": "FinanceFeeds",
-     "at": "2026-11-16T17:11+09:00"
     }
    ]
   },
@@ -139,40 +139,34 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkxkZW81Q3ZFaHF6SXdBWXJ5a2Vfc3ZvZnNGSy1FN09Kb0ptUVZVSFk2N3V2eXpGNW9LZTFrMEcxYlFJOHVuZEhwT1JJdjBkeDdVYi1wWHpoWmhiSk1n?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-16T22:10+09:00"
-    },
-    {
-     "title": "「いいね」で台湾軍の人脈を収集か 将官を紹介する中国系FBページに安全当局が警戒 | 楊舒媚（ヤン・シューメイ） | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfZjdkV0hPTEEyY0x3ZV9zOXRsOFdfSVpkdWRGaHFNWHZnT0kwdmpMWU1ROENGLUUtZ3E3UV9ZTi1sYTlQSndDODAyLUczZjJW?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-16T17:37+09:00"
-    },
-    {
      "title": "【人物】53日逃亡、支援者は50人超 台湾議員の元側近・張俊傑被告、「典型的なスパイの手口」 と情報当局",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QODlTbnY2R1p4Y3ZsQ1VPX0JYdVdJWnlYeTF1cXpEVDdyRUI5OGtXc2t5QzhZZmF5bFB3WEFJdkhNdWpKSW9NUUJvNXA1dWd6?oc=5",
      "source": "風傳媒",
      "at": "2026-11-16T15:55+09:00"
     },
     {
-     "title": "米中露首脳会談の狙いは日本なのに、APECで高市首相を冷遇しないよう中国政府に求めた日本政府の不見識",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWs1VkQzS294VjlDWE11TkV1R0xVa1hEV1h6VFVQd0lHbDNxLU0xRWRNUVhaYUhoVW8wTThpUjk5ZFhuTGJ2VS1DMWl4RFo1SDBqZWxkSWpKNUxaYURoVktnTXFUamVUT3JERlhWY3pnVzhfWFJQeXRfTkRmaXBzUjB2TjdXQkpv?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T15:11+09:00"
-    },
-    {
-     "title": "中国軍サイバーセキュリティの第一人者・郭世澤氏、中国科学院サイトから姿消す",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SWU0Q0RhYU8yLVplVU56Uk5zQWU0QS1SRFlBejVJZjhuV0dkQUp2LVFWanowa0ZoVmY4Wm5NNVI1YS1vUGlBVm85a0NJZXc?oc=5",
-     "source": "看中国 / VisionTimesJP",
-     "at": "2026-11-16T12:13+09:00"
-    },
-    {
      "title": "中華民国（台湾）と外交関係持つ5か国が「COP31」首脳級会合で台湾支持の発言",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbFVSUmxHa2NTMTB2NjkyTVZ4Ym04N1RFVGI3US1CeFA4X1kwNDk4cmxoNUhHcUgwb0RiSTR1YV9weVBDMHZYYWR6dEU?oc=5",
      "source": "Taiwan Today",
      "at": "2026-11-16T11:08+09:00"
+    },
+    {
+     "title": "民間空港も病院も総動員…「台湾有事」を見据えた史上最大の日米軍事演習「キーン・ソード27」の真の狙い",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01eE8xSEd1TVdZelZXeDhKaXpkaTloVmdTMjhpMGFUcndscVJNdUdqZVg2Rno5TFBLOXVBR0pvT3RnSjVKWWt6MktsUi1QSHp3eHhjandYcXB4VXU3ZS1J?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-16T07:00+09:00"
+    },
+    {
+     "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOVdWdEZlY0ZPQUMwWWktMVZpSkl4NVVBYUdtTS1PNk1rY3JBeGRQcFpVallDYlBnMW12RHRkdjZSYnZyUTRoN1JMcGZlNUtRUlJEMlNzYVRvanc?oc=5",
+     "source": "東洋経済オンライン",
+     "at": "2026-11-15T06:00+09:00"
+    },
+    {
+     "title": "【寄稿】中国軍、空母「遼寧」軸に3戦区海軍が西太平洋へ 第一列島線の「反封鎖」 能力を検証か",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLeTB1b2FjbEtmSUItbEcxdDd3aG44OWR0SFJhdEg0VXV1MGhzRkhJT05BVm14bzdLeVp2aThrSXRVc19sd25kblV1Ym80V3kx?oc=5",
+     "source": "風傳媒",
+     "at": "2026-11-14T12:13+09:00"
     }
    ]
   },
@@ -181,9 +175,9 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "ロシアのプーチン大統領、金正恩氏最側近と会談＝クルスク奪還で北朝鮮兵称賛",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wVENUTFZSU3piWHdMYk92eGI2N2NueEtna1ZQcm83ZG93T2ViQnAyVVlmMTltQ05BaXFzMkJIRjRNZlhOenVUS3pWMF9SMnpYS2NkS25Xdi1xUEphekJFV2xkeG16UdIBa0FVX3lxTE5jZk91amNrRDRpc3JNaURjRmlmTjd2RnlxYVBWc2M2dUw5X2puS1BDTllkdXZ4Z09GSTA1elRjc0wtVFBoc1JoSVhGQnZNSkVZd1gxMzh4cXg3RE03a0N6T3FOX1NtazBhbHhR?oc=5",
-     "source": "Infoseek",
+     "title": "ロシアのプーチン大統領、金正恩氏最側近と会談 クルスク奪還で北朝鮮兵称賛（時事通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YUndoNzNaRktlNTFXalIxUjJvU0thT2p3VlZZcUw0VnZhMHUzbFQzeG9ZZFpkQWpiUmh5bXc3NHJBX3VOUXJMS2xhOHJHRlVMenpWalREbFlWT0lSc2F4VXI2RVJPeW9MekZnSG1iYkJWS2JFREZucmttVGlKVnM?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-17T10:19+09:00"
     },
     {
@@ -229,6 +223,12 @@
      "at": "2026-11-17T10:34+09:00"
     },
     {
+     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表 (テレビ朝日系（ANN）)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGFRR0ZIOXhWQkpqZVctY3IxWTdGNmFzc2VXMzgyNXh0R0dwMi1YLWpUcTI2OEhsV2plNkFlU2pYX0lQSW1sTkZYd0dURThhZEUxTXR6XzdSWWE5UkRDM0tTQ3czRGlSdmZCT1FQLXhyZ0t5clc1T3dDSFNFTVRhS3I2RC1jNDhLcXhlNlRn?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-17T10:28+09:00"
+    },
+    {
      "title": "推定ロシア機の領空侵犯を確認、ロシアに厳重に抗議＝木原官房長官",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEd2VWVCdVpVMEVDMnpOeHRoTXNvUVVpTXJ5ZjhydUdpbFBla2d0MFl2SE96MzJtelc0WFliaktvR0o0YjFLNmh2cjFIOGhqQXR3M3c1WGE4SVVRN3diRDVjZ3VKSURVMkJ2RGxaZW01R1hZTE1iR2MzVE5nM1M2SnNZR2p0SUU?oc=5",
      "source": "Reuters",
@@ -241,22 +241,16 @@
      "at": "2026-11-17T10:08+09:00"
     },
     {
+     "title": "【速報】推定ロシア機が領空侵犯 2機が相次ぎ 福岡県沖ノ島の北西 小泉防衛大臣「主権の重大な侵害。ロシア政府に極めて厳重に抗議」",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fOWY1V0NYa0xUeEc5d00xbXFzWGNSV0hJTXBBTUNPcjlHNWZUNTJ3VDBWWVdqa2xwWHN6elVva3lpUi0tRmVUQUVGcllIVVp6NFBGVlBmR2hPUklLb0Yxb0FoWFNTYkhrM3k3b0JR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-17T09:59+09:00"
+    },
+    {
      "title": "ロシア軍のウクライナ南部の村への攻撃、死者72人に 当局発表",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fR3ItYWhTQ01JeGNLU1lfNUNic3RhSVl5RndscVUwa3lwNTJPY1BmV2NYaVM0WG5HcmZMZ1haaW8wNl9iOWJ6V3dBYWFjN2l0SDc1R9IBVEFVX3lxTE1fR3ItYWhTQ01JeGNLU1lfNUNic3RhSVl5RndscVUwa3lwNTJPY1BmV2NYaVM0WG5HcmZMZ1haaW8wNl9iOWJ6V3dBYWFjN2l0SDc1Rw?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-17T09:48+09:00"
-    },
-    {
-     "title": "ウクライナ軍がロシアに向けて1300機以上のドローンを発射、ケルチ橋も攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40cUV5SnZid1U1T0wyUWF2TUttOFdXUC1zbmM4U0pSMl9ndm9iWnJBVmNld2N2dFJUZEh1LVRodFNwa0JGaGQ1WGVSU2RfazVCMGYtQw?oc=5",
-     "source": "Switch news",
-     "at": "2026-11-17T09:05+09:00"
-    },
-    {
-     "title": "ロシア軍、キーウの橋攻撃 一部で断水や停電発生",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2RBQlN1QlhxdEdlUEo0N0JZZ3lOTVhteDEtbWtWTXJyN29qdENxSXNoUm5FZ1pyWXNWbi1oN2VDY1pGQXhpYllPaDBibExqTG9aME1DVXZ3aHY2Ul84ZXRWYVo3OFQ2Y3pIcTRTT1JGNG9Lb0VMb21INngyZ0RxUTREY2Jjdw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-17T08:55+09:00"
     }
    ]
   },
@@ -373,26 +367,26 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkJNNENzTk5aMjMzWEFNeEZHRFdIcE45Mk4xZ0o2b256azN1Y01zUHVCTzB3Z1VUNlAtNFNlN0NOaUduS2wxYzF6RjZ0QUNBdE00R2hKVVFPMFdkNHl0V3psYmJIZWhqRnpqbTZQLThxMkctX19vNHN4U0NvUC1PWG5n?oc=5",
    "source": "Unisba Media",
    "at": "2026-11-16T16:07+09:00"
+  },
+  {
+   "title": "Jアラート誤送信で謝罪 原因は「訓練の情報消去せず」 Spain (k7MZAyO8Qp)",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEtKeThGVXJ0VTVMRFdQQmVoVE1HbzZJNHVuczQ1NnBVYUUxRFR5cHpzTU95X1JkU3dzcnJqZ1JXMTc5LVZzMVhVMUVtTzBkd1JjOVZ4dDVjelE1WWVvTDdOQmFIZk5JQjhBdnZPcjVwbHE1M1VJbkl6cVBlWlJNeWk3QmltT0dESXc?oc=5",
+   "source": "Unisba Media",
+   "at": "2026-11-16T13:53+09:00"
   }
  ],
  "cyber": [
+  {
+   "title": "ドコモの5G SAで再び通信障害 ― 11月16日に全国で約6時間、現在は復旧",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40REVBNTh6TDNVNWRyVGY5bjAwcXZvY29CTGVBeXYwQUt1cVNhTHdqcUdtd1R2MnNmdHNOWTdLMHFzeGJHakhKcTZ6QUs5dzR2MlowRmdOdnNDT3NzX1lZaG9qTXNDM0xVeUE?oc=5",
+   "source": "OREFOLDER",
+   "at": "2026-11-17T10:56+09:00"
+  },
   {
    "title": "米チェース銀行、オンラインサービスに障害 数千人が不具合報告",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0X0dfcm9zUlJHZWpGS2tvLXhkRzdSMXBxS1dNMjVNVWJsdWJzU0UyN0llbFpfU3o1NUp5SF9vamozMlF6T0FuYWozQXBmWVpJbDdkd2dfdw?oc=5",
    "source": "CNN",
    "at": "2026-11-17T09:02+09:00"
-  },
-  {
-   "title": "米ユナイテッド航空で一時システム障害、出発便に遅れ 「サイバー攻撃の兆候なし」（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NMENFVmpCM2VQcUxUZmRwMWVtalY5aU1NQlRZZWhvTGViNjBRTE1fbGJNdE5GRmNWemo1cU9URXVDTmJYZzh6bEliNW1xY2hHTklrVDEwRlZJYlNIb0VSVXpkVHdrTjNkeUxTcnVlLTFhV2w5a1c2UlNVY1ZvbGs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T08:38+09:00"
-  },
-  {
-   "title": "米JPモルガン・チェースなど複数の銀行 オンラインバンキングでシステム障害 ソフトウェア不具合で取引遅延、Zelle送金にも影響",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVhIT2kxYnJJMjg1YmxWS2lVeEN0NS1xb3F5RVpRR0pkX1c5OVJmSWRsbFp3bFBPek9KTC1ESXRaaE5uYlRUMGtFUXFjbllSR29qRE1qaWdaS250dm5BSWJjenljZ2RUMG1kMWtkNzZROGdKS2dCSkNJeVN5aWNFbWZjQzFnMEVlbWk0YVFicHVLamlMaXZYWndiWE0ycXVpYVhXOEFISWtFY2s?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-17T07:59+09:00"
   },
   {
    "title": "JPモルガンなど複数の米大手銀行でオンライン口座にアクセスできない障害（2026年11月16日掲載）",
@@ -413,67 +407,87 @@
    "at": "2026-11-17T07:05+09:00"
   },
   {
-   "title": "米大手銀に相次ぐシステム障害、JPモルガンは「悪意ある関与なし」",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTms4Z0tidld2UUdTTnpKNDdfX2N4MWRTV2FZLTNfdHdiSWg1Y2NhSkt4THZsTGtBWVJLZ05NR1RESnBDY0Rxc2I0UEFIX083b0tIN2tnRUFfcHE3NGY5aThPY2FBNUdIVTFXMFFKNEp0cno5?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-17T05:39+09:00"
+   "title": "スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ybVZHN1QwY3RoTFMxblJab3V4X2RyeTlsTDdHZHRQdl9aZXpzSmdVaktHNThZN2dZcWlUUzV5MU10OWh1bk14OEpQUWc0cE02LUlaWW9jY0xQUnF2V21kaHBWcFI5UmllSDU4UzhncGQ0RFhjUk9BOVdQd2dqd0U?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T10:42+09:00"
   },
   {
-   "title": "銀行株下落 チェースとウェルズで障害発生 利用者の資金は安全か",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLMTlwZXB4aUpUTU0ybDV6amtqUXJhbk1BS05CRzduSjhRRWhmcXdBZVhQOUU2OTY0SFN1RFpIRDE4R2pLRXJ2SzBHZzExRXAtSWtxb1VVV3hXZHpScjN1Z3M0a2t6WmdTVGNNeGFSTUZFT3hXNXc?oc=5",
-   "source": "BeInCrypto",
-   "at": "2026-11-17T05:35+09:00"
+   "title": "キリンビール DRINX（ドリンクス）、会員メールアドレス5万8,613件が漏えい GMOメイクショップ経由でアララ不正アクセスの影響",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1Y5bHNkNTEtUGdEcXdHTks5ZWZHN2pnMXZBd0hnVDN2ZEZYbmZ1aEZBRjVNWlBueTZlUG5sOVR6ZHdEUlhUMXZtU0lfdE01Nk1aM3J2UkRpZEw1c1hmYUxqdmxSQWZrVDhQbDlpOTg0QzhYU2hyM1VkbEdNQkptakhfX0RwSWhFZ2dkd28tWHdwNHZDWWQyUUhpUExiQQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-17T10:15+09:00"
   },
   {
-   "title": "ChaseとBank of America、Wells Fargoで障害、Chaseは技術的バグと説明",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnhBVXB5MlEzMXM5dGViZko2VHhJRlpSWnhFbm1oblRNeTVXenhmV2Y5UnhnQjU5U2lfbGhGTHNpNzZsc1pMVzRmZ0J5RVhzTkNaYUZNRzR1bm05eDdseXVOTVoyWC1qYzlGTFRZMHA3YzdkMlFucHd4RnIxN09uY3luU2pQY1h4NjFGUWVET25rSlpBS3EzRGdhSm1vQQ?oc=5",
-   "source": "Pasquale Pillitteri",
-   "at": "2026-11-17T05:03+09:00"
+   "title": "四国電力 委託先への不正アクセス 顧客情報60万件流出 愛媛県関係20万件 不審メール等に注意呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVRXd1NCRTd1Uk9lcFlRc0o5bjdENER1eThMczF1SWJWd0Q1YklhLThGek1PM1BTdFZEX0kwY3RTdEdLM1h6cFlaVHhBQ0Y4SDViRnYtOW9mdmZhRG9tZXpIMjF4V0RoS3lQRm8xbDJNYTlvNzc0WDBIaWJqWjFmaXlVYlpwR2c?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-17T10:14+09:00"
   },
   {
-   "title": "JPモルガンでオンライン取引障害 米国の複数行に波及、ソフト不具合",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5TlhpT1YtNmZLRldNTUFqWkpndnQybURXOTZ0cXU4dWdyTlRNclN3dFBrWWZzdnZYTHVkS2hUSTRPdzk2S2FxTkV0Z1lwd0VfSDVoR0NkUE1meDNLZkNoQVI1YzNpX295NlVZaw?oc=5",
+   "title": "「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12WWhxc3pERy0wVXNxZ2Y2TTZDOFJ6TlNURW9MNWdTM2owUUw1S1VZdkxBc1FRNEpVeklEemRSZDRvZjVfeWs3NXJ3b3pKVmdsMG1FbVliR1BqOHo5M2hsUmpuU3FJM05xeGc?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-17T10:09+09:00"
+  },
+  {
+   "title": "香港ディズニーランドに不正アクセス 電子チケット1万7000枚窃盗か",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mRWxsNjVfdDd3eV9JYTh5Ym5yWElXZU5VTzRlYm1WNU5uV3YtdEkwTDhEV2xraUhLbjVuU3N1UzN2c204QmNFUjFTTHRFZUk4Zkg1UVpzZWJuejMyMWd3Z1RhOHNwdmVBUkpfQg?oc=5",
    "source": "日本経済新聞",
-   "at": "2026-11-17T04:18+09:00"
+   "at": "2026-11-17T10:03+09:00"
   },
   {
-   "title": "日本テレビ・水卜麻美アナ、マイクロソフトのシステム障害伝える",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zd2RjeHltRFBSNHlVVEdOWjZoekQ0TzBvZHFsSE1sMXdPWm1fU19JVldXV1FBaUlGU3Y3Yjh2SkgzQVVzeVJJeE5vdk9TZWdxN2c?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-17T02:43+09:00"
+   "title": "スパコン「富岳」に不正アクセス、利用者情報流出か サーバーの一部で改ざん 理研が運用を停止|社会",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DeVR0aFBKanlKSzE3NWJyMDBWcklQYVVhQWZ3R2ZQZWRJT3RXNjVTX3pGbXQycnBuVHREa2l2NmpuRWNtU0ludDhZVTM3RW05bVpwNXhKdzl4QTNwdDhJS3RzaXZESzBiVFlXbTRR?oc=5",
+   "source": "神戸新聞",
+   "at": "2026-11-17T09:49+09:00"
   },
   {
-   "title": "Outlook障害、ラジオ局でも影響 リスナーのお便り届かず SNSでコメント募集",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ZDdxeTlqS0Rvc3dnbVQ0Z0NkV0JlcW9zbFh6aXpDb1RKNlE4TVNXbDZPY2h6aDFCWTJKZktWZEpXMUFnd01jaUVlV0pUUkt3RFJuc2tWQ0pYa1Fv?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-17T02:09+09:00"
+   "title": "理研のスーパーコンピューター「富岳」不正アクセス、最大4,597名の個人情報漏えいのおそれ",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUZMbENDVU1KY0Z1VjZNSTBsMUJHbzk5Q1R0Zi1QV2MtM1E5MTczbDdoVGF6ZF9yOURJTF90VFdxd2dHa3BudHpWYzRhMlVZdTZkOGZVWWR4WW0zeVM2b0VCZFFpWnpLZUp6WXB0NlFVMmF1RmZNckg2dUxMOHYzNFRybU01VWVGV2t3OTNtQlA5YVJmMWl1eVlVRGQ1Mmc?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-17T09:39+09:00"
   },
   {
-   "title": "もう大丈夫？ Microsoft世界規模の障害から全面復旧 Outlook・Teams停止で各国に影響、同社が謝罪（11/16）",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpMVh2dTdGYWRILUFNaVZfeWZDOXVKZElUeEFUS2ppYUJVMW94cDdrVEZyMW1KUG9pY2h3UFdZSXVNVTduVEJiZ0pwX1Y?oc=5",
-   "source": "LALALA USA",
-   "at": "2026-11-16T23:47+09:00"
+   "title": "プレイド－大幅続落 不正アクセスで個人情報含む可能性のある情報漏えいを確認(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVBmZ2l0WUtTZm9zUUJyVklRSEU1TmFZemJjNU15M0tfUC1VaVpydmwwNlZHSGlfdEpRU2VUeFpxM3RFZWlSZEVVZFY0ZDFQWklJRG1CWko0RF80a1hNbFlyOWdscGlLZzlhOUdOQm96TlFYcTVweUpDM083ZV9RdUE5SnVRd0k?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-17T09:27+09:00"
   },
   {
-   "title": "NTTドコモ「5G SA」で11月3度目の通信障害 約6時間で復旧も専用設備における安定性確保に課題",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UYUJJZkctYnAxSjE3bkZvcElpZ3pOd3VSSGJDOWlMUUVxTkwzRUpZSlhTbzVfS18zME1uelJUOU1BTndfUzh5bzFaYVVkRGMyaTRz?oc=5",
-   "source": "東京報道新聞",
-   "at": "2026-11-16T23:04+09:00"
+   "title": "続・GMO不正アクセスに関して考えること【システム開発会社目線】｜笠原拓",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92a2g0bVNKV0pMVGlvN0pZbkRwUElGUXRRbk1nUE1WaS1wTDlqek9fVldfaHl1V2xpV0VURGF1cTNRY1dvNUY5V3laWHBWTzUzUjk4eXVEcTREQUN6Q3Z2ekFYUQ?oc=5",
+   "source": "JIJICO",
+   "at": "2026-11-17T09:15+09:00"
   },
   {
-   "title": "マイクロソフトで大規模な通信障害世界各地でOutlook使用できず…",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNS0VJdExKT0RQdXVZTFEwZ1pxb1NPNEpFLXp6MWU2RGhzSmt0d1pGOFVxRGpwODVldEdlOTgwdzk3ZGpHM1F5cHRHa3phajJNSzBueWtkVEY5LXJNb0JXWWY1NlhqVkU?oc=5",
-   "source": "朝日放送",
-   "at": "2026-11-16T22:01+09:00"
+   "title": "当社グループが利用する「KARTE」への不正アクセスに伴う情報漏えいに関するお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSjNUMXNJbnNBN00zekJxbVVVVFFTc0hSM2RoT0VfU3dlYndXY2tYMGdvYzJPMTZxdFM1Z3FNWWZwQ3V0UnlPajRmV0p2c2twaEtnZXEwc3FveXgy?oc=5",
+   "source": "WORLDコーポレートサイト",
+   "at": "2026-11-17T09:15+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
+   "title": "イランが米首都で「汚い爆弾」保持の情報 高官を標的？ ベセント財務長官は軍施設に退避",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYWFZZjRrVHpUWV8tZktDeEpQN1ItSkFaYWp2MU5tTTUxWGRhMGs2N1ZKWkJyLU9VVFl0N0I1QXh6T0swSWtYdDVMT3RwSUZiSVBOZmx3dTVsd05UbEN4NV9HLUtPeGpzZjRfdlBiU21XdjNSQ29UOVhmZFI3WGlJWEh0Rnpnd016VHJlRA?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-17T10:51+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシア軍機が韓国の防空識別圏に進入、韓国軍が戦闘機出動",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85cXFacTk5aUtSQXZLZnlUV2xPV29CU0VKQVFmM0V5TFNuc3ZOWlE2cEN1N1JFTS0tX1ROZWZ3Qk5hUFN3WjBtRF9zZ1kwcDRLVXpJNHhmQkI4Uk9Hd2NF0gFkQVVfeXFMUFBiUjFsODJSdkJpYjl2QzI0OVA4ekZvTlB5aFc5WE44LTY2WGNXZmJ1VUQ2eGZ2cDl1VllCYjhpWTJHYUlKVXFrOElPSGFERUswckVSTHlGMjVGTXFUaDIyM3lKWA?oc=5",
    "source": "Infoseek",
    "at": "2026-11-17T10:34+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表 (テレビ朝日系（ANN）)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGFRR0ZIOXhWQkpqZVctY3IxWTdGNmFzc2VXMzgyNXh0R0dwMi1YLWpUcTI2OEhsV2plNkFlU2pYX0lQSW1sTkZYd0dURThhZEUxTXR6XzdSWWE5UkRDM0tTQ3czRGlSdmZCT1FQLXhyZ0t5clc1T3dDSFNFTVRhS3I2RC1jNDhLcXhlNlRn?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T10:28+09:00",
    "topic": "ロシア"
   },
   {
@@ -484,9 +498,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシアのプーチン大統領、金正恩氏最側近と会談＝クルスク奪還で北朝鮮兵称賛",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wVENUTFZSU3piWHdMYk92eGI2N2NueEtna1ZQcm83ZG93T2ViQnAyVVlmMTltQ05BaXFzMkJIRjRNZlhOenVUS3pWMF9SMnpYS2NkS25Xdi1xUEphekJFV2xkeG16UdIBa0FVX3lxTE5jZk91amNrRDRpc3JNaURjRmlmTjd2RnlxYVBWc2M2dUw5X2puS1BDTllkdXZ4Z09GSTA1elRjc0wtVFBoc1JoSVhGQnZNSkVZd1gxMzh4cXg3RE03a0N6T3FOX1NtazBhbHhR?oc=5",
-   "source": "Infoseek",
+   "title": "ロシアのプーチン大統領、金正恩氏最側近と会談 クルスク奪還で北朝鮮兵称賛（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YUndoNzNaRktlNTFXalIxUjJvU0thT2p3VlZZcUw0VnZhMHUzbFQzeG9ZZFpkQWpiUmh5bXc3NHJBX3VOUXJMS2xhOHJHRlVMenpWalREbFlWT0lSc2F4VXI2RVJPeW9MekZnSG1iYkJWS2JFREZucmttVGlKVnM?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-17T10:19+09:00",
    "topic": "北朝鮮"
   },
@@ -503,6 +517,13 @@
    "source": "毎日新聞",
    "at": "2026-11-17T10:02+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "【速報】推定ロシア機が領空侵犯 2機が相次ぎ 福岡県沖ノ島の北西 小泉防衛大臣「主権の重大な侵害。ロシア政府に極めて厳重に抗議」",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fOWY1V0NYa0xUeEc5d00xbXFzWGNSV0hJTXBBTUNPcjlHNWZUNTJ3VDBWWVdqa2xwWHN6elVva3lpUi0tRmVUQUVGcllIVVp6NFBGVlBmR2hPUklLb0Yxb0FoWFNTYkhrM3k3b0JR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-17T09:59+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "ロシア軍のウクライナ南部の村への攻撃、死者72人に 当局発表",
@@ -547,20 +568,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ウクライナ軍がロシアに向けて1300機以上のドローンを発射、ケルチ橋も攻撃",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40cUV5SnZid1U1T0wyUWF2TUttOFdXUC1zbmM4U0pSMl9ndm9iWnJBVmNld2N2dFJUZEh1LVRodFNwa0JGaGQ1WGVSU2RfazVCMGYtQw?oc=5",
-   "source": "Switch news",
-   "at": "2026-11-17T09:05+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア軍、キーウの橋攻撃 一部で断水や停電発生",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2RBQlN1QlhxdEdlUEo0N0JZZ3lOTVhteDEtbWtWTXJyN29qdENxSXNoUm5FZ1pyWXNWbi1oN2VDY1pGQXhpYllPaDBibExqTG9aME1DVXZ3aHY2Ul84ZXRWYVo3OFQ2Y3pIcTRTT1JGNG9Lb0VMb21INngyZ0RxUTREY2Jjdw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-17T08:55+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ロシアが揺さぶるNATO東翼、ウクライナ戦争を支える「支作戦」の狙い",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrYmQ2cE96YUxJMUROYkNXOWRHckZGLTRIQjFteTA3WWNLU0oxUHVucHZjeFhpVEFwYWhLM3picnpfQWxpLUp0bTV6dlRid1U0dmNnbEJLNlFGUERaOUVN?oc=5",
    "source": "JBpress",
@@ -580,13 +587,6 @@
    "source": "アラブニュース",
    "at": "2026-11-16T22:38+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkxkZW81Q3ZFaHF6SXdBWXJ5a2Vfc3ZvZnNGSy1FN09Kb0ptUVZVSFk2N3V2eXpGNW9LZTFrMEcxYlFJOHVuZEhwT1JJdjBkeDdVYi1wWHpoWmhiSk1n?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-16T22:10+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "イランがバーレーンの米軍施設攻撃 ホルムズ海峡の敵対行為にドローンで報復と主張（ANNニュース）",
@@ -615,7 +615,7 @@
    "level": "yellow",
    "reasons": [
     "停電の報道（突然の停電、復旧の見込みはどこで確認？｜川ばたひろこ（大阪市）",
-    "「「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷」"
+    "「ドコモの5G SAで再び通信障害 ― 11月16日に全国で約6時間、現在は復旧」"
    ]
   },
   "japan": {
@@ -627,9 +627,8 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」5件",
-    "中国・台湾：「攻撃」1件",
-    "ロシア：「攻撃」3件",
+    "イラン・アメリカ：「攻撃」「報復」4件",
+    "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「破壊工作」3件"
    ],
    "items": [
@@ -640,16 +639,16 @@
      "at": "2026-11-16T22:38+09:00"
     },
     {
-     "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkxkZW81Q3ZFaHF6SXdBWXJ5a2Vfc3ZvZnNGSy1FN09Kb0ptUVZVSFk2N3V2eXpGNW9LZTFrMEcxYlFJOHVuZEhwT1JJdjBkeDdVYi1wWHpoWmhiSk1n?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-16T22:10+09:00"
+     "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表 (テレビ朝日系（ANN）)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGFRR0ZIOXhWQkpqZVctY3IxWTdGNmFzc2VXMzgyNXh0R0dwMi1YLWpUcTI2OEhsV2plNkFlU2pYX0lQSW1sTkZYd0dURThhZEUxTXR6XzdSWWE5UkRDM0tTQ3czRGlSdmZCT1FQLXhyZ0t5clc1T3dDSFNFTVRhS3I2RC1jNDhLcXhlNlRn?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-17T10:28+09:00"
     },
     {
-     "title": "ロシア軍のウクライナ南部の村への攻撃、死者72人に 当局発表",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fR3ItYWhTQ01JeGNLU1lfNUNic3RhSVl5RndscVUwa3lwNTJPY1BmV2NYaVM0WG5HcmZMZ1haaW8wNl9iOWJ6V3dBYWFjN2l0SDc1R9IBVEFVX3lxTE1fR3ItYWhTQ01JeGNLU1lfNUNic3RhSVl5RndscVUwa3lwNTJPY1BmV2NYaVM0WG5HcmZMZ1haaW8wNl9iOWJ6V3dBYWFjN2l0SDc1Rw?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-17T09:48+09:00"
+     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-17T02:07+09:00"
     }
    ]
   }
