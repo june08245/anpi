@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:30+09:00",
+ "updated": "2026-11-17T21:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -221,6 +221,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "クリミア大橋の「道路橋」が崩落か ウクライナがロシアに連日大規模ドローン攻撃｜Quebee キュエビー",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wamk4Tlhfckx5dFUzQTI4VUJwZFNvSEprZnBpZ3dRM2xQckd0SWdJbEJFSnZsSjY5NDhfRXg3eDVySlFvc2NEUV9jZmZ4cUxSTlhQZ2tfY1A?oc=5",
+     "source": "QAB 琉球朝日放送",
+     "at": "2026-11-17T21:36+09:00"
+    },
+    {
      "title": "米中ロ首脳会談前に…ウクライナが最大規模の攻撃 “推定ロシア機”日本領空なぜ侵犯",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96R2pfOHlZV21yRTYwZmtIUVBnak1BMHhxRFF1RHhqc0V0amJ3RDlhZFJxVTRjbkpBWlJMYTlaLXAtQ0JYSU5VNGE1VWZxVUpibFpSa0tzWEJ4LXVna1lLT2hzWi1qYkwyOU1FbkdaOUtmTFpSaVVxT1dB?oc=5",
      "source": "テレ朝NEWS",
@@ -249,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdEt0aUh6RkNTUFBndjRFRVRmOGZodWwtTks1dkEzdHBMLWVUZmJWOFJKOThjMVhoNWxFTmZXMkNybFl3Yk1mb3AzbGI4bmVqc3JmZ2xqYmp1NHRKNVNvcENaNC1CN1pJWG5GZFpXb3VTOUNYNFA0cHZoalBETXNJaFRRUHBZVjM5WHRobHh5MUdfcGFPZmUwcnpMUUhRSk4ydHJTdVp5bkxVYzNuSFZYQ1hhMU1CT3laODNqc1g2eXJ2YlJJUG1tQjVXczZFT0owTUNnUzdlWGXSAd4BQVVfeXFMUE5pSjFnSVI4RUZMc2FVYUJkRURCTW5ZZGZPSURXb1hBVU9fNHJsQTltUjFadXFTRE0wSWhVM1ItU1FvSzctUUlzdHhkeUR1V0hRTFNxNjNObmR6bTRNTzN2UmFMeElTeHNnX1RyY1pHM3BoWUZwSVlIRFlSSEF1RGo3STViSGVXdFBodlliT0NCLTlaMTJkT25aT1B3ZlA4LWRxTUtDSVhTWFp1c2ZhVG12NHI2TzZPUG8zNm1NV3lqVHdheFhvcWNESzRRMHE2aXl0WlBVV3JCQjIwcVdB?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-17T17:52+09:00"
-    },
-    {
-     "title": "キーウでロシア軍のミサイル攻撃により２名死亡、１名負傷",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGVRekRCaVVNYWVjekZIZEUxMnc1Z0VtWkpSakJ1Z0x5eWlMc0VKbjY4WTVwZHMySVpRM3JFTGtIdzJyNC1RN0VTUmsyN25kWUVZZnVfSjR0VmdBV29VbzFEMkpNR1JXdmVUMkZNNzJON3phWEpraVI3ekFLb0Y0bGJJYlEyT3lOODcwM3dPM1IwYUlNSk9vZEZmSGV2VThxaHF5aHFjZUhSUjIzUEhWR3lB0gG3AUFVX3lxTE1ITXpQd1dzS0FfV2FsM0NXcFA3Z0JDTlRUOGdsX21ZZ3IzVVAyWjRVTktyblI5NDFRQU1PeWtnVFdlSjZhZ1cycEVIdXhfQi0wRWxzWVZ4azNVbmRKUVllNFZwb3pRZDhyR1FEWW5zRE9pZUdrTjRBWDlKQUYzNXI5cGQxYmRJUkJoNGhuby1kTDZnZzZQbXZtaEdibGdUd1lmcmgtRlI3WkhjVHFtTDZYQ1l0SkFXQQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-17T17:35+09:00"
     }
    ]
   },
@@ -399,6 +399,18 @@
    "at": "2026-11-17T19:00+09:00"
   },
   {
+   "title": "クラブツーリズム、インターネット会員約406万件の個人情報漏洩の恐れ、委託先 プレイド KARTEへのサイバー攻撃で",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSW5QVUM3Wmk1cS1OXzhfQWNxN3RaSm5JUjFjVXRhQXU1VGVibHVudHZQOHFfaDFGX1RMZU41LUNCYW9pM1MtaVdxVkYzWFdjcVR3TTVUWGtFWVpnX1dvVDdoWEZvcDNDTlB5VUEwaHBQM1AwekNET2doMnlZU0QxZUxoX3VFUlc0SVBYVWlGYmxPelU5TXpVRTg3QXhYdEU?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-17T21:41+09:00"
+  },
+  {
+   "title": "眼鏡大手ジンズＨＤ、個人情報１８２９万件漏えいの恐れ…アインＨＤでは１２００万件超の会員情報流出か",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15REZEakJiTTk0VUJOZmM1aHZvRzd1NzRxTF93VTVvdVoyX2JCMEZEZE51VDRHMzB5TXZmcGpIVUU2RF95b1pHcnhzOWhqUURXa01MMFNGWUJOU2twaTJhUmFSUUM?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-17T21:30+09:00"
+  },
+  {
    "title": "能美市委託先で不正アクセス被害 メール配信サービス運用会社「アララ」、メールアドレスが漏えい",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DcVpYRktXRlNiZjRJQ1BPVGVQYlFZRHEzdktqTm9fbUYtcnhFTC02TV9xYVNDTXNHVjZ4NFlwTlNUSWxJNzJvM1k2OXpEYktRODR0SA?oc=5",
    "source": "中日新聞Web",
@@ -424,8 +436,8 @@
   },
   {
    "title": "ミスドネットオーダー、不正アクセスで一時利用停止「再開時期につきましては改めてお知らせさせていただきます」",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CeHZXM3hKMjVncGFoUmlXcWt3THNOeC0wR2p3TFFBdmFTRmJBWVZTU3JocVdYTXliNXowTHZXSklUSlFMTmRMd0NpV2lzQXVYMWVCZ3pUdVRuek9lbEE?oc=5",
-   "source": "福井新聞社",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wYVFIX1lxRW9RWEdBRzBhelFjYl9wdjFmVWY0dGtZTzlsdzByMi1iVGZ6Z09xY21ZbTZYM1NjODhSNEU5SlV0TkozV2d1RVFHaFlWRFV3bEtPZ2FObDBoc0l4cVVTRFlC?oc=5",
+   "source": "毎日新聞",
    "at": "2026-11-17T20:36+09:00"
   },
   {
@@ -436,7 +448,7 @@
   },
   {
    "title": "眼鏡チェーン「JINS」で最大1829万件の情報流出 メールマガジン配信などの委託会社に不正アクセス 会員IDや生年月日など流出か パスワードやクレジットカード情報は含まれず",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRUJaQTg2ZmVmU0Y0UFhHQXZtRlBNNUZHRmNPVVE3NG1XblpRSk1rLUpIdXM3STV0UnlXSVJsZ1BJZ1ZISWo2cXN6eXNCTHpybE9BeWpmbUstREZEMURTS3BkREZ4MFh0MzY5OUQ0S2tlQ1k4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOV1hKYTJXNWxNcTc5Q2x4Z3hWV2M0eVFMVmM1OTFwWVc4N3NJb1h1ckpBUERnTUFkbWpIVnRJY3UtQkNVemwxT1Z6Vm14cmU2dDM1NGtHSQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-17T20:33+09:00"
   },
@@ -451,22 +463,17 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Hd0FRTDlWcW90SEg4MnU3S0lIVHNfYUVOQjdRODNyUHFrTFZxVkdWN21qcmNYTlMwbUdoZ0htem0weVZCRzlCM1dod2FNWGlqQmlWVXVTYjdVdw?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-17T20:20+09:00"
-  },
-  {
-   "title": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KY2NkbzNLV1BWdjNvMDU1azgybFAxNHYwcDQ1VzF0X2NzVjVtX1lHR2thazdHQU82SFZzZXZKcFQxUWJ2LWVBSXBJX0pIcDhlWEN0Vjhla0k3bW10NUprWjFSbnAtYURIQnc?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-17T19:57+09:00"
-  },
-  {
-   "title": "楽天証券が最大１５７２万口座分の個人情報漏えい、一部には勤務先や年収…テスト用サーバーに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxbFdITE9Ic1F4M1BtaWtCOC1XXzFFSE5ETk1wTDNMbXdjeDN6clNnZS1xVU5USGFGcW4yUUs2amxEc1pZZ1BIOHI2Y3dEdFdOUTcwbFZxLU1pTWVMR0h2SlYyN3g?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-17T19:57+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "クリミア大橋の「道路橋」が崩落か ウクライナがロシアに連日大規模ドローン攻撃｜Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wamk4Tlhfckx5dFUzQTI4VUJwZFNvSEprZnBpZ3dRM2xQckd0SWdJbEJFSnZsSjY5NDhfRXg3eDVySlFvc2NEUV9jZmZ4cUxSTlhQZ2tfY1A?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "at": "2026-11-17T21:36+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "高市総理は中国首脳と“接触なし” プーチン大統領とは初会談の可能性 史上初の米中露会談まであと2日 金正恩氏の中国訪問は?（FNNプライムオンライン（フジテレビ系））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GWFJSbUp2a0p0RDBOYWQxMDNtdnRvRVVzTjN2dllLUnFkZG9ZZlQwYUh1Qzh3VnBUakdJTWFjRTJ1NXRobGt6Z0hQTjl3eGktTFJpbm1IcjlVYW1nMThzcHlfb0ZXWF9xaDlBbDlYUXB6bDNUc05iY2dCa0ZOaGc?oc=5",
@@ -594,13 +601,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "キーウでロシア軍のミサイル攻撃により２名死亡、１名負傷",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGVRekRCaVVNYWVjekZIZEUxMnc1Z0VtWkpSakJ1Z0x5eWlMc0VKbjY4WTVwZHMySVpRM3JFTGtIdzJyNC1RN0VTUmsyN25kWUVZZnVfSjR0VmdBV29VbzFEMkpNR1JXdmVUMkZNNzJON3phWEpraVI3ekFLb0Y0bGJJYlEyT3lOODcwM3dPM1IwYUlNSk9vZEZmSGV2VThxaHF5aHFjZUhSUjIzUEhWR3lB0gG3AUFVX3lxTE1ITXpQd1dzS0FfV2FsM0NXcFA3Z0JDTlRUOGdsX21ZZ3IzVVAyWjRVTktyblI5NDFRQU1PeWtnVFdlSjZhZ1cycEVIdXhfQi0wRWxzWVZ4azNVbmRKUVllNFZwb3pRZDhyR1FEWW5zRE9pZUdrTjRBWDlKQUYzNXI5cGQxYmRJUkJoNGhuby1kTDZnZzZQbXZtaEdibGdUd1lmcmgtRlI3WkhjVHFtTDZYQ1l0SkFXQQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-17T17:35+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "台湾防空識別圏にロシア軍機 韓国にも（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ya3o4VEdPMGJrTUd6SGVGR2lNLUNjNk5IcGZSWWtVelpwM3A5SHhVYUxpN21EdVFLazRYeGtpTTZiUTdwM29CS194SGhjLUoxZFYyNU5uMlFHTmZ5VVBhYTgwRVQzQnh5TEdvdEV4UkYxSTl6NDJjUGwxVTAxRm8?oc=5",
    "source": "Yahoo!ニュース",
@@ -627,7 +627,7 @@
     "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」「空爆」6件",
-    "欧州・NATO：「攻撃」「爆破予告」3件"
+    "欧州・NATO：「攻撃」「破壊工作」2件"
    ],
    "items": [
     {
@@ -643,10 +643,10 @@
      "at": "2026-11-16T22:10+09:00"
     },
     {
-     "title": "米中ロ首脳会談前に…ウクライナが最大規模の攻撃 “推定ロシア機”日本領空なぜ侵犯",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96R2pfOHlZV21yRTYwZmtIUVBnak1BMHhxRFF1RHhqc0V0amJ3RDlhZFJxVTRjbkpBWlJMYTlaLXAtQ0JYSU5VNGE1VWZxVUpibFpSa0tzWEJ4LXVna1lLT2hzWi1qYkwyOU1FbkdaOUtmTFpSaVVxT1dB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-17T20:44+09:00"
+     "title": "クリミア大橋の「道路橋」が崩落か ウクライナがロシアに連日大規模ドローン攻撃｜Quebee キュエビー",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wamk4Tlhfckx5dFUzQTI4VUJwZFNvSEprZnBpZ3dRM2xQckd0SWdJbEJFSnZsSjY5NDhfRXg3eDVySlFvc2NEUV9jZmZ4cUxSTlhQZ2tfY1A?oc=5",
+     "source": "QAB 琉球朝日放送",
+     "at": "2026-11-17T21:36+09:00"
     }
    ]
   }
