@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:00+09:00",
+ "updated": "2026-11-18T00:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -185,12 +185,6 @@
      "at": "2026-11-17T21:02+09:00"
     },
     {
-     "title": "【速報】トランプ氏「金正恩氏、会談に来たがっているだろう…様子を見よう」",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcy1uZndpcm5PRmg1WGg0RjlERmRNS19KZFFQazE0b3VpbUx5dnNqR0QzTTExeDV5MmVGd0JaT0NYcWk0cTZFN19UQmY1S1QzZWlpaXRZR3ROemRPblNJMTRFZ3pFSTdseDIyaXhldkozWjJldjNCRU5hcEctWHFGMDhodGNQQWJK?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-17T20:15+09:00"
-    },
-    {
      "title": "金正恩氏が北部・三池淵市で空港やスキー場・ホテルの建設現場視察…「本当に非の打ち所のない」",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BcWF1SjNkVU9sZjdJcm56SDZ0Rk0wU3VIeHFKb1JyY20xdTNFUm5NVllWeERuX29LWDBKTURrQThBWGFJVi1oQzQwX2p0NDVIQkdYMnNyMXpWbUdiem1DYS13?oc=5",
      "source": "読売新聞",
@@ -201,6 +195,12 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lSm9jX0piOEpHOWV6cFRZWGliU0tMZVNneWRUVm1mMU51TDNkV1NPbkE0b0pObVRrN0VrcXR3d0U4aUNIallVRU9LWHFXamh5blFQVlU3aw?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-17T19:14+09:00"
+    },
+    {
+     "title": "「金正恩氏とも会談するかも」トランプ大統領が中国で明かす 米中ロ首脳会談での金正恩氏の同席は「習近平氏次第」 会談後には“なんらかの共同声明”発表見込みも",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wZ1QxeVh5Mi1zeGlfajYwQ3FsVk1WMkxYY1l6eHlMWDktOTBoSXFOVEhxRlRYVm1RMWRIVllHNnhkdVZNTnlQdGd6WFRJSWNOSUZqamFoRQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-17T18:23+09:00"
     },
     {
      "title": "国連軍司令部、地雷爆発後に北朝鮮と会談推進…韓国政府の謝罪要求後に頓挫（中央日報日本語版）",
@@ -221,16 +221,10 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ロシアのセルゲイ・ラブロフ外相、フランスを「直接的な関与」と非難 / ロシア外相、フランス軍兵士がウクライナで活動していると発言",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWNldjAyRDNpUkE3NXRQZ0lPUk03RGtfRjZUb0pIVFNCTjh2bnRHSXU1WUdXXzE4X2VxOEZ3WEpyOGM5T3FNSTlNSjFoLXNCdW00TXdCU3ZuZi1WSE14UEpPSDY0aWh0aktHVTMyTWdtSGcyQ3g3RXdGTnRDVmU1dzk2VUdGM2d2Vmp3QjdKM1FKMU1rYVloaC05c1NEMU9wZzhMUFR4MGdoT0VCV1o1aDBMV3lCbDNu?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-17T22:41+09:00"
-    },
-    {
-     "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEU3pIZjQxd04wR2lFUzlVbXBVTU5NZ1piQU1FMDVIcWxVYTFTVVlKM0syNWxSVXQ5Rm5tbEF5Zm1xbVB3cE9UM0VFQzFES3NGSUJzTlVjOGw5NHZVQ0x0LUQtTWZlTTRsRlhia1NId3VHR0Fm?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-17T22:29+09:00"
+     "title": "ロシアとクリミア半島を結ぶ橋、攻撃で損傷 ウクライナの報復強まる",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WQjlkdENaLUJCVno2SGQ0QmFMR0lBcWM1elhOR21aeUV0WElDZHVFeExIWElZRDFtcVlEdzhQU0l5NEJ6c3JjTzg0RDJYNWZvM0pZYl8ySHRRdS1ON2dkb3RXOHRaMmc?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-17T23:55+09:00"
     },
     {
      "title": "クリミア大橋の「道路橋」が崩落か ウクライナがロシアに連日大規模ドローン攻撃｜Quebee キュエビー",
@@ -249,6 +243,12 @@
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdFpVLUVoVnE5ZXc3bmlUM2FIWVJJQVhWaU5lU01KRF9NazZXZURVeTdmSXZDaW95cHhIVmM5bGppY1Q4MEcwYlh0NnZpd0RXQ3lCRTllVThFdW5MOHRLSDg4ekJGa093SXlwbQ?oc=5",
      "source": "日本経済新聞",
      "at": "2026-11-17T20:03+09:00"
+    },
+    {
+     "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iLVlHel9hZVlua0FIeDY4eDFtWlJmV1puZzlfekdKaXNDZ0N4MUMxMUlrR0FrRUhhb0d1WGdmdjhLRUlyZlJkNU9ZUUFsYkY5UnBxUkpQWTFaTlp1RXpjNnJVWVI3TVU?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-17T19:27+09:00"
     },
     {
      "title": "ロシア軍がウクライナ南部の学校空爆、７２人死亡・４人不明…支援物資配布拠点として利用",
@@ -375,10 +375,16 @@
    "at": "2026-11-17T19:33+09:00"
   },
   {
-   "title": "京王傘下ホテル サイバー攻撃で18億円減収見通し 国際ハッカー集団「Qilin」関与か",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Dc2hDaktZTlNsUkljeWlwOEdLNkdFbHdzeWJCM2p5UDVvS2RPcnlPcUt2R0ZJVl9hT2ZiTm1UVjZ3Xy1ZN0QxbWUzRzlnQ3VnZlItV0M2R1k4SF96MDNzOGN1RVBMdjhYMU1PdGltUlF0UQ?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-17T22:53+09:00"
+   "title": "「AIによる攻撃はAIで守る」NTTが語るAI時代のサイバー防衛、ネットワークのセンサー化も",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZzA0YVFoM25TYjZsaVFwUVE5ZGExYkhQdk8xQmxfWXIyMHE2UUZGVW1hYy1XQnRXR2FGcG1RZ0JaNU0zRnJ3ajl5UXc3WmNiQWxvS1BHV0VQcFpsdDhaaDE0N1NUWFk?oc=5",
+   "source": "ケータイ Watch",
+   "at": "2026-11-18T00:00+09:00"
+  },
+  {
+   "title": "多発するサイバー攻撃、企業はどう備える？KAGOYA×TDI、セキュリティ強化とITコスト最適化をテーマに共催ウェビナーを12月8日開催",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hT1U5QURTTXZqeDB1UlFPQXBrcTNlRU5qUHV5QnNZa1Mxcy10Sk90QXpJQVNyZ0hNdTFkOEdTa01zM1BxeGNjeERzUjdNdGxXX3YybkhhRDlRc3lTTHl1dW4ydDNTV3FkRG9hQ18teGlSUGRR?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-17T23:45+09:00"
   },
   {
    "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
@@ -451,36 +457,23 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fY1puWWoxVzBqUnNCU0lPQnRlUGM1aElqR29aNV8yQ3ZhMHBEdktkZllrM3kxSGZYcHNBVkxWN0NEY3NpM0hQMXlvYzVxNE1Cd0xfSndGR3Q1WGRYVDdCZmNnYllYWWJqcWFkUlRlNlQ5dVRZ?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-17T21:35+09:00"
-  },
-  {
-   "title": "眼鏡大手ジンズＨＤ、個人情報１８２９万件漏えいの恐れ…アインＨＤでは１２００万件超の会員情報流出か",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15REZEakJiTTk0VUJOZmM1aHZvRzd1NzRxTF93VTVvdVoyX2JCMEZEZE51VDRHMzB5TXZmcGpIVUU2RF95b1pHcnhzOWhqUURXa01MMFNGWUJOU2twaTJhUmFSUUM?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-17T21:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシアとクリミア半島を結ぶ橋、攻撃で損傷 ウクライナの報復強まる",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WQjlkdENaLUJCVno2SGQ0QmFMR0lBcWM1elhOR21aeUV0WElDZHVFeExIWElZRDFtcVlEdzhQU0l5NEJ6c3JjTzg0RDJYNWZvM0pZYl8ySHRRdS1ON2dkb3RXOHRaMmc?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-17T23:55+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CRzgzWVlSVkstSHg2WEpEMDdlNDhFdE1CcjlBNU41Zm9tSVpvcDlPYzR6RzM2MFV1N2ZObE1HazUtTU1HUkR5SUdNcWR5YmR3bzJCNkcxd1FLZHJPSTRsLXEtTW1qMDYxelo1Q0RaVjctcm4xUTlTakdB?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-17T22:46+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ロシアのセルゲイ・ラブロフ外相、フランスを「直接的な関与」と非難 / ロシア外相、フランス軍兵士がウクライナで活動していると発言",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWNldjAyRDNpUkE3NXRQZ0lPUk03RGtfRjZUb0pIVFNCTjh2bnRHSXU1WUdXXzE4X2VxOEZ3WEpyOGM5T3FNSTlNSjFoLXNCdW00TXdCU3ZuZi1WSE14UEpPSDY0aWh0aktHVTMyTWdtSGcyQ3g3RXdGTnRDVmU1dzk2VUdGM2d2Vmp3QjdKM1FKMU1rYVloaC05c1NEMU9wZzhMUFR4MGdoT0VCV1o1aDBMV3lCbDNu?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-17T22:41+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEU3pIZjQxd04wR2lFUzlVbXBVTU5NZ1piQU1FMDVIcWxVYTFTVVlKM0syNWxSVXQ5Rm5tbEF5Zm1xbVB3cE9UM0VFQzFES3NGSUJzTlVjOGw5NHZVQ0x0LUQtTWZlTTRsRlhia1NId3VHR0Fm?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-17T22:29+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "イラン、5日間で3度目の米軍施設攻撃―バーレーンのレーダー狙う",
@@ -516,13 +509,6 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-17T20:44+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "【速報】トランプ氏「金正恩氏、会談に来たがっているだろう…様子を見よう」",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcy1uZndpcm5PRmg1WGg0RjlERmRNS19KZFFQazE0b3VpbUx5dnNqR0QzTTExeDV5MmVGd0JaT0NYcWk0cTZFN19UQmY1S1QzZWlpaXRZR3ROemRPblNJMTRFZ3pFSTdseDIyaXhldkozWjJldjNCRU5hcEctWHFGMDhodGNQQWJK?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-17T20:15+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "台湾防空圏にロシア軍機",
@@ -567,6 +553,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iLVlHel9hZVlua0FIeDY4eDFtWlJmV1puZzlfekdKaXNDZ0N4MUMxMUlrR0FrRUhhb0d1WGdmdjhLRUlyZlJkNU9ZUUFsYkY5UnBxUkpQWTFaTlp1RXpjNnJVWVI3TVU?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-17T19:27+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "【速報】トランプ大統領がフィリピン･マニラに到着 ASEAN首脳会議などへ出席のため 19日には史上初の米中ロ首脳会談へ 北朝鮮･金正恩総書記と会談の可能性も",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lSm9jX0piOEpHOWV6cFRZWGliU0tMZVNneWRUVm1mMU51TDNkV1NPbkE0b0pObVRrN0VrcXR3d0U4aUNIallVRU9LWHFXamh5blFQVlU3aw?oc=5",
    "source": "TBS NEWS DIG",
@@ -586,6 +579,13 @@
    "source": "読売新聞",
    "at": "2026-11-17T18:49+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "「金正恩氏とも会談するかも」トランプ大統領が中国で明かす 米中ロ首脳会談での金正恩氏の同席は「習近平氏次第」 会談後には“なんらかの共同声明”発表見込みも",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wZ1QxeVh5Mi1zeGlfajYwQ3FsVk1WMkxYY1l6eHlMWDktOTBoSXFOVEhxRlRYVm1RMWRIVllHNnhkdVZNTnlQdGd6WFRJSWNOSUZqamFoRQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-17T18:23+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "国連軍司令部、地雷爆発後に北朝鮮と会談推進…韓国政府の謝罪要求後に頓挫（中央日報日本語版）",
@@ -619,7 +619,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
-    "ロシア：「攻撃」「空爆」5件",
+    "ロシア：「攻撃」「空爆」6件",
     "欧州・NATO：「攻撃」「破壊工作」2件"
    ],
    "items": [
@@ -630,10 +630,10 @@
      "at": "2026-11-17T22:23+09:00"
     },
     {
-     "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEU3pIZjQxd04wR2lFUzlVbXBVTU5NZ1piQU1FMDVIcWxVYTFTVVlKM0syNWxSVXQ5Rm5tbEF5Zm1xbVB3cE9UM0VFQzFES3NGSUJzTlVjOGw5NHZVQ0x0LUQtTWZlTTRsRlhia1NId3VHR0Fm?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-17T22:29+09:00"
+     "title": "ロシアとクリミア半島を結ぶ橋、攻撃で損傷 ウクライナの報復強まる",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WQjlkdENaLUJCVno2SGQ0QmFMR0lBcWM1elhOR21aeUV0WElDZHVFeExIWElZRDFtcVlEdzhQU0l5NEJ6c3JjTzg0RDJYNWZvM0pZYl8ySHRRdS1ON2dkb3RXOHRaMmc?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-17T23:55+09:00"
     },
     {
      "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象",
