@@ -1,8 +1,6 @@
 {
- "updated": "2026-11-18T07:00+09:00",
- "errors": [
-  "osaka"
- ],
+ "updated": "2026-11-18T07:15+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -199,6 +197,12 @@
      "at": "2026-11-18T04:57+09:00"
     },
     {
+     "title": "北朝鮮：正恩氏最側近が訪露 プーチン氏らと会談",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pUG5NbGVERkpvYmVqYmo3eHZQcTBRTFl6ZE1RNXhEZFRUTlF4MUlSdE83WjNxdkVhUWYtemNSbFViMzNfMzJLbFlEY3JRLWpqeldzck1rVE9LcV9NVDFpcVFCcGJOOXdY?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-18T02:01+09:00"
+    },
+    {
      "title": "【中継】トランプ大統領、金正恩総書記との会談は？ 記者団に対し「金総書記は来たがっている」（2026年11月17日掲載）",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3VnSUg5dzZqcmZrczBwRG82VlFRdnFUMGN4QXI0VHdlOFY4ZVNWWEtjeFRfY2tCanNoQ084d3E1OFFveXZEdkQ2c2ptc2NvQWpWZzVDTUczU2lRT1FsSzZpci1sd0VVQUp1N3p3ZExSS0o0SWJEMUZiR3dsMzFmNlhJZ2c?oc=5",
      "source": "日テレNEWS NNN",
@@ -209,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GWFJSbUp2a0p0RDBOYWQxMDNtdnRvRVVzTjN2dllLUnFkZG9ZZlQwYUh1Qzh3VnBUakdJTWFjRTJ1NXRobGt6Z0hQTjl3eGktTFJpbm1IcjlVYW1nMThzcHlfb0ZXWF9xaDlBbDlYUXB6bDNUc05iY2dCa0ZOaGc?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-17T21:02+09:00"
-    },
-    {
-     "title": "金正恩氏が北部・三池淵市で空港やスキー場・ホテルの建設現場視察…「本当に非の打ち所のない」",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BcWF1SjNkVU9sZjdJcm56SDZ0Rk0wU3VIeHFKb1JyY20xdTNFUm5NVllWeERuX29LWDBKTURrQThBWGFJVi1oQzQwX2p0NDVIQkdYMnNyMXpWbUdiem1DYS13?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-17T19:52+09:00"
     }
    ]
   },
@@ -395,6 +393,18 @@
    "at": "2026-11-18T06:05+09:00"
   },
   {
+   "title": "【イナイレクロス】バグ・不具合報告掲示板【イナズマイレブンクロス】",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRG1NQS1LcVZPQzU5T0x4MjZjQk5seDZzVWZCd050OEp6aWh2RHBJUWtETi1CSk1teEpJanZNS0diYkhxZWI2M0pKckFWTVhQemhLTw?oc=5",
+   "source": "AppMedia",
+   "at": "2026-11-18T06:02+09:00"
+  },
+  {
+   "title": "米NSA通信網に障害か 機密情報を送受信 サイバー攻撃の証拠見つからず",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaYXN4RGlrVEJxeEF2blJ4RzBGc1dQbWFJZkpEWG1RVUJ3bzBTamdRc0RGUndVem43Y0lNNHFYNjU3MWFxN1lFQWFCbGxJV1duQ3RTX0MwbDZuMG9mVDJqeXdpRXBxOF9rMW9lM2Z4bjhJN2hhR0E?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-18T05:45+09:00"
+  },
+  {
    "title": "アップルサービス障害でApple Payが停止、暗号資産の即時購入が不能に",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3ZDJhaVc1bDJsaHNWTzFGcWlQWGU3V0xpOW1qblNhM0lmS3ZxMXVfTXZSNHdSYnlDZG01UFVzMFRUNW9CV2pXTFFXdTFNcm84T2QzNEo2d0hYT1hBc0dsd2FiOHFwVVFLczVMRTJTYnJ3dVN5?oc=5",
    "source": "BigGo ファイナンス",
@@ -413,52 +423,40 @@
    "at": "2026-11-18T04:45+09:00"
   },
   {
-   "title": "Outlook障害、ラジオ局でも影響 リスナーのお便り届かず SNSでコメント募集",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lM3hjc1R0d2tWZG9VQlpwbmtDN1NacUFZeGtWU21XV2NnaTQwbWFtRWo1TWszQ2dTUVFhaV85YXViMG9ITEpRRzQ5dW4yak5KMFE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-18T04:12+09:00"
+   "title": "「富岳」に不正アクセス　スパコン、利用者情報流出か　運用停止、理研調査｜四国新聞WEB朝刊",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLTm5TSGhIX0tzc19QUGhVUkdBcDh6am1JUkJCWTJ6clM2SUdBMzcwVXJfUGN4YTRWTU1TM3hjSUU3QWNuWU1aVnVqX3R2bWllYkVJdnJDUF9ERjQ2a3g4blNvcUVxZFVyeWYtckgtWDNmQ0tLMmxZ0gF8QVVfeXFMUFhhWnowQVM3LVJFam1GQ18wQnVQYXVaanB4SkQ1dmVBTktRNlNObG9ZWDIwQU5fUjdxYUxnUy1MY2twOHN5Z19MUnlKUVBJMng0Y3l6SzdPMVhwTlBsTlBoR0RlWEJlMmRVWGFKV3RtRll0V3dQU01melpuUQ?oc=5",
+   "source": "四国新聞",
+   "at": "2026-11-18T07:09+09:00"
   },
   {
-   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
-   "source": "GameWith",
-   "at": "2026-11-18T04:09+09:00"
+   "title": "元陸自ホワイトハッカーが警鐘を鳴らす日本の“サイバー安全保障”の限界 GMO事例では中国製AIや北朝鮮の関与も囁かれるなか「盾のみならず鉾をも向けるのが防衛」",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XWVF2eFQxdDNJMi1xWDkxQ0JnNUU0MGt0QThQVUsxX0g4dkllZDNxMUlvRWJkdFRPdjlJaTNxZEh6TEVIY1BZ?oc=5",
+   "source": "マネーポストWEB",
+   "at": "2026-11-18T07:01+09:00"
   },
   {
-   "title": "ドコモ通信障害 政府が究明要請 今月3度 総務相「遺憾」",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qdWJ0RFgySk9kTER2S3JZemY0NTNkdU9BMTBNVkI4N1JsWWZyVzBBdnVDZ1VQRGdncTNrcUtqU05ScVktRHVoTThCYXltdWlnTnloREFfWnh2VVFWN3c?oc=5",
-   "source": "沖縄タイムス社",
-   "at": "2026-11-18T03:57+09:00"
-  },
-  {
-   "title": "米国の相次ぐシステム障害、原因は老朽化 サイバー攻撃を否定",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiR3hrLUd2SmlYaWJadmM5YnB6VFY5Ynl0OHdFakhqd25EV3RZSDQzMlBFaGZ4eW9TRkZ3ejJJR2c4Q2RlRTNRdzU0Tk85cmFDYXo4dl9ncWtqb1FIckN6UmZvVFZxa0JqQi1BeDBqcDExY2Et?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T03:55+09:00"
-  },
-  {
-   "title": "米システム障害、原因は設備老朽化 サイバー攻撃でない＝国土安保長官（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCU21EN1hycUo5anYtdzlfTWJqSjhhS2dyQUFlUXhIRjVyek5wMFpwM0FVb1NqVmlNVks1NFhjeW9IOXRMSFBQNHR5aFJNdXpWbDJKUEpOT3lONjRiaG45eWc5X3RGOW5ybW4tNFFEUUJkNVlnUFlyQ1pqekZpeEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T03:32+09:00"
-  },
-  {
-   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EbDNFeGh3M0llSFBXTE5kNU04dUsyT1pNd083N1VCbEpBWExMX0g5cHN4R0M1MFM5eXhxRE0xZzhZWXk5aVVGYUczWmY4ZThVZzJIT2lHTlZMWDQ?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-17T21:55+09:00"
-  },
-  {
-   "title": "スーパーコンピューター｢富岳｣に不正アクセス 個人情報漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04aWJXRTF6WUQzRjNKTWxYbllvTmtLWjhKVEdoSEFlRjVuZ29CenF5azFkX3l2RW1SVjFuS1c0SkhvTHpTNFRzT3ZHeDVCYmRjYnZVdXBQSnFFSFJU?oc=5",
-   "source": "- 神戸経済ニュース",
-   "at": "2026-11-18T06:53+09:00"
-  },
-  {
-   "title": "しまむら、約700万件の情報漏洩の恐れ、子どもの生年月約5万件も漏えい プレイド「KARTE」への不正アクセスが波及",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHRJeWN6RTVNUkNraWdrSk01UFJIcjN6OHc0YnlmekctR0hnR3ZjY19HVzZDQ3VodHdnOHZ6bUpfSVU3amZObU9DbUJ4NEhHUTZUdkVCVW8xcVA5YWp1YzZyOTRyUTZhbUpuRWY5N1Myd1ZGODB1NGpxZWtoN0JFRjNLaU5BTVV5eElLOUV4aF9JWU16MzltMmEwQnZlYW1JUk1FTjB5UUxQOFY2RWNkOFROeDJBM2hZTXIzdTVCdw?oc=5",
+   "title": "ルノー・アルピーヌ、顧客10万2,000名分の個人情報漏洩 PCS不正アクセスが波及、口座情報も一部対象",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHRtUVZNMVhCNVRvN3l0WVl5UHFheFNINWJ2dHBPbDlYOFdCTGxJS3VSTVl6bkpqdk9nV251WkRxcDhuUWZpRjE0ZnBid2NwYVVrdmVrU0owbDdaRFo5Y2dIaXZIMF83TEhfVTNMdXNNRHphVVR3MnZ4VUF6c1pSTndiTld2LUlvTWhSczIyVQ?oc=5",
    "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T06:39+09:00"
+   "at": "2026-11-18T07:00+09:00"
+  },
+  {
+   "title": "能動的サイバー防御で米企業が提唱する「ディフェンシブクロック」--その概要と課題",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XYm5oSlJ6ZnQ2dTNxRVdJSU5EMEJLN0FybkJPWTlOenJIaEhGbjhzUk1RVTdMb1R6Slp3WXRsS01iejlGOGVQd1pEY0NFdWI1Vllz?oc=5",
+   "source": "ZDNET Japan",
+   "at": "2026-11-18T07:00+09:00"
+  },
+  {
+   "title": "JRタワーのクリスマス抽選会、不正アクセスで中止 [北海道] [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdk9zUVNMYjZIUEI4ZGN2bHpJS2laVk1BN3NrcTBmZTRjd3hvSlZNbzBpZElKUWN0VHdWNGlHb0JUbmhpMDZ5R2Q2RXU5N2g0aG01a3djcm1BZ1dQMWRtdkc1UTNnVF94UUdJWFZlWlFMREx2MnMwYk9oRmpCbmUyR3BBTmFHUQ?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-18T07:00+09:00"
+  },
+  {
+   "title": "カイテク、契約終了から1年以上経過したプレイド「KARTE」に不正アクセスで-個人情報が残存・流出 削除期限90日の取り決め守られず|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdC1SZVVKSTluQ0l0M2xMOVNRbHlxR0NKbXNkckgzZzR2XzJ0VmhzVGpXaWZONC0zdGc1bkhJdnZpS3RNWWtXVUFCTFd2WkwtbjNDWkQ2MERJWXg3S0lCRVU2aGJKbm15MDE0MDhnYlpnT01jMWs5TjMta3N6QlI4Zks1aEVhSEVrWlQ4MGx2NWJ3anpuTVB3dllaZjBUNmhyQmVKUU1lbF83dw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T06:58+09:00"
   }
  ],
  "osaka": [],
@@ -583,6 +581,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "北朝鮮：正恩氏最側近が訪露 プーチン氏らと会談",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pUG5NbGVERkpvYmVqYmo3eHZQcTBRTFl6ZE1RNXhEZFRUTlF4MUlSdE83WjNxdkVhUWYtemNSbFViMzNfMzJLbFlEY3JRLWpqeldzck1rVE9LcV9NVDFpcVFCcGJOOXdY?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-18T02:01+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "トランプ大統領 米中首脳会談で台湾問題が議題になるとの見通し 金正恩総書記との会談にも言及",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44N2M1LVg4YlVwY0NaWHBKNnY0d0dWWkNfcVpkVndVNFBkNFdld3dCc2xaWWNaRzJyb0dWZ183TkFIeVQ0dlFQZWpETlRLYWFOM1pYWjVTTWxpSUpWVVYyUThtZEJ5cGFtamVDVlRR?oc=5",
    "source": "au Webポータル",
@@ -595,13 +600,6 @@
    "source": "日テレNEWS NNN",
    "at": "2026-11-18T01:23+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "ロシアの機械化戦力再建とNATOへの限定攻撃 ナルヴァを通じてウクライナ支援を断つシナリオ",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0SnlabzBTT01QNU1oeU5ydzliLVB3VmFyNmFvWk03OG1VcU9TRi1yVU9xQjFLUU9JQ21UNzhLb29tZTBaUGxOemt4ai1CcEVkcmE2ejNta01FUjFMTDZQMGJfdmVncTBPcDJMb3ZlSi1qZGxHbVVqNkxEajRSQQ?oc=5",
-   "source": "Meta-Defense",
-   "at": "2026-11-18T01:08+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
