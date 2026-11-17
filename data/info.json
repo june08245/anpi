@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:00+09:00",
+ "updated": "2026-11-17T19:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -95,6 +95,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、バーレーンの米施設へ攻撃＝今月３度目、迎撃成功と発表",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aN191NkdUa1pWNEhBVWNBTDEtaXJsNFdJNWYzVEdTVmUyMXl3Y3dXY0gxUFJMS1ZlQ1lIaVZGT1pkajBseGF3SDU5OXRmVDl6RThSODF1aGgxTGR6Qm44SlRBZTBQc2VwN3M5SE5iMzg5V29nUUxfRNIBfkFVX3lxTE16VHdrUFdIbFc4Q2otSGM0aUlLdkI1a1dsWTBjQkVjNndfRncyVjRKVFZNWldxOVBZUjZacGVBRmZkcUs1OU5rNFBBN1BhcWFDaGRFQlJuY0xZSklmanFUakowcW5LRElPaE5RZEc4V1JSOFVxRE5QWFd1NTNFZw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-17T18:51+09:00"
+    },
+    {
      "title": "イランがバーレーンの米軍施設再攻撃 4日間で3度目 ドローンによる領空侵犯に報復｜Quebee キュエビー",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44YXY0MTI4dFpoQXVnVGlrVEZCS1BiWTFWM1NpaXdfb2ZUR25PTldNR05YSXNCUjBlUE1ING1UMXRFVXJ1MFV3Z2pVOEd2OVh5TVVQM1ZGWnk?oc=5",
      "source": "QAB 琉球朝日放送",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHBZQl9aMjlWZjQ4WEhLSDNpaHhmeXAzTThva2xIc3lULUQzMFBMNS1YM2tPYzZHUlFOSS01Ui1fRkVVMGtrSEI5YnUxZ0lOUXZOSmFBTUFmZHg4X1hSMHhMRjdfTWs2bjFYWkxnNE9pVU5udE5vNGpJQkswcnI3QXdFbHl6Nldxd05mN3RZS2JPT1Q3ZVdTWHJMQ2FOLTlpUlZtOVRZUjh3RThPTEhZNVpPRQ?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-17T16:45+09:00"
-    },
-    {
-     "title": "イランがワシントンで「汚い爆弾」や化学兵器で攻撃計画か 米CNN",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zcWJzN0tNcjRod0FtQXAxUHJ0NHR0YXQ3S0dwZWp0b2FneTI1NFFiLUtLUmkxblhUdXFOUUxoTnNlTEFpdWtoSTdQT05LbENPaDJjMFRqdTBEUTRwd2xwMGU4YU1NRFE?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-17T13:11+09:00"
     }
    ]
   },
@@ -276,7 +276,7 @@
     },
     {
      "title": "ロシアが揺さぶるNATO東翼、ウクライナ戦争を支える「支作戦」の狙い",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0NDliVnFJcF80X2pSREJGREtxR1Y2cS1kdUhxS0NKWTVQRVRkbE9menZaTlJtUE9kTFQ2WXIxbXpzQ1Q3cWd3aEFlSmNObzEzOTFoVXRR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrYmQ2cE96YUxJMUROYkNXOWRHckZGLTRIQjFteTA3WWNLU0oxUHVucHZjeFhpVEFwYWhLM3picnpfQWxpLUp0bTV6dlRid1U0dmNnbEJLNlFGUERaOUVN?oc=5",
      "source": "JBpress",
      "at": "2026-11-17T06:00+09:00"
     },
@@ -381,6 +381,18 @@
  ],
  "cyber": [
   {
+   "title": "藤井総務大臣「根本原因の究明を」ドコモ通信障害（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yYmdQbk54dVkycW5uY2pzTE1jdktNRk5hbTZZMDdYY1piWDJ5RE5GV3Z1TlJxbmtUUk1Hb3B5NU9GWjlHT0Rtd2VUbTRERnFmYU83N3l4N1RJT3JxeV9TT2lPN1lySTBQYmp6Qm1ZdVNTc3JHeXhQRHEtdUJtRGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T19:03+09:00"
+  },
+  {
+   "title": "メルカリ、Android版がダウンロードできなくなる不具合　Playストアにはエラー画面、削除しないよう呼びかけ",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpWWtJZGhIMHJsd3MwX0FhaURtMUN4NWtqUER0QUowQnUybHRDQzRPUWxBY3QxZkRfWldtWm1lWmlBSVA5MlJmSm1TTk1qQ2xtaUdTdEYxRFRibGRVbk1seDZR0gFnQVVfeXFMT1RTbG9VMHo5dGFPMmdmVktXWklYUG5kZFQ4UmJVSENrLXA2UXlVQTFlbmxycjVVX0VRdkFZREdFd0FueVR4ZFNCMFNtQ2x1LTJkU3ZGZjF4YnlVWkdpQnVxRWRQdVI1RQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-17T18:56+09:00"
+  },
+  {
    "title": "１０月に誤報で取り消した緊急地震速報、原因は二重のシステム不具合…対応完了で解消",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wdmQ1NUZmdkJUc2xCa3E2YXRwT0JtR2FFYW9MN0NONmxYRzF6clBJQVRzNHNIZWZVSzhRMkNoY1FhMzUtYzNTYkhUd1RqM3E4RGdHRFRHNF9hbnZtSHEtSUdPUXJ4dw?oc=5",
    "source": "読売新聞",
@@ -399,16 +411,40 @@
    "at": "2026-11-17T17:15+09:00"
   },
   {
-   "title": "ドコモ3度の通信障害、藤井総務相「大変遺憾」 原因究明求める",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BMGhlMXRSV254VmtuSVBYMmFGWWxWTWtoNlNYWjVjSlhYdHNqNElqWkxJT251S1pQMVhyc1lzWG1BNmRaZWUyX2hZUDcwUkN1blVqZ0o3czhoN3pxTjVRSDZURDdiLWZI?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-17T17:04+09:00"
+   "title": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 最大447万口座は金融資産情報も",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KY2NkbzNLV1BWdjNvMDU1azgybFAxNHYwcDQ1VzF0X2NzVjVtX1lHR2thazdHQU82SFZzZXZKcFQxUWJ2LWVBSXBJX0pIcDhlWEN0Vjhla0k3bW10NUprWjFSbnAtYURIQnc?oc=5",
+   "source": "ITmedia",
+   "at": "2026-11-17T19:08+09:00"
   },
   {
-   "title": "ドコモ5G SAの通信障害、総務相「短期間で3度は大変遺憾」 根本原因と構造的な課題の洗い出しを要求",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aaWVzRXFhcjRhSU1BdGNUSHlZQ0VjY2Z0VW9CODNNd3NGRmQza3FiTHd0aklxTk1GV01IWHNNX0pwMmVUQjBveU1uZXFNZWVqcjZHSVBwaEpuNUVIUzlv?oc=5",
-   "source": "千葉テレビ放送",
-   "at": "2026-11-17T16:56+09:00"
+   "title": "楽天証券に不正アクセス、年収など顧客情報漏洩 最大447万口座分",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aeERFYUlobzR5OXhoNERRM2V4WG5oWXJCVkRyaU43aXhUSnpzNzkzWDh6UDlBdERPcTM0cGpMYUV4c0VROEl0T3pZdGxiVTJDRDB1R1RzNGhlaXNxeS1ZeFdFRVVaRjAzNGpQZQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-17T19:05+09:00"
+  },
+  {
+   "title": "つくば市「LEBER」でメールアドレス計1万6,570件が漏えい 学校の健康観察・休日夜間の医療相談に影響、アララへの不正アクセスが波及|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXppbmw2YU1wYWYxYkJ6c0FmU203dFFOZXBSUEJGT2ljNk5ZdUJoTmRxbkhKVzFudlB0Y0F5MVNWY3RPd0lDalZKQ1RiZVVleDJsMC1OWERsRkx6YlVLNVlIMW9hYkM2REpzcHJqWDJRWVRrajZIelpubUo2c1JvTzhZdFN4am91NGVwenR6bEJPbmVoaTFUSWFWWlo2R3FxZW1fT2VZUnA?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-17T19:00+09:00"
+  },
+  {
+   "title": "WOWOW、顧客情報漏洩の可能性 プレイドへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96WmdOTmlWV2s4NjhfWFpQWlNic3h4MHd1T0gxNnpoT1hYMHdOZ1NRZGE3UDNpbW1OYzljXzBFZGJaN0p6djVSUEhmdWZ6a2diZXJvSkJCcDl1SEE3UTQ4ZHo5ZzJHM2pTQ0NINg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-17T18:58+09:00"
+  },
+  {
+   "title": "みぃなセキュリティ研究所｜ネット詐欺・不正アクセスから一人でも多く",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Tb0tudDFIVlgwRDJxZkxVc2ltT2ZWSUNvZmhseUJ6aGVVZDJ6RW16MndRYVlyRnFBU1hiRG5mWU10MUNaRGNKd3I1bw?oc=5",
+   "source": "クラウドファンディング - READYF",
+   "at": "2026-11-17T18:56+09:00"
+  },
+  {
+   "title": "《不正アクセス》高知県警演奏会チケット購入者情報が漏えいのおそれ【高知】",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nSzFNbUNTTWN3bktDUkhfdmd3aUZIM1JGNTY2MWFQZktGMjNhaGp5eEpYdHRMSEcwUXhmOXprbUc0a25WNWgzOERTaFYzaTVrUFJpUUJHb1BZcmFfTkhzb1lMNnphLXJ1NlZEVVBR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-17T18:54+09:00"
   },
   {
    "title": "楽天証券、最大約1125万口座の顧客情報漏えいの可能性--テスト環境に不正アクセス",
@@ -417,8 +453,8 @@
    "at": "2026-11-17T18:54+09:00"
   },
   {
-   "title": "《不正アクセス》高知県警演奏会チケット購入者情報が漏えいのおそれ【高知】（2026年11月17日掲載）｜RKC NEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenJFMGhkNHBHRmVrVVZ0b1ZCYUotZkx1ZzVKcEtqcHppdXozdWNUeXZpeGluSXQzaExCeGR2cGJTNzdaZVpxaS1DOGJtSGw4V0hyd1h5RmMzXzl6TVFlNF9lUjFFTkI2alhGanhPRlVqWUprSEVrOUZnU1ZfcVVlQmxjclFwVmM?oc=5",
+   "title": "不正アクセス》高知県警演奏会チケット購入者情報が漏えいのおそれ【高知】（2026年11月17日掲載",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pd0xocEpoeTJ1cE1MLWpKdlk5N2NFc0VkVVlhUnRCZjZiY1RpdTdsLU55WkVtNG1EeDQzQVpIWkszc1JHdk15RFZkV1dGQl9KQzFGWmJSZ0FfdEJFdE5ORnA0T1lQalByc3hDMTBfcldpeU4yVTN6X3EzZkZPZzA?oc=5",
    "source": "日テレNEWS NNN",
    "at": "2026-11-17T18:52+09:00"
   },
@@ -433,46 +469,17 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHU1o5aG5KaWp3aVh0eWhjMGtPZmJUbmJEXzhrbDlxeS1BU1FkYk9OWXRMMWhZRlRuOHNVcl9Pc29heEkweVNGZnNuVjhXNDZCSVZpQk9GMnk0eDg?oc=5",
    "source": "下野新聞社",
    "at": "2026-11-17T18:46+09:00"
-  },
-  {
-   "title": "不正アクセス被害相次ぐ…アインHDの会員・購入情報流出か 札幌駅商業施設アピア、札幌ステラプレイスはクリスマス抽選会を中止",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5Q1RHVi1QU09OR3BCMi1zUUpkOGRkQXF3ZVdLQVg0b3lMUTZNS3FaOTFYVTZJbWpKSGR0WjFpb2x5dFQ3S216NktvSGIwMXN0N1A1dFphSQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-17T18:41+09:00"
-  },
-  {
-   "title": "楽天証券、不正アクセスによるサイバー攻撃で最大1,125万口座で情報流出の可能性 447万口座は資産状況を含めた個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWU5xWVl4T1draGJ1RGY5T0NCOWJ0YmVKdElscWxLcDNPSzdPel81ZmJBdmV5RGdqYW5EZFJIQ3lTdG1IRGtNTlRQMG5yZUNOcFg4SGZ4d1pvNF9sZHUyS0Y3RVNsV1k2TGJ6OGR0QmJMNHVwc3FuSVB0VnR5czFTUFlZc2xmRm9SSDVKSExmOUJzVFpERmxoSUlNcWxFRFBOb19GS1ptRXhqWTYtRjhCQy1WOGNUdzlaem81WnBn?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-17T18:34+09:00"
-  },
-  {
-   "title": "日経電子版顧客情報流出か 委託先に不正アクセス（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaSEhpVDNjVEZxNGlPZW9rNExETmpVM1JZbXY3YkFtVkgwVTIxSjVsMFJzN2NQbS1kVFhXYTlVYTg3blNHRDZUOThmbEN5UUdCWk05cFc5bkpZdWU3eUJFcXJzcnR4eFR3aVk2ZFk0UFRKNXdiTi1teGxsYTctQms?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T18:33+09:00"
-  },
-  {
-   "title": "JINS(ジンズ)委託先 プレイドへのサイバー攻撃で最大約1,829万の個人情報漏洩の恐れ プレイド「KARTE」への不正アクセスが波及|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDhESGk5UHVtMjhkQXBDM2JvSUhrcDJOaldsanMyTGpqanpZX3FDUlRMZG50dTUwMEhMazZoNlM1U3JzRld1VC1IQlQzbW5zeXBnczVrSFJlTlNwSjB4NmVlMHdHZzU1N0VZdXYtQ1dGcUZRN1B5Uk1wdUtWMEp1U3M4VmF6SHpUeXgzNV9QYjVOTHlZdEFwUGotY3hXM1U?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-17T18:33+09:00"
-  },
-  {
-   "title": "カリフォルニア州 オープンAI提訴 実験中にAIがサイバー攻撃「安全より成長優先」",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XNldzZkVqNHNqWGdJcklvTGtRWkQ4X0ZjbFN1S19xN1dGNE90OTh6V2k0dW1NcDBhNjQ1R0x3aTBjLUlpTk9tYnV3d0lwSlhvWUZ1Y0dTMmlOZTduSXk0cEhTMWF5a3AxVVdFai1hVXN0M1VxUmdXT253?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-17T18:25+09:00"
-  },
-  {
-   "title": "恵庭市、メアド2111件漏えい 「アララ」不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjODBYcjhvU3htcDR5ZDhLeWpZOHhlSEU5aVlfUFJ0cE45V3lKWWNKeHkxRklTWGxpYWdWQmdydXlSSmRfeWZ6VjNvRF81T05nd3hXVm5WSWtnQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-17T18:23+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イラン、バーレーンの米施設へ攻撃＝今月３度目、迎撃成功と発表",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aN191NkdUa1pWNEhBVWNBTDEtaXJsNFdJNWYzVEdTVmUyMXl3Y3dXY0gxUFJMS1ZlQ1lIaVZGT1pkajBseGF3SDU5OXRmVDl6RThSODF1aGgxTGR6Qm44SlRBZTBQc2VwN3M5SE5iMzg5V29nUUxfRNIBfkFVX3lxTE16VHdrUFdIbFc4Q2otSGM0aUlLdkI1a1dsWTBjQkVjNndfRncyVjRKVFZNWldxOVBZUjZacGVBRmZkcUs1OU5rNFBBN1BhcWFDaGRFQlJuY0xZSklmanFUakowcW5LRElPaE5RZEc4V1JSOFVxRE5QWFd1NTNFZw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-17T18:51+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ロシア軍がウクライナ南部の学校空爆、７２人死亡・４人不明…支援物資配布拠点として利用",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeFd2ZkVKS3hOQjVXNVVGUk1iUm9Wdjh3bWJuT01zV2p1RHRsRGNKZzV6c3dqSjAxSnFnLTZrVUEtcTVHRF9sdndWOVd5emtRZTEyMFRsU1EwZUp4Uk8zanZxeENxdzNSeDZqZFZQQkoxV2VPeFM5cXNJb3oxQVdnZjN5YzRBeXlWeVRGcFZDQ0lWVVRIWEl3Mm43Wjh5eTNQazB1dzhtVnkxdE43bDd3MW11a3BxOTZoVS04LXdCVjRDdTJRb2gwX1Y3a1Foamc1UlhDdDNnM0VUUy03aWfSAY4BQVVfeXFMTy1NeHRvTDhGYnZmNEdrbXllbEpHdURkeThud0JTTEFFX3JWN3RTOVcyVDEtTllIUTY2aFdkeXNUbFZOTG9oMXZlRU9WMFBqOS1hNDRWNTZpRDVUUjcyUFZYbm9WZkN3dzZSTHVDVVpmMXhzaG1NUTRJUTd1cjhUQTJLeXFNeXdHM1Bqd3dGZw?oc=5",
@@ -605,20 +612,13 @@
    "source": "Infoseek",
    "at": "2026-11-17T16:21+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "米国・台湾との防衛関係に試練 APECでのトランプ・習会談を前に（AP通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtd2o1dXdLdU1fQ0wtU1hRcjJwNTZjWEl2X2pSZXdfUlhLUUwwS05sN2w3UEJ3UXdpbk9KbTBkbkEweUpScE02N2FNZUphTmE5MHRoRVR1OV83aHVSNGVudFFfLXpaUmhQUVJteU5nQzFHZUdqQ09PT20wNXNkbms?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T15:33+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモ「半月に3度」の通信障害にユーザー怒り 5G SAの「4G切り替え」」"
+    "「藤井総務大臣「根本原因の究明を」ドコモ通信障害（ABEMA TIMES）」"
    ]
   },
   "japan": {
@@ -638,10 +638,10 @@
    ],
    "items": [
     {
-     "title": "イランがバーレーンの米軍施設再攻撃 4日間で3度目 ドローンによる領空侵犯に報復｜Quebee キュエビー",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44YXY0MTI4dFpoQXVnVGlrVEZCS1BiWTFWM1NpaXdfb2ZUR25PTldNR05YSXNCUjBlUE1ING1UMXRFVXJ1MFV3Z2pVOEd2OVh5TVVQM1ZGWnk?oc=5",
-     "source": "QAB 琉球朝日放送",
-     "at": "2026-11-17T18:32+09:00"
+     "title": "イラン、バーレーンの米施設へ攻撃＝今月３度目、迎撃成功と発表",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aN191NkdUa1pWNEhBVWNBTDEtaXJsNFdJNWYzVEdTVmUyMXl3Y3dXY0gxUFJMS1ZlQ1lIaVZGT1pkajBseGF3SDU5OXRmVDl6RThSODF1aGgxTGR6Qm44SlRBZTBQc2VwN3M5SE5iMzg5V29nUUxfRNIBfkFVX3lxTE16VHdrUFdIbFc4Q2otSGM0aUlLdkI1a1dsWTBjQkVjNndfRncyVjRKVFZNWldxOVBZUjZacGVBRmZkcUs1OU5rNFBBN1BhcWFDaGRFQlJuY0xZSklmanFUakowcW5LRElPaE5RZEc4V1JSOFVxRE5QWFd1NTNFZw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-17T18:51+09:00"
     },
     {
      "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
