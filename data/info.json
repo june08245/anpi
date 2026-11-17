@@ -1,7 +1,12 @@
 {
- "updated": "2026-11-17T12:30+09:00",
+ "updated": "2026-11-17T12:45+09:00",
  "errors": [
-  "nankai"
+  "world_topics",
+  "nankai",
+  "outage",
+  "japan",
+  "cyber",
+  "osaka"
  ],
  "warnings": {
   "area": "大阪市",
