@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:30+09:00",
+ "updated": "2026-11-18T01:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-18T01:29:00+09:00",
+   "place": "熊本県阿蘇地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-17T21:22:00+09:00",
    "place": "熊本県熊本地方",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-16T13:24:00+09:00",
-   "place": "石川県能登地方",
-   "mag": "5.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -94,6 +94,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "米国、ホルムズ海峡でイランのケシュム島を攻撃：公式発表",
+     "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcENaTDVEbDRDZlk3WGRHVmwzTlcxNmcwTkxvZ0VtTTR4OXJVR0tlNVZDSG1ZNlJuVFNTaHFhR05pRnZ0dGNpMEtjdk9paGFVODI5VW9ManprMWZRMEJuc1pZVmZEdTFGb3VJcS1TeXBTX1BRUDlLU1NaMnZNTXpRNzZKQVhUdFpSTF9qTlBUcFREVTd0MGZnR0ZfNkE3UkMzTFZTMnI1YlNiTmhaLVpPaFZWS0VmQXpwbnhtbUVMMjIzUV9sUTRTNXF5dnlUM3pWbjlFMk13WV9YMkhuOVBzMzB2Q3JySXdiakFFT1U5dGZyc1ZDZEw2UkNUUzNLSkdGNTE2OWtVMm1NLUV0UGFIZWtqbHlpU0FaSVRLX2cwQzBYemdjdGxiYXRrRllWYWdNcmEwSEVlN05UOHNkM0JEcjN3SDBrdFlaOUJNd1pPdWdUbVhPUG5UWlVDTmNzelpyQVVnRVVoRE0tQ25tcTZJVlBWYlRkUEJtOUVHVEJIU0VZblk?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-18T01:40+09:00"
+    },
     {
      "title": "イラン、5日間で3度目の米軍施設攻撃―バーレーンのレーダー狙う",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJa3R3c1NtQjNYUzdBVlJlaHRiVU9hOXZuOW1QeWtablhDeEpTejByUENhYW5sR08wZW5nMjZKNVhDYUtveDVjX1ljS3JfR0xUMEp0WDZQX0N6SkhnbkFRUFg4TdIBaEFVX3lxTE9sbU15M0habjE0aVBQLTZXVDJYeERlZnhFNVp1N2VyUHpOMmZDV0VrWnZGZko4Ukw4QXlmdXB6NUJpWVB4WHBqcEZBYWRxbVdOTmQ4Z01XU29HdXhQNDVzWDVnVTJuRGlv?oc=5",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTGJsU3VKYVB6T2VMRjBnZUQyRHdVbnZOenNzUm51YzZ4bDRRTzVJUDBlZlA2bThJczFfUS1GVGpSU2t4U3FEc2l3bjZ0SG12RzFVZmNRcjNPSTdLRjVZTzM3Sml3TV9GUHhxOW5xcGRFMTN0M1pWamFvVHVCVzNrY0xsa3k4VzhFZW5XbU1DRk1oZEMwZnN5bGNpVm95cDB2R25NYTdaOWRjdHZZUXU4NUFjaFRBa1JhbW9JeFUtOVlldWo4MU82TEEzLVRnWXZRMFIxQ3ZwMG5ZNm83bWxVX0FfSkVKUjFKM3hjTU51NFZ2THI3MHF3Qno2aGNlRWdUU0VSem5YVGJRRWNtd1preS0xU2xzYXNWS21teDMzbVhUUERRbmNXWGQ4LUJGdFBDc1B3VG9nWldTNjNya0xOaGU4aWRxNnJLNy1NSlFERnVlcTl4MHFIbXRrWHRMZw?oc=5",
      "source": "Pars Today",
      "at": "2026-11-17T19:27+09:00"
-    },
-    {
-     "title": "イラン革命防衛隊:「9機目の米無人機MQM-170を捕獲」",
-     "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNek5qdnJlMGhZdTJlaUI1SXNOX2E1a3lEdHlTcHNSR0VTNHpvdkdIME4yY3dEbUFQTUlrV3VvdDJWTDhmNmdRNjRlUXNrY19mT3ZGTHY5b2Izc2pHb0I2S3kyODRUWmUwUlZHcEhOemJ6MXpnNUtCZWRlYXhKSGJZNGRleGphcWJXSHZTQWlublozUU9sQW9mNnB3VnR6bHBVWXhaUjhkMTlFVVBqOHhKM1J0bDBsQUJ5SURmaDVGR0hhVDFaVGdMcXd4NjJvWlM5QmZ5c2huZHQ3YVRLR1FaZUdzNGtmRk81Vm1JejBzNDRyQU40Z2xtTnlwZzIzOFg3SnRVYnh6MHlmbEdoYWs0M1FMTDkwemdCVEQyVUhWQUlZR1B0eG1USkpsWFItTjNXUjVORDhQclg?oc=5",
-     "source": "Pars Today",
-     "at": "2026-11-17T18:55+09:00"
     }
    ]
   },
@@ -203,16 +203,16 @@
      "at": "2026-11-17T17:58+09:00"
     },
     {
-     "title": "「日本の核武装化を許すな」北朝鮮が非核三原則の例外検討を猛批判",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNcUFvM0hrdU5CNk41RFJFNEl1clM0SzFTY01xeU9tVVZtZWFJM0RyRGRYN3dfejVCaVh2aWw0bV8yU2x3bkdEQkl1bEhyc2hoaHc0YXg4M1BWNjRzWGZr?oc=5",
-     "source": "千葉テレビ放送",
-     "at": "2026-11-17T17:56+09:00"
-    },
-    {
      "title": "北朝鮮の金正恩（キム·ジョンウン）国務委員長が、白頭山（ペクトゥサン）の関門都市である三池淵市（サムジヨンシ）観光地区の建設現場を点検し、国際規格にふさわしい空港施設を整えることを指示した。 ドナルド..",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45dW1TUXNJVTh0NFUwTXpyekEtX0Q2VWl1blA2QThLaWVNeDB3dk1lU0dGNWRYTWR2TmZXTXpveC1KdGhZelRQay11a1lGQmxnVnUw?oc=5",
      "source": "매일경제",
      "at": "2026-11-17T17:45+09:00"
+    },
+    {
+     "title": "「日本の核武装化を許すな」北朝鮮が非核三原則の例外検討を猛批判（高英起） - エキスパート",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnF4THEzRTlndjhiOFVlZ1hMZ29fRmczT0d1SGM3WnNCalhHYTZYd2FKSGtSU3MwOWVxT09qODYyUXZSSmpJMERCN25lbGhsTV9mUzJwY2RaMkhQRnktNUxzY0sySzY5bnJEcFpteXp4VWFZbTNzRTRiY3VXY1RGYmxncWpDSTNk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-17T17:28+09:00"
     }
    ]
   },
@@ -363,6 +363,18 @@
  ],
  "cyber": [
   {
+   "title": "米国家安保局の機密ネットワークに障害、サイバー攻撃の証拠なし＝報道",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0htZW5BMWswbmp1bHd4UHlBNjRVV2FGUDBTRWJJT2dmS3hDZ1AwaTdRb3E4R3hEMm9tOVZDWlFNZ1h1cm1LWG51ZWktcmFpSmZfeC1tZTdyYkdBYjZ3YkQ5ejVLb2hoZkNrdDVkR3lNenJyYW5EbGZ1TmwxcVZVZ1p1SnBOd0E?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-18T01:42+09:00"
+  },
+  {
+   "title": "【パワプロ2026】バグ・不具合報告掲示板",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUFpNNzF3Mm93UVBGbXpyQ2k1Nlh6TWdGdXBDdi1aek12WjRja0ltWkFRR1NFcVdQcktOMGQ1V1Q2aWJqaDloY2pXN0RSUnVKYy1ZMXh5SUxvdw?oc=5",
+   "source": "AppMedia",
+   "at": "2026-11-18T00:25+09:00"
+  },
+  {
    "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EbDNFeGh3M0llSFBXTE5kNU04dUsyT1pNd083N1VCbEpBWExMX0g5cHN4R0M1MFM5eXhxRE0xZzhZWXk5aVVGYUczWmY4ZThVZzJIT2lHTlZMWDQ?oc=5",
    "source": "ABEMA",
@@ -429,32 +441,27 @@
    "at": "2026-11-17T22:00+09:00"
   },
   {
+   "title": "不正アクセス 447万口座分 楽天証券 年収情報漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yc1d0ZWN3ZFhibXVnLUhMck5saWV6RUt0MUw0SDF4aFdQN3Y3eEJ0NjlQRk9pNDNhckZPS3dNa1hlbFkxR092Z2lRYmtQZlVGMTJTeXE0dnVMYzF3c3Rn?oc=5",
+   "source": "テレ東BIZ",
+   "at": "2026-11-17T22:00+09:00"
+  },
+  {
    "title": "JINSやアイン、クラブツーリズムなどで情報流出相次ぐ…委託先企業「プレイド」への不正アクセスによって JINSでは最大1829万件が流出の可能性（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05TWJPWnlHZE9KWnF6dnVqRW1XbFJDT2RZV1E0M1VJcHRGUDZ3bTNnTGVzSnpmU3liVkthaHQ3UWg1eVY5akJxYlBpUlc4WjhnQW5SYzVLM29FaHVpbjNxZTdIT2ZNSWd1YnZnTVcyd1dSdnhWYm10VmdVeU5yNmc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-17T21:54+09:00"
-  },
-  {
-   "title": "クラブツーリズム、インターネット会員約406万件の個人情報漏洩の恐れ、委託先 プレイド KARTEへのサイバー攻撃で",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSW5QVUM3Wmk1cS1OXzhfQWNxN3RaSm5JUjFjVXRhQXU1VGVibHVudHZQOHFfaDFGX1RMZU41LUNCYW9pM1MtaVdxVkYzWFdjcVR3TTVUWGtFWVpnX1dvVDdoWEZvcDNDTlB5VUEwaHBQM1AwekNET2doMnlZU0QxZUxoX3VFUlc0SVBYVWlGYmxPelU5TXpVRTg3QXhYdEU?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-17T21:41+09:00"
-  },
-  {
-   "title": "アインHDで最大1258万件の顧客情報流出か、委託先への不正アクセスが原因",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fY1puWWoxVzBqUnNCU0lPQnRlUGM1aElqR29aNV8yQ3ZhMHBEdktkZllrM3kxSGZYcHNBVkxWN0NEY3NpM0hQMXlvYzVxNE1Cd0xfSndGR3Q1WGRYVDdCZmNnYllYWWJqcWFkUlRlNlQ5dVRZ?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-17T21:35+09:00"
-  },
-  {
-   "title": "楽天証券、最大1572万口座の情報漏えいか＝不正アクセスで☆差替(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnlubGZ1dnBvY1lsRGdfV3otWnpRWUdweHR3TG8waWF6UVpmZVc0Q2hldTA5UklYRWd6MnprM3NQYl93SlZJVU5NeWlYcnREeTFUMjVBN0t0cVFvMENPWWlMRF85Q093Yk5MUjB0YTluYllGbEV2bDVkc0FxbDV1MVpxcENGa2c?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-17T21:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米国、ホルムズ海峡でイランのケシュム島を攻撃：公式発表",
+   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcENaTDVEbDRDZlk3WGRHVmwzTlcxNmcwTkxvZ0VtTTR4OXJVR0tlNVZDSG1ZNlJuVFNTaHFhR05pRnZ0dGNpMEtjdk9paGFVODI5VW9ManprMWZRMEJuc1pZVmZEdTFGb3VJcS1TeXBTX1BRUDlLU1NaMnZNTXpRNzZKQVhUdFpSTF9qTlBUcFREVTd0MGZnR0ZfNkE3UkMzTFZTMnI1YlNiTmhaLVpPaFZWS0VmQXpwbnhtbUVMMjIzUV9sUTRTNXF5dnlUM3pWbjlFMk13WV9YMkhuOVBzMzB2Q3JySXdiakFFT1U5dGZyc1ZDZEw2UkNUUzNLSkdGNTE2OWtVMm1NLUV0UGFIZWtqbHlpU0FaSVRLX2cwQzBYemdjdGxiYXRrRllWYWdNcmEwSEVlN05UOHNkM0JEcjN3SDBrdFlaOUJNd1pPdWdUbVhPUG5UWlVDTmNzelpyQVVnRVVoRE0tQ25tcTZJVlBWYlRkUEJtOUVHVEJIU0VZblk?oc=5",
+   "source": "アラブニュース",
+   "at": "2026-11-18T01:40+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "クリミア半島とロシア本土結ぶクリミア大橋、ウクライナ軍の攻撃で一部崩落…軍参謀本部発表",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQk9qT1I5TU9ZdXpZWXBNLXRnQ2hHVTNkVUZtV2RkeXNxVkJWRDVYNDBZdUY5SkRfZE01b2tsSGtmeGdWaVZQRGVTbkVjVGpVUVU5RG53N1gwRXQ5djJRWWFn?oc=5",
@@ -561,24 +568,10 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "イラン革命防衛隊:「9機目の米無人機MQM-170を捕獲」",
-   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNek5qdnJlMGhZdTJlaUI1SXNOX2E1a3lEdHlTcHNSR0VTNHpvdkdIME4yY3dEbUFQTUlrV3VvdDJWTDhmNmdRNjRlUXNrY19mT3ZGTHY5b2Izc2pHb0I2S3kyODRUWmUwUlZHcEhOemJ6MXpnNUtCZWRlYXhKSGJZNGRleGphcWJXSHZTQWlublozUU9sQW9mNnB3VnR6bHBVWXhaUjhkMTlFVVBqOHhKM1J0bDBsQUJ5SURmaDVGR0hhVDFaVGdMcXd4NjJvWlM5QmZ5c2huZHQ3YVRLR1FaZUdzNGtmRk81Vm1JejBzNDRyQU40Z2xtTnlwZzIzOFg3SnRVYnh6MHlmbEdoYWs0M1FMTDkwemdCVEQyVUhWQUlZR1B0eG1USkpsWFItTjNXUjVORDhQclg?oc=5",
-   "source": "Pars Today",
-   "at": "2026-11-17T18:55+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "国連軍司令部、地雷爆発後に北朝鮮と会談推進…韓国政府の謝罪要求後に頓挫（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vaXpsMnY5aVR5eEhSaHlPYXA5MXNJazhJQUh6bWZhQ25PMnExeWpSXzhjUl9HYW1MWWRRSXZ4T1AtZ3Fic212eGpHdWRWYnppSDRlV0dZTUx3QWpkT2NMUnN2clBqY3Zya3hSZXhxeUFOZlYwajIxbnFkcko4aVU?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-17T17:58+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "「日本の核武装化を許すな」北朝鮮が非核三原則の例外検討を猛批判",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNcUFvM0hrdU5CNk41RFJFNEl1clM0SzFTY01xeU9tVVZtZWFJM0RyRGRYN3dfejVCaVh2aWw0bV8yU2x3bkdEQkl1bEhyc2hoaHc0YXg4M1BWNjRzWGZr?oc=5",
-   "source": "千葉テレビ放送",
-   "at": "2026-11-17T17:56+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -593,6 +586,13 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45dW1TUXNJVTh0NFUwTXpyekEtX0Q2VWl1blA2QThLaWVNeDB3dk1lU0dGNWRYTWR2TmZXTXpveC1KdGhZelRQay11a1lGQmxnVnUw?oc=5",
    "source": "매일경제",
    "at": "2026-11-17T17:45+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "「日本の核武装化を許すな」北朝鮮が非核三原則の例外検討を猛批判（高英起） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnF4THEzRTlndjhiOFVlZ1hMZ29fRmczT0d1SGM3WnNCalhHYTZYd2FKSGtSU3MwOWVxT09qODYyUXZSSmpJMERCN25lbGhsTV9mUzJwY2RaMkhQRnktNUxzY0sySzY5bnJEcFpteXp4VWFZbTNzRTRiY3VXY1RGYmxncWpDSTNk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T17:28+09:00",
    "topic": "北朝鮮"
   }
  ],
@@ -612,16 +612,16 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」4件",
+    "イラン・アメリカ：「攻撃」5件",
     "ロシア：「攻撃」「報復」6件",
     "欧州・NATO：「攻撃」「破壊工作」3件"
    ],
    "items": [
     {
-     "title": "イラン、5日間で3度目の米軍施設攻撃―バーレーンのレーダー狙う",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJa3R3c1NtQjNYUzdBVlJlaHRiVU9hOXZuOW1QeWtablhDeEpTejByUENhYW5sR08wZW5nMjZKNVhDYUtveDVjX1ljS3JfR0xUMEp0WDZQX0N6SkhnbkFRUFg4TdIBaEFVX3lxTE9sbU15M0habjE0aVBQLTZXVDJYeERlZnhFNVp1N2VyUHpOMmZDV0VrWnZGZko4Ukw4QXlmdXB6NUJpWVB4WHBqcEZBYWRxbVdOTmQ4Z01XU29HdXhQNDVzWDVnVTJuRGlv?oc=5",
-     "source": "財経新聞",
-     "at": "2026-11-17T22:23+09:00"
+     "title": "米国、ホルムズ海峡でイランのケシュム島を攻撃：公式発表",
+     "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPcENaTDVEbDRDZlk3WGRHVmwzTlcxNmcwTkxvZ0VtTTR4OXJVR0tlNVZDSG1ZNlJuVFNTaHFhR05pRnZ0dGNpMEtjdk9paGFVODI5VW9ManprMWZRMEJuc1pZVmZEdTFGb3VJcS1TeXBTX1BRUDlLU1NaMnZNTXpRNzZKQVhUdFpSTF9qTlBUcFREVTd0MGZnR0ZfNkE3UkMzTFZTMnI1YlNiTmhaLVpPaFZWS0VmQXpwbnhtbUVMMjIzUV9sUTRTNXF5dnlUM3pWbjlFMk13WV9YMkhuOVBzMzB2Q3JySXdiakFFT1U5dGZyc1ZDZEw2UkNUUzNLSkdGNTE2OWtVMm1NLUV0UGFIZWtqbHlpU0FaSVRLX2cwQzBYemdjdGxiYXRrRllWYWdNcmEwSEVlN05UOHNkM0JEcjN3SDBrdFlaOUJNd1pPdWdUbVhPUG5UWlVDTmNzelpyQVVnRVVoRE0tQ25tcTZJVlBWYlRkUEJtOUVHVEJIU0VZblk?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-18T01:40+09:00"
     },
     {
      "title": "クリミア半島とロシア本土結ぶクリミア大橋、ウクライナ軍の攻撃で一部崩落…軍参謀本部発表",
