@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:15+09:00",
+ "updated": "2026-11-18T00:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -227,6 +227,18 @@
      "at": "2026-11-17T23:55+09:00"
     },
     {
+     "title": "ロシアのセルゲイ・ラブロフ外相、フランスを「直接的な関与」と非難 / ロシア外相、フランス軍兵士がウクライナで活動していると発言",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWNldjAyRDNpUkE3NXRQZ0lPUk03RGtfRjZUb0pIVFNCTjh2bnRHSXU1WUdXXzE4X2VxOEZ3WEpyOGM5T3FNSTlNSjFoLXNCdW00TXdCU3ZuZi1WSE14UEpPSDY0aWh0aktHVTMyTWdtSGcyQ3g3RXdGTnRDVmU1dzk2VUdGM2d2Vmp3QjdKM1FKMU1rYVloaC05c1NEMU9wZzhMUFR4MGdoT0VCV1o1aDBMV3lCbDNu?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-17T22:41+09:00"
+    },
+    {
+     "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEU3pIZjQxd04wR2lFUzlVbXBVTU5NZ1piQU1FMDVIcWxVYTFTVVlKM0syNWxSVXQ5Rm5tbEF5Zm1xbVB3cE9UM0VFQzFES3NGSUJzTlVjOGw5NHZVQ0x0LUQtTWZlTTRsRlhia1NId3VHR0Fm?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-17T22:29+09:00"
+    },
+    {
      "title": "クリミア大橋の「道路橋」が崩落か ウクライナがロシアに連日大規模ドローン攻撃｜Quebee キュエビー",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wamk4Tlhfckx5dFUzQTI4VUJwZFNvSEprZnBpZ3dRM2xQckd0SWdJbEJFSnZsSjY5NDhfRXg3eDVySlFvc2NEUV9jZmZ4cUxSTlhQZ2tfY1A?oc=5",
      "source": "QAB 琉球朝日放送",
@@ -243,18 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdFpVLUVoVnE5ZXc3bmlUM2FIWVJJQVhWaU5lU01KRF9NazZXZURVeTdmSXZDaW95cHhIVmM5bGppY1Q4MEcwYlh0NnZpd0RXQ3lCRTllVThFdW5MOHRLSDg4ekJGa093SXlwbQ?oc=5",
      "source": "日本経済新聞",
      "at": "2026-11-17T20:03+09:00"
-    },
-    {
-     "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iLVlHel9hZVlua0FIeDY4eDFtWlJmV1puZzlfekdKaXNDZ0N4MUMxMUlrR0FrRUhhb0d1WGdmdjhLRUlyZlJkNU9ZUUFsYkY5UnBxUkpQWTFaTlp1RXpjNnJVWVI3TVU?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-17T19:27+09:00"
-    },
-    {
-     "title": "ロシア軍がウクライナ南部の学校空爆、７２人死亡・４人不明…支援物資配布拠点として利用",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nUmhBeE9sdS1zNjBxUlR3UFNUbjc1d09kMTJTMjZCZWhMa3QwSVU1TWcteWVQS0FXNG9wZ3NRUUtkTmc4UEpHVFlUclhYcVpDUWpDQU1zNzd2YUh1VW1GVGln?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-17T18:49+09:00"
     }
    ]
   },
@@ -369,6 +369,12 @@
  ],
  "cyber": [
   {
+   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EbDNFeGh3M0llSFBXTE5kNU04dUsyT1pNd083N1VCbEpBWExMX0g5cHN4R0M1MFM5eXhxRE0xZzhZWXk5aVVGYUczWmY4ZThVZzJIT2lHTlZMWDQ?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-17T21:55+09:00"
+  },
+  {
    "title": "障害多発のドコモ、総務大臣が「大変遺憾」。今月3回の短期間、毎週連続の通信障害",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oQlZfWmN5LXNDdUl5TEhSQVFvSkMzS0ExUFdOM1RvcENJc0c4S0F1c0ZCbGdrWlVoNTV2T2hYamVuREtOTnRjYXYxRGJLSDM2MkM4TDc3MGpFUGxydHVSNmFMNi00eWdfQ1pEcHJfNktzSU9mWTRVckpqY9IBgAFBVV95cUxNczRPOTBKYkZhQ09IUDRpN0ozX2I4bDg3eFlVYWtMVWpEVjcxQ1h2dmZ6Qi1XODdPWWlCSEI5Sm1sM3AtS1JXVUlZMkdIOVQ2YzMzeTZvOHNZYnRLMTlrZkJtVE5HbEJwQURFcDdzOFA4SG56d1B2RXZZNkNHNm9oRw?oc=5",
    "source": "すまほん!!",
@@ -451,12 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3aXExYTdZRmhfSUdDN2djdThMUjJBaW9BN19aN05LNU85RG4tVTJsaDhuclh0LUxQZW1aOTFFMVhub1JHd1AzNVhsWU9XR2FfbzZ1bXpSaDNEUkljSDJYV3Z4NlJ1a00?oc=5",
    "source": "カナロコ",
    "at": "2026-11-17T21:40+09:00"
-  },
-  {
-   "title": "アインHDで最大1258万件の顧客情報流出か、委託先への不正アクセスが原因",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fY1puWWoxVzBqUnNCU0lPQnRlUGM1aElqR29aNV8yQ3ZhMHBEdktkZllrM3kxSGZYcHNBVkxWN0NEY3NpM0hQMXlvYzVxNE1Cd0xfSndGR3Q1WGRYVDdCZmNnYllYWWJqcWFkUlRlNlQ5dVRZ?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-17T21:35+09:00"
   }
  ],
  "osaka": [],
@@ -474,6 +474,20 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-17T22:46+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "ロシアのセルゲイ・ラブロフ外相、フランスを「直接的な関与」と非難 / ロシア外相、フランス軍兵士がウクライナで活動していると発言",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWNldjAyRDNpUkE3NXRQZ0lPUk03RGtfRjZUb0pIVFNCTjh2bnRHSXU1WUdXXzE4X2VxOEZ3WEpyOGM5T3FNSTlNSjFoLXNCdW00TXdCU3ZuZi1WSE14UEpPSDY0aWh0aktHVTMyTWdtSGcyQ3g3RXdGTnRDVmU1dzk2VUdGM2d2Vmp3QjdKM1FKMU1rYVloaC05c1NEMU9wZzhMUFR4MGdoT0VCV1o1aDBMV3lCbDNu?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-17T22:41+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEU3pIZjQxd04wR2lFUzlVbXBVTU5NZ1piQU1FMDVIcWxVYTFTVVlKM0syNWxSVXQ5Rm5tbEF5Zm1xbVB3cE9UM0VFQzFES3NGSUJzTlVjOGw5NHZVQ0x0LUQtTWZlTTRsRlhia1NId3VHR0Fm?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-17T22:29+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "イラン、5日間で3度目の米軍施設攻撃―バーレーンのレーダー狙う",
@@ -553,13 +567,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iLVlHel9hZVlua0FIeDY4eDFtWlJmV1puZzlfekdKaXNDZ0N4MUMxMUlrR0FrRUhhb0d1WGdmdjhLRUlyZlJkNU9ZUUFsYkY5UnBxUkpQWTFaTlp1RXpjNnJVWVI3TVU?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-17T19:27+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "【速報】トランプ大統領がフィリピン･マニラに到着 ASEAN首脳会議などへ出席のため 19日には史上初の米中ロ首脳会談へ 北朝鮮･金正恩総書記と会談の可能性も",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lSm9jX0piOEpHOWV6cFRZWGliU0tMZVNneWRUVm1mMU51TDNkV1NPbkE0b0pObVRrN0VrcXR3d0U4aUNIallVRU9LWHFXamh5blFQVlU3aw?oc=5",
    "source": "TBS NEWS DIG",
@@ -572,13 +579,6 @@
    "source": "Pars Today",
    "at": "2026-11-17T18:55+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア軍がウクライナ南部の学校空爆、７２人死亡・４人不明…支援物資配布拠点として利用",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nUmhBeE9sdS1zNjBxUlR3UFNUbjc1d09kMTJTMjZCZWhMa3QwSVU1TWcteWVQS0FXNG9wZ3NRUUtkTmc4UEpHVFlUclhYcVpDUWpDQU1zNzd2YUh1VW1GVGln?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-17T18:49+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "「金正恩氏とも会談するかも」トランプ大統領が中国で明かす 米中ロ首脳会談での金正恩氏の同席は「習近平氏次第」 会談後には“なんらかの共同声明”発表見込みも",
@@ -606,7 +606,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「障害多発のドコモ、総務大臣が「大変遺憾」。今月3回の短期間、毎週連続の通信障害」"
+    "「マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…」"
    ]
   },
   "japan": {
@@ -619,7 +619,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
-    "ロシア：「攻撃」「空爆」6件",
+    "ロシア：「攻撃」「報復」5件",
     "欧州・NATO：「攻撃」「破壊工作」2件"
    ],
    "items": [
