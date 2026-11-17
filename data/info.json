@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-17T14:15+09:00",
- "errors": [],
+ "updated": "2026-11-17T14:30+09:00",
+ "errors": [
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -95,9 +97,9 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イランがワシントンで「汚い爆弾」や化学兵器で攻撃計画か 米CNN（朝日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVWpnVVg0NVFhb3d1bnlsNlh6SGZPZTRuUDgyWTFkTzg3QUlTRVJIUndvUnRDb25CTGd1c3VpWmExODNsQWpQNGVSYkt0b2JyVmNWRVgtd3dla1ZVdmZieHBpcllZUm5vd21PY1pjMWhQT3Q5N3lkajZlUXdxZjg?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "イランがワシントンで「汚い爆弾」や化学兵器で攻撃計画か 米CNN",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXBzUWdTd1ZnOWJqWFFOM2lGMnF3RE1OLThMekZrNGpxdm9scTk1cFhOSVk4SW5vWVFoUkpaRlh4c1RXY2RuNGtjaWVVc2Y2RTQxdllmTDg0cEctMlBiYnFtd0ZHdkFDazBLZ29JVTNzdkZaOWZhTjdFSVE0MFNhOWJQXzJJQlZHT2xwNk5sN19xQmM?oc=5",
+     "source": "朝日新聞",
      "at": "2026-11-17T13:11+09:00"
     },
     {
@@ -113,66 +115,29 @@
      "at": "2026-11-17T11:21+09:00"
     },
     {
+     "title": "イランが放射性物質を拡散する「汚い爆弾」の攻撃を計画か ワシントンでトランプ政権高官を標的に CNN報道 化学兵器の使用も",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hWnM4QS05M0VLNE9ET2gxaTVWSHUwNFFOM0NYQWhhTkZRd2dRNFFjaDZ0UUZpWVVhLTJ0WDdsLXZ6azJCdDN1XzZQcVg3di1TS29Lemo2b3dLbU1BTUZQRy1KaUYtWDFPWEthdDd5UlFrMkp6bklmbkFfeFFYOWM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-17T11:05+09:00"
+    },
+    {
+     "title": "【田母神俊雄のニュース・レビュー】イラン戦争に勝てないアメリカ　繰り返される大国の誤算",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwbGFuYkJMOF96VFJ6TDZYUklxUExSZm5HQmt1QXViU1FjeGEwME9GdUxvaFVKV2FaRUNRRWQ4UkRjV2ZWdjhCRFJZcUdfWHVZMUpCODV3Nm9qeS00aTJkRUc4RmFaS2lBSk5sNkJRQ0JaZ2lvYW800gF3QVVfeXFMUDBsYW5iQkw4X3pUUnpMNlhSSXFQTFJmbkdCa3VBdWJTUWN4YTAwT0Z1TG9oVUpXYVpFQ1FFZDhSRGNXZlZ2OEJEUllxR19YdVkxSkI4NXc2b2p5LTRpMmRFRzhGYVpLaUFKTmw2QlFDQlpnaW9hbzQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-17T10:00+09:00"
+    },
+    {
      "title": "イラク、親イラン勢力拠点に軍派遣 ２０日までの撤退要求、米圧力か",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15cl9zMU1nMDlCOWUyUkRjcjU0ZEpzRVZQbUxQbkpkS053Sm5scWoyVjJGUnRpTlU3X1paR2VNYjN1aUl6YVYyNllVaElQV0FNR2M0a19PQU5ZM2x5R2l2Rkhycw?oc=5",
      "source": "時事ドットコム",
      "at": "2026-11-17T09:34+09:00"
-    },
-    {
-     "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
-     "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-16T22:38+09:00"
-    },
-    {
-     "title": "イランがバーレーンの米軍施設攻撃 ホルムズ海峡の敵対行為にドローンで報復と主張（ANNニュース）",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VENUSFhINjlrcU90V29fUWlfaGJ4emFHYzhVaURsQ0FVa0JXRUdEMEdQNHFlZnNvcmJxQ1BNbENTSzRydWFyakl2VFMzVHhHTkU2X1lqVkpOeGlPaFJpbzgwcm8zQQ?oc=5",
-     "source": "www.nagoyatv.com",
-     "at": "2026-11-16T20:42+09:00"
     }
    ]
   },
   {
    "key": "china",
    "label": "中国・台湾",
-   "items": [
-    {
-     "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkxkZW81Q3ZFaHF6SXdBWXJ5a2Vfc3ZvZnNGSy1FN09Kb0ptUVZVSFk2N3V2eXpGNW9LZTFrMEcxYlFJOHVuZEhwT1JJdjBkeDdVYi1wWHpoWmhiSk1n?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-16T22:10+09:00"
-    },
-    {
-     "title": "「いいね」で台湾軍の人脈を収集か 将官を紹介する中国系FBページに安全当局が警戒 | 楊舒媚（ヤン・シューメイ） | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfZjdkV0hPTEEyY0x3ZV9zOXRsOFdfSVpkdWRGaHFNWHZnT0kwdmpMWU1ROENGLUUtZ3E3UV9ZTi1sYTlQSndDODAyLUczZjJW?oc=5",
-     "source": "風傳媒",
-     "at": "2026-11-16T17:37+09:00"
-    },
-    {
-     "title": "米中露首脳会談の狙いは日本なのに、APECで高市首相を冷遇しないよう中国政府に求めた日本政府の不見識",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWs1VkQzS294VjlDWE11TkV1R0xVa1hEV1h6VFVQd0lHbDNxLU0xRWRNUVhaYUhoVW8wTThpUjk5ZFhuTGJ2VS1DMWl4RFo1SDBqZWxkSWpKNUxaYURoVktnTXFUamVUT3JERlhWY3pnVzhfWFJQeXRfTkRmaXBzUjB2TjdXQkpv?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-16T15:11+09:00"
-    },
-    {
-     "title": "中国軍サイバーセキュリティの第一人者・郭世澤氏、中国科学院サイトから姿消す",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SWU0Q0RhYU8yLVplVU56Uk5zQWU0QS1SRFlBejVJZjhuV0dkQUp2LVFWanowa0ZoVmY4Wm5NNVI1YS1vUGlBVm85a0NJZXc?oc=5",
-     "source": "看中国 / VisionTimesJP",
-     "at": "2026-11-16T12:13+09:00"
-    },
-    {
-     "title": "【第１４２０回】中国軍の演習、米軍来援阻止へ焦点移行",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeFZCWXVDR1JPS19wU2J2OUp1UDE0eGg5QzdmcWNFZlg1WWg4QmNLbU8xci1iZkpWVTQ4Ul9KRXZ0S2NJZVcxRjVSVXZmQQ?oc=5",
-     "source": "公益財団法人 国家基本問題研究所",
-     "at": "2026-11-16T10:46+09:00"
-    },
-    {
-     "title": "2027年に向けた習近平の政治基盤強化：党規律、軍粛清、中国統治のジレンマ（2）【中国問題グローバル研究所】",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkE4MjZtUVo1b2paR1IwMmlMZkJHc3BWbXhfaDZRZUViUXlXczQ2QmZFLWgwVERZekdBSVp0SDZieDlXTldnalBXbDhOTmhGRjEzT1FiUVB1OG0zMDNFZVFlUVNxOGNZX21jVzVRNlZDZlhhYkFKVURtcUk3WkxIbWJTazhmVHQzb3BHatIBjAFBVV95cUxQWkE4MjZtUVo1b2paR1IwMmlMZkJHc3BWbXhfaDZRZUViUXlXczQ2QmZFLWgwVERZekdBSVp0SDZieDlXTldnalBXbDhOTmhGRjEzT1FiUVB1OG0zMDNFZVFlUVNxOGNZX21jVzVRNlZDZlhhYkFKVURtcUk3WkxIbWJTazhmVHQzb3BHag?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-16T10:19+09:00"
-    }
-   ]
+   "items": []
   },
   {
    "key": "nk",
@@ -227,6 +192,12 @@
      "at": "2026-11-17T13:22+09:00"
     },
     {
+     "title": "ロシア軍とみられる航空機2機、福岡県沖で領空侵犯 空自が緊急発進",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HN0UtaVl5S3RMaGlydkNRamU5ZnBpeXpVd1duazBTX2xpR0hTa0JOYmRJS1o1SkRBR19lQnFHYnhCWmFPOXZHMDN0OUtqNmxVRXE2MWNUWk1wWEJ4Q2R0dDVmUERpMFZ2aVhBag?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-17T12:00+09:00"
+    },
+    {
      "title": "ロシアは共同声明発表狙う 米中との3カ国首脳会談で",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51UkxqTGI5cHJVa1c5elUzVl91WmJ1WXM2MlNkbnFMaS1GZmJkeXNEZUVUaGdfR0pzMDMwSExjWHpoM0g2RjdMWmdZdHZVUVVjSzJYdXE0WWtyWWxVSGlfbk5GSUd6UHc2aktVZnk5Q3JfQVhpMzBj?oc=5",
      "source": "日本経済新聞",
@@ -249,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGFRR0ZIOXhWQkpqZVctY3IxWTdGNmFzc2VXMzgyNXh0R0dwMi1YLWpUcTI2OEhsV2plNkFlU2pYX0lQSW1sTkZYd0dURThhZEUxTXR6XzdSWWE5UkRDM0tTQ3czRGlSdmZCT1FQLXhyZ0t5clc1T3dDSFNFTVRhS3I2RC1jNDhLcXhlNlRn?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-17T10:28+09:00"
-    },
-    {
-     "title": "米中ロ首脳会談、「第2のヤルタ」ではない ロシア大統領府が比較一蹴",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXVzVlBrYXJ3bXVhZC1KMWhyNFlMUjk5NlpTNVZKUlBZOUlGaGhyYWNGS1o5VWt1c1QtbnBfSHFkUnV2YUNRRWtJYzY4Y2xQdlJ1MjBYSVpHcEJaZFczTUZXamgzbXhadjZLUXZCY1JsWHQ2U2ZwWS0wTnlRbjlMQ2VlcXg0UQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-17T10:08+09:00"
     }
    ]
   },
@@ -349,6 +314,24 @@
  ],
  "japan": [
   {
+   "title": "ロシア占領軍がスミラを弾道ミサイルで攻撃、暫定情報では3人が負傷",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczBtYWVsQ0hHQkl1LXE3SnU0ODVRYzRTNm5HZkprekhvUzNpczhMSnFsYUhsQllyUGlBODJyeXRNdVNRSThiX0tUQVNLVlQ1Z3FTdjY4YXZQZkNCa1A0bjlaY0FSWm9yOUM2X1RYcXRLNVVibUE5S3Z2ZFRaZ1BNWHEycFZsMHVpVmkwNTUwLW5JUUUtSmpBLU1SWXRpQTJPdkE?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-17T00:48+09:00"
+  },
+  {
+   "title": "ロシアが弾道ミサイルでキーウを攻撃、防空部隊が対応",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjIwRWJzYmZ4UzFBOU9TZm0zdjJybXBraXZubFVnOERudFBhWEoyZkJlMGhVWGxWYU10SnZPNF95Yk1xcjdkVUt6cnlWaDdSbFBodmNyQnNfWHdmMXZfblVKcTB6bHZrT0ZqaVcyQ2MzQTZzZEJuX0ViUWgzRGFyUjM3aWItUFBsY3l2YnFzTUozMzBDaDZkbV9oUXljMUxiN1pz?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-16T23:42+09:00"
+  },
+  {
+   "title": "ゼレンスキー大統領、ロシアが弾道ミサイルと巡航ミサイルの生産を計画していると発言",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUlZZ1JLSWxVTDI5VHdCeU1WSklDd2RiQ05PR3k5TnBEOTcycTdMLS1TUFRYNnAwNDA0bnZ6b0Z5UnZ0dXpfS0g3TVdfX2dnS0pORWUxSEwzWmFsRnpnTE1vUHFhUWlKc3F3YzVubmRZVk5iTHp4LUwxZkUtQllnZkNkQW40R0owa0ZiUTM0U0g5a0k2bVVySVBDVQ?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-16T19:57+09:00"
+  },
+  {
    "title": "防災行政無線 三重県四日市市 11時 Jアラート試験放送 Glasgow Warriors Vs Cardiff Rugby (JaZJ3s1nfp)",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkJNNENzTk5aMjMzWEFNeEZHRFdIcE45Mk4xZ0o2b256azN1Y01zUHVCTzB3Z1VUNlAtNFNlN0NOaUduS2wxYzF6RjZ0QUNBdE00R2hKVVFPMFdkNHl0V3psYmJIZWhqRnpqbTZQLThxMkctX19vNHN4U0NvUC1PWG5n?oc=5",
    "source": "Unisba Media",
@@ -417,6 +400,12 @@
    "at": "2026-11-17T14:09+09:00"
   },
   {
+   "title": "山口県立学校に導入したアプリで学校などのメールアドレス７３件漏えい…配信サービスが不正アクセス受け",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xblBIZW9BMDFDX1htRktrSWpaa1R6WE41YUtqRExWaHpjYzNKNVRjd2JGSDRBVnpDWnFMTFBxaFFiS0ZGN1VCeHR2Vl95czVmZWdhRGRvQVFURVl5TWNPVTFEaFNucElCckNvcThKSURJMHZGMW84Mk5XREMzNlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T14:03+09:00"
+  },
+  {
    "title": "BlackNevasランサムウェア、VMware ESXiホスト4台とバックアップ基盤を破壊 vCenterの正規管理機能を悪用",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3VVMGk4UEdDY1I0R0hSMUZES0NhaGw0dlJudDc2c2piZVdYaW1XbGM1dWRQUEVRU2ZWaXp5N01HbVZuSXZIa3kzX0pPRVNQYVBpUTNUZWFLSUc5VzlYMk42Y1pDNVlGSTFiX1d4NktocnF5NEdoMWhrVzVTdl95SjFDM2d1YWszTzM4MU9ldndSM01oY093eTJSQmJBdUotLVVULWpieEtUcFBlbzRF?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -439,12 +428,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVkpld2JISDBLSGZ3OVpnMG96MW5oVHpoZi1JT1BRYnZjemk2Ulg5ckotb0tybHo4THB2YndYcXVaRWh4R3RGbldQbHRKOFZTam1Fa3FCSEVodm5KcDYxY2NkWHY5TDg?oc=5",
    "source": "NOVAIST",
    "at": "2026-11-17T13:13+09:00"
-  },
-  {
-   "title": "【速報】京王電、サイバー攻撃で宿泊収入18億円減",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CNE5FY0RJT0dHM19QTDNXY0F4X2FmRHNQWlllNXN2eUVIUlM5X010UkNYSjBsaEx3YVREakQ4YzlwamZfQmRwM2hCOA?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-17T13:07+09:00"
   }
  ],
  "osaka": [],
@@ -471,9 +454,9 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "イランがワシントンで「汚い爆弾」や化学兵器で攻撃計画か 米CNN（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVWpnVVg0NVFhb3d1bnlsNlh6SGZPZTRuUDgyWTFkTzg3QUlTRVJIUndvUnRDb25CTGd1c3VpWmExODNsQWpQNGVSYkt0b2JyVmNWRVgtd3dla1ZVdmZieHBpcllZUm5vd21PY1pjMWhQT3Q5N3lkajZlUXdxZjg?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "イランがワシントンで「汚い爆弾」や化学兵器で攻撃計画か 米CNN",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXBzUWdTd1ZnOWJqWFFOM2lGMnF3RE1OLThMekZrNGpxdm9scTk1cFhOSVk4SW5vWVFoUkpaRlh4c1RXY2RuNGtjaWVVc2Y2RTQxdllmTDg0cEctMlBiYnFtd0ZHdkFDazBLZ29JVTNzdkZaOWZhTjdFSVE0MFNhOWJQXzJJQlZHT2xwNk5sN19xQmM?oc=5",
+   "source": "朝日新聞",
    "at": "2026-11-17T13:11+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -504,6 +487,13 @@
    "source": "読売新聞",
    "at": "2026-11-17T12:14+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシア軍とみられる航空機2機、福岡県沖で領空侵犯 空自が緊急発進",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HN0UtaVl5S3RMaGlydkNRamU5ZnBpeXpVd1duazBTX2xpR0hTa0JOYmRJS1o1SkRBR19lQnFHYnhCWmFPOXZHMDN0OUtqNmxVRXE2MWNUWk1wWEJ4Q2R0dDVmUERpMFZ2aVhBag?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-17T12:00+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "トランプ大統領「金正恩氏と会談の可能性」金総書記、訪中の場合プーチン大統領とも会談か（2026年11月16日掲載）",
@@ -541,6 +531,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "イランが放射性物質を拡散する「汚い爆弾」の攻撃を計画か ワシントンでトランプ政権高官を標的に CNN報道 化学兵器の使用も",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hWnM4QS05M0VLNE9ET2gxaTVWSHUwNFFOM0NYQWhhTkZRd2dRNFFjaDZ0UUZpWVVhLTJ0WDdsLXZ6azJCdDN1XzZQcVg3di1TS29Lemo2b3dLbU1BTUZQRy1KaUYtWDFPWEthdDd5UlFrMkp6bklmbkFfeFFYOWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-17T11:05+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシアに過去最大規模の攻撃 1336機を撃墜 ウクライナは石油施設攻撃を発表 (テレビ朝日系（ANN）)",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGFRR0ZIOXhWQkpqZVctY3IxWTdGNmFzc2VXMzgyNXh0R0dwMi1YLWpUcTI2OEhsV2plNkFlU2pYX0lQSW1sTkZYd0dURThhZEUxTXR6XzdSWWE5UkRDM0tTQ3czRGlSdmZCT1FQLXhyZ0t5clc1T3dDSFNFTVRhS3I2RC1jNDhLcXhlNlRn?oc=5",
    "source": "Yahoo!ニュース",
@@ -548,11 +545,11 @@
    "topic": "ロシア"
   },
   {
-   "title": "米中ロ首脳会談、「第2のヤルタ」ではない ロシア大統領府が比較一蹴",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXVzVlBrYXJ3bXVhZC1KMWhyNFlMUjk5NlpTNVZKUlBZOUlGaGhyYWNGS1o5VWt1c1QtbnBfSHFkUnV2YUNRRWtJYzY4Y2xQdlJ1MjBYSVpHcEJaZFczTUZXamgzbXhadjZLUXZCY1JsWHQ2U2ZwWS0wTnlRbjlMQ2VlcXg0UQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-17T10:08+09:00",
-   "topic": "ロシア"
+   "title": "【田母神俊雄のニュース・レビュー】イラン戦争に勝てないアメリカ　繰り返される大国の誤算",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwbGFuYkJMOF96VFJ6TDZYUklxUExSZm5HQmt1QXViU1FjeGEwME9GdUxvaFVKV2FaRUNRRWQ4UkRjV2ZWdjhCRFJZcUdfWHVZMUpCODV3Nm9qeS00aTJkRUc4RmFaS2lBSk5sNkJRQ0JaZ2lvYW800gF3QVVfeXFMUDBsYW5iQkw4X3pUUnpMNlhSSXFQTFJmbkdCa3VBdWJTUWN4YTAwT0Z1TG9oVUpXYVpFQ1FFZDhSRGNXZlZ2OEJEUllxR19YdVkxSkI4NXc2b2p5LTRpMmRFRzhGYVpLaUFKTmw2QlFDQlpnaW9hbzQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-17T10:00+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "イラク、親イラン勢力拠点に軍派遣 ２０日までの撤退要求、米圧力か",
@@ -574,20 +571,6 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-17T02:07+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "バーレーンで爆発、イランが米軍基地への攻撃を主張",
-   "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTTFPeE02RVBTR1pTZFhjMUtsYlFMTDNnV0hya3dKZnB2OTc5Wk5LSEl0TDVuMVM4MU9UTE1BcGtfTU16OWZRRDlzQ19FTVFzWXRwN254ZFNrS0dRUmZrVnBXREd5dEVUUW5vZHhaRzBjSjhGaFVYcHNtTXBIWThIbW5adURNMm5hNXNWckpfRld5VlFpTGxfRFVrbVBQQ1RaTGp2NTVMelEyTnlPQ1NWVldZRWRVdHBSc1c0R0FaX19NT2ZrekNtSXNJZmtRdTluRTZ4bElodHFKMnhaMFYxN3pjY1VwakRUNEVPTUdnNy1UNVVPRFdUUDQ0dG0xUGIxOTVyYkFPb3JJVm9iR2dkMGh3dkpKc1JhS2hhOWRvWVdqSnNBNEtrVTRGQzNhZU1vWWtSUXk1Vk4wbXZfOHlMVTdsMi03Wm9qYU9kZ2ptVFF3QkVMemliS1Nkb01tNU1BQkRlTG1aYk1vWlk?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-16T22:38+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkxkZW81Q3ZFaHF6SXdBWXJ5a2Vfc3ZvZnNGSy1FN09Kb0ptUVZVSFk2N3V2eXpGNW9LZTFrMEcxYlFJOHVuZEhwT1JJdjBkeDdVYi1wWHpoWmhiSk1n?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-16T22:10+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -607,30 +590,29 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
-    "中国・台湾：「攻撃」1件",
+    "イラン・アメリカ：「攻撃」3件",
     "北朝鮮：「攻撃」「ミサイル」1件",
     "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
    "items": [
     {
-     "title": "イランがワシントンで「汚い爆弾」や化学兵器で攻撃計画か 米CNN（朝日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVWpnVVg0NVFhb3d1bnlsNlh6SGZPZTRuUDgyWTFkTzg3QUlTRVJIUndvUnRDb25CTGd1c3VpWmExODNsQWpQNGVSYkt0b2JyVmNWRVgtd3dla1ZVdmZieHBpcllZUm5vd21PY1pjMWhQT3Q5N3lkajZlUXdxZjg?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "イランがワシントンで「汚い爆弾」や化学兵器で攻撃計画か 米CNN",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcXBzUWdTd1ZnOWJqWFFOM2lGMnF3RE1OLThMekZrNGpxdm9scTk1cFhOSVk4SW5vWVFoUkpaRlh4c1RXY2RuNGtjaWVVc2Y2RTQxdllmTDg0cEctMlBiYnFtd0ZHdkFDazBLZ29JVTNzdkZaOWZhTjdFSVE0MFNhOWJQXzJJQlZHT2xwNk5sN19xQmM?oc=5",
+     "source": "朝日新聞",
      "at": "2026-11-17T13:11+09:00"
-    },
-    {
-     "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNUkxkZW81Q3ZFaHF6SXdBWXJ5a2Vfc3ZvZnNGSy1FN09Kb0ptUVZVSFk2N3V2eXpGNW9LZTFrMEcxYlFJOHVuZEhwT1JJdjBkeDdVYi1wWHpoWmhiSk1n?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-16T22:10+09:00"
     },
     {
      "title": "北朝鮮の巡航ミサイル「飛行場攻撃」写真に合成の疑い…4年前の滑走路画像を使った可能性（KOREA WAVE）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YRTR5WF90Q01hVUU1amhoSFE4LWVGQURDS3lLQTE1QndhQWlHT3BnM1lYN1pGbmxaNkFMTmxCQldEU0dlMjNlNnBaZ2ZvRWUxYW5IZlYwcnhPSlRPNXJVNHdsZDB1R1Y2THNfZ0FQWWhjSWhnTDE2MjlUeFBaeVU?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-17T13:12+09:00"
+    },
+    {
+     "title": "ロシア軍の攻撃、キーウの主要な橋2本に被害 市長発表",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FaUJKS1hjTzlEdURQWV9LSnNPdjA1LWNNTzJjTUZBejgwRE1QOVp5Q0lTbnFLdjcwdWpySzBaRnE0MUx5OGJvNS0zcE8xamFOY1HSAVRBVV95cUxNUUl6U1RaR2xxWEtWNlE2MUU3ZmZJUmRqU0lZRUcxX2p1aWQ0cUd5SkRudjdlckxzMjYydUtHaktFeXAxVmVZSzdTRG5TZEpvMFVfd2o?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-17T11:16+09:00"
     }
    ]
   }
