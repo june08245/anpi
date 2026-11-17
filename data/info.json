@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:45+09:00",
+ "updated": "2026-11-18T08:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -198,7 +198,7 @@
     },
     {
      "title": "金正恩氏が中国に「来たがっている」トランプ大統領が主張 アジアでの外交日程開始",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fYjdVbVVfUUxNaFBmUHpTY0VaT1RqMW13ZkVIR1oyQ0d6Ry1nMUh2aUF2R0xQMUlvZnI1U0NpS0RhUm1EYnRvYjFYX25idXh6TllEaDF0aw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pRnRXZmJ1aUxLT3Utekx2TmdaUHZoa0ZjTkx2dWFJQ19rbUE4WC00VC05SEZ1emtIZXpQbkVlSmctMHlzeXZIemMzRXFCSjZnaGZ2bUFPWU1saS1xTjhRZG1qSzdrTDFQckRZbjJ1RUk2ZGdY?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-18T04:57+09:00"
     },
@@ -349,6 +349,12 @@
  ],
  "japan": [
   {
+   "title": "北朝鮮、弾道ミサイル数発を発射 日本海へ、２５０キロ飛行",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tdHpDOVpXT0M1dG1zUGRXeFl2MUUwVHdaR3Z2MV9fTUp3YU9JREtlS3pmQkFhaUtzN2hCUFVTLXBwaTRtU0d2M0VpUUg5M2JKSWJaTmtQaFhHX1VCMUowb1h3NjFuNzh1YUJ1TV93bw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-18T05:42+09:00"
+  },
+  {
    "title": "ゼレンスキー大統領、ロシアの弾道ミサイル発射装置の破壊で米国に支援を要請",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uWkhkZkstZTV0X2ZyMW85UEQ2ZXIzdHRxUkpRQ0p3QjNDY0pmbkJaNFJIZXZpdUl6Ymw0RkNURXlNUnlZY2ZCTWJtb3ZDc3FhREVLRFowRXdMWTEyOWtWNDhNTU8yMk1u?oc=5",
    "source": "Mezha.net",
@@ -375,6 +381,12 @@
    "at": "2026-11-18T07:15+09:00"
   },
   {
+   "title": "米システム障害、原因は設備老朽化か トランプ氏「問題ない」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HT21wR1lndzZwZ0IzT0FWdFl2bmYzYnROX0Z6UWxWaHNITjNUTWxIMDhUU0p2bEdDdndkVVFOc2ItTUZIN2xKS1luVFBSSkFTWGwydjRURDFQYWduZ1p5bFRDRkE2T0E5VnpyTDNBM0ZfRG83bk00QXJoM1NWcEE?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-18T06:59+09:00"
+  },
+  {
    "title": "Apple、日本時間18日未明に障害。iCloudサインインや店舗決済が一時不可に、原因は内部更新",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZVldJYlpkS1VKUmVVaTZBTUVoWFdtdnRjSHdmZGdaT2dXOHJxS1dBeTRGVkU4akdncHJNdVZvcjNyTTB5NC1FLVJkZDJPcXNs?oc=5",
    "source": "ゴリミー",
@@ -399,12 +411,6 @@
    "at": "2026-11-18T06:05+09:00"
   },
   {
-   "title": "【イナイレクロス】バグ・不具合報告掲示板【イナズマイレブンクロス】",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRG1NQS1LcVZPQzU5T0x4MjZjQk5seDZzVWZCd050OEp6aWh2RHBJUWtETi1CSk1teEpJanZNS0diYkhxZWI2M0pKckFWTVhQemhLTw?oc=5",
-   "source": "AppMedia",
-   "at": "2026-11-18T06:02+09:00"
-  },
-  {
    "title": "米NSA通信網に障害か 機密情報を送受信 サイバー攻撃の証拠見つからず",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaYXN4RGlrVEJxeEF2blJ4RzBGc1dQbWFJZkpEWG1RVUJ3bzBTamdRc0RGUndVem43Y0lNNHFYNjU3MWFxN1lFQWFCbGxJV1duQ3RTX0MwbDZuMG9mVDJqeXdpRXBxOF9rMW9lM2Z4bjhJN2hhR0E?oc=5",
    "source": "産経ニュース",
@@ -417,16 +423,34 @@
    "at": "2026-11-18T05:05+09:00"
   },
   {
+   "title": "性犯罪歴確認システム「日本版ＤＢＳ」に脆弱性、不正アクセスされる恐れ…来月の稼働延期へ (読売新聞オンライン)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPREVEZUtYYlRGTVBtQmNjY2dTODN5aFp0VzlIVkFPVEJlR1BKUGlPMF9HY251RVdidzZQczE5d3IySEg3NnE1LVc4ZDlYM2Juc0xscVhJMWw1QU5XYUJyWVhJb0dWamw5bzdDMXVxNVBiNjRncWp4Z1pXUGtRaXNKT1VBcmFhZW1Ua2RlVFhB?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T07:50+09:00"
+  },
+  {
+   "title": "17日の米国市場ダイジェスト：米国株式市場は続落、サイバー攻撃憶測やエヌビディアが重し(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3VUajBNbTRsLTJ6cjNLblZEQWdyeHNHSHZkbFZEb0tOUWc1Y3NtcEtNRl8yOWZUMkMzejF1dmc1MnZJZVBzRXBOd1d0Nk5Dc2V6TVQ2NDJqbkx6SkFhcm9jRm1uMlB0T3QwWGxfTnRRT1VGWnhaRU1YMzFNRmcxbHEyZW8tM2c?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-18T07:48+09:00"
+  },
+  {
+   "title": "亀戸のコトックスでセキュリティー対策講座 サイバー攻撃への備え学ぶ",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xUjNsVExDZUlwOEJRMzdHd2dMeGFCeHJiT1pOTDN6NVQwdWR1YnVjZktrZXV3eHZrVWhvZXhCVzNhLU01VGVmSkMwZ19mSG8?oc=5",
+   "source": "江東経済新聞",
+   "at": "2026-11-18T07:41+09:00"
+  },
+  {
+   "title": "「日本の頭脳」富岳に不正アクセス、利用者戸惑い「想定外」…研究成果の流出・研究停滞を危惧",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FMmt3SXdtSnZ4TVRoQjhMRVdDblRtWldTZGlMeXBfanJleldDb1VBXzI5NUZEWW1aMWVSV0FfcnIxR1BtamZsVnBnNFViNWNsakl4N3I2TXJ5am0wc1hWX2RFQVV4QQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-18T07:37+09:00"
+  },
+  {
    "title": "京葉ガス「ウィズ京葉ガス」に不正アクセス、個人情報275件が漏えいしたおそれ 初期パスワード・秘密の質問も対象",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUlmSmVLaWJIdVI2eHFmV3hSNURlTVNYX1FvMFNYbW5LUHpXUVo0UGVZS01Xc0s4aXZPbWhyMnhNVlB0cXdiaUxCSVVuSC1wc2Z1SUtYNUNkQlgyZk45bWtXY1otMFQ3dE5ad1RlSkN2dTRRYnYzLVBmanIzaWVBY3BtVFBGZURUcHpnNjVMakFtWTBEbWVUcUJRWnFBbmNHRFl0eU1Jd2FQeko3eGRFR3R0cnRmR2oxRGc?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-18T07:29+09:00"
-  },
-  {
-   "title": "NY株式：NYダウは848.75ドル安、サイバー攻撃憶測やエヌビディアが重し(フィスコ)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSm05LTNIMENobTFib1FsTFVXSm9yQUluN29aY09iRUZ5UFE5ZVJxTUxnNENvMExEQngwN29kVWZMdXVpeGJPUGZpM0E2MHhMRTUxWURTbk1RWDF2T09tcG9kNHdqUno2M1BpOV9XdWVRcGpZRDUzTF80N2xlbXJkSVZhLXpTZjg?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-18T07:22+09:00"
   },
   {
    "title": "米国株式市場は続落、サイバー攻撃憶測やエヌビディアが重し（17日）(フィスコ)",
@@ -439,24 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0VIclFhWmV1NS1QVERJQjRjZWZWNldXMWlsSHJ3bWszMDkwekg0UUdteHc0QTI3RGYyOVpFX2FJeVhVcWJoOWpCVFdXVE9sMjNaWU5aRVM2MEllMmota2tkaXNwaDZHM1pJeUZNQ2Z0WVFVQTFuWXlEeHhHeDI4Rk1nNExsZFE?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-18T07:16+09:00"
-  },
-  {
-   "title": "「富岳」に不正アクセス　スパコン、利用者情報流出か　運用停止、理研調査｜四国新聞WEB朝刊",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLTm5TSGhIX0tzc19QUGhVUkdBcDh6am1JUkJCWTJ6clM2SUdBMzcwVXJfUGN4YTRWTU1TM3hjSUU3QWNuWU1aVnVqX3R2bWllYkVJdnJDUF9ERjQ2a3g4blNvcUVxZFVyeWYtckgtWDNmQ0tLMmxZ0gF8QVVfeXFMUFhhWnowQVM3LVJFam1GQ18wQnVQYXVaanB4SkQ1dmVBTktRNlNObG9ZWDIwQU5fUjdxYUxnUy1MY2twOHN5Z19MUnlKUVBJMng0Y3l6SzdPMVhwTlBsTlBoR0RlWEJlMmRVWGFKV3RtRll0V3dQU01melpuUQ?oc=5",
-   "source": "四国新聞",
-   "at": "2026-11-18T07:09+09:00"
-  },
-  {
-   "title": "ルノー・アルピーヌ、顧客10万2,000名分の個人情報漏洩 PCS不正アクセスが波及、口座情報も一部対象",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHRtUVZNMVhCNVRvN3l0WVl5UHFheFNINWJ2dHBPbDlYOFdCTGxJS3VSTVl6bkpqdk9nV251WkRxcDhuUWZpRjE0ZnBid2NwYVVrdmVrU0owbDdaRFo5Y2dIaXZIMF83TEhfVTNMdXNNRHphVVR3MnZ4VUF6c1pSTndiTld2LUlvTWhSczIyVQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T07:00+09:00"
-  },
-  {
-   "title": "楽天証券も不正アクセス。資産を守るために確認しておきたい設定（ギズモード・ジャパン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rV2MwWWZ2RVZyYTh5cHBrZmVmeDEzU2NaR0hadTFwdGZCdEh4eW12Q1pWVEtSYWdpazFyRnJrdDZKZVFRNkRHREl2dHZ6aFhlVTQ1QTdHVjV4OUZGQ3NjMTBGNkFBU1VXaWpNT2dZZlFhY2wyOGEtMFJ4ekhONEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T07:00+09:00"
   }
  ],
  "osaka": [],
@@ -568,7 +574,7 @@
   },
   {
    "title": "金正恩氏が中国に「来たがっている」トランプ大統領が主張 アジアでの外交日程開始",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fYjdVbVVfUUxNaFBmUHpTY0VaT1RqMW13ZkVIR1oyQ0d6Ry1nMUh2aUF2R0xQMUlvZnI1U0NpS0RhUm1EYnRvYjFYX25idXh6TllEaDF0aw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pRnRXZmJ1aUxLT3Utekx2TmdaUHZoa0ZjTkx2dWFJQ19rbUE4WC00VC05SEZ1emtIZXpQbkVlSmctMHlzeXZIemMzRXFCSjZnaGZ2bUFPWU1saS1xTjhRZG1qSzdrTDFQckRZbjJ1RUk2ZGdY?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-18T04:57+09:00",
    "topic": "北朝鮮"
@@ -612,7 +618,7 @@
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮、ロシアに毎月数十発の弾道ミサイル提供…性能磨く）"
+    "弾道ミサイルの報道（北朝鮮、弾道ミサイル数発を発射 日本海へ、２５０キロ飛行）"
    ]
   },
   "world": {
