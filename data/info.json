@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:30+09:00",
+ "updated": "2026-11-18T05:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -101,6 +101,12 @@
      "at": "2026-11-18T04:45+09:00"
     },
     {
+     "title": "米軍戦闘機 ホルムズ海峡近くのイラン南部の島を攻撃か (2026年11月18日掲載)",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mNmI3WS1tNjQ1dEtTRUUtUDA5dTJVR3NnNnJaVUViY2sycE5sOVZiNF9Ra1U3dDhCbHhMOEVHbUUxVG1NZE5rdVBHU3E2dGZDenZpUndidG5hWWstNlE?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-18T04:44+09:00"
+    },
+    {
      "title": "ゲシュム島で爆発音…米軍の攻撃か イラン側はドローン2機撃墜も被害なしと発表",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BMlFtNlQycklFWDBRc0hmWkRNVTM2OV81ejNaUHl2SVlWN0N6akNtWnVjSmcySm96VHJPYmZ1SWRLaDQ4U0dtM2xORlNBb204NWVWbzFIMDM3RlBZOGdwY1ZlTzZmQmE1Z0FYNEIzYThSMndaRDg0X1Z3?oc=5",
      "source": "テレ朝NEWS",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJa3R3c1NtQjNYUzdBVlJlaHRiVU9hOXZuOW1QeWtablhDeEpTejByUENhYW5sR08wZW5nMjZKNVhDYUtveDVjX1ljS3JfR0xUMEp0WDZQX0N6SkhnbkFRUFg4TdIBaEFVX3lxTE9sbU15M0habjE0aVBQLTZXVDJYeERlZnhFNVp1N2VyUHpOMmZDV0VrWnZGZko4Ukw4QXlmdXB6NUJpWVB4WHBqcEZBYWRxbVdOTmQ4Z01XU29HdXhQNDVzWDVnVTJuRGlv?oc=5",
      "source": "財経新聞",
      "at": "2026-11-17T22:23+09:00"
-    },
-    {
-     "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SkNRbjFqSWs4R0ltMXhBaU00bzFQY0ZrMkZlbEdld2VncXc1WmRhaWhpa2xlYnNCMTZ0amJYNXhQSlZHdTVtNFBmX2toZ19PYTlHYUQ2OFYzYWFrR3kyb0k1UVM4WFNfaTVhM2FR?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-17T20:09+09:00"
     }
    ]
   },
@@ -251,10 +251,10 @@
      "at": "2026-11-17T20:03+09:00"
     },
     {
-     "title": "ウクライナでは10月、ロシアの攻撃により少なくとも372人の民間人が死亡した - 国連。今年の犠牲者は過去数年より多い",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnpDWV85X0M0d2F1b08weWxJV1gxeFRTd1F6dTBlWEJ3WWxWTVZrMTZBbHhtSkdNWUl2MDF6czZCS2RsNmtsV280SUdlcm1mWjJaektVcXU3bU1IUEg2cTZjQjJkbU9SOWJMclZjUXI2YVdSQWRVSHBpWUQ3dVpldmVpbWdKRGxZN0NzZF9fMzM1RG54?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-17T19:56+09:00"
+     "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yVVo2a0FiaUFJZlBZdklrcEE2Z3M4VG13T0VzbEVEMmkwb0NKcnNhZ3Q4SFpNMTRtZlNSSVlyTEVla3FUcmNjZGdGQVd3UEh3NXh4ejNZTlRmX0VkUDlnTVBvS0xSRFBQTWhfUzNBUFlDNWZ2Z2NV?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-17T19:27+09:00"
     }
    ]
   },
@@ -417,6 +417,24 @@
    "at": "2026-11-17T21:55+09:00"
   },
   {
+   "title": "《通信大手4社を比較》「サービスを止める」判断に透ける温度差 サイバー攻撃に揺れる各社の“似ているようで違う”発想",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2a1dsRVlpNmFFVTZSblFNM1pwT285bGw4T0JHdWI0ak5wM0VzMkNxM29CeUN6SGNmMERtVXFIR0c0ckJGaEc1MGhacXQ2SmV4NjE1ZVJacXVTY1gxOVZqMWJ6RVRsVTBfLTlwZGR1RUpXYVpfYVduZUpnVm9GY2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T05:35+09:00"
+  },
+  {
+   "title": "ミスミ、約14万件の個人情報漏洩の恐れ、プレイド「KARTE」へのサイバー攻撃が波及 取引先なりすましなど法人向けの注意点",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRXp5TXFpNWFXRmNNMlNDTld2Y2ZSdVRSaDQ2cHZyY1h1VUQ0ak5IcEVBaHo1QVJWMWU1OTRVVGI0bU5jYVRHaktfaVRDSUstLVhwOHVORWFiRzE1Qk5wY0UwUTBmd3VicTRYM0dvU09SQ3d5MlFLa2RZTmtPdDFNSmMzT2dJYU40Yk9TNm8wa05sZWRmU2dnUVBUS3I?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T05:30+09:00"
+  },
+  {
+   "title": "《通信大手4社を比較》｢サービスを止める｣判断に透ける温度差 サイバー攻撃に揺れる各社の\"似ているようで違う\"発想",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yMjluUUJaUGVBSmxhUjV0eVJJa2NRMWtKeUZwMjhmZlVZaF9mbzZuWWhzcF9ZVU9FQ3pJbWlUam1XRS12VHFTeW1yZEFidkQ3X3c?oc=5",
+   "source": "東洋経済オンライン",
+   "at": "2026-11-18T05:30+09:00"
+  },
+  {
    "title": "官民一体でサイバーテロ対策 栃木県内3組織が合同総会、情勢や活動状況などを共有",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtX3M5UnBMWVJVbmxGQTJuMG95Ykl6SlZ6ZDhYQWVzNks0LXg1aENDaVJ3QU9fS3FfTWxaemFCbGJMMDhxRWhrQS1USFhfbHZ2WXpRU2VxY2h0VXM?oc=5",
    "source": "下野新聞社",
@@ -429,26 +447,8 @@
    "at": "2026-11-18T05:00+09:00"
   },
   {
-   "title": "サイバー攻撃、３０社が対策学 ぶ石川県警が研修会｜社会｜石川のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ST3RkX2pRVjZnZFBySWU2b25DYjJRRWp3aTFtMkZna0E3MXFhcEE2TV9MOFBabWZKSXZ2QXlhVFFQSzE5SW1NVnQteG93dFl0X0lkMU1SVQ?oc=5",
-   "source": "北國新聞",
-   "at": "2026-11-18T05:00+09:00"
-  },
-  {
    "title": "北海道：相次ぐサイバー攻撃に道内企業も警戒、道警への相談も急増 ：地域ニュース",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FaHU1Nnk4YUhURFQtTGVjbTUxLU5iQTNtVTFmbnE3Y0xlVmhIYzNTa3NxeUhxdVYzeUZwTGJ4WWIzc0hMaHVMWHlPblRRS29tTkdhNGM3ZFBWcUlrczFFN2hsUHFrVXhSYUhwWTJkaFFBWHRh?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-18T05:00+09:00"
-  },
-  {
-   "title": "ソフトウエア最新化 バックアップも 宮城県、仙台でサイバー攻撃対策セミナー",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sZDA4OFVjTmJhc0wzdTlpXzA4T3BKd2FEei1VdTRKWDFhNkJZclRXX05SZWVNN2hEZklZWjNOakF3US01VVhPV0dsQnBqVHVUM29CcWZnY1VsR0k?oc=5",
-   "source": "河北新報オンライン",
-   "at": "2026-11-18T05:00+09:00"
-  },
-  {
-   "title": "性犯罪歴確認システム「日本版ＤＢＳ」に脆弱性、不正アクセスされる恐れ…来月の稼働延期へ",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94UTY0eVk2aXVCTDBhNnFaNlZDNk5YdHJ4c0pVYVRPSGJzYUZJRm94akVZTk5ISkJ3OHNNbFZlWVlTQUFQb2QwWC1qRFdRQW5KOGlFa28wOTVvcFpYd1ZmT0JscDV6QQ?oc=5",
    "source": "読売新聞",
    "at": "2026-11-18T05:00+09:00"
   }
@@ -474,6 +474,13 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1abDY1MW9YbWFWNVJ4eHJ1SkM5LUpSZjUzZWx0aVVsODBoVkVqZHdNcUZtdWxycFZJdUNhcUQ2VTV4WHU0ZWFJNnpSZDIzYlBrR3Z1MG1ZOGpJYWMycGllWWJxeElKaVVZRzFfUFZDOWY?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-18T04:45+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米軍戦闘機 ホルムズ海峡近くのイラン南部の島を攻撃か (2026年11月18日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mNmI3WS1tNjQ1dEtTRUUtUDA5dTJVR3NnNnJaVUViY2sycE5sOVZiNF9Ra1U3dDhCbHhMOEVHbUUxVG1NZE5rdVBHU3E2dGZDenZpUndidG5hWWstNlE?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-18T04:44+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -561,24 +568,10 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SkNRbjFqSWs4R0ltMXhBaU00bzFQY0ZrMkZlbEdld2VncXc1WmRhaWhpa2xlYnNCMTZ0amJYNXhQSlZHdTVtNFBmX2toZ19PYTlHYUQ2OFYzYWFrR3kyb0k1UVM4WFNfaTVhM2FR?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-17T20:09+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ウクライナがクリミア橋を連日攻撃 ロシア各地に無人機",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRdFpVLUVoVnE5ZXc3bmlUM2FIWVJJQVhWaU5lU01KRF9NazZXZURVeTdmSXZDaW95cHhIVmM5bGppY1Q4MEcwYlh0NnZpd0RXQ3lCRTllVThFdW5MOHRLSDg4ekJGa093SXlwbQ?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-17T20:03+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナでは10月、ロシアの攻撃により少なくとも372人の民間人が死亡した - 国連。今年の犠牲者は過去数年より多い",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnpDWV85X0M0d2F1b08weWxJV1gxeFRTd1F6dTBlWEJ3WWxWTVZrMTZBbHhtSkdNWUl2MDF6czZCS2RsNmtsV280SUdlcm1mWjJaektVcXU3bU1IUEg2cTZjQjJkbU9SOWJMclZjUXI2YVdSQWRVSHBpWUQ3dVpldmVpbWdKRGxZN0NzZF9fMzM1RG54?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-17T19:56+09:00",
    "topic": "ロシア"
   },
   {
@@ -587,6 +580,13 @@
    "source": "読売新聞",
    "at": "2026-11-17T19:52+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシアとクリミア結ぶ橋が一部崩落か、ウクライナが2日連続で攻撃",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yVVo2a0FiaUFJZlBZdklrcEE2Z3M4VG13T0VzbEVEMmkwb0NKcnNhZ3Q4SFpNMTRtZlNSSVlyTEVla3FUcmNjZGdGQVd3UEh3NXh4ejNZTlRmX0VkUDlnTVBvS0xSRFBQTWhfUzNBUFlDNWZ2Z2NV?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-17T19:27+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "【速報】トランプ大統領がフィリピン･マニラに到着 ASEAN首脳会議などへ出席のため 19日には史上初の米中ロ首脳会談へ 北朝鮮･金正恩総書記と会談の可能性も",
