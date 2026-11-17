@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:15+09:00",
+ "updated": "2026-11-17T21:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-15T15:37:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-17T21:22:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "2.8",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-17T19:33:00+09:00",
    "place": "三陸沖",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-16T06:08:00+09:00",
-   "place": "愛知県東部",
-   "mag": "3.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -95,10 +95,16 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道（FNNプライムオンライン（フジテレビ系））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55TURYa045bjVrazN0NlVhLTlDRGVEMnFId3FSUWtEMGRRaTRFN193WXlCT0laRmFfSmdjZURhOWlmMXRKVEt6NkRUR2RKQWtPRHR0WDdEZ0VBdUt5YnlDWHFxdkx4YmxkZ21lWkNlM3IzNUFwcFJ1QVhYa2xHYWM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T20:08+09:00"
+     "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SkNRbjFqSWs4R0ltMXhBaU00bzFQY0ZrMkZlbEdld2VncXc1WmRhaWhpa2xlYnNCMTZ0amJYNXhQSlZHdTVtNFBmX2toZ19PYTlHYUQ2OFYzYWFrR3kyb0k1UVM4WFNfaTVhM2FR?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-17T20:09+09:00"
+    },
+    {
+     "title": "イランがワシントンで攻撃計画か 米高官標的に汚い爆弾 (2026年11月17日掲載)",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tYnpiVnBvN1JZS0pXZ3BXejJvVFdTTVduQlJ0WmJ4WFFkZTJnUkR0YzhSTGlhXzZKVmdwVjlfREE2eDAxOVBpQjVQeWlaZ1hTUUFPZUFxdW8tVFlNM1E?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-17T20:07+09:00"
     },
     {
      "title": "バーレーン、イランの無人機攻撃を迎撃 革命防衛隊「米レーダー標的」",
@@ -123,12 +129,6 @@
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aN191NkdUa1pWNEhBVWNBTDEtaXJsNFdJNWYzVEdTVmUyMXl3Y3dXY0gxUFJMS1ZlQ1lIaVZGT1pkajBseGF3SDU5OXRmVDl6RThSODF1aGgxTGR6Qm44SlRBZTBQc2VwN3M5SE5iMzg5V29nUUxfRNIBfkFVX3lxTE16VHdrUFdIbFc4Q2otSGM0aUlLdkI1a1dsWTBjQkVjNndfRncyVjRKVFZNWldxOVBZUjZacGVBRmZkcUs1OU5rNFBBN1BhcWFDaGRFQlJuY0xZSklmanFUakowcW5LRElPaE5RZEc4V1JSOFVxRE5QWFd1NTNFZw?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-17T18:51+09:00"
-    },
-    {
-     "title": "イランがバーレーンの米軍施設再攻撃 4日間で3度目 ドローンによる領空侵犯に報復｜Quebee キュエビー",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44YXY0MTI4dFpoQXVnVGlrVEZCS1BiWTFWM1NpaXdfb2ZUR25PTldNR05YSXNCUjBlUE1ING1UMXRFVXJ1MFV3Z2pVOEd2OVh5TVVQM1ZGWnk?oc=5",
-     "source": "QAB 琉球朝日放送",
-     "at": "2026-11-17T18:32+09:00"
     }
    ]
   },
@@ -179,9 +179,9 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "高市総理は中国首脳と“接触なし” プーチン大統領とは初会談の可能性 史上初の米中露会談まであと2日 金正恩氏の中国訪問は？",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHQTBLdkk1ek1CVjNIejB5bTdoeUp0Y25mNmF5ejdhVDlFMlFLOGlrbmZSeEJVZ1dtUkoySGlDclZzTlFEcHdfVnh6MWdUT1VPRTQ3UEcycmFRckNYTXhzYVVvVldRdkxWVTM3RnJ3?oc=5",
-     "source": "au Webポータル",
+     "title": "高市総理は中国首脳と“接触なし” プーチン大統領とは初会談の可能性 史上初の米中露会談まであと2日 金正恩氏の中国訪問は?（FNNプライムオンライン（フジテレビ系））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GWFJSbUp2a0p0RDBOYWQxMDNtdnRvRVVzTjN2dllLUnFkZG9ZZlQwYUh1Qzh3VnBUakdJTWFjRTJ1NXRobGt6Z0hQTjl3eGktTFJpbm1IcjlVYW1nMThzcHlfb0ZXWF9xaDlBbDlYUXB6bDNUc05iY2dCa0ZOaGc?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-17T21:02+09:00"
     },
     {
@@ -375,6 +375,12 @@
  ],
  "cyber": [
   {
+   "title": "１０月に誤報で取り消した緊急地震速報、原因は二重のシステム不具合…対応完了で解消",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wdmQ1NUZmdkJUc2xCa3E2YXRwT0JtR2FFYW9MN0NONmxYRzF6clBJQVRzNHNIZWZVSzhRMkNoY1FhMzUtYzNTYkhUd1RqM3E4RGdHRFRHNF9hbnZtSHEtSUdPUXJ4dw?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-17T21:06+09:00"
+  },
+  {
    "title": "障害多発のドコモ、総務大臣が「大変遺憾」。今月3回の短期間、毎週連続の通信障害",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oQlZfWmN5LXNDdUl5TEhSQVFvSkMzS0ExUFdOM1RvcENJc0c4S0F1c0ZCbGdrWlVoNTV2T2hYamVuREtOTnRjYXYxRGJLSDM2MkM4TDc3MGpFUGxydHVSNmFMNi00eWdfQ1pEcHJfNktzSU9mWTRVckpqY9IBgAFBVV95cUxNczRPOTBKYkZhQ09IUDRpN0ozX2I4bDg3eFlVYWtMVWpEVjcxQ1h2dmZ6Qi1XODdPWWlCSEI5Sm1sM3AtS1JXVUlZMkdIOVQ2YzMzeTZvOHNZYnRLMTlrZkJtVE5HbEJwQURFcDdzOFA4SG56d1B2RXZZNkNHNm9oRw?oc=5",
    "source": "すまほん!!",
@@ -393,16 +399,16 @@
    "at": "2026-11-17T19:00+09:00"
   },
   {
-   "title": "メルカリ、Android版がダウンロードできなくなる不具合　Playストアにはエラー画面、削除しないよう呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UU2xvVTB6OXRhTzJnZlZLV1pJWFBuZGRUOFJiVUhDay1wNlF5VUExZW5scnI1VV9FUXZBWURHRXdBbnlUeGRTQjBTbUNsdS0yZFN2RmYxeGJ5VVpHaUJ1cUVkUHVSNUXSAWdBVV95cUxPVFNsb1Uwejl0YU8yZ2ZWS1daSVhQbmRkVDhSYlVIQ2stcDZReVVBMWVubHJyNVVfRVF2QVlER0V3QW55VHhkU0IwU21DbHUtMmRTdkZmMXhieVVaR2lCdXFFZFB1UjVF?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-17T18:56+09:00"
+   "title": "能美市委託先で不正アクセス被害 メール配信サービス運用会社「アララ」、メールアドレスが漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DcVpYRktXRlNiZjRJQ1BPVGVQYlFZRHEzdktqTm9fbUYtcnhFTC02TV9xYVNDTXNHVjZ4NFlwTlNUSWxJNzJvM1k2OXpEYktRODR0SA?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-17T21:16+09:00"
   },
   {
-   "title": "メルカリ、Android版がPlayストアから消える不具合 新規ダウンロード不可に、削除しないよう呼びかけ",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wSzlNMVBTSmFicHhZTlVFSG83ZGc5My1zX1JDcXFueG5Pa2ZJMHVBOW9NRTJNa0hpNlF1U0FkNjVhWk80QmxENE1JWQ?oc=5",
-   "source": "オタク総研",
-   "at": "2026-11-17T18:56+09:00"
+   "title": "札幌ステラプレイスとアピア、クリスマス抽選中止 準備中に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oMl9yUXpObC1HSkF3ZmtqaHRKMFlvRWdSbzVsWUJjNTJWTjVVdWduTWMyUkk2dWlIa29aVzZUNmpHTlQwR3I0V0Y4dw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-17T21:16+09:00"
   },
   {
    "title": "「先月末ごろから爆発的に売れ始めた」 相次ぐ不正アクセス アナログ回帰で“パスワード管理ノート”に注目 山梨（UTYテレビ山梨）",
@@ -411,22 +417,16 @@
    "at": "2026-11-17T21:00+09:00"
   },
   {
-   "title": "楽天証券、不正アクセス 1572万口座情報流出か",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sclRZMlBXSDh1aE1pM0Z4bDBtWVlWYWJtbnVIbWVxWE81dkVsb01aeFJOdHpJSnV2Qi1UQUxaUHBjR1ZqY2w5cDZ6RE5Xc0JiUjh4VXpiN0tMT0hITVBVN3lfbHUyYl9FVC1ocjhxMGVMSk8wOVE?oc=5",
+   "title": "楽天証券、不正アクセス　1572万口座情報流出か",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sclRZMlBXSDh1aE1pM0Z4bDBtWVlWYWJtbnVIbWVxWE81dkVsb01aeFJOdHpJSnV2Qi1UQUxaUHBjR1ZqY2w5cDZ6RE5Xc0JiUjh4VXpiN0tMT0hITVBVN3lfbHUyYl9FVC1ocjhxMGVMSk8wOVHSAYoBQVVfeXFMTW51bW1QS3RRNWc3MzUwRlNBUzJpT0stZktXaUFFSTdlSUlhLWc3QzRpVjZ6VjlzNjczcmpERVZCQS1tSTVyN25zVGxiYy1Ba3JIM3R3ZmtsWktrRWxNblVqUDdWUHl5TjRmTXk2Wk5GUUlUa2tiTFFmSzJ0QjdqU1RrczJvX1h0Z213?oc=5",
    "source": "サンスポ",
    "at": "2026-11-17T20:51+09:00"
   },
   {
    "title": "ミスドネットオーダー、不正アクセスで一時利用停止「再開時期につきましては改めてお知らせさせていただきます」",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CLWl1d09PYThFY0MwVHdsN1ZZRG5fVl9HUnIwOXJielR5bEtLdG80SVZCOEZobDg5Tml2Mmp1bGJpYk5zcjRNemZJUy03a2J5emUxWm0zdXM?oc=5",
-   "source": "東奥日報社",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CeHZXM3hKMjVncGFoUmlXcWt3THNOeC0wR2p3TFFBdmFTRmJBWVZTU3JocVdYTXliNXowTHZXSklUSlFMTmRMd0NpV2lzQXVYMWVCZ3pUdVRuek9lbEE?oc=5",
+   "source": "福井新聞社",
    "at": "2026-11-17T20:36+09:00"
-  },
-  {
-   "title": "｢富岳｣に不正アクセス…他のスパコンは大丈夫？名古屋大学では｢不老・弐｣が運用開始 研究成果を守るためには",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RMHVSTVR3cUxRLU16ZTBnekN6b0c4UDl0cmh0MUVZMmwxUUVjeHd4cVRYQ2dHeTBiU0dJbHJBM0tiei0xZ0ZOQW40V2t2WDIyaWZEeEZvLXdWZnRBanhn?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-17T20:34+09:00"
   },
   {
    "title": "良品計画、株主優待を紙のクーポンに 不正アクセス受け電子から変更",
@@ -447,10 +447,10 @@
    "at": "2026-11-17T20:22+09:00"
   },
   {
-   "title": "札幌ステラプレイスとアピア、クリスマス抽選会中止 不正アクセス判明で",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCRktSRzFtcU9Edl9YNm1ybWpHbmZBcXlqSk9JamcxeXI2NHV3cGVFWUp2YWg1cHcyR3JWYzlZV1NJMlRqcjNtSlhqaVM2Mlo0TVJweC1MQnRhQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-17T19:59+09:00"
+   "title": "｢富岳｣に不正アクセス…他のスパコンは大丈夫？名古屋大学では｢不老・弐｣が運用開始 研究成果を守るためには",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Hd0FRTDlWcW90SEg4MnU3S0lIVHNfYUVOQjdRODNyUHFrTFZxVkdWN21qcmNYTlMwbUdoZ0htem0weVZCRzlCM1dod2FNWGlqQmlWVXVTYjdVdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-17T20:20+09:00"
   },
   {
    "title": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ",
@@ -468,9 +468,9 @@
  "osaka": [],
  "world": [
   {
-   "title": "高市総理は中国首脳と“接触なし” プーチン大統領とは初会談の可能性 史上初の米中露会談まであと2日 金正恩氏の中国訪問は？",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHQTBLdkk1ek1CVjNIejB5bTdoeUp0Y25mNmF5ejdhVDlFMlFLOGlrbmZSeEJVZ1dtUkoySGlDclZzTlFEcHdfVnh6MWdUT1VPRTQ3UEcycmFRckNYTXhzYVVvVldRdkxWVTM3RnJ3?oc=5",
-   "source": "au Webポータル",
+   "title": "高市総理は中国首脳と“接触なし” プーチン大統領とは初会談の可能性 史上初の米中露会談まであと2日 金正恩氏の中国訪問は?（FNNプライムオンライン（フジテレビ系））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GWFJSbUp2a0p0RDBOYWQxMDNtdnRvRVVzTjN2dllLUnFkZG9ZZlQwYUh1Qzh3VnBUakdJTWFjRTJ1NXRobGt6Z0hQTjl3eGktTFJpbm1IcjlVYW1nMThzcHlfb0ZXWF9xaDlBbDlYUXB6bDNUc05iY2dCa0ZOaGc?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-17T21:02+09:00",
    "topic": "北朝鮮"
   },
@@ -496,10 +496,17 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55TURYa045bjVrazN0NlVhLTlDRGVEMnFId3FSUWtEMGRRaTRFN193WXlCT0laRmFfSmdjZURhOWlmMXRKVEt6NkRUR2RKQWtPRHR0WDdEZ0VBdUt5YnlDWHFxdkx4YmxkZ21lWkNlM3IzNUFwcFJ1QVhYa2xHYWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-17T20:08+09:00",
+   "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SkNRbjFqSWs4R0ltMXhBaU00bzFQY0ZrMkZlbEdld2VncXc1WmRhaWhpa2xlYnNCMTZ0amJYNXhQSlZHdTVtNFBmX2toZ19PYTlHYUQ2OFYzYWFrR3kyb0k1UVM4WFNfaTVhM2FR?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-17T20:09+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イランがワシントンで攻撃計画か 米高官標的に汚い爆弾 (2026年11月17日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tYnpiVnBvN1JZS0pXZ3BXejJvVFdTTVduQlJ0WmJ4WFFkZTJnUkR0YzhSTGlhXzZKVmdwVjlfREE2eDAxOVBpQjVQeWlaZ1hTUUFPZUFxdW8tVFlNM1E?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-17T20:07+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -566,13 +573,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "イランがバーレーンの米軍施設再攻撃 4日間で3度目 ドローンによる領空侵犯に報復｜Quebee キュエビー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44YXY0MTI4dFpoQXVnVGlrVEZCS1BiWTFWM1NpaXdfb2ZUR25PTldNR05YSXNCUjBlUE1ING1UMXRFVXJ1MFV3Z2pVOEd2OVh5TVVQM1ZGWnk?oc=5",
-   "source": "QAB 琉球朝日放送",
-   "at": "2026-11-17T18:32+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "「金正恩氏とも会談するかも」トランプ大統領が中国で明かす 米中ロ首脳会談での金正恩氏の同席は「習近平氏次第」 会談後には“なんらかの共同声明”発表見込みも",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wZ1QxeVh5Mi1zeGlfajYwQ3FsVk1WMkxYY1l6eHlMWDktOTBoSXFOVEhxRlRYVm1RMWRIVllHNnhkdVZNTnlQdGd6WFRJSWNOSUZqamFoRQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -624,17 +624,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」「空爆」6件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
    "items": [
     {
-     "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道（FNNプライムオンライン（フジテレビ系））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55TURYa045bjVrazN0NlVhLTlDRGVEMnFId3FSUWtEMGRRaTRFN193WXlCT0laRmFfSmdjZURhOWlmMXRKVEt6NkRUR2RKQWtPRHR0WDdEZ0VBdUt5YnlDWHFxdkx4YmxkZ21lWkNlM3IzNUFwcFJ1QVhYa2xHYWM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T20:08+09:00"
+     "title": "イランがワシントンで「汚い爆弾」攻撃を計画か トランプ政権高官が標的 CNN報道",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SkNRbjFqSWs4R0ltMXhBaU00bzFQY0ZrMkZlbEdld2VncXc1WmRhaWhpa2xlYnNCMTZ0amJYNXhQSlZHdTVtNFBmX2toZ19PYTlHYUQ2OFYzYWFrR3kyb0k1UVM4WFNfaTVhM2FR?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-17T20:09+09:00"
     },
     {
      "title": "中国が公開した「ステルス攻撃無人機」の最新映像…尾翼のない異形の機体、内部には兵器倉も",
