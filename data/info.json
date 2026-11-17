@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-18T06:45+09:00",
- "errors": [],
+ "updated": "2026-11-18T07:00+09:00",
+ "errors": [
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -221,21 +223,27 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "米、ロシア内陸部への攻撃批判 独「ばかげている」と反論 | | 全国のニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4ZHpqTThHMmRmWnRKNDFkSHNxOWZqOHByVHJjM3pKbld0cklIOUVwUDBra240MjRZN2NxQ2pKNExZU1k4RmlsTGtTenpLM29FNGx0dkln?oc=5",
+     "source": "佐賀新聞",
+     "at": "2026-11-18T06:48+09:00"
+    },
+    {
      "title": "ロシア占領10集落で人道支援を ウクライナ、米と協議へ",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tYnRKQ05jSVc2V1FZOWJ3bEdmbDFuMEgzZGtFMjByN2Yta3JEQzNOWkxKQm1yQjU3VlY4SktKR25YdDhURllCNTByUFNpXzZub0dEelBuR2pPZw?oc=5",
      "source": "北海道新聞デジタル",
      "at": "2026-11-18T06:39+09:00"
     },
     {
-     "title": "ロシア占領１０集落で人道支援を ウクライナ、米と協議へ | | 全国のニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LeGQtNVdnU0Q4WmwwZWhuMFUwYzE4UWN3LXlnd0J2QlJHV0wzQU5Nb3c0ZUZEbGYwUlJoSk9oYXdvT2Z3UlVUaElkV2dYeTFaa243OVRR?oc=5",
-     "source": "佐賀新聞",
+     "title": "【写真】ロシア占領１０集落で人道支援を ウクライナ、米と協議へ",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1SWlmcE1EVF9hUS1HZ0k5RGNxSVVfREt5NnllYUtsUV85bU1kTkZNN2RMa0FWWWd2WjhTWjVwVzVDOE42dTNsQnBvLTRkMkNYbVFDNGUxMzFBcUlRRERDRU1SQ2ZhZkpy?oc=5",
+     "source": "南日本新聞",
      "at": "2026-11-18T06:33+09:00"
     },
     {
-     "title": "ロシア軍の重要な飛行場で「すさまじい大爆発」夜空を揺るがす攻撃の瞬間がSNSで拡散",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pNk1EVHMtWXBiUW9rVlJSc0J5aVA2RWpxM2JEVkI4aDRRNGQ5RlJKenR2UEZhSFRGZ3lWcmlRUkFBNGVVRmJDd190RWFMbGIzcHYxVkZRb012TFAwV0NHQ056Z1BsdnpCSGtyTTNn?oc=5",
-     "source": "au Webポータル",
+     "title": "ロシア軍の重要な飛行場で「すさまじい大爆発」夜空を揺るがす攻撃の瞬間がSNSで拡散（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12T3FPN2F5VE1WV0N1OVF3RTZ6LXp3dUdNeDlZdkk1TUliWGVSenZ3b01yblJINDBWMkdoLWozZkc0YTIyclk3YzJ3?oc=5",
+     "source": "乗りものニュース",
      "at": "2026-11-18T06:12+09:00"
     },
     {
@@ -249,12 +257,6 @@
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUVGk3dmxkV3M0MUc0ZlFHWnNiVVlPTWVRT0RXTl8wSm84WFhHYTRSbUp0U29GeDNNLWx3RjVjaDJYYU1ySnkyTzRzOEphTXBfcmUzUUlkREhxVDhlb3lSYXN3Z0REX3B4U0VFMHdDSdIBdEFVX3lxTFB4ckJoSkVlclRFQVNFd1ZqM0Mycl91Q2V3UUstU0FqV2Y1YXp6X1pwd2gxLTI3NDEtenpGTldVeWhyRmcxRTc4M3c2MERrM2lrbmRhWkRvMGhYSUNqQ3o5OGFLa1lSVGFZUXJPZWdmTFZWbG9T?oc=5",
      "source": "Infoseek",
      "at": "2026-11-18T05:58+09:00"
-    },
-    {
-     "title": "クリミア半島とロシア本土結ぶクリミア大橋、ウクライナ軍の攻撃で一部崩落…軍参謀本部発表",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQk9qT1I5TU9ZdXpZWXBNLXRnQ2hHVTNkVUZtV2RkeXNxVkJWRDVYNDBZdUY5SkRfZE01b2tsSGtmeGdWaVZQRGVTbkVjVGpVUVU5RG53N1gwRXQ5djJRWWFn?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-18T00:59+09:00"
     }
    ]
   },
@@ -349,6 +351,12 @@
  ],
  "japan": [
   {
+   "title": "北朝鮮、弾道ミサイル数発を発射 日本海へ、２５０キロ飛行",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tdHpDOVpXT0M1dG1zUGRXeFl2MUUwVHdaR3Z2MV9fTUp3YU9JREtlS3pmQkFhaUtzN2hCUFVTLXBwaTRtU0d2M0VpUUg5M2JKSWJaTmtQaFhHX1VCMUowb1h3NjFuNzh1YUJ1TV93bw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-18T05:42+09:00"
+  },
+  {
    "title": "北朝鮮、ロシアに毎月数十発の弾道ミサイル提供…性能磨く",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXczWEFqU1hESFc0YXpCY0xZNU5RWXpEVVFRbXptejRiLVJDcjIwZmkxbjlZdjdwenhwS0R5eDA4Zjcya2l2aFpmMUNmSTJlS3puSDBndnpJd2NRTVNaancySWZHbEhWMzQzbW9WN2xYTW4wcVc5Y3JKVFVFODl4SElqa0QtMVFX?oc=5",
    "source": "조선일보",
@@ -362,6 +370,12 @@
   }
  ],
  "cyber": [
+  {
+   "title": "Apple、日本時間18日未明に障害。iCloudサインインや店舗決済が一時不可に、原因は内部更新",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZVldJYlpkS1VKUmVVaTZBTUVoWFdtdnRjSHdmZGdaT2dXOHJxS1dBeTRGVkU4akdncHJNdVZvcjNyTTB5NC1FLVJkZDJPcXNs?oc=5",
+   "source": "ゴリミー",
+   "at": "2026-11-18T06:51+09:00"
+  },
   {
    "title": "アップルのiCloud・Apple Pay障害、仮想通貨購入にも影響",
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9RMlA0cFVPVHNIM1EyQ1Bja21lSVBkd3VIYkluVWp5T3Z4QXVIdll6STU3cDhCN0R0TnFETWR0NTdYRE0?oc=5",
@@ -379,12 +393,6 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yb3d5MXFtSkhKdWFlQ0hoUWJPWFJlYmo5dFJDZHQzdmFGTDMxZHN2RFBQaHR4YmFqXzJBRWVJWHllQ3RrX2lYSw?oc=5",
    "source": "スマホダイジェスト",
    "at": "2026-11-18T06:05+09:00"
-  },
-  {
-   "title": "米NSA通信網に障害か 機密情報を送受信 サイバー攻撃の証拠見つからず",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaYXN4RGlrVEJxeEF2blJ4RzBGc1dQbWFJZkpEWG1RVUJ3bzBTamdRc0RGUndVem43Y0lNNHFYNjU3MWFxN1lFQWFCbGxJV1duQ3RTX0MwbDZuMG9mVDJqeXdpRXBxOF9rMW9lM2Z4bjhJN2hhR0E?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-18T05:45+09:00"
   },
   {
    "title": "アップルサービス障害でApple Payが停止、暗号資産の即時購入が不能に",
@@ -423,38 +431,45 @@
    "at": "2026-11-18T03:57+09:00"
   },
   {
-   "title": "NSA機密ネットワークの障害、サイバー攻撃ではなくソフトウェア更新に起因(トレーダーズ・ウェブ)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnoxN01HOTNRb0ZXcjdoOWZ1bDZXMlhqUjcwak9WWlQ2RVNzNXhYUHJJWWhYZHkzeko2RFRVWXNyYXJNVkU2XzRVRGlFTW5JVDc1Q0lsWEVWYnlxR25WQUZrUm5lUFBORjd0UFFUeTFoNEVRdy1SZVVmTlo3VXl1MHdLMk8xaGs?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-18T02:08+09:00"
+   "title": "米国の相次ぐシステム障害、原因は老朽化 サイバー攻撃を否定",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiR3hrLUd2SmlYaWJadmM5YnB6VFY5Ynl0OHdFakhqd25EV3RZSDQzMlBFaGZ4eW9TRkZ3ejJJR2c4Q2RlRTNRdzU0Tk85cmFDYXo4dl9ncWtqb1FIckN6UmZvVFZxa0JqQi1BeDBqcDExY2Et?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T03:55+09:00"
+  },
+  {
+   "title": "米システム障害、原因は設備老朽化 サイバー攻撃でない＝国土安保長官（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCU21EN1hycUo5anYtdzlfTWJqSjhhS2dyQUFlUXhIRjVyek5wMFpwM0FVb1NqVmlNVks1NFhjeW9IOXRMSFBQNHR5aFJNdXpWbDJKUEpOT3lONjRiaG45eWc5X3RGOW5ybW4tNFFEUUJkNVlnUFlyQ1pqekZpeEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T03:32+09:00"
+  },
+  {
+   "title": "マイクロソフトで大規模な通信障害 世界各地でOutlook使用できず…",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EbDNFeGh3M0llSFBXTE5kNU04dUsyT1pNd083N1VCbEpBWExMX0g5cHN4R0M1MFM5eXhxRE0xZzhZWXk5aVVGYUczWmY4ZThVZzJIT2lHTlZMWDQ?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-17T21:55+09:00"
+  },
+  {
+   "title": "スーパーコンピューター｢富岳｣に不正アクセス 個人情報漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04aWJXRTF6WUQzRjNKTWxYbllvTmtLWjhKVEdoSEFlRjVuZ29CenF5azFkX3l2RW1SVjFuS1c0SkhvTHpTNFRzT3ZHeDVCYmRjYnZVdXBQSnFFSFJU?oc=5",
+   "source": "- 神戸経済ニュース",
+   "at": "2026-11-18T06:53+09:00"
   },
   {
    "title": "しまむら、約700万件の情報漏洩の恐れ、子どもの生年月約5万件も漏えい プレイド「KARTE」への不正アクセスが波及",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHRJeWN6RTVNUkNraWdrSk01UFJIcjN6OHc0YnlmekctR0hnR3ZjY19HVzZDQ3VodHdnOHZ6bUpfSVU3amZObU9DbUJ4NEhHUTZUdkVCVW8xcVA5YWp1YzZyOTRyUTZhbUpuRWY5N1Myd1ZGODB1NGpxZWtoN0JFRjNLaU5BTVV5eElLOUV4aF9JWU16MzltMmEwQnZlYW1JUk1FTjB5UUxQOFY2RWNkOFROeDJBM2hZTXIzdTVCdw?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-18T06:39+09:00"
-  },
-  {
-   "title": "ゴルフダイジェスト・オンライン、最大697万4,506件が情報漏えいの恐れ、KARTEへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVhrU2NQbnJzc3k4bWtmSXZIdG5vVjc1ZVh4RTFOek5UY3pQUjNnT0pTZW40cWRqWDRDcVpWY3o3eXFZZlZ2aTZxM0NaTGpBT0V6Ri1ycTJVYnpSWmpab0FZWFNVc3pSMFdGVVNrTEttaTVFcHVyQzAtSllTYmZsY1lRdW1VQWZxd2JOdHItb01zZW8yZUlmcGlXQjBqc05kbVZEMjJGVEVWb3dNLXNITzZycHV3dw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T06:36+09:00"
-  },
-  {
-   "title": "楽天証券に不正アクセス 最大1572万件流出か（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16S3k2aVVzRDJhSkFtdzF6WXBiOTRtZW9FY0VPdkRjUjFBd2tlNVlGNWRKTzlqOEQ3cjI4WmZkTUR4SkZWRkpFSndtX2pWMkdpUGhqSEhsNWtVMDBmRzN3UGdwam1iYlYtbmZQUGI3dVdoNVh5Y1JqN20ybERPYm8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T06:35+09:00"
-  },
-  {
-   "title": "楽天証券も不正アクセス。資産を守るために確認しておきたい設定",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0hSNmdDTDB0cGVleld0STRDNF9jQW5TbDJJUGEzZWpUaWU0cmlMTHNsUXdPWW5uTDB4VllBNGtDTW5sM0F2MHRJT2ZlMEZSd19kM2lsYjFPSFhfNFMxTWpCTEJ6NEtSRkpEOGFrOURaRXpsRlJVZlNMZ3JQVzJrbG9NTUYyNkVWelRoT2RWNkJrNzV5dGdJeA?oc=5",
-   "source": "Gizmodo",
-   "at": "2026-11-18T06:35+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米、ロシア内陸部への攻撃批判 独「ばかげている」と反論 | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4ZHpqTThHMmRmWnRKNDFkSHNxOWZqOHByVHJjM3pKbld0cklIOUVwUDBra240MjRZN2NxQ2pKNExZU1k4RmlsTGtTenpLM29FNGx0dkln?oc=5",
+   "source": "佐賀新聞",
+   "at": "2026-11-18T06:48+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ロシア占領10集落で人道支援を ウクライナ、米と協議へ",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tYnRKQ05jSVc2V1FZOWJ3bEdmbDFuMEgzZGtFMjByN2Yta3JEQzNOWkxKQm1yQjU3VlY4SktKR25YdDhURllCNTByUFNpXzZub0dEelBuR2pPZw?oc=5",
@@ -463,9 +478,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア占領１０集落で人道支援を ウクライナ、米と協議へ | | 全国のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LeGQtNVdnU0Q4WmwwZWhuMFUwYzE4UWN3LXlnd0J2QlJHV0wzQU5Nb3c0ZUZEbGYwUlJoSk9oYXdvT2Z3UlVUaElkV2dYeTFaa243OVRR?oc=5",
-   "source": "佐賀新聞",
+   "title": "【写真】ロシア占領１０集落で人道支援を ウクライナ、米と協議へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1SWlmcE1EVF9hUS1HZ0k5RGNxSVVfREt5NnllYUtsUV85bU1kTkZNN2RMa0FWWWd2WjhTWjVwVzVDOE42dTNsQnBvLTRkMkNYbVFDNGUxMzFBcUlRRERDRU1SQ2ZhZkpy?oc=5",
+   "source": "南日本新聞",
    "at": "2026-11-18T06:33+09:00",
    "topic": "ロシア"
   },
@@ -498,9 +513,9 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシア軍の重要な飛行場で「すさまじい大爆発」夜空を揺るがす攻撃の瞬間がSNSで拡散",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pNk1EVHMtWXBiUW9rVlJSc0J5aVA2RWpxM2JEVkI4aDRRNGQ5RlJKenR2UEZhSFRGZ3lWcmlRUkFBNGVVRmJDd190RWFMbGIzcHYxVkZRb012TFAwV0NHQ056Z1BsdnpCSGtyTTNn?oc=5",
-   "source": "au Webポータル",
+   "title": "ロシア軍の重要な飛行場で「すさまじい大爆発」夜空を揺るがす攻撃の瞬間がSNSで拡散（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12T3FPN2F5VE1WV0N1OVF3RTZ6LXp3dUdNeDlZdkk1TUliWGVSenZ3b01yblJINDBWMkdoLWozZkc0YTIyclk3YzJ3?oc=5",
+   "source": "乗りものニュース",
    "at": "2026-11-18T06:12+09:00",
    "topic": "ロシア"
   },
@@ -587,13 +602,6 @@
    "source": "Meta-Defense",
    "at": "2026-11-18T01:08+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "クリミア半島とロシア本土結ぶクリミア大橋、ウクライナ軍の攻撃で一部崩落…軍参謀本部発表",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQk9qT1I5TU9ZdXpZWXBNLXRnQ2hHVTNkVUZtV2RkeXNxVkJWRDVYNDBZdUY5SkRfZE01b2tsSGtmeGdWaVZQRGVTbkVjVGpVUVU5RG53N1gwRXQ5djJRWWFn?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-18T00:59+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -606,7 +614,7 @@
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（北朝鮮、ロシアに毎月数十発の弾道ミサイル提供…性能磨く）"
+    "弾道ミサイルの報道（北朝鮮、弾道ミサイル数発を発射 日本海へ、２５０キロ飛行）"
    ]
   },
   "world": {
@@ -624,10 +632,10 @@
      "at": "2026-11-18T06:12+09:00"
     },
     {
-     "title": "ロシア軍の重要な飛行場で「すさまじい大爆発」夜空を揺るがす攻撃の瞬間がSNSで拡散",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pNk1EVHMtWXBiUW9rVlJSc0J5aVA2RWpxM2JEVkI4aDRRNGQ5RlJKenR2UEZhSFRGZ3lWcmlRUkFBNGVVRmJDd190RWFMbGIzcHYxVkZRb012TFAwV0NHQ056Z1BsdnpCSGtyTTNn?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-18T06:12+09:00"
+     "title": "米、ロシア内陸部への攻撃批判 独「ばかげている」と反論 | | 全国のニュース",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4ZHpqTThHMmRmWnRKNDFkSHNxOWZqOHByVHJjM3pKbld0cklIOUVwUDBra240MjRZN2NxQ2pKNExZU1k4RmlsTGtTenpLM29FNGx0dkln?oc=5",
+     "source": "佐賀新聞",
+     "at": "2026-11-18T06:48+09:00"
     },
     {
      "title": "欧州の学校や空港を襲った偽爆破予告、1カ月で8000件 : 国際 : 財経日報",
