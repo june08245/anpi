@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:00+09:00",
+ "updated": "2026-11-19T05:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T05:03:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.1",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T04:51:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -87,16 +97,6 @@
    "mag": "3.4",
    "maxi": "2",
    "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T04:20:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -210,12 +210,6 @@
      "at": "2026-11-18T17:22+09:00"
     },
     {
-     "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY00xN3JKLUFQN0dSUUJRbHJEd256TzB1Q19sdGxvbUNsM3VXbWNTZFBGZjFTZlB1QWlMVGg5U2YxcWZRcDZTTHFkLWRUbGJ2RWdmaHRFRnJvQUd4YllnbHJpdW1Rak5COGJRc25LZGV6Y3NKZU1peHEtd1l5NUFlMXcwVUM0eVFRTnRUdlB5YldDZEtURDA2Z1VXY2stQTEwdTFzZDFKSEFNQU9tOTRUNml1VEJjVGoyMWhqTk9EZHNtaGZxSmRxbkRUcWfSAXxBVV95cUxPRG54UTBmNGdsdmhwaG1ORm4tTGpPZE9zNXFESVlKWjNaTGdxeERyUFFjMWRQb08xU1J4NU5jcllDTHFYZkZxeWhEcHFhNTdDaG1oamwwT3ZzbS1JMHhsX3NmRFZJNnY2dXR6SmRDQVhVVm5VZEN3UGVuanVv?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-18T14:25+09:00"
-    },
-    {
      "title": "金正恩委員長の「金がない」一言で…北朝鮮核開発の資金源となったシリコンバレー (中央日報日本語版)",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
      "source": "Yahoo!ニュース",
@@ -226,6 +220,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T14:06+09:00"
+    },
+    {
+     "title": "ゼレンスキー大統領「ロシアは北朝鮮のミサイルに依存…ウクライナにも武器・技術支援が必要」（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMmptVmdvV2JMdjFsMzgyZ3Y2Qmk1cXhlMVFLSGVoVWVNd1JGVGJiU1JfR1VaM2dDd0JkSXlBTXJnOE9BcGNTeXZZMl9sSWVTUGFxek5zeURwZ0FrYnRfSFV5bV9oanZzcnZtUTBOaFhnNUZqMGtmem5VaVFFWjA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T13:43+09:00"
     }
    ]
   },
@@ -375,6 +375,12 @@
  ],
  "cyber": [
   {
+   "title": "相次ぐ米システム障害、急増するセキュリティーパッチ適用が一因か＝専門家",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEVWeXpfMThQajNwczRLdmNraFpsbHB3ME8tWnZWXzhUX2RxbXJMTHNDZHBSVTVMQk1FYWYtNUNhdmtZS2RSb29JMzlHMzl4YWpEVVpLR2VITUJTNldGSFpFOVhsYnpxWjJBQnJfbWxXUmR0R0JmVnNwUzNyMVlxNmFpaFU5Qk5wVlNLcENRUVhqR2VmN0lmSnpIeXRLeVBIYlFYVklWcDJWTGlTQmVzVjIzcks1SjdTTjg2YVlfdUlUcUU0Sk5ZNHZYYlExYUVqa0J3Umh0MNIBhwFBVV95cUxNV0RFOV9OM3daS2hNeTEybzFtaTltbHZJeF9UNlRfaTVHRDRlcGRFdmdTTUl4ZzdMQUowSVM2V3d4cHlpWUh2UEg0dHd3MEh1UHhUZS0zSUdPQXRkMXlQU1ZCUERZMWJMVDZYZjBkWENSdWhGRWg5V0lOc1Q5RXRiRWxfVVc2QXM?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-19T05:09+09:00"
+  },
+  {
    "title": "【イナイレクロス】バグ・不具合報告掲示板【イナズマイレブンクロス】",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRG1NQS1LcVZPQzU5T0x4MjZjQk5seDZzVWZCd050OEp6aWh2RHBJUWtETi1CSk1teEpJanZNS0diYkhxZWI2M0pKckFWTVhQemhLTw?oc=5",
    "source": "AppMedia",
@@ -393,10 +399,16 @@
    "at": "2026-11-19T00:22+09:00"
   },
   {
-   "title": "相次ぐ米大規模システム障害、脆弱性急増によるセキュリティパッチ適用の影響か？（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zcFhQVUsxS2ZSZTZoYUQ0aVZSOFlnai1PTmlYRXl2UDMtQ0hFTWg1Y3NnZU4zUk9TVHZVaC1HMDR0Vl9VM1JXMndEYlRsVDFSNU02dDdSZEp1QUlsSGdQLTRNQ2ZWUE5rNWJkeU5HSkhPNVphYWxZaHF0S3A5aUE?oc=5",
+   "title": "クラウドサービスで大規模なシステム障害で、どのような影響が最も気になりますか？(みんなの意見)へのコメント",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeE95SXlhb0dSOUhyZGppTkpLWTNpbEtwYnNWbjFaV0hHZ0JJMVN5dnBaRUtoREE0RGxkMkxPZXQ0aW01LVUwUjhER3k4V1QtaGFfSkQ2alExdGZ1WDVNQUFUSThTNmNhVjlkamZodFplWnFSYVNvWVBSYjBmWTNKYmVTS2x2UjVRaDNTUg?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-18T22:25+09:00"
+   "at": "2026-11-18T23:28+09:00"
+  },
+  {
+   "title": "県文書検索に 不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0UHlEZGNBcGlFbGRBLVI1Yjhvc2RRb0RoWlV6aEgxOEg1MnQ5Skg4Tzg4cDhQVmZzTTJjNzdPN1Nvb2NjTko1andBU1FXU05KbmpVV0MtcHF3OFFpb1pJQw?oc=5",
+   "source": "琉球新報デジタル",
+   "at": "2026-11-19T05:00+09:00"
   },
   {
    "title": "サイバー攻撃増加に関連して上がりそうな株は？ 投資の達人に聞く",
@@ -423,6 +435,12 @@
    "at": "2026-11-19T01:12+09:00"
   },
   {
+   "title": "家庭用機器が“勝手に”サイバー攻撃 中国企業が「不正ソフト」入り機器を出荷 Wi-Fiルーター“乗っ取り”でカード・口座情報「覗き見」も",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDVFpISUFmMmxJdlZVeF9FRlg1S0tyNjhHVkFiUHd0amZfQnB4M09hb1NERl9WclJpcEZsd2txZEk4VmpOU2JtMEV3RHRqQlA1VFJBYklWOHlBUVhn?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-19T00:40+09:00"
+  },
+  {
    "title": "仏、冷蔵庫へのサイバー攻撃でイランを非難",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tM0tla2k0WXBETFVUQlk5Vk1UVVRFbUxtODJ5Z3NqaGtVSDk3blB3SWFFdC1UODBha1dtX3NvbGY1R2lsUjljakR0c2ItS2hrb3plNjFn?oc=5",
    "source": "朝日新聞",
@@ -445,24 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMmxFTko4LV9KU1ZiNmdzUEJJVHZiV19VdEhZZmwwXy1MZERheUl6ZldaN3Ryc2MzVXRNXzJXQlpxdWdZYjJJS3R2d0ZLcnlQZXQyQ3dBVWpvZGRHMFVtV3psWmw?oc=5",
    "source": "読売新聞",
    "at": "2026-11-18T22:33+09:00"
-  },
-  {
-   "title": "楽天証券の不正アクセス、テスト環境の顧客口座や年収や金融資産まで漏えい（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSXZDMEpCbjROYjVBTjZKckdQb21GeGdnS1BOa2dkUzRJWUxvRGpHMXZuOGlhS1VlRS1SaTlwdnlsZ19SRUp5bXUxN3VFS1o1SzNDMlNLbmE1Ql9oUnFvWE9faWZKbVpCazBoVWtFQWk5MWtZR3JuVEIwaGh2V0R5djk0Y3U4VTZL?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T22:30+09:00"
-  },
-  {
-   "title": "エア・ドゥ、約2520人に影響か アマデウス不正アクセス（Aviation Wire）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CblNuN0RmRTM4ZEt3cmdmZjVZbVNSWGVLLXNBWVhyS2Jxb1oxandTa0JkUTVCbktxcGpDb2NtX0FOLTVscmdRZ1M5bEpFY09LWURTOXpZUGowaU5XeXpxZGYyWVFhbW5wLXFqUjZIeDJMUzRubjI4ak40aVpKM0k?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T22:30+09:00"
-  },
-  {
-   "title": "大崎電気工業にランサムウェア攻撃 スマートメーターの生産停止 [情報漏洩・個人情報流出の最新ニュース]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aaklMQXh2SUhyRFNMMzBpcFhHZElVQmRKRktERE80YUJRY0V0WTB0eURYUHVSOWNtVkRtSnIySWRia2tKLUVFcXJ3Yy1Jd0M4WmpIdDRvV01HaklIWTZqbHd5eHF4S0E?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-18T22:27+09:00"
   }
  ],
  "osaka": [],
@@ -626,6 +626,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「封鎖」1件",
+    "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「爆破予告」2件"
    ],
@@ -643,10 +644,10 @@
      "at": "2026-11-18T07:31+09:00"
     },
     {
-     "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NcTdlc3ZERTUxYXJSWUU0c09lYWxpalpTR3ctdGE3QUZPdGlqT1NMbFBITUt6YjdhRjNHVDMySGVLTm1xUVNKODF6RVBVbVBLWVdwTEJ4NHZHNWtBb21YSEdjdWJpMndfQ05CVTM2YXg5d9IBd0FVX3lxTE5LS0hlRUd6WkFJbk1YeW04MnFZSW01NWxQOW5sZWlYbDJNLVl0UGJoNkxOODFMMVd0RWRyeGg1a2pHaHM0ZXh5dms3eWhFSnRMQjNLcDZsMEZ4bnZMRmwta1NuU2ttY2ZJbWRXNGlOWXJHT1NmZG04?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-19T01:54+09:00"
+     "title": "ゼレンスキー大統領「ロシアは北朝鮮のミサイルに依存…ウクライナにも武器・技術支援が必要」（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMmptVmdvV2JMdjFsMzgyZ3Y2Qmk1cXhlMVFLSGVoVWVNd1JGVGJiU1JfR1VaM2dDd0JkSXlBTXJnOE9BcGNTeXZZMl9sSWVTUGFxek5zeURwZ0FrYnRfSFV5bV9oanZzcnZtUTBOaFhnNUZqMGtmem5VaVFFWjA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T13:43+09:00"
     }
    ]
   }
