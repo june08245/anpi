@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:45+09:00",
+ "updated": "2026-11-19T05:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,26 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T04:51:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T04:41:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T04:38:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -75,26 +95,6 @@
    "at": "2026-11-19T04:20:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T04:19:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.3",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T04:15:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.4",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -198,12 +198,6 @@
      "at": "2026-11-18T18:45+09:00"
     },
     {
-     "title": "中韓首脳、経済交流拡大で一致＝対北朝鮮で「建設的」役割確認",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzZVc1MxZVVJS18wRDQ3RGZGRzFiSUxOcmZlTUY0WWZ4S3lWREtNdHpCWWNBRzd2VlFGdllDTmRSTktxNVR6SFBSY2pDZ3JCRFVMRmRvM09Od0MxVWNKY1hHRXg1VkNHUE1CZU9rWWkyYWcwYkRoZmliVEYxVDB0WV93U2tyMk4tMl9v0gF-QVVfeXFMTkZhczhsaGEyZ1ZaNVlkUFpNVjd3bkZnNVAwb2xVeXBGY2VKNjN4U0ZyQV9QWnJlLWFsX1ppVGpkNXpMRTltVWdYaGx6MTg4eUxLWnEtOTV5TTE4bnNzdTJwWDJ5bFVFanNBY2dmYVhpOTQ2STNjQm9uNk9YaThR?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-18T18:44+09:00"
-    },
-    {
      "title": "中朝国境の「中朝鴨緑江大橋」を通って北朝鮮に入るトラック＝16日（共同） - 中朝貿易、10月12％増 鴨緑江大橋開通も制裁重し - 写真・画像(1/1)",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ic3B0dms3a3FKbnBNUUlRSXNZSkZrM2JYSUJfVmJrX2xJNFlDMExPNi1WQW83a2NWRzdSQkJVWmNmZXdFRzVnaGFuR3J4aFhvNERrNk5LWQ?oc=5",
      "source": "西日本新聞me",
@@ -211,21 +205,27 @@
     },
     {
      "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljddIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM19EQVF2TTRTTWVSRHMySkVKeURnRS1RVzlGSkhvYnRuc0dJZGdRSlJRZ2VIVDRiY2hRYXF1V0tsR2RFNmFIVHZPT2pDX0FiWG5JeDY4Wlo5M29nNUdBel8wMDFqVFZmb0JmMjlIN3RTd1hQYUJGb0xHXzVEWk8xQdIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
      "source": "AFPBB News",
-     "at": "2026-11-18T17:30+09:00"
-    },
-    {
-     "title": "北朝鮮・金正恩総書記、APEC前に白頭山訪問…トランプ米大統領は中国での会談に意欲",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tSDhMRllPdTBWc19seWFpSUVPTFctbUpEV18xVEVOY1NHT0pqZDAwUGJ4VXh5LXZjTDFnYlA1WWZxTTdjaFAtSHdqM1JDZWdYTmfSAVRBVV95cUxNWEVyZnI2TXVPeUNEWklVR3dZX0p3TW5Hd0pjZEV5T1ItNGt5OUozRHRZX0V3amJxMzh1djNpUS13Q3ptLVVuc1lzcjBiZ2xHblpMZmk?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-18T16:10+09:00"
+     "at": "2026-11-18T17:22+09:00"
     },
     {
      "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SaWFnZHhHR3luVVRZcGtrbjhTWTk3NTRqc0pucFJGdkNYU011ZkhUdjRiRFg2MUJTUlV3RXE3QW91WU1kQXlfeEE0U0h4anY1b2liMUZNeDhYc293OWZsR0JIS1lMbWF2TEMzdWw1QU5tR2VjbjRZ0gF8QVVfeXFMT0RueFEwZjRnbHZocGhtTkZuLUxqT2RPczVxRElZSlozWkxncXhEclBRYzFkUG9PMVNSeDVOY3JZQ0xxWGZGcXloRHBxYTU3Q2htaGpsME92c20tSTB4bF9zZkRWSTZ2NnV0ekpkQ0FYVVZuVWRDd1Blbmp1bw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY00xN3JKLUFQN0dSUUJRbHJEd256TzB1Q19sdGxvbUNsM3VXbWNTZFBGZjFTZlB1QWlMVGg5U2YxcWZRcDZTTHFkLWRUbGJ2RWdmaHRFRnJvQUd4YllnbHJpdW1Rak5COGJRc25LZGV6Y3NKZU1peHEtd1l5NUFlMXcwVUM0eVFRTnRUdlB5YldDZEtURDA2Z1VXY2stQTEwdTFzZDFKSEFNQU9tOTRUNml1VEJjVGoyMWhqTk9EZHNtaGZxSmRxbkRUcWfSAXxBVV95cUxPRG54UTBmNGdsdmhwaG1ORm4tTGpPZE9zNXFESVlKWjNaTGdxeERyUFFjMWRQb08xU1J4NU5jcllDTHFYZkZxeWhEcHFhNTdDaG1oamwwT3ZzbS1JMHhsX3NmRFZJNnY2dXR6SmRDQVhVVm5VZEN3UGVuanVv?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-18T14:25+09:00"
+    },
+    {
+     "title": "金正恩委員長の「金がない」一言で…北朝鮮核開発の資金源となったシリコンバレー (中央日報日本語版)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T14:23+09:00"
+    },
+    {
+     "title": "トランプ氏の“最後の球”？ 金正恩総書記との電撃会談を匂わせる思惑とは…専門家「北朝鮮は中ロと二股、アメリカと会う必要がない」「飛行機に乗らない」（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T14:06+09:00"
     }
    ]
   },
@@ -375,6 +375,12 @@
  ],
  "cyber": [
   {
+   "title": "【イナイレクロス】バグ・不具合報告掲示板【イナズマイレブンクロス】",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRG1NQS1LcVZPQzU5T0x4MjZjQk5seDZzVWZCd050OEp6aWh2RHBJUWtETi1CSk1teEpJanZNS0diYkhxZWI2M0pKckFWTVhQemhLTw?oc=5",
+   "source": "AppMedia",
+   "at": "2026-11-19T03:34+09:00"
+  },
+  {
    "title": "米で相次ぐシステム障害、「組織的・国家関与の攻撃ではない」＝国家情報長官",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1REYndvVC1HV08tX2ZQMFF2Y3JHRkpZZENCODF6ek9LWEh4VmktQXA3UzNCZXdWRjZubUc2c3V3b1Q1VkhZVVQxanlXczFWU1RUQzUtUWhvdFNmQ3JEMnUyTVJxbmVVMWQ1SkxheVJDMzBxeGZOUjdkLXNHVUtHeWh3RmtNWUU?oc=5",
    "source": "Reuters",
@@ -457,12 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aaklMQXh2SUhyRFNMMzBpcFhHZElVQmRKRktERE80YUJRY0V0WTB0eURYUHVSOWNtVkRtSnIySWRia2tKLUVFcXJ3Yy1Jd0M4WmpIdDRvV01HaklIWTZqbHd5eHF4S0E?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-18T22:27+09:00"
-  },
-  {
-   "title": "NewsPicksに不正アクセス、カード情報36万件流出 認証迂回の手口が判明",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81SVhzOEhMV3RFdm5wV2JqSHpsUnlsUVluX2kzNjkyN1J1TmwzaDZ1WmM1VUNkYlg4dThBdW5VQXp3SGw1UGlnenJhY1F2aDBTSlNpZjBuVVMzamk5NE9Valo3SWZtV2ZUVThQaW9EbVBvWGRL?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T22:25+09:00"
   }
  ],
  "osaka": [],
@@ -594,18 +594,18 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "中韓首脳、経済交流拡大で一致＝対北朝鮮で「建設的」役割確認",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzZVc1MxZVVJS18wRDQ3RGZGRzFiSUxOcmZlTUY0WWZ4S3lWREtNdHpCWWNBRzd2VlFGdllDTmRSTktxNVR6SFBSY2pDZ3JCRFVMRmRvM09Od0MxVWNKY1hHRXg1VkNHUE1CZU9rWWkyYWcwYkRoZmliVEYxVDB0WV93U2tyMk4tMl9v0gF-QVVfeXFMTkZhczhsaGEyZ1ZaNVlkUFpNVjd3bkZnNVAwb2xVeXBGY2VKNjN4U0ZyQV9QWnJlLWFsX1ppVGpkNXpMRTltVWdYaGx6MTg4eUxLWnEtOTV5TTE4bnNzdTJwWDJ5bFVFanNBY2dmYVhpOTQ2STNjQm9uNk9YaThR?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-18T18:44+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ロシア軍機が台湾東部空域を通過 国防部が非難 「海峡の平和と安定維持に資さない」",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82S3pvOVhiWlgtMWQ2anBtaWJhdUY3RF90dlFRZUxBTjB3NGNiQW9GM1BGdTdVTHRqM0JKLUFyeDZ2SHVnaUcwWk02S2R4N3FDWHBlNndBVElHMFF1dnVv?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-18T18:28+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "中朝国境の「中朝鴨緑江大橋」を通って北朝鮮に入るトラック＝16日（共同） - 中朝貿易、10月12％増 鴨緑江大橋開通も制裁重し - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ic3B0dms3a3FKbnBNUUlRSXNZSkZrM2JYSUJfVmJrX2xJNFlDMExPNi1WQW83a2NWRzdSQkJVWmNmZXdFRzVnaGFuR3J4aFhvNERrNk5LWQ?oc=5",
+   "source": "西日本新聞me",
+   "at": "2026-11-18T18:22+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
