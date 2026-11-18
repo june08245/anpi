@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:15+09:00",
+ "updated": "2026-11-18T13:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,16 +102,16 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
+     "source": "TVer",
+     "at": "2026-11-18T12:38+09:00"
+    },
+    {
      "title": "焦点：「相手の譲歩」待ちの米国とイラン、外交打開見えず再衝突リスクも",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-18T11:57+09:00"
-    },
-    {
-     "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sdndjLUcyVlNHbzdTcHJmM0RqVU5hTXJlZUpxbnhWMUxocEU0cWV5RFBhOHZVSGNfM1RpUjhTRW4wTmxnMV9aUmRfUFdwOHA3a2x3VGFmTEFVWnZQWE0xLXZxQXZiWU5TZmx0eEVR?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-18T11:44+09:00"
     },
     {
      "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を",
@@ -147,7 +147,7 @@
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-18T07:31+09:00"
+     "at": "2026-11-18T07:34+09:00"
     },
     {
      "title": "元陸自ホワイトハッカーが警鐘を鳴らす日本の“サイバー安全保障”の限界 GMO事例では中国製AIや北朝鮮の関与も囁かれるなか「盾のみならず鉾をも向けるのが防衛」（マネーポストWEB）",
@@ -159,7 +159,7 @@
      "title": "「日本人学校はスパイ養成所」とする悪質デマを野放しにした中国（文春オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNVdaa1RQWncxTHdEMkYyNTk0R0EzNTlHcGdtU19vOGRkdDlWd0h6NUFMaHpXc01MbTlRdmllbUh6Zm44WlVrcG1yaTVWMmJxWUpHWDBxVDhFWG1wc2h4OGNpU1BtRmhIaVUySkNmYTZQelhheGxFeGNjSnFXZDA?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-18T06:15+09:00"
+     "at": "2026-11-18T06:12+09:00"
     },
     {
      "title": "台湾防空圏にロシア軍機",
@@ -186,10 +186,16 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "北朝鮮・金正恩総書記、APEC前に白頭山訪問…トランプ米大統領は中国での会談に意欲",
-     "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNczNGUTdRTnZpcXA4WExRSnAtc2lJX0RsRVZud2U4a0tMRTNsTWpTYlB2aUhUTFl1R000MjI3S3dVenQyVDNRYWs4a1FvOHduaU80R1gwMkFydmhJbVlncDFiR3dNdF9aSldocTdPRHFuN3Nfam0tRVlUd2VNWnZOSjRaOVBfWU1RSDU0dURjQUZPY0wzbWxhTlJQbEdpNTJGOTlwUXdIeU92VXhaZkxGMUhCMTBldFl6OVJoSGJfa1g5RmNfdi0tdkxSMVdUYmFrYUE5VHlENFlKWjEzaW5Gb0N3ZlV4VUJTbVIwSzJJU3B4MXRaZnBiejNYcHlGcHJheDM3dFVHUkJQYWlfN2VaV2Q4RjFkamJPWFJ0NDVwVjBFV1R6OWRjNjdMd0xKT1U?oc=5",
-     "source": "KOREA WAVE",
-     "at": "2026-11-18T12:45+09:00"
+     "title": "「非核化」に言及したのは日本だけ…トランプ氏初参加のクアッド共同声明に「韓半島」も「北朝鮮」もなし（2）（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT3o3NVVoNVh5SHAzdDVtbXltb1Nya21seG9XeklweEhLemtTMWU2TU1GYmZtc0hhaEVNbWpJcjZtZ0hSeUVMY2xjQmVBZG95aEZBeWk4ZDRiMVYxTldxNm5HN0dOcVlna1lOb2FGYkJxcXd2V3hFYmpUd2JWcWc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T13:16+09:00"
+    },
+    {
+     "title": "北朝鮮・金正恩総書記、APEC前に白頭山訪問…トランプ米大統領は中国での会談に意欲（KOREA WAVE）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNHpIa1ppOERvTmlCa3dldHA3TjFrdi1yVDFVODJSZHZJWndtUURGSlluc0dROFRkOVFKMlFmaDFicnBvdU5fbWRRaklTdE1hSjdEX3RjRk94aHN1d1VDS2F0dVJ2dml4N0dQMFE0R0k1b0g2MFNIdU9RTjhscjQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T12:51+09:00"
     },
     {
      "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FMjRMT2htYzAyVkduaF9XTk05X2xZNUdxTS05clhKVklNREUtaFhmSW5uQUpFTHFiaEVZTGpXR25DVU96dkI1MkRpcw?oc=5",
      "source": "47NEWS",
      "at": "2026-11-18T09:28+09:00"
-    },
-    {
-     "title": "北朝鮮労働者派遣を議論 国連で制裁監視チーム 核・ミサイル開発の資金源",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KZFBLbEhBMlpSc0gxWmJibm14SzVQbHpEUXZjbmRnbmg1dHZGUWNIbHM5MGR3RzUxdlRDWWdDOVdYZW8tM3BDM1Mwc0V4UFZYX09VdWVDb1c3ZzhXQlZQWUZfc003QnpmSWVoQWh6SEdhemlsR0E?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-18T09:27+09:00"
     }
    ]
   },
@@ -394,6 +394,12 @@
    "at": "2026-11-18T11:25+09:00"
   },
   {
+   "title": "アップル、大規模障害の原因は「内部アップデート」―iCloudやApp Storeに影響",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00MDFpcVdkNlNvVFVobjRVUFZ5bE1jQThTYTdmSi1Kd0RNUG1wMHZMMVhhZUo3NmxkRW0tUmgxbWZWZkx5RDJFMGFNWEFlRXpyUkhaakJ1MWtLdnRNSVZDQmFpYWNDRkd40gFoQVVfeXFMTTQwMWlxV2Q2U29UVWhuNFVQVnlsTWNBOFNhN2ZKLUp3RE1QbXAwdkwxWGFlSjc2bGRFbS1SaDFtZlZmTHlEMkUwYU1YQWVFenJSSFpqQnUxa0t2dE1JVkNCYWlhY0NGR3g?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-18T11:20+09:00"
+  },
+  {
    "title": "iCloudやApp Storeなど複数のAppleサービスで障害が発生",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5meTVudlYtWXc0LUp0S3V0cXFTTVBwVGJlNVlEODhXSWw2dWc2RXlYVGVrbkwxOXE2Nk1kd1dQeFpReGd1UTNfY3BHSHZvZGxOMVA4OVZFZkp2Zw?oc=5",
    "source": "GIGAZINE",
@@ -418,22 +424,28 @@
    "at": "2026-11-18T09:25+09:00"
   },
   {
-   "title": "アップルのiCloud・Apple Payなど広範な障害が発生、仮想通貨購入にも影響",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84RjhXMVhMWmxvdUJXUHpBeHowRDdBenRiRXFqZWk3UWhGbFZrUDVEa2tCVzRVN0dJTlFITGNBcVI5TTNFOXI3dTVvalIxWUlQ?oc=5",
-   "source": "Iolite（アイオライト）",
-   "at": "2026-11-18T09:24+09:00"
+   "title": "ユニフォームネクストで最大170万1,006件の個人情報漏えい プレイド「KARTE」不正アクセスが波及",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3NxS2FoYjZyTlRIcmxXTFE3YWNEY0wwQjVOQ2VtbTB0a0tScF9iQ0pucEptMHJjTnZMRjMwVmM0dkJEa2JjVWhYd19YTFZKczY0ZDlMTmI0NENwb0l5UVNEYmVsb3BOTDAydGhlQmJrNDIwYjRxREt1NV9hMWs1OU9RZ2UzS0tUZ0YweTlLNFdleDh5SnRnNnMyb1NXaFB1SmtPYllGMThxVVRkZXVaRGd3?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T13:28+09:00"
   },
   {
-   "title": "米システム障害、政府機関にも波及 トランプ氏「問題ない」",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMmh3YmNzSktqMG1HVTlBYmZxVm1ZREhiVS1YOXlndDV5eWpPQTlibnVaWDI3VjZtcTliTHlGRlJ3ODlHOXBqZEUxcHhwT0NNazdTXzc2V1Y4QQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-18T09:21+09:00"
+   "title": "日本経済新聞社、日経電子版利用者の個人情報漏えいの可能性を公表 プレイド「KARTE」への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXBJR2dGd051cVBkd0d1ZXpiVl9rSVlDX1hPMU03eF9jdzZHUVpYSl9PWjJjZU1tTmx4QVQ4TmpYeHN1NDdndTZScTQ0RHA2dkxLUzgxNGFCcjFNRTdLV3NUMUYyVWNxWmxIemFfa18tOURmSlhJc0hVWjFPd2ZTU2ZDSzJlWUZwT2kzbEFpTHFGLXVEbklmT2wzbXJrb3VYSEs2Uw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T13:27+09:00"
   },
   {
-   "title": "アップルで一時システム障害 iPhone利用者アカウントにログインできず 「社内システムのアップデートが原因」",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRjNqZ1c3SktmQXExZ3pUd1pMcW1YTFhuLV9nNmlkYldINXVGbnZtdnFVREFpOEF1Z3hnSnM3cG5QaDQ0dWV2dmZXeXZkZ2JTd19QRVRlMUpYZ25wbU9fVXI0Vzg4bmZzNmgyOFFhMzVCX0cwWVlXcEQxeUtjV1VXZA?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-18T09:16+09:00"
+   "title": "岡山県キャンペーン アドレス１０４５件漏えい 「アララ」不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kNUlFSFM4dnNsczBSVmh0eWpWZGx2MEVhLURaVnlsNUtLWlFZQkp0MU1JV0JHelRYVl9qYmJpQ25ELXROSGpmRG1LckFPRzlGb3c?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-18T13:26+09:00"
+  },
+  {
+   "title": "ミスタードーナツ「ミスドネットオーダー」に不正アクセス サービス停止続く、氏名・カード情報などの漏えいは確認されず",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMndZa2M1ODhJT0RMSHhwVFE3XzhScG05R2RVb0dTQmhUYTMyVUJjUkhaZUFyUWtkT3QtTFZ4ZFN2enRpX2R6dVBLVUxnZEpGdHVUQlRxdWRYeW9vRVVPWDZ3SjZYQmhCTGVpbjdaWXNqZmpKS0FfMkxiRmZrYzlnU1ZPek4xTTY5V09OOVhMbFJRb2RjSVJ4ZnRoTQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T13:20+09:00"
   },
   {
    "title": "急増する不正アクセス・情報漏洩の脅威に備える！「権限放置」や「ID使い回し」のリスクを可視化する「特権ID・アクセス管理 セルフ診断チェックシート」を公開",
@@ -458,41 +470,36 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yeTNxMDJQQms0czBoLVFCUVZjd2lrMElQcHlkYS1TY0VQM3VmZ191bUp6eGtNU2RJM0dpcnRQTjlSOGQtZm85Mm43c3RyeEU?oc=5",
    "source": "ビジネス+IT",
    "at": "2026-11-18T12:00+09:00"
-  },
-  {
-   "title": "メルマガ配信サービスに不正アクセス 岡山県のイベント参加案内でメアド2万2532件流出（KSB瀬戸内海放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSVTdRT0V0QWFGX08wRnQ3WEJ1TVNGZ0dlZHo1cWp2U0lLRmphTXdxcHdXdTBYd0d6UWYtZzNJWDB0UE5vVWlNMk5kTnNMaXNnaVBfc0pnMko0LUxNMld3azZIazQyYndlVk1mcWdHYlFhUXNhdDN6aVNjbE9iS1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T11:57+09:00"
-  },
-  {
-   "title": "「JINS」最大約1829万件漏えいの可能性 RIZAPやしまむらも……「KARTE」不正アクセスの影響広がる（ITmedia NEWS）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRkZuaEJXeW1pYThFLXRja2xWZkwwRXVMV3JOc080S0tqX29VUWVjWFZZdDI0TzBWcUk4VWhUWmphdVZFNDJFX1o1V0JhQlBnLTd3bVl0TVh3LWVhbWtaQUtkTU5aV2lpWGtzM0VWaFpzUGJfNDJQT1ctekxLRTA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T11:53+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "北朝鮮・金正恩総書記、APEC前に白頭山訪問…トランプ米大統領は中国での会談に意欲",
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNczNGUTdRTnZpcXA4WExRSnAtc2lJX0RsRVZud2U4a0tMRTNsTWpTYlB2aUhUTFl1R000MjI3S3dVenQyVDNRYWs4a1FvOHduaU80R1gwMkFydmhJbVlncDFiR3dNdF9aSldocTdPRHFuN3Nfam0tRVlUd2VNWnZOSjRaOVBfWU1RSDU0dURjQUZPY0wzbWxhTlJQbEdpNTJGOTlwUXdIeU92VXhaZkxGMUhCMTBldFl6OVJoSGJfa1g5RmNfdi0tdkxSMVdUYmFrYUE5VHlENFlKWjEzaW5Gb0N3ZlV4VUJTbVIwSzJJU3B4MXRaZnBiejNYcHlGcHJheDM3dFVHUkJQYWlfN2VaV2Q4RjFkamJPWFJ0NDVwVjBFV1R6OWRjNjdMd0xKT1U?oc=5",
-   "source": "KOREA WAVE",
-   "at": "2026-11-18T12:45+09:00",
+   "title": "「非核化」に言及したのは日本だけ…トランプ氏初参加のクアッド共同声明に「韓半島」も「北朝鮮」もなし（2）（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT3o3NVVoNVh5SHAzdDVtbXltb1Nya21seG9XeklweEhLemtTMWU2TU1GYmZtc0hhaEVNbWpJcjZtZ0hSeUVMY2xjQmVBZG95aEZBeWk4ZDRiMVYxTldxNm5HN0dOcVlna1lOb2FGYkJxcXd2V3hFYmpUd2JWcWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T13:16+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮・金正恩総書記、APEC前に白頭山訪問…トランプ米大統領は中国での会談に意欲（KOREA WAVE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNHpIa1ppOERvTmlCa3dldHA3TjFrdi1yVDFVODJSZHZJWndtUURGSlluc0dROFRkOVFKMlFmaDFicnBvdU5fbWRRaklTdE1hSjdEX3RjRk94aHN1d1VDS2F0dVJ2dml4N0dQMFE0R0k1b0g2MFNIdU9RTjhscjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T12:51+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
+   "source": "TVer",
+   "at": "2026-11-18T12:38+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "焦点：「相手の譲歩」待ちの米国とイラン、外交打開見えず再衝突リスクも",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
    "source": "Reuters",
    "at": "2026-11-18T11:57+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sdndjLUcyVlNHbzdTcHJmM0RqVU5hTXJlZUpxbnhWMUxocEU0cWV5RFBhOHZVSGNfM1RpUjhTRW4wTmxnMV9aUmRfUFdwOHA3a2x3VGFmTEFVWnZQWE0xLXZxQXZiWU5TZmx0eEVR?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-18T11:44+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -580,13 +587,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮労働者派遣を議論 国連で制裁監視チーム 核・ミサイル開発の資金源",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KZFBLbEhBMlpSc0gxWmJibm14SzVQbHpEUXZjbmRnbmg1dHZGUWNIbHM5MGR3RzUxdlRDWWdDOVdYZW8tM3BDM1Mwc0V4UFZYX09VdWVDb1c3ZzhXQlZQWUZfc003QnpmSWVoQWh6SEdhemlsR0E?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-18T09:27+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ロシア外相、フランス兵のウクライナ派遣を「戦争への直接参加」と非難",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aaVJWeGgyaEpybmhueDBlYXlwM3FsdkQ0M2lqWmVVYnVFcXZOazFWdVJlNkxNOUJOdUlFY3NaTXpyWkVNUW1peGZoS3QyT1FhUFHSAVRBVV95cUxPc0JtckhzR1BlaTl3ZE9kaUpsV1JDbG1XSnF1bmxnOWxnU2dHZUpUNE1YRVdWLVQzTXJ2TXhRUXZKM0tDU21BUjBXZjhKczZZRHZyQTU?oc=5",
    "source": "AFPBB News",
@@ -604,7 +604,7 @@
    "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-18T07:31+09:00",
+   "at": "2026-11-18T07:34+09:00",
    "topic": "中国・台湾"
   },
   {
@@ -633,22 +633,22 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「空爆」5件",
     "中国・台湾：「封鎖」1件",
-    "北朝鮮：「攻撃」「ミサイル」2件",
+    "北朝鮮：「攻撃」「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
    "items": [
     {
      "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sdndjLUcyVlNHbzdTcHJmM0RqVU5hTXJlZUpxbnhWMUxocEU0cWV5RFBhOHZVSGNfM1RpUjhTRW4wTmxnMV9aUmRfUFdwOHA3a2x3VGFmTEFVWnZQWE0xLXZxQXZiWU5TZmx0eEVR?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-18T11:44+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
+     "source": "TVer",
+     "at": "2026-11-18T12:38+09:00"
     },
     {
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-18T07:31+09:00"
+     "at": "2026-11-18T07:34+09:00"
     },
     {
      "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏　軍はクルスク州のミサイル部隊を攻撃",
