@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:45+09:00",
+ "updated": "2026-11-19T02:57+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,36 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T02:48:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T02:46:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.1",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T02:42:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T02:38:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -65,36 +95,6 @@
    "at": "2026-11-19T02:29:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.9",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T02:25:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.5",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T02:22:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "5.7",
-   "maxi": "5弱",
-   "maxiRank": 5,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T01:39:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.7",
    "maxi": "2",
    "maxiRank": 2,
    "osaka": "",
@@ -376,8 +376,8 @@
  "cyber": [
   {
    "title": "イラン、米重要インフラを標的に－技術障害には関与せずと米当局者",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jc1JCaWxVdC15azhNOXNScnlJX09veXpQWnJtUEk2TUMycXN3WUhZZWkwUWIwczM4bUZ4T1RPUHZ1dUJJQk1uTkl3U1RNSEZLOENSMjJYYkxIbi05WnhTc0tKUGR4NGFlbTZQdkdmNlZDeFRw?oc=5",
-   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DaEotVlFWNmtQejdsOGtPRWZ5NE5zMEdkdTBJNk91UHhJU25jYmZPUEdBVHdHOHA1WUpsTERDTnUyRzNaMjJZZUJPU28wZmN0SHZ0STc1aFdST1JvTGVPa2tzVdIBaEFVX3lxTE9oQ0lCSHdKcWpfanRqQkZrcnF2eUoxMmtxZDBCN0t4VFBUUW4tWlRoZHgxT0xyTThmY01NRWRGeVZiRzFJYlFUazRNYUtYXzJiRHJ1ZFdKdkM4c2NwTmN6a1ZvRDZZQjFC?oc=5",
+   "source": "Infoseek",
    "at": "2026-11-19T02:15+09:00"
   },
   {
@@ -618,7 +618,6 @@
   "japan": {
    "level": "yellow",
    "reasons": [
-    "熊本県天草・芦北地方で震度5弱（11/19 02:22）",
     "弾道ミサイルの報道（「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍）"
    ]
   },
