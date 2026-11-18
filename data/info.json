@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:15+09:00",
+ "updated": "2026-11-19T07:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T07:14:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T07:10:00+09:00",
    "place": "熊本県熊本地方",
@@ -85,16 +95,6 @@
    "at": "2026-11-19T04:51:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T04:41:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -168,12 +168,6 @@
      "at": "2026-11-18T18:28+09:00"
     },
     {
-     "title": "APEC首脳会議台湾代表の施振栄氏が中国に到着「科学技術やAIでの強み伝える」",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11eEFKWGFVdjZvTXlGcTZ6NVhhSGJGRldUWE4tUEhjaWU0N1Z3azJVWUdRTzVOckNTbFJ6ZDA4b3NiSTdmNlNHc1pRSHVDbDdlVTdscGVUWlZXSjNVNm5N?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-18T16:01+09:00"
-    },
-    {
      "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UzJvMjJxSzhIX3hDVUN1YlZHUjh1YVFIbjFMbnEzako2QjQ1QmJSU2duM1ZpSG9yTzluRkFHcG9Vdk44cFVDd3Q1RVFYM2p3Y3BxcnIxSEVtaDNMUlBnVUJ3NV9qZG5PX2EzTnhHUHFnbUlvUmVldHZsc3E2SE0?oc=5",
      "source": "Yahoo!ニュース",
@@ -184,6 +178,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T07:31+09:00"
+    },
+    {
+     "title": "「日本人学校はスパイ養成所」とする悪質デマを野放しにした中国（文春オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNVdaa1RQWncxTHdEMkYyNTk0R0EzNTlHcGdtU19vOGRkdDlWd0h6NUFMaHpXc01MbTlRdmllbUh6Zm44WlVrcG1yaTVWMmJxWUpHWDBxVDhFWG1wc2h4OGNpU1BtRmhIaVUySkNmYTZQelhheGxFeGNjSnFXZDA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T06:12+09:00"
     }
    ]
   },
@@ -234,10 +234,16 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMzE0QWdMSHREQ2JYWWtvS1dpMERpYk9UZkVTY0lkdUtQZXFIUHZFZWVUTTFpdm5oQlJfX3V0b0FSUldIbVBVZTZBbDJBSm9lM3dreUt0TkVjN1hOd2M2NVNNeEdYZDNoc1pUYlFZUW1uNzjSAXhBVV95cUxNRnZVbkVjZHlLSzFoeWtOTTZDcWVzRUxsckhLWl81eU9rQUNnMUdLRFJQVDQyU1haMWlZRmZ4WnFsSk5OTmcwTV9OUGROREViZnpiM0hEYnY1YUU3dkh5N3VfRnBnNDRtZ1pfRktKTy1jUFd6aFd2OU8?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T07:24+09:00"
+    },
+    {
      "title": "ロシア本土と結ぶクリミア橋、車道のアーチと一部区間が崩落 ウクライナが無人機とミサイルで集中打撃",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96czJ1Z1NIMWR1b041cnJkMW5PZ2RTa1Q4bFpHbGtDa1k2bloyc2JVWlVDbjJNMDdjM3JUY3hHNWJFR3JUYW1MemNyUFdaekJTRHJXTU85VmRRUQ?oc=5",
-     "source": "Forbes JAPAN",
-     "at": "2026-11-19T07:00+09:00"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yc294NHBOWUZndEUybnYwb2NSek16Nzg5alFUOEg4OUM5R24zdThnRE1QaFpzY1JyelB0QkEzU3pTbXA3Y19sV0FEa3BUWml5b1oyMVZnQVlReXZvV09DLTBrYnkzaGdVV2s3WUphdks1ZHpoWXdoc3gydndVZVE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T07:15+09:00"
     },
     {
      "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍はクルスク州のミサイル部隊を攻撃（高英起） - エキスパート",
@@ -262,12 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk9xOWczNDVlbWhDcFFGSGRELWpnclBGNFVXbUpBelMyTnNaRm1JU0pfVEhVcDVfNnN6Z3g2QjdVTy14N0ltWm50czFLV1AyR2NOLW5hbVlOWWVrajUtN3ZyV3JxNVNpX1ptSVFpZ3pNemNUZjBmdTg0V1ZiRVV1SC14VWs5czd0?oc=5",
      "source": "조선일보",
      "at": "2026-11-19T00:45+09:00"
-    },
-    {
-     "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-18T21:14+09:00"
     }
    ]
   },
@@ -369,6 +369,12 @@
  ],
  "cyber": [
   {
+   "title": "車椅子マークの駐車スペースに停めたら非常識？ 障害者手帳はない83歳母、足腰が弱く歩行が困難…利用対象は？【社会福祉士が解説】",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZEpGODVSUmVQMEljZWxMN2pob1NPMWtBajVZRnlqd3ZQb2NSSmpMcDhqdjBRMS1fZlpqR0c0WllXdVNtMzAwV2N1WER0SnNUN1FoZkVVRE9OREY3UmNVTWVjREZIZWN5YVRLQVl3?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-19T07:10+09:00"
+  },
+  {
    "title": "事故やニアミスも続出…米国の航空管制通信障害で暴かれた公共事業のずさんな管理｜トランプ2.0 現地リポート",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CcUJuN0NhNUxoS295ZTBOYW11X0NDc1dNLVN4ZGpFYS1GeWJSMlRkUUVJRjJrSHRGd1phc1lWQlFXb3kyU2tJcHVUOGNRMFZ5emdfTWswLUxvekkxRGRtTXItZ2NPZw?oc=5",
    "source": "日刊ゲンダイDIGITAL",
@@ -385,18 +391,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TczRlbXBDWkY3RjRDdXloaWRlVkpScFROanRqa0NQcmExVWdxQmpGczhIUUl5dzlnbjNndlJiaVdmMHhMRnlaSVFFanpzRGRiSnYwdXRFT0g2MnN1Yl9SSTVROWJWb3BDdEYxdnRocUZNZkEycTNpNm5raDZaTXc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T05:16+09:00"
-  },
-  {
-   "title": "クレカ、一時利用できず 国際ブランドで障害発生",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDc09pWW1PbXdhekd4WjBTY2ZidGNUaVl6ZkhVOXhtc3Z6amc0aFJTOG1OTERDNnpIZ2xuNE5YQ1Bjd0poUVhJaFVJY0hZT0xHazNQRDJsNW9Idk5LOC1ueEN0b2pYeGF2Uk1sR0tDVHByZw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-19T05:15+09:00"
-  },
-  {
-   "title": "Outlook障害、ラジオ局でも影響 リスナーのお便り届かず SNSでコメント募集",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lM3hjc1R0d2tWZG9VQlpwbmtDN1NacUFZeGtWU21XV2NnaTQwbWFtRWo1TWszQ2dTUVFhaV85YXViMG9ITEpRRzQ5dW4yak5KMFE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-19T05:12+09:00"
   },
   {
    "title": "【イナイレクロス】バグ・不具合報告掲示板【イナズマイレブンクロス】",
@@ -417,16 +411,28 @@
    "at": "2026-11-19T00:22+09:00"
   },
   {
-   "title": "全米で航空機の離陸停止措置、通信障害で 約7000便に影響か（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tY3Q5TC0zMTI1Nm9DeFhWMUFNQm1Fd196cm5OWmdZckY3emxVaEkwdU1sYThsMTVjV3dmcWpRYWl0clBYaHNPQkxGb1FyVDdlTWY3RWhBRnVUcWxPeWprSVZrNGliM0JmU0lhY0lhVnR3Skk5YVhhOG1VU2pVTTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T23:56+09:00"
+   "title": "【パワプロ2026】バグ・不具合報告掲示板",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUFpNNzF3Mm93UVBGbXpyQ2k1Nlh6TWdGdXBDdi1aek12WjRja0ltWkFRR1NFcVdQcktOMGQ1V1Q2aWJqaDloY2pXN0RSUnVKYy1ZMXh5SUxvdw?oc=5",
+   "source": "AppMedia",
+   "at": "2026-11-19T00:03+09:00"
   },
   {
-   "title": "《元陸自ホワイトハッカーが解説》ハッキングの原因となるコンピュータの仕様にまつわる「3つの原罪」 短期的な対策として「日本版グレートファイアウォール」を提案(マネーポストWEB)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXdSZnlmQjJiZXNxdkdNV0xWUGcwcnktWDlqTFg4ZU54R2UzUmNscFVieFExQlUzd1hoYlpnX0lqRUdJa2JuQlhKRjQ5Rk4taVV6RVZGaE5oR3ZmYTluaV9GSFNoLTU3RnZGcHVMWlRjRUtTTGlTTjlJLTB1T0NHREw5VExqbjA?oc=5",
+   "title": "元陸自ホワイトハッカーが解説》ハッキングの原因となるコンピュータの仕様にまつわる「3つの原罪」 短期的な対策として「日本版グレートファイアウォール」を提案（マネーポストWEB",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMlRYM01jc0VoTnVWLURTSmtHZUNuc2RGbU9WNGMtc285RXEza3JkcHBMd1YtMUY2REwyUmZtOEU4VW9KOXdoNnZZajV5R0dmRUxMZWRtel9tOGpXWmY3b0thdW5rUGVVYnQ5dkRGMXJJOWd4ZnBQbFlZU2JrSnRaaWdyanlGenlJZUp2YkJB?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T07:27+09:00"
+  },
+  {
+   "title": "「ブロッキング以外に方法がない」GMO不正アクセスで“接続遮断の是非”が再燃…“通信の秘密”との衝突 現実的に取り得る対策とは（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFZmYXg0ZFQzLWt3b1YxeHAwbTE5Qk5aOWFsdGZaZFF5cXlmWl8yS2RmMmFDaUJSSmRjRjFrUjRRVWszQjV2Y2pJaDdSR3A2c3dCZGNyZk8wSWFQekpTQzlfSTQ2Q2R5N3AycE9OOWVzR1JuQ1cwZW9UOUJRWVcxS3RlTm1rMXlMQm5GWkJB?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T07:22+09:00"
+  },
+  {
+   "title": "サイバー攻撃で銀行が止まったら？お金を盗られたら？金融のプロも慌てて丸2日かけ見直した「AI詐欺時代の資産防衛術」",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWtCVXMxYTNFYV9TbUU5Z25OR3c0Z0JLd0VPaDJrR1dnTVU2OUpsT3czMlhvZ2NRcDFaVmJkRXFoVkdNeVczZjI2aXFtSmNlcjA2T1p0WEN6MUJibGdLZ3pmU2JzWldrWkhzX3NuRXVXNU1YYm5raDNKQWR3YW5GelhOZHo5c0U?oc=5",
    "source": "Yahoo!ファイナンス",
-   "at": "2026-11-19T07:02+09:00"
+   "at": "2026-11-19T07:16+09:00"
   },
   {
    "title": "ミツモア、KARTEへの不正アクセスで6万人の個人情報漏洩の恐れ、339万8,469人の情報漏洩も",
@@ -438,12 +444,6 @@
    "title": "読む政治：国内通信も監視？ サイバー防御、法成立1年半で方針転換へ",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sWEZvTkxBLUZBcFdaTC1EVThITWIyTk1kNjU1Ui1LVFRfN3FzMVVMeGt4akRkNUpxV3FqUEJTX19uODh6V2txUkllVUhaYkRWQVYzQXEtVGdUMWQzY1BxemVibzJ2UTRK?oc=5",
    "source": "毎日新聞",
-   "at": "2026-11-19T07:00+09:00"
-  },
-  {
-   "title": "「ブロッキング以外に方法がない」GMO不正アクセスで“接続遮断の是非”が再燃…“通信の秘密”との衝突 現実的に取り得る対策とは",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pLVlJNFNSWEhfb1pscl93bnFKX08zSXE3ZnJaRUVPZENGU1kyNjFxdFFPSmFwSHVTYUtVQmhrWEVqTzNkeFV3TUtqaTk2Y1ZaaUlpaA?oc=5",
-   "source": "ABEMA TIMES",
    "at": "2026-11-19T07:00+09:00"
   },
   {
@@ -461,6 +461,20 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMzE0QWdMSHREQ2JYWWtvS1dpMERpYk9UZkVTY0lkdUtQZXFIUHZFZWVUTTFpdm5oQlJfX3V0b0FSUldIbVBVZTZBbDJBSm9lM3dreUt0TkVjN1hOd2M2NVNNeEdYZDNoc1pUYlFZUW1uNzjSAXhBVV95cUxNRnZVbkVjZHlLSzFoeWtOTTZDcWVzRUxsckhLWl81eU9rQUNnMUdLRFJQVDQyU1haMWlZRmZ4WnFsSk5OTmcwTV9OUGROREViZnpiM0hEYnY1YUU3dkh5N3VfRnBnNDRtZ1pfRktKTy1jUFd6aFd2OU8?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-19T07:24+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア本土と結ぶクリミア橋、車道のアーチと一部区間が崩落 ウクライナが無人機とミサイルで集中打撃",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yc294NHBOWUZndEUybnYwb2NSek16Nzg5alFUOEg4OUM5R24zdThnRE1QaFpzY1JyelB0QkEzU3pTbXA3Y19sV0FEa3BUWml5b1oyMVZnQVlReXZvV09DLTBrYnkzaGdVV2s3WUphdks1ZHpoWXdoc3gydndVZVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T07:15+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "対イランで対応協議＝米イスラエル軍高官が会談",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdkdsbGVqZEpaUjBFRlZxVHlFTnVYaUNFQ3gtS1hTMl9yMmNSTEVYbnh2WDlpNUxPT256OUU4YmZXUTNZMVdVVzNXWmVYQmJkLUY2UThmaUI1S0NMRV96MFhDM1ZKVU5uUm55akRiY2VqSFJsNnRwX9IBfkFVX3lxTE1iWE9TV20yVndnU2ItMklEQWhwMnV0OXpsNDN4NE5JQjBnRzBGdWxmY2Q4WGkyUDNGSVF4ZTI5ak8zQVlFQ0plY2gydWRqWjJ0ZkVnSjFteE00NGZpd0xZY0FIYXNsQWxYR1lURGhwSktZTkVNc1o2d3ZZN3Vudw?oc=5",
@@ -481,13 +495,6 @@
    "source": "Pasquale Pillitteri",
    "at": "2026-11-19T07:09+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ロシア本土と結ぶクリミア橋、車道のアーチと一部区間が崩落 ウクライナが無人機とミサイルで集中打撃",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96czJ1Z1NIMWR1b041cnJkMW5PZ2RTa1Q4bFpHbGtDa1k2bloyc2JVWlVDbjJNMDdjM3JUY3hHNWJFR3JUYW1MemNyUFdaekJTRHJXTU85VmRRUQ?oc=5",
-   "source": "Forbes JAPAN",
-   "at": "2026-11-19T07:00+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "【佐藤優の世界史講座】「北朝鮮の強硬発言」編 北朝鮮の強硬発言を読む！ 「南部国境」と日米韓演習への警戒",
@@ -588,13 +595,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-18T21:14+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "欧州の学校に偽爆破予告メールが連鎖 イタリアで避難措置、1カ月で8000件超 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JLXB1OE1sUkRGSW5Bc2ZDeWwwelg4S3NLMXRQWmJFOTRXRmJkZU9zYnJlZXBrNFFacWR6RFJNcE9TamdyZ1VQT0xrQUY4OHdSVXdKeVBlbDRRS0xrbUpMYXp6VQ?oc=5",
    "source": "재경일보",
@@ -621,7 +621,7 @@
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」「ミサイル」1件",
-    "ロシア：「攻撃」「ミサイル」5件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
