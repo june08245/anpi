@@ -1,8 +1,6 @@
 {
- "updated": "2026-11-19T02:15+09:00",
- "errors": [
-  "outage"
- ],
+ "updated": "2026-11-19T02:30+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -23,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T02:22:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "5.7",
+   "maxi": "5弱",
+   "maxiRank": 5,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T01:39:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -87,16 +95,6 @@
    "at": "2026-11-18T02:35:00+09:00",
    "place": "島根県西部",
    "mag": "3.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-18T01:29:00+09:00",
-   "place": "熊本県阿蘇地方",
-   "mag": "2.4",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -254,12 +252,6 @@
      "at": "2026-11-19T00:45+09:00"
     },
     {
-     "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1l2SFoxalU1SlQ5dFJxMTBlYTdNeC1RalRtcTRsZVdtcF9sTld5OXdyOTFFQTlNaWZTWjRpWUstM2R0UWs3VnpnaU93Nk00SERiMFFxVXVLQUdWRWZkOUVEdjZaRU5hSXdKNTlIZWF3d0FyV1BoUlFHNkpTTEN6N2VkS0VjM2g2aVp6edIBkgFBVV95cUxPUHFXNDh2SHR0ek9ORWlZVXdoSEJiMHdWUjRfdHZuUjFHNm9mS2VXYy1iRmpvT1dEQWZZQkFRUXFNYjZyQUgza0pjWk5fd1l1UHlveEhDUHA4STRHbTVxZTl6Sm1TWEdxN0Rkd3dORDJ4endtV2F0S2tIaHRlaWY5SjdZS01jV0ZLV1lsVHNzZ1F3QQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-18T23:40+09:00"
-    },
-    {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
      "source": "ウクルインフォルム通信",
@@ -270,6 +262,12 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblJDMUpCWmlkOUxXOHd2MlgzWDdYM1hLU09GSjljZ2NNYjViN1A0eDRibVdZZkcyTHB4OUFrd1pxYWlPZl9HWlVlck5idTZkSGZ1cnlXWjRncGcta21fTnFjY3BRaGZIdHlZOVhQYVhkWmw3Zkx4OWMyTmVCVHZXWFlBaG9jOUhQanFMWldGV21YZjhkQTk5eGQwb3dhS2JZLW1SUHdOYUVxVmpOSGV3RzdlSHBIUdIBuwFBVV95cUxQZHo0bXYyTlBjTWwtaVZqbEF6T0RLeFlrSmNtZkw2TjhCX1FMT2d4bnRNMW51ZHBvQnpHNzhZd0IxSWNMZTBqaXBkWlNwS29UaUdiWUh4V1otSjVZWE9VeUZRdTVuTWxQR2IwM1p4cE16T0h5X3dnR1pUSC1oNEExelFaV3NkcFRTZS1WYzI2TWhhdXRaRzBpUUJULVRTekxlRVJIY1l3dExVMGRMRzhmZU5HWHdGNWJ6MFpz?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T20:51+09:00"
+    },
+    {
+     "title": "第105国境警備隊のパイロットが、ロシア軍の砲兵装備やドローン、装備を攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GaHF6amJkQXp0RWJRUFJrNkdVdUh2Qzl1aXJxYkpjUTdfTFVOMHlvLWo0UTJ5RWhjQlJRUUZQSlpvNW1EYVRJNk93Ql81NFNTV0Z1WVRjV0dvQWNfNExSVFBuUzZqb0Q4?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-18T19:26+09:00"
     }
    ]
   },
@@ -450,9 +448,9 @@
   },
   {
    "title": "理研が警察に被害報告 「富岳」への不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FMW1WYi0yOWozZTdDUjFEV1JrOW5DdTFlLTVDSU90MDY5WEktbEhHcEdncDhxc08xdWhjd05SZ3diUG93TUU3bXVxUQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-18T21:59+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOc3dDdEhXRkE3dzBlVHdpcU50VjgwVGpvYVlXU3hsaHl2ajVYSW5UcEN0YVNyUWxNdlBEdWFCVldST29JTm56d1Q0QnJpend6LVRmUURjRUllQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-18T21:57+09:00"
   },
   {
    "title": "大崎電気、スマートメーター生産停止＝サイバー攻撃で",
@@ -488,13 +486,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk9xOWczNDVlbWhDcFFGSGRELWpnclBGNFVXbUpBelMyTnNaRm1JU0pfVEhVcDVfNnN6Z3g2QjdVTy14N0ltWm50czFLV1AyR2NOLW5hbVlOWWVrajUtN3ZyV3JxNVNpX1ptSVFpZ3pNemNUZjBmdTg0V1ZiRVV1SC14VWs5czd0?oc=5",
    "source": "조선일보",
    "at": "2026-11-19T00:45+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1l2SFoxalU1SlQ5dFJxMTBlYTdNeC1RalRtcTRsZVdtcF9sTld5OXdyOTFFQTlNaWZTWjRpWUstM2R0UWs3VnpnaU93Nk00SERiMFFxVXVLQUdWRWZkOUVEdjZaRU5hSXdKNTlIZWF3d0FyV1BoUlFHNkpTTEN6N2VkS0VjM2g2aVp6edIBkgFBVV95cUxPUHFXNDh2SHR0ek9ORWlZVXdoSEJiMHdWUjRfdHZuUjFHNm9mS2VXYy1iRmpvT1dEQWZZQkFRUXFNYjZyQUgza0pjWk5fd1l1UHlveEhDUHA4STRHbTVxZTl6Sm1TWEdxN0Rkd3dORDJ4endtV2F0S2tIaHRlaWY5SjdZS01jV0ZLV1lsVHNzZ1F3QQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-18T23:40+09:00",
    "topic": "ロシア"
   },
   {
@@ -575,6 +566,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "第105国境警備隊のパイロットが、ロシア軍の砲兵装備やドローン、装備を攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GaHF6amJkQXp0RWJRUFJrNkdVdUh2Qzl1aXJxYkpjUTdfTFVOMHlvLWo0UTJ5RWhjQlJRUUZQSlpvNW1EYVRJNk93Ql81NFNTV0Z1WVRjV0dvQWNfNExSVFBuUzZqb0Q4?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-18T19:26+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "欧州の学校に偽爆破予告メールが連鎖 イタリアで避難措置、1カ月で8000件超 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JLXB1OE1sUkRGSW5Bc2ZDeWwwelg4S3NLMXRQWmJFOTRXRmJkZU9zYnJlZXBrNFFacWR6RFJNcE9TamdyZ1VQT0xrQUY4OHdSVXdKeVBlbDRRS0xrbUpMYXp6VQ?oc=5",
    "source": "재경일보",
@@ -620,6 +618,7 @@
   "japan": {
    "level": "yellow",
    "reasons": [
+    "熊本県天草・芦北地方で震度5弱（11/19 02:22）",
     "弾道ミサイルの報道（「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍）"
    ]
   },
@@ -628,7 +627,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」3件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
