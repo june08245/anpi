@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:15+09:00",
+ "updated": "2026-11-19T06:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T06:16:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T05:25:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -85,16 +95,6 @@
    "at": "2026-11-19T04:30:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "3.1",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T04:25:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.2",
    "maxi": "2",
    "maxiRank": 2,
    "osaka": "",
@@ -198,6 +198,12 @@
      "at": "2026-11-19T05:00+09:00"
     },
     {
+     "title": "トランプ・習近平・プーチン会談を前に、IAEAが北朝鮮の核計画拡大に警鐘",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmxCa0owTWdCR1RROTNlZVUtbWg5alhtTTF5WjNoQnctbWF3VUhVank1ODVZQVhpUzVwV01rSi1jcHdjczNWMENoblpRUllJbVpENE1tN0hZOWdzdzcyZTZ1di1aSWo2akM2QWxfZkJMRkJZY0ljLWhtS1ZnU3BjN2RBdVJIYUZHdHZPOHB3?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-18T23:16+09:00"
+    },
+    {
      "title": "中韓首脳、経済交流拡大で一致 対北朝鮮で「建設的」役割確認（時事通信）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ycE5LeTRLT1B4bnZBYXF6VHJ3QzFMb2ZLWXdGaGViUlU4ODFUczBKcUEtSUF0SWJFYVhhaEJ4T1Q4TmhYN3BHamdOWEFPYThjT0F4dXlmYmNDeGJwYkN6NnRUR3JoR3Q3bFBYQ21IazQzXzhQcUp2UFROVE0xQXc?oc=5",
      "source": "Yahoo!ニュース",
@@ -220,12 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T14:23+09:00"
-    },
-    {
-     "title": "トランプ氏の“最後の球”？ 金正恩総書記との電撃会談を匂わせる思惑とは…専門家「北朝鮮は中ロと二股、アメリカと会う必要がない」「飛行機に乗らない」（ABEMA TIMES）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T14:06+09:00"
     }
    ]
   },
@@ -375,6 +375,12 @@
    "at": "2026-11-19T06:00+09:00"
   },
   {
+   "title": "ドコモ通信障害 藤井総務大臣「大変遺憾」 今月3度目 「根本原因の究明を」",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EbE1yT1Nma0dFWFR4eklnWlBCM0dkbmxpRGZkREVnSlh5QlY2WFF6QmoxMDd4eFlhUFZlZUV4SkZaN0g1Tlh3RDRTN1prOTduUVlFYkVNSzR2YXM?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-19T05:37+09:00"
+  },
+  {
    "title": "相次ぐ米システム障害、急増するセキュリティーパッチ適用が一因か＝専門家（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TczRlbXBDWkY3RjRDdXloaWRlVkpScFROanRqa0NQcmExVWdxQmpGczhIUUl5dzlnbjNndlJiaVdmMHhMRnlaSVFFanpzRGRiSnYwdXRFT0g2MnN1Yl9SSTVROWJWb3BDdEYxdnRocUZNZkEycTNpNm5raDZaTXc?oc=5",
    "source": "Yahoo!ニュース",
@@ -406,7 +412,7 @@
   },
   {
    "title": "知らぬ間に家電がサイバー攻撃の“踏み台”に？ 「Wi-Fiルーター」乗っ取りで個人情報“のぞき見”も…実態は【news23】",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NSDRIcU9jTGZtNmlld05zZWJPQkZEbHNNTWhpSTlTdFBWdHVFb1ZhZlZ5dko2WmM1a1VNZTc4NUJYU0NCbzRTVzJTSVZpaDRjN1BVa2FwWVhMQXo4cGRuZ2UwenU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rTFN2ZHVfMzZvQkZHNnUyOERSanhyTWdaaHdjMEpYejg0YWxtY2luYkpkbVhyN21ILTV2Q0RwcjVjeHZWVDFiUTFYamhfU3lUbHY2WlJjWQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-19T06:01+09:00"
   },
@@ -435,10 +441,10 @@
    "at": "2026-11-19T03:59+09:00"
   },
   {
-   "title": "国際アイスホッケー連盟にサイバー攻撃 公式サイトにロシア選手の写真 文言に「ロシアと対戦するのが怖いのか？」",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhMlB1TmJhYWFkdGZwU084Wi1OeDhiSFJfcUpfQUh6SzRlRm1WTjcwZUxheXJUYkdQYmlNeG91MGhOa3FCYWRyX0VaYVF4dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-19T01:12+09:00"
+   "title": "国際アイスホッケー連盟にサイバー攻撃 公式サイトにロシア選手の写真 文言に「ロシアと対戦するのが怖いのか?」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMHdaYzBPd2UwYWptY0FDdmo1VEhnZV9WRnhxSm5IT1ZDRWV6R1JCNC0xWjRqRlh3ZXFXeE5CNWduOFZpVjhWSkZTZ2VTc1JXUnRFWi1RbXZyOXJUdWgyaGg3emhFVzBTZDluVkRRUGNGSnJVMmlad1E1RVljTVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T01:21+09:00"
   },
   {
    "title": "仏、冷蔵庫へのサイバー攻撃でイランを非難",
@@ -447,16 +453,10 @@
    "at": "2026-11-19T00:00+09:00"
   },
   {
-   "title": "AI半導体大手エヌビディア、ランサムウェア組織による侵入と主張される ダークウェブで10日以内の情報公開を脅迫",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPcWp2NnZCVVBQZWtMekdNa3ROTmstYXkxblVsOU1XRF9IbDVNTjNtSmhCYV9pekhHcU9USVBhMnlISk1fcVhvaml3RThNXzVxU2kyVzNrYmNrSkNRX09kTnlIdlpiZXNvM3lZcFlFQmphdXRq?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T23:55+09:00"
-  },
-  {
-   "title": "大崎電気工業、ランサムウェア攻撃でスマートメーターの生産・出荷停止 埼玉・岩手の関連拠点に影響、再開時期は未定",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVU0zbjFLSTliUlo1WTRaQ0NvR3lKZzczejdXZFlBY3A3cGNXS0lBQ21uMk5KSE5SY3Iwc09DTEt4dFF2TFFlLXJNclRDcE4xaEhseHBDaW1EdGhMc1Ayb1huQUF4ZWRNZWNEampWT2YtMHVjYXcxemU2T21rUTNuSHZ5emRXZEliODYyQkpEeXdhaUZmYUVuSmdmVVdVekpBWGtuaXFtMUx0QQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T23:25+09:00"
+   "title": "ＡＳワトソン、委託先が不正アクセス被害か",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9COHc5NzdGYjVrZDEyVzNRM3VrR0ktUVJpOWd5aE01S3Y3QjZkZVNSa2llcDQxN3IwME95WmVQTlA0X0RKcEE?oc=5",
+   "source": "NNAアジア",
+   "at": "2026-11-19T00:00+09:00"
   }
  ],
  "osaka": [],
@@ -495,6 +495,13 @@
    "source": "読売新聞",
    "at": "2026-11-18T23:40+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "トランプ・習近平・プーチン会談を前に、IAEAが北朝鮮の核計画拡大に警鐘",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmxCa0owTWdCR1RROTNlZVUtbWg5alhtTTF5WjNoQnctbWF3VUhVank1ODVZQVhpUzVwV01rSi1jcHdjczNWMENoblpRUllJbVpENE1tN0hZOWdzdzcyZTZ1di1aSWo2akM2QWxfZkJMRkJZY0ljLWhtS1ZnU3BjN2RBdVJIYUZHdHZPOHB3?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-18T23:16+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "イラン戦争、東アフリカに飛び火か フーシ派がソマリア進出狙う #エキスパートトピ（高橋浩祐） - エキスパート",
@@ -593,20 +600,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T18:44+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ロシア軍機が台湾東部空域を通過 国防部が非難 「海峡の平和と安定維持に資さない」",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82S3pvOVhiWlgtMWQ2anBtaWJhdUY3RF90dlFRZUxBTjB3NGNiQW9GM1BGdTdVTHRqM0JKLUFyeDZ2SHVnaUcwWk02S2R4N3FDWHBlNndBVElHMFF1dnVv?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-18T18:28+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
   "osaka": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "警報なし・大きな揺れや停電の報道なし"
+    "「ドコモ通信障害 藤井総務大臣「大変遺憾」 今月3度目 「根本原因の究明を」」"
    ]
   },
   "japan": {
@@ -621,7 +621,7 @@
     "イラン・アメリカ：「攻撃」「報復」4件",
     "中国・台湾：「封鎖」1件",
     "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「爆破予告」2件"
+    "欧州・NATO：「爆破予告」1件"
    ],
    "items": [
     {
