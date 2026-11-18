@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:15+09:00",
+ "updated": "2026-11-19T01:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T01:17:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-18T18:37:00+09:00",
    "place": "日本海中部",
@@ -87,16 +97,6 @@
    "mag": "2.8",
    "maxi": "2",
    "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-17T19:33:00+09:00",
-   "place": "三陸沖",
-   "mag": "4.5",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -210,12 +210,6 @@
      "at": "2026-11-18T17:22+09:00"
     },
     {
-     "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRlk2M2NIalBqazlPcVhFcUZZSkgwVmE1M2lDdFZVVXh5YXlGaUlCbXpCMmRGSWpNN2h6NnFpRzN4eGNWcUFOeWJQSGNhVzZVMTV3?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-18T16:07+09:00"
-    },
-    {
      "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY00xN3JKLUFQN0dSUUJRbHJEd256TzB1Q19sdGxvbUNsM3VXbWNTZFBGZjFTZlB1QWlMVGg5U2YxcWZRcDZTTHFkLWRUbGJ2RWdmaHRFRnJvQUd4YllnbHJpdW1Rak5COGJRc25LZGV6Y3NKZU1peHEtd1l5NUFlMXcwVUM0eVFRTnRUdlB5YldDZEtURDA2Z1VXY2stQTEwdTFzZDFKSEFNQU9tOTRUNml1VEJjVGoyMWhqTk9EZHNtaGZxSmRxbkRUcWfSAXxBVV95cUxPRG54UTBmNGdsdmhwaG1ORm4tTGpPZE9zNXFESVlKWjNaTGdxeERyUFFjMWRQb08xU1J4NU5jcllDTHFYZkZxeWhEcHFhNTdDaG1oamwwT3ZzbS1JMHhsX3NmRFZJNnY2dXR6SmRDQVhVVm5VZEN3UGVuanVv?oc=5",
      "source": "ｄメニューニュース",
@@ -226,6 +220,12 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T14:23+09:00"
+    },
+    {
+     "title": "トランプ氏の“最後の球”？ 金正恩総書記との電撃会談を匂わせる思惑とは…専門家「北朝鮮は中ロと二股、アメリカと会う必要がない」「飛行機に乗らない」（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T14:06+09:00"
     }
    ]
   },
@@ -375,10 +375,28 @@
  ],
  "cyber": [
   {
+   "title": "米で相次ぐシステム障害、「組織的・国家関与の攻撃ではない」＝国家情報長官",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1td1Q1Mmg2U0NWeDhGQzc1bkxLeExsQ3UtOUg4ekctaWh5aERod3RYeldwa1F0eWhQZ0VjbS1HcVVHckx0cnkzaGRfemZ4N1djTlRhb0RMRHRWM0pwMUx1VUt6V0VKbk9pd2xCSHZVY3VCb0tNYW1mSlB0SS1Id9IBgwFBVV95cUxOY3c3N3NqdWdwQzY2WEtYZkpsTk5BWm1TWnpDQWVtYkFaYllGNjc1Y0ttUGxNR1RWcnhPYXFiXy1oQWl1ZXJwNTd2SG9NZDY4YldOdGVLX1FpbVE0WkV2LWxnQ2hBUUJkTmItT0gzSXJ4UU55MV8xZC15bXZZbV9RZ3J2RQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-19T01:24+09:00"
+  },
+  {
    "title": "アップルで1週間に2度のサインイン障害―11月17日は社内更新が原因と説明",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50RzZuT0ZFb0c2YWRHQ25IZHU5cXIxMGwzR0tnNGZ4bmhoaHR4MmhfSm1hTnNyNlZYOHNXVVhkUHAzV3NuRTdKdTBhR1k2aDVsYWhLUUxxZFBRNE52aDZfejJLWdIBaEFVX3lxTE1wNS1HRVFMNFR4NE5mT2JVU1lXNWwwenVZT2E4azlvOFR5UFJaV3lScGRzN08zWE8wMXdOUTZvaFY3ZWRaZUs2QnRlNGRldE41UVYwRmFMMlhBN0FYMXJHUkJyalJoY1M4?oc=5",
    "source": "財経新聞",
    "at": "2026-11-19T00:22+09:00"
+  },
+  {
+   "title": "相次ぐ米大規模システム障害、脆弱性急増によるセキュリティパッチ適用の影響か？（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zcFhQVUsxS2ZSZTZoYUQ0aVZSOFlnai1PTmlYRXl2UDMtQ0hFTWg1Y3NnZU4zUk9TVHZVaC1HMDR0Vl9VM1JXMndEYlRsVDFSNU02dDdSZEp1QUlsSGdQLTRNQ2ZWUE5rNWJkeU5HSkhPNVphYWxZaHF0S3A5aUE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T22:25+09:00"
+  },
+  {
+   "title": "国際アイスホッケー連盟にサイバー攻撃 公式サイトにロシア選手の写真 文言に「ロシアと対戦するのが怖いのか？」",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhMlB1TmJhYWFkdGZwU084Wi1OeDhiSFJfcUpfQUh6SzRlRm1WTjcwZUxheXJUYkdQYmlNeG91MGhOa3FCYWRyX0VaYVF4dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-19T01:12+09:00"
   },
   {
    "title": "仏、冷蔵庫へのサイバー攻撃でイランを非難",
@@ -403,12 +421,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVC1RZFYzb0lXZVkxaS0tdm01d0pTM2VLU3R2QmRZOHF5RmV6cG1aZ3VBRFNPYktBOVBabXVaemJwNjY0Y2ZUVVM1LTNNSlliVm5tTTIwWXh2czF4NWllZExXT0dLWkpDcFRlTU9JNnVBb3VGR01tVmxfMHhqaXc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T22:52+09:00"
-  },
-  {
-   "title": "J1鹿島 顧客情報4万人流出 配送委託業者に不正アクセス（茨城新聞クロスアイ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlNlRjOVlucTJBbVRWeVg5QmhMZXhhbTdEbG1DczN6UEs4TkxKTzFWRGUzUEJUcmRyYzVncVd3d2JnM3hZeTBOaWN6a2p3aXlVZGluODJqMmpITFF3UGNQUU9xM0gtczl0NFN4a2ZnV2RTU2RjMnluLUh1UGV1Zm8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T22:36+09:00"
   },
   {
    "title": "サービス受託企業への不正アクセスで漏えい拡大…三菱ＵＦＪ銀行６５０万件、ＤＨＣ１９１１万件など",
@@ -451,18 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vcXE2OWRvTGNCbjVxcnViYkplcDFPSFQxRmdTNnBEVFh2UlpwQjY5cmtJM2tEbUg1TGlJclFwT3k0TnlnTXZKeGVHbVd0OEpsRS1rUlZZNjYzX2xubzh4YnJOTW1mbXBaSGk1SW4wcFNUU29mbk1IZENvbFLSAYIBQVVfeXFMT3p3TC1RRjJfRWk2RTdjNzBXZllBTWc2ZWgwNUdBRDhkT1BhRG9fbHVBQmpCUFFPVF8xYnNoWFR5WkU2eWdEWmpQdmxQY1V5TEIxbmxQMERoRFlSVjRSbF8xMHJYTUV3Z0x5bGRkMlY0djRoMGRPX1JDR1hsRTZMWDVodw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-18T21:56+09:00"
-  },
-  {
-   "title": "三菱UFJ系2社で顧客情報流出、KARTE不正アクセスで証券口座番号6万件",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNmJtZGJ2WXpSQTYyT29fSER6dmVlNHBENmMzcUpTZFR2TW5QYnVlNXZJUkdwdDhiM01PaUNPdE1KbUVSR1U3eHk4NzVkcmxBMGw3eS11SFhlMW1Rdk9SMWRkb0trTHFfSGk3aU9UYWlpQjl0?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T21:55+09:00"
-  },
-  {
-   "title": "サイバー攻撃備えでＡＩハーネス導入を 神奈川県警で協議会、専門家が講演",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15eDBKZUZwU0pIN2FnNDF5QnVzUV8tRXJGbWZtX3RXWWtJU1QwYWZhcEFHX01STzVLX05seTVRWHBnakNUb3c0ZjlNVmNIWWdnckp3bTdfUEN5VERXLWpyUmNjejUyc0E?oc=5",
-   "source": "カナロコ",
-   "at": "2026-11-18T21:50+09:00"
   }
  ],
  "osaka": [],
