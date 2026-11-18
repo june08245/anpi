@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:30+09:00",
+ "updated": "2026-11-19T07:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -241,9 +241,9 @@
     },
     {
      "title": "ロシア本土と結ぶクリミア橋、車道のアーチと一部区間が崩落 ウクライナが無人機とミサイルで集中打撃",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yc294NHBOWUZndEUybnYwb2NSek16Nzg5alFUOEg4OUM5R24zdThnRE1QaFpzY1JyelB0QkEzU3pTbXA3Y19sV0FEa3BUWml5b1oyMVZnQVlReXZvV09DLTBrYnkzaGdVV2s3WUphdks1ZHpoWXdoc3gydndVZVE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T07:15+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96czJ1Z1NIMWR1b041cnJkMW5PZ2RTa1Q4bFpHbGtDa1k2bloyc2JVWlVDbjJNMDdjM3JUY3hHNWJFR3JUYW1MemNyUFdaekJTRHJXTU85VmRRUQ?oc=5",
+     "source": "Forbes JAPAN",
+     "at": "2026-11-19T07:00+09:00"
     },
     {
      "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍はクルスク州のミサイル部隊を攻撃（高英起） - エキスパート",
@@ -369,6 +369,12 @@
  ],
  "cyber": [
   {
+   "title": "Microsoft 365大規模なシステム障害に便乗したフィッシング攻撃を確認 「保留メールが24時間で削除」と偽装、Microsoftが警告",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmk0VnV4eTNSMnBKM0JEOFN4U1dyS2ZsVkhOOU01WVd3SU5hWkFRS2tod2hIbE9tb2dHRXNEVGl6bG1ZMGd0QzFYdHBrODRZYUlBa2JtMnozUlBOS0xRODVzSGxRR1FXeXRrYlVScDI4dkd1VXNpWGE2U1RKMDRiLVZGWGhhVTk2QzhVdnlWY0tjajhuVEE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T07:30+09:00"
+  },
+  {
    "title": "車椅子マークの駐車スペースに停めたら非常識？ 障害者手帳はない83歳母、足腰が弱く歩行が困難…利用対象は？【社会福祉士が解説】",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZEpGODVSUmVQMEljZWxMN2pob1NPMWtBajVZRnlqd3ZQb2NSSmpMcDhqdjBRMS1fZlpqR0c0WllXdVNtMzAwV2N1WER0SnNUN1FoZkVVRE9OREY3UmNVTWVjREZIZWN5YVRLQVl3?oc=5",
    "source": "au Webポータル",
@@ -387,16 +393,16 @@
    "at": "2026-11-19T05:37+09:00"
   },
   {
-   "title": "相次ぐ米システム障害、急増するセキュリティーパッチ適用が一因か＝専門家（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TczRlbXBDWkY3RjRDdXloaWRlVkpScFROanRqa0NQcmExVWdxQmpGczhIUUl5dzlnbjNndlJiaVdmMHhMRnlaSVFFanpzRGRiSnYwdXRFT0g2MnN1Yl9SSTVROWJWb3BDdEYxdnRocUZNZkEycTNpNm5raDZaTXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T05:16+09:00"
-  },
-  {
    "title": "【イナイレクロス】バグ・不具合報告掲示板【イナズマイレブンクロス】",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRG1NQS1LcVZPQzU5T0x4MjZjQk5seDZzVWZCd050OEp6aWh2RHBJUWtETi1CSk1teEpJanZNS0diYkhxZWI2M0pKckFWTVhQemhLTw?oc=5",
    "source": "AppMedia",
    "at": "2026-11-19T03:34+09:00"
+  },
+  {
+   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
+   "source": "GameWith",
+   "at": "2026-11-19T02:15+09:00"
   },
   {
    "title": "米で相次ぐシステム障害、「組織的・国家関与の攻撃ではない」＝国家情報長官",
@@ -411,10 +417,10 @@
    "at": "2026-11-19T00:22+09:00"
   },
   {
-   "title": "【パワプロ2026】バグ・不具合報告掲示板",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUFpNNzF3Mm93UVBGbXpyQ2k1Nlh6TWdGdXBDdi1aek12WjRja0ltWkFRR1NFcVdQcktOMGQ1V1Q2aWJqaDloY2pXN0RSUnVKYy1ZMXh5SUxvdw?oc=5",
-   "source": "AppMedia",
-   "at": "2026-11-19T00:03+09:00"
+   "title": "サイバー攻撃で銀行が止まったら？お金を盗られたら？金融のプロも慌てて丸2日かけ見直した「AI詐欺時代の資産防衛術」",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pSDhhellVUEtwSkVzZDRmMTJCSk9ncFBjV0oycnZkLW83YXZaZzJ4RkxsT0tia0VVWUs1a1dKUm5sYUtyQnlwMHpmRUk2bmFoSVRrdGJ5RFlJR0tNSDFtUi16WTBEanM1b2hRN0ptM1l2Z2Rmbk5xbGRhTDFaZnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T07:42+09:00"
   },
   {
    "title": "元陸自ホワイトハッカーが解説》ハッキングの原因となるコンピュータの仕様にまつわる「3つの原罪」 短期的な対策として「日本版グレートファイアウォール」を提案（マネーポストWEB",
@@ -427,12 +433,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFZmYXg0ZFQzLWt3b1YxeHAwbTE5Qk5aOWFsdGZaZFF5cXlmWl8yS2RmMmFDaUJSSmRjRjFrUjRRVWszQjV2Y2pJaDdSR3A2c3dCZGNyZk8wSWFQekpTQzlfSTQ2Q2R5N3AycE9OOWVzR1JuQ1cwZW9UOUJRWVcxS3RlTm1rMXlMQm5GWkJB?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T07:22+09:00"
-  },
-  {
-   "title": "サイバー攻撃で銀行が止まったら？お金を盗られたら？金融のプロも慌てて丸2日かけ見直した「AI詐欺時代の資産防衛術」",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWtCVXMxYTNFYV9TbUU5Z25OR3c0Z0JLd0VPaDJrR1dnTVU2OUpsT3czMlhvZ2NRcDFaVmJkRXFoVkdNeVczZjI2aXFtSmNlcjA2T1p0WEN6MUJibGdLZ3pmU2JzWldrWkhzX3NuRXVXNU1YYm5raDNKQWR3YW5GelhOZHo5c0U?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-19T07:16+09:00"
   },
   {
    "title": "ミツモア、KARTEへの不正アクセスで6万人の個人情報漏洩の恐れ、339万8,469人の情報漏洩も",
@@ -469,13 +469,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア本土と結ぶクリミア橋、車道のアーチと一部区間が崩落 ウクライナが無人機とミサイルで集中打撃",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yc294NHBOWUZndEUybnYwb2NSek16Nzg5alFUOEg4OUM5R24zdThnRE1QaFpzY1JyelB0QkEzU3pTbXA3Y19sV0FEa3BUWml5b1oyMVZnQVlReXZvV09DLTBrYnkzaGdVV2s3WUphdks1ZHpoWXdoc3gydndVZVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T07:15+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "対イランで対応協議＝米イスラエル軍高官が会談",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdkdsbGVqZEpaUjBFRlZxVHlFTnVYaUNFQ3gtS1hTMl9yMmNSTEVYbnh2WDlpNUxPT256OUU4YmZXUTNZMVdVVzNXWmVYQmJkLUY2UThmaUI1S0NMRV96MFhDM1ZKVU5uUm55akRiY2VqSFJsNnRwX9IBfkFVX3lxTE1iWE9TV20yVndnU2ItMklEQWhwMnV0OXpsNDN4NE5JQjBnRzBGdWxmY2Q4WGkyUDNGSVF4ZTI5ak8zQVlFQ0plY2gydWRqWjJ0ZkVnSjFteE00NGZpd0xZY0FIYXNsQWxYR1lURGhwSktZTkVNc1o2d3ZZN3Vudw?oc=5",
    "source": "ｄメニューニュース",
@@ -495,6 +488,13 @@
    "source": "Pasquale Pillitteri",
    "at": "2026-11-19T07:09+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "ロシア本土と結ぶクリミア橋、車道のアーチと一部区間が崩落 ウクライナが無人機とミサイルで集中打撃",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96czJ1Z1NIMWR1b041cnJkMW5PZ2RTa1Q4bFpHbGtDa1k2bloyc2JVWlVDbjJNMDdjM3JUY3hHNWJFR3JUYW1MemNyUFdaekJTRHJXTU85VmRRUQ?oc=5",
+   "source": "Forbes JAPAN",
+   "at": "2026-11-19T07:00+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "【佐藤優の世界史講座】「北朝鮮の強硬発言」編 北朝鮮の強硬発言を読む！ 「南部国境」と日米韓演習への警戒",
@@ -606,7 +606,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ通信障害 藤井総務大臣「大変遺憾」 今月3度目 「根本原因の究明を」」"
+    "「Microsoft 365大規模なシステム障害に便乗したフィッシング攻撃を確認 」"
    ]
   },
   "japan": {
@@ -619,7 +619,6 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
-    "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「爆破予告」2件"
@@ -632,16 +631,16 @@
      "at": "2026-11-19T04:01+09:00"
     },
     {
-     "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T07:31+09:00"
-    },
-    {
      "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍はクルスク州のミサイル部隊を攻撃（高英起） - エキスパート",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME1iUExBMWxEdlBkM0kwbDJubDNQa1Z6TG9VUERMSC1uczcxWVBObjVhaGFZeVI1cTBVUjBVYTVrbzh0cnh4aW5LeUFoMkkxNWZXNG9ESFlEamtZRnJOM2ZRMnNKVXpaNE1EOFVBOVI1NmRSNjRmYmRqc3diSUxUR09fbFBkUWZv?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-19T06:11+09:00"
+    },
+    {
+     "title": "ロシア本土と結ぶクリミア橋、車道のアーチと一部区間が崩落 ウクライナが無人機とミサイルで集中打撃",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96czJ1Z1NIMWR1b041cnJkMW5PZ2RTa1Q4bFpHbGtDa1k2bloyc2JVWlVDbjJNMDdjM3JUY3hHNWJFR3JUYW1MemNyUFdaekJTRHJXTU85VmRRUQ?oc=5",
+     "source": "Forbes JAPAN",
+     "at": "2026-11-19T07:00+09:00"
     }
    ]
   }
