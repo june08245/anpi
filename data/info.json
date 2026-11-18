@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:15+09:00",
+ "updated": "2026-11-18T19:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -323,7 +323,7 @@
  "nankai": [
   {
    "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Zd0pVekZ3c18zN1dORkdWZENBV291RTd0d0ZiUGxPLUxkQlFEcXVNSWpZajlzTFJ4UGRnMUgxam5TVGo3TGxrWWx0Y0hBMi01OHc3NURyYw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEeENIcHZnM2UyYW9INU0wNmg0M0EtSFpNamE5ZV95YXpFQkpham82Q0liTWF5MHI3clA0ekIzMURndjFma2lSRFQtZURic1dublN4Sk14eHdSZ2N1M1MzYjE3T2xMT1E?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-18T19:00+09:00"
   },
@@ -382,15 +382,21 @@
  "cyber": [
   {
    "title": "ドコモ通信障害の原因は「5G SA」だった。「契約を外す」べきユーザーの条件",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QT08wbzM2bFQycWpvLXE5QjhtdlVGRUZGSk51eTdGN29wVGtNZDJuNDRuSFg0d2poOWdlQlZRaG51eXZ0V0pZZ3F1Y1FNeWtlNjh5MFdMQzk3b1pNZTJEMU9lQy1nY2UyNHQ0Rzl3dGc0SHdoZnY0Nmtn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MjU0T2J3aVRRNlBZRmFiNy1CSjQ3ZEt4V2JkQUc0QzJOU2VhLVI0blFGUzloTmNUcTd4Z0IzYm9YbnpxM0lCelE0VVU3S0I0UDhnWms4SGxMMWllb2c?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-18T19:05+09:00"
   },
   {
-   "title": "米国で相次ぐ大規模なシステム障害、各社はサイバー攻撃との関係を否定",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JbGVjbjVlU2M3RnZNQUYtYXdocFdLcHJWdllRZDh5bDdoRnFNeXN5M3YwS1RQd0I3Wnd2Tjd1b1p6enJoRXJfajU3MzhVMHBjb3oyOTM0bXVHaERVMk9NSm5CUlRrOFJtRkJtdGR5Qm42bXd1R1AwU0JsZjBsSm8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T17:00+09:00"
+   "title": "厚労省の医薬品情報システムに不正アクセス 個人の連絡先など漏洩か [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13cDVMTU9BV2xQNXh3OF9KdVR6SldRYVVBSk9Fam81ZEZFNTFtOURORzVTX3d0NkNacmNnZkExWXJUZ2s0dm90TkxUVDhwSmt0RjYzd1NqNEJtU3BweVBZV1BiLWtPdUk?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-18T19:15+09:00"
+  },
+  {
+   "title": "DHC、1911万件の情報流出を確認 プレイドへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DLWVFaTRNS0V1YWF2ZE12ZHQyYnNneVhHaEFGeG1xdF9VLURRTFpyRjVZdWs3aG9QNzM0WnFzc0N1S0Y2d0hyUEJKcXpXSzdnUkhDdE84cHFWc2JDOXRLOWlYeGQyVUU?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-18T19:07+09:00"
   },
   {
    "title": "金融庁、地銀にシステム委託先の点検要請 不正アクセス受け",
@@ -423,6 +429,12 @@
    "at": "2026-11-18T18:37+09:00"
   },
   {
+   "title": "医薬品企業の情報漏えいか 厚労省委託先不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TX0ZPRU5mdURNMVF2WTFOYzVpUmNUdEtRSFlPaVV1eEd2SmY5V2NfSzlHdExMSDNybnBtVE5GcEd3eXZpUHptVXFfN1habVB5NFZZeUlweFFfQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-18T18:33+09:00"
+  },
+  {
    "title": "「仙台市メール配信サービス」不正アクセス受け約3万件のメールアドレスなど漏えい＜宮城・仙台＞（2026年11月18日掲載）",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk1YRWhEaWNPTmNGVTJpOE80OW5FVzBOQnhodjFFcnVXMThxNDVJN2Z4TDFSU2JDR2locXl3MUlUWHpoRlhVcGw5alhTajk5dmpDazdsRFpmTk1ERjNQVTVIcWpaWTJqVGFsQV9PYjNoVmJVcF9ma0tZQjdFYjRvY3FDY0VaM2s?oc=5",
    "source": "日テレNEWS NNN",
@@ -433,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05MmVBdVdFeldSa1lZc0RQREVCVVlrM09ESlNqaG5JZDBUSkt0THNQSFctUXlrMXJ2ZzI2V3hWS3BEb0JtXzhTdWFiaGVodmdVRUczWXAtRHFtVGxuX1dKRkhGdDI?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-18T18:29+09:00"
-  },
-  {
-   "title": "医薬品企業の情報漏えいか 厚労省委託先不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10bDFtNzNpQWo0ZExxNlpZcEVHWUU1T0JwZmRDZ2gzZ2R2bWd3TVVsRHNXT2lrWXljdGFTUzlzSDVoSXNRRk9YUVZqTW93MHBOY3owTVRuUUVlLXJG?oc=5",
-   "source": "琉球新報デジタル",
-   "at": "2026-11-18T18:28+09:00"
   },
   {
    "title": "大崎電気工業、ランサムウェア被害でスマートメーター生産停止 復旧時期未定",
@@ -459,16 +465,10 @@
    "at": "2026-11-18T18:18+09:00"
   },
   {
-   "title": "ホロライブ 公式ショップで個人情報漏洩の恐れ カバーの元物流委託先オープンロジへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkczVzZSakQ3bDMzY2JLeUxwbnFKUWRuMlVpTE5CUGk3TklTYWFCWVJ6dFBFcVE5ZDNnTEV2cWpBRVNNaDJGQXlMYU56YjdIM1Y5Q2I4Rks4d05VVVNnSDBRNE14R2xCdF9UUFNDVDhlYUpRNzJNSWpITWJOeDhFTkVheVlPeGlteWZqRXpFS3lQRU14cUthemg1QkkzMVI5cnBWR28yc3p5TUk?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T18:15+09:00"
-  },
-  {
-   "title": "県立大先端医療工学研究所ウェブページに不正アクセス 改ざんなど確認、公開を停止|社会",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aSlRxSXJlRXFZYTJZaWhxbFp4b3dnWXF3dW5XbDd1ZlVPVW1mdEJPelJMYnNTUFEyMlFqczNtUzA1Vjk3aTIxYXRhR2dSWER2VW92ZWw4WjhzMGdMOGpkX3NpZHN3M0dRSEhmTkpkSQ?oc=5",
-   "source": "神戸新聞",
-   "at": "2026-11-18T18:15+09:00"
+   "title": "厚労省「安定供給・流通確認システム」に不正アクセス／Sobi Japan、アステラスから「オーファディン」承継 など｜製薬業界きょうのニュースまとめ読み（2026年11月18日）",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pek1GWDVLM1R2M3lpa21oYjh1Qm1Ld3hGYVd2VVFPWjllbHVyV2Z1ZVVMdElFZ2ZvS3ZDV3gtbFdNSlNOZi1zcTY3Z2RLc3dMUlpRcTlFZw?oc=5",
+   "source": "Answers（アンサーズ）",
+   "at": "2026-11-18T18:18+09:00"
   }
  ],
  "osaka": [],
