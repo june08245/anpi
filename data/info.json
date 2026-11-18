@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:00+09:00",
+ "updated": "2026-11-18T16:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -126,12 +126,6 @@
      "at": "2026-11-18T14:43+09:00"
     },
     {
-     "title": "米国がイラン島を空爆、湾岸地域が一斉に警戒態勢を強化",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzZoMUxRTjJMRkkxNGFfNzduNUhSX1IzdGVfX0N0RXdEVUs1U3UxMVpGS1BoT0RMaURhQUZpR0lYWjF4WmtJVWMydDBNS05IOURRV0lOZFBYSGNWMlREZ0xoOXdJZm1RUFAta0hLV2FOc2psUlJ3aXpQZWJzUlNIUDZaWHlKcFlpdEo5OWhZRU1qd0duUTd4ZHhOTS16azhWLVlxc2dPSQ?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-18T14:34+09:00"
-    },
-    {
      "title": "イラン南部ケシム島に米軍の精密攻撃 革命防衛隊のミサイル発射施設を標的、損害は不明",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03NU1UQTJyMWl5RXBzMjQ4NjVPcW5PZWFMN1RxUUxDdUM3OEt2OVVLOC1ybDFJcDJVdTAyM0x1ano3UlROWGVaZ3hMRmJqN1dyV2pHZm0zZ1R3YVZBMk9rYUs3UlZnelJz?oc=5",
      "source": "NOVAIST",
@@ -148,6 +142,12 @@
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-18T11:57+09:00"
+    },
+    {
+     "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXUHB0RVdBUUQzbVJ5M3NjSDVoeWhtb0JKMHE4SUQ0dmJwcmNPUHFkdG5qYW1maXJIZ0d4Um8wSjVNRWxFNU5vZmd2aXVJQmE1ZTFSMzJhRy1Vd0JKX2ZfbUd3?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-18T10:30+09:00"
     }
    ]
   },
@@ -198,6 +198,18 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRlk2M2NIalBqazlPcVhFcUZZSkgwVmE1M2lDdFZVVXh5YXlGaUlCbXpCMmRGSWpNN2h6NnFpRzN4eGNWcUFOeWJQSGNhVzZVMTV3?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-18T16:07+09:00"
+    },
+    {
+     "title": "スパイ容疑で処刑…北朝鮮「アメリカ担当官」のむごたらしい死に様（金賢） - エキスパート",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU5nZUprT1Y4cXBfODhneTNsT255ZU9LN1VOSy00NzZ3MGRrcnFxX1NMX0F4M0NEMFZjSGpvM0JGZklPWHFjRUlOM3k1U0MyZGQwdVVRbkoxV0hycEc2WERrOWFoNVI2SVAtZElCTWFySExGT3gxOGlWaS1fdkQ4THc2OTNLS3ZD?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T15:41+09:00"
+    },
+    {
      "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY00xN3JKLUFQN0dSUUJRbHJEd256TzB1Q19sdGxvbUNsM3VXbWNTZFBGZjFTZlB1QWlMVGg5U2YxcWZRcDZTTHFkLWRUbGJ2RWdmaHRFRnJvQUd4YllnbHJpdW1Rak5COGJRc25LZGV6Y3NKZU1peHEtd1l5NUFlMXcwVUM0eVFRTnRUdlB5YldDZEtURDA2Z1VXY2stQTEwdTFzZDFKSEFNQU9tOTRUNml1VEJjVGoyMWhqTk9EZHNtaGZxSmRxbkRUcWfSAXxBVV95cUxPRG54UTBmNGdsdmhwaG1ORm4tTGpPZE9zNXFESVlKWjNaTGdxeERyUFFjMWRQb08xU1J4NU5jcllDTHFYZkZxeWhEcHFhNTdDaG1oamwwT3ZzbS1JMHhsX3NmRFZJNnY2dXR6SmRDQVhVVm5VZEN3UGVuanVv?oc=5",
      "source": "ｄメニューニュース",
@@ -220,18 +232,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyTW90RGM2MXhvUzN5MnhLOHRpQ1ZkdHR3bHp3b2FaMV9ZMS1RSC1sV0dOWktJTmI1aE43VExHYlkyY0VILTUwRzFkM25kV1k2bWtUN3hFLUxvR2d5WHRybVN0NGlTcDRKZU1xbi10MG1vTFQ4ZlJNMjRQUGRkMjA?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T13:35+09:00"
-    },
-    {
-     "title": "「非核化」に言及したのは日本だけ…トランプ氏初参加のクアッド共同声明に「韓半島」も「北朝鮮」もなし（2）（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT3o3NVVoNVh5SHAzdDVtbXltb1Nya21seG9XeklweEhLemtTMWU2TU1GYmZtc0hhaEVNbWpJcjZtZ0hSeUVMY2xjQmVBZG95aEZBeWk4ZDRiMVYxTldxNm5HN0dOcVlna1lOb2FGYkJxcXd2V3hFYmpUd2JWcWc?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T13:16+09:00"
-    },
-    {
-     "title": "北朝鮮・金正恩総書記、APEC前に白頭山訪問…トランプ米大統領は中国での会談に意欲",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjMWxUMnZSOWczMHVUR3ZGZjJaZENQRnhPMGJ2ZHgxUHJrTHloNE43MXM3b2hZZzRWTl9TUUs3VklBUUxUbzQzekVJU01Ec25Ma3l1ODIydWxxMTJSRWxsYl9Ndm1IaTJvNlVodWRJemFsd9IBVEFVX3lxTE1YRXJmcjZNdU95Q0RaSVVHd1lfSndNbkd3SmNkRXlPUi00a3k5SjNEdFlfRXdqYnEzOHV2M2lRLXdDem0tVW5zWXNyMGJnbEduWkxmaQ?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-18T13:13+09:00"
     }
    ]
   },
@@ -387,6 +387,12 @@
  ],
  "cyber": [
   {
+   "title": "NTTドコモの5Gサービスで、今月3度目の通信障害がありました",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdElrR3M2YXUycUtQTEZBNnY0b2VmVFJ4R2xLRDlfVmpfVXBTcTRaZURGLW1qZUVUcV9FY1RiMGpnUGl1VzFhQmdHY0llQl9SdFBHMnU2eWE5WFdJLUJzUGR4ZDVlakk?oc=5",
+   "source": "やさしい朝日新聞",
+   "at": "2026-11-18T16:02+09:00"
+  },
+  {
    "title": "【速報】“てんかん”の影響で正常な運転できないおそれのある状態で運転　意識障害起こして暴走　当時22歳女性を死亡させたなどの罪問われた女に「危険運転致死傷罪」成立認め「懲役5年・実刑判決」",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZODJTQzZrbVlDZlgzS3BzMnlNQ3pBcEZVUWJkNjV1UFlkMGIwdXRwb2hJM0NHcGNvb0NrTmptVXFGZkgzb0ZiZU5hOWZoTkpaU0dIU0lRbGJWeHk4Y0FfcGZTQUJMVFN5YkdLNnNCQjZyZDZDa09TNEVB0gF_QVVfeXFMTUMtTFF1T3RsbVNUSVhaZkxLRElqNzNFWFJaV3V2LXBrUWFmcWxiR2Qwb0lLb1Z6SUxfOVVwYUsyOVZGeXpWZHl2dlMzSk1qUTREUUxmQkF1OFFabmdXWTVZTERfX1RKOVR1aTRCb1ZKSVhtb2c5N2pERk9FYmgzYw?oc=5",
    "source": "ｄメニューニュース",
@@ -409,6 +415,12 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWhwTkdBMWdTS0JRdHdNQ051Wk5LbXV5Yk9CakNmaGxPWGpudFNrTnhVeEZjYTN2X0xXTldPbFVuY0NvbXRoQk9wMnBrQThqMVB1VDlwTGtPdWkwNG9jM1NvamNlU1hlNUs3bGNxdEtwbVdudDdZeDhrZGk3MjlEZUE0QlFUY3Fl0gGcAUFVX3lxTE00eDIzR2V2VUJ3S2Z5U3NnUG8wR0hPNnZjcXRqVXlYY2JFOUJCcWFjb3VJcnR0TDBzTnRhcVJvMjZqY3JDMW5Md25Yakx6OFJrU1lfTE5sdnMzUU9UbEtwekZLQ0lVU1NpeDVUbUI3M2wwUDh4TVdJeExoaXhyWW5ZNjluLWNfZFVPT1BobVpPNUVtVUZ0WXBPOGRGeQ?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-18T15:11+09:00"
+  },
+  {
+   "title": "米運輸省、大規模な航空通信障害を受け、501億ドルの追加予算を要請（米国）",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NcHlCbE1UN2JWbGxubnM3TlB4TjRzNGRUUnBDOUVxYTRwZ2tzaVpqZk1GZWY1eU5tX2Q4QWtRem9CMW1EMGVXekhTQ25VQlFWeUQ3QVNaRTd5dUpnMi16SjRiR0ZNcHpQTVU0?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-18T14:40+09:00"
   },
   {
    "title": "ルビオ米国務長官、FAA・マイクロソフト・JPモルガンの障害とサイバー攻撃の関連性は「証拠ゼロ」と発言",
@@ -435,6 +447,18 @@
    "at": "2026-11-18T13:43+09:00"
   },
   {
+   "title": "AI時代のサイバー攻撃にどう備える？ エーピーコミュニケーションズ、ゼロトラストの導入・運用支援を大阪で紹介",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuSmIzcWgzYmdleVowb1dYOW9NcnVUZjVRZ3hIWnRoak5MVU1PYzl1VV9GSWZsa2FvMzM5RWpSN3c1M1BxNHBLQncyLWhQWFk0WkE?oc=5",
+   "source": "DXマガジン",
+   "at": "2026-11-18T16:04+09:00"
+  },
+  {
+   "title": "UPSIDER、Notion AI経由で137名の個人情報漏えいのおそれ 委託先Fireworks AIへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3RseW9JcDNiWG02SHFSUmJEVFo2eWN4Y24xMjZPekhKUnk1bHpYZXFuQ1VPMUlyaGFaZ3owd2ptYkxud3E3QUJKdk9wSXdIeWg2RXlFa2lvcU1aYUdWZHRUMDVrdWFGMGZFUmRtZ0t2LVNDUnp4dnFZRmtlUFg3WjZYc3E5OHFQSmM5cGF0dV9ySTFtcEEtcEgtLWdUb3l1NklnY0dGdw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T16:00+09:00"
+  },
+  {
    "title": "ウェルスナビ、約91万人の情報漏えいを確認 プレイド「KARTE」へのサイバー攻撃で|セキュリティニュースのセキュリティ対策Lab",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXhralh1ajJHSW43bUhneDZ1N0NRVkNQZ29CMlZHeV9aaU1ZQU1YNGhkVVZKcFNsUmE4QWtRZDJsTkhFTnJUa18yMXc1VnYydFgyMHZmTEdyNzRhSjlWdjFMMjB3VzRGRlowR192Nkc3R2g2cTdZUHhuc3lDTlVxYkZydG5WV0hyR0U1OHRneDhqbGJVdmx6ZTBR?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -451,34 +475,24 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwVXdkMGRGeDB5a1ZEYzBKb3Z2YUZBVUxFVkI5VTNnM0FLeGhFQ1MzUU0yZ1FLMGtaaTNVaGRVY3RLQWhyZjRLaDJ5aS02NUJtWXo3UkVkbHBHb0tnNmVJV1pPSnA3amZqOUoySQ?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-18T15:41+09:00"
-  },
-  {
-   "title": "宮崎市の「スマート申請システム」メールアドレス８９８２件流出…メール配信会社が不正アクセス受け（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSUtrZ1V0dFBIaW5WY0owcll3Y2ExckktWHFVZ1JZQWtCSXJSTEpQdWJTZE9vcjRGQU9wZC1VbkJfclNidjJfZHVSV2lzem5qY0Y0ZEhva0FvVlVSVGFhbHItMk56LTdTOGRscmZ5alltNjlpcERMRmktN3JfSG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T15:36+09:00"
-  },
-  {
-   "title": "米XBOWと販売パートナー契約を締結 自律型AIエージェントによるペネトレーションテストを国内提供 ～ AIによるサイバー攻撃の高度化に対応し、脆弱性の継続的な発見・検証を支援 ～ - 株式会社エクサウィザーズ",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qSm1uZFBnYkdtQTRyS3VvOE1YZnlZekV0QzhHbVFDc0FmaE1SZEdHc3d6ajh1QnVOZUdXRS13Sjh2U1BlMTFMZ3JWdjh5OXM?oc=5",
-   "source": "株式会社エクサウィザーズ",
-   "at": "2026-11-18T15:31+09:00"
-  },
-  {
-   "title": "ハンコヤストアで5万6,031件の個人情報漏洩の恐れ-、楽天市場店の受注管理を委託するGoQSystemへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVZlbjNEeGVKV2tuLXJ2alRLWVVoM1ZrX3MtZDJPNnF6N0pfMTdGeGczRkpZM0JMU19TWU8tRWZxUDVXUEM1QVIyUnh1TXEwTmV3M0NUajE4N0tFYTk0Z2lucnBRbzAxWGhtdVQwN2dDcU9UTlVhMXVNNVZfNkxtNEJtNUlZLVRsRGw5UV9DVW8tam5waklQeVV6QQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T15:30+09:00"
-  },
-  {
-   "title": "【第4報】当社子会社が提供する「ブラストメール」における不正アクセスによる情報漏えいに関する調査報告書の公開について",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHU3FoU2N6dXRhYm4xaG5mZXFQd3U3YUhTWU9hOWNONDlDa3BPR3lPSU9peUZTUXZmM281ejVGek4yZFdoU1ZqcGNOUHVTX0xES1JqTzlR?oc=5",
-   "source": "株式会社ラクス",
-   "at": "2026-11-18T15:21+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRlk2M2NIalBqazlPcVhFcUZZSkgwVmE1M2lDdFZVVXh5YXlGaUlCbXpCMmRGSWpNN2h6NnFpRzN4eGNWcUFOeWJQSGNhVzZVMTV3?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-18T16:07+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "スパイ容疑で処刑…北朝鮮「アメリカ担当官」のむごたらしい死に様（金賢） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU5nZUprT1Y4cXBfODhneTNsT255ZU9LN1VOSy00NzZ3MGRrcnFxX1NMX0F4M0NEMFZjSGpvM0JGZklPWHFjRUlOM3k1U0MyZGQwdVVRbkoxV0hycEc2WERrOWFoNVI2SVAtZElCTWFySExGT3gxOGlWaS1fdkQ4THc2OTNLS3ZD?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T15:41+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "中国国防相が18年ぶり訪伊、軍事対話で欧州との関係改善模索",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEltTFNqZWJxS3pDTjlVZmxWTnkxaW5TMDdLZUM4UUNzaGE2c3d1LTdJSEZaeXZrcEJkbUwwdUU4eWdseDNhaS1ESWNqMlZfX05rR1JVNk5RXzBxekVBaGNSdW1fdmt5Y2NuaDRwNGlLdFZyaXkwQnluMmU5d0R4SmtzU2NyOWZo0gGcAUFVX3lxTE1tSEdDYWU1eldrd0hGS3dha25zVWo2RjAxcllka204UmV2N3VjTl92cUNheHRqc2FhWnhmUFB4TjUyejNKcUdDdUtZdGJ6LVRiYVRwZV9wQ2JqMnBfZ2lPa0g4eGFOWmZITVQwNkw5M2NESlB3VVlDOWx2VG5pR3F4bkdmcW9lZE5MVWN1b1lGMDRRVXYyUDJsa3pwNA?oc=5",
@@ -506,13 +520,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T14:36+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "米国がイラン島を空爆、湾岸地域が一斉に警戒態勢を強化",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzZoMUxRTjJMRkkxNGFfNzduNUhSX1IzdGVfX0N0RXdEVUs1U3UxMVpGS1BoT0RMaURhQUZpR0lYWjF4WmtJVWMydDBNS05IOURRV0lOZFBYSGNWMlREZ0xoOXdJZm1RUFAta0hLV2FOc2psUlJ3aXpQZWJzUlNIUDZaWHlKcFlpdEo5OWhZRU1qd0duUTd4ZHhOTS16azhWLVlxc2dPSQ?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-18T14:34+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
@@ -557,20 +564,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "「非核化」に言及したのは日本だけ…トランプ氏初参加のクアッド共同声明に「韓半島」も「北朝鮮」もなし（2）（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT3o3NVVoNVh5SHAzdDVtbXltb1Nya21seG9XeklweEhLemtTMWU2TU1GYmZtc0hhaEVNbWpJcjZtZ0hSeUVMY2xjQmVBZG95aEZBeWk4ZDRiMVYxTldxNm5HN0dOcVlna1lOb2FGYkJxcXd2V3hFYmpUd2JWcWc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T13:16+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮・金正恩総書記、APEC前に白頭山訪問…トランプ米大統領は中国での会談に意欲",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjMWxUMnZSOWczMHVUR3ZGZjJaZENQRnhPMGJ2ZHgxUHJrTHloNE43MXM3b2hZZzRWTl9TUUs3VklBUUxUbzQzekVJU01Ec25Ma3l1ODIydWxxMTJSRWxsYl9Ndm1IaTJvNlVodWRJemFsd9IBVEFVX3lxTE1YRXJmcjZNdU95Q0RaSVVHd1lfSndNbkd3SmNkRXlPUi00a3k5SjNEdFlfRXdqYnEzOHV2M2lRLXdDem0tVW5zWXNyMGJnbEduWkxmaQ?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-18T13:13+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
    "source": "TVer",
@@ -590,6 +583,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T10:42+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXUHB0RVdBUUQzbVJ5M3NjSDVoeWhtb0JKMHE4SUQ0dmJwcmNPUHFkdG5qYW1maXJIZ0d4Um8wSjVNRWxFNU5vZmd2aXVJQmE1ZTFSMzJhRy1Vd0JKX2ZfbUd3?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-18T10:30+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "米中ロ首脳会談は「ヤルタ会談」と異なる、他国の運命を決めるものではない ロシア大統領府",
@@ -624,7 +624,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「NTTドコモ「半月に3度」の通信障害にユーザー怒り 5G SAの「4G切り替え」」"
+    "「NTTドコモの5Gサービスで、今月3度目の通信障害がありました」"
    ]
   },
   "japan": {
