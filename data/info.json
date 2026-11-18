@@ -1,15 +1,9 @@
 {
- "updated": "2026-11-18T23:30+09:00",
+ "updated": "2026-11-18T23:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
-   {
-    "code": "14",
-    "name": "雷注意報",
-    "level": 2,
-    "status": "発表"
-   },
    {
     "code": "15",
     "name": "強風注意報",
@@ -23,8 +17,8 @@
     "status": "発表"
    }
   ],
-  "headline": "大阪府では、強風に注意してください。",
-  "reported": "2026-11-18T15:21:00+09:00"
+  "headline": "注意報を解除します。",
+  "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
   {
@@ -156,10 +150,10 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "高市早苗首相、初訪中も冷遇　習近平氏と握手し声かけも返答なし、首脳会談は困難か",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmw0bUtVQnh1SndXUUhCRFdlWDd3c2pHc21tdHc5c1J2Rlg1SDRuN2J5NExJTTVsaGRGd2NtOFNPajhoNl9xN0NidmNxTHhzREVybnFiamhMWVFwTm9mX1VsM1Bwcm9QYlVvNk9qd0hyWWx6SVRuNEViME5zd1pOZnJOcktXMUZuLTU0Wl9VcjZCTHExcFZRZGNnbGtEZDVFMlk4M3pNUHhFZ9IBrwFBVV95cUxQY2czRmtmUnY1M3lPbzkyWTdMeHJzdG9nNlI1WXJNYWhEbGFldW5MdTRZWnJQX0NGUnA2RThIYjdUaVFIQ1o4bnZ1Nmo4X1pvLWVKVHFlQW90NTNHTndXMHFSelB5R2ZaOGcwMzlSd1FKek45eTNqUzQ1QzhKaTc3aUlPY1IyV25LcFVNc0I1N3I3UUJLZHdza2dsbzBJa1pMTkVRU2JyTjZIZ3paMm9B?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-18T21:51+09:00"
+     "title": "高市早苗首相、初訪中も冷遇 習近平氏と握手し声かけも返答なし、首脳会談は困難か（産経新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tRFRpQjRnc0dyUS1ERmdMbUV2ZHRFZklzanJkckY1LU5WNS1Sdk5udk1nRVBVeVpPYThZUlVVN2JjUlpuekxRR2tSbldHMjZ1V3M4akNlN3V3V0NaOTNrRWlxUC0zVUhqRDN0ZGo4N0cycXFaTDBHRWkzTDVSc00?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T22:51+09:00"
     },
     {
      "title": "「第2のヤルタ会談」とも…あす史上初の米中ロ首脳会談へ 中国は“第二次世界大戦の歴史”を強調 「新型軍国主義」批判に日本は？専門家見解（TBS NEWS DIG Powered by JNN）",
@@ -228,10 +222,10 @@
      "at": "2026-11-18T14:25+09:00"
     },
     {
-     "title": "金正恩委員長の「金がない」一言で…北朝鮮核開発の資金源となったシリコンバレー (中央日報日本語版)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
+     "title": "トランプ氏の“最後の球”？ 金正恩総書記との電撃会談を匂わせる思惑とは…専門家「北朝鮮は中ロと二股、アメリカと会う必要がない」「飛行機に乗らない」（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-18T14:23+09:00"
+     "at": "2026-11-18T14:06+09:00"
     }
    ]
   },
@@ -240,8 +234,14 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めての日露直接対話",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-18T23:40+09:00"
+    },
+    {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSdIB1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T21:14+09:00"
     },
@@ -268,12 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Sk5HNVdYTm80SVZ4ZXZVS3hEQWJpQWJZMThFcDlkLXpINkdGN0dwYktkb1hXSkh3NS1naUl4QmRUTnRhdFpfY2FyNkZoS0dXeDhULUk2OW1KR1NMU0xCd25IVGZjaUZN?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-18T14:37+09:00"
-    },
-    {
-     "title": "ロシアに攻撃されたキーウの橋からBBC報告 「橋をめぐる戦い」",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tWTdoQTA1SEI3cFFtTHd0OUpabWNEYVphOGlKZDYwSTg0TkZ1SFREZDQzNUZibk44c2h3Y1h4bUhTdWRwZ0FORXZ5ZUM4bUhXMDlqNHktZklxYjUt?oc=5",
-     "source": "BBC",
-     "at": "2026-11-18T14:21+09:00"
     }
    ]
   },
@@ -474,6 +468,20 @@
  "osaka": [],
  "world": [
   {
+   "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めての日露直接対話",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-18T23:40+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "高市早苗首相、初訪中も冷遇 習近平氏と握手し声かけも返答なし、首脳会談は困難か（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tRFRpQjRnc0dyUS1ERmdMbUV2ZHRFZklzanJkckY1LU5WNS1Sdk5udk1nRVBVeVpPYThZUlVVN2JjUlpuekxRR2tSbldHMjZ1V3M4akNlN3V3V0NaOTNrRWlxUC0zVUhqRDN0ZGo4N0cycXFaTDBHRWkzTDVSc00?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T22:51+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
    "source": "ニューズウィーク日本版",
@@ -495,13 +503,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "高市早苗首相、初訪中も冷遇　習近平氏と握手し声かけも返答なし、首脳会談は困難か",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmw0bUtVQnh1SndXUUhCRFdlWDd3c2pHc21tdHc5c1J2Rlg1SDRuN2J5NExJTTVsaGRGd2NtOFNPajhoNl9xN0NidmNxTHhzREVybnFiamhMWVFwTm9mX1VsM1Bwcm9QYlVvNk9qd0hyWWx6SVRuNEViME5zd1pOZnJOcktXMUZuLTU0Wl9VcjZCTHExcFZRZGNnbGtEZDVFMlk4M3pNUHhFZ9IBrwFBVV95cUxQY2czRmtmUnY1M3lPbzkyWTdMeHJzdG9nNlI1WXJNYWhEbGFldW5MdTRZWnJQX0NGUnA2RThIYjdUaVFIQ1o4bnZ1Nmo4X1pvLWVKVHFlQW90NTNHTndXMHFSelB5R2ZaOGcwMzlSd1FKek45eTNqUzQ1QzhKaTc3aUlPY1IyV25LcFVNc0I1N3I3UUJLZHdza2dsbzBJa1pMTkVRU2JyTjZIZ3paMm9B?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-18T21:51+09:00",
-   "topic": "中国・台湾"
-  },
-  {
    "title": "ブルームバーグ：ロシアは、カリーニングラードからの軍の撤退と引き換えに、NATOを1997年時点の国境まで後退させることを提案した可能性がある",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVBjOUdaSnN6cUhjU3gyRTVyMl9DX184aFNFSHozb0VMR3VnX1ZFNnd3QldMTHVXUEpDOUJ5OWtVSm1wMkhaUFlKU01vLXdrREszc1U1Z3hoNk5TMnJIWVdpZWNscWZXMjRvaU9sQ24xckZqWnNlSjZCVWx6Y0RpcE9xVDB3RDNnSy1IV3lpQllVbFZhN3pHR3Q0bERaUjVCWHFV?oc=5",
    "source": "Informat.ro",
@@ -517,7 +518,7 @@
   },
   {
    "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSdIB1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-18T21:14+09:00",
    "topic": "ロシア"
@@ -605,13 +606,6 @@
    "source": "매일경제",
    "at": "2026-11-18T16:07+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月18日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4aDZac1lvdmk1cW4tcGViWDgzZzRMU1ZYU1NPN3hKcWxINmsyVm9Falo1QmRmeVZFZUJEM1JZMjJmWkg2X0d5Zm5kdE5fTzV3RExOdXhLR295SHhxUE5N?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-18T15:57+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -632,7 +626,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」5件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
    "items": [
@@ -650,7 +644,7 @@
     },
     {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSdIB1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T21:14+09:00"
     }
