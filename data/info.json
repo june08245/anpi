@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:30+09:00",
+ "updated": "2026-11-18T18:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-18T15:21:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-18T18:37:00+09:00",
+   "place": "日本海中部",
+   "mag": "5.0",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-18T10:52:00+09:00",
    "place": "岐阜県飛騨地方",
@@ -91,16 +101,6 @@
    "at": "2026-11-17T19:33:00+09:00",
    "place": "三陸沖",
    "mag": "4.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-17T17:00:00+09:00",
-   "place": "千葉県北東部",
-   "mag": "3.1",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -381,22 +381,40 @@
  ],
  "cyber": [
   {
-   "title": "米国で1週間に相次ぐシステム障害、ルビオ国務長官「単なる偶然、組織的攻撃ではない」と断定",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14ZWNSVTJ1Tk5HMkFlN2xRS1pSNFZrNWRvNjNLd3RGb1VTbXpzWG5WNGJLNFFOeVF2NEhuTDFSTUJqY3BEaXZsZzBwMVlNeHpYUVR1ZDhJRnE2bmN3Q2VpSVhJS2c0UG5ZQWFYT2lWbzlzLVhO?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T17:05+09:00"
-  },
-  {
    "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3OFN0cWY1eWtNTnppWGFaQnAwUnYxdE55SWgtWnZOMmNMOXBVSkhDdllhLXItRjdTcDZ6T19ZaGZZRGw2cVdia2xxMGFteHFuNW9JUWVRYWFVOHc?oc=5",
    "source": "ABEMA",
    "at": "2026-11-18T16:55+09:00"
   },
   {
-   "title": "米1万8000便欠航の通信障害、原因解明なお難航 運輸長官が言及",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqQmFod0tiRktaNG1TYVM3YVBzSzE4eGpYZ0hPaU9lUEl2YVVHOUIwd2tRaEM2c3JNMExfaHRzaTZCdzdxNElscXRySWFCaDNlZ0RWTngtbXZWUW5hSkc0cjFJRE1OM1ljWXdMN2FxTlpWWUM3?oc=5",
+   "title": "医薬品企業の情報漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05NnNWWWZXbk5aeENZZ2x4YzZYTk1heWtOSEVMY25meVo0cTYyWTN4MU1BWTdRblQ0YnJZbFR4Q2xhTmxibkVGdlI0eHo4eUUzWDM5c1I0dEZCVGVQeFE?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-18T18:37+09:00"
+  },
+  {
+   "title": "医薬品企業の情報漏えいか 厚労省委託先不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TX0ZPRU5mdURNMVF2WTFOYzVpUmNUdEtRSFlPaVV1eEd2SmY5V2NfSzlHdExMSDNybnBtVE5GcEd3eXZpUHptVXFfN1habVB5NFZZeUlweFFfQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-18T18:33+09:00"
+  },
+  {
+   "title": "大崎電気工業、ランサムウェア被害でスマートメーター生産停止 復旧時期未定",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXdUZIWklaaHNqdmVubDJocEdPWUhxMmNGWTFaenRfRDVpSXMwWVp2VmVnOExEQVJuT25sR0VZcVU3VGd4eGZQbG1pN2h6ZjVYRlloWE9zeDFfSFRPR0lXckxvRk5oV0k5MVl0SW1XTHV1Z05O?oc=5",
    "source": "BigGo ファイナンス",
-   "at": "2026-11-18T16:25+09:00"
+   "at": "2026-11-18T18:25+09:00"
+  },
+  {
+   "title": "DHCで顧客情報1911万件流出 委託先プレイドの「カルテ」に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGTk41bDBLYmNfX2tvWTRLcGZYTktVZ1RtOC0wY01xb1JBcm9YSWhJSlpjTFh3VFk0UWE0VGZyclAwelpxeTl6ZU9vb1NDLU56WWthalpuZFQ4UFpQSGhQYV9ZWEdhTjRwQnljOW5xLVFMdmdZ?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T18:25+09:00"
+  },
+  {
+   "title": "ＤＨＣ、顧客氏名やメールアドレスなど１９１１万件漏えい…マーケティング支援会社に不正アクセス（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqb3FrZ0dNdHZBNXVnZVFmb3VVcU52cmE5ZE1VekZtejJSTmQ0TlBvcVZfSWtacUVjdjg0NnFBbVlVcm85T0Vldms2NUNvNmEyOE01T3hWUFREblFCbG5GTm9nZlgwSjhrM2RfbElMX2k0QmNJY1BIN3JDYnoxazQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T18:21+09:00"
   },
   {
    "title": "【三菱ＵＦＪ ｅスマート証券】委託先への不正アクセスで口座番号など漏えい",
@@ -418,7 +436,7 @@
   },
   {
    "title": "「相談が20倍に」AI悪用のサイバー攻撃急増 最新対策の展示会 セキュリティー状況を採点も",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZMVdIU2k3ZzlMOHhiWFJJWXNEaGYwMTg4ZjRlTmNJem1ScWZUSXJzQjVTYzN3cVJqWHhPS1VSTmRHSldBNlFqeXc2SUZ3bzdJbFh6U0Vubw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQkpMdTNWYlpjRFgtTnBMNGJjSWVlbHFtaWFfcl9YR1FGWGVUR3RNRDdtclRKUlBmdEZYZkVPVm42dDhJR043cDdRajJFb0g1QTV2VHk3ZmpNR2lmTmUzWjRReVBSVUk?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-18T18:12+09:00"
   },
@@ -451,24 +469,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DVnR5M1AySlgwalpYRV94VnFoaVRZN0FUV1BnRkRSc1R5WjJseThMcDk1TnpPZm5kazVnTjJfSGtuLWp5azBQOG90Uk1zR2dqYXRuLXFyY0VkZDZqY04wQkY1MDUxcHkybS1SSTJKUnl1UVFV?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-18T17:55+09:00"
-  },
-  {
-   "title": "ポケットマルシェ、消費者94万4,885人と生産者等1万164人の情報漏えい、一部会員は個人情報漏洩の恐れも-プレイド「KARTE」不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdV9OLXAwSy16TDAtVVV6VVBMUXhVbWVKVXp4eWtHT0RnSkJOdnVKblN1b2xTTm9WcHVISktEV28zT0ZZVHZteTcwRlBEei1vbFppRnFqZFhaWDV5TC0zM1NJLUdDZ3d3SlNQSkZzX0hWdmVJQ29INUp6ZVBTQzFhbmM3YmY4VUp2RnhndmViZDlrUlMzeVE?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T17:50+09:00"
-  },
-  {
-   "title": "厚労省の医薬品情報システムに不正アクセス（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wSGk4eXJ3Zzh3c1hYRnZpOUJTTjVDNFBoTEs4OE1falBjcjV5YnRSSjFHSHNlVmlzdzVyZlVKSTB2cjIyWjh1RXgzc24wMnNxSnFKR3ZDRVBzdVRCaHJ4SDEta21rYlZHSUN1czJpWXdYcmYyMzlLWTBsbzU0RFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T17:48+09:00"
-  },
-  {
-   "title": "三陽商会、顧客情報の一部が外部流出 委託先への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01Y2plb0hlRUFISERlVDFPem9BRWhqYllNYkFlTks5SUdHMkZabVdmcjM3dEx1Y2xQMVZueUpENmlxZ1JHVEk3eUo3TkppVk1KY1dZdlo4MFlIUnBZLXIwV3BJYjU2b1R1bWNPZA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-18T17:45+09:00"
   }
  ],
  "osaka": [],
