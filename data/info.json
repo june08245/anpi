@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:45+09:00",
+ "updated": "2026-11-19T04:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,26 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T03:48:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.0",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T03:45:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T03:37:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -75,26 +95,6 @@
    "at": "2026-11-19T03:20:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T03:19:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T03:15:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -247,9 +247,9 @@
     },
     {
      "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-18T23:40+09:00"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T23:41+09:00"
     },
     {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
@@ -483,9 +483,9 @@
   },
   {
    "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-18T23:40+09:00",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T23:41+09:00",
    "topic": "ロシア"
   },
   {
