@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:00+09:00",
+ "updated": "2026-11-19T03:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T03:10:00+09:00",
+   "place": "宮城県沖",
+   "mag": "3.9",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T02:54:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -85,16 +95,6 @@
    "at": "2026-11-19T02:35:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T02:30:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.8",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -168,6 +168,12 @@
      "at": "2026-11-18T18:28+09:00"
     },
     {
+     "title": "APEC首脳会議台湾代表の施振栄氏が中国に到着「科学技術やAIでの強み伝える」",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11eEFKWGFVdjZvTXlGcTZ6NVhhSGJGRldUWE4tUEhjaWU0N1Z3azJVWUdRTzVOckNTbFJ6ZDA4b3NiSTdmNlNHc1pRSHVDbDdlVTdscGVUWlZXSjNVNm5N?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-18T16:01+09:00"
+    },
+    {
      "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UzJvMjJxSzhIX3hDVUN1YlZHUjh1YVFIbjFMbnEzako2QjQ1QmJSU2duM1ZpSG9yTzluRkFHcG9Vdk44cFVDd3Q1RVFYM2p3Y3BxcnIxSEVtaDNMUlBnVUJ3NV9qZG5PX2EzTnhHUHFnbUlvUmVldHZsc3E2SE0?oc=5",
      "source": "Yahoo!ニュース",
@@ -178,12 +184,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T07:31+09:00"
-    },
-    {
-     "title": "「日本人学校はスパイ養成所」とする悪質デマを野放しにした中国（文春オンライン）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNVdaa1RQWncxTHdEMkYyNTk0R0EzNTlHcGdtU19vOGRkdDlWd0h6NUFMaHpXc01MbTlRdmllbUh6Zm44WlVrcG1yaTVWMmJxWUpHWDBxVDhFWG1wc2h4OGNpU1BtRmhIaVUySkNmYTZQelhheGxFeGNjSnFXZDA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T06:12+09:00"
     }
    ]
   },
@@ -210,12 +210,6 @@
      "at": "2026-11-18T17:22+09:00"
     },
     {
-     "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRlk2M2NIalBqazlPcVhFcUZZSkgwVmE1M2lDdFZVVXh5YXlGaUlCbXpCMmRGSWpNN2h6NnFpRzN4eGNWcUFOeWJQSGNhVzZVMTV3?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-18T16:07+09:00"
-    },
-    {
      "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY00xN3JKLUFQN0dSUUJRbHJEd256TzB1Q19sdGxvbUNsM3VXbWNTZFBGZjFTZlB1QWlMVGg5U2YxcWZRcDZTTHFkLWRUbGJ2RWdmaHRFRnJvQUd4YllnbHJpdW1Rak5COGJRc25LZGV6Y3NKZU1peHEtd1l5NUFlMXcwVUM0eVFRTnRUdlB5YldDZEtURDA2Z1VXY2stQTEwdTFzZDFKSEFNQU9tOTRUNml1VEJjVGoyMWhqTk9EZHNtaGZxSmRxbkRUcWfSAXxBVV95cUxPRG54UTBmNGdsdmhwaG1ORm4tTGpPZE9zNXFESVlKWjNaTGdxeERyUFFjMWRQb08xU1J4NU5jcllDTHFYZkZxeWhEcHFhNTdDaG1oamwwT3ZzbS1JMHhsX3NmRFZJNnY2dXR6SmRDQVhVVm5VZEN3UGVuanVv?oc=5",
      "source": "ｄメニューニュース",
@@ -226,6 +220,12 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T14:23+09:00"
+    },
+    {
+     "title": "トランプ氏の“最後の球”？ 金正恩総書記との電撃会談を匂わせる思惑とは…専門家「北朝鮮は中ロと二股、アメリカと会う必要がない」「飛行機に乗らない」（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T14:06+09:00"
     }
    ]
   },
@@ -316,16 +316,16 @@
  ],
  "nankai": [
   {
-   "title": "南海トラフ、被災したその後も地域は続く...香南市で事前復興計画策定へワークショップ始まる",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00eEJlLVVWSFFWQV9Zd1REMEw2dDZyUnJxbHB6bG5wUVNreDg4M2FacWZZVjU2ZHFCQUpjVjNfNE9lNnFvODIxR0Q5RUsxbjh3S1NZMm14R0gtT2FzTnFF?oc=5",
-   "source": "高知新聞",
-   "at": "2026-11-18T21:08+09:00"
-  },
-  {
    "title": "南海トラフ巨大地震発生時に頼れる「防災道の駅」に…高松市指定の津波避難ビルを活用した避難訓練【香川】",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sWVhwbWJCVWQwU3VTLXpIT19OTV9oWFBJM0hmMXJZTzNjYjVnaEFURDRSYnRBdFN5anBPQzBRalZDcW9TbTF0SFpoZ3ZaVDhzcnZiVXRYTDVSQXhfZ2F4dTY4MDVMQ0VlMkhLTUZB?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-18T19:18+09:00"
+  },
+  {
+   "title": "南海トラフ、被災したその後も地域は続く...香南市で事前復興計画策定へワークショップ始まる",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00eEJlLVVWSFFWQV9Zd1REMEw2dDZyUnJxbHB6bG5wUVNreDg4M2FacWZZVjU2ZHFCQUpjVjNfNE9lNnFvODIxR0Q5RUsxbjh3S1NZMm14R0gtT2FzTnFF?oc=5",
+   "source": "高知新聞",
+   "at": "2026-11-18T19:08+09:00"
   },
   {
    "title": "南海トラフ巨大地震との関連は？今できる備えは？防災庁｢備蓄を最低3日分、できれば1週間分の用意を｣",
