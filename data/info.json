@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:15+09:00",
+ "updated": "2026-11-18T15:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -9,10 +9,22 @@
     "name": "雷注意報",
     "level": 2,
     "status": "発表"
+   },
+   {
+    "code": "15",
+    "name": "強風注意報",
+    "level": 2,
+    "status": "発表"
+   },
+   {
+    "code": "16",
+    "name": "波浪注意報",
+    "level": 2,
+    "status": "発表"
    }
   ],
-  "headline": "大阪府では、急な強い雨や落雷に注意してください。",
-  "reported": "2026-11-18T09:53:00+09:00"
+  "headline": "大阪府では、強風に注意してください。",
+  "reported": "2026-11-18T15:21:00+09:00"
  },
  "quakes": [
   {
@@ -126,16 +138,16 @@
      "at": "2026-11-18T13:47+09:00"
     },
     {
-     "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
-     "source": "TVer",
-     "at": "2026-11-18T12:38+09:00"
-    },
-    {
      "title": "焦点：「相手の譲歩」待ちの米国とイラン、外交打開見えず再衝突リスクも",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-18T11:57+09:00"
+    },
+    {
+     "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sdndjLUcyVlNHbzdTcHJmM0RqVU5hTXJlZUpxbnhWMUxocEU0cWV5RFBhOHZVSGNfM1RpUjhTRW4wTmxnMV9aUmRfUFdwOHA3a2x3VGFmTEFVWnZQWE0xLXZxQXZiWU5TZmx0eEVR?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-18T11:44+09:00"
     }
    ]
   },
@@ -168,16 +180,16 @@
      "at": "2026-11-18T06:12+09:00"
     },
     {
+     "title": "トランプ大統領 米中首脳会談で台湾問題が議題になるとの見通し 金正恩総書記との会談にも言及",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44N2M1LVg4YlVwY0NaWHBKNnY0d0dWWkNfcVpkVndVNFBkNFdld3dCc2xaWWNaRzJyb0dWZ183TkFIeVQ0dlFQZWpETlRLYWFOM1pYWjVTTWxpSUpWVVYyUThtZEJ5cGFtamVDVlRR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-18T01:25+09:00"
+    },
+    {
      "title": "台湾防空圏にロシア軍機",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xQ0ZNS0JVd0thbjRjNFlMcU9LMXNQd2pCY1hHZnF2U1I3R2xqa1pWbHY2REM1Wk1CeDlnWVBFdXZNdjQtSXVyMVBYbHZDY3dYbUVWZnZDRGQ?oc=5",
      "source": "京都新聞デジタル",
      "at": "2026-11-17T20:12+09:00"
-    },
-    {
-     "title": "推定ロシア機２機が領空侵犯、台湾と与那国島の間を通過し太平洋へ 自衛隊が初確認の飛行経路 機種は不明",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWlyd1haV1NTYUZXaDlDQ1VQUG1Jekp1RTZ3SVdGTHFCUmw1RkQ3UWFUNUVfQjhSWjZwT3dPMFcwckgyblQ4bXk3R0lvSTBRUmRtRFZIRWFHQ1dKOUE5aWduc055empTa3Z1QVZ1UVlPa09rNW5XbXRUWVkwWFVMcjc2WE5NVXpK?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-17T17:27+09:00"
     }
    ]
   },
@@ -204,6 +216,12 @@
      "at": "2026-11-18T13:43+09:00"
     },
     {
+     "title": "史上初の米中ロ首脳会談“ヤルタ2.0”に金正恩氏がサプライズ参戦?! その前に高市総理はトランプ氏に釘を刺せたのか?【news23】（TBS NEWS DIG Powered by JNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyTW90RGM2MXhvUzN5MnhLOHRpQ1ZkdHR3bHp3b2FaMV9ZMS1RSC1sV0dOWktJTmI1aE43VExHYlkyY0VILTUwRzFkM25kV1k2bWtUN3hFLUxvR2d5WHRybVN0NGlTcDRKZU1xbi10MG1vTFQ4ZlJNMjRQUGRkMjA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T13:35+09:00"
+    },
+    {
      "title": "「非核化」に言及したのは日本だけ…トランプ氏初参加のクアッド共同声明に「韓半島」も「北朝鮮」もなし（2）（中央日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT3o3NVVoNVh5SHAzdDVtbXltb1Nya21seG9XeklweEhLemtTMWU2TU1GYmZtc0hhaEVNbWpJcjZtZ0hSeUVMY2xjQmVBZG95aEZBeWk4ZDRiMVYxTldxNm5HN0dOcVlna1lOb2FGYkJxcXd2V3hFYmpUd2JWcWc?oc=5",
      "source": "Yahoo!ニュース",
@@ -214,12 +232,6 @@
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjMWxUMnZSOWczMHVUR3ZGZjJaZENQRnhPMGJ2ZHgxUHJrTHloNE43MXM3b2hZZzRWTl9TUUs3VklBUUxUbzQzekVJU01Ec25Ma3l1ODIydWxxMTJSRWxsYl9Ndm1IaTJvNlVodWRJemFsd9IBVEFVX3lxTE1YRXJmcjZNdU95Q0RaSVVHd1lfSndNbkd3SmNkRXlPUi00a3k5SjNEdFlfRXdqYnEzOHV2M2lRLXdDem0tVW5zWXNyMGJnbEduWkxmaQ?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-18T13:13+09:00"
-    },
-    {
-     "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRdnEwVS1WYlU1bS0zQUI0dU1YZ1BLdW43VHFUNTM3SzdfbjRtVFVrOWxUbXA5aWg2eGVzaWg0dGwwOVFZOWJLUF94N3lUYmQ3RmFMV0dVSVNqWlpJUHZDc0gwTDJCNXUyS2FFSFd6VUtOd9IBVEFVX3lxTE5oQmR4VUo3QVVYaE41aHp6bkl6bTJ6MFpPX29ySV8xWEdqbl9xZS1vcVAtTFlVczljdXhMSHVuM3hWXzVyQXk3TjB6OHIwTmRwR0tDVw?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-18T11:37+09:00"
     }
    ]
   },
@@ -375,6 +387,18 @@
  ],
  "cyber": [
   {
+   "title": "米国で複数業界に相次ぐ「システム障害」！銀行からNSAまで、一体何が起きているのか",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBSEVvTGpmWFZfWll3UFRyQktnM19CMXlNVUJ4WFFSN2FiVTM2NUZvUmZhT1d0NVNwZ0hKcEpyTUU2eWI3UkwtamhaXzNKM3BTSDFvMVBmYjVKdWZYbllCUzVRWVo2bkxPbWNNNjJIYkVoUS16WFVJbG5TS3hoYUk?oc=5",
+   "source": "PANews",
+   "at": "2026-11-18T15:13+09:00"
+  },
+  {
+   "title": "米でシステム障害相次ぎ備蓄需要増　英日でも非常用品に関心",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWhwTkdBMWdTS0JRdHdNQ051Wk5LbXV5Yk9CakNmaGxPWGpudFNrTnhVeEZjYTN2X0xXTldPbFVuY0NvbXRoQk9wMnBrQThqMVB1VDlwTGtPdWkwNG9jM1NvamNlU1hlNUs3bGNxdEtwbVdudDdZeDhrZGk3MjlEZUE0QlFUY3Fl0gGcAUFVX3lxTE00eDIzR2V2VUJ3S2Z5U3NnUG8wR0hPNnZjcXRqVXlYY2JFOUJCcWFjb3VJcnR0TDBzTnRhcVJvMjZqY3JDMW5Md25Yakx6OFJrU1lfTE5sdnMzUU9UbEtwekZLQ0lVU1NpeDVUbUI3M2wwUDh4TVdJeExoaXhyWW5ZNjluLWNfZFVPT1BobVpPNUVtVUZ0WXBPOGRGeQ?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-18T15:11+09:00"
+  },
+  {
    "title": "ルビオ米国務長官、FAA・マイクロソフト・JPモルガンの障害とサイバー攻撃の関連性は「証拠ゼロ」と発言",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHWWdkUUVBbUVmY0tONUtPSlFQQTU2NndRSC1WZG9OTmRkam9aVVhDUy04aXdPNHNHLVBhVnNPNnMzby1IalFUOVh2TnZEdFJWVjN1Xy1fYl9XTEo5bC1XNFdjMzRmdDEzM0RBUUdBSUIxZFpT?oc=5",
    "source": "BigGo ファイナンス",
@@ -393,16 +417,46 @@
    "at": "2026-11-18T13:54+09:00"
   },
   {
-   "title": "アップルの内部システム更新が大規模障害を引き起こす アプリストア、クラウドサービス、決済が一時停止",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pSGJQTWZBdGNSZElob0J3WnRHcFhQZU5ZV2Q0OUNMWG1GUWFoQTZ5MlRFMFhsa0gteDZ2VTBKanN6Qk1SamVjWXlHajdQSnJBcUh0Z0pKTGpjd1BmRHduRzYyZ0UtOHl5UW5ob05WSGlJWVMz?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T11:35+09:00"
+   "title": "ウォール街モーニング・ブリーフ：システム障害の嵐がリスク回避を誘発、S&P500とナスダックは4日続落、ソフトウェア株が急落、エヌビディアは時間外に力強く反発",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSzJTOVJBRVJmcFZkRGMyYnZaREF4Y0h5UGpKQ2xxeE43M09nc25IcXk0UnBaeHRjaDlKcVp6QkdLWW1xbms2TXdreUZqZjNVZlRsWG5KakpzOWhqSC0xYTBDb2VNakd3VEYzTjNxMzNWSTJNZ3RlajVLZVZoR28?oc=5",
+   "source": "PANews",
+   "at": "2026-11-18T13:43+09:00"
   },
   {
-   "title": "アップル、大規模障害の原因は「内部アップデート」―iCloudやApp Storeに影響",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00MDFpcVdkNlNvVFVobjRVUFZ5bE1jQThTYTdmSi1Kd0RNUG1wMHZMMVhhZUo3NmxkRW0tUmgxbWZWZkx5RDJFMGFNWEFlRXpyUkhaakJ1MWtLdnRNSVZDQmFpYWNDRkd40gFoQVVfeXFMTTQwMWlxV2Q2U29UVWhuNFVQVnlsTWNBOFNhN2ZKLUp3RE1QbXAwdkwxWGFlSjc2bGRFbS1SaDFtZlZmTHlEMkUwYU1YQWVFenJSSFpqQnUxa0t2dE1JVkNCYWlhY0NGR3g?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-18T11:20+09:00"
+   "title": "【第4報】当社子会社が提供する「ブラストメール」における不正アクセスによる情報漏えいに関する調査報告書の公開について",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHU3FoU2N6dXRhYm4xaG5mZXFQd3U3YUhTWU9hOWNONDlDa3BPR3lPSU9peUZTUXZmM281ejVGek4yZFdoU1ZqcGNOUHVTX0xES1JqTzlR?oc=5",
+   "source": "株式会社ラクス",
+   "at": "2026-11-18T15:21+09:00"
+  },
+  {
+   "title": "メルシャン系、2000件超情報漏洩 アララへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZndGV283SDQzMlkybUF6VEQ3Z1FoYnVYUV90dEIzemtFeGVpaFlHdzVySG9nbHBadXVMbUIzTzZMTllZWGdwM3p2cWZIc3BHMl9nSkdMSlozbFE4WWNHRWVJSmpGREFINmdMVA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-18T15:20+09:00"
+  },
+  {
+   "title": "フィクションと笑えぬ「ＶＩＶＡＮＴ」の敏腕ハッカーの存在…現実で相次ぐサイバー攻撃被害、危機を未然に防ぐ砦に期待",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iRVI2d1NxbFFZaVAxaWk3aEhvYVVnU0FyamhqVzZBbjFPWTN6eWNiNFQtWlkyT0twakxmVVpNZ3dERWY0ZUZNZUNtX0hKTU45dFFCLVItLWVSdjVXd3RZbXJWYkRGaHpVUE8xcXQ1ZUp2Zw?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-18T15:17+09:00"
+  },
+  {
+   "title": "NewsPicks(ニューズピックス)、36万1,598件のクレカの一部情報漏洩や一部会員の個人情報漏洩の恐れ Metabaseの脆弱性(CVE-2026-72898)でMFAを迂回し不正アクセス|セキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGRrdmZ1ejU4b1JLdS1OS1JyYlNvQllGSjJIWlRuaGUzRXlFbnh2VUtacHVfdTNzLXlDZDJwY3BvRUFObFZKMFRmeU81Qm9JSm5acllrcU16bnFwSzUwZXZuTkZpeFA3VjVMYjR3T1ZTQkp6bm9FWlVITTJpYVhBRnU5VXc3S3VVUkFWelc0cS1jY0E?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T15:15+09:00"
+  },
+  {
+   "title": "三菱UFJ eスマート証券、証券口座番号約6万件・年齢約10万5,000件が情報漏えい プレイド「KARTE」への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGo4amZlZWlpY1A2RTZyaVNERHNpQVczdHUxeTdQWWlKYkc5djdoM1N1YzBCR0pJWG4tZGo3Y2tkOHVYMW9ncTYyYmRZWmpPMVpHTlk0c1NrN0wwMzh4TmRiVnc4dm9XWTZKcDVEcXA2b2RxTV9zanJBNGtMejdSb2VtOWp2STNwRjdobzBSYXdDRlhPZVJISw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T15:13+09:00"
+  },
+  {
+   "title": "ＮＨＫ会長、サイバー攻撃に見解「視聴者の皆様の個人情報を守ることを最も重視して様々な対策を講じている」（スポーツ報知）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83MUw0cXFJZXFtd3c0ejBiaTQ1Yk9mLXRGUjV3TjJxMHRVdnRnMDg0TGlYSk4yNmFHeEwtXy1ZVVROVlpIVVBCUXVOSExPSmZmZUVkTGhkeVhGZEtXMHdxWGxpMHg4QldEd1o2OHp0Yy1ZQzBnQXVqeklZWXZHcG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T15:10+09:00"
   },
   {
    "title": "内閣官房 国家サイバー統括室 、「冷凍・冷蔵設備」へのサイバー攻撃に注意喚起",
@@ -421,48 +475,6 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnpsS0tPYmlISEF6X24teVNCeENHSzRyU252VGVhb0JoZWcxSTFtY09TLVRFcVNnQjJoQ2RveVR5YjlEWUNYaldJcFRjRGZjYTBMMHdJNFQtTUttUVdvU2d2R3Bqelc0SmtlZkw4RHYzc2FGcVVjU1J3aUlfMkNOemhmbnFUTHNUclFxSlBoOF9rUHMwdjdB0gGcAUFVX3lxTE5sZ2w0RDIxWGRjLTlmamhnX0xxc3FRcDJaWGh1THFWdmlPd2k5bTZkWEdNREhFOUFCbzNCT2hEZ3JrczNpdnR1SV84QmZfSjRUMWY1RzJvTFd1QzBSYTlidjU0SDlwd09nNDlJcEJHTkJCNEt2d0k1Z0p6TnI1Z2hETHQzd2NRQUFrYVBuemJNaWJrVl9mQ3VyeEtvVg?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-18T14:34+09:00"
-  },
-  {
-   "title": "急増する不正アクセス・情報漏洩の脅威に備える！「権限放置」や「ID使い回し」のリスクを可視化する「特権ID・アクセス管理 セルフ診断チェックシート」を公開",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UX3ZZYkszeVYxUWJNeXlXc19SVTJxbHRPRmJVVWVsVGMzT0hiWG1vOVUzSDNMUl9IbkxvQ0xiOVRYTVVQZFRsZWxUQWJBTTBZNjR5bA?oc=5",
-   "source": "ASCII.jp",
-   "at": "2026-11-18T14:24+09:00"
-  },
-  {
-   "title": "【調査結果のご報告】NewsPicksで発生した不正アクセスによる個人情報漏洩について",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0SlZsR3NTRUZzakZKWG1BNDdIdU5waW1QMVpFc2kxV19qdi1mVC1XbDdIVnczRThUQ0RWWjlWYVRPOE9CUGVhSWxfZHV5NEN5MEE?oc=5",
-   "source": "NewsPicks",
-   "at": "2026-11-18T14:23+09:00"
-  },
-  {
-   "title": "サイバー攻撃対策は「重要な投資」 重要インフラへの攻撃急増「これからの時代地震など天災と一緒」との声も【 #きっかけ解説 】",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sZ3Z0Y0JNdHZ2MTdFZExDblJuYmJGM1N0UWJSOFhFNTJodVlTSVdERU8yQ2hmRS1rQlhvSlYya3JpZjBQZDRHemhRckxuTnlXSjAtLURIamZld1I5eUlFZV9GTHdFMHlTMm8tcUFfTlpvRVQ4dkhKbEtIZWE?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-18T14:21+09:00"
-  },
-  {
-   "title": "「KARTE」不正アクセス、しまむらやアルペンの顧客情報が漏えい プレイド株は連日ストップ安水準",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGcHpwOVRnYzNZTEo0R1MyRDRRdzNQWGpYRHdTWTVmMkxOeW5QVzRlRHhnQkdiNDhKekxoYzloOFFMTDMxOUdhRlZHWkEyMFJ0WkE?oc=5",
-   "source": "CNET Japan",
-   "at": "2026-11-18T14:13+09:00"
-  },
-  {
-   "title": "岡山県キャンペーン アドレス1045件漏えい 「アララ」不正アクセス（山陽新聞デジタル）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41NndlR0xoNHRuYnROejJSd3pNRkx1N3N0ZFJIMVNRX1R0X2xMWjV3SmNvb3l6dzl0cmhLVWRrTmV6M1R5Y1pzN1UyZUZwTDlUVjlneXRTNFJEOWllZkxFODdJQ2pnY2hXcVB2RE5GMmFpTGtPM09Qb2Zra013aE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T14:09+09:00"
-  },
-  {
-   "title": "メール配信システム「KARTE」への不正アクセスに関するご報告（第二報）",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqOGswcWxUM0xORnY0ZDFBM3AtX29Qbm5iUi1hT04zY2RvQXZTVWV5bzc5c1ZmLWdoekx6WlIxcU5ucXE3eUtodXFEd0ZWeVRpR3cxUnctMjJYUVFl?oc=5",
-   "source": "株式会社CAMPFIRE",
-   "at": "2026-11-18T14:09+09:00"
-  },
-  {
-   "title": "楽天証券に不正アクセス、最大約1,125万口座の情報漏えいの可能性 年収や出金先口座も",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15OG1JaC1jdlY1OXl6T2VfVkpCREYxRk05NnJXV2hJc3lVenBiamQzMHFaVzRidHliMm5kTTdDaHVCR2x4MjJxQk9ZWjNwNkNJemN5RWFWVVM4b29rdnBOanphWmxIVk9lcUVNMm9VaTFsMDQ?oc=5",
-   "source": "innovaTopia",
-   "at": "2026-11-18T13:53+09:00"
   }
  ],
  "osaka": [],
@@ -531,6 +543,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "史上初の米中ロ首脳会談“ヤルタ2.0”に金正恩氏がサプライズ参戦?! その前に高市総理はトランプ氏に釘を刺せたのか?【news23】（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyTW90RGM2MXhvUzN5MnhLOHRpQ1ZkdHR3bHp3b2FaMV9ZMS1RSC1sV0dOWktJTmI1aE43VExHYlkyY0VILTUwRzFkM25kV1k2bWtUN3hFLUxvR2d5WHRybVN0NGlTcDRKZU1xbi10MG1vTFQ4ZlJNMjRQUGRkMjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T13:35+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "「非核化」に言及したのは日本だけ…トランプ氏初参加のクアッド共同声明に「韓半島」も「北朝鮮」もなし（2）（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT3o3NVVoNVh5SHAzdDVtbXltb1Nya21seG9XeklweEhLemtTMWU2TU1GYmZtc0hhaEVNbWpJcjZtZ0hSeUVMY2xjQmVBZG95aEZBeWk4ZDRiMVYxTldxNm5HN0dOcVlna1lOb2FGYkJxcXd2V3hFYmpUd2JWcWc?oc=5",
    "source": "Yahoo!ニュース",
@@ -545,13 +564,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
-   "source": "TVer",
-   "at": "2026-11-18T12:38+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "焦点：「相手の譲歩」待ちの米国とイラン、外交打開見えず再衝突リスクも",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
    "source": "Reuters",
@@ -559,11 +571,11 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRdnEwVS1WYlU1bS0zQUI0dU1YZ1BLdW43VHFUNTM3SzdfbjRtVFVrOWxUbXA5aWg2eGVzaWg0dGwwOVFZOWJLUF94N3lUYmQ3RmFMV0dVSVNqWlpJUHZDc0gwTDJCNXUyS2FFSFd6VUtOd9IBVEFVX3lxTE5oQmR4VUo3QVVYaE41aHp6bkl6bTJ6MFpPX29ySV8xWEdqbl9xZS1vcVAtTFlVczljdXhMSHVuM3hWXzVyQXk3TjB6OHIwTmRwR0tDVw?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-18T11:37+09:00",
-   "topic": "北朝鮮"
+   "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sdndjLUcyVlNHbzdTcHJmM0RqVU5hTXJlZUpxbnhWMUxocEU0cWV5RFBhOHZVSGNfM1RpUjhTRW4wTmxnMV9aUmRfUFdwOHA3a2x3VGFmTEFVWnZQWE0xLXZxQXZiWU5TZmx0eEVR?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-18T11:44+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
@@ -610,9 +622,9 @@
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「アップルの内部システム更新が大規模障害を引き起こす アプリストア、クラウドサービ」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
