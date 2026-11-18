@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:30+09:00",
+ "updated": "2026-11-18T16:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -114,6 +114,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、湾岸諸国の米軍基地攻撃 外交努力よそに応酬激化",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xaDF5VXQ0NGh3THhxT0Z5Nk9EREFPSFJwZ2FNUDRaT0RfRDhlSlAweFczY1RxWDVHV0pHZTVRUG81a1paclI5Z3BYNnN5NE1jX2FhZ0RPQVJ3MVZsUnpBM3FxMVY4Z0dvM0NRLWFR?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-18T16:35+09:00"
+    },
+    {
      "title": "クウェートとバーレーン、イランの空襲を防ぐ 連合軍がイエメンのフーシ派軍事拠点を攻撃",
      "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOLUhoZGgyWnpYdXIwQ1dlb2VVZ1p4UEpZTjNJSmVyQUU3TDBySXZ5blhpMHFRcnlYYVRrNUxGNlc3M3BLU2ZaRFlVN1lYVG1tUTc5cElPM3pmNWhNMGlvaHBZZ1UzSU5PU29LYmM0Z20zbWczMkIydmhYcUt2V2U1b3lrQkszWXF1em9fTkQ4c0VkS3VERHFidHp1eTVGVVhDRXZvcGxjOXQ3VzFneHhPYmdvaUoySWktcWZTQmRpaEFjbG5MeTdLZTEzc1AyRU5sUHhDLW5uUVdyWVZCeEhjLUJlZDNhMk5pX1QxcHllMDVMRDlqUHNDLVdBMjBTWDI3bkNYajg4Rkx5V1pjdG0yZUJRUE9WbFM3QVB2Z2dEbjNjMVN1SzVEQnFpaHZncklRUmk0Y0VQVDhhWWpzY0drU083OEpxMk16YVdQOXVhQnlfX1hpNDlYekZPcVROU3RmcC1uMUh5SDFsNkFMNUE0WlU2X2hqMmctLUZLU2pYaHppUlZZWTNHdU4tQmdsV01PNTV6S09OeDRfdVRWQXlNVl9yRE9LbENYYzRhTGczbnloakFVSW53d3JEcUlJajhCQnZ5OHh3R0xJWkYxUXFJQk5vTEllWHBCWUpmN21laF9KdmhlbElzeHhiNkR3ZElUajFicFczVlRXWTJVRHBHemxDalFOQTh0RHdxbG5uVFR6dHpNTHVtTEQxUXVEN3VPRkl1VWJhamk5ck9uRm5pZzZ4YldhOEhL?oc=5",
      "source": "アラブニュース",
@@ -142,12 +148,6 @@
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
      "source": "TVer",
      "at": "2026-11-18T12:38+09:00"
-    },
-    {
-     "title": "焦点：「相手の譲歩」待ちの米国とイラン、外交打開見えず再衝突リスクも",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-18T11:57+09:00"
     }
    ]
   },
@@ -387,10 +387,16 @@
  ],
  "cyber": [
   {
-   "title": "アメリカで相次いだ技術障害、「組織的な攻撃ではない」とルビオ国務長官",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DQVhnTVhiQlZfNlhkU1JfWGc5emJxajMtcnhyRGdYYWFOTG5nc2dfZlpsRzA1WnRuUHJWNW5KZzRGLThacUx0bFhhZEdRNldoZ0NUeU5xRXZkYkNxODhLRtIBZkFVX3lxTE55czB0YzJNS0dBclJrcTA3UDZmWUZlMW90dkJhb2hzanI4dkEyXzJ2YTE0T3l2TmxidTZHZ0dEQVMzcWc5cHEzdXBIV3RadTVXT2hjNlV0V0NfQzJIWGJXQ3JvYTZOQQ?oc=5",
-   "source": "BBC",
-   "at": "2026-11-18T16:21+09:00"
+   "title": "米1万8000便欠航の通信障害、原因解明なお難航 運輸長官が言及",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqQmFod0tiRktaNG1TYVM3YVBzSzE4eGpYZ0hPaU9lUEl2YVVHOUIwd2tRaEM2c3JNMExfaHRzaTZCdzdxNElscXRySWFCaDNlZ0RWTngtbXZWUW5hSkc0cjFJRE1OM1ljWXdMN2FxTlpWWUM3?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T16:25+09:00"
+  },
+  {
+   "title": "アメリカで相次いだ技術障害、「組織的な攻撃ではない」とルビオ国務長官（BBC News）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wWHdpendrSGozNDY1dkZqaS1zZ2dKNjFyY2oyWFZwWVhybTRXcS01NFNHSFlSN2dkSndzWjVkSWl0dDBuRVkwd2h3b01ZSlMxaHo5U1FTeDhab21veFJsVDhBeExtNHlmdFRXcmpMQ0tuVXZDZ3V3WGlfUmpwRkE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T16:22+09:00"
   },
   {
    "title": "NTTドコモの5Gサービスで、今月3度目の通信障害がありました",
@@ -435,16 +441,22 @@
    "at": "2026-11-18T14:35+09:00"
   },
   {
-   "title": "内部更新でAppleの複数サービスに障害 App StoreやAppleCareも影響、復旧進む",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40eDhLcGhkYTllWkVuS183MGxoMmJmVGx2anQwbE1IMU9JV21WVmJNN3RsbU1ZQUJNWXFVaDZTREtZa2VWdlg1U0FSTHhLWmp0Qi1lOWE4SHQzZU54TDNweWdyWGJkM1Fy?oc=5",
-   "source": "NOVAIST",
-   "at": "2026-11-18T14:01+09:00"
+   "title": "医薬品安定供給・流通確認システムへの不正アクセスに係る 個人情報の漏えいについて",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiazYyVmdITlRRUlVCZnZ4WWNQUTZ1bTV6RkQyd0ZBQld0YllKNkdHSy03UVZZeFBETHhLNXN3Q29lZ3h1TDlCTFBGV25zaVBKMVc5cmk2S3Y?oc=5",
+   "source": "厚生労働省",
+   "at": "2026-11-18T16:39+09:00"
   },
   {
-   "title": "米でテクノロジーへの不信感強まる－システム障害で社会的信頼揺らぐ",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDJYc013TTNuc2NRVXlkV1JScGtNNGhrOTN1dTJianBOTjExZmdrMFdjSUYxU2Y1bC1oQ3Z0MXRpeC0zcTZidzBBZFZOTHE4b3ZXdVN5X1BGalBVdXpyV19qZXJPeVRicFdqblZoOVI3NUJJR2ZyZXRlbmRIeFhoX2ZDTVE0MnpVOGtFS0F3?oc=5",
-   "source": "Bloomberg",
-   "at": "2026-11-18T13:54+09:00"
+   "title": "阪急阪神ホテルズ、「KARTE」への不正アクセスで会員情報33万件が漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBicnZYUWZfUHdMb0l4WjZFazFubjYxREg4WEFNSEZ6MFM3RXF1RF9zTWFIeHRkNV9OTDBGSU5HTUtKOGF1N2hZdW9aY3kzVGJ2dWJBbk1JUQ?oc=5",
+   "source": "TRAICY（トライシー）",
+   "at": "2026-11-18T16:31+09:00"
+  },
+  {
+   "title": "オープン株式会社のクラウド環境に不正アクセス BizRobo!mini約560社・約1,000アカウントの認証サーバーも被害",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2V2bnRqOUJxblhieGowQ0N2b3pOaEEtS3JUNlZnN2lSRWw3MFItMDQ0bmR4b1M0cTNhOWo0WHBHSkt4bU52Vm9qNDFqM3RCczRPSmRTS3ZGaDI4cDJHdktsX1BWYkdvVmN4Mm5sRWVyMHlzNG03VGEwWmF4Ym83SUIzYWZaNEFRcEhmVFBEX3VtSWxTRU1TR0k3YUJFamV1SGRveUVB?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T16:30+09:00"
   },
   {
    "title": "CAMPFIRE(キャンプファイヤー)、581万9,779件の情報漏えいを確認 プレイド「KARTE」への不正アクセスによるサイバー攻撃で",
@@ -463,22 +475,17 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYYVBzbjRNRzlGTGE2R1RZTTlqMEFWdWdmVnQwM2NydEZhMVRMelB2Q2FhZk1TQ3F6UTd6NTc4MHVPbFAxY0p6LXc4V2lSSkFUNlF0ckRVanl4bDZvX2k5bGVfa2k?oc=5",
    "source": "読売新聞",
    "at": "2026-11-18T16:20+09:00"
-  },
-  {
-   "title": "いま企業が考えるべきサイバーセキュリティ 〜AI時代の攻撃変化から、止めない・備える・判断するために必要なこと〜",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xMG0zLVZnX1VacTZfNjZZX3Fmak9SQWtqdlRvWlpKS2M4MUVjYTA2elphUWdQdU05YXA3UFFxcnpVZDAzdmZiZ2FB?oc=5",
-   "source": "Zeroboard",
-   "at": "2026-11-18T16:16+09:00"
-  },
-  {
-   "title": "国際連盟にサイバー攻撃 アイスホッケー（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wTUk3ZVUwMmhneHJJT28wOWxFSU5zNkpvNl9xWV9zemVKT0M4TXlKb1c1a2pyVG5hNEMxYTR4bzIyYnk5QVVZUlF5QUFfNmFSeEhoT1NWNFdwZ2ZZMk53Wm9URG55QjltOXhDR3BBOW1IMms5QWk1bFdfOC1VaFE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T16:10+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イラン、湾岸諸国の米軍基地攻撃 外交努力よそに応酬激化",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xaDF5VXQ0NGh3THhxT0Z5Nk9EREFPSFJwZ2FNUDRaT0RfRDhlSlAweFczY1RxWDVHV0pHZTVRUG81a1paclI5Z3BYNnN5NE1jX2FhZ0RPQVJ3MVZsUnpBM3FxMVY4Z0dvM0NRLWFR?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-18T16:35+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRlk2M2NIalBqazlPcVhFcUZZSkgwVmE1M2lDdFZVVXh5YXlGaUlCbXpCMmRGSWpNN2h6NnFpRzN4eGNWcUFOeWJQSGNhVzZVMTV3?oc=5",
@@ -578,13 +585,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "焦点：「相手の譲歩」待ちの米国とイラン、外交打開見えず再衝突リスクも",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-18T11:57+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ロシアとクリミアを結ぶ橋が一部崩落 ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛 (BBC News)",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjgyRWVEczViSUdLdXc1WGVuWUZkZkpTT1p5RG43RGpKX1dlaE9wRXhQSlIxTHBVZE1QajJfNnFKM01QcXFTOWFTNFpPWGhRWkV0eE1XQ1F1TUhKdHhjUnFsbGczdkoyZnB3ZGxjRkhfbEo0ei13T3BkV0w1Smd1SWJDaERqaUFGbU95SFZn?oc=5",
    "source": "Yahoo!ニュース",
@@ -636,7 +636,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「空爆」4件",
+    "イラン・アメリカ：「攻撃」「空爆」5件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」5件",
@@ -644,10 +644,10 @@
    ],
    "items": [
     {
-     "title": "クウェートとバーレーン、イランの空襲を防ぐ 連合軍がイエメンのフーシ派軍事拠点を攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOLUhoZGgyWnpYdXIwQ1dlb2VVZ1p4UEpZTjNJSmVyQUU3TDBySXZ5blhpMHFRcnlYYVRrNUxGNlc3M3BLU2ZaRFlVN1lYVG1tUTc5cElPM3pmNWhNMGlvaHBZZ1UzSU5PU29LYmM0Z20zbWczMkIydmhYcUt2V2U1b3lrQkszWXF1em9fTkQ4c0VkS3VERHFidHp1eTVGVVhDRXZvcGxjOXQ3VzFneHhPYmdvaUoySWktcWZTQmRpaEFjbG5MeTdLZTEzc1AyRU5sUHhDLW5uUVdyWVZCeEhjLUJlZDNhMk5pX1QxcHllMDVMRDlqUHNDLVdBMjBTWDI3bkNYajg4Rkx5V1pjdG0yZUJRUE9WbFM3QVB2Z2dEbjNjMVN1SzVEQnFpaHZncklRUmk0Y0VQVDhhWWpzY0drU083OEpxMk16YVdQOXVhQnlfX1hpNDlYekZPcVROU3RmcC1uMUh5SDFsNkFMNUE0WlU2X2hqMmctLUZLU2pYaHppUlZZWTNHdU4tQmdsV01PNTV6S09OeDRfdVRWQXlNVl9yRE9LbENYYzRhTGczbnloakFVSW53d3JEcUlJajhCQnZ5OHh3R0xJWkYxUXFJQk5vTEllWHBCWUpmN21laF9KdmhlbElzeHhiNkR3ZElUajFicFczVlRXWTJVRHBHemxDalFOQTh0RHdxbG5uVFR6dHpNTHVtTEQxUXVEN3VPRkl1VWJhamk5ck9uRm5pZzZ4YldhOEhL?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-18T14:50+09:00"
+     "title": "イラン、湾岸諸国の米軍基地攻撃 外交努力よそに応酬激化",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xaDF5VXQ0NGh3THhxT0Z5Nk9EREFPSFJwZ2FNUDRaT0RfRDhlSlAweFczY1RxWDVHV0pHZTVRUG81a1paclI5Z3BYNnN5NE1jX2FhZ0RPQVJ3MVZsUnpBM3FxMVY4Z0dvM0NRLWFR?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-18T16:35+09:00"
     },
     {
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
