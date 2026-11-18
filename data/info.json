@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:15+09:00",
+ "updated": "2026-11-18T23:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -126,6 +126,12 @@
      "at": "2026-11-18T22:00+09:00"
     },
     {
+     "title": "CNNは、イランがアメリカの首都ワシントンでの攻撃を計画していると報道しました",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RG9VcHA3SmVKWFUwSUxyOFNKZjZSdS1TRkZIdVBReFExcE5hTVU3RUpwaDJ2QWpVbXhHdnJxNUFKZFk3aVV5TDMtQmUzckNseGVTNXg4SG5xbjJfX0N1M2IzNkZHZms?oc=5",
+     "source": "やさしい朝日新聞",
+     "at": "2026-11-18T21:47+09:00"
+    },
+    {
      "title": "米軍がイランのゲシュム島を攻撃、クウェートにもドローンが飛来",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUzVzTF9YTUthR0xmYUN6SklvS2tXSmpFUndNSlZXVHJHNVQzekw1UWp6V2Q3VDdENE8tZGp4TDRfLWNHaVdSU0NUMHM0T1NFbjVaUg?oc=5",
      "source": "Switch news",
@@ -142,12 +148,6 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
      "source": "テレ朝NEWS",
      "at": "2026-11-18T19:32+09:00"
-    },
-    {
-     "title": "クウェートとバーレーン、イランの空襲を防ぐ 連合軍がイエメンのフーシ派軍事拠点を攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOLUhoZGgyWnpYdXIwQ1dlb2VVZ1p4UEpZTjNJSmVyQUU3TDBySXZ5blhpMHFRcnlYYVRrNUxGNlc3M3BLU2ZaRFlVN1lYVG1tUTc5cElPM3pmNWhNMGlvaHBZZ1UzSU5PU29LYmM0Z20zbWczMkIydmhYcUt2V2U1b3lrQkszWXF1em9fTkQ4c0VkS3VERHFidHp1eTVGVVhDRXZvcGxjOXQ3VzFneHhPYmdvaUoySWktcWZTQmRpaEFjbG5MeTdLZTEzc1AyRU5sUHhDLW5uUVdyWVZCeEhjLUJlZDNhMk5pX1QxcHllMDVMRDlqUHNDLVdBMjBTWDI3bkNYajg4Rkx5V1pjdG0yZUJRUE9WbFM3QVB2Z2dEbjNjMVN1SzVEQnFpaHZncklRUmk0Y0VQVDhhWWpzY0drU083OEpxMk16YVdQOXVhQnlfX1hpNDlYekZPcVROU3RmcC1uMUh5SDFsNkFMNUE0WlU2X2hqMmctLUZLU2pYaHppUlZZWTNHdU4tQmdsV01PNTV6S09OeDRfdVRWQXlNVl9yRE9LbENYYzRhTGczbnloakFVSW53d3JEcUlJajhCQnZ5OHh3R0xJWkYxUXFJQk5vTEllWHBCWUpmN21laF9KdmhlbElzeHhiNkR3ZElUajFicFczVlRXWTJVRHBHemxDalFOQTh0RHdxbG5uVFR6dHpNTHVtTEQxUXVEN3VPRkl1VWJhamk5ck9uRm5pZzZ4YldhOEhL?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-18T18:21+09:00"
     }
    ]
   },
@@ -157,9 +157,9 @@
    "items": [
     {
      "title": "高市早苗首相、初訪中も冷遇　習近平氏と握手し声かけも返答なし、首脳会談は困難か",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUMzS1ZOSGp2ZkVCV2czSTA4WXV1LVg4ZmFhZkJlT2QxVU9zSkpKdjlKdFlyTG9lUjRQZGRIelNkdHhrVTY1NTE0Vmx3amhJZ09EZjA3b0E3U3FwSjAtRzgyN1d4bWk5MlhJbmJwejR4RFgtX1RhaWdSZnByalFzZzJZV1QxaEpsMHk2U2VCUW5XX2JQYW8ybnJGaExkajRhaGZVUFNxdDR2RE94V0hrcndyVEpJVkdVbC1LS9IBrwFBVV95cUxQdzZUb3FsVTVWbl85ZFlUeEI0aTZwUVpUOXVyb1VFLUk5UF91a0ZZZERlbWRTUk1qZDZvWVQ5VThWUm04X0Y1LWJSSTBiVHBGN3RDOF9KM0FVdW1xVFd6Q0tpWXB5WTUtSlc4T1FQbjFNYnZid3dDQ0hTRmZWUkxBcHRHMDB1UEd2ZXEzbUJJTDZBaklfQUVjOXJOaTdsdk5WeUV4NnNOcE96RkEzbDZn?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmw0bUtVQnh1SndXUUhCRFdlWDd3c2pHc21tdHc5c1J2Rlg1SDRuN2J5NExJTTVsaGRGd2NtOFNPajhoNl9xN0NidmNxTHhzREVybnFiamhMWVFwTm9mX1VsM1Bwcm9QYlVvNk9qd0hyWWx6SVRuNEViME5zd1pOZnJOcktXMUZuLTU0Wl9VcjZCTHExcFZRZGNnbGtEZDVFMlk4M3pNUHhFZ9IBrwFBVV95cUxQY2czRmtmUnY1M3lPbzkyWTdMeHJzdG9nNlI1WXJNYWhEbGFldW5MdTRZWnJQX0NGUnA2RThIYjdUaVFIQ1o4bnZ1Nmo4X1pvLWVKVHFlQW90NTNHTndXMHFSelB5R2ZaOGcwMzlSd1FKek45eTNqUzQ1QzhKaTc3aUlPY1IyV25LcFVNc0I1N3I3UUJLZHdza2dsbzBJa1pMTkVRU2JyTjZIZ3paMm9B?oc=5",
      "source": "ｄメニューニュース",
-     "at": "2026-11-18T22:41+09:00"
+     "at": "2026-11-18T21:51+09:00"
     },
     {
      "title": "「第2のヤルタ会談」とも…あす史上初の米中ロ首脳会談へ 中国は“第二次世界大戦の歴史”を強調 「新型軍国主義」批判に日本は？専門家見解（TBS NEWS DIG Powered by JNN）",
@@ -216,22 +216,22 @@
      "at": "2026-11-18T17:22+09:00"
     },
     {
+     "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRlk2M2NIalBqazlPcVhFcUZZSkgwVmE1M2lDdFZVVXh5YXlGaUlCbXpCMmRGSWpNN2h6NnFpRzN4eGNWcUFOeWJQSGNhVzZVMTV3?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-18T16:07+09:00"
+    },
+    {
      "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY00xN3JKLUFQN0dSUUJRbHJEd256TzB1Q19sdGxvbUNsM3VXbWNTZFBGZjFTZlB1QWlMVGg5U2YxcWZRcDZTTHFkLWRUbGJ2RWdmaHRFRnJvQUd4YllnbHJpdW1Rak5COGJRc25LZGV6Y3NKZU1peHEtd1l5NUFlMXcwVUM0eVFRTnRUdlB5YldDZEtURDA2Z1VXY2stQTEwdTFzZDFKSEFNQU9tOTRUNml1VEJjVGoyMWhqTk9EZHNtaGZxSmRxbkRUcWfSAXxBVV95cUxPRG54UTBmNGdsdmhwaG1ORm4tTGpPZE9zNXFESVlKWjNaTGdxeERyUFFjMWRQb08xU1J4NU5jcllDTHFYZkZxeWhEcHFhNTdDaG1oamwwT3ZzbS1JMHhsX3NmRFZJNnY2dXR6SmRDQVhVVm5VZEN3UGVuanVv?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-18T14:25+09:00"
     },
     {
-     "title": "トランプ氏の“最後の球”？ 金正恩総書記との電撃会談を匂わせる思惑とは…専門家「北朝鮮は中ロと二股、アメリカと会う必要がない」「飛行機に乗らない」（ABEMA TIMES）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
+     "title": "金正恩委員長の「金がない」一言で…北朝鮮核開発の資金源となったシリコンバレー (中央日報日本語版)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-18T14:06+09:00"
-    },
-    {
-     "title": "ゼレンスキー大統領「ロシアは北朝鮮のミサイルに依存…ウクライナにも武器・技術支援が必要」（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMmptVmdvV2JMdjFsMzgyZ3Y2Qmk1cXhlMVFLSGVoVWVNd1JGVGJiU1JfR1VaM2dDd0JkSXlBTXJnOE9BcGNTeXZZMl9sSWVTUGFxek5zeURwZ0FrYnRfSFV5bV9oanZzcnZtUTBOaFhnNUZqMGtmem5VaVFFWjA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T13:43+09:00"
+     "at": "2026-11-18T14:23+09:00"
     }
    ]
   },
@@ -283,7 +283,7 @@
    "items": [
     {
      "title": "フィンランド大統領、ロシアの要求によるＮＡＴＯ離脱の可能性を否定",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONk5BRUthUVlHOUNJSDc5Xy0wU2FtMjU4b0lZdTB2VENvRDljU1dySEtKNE5BNjdsaXZ6YnZZUnRQZTlCUm9JckxVWi0wa3BjRVo1MTd0UU0zbEJ5ZUFzbW5MT3Z1TEw0WWhtaW5sMV91MGNpYTgtWnAwUk13YjZkdUJYQ2ZDejZ0cHEzbGJIajFNV1pET091dS04bjVaZVNWMnFaMkNnU2pVY3F4ZWM1TS1MUThkUTExYnNjTVNtMUo3QzlsVU9TTE5fUkhyUdIBzgFBVV95cUxONk5BRUthUVlHOUNJSDc5Xy0wU2FtMjU4b0lZdTB2VENvRDljU1dySEtKNE5BNjdsaXZ6YnZZUnRQZTlCUm9JckxVWi0wa3BjRVo1MTd0UU0zbEJ5ZUFzbW5MT3Z1TEw0WWhtaW5sMV91MGNpYTgtWnAwUk13YjZkdUJYQ2ZDejZ0cHEzbGJIajFNV1pET091dS04bjVaZVNWMnFaMkNnU2pVY3F4ZWM1TS1MUThkUTExYnNjTVNtMUo3QzlsVU9TTE5fUkhyUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWVPN1d6UmtoOU9UVUpVYzNWVWVmMWVHZURNLWJyTFBSYXFSRWlXd0pRQnpvdjZ5a3pZOUlGOTdCWVcycDlucXF1RkZHZkY2MjhQei1RNE9Ud21jaERTb3J2UmJ6b0dSQy1HZHJ5LUVJREJRckRmN1JYMVl2alZvZ1Q1LWxfUzgyLUNpcmFERnB3STNFb3BnMi1TLVVoYkpiZXJkZ2VNLXdBUW1WbDVZMUh3Rkp6eFpXcEJMZEU4ZUw1alAtQjdCV9IBzgFBVV95cUxONk5BRUthUVlHOUNJSDc5Xy0wU2FtMjU4b0lZdTB2VENvRDljU1dySEtKNE5BNjdsaXZ6YnZZUnRQZTlCUm9JckxVWi0wa3BjRVo1MTd0UU0zbEJ5ZUFzbW5MT3Z1TEw0WWhtaW5sMV91MGNpYTgtWnAwUk13YjZkdUJYQ2ZDejZ0cHEzbGJIajFNV1pET091dS04bjVaZVNWMnFaMkNnU2pVY3F4ZWM1TS1MUThkUTExYnNjTVNtMUo3QzlsVU9TTE5fUkhyUQ?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T21:52+09:00"
     },
@@ -381,6 +381,12 @@
  ],
  "cyber": [
   {
+   "title": "大崎電気工業、ランサムウェア攻撃でスマートメーターの生産・出荷停止 埼玉・岩手の関連拠点に影響、再開時期は未定",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVU0zbjFLSTliUlo1WTRaQ0NvR3lKZzczejdXZFlBY3A3cGNXS0lBQ21uMk5KSE5SY3Iwc09DTEt4dFF2TFFlLXJNclRDcE4xaEhseHBDaW1EdGhMc1Ayb1huQUF4ZWRNZWNEampWT2YtMHVjYXcxemU2T21rUTNuSHZ5emRXZEliODYyQkpEeXdhaUZmYUVuSmdmVVdVekpBWGtuaXFtMUx0QQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T23:25+09:00"
+  },
+  {
    "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ldU0zVlhCMmhBcEdoZ3A3V2YzQ0tDUUF4MUtRLU5UcXMxQmtQdU5rVTlqeVJBWVNtNlU3UjB4dWFpTXlLRmU4WWc3SHVBZUFlOVBETGN4Z3Q5OFhIUmw1YlVRWFNRUGNKYUpIVDIwU0Y?oc=5",
    "source": "Publickey",
@@ -463,23 +469,10 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LWEtiaFdvMWJneVNXWTVUb3ZuYUVaWVRUeUlWa0lyQjFmWEFhQ3JTSFVpN3RmbG5kTGs3N1NSc29lbFZXcW9nWnZpZXVUR2dxUlFXYzQwZWdZQQ?oc=5",
    "source": "北海道新聞デジタル",
    "at": "2026-11-18T21:45+09:00"
-  },
-  {
-   "title": "Jリーグ公式サービスで個人情報が漏えい「お詫び申し上げます」…外部ウェブツールへの不正アクセスが原因",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PNjBBbjZfZkptQVNHb29JclhaTWdiUzNfcFh5SGs1ek9odk5xNTJ5UjhMRVVPRHFMOHZ6LVNxX0hUVVhIWlRlYjdHb1VSWUdGYW1qMUJhQ0NPV2NYQVFLQTZGcjBJOEJxRVhuR0JPaw?oc=5",
-   "source": "サッカーキング",
-   "at": "2026-11-18T21:34+09:00"
   }
  ],
  "osaka": [],
  "world": [
-  {
-   "title": "高市早苗首相、初訪中も冷遇　習近平氏と握手し声かけも返答なし、首脳会談は困難か",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUMzS1ZOSGp2ZkVCV2czSTA4WXV1LVg4ZmFhZkJlT2QxVU9zSkpKdjlKdFlyTG9lUjRQZGRIelNkdHhrVTY1NTE0Vmx3amhJZ09EZjA3b0E3U3FwSjAtRzgyN1d4bWk5MlhJbmJwejR4RFgtX1RhaWdSZnByalFzZzJZV1QxaEpsMHk2U2VCUW5XX2JQYW8ybnJGaExkajRhaGZVUFNxdDR2RE94V0hrcndyVEpJVkdVbC1LS9IBrwFBVV95cUxQdzZUb3FsVTVWbl85ZFlUeEI0aTZwUVpUOXVyb1VFLUk5UF91a0ZZZERlbWRTUk1qZDZvWVQ5VThWUm04X0Y1LWJSSTBiVHBGN3RDOF9KM0FVdW1xVFd6Q0tpWXB5WTUtSlc4T1FQbjFNYnZid3dDQ0hTRmZWUkxBcHRHMDB1UEd2ZXEzbUJJTDZBaklfQUVjOXJOaTdsdk5WeUV4NnNOcE96RkEzbDZn?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-18T22:41+09:00",
-   "topic": "中国・台湾"
-  },
   {
    "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
@@ -496,10 +489,17 @@
   },
   {
    "title": "フィンランド大統領、ロシアの要求によるＮＡＴＯ離脱の可能性を否定",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONk5BRUthUVlHOUNJSDc5Xy0wU2FtMjU4b0lZdTB2VENvRDljU1dySEtKNE5BNjdsaXZ6YnZZUnRQZTlCUm9JckxVWi0wa3BjRVo1MTd0UU0zbEJ5ZUFzbW5MT3Z1TEw0WWhtaW5sMV91MGNpYTgtWnAwUk13YjZkdUJYQ2ZDejZ0cHEzbGJIajFNV1pET091dS04bjVaZVNWMnFaMkNnU2pVY3F4ZWM1TS1MUThkUTExYnNjTVNtMUo3QzlsVU9TTE5fUkhyUdIBzgFBVV95cUxONk5BRUthUVlHOUNJSDc5Xy0wU2FtMjU4b0lZdTB2VENvRDljU1dySEtKNE5BNjdsaXZ6YnZZUnRQZTlCUm9JckxVWi0wa3BjRVo1MTd0UU0zbEJ5ZUFzbW5MT3Z1TEw0WWhtaW5sMV91MGNpYTgtWnAwUk13YjZkdUJYQ2ZDejZ0cHEzbGJIajFNV1pET091dS04bjVaZVNWMnFaMkNnU2pVY3F4ZWM1TS1MUThkUTExYnNjTVNtMUo3QzlsVU9TTE5fUkhyUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWVPN1d6UmtoOU9UVUpVYzNWVWVmMWVHZURNLWJyTFBSYXFSRWlXd0pRQnpvdjZ5a3pZOUlGOTdCWVcycDlucXF1RkZHZkY2MjhQei1RNE9Ud21jaERTb3J2UmJ6b0dSQy1HZHJ5LUVJREJRckRmN1JYMVl2alZvZ1Q1LWxfUzgyLUNpcmFERnB3STNFb3BnMi1TLVVoYkpiZXJkZ2VNLXdBUW1WbDVZMUh3Rkp6eFpXcEJMZEU4ZUw1alAtQjdCV9IBzgFBVV95cUxONk5BRUthUVlHOUNJSDc5Xy0wU2FtMjU4b0lZdTB2VENvRDljU1dySEtKNE5BNjdsaXZ6YnZZUnRQZTlCUm9JckxVWi0wa3BjRVo1MTd0UU0zbEJ5ZUFzbW5MT3Z1TEw0WWhtaW5sMV91MGNpYTgtWnAwUk13YjZkdUJYQ2ZDejZ0cHEzbGJIajFNV1pET091dS04bjVaZVNWMnFaMkNnU2pVY3F4ZWM1TS1MUThkUTExYnNjTVNtMUo3QzlsVU9TTE5fUkhyUQ?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-18T21:52+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "高市早苗首相、初訪中も冷遇　習近平氏と握手し声かけも返答なし、首脳会談は困難か",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmw0bUtVQnh1SndXUUhCRFdlWDd3c2pHc21tdHc5c1J2Rlg1SDRuN2J5NExJTTVsaGRGd2NtOFNPajhoNl9xN0NidmNxTHhzREVybnFiamhMWVFwTm9mX1VsM1Bwcm9QYlVvNk9qd0hyWWx6SVRuNEViME5zd1pOZnJOcktXMUZuLTU0Wl9VcjZCTHExcFZRZGNnbGtEZDVFMlk4M3pNUHhFZ9IBrwFBVV95cUxQY2czRmtmUnY1M3lPbzkyWTdMeHJzdG9nNlI1WXJNYWhEbGFldW5MdTRZWnJQX0NGUnA2RThIYjdUaVFIQ1o4bnZ1Nmo4X1pvLWVKVHFlQW90NTNHTndXMHFSelB5R2ZaOGcwMzlSd1FKek45eTNqUzQ1QzhKaTc3aUlPY1IyV25LcFVNc0I1N3I3UUJLZHdza2dsbzBJa1pMTkVRU2JyTjZIZ3paMm9B?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-18T21:51+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "ブルームバーグ：ロシアは、カリーニングラードからの軍の撤退と引き換えに、NATOを1997年時点の国境まで後退させることを提案した可能性がある",
@@ -507,6 +507,13 @@
    "source": "Informat.ro",
    "at": "2026-11-18T21:50+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "CNNは、イランがアメリカの首都ワシントンでの攻撃を計画していると報道しました",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RG9VcHA3SmVKWFUwSUxyOFNKZjZSdS1TRkZIdVBReFExcE5hTVU3RUpwaDJ2QWpVbXhHdnJxNUFKZFk3aVV5TDMtQmUzckNseGVTNXg4SG5xbjJfX0N1M2IzNkZHZms?oc=5",
+   "source": "やさしい朝日新聞",
+   "at": "2026-11-18T21:47+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
@@ -579,13 +586,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "クウェートとバーレーン、イランの空襲を防ぐ 連合軍がイエメンのフーシ派軍事拠点を攻撃",
-   "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOLUhoZGgyWnpYdXIwQ1dlb2VVZ1p4UEpZTjNJSmVyQUU3TDBySXZ5blhpMHFRcnlYYVRrNUxGNlc3M3BLU2ZaRFlVN1lYVG1tUTc5cElPM3pmNWhNMGlvaHBZZ1UzSU5PU29LYmM0Z20zbWczMkIydmhYcUt2V2U1b3lrQkszWXF1em9fTkQ4c0VkS3VERHFidHp1eTVGVVhDRXZvcGxjOXQ3VzFneHhPYmdvaUoySWktcWZTQmRpaEFjbG5MeTdLZTEzc1AyRU5sUHhDLW5uUVdyWVZCeEhjLUJlZDNhMk5pX1QxcHllMDVMRDlqUHNDLVdBMjBTWDI3bkNYajg4Rkx5V1pjdG0yZUJRUE9WbFM3QVB2Z2dEbjNjMVN1SzVEQnFpaHZncklRUmk0Y0VQVDhhWWpzY0drU083OEpxMk16YVdQOXVhQnlfX1hpNDlYekZPcVROU3RmcC1uMUh5SDFsNkFMNUE0WlU2X2hqMmctLUZLU2pYaHppUlZZWTNHdU4tQmdsV01PNTV6S09OeDRfdVRWQXlNVl9yRE9LbENYYzRhTGczbnloakFVSW53d3JEcUlJajhCQnZ5OHh3R0xJWkYxUXFJQk5vTEllWHBCWUpmN21laF9KdmhlbElzeHhiNkR3ZElUajFicFczVlRXWTJVRHBHemxDalFOQTh0RHdxbG5uVFR6dHpNTHVtTEQxUXVEN3VPRkl1VWJhamk5ck9uRm5pZzZ4YldhOEhL?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-18T18:21+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM19EQVF2TTRTTWVSRHMySkVKeURnRS1RVzlGSkhvYnRuc0dJZGdRSlJRZ2VIVDRiY2hRYXF1V0tsR2RFNmFIVHZPT2pDX0FiWG5JeDY4Wlo5M29nNUdBel8wMDFqVFZmb0JmMjlIN3RTd1hQYUJGb0xHXzVEWk8xQdIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
    "source": "AFPBB News",
@@ -600,18 +600,18 @@
    "topic": "ロシア"
   },
   {
+   "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRlk2M2NIalBqazlPcVhFcUZZSkgwVmE1M2lDdFZVVXh5YXlGaUlCbXpCMmRGSWpNN2h6NnFpRzN4eGNWcUFOeWJQSGNhVzZVMTV3?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-18T16:07+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月18日の動き）",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4aDZac1lvdmk1cW4tcGViWDgzZzRMU1ZYU1NPN3hKcWxINmsyVm9Falo1QmRmeVZFZUJEM1JZMjJmWkg2X0d5Zm5kdE5fTzV3RExOdXhLR295SHhxUE5N?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-18T15:57+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "中国国防相が18年ぶり訪伊、軍事対話で欧州との関係改善模索",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEltTFNqZWJxS3pDTjlVZmxWTnkxaW5TMDdLZUM4UUNzaGE2c3d1LTdJSEZaeXZrcEJkbUwwdUU4eWdseDNhaS1ESWNqMlZfX05rR1JVNk5RXzBxekVBaGNSdW1fdmt5Y2NuaDRwNGlLdFZyaXkwQnluMmU5d0R4SmtzU2NyOWZo0gGcAUFVX3lxTE1tSEdDYWU1eldrd0hGS3dha25zVWo2RjAxcllka204UmV2N3VjTl92cUNheHRqc2FhWnhmUFB4TjUyejNKcUdDdUtZdGJ6LVRiYVRwZV9wQ2JqMnBfZ2lPa0g4eGFOWmZITVQwNkw5M2NESlB3VVlDOWx2VG5pR3F4bkdmcW9lZE5MVWN1b1lGMDRRVXYyUDJsa3pwNA?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-18T15:30+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -632,7 +632,6 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
     "中国・台湾：「封鎖」1件",
-    "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」5件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
@@ -650,10 +649,10 @@
      "at": "2026-11-18T07:31+09:00"
     },
     {
-     "title": "ゼレンスキー大統領「ロシアは北朝鮮のミサイルに依存…ウクライナにも武器・技術支援が必要」（中央日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMmptVmdvV2JMdjFsMzgyZ3Y2Qmk1cXhlMVFLSGVoVWVNd1JGVGJiU1JfR1VaM2dDd0JkSXlBTXJnOE9BcGNTeXZZMl9sSWVTUGFxek5zeURwZ0FrYnRfSFV5bV9oanZzcnZtUTBOaFhnNUZqMGtmem5VaVFFWjA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T13:43+09:00"
+     "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSdIB1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSQ?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-18T21:14+09:00"
     }
    ]
   }
