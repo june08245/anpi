@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-18T19:45+09:00",
- "errors": [],
+ "updated": "2026-11-18T20:00+09:00",
+ "errors": [
+  "outage"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -114,9 +116,15 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イランがクウェートの米軍施設攻撃　米軍による南部ゲシュム島への攻撃に報復か",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2FBYjU2c0llZzU2dWJtRklNVzJjY3cxQjc1TXpwMWJYSFFJclVBYjkzMU40LWMtaXVzSkFRTkF1NFpzaDVETGRDZjVJVGVJTjd3eG9yMnoweDNBY1FQeWpBNExwU3lral92aHEweElPQUhqYnZHZ2JqUHBnQ1I0X3prcmlvUdIBiwFBVV95cUxPS2lNQVB2WFFTaWlGRjRBU1duLWNyWjA0NkhZME1pNGgyREluU09BajVkSWkyU3N0enJaQjJtUkF4M2d1eGNPM3paQWVibWtsa2ZSLVpRUGNzdnFhV0dOTlhmazVTMHltdkdWTkRTdm5OV2F0N2RoQW9qVjZwOGxqeG5QcGRWUlAtOGx3?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-18T19:45+09:00"
+    },
+    {
+     "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Z2J2QjVHMVRoT21FQkdnazRfNDdFNWczeGZpQWZxaEh5dzkydDM5eVZJU3YzYWZuMnVDRlVfeUNkRzBqWjNKLUZrZEhVeWUzdjNWcG1mUW45Ykp4N0tJLU5hVjlKbzhlSlA0bGhJYmQyRDFUZVhYOHdYMWdvZWs?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-18T19:32+09:00"
     },
     {
@@ -142,12 +150,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mS28zNEY1WnJOekhxYzVCNGRkNGdNaTJsVXlVeHBYeUdiUUVEZ3dlekUyUG94QUtOVHBNblllZWprRXJOOEE2SHFFdWZENk1LcFUtNzNGZ1NVeTF0VTBYbmt3dDdfU0JwSm1scWtOVkx2WDI1RXVFQjhlWDVoSkU?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T16:35+09:00"
-    },
-    {
-     "title": "CNNは、イランがアメリカの首都ワシントンでの攻撃を計画していると報道しました",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RG9VcHA3SmVKWFUwSUxyOFNKZjZSdS1TRkZIdVBReFExcE5hTVU3RUpwaDJ2QWpVbXhHdnJxNUFKZFk3aVV5TDMtQmUzckNseGVTNXg4SG5xbjJfX0N1M2IzNkZHZms?oc=5",
-     "source": "やさしい朝日新聞",
-     "at": "2026-11-18T15:34+09:00"
     }
    ]
   },
@@ -210,10 +212,10 @@
      "at": "2026-11-18T18:22+09:00"
     },
     {
-     "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM19EQVF2TTRTTWVSRHMySkVKeURnRS1RVzlGSkhvYnRuc0dJZGdRSlJRZ2VIVDRiY2hRYXF1V0tsR2RFNmFIVHZPT2pDX0FiWG5JeDY4Wlo5M29nNUdBel8wMDFqVFZmb0JmMjlIN3RTd1hQYUJGb0xHXzVEWk8xQdIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
+     "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道 写真枚 国際ニュース",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VMnZZcnRZX0gtX0xoZ3dzc2FHSzNCZ3FObUlXbjc0d3JZUHF5cjlXUTQtalV2aUppNXdHaFRqQnJNTFVRTDBGT3NqMUJIem5MZzEzeVV2bEZGRGtRUnJhTVdPMndKMFgwWTlOT1I2MkZjUQ?oc=5",
      "source": "AFPBB News",
-     "at": "2026-11-18T17:22+09:00"
+     "at": "2026-11-18T17:30+09:00"
     },
     {
      "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
@@ -258,12 +260,6 @@
      "at": "2026-11-18T13:43+09:00"
     },
     {
-     "title": "オデーサへのロシア軍の攻撃：一人が死亡、負傷者も",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZWRiN1Rnd0lRcmk3RTZHbjBBSC03Ty1ZUzM1Yl83ZDhpeHJzVFd3LUN3WjhoOGdOLS00dWlVNENzWGU1VDlLUW5iSmdiM1d1Mi1kbG5TSnB3Zkh0NW9reDByQVdtMWxW?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-18T10:55+09:00"
-    },
-    {
      "title": "ロシアとクリミアを結ぶ橋が一部崩落 ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛 (BBC News)",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjgyRWVEczViSUdLdXc1WGVuWUZkZkpTT1p5RG43RGpKX1dlaE9wRXhQSlIxTHBVZE1QajJfNnFKM01QcXFTOWFTNFpPWGhRWkV0eE1XQ1F1TUhKdHhjUnFsbGczdkoyZnB3ZGxjRkhfbEo0ei13T3BkV0w1Smd1SWJDaERqaUFGbU95SFZn?oc=5",
      "source": "Yahoo!ニュース",
@@ -274,6 +270,12 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WUnZZaWRIbEYtTGNfX05LVVJfSTExZWF0VEtDOVYwaVd0OTRLTVZ4ZXhGbzd3aW1lUDFaS2pnOXlhSXZBYVZsUnVLVWJxbm5pbFHSAVRBVV95cUxOQnBPTmQ4aGlSWnJ1aUo0SWM1bEN0QXNvWUJGMXEtQVZScjREdVk2czB3UXpha3JnaTRBSWhiY0RET0E3Ym5ES3pvdVg1dENvRmNFSDM?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-18T10:12+09:00"
+    },
+    {
+     "title": "米、ウクライナの対ロシア「深部攻撃」を批判 逆効果だと主張",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91eUJsd051SW9BRXFxY0Z3ckNKdnZkaHBWQ3BKV3dfVFJQRlh4bFRoUmJ3MFpMQk00RHY4LS1pZU1lOWtFeUFsMXFyN0t0NzhqTnfSAVRBVV95cUxNMmZHZXg0eFI0Vk50SkpWd3hWUHVpR1dBYUdRaEhKLWwyYmNDc2hOUFo0Q0dFZ2xGcHJvOG9VYzdXUmpDZjdTOGxlM2xuT1NyUkU2Wkc?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-18T09:45+09:00"
     }
    ]
   },
@@ -323,9 +325,9 @@
  "nankai": [
   {
    "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEeENIcHZnM2UyYW9INU0wNmg0M0EtSFpNamE5ZV95YXpFQkpham82Q0liTWF5MHI3clA0ekIzMURndjFma2lSRFQtZURic1dublN4Sk14eHdSZ2N1M1MzYjE3T2xMT1E?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-18T19:00+09:00"
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VaXE3enRqTnFjOHZVWk1MVVR0SnVNQ3FXbEx5SDRxVXpiWGhyeFMwazFGQU5oMzFpTlo5aXBRU2tUR0ZxMFBOMlhmeFkxcGVwZFkyMllMaWUtQzI3Q1FscXVXWWN5UlZ6Zk4tc1RR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-18T19:38+09:00"
   },
   {
    "title": "南海トラフ巨大地震発生時に頼れる「防災道の駅」に…高松市指定の津波避難ビルを活用した避難訓練【香川】（OHK岡山放送）",
@@ -387,16 +389,46 @@
    "at": "2026-11-18T19:05+09:00"
   },
   {
+   "title": "GPIF、委託先メールシステムで不正アクセス 年金受給者情報の漏洩なし",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WY0ltb2ZyVERDYmJ2Zkw4dVU5SFNwMnJMUVlIYWRTNHgtczU4Y1dXUVp3a01DX1RNUmFrSnQ3LVNfX01lY1hsc2swQXNnYkpxdUxpVkNTdUU2d0F6d1hhYnF2bWhWNkdhR3dHVw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-18T19:55+09:00"
+  },
+  {
+   "title": "DHC、顧客情報1911万件漏えい＝委託先への不正アクセスで(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVhuRGx2dnFjcWpCTGJORndjam5yUXRvdnpETGRxSDNpREhxR2JKMjZLWk5aWU9PMnNXTWZjYTlZYTBTN2cyaTFfdG9xcmMxR2M0QVNsTE9hSVdPV1lOT2dyMjA2UHVMYnR5RHpxZkgtYUxNdGtRdnFyWlVscGtqU3pBRkxVcnM?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-18T19:47+09:00"
+  },
+  {
+   "title": "大崎電気にサイバー攻撃 ランサム被害、生産停止",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JczdsLU5idDV3WGxzRDNLa0xMTTJvb0xWV090enpXRGpxclZuaFpTTUlicFQ2NVM1aVpzMWNDaE5jMXIxc2lXbldtbjBjNkhi?oc=5",
+   "source": "日本海新聞",
+   "at": "2026-11-18T19:46+09:00"
+  },
+  {
+   "title": "大崎電気にサイバー攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94aEozTkxyLTFIZGk3VzRnRUdER3dsbC1naXU3TEVSR3ZWemp2NjktOTMxdnpmWVZhMjlfdWkxOTAzMXliYnpLOUVXYkhoZ2xjb01NckEwdmZCdw?oc=5",
+   "source": "中国新聞デジタル",
+   "at": "2026-11-18T19:45+09:00"
+  },
+  {
+   "title": "厚労省の医薬品供給システムに不正アクセス、企業担当者の連絡先が流出か",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11UHBTRnJ0djhsa2NqbGtmYWNHbjViM3NXSkpnOXlxNFY3WF9SOE5FdnhIOURqTkVfODBMNnhxX0FKY2xXV0tCLUZjaklwREZUcWdIOEZKOXJPUnVVSWdqR3Z1VklwSXN4WjV1MnN5RzZqTU1Y?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T19:35+09:00"
+  },
+  {
    "title": "三菱UFJ銀行で650万件の顧客情報漏えい 性別・年齢・居住地域でメアドなど個人特定の情報なし 委託会社への不正アクセスが原因（FNNプライムオンライン（フジテレビ系））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcWdNN2ZCenQ1Y0doOHlGUUh3SWF3elFmSlgzVkZvaVFGbVRqNGZScWc2MW5RcnlRUzBFaFk2c1NCUmxPLVJRVHlfQzgwdVZtYWZ4ZXJMb21Id3VWbFlyVWV3MGR5c2Y4dXItNWdRaUtmaUVVdjBmcVc2WlhlLTA?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T19:33+09:00"
   },
   {
-   "title": "「家庭用Wi-Fi」がサイバー攻撃の“踏み台”に 口座やカード番号など“覗き見” 中国企業が「不正ソフト」入り機器出荷も…「DDoS攻撃」の実態",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCUnhhRndDTDFIU2taTHN3Zl92Rk1LMzVXZmlKeEI2MDlMRHpVbThiTFNGRm5BbVQ2QXNJVDhmOWY0Q21xTHluXzNjVnlnMkdBY1ZXdHl0cw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-18T19:28+09:00"
+   "title": "「家庭用Wi-Fi」がサイバー攻撃の“踏み台”に 口座やカード番号など“覗き見” 中国企業が「不正ソフト」入り機器出荷も…「DDoS攻撃」の実態（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVC1RZFYzb0lXZVkxaS0tdm01d0pTM2VLU3R2QmRZOHF5RmV6cG1aZ3VBRFNPYktBOVBabXVaemJwNjY0Y2ZUVVM1LTNNSlliVm5tTTIwWXh2czF4NWllZExXT0dLWkpDcFRlTU9JNnVBb3VGR01tVmxfMHhqaXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T19:24+09:00"
   },
   {
    "title": "厚労省の医薬品情報システムに不正アクセス 個人の連絡先など漏洩か（朝日新聞）",
@@ -429,54 +461,31 @@
    "at": "2026-11-18T19:00+09:00"
   },
   {
-   "title": "海外のスーパーへのサイバー攻撃について取材を受け、フジテレビ「Live News イット！」で放送されました",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03WXdIU1Y2akFsUXI4Y1pBOUlKUHFlcGNFc25NSmhEaW56QXVvS25ZZDQzSHlGZzZRb0tNRHdjTHBpY2EzeGxRV1Y5dng3eUxEYk9xeEs0d1JjSjVQTkJhejlKWTM2RFpxUGt1RA?oc=5",
-   "source": "株式会社マクニカ",
-   "at": "2026-11-18T18:50+09:00"
-  },
-  {
    "title": "三菱UFJ銀行、委託先企業で不正アクセス 性別や年齢650万件が漏洩",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkcUEyZFRuN2E1cDBBLWx2YWlneElMdWpqdnlXdzE5S0hPaVFkXzBDdWZsSjl5d015T3hlMGR2bTdjaTNkS0ZoWWREOWpmaXcwUGJGRHFDSG5MaFBIZVpoSHhqdmxiVnBuU2thTQ?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-18T18:49+09:00"
   },
   {
-   "title": "高知県内で不正アクセス被害相次ぐ ジモッペイで4万7000件超の利用者のメールアドレスが流出 県警でも情報漏洩の可能性 警察音楽隊の演奏会で導入した電子チケットサービスで（テレビ高知）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CdDNWU3gtWmlNQkljZnE3bC13NlR3bDVHQjZrNmw5SjlXZ1RqajJrT3IxdnZWdUlvaGduMkR5VmJpcHptLVVDRm04d2dKRVhWWU5TLXlxWndJanAxS1ZhWWFSdWRKbDhVZVVjVzQxNXJNZHFISW0tbHM0TWI0R0k?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T18:42+09:00"
-  },
-  {
-   "title": "医薬品企業の情報漏えいか",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05NnNWWWZXbk5aeENZZ2x4YzZYTk1heWtOSEVMY25meVo0cTYyWTN4MU1BWTdRblQ0YnJZbFR4Q2xhTmxibkVGdlI0eHo4eUUzWDM5c1I0dEZCVGVQeFE?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-18T18:37+09:00"
-  },
-  {
    "title": "医薬品企業の情報漏えいか 厚労省委託先不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TX0ZPRU5mdURNMVF2WTFOYzVpUmNUdEtRSFlPaVV1eEd2SmY5V2NfSzlHdExMSDNybnBtVE5GcEd3eXZpUHptVXFfN1habVB5NFZZeUlweFFfQQ?oc=5",
    "source": "北海道新聞デジタル",
    "at": "2026-11-18T18:33+09:00"
-  },
-  {
-   "title": "「仙台市メール配信サービス」不正アクセス受け約3万件のメールアドレスなど漏えい＜宮城・仙台＞（2026年11月18日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk1YRWhEaWNPTmNGVTJpOE80OW5FVzBOQnhodjFFcnVXMThxNDVJN2Z4TDFSU2JDR2locXl3MUlUWHpoRlhVcGw5alhTajk5dmpDazdsRFpmTk1ERjNQVTVIcWpaWTJqVGFsQV9PYjNoVmJVcF9ma0tZQjdFYjRvY3FDY0VaM2s?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-18T18:31+09:00"
-  },
-  {
-   "title": "大崎電気工業、ランサムウェア被害でスマートメーター生産停止 復旧時期未定",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXdUZIWklaaHNqdmVubDJocEdPWUhxMmNGWTFaenRfRDVpSXMwWVp2VmVnOExEQVJuT25sR0VZcVU3VGd4eGZQbG1pN2h6ZjVYRlloWE9zeDFfSFRPR0lXckxvRk5oV0k5MVl0SW1XTHV1Z05O?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T18:25+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "イランがクウェートの米軍施設攻撃　米軍による南部ゲシュム島への攻撃に報復か",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2FBYjU2c0llZzU2dWJtRklNVzJjY3cxQjc1TXpwMWJYSFFJclVBYjkzMU40LWMtaXVzSkFRTkF1NFpzaDVETGRDZjVJVGVJTjd3eG9yMnoweDNBY1FQeWpBNExwU3lral92aHEweElPQUhqYnZHZ2JqUHBnQ1I0X3prcmlvUdIBiwFBVV95cUxPS2lNQVB2WFFTaWlGRjRBU1duLWNyWjA0NkhZME1pNGgyREluU09BajVkSWkyU3N0enJaQjJtUkF4M2d1eGNPM3paQWVibWtsa2ZSLVpRUGNzdnFhV0dOTlhmazVTMHltdkdWTkRTdm5OV2F0N2RoQW9qVjZwOGxqeG5QcGRWUlAtOGx3?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-18T19:45+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Z2J2QjVHMVRoT21FQkdnazRfNDdFNWczeGZpQWZxaEh5dzkydDM5eVZJU3YzYWZuMnVDRlVfeUNkRzBqWjNKLUZrZEhVeWUzdjNWcG1mUW45Ykp4N0tJLU5hVjlKbzhlSlA0bGhJYmQyRDFUZVhYOHdYMWdvZWs?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-18T19:32+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -523,18 +532,18 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道 写真枚 国際ニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VMnZZcnRZX0gtX0xoZ3dzc2FHSzNCZ3FObUlXbjc0d3JZUHF5cjlXUTQtalV2aUppNXdHaFRqQnJNTFVRTDBGT3NqMUJIem5MZzEzeVV2bEZGRGtRUnJhTVdPMndKMFgwWTlOT1I2MkZjUQ?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-18T17:30+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ロシア軍機が台湾東部空域を通過 国防部が非難 「海峡の平和と安定維持に資さない」（中央社フォーカス台湾）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IX3F6OHB4ckpTRS1LLTZOUlIwTmNfbUtqY2hmYTMyS3A5b3hhN3NxNEpRV29pREkyZUpSQUFTeklrZTdBWnVjVlRmTlJ1OTIwOEtOWXFHdG85UlVEUng4aERxNVpTeTlHMVNiRC0yb0tKVVBueHNzcVhwVE84Znc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T17:28+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM19EQVF2TTRTTWVSRHMySkVKeURnRS1RVzlGSkhvYnRuc0dJZGdRSlJRZ2VIVDRiY2hRYXF1V0tsR2RFNmFIVHZPT2pDX0FiWG5JeDY4Wlo5M29nNUdBel8wMDFqVFZmb0JmMjlIN3RTd1hQYUJGb0xHXzVEWk8xQdIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-18T17:22+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "イラン、湾岸諸国の米軍基地攻撃 外交努力よそに応酬激化（ロイター）",
@@ -563,13 +572,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T15:41+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "CNNは、イランがアメリカの首都ワシントンでの攻撃を計画していると報道しました",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RG9VcHA3SmVKWFUwSUxyOFNKZjZSdS1TRkZIdVBReFExcE5hTVU3RUpwaDJ2QWpVbXhHdnJxNUFKZFk3aVV5TDMtQmUzckNseGVTNXg4SG5xbjJfX0N1M2IzNkZHZms?oc=5",
-   "source": "やさしい朝日新聞",
-   "at": "2026-11-18T15:34+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "中国国防相が18年ぶり訪伊、軍事対話で欧州との関係改善模索",
@@ -607,10 +609,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "オデーサへのロシア軍の攻撃：一人が死亡、負傷者も",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZWRiN1Rnd0lRcmk3RTZHbjBBSC03Ty1ZUzM1Yl83ZDhpeHJzVFd3LUN3WjhoOGdOLS00dWlVNENzWGU1VDlLUW5iSmdiM1d1Mi1kbG5TSnB3Zkh0NW9reDByQVdtMWxW?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-18T10:55+09:00",
+   "title": "ロシアとクリミアを結ぶ橋が一部崩落 ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛 (BBC News)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjgyRWVEczViSUdLdXc1WGVuWUZkZkpTT1p5RG43RGpKX1dlaE9wRXhQSlIxTHBVZE1QajJfNnFKM01QcXFTOWFTNFpPWGhRWkV0eE1XQ1F1TUhKdHhjUnFsbGczdkoyZnB3ZGxjRkhfbEo0ei13T3BkV0w1Smd1SWJDaERqaUFGbU95SFZn?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T10:42+09:00",
    "topic": "ロシア"
   }
  ],
@@ -637,10 +639,10 @@
    ],
    "items": [
     {
-     "title": "イランがクウェートの米軍施設攻撃　米軍による南部ゲシュム島への攻撃に報復か",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2FBYjU2c0llZzU2dWJtRklNVzJjY3cxQjc1TXpwMWJYSFFJclVBYjkzMU40LWMtaXVzSkFRTkF1NFpzaDVETGRDZjVJVGVJTjd3eG9yMnoweDNBY1FQeWpBNExwU3lral92aHEweElPQUhqYnZHZ2JqUHBnQ1I0X3prcmlvUdIBiwFBVV95cUxPS2lNQVB2WFFTaWlGRjRBU1duLWNyWjA0NkhZME1pNGgyREluU09BajVkSWkyU3N0enJaQjJtUkF4M2d1eGNPM3paQWVibWtsa2ZSLVpRUGNzdnFhV0dOTlhmazVTMHltdkdWTkRTdm5OV2F0N2RoQW9qVjZwOGxqeG5QcGRWUlAtOGx3?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-18T19:32+09:00"
+     "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-18T19:45+09:00"
     },
     {
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
