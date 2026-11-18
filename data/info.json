@@ -1,13 +1,30 @@
 {
- "updated": "2026-11-18T09:45+09:00",
+ "updated": "2026-11-18T10:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [],
-  "headline": "注意報を解除します。",
-  "reported": "2026-11-15T15:37:00+09:00"
+  "items": [
+   {
+    "code": "14",
+    "name": "雷注意報",
+    "level": 2,
+    "status": "発表"
+   }
+  ],
+  "headline": "大阪府では、急な強い雨や落雷に注意してください。",
+  "reported": "2026-11-18T09:53:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-18T09:41:00+09:00",
+   "place": "茨城県南部",
+   "mag": "3.5",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-18T02:54:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -77,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-17T08:27:00+09:00",
-   "place": "島根県東部",
-   "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -94,6 +101,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "イランメディア「米軍がゲシュム島空爆…住宅と商業地域・インフラに大きな被害なし」",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbno4d1Vhcmg5TkRWN1c3OVpDMFJvLS1wMjJOeWk3bi15RUxESVY0eHJOSFVuVlRXSFducXotTDFkVWpnZkJVRm9rYWFaWno3RkdBOUM3Ujg3RUlPTmo4X0tvY0JOdmo0dzNvUXNqU1ctX0hiZnVtYzY2V2VwNFlNbEFxdnBwaDJPWkxIX2J5VXRaMFdBMmdlZ0NB0gGMAUFVX3lxTE51bnRGWUcySkhtZG1PaXJBT1dQcGs0NjZJLWZ0c2taQ2dVMlV5YXdLXzdFenhGYXRubHh3QXJxbzR4YWVjOW9INy1Dc2pwbk9PU3RldFZVTmk5dEZibHlTQjJZMENuNTdKcUNJSFBXeDV1MDBUMnY4NkFjNV9iT0dPME9GZkowalh3SlNF?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-18T09:45+09:00"
+    },
     {
      "title": "米戦闘機、イランのミサイル発射施設を精密攻撃 「自衛のため」と説明",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aRVVkWmFCRVZiQ1FRSmtIZFdXUW15WGE4S1VFd2tqT0pjWUcxczJhd3hjTjRaVWNsNkszTlhFNzZVMy1QWEF0aFVuS09UN3Vh?oc=5",
@@ -123,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzNEVjFkX2dENjg2NS1VNWJOUDNueUFWeGdNUGVIRmNidWVGVGNQalhraGRCN1gzUDBqTG41aVMtS3oxQ2UtQnh6ZWtjV2o3VnhNVDJnZHBiSFM2WkFWMzV5RGlUWEVYWlA1b1NLTUp4Vml2UjRqUWptalFEa1R4dDRxU2kzaTV4?oc=5",
      "source": "Chosunbiz",
      "at": "2026-11-18T07:54+09:00"
-    },
-    {
-     "title": "米軍、イラン・ケシム島ミサイル基地を空爆 報復措置＝米当局者（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RdW1NNGluXzRTVUdjVEEwbjdKdnhESWZieC1qc29TSjNKWVE3WHk1bG9kb01fc2lfazZwUWpGaDhFdHZIMVNlbWVHZzZmdVNEbDlGN0NLeUFfdDU3OTFYUzVxbkdXazAxQUl3OUpVbHQ0WUJxb1ZQbDFPLTJHNHM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T06:12+09:00"
     }
    ]
   },
@@ -179,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮労働者派遣を議論 国連で制裁監視チーム 核・ミサイル開発の資金源",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KZFBLbEhBMlpSc0gxWmJibm14SzVQbHpEUXZjbmRnbmg1dHZGUWNIbHM5MGR3RzUxdlRDWWdDOVdYZW8tM3BDM1Mwc0V4UFZYX09VdWVDb1c3ZzhXQlZQWUZfc003QnpmSWVoQWh6SEdhemlsR0E?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-18T09:27+09:00"
+    },
+    {
      "title": "【写真】北朝鮮の労働者派遣を議論 国連で制裁監視チーム",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1McVN3eDBrWk10VXUwdDNOcFJwcUlxTXNBQ0duMDF2eERna3dPcDNCck1zZEVZRmFiWFNMN20yZldpQlFQUW1KSTgxelNJWUQtTUxyTmZJazFvb1pwUlJmbFpqUDQtMmpx?oc=5",
      "source": "南日本新聞",
@@ -207,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLXdJNWlqTGVLOE5NMXpjVE1EX2JLdUlmOUdzaWRneFJkSmhBN2VleDk4bWh2ekhnMHprbzBBVmE4Nk1PSjQtZWVicV9RSTRhWmw0eEppeTN4Z1Bk?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-18T05:00+09:00"
-    },
-    {
-     "title": "北朝鮮：正恩氏最側近が訪露 プーチン氏らと会談",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pUG5NbGVERkpvYmVqYmo3eHZQcTBRTFl6ZE1RNXhEZFRUTlF4MUlSdE83WjNxdkVhUWYtemNSbFViMzNfMzJLbFlEY3JRLWpqeldzck1rVE9LcV9NVDFpcVFCcGJOOXdY?oc=5",
-     "source": "毎日新聞",
-     "at": "2026-11-18T02:01+09:00"
     }
    ]
   },
@@ -220,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "米、ウクライナの対ロシア「深部攻撃」を批判 逆効果だと主張",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91eUJsd051SW9BRXFxY0Z3ckNKdnZkaHBWQ3BKV3dfVFJQRlh4bFRoUmJ3MFpMQk00RHY4LS1pZU1lOWtFeUFsMXFyN0t0NzhqTnfSAVRBVV95cUxNMmZHZXg0eFI0Vk50SkpWd3hWUHVpR1dBYUdRaEhKLWwyYmNDc2hOUFo0Q0dFZ2xGcHJvOG9VYzdXUmpDZjdTOGxlM2xuT1NyUkU2Wkc?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-18T09:45+09:00"
+    },
     {
      "title": "ロシア外相、フランス兵のウクライナ派遣を「戦争への直接参加」と非難",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWmRsOXB3elJtVlZmWUNoc2U4YWE1Qms3Mmo0eFY1MHlNRUFOUGdiQ09wMlFueEdOakhfQk04X1BtS0pQS1RwRF9IekFvdE1OWXFyRlNNajVWMDgzeVhmUUxWUXBnRnc5aWY2dkJNMHhaV2vSAXhBVV95cUxNRmlMWEpzbjhRVWJxN3ZleGlHQ2NxTUpMS2FBNGRLZE1GZEhUZWF0dzRJc3MyNG5KSHVWMkhVbEJ3N2xuc2M4U0R2R2J6Z0pPdEg2UnNqNkpQcnQ3RmN2NDJTMS0tdnRqMnhqam1hNmxEUGEyTTNMSm8?oc=5",
@@ -249,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoY0JTTXNxZEF1c1hPN2FyNjV1amtNUHB6MEJyMmRwT1NVeVBUMFFNX2cyVlBIQTZZZTdOUXV2OUJFd1NNR2hNODF6WXhSQTAtTjNESm1Ra1FYa2pHWXB0VnJzRUlmMFVMN1NDLVpKSmRISHFnWENQZXd4Y214M0U?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T08:04+09:00"
-    },
-    {
-     "title": "ウクライナのゼレンスキー大統領 - ロシア占領10集落で人道支援を ウクライナ、米と協議へ - 写真・画像(1/1)",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LMTM3NWZVcjRWTHdXVVZrM0xHWXRRSExFT0NuTnhlS3ZvZ2Q1VktlWXR6eGVRUEQ3OWltNjAtWk1XUDBPaGtKNEE0ZGJiLVFMLWVVUFRrdw?oc=5",
-     "source": "西日本新聞me",
-     "at": "2026-11-18T07:29+09:00"
     }
    ]
   },
@@ -400,21 +407,27 @@
   },
   {
    "title": "アップルで一時システム障害 iPhone利用者アカウントにログインできず 「社内システムのアップデートが原因」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5ejZIYVZJN3A2WlhwclA4SXdtRzlsYkZVaDZSdDdjR2VCS1J3Z0ItZ1dNWmo4ZVNwZEt4dEUzcm95V3JxSTlNS1JTOGZsb3pxYlJGcXIzTDZycTIxTmRzZkgwZ2tWZzY5TFgxMVp3?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-18T09:16+09:00"
-  },
-  {
-   "title": "コストコに｢パニック買い｣、相次ぐシステム障害で必需品駆け込み需要",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVkc5ZjZuSVdDc0ZUME9fS2NsMzlEQTI4SEE5SXBvek5wOWNWYWYyclFoWktpU3liSlVZdFZVVjhaWTI3RGtCTFJEV0dTN29UVVdiRVVvUzVLM3U4YkNmTkZrcUZodjNELVVMNUlvd2JzMnJ2RVdvbVg3eHZJNjZBWFBoa2gxTEhvaHl0Q05JUWFLSXFBOEVtT250bGpCMjNiSTRRbjdUaU5MblNieE9kdmRlMXlXLW5QUFRFc0Q5eF9zaEhLWFNBT3RMSEFuV0nSAX9BVV95cUxQQ2hIdVZtUW12VzhBQjNXclE1dkVyLWhjOVdCS1M0ZTJ4MzRwT3dfNS1DOXIyMTJXTWJFa0tDOXFISGJ6cWNZS3FMam1aUEZjNWF0M3lVOHE4aXg5dE54QVRyUW1HOGdLNEFKcEVpcGExT002TFgtb3JWYmRWeFIw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-18T08:55+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4ZHpIcGVpd2tXZjZmSDdkb1dZZHVVbkkzM2FTRW0wOHlfbWUyS0YtQlBoR1FoTWhhbmNBQUFjVmxKd3BkbGN6SWRWRWU5dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-18T09:13+09:00"
   },
   {
    "title": "Appleに大規模障害、一般ユーザー向けは復旧 開発者向けはApp Store Connectなどで継続（テクノエッジ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZaXhzYV9TMEYyWTB0LUJkN3VvNmtFTUtvR2cwc0xyRGpsNUs1SzgtY0xhX20ycEhwQnpWbUE2UW5YdVFocFRwMUh6UHJUaXNBUTk0OEUwU1BaWXRwYjYyX3NqQXpLb01JNXRBbGxYZG93dkxxWFJVclI2bElFWTQ?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T08:43+09:00"
+  },
+  {
+   "title": "コストコに「パニック買い」、相次ぐシステム障害で必需品駆け込み需要（TBS CROSS DIG with Bloomberg）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYYWpWRDVpUHpIUUp4UXB2SXJlV3NrZDNIQTFwY3RFUllaRU1jX1g0R0FOWmR2OWV1WUVQaTRWMGlVdGRpbmZQRFhaemVIRDM0YnZpM3NycURoUkdhUFVMdURuQnc3NGxud2R6QVBibTF5NWVOUU02YTdIM2pVXzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T08:32+09:00"
+  },
+  {
+   "title": "コストコに｢パニック買い｣、相次ぐシステム障害で必需品駆け込み需要",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxNHBtdXljdHctYUlyaEZvS0FURFlSQWdTMkVEdF9SXzdtckt5TGp5SGRBOURmYUFOR1Jzc1ZDaTN0QWdvVHRYQXBOUEVUanY3c0Y4WVZvUVJqZXJwQnVHWUxYakdmdzQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-18T08:31+09:00"
   },
   {
    "title": "アップル内部更新障害 iCloudと決済乱れる",
@@ -447,32 +460,47 @@
    "at": "2026-11-18T09:24+09:00"
   },
   {
+   "title": "178組織サイトに不正コード埋め込み EC支援企業にサイバー攻撃",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Wb3oybTdUMnoxNFk5ZVBXQ0dMTW0zZGpaaHJtMElnTFBNSlhZUGsyMzVWX0JWQ0t0LTRUT0FKWHdQMm5WQUVncXc2eGY4VzVwVFVzbkh3allsaW01T2tBX2xySVF5NllFWlNFLQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-18T09:22+09:00"
+  },
+  {
    "title": "堺市の電子申請システムでメールアドレス64,073件が漏えい TKCの委託先アララへの不正アクセス、11月17日に確定公表",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXJBYUJSaWpmbnNXUDlMNVVqWkxmdWctcTZKVTJOclFTRU8zbW1rV1lWSk9HVGo3SjRodzVxNGcxdjg2Y19ON1l4OUhmekN4YVdzUFd6WjBHY2FsajliQnJEWGZuMElKdjE5d3NhaVU2MElkSkVUMmc3SFVFRzhxOVE2emdmaU4weW94MWppZzhHcG05QjVCTFBoS0JDSmlldU12Ui1R?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-18T09:18+09:00"
-  },
-  {
-   "title": "性犯罪歴確認システム「日本版ＤＢＳ」に脆弱性、不正アクセスされる恐れ…来月の稼働延期へ (読売新聞オンライン)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPREVEZUtYYlRGTVBtQmNjY2dTODN5aFp0VzlIVkFPVEJlR1BKUGlPMF9HY251RVdidzZQczE5d3IySEg3NnE1LVc4ZDlYM2Juc0xscVhJMWw1QU5XYUJyWVhJb0dWamw5bzdDMXVxNVBiNjRncWp4Z1pXUGtRaXNKT1VBcmFhZW1Ua2RlVFhB?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T09:09+09:00"
-  },
-  {
-   "title": "楽天証券で不正アクセス 約1572万件の流出恐れ | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPdGhEbDB2bTM0SHdnRTJPZ0diNDVPYm45NVV4N3hWVlNSRC12b0xkMTV2M0g3a2lKNEdZVXIyME9ZdTFYWjNNMFVIcDJiVmdzczdqWjRNU2hCMzBDYk1GcmViUlkzZ09RbkhHMVJTVmVVc3VvaXYzSkRQdm5yQkR6WWRlNzBGOWpGRXE0MkhxNEo2aGFocGFYdDB0aHRfN3B4WGtZUHdPWXdLUlhGeTdQOGFBb0NGQWJfMm1qRkd3eEFlYm10WVJLZ0ItVEdFX3JsM2pKbk1VZm93dXV2WWhIZGNKNHdhQ0NKMlBnNnJBa0JKT08taTRMVlNJdDdCLVlqMlNjbkZBRWt3R2VmTVdoamI2U0I3VWpPN1NBdWhOcVd5TFFYOWltNmNoOUpxZ0tvZDFnR3hJSFBvcXhveGN6bkRhMXdhOFNJRkR3Sjk4TG9peGNQN200Vg?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-18T09:09+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イランメディア「米軍がゲシュム島空爆…住宅と商業地域・インフラに大きな被害なし」",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbno4d1Vhcmg5TkRWN1c3OVpDMFJvLS1wMjJOeWk3bi15RUxESVY0eHJOSFVuVlRXSFducXotTDFkVWpnZkJVRm9rYWFaWno3RkdBOUM3Ujg3RUlPTmo4X0tvY0JOdmo0dzNvUXNqU1ctX0hiZnVtYzY2V2VwNFlNbEFxdnBwaDJPWkxIX2J5VXRaMFdBMmdlZ0NB0gGMAUFVX3lxTE51bnRGWUcySkhtZG1PaXJBT1dQcGs0NjZJLWZ0c2taQ2dVMlV5YXdLXzdFenhGYXRubHh3QXJxbzR4YWVjOW9INy1Dc2pwbk9PU3RldFZVTmk5dEZibHlTQjJZMENuNTdKcUNJSFBXeDV1MDBUMnY4NkFjNV9iT0dPME9GZkowalh3SlNF?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-18T09:45+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米、ウクライナの対ロシア「深部攻撃」を批判 逆効果だと主張",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91eUJsd051SW9BRXFxY0Z3ckNKdnZkaHBWQ3BKV3dfVFJQRlh4bFRoUmJ3MFpMQk00RHY4LS1pZU1lOWtFeUFsMXFyN0t0NzhqTnfSAVRBVV95cUxNMmZHZXg0eFI0Vk50SkpWd3hWUHVpR1dBYUdRaEhKLWwyYmNDc2hOUFo0Q0dFZ2xGcHJvOG9VYzdXUmpDZjdTOGxlM2xuT1NyUkU2Wkc?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-18T09:45+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "米戦闘機、イランのミサイル発射施設を精密攻撃 「自衛のため」と説明",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aRVVkWmFCRVZiQ1FRSmtIZFdXUW15WGE4S1VFd2tqT0pjWUcxczJhd3hjTjRaVWNsNkszTlhFNzZVMy1QWEF0aFVuS09UN3Vh?oc=5",
    "source": "CNN",
    "at": "2026-11-18T09:35+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "北朝鮮労働者派遣を議論 国連で制裁監視チーム 核・ミサイル開発の資金源",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KZFBLbEhBMlpSc0gxWmJibm14SzVQbHpEUXZjbmRnbmg1dHZGUWNIbHM5MGR3RzUxdlRDWWdDOVdYZW8tM3BDM1Mwc0V4UFZYX09VdWVDb1c3ZzhXQlZQWUZfc003QnpmSWVoQWh6SEdhemlsR0E?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-18T09:27+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "【写真】北朝鮮の労働者派遣を議論 国連で制裁監視チーム",
@@ -559,13 +587,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ウクライナのゼレンスキー大統領 - ロシア占領10集落で人道支援を ウクライナ、米と協議へ - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LMTM3NWZVcjRWTHdXVVZrM0xHWXRRSExFT0NuTnhlS3ZvZ2Q1VktlWXR6eGVRUEQ3OWltNjAtWk1XUDBPaGtKNEE0ZGJiLVFMLWVVUFRrdw?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-18T07:29+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "元陸自ホワイトハッカーが警鐘を鳴らす日本の“サイバー安全保障”の限界 GMO事例では中国製AIや北朝鮮の関与も囁かれるなか「盾のみならず鉾をも向けるのが防衛」（マネーポストWEB）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeWZhNTFIR091dHY2RmV6YnVIeXo2VU9BUUhBeFlEdGpwUy1xemVBajhtWE9iWVlCdFNKWXA5R3JnSEtNTUtFWm5Xc2xyTXk3N1ZxNmNZNzZZQVVWMFhmSXR2Q2Z1Z0QxSkRKTW9RMU5qVzM5NGExbGZNZk0xLUU?oc=5",
    "source": "Yahoo!ニュース",
@@ -592,20 +613,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T06:15+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "米軍、イラン・ケシム島ミサイル基地を空爆 報復措置＝米当局者（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RdW1NNGluXzRTVUdjVEEwbjdKdnhESWZieC1qc29TSjNKWVE3WHk1bG9kb01fc2lfazZwUWpGaDhFdHZIMVNlbWVHZzZmdVNEbDlGN0NLeUFfdDU3OTFYUzVxbkdXazAxQUl3OUpVbHQ0WUJxb1ZQbDFPLTJHNHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T06:12+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "（目撃者 北朝鮮の初核実験から２０年：中）実力者の処刑、戻ってきた統制と恐怖",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLXdJNWlqTGVLOE5NMXpjVE1EX2JLdUlmOUdzaWRneFJkSmhBN2VleDk4bWh2ekhnMHprbzBBVmE4Nk1PSjQtZWVicV9RSTRhWmw0eEppeTN4Z1Bk?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-18T05:00+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -626,15 +633,16 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「空爆」6件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」1件",
+    "北朝鮮：「ミサイル」1件",
+    "ロシア：「攻撃」2件",
     "欧州・NATO：「攻撃」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "米戦闘機、イランのミサイル発射施設を精密攻撃 「自衛のため」と説明",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aRVVkWmFCRVZiQ1FRSmtIZFdXUW15WGE4S1VFd2tqT0pjWUcxczJhd3hjTjRaVWNsNkszTlhFNzZVMy1QWEF0aFVuS09UN3Vh?oc=5",
-     "source": "CNN",
-     "at": "2026-11-18T09:35+09:00"
+     "title": "イランメディア「米軍がゲシュム島空爆…住宅と商業地域・インフラに大きな被害なし」",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbno4d1Vhcmg5TkRWN1c3OVpDMFJvLS1wMjJOeWk3bi15RUxESVY0eHJOSFVuVlRXSFducXotTDFkVWpnZkJVRm9rYWFaWno3RkdBOUM3Ujg3RUlPTmo4X0tvY0JOdmo0dzNvUXNqU1ctX0hiZnVtYzY2V2VwNFlNbEFxdnBwaDJPWkxIX2J5VXRaMFdBMmdlZ0NB0gGMAUFVX3lxTE51bnRGWUcySkhtZG1PaXJBT1dQcGs0NjZJLWZ0c2taQ2dVMlV5YXdLXzdFenhGYXRubHh3QXJxbzR4YWVjOW9INy1Dc2pwbk9PU3RldFZVTmk5dEZibHlTQjJZMENuNTdKcUNJSFBXeDV1MDBUMnY4NkFjNV9iT0dPME9GZkowalh3SlNF?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-18T09:45+09:00"
     },
     {
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
@@ -643,10 +651,10 @@
      "at": "2026-11-18T07:34+09:00"
     },
     {
-     "title": "独英国防相、ウクライナのロシア深部攻撃巡る米批判に反論（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoY0JTTXNxZEF1c1hPN2FyNjV1amtNUHB6MEJyMmRwT1NVeVBUMFFNX2cyVlBIQTZZZTdOUXV2OUJFd1NNR2hNODF6WXhSQTAtTjNESm1Ra1FYa2pHWXB0VnJzRUlmMFVMN1NDLVpKSmRISHFnWENQZXd4Y214M0U?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T08:04+09:00"
+     "title": "北朝鮮労働者派遣を議論 国連で制裁監視チーム 核・ミサイル開発の資金源",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KZFBLbEhBMlpSc0gxWmJibm14SzVQbHpEUXZjbmRnbmg1dHZGUWNIbHM5MGR3RzUxdlRDWWdDOVdYZW8tM3BDM1Mwc0V4UFZYX09VdWVDb1c3ZzhXQlZQWUZfc003QnpmSWVoQWh6SEdhemlsR0E?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-18T09:27+09:00"
     }
    ]
   }
