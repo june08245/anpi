@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:30+09:00",
+ "updated": "2026-11-19T01:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T01:39:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.7",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T01:17:00+09:00",
    "place": "熊本県熊本地方",
@@ -87,16 +97,6 @@
    "mag": "2.4",
    "maxi": "1",
    "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-17T21:22:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "2.8",
-   "maxi": "2",
-   "maxiRank": 2,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -210,6 +210,12 @@
      "at": "2026-11-18T17:22+09:00"
     },
     {
+     "title": "ドナルド·トランプ米大統領が中国深センアジア太平洋経済協力会議(APEC)首脳会議を契機にキム·ジョンウン北朝鮮国務委員長と会う可能性に言及したが、実際に米朝首脳会談が実現する可能性は低いという専門家..",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRlk2M2NIalBqazlPcVhFcUZZSkgwVmE1M2lDdFZVVXh5YXlGaUlCbXpCMmRGSWpNN2h6NnFpRzN4eGNWcUFOeWJQSGNhVzZVMTV3?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-18T16:07+09:00"
+    },
+    {
      "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY00xN3JKLUFQN0dSUUJRbHJEd256TzB1Q19sdGxvbUNsM3VXbWNTZFBGZjFTZlB1QWlMVGg5U2YxcWZRcDZTTHFkLWRUbGJ2RWdmaHRFRnJvQUd4YllnbHJpdW1Rak5COGJRc25LZGV6Y3NKZU1peHEtd1l5NUFlMXcwVUM0eVFRTnRUdlB5YldDZEtURDA2Z1VXY2stQTEwdTFzZDFKSEFNQU9tOTRUNml1VEJjVGoyMWhqTk9EZHNtaGZxSmRxbkRUcWfSAXxBVV95cUxPRG54UTBmNGdsdmhwaG1ORm4tTGpPZE9zNXFESVlKWjNaTGdxeERyUFFjMWRQb08xU1J4NU5jcllDTHFYZkZxeWhEcHFhNTdDaG1oamwwT3ZzbS1JMHhsX3NmRFZJNnY2dXR6SmRDQVhVVm5VZEN3UGVuanVv?oc=5",
      "source": "ｄメニューニュース",
@@ -220,12 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T14:23+09:00"
-    },
-    {
-     "title": "トランプ氏の“最後の球”？ 金正恩総書記との電撃会談を匂わせる思惑とは…専門家「北朝鮮は中ロと二股、アメリカと会う必要がない」「飛行機に乗らない」（ABEMA TIMES）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T14:06+09:00"
     }
    ]
   },
@@ -238,6 +238,12 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
      "source": "読売新聞",
      "at": "2026-11-19T01:05+09:00"
+    },
+    {
+     "title": "米中ロ首脳会談控え…ウクライナ、「プーチンの自尊心」クリミア大橋破壊",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk9xOWczNDVlbWhDcFFGSGRELWpnclBGNFVXbUpBelMyTnNaRm1JU0pfVEhVcDVfNnN6Z3g2QjdVTy14N0ltWm50czFLV1AyR2NOLW5hbVlOWWVrajUtN3ZyV3JxNVNpX1ptSVFpZ3pNemNUZjBmdTg0V1ZiRVV1SC14VWs5czd0?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-19T00:45+09:00"
     },
     {
      "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話（読売新聞オンライン）",
@@ -262,12 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhNXdJVTdzb1FpR2FNQ0g0bVFmMmdwZkRBRWE5dGVZdDRHVjZlTUkzcUhEck1zUy13eFZPVzh5dHBUOVU2MDNRQkhWczM5YlI2dFdDMlp4NUh5T2xyT0FuV0V6VEFYajZu?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-18T16:56+09:00"
-    },
-    {
-     "title": "ウクライナは２か月連続でロシアの占領面積を上回る領土を解放＝コルビー米戦争次官",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaTRpWXR0LVM1VEo3T2VmQWJuWUlHS0FXQVRFZVlPN3VibGdWTWJWTHFwNHRVUHNzZVBtRkRTTjNTckFDaEVlTHB1UEVOSVNnY3VEV2ktUTNqT0hfN25fM09lVEVlQ182MHNsSVZTbmgtVERSWWkxZUg2a00tWk1mTkZ1emZvTjVWeTF1WWtwa2dWSnBUdFpiZkp0TENCYW1jMVpNdVNOX2RoZHlSSjVlRDcwdHZBWkVVWHZOWHFXOWtvWHMyUm5HQ3RSR2M1R001OTdMSVdQSXFMUUFkdEVmemJhbnlfSTc3ZkRwTGtIalVncllOQ2hvSk930gH_AUFVX3lxTFAwUHpJcU9pcENfbHZLdjhjYmVOY3A5U1p2QzdUeGNXQWhmSDk1LWpmakFlbU9uV2hvcG4wZ2VCVzlTN04zVUhHbDFLWDdfWFdUQkszYnU5a2JqUlpFVk9oN184ZUJqYm5PcnhTWFJwSEY4enhVLWdfLTJiWTdQdFdTMDE3dC1jWXpJY29FcGdPd3NOQWpNTm1jQkRTUGFHendNaHpaRHdfSDEyWVByUFJrc090SzhuSFJXMDlTTFpJaF9zLTdyX3ZZX2hGdUVzZm1iVFVVTWxDTmxTbU16dHdSWGt1Q3NaQ1VFNmNTRGtWRjdPMS1FUldEeFZDZDlfRQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-18T16:53+09:00"
     }
    ]
   },
@@ -475,6 +475,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "米中ロ首脳会談控え…ウクライナ、「プーチンの自尊心」クリミア大橋破壊",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk9xOWczNDVlbWhDcFFGSGRELWpnclBGNFVXbUpBelMyTnNaRm1JU0pfVEhVcDVfNnN6Z3g2QjdVTy14N0ltWm50czFLV1AyR2NOLW5hbVlOWWVrajUtN3ZyV3JxNVNpX1ptSVFpZ3pNemNUZjBmdTg0V1ZiRVV1SC14VWs5czd0?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-19T00:45+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
    "source": "Yahoo!ニュース",
@@ -599,13 +606,6 @@
    "source": "AFPBB News",
    "at": "2026-11-18T17:22+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "ウクライナ国防省情報総局(HUR)の隊員、カホウカの森でロシア軍を待ち伏せ",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhNXdJVTdzb1FpR2FNQ0g0bVFmMmdwZkRBRWE5dGVZdDRHVjZlTUkzcUhEck1zUy13eFZPVzh5dHBUOVU2MDNRQkhWczM5YlI2dFdDMlp4NUh5T2xyT0FuV0V6VEFYajZu?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-18T16:56+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
