@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:00+09:00",
+ "updated": "2026-11-19T01:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -234,6 +234,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-19T01:05+09:00"
+    },
+    {
      "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
      "source": "Yahoo!ニュース",
@@ -241,7 +247,7 @@
     },
     {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSdIB1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T21:14+09:00"
     },
@@ -262,12 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaTRpWXR0LVM1VEo3T2VmQWJuWUlHS0FXQVRFZVlPN3VibGdWTWJWTHFwNHRVUHNzZVBtRkRTTjNTckFDaEVlTHB1UEVOSVNnY3VEV2ktUTNqT0hfN25fM09lVEVlQ182MHNsSVZTbmgtVERSWWkxZUg2a00tWk1mTkZ1emZvTjVWeTF1WWtwa2dWSnBUdFpiZkp0TENCYW1jMVpNdVNOX2RoZHlSSjVlRDcwdHZBWkVVWHZOWHFXOWtvWHMyUm5HQ3RSR2M1R001OTdMSVdQSXFMUUFkdEVmemJhbnlfSTc3ZkRwTGtIalVncllOQ2hvSk930gH_AUFVX3lxTFAwUHpJcU9pcENfbHZLdjhjYmVOY3A5U1p2QzdUeGNXQWhmSDk1LWpmakFlbU9uV2hvcG4wZ2VCVzlTN04zVUhHbDFLWDdfWFdUQkszYnU5a2JqUlpFVk9oN184ZUJqYm5PcnhTWFJwSEY4enhVLWdfLTJiWTdQdFdTMDE3dC1jWXpJY29FcGdPd3NOQWpNTm1jQkRTUGFHendNaHpaRHdfSDEyWVByUFJrc090SzhuSFJXMDlTTFpJaF9zLTdyX3ZZX2hGdUVzZm1iVFVVTWxDTmxTbU16dHdSWGt1Q3NaQ1VFNmNTRGtWRjdPMS1FUldEeFZDZDlfRQ?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T16:53+09:00"
-    },
-    {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月18日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4aDZac1lvdmk1cW4tcGViWDgzZzRMU1ZYU1NPN3hKcWxINmsyVm9Falo1QmRmeVZFZUJEM1JZMjJmWkg2X0d5Zm5kdE5fTzV3RExOdXhLR295SHhxUE5N?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-18T15:57+09:00"
     }
    ]
   },
@@ -468,6 +468,13 @@
  "osaka": [],
  "world": [
   {
+   "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-19T01:05+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
    "source": "Yahoo!ニュース",
@@ -525,7 +532,7 @@
   },
   {
    "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSdIB1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-18T21:14+09:00",
    "topic": "ロシア"
@@ -599,13 +606,6 @@
    "source": "Mezha.net",
    "at": "2026-11-18T16:56+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナは２か月連続でロシアの占領面積を上回る領土を解放＝コルビー米戦争次官",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaTRpWXR0LVM1VEo3T2VmQWJuWUlHS0FXQVRFZVlPN3VibGdWTWJWTHFwNHRVUHNzZVBtRkRTTjNTckFDaEVlTHB1UEVOSVNnY3VEV2ktUTNqT0hfN25fM09lVEVlQ182MHNsSVZTbmgtVERSWWkxZUg2a00tWk1mTkZ1emZvTjVWeTF1WWtwa2dWSnBUdFpiZkp0TENCYW1jMVpNdVNOX2RoZHlSSjVlRDcwdHZBWkVVWHZOWHFXOWtvWHMyUm5HQ3RSR2M1R001OTdMSVdQSXFMUUFkdEVmemJhbnlfSTc3ZkRwTGtIalVncllOQ2hvSk930gH_AUFVX3lxTFAwUHpJcU9pcENfbHZLdjhjYmVOY3A5U1p2QzdUeGNXQWhmSDk1LWpmakFlbU9uV2hvcG4wZ2VCVzlTN04zVUhHbDFLWDdfWFdUQkszYnU5a2JqUlpFVk9oN184ZUJqYm5PcnhTWFJwSEY4enhVLWdfLTJiWTdQdFdTMDE3dC1jWXpJY29FcGdPd3NOQWpNTm1jQkRTUGFHendNaHpaRHdfSDEyWVByUFJrc090SzhuSFJXMDlTTFpJaF9zLTdyX3ZZX2hGdUVzZm1iVFVVTWxDTmxTbU16dHdSWGt1Q3NaQ1VFNmNTRGtWRjdPMS1FUldEeFZDZDlfRQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-18T16:53+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -626,8 +626,8 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」3件",
-    "欧州・NATO：「攻撃」「爆破予告」3件"
+    "ロシア：「攻撃」「ミサイル」2件",
+    "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
     {
@@ -644,7 +644,7 @@
     },
     {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSdIB1wFBVV95cUxNcDlBQ1huRmxMVWJnNFZ6WVk2ZU94SG9WdjVmc3NiNGlwcDJIM1pFTnFZQjVacDVVYXI2VzhSdGhKR1QyQm92c3ZSb3FPU3VLXzNwcDR2VDh3OWZBWEtRdjE4Rk13LUtEblVzZ3J0UGk3TksyN19xdDduQVM4S09sN0RiNWkzQ1JQSzJWRFZjcTN0WkxYM29TSEUzNkIyNDBsVTMyRUE2U1dCVGdxdFNhQjBldVFGck1VZDRhZWdTOF82c2lKaWNnZ0JpeGNHRVEwRVJuV0toSQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T21:14+09:00"
     }
