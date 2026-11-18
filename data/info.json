@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-19T01:45+09:00",
- "errors": [],
+ "updated": "2026-11-19T02:00+09:00",
+ "errors": [
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -108,18 +110,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イラン戦争、東アフリカに飛び火か フーシ派がソマリア進出狙う #エキスパートトピ（高橋浩祐） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUZXbXJ5LWlUSDcwSnlPeW5SUjNqZVdZQWJ5dEpFYW1uYUwtUVp3aHlNalNPeUNWc19PODloakN5bDRuX3BxQXdVbHZtM0Q3cHViUERmczFjd2ctYnJXLXhKSmxEaVpOa0dJcktyVlk3Q05LbXhUMS1ONVN6Y1pvU3ZjZ0k3c25f?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T22:43+09:00"
-    },
-    {
-     "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-18T22:06+09:00"
-    },
-    {
      "title": "【米中ロ首脳会談】トランプ大統領×習近平主席×プーチン大統領 核軍縮やイラン情勢は？ 「第2のヤルタ会談」とも… 情報まとめ【随時更新】",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFanFHLWt1TU5uMEpFWUZ0WEpGYjNnTXRaRWdsR3NZUW5EdVp6YnFENlN2TWdpMkRwc3BCLThoQW1fcW5hZ3NqWUZsUnFhQmxvbjl3dXItRWx3TDB5QlhualRqcmM?oc=5",
      "source": "TBS NEWS DIG",
@@ -138,10 +128,22 @@
      "at": "2026-11-18T20:05+09:00"
     },
     {
-     "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-18T19:45+09:00"
+     "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-18T19:32+09:00"
+    },
+    {
+     "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDFTNVdQTmE0eTRMcDZOamtvbmpoQzhRX0lRb2h2UEttMDBKMnFqNTNNMkYyT3lzeGFQVTlEcmtUcG53U0R5STh5R0toWDRteHF0dUFEZklYNWhMODc5a3U1MURIQ0FDaTBUNkNXekFpWVM3SEExbFRaUFRGYWlBcmdtZTgxVms?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-18T16:35+09:00"
+    },
+    {
+     "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
+     "source": "TVer",
+     "at": "2026-11-18T12:38+09:00"
     }
    ]
   },
@@ -234,6 +236,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NcTdlc3ZERTUxYXJSWUU0c09lYWxpalpTR3ctdGE3QUZPdGlqT1NMbFBITUt6YjdhRjNHVDMySGVLTm1xUVNKODF6RVBVbVBLWVdwTEJ4NHZHNWtBb21YSEdjdWJpMndfQ05CVTM2YXg5d9IBd0FVX3lxTE5LS0hlRUd6WkFJbk1YeW04MnFZSW01NWxQOW5sZWlYbDJNLVl0UGJoNkxOODFMMVd0RWRyeGg1a2pHaHM0ZXh5dms3eWhFSnRMQjNLcDZsMEZ4bnZMRmwta1NuU2ttY2ZJbWRXNGlOWXJHT1NmZG04?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T01:54+09:00"
+    },
+    {
      "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
      "source": "読売新聞",
@@ -246,10 +254,10 @@
      "at": "2026-11-19T00:45+09:00"
     },
     {
-     "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話（読売新聞オンライン）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T23:41+09:00"
+     "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1l2SFoxalU1SlQ5dFJxMTBlYTdNeC1RalRtcTRsZVdtcF9sTld5OXdyOTFFQTlNaWZTWjRpWUstM2R0UWs3VnpnaU93Nk00SERiMFFxVXVLQUdWRWZkOUVEdjZaRU5hSXdKNTlIZWF3d0FyV1BoUlFHNkpTTEN6N2VkS0VjM2g2aVp6edIBkgFBVV95cUxPUHFXNDh2SHR0ek9ORWlZVXdoSEJiMHdWUjRfdHZuUjFHNm9mS2VXYy1iRmpvT1dEQWZZQkFRUXFNYjZyQUgza0pjWk5fd1l1UHlveEhDUHA4STRHbTVxZTl6Sm1TWEdxN0Rkd3dORDJ4endtV2F0S2tIaHRlaWY5SjdZS01jV0ZLV1lsVHNzZ1F3QQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-18T23:40+09:00"
     },
     {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
@@ -262,12 +270,6 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblJDMUpCWmlkOUxXOHd2MlgzWDdYM1hLU09GSjljZ2NNYjViN1A0eDRibVdZZkcyTHB4OUFrd1pxYWlPZl9HWlVlck5idTZkSGZ1cnlXWjRncGcta21fTnFjY3BRaGZIdHlZOVhQYVhkWmw3Zkx4OWMyTmVCVHZXWFlBaG9jOUhQanFMWldGV21YZjhkQTk5eGQwb3dhS2JZLW1SUHdOYUVxVmpOSGV3RzdlSHBIUdIBuwFBVV95cUxQZHo0bXYyTlBjTWwtaVZqbEF6T0RLeFlrSmNtZkw2TjhCX1FMT2d4bnRNMW51ZHBvQnpHNzhZd0IxSWNMZTBqaXBkWlNwS29UaUdiWUh4V1otSjVZWE9VeUZRdTVuTWxQR2IwM1p4cE16T0h5X3dnR1pUSC1oNEExelFaV3NkcFRTZS1WYzI2TWhhdXRaRzBpUUJULVRTekxlRVJIY1l3dExVMGRMRzhmZU5HWHdGNWJ6MFpz?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T20:51+09:00"
-    },
-    {
-     "title": "ウクライナ国防省情報総局(HUR)の隊員、カホウカの森でロシア軍を待ち伏せ",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhNXdJVTdzb1FpR2FNQ0g0bVFmMmdwZkRBRWE5dGVZdDRHVjZlTUkzcUhEck1zUy13eFZPVzh5dHBUOVU2MDNRQkhWczM5YlI2dFdDMlp4NUh5T2xyT0FuV0V6VEFYajZu?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-18T16:56+09:00"
     }
    ]
   },
@@ -322,16 +324,22 @@
    "at": "2026-11-18T21:08+09:00"
   },
   {
-   "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VaXE3enRqTnFjOHZVWk1MVVR0SnVNQ3FXbEx5SDRxVXpiWGhyeFMwazFGQU5oMzFpTlo5aXBRU2tUR0ZxMFBOMlhmeFkxcGVwZFkyMllMaWUtQzI3Q1FscXVXWWN5UlZ6Zk4tc1RR?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-18T19:38+09:00"
-  },
-  {
    "title": "南海トラフ巨大地震発生時に頼れる「防災道の駅」に…高松市指定の津波避難ビルを活用した避難訓練【香川】",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sWVhwbWJCVWQwU3VTLXpIT19OTV9oWFBJM0hmMXJZTzNjYjVnaEFURDRSYnRBdFN5anBPQzBRalZDcW9TbTF0SFpoZ3ZaVDhzcnZiVXRYTDVSQXhfZ2F4dTY4MDVMQ0VlMkhLTUZB?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-18T19:18+09:00"
+  },
+  {
+   "title": "南海トラフ巨大地震との関連は？今できる備えは？防災庁｢備蓄を最低3日分、できれば1週間分の用意を｣",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jcFZHU1ZJYjNfNldiSElNd0ZFc1pQVEVVbk1VTzNoVnY2OUpacVA2eVdSdzBGQkVFTktlZTBROXBvRGRDTm8wLTNETzNPcVVHdzQ2Qkp0YWlfLUdTRkxn?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-18T19:02+09:00"
+  },
+  {
+   "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練（RSK山陽放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOUx4eklOS2s4dHFfY3dudVZKVVpuSW5LcDJMTExYVVBGVlFzQjYtdjFsV2RQeWZfeno5Z0h6ZHNMNTJVbDZHWXJjOXBOR3lFZDItOUJxUkd1LW51RXR3V0lDcUt0MXU2bVN3X2dYcmw1NGlsUHAwU1R1V0cwbG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T19:00+09:00"
   },
   {
    "title": "南海トラフ巨大地震を想定した震度7相当の揺れを体験できるイベント 住宅メーカーが企画 鳥取県鳥取市",
@@ -344,12 +352,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NMF9pMFZ0aGxMcm1HRXVjVzh4UlgyV05oRENUNzNQYXhzTVlJNG9xWXREUmZLcWctc3Z5Zy1CRGx2QW9najNzZ2R2aHktMVNjNFRpa2Vha21FWkpYT1FRMFNmOWp0VXRNX3Z4UmxJMHRkamRUNWx5TGYwQ3VFZms?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T12:53+09:00"
-  },
-  {
-   "title": "南海トラフ災害廃棄物、527万トン減1488万トン 県が処理計画改定素案",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1YzA5U2tnc0E5cFBRdDBGcDJJdVNPaWktNzBwd2tTRDdQWTQ4bkJZckpaVEFzcDhDc3R2SmNNMFZYM0hRVTdobENmWFBIOUU3ZWFvbE5R?oc=5",
-   "source": "徳島新聞デジタル",
-   "at": "2026-11-18T05:00+09:00"
   }
  ],
  "outage": [],
@@ -376,27 +378,15 @@
  "cyber": [
   {
    "title": "米で相次ぐシステム障害、「組織的・国家関与の攻撃ではない」＝国家情報長官",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1td1Q1Mmg2U0NWeDhGQzc1bkxLeExsQ3UtOUg4ekctaWh5aERod3RYeldwa1F0eWhQZ0VjbS1HcVVHckx0cnkzaGRfemZ4N1djTlRhb0RMRHRWM0pwMUx1VUt6V0VKbk9pd2xCSHZVY3VCb0tNYW1mSlB0SS1Id9IBgwFBVV95cUxOY3c3N3NqdWdwQzY2WEtYZkpsTk5BWm1TWnpDQWVtYkFaYllGNjc1Y0ttUGxNR1RWcnhPYXFiXy1oQWl1ZXJwNTd2SG9NZDY4YldOdGVLX1FpbVE0WkV2LWxnQ2hBUUJkTmItT0gzSXJ4UU55MV8xZC15bXZZbV9RZ3J2RQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-19T01:24+09:00"
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1REYndvVC1HV08tX2ZQMFF2Y3JHRkpZZENCODF6ek9LWEh4VmktQXA3UzNCZXdWRjZubUc2c3V3b1Q1VkhZVVQxanlXczFWU1RUQzUtUWhvdFNmQ3JEMnUyTVJxbmVVMWQ1SkxheVJDMzBxeGZOUjdkLXNHVUtHeWh3RmtNWUU?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-19T01:13+09:00"
   },
   {
    "title": "アップルで1週間に2度のサインイン障害―11月17日は社内更新が原因と説明",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50RzZuT0ZFb0c2YWRHQ25IZHU5cXIxMGwzR0tnNGZ4bmhoaHR4MmhfSm1hTnNyNlZYOHNXVVhkUHAzV3NuRTdKdTBhR1k2aDVsYWhLUUxxZFBRNE52aDZfejJLWdIBaEFVX3lxTE1wNS1HRVFMNFR4NE5mT2JVU1lXNWwwenVZT2E4azlvOFR5UFJaV3lScGRzN08zWE8wMXdOUTZvaFY3ZWRaZUs2QnRlNGRldE41UVYwRmFMMlhBN0FYMXJHUkJyalJoY1M4?oc=5",
    "source": "財経新聞",
    "at": "2026-11-19T00:22+09:00"
-  },
-  {
-   "title": "相次ぐ米大規模システム障害、脆弱性急増によるセキュリティパッチ適用の影響か？（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zcFhQVUsxS2ZSZTZoYUQ0aVZSOFlnai1PTmlYRXl2UDMtQ0hFTWg1Y3NnZU4zUk9TVHZVaC1HMDR0Vl9VM1JXMndEYlRsVDFSNU02dDdSZEp1QUlsSGdQLTRNQ2ZWUE5rNWJkeU5HSkhPNVphYWxZaHF0S3A5aUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T22:25+09:00"
-  },
-  {
-   "title": "国際アイスホッケー連盟にサイバー攻撃 公式サイトにロシア選手の写真 文言に「ロシアと対戦するのが怖いのか？」",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhMlB1TmJhYWFkdGZwU084Wi1OeDhiSFJfcUpfQUh6SzRlRm1WTjcwZUxheXJUYkdQYmlNeG91MGhOa3FCYWRyX0VaYVF4dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-19T01:12+09:00"
   },
   {
    "title": "仏、冷蔵庫へのサイバー攻撃でイランを非難",
@@ -429,6 +419,12 @@
    "at": "2026-11-18T22:33+09:00"
   },
   {
+   "title": "楽天証券の不正アクセス、テスト環境の顧客口座や年収や金融資産まで漏えい（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSXZDMEpCbjROYjVBTjZKckdQb21GeGdnS1BOa2dkUzRJWUxvRGpHMXZuOGlhS1VlRS1SaTlwdnlsZ19SRUp5bXUxN3VFS1o1SzNDMlNLbmE1Ql9oUnFvWE9faWZKbVpCazBoVWtFQWk5MWtZR3JuVEIwaGh2V0R5djk0Y3U4VTZL?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T22:30+09:00"
+  },
+  {
    "title": "エア・ドゥ、約2520人に影響か アマデウス不正アクセス（Aviation Wire）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CblNuN0RmRTM4ZEt3cmdmZjVZbVNSWGVLLXNBWVhyS2Jxb1oxandTa0JkUTVCbktxcGpDb2NtX0FOLTVscmdRZ1M5bEpFY09LWURTOXpZUGowaU5XeXpxZGYyWVFhbW5wLXFqUjZIeDJMUzRubjI4ak40aVpKM0k?oc=5",
    "source": "Yahoo!ニュース",
@@ -441,12 +437,6 @@
    "at": "2026-11-18T22:27+09:00"
   },
   {
-   "title": "楽天証券の不正アクセス、テスト環境の顧客口座や年収や金融資産まで漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wcjFmYlJBeS1ETTRPOWN4dHBvUFhITktUWTBWYlVwNUFnSFFlWG5oRnBuQTNZMFFjR3hROE04THA1c19aU0RjcF80bzFiVWM?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-18T22:20+09:00"
-  },
-  {
    "title": "サイバーテロ対策強化へ 神奈川県警とインフラ事業者らが協議会",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZaXBteGNHSGhqdHhXclB5MlNkQzVodUVMZkZtNE56N2V6M1p2blBLOEwzb0taeFNFR3p3REM4WnNkMk5aUlBuWXpmQlMtT2pySmlvbWRvYURvUENwdFVuckl1WjQzWE1TaTFNaUFR?oc=5",
    "source": "au Webポータル",
@@ -454,19 +444,38 @@
   },
   {
    "title": "理研が警察に被害報告 「富岳」への不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOc3dDdEhXRkE3dzBlVHdpcU50VjgwVGpvYVlXU3hsaHl2ajVYSW5UcEN0YVNyUWxNdlBEdWFCVldST29JTm56d1Q0QnJpend6LVRmUURjRUllQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-18T21:57+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FMW1WYi0yOWozZTdDUjFEV1JrOW5DdTFlLTVDSU90MDY5WEktbEhHcEdncDhxc08xdWhjd05SZ3diUG93TUU3bXVxUQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-18T21:59+09:00"
   },
   {
    "title": "大崎電気、スマートメーター生産停止＝サイバー攻撃で",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vcXE2OWRvTGNCbjVxcnViYkplcDFPSFQxRmdTNnBEVFh2UlpwQjY5cmtJM2tEbUg1TGlJclFwT3k0TnlnTXZKeGVHbVd0OEpsRS1rUlZZNjYzX2xubzh4YnJOTW1mbXBaSGk1SW4wcFNUU29mbk1IZENvbFLSAYIBQVVfeXFMT3p3TC1RRjJfRWk2RTdjNzBXZllBTWc2ZWgwNUdBRDhkT1BhRG9fbHVBQmpCUFFPVF8xYnNoWFR5WkU2eWdEWmpQdmxQY1V5TEIxbmxQMERoRFlSVjRSbF8xMHJYTUV3Z0x5bGRkMlY0djRoMGRPX1JDR1hsRTZMWDVodw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-18T21:56+09:00"
+  },
+  {
+   "title": "三菱UFJ系2社で顧客情報流出、KARTE不正アクセスで証券口座番号6万件",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNmJtZGJ2WXpSQTYyT29fSER6dmVlNHBENmMzcUpTZFR2TW5QYnVlNXZJUkdwdDhiM01PaUNPdE1KbUVSR1U3eHk4NzVkcmxBMGw3eS11SFhlMW1Rdk9SMWRkb0trTHFfSGk3aU9UYWlpQjl0?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T21:55+09:00"
+  },
+  {
+   "title": "サイバー攻撃備えでＡＩハーネス導入を 神奈川県警で協議会、専門家が講演",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15eDBKZUZwU0pIN2FnNDF5QnVzUV8tRXJGbWZtX3RXWWtJU1QwYWZhcEFHX01STzVLX05seTVRWHBnakNUb3c0ZjlNVmNIWWdnckp3bTdfUEN5VERXLWpyUmNjejUyc0E?oc=5",
+   "source": "カナロコ",
+   "at": "2026-11-18T21:50+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NcTdlc3ZERTUxYXJSWUU0c09lYWxpalpTR3ctdGE3QUZPdGlqT1NMbFBITUt6YjdhRjNHVDMySGVLTm1xUVNKODF6RVBVbVBLWVdwTEJ4NHZHNWtBb21YSEdjdWJpMndfQ05CVTM2YXg5d9IBd0FVX3lxTE5LS0hlRUd6WkFJbk1YeW04MnFZSW01NWxQOW5sZWlYbDJNLVl0UGJoNkxOODFMMVd0RWRyeGg1a2pHaHM0ZXh5dms3eWhFSnRMQjNLcDZsMEZ4bnZMRmwta1NuU2ttY2ZJbWRXNGlOWXJHT1NmZG04?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-19T01:54+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
@@ -482,10 +491,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T23:41+09:00",
+   "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1l2SFoxalU1SlQ5dFJxMTBlYTdNeC1RalRtcTRsZVdtcF9sTld5OXdyOTFFQTlNaWZTWjRpWUstM2R0UWs3VnpnaU93Nk00SERiMFFxVXVLQUdWRWZkOUVEdjZaRU5hSXdKNTlIZWF3d0FyV1BoUlFHNkpTTEN6N2VkS0VjM2g2aVp6edIBkgFBVV95cUxPUHFXNDh2SHR0ek9ORWlZVXdoSEJiMHdWUjRfdHZuUjFHNm9mS2VXYy1iRmpvT1dEQWZZQkFRUXFNYjZyQUgza0pjWk5fd1l1UHlveEhDUHA4STRHbTVxZTl6Sm1TWEdxN0Rkd3dORDJ4endtV2F0S2tIaHRlaWY5SjdZS01jV0ZLV1lsVHNzZ1F3QQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-18T23:40+09:00",
    "topic": "ロシア"
   },
   {
@@ -494,20 +503,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T22:51+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "イラン戦争、東アフリカに飛び火か フーシ派がソマリア進出狙う #エキスパートトピ（高橋浩祐） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUZXbXJ5LWlUSDcwSnlPeW5SUjNqZVdZQWJ5dEpFYW1uYUwtUVp3aHlNalNPeUNWc19PODloakN5bDRuX3BxQXdVbHZtM0Q3cHViUERmczFjd2ctYnJXLXhKSmxEaVpOa0dJcktyVlk3Q05LbXhUMS1ONVN6Y1pvU3ZjZ0k3c25f?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T22:43+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-18T22:06+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "【米中ロ首脳会談】トランプ大統領×習近平主席×プーチン大統領 核軍縮やイラン情勢は？ 「第2のヤルタ会談」とも… 情報まとめ【随時更新】",
@@ -559,10 +554,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-18T19:45+09:00",
+   "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-18T19:32+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -606,6 +601,13 @@
    "source": "AFPBB News",
    "at": "2026-11-18T17:22+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDFTNVdQTmE0eTRMcDZOamtvbmpoQzhRX0lRb2h2UEttMDBKMnFqNTNNMkYyT3lzeGFQVTlEcmtUcG53U0R5STh5R0toWDRteHF0dUFEZklYNWhMODc5a3U1MURIQ0FDaTBUNkNXekFpWVM3SEExbFRaUFRGYWlBcmdtZTgxVms?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-18T16:35+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -624,17 +626,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」4件",
+    "イラン・アメリカ：「攻撃」「報復」5件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」2件",
+    "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
     {
-     "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-18T22:06+09:00"
+     "title": "CNNは、イランがアメリカの首都ワシントンでの攻撃を計画していると報道しました",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RG9VcHA3SmVKWFUwSUxyOFNKZjZSdS1TRkZIdVBReFExcE5hTVU3RUpwaDJ2QWpVbXhHdnJxNUFKZFk3aVV5TDMtQmUzckNseGVTNXg4SG5xbjJfX0N1M2IzNkZHZms?oc=5",
+     "source": "やさしい朝日新聞",
+     "at": "2026-11-18T21:47+09:00"
     },
     {
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
@@ -643,10 +645,10 @@
      "at": "2026-11-18T07:31+09:00"
     },
     {
-     "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-18T21:14+09:00"
+     "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NcTdlc3ZERTUxYXJSWUU0c09lYWxpalpTR3ctdGE3QUZPdGlqT1NMbFBITUt6YjdhRjNHVDMySGVLTm1xUVNKODF6RVBVbVBLWVdwTEJ4NHZHNWtBb21YSEdjdWJpMndfQ05CVTM2YXg5d9IBd0FVX3lxTE5LS0hlRUd6WkFJbk1YeW04MnFZSW01NWxQOW5sZWlYbDJNLVl0UGJoNkxOODFMMVd0RWRyeGg1a2pHaHM0ZXh5dms3eWhFSnRMQjNLcDZsMEZ4bnZMRmwta1NuU2ttY2ZJbWRXNGlOWXJHT1NmZG04?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T01:54+09:00"
     }
    ]
   }
