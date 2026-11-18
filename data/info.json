@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:00+09:00",
+ "updated": "2026-11-19T04:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T04:11:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T03:48:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -90,16 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T03:20:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -107,6 +107,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "イスラエル情報機関長官が先週訪米、イラン共同攻撃を働きかけ ＝関係筋",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZWFueGk5UWk1d2VJZHFfU2VDaHp3TVpzSUw2MzlaWUYteFpLQUtFcEJMenUzUTFCWHhieUs0aUotNHJMQW14TjFPRHE0akxNeW1ucEJrUngyWi1wUUkwNGpjelE0Sk91SXowMDFGaHRsN21raEpnQTdjMU5fNEk?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-19T04:01+09:00"
+    },
     {
      "title": "イラン戦争、東アフリカに飛び火か フーシ派がソマリア進出狙う #エキスパートトピ（高橋浩祐） - エキスパート",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUZXbXJ5LWlUSDcwSnlPeW5SUjNqZVdZQWJ5dEpFYW1uYUwtUVp3aHlNalNPeUNWc19PODloakN5bDRuX3BxQXdVbHZtM0Q3cHViUERmczFjd2ctYnJXLXhKSmxEaVpOa0dJcktyVlk3Q05LbXhUMS1ONVN6Y1pvU3ZjZ0k3c25f?oc=5",
@@ -136,12 +142,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUzVzTF9YTUthR0xmYUN6SklvS2tXSmpFUndNSlZXVHJHNVQzekw1UWp6V2Q3VDdENE8tZGp4TDRfLWNHaVdSU0NUMHM0T1NFbjVaUg?oc=5",
      "source": "Switch news",
      "at": "2026-11-18T20:05+09:00"
-    },
-    {
-     "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-18T19:45+09:00"
     }
    ]
   },
@@ -393,6 +393,24 @@
    "at": "2026-11-18T22:25+09:00"
   },
   {
+   "title": "サイバー攻撃増加に関連して上がりそうな株は？ 投資の達人に聞く",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14RUF5cGt4OGtfV1hWTkM1bl9tZlFIaDkxekUxQ1BXWEJoWkZGR2JVWmJ4S1RrdENDYWJfZUV5NjBsTkxYZmNQeHFXX3pvaWl5S1BxVVJ2dzZwODFudFF5QVk2aGlkV0MzM3lSaQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-19T04:00+09:00"
+  },
+  {
+   "title": "三菱ＵＦＪ傘下 5社800万件流出 委託先不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10dGU2ZEVzTHVsWXZaSmNDVldwSmpSWV81UTVoZno4RFE1VzRrdUl6TnhVSUxYQ2R2RjhGQkZ1Wm00em1oMjFsRjAwZ0ZlZjBXbmQ3cmFjdXZsZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-19T04:00+09:00"
+  },
+  {
+   "title": "地銀委託先の点検強化へ 不正アクセス 金融庁 常時監視促す",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96OUJJV29nRmFKSWxaTkhGbWZoVmxNcjR5TFFBTVBqNlpSejhpNE1YWjFIeFh0MWhzbThkV3VXb0NBNWoxbzdCeW5JbTJTX1NIb0IzVzZ4TVdOYjVKdUE?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-19T03:59+09:00"
+  },
+  {
    "title": "国際アイスホッケー連盟にサイバー攻撃 公式サイトにロシア選手の写真 文言に「ロシアと対戦するのが怖いのか？」",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhMlB1TmJhYWFkdGZwU084Wi1OeDhiSFJfcUpfQUh6SzRlRm1WTjcwZUxheXJUYkdQYmlNeG91MGhOa3FCYWRyX0VaYVF4dw?oc=5",
    "source": "FNNプライムオンライン",
@@ -445,28 +463,17 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZaXBteGNHSGhqdHhXclB5MlNkQzVodUVMZkZtNE56N2V6M1p2blBLOEwzb0taeFNFR3p3REM4WnNkMk5aUlBuWXpmQlMtT2pySmlvbWRvYURvUENwdFVuckl1WjQzWE1TaTFNaUFR?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-18T22:19+09:00"
-  },
-  {
-   "title": "理研が警察に被害報告 「富岳」への不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOc3dDdEhXRkE3dzBlVHdpcU50VjgwVGpvYVlXU3hsaHl2ajVYSW5UcEN0YVNyUWxNdlBEdWFCVldST29JTm56d1Q0QnJpend6LVRmUURjRUllQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-18T21:57+09:00"
-  },
-  {
-   "title": "大崎電気、スマートメーター生産停止＝サイバー攻撃で",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vcXE2OWRvTGNCbjVxcnViYkplcDFPSFQxRmdTNnBEVFh2UlpwQjY5cmtJM2tEbUg1TGlJclFwT3k0TnlnTXZKeGVHbVd0OEpsRS1rUlZZNjYzX2xubzh4YnJOTW1mbXBaSGk1SW4wcFNUU29mbk1IZENvbFLSAYIBQVVfeXFMT3p3TC1RRjJfRWk2RTdjNzBXZllBTWc2ZWgwNUdBRDhkT1BhRG9fbHVBQmpCUFFPVF8xYnNoWFR5WkU2eWdEWmpQdmxQY1V5TEIxbmxQMERoRFlSVjRSbF8xMHJYTUV3Z0x5bGRkMlY0djRoMGRPX1JDR1hsRTZMWDVodw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-18T21:56+09:00"
-  },
-  {
-   "title": "三菱UFJ系2社で顧客情報流出、KARTE不正アクセスで証券口座番号6万件",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNmJtZGJ2WXpSQTYyT29fSER6dmVlNHBENmMzcUpTZFR2TW5QYnVlNXZJUkdwdDhiM01PaUNPdE1KbUVSR1U3eHk4NzVkcmxBMGw3eS11SFhlMW1Rdk9SMWRkb0trTHFfSGk3aU9UYWlpQjl0?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T21:55+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "イスラエル情報機関長官が先週訪米、イラン共同攻撃を働きかけ ＝関係筋",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZWFueGk5UWk1d2VJZHFfU2VDaHp3TVpzSUw2MzlaWUYteFpLQUtFcEJMenUzUTFCWHhieUs0aUotNHJMQW14TjFPRHE0akxNeW1ucEJrUngyWi1wUUkwNGpjelE0Sk91SXowMDFGaHRsN21raEpnQTdjMU5fNEk?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-19T04:01+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NcTdlc3ZERTUxYXJSWUU0c09lYWxpalpTR3ctdGE3QUZPdGlqT1NMbFBITUt6YjdhRjNHVDMySGVLTm1xUVNKODF6RVBVbVBLWVdwTEJ4NHZHNWtBb21YSEdjdWJpMndfQ05CVTM2YXg5d9IBd0FVX3lxTE5LS0hlRUd6WkFJbk1YeW04MnFZSW01NWxQOW5sZWlYbDJNLVl0UGJoNkxOODFMMVd0RWRyeGg1a2pHaHM0ZXh5dms3eWhFSnRMQjNLcDZsMEZ4bnZMRmwta1NuU2ttY2ZJbWRXNGlOWXJHT1NmZG04?oc=5",
@@ -566,13 +573,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-18T19:45+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "欧州の学校に偽爆破予告メールが連鎖 イタリアで避難措置、1カ月で8000件超 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JLXB1OE1sUkRGSW5Bc2ZDeWwwelg4S3NLMXRQWmJFOTRXRmJkZU9zYnJlZXBrNFFacWR6RFJNcE9TamdyZ1VQT0xrQUY4OHdSVXdKeVBlbDRRS0xrbUpMYXp6VQ?oc=5",
    "source": "재경일보",
@@ -631,10 +631,10 @@
    ],
    "items": [
     {
-     "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-18T22:06+09:00"
+     "title": "イスラエル情報機関長官が先週訪米、イラン共同攻撃を働きかけ ＝関係筋",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZWFueGk5UWk1d2VJZHFfU2VDaHp3TVpzSUw2MzlaWUYteFpLQUtFcEJMenUzUTFCWHhieUs0aUotNHJMQW14TjFPRHE0akxNeW1ucEJrUngyWi1wUUkwNGpjelE0Sk91SXowMDFGaHRsN21raEpnQTdjMU5fNEk?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-19T04:01+09:00"
     },
     {
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
