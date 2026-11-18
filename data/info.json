@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:30+09:00",
+ "updated": "2026-11-18T11:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -147,7 +147,7 @@
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-18T07:31+09:00"
+     "at": "2026-11-18T07:34+09:00"
     },
     {
      "title": "元陸自ホワイトハッカーが警鐘を鳴らす日本の“サイバー安全保障”の限界 GMO事例では中国製AIや北朝鮮の関与も囁かれるなか「盾のみならず鉾をも向けるのが防衛」（マネーポストWEB）",
@@ -186,16 +186,16 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRdnEwVS1WYlU1bS0zQUI0dU1YZ1BLdW43VHFUNTM3SzdfbjRtVFVrOWxUbXA5aWg2eGVzaWg0dGwwOVFZOWJLUF94N3lUYmQ3RmFMV0dVSVNqWlpJUHZDc0gwTDJCNXUyS2FFSFd6VUtOd9IBVEFVX3lxTE5oQmR4VUo3QVVYaE41aHp6bkl6bTJ6MFpPX29ySV8xWEdqbl9xZS1vcVAtTFlVczljdXhMSHVuM3hWXzVyQXk3TjB6OHIwTmRwR0tDVw?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-18T11:37+09:00"
+    },
+    {
      "title": "金正恩委員長の「金がない」一言で…北朝鮮核開発の資金源となったシリコンバレー（中央日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92UUNXMmZ0LVJrQXFuMFBoeDBPUmxqWUl0S084T0RvaTQ4OUJ1Nk5jMl80V0lHSWxXbXNvR2dfNTVzTU9GUk04WFNoMWV1Nk8wWFg0dnQ0cDRDWnVmcUhwcWhhTDZoWFZzekx2OVNyS1BUQURIR1NpRU12cFY5VDA?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T11:00+09:00"
-    },
-    {
-     "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談（KOREA WAVE）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MekNsTWVhay1ibHdqQ0RFOG4zZUpudl9KbXVxZEF3S1laRzVWTGhna2hfZjc2RFFuNmFhdjJmczRQLV9yQzFTRjVKeUgyUFAzNmR2U0NLaWFaeEZOcEMtenJEV205c0N6Mm9za3BDangyVk5rMjRtMGJfek5DMGs?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T10:51+09:00"
     },
     {
      "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏　軍はクルスク州のミサイル部隊を攻撃",
@@ -382,6 +382,24 @@
  ],
  "cyber": [
   {
+   "title": "アップルの内部システム更新が大規模障害を引き起こす アプリストア、クラウドサービス、決済が一時停止",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pSGJQTWZBdGNSZElob0J3WnRHcFhQZU5ZV2Q0OUNMWG1GUWFoQTZ5MlRFMFhsa0gteDZ2VTBKanN6Qk1SamVjWXlHajdQSnJBcUh0Z0pKTGpjd1BmRHduRzYyZ0UtOHl5UW5ob05WSGlJWVMz?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T11:35+09:00"
+  },
+  {
+   "title": "米NSAの機密通信網「NSANet」に障害―ホワイトハウス「サイバー攻撃の証拠なし」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hQ3ptNV90VDFrZEJsal9qbnRvRWUxNTY4bzlkbzJZTXY2Qk93QmZBZUhOa0tLeTRyZlZPTVdmdzdVVmhjYk9zVnl5a2JUdWZVWXF5dEZEQzN0N2x5dDFqNDZNRdIBaEFVX3lxTE5md2RPR0RCZnNSam1XNHFDb3NueTBoMkNYYThXMGZJQWtrR2I5N0hlYlhMQmNKSTg0djkxQjNPWVh4TkUzV20tck5GR05pbWgtNl9hVUZuTk9hLWlhWHZIUi1WUE1ZUGF3?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-18T11:25+09:00"
+  },
+  {
+   "title": "米システム障害、政府機関にも波及 トランプ氏「問題ない」（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCU21EN1hycUo5anYtdzlfTWJqSjhhS2dyQUFlUXhIRjVyek5wMFpwM0FVb1NqVmlNVks1NFhjeW9IOXRMSFBQNHR5aFJNdXpWbDJKUEpOT3lONjRiaG45eWc5X3RGOW5ybW4tNFFEUUJkNVlnUFlyQ1pqekZpeEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T11:15+09:00"
+  },
+  {
    "title": "iCloudやApp Storeなど複数のAppleサービスで障害が発生",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5meTVudlYtWXc0LUp0S3V0cXFTTVBwVGJlNVlEODhXSWw2dWc2RXlYVGVrbkwxOXE2Nk1kd1dQeFpReGd1UTNfY3BHSHZvZGxOMVA4OVZFZkp2Zw?oc=5",
    "source": "GIGAZINE",
@@ -412,16 +430,16 @@
    "at": "2026-11-18T09:24+09:00"
   },
   {
-   "title": "米システム障害、政府機関にも波及 トランプ氏「問題ない」",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMmh3YmNzSktqMG1HVTlBYmZxVm1ZREhiVS1YOXlndDV5eWpPQTlibnVaWDI3VjZtcTliTHlGRlJ3ODlHOXBqZEUxcHhwT0NNazdTXzc2V1Y4QQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-18T09:21+09:00"
-  },
-  {
    "title": "アップルで一時システム障害 iPhone利用者アカウントにログインできず 「社内システムのアップデートが原因」",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRjNqZ1c3SktmQXExZ3pUd1pMcW1YTFhuLV9nNmlkYldINXVGbnZtdnFVREFpOEF1Z3hnSnM3cG5QaDQ0dWV2dmZXeXZkZ2JTd19QRVRlMUpYZ25wbU9fVXI0Vzg4bmZzNmgyOFFhMzVCX0cwWVlXcEQxeUtjV1VXZA?oc=5",
    "source": "UQライフ",
    "at": "2026-11-18T09:16+09:00"
+  },
+  {
+   "title": "鳥取県が事業者向けのサイバー攻撃相談窓口開設",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOM3YzbkRRVWFFMDJFcFdKNXNPR0hTMzNVMWRKVzJzaGw2RjZtQjFCQy1FTVlETkVSWExwcTBhNU9uM01XeHRQQmxFOHZ3VHdU?oc=5",
+   "source": "日本海新聞",
+   "at": "2026-11-18T11:30+09:00"
   },
   {
    "title": "サイバー攻撃対応BCP実践勉強会",
@@ -452,40 +470,22 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0ZWpaWjV4ZWdLWWU5ancxTHhNUF85THZjODhrTTFhMWlva0ZUckFZT2d3MTVFeW4tQmxIMGxmTGxrd2VzcmxKMkMzYmFqUmxHVndoQkc4VDVTSmx4OHlKSC1hektjeS15Y1VYRA?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-18T11:08+09:00"
-  },
-  {
-   "title": "オカムラ食品工業、通販サイトのメールアドレス8,197件が流出 アララのメール配信サービスへの不正アクセスが波及",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZlJkcERoa2dWeHMzZFdWVXJIeTYxbW5aLXREaVRzSGtKcjlDRjRoZkdpbGpkRWRaeVdZeHNwbUFvcTJDRGRhRWNhZGJpR3JkRkcwLWNqOFpJQmpoNm4xSkJoNTRGYVhLWWNSZXFyZEJkZGl4WVJHQ21XYTQtcFVsSGxBU1FPVmFteWRGS0JR?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T11:00+09:00"
-  },
-  {
-   "title": "不正アクセス 郡山市メアド７４８６件漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTZXotVGMwdFA1SFVPUFdXTlU4RWJqcmFCVV9QVEdsRUN6SGJwY3RRbGN1VklxdHZZVGlid2JOcDdFcjhEbDVtNU9sOA?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-18T11:00+09:00"
-  },
-  {
-   "title": "楽天証券、不正アクセスで最大1572万件流出か | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNX29Rd2JXdzJJQ2pHYTFqUXYycXNZSUZ5X1B0aWQyNGl0a0k5VnZqWFlIYUlFN0F5VFZSYl8xSlJTSzVlTEJXTTctNFdxMWVSSUlGeEJidDBfaFRqVndEOWcteTcwZjN0bEQwSHhWa0VJLWJPQWZyQ0ktTzNZSkRJcW16S1J0eFh4UDctYmI0TS1FRElDOVhfT3F1dTJ1REt6ZlQydHlyZ2JNMzVFUnVEWlIyNkFIaWIwMDc1NHhHYkdiSW9qRkpWc1M3dE85YzR6NUlENWd0ZUJPOWp2OG53cXp4QmtGOVhMQ2xoVXVUdzhacGxQV3ZpNkpETFEzSTdmMFN4YS1VbEw0Y0JvamFjTjlGV0FYRDJSTGV3OC11SkFYV1EyN2t3Rmt2dHAzVE1kRk9PUGZPYUdUbzQ1dHREaDR5QTlVdWwtLUhTMC1fWENJUDhM?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-18T10:59+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
+   "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRdnEwVS1WYlU1bS0zQUI0dU1YZ1BLdW43VHFUNTM3SzdfbjRtVFVrOWxUbXA5aWg2eGVzaWg0dGwwOVFZOWJLUF94N3lUYmQ3RmFMV0dVSVNqWlpJUHZDc0gwTDJCNXUyS2FFSFd6VUtOd9IBVEFVX3lxTE5oQmR4VUo3QVVYaE41aHp6bkl6bTJ6MFpPX29ySV8xWEdqbl9xZS1vcVAtTFlVczljdXhMSHVuM3hWXzVyQXk3TjB6OHIwTmRwR0tDVw?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-18T11:37+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "金正恩委員長の「金がない」一言で…北朝鮮核開発の資金源となったシリコンバレー（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92UUNXMmZ0LVJrQXFuMFBoeDBPUmxqWUl0S084T0RvaTQ4OUJ1Nk5jMl80V0lHSWxXbXNvR2dfNTVzTU9GUk04WFNoMWV1Nk8wWFg0dnQ0cDRDWnVmcUhwcWhhTDZoWFZzekx2OVNyS1BUQURIR1NpRU12cFY5VDA?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T11:00+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談（KOREA WAVE）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MekNsTWVhay1ibHdqQ0RFOG4zZUpudl9KbXVxZEF3S1laRzVWTGhna2hfZjc2RFFuNmFhdjJmczRQLV9yQzFTRjVKeUgyUFAzNmR2U0NLaWFaeEZOcEMtenJEV205c0N6Mm9za3BDangyVk5rMjRtMGJfek5DMGs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T10:51+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -604,7 +604,7 @@
    "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-18T07:31+09:00",
+   "at": "2026-11-18T07:34+09:00",
    "topic": "中国・台湾"
   },
   {
@@ -619,7 +619,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「米国で相次ぐシステム障害：NSA、アップル、JPモルガン・チェースの停止が露呈さ」"
+    "「アップルの内部システム更新が大規模障害を引き起こす アプリストア、クラウドサービ」"
    ]
   },
   "japan": {
@@ -648,7 +648,7 @@
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-18T07:31+09:00"
+     "at": "2026-11-18T07:34+09:00"
     },
     {
      "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏　軍はクルスク州のミサイル部隊を攻撃",
