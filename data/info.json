@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:30+09:00",
+ "updated": "2026-11-19T04:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,36 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T04:38:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T04:37:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.9",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T04:30:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.1",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T04:25:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -70,36 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T04:11:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T03:48:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.0",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T03:45:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.7",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -120,12 +120,6 @@
      "at": "2026-11-18T22:43+09:00"
     },
     {
-     "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-18T22:06+09:00"
-    },
-    {
      "title": "【米中ロ首脳会談】トランプ大統領×習近平主席×プーチン大統領 核軍縮やイラン情勢は？ 「第2のヤルタ会談」とも… 情報まとめ【随時更新】",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFanFHLWt1TU5uMEpFWUZ0WEpGYjNnTXRaRWdsR3NZUW5EdVp6YnFENlN2TWdpMkRwc3BCLThoQW1fcW5hZ3NqWUZsUnFhQmxvbjl3dXItRWx3TDB5QlhualRqcmM?oc=5",
      "source": "TBS NEWS DIG",
@@ -142,6 +136,12 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUzVzTF9YTUthR0xmYUN6SklvS2tXSmpFUndNSlZXVHJHNVQzekw1UWp6V2Q3VDdENE8tZGp4TDRfLWNHaVdSU0NUMHM0T1NFbjVaUg?oc=5",
      "source": "Switch news",
      "at": "2026-11-18T20:05+09:00"
+    },
+    {
+     "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-18T19:45+09:00"
     }
    ]
   },
@@ -168,12 +168,6 @@
      "at": "2026-11-18T18:28+09:00"
     },
     {
-     "title": "APEC首脳会議台湾代表の施振栄氏が中国に到着「科学技術やAIでの強み伝える」",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11eEFKWGFVdjZvTXlGcTZ6NVhhSGJGRldUWE4tUEhjaWU0N1Z3azJVWUdRTzVOckNTbFJ6ZDA4b3NiSTdmNlNHc1pRSHVDbDdlVTdscGVUWlZXSjNVNm5N?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-18T16:01+09:00"
-    },
-    {
      "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UzJvMjJxSzhIX3hDVUN1YlZHUjh1YVFIbjFMbnEzako2QjQ1QmJSU2duM1ZpSG9yTzluRkFHcG9Vdk44cFVDd3Q1RVFYM2p3Y3BxcnIxSEVtaDNMUlBnVUJ3NV9qZG5PX2EzTnhHUHFnbUlvUmVldHZsc3E2SE0?oc=5",
      "source": "Yahoo!ニュース",
@@ -184,6 +178,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T07:31+09:00"
+    },
+    {
+     "title": "「日本人学校はスパイ養成所」とする悪質デマを野放しにした中国（文春オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNVdaa1RQWncxTHdEMkYyNTk0R0EzNTlHcGdtU19vOGRkdDlWd0h6NUFMaHpXc01MbTlRdmllbUh6Zm44WlVrcG1yaTVWMmJxWUpHWDBxVDhFWG1wc2h4OGNpU1BtRmhIaVUySkNmYTZQelhheGxFeGNjSnFXZDA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T06:12+09:00"
     }
    ]
   },
@@ -198,6 +198,12 @@
      "at": "2026-11-18T18:45+09:00"
     },
     {
+     "title": "中韓首脳、経済交流拡大で一致＝対北朝鮮で「建設的」役割確認",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzZVc1MxZVVJS18wRDQ3RGZGRzFiSUxOcmZlTUY0WWZ4S3lWREtNdHpCWWNBRzd2VlFGdllDTmRSTktxNVR6SFBSY2pDZ3JCRFVMRmRvM09Od0MxVWNKY1hHRXg1VkNHUE1CZU9rWWkyYWcwYkRoZmliVEYxVDB0WV93U2tyMk4tMl9v0gF-QVVfeXFMTkZhczhsaGEyZ1ZaNVlkUFpNVjd3bkZnNVAwb2xVeXBGY2VKNjN4U0ZyQV9QWnJlLWFsX1ppVGpkNXpMRTltVWdYaGx6MTg4eUxLWnEtOTV5TTE4bnNzdTJwWDJ5bFVFanNBY2dmYVhpOTQ2STNjQm9uNk9YaThR?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-18T18:44+09:00"
+    },
+    {
      "title": "中朝国境の「中朝鴨緑江大橋」を通って北朝鮮に入るトラック＝16日（共同） - 中朝貿易、10月12％増 鴨緑江大橋開通も制裁重し - 写真・画像(1/1)",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ic3B0dms3a3FKbnBNUUlRSXNZSkZrM2JYSUJfVmJrX2xJNFlDMExPNi1WQW83a2NWRzdSQkJVWmNmZXdFRzVnaGFuR3J4aFhvNERrNk5LWQ?oc=5",
      "source": "西日本新聞me",
@@ -205,27 +211,21 @@
     },
     {
      "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM19EQVF2TTRTTWVSRHMySkVKeURnRS1RVzlGSkhvYnRuc0dJZGdRSlJRZ2VIVDRiY2hRYXF1V0tsR2RFNmFIVHZPT2pDX0FiWG5JeDY4Wlo5M29nNUdBel8wMDFqVFZmb0JmMjlIN3RTd1hQYUJGb0xHXzVEWk8xQdIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljddIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
      "source": "AFPBB News",
-     "at": "2026-11-18T17:22+09:00"
+     "at": "2026-11-18T17:30+09:00"
+    },
+    {
+     "title": "北朝鮮・金正恩総書記、APEC前に白頭山訪問…トランプ米大統領は中国での会談に意欲",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tSDhMRllPdTBWc19seWFpSUVPTFctbUpEV18xVEVOY1NHT0pqZDAwUGJ4VXh5LXZjTDFnYlA1WWZxTTdjaFAtSHdqM1JDZWdYTmfSAVRBVV95cUxNWEVyZnI2TXVPeUNEWklVR3dZX0p3TW5Hd0pjZEV5T1ItNGt5OUozRHRZX0V3amJxMzh1djNpUS13Q3ptLVVuc1lzcjBiZ2xHblpMZmk?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-18T16:10+09:00"
     },
     {
      "title": "「北朝鮮兵士の英雄主義を忘れない」プーチン氏、金正恩側近と会談…クルスクに記念碑建設へ",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY00xN3JKLUFQN0dSUUJRbHJEd256TzB1Q19sdGxvbUNsM3VXbWNTZFBGZjFTZlB1QWlMVGg5U2YxcWZRcDZTTHFkLWRUbGJ2RWdmaHRFRnJvQUd4YllnbHJpdW1Rak5COGJRc25LZGV6Y3NKZU1peHEtd1l5NUFlMXcwVUM0eVFRTnRUdlB5YldDZEtURDA2Z1VXY2stQTEwdTFzZDFKSEFNQU9tOTRUNml1VEJjVGoyMWhqTk9EZHNtaGZxSmRxbkRUcWfSAXxBVV95cUxPRG54UTBmNGdsdmhwaG1ORm4tTGpPZE9zNXFESVlKWjNaTGdxeERyUFFjMWRQb08xU1J4NU5jcllDTHFYZkZxeWhEcHFhNTdDaG1oamwwT3ZzbS1JMHhsX3NmRFZJNnY2dXR6SmRDQVhVVm5VZEN3UGVuanVv?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SaWFnZHhHR3luVVRZcGtrbjhTWTk3NTRqc0pucFJGdkNYU011ZkhUdjRiRFg2MUJTUlV3RXE3QW91WU1kQXlfeEE0U0h4anY1b2liMUZNeDhYc293OWZsR0JIS1lMbWF2TEMzdWw1QU5tR2VjbjRZ0gF8QVVfeXFMT0RueFEwZjRnbHZocGhtTkZuLUxqT2RPczVxRElZSlozWkxncXhEclBRYzFkUG9PMVNSeDVOY3JZQ0xxWGZGcXloRHBxYTU3Q2htaGpsME92c20tSTB4bF9zZkRWSTZ2NnV0ekpkQ0FYVVZuVWRDd1Blbmp1bw?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-18T14:25+09:00"
-    },
-    {
-     "title": "金正恩委員長の「金がない」一言で…北朝鮮核開発の資金源となったシリコンバレー (中央日報日本語版)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0l6UEhZc3NSN3hkbTZNVlM4dVRUTVE4aTE5Z3NCLU9XMWtDWFJCellpRTROanB4UVhOSFd2TWF3NWxUWU1CdTFyUG5nbmxhOXlvOEZDZzZzdVpmZjJmNDY4bGtXel9HUmVKU1hXbVJTYVNlVDNRaXI5bkV5SDZtT25mMWs0MTdmR0dNalZB?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T14:23+09:00"
-    },
-    {
-     "title": "トランプ氏の“最後の球”？ 金正恩総書記との電撃会談を匂わせる思惑とは…専門家「北朝鮮は中ロと二股、アメリカと会う必要がない」「飛行機に乗らない」（ABEMA TIMES）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBndm5DdTJxdjFlS29rZ3oyeUEtdGxVdnNQMDBPTjMzbHpPZDNEYXlQSUh0bHBjdjFKdDdFRjllaDlMN0ZYSnNIVEZua2xWbU5XMEExMHhYWExpRFFJNkdMd01qRTJlUU83WjdxY05kZ3RsNUNENUVybGEwVWduUXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T14:06+09:00"
     }
    ]
   },
@@ -459,10 +459,10 @@
    "at": "2026-11-18T22:27+09:00"
   },
   {
-   "title": "サイバーテロ対策強化へ 神奈川県警とインフラ事業者らが協議会",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZaXBteGNHSGhqdHhXclB5MlNkQzVodUVMZkZtNE56N2V6M1p2blBLOEwzb0taeFNFR3p3REM4WnNkMk5aUlBuWXpmQlMtT2pySmlvbWRvYURvUENwdFVuckl1WjQzWE1TaTFNaUFR?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-18T22:19+09:00"
+   "title": "NewsPicksに不正アクセス、カード情報36万件流出 認証迂回の手口が判明",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81SVhzOEhMV3RFdm5wV2JqSHpsUnlsUVluX2kzNjkyN1J1TmwzaDZ1WmM1VUNkYlg4dThBdW5VQXp3SGw1UGlnenJhY1F2aDBTSlNpZjBuVVMzamk5NE9Valo3SWZtV2ZUVThQaW9EbVBvWGRL?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T22:25+09:00"
   }
  ],
  "osaka": [],
@@ -507,13 +507,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUZXbXJ5LWlUSDcwSnlPeW5SUjNqZVdZQWJ5dEpFYW1uYUwtUVp3aHlNalNPeUNWc19PODloakN5bDRuX3BxQXdVbHZtM0Q3cHViUERmczFjd2ctYnJXLXhKSmxEaVpOa0dJcktyVlk3Q05LbXhUMS1ONVN6Y1pvU3ZjZ0k3c25f?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T22:43+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-18T22:06+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -573,6 +566,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-18T19:45+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "欧州の学校に偽爆破予告メールが連鎖 イタリアで避難措置、1カ月で8000件超 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JLXB1OE1sUkRGSW5Bc2ZDeWwwelg4S3NLMXRQWmJFOTRXRmJkZU9zYnJlZXBrNFFacWR6RFJNcE9TamdyZ1VQT0xrQUY4OHdSVXdKeVBlbDRRS0xrbUpMYXp6VQ?oc=5",
    "source": "재경일보",
@@ -594,18 +594,18 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "中韓首脳、経済交流拡大で一致＝対北朝鮮で「建設的」役割確認",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzZVc1MxZVVJS18wRDQ3RGZGRzFiSUxOcmZlTUY0WWZ4S3lWREtNdHpCWWNBRzd2VlFGdllDTmRSTktxNVR6SFBSY2pDZ3JCRFVMRmRvM09Od0MxVWNKY1hHRXg1VkNHUE1CZU9rWWkyYWcwYkRoZmliVEYxVDB0WV93U2tyMk4tMl9v0gF-QVVfeXFMTkZhczhsaGEyZ1ZaNVlkUFpNVjd3bkZnNVAwb2xVeXBGY2VKNjN4U0ZyQV9QWnJlLWFsX1ppVGpkNXpMRTltVWdYaGx6MTg4eUxLWnEtOTV5TTE4bnNzdTJwWDJ5bFVFanNBY2dmYVhpOTQ2STNjQm9uNk9YaThR?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-18T18:44+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ロシア軍機が台湾東部空域を通過 国防部が非難 「海峡の平和と安定維持に資さない」",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82S3pvOVhiWlgtMWQ2anBtaWJhdUY3RF90dlFRZUxBTjB3NGNiQW9GM1BGdTdVTHRqM0JKLUFyeDZ2SHVnaUcwWk02S2R4N3FDWHBlNndBVElHMFF1dnVv?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-18T18:28+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "中朝国境の「中朝鴨緑江大橋」を通って北朝鮮に入るトラック＝16日（共同） - 中朝貿易、10月12％増 鴨緑江大橋開通も制裁重し - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ic3B0dms3a3FKbnBNUUlRSXNZSkZrM2JYSUJfVmJrX2xJNFlDMExPNi1WQW83a2NWRzdSQkJVWmNmZXdFRzVnaGFuR3J4aFhvNERrNk5LWQ?oc=5",
-   "source": "西日本新聞me",
-   "at": "2026-11-18T18:22+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
