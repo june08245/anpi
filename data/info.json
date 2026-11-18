@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T02:00+09:00",
+ "updated": "2026-11-19T02:15+09:00",
  "errors": [
-  "osaka"
+  "outage"
  ],
  "warnings": {
   "area": "大阪市",
@@ -110,6 +110,18 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン戦争、東アフリカに飛び火か フーシ派がソマリア進出狙う #エキスパートトピ（高橋浩祐） - エキスパート",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUZXbXJ5LWlUSDcwSnlPeW5SUjNqZVdZQWJ5dEpFYW1uYUwtUVp3aHlNalNPeUNWc19PODloakN5bDRuX3BxQXdVbHZtM0Q3cHViUERmczFjd2ctYnJXLXhKSmxEaVpOa0dJcktyVlk3Q05LbXhUMS1ONVN6Y1pvU3ZjZ0k3c25f?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T22:43+09:00"
+    },
+    {
+     "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-18T22:06+09:00"
+    },
+    {
      "title": "【米中ロ首脳会談】トランプ大統領×習近平主席×プーチン大統領 核軍縮やイラン情勢は？ 「第2のヤルタ会談」とも… 情報まとめ【随時更新】",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFanFHLWt1TU5uMEpFWUZ0WEpGYjNnTXRaRWdsR3NZUW5EdVp6YnFENlN2TWdpMkRwc3BCLThoQW1fcW5hZ3NqWUZsUnFhQmxvbjl3dXItRWx3TDB5QlhualRqcmM?oc=5",
      "source": "TBS NEWS DIG",
@@ -128,22 +140,10 @@
      "at": "2026-11-18T20:05+09:00"
     },
     {
-     "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-18T19:32+09:00"
-    },
-    {
-     "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDFTNVdQTmE0eTRMcDZOamtvbmpoQzhRX0lRb2h2UEttMDBKMnFqNTNNMkYyT3lzeGFQVTlEcmtUcG53U0R5STh5R0toWDRteHF0dUFEZklYNWhMODc5a3U1MURIQ0FDaTBUNkNXekFpWVM3SEExbFRaUFRGYWlBcmdtZTgxVms?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-18T16:35+09:00"
-    },
-    {
-     "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XYkNLbHo4QkJiZWpERlVseW9wOE4zWEtvMlV4SFpkUzRJZFdGNzBmRjhINlAxVXhMVE1PdlBOX182a2txYWpQell4MA?oc=5",
-     "source": "TVer",
-     "at": "2026-11-18T12:38+09:00"
+     "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-18T19:45+09:00"
     }
    ]
   },
@@ -389,6 +389,18 @@
    "at": "2026-11-19T00:22+09:00"
   },
   {
+   "title": "相次ぐ米大規模システム障害、脆弱性急増によるセキュリティパッチ適用の影響か？（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zcFhQVUsxS2ZSZTZoYUQ0aVZSOFlnai1PTmlYRXl2UDMtQ0hFTWg1Y3NnZU4zUk9TVHZVaC1HMDR0Vl9VM1JXMndEYlRsVDFSNU02dDdSZEp1QUlsSGdQLTRNQ2ZWUE5rNWJkeU5HSkhPNVphYWxZaHF0S3A5aUE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T22:25+09:00"
+  },
+  {
+   "title": "国際アイスホッケー連盟にサイバー攻撃 公式サイトにロシア選手の写真 文言に「ロシアと対戦するのが怖いのか？」",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhMlB1TmJhYWFkdGZwU084Wi1OeDhiSFJfcUpfQUh6SzRlRm1WTjcwZUxheXJUYkdQYmlNeG91MGhOa3FCYWRyX0VaYVF4dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-19T01:12+09:00"
+  },
+  {
    "title": "仏、冷蔵庫へのサイバー攻撃でイランを非難",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tM0tla2k0WXBETFVUQlk5Vk1UVVRFbUxtODJ5Z3NqaGtVSDk3blB3SWFFdC1UODBha1dtX3NvbGY1R2lsUjljakR0c2ItS2hrb3plNjFn?oc=5",
    "source": "朝日新聞",
@@ -405,12 +417,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ldU0zVlhCMmhBcEdoZ3A3V2YzQ0tDUUF4MUtRLU5UcXMxQmtQdU5rVTlqeVJBWVNtNlU3UjB4dWFpTXlLRmU4WWc3SHVBZUFlOVBETGN4Z3Q5OFhIUmw1YlVRWFNRUGNKYUpIVDIwU0Y?oc=5",
    "source": "Publickey",
    "at": "2026-11-18T23:08+09:00"
-  },
-  {
-   "title": "家庭用機器が“勝手に”サイバー攻撃 中国企業が「不正ソフト」入り機器を出荷 Wi-Fiルーター“乗っ取り”でカード・口座情報「覗き見」も（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVC1RZFYzb0lXZVkxaS0tdm01d0pTM2VLU3R2QmRZOHF5RmV6cG1aZ3VBRFNPYktBOVBabXVaemJwNjY0Y2ZUVVM1LTNNSlliVm5tTTIwWXh2czF4NWllZExXT0dLWkpDcFRlTU9JNnVBb3VGR01tVmxfMHhqaXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T22:52+09:00"
   },
   {
    "title": "サービス受託企業への不正アクセスで漏えい拡大…三菱ＵＦＪ銀行６５０万件、ＤＨＣ１９１１万件など",
@@ -459,12 +465,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNmJtZGJ2WXpSQTYyT29fSER6dmVlNHBENmMzcUpTZFR2TW5QYnVlNXZJUkdwdDhiM01PaUNPdE1KbUVSR1U3eHk4NzVkcmxBMGw3eS11SFhlMW1Rdk9SMWRkb0trTHFfSGk3aU9UYWlpQjl0?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-18T21:55+09:00"
-  },
-  {
-   "title": "サイバー攻撃備えでＡＩハーネス導入を 神奈川県警で協議会、専門家が講演",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15eDBKZUZwU0pIN2FnNDF5QnVzUV8tRXJGbWZtX3RXWWtJU1QwYWZhcEFHX01STzVLX05seTVRWHBnakNUb3c0ZjlNVmNIWWdnckp3bTdfUEN5VERXLWpyUmNjejUyc0E?oc=5",
-   "source": "カナロコ",
-   "at": "2026-11-18T21:50+09:00"
   }
  ],
  "osaka": [],
@@ -503,6 +503,20 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T22:51+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "イラン戦争、東アフリカに飛び火か フーシ派がソマリア進出狙う #エキスパートトピ（高橋浩祐） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUZXbXJ5LWlUSDcwSnlPeW5SUjNqZVdZQWJ5dEpFYW1uYUwtUVp3aHlNalNPeUNWc19PODloakN5bDRuX3BxQXdVbHZtM0Q3cHViUERmczFjd2ctYnJXLXhKSmxEaVpOa0dJcktyVlk3Q05LbXhUMS1ONVN6Y1pvU3ZjZ0k3c25f?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T22:43+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-18T22:06+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "【米中ロ首脳会談】トランプ大統領×習近平主席×プーチン大統領 核軍縮やイラン情勢は？ 「第2のヤルタ会談」とも… 情報まとめ【随時更新】",
@@ -554,10 +568,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-18T19:32+09:00",
+   "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-18T19:45+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -594,20 +608,6 @@
    "source": "西日本新聞me",
    "at": "2026-11-18T18:22+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM19EQVF2TTRTTWVSRHMySkVKeURnRS1RVzlGSkhvYnRuc0dJZGdRSlJRZ2VIVDRiY2hRYXF1V0tsR2RFNmFIVHZPT2pDX0FiWG5JeDY4Wlo5M29nNUdBel8wMDFqVFZmb0JmMjlIN3RTd1hQYUJGb0xHXzVEWk8xQdIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-18T17:22+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDFTNVdQTmE0eTRMcDZOamtvbmpoQzhRX0lRb2h2UEttMDBKMnFqNTNNMkYyT3lzeGFQVTlEcmtUcG53U0R5STh5R0toWDRteHF0dUFEZklYNWhMODc5a3U1MURIQ0FDaTBUNkNXekFpWVM3SEExbFRaUFRGYWlBcmdtZTgxVms?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-18T16:35+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -626,17 +626,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」5件",
+    "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「封鎖」1件",
     "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
     {
-     "title": "CNNは、イランがアメリカの首都ワシントンでの攻撃を計画していると報道しました",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RG9VcHA3SmVKWFUwSUxyOFNKZjZSdS1TRkZIdVBReFExcE5hTVU3RUpwaDJ2QWpVbXhHdnJxNUFKZFk3aVV5TDMtQmUzckNseGVTNXg4SG5xbjJfX0N1M2IzNkZHZms?oc=5",
-     "source": "やさしい朝日新聞",
-     "at": "2026-11-18T21:47+09:00"
+     "title": "イランが湾岸諸国の米軍基地攻撃、サウジでも迎撃 外交努力続く",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSkd1NzFHYktQbUtXMFNUQmVGYjVwbkZYZ3ljQnd1MUlvd09VZE53MFZoN0FrLVo3ZjljczhEZWo0MFhJbjNrZVdXRVA1U1lxZng2QVdDbEdPUQ?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-18T22:06+09:00"
     },
     {
      "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
