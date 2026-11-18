@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:00+09:00",
+ "updated": "2026-11-18T18:02+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -126,12 +126,6 @@
      "at": "2026-11-18T16:27+09:00"
     },
     {
-     "title": "CNNは、イランがアメリカの首都ワシントンでの攻撃を計画していると報道しました",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RG9VcHA3SmVKWFUwSUxyOFNKZjZSdS1TRkZIdVBReFExcE5hTVU3RUpwaDJ2QWpVbXhHdnJxNUFKZFk3aVV5TDMtQmUzckNseGVTNXg4SG5xbjJfX0N1M2IzNkZHZms?oc=5",
-     "source": "やさしい朝日新聞",
-     "at": "2026-11-18T15:34+09:00"
-    },
-    {
      "title": "クウェートとバーレーン、イランの空襲を防ぐ 連合軍がイエメンのフーシ派軍事拠点を攻撃",
      "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxOLUhoZGgyWnpYdXIwQ1dlb2VVZ1p4UEpZTjNJSmVyQUU3TDBySXZ5blhpMHFRcnlYYVRrNUxGNlc3M3BLU2ZaRFlVN1lYVG1tUTc5cElPM3pmNWhNMGlvaHBZZ1UzSU5PU29LYmM0Z20zbWczMkIydmhYcUt2V2U1b3lrQkszWXF1em9fTkQ4c0VkS3VERHFidHp1eTVGVVhDRXZvcGxjOXQ3VzFneHhPYmdvaUoySWktcWZTQmRpaEFjbG5MeTdLZTEzc1AyRU5sUHhDLW5uUVdyWVZCeEhjLUJlZDNhMk5pX1QxcHllMDVMRDlqUHNDLVdBMjBTWDI3bkNYajg4Rkx5V1pjdG0yZUJRUE9WbFM3QVB2Z2dEbjNjMVN1SzVEQnFpaHZncklRUmk0Y0VQVDhhWWpzY0drU083OEpxMk16YVdQOXVhQnlfX1hpNDlYekZPcVROU3RmcC1uMUh5SDFsNkFMNUE0WlU2X2hqMmctLUZLU2pYaHppUlZZWTNHdU4tQmdsV01PNTV6S09OeDRfdVRWQXlNVl9yRE9LbENYYzRhTGczbnloakFVSW53d3JEcUlJajhCQnZ5OHh3R0xJWkYxUXFJQk5vTEllWHBCWUpmN21laF9KdmhlbElzeHhiNkR3ZElUajFicFczVlRXWTJVRHBHemxDalFOQTh0RHdxbG5uVFR6dHpNTHVtTEQxUXVEN3VPRkl1VWJhamk5ck9uRm5pZzZ4YldhOEhL?oc=5",
      "source": "アラブニュース",
@@ -148,6 +142,12 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VSjBKNWlQN2VnU0tVWHA4bmlkNXpSaEJpSjdTdnR6aXdKSHM3OHI0aENNUVFoWG44ZklfanhucXpOY21nNHl4YlZrYVMtLUtT?oc=5",
      "source": "風傳媒",
      "at": "2026-11-18T14:06+09:00"
+    },
+    {
+     "title": "イラン南部ケシム島に米軍の精密攻撃 革命防衛隊のミサイル発射施設を標的、損害は不明",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03NU1UQTJyMWl5RXBzMjQ4NjVPcW5PZWFMN1RxUUxDdUM3OEt2OVVLOC1ybDFJcDJVdTAyM0x1ano3UlROWGVaZ3hMRmJqN1dyV2pHZm0zZ1R3YVZBMk9rYUs3UlZnelJz?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-18T13:47+09:00"
     }
    ]
   },
@@ -240,12 +240,6 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月18日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4aDZac1lvdmk1cW4tcGViWDgzZzRMU1ZYU1NPN3hKcWxINmsyVm9Falo1QmRmeVZFZUJEM1JZMjJmWkg2X0d5Zm5kdE5fTzV3RExOdXhLR295SHhxUE5N?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-18T15:57+09:00"
-    },
-    {
      "title": "ロシアに攻撃されたキーウの橋からBBC報告 「橋をめぐる戦い」",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tWTdoQTA1SEI3cFFtTHd0OUpabWNEYVphOGlKZDYwSTg0TkZ1SFREZDQzNUZibk44c2h3Y1h4bUhTdWRwZ0FORXZ5ZUM4bUhXMDlqNHktZklxYjUt?oc=5",
      "source": "BBC",
@@ -274,6 +268,12 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BT0c5c19SWVI2M1hqUHNaYUNfanMwSk1ZMUhoSUFKMEJPcHczRFVBOWVQa3d2VUxmUzE1VTh6R1BFRnVaNTdzY0FuTjJoS3pMam5YNERFcC12TXlDS2E4bmtvT3liOHM?oc=5",
      "source": "Infoseek",
      "at": "2026-11-18T10:11+09:00"
+    },
+    {
+     "title": "ウクライナ保安庁(SBU)、ドネツィク州の「グレーゾーン」でロシア軍の砲撃を誘導した人物を拘束",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTNVN25NZU1yNkxSTmJwMVlpbTJQR2NRb0R5VjlKVWdFcGp2eTF6YmJwSUhfM2pSaHIzNE1hUVFQVTF1RWlBTVpLX1lKMzR3Qnh3QjFvTnBjVXdxbVF1ZTFfbEpHSlFobjNVWllUbXJTVmxBZEotcFpUWTl1UEp1SnNkbll3ZFgwOU1wUmtnazFrRjROY05hX2NKTQ?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-18T10:08+09:00"
     }
    ]
   },
@@ -393,12 +393,6 @@
    "at": "2026-11-18T17:00+09:00"
   },
   {
-   "title": "アメリカで相次いだ技術障害、「組織的な攻撃ではない」とルビオ国務長官",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55czB0YzJNS0dBclJrcTA3UDZmWUZlMW90dkJhb2hzanI4dkEyXzJ2YTE0T3l2TmxidTZHZ0dEQVMzcWc5cHEzdXBIV3RadTVXT2hjNlV0V0NfQzJIWGJXQ3JvYTZOQdIBZkFVX3lxTE55czB0YzJNS0dBclJrcTA3UDZmWUZlMW90dkJhb2hzanI4dkEyXzJ2YTE0T3l2TmxidTZHZ0dEQVMzcWc5cHEzdXBIV3RadTVXT2hjNlV0V0NfQzJIWGJXQ3JvYTZOQQ?oc=5",
-   "source": "BBC",
-   "at": "2026-11-18T16:29+09:00"
-  },
-  {
    "title": "米1万8000便欠航の通信障害、原因解明なお難航 運輸長官が言及",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqQmFod0tiRktaNG1TYVM3YVBzSzE4eGpYZ0hPaU9lUEl2YVVHOUIwd2tRaEM2c3JNMExfaHRzaTZCdzdxNElscXRySWFCaDNlZ0RWTngtbXZWUW5hSkc0cjFJRE1OM1ljWXdMN2FxTlpWWUM3?oc=5",
    "source": "BigGo ファイナンス",
@@ -415,6 +409,18 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1bW5TRnluVC0zSHVyT2cxRWxfY25HeHdraTk0aE94c1RmcnBPZVlzSmRPeTZYNGc3blNjM05LWnMzN1RRcmVOUUVjTzdlUQ?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-18T15:52+09:00"
+  },
+  {
+   "title": "大崎電気 サイバー攻撃で生産・出荷を中止 ランサムウェア攻撃で…再開時期は未定",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pWi1fMklsQ3ZnVVZzcll6ZURjX3psNGs3Sl9DYk1mUk05bGVWa3Y2bXk2dTJpYlFLT1lDNlpwMXdoLUhQRjdkNnlEcVVlcUJqWmo4Rm9pYzJ0dUttWGpwSVJ6cXVUSlI1ZkpZWUFmTjduZw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-18T17:57+09:00"
+  },
+  {
+   "title": "ポケットマルシェ、消費者94万4,885人と生産者等1万164人の情報漏えい、一部会員は個人情報漏洩の恐れも-プレイド「KARTE」不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdV9OLXAwSy16TDAtVVV6VVBMUXhVbWVKVXp4eWtHT0RnSkJOdnVKblN1b2xTTm9WcHVISktEV28zT0ZZVHZteTcwRlBEei1vbFppRnFqZFhaWDV5TC0zM1NJLUdDZ3d3SlNQSkZzX0hWdmVJQ29INUp6ZVBTQzFhbmM3YmY4VUp2RnhndmViZDlrUlMzeVE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T17:50+09:00"
   },
   {
    "title": "厚労省の医薬品情報システムに不正アクセス（共同通信）",
@@ -463,12 +469,6 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFNhaEJZUVhVdmFhRUVUTml2OERxY1RIS21hczRncHFWZHlTZjM4aV9NbjlOOUlmV3hSMTIwSFJvMXYxRm81Nm9lYTFDQUdjZFNnU3hoNVlRM05CWnAycWNYYVRjY1Q3azVyT0EyN1hUWHU1RUtmZlNaMzdQWkRnclNCeEtoWUhFQ183UGR2SDJ1QQ?oc=5",
    "source": "Reuters",
    "at": "2026-11-18T17:21+09:00"
-  },
-  {
-   "title": "厚生労働省の医薬品安定供給・流通確認システムに不正アクセス 企業担当者の情報漏えいのおそれ、NTTデータが運用保守",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUhqbG81MHhzOVpsZV90M2tkMENpS09pMk83Y0JvN3hLS3VZNE0tYWtBUkNRa3dWUVZLOUYwUzJJdTYzNS04WjZLQlFhUm0zai1GOGxrLXpZQnNRZlVRT0JPa0dpbFN5UUNnbHhPSGIyZEEyU3NlM1RPMENJMHBjSTV4U1BnZzhKN3FaNFFWcFpuN3h4NUM0VkhUcG5YcjQ1MUtwbzNiNTlxclptZGc?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T17:20+09:00"
   }
  ],
  "osaka": [],
@@ -502,25 +502,11 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月18日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4aDZac1lvdmk1cW4tcGViWDgzZzRMU1ZYU1NPN3hKcWxINmsyVm9Falo1QmRmeVZFZUJEM1JZMjJmWkg2X0d5Zm5kdE5fTzV3RExOdXhLR295SHhxUE5N?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-18T15:57+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "スパイ容疑で処刑…北朝鮮「アメリカ担当官」のむごたらしい死に様（金賢） - エキスパート",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU5nZUprT1Y4cXBfODhneTNsT255ZU9LN1VOSy00NzZ3MGRrcnFxX1NMX0F4M0NEMFZjSGpvM0JGZklPWHFjRUlOM3k1U0MyZGQwdVVRbkoxV0hycEc2WERrOWFoNVI2SVAtZElCTWFySExGT3gxOGlWaS1fdkQ4THc2OTNLS3ZD?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T15:41+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "CNNは、イランがアメリカの首都ワシントンでの攻撃を計画していると報道しました",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1RG9VcHA3SmVKWFUwSUxyOFNKZjZSdS1TRkZIdVBReFExcE5hTVU3RUpwaDJ2QWpVbXhHdnJxNUFKZFk3aVV5TDMtQmUzckNseGVTNXg4SG5xbjJfX0N1M2IzNkZHZms?oc=5",
-   "source": "やさしい朝日新聞",
-   "at": "2026-11-18T15:34+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "中国国防相が18年ぶり訪伊、軍事対話で欧州との関係改善模索",
@@ -579,6 +565,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "イラン南部ケシム島に米軍の精密攻撃 革命防衛隊のミサイル発射施設を標的、損害は不明",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03NU1UQTJyMWl5RXBzMjQ4NjVPcW5PZWFMN1RxUUxDdUM3OEt2OVVLOC1ybDFJcDJVdTAyM0x1ano3UlROWGVaZ3hMRmJqN1dyV2pHZm0zZ1R3YVZBMk9rYUs3UlZnelJz?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-18T13:47+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ゼレンスキー大統領「ロシアは北朝鮮のミサイルに依存…ウクライナにも武器・技術支援が必要」（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMmptVmdvV2JMdjFsMzgyZ3Y2Qmk1cXhlMVFLSGVoVWVNd1JGVGJiU1JfR1VaM2dDd0JkSXlBTXJnOE9BcGNTeXZZMl9sSWVTUGFxek5zeURwZ0FrYnRfSFV5bV9oanZzcnZtUTBOaFhnNUZqMGtmem5VaVFFWjA?oc=5",
    "source": "Yahoo!ニュース",
@@ -604,6 +597,13 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BT0c5c19SWVI2M1hqUHNaYUNfanMwSk1ZMUhoSUFKMEJPcHczRFVBOWVQa3d2VUxmUzE1VTh6R1BFRnVaNTdzY0FuTjJoS3pMam5YNERFcC12TXlDS2E4bmtvT3liOHM?oc=5",
    "source": "Infoseek",
    "at": "2026-11-18T10:11+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ウクライナ保安庁(SBU)、ドネツィク州の「グレーゾーン」でロシア軍の砲撃を誘導した人物を拘束",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTNVN25NZU1yNkxSTmJwMVlpbTJQR2NRb0R5VjlKVWdFcGp2eTF6YmJwSUhfM2pSaHIzNE1hUVFQVTF1RWlBTVpLX1lKMzR3Qnh3QjFvTnBjVXdxbVF1ZTFfbEpHSlFobjNVWllUbXJTVmxBZEotcFpUWTl1UEp1SnNkbll3ZFgwOU1wUmtnazFrRjROY05hX2NKTQ?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-18T10:08+09:00",
    "topic": "ロシア"
   },
   {
@@ -633,7 +633,7 @@
     "イラン・アメリカ：「攻撃」「空爆」5件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」「ミサイル」5件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「爆破予告」2件"
    ],
    "items": [
