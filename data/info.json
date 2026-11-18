@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:45+09:00",
+ "updated": "2026-11-19T07:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,26 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T06:54:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T06:41:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.8",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T06:16:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -80,26 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T04:37:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.9",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T04:30:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.1",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -107,6 +107,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "対イランで対応協議＝米イスラエル軍高官が会談",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKZ3V2UTYxNlBNWWJVZnFfYjkweGs2a3p1dEVhOGswOVRyRlRuaWtQYkY4UzAtdWtuY2gwZnV6Y0lXZ3Q1YUJBN1FYRThuSjdvU1pENzBOVUJnRWZ4RWQ5RG0zLU5Yd9IBa0FVX3lxTE9ieUJuZXBaTWpGZ0dZZkxXa0d5Z0Jud0E0cG11eUxMMGVGRE5XRGxRV1dpRV9hQko2NVdDRnctYlluVjA1WTF0Umo1NnNxVEhmR3VPd2t1ZW5rNjVJdEtkdFFCSW1ETUZ5NGtR?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-19T06:48+09:00"
+    },
     {
      "title": "イスラエル情報機関長官が先週訪米、イラン共同攻撃を働きかけ ＝関係筋",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZWFueGk5UWk1d2VJZHFfU2VDaHp3TVpzSUw2MzlaWUYteFpLQUtFcEJMenUzUTFCWHhieUs0aUotNHJMQW14TjFPRHE0akxNeW1ucEJrUngyWi1wUUkwNGpjelE0Sk91SXowMDFGaHRsN21raEpnQTdjMU5fNEk?oc=5",
@@ -136,12 +142,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
      "source": "ニューズウィーク日本版",
      "at": "2026-11-18T19:45+09:00"
-    },
-    {
-     "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-18T19:32+09:00"
     }
    ]
   },
@@ -198,6 +198,12 @@
      "at": "2026-11-19T06:36+09:00"
     },
     {
+     "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍はクルスク州のミサイル部隊を攻撃（高英起） - エキスパート",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME1iUExBMWxEdlBkM0kwbDJubDNQa1Z6TG9VUERMSC1uczcxWVBObjVhaGFZeVI1cTBVUjBVYTVrbzh0cnh4aW5LeUFoMkkxNWZXNG9ESFlEamtZRnJOM2ZRMnNKVXpaNE1EOFVBOVI1NmRSNjRmYmRqc3diSUxUR09fbFBkUWZv?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T06:11+09:00"
+    },
+    {
      "title": "（目撃者 北朝鮮の初核実験から２０年：下）核開発止めるはずが、行き詰まった原発事業",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yUElJVmk0ME1OWVBwMmdvV0ZvLWRkU0tLbmNOZlZGUHZZZG9IXzc5QThDWUVXWl9OVnJLM0xkaEJpeWRaQ3gtTE9CemlGNkhORjV0NUEtNkhsckZq?oc=5",
      "source": "朝日新聞",
@@ -220,12 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ic3B0dms3a3FKbnBNUUlRSXNZSkZrM2JYSUJfVmJrX2xJNFlDMExPNi1WQW83a2NWRzdSQkJVWmNmZXdFRzVnaGFuR3J4aFhvNERrNk5LWQ?oc=5",
      "source": "西日本新聞me",
      "at": "2026-11-18T18:22+09:00"
-    },
-    {
-     "title": "在韓国連軍司令部、地雷爆発受け北朝鮮側と対面会談を調整も実現せず…米専門メディア報道",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM19EQVF2TTRTTWVSRHMySkVKeURnRS1RVzlGSkhvYnRuc0dJZGdRSlJRZ2VIVDRiY2hRYXF1V0tsR2RFNmFIVHZPT2pDX0FiWG5JeDY4Wlo5M29nNUdBel8wMDFqVFZmb0JmMjlIN3RTd1hQYUJGb0xHXzVEWk8xQdIBVEFVX3lxTE5NNWJyTUpuODgxM3I5M0w5cXFoQjlyMTBjZVN5R24yazdrOWJpODFTemxjd2ZYTk9KZkM3OTJGMWxfLTE5UWkxTjZEanRzZEJqRmljdQ?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-18T17:22+09:00"
     }
    ]
   },
@@ -233,6 +233,18 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍はクルスク州のミサイル部隊を攻撃（高英起） - エキスパート",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME1iUExBMWxEdlBkM0kwbDJubDNQa1Z6TG9VUERMSC1uczcxWVBObjVhaGFZeVI1cTBVUjBVYTVrbzh0cnh4aW5LeUFoMkkxNWZXNG9ESFlEamtZRnJOM2ZRMnNKVXpaNE1EOFVBOVI1NmRSNjRmYmRqc3diSUxUR09fbFBkUWZv?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T06:11+09:00"
+    },
+    {
+     "title": "ポーランド国境で列車攻撃 ロシア軍、近くに元ＣＩＡ長官",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsX0FPeHNhc1IxVlJWM2JXUDBrVU12Y1RJUklhVmtkVFg4NDRobWEya2ZreDB5bWlCR1NBa3cyS2xVRlE4bHVZU2N5TzJDZTVmSEFDVmplSWlmZWV3TXZXeU1TcE1VWFYtOTVVYTgtaFA?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-19T04:01+09:00"
+    },
     {
      "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初（TBS NEWS DIG Powered by JNN）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQ0tzeVFINTlUOThXNzJacEZMOWxCRFZuUHJEZVNVNFppS28wU05BZXNyWFRfajItb2hDZzMtbW1EbnhTTVZDZWFvaGVsOEZ0enBRdm9VN3J4TXdrdEJfd3BET3pRV1VYWnlkSXN6djFVd1Exa1ZzdEg0NUF1YXM?oc=5",
@@ -246,12 +258,6 @@
      "at": "2026-11-19T00:45+09:00"
     },
     {
-     "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T23:41+09:00"
-    },
-    {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
      "source": "ウクルインフォルム通信",
@@ -262,12 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblJDMUpCWmlkOUxXOHd2MlgzWDdYM1hLU09GSjljZ2NNYjViN1A0eDRibVdZZkcyTHB4OUFrd1pxYWlPZl9HWlVlck5idTZkSGZ1cnlXWjRncGcta21fTnFjY3BRaGZIdHlZOVhQYVhkWmw3Zkx4OWMyTmVCVHZXWFlBaG9jOUhQanFMWldGV21YZjhkQTk5eGQwb3dhS2JZLW1SUHdOYUVxVmpOSGV3RzdlSHBIUdIBuwFBVV95cUxQZHo0bXYyTlBjTWwtaVZqbEF6T0RLeFlrSmNtZkw2TjhCX1FMT2d4bnRNMW51ZHBvQnpHNzhZd0IxSWNMZTBqaXBkWlNwS29UaUdiWUh4V1otSjVZWE9VeUZRdTVuTWxQR2IwM1p4cE16T0h5X3dnR1pUSC1oNEExelFaV3NkcFRTZS1WYzI2TWhhdXRaRzBpUUJULVRTekxlRVJIY1l3dExVMGRMRzhmZU5HWHdGNWJ6MFpz?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T20:51+09:00"
-    },
-    {
-     "title": "ロシア軍がNaftogazの施設を2州で攻撃",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbktNcHZDalR0SmxlWUZfS0pBaWpBSl9qUXlxd1A2X1hka2h0VE9fVmpUcHB5TlJvNWtseHlBdlh6YmtnX1VPN1Y3N2owdFktOEtfZlplLUtSMHNPUVp6X3JxUFNsTWNHa0M4MjdzSUhNWlZTT3YyUEl1dUs2TjNlTVk5Y2JUWXNjQk1xU2doY084SnJvTElkQVlmWkhoTXZsa1dtM0tfMA?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-18T19:58+09:00"
     }
    ]
   },
@@ -462,10 +462,24 @@
  "osaka": [],
  "world": [
   {
+   "title": "対イランで対応協議＝米イスラエル軍高官が会談",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKZ3V2UTYxNlBNWWJVZnFfYjkweGs2a3p1dEVhOGswOVRyRlRuaWtQYkY4UzAtdWtuY2gwZnV6Y0lXZ3Q1YUJBN1FYRThuSjdvU1pENzBOVUJnRWZ4RWQ5RG0zLU5Yd9IBa0FVX3lxTE9ieUJuZXBaTWpGZ0dZZkxXa0d5Z0Jud0E0cG11eUxMMGVGRE5XRGxRV1dpRV9hQko2NVdDRnctYlluVjA1WTF0Umo1NnNxVEhmR3VPd2t1ZW5rNjVJdEtkdFFCSW1ETUZ5NGtR?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-19T06:48+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "【佐藤優の世界史講座】「北朝鮮の強硬発言」編 北朝鮮の強硬発言を読む！ 「南部国境」と日米韓演習への警戒",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVBENWlUWkx4YkxEWTBSQUptdGVnVFNmM1A0aFBMRFhtdzBEQU1Ib3RFamw4UWMySjJMVHI4Nk96ZFpfcHRZLWNIeEJzT0xLUUNGdTZuQUpwYXlBd1dLd0pEQXctekpENl8tdXpscFlaWVZhaW5jX0ZqRE9MdTNxUw?oc=5",
    "source": "UQライフ",
    "at": "2026-11-19T06:36+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍はクルスク州のミサイル部隊を攻撃（高英起） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME1iUExBMWxEdlBkM0kwbDJubDNQa1Z6TG9VUERMSC1uczcxWVBObjVhaGFZeVI1cTBVUjBVYTVrbzh0cnh4aW5LeUFoMkkxNWZXNG9ESFlEamtZRnJOM2ZRMnNKVXpaNE1EOFVBOVI1NmRSNjRmYmRqc3diSUxUR09fbFBkUWZv?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T06:11+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -483,6 +497,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ポーランド国境で列車攻撃 ロシア軍、近くに元ＣＩＡ長官",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsX0FPeHNhc1IxVlJWM2JXUDBrVU12Y1RJUklhVmtkVFg4NDRobWEya2ZreDB5bWlCR1NBa3cyS2xVRlE4bHVZU2N5TzJDZTVmSEFDVmplSWlmZWV3TXZXeU1TcE1VWFYtOTVVYTgtaFA?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-19T04:01+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQ0tzeVFINTlUOThXNzJacEZMOWxCRFZuUHJEZVNVNFppS28wU05BZXNyWFRfajItb2hDZzMtbW1EbnhTTVZDZWFvaGVsOEZ0enBRdm9VN3J4TXdrdEJfd3BET3pRV1VYWnlkSXN6djFVd1Exa1ZzdEg0NUF1YXM?oc=5",
    "source": "Yahoo!ニュース",
@@ -494,13 +515,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk9xOWczNDVlbWhDcFFGSGRELWpnclBGNFVXbUpBelMyTnNaRm1JU0pfVEhVcDVfNnN6Z3g2QjdVTy14N0ltWm50czFLV1AyR2NOLW5hbVlOWWVrajUtN3ZyV3JxNVNpX1ptSVFpZ3pNemNUZjBmdTg0V1ZiRVV1SC14VWs5czd0?oc=5",
    "source": "조선일보",
    "at": "2026-11-19T00:45+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRnItd2o5N25vWk5lRm5KTVRLTmFfd05HRk4zcmQxcWRRdkxZYlBnVUV1RFJTRlRyeVdTTE5hT1IxVlN6ckhqUk1TTzVJaUpUbEp6T2NHOHkydWJVQzFucEFZTmN2Q0p1VU83NnZ2UEhjbVVUekd1TGlHY0w3YVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T23:41+09:00",
    "topic": "ロシア"
   },
   {
@@ -567,24 +581,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア軍がNaftogazの施設を2州で攻撃",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbktNcHZDalR0SmxlWUZfS0pBaWpBSl9qUXlxd1A2X1hka2h0VE9fVmpUcHB5TlJvNWtseHlBdlh6YmtnX1VPN1Y3N2owdFktOEtfZlplLUtSMHNPUVp6X3JxUFNsTWNHa0M4MjdzSUhNWlZTT3YyUEl1dUs2TjNlTVk5Y2JUWXNjQk1xU2doY084SnJvTElkQVlmWkhoTXZsa1dtM0tfMA?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-18T19:58+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
    "source": "ニューズウィーク日本版",
    "at": "2026-11-18T19:45+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-18T19:32+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -618,9 +618,10 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」3件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」4件",
+    "北朝鮮：「攻撃」「ミサイル」1件",
+    "ロシア：「攻撃」「ミサイル」5件",
     "欧州・NATO：「爆破予告」1件"
    ],
    "items": [
@@ -637,10 +638,10 @@
      "at": "2026-11-18T07:31+09:00"
     },
     {
-     "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初（TBS NEWS DIG Powered by JNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQ0tzeVFINTlUOThXNzJacEZMOWxCRFZuUHJEZVNVNFppS28wU05BZXNyWFRfajItb2hDZzMtbW1EbnhTTVZDZWFvaGVsOEZ0enBRdm9VN3J4TXdrdEJfd3BET3pRV1VYWnlkSXN6djFVd1Exa1ZzdEg0NUF1YXM?oc=5",
+     "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍はクルスク州のミサイル部隊を攻撃（高英起） - エキスパート",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME1iUExBMWxEdlBkM0kwbDJubDNQa1Z6TG9VUERMSC1uczcxWVBObjVhaGFZeVI1cTBVUjBVYTVrbzh0cnh4aW5LeUFoMkkxNWZXNG9ESFlEamtZRnJOM2ZRMnNKVXpaNE1EOFVBOVI1NmRSNjRmYmRqc3diSUxUR09fbFBkUWZv?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-19T01:51+09:00"
+     "at": "2026-11-19T06:11+09:00"
     }
    ]
   }
