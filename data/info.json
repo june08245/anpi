@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:15+09:00",
+ "updated": "2026-11-18T20:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -116,7 +116,7 @@
     {
      "title": "米軍がイランのゲシュム島を攻撃、クウェートにもドローンが飛来",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUzVzTF9YTUthR0xmYUN6SklvS2tXSmpFUndNSlZXVHJHNVQzekw1UWp6V2Q3VDdENE8tZGp4TDRfLWNHaVdSU0NUMHM0T1NFbjVaUg?oc=5",
-     "source": "switch-news.com",
+     "source": "Switch news",
      "at": "2026-11-18T20:05+09:00"
     },
     {
@@ -126,9 +126,9 @@
      "at": "2026-11-18T19:45+09:00"
     },
     {
-     "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Z2J2QjVHMVRoT21FQkdnazRfNDdFNWczeGZpQWZxaEh5dzkydDM5eVZJU3YzYWZuMnVDRlVfeUNkRzBqWjNKLUZrZEhVeWUzdjNWcG1mUW45Ykp4N0tJLU5hVjlKbzhlSlA0bGhJYmQyRDFUZVhYOHdYMWdvZWs?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
+     "source": "テレ朝NEWS",
      "at": "2026-11-18T19:32+09:00"
     },
     {
@@ -382,20 +382,26 @@
  "cyber": [
   {
    "title": "ドコモ通信障害の原因は「5G SA」だった。「契約を外す」べきユーザーの条件",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xV1pYWWdhX3pnSXlqZHBXRnlLdGRMRElNQnI1VFZqdjRCelJKZEh5akF0V0pPaHFRTmNnS2thajV2VDNqbFhRT2phMjN5RGxudF9idTlKbW9vRS1CUS13?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MjU0T2J3aVRRNlBZRmFiNy1CSjQ3ZEt4V2JkQUc0QzJOU2VhLVI0blFGUzloTmNUcTd4Z0IzYm9YbnpxM0lCelE0VVU3S0I0UDhnWms4SGxMMWllb2c?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-18T19:05+09:00"
   },
   {
+   "title": "石川県運営の関係人口ポータルサイトが不正アクセス被害 利用者４人の氏名漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoQmxxMVFNcTBOdmhLZm9fTW0xR1NlZG9zZm9DZGFzRk45OTRORDd4ek0xbnRDU05ZR2hhalBubnhHdUFiUmIwMmk5QQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-18T20:16+09:00"
+  },
+  {
    "title": "カリフォルニア州、オープンAIを提訴 AIのサイバー攻撃で初 [AIの時代]",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRk1xSW1Cak85ZW90cEpvakhwNl9sTmM2eUpfZWhKcWRCMnV0ZHpoaUlRdTV2RVNCdzhsWkd6RGs4bnFpMnZPMFI2aVpjTFQyZmpTU29pelJ2WXNwNUp6Vm1pS1dlWUtOVnRORjEyeG9qY3NtRU1GYXpxeGJ1eHZMdmgxU2hNWi12QW9vU29MVkk5TFk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qZVVDRjJFbW0zUmFrR0h5ekd1NGZvMUZzN21jVm9DOWpSR212T1VxWVlUYXpodXl5WDhscXd0R04yX3A3MExxMjE5M2g5Zk1RbGdranRqRlpvTDhyZVdzdjRtTGpCRmM?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-18T20:08+09:00"
   },
   {
-   "title": "医薬品安定供給のためのシステムに不正アクセス、運用停止",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiQkpnR3o5WmhvNEVwMWNyLVlFS01BX1lZQjJtcUZFOHNuUnpMQWx1SjhvZWVVdzB0bks5Q3ZQNTF2aUJwcGZyVFd3Rk9MR3dsbzBRT0xkMDhKUjI0NS1aanNQX3lZZ2cyLVotZlVB?oc=5",
-   "source": "au Webポータル",
+   "title": "医薬品安定供給のためのシステムに不正アクセス、運用停止（毎日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVlo0Y0JRUDRNWHp0azl3eVBOZ1I4bnJadng3QkpLaTJSNmFCcUJqS25MUjY1RVdDZEZXa2o1M1J0bXhaR1IzdG4tN2JyZmhUQV84RGlTUXdOaWdLU0xVWldueWZ2Skx1WEljWXFnbDhtQ1RyOFE3Vk5qSmpBcnM?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-18T20:07+09:00"
   },
   {
@@ -405,9 +411,9 @@
    "at": "2026-11-18T20:07+09:00"
   },
   {
-   "title": "「簡単に情報を抜き取れる」情報流出は前年の10倍超　サイバー攻撃から企業を守る『ホワイトハッカー』養成の現場",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uVVd5MTZ3SzEyejlIb09hVi0zRUNRMTJqeEx1S0RnTVZUWVZtTWhIUWlSYXdRRTVZYUFPN0dZNDdSSzJ4eDBFZzk3cjRxYVVaT1NaS0tjWmR2TS1jOVlYQVpzZ1Y3TzJUaFRGQdIBckFVX3lxTE1NTDRsV0pjc05VTWFaY1o1VWh4OTR3d0xITGpDdzR4UnZnV2RrX2RjT1BsYi1QdmtqYU5QQmRKNVNaa2dBSXBMNEE3X0lDTGNFbG1uTkVmNTVyNkNFMW1fdFMzYW1oUlEyZ2pwTVB1QTY0UQ?oc=5",
-   "source": "Infoseek",
+   "title": "「簡単に情報を抜き取れる」情報流出は前年の10倍超 サイバー攻撃から企業を守る『ホワイトハッカー』養成の現場",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FVlRPazVEMmd1Vm1jZU1VT1VpNmFNMUhickZTdVB6dkRYRWd0NjVMb2VERWNTRklmSzBTLUZLRmFTVFk5OW5FZEozdU5EQlQ5aFRnemJGZlpseXBTcnFueTZ5WElJT2pDdV95d2J2QUQwLWFsQXpQakNHZzNlUFE?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-18T19:57+09:00"
   },
   {
@@ -423,10 +429,10 @@
    "at": "2026-11-18T19:55+09:00"
   },
   {
-   "title": "DHC、顧客情報1911万件漏えい＝委託先への不正アクセスで(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVhuRGx2dnFjcWpCTGJORndjam5yUXRvdnpETGRxSDNpREhxR2JKMjZLWk5aWU9PMnNXTWZjYTlZYTBTN2cyaTFfdG9xcmMxR2M0QVNsTE9hSVdPV1lOT2dyMjA2UHVMYnR5RHpxZkgtYUxNdGtRdnFyWlVscGtqU3pBRkxVcnM?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-18T19:47+09:00"
+   "title": "東広島の全市立保育所・こども園で個人情報漏えいか 不正アクセスで保護者の名前やメアド",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYzRRdnJKWnV6dVctNDJ0N2pZeHEzOUZiSzc3ZW5jd3pCWFk2TGtIclY4RVNjUGZuaTg4c0NJd3FKVWt5VDI5T0llbXZpNkQ5SXlseUhrY0lMZw?oc=5",
+   "source": "中国新聞デジタル",
+   "at": "2026-11-18T19:55+09:00"
   },
   {
    "title": "大崎電気にサイバー攻撃 ランサム被害、生産停止",
@@ -453,22 +459,16 @@
    "at": "2026-11-18T19:33+09:00"
   },
   {
-   "title": "「家庭用Wi-Fi」がサイバー攻撃の“踏み台”に 口座やカード番号など“覗き見” 中国企業が「不正ソフト」入り機器出荷も…「DDoS攻撃」の実態（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVC1RZFYzb0lXZVkxaS0tdm01d0pTM2VLU3R2QmRZOHF5RmV6cG1aZ3VBRFNPYktBOVBabXVaemJwNjY0Y2ZUVVM1LTNNSlliVm5tTTIwWXh2czF4NWllZExXT0dLWkpDcFRlTU9JNnVBb3VGR01tVmxfMHhqaXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T19:24+09:00"
-  },
-  {
-   "title": "厚労省の医薬品情報システムに不正アクセス 個人の連絡先など漏洩か（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xRGtUTUFrcExOYmw2bUhQRC12WUNpb290OUdZR29hLXRNV1hnbGNVSzNoU1ZGZnViZEtZVmU4ZC1uOGdWTUtCUmpoaU5QUkNvUDlhQlQ4cXdVVHdPZnpHSHlhdzhfM0Z6dFM3SW5xbTlsOUNsbFpJNDVNcGJ3ajA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T19:15+09:00"
-  },
-  {
    "title": "DHC、1911万件の情報流出を確認 プレイドへの不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DLWVFaTRNS0V1YWF2ZE12ZHQyYnNneVhHaEFGeG1xdF9VLURRTFpyRjVZdWs3aG9QNzM0WnFzc0N1S0Y2d0hyUEJKcXpXSzdnUkhDdE84cHFWc2JDOXRLOWlYeGQyVUU?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-18T19:07+09:00"
+  },
+  {
+   "title": "金融庁、地銀にシステム委託先の点検要請 不正アクセス受け",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNUJTZHJWRGdNYmo2MG9MYVhWTVhnSDZaT1ZaRmZwbnA2RGNmY2lfUVNoUUlUVm9RdTd4Y3ptMGxVT2sxb0xocGN2eHlYdG5SQTBSOG50ZGNaU0MxbTBSM3BXRlM3ZFFDSVEyaQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-18T19:06+09:00"
   }
  ],
  "osaka": [],
@@ -476,7 +476,7 @@
   {
    "title": "米軍がイランのゲシュム島を攻撃、クウェートにもドローンが飛来",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUzVzTF9YTUthR0xmYUN6SklvS2tXSmpFUndNSlZXVHJHNVQzekw1UWp6V2Q3VDdENE8tZGp4TDRfLWNHaVdSU0NUMHM0T1NFbjVaUg?oc=5",
-   "source": "switch-news.com",
+   "source": "Switch news",
    "at": "2026-11-18T20:05+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -488,9 +488,9 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Z2J2QjVHMVRoT21FQkdnazRfNDdFNWczeGZpQWZxaEh5dzkydDM5eVZJU3YzYWZuMnVDRlVfeUNkRzBqWjNKLUZrZEhVeWUzdjNWcG1mUW45Ykp4N0tJLU5hVjlKbzhlSlA0bGhJYmQyRDFUZVhYOHdYMWdvZWs?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "イランがクウェートの米軍施設攻撃 米軍による南部ゲシュム島への攻撃に報復か",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NR1FlSTB5Q2MwUkh6REJManlUOHAwRlVWRFk3cjd2R3pCTjZlZ1dxbEtwdXJYVV9JOXV4UGxxMFdoVGhsbjlGaGd4MjRBWktYSHR6M2tMbzZxSTBYdElFakhYd29reFhkbWJxTC0wdm5oZUN5QXJQM3h3?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-18T19:32+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -639,7 +639,7 @@
     {
      "title": "米軍がイランのゲシュム島を攻撃、クウェートにもドローンが飛来",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUzVzTF9YTUthR0xmYUN6SklvS2tXSmpFUndNSlZXVHJHNVQzekw1UWp6V2Q3VDdENE8tZGp4TDRfLWNHaVdSU0NUMHM0T1NFbjVaUg?oc=5",
-     "source": "switch-news.com",
+     "source": "Switch news",
      "at": "2026-11-18T20:05+09:00"
     },
     {
