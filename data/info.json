@@ -1,8 +1,6 @@
 {
- "updated": "2026-11-18T17:00+09:00",
- "errors": [
-  "osaka"
- ],
+ "updated": "2026-11-18T17:15+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -272,10 +270,10 @@
      "at": "2026-11-18T10:11+09:00"
     },
     {
-     "title": "米、ウクライナの対ロシア「深部攻撃」を批判 逆効果だと主張",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91eUJsd051SW9BRXFxY0Z3ckNKdnZkaHBWQ3BKV3dfVFJQRlh4bFRoUmJ3MFpMQk00RHY4LS1pZU1lOWtFeUFsMXFyN0t0NzhqTnfSAVRBVV95cUxNMmZHZXg0eFI0Vk50SkpWd3hWUHVpR1dBYUdRaEhKLWwyYmNDc2hOUFo0Q0dFZ2xGcHJvOG9VYzdXUmpDZjdTOGxlM2xuT1NyUkU2Wkc?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-18T09:45+09:00"
+     "title": "ウクライナ保安庁(SBU)、ドネツィク州の「グレーゾーン」でロシア軍の砲撃を誘導した人物を拘束",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTNVN25NZU1yNkxSTmJwMVlpbTJQR2NRb0R5VjlKVWdFcGp2eTF6YmJwSUhfM2pSaHIzNE1hUVFQVTF1RWlBTVpLX1lKMzR3Qnh3QjFvTnBjVXdxbVF1ZTFfbEpHSlFobjNVWllUbXJTVmxBZEotcFpUWTl1UEp1SnNkbll3ZFgwOU1wUmtnazFrRjROY05hX2NKTQ?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-18T10:08+09:00"
     }
    ]
   },
@@ -389,6 +387,12 @@
  ],
  "cyber": [
   {
+   "title": "米国で相次ぐ大規模なシステム障害、各社はサイバー攻撃との関係を否定",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JbGVjbjVlU2M3RnZNQUYtYXdocFdLcHJWdllRZDh5bDdoRnFNeXN5M3YwS1RQd0I3Wnd2Tjd1b1p6enJoRXJfajU3MzhVMHBjb3oyOTM0bXVHaERVMk9NSm5CUlRrOFJtRkJtdGR5Qm42bXd1R1AwU0JsZjBsSm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T17:00+09:00"
+  },
+  {
    "title": "米1万8000便欠航の通信障害、原因解明なお難航 運輸長官が言及",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqQmFod0tiRktaNG1TYVM3YVBzSzE4eGpYZ0hPaU9lUEl2YVVHOUIwd2tRaEM2c3JNMExfaHRzaTZCdzdxNElscXRySWFCaDNlZ0RWTngtbXZWUW5hSkc0cjFJRE1OM1ljWXdMN2FxTlpWWUM3?oc=5",
    "source": "BigGo ファイナンス",
@@ -419,22 +423,46 @@
    "at": "2026-11-18T15:13+09:00"
   },
   {
+   "title": "NTTドコモ「半月に3度」の通信障害にユーザー怒り 5G SAの「4G切り替え」案内が裏目、料金値上げにも批判が",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02VXRsUXRKSF9BRWJNZ3RDNXZ2Y0Z3akFYVllYUGl3UlhLNEUwTTlteXFMZGg1endZY1EwM2c1Rm0yNVM3SEd0YlpteDRYTTRNelVONUdRblZEaWR2VVdN?oc=5",
+   "source": "J-CAST ニュース",
+   "at": "2026-11-18T15:12+09:00"
+  },
+  {
    "title": "米でシステム障害相次ぎ備蓄需要増　英日でも非常用品に関心",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWhwTkdBMWdTS0JRdHdNQ051Wk5LbXV5Yk9CakNmaGxPWGpudFNrTnhVeEZjYTN2X0xXTldPbFVuY0NvbXRoQk9wMnBrQThqMVB1VDlwTGtPdWkwNG9jM1NvamNlU1hlNUs3bGNxdEtwbVdudDdZeDhrZGk3MjlEZUE0QlFUY3Fl0gGcAUFVX3lxTE00eDIzR2V2VUJ3S2Z5U3NnUG8wR0hPNnZjcXRqVXlYY2JFOUJCcWFjb3VJcnR0TDBzTnRhcVJvMjZqY3JDMW5Md25Yakx6OFJrU1lfTE5sdnMzUU9UbEtwekZLQ0lVU1NpeDVUbUI3M2wwUDh4TVdJeExoaXhyWW5ZNjluLWNfZFVPT1BobVpPNUVtVUZ0WXBPOGRGeQ?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-18T15:11+09:00"
   },
   {
-   "title": "米運輸省、大規模な航空通信障害を受け、501億ドルの追加予算を要請（米国）",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NcHlCbE1UN2JWbGxubnM3TlB4TjRzNGRUUnBDOUVxYTRwZ2tzaVpqZk1GZWY1eU5tX2Q4QWtRem9CMW1EMGVXekhTQ25VQlFWeUQ3QVNaRTd5dUpnMi16SjRiR0ZNcHpQTVU0?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-18T14:40+09:00"
+   "title": "楽天証券への不正アクセスで最大1572万件の個人情報が流出か ログインIDや資産情報など",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mYnBwek1sbm5qZmJYYlRIZUg2YVJNamFPUFpyNTFEek54MmliQ2dWaldrWGNHbDBydklxSlIyNmlYTVItcno3VVFwUmVCYlo2ZVNR?oc=5",
+   "source": "東京報道新聞",
+   "at": "2026-11-18T17:13+09:00"
   },
   {
-   "title": "ルビオ米国務長官、FAA・マイクロソフト・JPモルガンの障害とサイバー攻撃の関連性は「証拠ゼロ」と発言",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHWWdkUUVBbUVmY0tONUtPSlFQQTU2NndRSC1WZG9OTmRkam9aVVhDUy04aXdPNHNHLVBhVnNPNnMzby1IalFUOVh2TnZEdFJWVjN1Xy1fYl9XTEo5bC1XNFdjMzRmdDEzM0RBUUdBSUIxZFpT?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T14:35+09:00"
+   "title": "人材派遣のホットスタッフ、LINE登録情報最大3万2,034名が情報流出。最大1万798名の個人情報漏洩の恐れも-COMSBIへのサイバー攻撃で|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUNfUG1tUzFCVk1Xd3hMMkVXN3NjSGkzdnV2a2g5ZXhSdkNJeXpneXlJbkdVMjB3aTBJU3FqOXhVclNmTWxzU1ZLOWpXdWZPU1g1Z093ek1LMXdQN3FnYkNMUjJtTVFteUdXOFJhRzVfVTZkTkZMeWxIdkFSaUZUQlF6Qmg5eUFZeXVfR2lMV2RjT0J6ZGtyZ0hQd3FvaEp0NVNmRFd5NFROZTg?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T17:00+09:00"
+  },
+  {
+   "title": "相次ぐサイバー攻撃 都が中小企業への支援強化方針",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uYWQ4ck9fZ05sLWJtN2xRZzZsTVhid0ZYUmlZUUtXZHpXcmsxcEJCTGNEckQwZ041OFdpeDZnN2NFM3dabHVIMEgyN2Z5RHZrcTRmU1psR2hDSzJtM0tz?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-18T17:00+09:00"
+  },
+  {
+   "title": "ヤマダデンキ（群馬・高崎市） 不正アクセスでリフォーム履歴流出の可能性",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSTUxhd2x4OHk0aThUbEp6WnN4WHdmWjFKOWZwZ3dDM0FuTXZfNmtLOUdCMnNlTWdtWV9HM0VDYzRTSTFva3FvTDlxaDB3azNib0paVjRlT3N5Zw?oc=5",
+   "source": "上毛新聞電子版",
+   "at": "2026-11-18T17:00+09:00"
+  },
+  {
+   "title": "アドベンチャー[6030]：（開示事項の経過）不正アクセスによるお客様情報の流出に関するお詫びとお知らせ（第4報） 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NHNva1BnWTZjclBaT0dRTndzVVZLdS1OY1RGMlRQSGcwWkxhcW1fNG5JdUFCd2JERzBsN3QyNVNnT200a1hNRXlrLUVnVDg3NkVxTlFOckFjd1NfX3VfUHlPYWhoblFrQWc?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-18T17:00+09:00"
   },
   {
    "title": "三菱ＵＦＪ信託銀行、個人情報２３万件漏えい…マーケティング支援会社が不正アクセス受けた影響で（読売新聞オンライン）",
@@ -447,36 +475,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObEZmaHlrMmk1MU5vdlN5MzhoV0czaDJrZ0hCMnJEMXpQOHN1bWZwSERkNFkxc3VUTlBsdFV2ZGVaOWJDWkpRV2JSUk9CVUtRbVJuRzhhS01Dd0JkSEoyeUNSc095ZENVdzg3bGxzNXlVYWVLMUZoRndZR211LXk0TnV3Q0U3dDBVbXJMM2RmdnF1TTByREFsbnNKMVNWengtX2dxdnI1VQ?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-18T16:52+09:00"
-  },
-  {
-   "title": "医薬品安定供給・流通確認システムへの不正アクセスに係る 個人情報の漏えいについて",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiazYyVmdITlRRUlVCZnZ4WWNQUTZ1bTV6RkQyd0ZBQld0YllKNkdHSy03UVZZeFBETHhLNXN3Q29lZ3h1TDlCTFBGV25zaVBKMVc5cmk2S3Y?oc=5",
-   "source": "厚生労働省",
-   "at": "2026-11-18T16:39+09:00"
-  },
-  {
-   "title": "阪急阪神ホテルズ、「KARTE」への不正アクセスで会員情報33万件が漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBicnZYUWZfUHdMb0l4WjZFazFubjYxREg4WEFNSEZ6MFM3RXF1RF9zTWFIeHRkNV9OTDBGSU5HTUtKOGF1N2hZdW9aY3kzVGJ2dWJBbk1JUQ?oc=5",
-   "source": "TRAICY（トライシー）",
-   "at": "2026-11-18T16:31+09:00"
-  },
-  {
-   "title": "オープン株式会社のクラウド環境に不正アクセス BizRobo!mini約560社・約1,000アカウントの認証サーバーも被害",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2V2bnRqOUJxblhieGowQ0N2b3pOaEEtS3JUNlZnN2lSRWw3MFItMDQ0bmR4b1M0cTNhOWo0WHBHSkt4bU52Vm9qNDFqM3RCczRPSmRTS3ZGaDI4cDJHdktsX1BWYkdvVmN4Mm5sRWVyMHlzNG03VGEwWmF4Ym83SUIzYWZaNEFRcEhmVFBEX3VtSWxTRU1TR0k3YUJFamV1SGRveUVB?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T16:30+09:00"
-  },
-  {
-   "title": "CAMPFIRE(キャンプファイヤー)、581万9,779件の情報漏えいを確認 プレイド「KARTE」への不正アクセスによるサイバー攻撃で",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHhxZExyZXE2N2plTVFqbXU5Q01UNzI2c05oZ2x4a19vc3Z3eTZ2cUNvYW1HRVBWUG02SHhKekdpRmRwTmhVXzdsdDZtaU1JWjhVRjN2V0hYeHdMemZoYkl2LWtvU0tUYUx3cTRGOU9aT3FHMmNsM2lfY1pnV3BiTGQxWUhJMEdsT1NSakRBNVhYVFNtYUE?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T16:28+09:00"
-  },
-  {
-   "title": "三菱ＵＦＪ銀行、顧客の性別や年齢など個人情報６５０万件漏えい…委託先が不正アクセス受け",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYYVBzbjRNRzlGTGE2R1RZTTlqMEFWdWdmVnQwM2NydEZhMVRMelB2Q2FhZk1TQ3F6UTd6NTc4MHVPbFAxY0p6LXc4V2lSSkFUNlF0ckRVanl4bDZvX2k5bGVfa2k?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-18T16:20+09:00"
   }
  ],
  "osaka": [],
@@ -608,10 +606,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "米、ウクライナの対ロシア「深部攻撃」を批判 逆効果だと主張",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91eUJsd051SW9BRXFxY0Z3ckNKdnZkaHBWQ3BKV3dfVFJQRlh4bFRoUmJ3MFpMQk00RHY4LS1pZU1lOWtFeUFsMXFyN0t0NzhqTnfSAVRBVV95cUxNMmZHZXg0eFI0Vk50SkpWd3hWUHVpR1dBYUdRaEhKLWwyYmNDc2hOUFo0Q0dFZ2xGcHJvOG9VYzdXUmpDZjdTOGxlM2xuT1NyUkU2Wkc?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-18T09:45+09:00",
+   "title": "ウクライナ保安庁(SBU)、ドネツィク州の「グレーゾーン」でロシア軍の砲撃を誘導した人物を拘束",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTNVN25NZU1yNkxSTmJwMVlpbTJQR2NRb0R5VjlKVWdFcGp2eTF6YmJwSUhfM2pSaHIzNE1hUVFQVTF1RWlBTVpLX1lKMzR3Qnh3QjFvTnBjVXdxbVF1ZTFfbEpHSlFobjNVWllUbXJTVmxBZEotcFpUWTl1UEp1SnNkbll3ZFgwOU1wUmtnazFrRjROY05hX2NKTQ?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-18T10:08+09:00",
    "topic": "ロシア"
   },
   {
@@ -641,7 +639,7 @@
     "イラン・アメリカ：「攻撃」「空爆」5件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」「ミサイル」5件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「爆破予告」2件"
    ],
    "items": [
