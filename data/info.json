@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:45+09:00",
+ "updated": "2026-11-18T11:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-18T09:53:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-18T10:52:00+09:00",
+   "place": "岐阜県飛騨地方",
+   "mag": "2.1",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-18T09:41:00+09:00",
    "place": "茨城県南部",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-17T10:40:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -102,9 +102,9 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3Q0Y1RhMzRWQ1gzUXBWU1l3OGpBZzhlMEFLX3R5QnhKRWRXQ29Hd3NnRDctX2xablZHUjM0ZTk2ZmRLeXBiN2NvM3BPdDRaYVExMFdxdEVuelZrV3l5cDFoaWlkWVhJWnBIclBQMjB1NHFLYWk1ZWd5bVp6dGJHd1RMeHFzNmpf0gGOAUFVX3lxTFA1UHVGSUZzU0hRU2pDTGdUS2xlZkxLTGVFd0NqMjU4U1JoY3BrR2xUcVMzc1BwbkQ2cUZ0dERaUUpYV2dsb1d2X3dsd01qOEpyTTQ1Y2NyRy1UbFZTVXBCbi00YlZ6Vk1xZmljbTZKc2x1dkJFclJXek1ZbFRaWi1CRTVZLVBXamctR0ZhNXc?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGdaOVdMRXktMW5uMVBfSEc2RFl4ekdkOGFBVVBISjdjVGF3WlhMSHZWOWNvQzZlVDFnbldYSWVNZnZfZkJPdmZWVDR1d3I1c254aHJJdlVrUE5oVHJvdEhvR2xKUW0xMExWem5oVlB6YWI5Q2FoU1JLNUF4ZDg?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-18T10:30+09:00"
     },
     {
@@ -114,10 +114,10 @@
      "at": "2026-11-18T10:29+09:00"
     },
     {
-     "title": "イランメディア「米軍がゲシュム島空爆…住宅と商業地域・インフラに大きな被害なし」",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbno4d1Vhcmg5TkRWN1c3OVpDMFJvLS1wMjJOeWk3bi15RUxESVY0eHJOSFVuVlRXSFducXotTDFkVWpnZkJVRm9rYWFaWno3RkdBOUM3Ujg3RUlPTmo4X0tvY0JOdmo0dzNvUXNqU1ctX0hiZnVtYzY2V2VwNFlNbEFxdnBwaDJPWkxIX2J5VXRaMFdBMmdlZ0NB0gGMAUFVX3lxTE51bnRGWUcySkhtZG1PaXJBT1dQcGs0NjZJLWZ0c2taQ2dVMlV5YXdLXzdFenhGYXRubHh3QXJxbzR4YWVjOW9INy1Dc2pwbk9PU3RldFZVTmk5dEZibHlTQjJZMENuNTdKcUNJSFBXeDV1MDBUMnY4NkFjNV9iT0dPME9GZkowalh3SlNF?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-18T09:45+09:00"
+     "title": "イランメディア「米軍がゲシュム島空爆…住宅と商業地域・インフラに大きな被害なし」（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kQVExX0RFY2diekVKSnNlSDdLOFdJVW93TU1zc1NObEUybUlsRzBlQkZRTjRuNUo4d05DbXBvZV8zdFFWb0YxSWJfTkNnVDhwVFRMNHVUbGFuZkNmbzNmTXJqa2JJYVhJbVlaV3N4Ylh0aThBRWpzaHNKUFBGbmc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T09:53+09:00"
     },
     {
      "title": "米戦闘機、イランのミサイル発射施設を精密攻撃 「自衛のため」と説明",
@@ -186,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談",
+     "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUFJzMnB4OVdaeTdrRUFZNGFnaUtpTzBRUVhiLV94Skt2Zi0wc3ZFWWgwajc1bmFPdDVrN21uMmJwM01mdkdWbGNySklTbEYtODZrREZfV1VuZTIyaXRRei1RZ1lfWjlNanZheFlheFpHNnJmT25pVzF4bV8ySDFPMG11MHVfVW9IZ0JWZ0ZSNllla0pOM1JwVkJvaGpLU2ZTQktVbXltb054UG15OHFQUDN6cUlSLVhISEhkUDBCV21PZ2wxU0xYM2VSeUJlUjUyYU80MkxZWXZubFJ6ZXQxLWxsa2JWdkFDdUZaVWtBdTFzOER1Z0dFV0h3aDJNQnoyRGNfdExyTmplNVpjWmZUaUxET0hNRWoySnZxT28taFp5OHZadnVOVW9QbGQwS1ZFMHZlRDdQTG9PTkNpYUtvNWZB?oc=5",
+     "source": "KOREA WAVE",
+     "at": "2026-11-18T10:50+09:00"
+    },
+    {
      "title": "北朝鮮労働者派遣を議論 国連で制裁監視チーム 核・ミサイル開発の資金源",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KZFBLbEhBMlpSc0gxWmJibm14SzVQbHpEUXZjbmRnbmg1dHZGUWNIbHM5MGR3RzUxdlRDWWdDOVdYZW8tM3BDM1Mwc0V4UFZYX09VdWVDb1c3ZzhXQlZQWUZfc003QnpmSWVoQWh6SEdhemlsR0E?oc=5",
      "source": "産経ニュース",
@@ -204,22 +210,16 @@
      "at": "2026-11-18T08:38+09:00"
     },
     {
-     "title": "元陸自ホワイトハッカーが警鐘を鳴らす日本の“サイバー安全保障”の限界 GMO事例では中国製AIや北朝鮮の関与も囁かれるなか「盾のみならず鉾をも向けるのが防衛」（マネーポストWEB）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeWZhNTFIR091dHY2RmV6YnVIeXo2VU9BUUhBeFlEdGpwUy1xemVBajhtWE9iWVlCdFNKWXA5R3JnSEtNTUtFWm5Xc2xyTXk3N1ZxNmNZNzZZQVVWMFhmSXR2Q2Z1Z0QxSkRKTW9RMU5qVzM5NGExbGZNZk0xLUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T07:26+09:00"
+     "title": "元陸自ホワイトハッカーが警鐘を鳴らす日本の“サイバー安全保障”の限界 GMO事例では中国製AIや北朝鮮の関与も囁かれるなか「盾のみならず鉾をも向けるのが防衛」(マネーポストWEB)",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0VIclFhWmV1NS1QVERJQjRjZWZWNldXMWlsSHJ3bWszMDkwekg0UUdteHc0QTI3RGYyOVpFX2FJeVhVcWJoOWpCVFdXVE9sMjNaWU5aRVM2MEllMmota2tkaXNwaDZHM1pJeUZNQ2Z0WVFVQTFuWXlEeHhHeDI4Rk1nNExsZFE?oc=5",
+     "source": "Yahoo!ファイナンス",
+     "at": "2026-11-18T07:16+09:00"
     },
     {
      "title": "イラン核や北朝鮮の核開発、韓国の原子力潜水艦も協議 IAEA定例理事会",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11MWt4b2g1ZjVDdGxUYXhYV1pZVWlaVkhjcDZwYWNQNUg1djRTSzY1NzVrN1NBNDRNXzhlNTkzbkswOVlrTGk3SnQ0Vl9yaGc0bm4xRUNPVHJUQkVDbGlhblBQQUFhS1pZbWQ2R2xDT0s3NzJKRUE?oc=5",
      "source": "産経ニュース",
      "at": "2026-11-18T06:16+09:00"
-    },
-    {
-     "title": "（目撃者 北朝鮮の初核実験から２０年：中）実力者の処刑、戻ってきた統制と恐怖",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLXdJNWlqTGVLOE5NMXpjVE1EX2JLdUlmOUdzaWRneFJkSmhBN2VleDk4bWh2ekhnMHprbzBBVmE4Nk1PSjQtZWVicV9RSTRhWmw0eEppeTN4Z1Bk?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-18T05:00+09:00"
     }
    ]
   },
@@ -227,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VWGVSbUR4WkVvT3hVZExIYU15TWJCTkpYRnpHQ3ZvbHJtY1BDVDFPNzhySW5RZjhUUEFleDdteFBHUVJ3VVg5Sk1ndlg1M0RSdmRaaXN4S0VzQVNWYUJfR9IBZkFVX3lxTE9hQWwtRWNzNGJWQ1dwSmt6RDkwTloxZGszZFlzVy02TjhyQUNMYk5tNDFrS0FPdkxhU3plUWtTUUtDX0VFdVFhMVdFc2JhdGlBaHJMOENLOG03Z1BWYXRWcTUzNmZEZw?oc=5",
+     "source": "BBC",
+     "at": "2026-11-18T10:41+09:00"
+    },
     {
      "title": "米中ロ首脳会談は「ヤルタ会談」と異なる、他国の運命を決めるものではない ロシア大統領府",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WUnZZaWRIbEYtTGNfX05LVVJfSTExZWF0VEtDOVYwaVd0OTRLTVZ4ZXhGbzd3aW1lUDFaS2pnOXlhSXZBYVZsUnVLVWJxbm5pbFHSAVRBVV95cUxOQnBPTmQ4aGlSWnJ1aUo0SWM1bEN0QXNvWUJGMXEtQVZScjREdVk2czB3UXpha3JnaTRBSWhiY0RET0E3Ym5ES3pvdVg1dENvRmNFSDM?oc=5",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aaVJWeGgyaEpybmhueDBlYXlwM3FsdkQ0M2lqWmVVYnVFcXZOazFWdVJlNkxNOUJOdUlFY3NaTXpyWkVNUW1peGZoS3QyT1FhUFHSAVRBVV95cUxPc0JtckhzR1BlaTl3ZE9kaUpsV1JDbG1XSnF1bmxnOWxnU2dHZUpUNE1YRVdWLVQzTXJ2TXhRUXZKM0tDU21BUjBXZjhKczZZRHZyQTU?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-18T09:16+09:00"
-    },
-    {
-     "title": "推定ロシア機2機が日本領空を侵犯 空自は地上と戦闘機から複数回警告 空幕長「機種は特定できず」（高橋浩祐） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWlyd1haV1NTYUZXaDlDQ1VQUG1Jekp1RTZ3SVdGTHFCUmw1RkQ3UWFUNUVfQjhSWjZwT3dPMFcwckgyblQ4bXk3R0lvSTBRUmRtRFZIRWFHQ1dKOUE5aWduc055empTa3Z1QVZ1UVlPa09rNW5XbXRUWVkwWFVMcjc2WE5NVXpK?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T08:52+09:00"
     }
    ]
   },
@@ -436,6 +436,18 @@
    "at": "2026-11-18T08:15+09:00"
   },
   {
+   "title": "千葉県柏市、子育て関連メール3サービスで6,928件の個人情報流出を確認 アララへの不正アクセスが波及",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3NxaVBaWFlCdVN0ZHRrSXo3dk5jajlNdDRNZVJnaDJlSmpIU1FpTDJFSFp1aWxjb1lXazVkd1Nkd1VyQk5HNmhrSHFOTGM5Uk1SQmh1OTh3d2lMbWJjNzQ3NjVucTlaWFJpbjBVRTh1a0trU2tSVE8tT3BKYXdoLTg4R1hadjFodzg5VjdHZ25GMExfaXV3MTdvdDdUWVdaMFE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-18T10:45+09:00"
+  },
+  {
+   "title": "クラブツーリズム、約406万件情報漏洩か 委託先への不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45aDRFeUdxclJ0Z3A1UF9CMTB3Sm1tWUwwXzFzclVwcDVxc1FXSDZ5SHpiZWlIMWJCZG9zVHZxN1hncGpBR18xMzRJak5xeDRnd2U3YTREQ3dpQmF4VmtLZ3NzZ1Z6WUo2Q3dRVQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-18T10:43+09:00"
+  },
+  {
    "title": "川崎市「オンライン手続かわさき」、メールアドレス6万6,451件の流出を確認 アララへの不正アクセスが波及",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXBiWGhZMHpUUnFKSHlqaTZpQjgyZFVha3M0WFljRmVnSVV2VUlWTlFKeHZCbVluQ0hURWt5dEg5ckNGRjRTRkhqUE81d0RIbVhRemtoQnBEdU5SRmVjaDNEOWp4dTZDMG5aMUUtcVBKX3ZhVXBCZ0hMUklOUVpiaVMzVlgyd04zMV9KUENGZFBTN3Y1aWRxY3l0T2Y?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -448,36 +460,38 @@
    "at": "2026-11-18T10:30+09:00"
   },
   {
+   "title": "四国電力、顧客情報60万件流出 委託先に不正アクセス（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUzc2My11UU9SYVJMTXlBWDlzdVQtcHJ2OGF1SlhlRmk4bDAxTHY4NG9WZWl0aFM1S20zLVdwSVV2aXl5UWFSQV9mU2FpSWpqaUVELWlsTWtmN3VOY2xWVHU4eDh3dXFPc2h3T1EyUVRJcVFReERkMFJmeEswUm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T10:30+09:00"
+  },
+  {
    "title": "【「ほくペイ」の不正アクセス事案を受け、再発防止と万全な体制づくりに取り組みます】",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14SEtBT2x1dU9iX0d1bWUzU1dBRWhrN3VLV3MxM2FtaGJoUWlLMVZYdkxDdUJjZWF2bHdTbGtlUlJNNUNVNnUwSF9YQWhTZnhlNWRqbG5yZ05RSXB2M2pv?oc=5",
    "source": "選挙ドットコム",
    "at": "2026-11-18T10:27+09:00"
-  },
-  {
-   "title": "『［再放送］サイバー攻撃を受けたとき、自社は本当に被害を防げるのか？ 』というテーマのウェビナーを開催（PR TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50M3pQaG9zR2g5WVhOLWUtSUhORTVNTi04aXkxMGtlTm1tM3RhS1FWaGwwcGtWOXB1REVVTm96eUY1QkVUWnJ3eWpDSTdRZHFmd0tXeld3MGo2dEdGOGplTkpXYVN3ZXNQ?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-18T10:23+09:00"
-  },
-  {
-   "title": "プレイドのデジタルマーケプラットフォーム「KARTE」に不正アクセス、導入企業の顧客情報が漏えい（INTERNET Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94TThFemJXWGJKSUd4emh6anhENDBZNC00ZUE2NE9lY0pDQkIxeDdOVjVhcWN2VWt0WkhFOEVqSHBqN2J5bzZKMlhocXZrZ3ZaN21jU1E2QzY5R19qRG10WEJObFZQeVBvS194N19IWXhuWmN3dFhmS3hSWFo4STQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T10:22+09:00"
-  },
-  {
-   "title": "急増する不正アクセス・情報漏洩の脅威に備える！「権限放置」や「ID使い回し」のリスクを可視化する「特権ID・アクセス管理 セルフ診断チェックシート」を公開",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZ3dEaEhQeGtXaXh0blVzRGV1aGs2Z2RJaUxfXzI5QmtSTk82YWJUeXUxSDdjdVJSbTN1UjZ6M1Jfb3o2MGpvdVVHYktUMlZoamNJ?oc=5",
-   "source": "ZDNET Japan",
-   "at": "2026-11-18T10:10+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3Q0Y1RhMzRWQ1gzUXBWU1l3OGpBZzhlMEFLX3R5QnhKRWRXQ29Hd3NnRDctX2xablZHUjM0ZTk2ZmRLeXBiN2NvM3BPdDRaYVExMFdxdEVuelZrV3l5cDFoaWlkWVhJWnBIclBQMjB1NHFLYWk1ZWd5bVp6dGJHd1RMeHFzNmpf0gGOAUFVX3lxTFA1UHVGSUZzU0hRU2pDTGdUS2xlZkxLTGVFd0NqMjU4U1JoY3BrR2xUcVMzc1BwbkQ2cUZ0dERaUUpYV2dsb1d2X3dsd01qOEpyTTQ1Y2NyRy1UbFZTVXBCbi00YlZ6Vk1xZmljbTZKc2x1dkJFclJXek1ZbFRaWi1CRTVZLVBXamctR0ZhNXc?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "北朝鮮・金正恩総書記の最側近、訪ロで米国の「敵視政策」批判…プーチン大統領とも会談",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUFJzMnB4OVdaeTdrRUFZNGFnaUtpTzBRUVhiLV94Skt2Zi0wc3ZFWWgwajc1bmFPdDVrN21uMmJwM01mdkdWbGNySklTbEYtODZrREZfV1VuZTIyaXRRei1RZ1lfWjlNanZheFlheFpHNnJmT25pVzF4bV8ySDFPMG11MHVfVW9IZ0JWZ0ZSNllla0pOM1JwVkJvaGpLU2ZTQktVbXltb054UG15OHFQUDN6cUlSLVhISEhkUDBCV21PZ2wxU0xYM2VSeUJlUjUyYU80MkxZWXZubFJ6ZXQxLWxsa2JWdkFDdUZaVWtBdTFzOER1Z0dFV0h3aDJNQnoyRGNfdExyTmplNVpjWmZUaUxET0hNRWoySnZxT28taFp5OHZadnVOVW9QbGQwS1ZFMHZlRDdQTG9PTkNpYUtvNWZB?oc=5",
+   "source": "KOREA WAVE",
+   "at": "2026-11-18T10:50+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VWGVSbUR4WkVvT3hVZExIYU15TWJCTkpYRnpHQ3ZvbHJtY1BDVDFPNzhySW5RZjhUUEFleDdteFBHUVJ3VVg5Sk1ndlg1M0RSdmRaaXN4S0VzQVNWYUJfR9IBZkFVX3lxTE9hQWwtRWNzNGJWQ1dwSmt6RDkwTloxZGszZFlzVy02TjhyQUNMYk5tNDFrS0FPdkxhU3plUWtTUUtDX0VFdVFhMVdFc2JhdGlBaHJMOENLOG03Z1BWYXRWcTUzNmZEZw?oc=5",
+   "source": "BBC",
+   "at": "2026-11-18T10:41+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGdaOVdMRXktMW5uMVBfSEc2RFl4ekdkOGFBVVBISjdjVGF3WlhMSHZWOWNvQzZlVDFnbldYSWVNZnZfZkJPdmZWVDR1d3I1c254aHJJdlVrUE5oVHJvdEhvR2xKUW0xMExWem5oVlB6YWI5Q2FoU1JLNUF4ZDg?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-18T10:30+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -510,10 +524,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "イランメディア「米軍がゲシュム島空爆…住宅と商業地域・インフラに大きな被害なし」",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbno4d1Vhcmg5TkRWN1c3OVpDMFJvLS1wMjJOeWk3bi15RUxESVY0eHJOSFVuVlRXSFducXotTDFkVWpnZkJVRm9rYWFaWno3RkdBOUM3Ujg3RUlPTmo4X0tvY0JOdmo0dzNvUXNqU1ctX0hiZnVtYzY2V2VwNFlNbEFxdnBwaDJPWkxIX2J5VXRaMFdBMmdlZ0NB0gGMAUFVX3lxTE51bnRGWUcySkhtZG1PaXJBT1dQcGs0NjZJLWZ0c2taQ2dVMlV5YXdLXzdFenhGYXRubHh3QXJxbzR4YWVjOW9INy1Dc2pwbk9PU3RldFZVTmk5dEZibHlTQjJZMENuNTdKcUNJSFBXeDV1MDBUMnY4NkFjNV9iT0dPME9GZkowalh3SlNF?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-18T09:45+09:00",
+   "title": "イランメディア「米軍がゲシュム島空爆…住宅と商業地域・インフラに大きな被害なし」（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kQVExX0RFY2diekVKSnNlSDdLOFdJVW93TU1zc1NObEUybUlsRzBlQkZRTjRuNUo4d05DbXBvZV8zdFFWb0YxSWJfTkNnVDhwVFRMNHVUbGFuZkNmbzNmTXJqa2JJYVhJbVlaV3N4Ylh0aThBRWpzaHNKUFBGbmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T09:53+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -559,13 +573,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "推定ロシア機2機が日本領空を侵犯 空自は地上と戦闘機から複数回警告 空幕長「機種は特定できず」（高橋浩祐） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWlyd1haV1NTYUZXaDlDQ1VQUG1Jekp1RTZ3SVdGTHFCUmw1RkQ3UWFUNUVfQjhSWjZwT3dPMFcwckgyblQ4bXk3R0lvSTBRUmRtRFZIRWFHQ1dKOUE5aWduc055empTa3Z1QVZ1UVlPa09rNW5XbXRUWVkwWFVMcjc2WE5NVXpK?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T08:52+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "トランプ大統領「金正恩氏と会う可能性」 高騰する「出演料」は誰が払うのか",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vMGpmMzVQYjJPZGRxNjc5RFFpdU9zelJyU0gxY1FLdXNSekMtQzRuMDF6SWpKMEdOdzZ0VF90Z0Fxa3Q0WTZNa3FiTVpuRkZDQ3pLNTNiTjhNRS13UFdZOE9ZV2JGUQ?oc=5",
    "source": "동아일보",
@@ -594,25 +601,18 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "元陸自ホワイトハッカーが警鐘を鳴らす日本の“サイバー安全保障”の限界 GMO事例では中国製AIや北朝鮮の関与も囁かれるなか「盾のみならず鉾をも向けるのが防衛」(マネーポストWEB)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0VIclFhWmV1NS1QVERJQjRjZWZWNldXMWlsSHJ3bWszMDkwekg0UUdteHc0QTI3RGYyOVpFX2FJeVhVcWJoOWpCVFdXVE9sMjNaWU5aRVM2MEllMmota2tkaXNwaDZHM1pJeUZNQ2Z0WVFVQTFuWXlEeHhHeDI4Rk1nNExsZFE?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-18T07:16+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "欧州の学校や空港を襲った偽爆破予告、1カ月で8000件 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VX3J2Mmk4NUJCWmtYaFc3SU1TMnJia0RpWUY1NnQ1cmczczdKV2hzbVBZNENhYzRSc1FtZDZDUEhaWXc2R29pU3ZGY0s2VF90Q0FLVDU4N3FJNE5rRGwyNlppMA?oc=5",
    "source": "재경일보",
    "at": "2026-11-18T06:30+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "イラン核や北朝鮮の核開発、韓国の原子力潜水艦も協議 IAEA定例理事会",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11MWt4b2g1ZjVDdGxUYXhYV1pZVWlaVkhjcDZwYWNQNUg1djRTSzY1NzVrN1NBNDRNXzhlNTkzbkswOVlrTGk3SnQ0Vl9yaGc0bm4xRUNPVHJUQkVDbGlhblBQQUFhS1pZbWQ2R2xDT0s3NzJKRUE?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-18T06:16+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "「日本人学校はスパイ養成所」とする悪質デマを野放しにした中国（文春オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNVdaa1RQWncxTHdEMkYyNTk0R0EzNTlHcGdtU19vOGRkdDlWd0h6NUFMaHpXc01MbTlRdmllbUh6Zm44WlVrcG1yaTVWMmJxWUpHWDBxVDhFWG1wc2h4OGNpU1BtRmhIaVUySkNmYTZQelhheGxFeGNjSnFXZDA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T06:15+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -634,14 +634,14 @@
     "イラン・アメリカ：「攻撃」「空爆」6件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」「ミサイル」3件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「爆破予告」3件"
    ],
    "items": [
     {
-     "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3Q0Y1RhMzRWQ1gzUXBWU1l3OGpBZzhlMEFLX3R5QnhKRWRXQ29Hd3NnRDctX2xablZHUjM0ZTk2ZmRLeXBiN2NvM3BPdDRaYVExMFdxdEVuelZrV3l5cDFoaWlkWVhJWnBIclBQMjB1NHFLYWk1ZWd5bVp6dGJHd1RMeHFzNmpf0gGOAUFVX3lxTFA1UHVGSUZzU0hRU2pDTGdUS2xlZkxLTGVFd0NqMjU4U1JoY3BrR2xUcVMzc1BwbkQ2cUZ0dERaUUpYV2dsb1d2X3dsd01qOEpyTTQ1Y2NyRy1UbFZTVXBCbi00YlZ6Vk1xZmljbTZKc2x1dkJFclJXek1ZbFRaWi1CRTVZLVBXamctR0ZhNXc?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGdaOVdMRXktMW5uMVBfSEc2RFl4ekdkOGFBVVBISjdjVGF3WlhMSHZWOWNvQzZlVDFnbldYSWVNZnZfZkJPdmZWVDR1d3I1c254aHJJdlVrUE5oVHJvdEhvR2xKUW0xMExWem5oVlB6YWI5Q2FoU1JLNUF4ZDg?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-18T10:30+09:00"
     },
     {
