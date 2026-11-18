@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:00+09:00",
+ "updated": "2026-11-19T06:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -234,12 +234,6 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "「米中と同格」 プーチン政権が3大国の首脳会談で狙う宣伝効果",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhTk1OYmFUeXdWQ2NWb2FLOGxjQWV4cUs1dXZRc204TUFaTkJNLWhWdktxYWMwYlEzTkltQm42dmFlalB0M2pjOTNWd3dlMVNVaHdpQTFMbWU3bXFfS2dfRUY4RGFLNmF2?oc=5",
-     "source": "毎日新聞",
-     "at": "2026-11-19T05:00+09:00"
-    },
-    {
      "title": "【速報】高市総理、プーチン大統領と約30分間対話 ロシアによるウクライナ侵攻後初（TBS NEWS DIG Powered by JNN）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQ0tzeVFINTlUOThXNzJacEZMOWxCRFZuUHJEZVNVNFppS28wU05BZXNyWFRfajItb2hDZzMtbW1EbnhTTVZDZWFvaGVsOEZ0enBRdm9VN3J4TXdrdEJfd3BET3pRV1VYWnlkSXN6djFVd1Exa1ZzdEg0NUF1YXM?oc=5",
      "source": "Yahoo!ニュース",
@@ -268,6 +262,12 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblJDMUpCWmlkOUxXOHd2MlgzWDdYM1hLU09GSjljZ2NNYjViN1A0eDRibVdZZkcyTHB4OUFrd1pxYWlPZl9HWlVlck5idTZkSGZ1cnlXWjRncGcta21fTnFjY3BRaGZIdHlZOVhQYVhkWmw3Zkx4OWMyTmVCVHZXWFlBaG9jOUhQanFMWldGV21YZjhkQTk5eGQwb3dhS2JZLW1SUHdOYUVxVmpOSGV3RzdlSHBIUdIBuwFBVV95cUxQZHo0bXYyTlBjTWwtaVZqbEF6T0RLeFlrSmNtZkw2TjhCX1FMT2d4bnRNMW51ZHBvQnpHNzhZd0IxSWNMZTBqaXBkWlNwS29UaUdiWUh4V1otSjVZWE9VeUZRdTVuTWxQR2IwM1p4cE16T0h5X3dnR1pUSC1oNEExelFaV3NkcFRTZS1WYzI2TWhhdXRaRzBpUUJULVRTekxlRVJIY1l3dExVMGRMRzhmZU5HWHdGNWJ6MFpz?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T20:51+09:00"
+    },
+    {
+     "title": "ロシア軍がNaftogazの施設を2州で攻撃",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbktNcHZDalR0SmxlWUZfS0pBaWpBSl9qUXlxd1A2X1hka2h0VE9fVmpUcHB5TlJvNWtseHlBdlh6YmtnX1VPN1Y3N2owdFktOEtfZlplLUtSMHNPUVp6X3JxUFNsTWNHa0M4MjdzSUhNWlZTT3YyUEl1dUs2TjNlTVk5Y2JUWXNjQk1xU2doY084SnJvTElkQVlmWkhoTXZsa1dtM0tfMA?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-18T19:58+09:00"
     }
    ]
   },
@@ -369,6 +369,12 @@
  ],
  "cyber": [
   {
+   "title": "事故やニアミスも続出…米国の航空管制通信障害で暴かれた公共事業のずさんな管理｜トランプ2.0 現地リポート",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CcUJuN0NhNUxoS295ZTBOYW11X0NDc1dNLVN4ZGpFYS1GeWJSMlRkUUVJRjJrSHRGd1phc1lWQlFXb3kyU2tJcHVUOGNRMFZ5emdfTWswLUxvekkxRGRtTXItZ2NPZw?oc=5",
+   "source": "日刊ゲンダイDIGITAL",
+   "at": "2026-11-19T06:00+09:00"
+  },
+  {
    "title": "相次ぐ米システム障害、急増するセキュリティーパッチ適用が一因か＝専門家（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TczRlbXBDWkY3RjRDdXloaWRlVkpScFROanRqa0NQcmExVWdxQmpGczhIUUl5dzlnbjNndlJiaVdmMHhMRnlaSVFFanpzRGRiSnYwdXRFT0g2MnN1Yl9SSTVROWJWb3BDdEYxdnRocUZNZkEycTNpNm5raDZaTXc?oc=5",
    "source": "Yahoo!ニュース",
@@ -399,10 +405,10 @@
    "at": "2026-11-18T23:56+09:00"
   },
   {
-   "title": "クラウドサービスで大規模なシステム障害で、どのような影響が最も気になりますか？(みんなの意見)へのコメント",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeE95SXlhb0dSOUhyZGppTkpLWTNpbEtwYnNWbjFaV0hHZ0JJMVN5dnBaRUtoREE0RGxkMkxPZXQ0aW01LVUwUjhER3k4V1QtaGFfSkQ2alExdGZ1WDVNQUFUSThTNmNhVjlkamZodFplWnFSYVNvWVBSYjBmWTNKYmVTS2x2UjVRaDNTUg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T23:28+09:00"
+   "title": "知らぬ間に家電がサイバー攻撃の“踏み台”に？ 「Wi-Fiルーター」乗っ取りで個人情報“のぞき見”も…実態は【news23】",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NSDRIcU9jTGZtNmlld05zZWJPQkZEbHNNTWhpSTlTdFBWdHVFb1ZhZlZ5dko2WmM1a1VNZTc4NUJYU0NCbzRTVzJTSVZpaDRjN1BVa2FwWVhMQXo4cGRuZ2UwenU?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-19T06:01+09:00"
   },
   {
    "title": "県文書検索に 不正アクセス",
@@ -441,22 +447,16 @@
    "at": "2026-11-19T00:00+09:00"
   },
   {
+   "title": "AI半導体大手エヌビディア、ランサムウェア組織による侵入と主張される ダークウェブで10日以内の情報公開を脅迫",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPcWp2NnZCVVBQZWtMekdNa3ROTmstYXkxblVsOU1XRF9IbDVNTjNtSmhCYV9pekhHcU9USVBhMnlISk1fcVhvaml3RThNXzVxU2kyVzNrYmNrSkNRX09kTnlIdlpiZXNvM3lZcFlFQmphdXRq?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T23:55+09:00"
+  },
+  {
    "title": "大崎電気工業、ランサムウェア攻撃でスマートメーターの生産・出荷停止 埼玉・岩手の関連拠点に影響、再開時期は未定",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVU0zbjFLSTliUlo1WTRaQ0NvR3lKZzczejdXZFlBY3A3cGNXS0lBQ21uMk5KSE5SY3Iwc09DTEt4dFF2TFFlLXJNclRDcE4xaEhseHBDaW1EdGhMc1Ayb1huQUF4ZWRNZWNEampWT2YtMHVjYXcxemU2T21rUTNuSHZ5emRXZEliODYyQkpEeXdhaUZmYUVuSmdmVVdVekpBWGtuaXFtMUx0QQ?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-18T23:25+09:00"
-  },
-  {
-   "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ldU0zVlhCMmhBcEdoZ3A3V2YzQ0tDUUF4MUtRLU5UcXMxQmtQdU5rVTlqeVJBWVNtNlU3UjB4dWFpTXlLRmU4WWc3SHVBZUFlOVBETGN4Z3Q5OFhIUmw1YlVRWFNRUGNKYUpIVDIwU0Y?oc=5",
-   "source": "Publickey",
-   "at": "2026-11-18T23:08+09:00"
-  },
-  {
-   "title": "サービス受託企業への不正アクセスで漏えい拡大…三菱ＵＦＪ銀行６５０万件、ＤＨＣ１９１１万件など",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMmxFTko4LV9KU1ZiNmdzUEJJVHZiV19VdEhZZmwwXy1MZERheUl6ZldaN3Ryc2MzVXRNXzJXQlpxdWdZYjJJS3R2d0ZLcnlQZXQyQ3dBVWpvZGRHMFVtV3psWmw?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-18T22:33+09:00"
   }
  ],
  "osaka": [],
@@ -467,13 +467,6 @@
    "source": "朝日新聞",
    "at": "2026-11-19T05:00+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "「米中と同格」 プーチン政権が3大国の首脳会談で狙う宣伝効果",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhTk1OYmFUeXdWQ2NWb2FLOGxjQWV4cUs1dXZRc204TUFaTkJNLWhWdktxYWMwYlEzTkltQm42dmFlalB0M2pjOTNWd3dlMVNVaHdpQTFMbWU3bXFfS2dfRUY4RGFLNmF2?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-19T05:00+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "イスラエル情報機関長官が先週訪米、イラン共同攻撃を働きかけ ＝関係筋",
@@ -560,6 +553,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "ロシア軍がNaftogazの施設を2州で攻撃",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbktNcHZDalR0SmxlWUZfS0pBaWpBSl9qUXlxd1A2X1hka2h0VE9fVmpUcHB5TlJvNWtseHlBdlh6YmtnX1VPN1Y3N2owdFktOEtfZlplLUtSMHNPUVp6X3JxUFNsTWNHa0M4MjdzSUhNWlZTT3YyUEl1dUs2TjNlTVk5Y2JUWXNjQk1xU2doY084SnJvTElkQVlmWkhoTXZsa1dtM0tfMA?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-18T19:58+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
    "source": "ニューズウィーク日本版",
@@ -620,7 +620,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」4件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」3件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
