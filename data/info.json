@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:30+09:00",
+ "updated": "2026-11-19T02:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -22,6 +22,66 @@
  },
  "quakes": [
   {
+   "at": "2026-11-19T02:38:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T02:36:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.7",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震度速報"
+  },
+  {
+   "at": "2026-11-19T02:35:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T02:30:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T02:29:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.9",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T02:25:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.5",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
    "at": "2026-11-19T02:22:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "5.7",
@@ -37,66 +97,6 @@
    "mag": "2.7",
    "maxi": "2",
    "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T01:17:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-18T18:37:00+09:00",
-   "place": "日本海中部",
-   "mag": "5.0",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-18T10:52:00+09:00",
-   "place": "岐阜県飛騨地方",
-   "mag": "2.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-18T09:41:00+09:00",
-   "place": "茨城県南部",
-   "mag": "3.5",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-18T02:54:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.3",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-18T02:35:00+09:00",
-   "place": "島根県西部",
-   "mag": "3.2",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -240,16 +240,22 @@
      "at": "2026-11-19T01:54+09:00"
     },
     {
-     "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-19T01:05+09:00"
-    },
-    {
      "title": "米中ロ首脳会談控え…ウクライナ、「プーチンの自尊心」クリミア大橋破壊",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk9xOWczNDVlbWhDcFFGSGRELWpnclBGNFVXbUpBelMyTnNaRm1JU0pfVEhVcDVfNnN6Z3g2QjdVTy14N0ltWm50czFLV1AyR2NOLW5hbVlOWWVrajUtN3ZyV3JxNVNpX1ptSVFpZ3pNemNUZjBmdTg0V1ZiRVV1SC14VWs5czd0?oc=5",
      "source": "조선일보",
      "at": "2026-11-19T00:45+09:00"
+    },
+    {
+     "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-18T23:40+09:00"
+    },
+    {
+     "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1l2SFoxalU1SlQ5dFJxMTBlYTdNeC1RalRtcTRsZVdtcF9sTld5OXdyOTFFQTlNaWZTWjRpWUstM2R0UWs3VnpnaU93Nk00SERiMFFxVXVLQUdWRWZkOUVEdjZaRU5hSXdKNTlIZWF3d0FyV1BoUlFHNkpTTEN6N2VkS0VjM2g2aVp6edIBkgFBVV95cUxPUHFXNDh2SHR0ek9ORWlZVXdoSEJiMHdWUjRfdHZuUjFHNm9mS2VXYy1iRmpvT1dEQWZZQkFRUXFNYjZyQUgza0pjWk5fd1l1UHlveEhDUHA4STRHbTVxZTl6Sm1TWEdxN0Rkd3dORDJ4endtV2F0S2tIaHRlaWY5SjdZS01jV0ZLV1lsVHNzZ1F3QQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-18T23:40+09:00"
     },
     {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
@@ -262,12 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblJDMUpCWmlkOUxXOHd2MlgzWDdYM1hLU09GSjljZ2NNYjViN1A0eDRibVdZZkcyTHB4OUFrd1pxYWlPZl9HWlVlck5idTZkSGZ1cnlXWjRncGcta21fTnFjY3BRaGZIdHlZOVhQYVhkWmw3Zkx4OWMyTmVCVHZXWFlBaG9jOUhQanFMWldGV21YZjhkQTk5eGQwb3dhS2JZLW1SUHdOYUVxVmpOSGV3RzdlSHBIUdIBuwFBVV95cUxQZHo0bXYyTlBjTWwtaVZqbEF6T0RLeFlrSmNtZkw2TjhCX1FMT2d4bnRNMW51ZHBvQnpHNzhZd0IxSWNMZTBqaXBkWlNwS29UaUdiWUh4V1otSjVZWE9VeUZRdTVuTWxQR2IwM1p4cE16T0h5X3dnR1pUSC1oNEExelFaV3NkcFRTZS1WYzI2TWhhdXRaRzBpUUJULVRTekxlRVJIY1l3dExVMGRMRzhmZU5HWHdGNWJ6MFpz?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T20:51+09:00"
-    },
-    {
-     "title": "第105国境警備隊のパイロットが、ロシア軍の砲兵装備やドローン、装備を攻撃",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GaHF6amJkQXp0RWJRUFJrNkdVdUh2Qzl1aXJxYkpjUTdfTFVOMHlvLWo0UTJ5RWhjQlJRUUZQSlpvNW1EYVRJNk93Ql81NFNTV0Z1WVRjV0dvQWNfNExSVFBuUzZqb0Q4?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-18T19:26+09:00"
     }
    ]
   },
@@ -375,6 +375,12 @@
  ],
  "cyber": [
   {
+   "title": "イラン、米重要インフラを標的に－技術障害には関与せずと米当局者",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jc1JCaWxVdC15azhNOXNScnlJX09veXpQWnJtUEk2TUMycXN3WUhZZWkwUWIwczM4bUZ4T1RPUHZ1dUJJQk1uTkl3U1RNSEZLOENSMjJYYkxIbi05WnhTc0tKUGR4NGFlbTZQdkdmNlZDeFRw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-19T02:15+09:00"
+  },
+  {
    "title": "米で相次ぐシステム障害、「組織的・国家関与の攻撃ではない」＝国家情報長官",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1REYndvVC1HV08tX2ZQMFF2Y3JHRkpZZENCODF6ek9LWEh4VmktQXA3UzNCZXdWRjZubUc2c3V3b1Q1VkhZVVQxanlXczFWU1RUQzUtUWhvdFNmQ3JEMnUyTVJxbmVVMWQ1SkxheVJDMzBxeGZOUjdkLXNHVUtHeWh3RmtNWUU?oc=5",
    "source": "Reuters",
@@ -382,15 +388,9 @@
   },
   {
    "title": "アップルで1週間に2度のサインイン障害―11月17日は社内更新が原因と説明",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50RzZuT0ZFb0c2YWRHQ25IZHU5cXIxMGwzR0tnNGZ4bmhoaHR4MmhfSm1hTnNyNlZYOHNXVVhkUHAzV3NuRTdKdTBhR1k2aDVsYWhLUUxxZFBRNE52aDZfejJLWdIBaEFVX3lxTE1wNS1HRVFMNFR4NE5mT2JVU1lXNWwwenVZT2E4azlvOFR5UFJaV3lScGRzN08zWE8wMXdOUTZvaFY3ZWRaZUs2QnRlNGRldE41UVYwRmFMMlhBN0FYMXJHUkJyalJoY1M4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wNS1HRVFMNFR4NE5mT2JVU1lXNWwwenVZT2E4azlvOFR5UFJaV3lScGRzN08zWE8wMXdOUTZvaFY3ZWRaZUs2QnRlNGRldE41UVYwRmFMMlhBN0FYMXJHUkJyalJoY1M40gFoQVVfeXFMTXA1LUdFUUw0VHg0TmZPYlVTWVc1bDB6dVlPYThrOW84VHlQUlpXeVJwZHM3TzNYTzAxd05RNm9oVjdlZFplSzZCdGU0ZGV0TjVRVjBGYUwyWEE3QVgxckdSQnJqUmhjUzg?oc=5",
    "source": "財経新聞",
    "at": "2026-11-19T00:22+09:00"
-  },
-  {
-   "title": "相次ぐ米大規模システム障害、脆弱性急増によるセキュリティパッチ適用の影響か？（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zcFhQVUsxS2ZSZTZoYUQ0aVZSOFlnai1PTmlYRXl2UDMtQ0hFTWg1Y3NnZU4zUk9TVHZVaC1HMDR0Vl9VM1JXMndEYlRsVDFSNU02dDdSZEp1QUlsSGdQLTRNQ2ZWUE5rNWJkeU5HSkhPNVphYWxZaHF0S3A5aUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T22:25+09:00"
   },
   {
    "title": "国際アイスホッケー連盟にサイバー攻撃 公式サイトにロシア選手の写真 文言に「ロシアと対戦するのが怖いのか？」",
@@ -415,6 +415,12 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ldU0zVlhCMmhBcEdoZ3A3V2YzQ0tDUUF4MUtRLU5UcXMxQmtQdU5rVTlqeVJBWVNtNlU3UjB4dWFpTXlLRmU4WWc3SHVBZUFlOVBETGN4Z3Q5OFhIUmw1YlVRWFNRUGNKYUpIVDIwU0Y?oc=5",
    "source": "Publickey",
    "at": "2026-11-18T23:08+09:00"
+  },
+  {
+   "title": "J1鹿島 顧客情報4万人流出 配送委託業者に不正アクセス（茨城新聞クロスアイ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlNlRjOVlucTJBbVRWeVg5QmhMZXhhbTdEbG1DczN6UEs4TkxKTzFWRGUzUEJUcmRyYzVncVd3d2JnM3hZeTBOaWN6a2p3aXlVZGluODJqMmpITFF3UGNQUU9xM0gtczl0NFN4a2ZnV2RTU2RjMnluLUh1UGV1Zm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T22:36+09:00"
   },
   {
    "title": "サービス受託企業への不正アクセスで漏えい拡大…三菱ＵＦＪ銀行６５０万件、ＤＨＣ１９１１万件など",
@@ -457,12 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vcXE2OWRvTGNCbjVxcnViYkplcDFPSFQxRmdTNnBEVFh2UlpwQjY5cmtJM2tEbUg1TGlJclFwT3k0TnlnTXZKeGVHbVd0OEpsRS1rUlZZNjYzX2xubzh4YnJOTW1mbXBaSGk1SW4wcFNUU29mbk1IZENvbFLSAYIBQVVfeXFMT3p3TC1RRjJfRWk2RTdjNzBXZllBTWc2ZWgwNUdBRDhkT1BhRG9fbHVBQmpCUFFPVF8xYnNoWFR5WkU2eWdEWmpQdmxQY1V5TEIxbmxQMERoRFlSVjRSbF8xMHJYTUV3Z0x5bGRkMlY0djRoMGRPX1JDR1hsRTZMWDVodw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-18T21:56+09:00"
-  },
-  {
-   "title": "三菱UFJ系2社で顧客情報流出、KARTE不正アクセスで証券口座番号6万件",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNmJtZGJ2WXpSQTYyT29fSER6dmVlNHBENmMzcUpTZFR2TW5QYnVlNXZJUkdwdDhiM01PaUNPdE1KbUVSR1U3eHk4NzVkcmxBMGw3eS11SFhlMW1Rdk9SMWRkb0trTHFfSGk3aU9UYWlpQjl0?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-18T21:55+09:00"
   }
  ],
  "osaka": [],
@@ -475,17 +475,24 @@
    "topic": "ロシア"
   },
   {
-   "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-19T01:05+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米中ロ首脳会談控え…ウクライナ、「プーチンの自尊心」クリミア大橋破壊",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk9xOWczNDVlbWhDcFFGSGRELWpnclBGNFVXbUpBelMyTnNaRm1JU0pfVEhVcDVfNnN6Z3g2QjdVTy14N0ltWm50czFLV1AyR2NOLW5hbVlOWWVrajUtN3ZyV3JxNVNpX1ptSVFpZ3pNemNUZjBmdTg0V1ZiRVV1SC14VWs5czd0?oc=5",
    "source": "조선일보",
    "at": "2026-11-19T00:45+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-18T23:40+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1l2SFoxalU1SlQ5dFJxMTBlYTdNeC1RalRtcTRsZVdtcF9sTld5OXdyOTFFQTlNaWZTWjRpWUstM2R0UWs3VnpnaU93Nk00SERiMFFxVXVLQUdWRWZkOUVEdjZaRU5hSXdKNTlIZWF3d0FyV1BoUlFHNkpTTEN6N2VkS0VjM2g2aVp6edIBkgFBVV95cUxPUHFXNDh2SHR0ek9ORWlZVXdoSEJiMHdWUjRfdHZuUjFHNm9mS2VXYy1iRmpvT1dEQWZZQkFRUXFNYjZyQUgza0pjWk5fd1l1UHlveEhDUHA4STRHbTVxZTl6Sm1TWEdxN0Rkd3dORDJ4endtV2F0S2tIaHRlaWY5SjdZS01jV0ZLV1lsVHNzZ1F3QQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-18T23:40+09:00",
    "topic": "ロシア"
   },
   {
@@ -566,13 +573,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "第105国境警備隊のパイロットが、ロシア軍の砲兵装備やドローン、装備を攻撃",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GaHF6amJkQXp0RWJRUFJrNkdVdUh2Qzl1aXJxYkpjUTdfTFVOMHlvLWo0UTJ5RWhjQlJRUUZQSlpvNW1EYVRJNk93Ql81NFNTV0Z1WVRjV0dvQWNfNExSVFBuUzZqb0Q4?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-18T19:26+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "欧州の学校に偽爆破予告メールが連鎖 イタリアで避難措置、1カ月で8000件超 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JLXB1OE1sUkRGSW5Bc2ZDeWwwelg4S3NLMXRQWmJFOTRXRmJkZU9zYnJlZXBrNFFacWR6RFJNcE9TamdyZ1VQT0xrQUY4OHdSVXdKeVBlbDRRS0xrbUpMYXp6VQ?oc=5",
    "source": "재경일보",
@@ -627,7 +627,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」4件",
+    "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
