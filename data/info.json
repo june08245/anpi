@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:00+09:00",
+ "updated": "2026-11-18T12:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "焦点：「相手の譲歩」待ちの米国とイラン、外交打開見えず再衝突リスクも",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-18T11:57+09:00"
+    },
+    {
      "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CN0E4WXY4YVZUZjQtdmt0SlRqYzRJT0JlMnVZRHVlZmtmTV9nUG9WTkhTTWdCc0ZjZDFWMzlNSTQxRThoRGg5ZEo2anU3VzRNSl9ZT1JFMlA3eTR4OE9zVndiTVlWR042UDc4UTY2SQ?oc=5",
      "source": "Excite エキサイト",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aRVVkWmFCRVZiQ1FRSmtIZFdXUW15WGE4S1VFd2tqT0pjWUcxczJhd3hjTjRaVWNsNkszTlhFNzZVMy1QWEF0aFVuS09UN3Vh?oc=5",
      "source": "CNN",
      "at": "2026-11-18T09:35+09:00"
-    },
-    {
-     "title": "米軍がイラン・ケシム島攻撃＝革命防衛隊ミサイル施設に報復",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9laFgwTUstX2RvYnlaTTYzam1CQjBuQmZSRFZRTkVHTjlhNlpNVGp5TnV0M2N4RUJmMHhrVlBtOXh1RWdBdS1EeVBFcDdkUVdlWHBrc0plZ1AyTDdrMVVV?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-18T09:21+09:00"
     }
    ]
   },
@@ -356,9 +356,9 @@
  ],
  "japan": [
   {
-   "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏　軍はクルスク州のミサイル部隊を攻撃",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkFoMFdkbHZYUEp5ZXFjTEtnODcyNnBpdHdORkhyWTliRF83bGlHSTN0M1VHLXNQSDQ4RXM3ZTBTbElhRFV1OUI0VUhyMGpXNzRPZnI4MmN6aGlxNnplNmFPTmcyQ3BheGxDRHRGRE1JaUdCUGdfRGlMNldhMTBBY3gxcWdCdnVNNU9WdXcyNVdFMFpjQ1RKbXR6cDlud2lvSURLRndPMHp5bjdXcHRIcnZEajZKcVJNcW9CZFJ4Q0twa1J5QjcySm80X3ZhQdIBfEFVX3lxTE8xQVdVaE12M0k0emVCSUFyN0NycGJsTGg4RlRZN3ZLZ0JxU3RxUk1LM1FxYjdQbkxJVThTRy1LZ1hxaFJvZFFEcHRPUGVBZVRtSHUyazVkV09xNHVHdU5pWV95TFh5WVVETktzWFNfSEs1bnA2aWdZY2xLWkQ?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍はクルスク州のミサイル部隊を攻撃 (2026年11月18日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iUkw5UEkxOC10RDBuYUR5QnBleGlQMkFwTDJoaHZoNUMyMGxjMkFTLVdOUHoxQTJIODNwTm52Yk14M21wbFE3X2dJSzI1TzdkcG5YejBuOWxIOG9US1E?oc=5",
+   "source": "ライブドアニュース",
    "at": "2026-11-18T10:11+09:00"
   },
   {
@@ -394,12 +394,6 @@
    "at": "2026-11-18T11:25+09:00"
   },
   {
-   "title": "米システム障害、政府機関にも波及 トランプ氏「問題ない」（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCU21EN1hycUo5anYtdzlfTWJqSjhhS2dyQUFlUXhIRjVyek5wMFpwM0FVb1NqVmlNVks1NFhjeW9IOXRMSFBQNHR5aFJNdXpWbDJKUEpOT3lONjRiaG45eWc5X3RGOW5ybW4tNFFEUUJkNVlnUFlyQ1pqekZpeEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T11:15+09:00"
-  },
-  {
    "title": "iCloudやApp Storeなど複数のAppleサービスで障害が発生",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5meTVudlYtWXc0LUp0S3V0cXFTTVBwVGJlNVlEODhXSWw2dWc2RXlYVGVrbkwxOXE2Nk1kd1dQeFpReGd1UTNfY3BHSHZvZGxOMVA4OVZFZkp2Zw?oc=5",
    "source": "GIGAZINE",
@@ -430,10 +424,34 @@
    "at": "2026-11-18T09:24+09:00"
   },
   {
+   "title": "米システム障害、政府機関にも波及 トランプ氏「問題ない」",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xMmh3YmNzSktqMG1HVTlBYmZxVm1ZREhiVS1YOXlndDV5eWpPQTlibnVaWDI3VjZtcTliTHlGRlJ3ODlHOXBqZEUxcHhwT0NNazdTXzc2V1Y4QQ?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-18T09:21+09:00"
+  },
+  {
    "title": "アップルで一時システム障害 iPhone利用者アカウントにログインできず 「社内システムのアップデートが原因」",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRjNqZ1c3SktmQXExZ3pUd1pMcW1YTFhuLV9nNmlkYldINXVGbnZtdnFVREFpOEF1Z3hnSnM3cG5QaDQ0dWV2dmZXeXZkZ2JTd19QRVRlMUpYZ25wbU9fVXI0Vzg4bmZzNmgyOFFhMzVCX0cwWVlXcEQxeUtjV1VXZA?oc=5",
    "source": "UQライフ",
    "at": "2026-11-18T09:16+09:00"
+  },
+  {
+   "title": "標的選定からわずか3時間で侵入、AIを悪用したサイバー攻撃にFBIが警告",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uXzBZYzJyMWF3NlFUZmdPNkZ6Yy1tZFh0YzE2cG95WlR1ZUswV2ljemdNcjJCOHJvQ091dUdBWFJjT0EyTUhLUGs1R0tSeFEtaGc?oc=5",
+   "source": "CNET Japan",
+   "at": "2026-11-18T12:05+09:00"
+  },
+  {
+   "title": "グーグルが最新サイバー防御AIを日本政府に早期提供 無償の脆弱性診断も",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yeTNxMDJQQms0czBoLVFCUVZjd2lrMElQcHlkYS1TY0VQM3VmZ191bUp6eGtNU2RJM0dpcnRQTjlSOGQtZm85Mm43c3RyeEU?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-18T12:00+09:00"
+  },
+  {
+   "title": "「JINS」最大約1829万件漏えいの可能性 RIZAPやしまむらも……「KARTE」不正アクセスの影響広がる（ITmedia NEWS）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRkZuaEJXeW1pYThFLXRja2xWZkwwRXVMV3JOc080S0tqX29VUWVjWFZZdDI0TzBWcUk4VWhUWmphdVZFNDJFX1o1V0JhQlBnLTd3bVl0TVh3LWVhbWtaQUtkTU5aV2lpWGtzM0VWaFpzUGJfNDJQT1ctekxLRTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T11:53+09:00"
   },
   {
    "title": "性犯罪歴を照会「日本版DBS」に不正アクセスの恐れある脆弱性 解消めど立たず システム稼働は来年以降に延期へ",
@@ -452,28 +470,17 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ1ZNSTI4NmMwYWdmSUg2TG9zWXJxVmh4NnpwS1YzUnBvNk1zUEV1dUdGVWJya2xfbks0OE5QRDlrYktxaElXRWQ0X1U0NnhtZjh1d1RKY3JjSWJfX0NWU1F0a3lyUzI2bDVPaWVOQUc5eXVqRkZ5dXFsNl9uU3hPWUI0alJhckE?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-18T11:19+09:00"
-  },
-  {
-   "title": "川中醤油、メールアドレス13,233件が流出 「アララメッセージ」への不正アクセスが通販利用者に波及",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGEtQV9XLWgxQ3JDdEpWY2dXbFRiSkNHOGhrMjZRcFhkTmRvMFpnMTYtNkVVRnpyYlVWZ2RZY19sbDlOZk1FaXNpVDllM1pWRHZ6SC1XSkswakZMVE9WSGJBenA3NUdCNElEaFU5RmFJMVNOd1ZsQzdHcHpwZ1pWQmxURmFkWVdLdktRb2hEWDY5U3JYb05lXw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T11:15+09:00"
-  },
-  {
-   "title": "札幌ステラプレイス・アピアのクリスマス抽選会が中止 委託先システムへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3d2SjVkS25HTWRWMHF1bHgzWEVKU3lnUk45ZEZJTDlWOHU2bmdKZnZvS0hrTlFTTzcxcGFYU2lIQmtENmtPMV9fcW40dlhKZnR1Q24wTTROc2N4cUQ2NnRzTWt6b0VlM1E2LWQ5WklEaHhIeERtVFlGbEZDSFNHdURBMUtHeFAtbXVHclY1TXZzVk53MGVXc2g4N2l5TDVCckpqZzZPSUhEVHlNREhVcA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-18T11:15+09:00"
-  },
-  {
-   "title": "フランフラン、会員情報漏洩か 委託先への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0ZWpaWjV4ZWdLWWU5ancxTHhNUF85THZjODhrTTFhMWlva0ZUckFZT2d3MTVFeW4tQmxIMGxmTGxrd2VzcmxKMkMzYmFqUmxHVndoQkc4VDVTSmx4OHlKSC1hektjeS15Y1VYRA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-18T11:08+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "焦点：「相手の譲歩」待ちの米国とイラン、外交打開見えず再衝突リスクも",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlVaXzh0MFBLbG9RMEY3OVBESUdEYzdDV1ZSYllLN3Rvam1QbGxlZDRIcVo3NVVKQURqVlpJbXF0bFpPV2dsR0oxRnhLYV9rdGczTGx3VTB4djIwczltMjNveXpXb1c2b2E0Y2lGbGpINnZ3ZGpOaVFzUmtlSTNSMjVrek1kQmZVR1FCbUVqeXVBUQ?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-18T11:57+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CN0E4WXY4YVZUZjQtdmt0SlRqYzRJT0JlMnVZRHVlZmtmTV9nUG9WTkhTTWdCc0ZjZDFWMzlNSTQxRThoRGg5ZEo2anU3VzRNSl9ZT1JFMlA3eTR4OE9zVndiTVlWR042UDc4UTY2SQ?oc=5",
@@ -580,13 +587,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米軍がイラン・ケシム島攻撃＝革命防衛隊ミサイル施設に報復",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9laFgwTUstX2RvYnlaTTYzam1CQjBuQmZSRFZRTkVHTjlhNlpNVGp5TnV0M2N4RUJmMHhrVlBtOXh1RWdBdS1EeVBFcDdkUVdlWHBrc0plZ1AyTDdrMVVV?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-18T09:21+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ロシア外相、フランス兵のウクライナ派遣を「戦争への直接参加」と非難",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aaVJWeGgyaEpybmhueDBlYXlwM3FsdkQ0M2lqWmVVYnVFcXZOazFWdVJlNkxNOUJOdUlFY3NaTXpyWkVNUW1peGZoS3QyT1FhUFHSAVRBVV95cUxPc0JtckhzR1BlaTl3ZE9kaUpsV1JDbG1XSnF1bmxnOWxnU2dHZUpUNE1YRVdWLVQzTXJ2TXhRUXZKM0tDU21BUjBXZjhKczZZRHZyQTU?oc=5",
    "source": "AFPBB News",
@@ -625,13 +625,13 @@
   "japan": {
    "level": "yellow",
    "reasons": [
-    "弾道ミサイルの報道（「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏　軍）"
+    "弾道ミサイルの報道（「北朝鮮がロシアに毎月弾道ミサイル数十発」ゼレンスキー氏 軍）"
    ]
   },
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「空爆」6件",
+    "イラン・アメリカ：「攻撃」「空爆」5件",
     "中国・台湾：「封鎖」1件",
     "北朝鮮：「攻撃」「ミサイル」2件",
     "ロシア：「攻撃」「ミサイル」4件",
