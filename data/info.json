@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:15+09:00",
+ "updated": "2026-11-19T03:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,56 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T03:22:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T03:20:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T03:19:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T03:15:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T03:13:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T03:10:00+09:00",
    "place": "宮城県沖",
@@ -45,56 +95,6 @@
    "at": "2026-11-19T02:48:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T02:46:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.1",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T02:42:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T02:38:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T02:36:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.7",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震度速報"
-  },
-  {
-   "at": "2026-11-19T02:35:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.6",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -252,12 +252,6 @@
      "at": "2026-11-18T23:40+09:00"
     },
     {
-     "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1l2SFoxalU1SlQ5dFJxMTBlYTdNeC1RalRtcTRsZVdtcF9sTld5OXdyOTFFQTlNaWZTWjRpWUstM2R0UWs3VnpnaU93Nk00SERiMFFxVXVLQUdWRWZkOUVEdjZaRU5hSXdKNTlIZWF3d0FyV1BoUlFHNkpTTEN6N2VkS0VjM2g2aVp6edIBkgFBVV95cUxPUHFXNDh2SHR0ek9ORWlZVXdoSEJiMHdWUjRfdHZuUjFHNm9mS2VXYy1iRmpvT1dEQWZZQkFRUXFNYjZyQUgza0pjWk5fd1l1UHlveEhDUHA4STRHbTVxZTl6Sm1TWEdxN0Rkd3dORDJ4endtV2F0S2tIaHRlaWY5SjdZS01jV0ZLV1lsVHNzZ1F3QQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-18T23:40+09:00"
-    },
-    {
      "title": "ロシア軍の弾道ミサイル攻撃を受けたキーウの橋の通行、一時再開",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2RXMTNBd2NmWDRjMGNURmRXcmNnam9kbHBLWldwdWw3Q3VUYU1JUGZfMFdUVTYxMF91RWZ2WTB1N1I4YmhxN0lUcEREVngwMzQzVDlQN0VaMTQ3RDRMRi1yU0Z5VF9WZE1POG9vdnFWYmdzTFBZckVaMVpXNTlRZnd2RnQ5Q25WYUh3dFlUZmRzbzIyZGFyOFNtb3VYdTNIcVlqYS1udXB4UnZheHYzY2hMTUU1aFpYVG9HNDloMFQxZ1R6WHVoX2dTcU9PNTk2YWfSAdcBQVVfeXFMTXA5QUNYbkZsTFViZzRWellZNmVPeEhvVnY1ZnNzYjRpcHAySDNaRU5xWUI1WnA1VWFyNlc4UnRoSkdUMkJvdnN2Um9xT1N1S18zcHA0dlQ4dzlmQVhLUXYxOEZNdy1LRG5Vc2dydFBpN05LMjdfcXQ3bkFTOEtPbDdEYjVpM0NSUEsyVkRWY3EzdFpMWDNvU0hFMzZCMjQwbFUzMkVBNlNXQlRncXRTYUIwZXVRRnJNVWQ0YWVnUzhfNnNpSmljZ2dCaXhjR0VRMEVSbldLaEk?oc=5",
      "source": "ウクルインフォルム通信",
@@ -268,6 +262,12 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblJDMUpCWmlkOUxXOHd2MlgzWDdYM1hLU09GSjljZ2NNYjViN1A0eDRibVdZZkcyTHB4OUFrd1pxYWlPZl9HWlVlck5idTZkSGZ1cnlXWjRncGcta21fTnFjY3BRaGZIdHlZOVhQYVhkWmw3Zkx4OWMyTmVCVHZXWFlBaG9jOUhQanFMWldGV21YZjhkQTk5eGQwb3dhS2JZLW1SUHdOYUVxVmpOSGV3RzdlSHBIUdIBuwFBVV95cUxQZHo0bXYyTlBjTWwtaVZqbEF6T0RLeFlrSmNtZkw2TjhCX1FMT2d4bnRNMW51ZHBvQnpHNzhZd0IxSWNMZTBqaXBkWlNwS29UaUdiWUh4V1otSjVZWE9VeUZRdTVuTWxQR2IwM1p4cE16T0h5X3dnR1pUSC1oNEExelFaV3NkcFRTZS1WYzI2TWhhdXRaRzBpUUJULVRTekxlRVJIY1l3dExVMGRMRzhmZU5HWHdGNWJ6MFpz?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-18T20:51+09:00"
+    },
+    {
+     "title": "ロシア軍がNaftogazの施設を2州で攻撃",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbktNcHZDalR0SmxlWUZfS0pBaWpBSl9qUXlxd1A2X1hka2h0VE9fVmpUcHB5TlJvNWtseHlBdlh6YmtnX1VPN1Y3N2owdFktOEtfZlplLUtSMHNPUVp6X3JxUFNsTWNHa0M4MjdzSUhNWlZTT3YyUEl1dUs2TjNlTVk5Y2JUWXNjQk1xU2doY084SnJvTElkQVlmWkhoTXZsa1dtM0tfMA?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-18T19:58+09:00"
     }
    ]
   },
@@ -375,12 +375,6 @@
  ],
  "cyber": [
   {
-   "title": "イラン、米重要インフラを標的に－技術障害には関与せずと米当局者",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DaEotVlFWNmtQejdsOGtPRWZ5NE5zMEdkdTBJNk91UHhJU25jYmZPUEdBVHdHOHA1WUpsTERDTnUyRzNaMjJZZUJPU28wZmN0SHZ0STc1aFdST1JvTGVPa2tzVdIBaEFVX3lxTE9oQ0lCSHdKcWpfanRqQkZrcnF2eUoxMmtxZDBCN0t4VFBUUW4tWlRoZHgxT0xyTThmY01NRWRGeVZiRzFJYlFUazRNYUtYXzJiRHJ1ZFdKdkM4c2NwTmN6a1ZvRDZZQjFC?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-19T02:15+09:00"
-  },
-  {
    "title": "米で相次ぐシステム障害、「組織的・国家関与の攻撃ではない」＝国家情報長官",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1REYndvVC1HV08tX2ZQMFF2Y3JHRkpZZENCODF6ek9LWEh4VmktQXA3UzNCZXdWRjZubUc2c3V3b1Q1VkhZVVQxanlXczFWU1RUQzUtUWhvdFNmQ3JEMnUyTVJxbmVVMWQ1SkxheVJDMzBxeGZOUjdkLXNHVUtHeWh3RmtNWUU?oc=5",
    "source": "Reuters",
@@ -454,15 +448,21 @@
   },
   {
    "title": "理研が警察に被害報告 「富岳」への不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOc3dDdEhXRkE3dzBlVHdpcU50VjgwVGpvYVlXU3hsaHl2ajVYSW5UcEN0YVNyUWxNdlBEdWFCVldST29JTm56d1Q0QnJpend6LVRmUURjRUllQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-18T21:57+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FMW1WYi0yOWozZTdDUjFEV1JrOW5DdTFlLTVDSU90MDY5WEktbEhHcEdncDhxc08xdWhjd05SZ3diUG93TUU3bXVxUQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-18T21:59+09:00"
   },
   {
    "title": "大崎電気、スマートメーター生産停止＝サイバー攻撃で",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vcXE2OWRvTGNCbjVxcnViYkplcDFPSFQxRmdTNnBEVFh2UlpwQjY5cmtJM2tEbUg1TGlJclFwT3k0TnlnTXZKeGVHbVd0OEpsRS1rUlZZNjYzX2xubzh4YnJOTW1mbXBaSGk1SW4wcFNUU29mbk1IZENvbFLSAYIBQVVfeXFMT3p3TC1RRjJfRWk2RTdjNzBXZllBTWc2ZWgwNUdBRDhkT1BhRG9fbHVBQmpCUFFPVF8xYnNoWFR5WkU2eWdEWmpQdmxQY1V5TEIxbmxQMERoRFlSVjRSbF8xMHJYTUV3Z0x5bGRkMlY0djRoMGRPX1JDR1hsRTZMWDVodw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-18T21:56+09:00"
+  },
+  {
+   "title": "三菱UFJ系2社で顧客情報流出、KARTE不正アクセスで証券口座番号6万件",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiNmJtZGJ2WXpSQTYyT29fSER6dmVlNHBENmMzcUpTZFR2TW5QYnVlNXZJUkdwdDhiM01PaUNPdE1KbUVSR1U3eHk4NzVkcmxBMGw3eS11SFhlMW1Rdk9SMWRkb0trTHFfSGk3aU9UYWlpQjl0?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-18T21:55+09:00"
   }
  ],
  "osaka": [],
@@ -485,13 +485,6 @@
    "title": "高市首相がプーチン大統領と３０分対話、拘束記者の解放主張…ウクライナ侵略開始後初めて日露首脳が直接対話",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wWFZBVUI1UUlrQWxZZlRkUjhRSzN5SldESUVjU0RWTHNNelhVRTZLeTlVdmUzZnpzNXJSOFhnSjFFTEJJRGhlRDBFaW0xcmExcDhJQWRkN1NubUFtWjZ4NmtJSm9oQQ?oc=5",
    "source": "読売新聞",
-   "at": "2026-11-18T23:40+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "高市首相、プーチン大統領と立ち話…ウクライナ侵略開始後初めて日露首脳が直接対話",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1l2SFoxalU1SlQ5dFJxMTBlYTdNeC1RalRtcTRsZVdtcF9sTld5OXdyOTFFQTlNaWZTWjRpWUstM2R0UWs3VnpnaU93Nk00SERiMFFxVXVLQUdWRWZkOUVEdjZaRU5hSXdKNTlIZWF3d0FyV1BoUlFHNkpTTEN6N2VkS0VjM2g2aVp6edIBkgFBVV95cUxPUHFXNDh2SHR0ek9ORWlZVXdoSEJiMHdWUjRfdHZuUjFHNm9mS2VXYy1iRmpvT1dEQWZZQkFRUXFNYjZyQUgza0pjWk5fd1l1UHlveEhDUHA4STRHbTVxZTl6Sm1TWEdxN0Rkd3dORDJ4endtV2F0S2tIaHRlaWY5SjdZS01jV0ZLV1lsVHNzZ1F3QQ?oc=5",
-   "source": "ｄメニューニュース",
    "at": "2026-11-18T23:40+09:00",
    "topic": "ロシア"
   },
@@ -566,6 +559,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ロシア軍がNaftogazの施設を2州で攻撃",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbktNcHZDalR0SmxlWUZfS0pBaWpBSl9qUXlxd1A2X1hka2h0VE9fVmpUcHB5TlJvNWtseHlBdlh6YmtnX1VPN1Y3N2owdFktOEtfZlplLUtSMHNPUVp6X3JxUFNsTWNHa0M4MjdzSUhNWlZTT3YyUEl1dUs2TjNlTVk5Y2JUWXNjQk1xU2doY084SnJvTElkQVlmWkhoTXZsa1dtM0tfMA?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-18T19:58+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "イラン、湾岸諸国の米軍基地を攻撃 外交努力よそに応酬激化 クウェート攻撃は9月以来",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZVUhTM2Jtemt4QmhZeE1nLXN6dEtpS1NuY05mU096czlWRTBXaXU0bTRhWTB0WDhYdjRGSTJNSVVzbWh4YUNPaVdCZ1F5bTNlcmJfejltbDdsZw?oc=5",
    "source": "ニューズウィーク日本版",
@@ -626,7 +626,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
     "中国・台湾：「封鎖」1件",
-    "ロシア：「攻撃」「ミサイル」3件",
+    "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
