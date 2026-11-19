@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:15+09:00",
+ "updated": "2026-11-19T11:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T11:15:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T10:34:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -90,16 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T06:41:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.8",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -126,12 +126,6 @@
      "at": "2026-11-19T10:06+09:00"
     },
     {
-     "title": "米国とイスラエル軍高官、対イランで対応協議：時事ドットコム",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Gc18xRWczb3FOU1RHTW9QQ0Y2MV9vTGhUb09RWWNOQW0tWGxnSTlnTUQ5dzBVMjlCeXdnYkdZUmlHYThsSmF3cVJKX2wzUUozVjVKMUhyWWE4Mm96VHFQOGtsVQ?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-19T09:18+09:00"
-    },
-    {
      "title": "イランが「ダーティ爆弾」による攻撃を計画か？トランプ大統領が警告",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oNUtJNnpJMXoyOXQ5OEVqYTdCcWhiVndtUHo2Qm82VkpvV2l0VHdkWHFoNnVhd0ptdnc5dngzajJXTGtGdjFweW92SjY4WjBra2s3MHVweXM?oc=5",
      "source": "Switch news",
@@ -142,6 +136,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zT09CSXozRzEyWlhDdGxCSlBZLVdVc2NVaWN2ZGVNYVRJbWx6TGczNVRIY0JOVnZrYnIwYldZWXJwUlZNcHdkNTlSbHlxSnViZmsxMnhvUGFjeXJBNXVBc3hrMExMS0o4SFUtd0JoSzVjX21nQUthS3ItaFJIZnc?oc=5",
      "source": "Reuters",
      "at": "2026-11-19T08:27+09:00"
+    },
+    {
+     "title": "対イランで対応協議＝米イスラエル軍高官が会談",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdkdsbGVqZEpaUjBFRlZxVHlFTnVYaUNFQ3gtS1hTMl9yMmNSTEVYbnh2WDlpNUxPT256OUU4YmZXUTNZMVdVVzNXWmVYQmJkLUY2UThmaUI1S0NMRV96MFhDM1ZKVU5uUm55akRiY2VqSFJsNnRwX9IBfkFVX3lxTE1iWE9TV20yVndnU2ItMklEQWhwMnV0OXpsNDN4NE5JQjBnRzBGdWxmY2Q4WGkyUDNGSVF4ZTI5ak8zQVlFQ0plY2gydWRqWjJ0ZkVnSjFteE00NGZpd0xZY0FIYXNsQWxYR1lURGhwSktZTkVNc1o2d3ZZN3Vudw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T07:13+09:00"
     }
    ]
   },
@@ -180,9 +180,9 @@
      "at": "2026-11-18T18:28+09:00"
     },
     {
-     "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUxLTzEySUNlMW9XWlluVmRSb2FBcGJReGhwNlVZRi1yUzVURXBFcjlXSV9DYmx3bllNR0tqbXoxTWVzMENHU01DbElmS2dTamxRZjdZaUUtMm1JNkVPM3lvN010YVd6d3BEOHhiNVFZMzJJWWphS1Jhb1FzT1RNdG1NbGs?oc=5",
-     "source": "Reuters",
+     "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UzJvMjJxSzhIX3hDVUN1YlZHUjh1YVFIbjFMbnEzako2QjQ1QmJSU2duM1ZpSG9yTzluRkFHcG9Vdk44cFVDd3Q1RVFYM2p3Y3BxcnIxSEVtaDNMUlBnVUJ3NV9qZG5PX2EzTnhHUHFnbUlvUmVldHZsc3E2SE0?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-18T14:36+09:00"
     }
    ]
@@ -191,6 +191,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "共に民主党のキム·ミンソク代表がドナルド·トランプ米国大統領との過去の面談で北朝鮮の元山葛麻海岸観光地が議題に上がったとし「北米間に非常に相互関心がありうる領域という次元で話が出てきて、それに対する非..",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IRjY5bEZnM2FGYUV1b09NLVM0aThxR0V6NGItcjcwZkVDdWVQUzFRZGpQbWpFejBnd01YZGttMm5wdzdxWTMtRXlrMkY0YVR6X0xv?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-19T11:12+09:00"
+    },
     {
      "title": "故金正日総書記の母の名を冠した金正淑海軍大学を訪れた北朝鮮の金正恩朝鮮労働党総書記＝18日、北朝鮮東部・咸鏡南道咸興（朝鮮中央通信＝共同）",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IOEhqQy1LZTk1TmI0VTNLM1hSYk5RMUxzb3k4UnVBc3hoNER1U3gxZ1B6TjA1aU96ZXpzTldtRHpERXBDNDVUdTVVeDBfME9OVExSVVZFbw?oc=5",
@@ -220,12 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZQ29BZlNrVG55WEZrVHY3OVZ4LXhFTERsaDBPYXFlc0MtYjNsbl9ZMHZFSTAtbGZpVld0U2tZa3o2Qk1ZTEpCRmtDTGZJZ3Z3bkw5MTlIS3J1WENRejhNeEwxaGtYQmVTZGtqcl9QQU8wdXlFT3B5OVk4YjRvZzA?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-19T09:11+09:00"
-    },
-    {
-     "title": "金正恩氏が海軍大学を視察「奸悪な敵と対峙」 トランプ氏に言及せず",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcFdQV3VKZmR1elRWRzdPZ3prcU9oSGpqNk9TdTNFYmdiY3JkRDZlbWhUVmpqbzdlRmhNME9vRGR3V1htdlAwenJjSGVjSXNKNDhmaDgwUlVOZ01wVGVzUlJ2NmhvaWY3TUp6Mw?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-19T08:53+09:00"
     }
    ]
   },
@@ -264,10 +264,10 @@
      "at": "2026-11-19T08:30+09:00"
     },
     {
-     "title": "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Nem1IaWF3QnJ0ZUt1SXYyb29wQ1pEMkpHemx6b3dxVEV1LW80NkRIaVk2QWtVWjhXLTNFMk9vRVVIclE5V3NjN01QYWNFMDhJ?oc=5",
-     "source": "CNN",
-     "at": "2026-11-19T08:19+09:00"
+     "title": "米ロ首脳の本格会談予定なし、19日に米中ロ3者会談＝ロシア大統領報道官",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDY1dGZTSmdRWDBDQnF6UEpFT1VkUW01YkstbWJBdmFKQjNGclFGaEJZTUc1RjF3VW5BaDQzaVRFS3JOa2haU0hKWjlzN2lOd3NKY0R5cDFtbjFYVm82c1MwU1FFaVQ3TEZ4ZWp4Q0ZOd3lsa1NGUnptLVUwRW9ZNUphLXlJZw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-19T08:24+09:00"
     }
    ]
   },
@@ -300,16 +300,16 @@
      "at": "2026-11-18T21:50+09:00"
     },
     {
+     "title": "EU、ウクライナとの戦争でロシアに化学兵器の使用停止を要求",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WLXJ6aXp4ZEYzamFkc3lHZFdwTE9pN3NrOGN0TkJLYzdXOWF2akdQb3lYWm1JSlJET05PSGdHTVZlek9iV2tJUDBSTkVoWnl2eFd3OVhWWmM4Z283Z2JnakVwZEJqbEFq?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-18T20:19+09:00"
+    },
+    {
      "title": "欧州の学校に偽爆破予告メールが連鎖 イタリアで避難措置、1カ月で8000件超 : 国際 : 財経日報",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JLXB1OE1sUkRGSW5Bc2ZDeWwwelg4S3NLMXRQWmJFOTRXRmJkZU9zYnJlZXBrNFFacWR6RFJNcE9TamdyZ1VQT0xrQUY4OHdSVXdKeVBlbDRRS0xrbUpMYXp6VQ?oc=5",
      "source": "재경일보",
      "at": "2026-11-18T19:02+09:00"
-    },
-    {
-     "title": "中国国防相が18年ぶり訪伊、軍事対話で欧州との関係改善模索",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEltTFNqZWJxS3pDTjlVZmxWTnkxaW5TMDdLZUM4UUNzaGE2c3d1LTdJSEZaeXZrcEJkbUwwdUU4eWdseDNhaS1ESWNqMlZfX05rR1JVNk5RXzBxekVBaGNSdW1fdmt5Y2NuaDRwNGlLdFZyaXkwQnluMmU5d0R4SmtzU2NyOWZo0gGcAUFVX3lxTE1tSEdDYWU1eldrd0hGS3dha25zVWo2RjAxcllka204UmV2N3VjTl92cUNheHRqc2FhWnhmUFB4TjUyejNKcUdDdUtZdGJ6LVRiYVRwZV9wQ2JqMnBfZ2lPa0g4eGFOWmZITVQwNkw5M2NESlB3VVlDOWx2VG5pR3F4bkdmcW9lZE5MVWN1b1lGMDRRVXYyUDJsa3pwNA?oc=5",
-     "source": "Chosunbiz",
-     "at": "2026-11-18T15:30+09:00"
     }
    ]
   }
@@ -369,10 +369,16 @@
    "at": "2026-11-19T11:00+09:00"
   },
   {
-   "title": "トランプ大統領“組織的な攻撃ではない” 全米の空港や銀行などで相次ぐシステム障害（2026年11月18日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXE4VmdKSEtfOUh4bE45TkdvWWtRem1IenZjLUMxY2l6YjYzSWs2RncwOEdzUVlfUWV5NHBzMTdiNElsVFlXY2M1TFRHNnNLeWJFWi1nd3V1Yl94b1BOZ2NmVlBveFlRTjVidW03LUxkWWx3SWJqS2wxTnV2YndsTXVtSGE?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-19T10:15+09:00"
+   "title": "トランプ大統領“組織的な攻撃ではない” 全米の空港や銀行などで相次ぐシステム障害",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yTFJ4MWdURWZ2RFBGb3VCQlctMENqaE5ILW1qZU9aOEhWb2lWNEs2b3FxUXd2UFExSlJFTGxvU1BRWDBmNk1Zb3pGbGZJRW5CdnVKTHl3NEQ5bHVDd0NXN1AwZzR5NzJqQlU5NEVB?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-19T10:19+09:00"
+  },
+  {
+   "title": "11/19 Zaifカード決済システムの障害のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HQTVXNDJYUTJEZ2VPQmF2NXpuUUZROVRRZ3ZVd2xWVkU4VjBxMWZ5QXZtUmpaZ25wdlE2MkFYdi1HdmE0UEc1QmpwcHZneDZja3hXTjVJMmFEZ09FUWEwWDQtRDRPd9IBZkFVX3lxTE1HQTVXNDJYUTJEZ2VPQmF2NXpuUUZROVRRZ3ZVd2xWVkU4VjBxMWZ5QXZtUmpaZ25wdlE2MkFYdi1HdmE0UEc1QmpwcHZneDZja3hXTjVJMmFEZ09FUWEwWDQtRDRPdw?oc=5",
+   "source": "Zaif",
+   "at": "2026-11-19T10:11+09:00"
   },
   {
    "title": "Cloudflareの障害が示す、サイバーレジリエンスが重要な理由",
@@ -399,10 +405,28 @@
    "at": "2026-11-19T09:30+09:00"
   },
   {
+   "title": "障害者手帳を持つ友人と新幹線で旅行する予定です。障害者割引があるそうですが、早割とどっちがお得なのでしょうか？",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNktJaUxpdWJnNHBYZFJfZW1ZMXhoS25NdzRvTXA3Y0NJTU5Qc09uZUZvY3pnLTJULWYwX3ZYV21SbGVUWlhWT1NYVFZQUzFIZThFVEhPQUhHRERKMkk4OTZyZklaRWxtYTFYVmRyU1ZRRXBLYW9CdEJBbmREQ0xSenRqX0NILXRf?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T09:10+09:00"
+  },
+  {
    "title": "システム障害、今後も相次ぐ恐れ－AIで脆弱性発見・修正が加速",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDllY2toVDBXZHBNbWNCeXZ5dW9GUmo4OExTWTdvN0g5WkJRelZfZVVwVkI2UHU1ZjFMc2V2MmdGel9rdE9UWEJCX2FjdFRZVF9oUnk1UU5KX2JzNGxVQ2V0b24wSUx5bm9nVnNNUmI4N2hyaXhoNnlrYmV6YzlQQ1hGS3VMOUlYZlJSclNB?oc=5",
    "source": "Bloomberg.com",
    "at": "2026-11-19T08:33+09:00"
+  },
+  {
+   "title": "鹿島アントラーズ、4万844人の個人情報漏洩 委託先 オープンロジへの不正アクセス|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0xiWk43Q0hFSzF5Q2JFU1luNE1GWGVIUmJ3WF9LcUQ3N3BlbVpyLUU4ZUdsTnhTMkVKMXJIWE1fb0U1M0pTOTlhMTRkY2lOZVExQ0lua1A0R3Fadk1oMzdrdnEwUEJhQW1tYXJ2V2xHMkRETmhHNEVQdmQ3c243YWQ2WUtUb0xJSk9DYzVqUE9mV21BMWFHblNpajdOZ2pJUmNQc3lB?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T11:15+09:00"
+  },
+  {
+   "title": "Ｊ１・鹿島のオンラインストア利用者などの個人情報４万８４４人分流出…委託先の物流会社に不正アクセス（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84SGt4MWhBakpmYTJxX2U3RWVCYnVJaldVZFN1elVnREtwbW5ZUW1nRHZpdmpTYkVRQi0zU0R2NFdmbEJrdkRCN1MwVWNWS250TmQwXzByUDlzVUdCN0ZzcF85VkFoaVJaVkd0OXh0M2dIN0N6dnNfcVVhaDd0c00?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T11:10+09:00"
   },
   {
    "title": "ヌーラボ「Cacoo」不正アクセス 第二報、流出765件に確定 PayPal請求情報890件・社内調査データ310件にも漏えいのおそれ",
@@ -417,44 +441,27 @@
    "at": "2026-11-19T11:00+09:00"
   },
   {
-   "title": "デイトナ[7228]：（開示事項の経過）メール配信サービスへの不正アクセスに伴う 個人情報漏洩の可能性に関する最終調査結果についてお知らせ 2026年11月19日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTEc2QXYzb1YyMEVpS2NzSjY5dHFZR25PVlNWMkdtQ3drREIzNFlwbGJYNlRwQThHaGdybC1JTndVdzZ2NjNCdVd6TE1HVFd3Q1lBcXpsOUJzSGQzY0RxbkctbngxSmxsUkhFWG92SGJ6a0k4bWp2bGtfRG45bGVlNU1BaUY3ZFJIOVdYM1p2NUw2RUhBcmRVR0tnR3NZRllIMjJRemxTRjNFWmVLOERXeC04V091c1Z3WmdkSDljcnVyZFVfX2xndWFsOXQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-19T11:00+09:00"
-  },
-  {
    "title": "アイロビー株式会社、​サイバー攻撃に備える緊急コンタクトセンターのスタンバイサ​ービス「備えあれば憂い無し」を提供開始",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mc2JsQ2VVOTJSMUEyZ0FtQ1RWNTFlcVlzUGp5OXI3ZDNDaGZ0OThOTW0xYUh4STlSdDV0dTZJMWVBWFdFWkxKVi1WYUVEcjNscU9veTlfYnRLZUhua3VpdFU2QVpxdjUzQVE?oc=5",
    "source": "PR TIMES",
    "at": "2026-11-19T10:50+09:00"
   },
   {
-   "title": "エアークローゼット、顧客5万990名の個人情報が漏えい-委託先のプレイド「KARTE」への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHotT3pYRlRyOWk1aDFoaEhNeXh0ckc0dmNIblR0Tml2RDBYZkFIMjhGU0pOQklmN084M3BqNXJqamlPenZSSnlCbG9vMGZqSTBaVEhjLUZNQmFCOW82dXZtb2V6UTV4S3p3aUVydXVRTnFjZ3oxdFNTdFg3M1A0YmJMNFdrTUQxUkVfSXQzLXYyVzNYUWpuY2Z0bjE?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T10:43+09:00"
-  },
-  {
    "title": "プレイドー急落 不正アクセスによる情報漏えいを引き続き嫌気 トライアル傘下でも被害(トレーダーズ・ウェブ)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkxnSm4ySGxoaG9zYjRPV3loRDNwMEt4RGtQWV9lVmpPcWdFR0M5Umx5emlBQVMtNXU2eFlCQUl2UElwTEhmdC0tM280Qk5UamxOLVF6b19TM2V1WFhfczA2cHI1c3NGT3RCQzA3c0s0U19rMVNLVUFrbE5ac2VwUGFCTGRPeDQ?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-19T10:36+09:00"
-  },
-  {
-   "title": "三菱UFJFG株価6日続落 銀行顧客情報650万件漏洩、不正アクセスも",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zaFBldFdfeF92NlhjX3U0Y0RRcEMyZl9ydG80aVhZWUJqaWxSazQ0SWlkang4ZlZJSWhJV09kc01wdkJuVTdZNWJ2LXZUS2RhYWtzM3UyYzgwYUNldTRmQ1V5WkhFdnZkcDhUNA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-19T10:31+09:00"
-  },
-  {
-   "title": "相次ぐ攻撃受け…東京都、中小企業のサイバー対策で緊急会合「取引先への影響懸念」（TOKYO MX）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IY21WNWpZX3VycXhLQ0x3ekpwRmtzQ1oyX0tWMnVwN0c5Z1JrUUtTcTJMLV9CMGJRcTV2b1hDNmJBRnI1X1lnVXUtSkFGaUJMWmNmR1dBQzBzYWNnZFJDcGhwT3NpWGFIRkZyRDdTdkNrR2dXUUpTMFRFb0dRNmc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T10:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "共に民主党のキム·ミンソク代表がドナルド·トランプ米国大統領との過去の面談で北朝鮮の元山葛麻海岸観光地が議題に上がったとし「北米間に非常に相互関心がありうる領域という次元で話が出てきて、それに対する非..",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IRjY5bEZnM2FGYUV1b09NLVM0aThxR0V6NGItcjcwZkVDdWVQUzFRZGpQbWpFejBnd01YZGttMm5wdzdxWTMtRXlrMkY0YVR6X0xv?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-19T11:12+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "米中ロ首脳会談控え…ウクライナ、プーチン大統領肝いりのクリミア大橋破壊（朝鮮日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ROU40LTVYekdiNkNYX19EU3dLdUxsM2tOQ0NiY21GWUd6Vkkxazczb1laY0w3SE1mVnlEY2NPNHlxRnQ4c2pHUngzRG1PcTFQN2llbTY0T3FsU2xoZ2hWRzRXSGl4ZHdrZEFtVHB1czFMUkRLVWpsckYwWWphUDg?oc=5",
@@ -526,13 +533,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米国とイスラエル軍高官、対イランで対応協議：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Gc18xRWczb3FOU1RHTW9QQ0Y2MV9vTGhUb09RWWNOQW0tWGxnSTlnTUQ5dzBVMjlCeXdnYkdZUmlHYThsSmF3cVJKX2wzUUozVjVKMUhyWWE4Mm96VHFQOGtsVQ?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-19T09:18+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZQ29BZlNrVG55WEZrVHY3OVZ4LXhFTERsaDBPYXFlc0MtYjNsbl9ZMHZFSTAtbGZpVld0U2tZa3o2Qk1ZTEpCRmtDTGZJZ3Z3bkw5MTlIS3J1WENRejhNeEwxaGtYQmVTZGtqcl9QQU8wdXlFT3B5OVk4YjRvZzA?oc=5",
    "source": "Yahoo!ニュース",
@@ -552,13 +552,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T09:00+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "金正恩氏が海軍大学を視察「奸悪な敵と対峙」 トランプ氏に言及せず",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcFdQV3VKZmR1elRWRzdPZ3prcU9oSGpqNk9TdTNFYmdiY3JkRDZlbWhUVmpqbzdlRmhNME9vRGR3V1htdlAwenJjSGVjSXNKNDhmaDgwUlVOZ01wVGVzUlJ2NmhvaWY3TUp6Mw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-19T08:53+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "ロシア製油所の処理量、10月下旬以降に半減 ウクライナのドローン攻撃で（ロイター）",
@@ -582,11 +575,18 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Nem1IaWF3QnJ0ZUt1SXYyb29wQ1pEMkpHemx6b3dxVEV1LW80NkRIaVk2QWtVWjhXLTNFMk9vRVVIclE5V3NjN01QYWNFMDhJ?oc=5",
-   "source": "CNN",
-   "at": "2026-11-19T08:19+09:00",
+   "title": "米ロ首脳の本格会談予定なし、19日に米中ロ3者会談＝ロシア大統領報道官",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDY1dGZTSmdRWDBDQnF6UEpFT1VkUW01YkstbWJBdmFKQjNGclFGaEJZTUc1RjF3VW5BaDQzaVRFS3JOa2haU0hKWjlzN2lOd3NKY0R5cDFtbjFYVm82c1MwU1FFaVQ3TEZ4ZWp4Q0ZOd3lsa1NGUnptLVUwRW9ZNUphLXlJZw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-19T08:24+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "対イランで対応協議＝米イスラエル軍高官が会談",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdkdsbGVqZEpaUjBFRlZxVHlFTnVYaUNFQ3gtS1hTMl9yMmNSTEVYbnh2WDlpNUxPT256OUU4YmZXUTNZMVdVVzNXWmVYQmJkLUY2UThmaUI1S0NMRV96MFhDM1ZKVU5uUm55akRiY2VqSFJsNnRwX9IBfkFVX3lxTE1iWE9TV20yVndnU2ItMklEQWhwMnV0OXpsNDN4NE5JQjBnRzBGdWxmY2Q4WGkyUDNGSVF4ZTI5ak8zQVlFQ0plY2gydWRqWjJ0ZkVnSjFteE00NGZpd0xZY0FIYXNsQWxYR1lURGhwSktZTkVNc1o2d3ZZN3Vudw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-19T07:13+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
