@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:00+09:00",
+ "updated": "2026-11-19T17:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T17:05:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T16:53:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -90,16 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T10:34:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -150,6 +150,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVFZSXNSSHBOVTROY1laRVJfdkp3YVJqZEJHeUJYYTk3eEItNlZ3WXIyaWE1LWZ3dEczTW1jZVFtVGZNSFVGLXR5bmNDMUxWYXVxSDZkZFJBbzNqejZRYXROd3g0QzktSFd2THVsS2kxSUltUFFRQ212cTdtcmJJV1JxNzRqTUFmSWZTdnRxWFRLeVFuQkhwZ081ZXM5dmRVZ3hrZXE2ZFd1R2dyZW5SZmdVVDl1a3RzVGxVNHBKWEU3ZVJOc2xVZlE0VXVabDBEaXEw0gGDAUFVX3lxTE10VWN1UjYwQjZhTGZMMzJXNDdSQS12c1pka2NMY1pHRVVqb2lVVnFsUl9ibXhBbmlZN3dCbGxjeG51MFRROUNSRjZjTmMzSFpVcFJ3Tkk0RWtQcS1hb25xblZ2RlRMdmtLM1dqVnB1Z3hSRmZVRVR0S3dveFZXU1JGeFFn?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T16:55+09:00"
+    },
+    {
      "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性 写真3枚 国際ニュース",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXc?oc=5",
      "source": "AFPBB News",
@@ -178,12 +184,6 @@
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDI1Q1NlZlhlYWhlTWtJdmZGbXc3R185d3dnVlJ2T1dPTzEzcUlCbHlRVXFHQndYbFlkQjJEZE5pVmZ1T0ZTZXpjbmxBS2ltaDhDRC1SSzlUaDlHTjNOc29XQXRnOEJnY1c4R1hjTzc4X1NaV2lPNjUtNFg3TEg5dExtbzI2cTQtVHQ3Sg?oc=5",
      "source": "産経ニュース",
      "at": "2026-11-18T22:41+09:00"
-    },
-    {
-     "title": "「第2のヤルタ会談」とも…あす史上初の米中ロ首脳会談へ 中国は“第二次世界大戦の歴史”を強調 「新型軍国主義」批判に日本は？専門家見解（TBS NEWS DIG Powered by JNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aMElvX0JSRVFNb3dsY1IxTDRldkZQWndJeXp5Y1I5UDZudENtRk1SbExLZFVkZ0VyYW5aLU1VaDh5dW5VTzIwNHpSS3BvQnRJdUkyRTBLWXZndEZuNl8zd3JpRlVhWnRTeUZOMm9DU1BNZHl2X2xqcVotaE9FdTg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T18:44+09:00"
     }
    ]
   },
@@ -234,22 +234,22 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVFZSXNSSHBOVTROY1laRVJfdkp3YVJqZEJHeUJYYTk3eEItNlZ3WXIyaWE1LWZ3dEczTW1jZVFtVGZNSFVGLXR5bmNDMUxWYXVxSDZkZFJBbzNqejZRYXROd3g0QzktSFd2THVsS2kxSUltUFFRQ212cTdtcmJJV1JxNzRqTUFmSWZTdnRxWFRLeVFuQkhwZ081ZXM5dmRVZ3hrZXE2ZFd1R2dyZW5SZmdVVDl1a3RzVGxVNHBKWEU3ZVJOc2xVZlE0VXVabDBEaXEw0gGDAUFVX3lxTE10VWN1UjYwQjZhTGZMMzJXNDdSQS12c1pka2NMY1pHRVVqb2lVVnFsUl9ibXhBbmlZN3dCbGxjeG51MFRROUNSRjZjTmMzSFpVcFJ3Tkk0RWtQcS1hb25xblZ2RlRMdmtLM1dqVnB1Z3hSRmZVRVR0S3dveFZXU1JGeFFn?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T16:55+09:00"
+    },
+    {
      "title": "ウクライナがクリミア橋を攻撃、1週間で3度目　ロシア当局が発表",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVkxKclg5M1c3MUs4bjhvdE5iSVhfTE5Mb1AxU290c0hEOUk3M1l0TzlJZ0RFUEdXVVY1R3lGaDF3WEd2MWJOV0lFQkJOYlQ3bGNETHR1V0RITEUzYmlMadIBZkFVX3lxTFBQVzlweG9OMElsNWJ0X01LeVRXOVhXVkZWblNGWkZ3SDhxbzRCOV9PM0RQVkt5bmItNDRVQkZtR284OFlRdXpkVzY4c1JxMEdQWndPYi1qZnV3YWFWNkt6LUo4dFpIZw?oc=5",
      "source": "BBC",
      "at": "2026-11-19T16:31+09:00"
     },
     {
-     "title": "クリミア橋が通行止め、今週3度目の攻撃で被害確認中＝ロシア",
+     "title": "クリミア橋が通行止め、今週3度目の攻撃で 負傷者はなし＝ロシア",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82NWRIT3NoZGZUVDRmZkY1X1FmSWctNkdyTndiWU1TZHBlWTR1OWJjWFdrQ21wSV84d3VrS3prTzJnT29VQVZqbjI3QWtKRnFhRlFuUjF2Nm9KbkRmU2ZvWElxRW9ucnotb3cxakNSaDh2M3ZFMGhTVHUxTQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-19T15:46+09:00"
-    },
-    {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月19日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jOFRHdkVIMGp4NjF5UkxyOEFsODRmWDBhZHpUTExJLW5KWlVTbUluUWZZbWJEWHRjbmo1cF9jbmhjQkxxVGdDU09TNnVaU3lRZ2hjME5vbjFBbXJDUTln?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-19T15:39+09:00"
     },
     {
      "title": "ウクライナ軍兵士は、ロシアのドローンを避けながら兵員や装備を輸送するため、ソ連製の管路を使用している",
@@ -282,6 +282,12 @@
      "at": "2026-11-19T15:16+09:00"
     },
     {
+     "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sc290ekFBemRvNERCNWhiWmVSQkxfM3VNS0d2V0RGOW13am5mZ1N5dHRsMnFZX1NUZUlvbWhLQWxOZGpFcXcySFNQeXVURFNZcVE4cnN0bVJCeV9vdkFwUi1NZ3oyenZo?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-19T13:00+09:00"
+    },
+    {
      "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTh2UkxiOU1PV3lRcVV2T2Z1ZFJMZ0tyblQ0dlp6bk1UYlNIVkI1UGJmNS10NW9rZGNoWW9uc1hEZGVyTjlZeGo4QWFKQzM1U1NlRVBCb3RmS2hhdlk0aVM5X0hySEhGVGtXYVhLTGtjcVNKVjZjUTN2RXdETmVuODVWRzdGOVhvMVc5T2pDVDZicG1vbXptOA?oc=5",
      "source": "Pasquale Pillitteri",
@@ -304,12 +310,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81M1hHVHBVM1hjQ0VIa1NXZU1TSE1RVTlla1dSZzZtZzF1SDNXSVBxNXUtZ1puR3ZGNzAtS242WXpLS3pFNURwZWNrLVF5V2VqUEFIckJ3OEhGQzVSSEFKTTk2R3Rhb1Qxa2RFZVdxSkJjakw3c0plZTBPNUhvZ3c?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-18T23:55+09:00"
-    },
-    {
-     "title": "フィンランド大統領、ロシアの要求によるＮＡＴＯ離脱の可能性を否定",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWVPN1d6UmtoOU9UVUpVYzNWVWVmMWVHZURNLWJyTFBSYXFSRWlXd0pRQnpvdjZ5a3pZOUlGOTdCWVcycDlucXF1RkZHZkY2MjhQei1RNE9Ud21jaERTb3J2UmJ6b0dSQy1HZHJ5LUVJREJRckRmN1JYMVl2alZvZ1Q1LWxfUzgyLUNpcmFERnB3STNFb3BnMi1TLVVoYkpiZXJkZ2VNLXdBUW1WbDVZMUh3Rkp6eFpXcEJMZEU4ZUw1alAtQjdCV9IBzgFBVV95cUxONk5BRUthUVlHOUNJSDc5Xy0wU2FtMjU4b0lZdTB2VENvRDljU1dySEtKNE5BNjdsaXZ6YnZZUnRQZTlCUm9JckxVWi0wa3BjRVo1MTd0UU0zbEJ5ZUFzbW5MT3Z1TEw0WWhtaW5sMV91MGNpYTgtWnAwUk13YjZkdUJYQ2ZDejZ0cHEzbGJIajFNV1pET091dS04bjVaZVNWMnFaMkNnU2pVY3F4ZWM1TS1MUThkUTExYnNjTVNtMUo3QzlsVU9TTE5fUkhyUQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-18T21:52+09:00"
     }
    ]
   }
@@ -356,6 +356,18 @@
  "japan": [],
  "cyber": [
   {
+   "title": "AI時代の「セキュリティパッチのパラドックス」…JPモルガンでシステム障害、米財務省とOCCが緊急対応",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42MjdSMnJCYkF3elc5ZWNaelZFcWxfdUZ3b242bWoydllSNUJfQkRpSEJTMXllczlkUm51eThjbVZLMlhiVW9qa0dyWmFMQmpYNG5lS0RkbmRodl9ObFJwYkNXWQ?oc=5",
+   "source": "재경일보",
+   "at": "2026-11-19T17:05+09:00"
+  },
+  {
+   "title": "コストコに｢パニック買い｣、相次ぐシステム障害で必需品駆け込み需要 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSk1SV09wcVhCZUhWUHZCaDJtUXVUZVJncDA0ZjFGel9zSTVrZmRPLTJPcVBXenVoVmREd2pNLVczbGpBWGJVLV9NekhBcUlBU1o0M2ZOYzFxVVIyVVdSU19RZHc3T3E3QXFJei1jMEJEUFJjVk1RZnhYVmp3UXk0WDRGbHotU0lkLU9MOEdJaUtaMWdRdEx4LXdBNDZvaTM1QkplWnNCLTdxempoVHNlc2dpcEJfNUozNnBuN284Tlk0SVpZb0hHREtvc3dxNV9ST2V0ZkhOV183Z1o1eW4yby04b2JBNWRaNjl6UEphclJfc3FzUGdYY3pLN3FkZm93bVh6VWdhb28?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-19T15:38+09:00"
+  },
+  {
    "title": "Bitwise CEO、銀行障害に備え一部資金の暗号資産保有を提唱",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHRucXJRdEpQa1hsMFNlOEE4TXZueWFidC1jZXVrV2hvT0tGSFlOTVh1ekVINnVNRGx1cFNnRVcxeWVXcTl1MnlPTWU5UnZ2ekVxN1B2c0NlcXZzbTR1TTE5NXpYMGw3MFp0VDJqSHdheHhhVGs4MXVUNmhHSDhKOFQwVXl2dkhTUVI0NDQ0THRvSi13S18zVHBPdi04Y2FUb3VuYm5ZU2ZTSUZxc20tQTgzc0pOT2ZiNGtNVy1wNA?oc=5",
    "source": "디지털투데이",
@@ -380,10 +392,40 @@
    "at": "2026-11-19T14:58+09:00"
   },
   {
-   "title": "ティムス---底堅い、急性腎障害向けTMS-008の前期第II相臨床試験で進展も",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFhMcE9PcTE0UGJTckxQNEZWUEtyTjRwNnVrSzVJdmx0dGxRc2VNRGFoYnQtLWFVT3RfTndNMDNQc1Y0QTVncnF3UEZsVHdHRXBtLXlVdlpFQVpxNUJpSlVqR0tvbHp1NDdxQlZWeml6ZXl3andrOXprM1laZ3N2QktzQ01VNzBPUUVSZtIBjAFBVV95cUxNbFhMcE9PcTE0UGJTckxQNEZWUEtyTjRwNnVrSzVJdmx0dGxRc2VNRGFoYnQtLWFVT3RfTndNMDNQc1Y0QTVncnF3UEZsVHdHRXBtLXlVdlpFQVpxNUJpSlVqR0tvbHp1NDdxQlZWeml6ZXl3andrOXprM1laZ3N2QktzQ01VNzBPUUVSZg?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-19T14:07+09:00"
+   "title": "【イナイレクロス】バグ・不具合報告掲示板【イナズマイレブンクロス】",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRG1NQS1LcVZPQzU5T0x4MjZjQk5seDZzVWZCd050OEp6aWh2RHBJUWtETi1CSk1teEpJanZNS0diYkhxZWI2M0pKckFWTVhQemhLTw?oc=5",
+   "source": "AppMedia",
+   "at": "2026-11-19T14:53+09:00"
+  },
+  {
+   "title": "全国警察のサイバー担当が臨時会議 相次ぐサイバー攻撃被害に「プッシュ型」捜査を推進",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wb3EwZlBNSlVhSWRWQ2JFUUNNTm9tQVlHNDdBRmI5NjlaYTFoM2NsSEhPUzI2eXFsM0Y1Rk1FZWtqNWtlaXFCdlJwT2RCcWdVNXZaVXFPMW5kSVdZaGhBdU9KenhmUVJNUVFKNXZB?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-19T17:06+09:00"
+  },
+  {
+   "title": "政府関与「拡大を」７６％ サイバー攻撃対策―時事世論調査：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqSThxa1hnaG9STUpuSGRHY1R3djJEYV8yakNYYnhCOTBnVktEeFpyZkdmN3JHR3doR3Rtd19YMklWb0J2ZXM3cThkVkY1ZURmOEkxS0x3Yk9xenQyYkFYVThyVQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-19T17:04+09:00"
+  },
+  {
+   "title": "六花亭のオンラインショップに不正アクセス、カード情報約8000件が流出した恐れ セキュリティコードも対象",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKUEU2Q2pRaFMwRzUxWUJQOXc0V29icTJRa3dhVElKT1NuWFhXOEdBTzBQTnRaRTZsT3N6UzRtdjFVWTRXWVl4MUFrYmt1NktSM09UdVpJbWRRM0pGUUhmN0VVNHZGeDg?oc=5",
+   "source": "テクノエッジ TechnoEdge",
+   "at": "2026-11-19T17:00+09:00"
+  },
+  {
+   "title": "帯広 六花亭が不正アクセス被害 クレカ情報8000件流出か",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xd0R5Y0Z6TEFaUlhlLTlsT2E5cXl0ekJxSEtNc05OYjBEVFo4anV6SW9MOXYtWXB3b0JnX1Bxd2hBVExsWWNRTk5jdk1LOFliM0otMFA0eEhqRW5rcWpN?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-19T17:00+09:00"
+  },
+  {
+   "title": "エン「ミドルの転職」、企業アカウント1万2,474件の情報漏洩、プレイド KARTE 不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcF93QkM5WDlNVE9QSHhpLXY4YjBLVHJ3bmZLSWl5NkJHeHhWd2FmanFfVFlIX0FVTTQ3SDhid2Vwb2g2MWd3OEFiTXp1VXdvOFR3QVVZM0JqS01QdmdJZVR3dXhRQlp2bGs5Z2x0Y19ydHJHdlA5MnRtaXZ5a05Jek5RS1Q1NmxCZzFTclNOYUY5RTh0d2VEVFk3V1QzalJiSS1z?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T16:59+09:00"
   },
   {
    "title": "タイミー、求人事業者最大22万6,662人の情報漏えい、一部は個人情報漏洩の恐れ-委託先 プレイド「KARTE」への不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
@@ -402,52 +444,17 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHREZTFMMHhyb0R3LV9iQXJ2ekdsRVhKXzNWd0tLQ0l3cmZnYUpaUWdIU2E3cDNRcWs4dXluOWJCUlpCSDE4amFQSmhTOWEzT1pzSk1HdW5wX1d3LTVNREZBemJuMkc5MEZldzNGRHBKTjE3VGF0cldnNXFUeEZqckZsTDZTbDZ3RjVqcXN6V0loUG_SAZgBQVVfeXFMTkQ4UEMtOGRXRzBXbzNoejVBZ3doOTYyMkZTa3ZXWEdVNlBJeF9VRjIzY2tnTTBVVVFsN0QzMkhkVEg5dzZxYm5ydk1PcHBpM3Y2NDhteFlRNFRtM0dUMmlEYWFzRHd1eGhydU5XaGo0M0tRdHBOdzFSeDhEZldyYkpRQkZEcU9JOUJtUEtpclc4ckFJYS1yeXY?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-19T16:48+09:00"
-  },
-  {
-   "title": "レゴランド・ジャパン、年間パスポート購入者約15万人の個人情報漏えいの可能性 委託先 accessoのチケット販売基盤に不正アクセス|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbW00aGRJUW5KQXRIZGxDRGQ4UTk2Q19MX09jd1hEVWxoR3NIc3c2d3JHY0ZnRWQtWmpPRXZlR3Z5a0Y5SklNOTFnLWRyd3FBYnF1QWdYMnNGTEczR24yM2tsXzlIY3A5b2sxZmVubXNsb1hoVHN4cHVyU0djdUgtUUlCMjhQYy16elZQTGJnQlpfa0gxaWs3R09ONDdmSVpISlE?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T16:45+09:00"
-  },
-  {
-   "title": "湘南美容クリニックのSBCグループに不正アクセス、約162万人の個人情報流出 パスワードは暗号化せず保存",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuQ0NESlYtRHFqMC1qR2RTNW44WFBvc0VRYkFlUlNROTEzR2k4YVJYYkpDb1NMczhMVXJnM05YMGdqZ25XUEg1aFA1MTFRTkkwTVNPYjd6Uk1MV0NLS1hKVXRHQVdFMnFCb0VfZTNB?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-19T16:41+09:00"
-  },
-  {
-   "title": "都「赤ちゃんファースト」サイトが不正アクセスで一時閉鎖",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HNzN3blJ3ZU1LZmllVmVmcnlpVHNybWtFa190RGY1U3RPWXZJc2FWdVloZi1rQ1JUcUl0TVRsblFvTkltaGZDQ2szVXJLNUdjSEc3d3dPLU1DbFRzN3JR?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-19T16:38+09:00"
-  },
-  {
-   "title": "シャープ「COCORO STORE」、最大326万4,445件が情報漏えいのおそれ 委託先 プレイド「KARTE」への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMzV3NHo1NF81bzVfU2NOZTZCeXdrTG4wb2k4TTZDR1J6aXFoLUJ0UXBxcmxFVF85OWlSVi1ZZjJpdTZ2Rm5xR3BRUlRhd3dFY3NIa0Q5c1NydTBzZXpBcHNlNDFEN3pSZXdJRTRoNFdEc01EQ0poTHhsUGpubjZhamdfZXVJeTNCckU0bTY5cy1PVTNzdVIxdHhGOUUzYzRCSUZJ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T16:30+09:00"
-  },
-  {
-   "title": "SBCメディカルグループ 不正アクセス被害により個人情報流出を発表「心より深くお詫び」",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUUktN1ZJRDRqT3ZDaU5CLUdmU3Z6UE1fVExHS2hScnZhTEtheUlSZG9tSW9xdHk5cC1lYWgyME9rMVVGRlVzX1ExZlJtWUxGU1lhWEUtaEFNRy1zcEIwRENXeVBYdE1PTmJiemM5OE5LeF9nbnJ0VmJVV3pzMVc3TDRhWTZxaXhKWnc2b25n?oc=5",
-   "source": "スポニチ Sponichi Annex",
-   "at": "2026-11-19T16:30+09:00"
-  },
-  {
-   "title": "「エン転職」などの顧客情報1.3万件流出 委託先への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10MWRJbnlDNU4tRklNU3ZjUkFqcjRNMUpHSTZFRXYtVzV5NlZialQxNnE0ZkpDa3JoMkEwV1lral9Zb21ncFhRamw0M2NZaXpOQTNzNldqcFNaYWlXd3owNEVkUGMyVmNPX3Y0Yw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-19T16:16+09:00"
-  },
-  {
-   "title": "東京都「赤ちゃんファースト」のポイント交換サイトが停止 運営会社に不正アクセスが判明 復旧めど立たず",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zR2JUdVhOY0wtbER4THlIdlJzY3lKNy15bnZTQUw4QzF1R1hIeks2N3UwMEtLRWx4cmRCbTRXempiaXRyRkcxUW1Pa0lKTzNWNmt3SlhpZElpNWlrQ0ZwNHd2eDBmV1hyWGwyVjcwWHo5amZCaGd3dWNHYld6N0k?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T16:09+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVFZSXNSSHBOVTROY1laRVJfdkp3YVJqZEJHeUJYYTk3eEItNlZ3WXIyaWE1LWZ3dEczTW1jZVFtVGZNSFVGLXR5bmNDMUxWYXVxSDZkZFJBbzNqejZRYXROd3g0QzktSFd2THVsS2kxSUltUFFRQ212cTdtcmJJV1JxNzRqTUFmSWZTdnRxWFRLeVFuQkhwZ081ZXM5dmRVZ3hrZXE2ZFd1R2dyZW5SZmdVVDl1a3RzVGxVNHBKWEU3ZVJOc2xVZlE0VXVabDBEaXEw0gGDAUFVX3lxTE10VWN1UjYwQjZhTGZMMzJXNDdSQS12c1pka2NMY1pHRVVqb2lVVnFsUl9ibXhBbmlZN3dCbGxjeG51MFRROUNSRjZjTmMzSFpVcFJ3Tkk0RWtQcS1hb25xblZ2RlRMdmtLM1dqVnB1Z3hSRmZVRVR0S3dveFZXU1JGeFFn?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-19T16:55+09:00",
+   "topic": "中国・台湾"
+  },
   {
    "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性 写真3枚 国際ニュース",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXc?oc=5",
@@ -470,17 +477,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "クリミア橋が通行止め、今週3度目の攻撃で被害確認中＝ロシア",
+   "title": "クリミア橋が通行止め、今週3度目の攻撃で 負傷者はなし＝ロシア",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82NWRIT3NoZGZUVDRmZkY1X1FmSWctNkdyTndiWU1TZHBlWTR1OWJjWFdrQ21wSV84d3VrS3prTzJnT29VQVZqbjI3QWtKRnFhRlFuUjF2Nm9KbkRmU2ZvWElxRW9ucnotb3cxakNSaDh2M3ZFMGhTVHUxTQ?oc=5",
    "source": "Reuters",
    "at": "2026-11-19T15:46+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月19日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jOFRHdkVIMGp4NjF5UkxyOEFsODRmWDBhZHpUTExJLW5KWlVTbUluUWZZbWJEWHRjbmo1cF9jbmhjQkxxVGdDU09TNnVaU3lRZ2hjME5vbjFBbXJDUTln?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-19T15:39+09:00",
    "topic": "ロシア"
   },
   {
@@ -540,6 +540,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sc290ekFBemRvNERCNWhiWmVSQkxfM3VNS0d2V0RGOW13am5mZ1N5dHRsMnFZX1NUZUlvbWhLQWxOZGpFcXcySFNQeXVURFNZcVE4cnN0bVJCeV9vdkFwUi1NZ3oyenZo?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-19T13:00+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "イラン、湾岸地域での攻撃範囲拡大 米軍によるミサイル発射施設への攻撃受け",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKSThLMS1KaXdVY2tHcDgxTnhwYlBSRFpnMzlaOGUxYmlQSVl4R1RlOE5qZDg5b1YzVWFHYlI3blNfT0pTTmdpV1hEeGtLMTcyZ0Rhb0ZxSkg2RnRnZUQw?oc=5",
    "source": "千葉テレビ放送株式会社",
@@ -580,20 +587,13 @@
    "source": "NHKニュース",
    "at": "2026-11-19T12:19+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "米中央軍司令官、イスラエル軍参謀総長・モサド長官と会談…対イラン軍事作戦を協議か",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2U0V1NnRYZmNkeUxiYkx3T0ZJczhyWnEzS3hveGR5RWpOaU16dF9UWTFlMVhsMVM5X01UV3Q5ZjZsdVBXQUwwRzdPck9CanA4aTQxLWoyNjdzeVNlelJ0ZFBDQUJUUW_SAWxBVV95cUxPdlJuWDdISXRPX3V1ZVh5Qmw0TEVOOTNYcHlGVWVQQ09YQ25GWWRlT0lwVEZRWVFVcHlYUGlxMWZiMVJpS1d6S3h3Rm9zYjZxSF81MTNDT0c4Q1M3QTRaeFFMTmtWWGt5Qzc2eWU?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-19T10:43+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "警報なし・大きな揺れや停電の報道なし"
+    "「全国警察のサイバー担当が臨時会議 相次ぐサイバー攻撃被害に「プッシュ型」捜査を推」"
    ]
   },
   "japan": {
@@ -606,9 +606,9 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」3件",
-    "中国・台湾：「侵攻」2件",
-    "ロシア：「攻撃」「侵攻」3件",
-    "欧州・NATO：「爆破予告」「破壊工作」3件"
+    "中国・台湾：「爆撃」「侵攻」3件",
+    "ロシア：「攻撃」「爆撃」3件",
+    "欧州・NATO：「侵攻」「爆破予告」4件"
    ],
    "items": [
     {
@@ -618,16 +618,16 @@
      "at": "2026-11-19T13:49+09:00"
     },
     {
-     "title": "「2027年に台湾侵攻」は本当か…一人歩きする“期限付き予言”の陰に隠れた、開戦すれば“やり切る”中国の武力行使の論理",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbVptem1rY1Vja1ptN09KMnNVVmRQX3NsYXMybjY0UWVBSEFPOW9nQU1rMHd1akpROEcwQUwyZ0ViRDcyOVhDckl4RFJZeTUxZVVPcEdKSk9oYUZOV2kxUXB5c2lvTnRWT3d0dkxHMnl6MEg1MXZqbldGdWdmcEU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T09:00+09:00"
+     "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVFZSXNSSHBOVTROY1laRVJfdkp3YVJqZEJHeUJYYTk3eEItNlZ3WXIyaWE1LWZ3dEczTW1jZVFtVGZNSFVGLXR5bmNDMUxWYXVxSDZkZFJBbzNqejZRYXROd3g0QzktSFd2THVsS2kxSUltUFFRQ212cTdtcmJJV1JxNzRqTUFmSWZTdnRxWFRLeVFuQkhwZ081ZXM5dmRVZ3hrZXE2ZFd1R2dyZW5SZmdVVDl1a3RzVGxVNHBKWEU3ZVJOc2xVZlE0VXVabDBEaXEw0gGDAUFVX3lxTE10VWN1UjYwQjZhTGZMMzJXNDdSQS12c1pka2NMY1pHRVVqb2lVVnFsUl9ibXhBbmlZN3dCbGxjeG51MFRROUNSRjZjTmMzSFpVcFJ3Tkk0RWtQcS1hb25xblZ2RlRMdmtLM1dqVnB1Z3hSRmZVRVR0S3dveFZXU1JGeFFn?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T16:55+09:00"
     },
     {
-     "title": "ウクライナがクリミア橋を攻撃、1週間で3度目　ロシア当局が発表",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVkxKclg5M1c3MUs4bjhvdE5iSVhfTE5Mb1AxU290c0hEOUk3M1l0TzlJZ0RFUEdXVVY1R3lGaDF3WEd2MWJOV0lFQkJOYlQ3bGNETHR1V0RITEUzYmlMadIBZkFVX3lxTFBQVzlweG9OMElsNWJ0X01LeVRXOVhXVkZWblNGWkZ3SDhxbzRCOV9PM0RQVkt5bmItNDRVQkZtR284OFlRdXpkVzY4c1JxMEdQWndPYi1qZnV3YWFWNkt6LUo4dFpIZw?oc=5",
-     "source": "BBC",
-     "at": "2026-11-19T16:31+09:00"
+     "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVFZSXNSSHBOVTROY1laRVJfdkp3YVJqZEJHeUJYYTk3eEItNlZ3WXIyaWE1LWZ3dEczTW1jZVFtVGZNSFVGLXR5bmNDMUxWYXVxSDZkZFJBbzNqejZRYXROd3g0QzktSFd2THVsS2kxSUltUFFRQ212cTdtcmJJV1JxNzRqTUFmSWZTdnRxWFRLeVFuQkhwZ081ZXM5dmRVZ3hrZXE2ZFd1R2dyZW5SZmdVVDl1a3RzVGxVNHBKWEU3ZVJOc2xVZlE0VXVabDBEaXEw0gGDAUFVX3lxTE10VWN1UjYwQjZhTGZMMzJXNDdSQS12c1pka2NMY1pHRVVqb2lVVnFsUl9ibXhBbmlZN3dCbGxjeG51MFRROUNSRjZjTmMzSFpVcFJ3Tkk0RWtQcS1hb25xblZ2RlRMdmtLM1dqVnB1Z3hSRmZVRVR0S3dveFZXU1JGeFFn?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T16:55+09:00"
     }
    ]
   }
