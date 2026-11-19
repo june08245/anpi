@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:30+09:00",
+ "updated": "2026-11-19T19:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -156,6 +156,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-19T19:02+09:00"
+    },
+    {
      "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WEFEUl9HOHFoWUtjb0dwRWZyYmpVYURJSGxBWkNJVTJpUnI2YkZacldNY21sb0h0N095c2RxSm41Q085emRXS3Nod3Y5amZWd1M1dUh0endKbVdPZ1JyUm1zZ3lLaVNDbTFwdHRGNV9NUk5UOVNkV1Nta2tRTXM?oc=5",
      "source": "Yahoo!ニュース",
@@ -184,12 +190,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04ZkRycjVhdk84bUdWUG85R2txZVlxUF9aUHN6LUQ3cWx3U2dPMk9paDVnV1c1Z3VteTNUQUw5RGVhclU2amVSbTkweVJJSEVVVWZycDNsay03OEstclUzZzJueFVIUQ?oc=5",
      "source": "日経バイオテクONLINE",
      "at": "2026-11-19T07:01+09:00"
-    },
-    {
-     "title": "高市早苗首相、初訪中も冷遇 習近平氏と握手し声かけも返答なし、首脳会談は困難か",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDI1Q1NlZlhlYWhlTWtJdmZGbXc3R185d3dnVlJ2T1dPTzEzcUlCbHlRVXFHQndYbFlkQjJEZE5pVmZ1T0ZTZXpjbmxBS2ltaDhDRC1SSzlUaDlHTjNOc29XQXRnOEJnY1c4R1hjTzc4X1NaV2lPNjUtNFg3TEg5dExtbzI2cTQtVHQ3Sg?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-18T22:41+09:00"
     }
    ]
   },
@@ -198,10 +198,10 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "金正恩氏は深圳に姿を現さず 前日には約2300キロ離れた咸興を視察 米朝会談に関心",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmtCLVhkWWJkZUpublBLbjJOVUJMNnpqWHVjQTV1a3VTZXJJZlZWdjhVY1dGaENDY19YRnF4SV9JT21Vd3N0SHVVbE9PdVZhSHFvb2g5OE9LWDhVcDh5T0xsSDhLNTYzYmVad0NRR0k2YjBSTUpLeFo2TlNHd3N4SDRqaE9fRXU2c0MwNw?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-19T18:54+09:00"
+     "title": "金正恩氏は深圳に姿を現さず 前日には約2300キロ離れた咸興を視察 米朝会談に関心（産経新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEaW1nRkVHdDY0MEtBWnNFUnowVGYtN2gtT01TNmRsNS1NZXFtc1NqenJ5UllqMHBQamtUV3RMSlpHdzBKZnlqY3d1YXBFRlpKNVAxVnJscFpDeXJNRHdZOTBUeXEyMXVOdXJmbG91THltVk9DZDVhZkdxNjhzS00?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T18:57+09:00"
     },
     {
      "title": "米中露“トップ3”会談の舞台「麒麟山荘」敷地は東京ドーム8個分 北朝鮮の金正日氏も宿泊 大手宿泊サイトにも掲載",
@@ -282,16 +282,16 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "ニクショル・ダン：「ヨーロッパは現在、ハイブリッド攻撃を受けている」",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGpleDlXR3ZzOWJxTEdSMEdoTnM4VDlIeUJiWUo5aEFEMHpYSllIU3N3cHhUcmtCYVBmaGgxQ01mdFZ0ZXNLc0dFZ0lmZTZJbUVWeGh1NUh1R2N0Ty0wLXN5ekhRS0RfYkQ3Y2Vwd0l0eXdkQkc0VnpYYmd3azJVWU1jRE9weWl4VXBUUkFNcmx1U0dDYUdoTVFQamtVbTRpRWc?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-19T19:16+09:00"
+    },
+    {
      "title": "プーチン氏がトランプ氏を操る？対欧州破壊工作の実動部隊は",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
      "source": "TVer",
      "at": "2026-11-19T15:16+09:00"
-    },
-    {
-     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-19T14:08+09:00"
     },
     {
      "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
@@ -312,21 +312,15 @@
      "at": "2026-11-19T05:00+09:00"
     },
     {
-     "title": "イタリア政府、70億ユーロを拠出し、5,000人規模の「サイバー軍」を準備",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk12TEdpcU5lMnoyU0pHRG1ycXlUTS1Qc1BLdGRsb2NiMXlZRGZqa28tRWpzNWpyM3hSRDlZX1FJdnRMUWs4WTh1NjVXVWFBanZnQ1V6bENhUENHX1lfeWhheVBuVkdvbG9vWGFhVVJsakRTRGZ4TjJydjBXd2g5enB1VmdsbU1Rd1dPMFRzMkxQMnNPcnUxM242bVY1LU9JMGY5YS1B?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-19T03:58+09:00"
+     "title": "エストニア、ロシア国境閉鎖へ 防衛企業への破壊工作疑惑受け（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81M1hHVHBVM1hjQ0VIa1NXZU1TSE1RVTlla1dSZzZtZzF1SDNXSVBxNXUtZ1puR3ZGNzAtS242WXpLS3pFNURwZWNrLVF5V2VqUEFIckJ3OEhGQzVSSEFKTTk2R3Rhb1Qxa2RFZVdxSkJjakw3c0plZTBPNUhvZ3c?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T23:55+09:00"
     }
    ]
   }
  ],
  "nankai": [
-  {
-   "title": "土砂流入の家屋や浸水した車を想定 南海トラフ地震に備えて県警１６０人が災害訓練 南国市",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hTlM5c1NYUGYxdC1EME5VYXIzandjYl9xdTdNMFMyMjlSS2tjRHpjWWR4S1RYSWhGcW43aGhTdzZ4X1FUazY5VjJIblFPYUVLeVRlQjFuYnBsdnRpWTBv?oc=5",
-   "source": "高知新聞",
-   "at": "2026-11-19T18:45+09:00"
-  },
   {
    "title": "緊急輸送路確保、ライフライン復旧へ連携 南海トラフ備え、岡山県などが図上訓練",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdG5pb2pNREprd2o1Y0xaQ2FtTEpPc084bHlsMlNNTXdSSDZWU2w4dk5SQUFMNndNTTE2OW96RV9lR1hFWWZvSlZ0a3BpcXdtMGc?oc=5",
@@ -356,6 +350,12 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jcFZHU1ZJYjNfNldiSElNd0ZFc1pQVEVVbk1VTzNoVnY2OUpacVA2eVdSdzBGQkVFTktlZTBROXBvRGRDTm8wLTNETzNPcVVHdzQ2Qkp0YWlfLUdTRkxn?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-18T19:02+09:00"
+  },
+  {
+   "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練（RSK山陽放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOUx4eklOS2s4dHFfY3dudVZKVVpuSW5LcDJMTExYVVBGVlFzQjYtdjFsV2RQeWZfeno5Z0h6ZHNMNTJVbDZHWXJjOXBOR3lFZDItOUJxUkd1LW51RXR3V0lDcUt0MXU2bVN3X2dYcmw1NGlsUHAwU1R1V0cwbG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T19:00+09:00"
   }
  ],
  "outage": [],
@@ -392,22 +392,34 @@
    "at": "2026-11-19T17:05+09:00"
   },
   {
-   "title": "『六花亭』に不正アクセス…クレジットカード番号と\"セキュリティコード\"など約8000件流失か―サイトの決算画面のプログラムが改ざん「不審な請求があった場合カード会社へ」〈北海道帯広市〉",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FOXlVVWRSZF9OcERGcWV3aUVFTDZ4ZFpxY2M3UUFlY3o5ZG55YkRJZTBhX1lzS0E2b2N0V0pVQnNZVE5hcVNfYTh5MGVGQTYyYWI1T3Y2TQ?oc=5",
-   "source": "UHB 北海道文化放送",
-   "at": "2026-11-19T19:27+09:00"
+   "title": "楽天証券への不正アクセス、余波大きく＝情報管理体制に問題も(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzQ4YTA2eUYxQTJqdWVZUGRWalpkdUtzbXF3MTNmYVhwMXc2QktQbzItT0poenZLdkxuZmlPbElsMm9IT19HZ1g2aDRELTBFaUNRdWYyUmQ1SnFfbkEyR2dhdEx6RFhocndKYXhBYk85QzhkVF8yajlBV2xhcDI2Y3ozM1d0UEE?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-19T19:35+09:00"
   },
   {
-   "title": "三井ショッピングパークアプリに不正アクセス、ポイント会員の個人情報の一部漏えい…アプリ提供停止",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9La0VpcjRYeG56bFdNbHFGcHQ2Q3dlYjBIWlROTlpnXzgzYWZ4SzJXdFRKbU81VzQyVmlxXzNGMmVnVlR6c1BNRmdwUkVhbUNtMXhicEdMR2hqQWx6S3pSOGVOX0U?oc=5",
-   "source": "読売新聞",
+   "title": "『六花亭』に不正アクセス…クレジットカード番号と”セキュリティコード”など約8000件流失か―サイトの決算画面のプログラムが改ざん「不審な請求があった場合カード会社へ」〈北海道帯広市〉",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nblI4Q3F4NVZUeWRDN0lINEtURUZqeVhXYnJwbkVRaTZQSmlQR1E1dlMzaTJzWnNwcXNuX3Y0Yk5PNVg3bmUyYV9iYmRmQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-19T19:15+09:00"
+  },
+  {
+   "title": "三井ショッピングパークアプリに不正アクセス、ポイント会員の個人情報の一部漏えい…アプリ提供停止（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GT1FhdmZoU0hrTUhvWHpELVBFOHdPNVBKMHY0dXVMcU9WOVR4WExnQWMyeEZrekZsaDk0N0R3Q0ozdU9lU0dsZlR6dEtGR3AwRVZlSE5IV2ZHeC1NMEhTaExCYXNFN0xjT3NwV2dNNWNYTlVpVmNseWVBekxxNDA?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-19T19:08+09:00"
   },
   {
-   "title": "ホロライブ公式ショップで約300件個人情報漏えい―出荷委託先への不正アクセスで過去の出荷データが流出（インサイド）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mNzFtNEY0VGtwcWR0aklZb1dNb1hZNEZ0Y3VaMktBcDctMDFqWHI0TEp6MmREQU8tRTg1dDRqcXdQU0RFSnVEZ25PbG54RUtoYmhuczhRT3JWUkRINmt1eGdqQUdLWnAtem9aUnU0Q0hSVTZRUzNxMW1RNzJmczg?oc=5",
+   "title": "ドコモオンラインショップなどに不正アクセス、最大約30万件と一部の口座番号も流出の可能性。自分は対象？何に気をつける？",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUo4OENwanl5eFdFR2FQWHNSVThPZnBTT0E1OFE4T0pOemhWR0lKNXVaYk1wMkZsZjAxVFZQVHRocU5lQmNpb1pfQnlQUEpmTUQ5Q3VFWTk1MW55TTd1bEYtVW1IeE1aRk9QeUdnOUlQWDNBWU90LXp1Z1NpYXlwSHc4ZjJrRkh5VWZSUkV3?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-19T18:50+09:00"
+   "at": "2026-11-19T19:05+09:00"
+  },
+  {
+   "title": "「六花亭」公式オンラインショップが不正アクセスで改ざんされる クレジットカード情報8000件流出か",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YaENvN0JjcXhIbTRnMmZkRklldWdjaFZGUlNqbV9BZDMtNFZSRXBmQy1TVFVXQWhxRXE1Y0ZCY1R0UEduN1FZbUFJUGxkMUhwOHM1RFlTNENqOE53a2xrNWVDc2pyZGtUNlc4eXVWS3Z3MGUzRnpPYkpoT09Fb1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T19:02+09:00"
   },
   {
    "title": "株式会社プレイド『KARTE』への不正アクセスに伴う情報漏洩の可能性について",
@@ -428,32 +440,27 @@
    "at": "2026-11-19T18:39+09:00"
   },
   {
-   "title": "東京都、赤ちゃんギフト交換サイトを一時閉鎖 不正アクセス判明（毎日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhYzY1WnFxWEVTNHRRV0IwQVdmSWt1Zk9fQ0c3cGl3NEpiUWhueGs1Z1FUSGZBWHFkamlJcE03dXFTY0RRR0FwdS01RXItdjJqSE9wMjV5RDBKclRZZEtJY0lqMS1RQmhqVVpjcDE2QllSMkVxZERJb1pJZ2Z1b1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T18:33+09:00"
-  },
-  {
-   "title": "欧州委員会がサイバー攻撃の標的に／内部アプリケーション、一時的に無効化",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDJrZ1Q4Nk5zZlFWNnRUelRZUkNuUks0LUFZaXhkeUs3ZTdpRjJUVG03ZmRhNGYtczJUS1JDanNfQ25LdlZHMng5c2FUQ1B4alItcng1SmFGaXh3aFlyY0RQdVU2VTJ6WlRsR3kyWDM1TmVfRWFFcXJMc2dJaEs3T19YNVB0eGp1Z2plYlMxeWpyNHFIRUo5U2JB?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-19T18:30+09:00"
-  },
-  {
    "title": "六花亭、クレジットカード情報8千件流出か オンラインショップに不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fenpaUEE2OTc1WDg2VnBkS1RPOWNyallTazlKbHkwVDg5eXVTeFVaWWRzS1VDODVrS2lYVGNGb2NzRzNfbXJ6aUhfVTUycGx0VV9BbmszQmpXQQ?oc=5",
    "source": "北海道新聞デジタル",
    "at": "2026-11-19T18:25+09:00"
   },
   {
-   "title": "「六花亭オンラインショップ」不正アクセス被害、セキュリティコードなど利用者のクレカ情報8000件流出か「身に覚えのない請求がないか確認を」六花亭が注意呼びかけ（HBCニュース北海道）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GN2w5VURaZTA2MU9IaFNlay1sX2tWMGowYXpLaWg1Mlk5NmVvMmhTRkdxWF9qTmxnYk1RSzAwXzlNRkhBSi1ySFNDZVVXWHN1eHZFX2tfQkdCWklTa1FfVkZUeUFYalJkdXVVY1p0b2sxMElrV0lKOERSc1ZQQzQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T18:15+09:00"
+   "title": "「新三種の神器」輸出の資金繰りに圧力、越境決済が中小貿易企業の打開策の鍵に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvRV9oMlBaeFE4Z29aQUFDNHdSUTlCclAzMVVfQlo5Z2xqVjNZcHRtZV9SMFJIdEZLVGJVanhneEdEUUhPdE5GcDAyMG8zVVkzQkFsa0U0M3FzREsxRG9YdF9YeDJXMldtTEtiQWRucFVMdHJG?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-19T18:09+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ニクショル・ダン：「ヨーロッパは現在、ハイブリッド攻撃を受けている」",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGpleDlXR3ZzOWJxTEdSMEdoTnM4VDlIeUJiWUo5aEFEMHpYSllIU3N3cHhUcmtCYVBmaGgxQ01mdFZ0ZXNLc0dFZ0lmZTZJbUVWeGh1NUh1R2N0Ty0wLXN5ekhRS0RfYkQ3Y2Vwd0l0eXdkQkc0VnpYYmd3azJVWU1jRE9weWl4VXBUUkFNcmx1U0dDYUdoTVFQamtVbTRpRWc?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-19T19:16+09:00",
+   "topic": "欧州・NATO"
+  },
   {
    "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
@@ -469,10 +476,17 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "金正恩氏は深圳に姿を現さず 前日には約2300キロ離れた咸興を視察 米朝会談に関心",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmtCLVhkWWJkZUpublBLbjJOVUJMNnpqWHVjQTV1a3VTZXJJZlZWdjhVY1dGaENDY19YRnF4SV9JT21Vd3N0SHVVbE9PdVZhSHFvb2g5OE9LWDhVcDh5T0xsSDhLNTYzYmVad0NRR0k2YjBSTUpLeFo2TlNHd3N4SDRqaE9fRXU2c0MwNw?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-19T18:54+09:00",
+   "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-19T19:02+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "金正恩氏は深圳に姿を現さず 前日には約2300キロ離れた咸興を視察 米朝会談に関心（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEaW1nRkVHdDY0MEtBWnNFUnowVGYtN2gtT01TNmRsNS1NZXFtc1NqenJ5UllqMHBQamtUV3RMSlpHdzBKZnlqY3d1YXBFRlpKNVAxVnJscFpDeXJNRHdZOTBUeXEyMXVOdXJmbG91THltVk9DZDVhZkdxNjhzS00?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T18:57+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -574,25 +588,11 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-19T14:08+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "【社説】米国でも中国でも優先順位が下がった北朝鮮の非核化（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlMmRXczJic3UwUzRETzgtMzh5cEpieExfTzVwTXUzaTY5ZmRfeExfbzBBcVA1bGNMWVcyUi13Ynh5RnM3OWtEWUVRU095aVhJQXV4VWRGWGMtNWJGNWRiREtFcy1DSUJnZENYQTltWmlkQ0p0c1FWOF8zZVBvdDg?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T14:06+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "イランが毒ガスや生物兵器による攻撃の「兆候がある」 トランプ大統領が指摘 CNNテレビがワシントンでの「ダーティーボム」など使用をイランが検討と報道",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qRlZ1ZlFnYXN6TjRaRHNfbElLZ3RqRm13QWttUlY1WHdaSkR3a2Y4ZlNvbVlzVzQyZGpmTFlUdVdWeVJSNUllVUNzd1FMdGgxTm9ZdGJxZnBBeGdacVU3RjhQZmZjc2lHeGNuT3Iyb2FsUTg?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-19T13:49+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -612,9 +612,9 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」3件",
-    "中国・台湾：「爆撃」「侵攻」3件",
+    "中国・台湾：「爆撃」「侵攻」4件",
     "ロシア：「爆撃」3件",
-    "欧州・NATO：「攻撃」「侵攻」4件"
+    "欧州・NATO：「攻撃」「侵攻」5件"
    ],
    "items": [
     {
@@ -624,10 +624,10 @@
      "at": "2026-11-19T13:49+09:00"
     },
     {
-     "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WEFEUl9HOHFoWUtjb0dwRWZyYmpVYURJSGxBWkNJVTJpUnI2YkZacldNY21sb0h0N095c2RxSm41Q085emRXS3Nod3Y5amZWd1M1dUh0endKbVdPZ1JyUm1zZ3lLaVNDbTFwdHRGNV9NUk5UOVNkV1Nta2tRTXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T16:55+09:00"
+     "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-19T19:02+09:00"
     },
     {
      "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
