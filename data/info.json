@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:30+09:00",
+ "updated": "2026-11-20T07:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T07:27:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T05:02:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T20:58:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -113,6 +113,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "トランプ氏、対イラン攻撃再開「年明け以降に動き見極める」　上院は攻撃制限決議案を否決",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW1WRUxORFltR1lrWnVwbzNQSklGekFTb3lKNHRoNFRlQnZ1Q09WazEwRFJleWlxVk1rQnlvUXYxM05oeG1SY1RhenhQd25xTEhfM0RjV2dLYlVkbkpYYnlXVTlZc3NRVmJyRmZpZmFkNmtpbGlGNlg3aVRTQ0hIYUNLejZPVTh6SFZON2xUekF5cmZZdUNkczhQek8wTkxNbE1r0gGoAUFVX3lxTE5YSzVrekQ2d2RyYnY5VWU5b0x2RlZnaHVmYVhjR202WGdUM0RDeHJfb2tDb3hxOHdSRXdkbldqYURTaWhXSjVBWVl0am9ybE0tc0JWNDIzQWdwdXRKV2tUX0pQQ251X21jNjVuMUZJenYtb3o5dGVEQVNCTGZ3RFB6Yl8ybHNTNkpoYmRab2Vsa2M4Z2o1TkpLN2NtS2hEcDF2ak5VclZQaQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-20T07:32+09:00"
+    },
     {
      "title": "イスラエル情報機関トップ、米にイラン再攻撃を要請していた",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXlIQ1V5UTFtdm5DLVN6M2dvOU5tQ3BLeEhxM1ozNmFGSGpzemF0UkNQSS1haXNoSFhQVk1ZQ3FnUmxnSlNrNFRQRXdQTDFLbGd2NE5rSUJZMEJOdEY2aTRoTEJYUGpiQmdacU0yejk3YWZ2ZXJ3ZFprS1lka1VwVUZ1MkZXY2tWRmpiMVd1MWtNRHRVMWtMRlh1a1ZTX3hYT0lOV2Q5OV92eUdpMDNBV1A5bjYzX3phVDVDZEtEYUM?oc=5",
@@ -142,12 +148,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SVHNUWThfRVJodTBBT3I4cnlZRUNRUEhCU0t3bS1LVnc2RE01LTRodEt4bzdPdlA1VHFPV04tR2NBaElHQmZuMTRSUWtnbXJPX25Za2hiZnkxdjY4eGY1OHpFOUFFNE5EdzNZMDJIMmtZOTg?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-20T00:34+09:00"
-    },
-    {
-     "title": "米国によるイラン大規模攻撃の可能性高まる－小競り合いで緊張増す",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0t0ZHBacWRCMjhqVTZGdlZrcjVTbzJ0bHp0ektpNFBhRmQwSmtobmxBZS1rWDdWNHVMWkZadVdUUWJoc3J4Mnp0SnVUaVJXc29MUzd5VUw5QjR3SmhkZjFYX0JIVl9uSl9zV2FaUEEwRnVKekx4RzdhM0NFU2V5ZFc1S19zWTU0d2RrcnBR?oc=5",
-     "source": "Bloomberg.com",
-     "at": "2026-11-19T21:52+09:00"
     }
    ]
   },
@@ -155,6 +155,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-20T07:06+09:00"
+    },
     {
      "title": "ロシア戦略爆撃機が台湾の防空識別圏に進入　今週2度目",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXhzdllaajNGa2dQM1VHbm1Jblp4eDJiMk9XUXlQd1o3UlJTUU1oOEh3YUpJTVByaVB4SkpFUXlUaDBvbDRpMWotUW5nQUFEQmpfejA5a3VqbURkdE9mRS1RYU5seVFJTUZZeUJxdUt5X01JVERhUlB2UmlJQkZqNHdYUjJ4QjJFSndQWHE1TnV1d9IBlwFBVV95cUxPZ3d1dlJBd3hmLWdTUW8wWHFocTYzbDZjR0w0elROYTJaQXpZdDVVVW9Tamlpd29uWVAxMzkxeWN4ODlkWlcwOFBiUlctdWVabEJ1aGRmWl9VR0hELVNIYzRFeW52cFVjWnVmbDY3T2Y4RG9FNHFoR0gxUFA2bDRBcnJZNWhaQjFqeGd5RUhVU0wwNEh5bUNr?oc=5",
@@ -184,12 +190,6 @@
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckQxc0RNZU1YQVJiSjd0X3dkWmJTbkQ0UWJDOGpVVTJwTjJBRVpEeE5kSGJackV5dHFTQkpyeEh3TFJoel9WTVlvMEhPUmhRSWUzdDlrLVBCRktZcXYxQTJGdVI0WHBoc3lHcmg2RGJBYXJOOEc2QTEwQTRzb0ZMNmlFRThHdGItcVdqVFZGUzlhRHBzYWFr?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-19T14:10+09:00"
-    },
-    {
-     "title": "「2027年に台湾侵攻」は本当か…一人歩きする“期限付き予言”の陰に隠れた、開戦すれば“やり切る”中国の武力行使の論理",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbVptem1rY1Vja1ptN09KMnNVVmRQX3NsYXMybjY0UWVBSEFPOW9nQU1rMHd1akpROEcwQUwyZ0ViRDcyOVhDckl4RFJZeTUxZVVPcEdKSk9oYUZOV2kxUXB5c2lvTnRWT3d0dkxHMnl6MEg1MXZqbldGdWdmcEU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T09:00+09:00"
     }
    ]
   },
@@ -197,6 +197,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "トランプ氏、金正恩氏と「いずれ会談」 歴訪中は多忙で実現せず＝ＮＢＣ",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qajh2NjJ1TUJKOTBWNDF1VmcxNmpTM2MwcWhnVU9XZTR2SG1xVjhJamVaQi1wdE9YRWItZ1F5X1hWT1hJR0JENE0tYW5UQWZ0SmxPam80VjVvcWFDcUxoTjFyai1QS25QQ2sybmtZb2lSWWp4djBSVTA4U2VBVE0?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-20T07:35+09:00"
+    },
     {
      "title": "ドナルド·トランプ米大統領と北朝鮮の金正恩（キム·ジョンウン）国務委員長のアジア太平洋経済協力会議（APEC）首脳会議の契機会合がついに不発に終わった。米NBC放送は19日（現地時間）、トランプ大統領..",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNkswbUtMeUJGZFR6dzRKT2RDd05TZ0R6QUJTTUtvS1F2UmdXSVduWV9IcTA2TlAwczRSOTZ2TzZ2ZndkeGtZNEpzT1RaQm8?oc=5",
@@ -210,6 +216,12 @@
      "at": "2026-11-20T06:11+09:00"
     },
     {
+     "title": "李大統領「北朝鮮との対話の扉開かれ、平和議論を期待」",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXVnSXhWb1o5MGxPMkpZSWZQWmV3VGktTUZlc3htMTdUM3JsR084ZFJhQ2FTTkRiTkgxeVZTaGRFUE1pek5ZU1JJM1FEb1l1TkZBYTM5MTVNcDRLRlZpQXRET0l0MTVXZXc2UXFBZVBHT2JUUGlKUjcwSDhETjUwTDJBUTM5Z21zWFQ2NDJ3?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-20T00:52+09:00"
+    },
+    {
      "title": "米朝首脳会談は実現するか？中露に高官を派遣「金正恩の思惑」",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSC1mZmlfQm9NVmJqc3Z2bDNHMUtMd2EzOWtRT1JTUW83TjBEUVgyOWF0Nl9kRXpVTVVTc0dsaWktZzRhTktjNldsd2ppZXp4NHVXb1hxbW4?oc=5",
      "source": "現代ビジネス",
@@ -220,18 +232,6 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSVFpZ0h2SHM4M2VsTmtKc3htV3lkRmozSHZ6QVRYc1JuT21WY1BiaUJFbzJPQktqZHVQZVowWHpZTERpTk9HdG53YkgzSGR1UzlB?oc=5",
      "source": "매일경제",
      "at": "2026-11-19T23:33+09:00"
-    },
-    {
-     "title": "北朝鮮、非核化議論を注視か 韓国も「頭越し」警戒 米中ロ（時事通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZVJPM2tnQWZ6WHJfVFZ3QlZLU19EZjk2LUVjQ2JvQWUwNEZJeXVFUjlFdVdyMTg5M2RSOGhpOEluN1Y4ajlzdTZNYkpTTFhnM3JUWHNQUjdBbjY1UUlaTWZYTXQzeHZkYVgtaDlkMW04b3VNVWpMUzdQalkzRkE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T22:22+09:00"
-    },
-    {
-     "title": "金正恩氏は深圳に姿を現さず 前日には約2300キロ離れた咸興を視察 米朝会談に関心",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmtCLVhkWWJkZUpublBLbjJOVUJMNnpqWHVjQTV1a3VTZXJJZlZWdjhVY1dGaENDY19YRnF4SV9JT21Vd3N0SHVVbE9PdVZhSHFvb2g5OE9LWDhVcDh5T0xsSDhLNTYzYmVad0NRR0k2YjBSTUpLeFo2TlNHd3N4SDRqaE9fRXU2c0MwNw?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-19T18:54+09:00"
     }
    ]
   },
@@ -282,6 +282,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後、米クシュナー氏発言（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYkY1anBncTlybjJfTGgtSlU1Q0dXeUhIb1E5cTNPQWlTOTJXOHVNWG10THJBMEEwNnk4bEo5LV8yQXNqMC01VFlkeWV6bFlKY0o2RGwxMjJkNE02bTh6MFdsSEkyVEstQWhQdGxGN1dRUzR4c05jb1dsRVE0MXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T07:35+09:00"
+    },
+    {
      "title": "キーウへの攻撃で複数の大使館が被害を受け、EUはロシア大使を呼び出す",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSElCanRRWDA5Y05VVmFRYnNFQndUS2RrNDR6dWRUdUpGcmJLM0FXVzM1N3U0LTNVaUdkaTBiR0pZZnFWaXEzY3F6RUNnczBhT1FaOU5nOWJ2RlFnU0JVS214UW4tU25hM1F1R2Nha2NSbHNCZUNlWHhtWVg1TG1zRmwtUDc4UjBQZ0hOYmhvWmJkMjl3SjdxWkp3?oc=5",
      "source": "Mezha.net",
@@ -300,22 +306,16 @@
      "at": "2026-11-19T15:16+09:00"
     },
     {
+     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-19T14:08+09:00"
+    },
+    {
      "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sc290ekFBemRvNERCNWhiWmVSQkxfM3VNS0d2V0RGOW13am5mZ1N5dHRsMnFZX1NUZUlvbWhLQWxOZGpFcXcySFNQeXVURFNZcVE4cnN0bVJCeV9vdkFwUi1NZ3oyenZo?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-19T13:00+09:00"
-    },
-    {
-     "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTh2UkxiOU1PV3lRcVV2T2Z1ZFJMZ0tyblQ0dlp6bk1UYlNIVkI1UGJmNS10NW9rZGNoWW9uc1hEZGVyTjlZeGo4QWFKQzM1U1NlRVBCb3RmS2hhdlk0aVM5X0hySEhGVGtXYVhLTGtjcVNKVjZjUTN2RXdETmVuODVWRzdGOVhvMVc5T2pDVDZicG1vbXptOA?oc=5",
-     "source": "Pasquale Pillitteri",
-     "at": "2026-11-19T07:09+09:00"
-    },
-    {
-     "title": "日露首脳7年ぶり接触、それぞれの狙い 欧州との制裁連携は継続",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OYVRhRl9yLW1NZmVnRmFDUkZreWFPeHViak1Ka3hzR3hWSFliZU83Vk1GY3p2cHpfTEFVV05OZk51aVItN1p1SFBQRVU3N0hWWGRLRjc1TlFFOGYydDFtMm83LWk5dUVt?oc=5",
-     "source": "毎日新聞",
-     "at": "2026-11-19T05:00+09:00"
     }
    ]
   }
@@ -412,10 +412,16 @@
    "at": "2026-11-20T00:04+09:00"
   },
   {
-   "title": "今治海保とＮＴＴ西日本が通信障害対応訓練 しまなみ沿線の災害想定",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlVEVJU01RSGlYMjU2T181Q3cxeHl3aF9sUjFuZm9ERVVja0JWb0U1ZXB4Y2xra0ZyNHIyTmx5MWZwcGNmamFjbWRVUzhLd18tVURVTjJDcEJwc2xPSF9NOA?oc=5",
-   "source": "愛媛新聞",
-   "at": "2026-11-20T00:02+09:00"
+   "title": "相次ぐサイバー攻撃へ対策 都、局長級の臨時委員会",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56cFVScnlMR3Y5YkhRcXcyLXRBS3VrVjN5X0dqRDMyb2ZVQ1RVd05mMlNVR3VXY0VhNlRPNlQtcUdFOEo2dFdUY2N0bnktOVF3R3NJ?oc=5",
+   "source": "東京新聞",
+   "at": "2026-11-20T07:35+09:00"
+  },
+  {
+   "title": "FFGインダストリーズのデータ分析ツールに不正アクセス 顧客・取引先1,221先の情報漏えいの恐れ",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFpNUzZyUjRYWGU1SUMxRHo0TFhnZHF6QVZoRC1MZEVYQ245UGZjTWdKRGFGdVdOa0FwaUN4WnZ4UktsbFdxT0haVThuUDVCUjNFeWpnUzlUV0lUampqUVlob1hMcUh6dEs1MUNpTmRIRlAydW9oLW5sRHR4V2JFSWtOeDI4UWdGeFBPSWdpZXNjM0pMSUFHXzVXWWNjaWlhbzNFU21B?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-20T07:30+09:00"
   },
   {
    "title": "欧州委にＡＩサイバー攻撃＝複数システムが一時停止",
@@ -458,16 +464,38 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fU3hScm5rVUZkWWt3SUJzODRCTFhIVlExZHpYaDJMTmpnYjczaDh5LWlTTTlfYXBwNDlxNURMbVFSYloxU1dHNEUzRlc5WWY2YXBsWFNyYjVrT2tC?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-20T06:37+09:00"
-  },
-  {
-   "title": "ＪＰモルガン、委託先がサイバー攻撃の標的に 一部顧客情報流出の可能性",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VS2J3UVNkV1p5bUc3MC1YRWZmTXZZeEotWmRGUGdHREltd1BjRm1ZRGRzRXJKWm51OXZzczg0Z0VibjZ3VUFCMzF3UlR3R29LMjhNZ3h4NWJoZw?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-20T06:11+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "トランプ氏、金正恩氏と「いずれ会談」 歴訪中は多忙で実現せず＝ＮＢＣ",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qajh2NjJ1TUJKOTBWNDF1VmcxNmpTM2MwcWhnVU9XZTR2SG1xVjhJamVaQi1wdE9YRWItZ1F5X1hWT1hJR0JENE0tYW5UQWZ0SmxPam80VjVvcWFDcUxoTjFyai1QS25QQ2sybmtZb2lSWWp4djBSVTA4U2VBVE0?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-20T07:35+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後、米クシュナー氏発言（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYkY1anBncTlybjJfTGgtSlU1Q0dXeUhIb1E5cTNPQWlTOTJXOHVNWG10THJBMEEwNnk4bEo5LV8yQXNqMC01VFlkeWV6bFlKY0o2RGwxMjJkNE02bTh6MFdsSEkyVEstQWhQdGxGN1dRUzR4c05jb1dsRVE0MXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T07:35+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "トランプ氏、対イラン攻撃再開「年明け以降に動き見極める」　上院は攻撃制限決議案を否決",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW1WRUxORFltR1lrWnVwbzNQSklGekFTb3lKNHRoNFRlQnZ1Q09WazEwRFJleWlxVk1rQnlvUXYxM05oeG1SY1RhenhQd25xTEhfM0RjV2dLYlVkbkpYYnlXVTlZc3NRVmJyRmZpZmFkNmtpbGlGNlg3aVRTQ0hIYUNLejZPVTh6SFZON2xUekF5cmZZdUNkczhQek8wTkxNbE1r0gGoAUFVX3lxTE5YSzVrekQ2d2RyYnY5VWU5b0x2RlZnaHVmYVhjR202WGdUM0RDeHJfb2tDb3hxOHdSRXdkbldqYURTaWhXSjVBWVl0am9ybE0tc0JWNDIzQWdwdXRKV2tUX0pQQ251X21jNjVuMUZJenYtb3o5dGVEQVNCTGZ3RFB6Yl8ybHNTNkpoYmRab2Vsa2M4Z2o1TkpLN2NtS2hEcDF2ak5VclZQaQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-20T07:32+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-20T07:06+09:00",
+   "topic": "中国・台湾"
+  },
   {
    "title": "イスラエル情報機関トップ、米にイラン再攻撃を要請していた",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXlIQ1V5UTFtdm5DLVN6M2dvOU5tQ3BLeEhxM1ozNmFGSGpzemF0UkNQSS1haXNoSFhQVk1ZQ3FnUmxnSlNrNFRQRXdQTDFLbGd2NE5rSUJZMEJOdEY2aTRoTEJYUGpiQmdacU0yejk3YWZ2ZXJ3ZFprS1lka1VwVUZ1MkZXY2tWRmpiMVd1MWtNRHRVMWtMRlh1a1ZTX3hYT0lOV2Q5OV92eUdpMDNBV1A5bjYzX3phVDVDZEtEYUM?oc=5",
@@ -553,6 +581,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "李大統領「北朝鮮との対話の扉開かれ、平和議論を期待」",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXVnSXhWb1o5MGxPMkpZSWZQWmV3VGktTUZlc3htMTdUM3JsR084ZFJhQ2FTTkRiTkgxeVZTaGRFUE1pek5ZU1JJM1FEb1l1TkZBYTM5MTVNcDRLRlZpQXRET0l0MTVXZXc2UXFBZVBHT2JUUGlKUjcwSDhETjUwTDJBUTM5Z21zWFQ2NDJ3?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-20T00:52+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "トランプ大統領 イランへの大規模攻撃を検討か ブルームバーグ通信",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SVHNUWThfRVJodTBBT3I4cnlZRUNRUEhCU0t3bS1LVnc2RE01LTRodEt4bzdPdlA1VHFPV04tR2NBaElHQmZuMTRSUWtnbXJPX25Za2hiZnkxdjY4eGY1OHpFOUFFNE5EdzNZMDJIMmtZOTg?oc=5",
    "source": "Excite エキサイト",
@@ -572,48 +607,13 @@
    "source": "매일경제",
    "at": "2026-11-19T23:33+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "キーウへの攻撃で複数の大使館が被害を受け、EUはロシア大使を呼び出す",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSElCanRRWDA5Y05VVmFRYnNFQndUS2RrNDR6dWRUdUpGcmJLM0FXVzM1N3U0LTNVaUdkaTBiR0pZZnFWaXEzY3F6RUNnczBhT1FaOU5nOWJ2RlFnU0JVS214UW4tU25hM1F1R2Nha2NSbHNCZUNlWHhtWVg1TG1zRmwtUDc4UjBQZ0hOYmhvWmJkMjl3SjdxWkp3?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-19T22:31+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "北朝鮮、非核化議論を注視か 韓国も「頭越し」警戒 米中ロ（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZVJPM2tnQWZ6WHJfVFZ3QlZLU19EZjk2LUVjQ2JvQWUwNEZJeXVFUjlFdVdyMTg5M2RSOGhpOEluN1Y4ajlzdTZNYkpTTFhnM3JUWHNQUjdBbjY1UUlaTWZYTXQzeHZkYVgtaDlkMW04b3VNVWpMUzdQalkzRkE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T22:22+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "ロシア戦略爆撃機が台湾の防空識別圏に進入　今週2度目",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXhzdllaajNGa2dQM1VHbm1Jblp4eDJiMk9XUXlQd1o3UlJTUU1oOEh3YUpJTVByaVB4SkpFUXlUaDBvbDRpMWotUW5nQUFEQmpfejA5a3VqbURkdE9mRS1RYU5seVFJTUZZeUJxdUt5X01JVERhUlB2UmlJQkZqNHdYUjJ4QjJFSndQWHE1TnV1d9IBlwFBVV95cUxPZ3d1dlJBd3hmLWdTUW8wWHFocTYzbDZjR0w0elROYTJaQXpZdDVVVW9Tamlpd29uWVAxMzkxeWN4ODlkWlcwOFBiUlctdWVabEJ1aGRmWl9VR0hELVNIYzRFeW52cFVjWnVmbDY3T2Y4RG9FNHFoR0gxUFA2bDRBcnJZNWhaQjFqeGd5RUhVU0wwNEh5bUNr?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-19T22:01+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "米国によるイラン大規模攻撃の可能性高まる－小競り合いで緊張増す",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0t0ZHBacWRCMjhqVTZGdlZrcjVTbzJ0bHp0ektpNFBhRmQwSmtobmxBZS1rWDdWNHVMWkZadVdUUWJoc3J4Mnp0SnVUaVJXc29MUzd5VUw5QjR3SmhkZjFYX0JIVl9uSl9zV2FaUEEwRnVKekx4RzdhM0NFU2V5ZFc1S19zWTU0d2RrcnBR?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-19T21:52+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ニクショル・ダン：「ヨーロッパは現在、ハイブリッド攻撃を受けている」",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGpleDlXR3ZzOWJxTEdSMEdoTnM4VDlIeUJiWUo5aEFEMHpYSllIU3N3cHhUcmtCYVBmaGgxQ01mdFZ0ZXNLc0dFZ0lmZTZJbUVWeGh1NUh1R2N0Ty0wLXN5ekhRS0RfYkQ3Y2Vwd0l0eXdkQkc0VnpYYmd3azJVWU1jRE9weWl4VXBUUkFNcmx1U0dDYUdoTVFQamtVbTRpRWc?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-19T19:16+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「今治海保とＮＴＴ西日本が通信障害対応訓練 しまなみ沿線の災害想定」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
@@ -626,16 +626,16 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」5件",
-    "中国・台湾：「爆撃」「侵攻」4件",
+    "中国・台湾：「爆撃」3件",
     "ロシア：「攻撃」「爆撃」4件",
-    "欧州・NATO：「攻撃」「侵攻」4件"
+    "欧州・NATO：「攻撃」「侵攻」5件"
    ],
    "items": [
     {
-     "title": "イスラエル情報機関トップ、米にイラン再攻撃を要請していた",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXlIQ1V5UTFtdm5DLVN6M2dvOU5tQ3BLeEhxM1ozNmFGSGpzemF0UkNQSS1haXNoSFhQVk1ZQ3FnUmxnSlNrNFRQRXdQTDFLbGd2NE5rSUJZMEJOdEY2aTRoTEJYUGpiQmdacU0yejk3YWZ2ZXJ3ZFprS1lka1VwVUZ1MkZXY2tWRmpiMVd1MWtNRHRVMWtMRlh1a1ZTX3hYT0lOV2Q5OV92eUdpMDNBV1A5bjYzX3phVDVDZEtEYUM?oc=5",
-     "source": "WSJ",
-     "at": "2026-11-20T06:59+09:00"
+     "title": "トランプ氏、対イラン攻撃再開「年明け以降に動き見極める」　上院は攻撃制限決議案を否決",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW1WRUxORFltR1lrWnVwbzNQSklGekFTb3lKNHRoNFRlQnZ1Q09WazEwRFJleWlxVk1rQnlvUXYxM05oeG1SY1RhenhQd25xTEhfM0RjV2dLYlVkbkpYYnlXVTlZc3NRVmJyRmZpZmFkNmtpbGlGNlg3aVRTQ0hIYUNLejZPVTh6SFZON2xUekF5cmZZdUNkczhQek8wTkxNbE1r0gGoAUFVX3lxTE5YSzVrekQ2d2RyYnY5VWU5b0x2RlZnaHVmYVhjR202WGdUM0RDeHJfb2tDb3hxOHdSRXdkbldqYURTaWhXSjVBWVl0am9ybE0tc0JWNDIzQWdwdXRKV2tUX0pQQ251X21jNjVuMUZJenYtb3o5dGVEQVNCTGZ3RFB6Yl8ybHNTNkpoYmRab2Vsa2M4Z2o1TkpLN2NtS2hEcDF2ak5VclZQaQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-20T07:32+09:00"
     },
     {
      "title": "ロシア戦略爆撃機が台湾の防空識別圏に進入　今週2度目",
