@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:30+09:00",
+ "updated": "2026-11-19T10:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,26 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T10:34:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T10:32:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T09:38:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -77,26 +97,6 @@
    "mag": "2.8",
    "maxi": "2",
    "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T06:16:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T05:25:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -393,16 +393,40 @@
    "at": "2026-11-19T08:33+09:00"
   },
   {
-   "title": "米コストコで防災用品の買いだめ急増、相次ぐシステム障害に不安広がる",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQMFQtWEV2Uk02X0trWE9aMWZtcGVyUHgxQ1l1dWtYeHBnSHVOaHp1eExmVjcxWkxJRDNJRzFBb25FcWlmMEo0?oc=5",
-   "source": "フロントロウ",
-   "at": "2026-11-19T08:00+09:00"
+   "title": "六花亭オンラインショップに不正アクセス、カード情報約8,000件が流出した可能性 決済画面改ざんで番号全桁・セキュリティコードが対象|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcU9zVng4LWpMRExqbEFQTi0ySTJKempEeGROcTlwcHhuV3VPLXVyVmYyZEVndjFya2hDYnNYRUF0MkxjSXFXTEFzaHdGa2QtNENzS3d6U0kzZUlvT2JGc25vei1tVHNfUWNVZ0doejR3YnBhVV93QjZFVXRMS1ZHYXFSWFdaSy1IWGx5a3BHcV9WeUVId1JWNnVzQW9aNmh2UVE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T10:41+09:00"
+  },
+  {
+   "title": "プレイドー急落 不正アクセスによる情報漏えいを引き続き嫌気 トライアル傘下でも被害(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkxnSm4ySGxoaG9zYjRPV3loRDNwMEt4RGtQWV9lVmpPcWdFR0M5Umx5emlBQVMtNXU2eFlCQUl2UElwTEhmdC0tM280Qk5UamxOLVF6b19TM2V1WFhfczA2cHI1c3NGT3RCQzA3c0s0U19rMVNLVUFrbE5ac2VwUGFCTGRPeDQ?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-19T10:36+09:00"
+  },
+  {
+   "title": "三菱UFJFG株価6日続落 銀行顧客情報650万件漏洩、不正アクセスも",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zaFBldFdfeF92NlhjX3U0Y0RRcEMyZl9ydG80aVhZWUJqaWxSazQ0SWlkang4ZlZJSWhJV09kc01wdkJuVTdZNWJ2LXZUS2RhYWtzM3UyYzgwYUNldTRmQ1V5WkhFdnZkcDhUNA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-19T10:31+09:00"
+  },
+  {
+   "title": "銀座あけぼの、メールアドレス6,155件の漏えいを確認 委託先アララへの不正アクセスが公式通販のメルマガに波及",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFI5Uzd5QXMxbUZ0dE9CX0JtNnkzRi1lcVA0ZDZSeXdiVklWM1R2cHlVVWRTYjJYVjU1UlJEalVGVUtjVE5UYmtqR0FCU3FfMUs2bm5MWTJ4R2hCbE1SV3hFOWtJMmNNOEVhbjkwcHFoZ2V3cnNOOXR0bExETnRIVm94WU9zMWRjTnZKcGlrLTM3dU9XVEE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T10:30+09:00"
   },
   {
    "title": "大崎電気---大幅続落、サイバー攻撃に伴いスマートメーターなど生産停止へ(フィスコ)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE9hcS1IQWJqZE9CS1lQYW9xeWxHN1g1UldILTM1aTNJc00zYVJjYmVmQUNzTndDdG44NkVQMEVheDVKWnhlWVlpMjh2S2RYSHliSm0wN1JERGpLeDMxQzFveTZZS0Jjd0lFb21nX1VGR0I4MUlEQVNtOGVHWk9nUzczVFQ5Zlk?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-19T10:19+09:00"
+  },
+  {
+   "title": "越後製菓の公式オンラインショップで個人情報が漏えい GoQSystemへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTJqNWl6cTF6UjZRVkxCM29QUjZHbjNPMUI5VjJLWUp2TUNJLXdlWVdPRm5wRDBPY2RiYThOcFh5NFRQZklXd3BYMms1b1pxNEFEMXZHOTZWR0dVY2hwS0FTQzhYRWJsaHpOOVFaQ3lNREwweUh5RUlyLVZIX3RXTTlQaDZLazQ0UHczUkVld0t3aFFEREctb3FDd3VNZw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T10:15+09:00"
   },
   {
    "title": "相次ぐ攻撃受け…東京都、中小企業のサイバー対策で緊急会合「取引先への影響懸念」",
@@ -423,34 +447,10 @@
    "at": "2026-11-19T09:48+09:00"
   },
   {
-   "title": "ニュー・クイック、LINE登録者最大5万1,951名の情報漏えいのおそれ COMSBIへの不正アクセス、28名は性別・生年月日も対象",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXRSNmhqbldsUG9ZOXp6U3F3WFRUN0hzcG5XTmlvMDRPMXpYMV9oNlphWlpkY1RGVml2dXFjZXdxN1FwcXBHQ2hwLUhYMHpNcDJLN2dOeXhBRnI4ZTNMRkpkdThBQ3NvdEdBMmZMM19qcHBnTlNZdG5aWUl3cG56YklOQmo2LVdlZUJMNUNqLW5JS1E?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T09:30+09:00"
-  },
-  {
-   "title": "トライアル、決済アプリID6万件漏洩 委託先に不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdVc3Y0xveGYybXd3OV9GT2wxWUJydEpoY0xoUE1WSDFvbVBQZjlmLXhQVy1HOUpsYzJJbkFvalRadXJzQi15SHdNZVVFbElwbnhBY1dvWEZEblAwVW43OFp5a0ZBcG5YRHRPWA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-19T09:26+09:00"
-  },
-  {
-   "title": "エア・ドゥ、アマデウスへの不正アクセスで約2,520名に影響",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PWWhzRkZBVVAyQlV3bkVsR0g5ZGJEal9kMkdTQ2REMjNsaU90a3JaVS1iQ3U3N0V5V0Q3ck5sald4ay15Y0lVRmF4aDdEd0ZSSGtwYmRQVQ?oc=5",
-   "source": "TRAICY（トライシー）",
-   "at": "2026-11-19T09:18+09:00"
-  },
-  {
-   "title": "Mythos時代のランサムウェア対策入門",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hUGJXSUZyZVVma3ppc1l4WVBCXzJKT3NIRUNKU1JfYmJIQ05saVA1aXd6UlBvQ0daLXIyUFJSNWZ4TFFyMUxQMEVYS3B5OVVpTWhDcmNnMnNxUmJmSUk4cFFR?oc=5",
-   "source": "SKYSEA Client View",
-   "at": "2026-11-19T09:09+09:00"
-  },
-  {
-   "title": "大崎電気工業－売り気配 ランサムウェアによるサイバー攻撃に伴いスマートメーターなどの生産・出荷を停止",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPczF3Zm5GLVhHVXExeHE1OW03R1lUZ0NaT2gxNHhmOE9NVmFEaTJhMVhDUHgxR1JtQjdKWXRoc1RGazd0b3RmS1ZqZE1qSUR4YjM1U2pvMVdsQlI2VHJ5Y1lIbUJacHQ5Q0ctMEpDTlV5alJRS1hMc1p1R1lKTXFTRjBadG43VGM?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-19T09:03+09:00"
+   "title": "鹿島アントラーズ、配送委託先オープンロジへの不正アクセスで顧客4万844人分の氏名・住所などが流出",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tcVdpZV9Qc18weHhvR3lsVkZjWHRMb2ptUnFiXzM0bVBRS3ZVNVNLMzlSMFVXaDlVQzFReUZ0d3MxaWNnNFdhMg?oc=5",
+   "source": "株式会社アクト",
+   "at": "2026-11-19T09:47+09:00"
   }
  ],
  "osaka": [],
