@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:00+09:00",
+ "updated": "2026-11-19T21:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T20:58:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T20:41:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -91,16 +101,6 @@
    "at": "2026-11-19T17:05:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T16:53:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -174,8 +174,8 @@
      "at": "2026-11-19T16:55+09:00"
     },
     {
-     "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性 写真3枚 国際ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXc?oc=5",
+     "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXfSAVRBVV95cUxNWTJhdFJDNTFvTENhaVZaV2k4MmJ4Yi11dnQzWC1zbnJBZEtVc3BoRnBxX0laTS04cHRWbi1aWXNzbGkxcmdZRTRydFdtV2tZRmF3S0I?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-19T16:35+09:00"
     },
@@ -358,14 +358,7 @@
    "at": "2026-11-18T19:02+09:00"
   }
  ],
- "outage": [
-  {
-   "title": "大阪府の停電情報",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iRTZJREIxVWNNU3V0N3ZKcTQ1RWZ4OUVkeHBYdFkySmEwc0UzOHhWSjZ5SXNCNzd3ejBJWGpOTVVJM3duYngwQ011Vi14R0ZZaGFLTHBFSFBFLUVCbkN4QlhweTE?oc=5",
-   "source": "ウェザーニュース",
-   "at": "2026-11-19T03:00+09:00"
-  }
- ],
+ "outage": [],
  "japan": [],
  "cyber": [
   {
@@ -373,6 +366,12 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Mb1dkLU94R05EUkFzVFBSNDEyN1lJd2Zaem14akxpUUNHbmg1SUl5WWVidnNTREkyYy0wdjV3TFU3MnR6T2t1NXd6UDVCLWEycW5kMlFoMA?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-19T20:50+09:00"
+  },
+  {
+   "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導 通信障害も相次ぎ信頼揺らぐ",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rY25YQ1E2VHFXeGxudmhoTGZlVHV1S2dJTkhYMUh2Y0RscllOYWVsTWlNbXB2VEhVV1NvTUctMEMxZURzeGx6MkhveFRpQ2NWd3V6Q0pScWN0dDhKX0RHUkdidWZTcWxlOXRIWk9WYXpULXBpd3dPUzI3SF9teG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T19:22+09:00"
   },
   {
    "title": "今治海保とＮＴＴ西日本が通信障害対応訓練 しまなみ沿線の災害想定",
@@ -403,6 +402,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jTjJrOU04aTlUZTYzTEt0UEw3SmFERVhXcGxZUEV6MkpQaHhHeEllQjJTYlBnMmhlSHp4R0NVdUZ1ZjQ2OXM4ZE0zcldPUmtTWDVPcExkWkFkZ2NneVJobEtFbW40X0RtMERnOUdLM2xYQU83THFzaTR2anFkZVE?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T20:50+09:00"
+  },
+  {
+   "title": "金融庁、楽天証券に報告徴求命令 不正アクセスで異例の対応 [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNTVrQVVzWGVaLXpSaU9WV1BJd281TFZwZjVWNFQzbXNoN2Q5UUdSTlB0WF9Oa1NxTHNLbzJpaGpqUXNOR0dJX2hhSzZOaHQxU1lxLUZ6SDNZUVlvclBJU1doOFEtSFU?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-19T20:49+09:00"
   },
   {
    "title": "タイミー、求人事業者22万人の情報流出 委託先への不正アクセスで",
@@ -445,18 +450,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzQ4YTA2eUYxQTJqdWVZUGRWalpkdUtzbXF3MTNmYVhwMXc2QktQbzItT0poenZLdkxuZmlPbElsMm9IT19HZ1g2aDRELTBFaUNRdWYyUmQ1SnFfbkEyR2dhdEx6RFhocndKYXhBYk85QzhkVF8yajlBV2xhcDI2Y3ozM1d0UEE?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-19T19:35+09:00"
-  },
-  {
-   "title": "サントリー傘下企業、健康アプリ「Ｃｏｍａｄｏ」顧客情報が最大９４万７６６７件漏えい…「カルテ」不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeTZ6WVRzc0FpblBxdWhfTllObUdLbW11YTBMQTVvaXdOZTZMWVJ3UDJDa3lCVEZ1ZkFtcTlvV1N4V3NlTnZTa082MUlaWW8zZTloODh3bVV3RUg0Q0VLTGtCTkk?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-19T19:34+09:00"
-  },
-  {
-   "title": "『六花亭』に不正アクセス…クレジットカード番号と\"セキュリティコード\"など約8000件流失か―サイトの決算画面のプログラムが改ざん「不審な請求があった場合カード会社へ」〈北海道帯広市〉",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FOXlVVWRSZF9OcERGcWV3aUVFTDZ4ZFpxY2M3UUFlY3o5ZG55YkRJZTBhX1lzS0E2b2N0V0pVQnNZVE5hcVNfYTh5MGVGQTYyYWI1T3Y2TQ?oc=5",
-   "source": "UHB 北海道文化放送",
-   "at": "2026-11-19T19:27+09:00"
   }
  ],
  "osaka": [],
@@ -581,8 +574,8 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性 写真3枚 国際ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXc?oc=5",
+   "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXfSAVRBVV95cUxNWTJhdFJDNTFvTENhaVZaV2k4MmJ4Yi11dnQzWC1zbnJBZEtVc3BoRnBxX0laTS04cHRWbi1aWXNzbGkxcmdZRTRydFdtV2tZRmF3S0I?oc=5",
    "source": "AFPBB News",
    "at": "2026-11-19T16:35+09:00",
    "topic": "中国・台湾"
@@ -606,8 +599,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "停電の報道（大阪府の停電情報）",
-    "「今治海保とＮＴＴ西日本が通信障害対応訓練 しまなみ沿線の災害想定」"
+    "「「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導」"
    ]
   },
   "japan": {
