@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:30+09:00",
+ "updated": "2026-11-19T11:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T11:27:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T11:15:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -85,16 +95,6 @@
    "at": "2026-11-19T07:10:00+09:00",
    "place": "熊本県熊本地方",
    "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T06:54:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.8",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -180,9 +180,9 @@
      "at": "2026-11-18T18:28+09:00"
     },
     {
-     "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UzJvMjJxSzhIX3hDVUN1YlZHUjh1YVFIbjFMbnEzako2QjQ1QmJSU2duM1ZpSG9yTzluRkFHcG9Vdk44cFVDd3Q1RVFYM2p3Y3BxcnIxSEVtaDNMUlBnVUJ3NV9qZG5PX2EzTnhHUHFnbUlvUmVldHZsc3E2SE0?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUxLTzEySUNlMW9XWlluVmRSb2FBcGJReGhwNlVZRi1yUzVURXBFcjlXSV9DYmx3bllNR0tqbXoxTWVzMENHU01DbElmS2dTamxRZjdZaUUtMm1JNkVPM3lvN010YVd6d3BEOHhiNVFZMzJJWWphS1Jhb1FzT1RNdG1NbGs?oc=5",
+     "source": "Reuters",
      "at": "2026-11-18T14:36+09:00"
     }
    ]
@@ -191,6 +191,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlFHaW1QZENsVElKbEdRaGNmaUlBZklkQTNINVoxQm9oQVNuNmoxM1hOcll5VUVTQW1rTDVvWmdNb0Y3ak54UUY2dWdEbkZFakVYSHVyLV8zNHRQQUlCQ2x6Wm1WTWFEaktsSmk0eHdpeDhrMFduTUJrWXBtQldGVFJGbFFPbnF3TWw3MUFn?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-19T11:25+09:00"
+    },
     {
      "title": "共に民主党のキム·ミンソク代表がドナルド·トランプ米国大統領との過去の面談で北朝鮮の元山葛麻海岸観光地が議題に上がったとし「北米間に非常に相互関心がありうる領域という次元で話が出てきて、それに対する非..",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IRjY5bEZnM2FGYUV1b09NLVM0aThxR0V6NGItcjcwZkVDdWVQUzFRZGpQbWpFejBnd01YZGttMm5wdzdxWTMtRXlrMkY0YVR6X0xv?oc=5",
@@ -220,12 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5idURvMGdzZjJTRk5LZlJGTnVWb1JJU2tYZ2ktekthSlBqVlp6LTdBZ1pxSFUyeDVDVG1QRHJVcEFhbks0ZnVqMVJLeTVCY1BfWUtjVW1fRjlFTjlxd3M3TTdxalVoRHFtLWlPVERNR2ZRX3Ntb05yaVF4THY0TUk?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-19T09:27+09:00"
-    },
-    {
-     "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZQ29BZlNrVG55WEZrVHY3OVZ4LXhFTERsaDBPYXFlc0MtYjNsbl9ZMHZFSTAtbGZpVld0U2tZa3o2Qk1ZTEpCRmtDTGZJZ3Z3bkw5MTlIS3J1WENRejhNeEwxaGtYQmVTZGtqcl9QQU8wdXlFT3B5OVk4YjRvZzA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T09:11+09:00"
     }
    ]
   },
@@ -389,7 +389,7 @@
   {
    "title": "シティCEO、システム障害増加を警戒－パッチ適用が従来の5－10倍",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWm45UDZ3QXNZckJadDY4dVFOeVFPNVY2X0JwTnRlQ0MtYWZEVHhzbzBpcWVvSWlOQ1NWSFZka3pKOUhNMHNFM01vVFIxUjE5RHR3QzAya2U2SjM3M3NLd3Jkck1TNUs1QVdCdTIzMktUTFg2Q0w4VnNBUzBIWGU3U3AxWjZCUEh3S0lRNFNn?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "at": "2026-11-19T09:52+09:00"
   },
   {
@@ -405,16 +405,16 @@
    "at": "2026-11-19T09:30+09:00"
   },
   {
-   "title": "障害者手帳を持つ友人と新幹線で旅行する予定です。障害者割引があるそうですが、早割とどっちがお得なのでしょうか？",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNktJaUxpdWJnNHBYZFJfZW1ZMXhoS25NdzRvTXA3Y0NJTU5Qc09uZUZvY3pnLTJULWYwX3ZYV21SbGVUWlhWT1NYVFZQUzFIZThFVEhPQUhHRERKMkk4OTZyZklaRWxtYTFYVmRyU1ZRRXBLYW9CdEJBbmREQ0xSenRqX0NILXRf?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T09:10+09:00"
+   "title": "百貨店の藤崎オンライン会員情報 約7万5000件漏えいの可能性 外部サービスへの不正アクセスで（2026年11月18日掲載）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBva1oySW8yNkplal81dkVqR0lCbTdLbmxrT01hc0VRR1ZMY2NPa25pR1BwZ05nY200Z2xxZ1gzWW9PVC01NC1aRDdLRGFsakJrZmo4azUzZkJhWlM3NjZWSTNfOTZFV2x6ZWpscVpLOU96dFFLZGpiUlgzVnl3QW8?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-19T11:35+09:00"
   },
   {
-   "title": "システム障害、今後も相次ぐ恐れ－AIで脆弱性発見・修正が加速",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDllY2toVDBXZHBNbWNCeXZ5dW9GUmo4OExTWTdvN0g5WkJRelZfZVVwVkI2UHU1ZjFMc2V2MmdGel9rdE9UWEJCX2FjdFRZVF9oUnk1UU5KX2JzNGxVQ2V0b24wSUx5bm9nVnNNUmI4N2hyaXhoNnlrYmV6YzlQQ1hGS3VMOUlYZlJSclNB?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-19T08:33+09:00"
+   "title": "「GTA 6」未公開映像90本を流出させたハッカーがRockstar GamesやUberなどへのサイバー攻撃を認める",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRk9UN2JVZGU2aGpwOFVWQWJGNVRxaU5HbURqMXN3WHpxbjA4QzlsLWpHaGtfel8tazRCNTFsdFg2LTR0dGh1aXFFRklHUDdzRW9VN0JIRE1RRVI4bHZyRUtxX0lBbGpGd2tlMW5RWFcwSXVxRFJwY1FneFBoNXZURjI4TjFOei1oWmFGVE9rV3NaWm1oYU1IM2ZWLUI5aVJIV3c?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T11:30+09:00"
   },
   {
    "title": "鹿島アントラーズ、4万844人の個人情報漏洩 委託先 オープンロジへの不正アクセス|セキュリティニュースのセキュリティ対策Lab",
@@ -435,10 +435,10 @@
    "at": "2026-11-19T11:05+09:00"
   },
   {
-   "title": "フラワーキッチン自由が丘、注文者・届け先 1万7,146人の個人情報漏えい GoQSystem不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG5yRy01S1RyY01jYnZaV1FvTllDNDFiaVROMnowQTUzVFlmUEFCMXdpQmYyTC1KNjJaWnhPemEyc2pKdTExNUE1REFrMHl0UHIyTmNaWENkdTdER2QwcWZuSVgwQ1ZQSUZ0RGpLTmtzcm1HNEVjOTBQSUdqd0ZHdUd5SUxnVEhueV8ydEpyTVVlOUNZeVdBWEtWWGxCOE9sX0ZwZ05Wd2FjMzA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T11:00+09:00"
+   "title": "東京都の「赤ちゃんファーストギフト」交換サイトが一時閉鎖、委託先サーバーに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90cGNfUzJ2TEpoYkNnRENQMXhkRlFJYzBBdm44b0tNMklMSV91YmRSeTYyTjdocENXaWdobS1tSldqcjZmOE5ZWVppQWxUMWh1VVlHdmlsTHRSNjc5NUJ0SThuY0tjQQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-19T10:59+09:00"
   },
   {
    "title": "アイロビー株式会社、​サイバー攻撃に備える緊急コンタクトセンターのスタンバイサ​ービス「備えあれば憂い無し」を提供開始",
@@ -455,6 +455,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlFHaW1QZENsVElKbEdRaGNmaUlBZklkQTNINVoxQm9oQVNuNmoxM1hOcll5VUVTQW1rTDVvWmdNb0Y3ak54UUY2dWdEbkZFakVYSHVyLV8zNHRQQUlCQ2x6Wm1WTWFEaktsSmk0eHdpeDhrMFduTUJrWXBtQldGVFJGbFFPbnF3TWw3MUFn?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-19T11:25+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "共に民主党のキム·ミンソク代表がドナルド·トランプ米国大統領との過去の面談で北朝鮮の元山葛麻海岸観光地が議題に上がったとし「北米間に非常に相互関心がありうる領域という次元で話が出てきて、それに対する非..",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IRjY5bEZnM2FGYUV1b09NLVM0aThxR0V6NGItcjcwZkVDdWVQUzFRZGpQbWpFejBnd01YZGttMm5wdzdxWTMtRXlrMkY0YVR6X0xv?oc=5",
@@ -530,13 +537,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5idURvMGdzZjJTRk5LZlJGTnVWb1JJU2tYZ2ktekthSlBqVlp6LTdBZ1pxSFUyeDVDVG1QRHJVcEFhbks0ZnVqMVJLeTVCY1BfWUtjVW1fRjlFTjlxd3M3TTdxalVoRHFtLWlPVERNR2ZRX3Ntb05yaVF4THY0TUk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T09:27+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZQ29BZlNrVG55WEZrVHY3OVZ4LXhFTERsaDBPYXFlc0MtYjNsbl9ZMHZFSTAtbGZpVld0U2tZa3o2Qk1ZTEpCRmtDTGZJZ3Z3bkw5MTlIS3J1WENRejhNeEwxaGtYQmVTZGtqcl9QQU8wdXlFT3B5OVk4YjRvZzA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T09:11+09:00",
    "topic": "北朝鮮"
   },
   {
