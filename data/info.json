@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:45+09:00",
+ "updated": "2026-11-20T02:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -168,6 +168,12 @@
      "at": "2026-11-19T19:33+09:00"
     },
     {
+     "title": "米中、関係安定へ行動計画 習氏、台湾武器売却けん制―今年３回目首脳会談",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsVFQ5U2V2U2d5ZDFjdnZLcWRkbTJVYmdiRmhVVi1oVGh6YnhjNDhFYlItN0JaTW9UT2ZDdndtUVBVQmZfY3Y0Vk9tcG5fVmlhVTZCUDlaYm1ZN1QxdDFUNXI4RQ?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-19T19:07+09:00"
+    },
+    {
      "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
      "source": "Informat.ro",
@@ -184,12 +190,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXfSAVRBVV95cUxNWTJhdFJDNTFvTENhaVZaV2k4MmJ4Yi11dnQzWC1zbnJBZEtVc3BoRnBxX0laTS04cHRWbi1aWXNzbGkxcmdZRTRydFdtV2tZRmF3S0I?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-19T16:35+09:00"
-    },
-    {
-     "title": "台湾、今週に入り二度目となるロシア軍Tu-95の島周辺飛行を報告",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckQxc0RNZU1YQVJiSjd0X3dkWmJTbkQ0UWJDOGpVVTJwTjJBRVpEeE5kSGJackV5dHFTQkpyeEh3TFJoel9WTVlvMEhPUmhRSWUzdDlrLVBCRktZcXYxQTJGdVI0WHBoc3lHcmg2RGJBYXJOOEc2QTEwQTRzb0ZMNmlFRThHdGItcVdqVFZGUzlhRHBzYWFr?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-19T14:10+09:00"
     }
    ]
   },
@@ -411,6 +411,12 @@
    "at": "2026-11-19T20:02+09:00"
   },
   {
+   "title": "Autopayへのサイバー攻撃：銀行が独自にカードをブロック、企業は漏洩規模について沈黙",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MN3hRaDZrRXJ2ZU1neFlLdGNPbUJUbWdjMElpTEZFbGl3aFlIcWo2NHZLbkxpUmVyTGJPYnZMYk1wTnI0ZVNVQUVQcTRLTGNDdWJfRl95S21TeE8wQnZmRzR1alNQQ1pCdHZuZkFBZ2FCMXpI?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-20T01:35+09:00"
+  },
+  {
    "title": "ビザ、マスターカード、JPモルガン・チェースの顧客データがサードパーティへのサイバー攻撃で流出",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40OEhXbnI4dUthdDRBXzhTaWxqX0QwOWJ2MnBsQU1YQ3JzSnFRSUJxc2ptRFdGcVJfYVVlVndzMVBmUUQ1RTNFcDEyQktRVEdEUnlRUlY1R3pRWTlMdVJEWlpCTHlBVEhHTjBQZC02bmQ?oc=5",
    "source": "Investing.com - FX",
@@ -421,12 +427,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FSEZkVmFpOHNtZ2xDSURnMkpJSDB6N1diUUhiY2dWS1BOaFhlLTM0TEVEMXdEdGUwZ1RwQktWRkRTVVdvWjlMN21kVFFCZzNMbnFkODE2UHh6cUFfdkZyV2w2VVJ2dmV5RVVMTERBZVhBWE1Y?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-20T01:05+09:00"
-  },
-  {
-   "title": "米JPモルガン、取引先ハッキングで顧客データ流出の可能性を指摘 「n0n」が犯行声明",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEYlRVUmZ4Z2psTk93aV9hQXU2MXZTeUFJeHlLZ1k0ZzM3TE45T2otM2s0c0otY3d3dHpmV0Q1LVFydUJLcEdScUx2VUZVV2llLXNPLWFXaVJMWkpybFhONFBEeUlKaDF0RVlyazVXVk9OSU1q?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-20T00:35+09:00"
   },
   {
    "title": "EUの欧州委員会にサイバー攻撃 AIツール悪用か「職員の情報流出は未確認」と説明",
@@ -574,6 +574,13 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "米中、関係安定へ行動計画 習氏、台湾武器売却けん制―今年３回目首脳会談",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsVFQ5U2V2U2d5ZDFjdnZLcWRkbTJVYmdiRmhVVi1oVGh6YnhjNDhFYlItN0JaTW9UT2ZDdndtUVBVQmZfY3Y0Vk9tcG5fVmlhVTZCUDlaYm1ZN1QxdDFUNXI4RQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-19T19:07+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
    "source": "Informat.ro",
@@ -593,13 +600,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T18:45+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "【速報】中国・深センで史上初の米中ロ首脳会談始まる 習主席が 米中ロが世界の模範となるべきと呼びかけ 核軍縮やイラン情勢など議論か（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uZFd2MWZGOVF2czFSdkVGRzg5czVXQkQ4TEVCMUhkZ0xmXzl4UmM2S1EzTmJMUnZhMHpOTVlNNXFqRDRaeU9mVnhrRF9ZVk1pZXJ6eXFrZW04TXdBNC1RVURaXzgwZHYybkhxYXlrS3B3amp6N2xUSFRvUG1hX1k?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T17:31+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
