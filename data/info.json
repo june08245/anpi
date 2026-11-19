@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:15+09:00",
+ "updated": "2026-11-19T12:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -151,7 +151,7 @@
    "items": [
     {
      "title": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcUlZa2ZTeGNEd3JOUC1raGlZNnR5NEs1dU5NM1JnTWo1ZGVWMlhBR240Sy11YTE5QjM1YXdMMk05N2x3YzJLSFY2WlhIRlZndXkwSVpoSUY1dUU?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vS01vNWd3eXhCOUwtYkpoX3hsb1hjRlJjWmhOcnRXTWN4V3NNWE9yMTBJQ1IyUlFudkdfaXpXeUY3Yy1pLUNjRFZfVGxNSUlWZGNhYjhvaUJObVk?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-19T09:00+09:00"
     },
@@ -192,6 +192,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮メディア トランプ大統領「米朝会談」発言に反応伝えず",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90Vmtmci16SU9QeW05N196UjNoWlNtRFpnYllxcldRcnVJam53SDNQMm1pVVVLRjdIekNXcmxoQmN5ZmMtUUJmUF9oSVQ1M3JZbU54UEc5dFpDNU9Hd3c4?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-19T12:19+09:00"
+    },
+    {
      "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlFHaW1QZENsVElKbEdRaGNmaUlBZklkQTNINVoxQm9oQVNuNmoxM1hOcll5VUVTQW1rTDVvWmdNb0Y3ak54UUY2dWdEbkZFakVYSHVyLV8zNHRQQUlCQ2x6Wm1WTWFEaktsSmk0eHdpeDhrMFduTUJrWXBtQldGVFJGbFFPbnF3TWw3MUFn?oc=5",
      "source": "Reuters",
@@ -220,12 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yNzRyVU9JZWtPWmxEdUlsal9NcG43NUJIY1pjdGpQZ0F5dVdHU1VYSnRveTBGX0tXa1h4MVlnTTZLbzVSRWhVbG9iaVN5eEJiaHpEMQ?oc=5",
      "source": "中央日報",
      "at": "2026-11-19T09:35+09:00"
-    },
-    {
-     "title": "米、北朝鮮人権非難決議を棄権 「米朝会談」に配慮？ 国連総会（毎日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5idURvMGdzZjJTRk5LZlJGTnVWb1JJU2tYZ2ktekthSlBqVlp6LTdBZ1pxSFUyeDVDVG1QRHJVcEFhbks0ZnVqMVJLeTVCY1BfWUtjVW1fRjlFTjlxd3M3TTdxalVoRHFtLWlPVERNR2ZRX3Ntb05yaVF4THY0TUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T09:27+09:00"
     }
    ]
   },
@@ -288,6 +288,12 @@
      "at": "2026-11-19T05:00+09:00"
     },
     {
+     "title": "イタリア政府、70億ユーロを拠出し、5,000人規模の「サイバー軍」を準備",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk12TEdpcU5lMnoyU0pHRG1ycXlUTS1Qc1BLdGRsb2NiMXlZRGZqa28tRWpzNWpyM3hSRDlZX1FJdnRMUWs4WTh1NjVXVWFBanZnQ1V6bENhUENHX1lfeWhheVBuVkdvbG9vWGFhVVJsakRTRGZ4TjJydjBXd2g5enB1VmdsbU1Rd1dPMFRzMkxQMnNPcnUxM242bVY1LU9JMGY5YS1B?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-19T03:58+09:00"
+    },
+    {
      "title": "フィンランド大統領、ロシアの要求によるＮＡＴＯ離脱の可能性を否定",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWVPN1d6UmtoOU9UVUpVYzNWVWVmMWVHZURNLWJyTFBSYXFSRWlXd0pRQnpvdjZ5a3pZOUlGOTdCWVcycDlucXF1RkZHZkY2MjhQei1RNE9Ud21jaERTb3J2UmJ6b0dSQy1HZHJ5LUVJREJRckRmN1JYMVl2alZvZ1Q1LWxfUzgyLUNpcmFERnB3STNFb3BnMi1TLVVoYkpiZXJkZ2VNLXdBUW1WbDVZMUh3Rkp6eFpXcEJMZEU4ZUw1alAtQjdCV9IBzgFBVV95cUxONk5BRUthUVlHOUNJSDc5Xy0wU2FtMjU4b0lZdTB2VENvRDljU1dySEtKNE5BNjdsaXZ6YnZZUnRQZTlCUm9JckxVWi0wa3BjRVo1MTd0UU0zbEJ5ZUFzbW5MT3Z1TEw0WWhtaW5sMV91MGNpYTgtWnAwUk13YjZkdUJYQ2ZDejZ0cHEzbGJIajFNV1pET091dS04bjVaZVNWMnFaMkNnU2pVY3F4ZWM1TS1MUThkUTExYnNjTVNtMUo3QzlsVU9TTE5fUkhyUQ?oc=5",
      "source": "ウクルインフォルム通信",
@@ -298,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVBjOUdaSnN6cUhjU3gyRTVyMl9DX184aFNFSHozb0VMR3VnX1ZFNnd3QldMTHVXUEpDOUJ5OWtVSm1wMkhaUFlKU01vLXdrREszc1U1Z3hoNk5TMnJIWVdpZWNscWZXMjRvaU9sQ24xckZqWnNlSjZCVWx6Y0RpcE9xVDB3RDNnSy1IV3lpQllVbFZhN3pHR3Q0bERaUjVCWHFV?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-18T21:50+09:00"
-    },
-    {
-     "title": "EU、ウクライナとの戦争でロシアに化学兵器の使用停止を要求",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WLXJ6aXp4ZEYzamFkc3lHZFdwTE9pN3NrOGN0TkJLYzdXOWF2akdQb3lYWm1JSlJET05PSGdHTVZlek9iV2tJUDBSTkVoWnl2eFd3OVhWWmM4Z283Z2JnakVwZEJqbEFq?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-18T20:19+09:00"
     },
     {
      "title": "欧州の学校に偽爆破予告メールが連鎖 イタリアで避難措置、1カ月で8000件超 : 国際 : 財経日報",
@@ -375,12 +375,6 @@
    "at": "2026-11-19T10:19+09:00"
   },
   {
-   "title": "11/19 Zaifカード決済システムの障害のお知らせ",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HQTVXNDJYUTJEZ2VPQmF2NXpuUUZROVRRZ3ZVd2xWVkU4VjBxMWZ5QXZtUmpaZ25wdlE2MkFYdi1HdmE0UEc1QmpwcHZneDZja3hXTjVJMmFEZ09FUWEwWDQtRDRPd9IBZkFVX3lxTE1HQTVXNDJYUTJEZ2VPQmF2NXpuUUZROVRRZ3ZVd2xWVkU4VjBxMWZ5QXZtUmpaZ25wdlE2MkFYdi1HdmE0UEc1QmpwcHZneDZja3hXTjVJMmFEZ09FUWEwWDQtRDRPdw?oc=5",
-   "source": "Zaif",
-   "at": "2026-11-19T10:11+09:00"
-  },
-  {
    "title": "Cloudflareの障害が示す、サイバーレジリエンスが重要な理由",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PMFZXa2tLTjRxMkV5NHp5T3BYc0I5Z0Z0ZllxTFJFVk03dHpmRlF5NDZCYnBndkFFRzl5d2pEVDNPYzlaYTN2WlFrTTlxaWt4dTRqdHZnWWtkS0dFZ1Y3bUgyOGk1eUF5ME9QUEo1RURHYVZvbThuUVdYZ2g4dw?oc=5",
    "source": "eSecurity Planet",
@@ -409,6 +403,12 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNktJaUxpdWJnNHBYZFJfZW1ZMXhoS25NdzRvTXA3Y0NJTU5Qc09uZUZvY3pnLTJULWYwX3ZYV21SbGVUWlhWT1NYVFZQUzFIZThFVEhPQUhHRERKMkk4OTZyZklaRWxtYTFYVmRyU1ZRRXBLYW9CdEJBbmREQ0xSenRqX0NILXRf?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T09:10+09:00"
+  },
+  {
+   "title": "トライアル「SU-PAY」で会員ID6万件が漏えい プレイド「KARTE」への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0hSUVd3V1lKVGZiMFN2SmV2cmxSdWdDdjRnQ2Z4MmlaX0ptaGpCLURLRUc3b2NRdUZ6QW1VbWFwTWJZaGxRS2JodDAwTGFoWnpXT2pvMWFPWjZhVlUzVnZBbVF4RzExVUxnUS1ycVVvMG1oY0M3RVFjcHpiWGYtR3c3RXBOZ0hHRkdGWDBwZ3o0UUVIZ3FQWGhrbmVyMmk4?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T12:16+09:00"
   },
   {
    "title": "亀の井ホテル・スパリゾートハワイアンズなど5ブランドで個人情報漏えい LINE運用サービス「COMSBI」への不正アクセスで",
@@ -455,6 +455,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮メディア トランプ大統領「米朝会談」発言に反応伝えず",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90Vmtmci16SU9QeW05N196UjNoWlNtRFpnYllxcldRcnVJam53SDNQMm1pVVVLRjdIekNXcmxoQmN5ZmMtUUJmUF9oSVQ1M3JZbU54UEc5dFpDNU9Hd3c4?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-19T12:19+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlFHaW1QZENsVElKbEdRaGNmaUlBZklkQTNINVoxQm9oQVNuNmoxM1hOcll5VUVTQW1rTDVvWmdNb0Y3ak54UUY2dWdEbkZFakVYSHVyLV8zNHRQQUlCQ2x6Wm1WTWFEaktsSmk0eHdpeDhrMFduTUJrWXBtQldGVFJGbFFPbnF3TWw3MUFn?oc=5",
@@ -540,13 +547,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米、北朝鮮人権非難決議を棄権 「米朝会談」に配慮？ 国連総会（毎日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5idURvMGdzZjJTRk5LZlJGTnVWb1JJU2tYZ2ktekthSlBqVlp6LTdBZ1pxSFUyeDVDVG1QRHJVcEFhbks0ZnVqMVJLeTVCY1BfWUtjVW1fRjlFTjlxd3M3TTdxalVoRHFtLWlPVERNR2ZRX3Ntb05yaVF4THY0TUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T09:27+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "イランが「ダーティ爆弾」による攻撃を計画か？トランプ大統領が警告",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oNUtJNnpJMXoyOXQ5OEVqYTdCcWhiVndtUHo2Qm82VkpvV2l0VHdkWHFoNnVhd0ptdnc5dngzajJXTGtGdjFweW92SjY4WjBra2s3MHVweXM?oc=5",
    "source": "Switch news",
@@ -555,7 +555,7 @@
   },
   {
    "title": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcUlZa2ZTeGNEd3JOUC1raGlZNnR5NEs1dU5NM1JnTWo1ZGVWMlhBR240Sy11YTE5QjM1YXdMMk05N2x3YzJLSFY2WlhIRlZndXkwSVpoSUY1dUU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vS01vNWd3eXhCOUwtYkpoX3hsb1hjRlJjWmhOcnRXTWN4V3NNWE9yMTBJQ1IyUlFudkdfaXpXeUY3Yy1pLUNjRFZfVGxNSUlWZGNhYjhvaUJObVk?oc=5",
    "source": "東洋経済オンライン",
    "at": "2026-11-19T09:00+09:00",
    "topic": "中国・台湾"
@@ -626,7 +626,7 @@
     },
     {
      "title": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcUlZa2ZTeGNEd3JOUC1raGlZNnR5NEs1dU5NM1JnTWo1ZGVWMlhBR240Sy11YTE5QjM1YXdMMk05N2x3YzJLSFY2WlhIRlZndXkwSVpoSUY1dUU?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vS01vNWd3eXhCOUwtYkpoX3hsb1hjRlJjWmhOcnRXTWN4V3NNWE9yMTBJQ1IyUlFudkdfaXpXeUY3Yy1pLUNjRFZfVGxNSUlWZGNhYjhvaUJObVk?oc=5",
      "source": "東洋経済オンライン",
      "at": "2026-11-19T09:00+09:00"
     },
