@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T04:15+09:00",
+ "updated": "2026-11-20T04:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T04:10:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T04:04:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T20:08:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.7",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -162,6 +162,12 @@
      "at": "2026-11-19T22:01+09:00"
     },
     {
+     "title": "米中ロ会談の裏で高市総理に“歓迎格差” 中国の真意は",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85OFBDZ3ZJU1k0eHFBdGY5NTVXSHNXWGpadmh0TnhkLXpvM1Q4ZXdoSnZWdVB3dkFaSXBzYzBLcWpuWWJ0c3VxcFFZa0tPS3o2UGFnY2ZOaVJSeVBZMGI0amFmUTA1eFlOS1VnTzZVMTdUUmV5dVd2X2NB?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-19T19:33+09:00"
+    },
+    {
      "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
      "source": "Informat.ro",
@@ -184,12 +190,6 @@
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckQxc0RNZU1YQVJiSjd0X3dkWmJTbkQ0UWJDOGpVVTJwTjJBRVpEeE5kSGJackV5dHFTQkpyeEh3TFJoel9WTVlvMEhPUmhRSWUzdDlrLVBCRktZcXYxQTJGdVI0WHBoc3lHcmg2RGJBYXJOOEc2QTEwQTRzb0ZMNmlFRThHdGItcVdqVFZGUzlhRHBzYWFr?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-19T14:10+09:00"
-    },
-    {
-     "title": "「2027年に台湾侵攻」は本当か…一人歩きする“期限付き予言”の陰に隠れた、開戦すれば“やり切る”中国の武力行使の論理",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbVptem1rY1Vja1ptN09KMnNVVmRQX3NsYXMybjY0UWVBSEFPOW9nQU1rMHd1akpROEcwQUwyZ0ViRDcyOVhDckl4RFJZeTUxZVVPcEdKSk9oYUZOV2kxUXB5c2lvTnRWT3d0dkxHMnl6MEg1MXZqbldGdWdmcEU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T09:00+09:00"
     }
    ]
   },
@@ -240,6 +240,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "メルツ独首相、ロシアとの和平合意の基本条件を説明、将来の対露制裁の部分解除に言及",
+     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUlNhVFp4MDRXZlNka2xMaHdYd2d5Ry15dEtYWTNIdXo1VXlPTkRCQ2FQVEFqRUFLcU1mdTZ1Z2UwSERWY01TX29EejQ5cmlPbVFrVWgzRGVPYnMtcmQ0dTZwaU00ZFNIa1V6cm5OSG1odW1leV84c05KMDIyT2lwSldvWUk4czk1YkhBYktTV0F5dVNFZnFTRkFPZ0hlT3FqRWpzdXRhMlFPUnhJdG51T1ZINVl5UVpRUWxXaGNmR0djRk9xMEZCczB3TXZLM1g1MFBBelV3bF9JSTFWbm5Pd0djZmEza29MdTRCZWNqZHJTY2lmY240S1R0WE1PMk1HR3FFT3N6cXVQSTNWQkhMeNIBlgJBVV95cUxObVJMRUJTcVBkaDVDalZmb1BfYWJUb1M2cXVtZFdMU1dOWlFfXzNpQ1NKYVIyUnFhMWNVa3drS0pwYWZvem0zUGJ1Ty1nMnlFUnM4ZlA5ek5aeDNFQ1VwVV85R2s3MGFVcWFmUUhqeXJONHZvWVMwSzlYS205a2ktMVV4bm1FanpEVWxha2VqQUFWNllVcmxSU3RjMy03WkFjUVVpNWZ3MXFIVWRBQmFmcm1BVDk4QUVocTV4MU5scGc0cFpXZnZFYWpTOUJxbUpmWlVObFRxNWRBREhQNE1NSzdWQ2ZkRFkyQm1YQko4ZVNJckF6a1RMUGtLNXY2MVhUQm1mQmltMlhKTHEyemFqLU90ZFVqZw?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-20T04:18+09:00"
+    },
+    {
      "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
      "source": "時事ドットコム",
@@ -268,12 +274,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkQtLV9tMXBHQVBBdWo5OVYwbXhXc3JGd1lRMFQ0Q0RzbHJ2U0wwTWZuRDAwbk5YWHBrU1doOVRjdXJISmhFUmFKdjZ6b2NoY3RuTGlpNUFZMGtWZFBpX1p4NEtrWkhmTVljenQtRUNmTERER2JkV1p4eFBlR21xWDZuamtZQQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-19T23:37+09:00"
-    },
-    {
-     "title": "プーチン氏、ロシア・ウクライナ戦争の交渉に欧州が関与するための条件を提示",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUDNpSElTdmNTTGl1MHhQRk03ZUdpQm1ROEx5NzNhaDRLbWx1ZlZSd3FUMld2cHFXZUZ1YzBOeFlmWUU0dVFvQlRkalpGTkFlT1JlVlM2WUJ1NUN3Q2MxNTZYNEJFd0JXenBpWFJncWdJZXl6TFo3QUdZNmlZT0lVamJxMmpWQVpPcDNyZGQ0ZDlsSmIwUURSbTZWaHJrMkRxU0lvemlNeE5BOHlDLUFkOENiZU1UcThyUXFSNmtxT0ZzVEt5enp1QVVmcFdYVkJuY1Exd3pGeERaSTh0aE1PcFRiQdIB6AFBVV95cUxPNlNmbm9ZZVFwejJjOG1QdGZqb3lkaDBWQ3pCa09fbDdPZlZYams2TkUwY1FiMF9mMTdXOExKN2x1NnlrbVFhR202aWdkN3JKN0Y5X3h0NXFTbzVzMDhEWU80R1ZkTDBaejRtRFlwaklWUjdxZ19pY0VQRnBKRWhmbTNUMlZrbHY4bHcxWWNqelF1YW4teEpGdVM3WmJQYjY0MGJLN2c5QkZCMzMxOTM0Ukx0S1RrYWRScWk2YVBOSExFYkh6NGpncmNfcktMcW9WNUNfT1d3OTdTQURpclhwc2I1RzlsbmxM?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-19T23:29+09:00"
     }
    ]
   },
@@ -294,12 +294,6 @@
      "at": "2026-11-19T15:16+09:00"
     },
     {
-     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-19T14:08+09:00"
-    },
-    {
      "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sc290ekFBemRvNERCNWhiWmVSQkxfM3VNS0d2V0RGOW13am5mZ1N5dHRsMnFZX1NUZUlvbWhLQWxOZGpFcXcySFNQeXVURFNZcVE4cnN0bVJCeV9vdkFwUi1NZ3oyenZo?oc=5",
      "source": "毎日新聞",
@@ -316,6 +310,12 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OYVRhRl9yLW1NZmVnRmFDUkZreWFPeHViak1Ka3hzR3hWSFliZU83Vk1GY3p2cHpfTEFVV05OZk51aVItN1p1SFBQRVU3N0hWWGRLRjc1TlFFOGYydDFtMm83LWk5dUVt?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-19T05:00+09:00"
+    },
+    {
+     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTWZ6SEdnTFRxNFFMZFpIUXY3X052MHIwbUQzSmdoNTdCdnUzRjNQZkM2SEJJZDBrNVRRcXNtSXFMYVBRTUhXNEtiNGw5RWpzd1MtenE5MkZiQi1WM3ZXc05ERWE3N1QyOWpiTFBOVTRMOGdDLTdiak51dlBxMWs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T00:47+09:00"
     }
    ]
   }
@@ -436,6 +436,12 @@
    "at": "2026-11-20T03:25+09:00"
   },
   {
+   "title": "欧州委、ＡＩ使ったサイバー攻撃確認 被害規模は調査中",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjdYVFFCb2Y2YW0zMlhSaGJGczJDZUx2THhtN0hIVkU2dWI4V0hHZm1wWnlfdkt4bGhZZEEyd1JSTVBxMi1ZdzZmMlVFZDI0STV6M2VfR2ZzRmMtYUhzSERxTnlxN1ZzQktrOFU4N2FRQXY1Wmk5UndRTk5wWGl0RWFkb2tHV3pUV2F4a3FR?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-20T03:14+09:00"
+  },
+  {
    "title": "情報漏洩・サイバー攻撃時代に資産はデジタルだけでいいのか？再注目される実物資産「アンティークコイン」 FPが解説",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10dWNnY2JaVW9iZzdOZWZtanl3bDlqZ3oxNjhHYmxzcE1yOEgwajFVZnM5MWdTMmhhcUkxU2laSklITXpFY1RKTExmb241TUlYNFJXM0duZUFvT19VU052Sk8wTld2X2djT21GVjFzWjRpQQ?oc=5",
    "source": "Infoseek",
@@ -458,16 +464,17 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40OEhXbnI4dUthdDRBXzhTaWxqX0QwOWJ2MnBsQU1YQ3JzSnFRSUJxc2ptRFdGcVJfYVVlVndzMVBmUUQ1RTNFcDEyQktRVEdEUnlRUlY1R3pRWTlMdVJEWlpCTHlBVEhHTjBQZC02bmQ?oc=5",
    "source": "Investing.com - FX",
    "at": "2026-11-20T01:07+09:00"
-  },
-  {
-   "title": "欧州委員会、大規模サイバー攻撃を確認 職員データ流出の可能性",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FSEZkVmFpOHNtZ2xDSURnMkpJSDB6N1diUUhiY2dWS1BOaFhlLTM0TEVEMXdEdGUwZ1RwQktWRkRTVVdvWjlMN21kVFFCZzNMbnFkODE2UHh6cUFfdkZyV2w2VVJ2dmV5RVVMTERBZVhBWE1Y?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-20T01:05+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "メルツ独首相、ロシアとの和平合意の基本条件を説明、将来の対露制裁の部分解除に言及",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUlNhVFp4MDRXZlNka2xMaHdYd2d5Ry15dEtYWTNIdXo1VXlPTkRCQ2FQVEFqRUFLcU1mdTZ1Z2UwSERWY01TX29EejQ5cmlPbVFrVWgzRGVPYnMtcmQ0dTZwaU00ZFNIa1V6cm5OSG1odW1leV84c05KMDIyT2lwSldvWUk4czk1YkhBYktTV0F5dVNFZnFTRkFPZ0hlT3FqRWpzdXRhMlFPUnhJdG51T1ZINVl5UVpRUWxXaGNmR0djRk9xMEZCczB3TXZLM1g1MFBBelV3bF9JSTFWbm5Pd0djZmEza29MdTRCZWNqZHJTY2lmY240S1R0WE1PMk1HR3FFT3N6cXVQSTNWQkhMeNIBlgJBVV95cUxObVJMRUJTcVBkaDVDalZmb1BfYWJUb1M2cXVtZFdMU1dOWlFfXzNpQ1NKYVIyUnFhMWNVa3drS0pwYWZvem0zUGJ1Ty1nMnlFUnM4ZlA5ek5aeDNFQ1VwVV85R2s3MGFVcWFmUUhqeXJONHZvWVMwSzlYS205a2ktMVV4bm1FanpEVWxha2VqQUFWNllVcmxSU3RjMy03WkFjUVVpNWZ3MXFIVWRBQmFmcm1BVDk4QUVocTV4MU5scGc0cFpXZnZFYWpTOUJxbUpmWlVObFRxNWRBREhQNE1NSzdWQ2ZkRFkyQm1YQko4ZVNJckF6a1RMUGtLNXY2MVhUQm1mQmltMlhKTHEyemFqLU90ZFVqZw?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-20T04:18+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
@@ -539,13 +546,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "プーチン氏、ロシア・ウクライナ戦争の交渉に欧州が関与するための条件を提示",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUDNpSElTdmNTTGl1MHhQRk03ZUdpQm1ROEx5NzNhaDRLbWx1ZlZSd3FUMld2cHFXZUZ1YzBOeFlmWUU0dVFvQlRkalpGTkFlT1JlVlM2WUJ1NUN3Q2MxNTZYNEJFd0JXenBpWFJncWdJZXl6TFo3QUdZNmlZT0lVamJxMmpWQVpPcDNyZGQ0ZDlsSmIwUURSbTZWaHJrMkRxU0lvemlNeE5BOHlDLUFkOENiZU1UcThyUXFSNmtxT0ZzVEt5enp1QVVmcFdYVkJuY1Exd3pGeERaSTh0aE1PcFRiQdIB6AFBVV95cUxPNlNmbm9ZZVFwejJjOG1QdGZqb3lkaDBWQ3pCa09fbDdPZlZYams2TkUwY1FiMF9mMTdXOExKN2x1NnlrbVFhR202aWdkN3JKN0Y5X3h0NXFTbzVzMDhEWU80R1ZkTDBaejRtRFlwaklWUjdxZ19pY0VQRnBKRWhmbTNUMlZrbHY4bHcxWWNqelF1YW4teEpGdVM3WmJQYjY0MGJLN2c5QkZCMzMxOTM0Ukx0S1RrYWRScWk2YVBOSExFYkh6NGpncmNfcktMcW9WNUNfT1d3OTdTQURpclhwc2I1RzlsbmxM?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-19T23:29+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "北朝鮮、非核化議論を注視か 韓国も「頭越し」警戒 米中ロ（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZVJPM2tnQWZ6WHJfVFZ3QlZLU19EZjk2LUVjQ2JvQWUwNEZJeXVFUjlFdVdyMTg5M2RSOGhpOEluN1Y4ajlzdTZNYkpTTFhnM3JUWHNQUjdBbjY1UUlaTWZYTXQzeHZkYVgtaDlkMW04b3VNVWpMUzdQalkzRkE?oc=5",
    "source": "Yahoo!ニュース",
@@ -565,6 +565,13 @@
    "source": "Bloomberg.com",
    "at": "2026-11-19T21:52+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米中ロ会談の裏で高市総理に“歓迎格差” 中国の真意は",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85OFBDZ3ZJU1k0eHFBdGY5NTVXSHNXWGpadmh0TnhkLXpvM1Q4ZXdoSnZWdVB3dkFaSXBzYzBLcWpuWWJ0c3VxcFFZa0tPS3o2UGFnY2ZOaVJSeVBZMGI0amFmUTA1eFlOS1VnTzZVMTdUUmV5dVd2X2NB?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-19T19:33+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "ニクショル・ダン：「ヨーロッパは現在、ハイブリッド攻撃を受けている」",
@@ -600,13 +607,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T17:31+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "史上初の米中ロ首脳会談 大国主導に警戒 焦点は核軍縮とイラン情勢",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZWkFnQ0NRVVRSV1B0S0ptbHJ2YTJxeDdLU3hZTmRmMUlhN0ZJNFEyZFJGcEtEb3VYNmxmeWM3QVE2Vks1OW5oOXBuVll2Unk2RFdBTXI1RHhFTTVpbkVHVW1Na0N4RDBDM211bnRVOVZTWVNWMXlJZXVn?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-19T17:26+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -626,9 +626,9 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
-    "中国・台湾：「爆撃」「侵攻」4件",
+    "中国・台湾：「爆撃」3件",
     "ロシア：「攻撃」「爆撃」4件",
-    "欧州・NATO：「攻撃」「侵攻」5件"
+    "欧州・NATO：「攻撃」「侵攻」4件"
    ],
    "items": [
     {
