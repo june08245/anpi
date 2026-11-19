@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:15+09:00",
+ "updated": "2026-11-19T22:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -300,12 +300,6 @@
      "at": "2026-11-19T15:16+09:00"
     },
     {
-     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-19T14:08+09:00"
-    },
-    {
      "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTh2UkxiOU1PV3lRcVV2T2Z1ZFJMZ0tyblQ0dlp6bk1UYlNIVkI1UGJmNS10NW9rZGNoWW9uc1hEZGVyTjlZeGo4QWFKQzM1U1NlRVBCb3RmS2hhdlk0aVM5X0hySEhGVGtXYVhLTGtjcVNKVjZjUTN2RXdETmVuODVWRzdGOVhvMVc5T2pDVDZicG1vbXptOA?oc=5",
      "source": "Pasquale Pillitteri",
@@ -316,6 +310,12 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OYVRhRl9yLW1NZmVnRmFDUkZreWFPeHViak1Ka3hzR3hWSFliZU83Vk1GY3p2cHpfTEFVV05OZk51aVItN1p1SFBQRVU3N0hWWGRLRjc1TlFFOGYydDFtMm83LWk5dUVt?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-19T05:00+09:00"
+    },
+    {
+     "title": "エストニア、ロシア国境閉鎖へ 防衛企業への破壊工作疑惑受け（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81M1hHVHBVM1hjQ0VIa1NXZU1TSE1RVTlla1dSZzZtZzF1SDNXSVBxNXUtZ1puR3ZGNzAtS242WXpLS3pFNURwZWNrLVF5V2VqUEFIckJ3OEhGQzVSSEFKTTk2R3Rhb1Qxa2RFZVdxSkJjakw3c0plZTBPNUhvZ3c?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T23:55+09:00"
     }
    ]
   }
@@ -381,6 +381,12 @@
    "at": "2026-11-19T20:50+09:00"
   },
   {
+   "title": "【速報】“てんかん”の影響で正常な運転できないおそれのある状態で運転 意識障害起こして暴走 当時22歳女性を死亡させたなどの罪問われた女に「危険運転致死傷罪」成立認め「懲役5年・実刑判決」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sZmtkV0lCalFiMFhvdEZtUTVNTmFwdHNUMk5FeFo5cDRKUlZybENZRWJ2T01RTjFDZUtQejJHUTl0M2hnQWllMGU2a3NjcUNKV2VxXw?oc=5",
+   "source": "ktv.jp",
+   "at": "2026-11-19T20:06+09:00"
+  },
+  {
    "title": "マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrNmszQlBPZkxGdTQ1NXhoX0prQkVEanpDaXZOZ3ZONXpIaTdranQ1VEhYb0FkSU9VMlF1Q0ZjU1NYWkU5NU5LbWJMcV8zVXNFX1VqWnFR?oc=5",
    "source": "KAB 熊本朝日放送",
@@ -397,6 +403,24 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xZVVyTXhnVlkzdkhqbExPQnNUcFdjZ2VPM0RRSk1xNTNUMno4ZVQ0U01iNzBMZmQxSWRBM0VvZ2ZQNlNjYmRpXzBWLUxhVkREdTVDdk9tSENaVkE0NTN3?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-19T18:04+09:00"
+  },
+  {
+   "title": "『相次ぐサイバー攻撃に、企業はどう備えるべきか？』（たちかわIT交流会11月度例会）（立川市）",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPS1dlNTZJRGIzZ3ByNDI5cDV4YmI2TUpoYjhsbTdLRE1telJOc19zM0J2WWJUaUc3Z0d4b0pwMnNXWC1wWlZxUndhZG03TDFzQ1FLOXBVNG80N1VVWXlUMVVCa1lSUjMxOHdwX0lPMmZDM1ZIWk1YZkNtZnozWXBLWVpCNzVXaW9wZkhZb3FpeGYteUYyM0hlNVBTV3pjUWQ5dkpVbHloMXZVLWpfZ3JvT190eHNLbWxianBMdlNXZV9KMENHYlhhUEZ5WFprbjBuaXlkSms3cFNPTVVkNUNPQlh6X3lUejdEQTBFZndCTU8yRHFUOC1PVm5UYVBwanp2a3pxLXNfU1JKLWdvWmdKV1l0TU1KWUVTWlV2emNPa2QxZ29SV0FoSGtvOTRIZVp0MVFXS3J4VjM4bURBSDlHM04xNnhOc2xTdWFnVERrYUFDZTlWdENTRDFFQ3lCNEVoaFBlODJoeWVOeC1VYmc?oc=5",
+   "source": "山本博司",
+   "at": "2026-11-19T22:27+09:00"
+  },
+  {
+   "title": "EUに大規模サイバー攻撃、個人情報流出か ポリティコ報道 [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcU9NZmxkckpKUjNoUmQ1aWtocVBGMjh1ejdvaG1qdWpOQ3dlb1BuLTNNYlY2TXdRRVJ3TF9sS1VXSmlEUVU3aE5RT3JQMV9JcFhRNDRSWERISThBckR5cnRKRi1TNDJfMjFWRXRCRGw5NEVvQnNld1hSUlFIaHZfN0xua2E4YjBraVFQTWZ3?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-19T22:24+09:00"
+  },
+  {
+   "title": "三重県警がサイバー警察部を設置へ 不正アクセス事案など相次ぐ中、対策強化へ司令塔の役割",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzMEhGTXZxdHg3cDI1SkVfeWNFLUlsbGRtdHR4eWd4T2JBU1Yyckx5WWx1dFVMNUMzYWJhd0lDb2FucGY5UkZNdmJEWQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-19T22:16+09:00"
   },
   {
    "title": "楽天証券、金融庁から報告徴求命令受領と発表…不正アクセスによる１５７２万口座分の個人情報漏えいで（読売新聞オンライン）",
@@ -429,34 +453,10 @@
    "at": "2026-11-19T20:54+09:00"
   },
   {
-   "title": "「パソコンを使う時点で全員が対象」取引先経由で狙われるサイバー攻撃、いま企業に求められる対策とは？（TOKYO FM＋）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jTjJrOU04aTlUZTYzTEt0UEw3SmFERVhXcGxZUEV6MkpQaHhHeEllQjJTYlBnMmhlSHp4R0NVdUZ1ZjQ2OXM4ZE0zcldPUmtTWDVPcExkWkFkZ2NneVJobEtFbW40X0RtMERnOUdLM2xYQU83THFzaTR2anFkZVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T20:50+09:00"
-  },
-  {
    "title": "金融庁、楽天証券に報告徴求命令 不正アクセスで異例の対応 [情報漏洩・個人情報流出の最新ニュース]",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNTVrQVVzWGVaLXpSaU9WV1BJd281TFZwZjVWNFQzbXNoN2Q5UUdSTlB0WF9Oa1NxTHNLbzJpaGpqUXNOR0dJX2hhSzZOaHQxU1lxLUZ6SDNZUVlvclBJU1doOFEtSFU?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-19T20:49+09:00"
-  },
-  {
-   "title": "タイミー、求人事業者22万人の情報流出 委託先への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhbGRlUjVOelRTeEFIOF9zUmZGQVhwd2tCNnJhYi1CQ1d4TUJRSkt0OHhHSVMtQVF2SWxmQm9pNjRqOXVkelNxTmxfdm5OR01VVG5XMEMwS1U1bHJDRVVIWXMxT0pUaUZoa3RGUQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-19T20:40+09:00"
-  },
-  {
-   "title": "手ぶらで買い物できる「顔認証決済」東武百貨店池袋本店で導入（日テレNEWS NNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1leERrMnJLam9DMU5HVGNFRXdWbWZyZlFscjBXblhrU3QzQzJBQVVvUmxTa3FVYnFBamZnSUhUOGltSEN0NW9iVVRtUW12SlNMSTc0S21OMmJxY3dqMjNfcTQ2RVg1bE1mckNBM2c0VHI3NVpCdy1UYmd6dXNFeTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T20:40+09:00"
-  },
-  {
-   "title": "大手損保の4〜9月期、純利益15%減 サイバー攻撃で保険金支払い増加も",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80aC1hTnVUOGxhal9WREJPZEI3NHpHSDNTc3ItYVFTd3p6N2xBSXdSazlLVDJLUE5BTlpscXdqbUxxRHV1NHdQMUEyVTZOejlfLU5mUVZhcFZXLVdtcUhXVU9zZHM1c016OVd1MQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-19T20:30+09:00"
   }
  ],
  "osaka": [],
