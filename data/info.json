@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:30+09:00",
+ "updated": "2026-11-19T21:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T21:29:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T21:18:00+09:00",
    "place": "山梨県東部・富士五湖",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T17:16:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.7",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -126,10 +126,10 @@
      "at": "2026-11-19T17:26+09:00"
     },
     {
-     "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】（TBS NEWS DIG Powered by JNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSVZ1MEk0RzJfTDdDd09QaXhGM0JycDVuUHE3eXE1bVM3WXAwVXozOXI2X3NtSlAxYjZNRjhTMDJ6SnhfeEFuRVM5SmxFLS1WWkYxLTNHcDFyelY0WFFPaUphRlhRZ0Z3T0FCTG1pY014OUZPXzkyMXY1d1V6Vm8?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T16:02+09:00"
+     "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KLXh0amNra0RfR05WQU1pczdrM3Y0QV9ZWTByR2FIRE1BbGJKNE1qemcyV2t0RUNpaFQzaVpwemgxSVBHTUxGTXE5SEVFdlp5UFZ6czhTQQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-19T16:05+09:00"
     },
     {
      "title": "イランが毒ガスや生物兵器による攻撃の「兆候がある」 トランプ大統領が指摘 CNNテレビがワシントンでの「ダーティーボム」など使用をイランが検討と報道",
@@ -258,12 +258,6 @@
      "at": "2026-11-19T20:12+09:00"
     },
     {
-     "title": "米中ロ会談、習氏が仕切る プーチン氏「我々は第2次大戦の戦勝国」",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtNE9MSk9uWHJkM2hCemxVM1pmMVlEZS1UbDFnZWNYX0swd0RGc1MxNDA2Y3lsU2NyMkVjbzlzZVJOdzRZWXc0OWxIdDRkT2ljcUVZeDY4cmQ0XzNkYW9ENldLOVhNUk0?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-19T20:04+09:00"
-    },
-    {
      "title": "ウクライナ：ロシアによるエネルギー施設・暖房システムへの攻撃が増加 民間人の命を脅かす",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaW8wX1ExczZ5U1JaakR3RVBzUEN2LWJwQlZGMTVlN3o1di1pclpiMzViUGhNbnhYOVBJWGwtb0xOdU5DVE1HSnUyUXZzcmpOdzZjcFBFVVFnalJtVTlDMw?oc=5",
      "source": "www.amnesty.or.jp",
@@ -274,6 +268,12 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwUmhNcUprV1hUVEZiclZyZGdySncxZHJfaGsyTVJCUFY3WWVuS0xldGtYM2RfNm9yNHZaY3dFQ1l0RkZNam4wSHIwY2RxYWdVS2g3VzBtN3dlRUpOcDhNaNIBZkFVX3lxTE81R2gtWUZtV0hYWlpqNTZKOTNjNVZhTS1NcjFYem9vNkVod3dFcUFlaWlBN0lHTlZINl81aHJ1WE1uQXFIOERSOGM3clRIMWxMa1dSVlBHR1M4N2puZXR4LWZmeTFjQQ?oc=5",
      "source": "BBC",
      "at": "2026-11-19T18:54+09:00"
+    },
+    {
+     "title": "ロシア軍輸送機が突然急降下、地面に激突…搭乗者19人全員が死亡、墜落の瞬間を捉えた衝撃映像（ニューズウィーク日本版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYnkzNE9kbnNEMEVETDBfQjZha2hzZjJmTFdMYmVWQlZXQkZoWndNdHlfQkhfTEhtUXFYV2NjQ3NFY2VOWnM2NV9PeW5SN2N6Y2FNalo4LVJ2V25Fc1JZQXRWUTJibGlHcWFwTW9wYU05alZyQ05XMUQzOHpheWM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T18:51+09:00"
     }
    ]
   },
@@ -375,6 +375,12 @@
    "at": "2026-11-19T20:50+09:00"
   },
   {
+   "title": "【速報】“てんかん”の影響で正常な運転できないおそれのある状態で運転 意識障害起こして暴走 当時22歳女性を死亡させたなどの罪問われた女に「危険運転致死傷罪」成立認め「懲役5年・実刑判決」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sZmtkV0lCalFiMFhvdEZtUTVNTmFwdHNUMk5FeFo5cDRKUlZybENZRWJ2T01RTjFDZUtQejJHUTl0M2hnQWllMGU2a3NjcUNKV2VxXw?oc=5",
+   "source": "ktv.jp",
+   "at": "2026-11-19T20:06+09:00"
+  },
+  {
    "title": "マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrNmszQlBPZkxGdTQ1NXhoX0prQkVEanpDaXZOZ3ZONXpIaTdranQ1VEhYb0FkSU9VMlF1Q0ZjU1NYWkU5NU5LbWJMcV8zVXNFX1VqWnFR?oc=5",
    "source": "KAB 熊本朝日放送",
@@ -388,7 +394,7 @@
   },
   {
    "title": "今治海保とＮＴＴ西日本が通信障害対応訓練 しまなみ沿線の災害想定",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlVEVJU01RSGlYMjU2T181Q3cxeHl3aF9sUjFuZm9ERVVja0JWb0U1ZXB4Y2xra0ZyNHIyTmx5MWZwcGNmamFjbWRVUzhLd18tVURVTjJDcEJwc2xPSF9NOA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQWg1dUd6dGFWY3JTcmRLdHVBaDNnSU4xelhLLUFwYU5VeDV5dzNYQ3BNQmcyczAtRzZha3VLMHB5YTdkcDlLWGpFZFVheG9tWERsNVZFbUZTN2dwMng0?oc=5",
    "source": "愛媛新聞",
    "at": "2026-11-19T18:13+09:00"
   },
@@ -447,12 +453,6 @@
    "at": "2026-11-19T20:28+09:00"
   },
   {
-   "title": "北海道「六花亭」に不正アクセス クレカ情報 約8000件流出か",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVd3dtVHhjN0h3VWJ0TDNra0s0QXphZ0V0NEFhWE1zQ3hGeVRpS0xrVGdWVVB5OFNxYWJfeF85OGh1dGYwTl9wZmJJMVdoeVRQOWpCaGE2Z0l0U3BKM3FN?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-19T20:12+09:00"
-  },
-  {
    "title": "サントリーウエルネス、健康アプリで最大94万件超の情報漏えい KARTE不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyY2dURXd5eXdTazJBRDk1OEhhaVVhRnptRDZxR0tTbjl6TGEzdUNhNFgzeUdTWVdXR3NDeUdmRGlpMmVQX3otc2hqTUZKVFdJRDE1ZmVWcG1RdzJDTzcwek8tSGZxR3dMLUNScWNzcjZKNjYw?oc=5",
    "source": "BigGo ファイナンス",
@@ -480,13 +480,6 @@
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qem85bkhoT09wVU1hMkZIbG41N09JVjJUVlRFbThBYlc4Mm5SbjhaZTBKTF9SaENjU0RucmNaRldMMEFrNmFYWjBn?oc=5",
    "source": "乗りものニュース",
    "at": "2026-11-19T20:12+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "米中ロ会談、習氏が仕切る プーチン氏「我々は第2次大戦の戦勝国」",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtNE9MSk9uWHJkM2hCemxVM1pmMVlEZS1UbDFnZWNYX0swd0RGc1MxNDA2Y3lsU2NyMkVjbzlzZVJOdzRZWXc0OWxIdDRkT2ljcUVZeDY4cmQ0XzNkYW9ENldLOVhNUk0?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-19T20:04+09:00",
    "topic": "ロシア"
   },
   {
@@ -522,6 +515,13 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwUmhNcUprV1hUVEZiclZyZGdySncxZHJfaGsyTVJCUFY3WWVuS0xldGtYM2RfNm9yNHZaY3dFQ1l0RkZNam4wSHIwY2RxYWdVS2g3VzBtN3dlRUpOcDhNaNIBZkFVX3lxTE81R2gtWUZtV0hYWlpqNTZKOTNjNVZhTS1NcjFYem9vNkVod3dFcUFlaWlBN0lHTlZINl81aHJ1WE1uQXFIOERSOGM3clRIMWxMa1dSVlBHR1M4N2puZXR4LWZmeTFjQQ?oc=5",
    "source": "BBC",
    "at": "2026-11-19T18:54+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア軍輸送機が突然急降下、地面に激突…搭乗者19人全員が死亡、墜落の瞬間を捉えた衝撃映像（ニューズウィーク日本版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYnkzNE9kbnNEMEVETDBfQjZha2hzZjJmTFdMYmVWQlZXQkZoWndNdHlfQkhfTEhtUXFYV2NjQ3NFY2VOWnM2NV9PeW5SN2N6Y2FNalo4LVJ2V25Fc1JZQXRWUTJibGlHcWFwTW9wYU05alZyQ05XMUQzOHpheWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T18:51+09:00",
    "topic": "ロシア"
   },
   {
@@ -581,10 +581,10 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSVZ1MEk0RzJfTDdDd09QaXhGM0JycDVuUHE3eXE1bVM3WXAwVXozOXI2X3NtSlAxYjZNRjhTMDJ6SnhfeEFuRVM5SmxFLS1WWkYxLTNHcDFyelY0WFFPaUphRlhRZ0Z3T0FCTG1pY014OUZPXzkyMXY1d1V6Vm8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T16:02+09:00",
+   "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KLXh0amNra0RfR05WQU1pczdrM3Y0QV9ZWTByR2FIRE1BbGJKNE1qemcyV2t0RUNpaFQzaVpwemgxSVBHTUxGTXE5SEVFdlp5UFZ6czhTQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-19T16:05+09:00",
    "topic": "イラン・アメリカ"
   },
   {
