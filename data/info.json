@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T04:45+09:00",
+ "updated": "2026-11-20T05:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T04:42:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T04:10:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -93,16 +103,6 @@
    "mag": "3.3",
    "maxi": "2",
    "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T20:30:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -294,6 +294,12 @@
      "at": "2026-11-19T15:16+09:00"
     },
     {
+     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-19T14:08+09:00"
+    },
+    {
      "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sc290ekFBemRvNERCNWhiWmVSQkxfM3VNS0d2V0RGOW13am5mZ1N5dHRsMnFZX1NUZUlvbWhLQWxOZGpFcXcySFNQeXVURFNZcVE4cnN0bVJCeV9vdkFwUi1NZ3oyenZo?oc=5",
      "source": "毎日新聞",
@@ -310,12 +316,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OYVRhRl9yLW1NZmVnRmFDUkZreWFPeHViak1Ka3hzR3hWSFliZU83Vk1GY3p2cHpfTEFVV05OZk51aVItN1p1SFBQRVU3N0hWWGRLRjc1TlFFOGYydDFtMm83LWk5dUVt?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-19T05:00+09:00"
-    },
-    {
-     "title": "EU ロシアの個人・団体に制裁 サイバー攻撃関与の親ロシア派のハッカー集団も対象（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTWZ6SEdnTFRxNFFMZFpIUXY3X052MHIwbUQzSmdoNTdCdnUzRjNQZkM2SEJJZDBrNVRRcXNtSXFMYVBRTUhXNEtiNGw5RWpzd1MtenE5MkZiQi1WM3ZXc05ERWE3N1QyOWpiTFBOVTRMOGdDLTdiak51dlBxMWs?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T00:47+09:00"
     }
    ]
   }
@@ -436,10 +436,10 @@
    "at": "2026-11-20T03:57+09:00"
   },
   {
-   "title": "JPモルガンやビザ、顧客情報に不正アクセス−取引先にサイバー攻撃",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52RnJMMXNWQVNhY0FKeXcxSExFa3Q3VFNaV3JObW9ERVQ3Y09rZW5QYkRLVGg0QUJsNGN3ZTIxeWdNanl1Um1kZ19MLS12NUpVNnN5M0JXTkNDbTUtNjhKSzRBN29FYnF2bmZYQVVoOXNjMnBOM1JEbkxn0gF_QVVfeXFMT3Fzem9faklPdFNKMlBzbGhVVXV1c21LWHNGN0Z4eGc2dHdJV1B6dnhFMmNXQzZhUkRscDVIZE9hTC0wM0g3QlpfdlU0UjZ6SlRBOF9FcWdNUUJBSDZUa054MTAxYmhaY0dDem5Sc3h5ZnB5ODhwWUp3Zl9sVkFQNA?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-20T03:25+09:00"
+   "title": "JPモルガンやビザ、顧客情報に不正アクセス-取引先にサイバー攻撃（TBS CROSS DIG with Bloomberg）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZlFyWGRZMHJ5MDJwWjRuZ2lBQmFRRUFtRktGSmxQdmlvenNtbUQzck5CNTdndW9vS1BpS2o2ZFU2WFVHQ1dObjNLVDYyNGRzOW9hVzVKcDl2U2pPMWVwT1VKdlNFSHNqRFlqUjNWQ3M1bWZ6WWRMdjI2aEF3Qkk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T03:27+09:00"
   },
   {
    "title": "欧州委、ＡＩ使ったサイバー攻撃確認 被害規模は調査中",
@@ -460,10 +460,10 @@
    "at": "2026-11-20T02:39+09:00"
   },
   {
-   "title": "Autopayへのサイバー攻撃：銀行が独自にカードをブロック、企業は漏洩規模について沈黙",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MN3hRaDZrRXJ2ZU1neFlLdGNPbUJUbWdjMElpTEZFbGl3aFlIcWo2NHZLbkxpUmVyTGJPYnZMYk1wTnI0ZVNVQUVQcTRLTGNDdWJfRl95S21TeE8wQnZmRzR1alNQQ1pCdHZuZkFBZ2FCMXpI?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-20T01:35+09:00"
+   "title": "写真・図版（1枚目）| SBCメディカルグループへの不正アクセス被害による個人情報流出に関するお詫びとお知らせ（第1報）",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VblQ1UDZzM0dHSjhiWU1tM2tMeDJ5S2lDdGRjeFB1WTRrbEdhOW14bVNVWUhoYVh0bmtMWG5TU2J2YlVVQ2lPWjRCUm1jOXVYM1RfRi1B?oc=5",
+   "source": "AERA DIGITAL",
+   "at": "2026-11-20T02:08+09:00"
   }
  ],
  "osaka": [],
@@ -628,7 +628,7 @@
     "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「爆撃」3件",
     "ロシア：「攻撃」「爆撃」4件",
-    "欧州・NATO：「攻撃」「侵攻」4件"
+    "欧州・NATO：「攻撃」「侵攻」5件"
    ],
    "items": [
     {
