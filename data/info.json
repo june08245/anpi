@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:45+09:00",
+ "updated": "2026-11-20T01:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -258,6 +258,12 @@
      "at": "2026-11-19T23:29+09:00"
     },
     {
+     "title": "ロシア軍、ウクライナ東部イジュームの集合住宅を攻撃　２１人負傷",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVWhfSWlucmRJWEZPRzRkVmJsR2h4Wi1NTVNqUVNmS01oQVJuRlNjOTdXLWxrQTlISnc1S1RSN1d1TF9VNUl0WnNVZ0pqUDQzRXVBbTJjeXJmU0RpZjU5dFlfWXhmeEZPeWpBM0s1dlNBM2tYeHM3SGZUVGd0b05GVnVmODlTMEVCV2JSbWZwYUZyU1hNdnRJbHhhdWNnQmtKcENGWF8wMTUtOXlLTi0tLV9zZ0FXTGRwb3U00gHAAUFVX3lxTFBsYlhNTGx4cTdCRHI0bVVWd3JvTDFFdnU5SkVvZHdlYlNUZDN0aDdTVTJoRS1NVjVxS2Vza0hyZXpvUjhjM0djeVU3WmNaZFB3LWpkakhQa1Mtc19iNUVlT0xLaV9DTkZMZ1RYb3NmTzZlY1VEdFYxLXMwSmFLRWdEQjd3eklaNkZPMlpuNjlFYWdYVjExSVRoMS1oOElyNUhEZTU5aVU1T19QbDZZT2dvdEJySENaR0l4ZS01MGl2VQ?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-19T23:01+09:00"
+    },
+    {
      "title": "ロシア軍輸送機が突然急降下、地面に激突…搭乗者19人全員が死亡、墜落の瞬間を捉えた衝撃映像",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MNmpYd2lMbjRBclJuN21rcjdIT3NOOUp3ZUdaZWUtQkhRdnMxcEhHeWhXRktaT2paOEhCUHljYTh6d3I0LTJqNmRyWTJBazdSQVRTM2lHaGU2Qk9iXzcw?oc=5",
      "source": "ニューズウィーク日本版",
@@ -268,12 +274,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
      "source": "時事ドットコム",
      "at": "2026-11-19T22:13+09:00"
-    },
-    {
-     "title": "ロシア機、対馬海峡通過 領空侵犯はなし―防衛省：時事ドットコム",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JTTNjZ2l6NTY1aUE2R2RSWXZkb2oydlZxVEd1enhUMmpkUENEckhXMFhWSXVDcVI0Zk5uWjRscTNoRkNCVVExSm9ReWJWRFU4NlBUSG5pT0VXaFg0OWZuLXprRQ?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-19T20:59+09:00"
     }
    ]
   },
@@ -369,6 +369,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "JPモルガン・チェース・アンド・カンパニー、サイバー攻撃で取引先企業が被害―今週の障害とは無関係",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sYS1Lc05YRi1kNlZVU3hXcmNmVEFhMDhUV1laWDRQZm9QYlZBU2dXZ3dYbUQzU3ZaTzFSeTV4Ymdlb0d2TFFGUkZZLUZHYTlCUno3NVNNenZGVkE4QWhJOUlaZDJEamRvT215TmZpa20?oc=5",
+   "source": "Investing.com - FX",
+   "at": "2026-11-20T00:54+09:00"
+  },
+  {
    "title": "システム障害、原因はサイバー攻撃？ 見極めるための5つのポイント",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xZVVyTXhnVlkzdkhqbExPQnNUcFdjZ2VPM0RRSk1xNTNUMno4ZVQ0U01iNzBMZmQxSWRBM0VvZ2ZQNlNjYmRpXzBWLUxhVkREdTVDdk9tSENaVkE0NTN3?oc=5",
    "source": "ライブドアニュース",
@@ -405,10 +411,16 @@
    "at": "2026-11-19T20:02+09:00"
   },
   {
-   "title": "EUの欧州委員会にサイバー攻撃 AIツール悪用か「職員の情報流出は未確認」と説明",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BMFg2c1EtM0xCVG5iNzk1LTZoczdPU3JJRTdrc3dRT1l4Wi03cjA5UkQ5azBVYi1hallBNDdCY2w1X2lZVXZKNTJQXzdlQTRpck1Wd0xjVWZ3cHY3eXpuVm1idWg5VHdxNm9WVHZ5NldUanFBMDJaUmdB?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-20T00:34+09:00"
+   "title": "EUの欧州委員会にサイバー攻撃　AIツール悪用か「職員の情報流出は未確認」と説明",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbXJnQk05ODJQQ3Z3OHhIbUFfLXkweG1IcE1qRzBITWNaWTc0Z3k3dlhwX1UzR1NhZnMydlVCRkcyczJXRTlDSkpHalVobTQyMkxXNlVmZTNyZ0lOS1dlRnFmb3JlMTF0Vi1LRkZFb1k3dmwzYXMwVkloZTc5cS1VWGdpNGg5d9IBiwFBVV95cUxNdjNoTHdjTHhvbWJ5OVQ5c3NfVVZ2V1FlUEVEU1l5STc3UWQtdkNkOW8xbF9WM3cxemlzMDlHeTVQMEw2a3JkN281cTM1SlRJSVd6RGs1d2tXS1hFakQzbGZuM1VodzdDVk5OU2NtM2tzOTZVcjVqRVhVblVYQU8xcHBIeG1IOXJYUVlJ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-20T00:44+09:00"
+  },
+  {
+   "title": "米JPモルガン、取引先ハッキングで顧客データ流出の可能性を指摘 「n0n」が犯行声明",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEYlRVUmZ4Z2psTk93aV9hQXU2MXZTeUFJeHlLZ1k0ZzM3TE45T2otM2s0c0otY3d3dHpmV0Q1LVFydUJLcEdScUx2VUZVV2llLXNPLWFXaVJMWkpybFhONFBEeUlKaDF0RVlyazVXVk9OSU1q?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-20T00:35+09:00"
   },
   {
    "title": "ＪＰモルガン、委託先がサイバー攻撃の標的に 一部顧客情報流出の可能性（ロイター）",
@@ -445,18 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92cGhWSUwyTE9CbWJtSndaZldhUjctMXRqaWNvTTZkNmpZcGpmeWRRZzdzai1OaDVDTG1CSWU3XzNabFdrNDlzclJJVVVrRmd0X2VPeTF5aHcxWkdlZ0E?oc=5",
    "source": "沖縄タイムス社",
    "at": "2026-11-19T23:34+09:00"
-  },
-  {
-   "title": "【速報】欧州委に10月にAI利用のサイバー攻撃",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VTXRtUVRXNm1wZV9jemlXZnloekd5YWMyRlE2anZqOFZZM3RtR28zSFVRVXZ1d1lHVHI4dms1cGZrNzBVbkJGVHpURQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-19T23:34+09:00"
-  },
-  {
-   "title": "「エンジンエックス」「PHP」に深刻な脆弱性 政府も対応呼びかけ [情報漏洩・個人情報流出の最新ニュース]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zaDlMRV9nM0xtOWNYTVdFWmotWk02TTBsb3BYYTY1aWJwUXR0YmpROUJBUUlJN2IzdW1SZ1ctdGtsN0d1dlFlTEhfZ3R0d0ZuZ1pLYy1jbWQ5eEtuMjdOTnJ0WDBxMTg?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-19T23:30+09:00"
   }
  ],
  "osaka": [],
@@ -504,6 +504,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "ロシア軍、ウクライナ東部イジュームの集合住宅を攻撃　２１人負傷",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVWhfSWlucmRJWEZPRzRkVmJsR2h4Wi1NTVNqUVNmS01oQVJuRlNjOTdXLWxrQTlISnc1S1RSN1d1TF9VNUl0WnNVZ0pqUDQzRXVBbTJjeXJmU0RpZjU5dFlfWXhmeEZPeWpBM0s1dlNBM2tYeHM3SGZUVGd0b05GVnVmODlTMEVCV2JSbWZwYUZyU1hNdnRJbHhhdWNnQmtKcENGWF8wMTUtOXlLTi0tLV9zZ0FXTGRwb3U00gHAAUFVX3lxTFBsYlhNTGx4cTdCRHI0bVVWd3JvTDFFdnU5SkVvZHdlYlNUZDN0aDdTVTJoRS1NVjVxS2Vza0hyZXpvUjhjM0djeVU3WmNaZFB3LWpkakhQa1Mtc19iNUVlT0xLaV9DTkZMZ1RYb3NmTzZlY1VEdFYxLXMwSmFLRWdEQjd3eklaNkZPMlpuNjlFYWdYVjExSVRoMS1oOElyNUhEZTU5aVU1T19QbDZZT2dvdEJySENaR0l4ZS01MGl2VQ?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-19T23:01+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "北朝鮮、非核化議論を注視か 韓国も「頭越し」警戒 米中ロ（時事通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZVJPM2tnQWZ6WHJfVFZ3QlZLU19EZjk2LUVjQ2JvQWUwNEZJeXVFUjlFdVdyMTg5M2RSOGhpOEluN1Y4ajlzdTZNYkpTTFhnM3JUWHNQUjdBbjY1UUlaTWZYTXQzeHZkYVgtaDlkMW04b3VNVWpMUzdQalkzRkE?oc=5",
    "source": "Yahoo!ニュース",
@@ -537,13 +544,6 @@
    "source": "Bloomberg.com",
    "at": "2026-11-19T21:52+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア機、対馬海峡通過 領空侵犯はなし―防衛省：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JTTNjZ2l6NTY1aUE2R2RSWXZkb2oydlZxVEd1enhUMmpkUENEckhXMFhWSXVDcVI0Zk5uWjRscTNoRkNCVVExSm9ReWJWRFU4NlBUSG5pT0VXaFg0OWZuLXprRQ?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-19T20:59+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ニクショル・ダン：「ヨーロッパは現在、ハイブリッド攻撃を受けている」",
@@ -621,7 +621,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」3件",
     "中国・台湾：「爆撃」3件",
-    "ロシア：「攻撃」「爆撃」2件",
+    "ロシア：「攻撃」「爆撃」3件",
     "欧州・NATO：「攻撃」「侵攻」5件"
    ],
    "items": [
