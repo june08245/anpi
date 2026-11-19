@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:45+09:00",
+ "updated": "2026-11-19T09:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -150,6 +150,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "米国防総省、中国軍事企業の1260HリストからWuXi AppTec社を除外",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04ZkRycjVhdk84bUdWUG85R2txZVlxUF9aUHN6LUQ3cWx3U2dPMk9paDVnV1c1Z3VteTNUQUw5RGVhclU2amVSbTkweVJJSEVVVWZycDNsay03OEstclUzZzJueFVIUQ?oc=5",
+     "source": "日経バイオテクONLINE",
+     "at": "2026-11-19T07:01+09:00"
+    },
+    {
      "title": "高市早苗首相、初訪中も冷遇 習近平氏と握手し声かけも返答なし、首脳会談は困難か",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDI1Q1NlZlhlYWhlTWtJdmZGbXc3R185d3dnVlJ2T1dPTzEzcUlCbHlRVXFHQndYbFlkQjJEZE5pVmZ1T0ZTZXpjbmxBS2ltaDhDRC1SSzlUaDlHTjNOc29XQXRnOEJnY1c4R1hjTzc4X1NaV2lPNjUtNFg3TEg5dExtbzI2cTQtVHQ3Sg?oc=5",
      "source": "産経ニュース",
@@ -174,12 +180,6 @@
      "at": "2026-11-18T14:36+09:00"
     },
     {
-     "title": "アメリカのAI半導体輸出規制をすり抜けていた中国企業…トランプ政権が「抜け穴」をついに封鎖、中国AI開発に大打撃？",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRHpKcVRlM0oxekRPUjUxWGx2WDNHY0hqSDFRZGFTT1lHWkVyeW5HSnZxRjdvOHdxemRzU2R1aEJzR1c0RkJ6MDRpckRuYllmYTM2V3lwRWRaTkM5N0ZlWXhRSDVUN3ZVeTVnQ2xHQXdaLW54b0NPclRkSWNzbmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-18T07:31+09:00"
-    },
-    {
      "title": "「日本人学校はスパイ養成所」とする悪質デマを野放しにした中国（文春オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNVdaa1RQWncxTHdEMkYyNTk0R0EzNTlHcGdtU19vOGRkdDlWd0h6NUFMaHpXc01MbTlRdmllbUh6Zm44WlVrcG1yaTVWMmJxWUpHWDBxVDhFWG1wc2h4OGNpU1BtRmhIaVUySkNmYTZQelhheGxFeGNjSnFXZDA?oc=5",
      "source": "Yahoo!ニュース",
@@ -191,6 +191,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "金正恩氏が海軍大学を視察「奸悪な敵と対峙」 トランプ氏に言及せず",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcFdQV3VKZmR1elRWRzdPZ3prcU9oSGpqNk9TdTNFYmdiY3JkRDZlbWhUVmpqbzdlRmhNME9vRGR3V1htdlAwenJjSGVjSXNKNDhmaDgwUlVOZ01wVGVzUlJ2NmhvaWY3TUp6Mw?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-19T08:53+09:00"
+    },
     {
      "title": "北朝鮮の金総書記、18日まで国内視察　建設現場や海軍大＝ＫＣＮＡ",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pNnFoOTRzSHhON0VST2FYZ0N0U1JRdGxyZUJNOEZIQUUwbzBqUzZLUEJWUDRybmVZYmpDWXdHcVRCVElBMXFSQmV5aTUtQ0Y3Zk5idWt2UXVuQU9yQnpFZ2wwQTVubG50Ty1aOGJaLTBzR2F1YVN3a1U1cHh6d9IBgwFBVV95cUxPd2RTNjkzcGprdlJvV18wLUQ0M2hIQXhKS0NnZURsbGNfaFd2Y01FZ1BtU1E0SnFaOWhfT01COVlEZlY3bmlWZ1VEdjNXSlUwZFhOMWdmQ1hyM21jNlhCbjNLcTluRy12bWQzSWJjbHlHV1ZOOUxzeEEwcUJsT2tlcFFRVQ?oc=5",
@@ -220,12 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10Zng1VkZQVElzcllzMVlBaC1nQ3JxektUTW9tSkxZZ2FhaHljM3FfMXdyR2ZDV0RtTWdkQ0F1cko4aERKMXQ0LTlaMllJbU1nZVYxbW5SVURSaHhaLUpLaEEtTzlSdmhnUEFKei1adi1TQdIBVEFVX3lxTFBVeXc2VHlYYkwtd2tlZ0JnYXY3NjlLSS1lOV9xY1ZrRk9tcjVudjN4dWsxMGtnOVdUaVZOZnBMS3JVQVlzczN2eTUtbWNFaE1WTEJNUw?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-19T08:08+09:00"
-    },
-    {
-     "title": "米、北朝鮮の非核化と制裁履行を再確認　EASで",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGtwTXhOTTBiVmp1aDYwNDliZTNwNUFNSnMtX0g5SHJRTDFnSzRaR1ZkZ3dodG1ETWc5WC1yalBpT3AzYURudWJPOFM5SDIxUTUwNHNuS0Q4Z1JaYXRuTVlOczZ4NHZxY2J6dXdiVFlTSHA1dWxNWF8xQWVYS0dTVFpycFJuTUVU0gGcAUFVX3lxTE5EbEwxZzhrT0RiTUhRSEZkVmNWbTFSMk5UM1hMdzlLeUpCRmRkRVNZSE9wZTlYZl9BNXBJeTZaY1MxR25nZ0tTVzd2YkdaeDR2Ni1ZMGVxNXd4aTIxNEVFN3h1QmkyMU8wVHlEU0pISVozZlhsTjhTY2h5SnQ1NDFpQzg3NjljcE5iX0V6NVB6YTRESzI0UXhuUjVUNQ?oc=5",
-     "source": "Chosunbiz",
-     "at": "2026-11-19T07:54+09:00"
     }
    ]
   },
@@ -234,10 +234,10 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ロシア製油所の処理量、10月下旬以降に半減　ウクライナのドローン攻撃で",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxdDlfUHp1bW5PZEhqWDB4R1BCMkd4VVVPVWNieHRaYXVZalNJVHlJdlNERmhiQjhmd1lWSGE4NjhtTXVjZ0tlc2dJeHM4YWFibGcxVzBrWXYza3FoRndsczRLeGlwVzEyN2NQOWhiVkYyU24wUjR3SDdTa0xjd9IBgwFBVV95cUxOT0pJS19JaVdRMXpMWUVZMzZzZlJkV3NVa1MxR283cXNPcGozMWU3dmY1VDZnb0x0UmE3UkkwaURmRV94Nl9Lbjc0ajU2d2FieEJ5WXJBV1VsYUowQVpNTGFDWlNKMUE5d3lzR1BVNXdtYTlZMFJvaHczX2tWUGRHWkRabw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-19T08:37+09:00"
+     "title": "ロシア製油所の処理量、10月下旬以降に半減 ウクライナのドローン攻撃で（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YNnI4VExkQkw0NG9WNS1ORnJVZUhVT0NFTE13Skc2cFo3X2dBQmE5MnBPYV9adWR5blJpZlFZX2xaVnNVNGZlWFJBVDJOeFYxVGdCeFliYTNDdC1TTU9iUC1oT29hUEl1NC1mTXpBREpneEtyNEtXYmFtOWdYRzg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T08:49+09:00"
     },
     {
      "title": "ロシア南部軍集団がウクライナの重UAV113機を撃墜",
@@ -381,6 +381,12 @@
    "at": "2026-11-19T08:00+09:00"
   },
   {
+   "title": "相次ぐ米システム障害、急増するセキュリティーパッチ適用が一因か＝専門家",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3Zjdlhzc19jVmtWQmpkY3VWQ0JBWDg1NS1TUklHTVFaZzE5bExwOUhLZzZSSGFwSjFOblp6b1ZscU5NZXZxSDNCb2pMSTZkdGNFYUQ1bFF1enc1WFhVaWR5dHgzbE1FQ1J0eVJDa3NRX3B0Z1JhOEtvMFUzMFlzLURmcnhxZlEtdVdqV2RB?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-19T07:15+09:00"
+  },
+  {
    "title": "車椅子マークの駐車スペースに停めたら非常識？ 障害者手帳はない83歳母、足腰が弱く歩行が困難…利用対象は？【社会福祉士が解説】",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZEpGODVSUmVQMEljZWxMN2pob1NPMWtBajVZRnlqd3ZQb2NSSmpMcDhqdjBRMS1fZlpqR0c0WllXdVNtMzAwV2N1WER0SnNUN1FoZkVVRE9OREY3UmNVTWVjREZIZWN5YVRLQVl3?oc=5",
    "source": "au Webポータル",
@@ -405,16 +411,16 @@
    "at": "2026-11-19T05:37+09:00"
   },
   {
-   "title": "クレカ、一時利用できず 国際ブランドで障害発生",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDc09pWW1PbXdhekd4WjBTY2ZidGNUaVl6ZkhVOXhtc3Z6amc0aFJTOG1OTERDNnpIZ2xuNE5YQ1Bjd0poUVhJaFVJY0hZT0xHazNQRDJsNW9Idk5LOC1ueEN0b2pYeGF2Uk1sR0tDVHByZw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-19T05:15+09:00"
+   "title": "SBI新生銀行、マネックス証券 口座開設システムへの不正アクセスで個人情報漏洩の恐れ",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGlCVHMzM2VlUVd6TE15NmFlcHpvN3o2SHZieElJVThnRm80ekV0Vi00Zmo1OWs0d2hvS0drc1VidUZ1SWV2cVN3WUFfTkZGLUxtVm1HRFBlaFZSX1ZDSzU4dkdyWGJ3c1RiM2t6MHFXUlZvck5hNkZzS0QwcHJwZGpxVGdLUHoxN2E4VnE4LU01d3d3YXc?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T08:56+09:00"
   },
   {
-   "title": "Outlook障害、ラジオ局でも影響 リスナーのお便り届かず SNSでコメント募集",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lM3hjc1R0d2tWZG9VQlpwbmtDN1NacUFZeGtWU21XV2NnaTQwbWFtRWo1TWszQ2dTUVFhaV85YXViMG9ITEpRRzQ5dW4yak5KMFE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-19T05:12+09:00"
+   "title": "エア・ドゥ、２５２０人の情報漏えい＝不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ld0hLc0xGbUZ2c3hyOVRzX3NEbWJfanlUbmpnZEdxVENRbHYtU09Sc2hFMnlfMFlhdDM1TGNNQlRJU3gycFVzdEdyVkM1VEhZQVNkVEQxYko?oc=5",
+   "source": "リスク対策.com",
+   "at": "2026-11-19T08:37+09:00"
   },
   {
    "title": "プラス、JOINTEXなど4サービスで延べ3万2,479件の情報漏えいの可能性 プレイド「KARTE」への不正アクセスが影響",
@@ -423,22 +429,10 @@
    "at": "2026-11-19T08:37+09:00"
   },
   {
-   "title": "エア・ドゥ、２５２０人の情報漏えい＝不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ld0hLc0xGbUZ2c3hyOVRzX3NEbWJfanlUbmpnZEdxVENRbHYtU09Sc2hFMnlfMFlhdDM1TGNNQlRJU3gycFVzdEdyVkM1VEhZQVNkVEQxYko?oc=5",
-   "source": "リスク対策.com",
-   "at": "2026-11-19T08:32+09:00"
-  },
-  {
    "title": "TOYOTA Wallet、約12万件の情報漏えい恐れ-委託先 プレイド「KARTE」への不正アクセスでアプリ一部機能を停止",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUV9SalVjN3pDdks1ZmZrazNtcUtHdTdjTkhCY05YNWxYUEJ1VHNyOWUtd2k3OVg5NUJvYTdNRHV4MkROX1VlS3M5SmZfTXpsdHVSamZocVZPLTBXUXZNWUFyZ3BheWppeWswMjhFT3ZVdV9zSzNSV3hlWHRMZFB3cTZ3djE3YjZFLXV6cjBXNGJoOHdnMkdsOTJLUQ?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-19T08:31+09:00"
-  },
-  {
-   "title": "エネコム、10月のサイバー攻撃で2,940件の個人情報が流出 保守用アカウントを悪用しシンクライアント経由で侵入、調査完了",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGlEY3VyTGhILUpSRWRHY2J0M25qRHVZUGctUDVRS1ZUa3NlQkc0TDdXOEE1UWRNRkN6d3Y2Z2tZNGNQZmxYN2ZIczhxVkhWa0p4QmtPd2ViTlB3ZnRpOV9qQ2xaaTdpZEJWelpSSHF3aE5Xd3JpNzhFVzdXbnpJZko0cm9rdnEydUgwajQ4aVNab19JT1BrYThocHJKSEJJUUJ4TTdVT1NTNklENWptLXdmaFlxWUpfOVc0?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T08:13+09:00"
   },
   {
    "title": "Cloudbase、「AIが攻撃してくる時代」のサイバー防御を解説するWebセミナー 11/25 開催",
@@ -457,23 +451,36 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MbS1rb0tGZWVMaERzZ0lMcjNSaHBrWm5BTkJnZFl1Um1GUEgzeldiOGVKRk5MbkE0T1VCWXFQNUxTY096dUFXVU9MeHpMcFZIQ3Q4N09sbWN5TkdlSkctQVNLeVhvWlF4dzBoUA?oc=5",
    "source": "ScanNetSecurity",
    "at": "2026-11-19T08:05+09:00"
+  },
+  {
+   "title": "チリ＝デジタル通貨改革に迫る「中国依存」＝便利さの裏に潜む金融主権のリスク＝脱ドル化の波と自前決済網の壁",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90VWNmZTBtcUo3QkU3SHNfc1VaU3V2aDA1ejNxTTNSYlNfY3dXcWV3akdWdGhfaUk5MzREZjZ3RWprQWtPeXlwM2ZRUXpUdmpXTXBERXZqamlBYXZseU1MbDBHenVnQQ?oc=5",
+   "source": "ブラジル日報",
+   "at": "2026-11-19T08:05+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "金正恩氏が海軍大学を視察「奸悪な敵と対峙」 トランプ氏に言及せず",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wcFdQV3VKZmR1elRWRzdPZ3prcU9oSGpqNk9TdTNFYmdiY3JkRDZlbWhUVmpqbzdlRmhNME9vRGR3V1htdlAwenJjSGVjSXNKNDhmaDgwUlVOZ01wVGVzUlJ2NmhvaWY3TUp6Mw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-19T08:53+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシア製油所の処理量、10月下旬以降に半減 ウクライナのドローン攻撃で（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YNnI4VExkQkw0NG9WNS1ORnJVZUhVT0NFTE13Skc2cFo3X2dBQmE5MnBPYV9adWR5blJpZlFZX2xaVnNVNGZlWFJBVDJOeFYxVGdCeFliYTNDdC1TTU9iUC1oT29hUEl1NC1mTXpBREpneEtyNEtXYmFtOWdYRzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T08:49+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "北朝鮮の金総書記、18日まで国内視察　建設現場や海軍大＝ＫＣＮＡ",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pNnFoOTRzSHhON0VST2FYZ0N0U1JRdGxyZUJNOEZIQUUwbzBqUzZLUEJWUDRybmVZYmpDWXdHcVRCVElBMXFSQmV5aTUtQ0Y3Zk5idWt2UXVuQU9yQnpFZ2wwQTVubG50Ty1aOGJaLTBzR2F1YVN3a1U1cHh6d9IBgwFBVV95cUxPd2RTNjkzcGprdlJvV18wLUQ0M2hIQXhKS0NnZURsbGNfaFd2Y01FZ1BtU1E0SnFaOWhfT01COVlEZlY3bmlWZ1VEdjNXSlUwZFhOMWdmQ1hyM21jNlhCbjNLcTluRy12bWQzSWJjbHlHV1ZOOUxzeEEwcUJsT2tlcFFRVQ?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-19T08:43+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "ロシア製油所の処理量、10月下旬以降に半減　ウクライナのドローン攻撃で",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxdDlfUHp1bW5PZEhqWDB4R1BCMkd4VVVPVWNieHRaYXVZalNJVHlJdlNERmhiQjhmd1lWSGE4NjhtTXVjZ0tlc2dJeHM4YWFibGcxVzBrWXYza3FoRndsczRLeGlwVzEyN2NQOWhiVkYyU24wUjR3SDdTa0xjd9IBgwFBVV95cUxOT0pJS19JaVdRMXpMWUVZMzZzZlJkV3NVa1MxR283cXNPcGozMWU3dmY1VDZnb0x0UmE3UkkwaURmRV94Nl9Lbjc0ajU2d2FieEJ5WXJBV1VsYUowQVpNTGFDWlNKMUE5d3lzR1BVNXdtYTlZMFJvaHczX2tWUGRHWkRabw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-19T08:37+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ロシア南部軍集団がウクライナの重UAV113機を撃墜",
@@ -546,13 +553,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米、北朝鮮の非核化と制裁履行を再確認　EASで",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGtwTXhOTTBiVmp1aDYwNDliZTNwNUFNSnMtX0g5SHJRTDFnSzRaR1ZkZ3dodG1ETWc5WC1yalBpT3AzYURudWJPOFM5SDIxUTUwNHNuS0Q4Z1JaYXRuTVlOczZ4NHZxY2J6dXdiVFlTSHA1dWxNWF8xQWVYS0dTVFpycFJuTUVU0gGcAUFVX3lxTE5EbEwxZzhrT0RiTUhRSEZkVmNWbTFSMk5UM1hMdzlLeUpCRmRkRVNZSE9wZTlYZl9BNXBJeTZaY1MxR25nZ0tTVzd2YkdaeDR2Ni1ZMGVxNXd4aTIxNEVFN3h1QmkyMU8wVHlEU0pISVozZlhsTjhTY2h5SnQ1NDFpQzg3NjljcE5iX0V6NVB6YTRESzI0UXhuUjVUNQ?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-19T07:54+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMzE0QWdMSHREQ2JYWWtvS1dpMERpYk9UZkVTY0lkdUtQZXFIUHZFZWVUTTFpdm5oQlJfX3V0b0FSUldIbVBVZTZBbDJBSm9lM3dreUt0TkVjN1hOd2M2NVNNeEdYZDNoc1pUYlFZUW1uNzjSAXhBVV95cUxNRnZVbkVjZHlLSzFoeWtOTTZDcWVzRUxsckhLWl81eU9rQUNnMUdLRFJQVDQyU1haMWlZRmZ4WnFsSk5OTmcwTV9OUGROREViZnpiM0hEYnY1YUU3dkh5N3VfRnBnNDRtZ1pfRktKTy1jUFd6aFd2OU8?oc=5",
    "source": "ｄメニューニュース",
@@ -574,6 +574,13 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "米国防総省、中国軍事企業の1260HリストからWuXi AppTec社を除外",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04ZkRycjVhdk84bUdWUG85R2txZVlxUF9aUHN6LUQ3cWx3U2dPMk9paDVnV1c1Z3VteTNUQUw5RGVhclU2amVSbTkweVJJSEVVVWZycDNsay03OEstclUzZzJueFVIUQ?oc=5",
+   "source": "日経バイオテクONLINE",
+   "at": "2026-11-19T07:01+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "日露首脳7年ぶり接触、それぞれの狙い 欧州との制裁連携は継続",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OYVRhRl9yLW1NZmVnRmFDUkZreWFPeHViak1Ka3hzR3hWSFliZU83Vk1GY3p2cHpfTEFVV05OZk51aVItN1p1SFBQRVU3N0hWWGRLRjc1TlFFOGYydDFtMm83LWk5dUVt?oc=5",
    "source": "毎日新聞",
@@ -593,13 +600,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-18T22:43+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "高市早苗首相、初訪中も冷遇 習近平氏と握手し声かけも返答なし、首脳会談は困難か",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDI1Q1NlZlhlYWhlTWtJdmZGbXc3R185d3dnVlJ2T1dPTzEzcUlCbHlRVXFHQndYbFlkQjJEZE5pVmZ1T0ZTZXpjbmxBS2ltaDhDRC1SSzlUaDlHTjNOc29XQXRnOEJnY1c4R1hjTzc4X1NaV2lPNjUtNFg3TEg5dExtbzI2cTQtVHQ3Sg?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-18T22:41+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -630,10 +630,10 @@
      "at": "2026-11-19T08:01+09:00"
     },
     {
-     "title": "ロシア製油所の処理量、10月下旬以降に半減　ウクライナのドローン攻撃で",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxdDlfUHp1bW5PZEhqWDB4R1BCMkd4VVVPVWNieHRaYXVZalNJVHlJdlNERmhiQjhmd1lWSGE4NjhtTXVjZ0tlc2dJeHM4YWFibGcxVzBrWXYza3FoRndsczRLeGlwVzEyN2NQOWhiVkYyU24wUjR3SDdTa0xjd9IBgwFBVV95cUxOT0pJS19JaVdRMXpMWUVZMzZzZlJkV3NVa1MxR283cXNPcGozMWU3dmY1VDZnb0x0UmE3UkkwaURmRV94Nl9Lbjc0ajU2d2FieEJ5WXJBV1VsYUowQVpNTGFDWlNKMUE5d3lzR1BVNXdtYTlZMFJvaHczX2tWUGRHWkRabw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-19T08:37+09:00"
+     "title": "ロシア製油所の処理量、10月下旬以降に半減 ウクライナのドローン攻撃で（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YNnI4VExkQkw0NG9WNS1ORnJVZUhVT0NFTE13Skc2cFo3X2dBQmE5MnBPYV9adWR5blJpZlFZX2xaVnNVNGZlWFJBVDJOeFYxVGdCeFliYTNDdC1TTU9iUC1oT29hUEl1NC1mTXpBREpneEtyNEtXYmFtOWdYRzg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T08:49+09:00"
     },
     {
      "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
