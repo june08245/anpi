@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:30+09:00",
+ "updated": "2026-11-19T09:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T09:38:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.6",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T09:05:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -90,16 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T05:03:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.1",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -121,9 +121,9 @@
     },
     {
      "title": "米中央軍、イラン海上封鎖を強化 洋上積み替え船も対象",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNUNSNFBFU0o0ZnRNMTFfWWRvSGtrR1hYQXhBWjZVbzBsbHBzNkxfZFJXeklCb25oLTJDVlhPOTYtMUNyWXdmeWNvRHhMMXpoTEx3c1dvSEl3bVJLcFB4U2VjUWJ1WlZHLUdSYVVB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wX1l5dktWYjhzSnZORU8xYmFnSjZwbWlXb1Znd0Z2SWgwa2ZYdnNJUG9xNjhXaGdoUEJFcDdsNndoNGRYYTA1N1owTGpuOVlCTzVrOVpPbElydUkwLVdyclgzLTVUajJ4MzZsOQ?oc=5",
      "source": "Infoseek",
-     "at": "2026-11-19T08:01+09:00"
+     "at": "2026-11-19T08:02+09:00"
     },
     {
      "title": "対イランで対応協議＝米イスラエル軍高官が会談",
@@ -168,10 +168,10 @@
      "at": "2026-11-18T22:41+09:00"
     },
     {
-     "title": "「第2のヤルタ会談」とも…あす史上初の米中ロ首脳会談へ 中国は“第二次世界大戦の歴史”を強調 「新型軍国主義」批判に日本は？専門家見解",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Nmx6a3ZBZks1d0RqOEctMWM5OXQ1N25SOGEycUdUTUdTN3FCZXpYempCU1FBdDhlRlJmU0F2LVBOc3NxSTRBUERqRmxSU0U2Rl9YRXdtY3ZhSGZBTGdBSDBBV3JqNE5zNmdjOGdvVkY?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-18T18:46+09:00"
+     "title": "「第2のヤルタ会談」とも…あす史上初の米中ロ首脳会談へ 中国は“第二次世界大戦の歴史”を強調 「新型軍国主義」批判に日本は？専門家見解（TBS NEWS DIG Powered by JNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aMElvX0JSRVFNb3dsY1IxTDRldkZQWndJeXp5Y1I5UDZudENtRk1SbExLZFVkZ0VyYW5aLU1VaDh5dW5VTzIwNHpSS3BvQnRJdUkyRTBLWXZndEZuNl8zd3JpRlVhWnRTeUZOMm9DU1BNZHl2X2xqcVotaE9FdTg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T18:44+09:00"
     },
     {
      "title": "ロシア軍機が台湾東部空域を通過 国防部が非難 「海峡の平和と安定維持に資さない」",
@@ -180,9 +180,9 @@
      "at": "2026-11-18T18:28+09:00"
     },
     {
-     "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UzJvMjJxSzhIX3hDVUN1YlZHUjh1YVFIbjFMbnEzako2QjQ1QmJSU2duM1ZpSG9yTzluRkFHcG9Vdk44cFVDd3Q1RVFYM2p3Y3BxcnIxSEVtaDNMUlBnVUJ3NV9qZG5PX2EzTnhHUHFnbUlvUmVldHZsc3E2SE0?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "台湾、米と「緊密に連絡」と表明 米中ロ首脳会談控え",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RSE1hSkVITnNjR3p3VGpZLTZuUFV0a1ZmSkdWUk1PNGhtUHlETFMwc0lVZnNrdkFOMldSTWE1RWJDbUZscGtvT1N1aGJ6aFJ6OS1vTUhxOVM5Z24xOHRDTThqSFpiU0V5SlA2Q2NB?oc=5",
+     "source": "Infoseek",
      "at": "2026-11-18T14:36+09:00"
     }
    ]
@@ -191,6 +191,24 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "金正恩委員長、朝米首脳会談に注目が集まる中、海軍大学など咸鏡南道一帯を視察",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGJXTG1KelVzVGJRQTJQZHVHcFBGNXI1VlEtbVNYYUNkRDh0dnR2OHhNenYwRGgwVUUxY2JiZ21KbGU0LWw4WUhqeWhCZjdTUVQ3TmlYbFhTbmw0LXVRajBXcVZSWGZHVFkwbk5CRzJuUXpscjNiZGtHZk94VnJncnVRM3hVZGxYYlE?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-19T09:35+09:00"
+    },
+    {
+     "title": "米中ロ首脳、深圳で初の3カ国会談へ…韓国では北朝鮮の核保有容認を懸念",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNU2k1MVJ6SDlTVC1Cb0ZhUndJbzJLRjB1RndDaUhESVFRbDFpYU0wMFhpenoybk03YUpRQzR1dDFYekZhcjE5Rk5xUDk3aWc1ekROZGxheWgxczNVcXFGc1hGOXE1eENKaG1ybjFJYmhTS05MdUtLMWF1MnpiMExDUi1yck13NmNQUjh5LU05N1NCSmpFMjRzaWhhZmFFOU9IOUNOVW5OcDBLUVg0amdycW5FSXdtMFk2enZYZmRIVFJwY2R0aXFHcGN4VGdnSmZrWWlvT3pZMURuV2NEYjRfMWxsR0JwM0Vvc2tDNUhkbUlvX2lRV0hDY3hYYldJcDVUNnFjZFlTbWVlZ25GM0dsQm11OEt0czVoWU91M0VBbi1ncVlRZzFZQ2hCaVNGSEZMc2tVSjNkMA?oc=5",
+     "source": "KOREA WAVE",
+     "at": "2026-11-19T09:33+09:00"
+    },
+    {
+     "title": "米、北朝鮮人権非難決議を棄権　「米朝会談」に配慮？　国連総会",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUExRC1SekVtTXdVM251WERNX2Y5aUxQOWJ6bFdyWGpRVWVXT0dmaGhtOHpVTlNXWWhZay1hazVEd3NXYXk0ZkNrNzM5dDdnWG0yaGV0Q2xweXRMZWxOVVVrMWt6V3lvUDJEY2xCUVNnWFNJeG0zRUY2ekxGdDRiYnJqcy1WRW1ER2VVX1dGNHdQZ9IBlwFBVV95cUxPaV9nMHhnbU0yVks0NmE2b05nVXhzellvS3NVeE5yajlnN00zNkZYcEFJc1ZhcUNWVTczQ2FnOGQ1am5oeWR2WE5xSzRzWVVPdlZ3bG0yVmpfWW0wUzBOMkZQU0Q3bGdXc24xa3UwUlRYTU1oN3lyVkM2clJ3c1FNTW03TWVJcUR0em9JZ00xMTZLbFNOcGEw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-19T09:27+09:00"
+    },
     {
      "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOWdnTXdVWGJZSHd5UE0xd3dzLTdrQXdNdThYNGdxMlR5R3hzWUlON3BkTFZsWlhTdTU3a1NSUUh2Wmc2aGpqNE1qMVk5WU4tZDF5OFBHMDJsdHh6Yi1sOXgyWXhKTEZmeDJSYUNB?oc=5",
@@ -208,24 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pNnFoOTRzSHhON0VST2FYZ0N0U1JRdGxyZUJNOEZIQUUwbzBqUzZLUEJWUDRybmVZYmpDWXdHcVRCVElBMXFSQmV5aTUtQ0Y3Zk5idWt2UXVuQU9yQnpFZ2wwQTVubG50Ty1aOGJaLTBzR2F1YVN3a1U1cHh6d9IBgwFBVV95cUxPd2RTNjkzcGprdlJvV18wLUQ0M2hIQXhKS0NnZURsbGNfaFd2Y01FZ1BtU1E0SnFaOWhfT01COVlEZlY3bmlWZ1VEdjNXSlUwZFhOMWdmQ1hyM21jNlhCbjNLcTluRy12bWQzSWJjbHlHV1ZOOUxzeEEwcUJsT2tlcFFRVQ?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-19T08:43+09:00"
-    },
-    {
-     "title": "李大統領 プーチン大統領と初対面＝北朝鮮核問題など意見交換",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ROEJVbVJVY0hKTGtnT0hJVHlnaGM3cmxjdHgwV2JKNV9qVmJYUTJLdUhPWWdtbWZpdHdrUDdXcXV0Z2pyTzA5QU1BSXh0aGZzdmhXRGxhdS1KS3l2dVNVa3VhZVRZS2M3Q01YOVV3NXBra0FVVWNjVWszSTFXSUk?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T08:09+09:00"
-    },
-    {
-     "title": "北朝鮮の無人機、撃墜して市街地に落ちたら…韓国軍が抱える「市民を守る」難題 [韓国記者コラム]",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10Zng1VkZQVElzcllzMVlBaC1nQ3JxektUTW9tSkxZZ2FhaHljM3FfMXdyR2ZDV0RtTWdkQ0F1cko4aERKMXQ0LTlaMllJbU1nZVYxbW5SVURSaHhaLUpLaEEtTzlSdmhnUEFKei1adi1TQdIBVEFVX3lxTFBVeXc2VHlYYkwtd2tlZ0JnYXY3NjlLSS1lOV9xY1ZrRk9tcjVudjN4dWsxMGtnOVdUaVZOZnBMS3JVQVlzczN2eTUtbWNFaE1WTEJNUw?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-19T08:08+09:00"
-    },
-    {
-     "title": "米、北朝鮮の非核化と制裁履行を再確認　EASで",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGtwTXhOTTBiVmp1aDYwNDliZTNwNUFNSnMtX0g5SHJRTDFnSzRaR1ZkZ3dodG1ETWc5WC1yalBpT3AzYURudWJPOFM5SDIxUTUwNHNuS0Q4Z1JaYXRuTVlOczZ4NHZxY2J6dXdiVFlTSHA1dWxNWF8xQWVYS0dTVFpycFJuTUVU0gGcAUFVX3lxTE5EbEwxZzhrT0RiTUhRSEZkVmNWbTFSMk5UM1hMdzlLeUpCRmRkRVNZSE9wZTlYZl9BNXBJeTZaY1MxR25nZ0tTVzd2YkdaeDR2Ni1ZMGVxNXd4aTIxNEVFN3h1QmkyMU8wVHlEU0pISVozZlhsTjhTY2h5SnQ1NDFpQzg3NjljcE5iX0V6NVB6YTRESzI0UXhuUjVUNQ?oc=5",
-     "source": "Chosunbiz",
-     "at": "2026-11-19T07:54+09:00"
     }
    ]
   },
@@ -369,6 +369,12 @@
  ],
  "cyber": [
   {
+   "title": "米国内で相次ぐシステム障害、ルビオ国務長官は「組織的な攻撃ではない」と説明",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWT0RNTkYyeXpfb21md0xxQW8xdTNCNU85QzVNdmtaSW55UjNHNXR1NG10d2RsTGsyT05XTkU5aHpPNzNlTm16MmNHaG1vRDBVUHBVN3dEbDVrUQ?oc=5",
+   "source": "Forbes JAPAN",
+   "at": "2026-11-19T09:30+09:00"
+  },
+  {
    "title": "システム障害、今後も相次ぐ恐れ－AIで脆弱性発見・修正が加速",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDllY2toVDBXZHBNbWNCeXZ5dW9GUmo4OExTWTdvN0g5WkJRelZfZVVwVkI2UHU1ZjFMc2V2MmdGel9rdE9UWEJCX2FjdFRZVF9oUnk1UU5KX2JzNGxVQ2V0b24wSUx5bm9nVnNNUmI4N2hyaXhoNnlrYmV6YzlQQ1hGS3VMOUlYZlJSclNB?oc=5",
    "source": "Bloomberg.com",
@@ -391,6 +397,12 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZEpGODVSUmVQMEljZWxMN2pob1NPMWtBajVZRnlqd3ZQb2NSSmpMcDhqdjBRMS1fZlpqR0c0WllXdVNtMzAwV2N1WER0SnNUN1FoZkVVRE9OREY3UmNVTWVjREZIZWN5YVRLQVl3?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-19T07:10+09:00"
+  },
+  {
+   "title": "ニュー・クイック、LINE登録者最大5万1,951名の情報漏えいのおそれ COMSBIへの不正アクセス、28名は性別・生年月日も対象",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXRSNmhqbldsUG9ZOXp6U3F3WFRUN0hzcG5XTmlvMDRPMXpYMV9oNlphWlpkY1RGVml2dXFjZXdxN1FwcXBHQ2hwLUhYMHpNcDJLN2dOeXhBRnI4ZTNMRkpkdThBQ3NvdEdBMmZMM19qcHBnTlNZdG5aWUl3cG56YklOQmo2LVdlZUJMNUNqLW5JS1E?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T09:30+09:00"
   },
   {
    "title": "トライアル、決済アプリID6万件漏洩 委託先に不正アクセスで",
@@ -429,12 +441,6 @@
    "at": "2026-11-19T08:57+09:00"
   },
   {
-   "title": "SBI新生銀行、マネックス証券 口座開設システムへの不正アクセスで個人情報漏洩の恐れ",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGlCVHMzM2VlUVd6TE15NmFlcHpvN3o2SHZieElJVThnRm80ekV0Vi00Zmo1OWs0d2hvS0drc1VidUZ1SWV2cVN3WUFfTkZGLUxtVm1HRFBlaFZSX1ZDSzU4dkdyWGJ3c1RiM2t6MHFXUlZvck5hNkZzS0QwcHJwZGpxVGdLUHoxN2E4VnE4LU01d3d3YXc?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T08:56+09:00"
-  },
-  {
    "title": "エア・ドゥ、２５２０人の情報漏えい＝不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ld0hLc0xGbUZ2c3hyOVRzX3NEbWJfanlUbmpnZEdxVENRbHYtU09Sc2hFMnlfMFlhdDM1TGNNQlRJU3gycFVzdEdyVkM1VEhZQVNkVEQxYko?oc=5",
    "source": "リスク対策.com",
@@ -451,16 +457,31 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YbW9KYjByV09XdW94WllsVGg2dUpvN2FSaWhMTTROREFPMFpXV1lYcFd3MW90VHBTMDFrR1Zzem9IVlJ0ajlaRklNN2dsTFloRFZVTm9vY1ZmZXVZOElNdkhjSHNNRzdNanRLZg?oc=5",
    "source": "ScanNetSecurity",
    "at": "2026-11-19T08:10+09:00"
-  },
-  {
-   "title": "サイバーセキュリティクラウドの開発環境に不正アクセス、GitHubに保存されていた個人情報が漏えいした可能性",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWklsLUNmdUxTNWdra3hCYjd6QVlSN1NQa3RULV8xalZjLS1LaVI2cHYyVXBjdGpOU3dfNEJFZTBBQUxTcHQ2ZW1WRF9VeEJGTEFZM0dFaEd1OTdmMS1sNlBNOUdVVEhvY0x6Ng?oc=5",
-   "source": "ScanNetSecurity",
-   "at": "2026-11-19T08:05+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "金正恩委員長、朝米首脳会談に注目が集まる中、海軍大学など咸鏡南道一帯を視察",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGJXTG1KelVzVGJRQTJQZHVHcFBGNXI1VlEtbVNYYUNkRDh0dnR2OHhNenYwRGgwVUUxY2JiZ21KbGU0LWw4WUhqeWhCZjdTUVQ3TmlYbFhTbmw0LXVRajBXcVZSWGZHVFkwbk5CRzJuUXpscjNiZGtHZk94VnJncnVRM3hVZGxYYlE?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-19T09:35+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "米中ロ首脳、深圳で初の3カ国会談へ…韓国では北朝鮮の核保有容認を懸念",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNU2k1MVJ6SDlTVC1Cb0ZhUndJbzJLRjB1RndDaUhESVFRbDFpYU0wMFhpenoybk03YUpRQzR1dDFYekZhcjE5Rk5xUDk3aWc1ekROZGxheWgxczNVcXFGc1hGOXE1eENKaG1ybjFJYmhTS05MdUtLMWF1MnpiMExDUi1yck13NmNQUjh5LU05N1NCSmpFMjRzaWhhZmFFOU9IOUNOVW5OcDBLUVg0amdycW5FSXdtMFk2enZYZmRIVFJwY2R0aXFHcGN4VGdnSmZrWWlvT3pZMURuV2NEYjRfMWxsR0JwM0Vvc2tDNUhkbUlvX2lRV0hDY3hYYldJcDVUNnFjZFlTbWVlZ25GM0dsQm11OEt0czVoWU91M0VBbi1ncVlRZzFZQ2hCaVNGSEZMc2tVSjNkMA?oc=5",
+   "source": "KOREA WAVE",
+   "at": "2026-11-19T09:33+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "米、北朝鮮人権非難決議を棄権　「米朝会談」に配慮？　国連総会",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUExRC1SekVtTXdVM251WERNX2Y5aUxQOWJ6bFdyWGpRVWVXT0dmaGhtOHpVTlNXWWhZay1hazVEd3NXYXk0ZkNrNzM5dDdnWG0yaGV0Q2xweXRMZWxOVVVrMWt6V3lvUDJEY2xCUVNnWFNJeG0zRUY2ekxGdDRiYnJqcy1WRW1ER2VVX1dGNHdQZ9IBlwFBVV95cUxPaV9nMHhnbU0yVks0NmE2b05nVXhzellvS3NVeE5yajlnN00zNkZYcEFJc1ZhcUNWVTczQ2FnOGQ1am5oeWR2WE5xSzRzWVVPdlZ3bG0yVmpfWW0wUzBOMkZQU0Q3bGdXc24xa3UwUlRYTU1oN3lyVkM2clJ3c1FNTW03TWVJcUR0em9JZ00xMTZLbFNOcGEw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-19T09:27+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "北朝鮮、寧辺の核施設にウラン濃縮施設増設＝ＩＡＥＡ",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qOWdnTXdVWGJZSHd5UE0xd3dzLTdrQXdNdThYNGdxMlR5R3hzWUlON3BkTFZsWlhTdTU3a1NSUUh2Wmc2aGpqNE1qMVk5WU4tZDF5OFBHMDJsdHh6Yi1sOXgyWXhKTEZmeDJSYUNB?oc=5",
@@ -539,32 +560,11 @@
    "topic": "ロシア"
   },
   {
-   "title": "李大統領 プーチン大統領と初対面＝北朝鮮核問題など意見交換",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ROEJVbVJVY0hKTGtnT0hJVHlnaGM3cmxjdHgwV2JKNV9qVmJYUTJLdUhPWWdtbWZpdHdrUDdXcXV0Z2pyTzA5QU1BSXh0aGZzdmhXRGxhdS1KS3l2dVNVa3VhZVRZS2M3Q01YOVV3NXBra0FVVWNjVWszSTFXSUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T08:09+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮の無人機、撃墜して市街地に落ちたら…韓国軍が抱える「市民を守る」難題 [韓国記者コラム]",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10Zng1VkZQVElzcllzMVlBaC1nQ3JxektUTW9tSkxZZ2FhaHljM3FfMXdyR2ZDV0RtTWdkQ0F1cko4aERKMXQ0LTlaMllJbU1nZVYxbW5SVURSaHhaLUpLaEEtTzlSdmhnUEFKei1adi1TQdIBVEFVX3lxTFBVeXc2VHlYYkwtd2tlZ0JnYXY3NjlLSS1lOV9xY1ZrRk9tcjVudjN4dWsxMGtnOVdUaVZOZnBMS3JVQVlzczN2eTUtbWNFaE1WTEJNUw?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-19T08:08+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "米中央軍、イラン海上封鎖を強化 洋上積み替え船も対象",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNUNSNFBFU0o0ZnRNMTFfWWRvSGtrR1hYQXhBWjZVbzBsbHBzNkxfZFJXeklCb25oLTJDVlhPOTYtMUNyWXdmeWNvRHhMMXpoTEx3c1dvSEl3bVJLcFB4U2VjUWJ1WlZHLUdSYVVB?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wX1l5dktWYjhzSnZORU8xYmFnSjZwbWlXb1Znd0Z2SWgwa2ZYdnNJUG9xNjhXaGdoUEJFcDdsNndoNGRYYTA1N1owTGpuOVlCTzVrOVpPbElydUkwLVdyclgzLTVUajJ4MzZsOQ?oc=5",
    "source": "Infoseek",
-   "at": "2026-11-19T08:01+09:00",
+   "at": "2026-11-19T08:02+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "米、北朝鮮の非核化と制裁履行を再確認　EASで",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGtwTXhOTTBiVmp1aDYwNDliZTNwNUFNSnMtX0g5SHJRTDFnSzRaR1ZkZ3dodG1ETWc5WC1yalBpT3AzYURudWJPOFM5SDIxUTUwNHNuS0Q4Z1JaYXRuTVlOczZ4NHZxY2J6dXdiVFlTSHA1dWxNWF8xQWVYS0dTVFpycFJuTUVU0gGcAUFVX3lxTE5EbEwxZzhrT0RiTUhRSEZkVmNWbTFSMk5UM1hMdzlLeUpCRmRkRVNZSE9wZTlYZl9BNXBJeTZaY1MxR25nZ0tTVzd2YkdaeDR2Ni1ZMGVxNXd4aTIxNEVFN3h1QmkyMU8wVHlEU0pISVozZlhsTjhTY2h5SnQ1NDFpQzg3NjljcE5iX0V6NVB6YTRESzI0UXhuUjVUNQ?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-19T07:54+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に",
