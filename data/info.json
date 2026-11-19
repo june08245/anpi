@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:15+09:00",
+ "updated": "2026-11-19T21:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T21:18:00+09:00",
+   "place": "山梨県東部・富士五湖",
+   "mag": "2.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T20:58:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T17:05:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -113,12 +113,6 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
-    {
-     "title": "米中露首脳 核軍縮やイラン議論か",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtNWxrQUlpdEh0VkYyczZ3bDBaTDhlUk1OV3NxaGIxeDhReXM3cXRadUZTeU41Z0dYTFk4VnpTNDZqaFB3X0V3UWdkcE9BZ3hT?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T17:51+09:00"
-    },
     {
      "title": "【速報】中国・深センで史上初の米中ロ首脳会談始まる 習主席が 米中ロが世界の模範となるべきと呼びかけ 核軍縮やイラン情勢など議論か（テレビ朝日系（ANN））",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uZFd2MWZGOVF2czFSdkVGRzg5czVXQkQ4TEVCMUhkZ0xmXzl4UmM2S1EzTmJMUnZhMHpOTVlNNXFqRDRaeU9mVnhrRF9ZVk1pZXJ6eXFrZW04TXdBNC1RVURaXzgwZHYybkhxYXlrS3B3amp6N2xUSFRvUG1hX1k?oc=5",
@@ -132,10 +126,10 @@
      "at": "2026-11-19T17:26+09:00"
     },
     {
-     "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KLXh0amNra0RfR05WQU1pczdrM3Y0QV9ZWTByR2FIRE1BbGJKNE1qemcyV2t0RUNpaFQzaVpwemgxSVBHTUxGTXE5SEVFdlp5UFZ6czhTQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-19T16:05+09:00"
+     "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】（TBS NEWS DIG Powered by JNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSVZ1MEk0RzJfTDdDd09QaXhGM0JycDVuUHE3eXE1bVM3WXAwVXozOXI2X3NtSlAxYjZNRjhTMDJ6SnhfeEFuRVM5SmxFLS1WWkYxLTNHcDFyelY0WFFPaUphRlhRZ0Z3T0FCTG1pY014OUZPXzkyMXY1d1V6Vm8?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T16:02+09:00"
     },
     {
      "title": "イランが毒ガスや生物兵器による攻撃の「兆候がある」 トランプ大統領が指摘 CNNテレビがワシントンでの「ダーティーボム」など使用をイランが検討と報道",
@@ -148,6 +142,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NS2ZqRzlmVWNpNHlCdWdXTm91VFJOdHY5ZUo1WnRnVFlDdzZTb3QxMVpJdVZQRmM0LWR6YmEtcnFaSjhKeXF6bG03dF93TlhpWEtEN3VKXzUtRXlUbnc5Mk5PR0x2STVTeF9ZYUFGUGx0akNMLW5CV09zMlY1RGs?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-19T13:07+09:00"
+    },
+    {
+     "title": "イラン、湾岸地域での攻撃範囲拡大 米軍によるミサイル発射施設への攻撃受け",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKSThLMS1KaXdVY2tHcDgxTnhwYlBSRFpnMzlaOGUxYmlQSVl4R1RlOE5qZDg5b1YzVWFHYlI3blNfT0pTTmdpV1hEeGtLMTcyZ0Rhb0ZxSkg2RnRnZUQw?oc=5",
+     "source": "千葉テレビ放送株式会社",
+     "at": "2026-11-19T12:56+09:00"
     }
    ]
   },
@@ -180,15 +180,15 @@
      "at": "2026-11-19T16:35+09:00"
     },
     {
+     "title": "台湾、今週に入り二度目となるロシア軍Tu-95の島周辺飛行を報告",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckQxc0RNZU1YQVJiSjd0X3dkWmJTbkQ0UWJDOGpVVTJwTjJBRVpEeE5kSGJackV5dHFTQkpyeEh3TFJoel9WTVlvMEhPUmhRSWUzdDlrLVBCRktZcXYxQTJGdVI0WHBoc3lHcmg2RGJBYXJOOEc2QTEwQTRzb0ZMNmlFRThHdGItcVdqVFZGUzlhRHBzYWFr?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-19T14:10+09:00"
+    },
+    {
      "title": "「2027年に台湾侵攻」は本当か…一人歩きする“期限付き予言”の陰に隠れた、開戦すれば“やり切る”中国の武力行使の論理",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbVptem1rY1Vja1ptN09KMnNVVmRQX3NsYXMybjY0UWVBSEFPOW9nQU1rMHd1akpROEcwQUwyZ0ViRDcyOVhDckl4RFJZeTUxZVVPcEdKSk9oYUZOV2kxUXB5c2lvTnRWT3d0dkxHMnl6MEg1MXZqbldGdWdmcEU?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-19T09:00+09:00"
-    },
-    {
-     "title": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vS01vNWd3eXhCOUwtYkpoX3hsb1hjRlJjWmhOcnRXTWN4V3NNWE9yMTBJQ1IyUlFudkdfaXpXeUY3Yy1pLUNjRFZfVGxNSUlWZGNhYjhvaUJObVk?oc=5",
-     "source": "東洋経済オンライン",
      "at": "2026-11-19T09:00+09:00"
     }
    ]
@@ -264,16 +264,16 @@
      "at": "2026-11-19T20:04+09:00"
     },
     {
+     "title": "ウクライナ：ロシアによるエネルギー施設・暖房システムへの攻撃が増加 民間人の命を脅かす",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaW8wX1ExczZ5U1JaakR3RVBzUEN2LWJwQlZGMTVlN3o1di1pclpiMzViUGhNbnhYOVBJWGwtb0xOdU5DVE1HSnUyUXZzcmpOdzZjcFBFVVFnalJtVTlDMw?oc=5",
+     "source": "www.amnesty.or.jp",
+     "at": "2026-11-19T19:38+09:00"
+    },
+    {
      "title": "米中ロの3首脳が歴史的会談　トランプ氏は習氏、プーチン氏と個別会談も",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwUmhNcUprV1hUVEZiclZyZGdySncxZHJfaGsyTVJCUFY3WWVuS0xldGtYM2RfNm9yNHZaY3dFQ1l0RkZNam4wSHIwY2RxYWdVS2g3VzBtN3dlRUpOcDhNaNIBZkFVX3lxTE81R2gtWUZtV0hYWlpqNTZKOTNjNVZhTS1NcjFYem9vNkVod3dFcUFlaWlBN0lHTlZINl81aHJ1WE1uQXFIOERSOGM3clRIMWxMa1dSVlBHR1M4N2puZXR4LWZmeTFjQQ?oc=5",
      "source": "BBC",
      "at": "2026-11-19T18:54+09:00"
-    },
-    {
-     "title": "ロシア軍輸送機が突然急降下、地面に激突…搭乗者19人全員が死亡、墜落の瞬間を捉えた衝撃映像（ニューズウィーク日本版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYnkzNE9kbnNEMEVETDBfQjZha2hzZjJmTFdMYmVWQlZXQkZoWndNdHlfQkhfTEhtUXFYV2NjQ3NFY2VOWnM2NV9PeW5SN2N6Y2FNalo4LVJ2V25Fc1JZQXRWUTJibGlHcWFwTW9wYU05alZyQ05XMUQzOHpheWM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T18:51+09:00"
     }
    ]
   },
@@ -358,7 +358,14 @@
    "at": "2026-11-18T19:02+09:00"
   }
  ],
- "outage": [],
+ "outage": [
+  {
+   "title": "大阪府の停電情報",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iRTZJREIxVWNNU3V0N3ZKcTQ1RWZ4OUVkeHBYdFkySmEwc0UzOHhWSjZ5SXNCNzd3ejBJWGpOTVVJM3duYngwQ011Vi14R0ZZaGFLTHBFSFBFLUVCbkN4QlhweTE?oc=5",
+   "source": "ウェザーニュース",
+   "at": "2026-11-19T03:00+09:00"
+  }
+ ],
  "japan": [],
  "cyber": [
   {
@@ -366,6 +373,12 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Mb1dkLU94R05EUkFzVFBSNDEyN1lJd2Zaem14akxpUUNHbmg1SUl5WWVidnNTREkyYy0wdjV3TFU3MnR6T2t1NXd6UDVCLWEycW5kMlFoMA?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-19T20:50+09:00"
+  },
+  {
+   "title": "マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrNmszQlBPZkxGdTQ1NXhoX0prQkVEanpDaXZOZ3ZONXpIaTdranQ1VEhYb0FkSU9VMlF1Q0ZjU1NYWkU5NU5LbWJMcV8zVXNFX1VqWnFR?oc=5",
+   "source": "KAB 熊本朝日放送",
+   "at": "2026-11-19T20:02+09:00"
   },
   {
    "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導 通信障害も相次ぎ信頼揺らぐ",
@@ -392,10 +405,10 @@
    "at": "2026-11-19T17:39+09:00"
   },
   {
-   "title": "ドコモ通信障害 藤井総務大臣「大変遺憾」 今月3度目 「根本原因の究明を」",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EbE1yT1Nma0dFWFR4eklnWlBCM0dkbmxpRGZkREVnSlh5QlY2WFF6QmoxMDd4eFlhUFZlZUV4SkZaN0g1Tlh3RDRTN1prOTduUVlFYkVNSzR2YXM?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-19T17:18+09:00"
+   "title": "欧州委員会にサイバー攻撃、人事システムなど10日間停止 個人情報流出の恐れ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nOWJKbjV6UGxzVnBTQk1PZy13TjVLc1R1TVRDYkVwQ19LS0FwMzc2dHE0U3NLRnd5SG90MUlCZElQeFM3T2FZb3pYQVU4SmhjaG1Ib1VPaDVsN0twUDJzRHFPS3QxekVjQnYzVUVqYUpmSDNF?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-19T20:55+09:00"
   },
   {
    "title": "「パソコンを使う時点で全員が対象」取引先経由で狙われるサイバー攻撃、いま企業に求められる対策とは？（TOKYO FM＋）",
@@ -413,6 +426,12 @@
    "title": "タイミー、求人事業者22万人の情報流出 委託先への不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhbGRlUjVOelRTeEFIOF9zUmZGQVhwd2tCNnJhYi1CQ1d4TUJRSkt0OHhHSVMtQVF2SWxmQm9pNjRqOXVkelNxTmxfdm5OR01VVG5XMEMwS1U1bHJDRVVIWXMxT0pUaUZoa3RGUQ?oc=5",
    "source": "日本経済新聞",
+   "at": "2026-11-19T20:40+09:00"
+  },
+  {
+   "title": "手ぶらで買い物できる「顔認証決済」東武百貨店池袋本店で導入（日テレNEWS NNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1leERrMnJLam9DMU5HVGNFRXdWbWZyZlFscjBXblhrU3QzQzJBQVVvUmxTa3FVYnFBamZnSUhUOGltSEN0NW9iVVRtUW12SlNMSTc0S21OMmJxY3dqMjNfcTQ2RVg1bE1mckNBM2c0VHI3NVpCdy1UYmd6dXNFeTQ?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-19T20:40+09:00"
   },
   {
@@ -438,18 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyY2dURXd5eXdTazJBRDk1OEhhaVVhRnptRDZxR0tTbjl6TGEzdUNhNFgzeUdTWVdXR3NDeUdmRGlpMmVQX3otc2hqTUZKVFdJRDE1ZmVWcG1RdzJDTzcwek8tSGZxR3dMLUNScWNzcjZKNjYw?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-19T20:12+09:00"
-  },
-  {
-   "title": "六花亭に不正アクセス カードのセキュリティーコードも流出の可能性 [北海道] [情報漏洩・個人情報流出の最新ニュース]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ibmZlS0NfTkE2LVlOTFRwVjNudVREUGtzdHk5S0lYeVpQVnZhQmRpbGNtSzlpUXEtT3pWUkM5M2tBUnBuTnpIOFBMTkZBU3lpVUtMcDdHRlpWdC1CcnlEYVd1bzNwdHc?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-19T19:36+09:00"
-  },
-  {
-   "title": "楽天証券への不正アクセス、余波大きく＝情報管理体制に問題も(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzQ4YTA2eUYxQTJqdWVZUGRWalpkdUtzbXF3MTNmYVhwMXc2QktQbzItT0poenZLdkxuZmlPbElsMm9IT19HZ1g2aDRELTBFaUNRdWYyUmQ1SnFfbkEyR2dhdEx6RFhocndKYXhBYk85QzhkVF8yajlBV2xhcDI2Y3ozM1d0UEE?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-19T19:35+09:00"
   }
  ],
  "osaka": [],
@@ -483,6 +490,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "ウクライナ：ロシアによるエネルギー施設・暖房システムへの攻撃が増加 民間人の命を脅かす",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaW8wX1ExczZ5U1JaakR3RVBzUEN2LWJwQlZGMTVlN3o1di1pclpiMzViUGhNbnhYOVBJWGwtb0xOdU5DVE1HSnUyUXZzcmpOdzZjcFBFVVFnalJtVTlDMw?oc=5",
+   "source": "www.amnesty.or.jp",
+   "at": "2026-11-19T19:38+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ニクショル・ダン：「ヨーロッパは現在、ハイブリッド攻撃を受けている」",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGpleDlXR3ZzOWJxTEdSMEdoTnM4VDlIeUJiWUo5aEFEMHpYSllIU3N3cHhUcmtCYVBmaGgxQ01mdFZ0ZXNLc0dFZ0lmZTZJbUVWeGh1NUh1R2N0Ty0wLXN5ekhRS0RfYkQ3Y2Vwd0l0eXdkQkc0VnpYYmd3azJVWU1jRE9weWl4VXBUUkFNcmx1U0dDYUdoTVFQamtVbTRpRWc?oc=5",
    "source": "Informat.ro",
@@ -511,13 +525,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア軍輸送機が突然急降下、地面に激突…搭乗者19人全員が死亡、墜落の瞬間を捉えた衝撃映像（ニューズウィーク日本版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYnkzNE9kbnNEMEVETDBfQjZha2hzZjJmTFdMYmVWQlZXQkZoWndNdHlfQkhfTEhtUXFYV2NjQ3NFY2VOWnM2NV9PeW5SN2N6Y2FNalo4LVJ2V25Fc1JZQXRWUTJibGlHcWFwTW9wYU05alZyQ05XMUQzOHpheWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T18:51+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米中露“トップ3”会談の舞台「麒麟山荘」敷地は東京ドーム8個分 北朝鮮の金正日氏も宿泊 大手宿泊サイトにも掲載",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oOVgyR2lhUThHcE90bUJlLUdrUjFTZUUzSE5YaHJ4a0ZaLWNYOGY5V3Y1UW1BOXJmcUY5VDJITE04NTV4cWE1eS1aS2RfQk13UTdOM1BOMU54bFMtN2VOWWt1bHg1NG01RExydHZMX0dIa2MwckRRWEthcjU1Unc?oc=5",
    "source": "Yahoo!ニュース",
@@ -530,13 +537,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T17:57+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "米中露首脳 核軍縮やイラン議論か",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtNWxrQUlpdEh0VkYyczZ3bDBaTDhlUk1OV3NxaGIxeDhReXM3cXRadUZTeU41Z0dYTFk4VnpTNDZqaFB3X0V3UWdkcE9BZ3hT?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T17:51+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "北朝鮮・寧辺のウラン濃縮施設、増築部分の外観が完成 IAEAが核計画拡大に懸念",
@@ -581,10 +581,10 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KLXh0amNra0RfR05WQU1pczdrM3Y0QV9ZWTByR2FIRE1BbGJKNE1qemcyV2t0RUNpaFQzaVpwemgxSVBHTUxGTXE5SEVFdlp5UFZ6czhTQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-19T16:05+09:00",
+   "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSVZ1MEk0RzJfTDdDd09QaXhGM0JycDVuUHE3eXE1bVM3WXAwVXozOXI2X3NtSlAxYjZNRjhTMDJ6SnhfeEFuRVM5SmxFLS1WWkYxLTNHcDFyelY0WFFPaUphRlhRZ0Z3T0FCTG1pY014OUZPXzkyMXY1d1V6Vm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T16:02+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -593,13 +593,21 @@
    "source": "Excite エキサイト",
    "at": "2026-11-19T15:18+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "プーチン氏がトランプ氏を操る？対欧州破壊工作の実動部隊は",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
+   "source": "TVer",
+   "at": "2026-11-19T15:16+09:00",
+   "topic": "欧州・NATO"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導」"
+    "停電の報道（大阪府の停電情報）",
+    "「マイクロソフト大規模障害 メール使えずビジネス現場直撃 急きょFAX対応「非日常」"
    ]
   },
   "japan": {
@@ -611,9 +619,9 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」2件",
-    "中国・台湾：「爆撃」「侵攻」5件",
-    "ロシア：「攻撃」「爆撃」2件",
+    "イラン・アメリカ：「攻撃」「ミサイル」3件",
+    "中国・台湾：「爆撃」「侵攻」4件",
+    "ロシア：「攻撃」「爆撃」3件",
     "欧州・NATO：「攻撃」「侵攻」5件"
    ],
    "items": [
