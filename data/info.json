@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:00+09:00",
+ "updated": "2026-11-19T12:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,26 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T12:06:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.2",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-19T11:57:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T11:27:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -74,26 +94,6 @@
   {
    "at": "2026-11-19T09:05:00+09:00",
    "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T07:14:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T07:10:00+09:00",
-   "place": "熊本県熊本地方",
    "mag": "2.5",
    "maxi": "1",
    "maxiRank": 1,
@@ -300,16 +300,16 @@
      "at": "2026-11-18T21:50+09:00"
     },
     {
+     "title": "EU、ウクライナとの戦争でロシアに化学兵器の使用停止を要求",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WLXJ6aXp4ZEYzamFkc3lHZFdwTE9pN3NrOGN0TkJLYzdXOWF2akdQb3lYWm1JSlJET05PSGdHTVZlek9iV2tJUDBSTkVoWnl2eFd3OVhWWmM4Z283Z2JnakVwZEJqbEFq?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-18T20:19+09:00"
+    },
+    {
      "title": "欧州の学校に偽爆破予告メールが連鎖 イタリアで避難措置、1カ月で8000件超 : 国際 : 財経日報",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JLXB1OE1sUkRGSW5Bc2ZDeWwwelg4S3NLMXRQWmJFOTRXRmJkZU9zYnJlZXBrNFFacWR6RFJNcE9TamdyZ1VQT0xrQUY4OHdSVXdKeVBlbDRRS0xrbUpMYXp6VQ?oc=5",
      "source": "재경일보",
      "at": "2026-11-18T19:02+09:00"
-    },
-    {
-     "title": "中国国防相が18年ぶり訪伊、軍事対話で欧州との関係改善模索",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEltTFNqZWJxS3pDTjlVZmxWTnkxaW5TMDdLZUM4UUNzaGE2c3d1LTdJSEZaeXZrcEJkbUwwdUU4eWdseDNhaS1ESWNqMlZfX05rR1JVNk5RXzBxekVBaGNSdW1fdmt5Y2NuaDRwNGlLdFZyaXkwQnluMmU5d0R4SmtzU2NyOWZo0gGcAUFVX3lxTE1tSEdDYWU1eldrd0hGS3dha25zVWo2RjAxcllka204UmV2N3VjTl92cUNheHRqc2FhWnhmUFB4TjUyejNKcUdDdUtZdGJ6LVRiYVRwZV9wQ2JqMnBfZ2lPa0g4eGFOWmZITVQwNkw5M2NESlB3VVlDOWx2VG5pR3F4bkdmcW9lZE5MVWN1b1lGMDRRVXYyUDJsa3pwNA?oc=5",
-     "source": "Chosunbiz",
-     "at": "2026-11-18T15:30+09:00"
     }
    ]
   }
@@ -364,15 +364,21 @@
  "cyber": [
   {
    "title": "システム障害、原因はサイバー攻撃？ 見極めるための5つのポイント",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWxOQlN3UXpoMkkxM3lydTZIR1RrUVBPVFllT2NkU3RWNHFacnRYU2VsV2xXSEhpR2w4TUtVcWhZZWJGUzFXTVp2Q0syaGY1S0RiLUlkQUVkV3NPRDJyRnBrd2VaUTUzbDlNbDBDd3U5N1R4WU5yRDY2Nl8xME1zVGpR?oc=5",
-   "source": "WIRED.jp",
-   "at": "2026-11-19T11:00+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xZVVyTXhnVlkzdkhqbExPQnNUcFdjZ2VPM0RRSk1xNTNUMno4ZVQ0U01iNzBMZmQxSWRBM0VvZ2ZQNlNjYmRpXzBWLUxhVkREdTVDdk9tSENaVkE0NTN3?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-19T12:04+09:00"
   },
   {
    "title": "トランプ大統領“組織的な攻撃ではない” 全米の空港や銀行などで相次ぐシステム障害",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yTFJ4MWdURWZ2RFBGb3VCQlctMENqaE5ILW1qZU9aOEhWb2lWNEs2b3FxUXd2UFExSlJFTGxvU1BRWDBmNk1Zb3pGbGZJRW5CdnVKTHl3NEQ5bHVDd0NXN1AwZzR5NzJqQlU5NEVB?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-19T10:19+09:00"
+  },
+  {
+   "title": "11/19 Zaifカード決済システムの障害のお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HQTVXNDJYUTJEZ2VPQmF2NXpuUUZROVRRZ3ZVd2xWVkU4VjBxMWZ5QXZtUmpaZ25wdlE2MkFYdi1HdmE0UEc1QmpwcHZneDZja3hXTjVJMmFEZ09FUWEwWDQtRDRPd9IBZkFVX3lxTE1HQTVXNDJYUTJEZ2VPQmF2NXpuUUZROVRRZ3ZVd2xWVkU4VjBxMWZ5QXZtUmpaZ25wdlE2MkFYdi1HdmE0UEc1QmpwcHZneDZja3hXTjVJMmFEZ09FUWEwWDQtRDRPdw?oc=5",
+   "source": "Zaif",
+   "at": "2026-11-19T10:11+09:00"
   },
   {
    "title": "Cloudflareの障害が示す、サイバーレジリエンスが重要な理由",
@@ -405,6 +411,24 @@
    "at": "2026-11-19T09:10+09:00"
   },
   {
+   "title": "亀の井ホテル・スパリゾートハワイアンズなど5ブランドで個人情報漏えい LINE運用サービス「COMSBI」への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzZEdUFtYXo5QTJQV2Rjd1BxZzBMSzRqejY1SHBVNU95aVhGUmFDMm83RTJmazRGS1U2Qks1b3ctVGMyUVM1Ql94dUtqX3hCSmw0TVg1ZU1yZU9BQmc5cHktMVZScy1ROWRQZnJMaGxSOXAyQUhMbnRveWN1YzZBTk1wY0dOcVhyMFdQSHpZakJ5V0VIdzI5NlBMSGc1MHU2VDd1Smx3?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-19T12:00+09:00"
+  },
+  {
+   "title": "Ｓｃｈｏｏ[264A]：当社が提供する「Schoo Swing」への不正アクセスに関するお詫びとお知らせ 2026年11月19日(適時開示) ：日経会社情報DIGITAL",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XdzFWaThrSUNia2FUQ21kUDQtaGtGdXRMRDBha1lfWmhwRXRCbDF3X05YNW91aG5EdXBMdDNIeVVJMk56NlljWFFuVDJkWHZDdlE1Xy1RMDFKV1JrYTFiNkdZdEFuNXp4ZkE?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-19T12:00+09:00"
+  },
+  {
+   "title": "Andurilのラッキー氏「AIハッキングが防御網を追い越した…今こそ走る時」",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Edl9sVDROVmhteXRnWjVvNzNHMS1oMUNURUo4b1NWc0lodlUtaElGR18tcUZPVk1acENQUjl0VjgtZ3JOdVVFWjRaSlE5YU9DeW5VOEhhQ2FiTVNyWmx5NzJaVFBrUlVPcndvZDBOQUZCUG1I?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-19T11:55+09:00"
+  },
+  {
    "title": "警察のサイバー部門幹部が臨時会議 個人情報の流出相次ぐなか",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TMWh4bWN4NTIwNmNpRWNqb08tWWdLdWNHVWhHNlBXWVBWbFVhMWItMTR4V0tQMlpWejU4bkxvZjZjU0NWcXo3d0Y1ajQzRU9aTFRjRERDeTJsSlhsYmpJ?oc=5",
    "source": "NHKニュース",
@@ -412,7 +436,7 @@
   },
   {
    "title": "クラブツーリズム、「KARTE」への不正アクセスで約406万件の情報が漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PX3l6MGlfc3RNbGVfLTcwbDVJZFhGV3Y5emgxTE5UaTVCYlBKR3VaSHk0UDB5MndZX3M3ekFJTV83RjdOQmpn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZeU1oSEFXUG00clVpbHdscTI4cDJFd0dTRzBvRGlERTRVOVJGZXZoa0JrazdLNS1QVnk1YkVrNWJVTXN2WkdYZzg0MEx1aF96ZjVhWC13OA?oc=5",
    "source": "TRAICY（トライシー）",
    "at": "2026-11-19T11:48+09:00"
   },
@@ -423,34 +447,10 @@
    "at": "2026-11-19T11:45+09:00"
   },
   {
-   "title": "百貨店の藤崎オンライン会員情報 約7万5000件漏えいの可能性 外部サービスへの不正アクセスで（2026年11月18日掲載）",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVpSa25TYnI3eExSLTlrWFZKNlgwX1hBdXNuUjJZUWp2TXp5bGZiSkpGTHdIQXk3bHpKd3d2TzlCclEySTVnTU1rTG9zWHhlV29fRk1HeWlPZjV4a25pRzhnQ2h5OThLVXE1ZlZjSXoxbVNuMDZRVUFvNDdkZ25WYVYxN2t2SUk?oc=5",
-   "source": "日テレNEWS NNN",
+   "title": "百貨店の藤崎オンライン会員情報 約7万5000件漏えいの可能性 外部サービスへの不正アクセスで（ミヤギテレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OazRhdkhVR21HbkViVkVVaC1sTUhNWlN0TDBVRzNyZzhDcU9CM3BOMkI0ejFzQnBGT2VaTFJXTTBPUTEycTlDVHBReWxyRjBqSGdOMndlbVpvcWZkUnpNRzVJbjhKMGNzQlppa3JWT29CZjQ4TUNFX3ItLWZ1T2M?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-19T11:35+09:00"
-  },
-  {
-   "title": "「GTA 6」未公開映像90本を流出させたハッカーがRockstar GamesやUberなどへのサイバー攻撃を認める",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRk9UN2JVZGU2aGpwOFVWQWJGNVRxaU5HbURqMXN3WHpxbjA4QzlsLWpHaGtfel8tazRCNTFsdFg2LTR0dGh1aXFFRklHUDdzRW9VN0JIRE1RRVI4bHZyRUtxX0lBbGpGd2tlMW5RWFcwSXVxRFJwY1FneFBoNXZURjI4TjFOei1oWmFGVE9rV3NaWm1oYU1IM2ZWLUI5aVJIV3c?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T11:30+09:00"
-  },
-  {
-   "title": "鹿島アントラーズ、4万844人の個人情報漏洩 委託先 オープンロジへの不正アクセス|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0xiWk43Q0hFSzF5Q2JFU1luNE1GWGVIUmJ3WF9LcUQ3N3BlbVpyLUU4ZUdsTnhTMkVKMXJIWE1fb0U1M0pTOTlhMTRkY2lOZVExQ0lua1A0R3Fadk1oMzdrdnEwUEJhQW1tYXJ2V2xHMkRETmhHNEVQdmQ3c243YWQ2WUtUb0xJSk9DYzVqUE9mV21BMWFHblNpajdOZ2pJUmNQc3lB?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T11:15+09:00"
-  },
-  {
-   "title": "Ｊ１・鹿島のオンラインストア利用者などの個人情報４万８４４人分流出…委託先の物流会社に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Hb3Y0NjQxZFVqWnlYY1pZM2d5QkxLZzkxbjk5YUptMFVGQVZ3aHl1bXdrSUppb2dPRWRPRy1UTlIwMGdaSDktMmdPb185OUJGaDJJZWR4VVhQbEFKaUdXLXZoeXJuUVZqeThFSl90XzA1NWtPQnJB?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-19T11:10+09:00"
-  },
-  {
-   "title": "東京都の「赤ちゃんファーストギフト」交換サイトが一時閉鎖、委託先サーバーに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90cGNfUzJ2TEpoYkNnRENQMXhkRlFJYzBBdm44b0tNMklMSV91YmRSeTYyTjdocENXaWdobS1tSldqcjZmOE5ZWVppQWxUMWh1VVlHdmlsTHRSNjc5NUJ0SThuY0tjQQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-19T10:59+09:00"
   }
  ],
  "osaka": [],
