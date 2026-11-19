@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:00+09:00",
+ "updated": "2026-11-19T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T20:08:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T18:12:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -91,16 +101,6 @@
    "at": "2026-11-19T14:33:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.6",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T12:06:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.2",
    "maxi": "2",
    "maxiRank": 2,
    "osaka": "",
@@ -240,22 +240,10 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-19T19:13+09:00"
-    },
-    {
-     "title": "ロシア軍輸送機が突然急降下、地面に激突…搭乗者19人全員が死亡、墜落の瞬間を捉えた衝撃映像（ニューズウィーク日本版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYnkzNE9kbnNEMEVETDBfQjZha2hzZjJmTFdMYmVWQlZXQkZoWndNdHlfQkhfTEhtUXFYV2NjQ3NFY2VOWnM2NV9PeW5SN2N6Y2FNalo4LVJ2V25Fc1JZQXRWUTJibGlHcWFwTW9wYU05alZyQ05XMUQzOHpheWM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T18:51+09:00"
-    },
-    {
-     "title": "台湾周辺にロシア戦略爆撃機",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbkZlcmUtdTcxc0NzMXhzZWcyVXhZY3J0QUdfSG92V3d2RkFGc0FKaXVmdXVVLW1tNGN4UGVmaExRU21vMUR5QXJ1WU51THVXNGJPek1R?oc=5",
-     "source": "熊谷経済新聞",
-     "at": "2026-11-19T18:16+09:00"
+     "title": "米中ロ会談、習氏が仕切る プーチン氏「我々は第2次大戦の戦勝国」",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtNE9MSk9uWHJkM2hCemxVM1pmMVlEZS1UbDFnZWNYX0swd0RGc1MxNDA2Y3lsU2NyMkVjbzlzZVJOdzRZWXc0OWxIdDRkT2ljcUVZeDY4cmQ0XzNkYW9ENldLOVhNUk0?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-19T20:04+09:00"
     },
     {
      "title": "ハリー王子、要請があれば軍復帰の覚悟。ウクライナ訪問で、ロシアの脅威について語る。（フィガロジャポン）",
@@ -264,16 +252,28 @@
      "at": "2026-11-19T18:00+09:00"
     },
     {
+     "title": "トランプ米大統領、ロシア・ウクライナ戦争終結についてプーチン氏と一緒に話し合うことを習氏に提案",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMzBqcGVXajhTTjBmU2NJTW9vMXVTN2dHRF9xYy1ka1ZmYkkyMnI4bEgxZkp3bFJfWGF4bXJQY0FlMWtnWXZhWmtYSmVLVEhjS09vaXlFQ2dRT2E5ZzdEaE9ybFhITmVUWFRrZzg4bEpzLW05SUFHeThxdTRNQTlMN1ZYUkh5c001R3BVM05oWklKWmFiSTQ3RXRIVGE5X1dKR01TX3U5dWZ5X1dZRFRvVTVVZnR3OTZYZVNiLXQtZktCS01GTTVIN1F4MnN0YU5yWW95bFRPTzk2c1hZTEFseFl2Wjctd3RNTnVDSjVqRzZFMXNUeVp1ZFR0cjdKM2JuN3fSAYcCQVVfeXFMUHhGUUR0cDRXMUpuMjBTOVFNaVNfZTNQTnBhaXh6UUpGczU0U0ZPSVBsNVhVV2VQV19hX0paMWRCWHhwWW5RRXhKdDlCcG1vcThELWlkRjBDeERvOHVkdV9VZ0h0VTlPbnBGb2NGU3FyZnE1YU1lcVJhQkdOdG53a1ExLVhBeEtrclplR0MwM2ZtMG4waDgwNWJ5eWdpeHhGdzFxSEpFQ1dFQnJRQjFDdFZNYTJrZWdHMFJ1NXoxNldMN1l6Q3N6VFJ5b01pUUx6RWk2VVFOTHpoVWh6bUQtaHRmLWUwUHZWS05GaktZSl9jejdNa3dpWmlqWVVQR0s1WFplTl9FYzA?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-19T17:55+09:00"
+    },
+    {
      "title": "米中ロの3首脳が歴史的会談　トランプ氏は習氏、プーチン氏と個別会談も",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwUmhNcUprV1hUVEZiclZyZGdySncxZHJfaGsyTVJCUFY3WWVuS0xldGtYM2RfNm9yNHZaY3dFQ1l0RkZNam4wSHIwY2RxYWdVS2g3VzBtN3dlRUpOcDhNaNIBZkFVX3lxTE81R2gtWUZtV0hYWlpqNTZKOTNjNVZhTS1NcjFYem9vNkVod3dFcUFlaWlBN0lHTlZINl81aHJ1WE1uQXFIOERSOGM3clRIMWxMa1dSVlBHR1M4N2puZXR4LWZmeTFjQQ?oc=5",
      "source": "BBC",
      "at": "2026-11-19T17:47+09:00"
     },
     {
-     "title": "台湾周辺にロシア戦略爆撃機 防空識別圏進入、写真を公開",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fb3ZjUkc2clBaaGh6ZGRaNElFZ2wtd2IwdGkxWVppbENFYmQ3dWhqWGJxbVRZRE50ZURIUWxXenk1TnRzVUdTTzQxVHotY0c2ZGZ4LUJFcTlvTTY5SHh5V2RrYw?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-19T17:16+09:00"
+     "title": "ロシアがウクライナに侵攻した2022年のことだ。 液化天然ガス（LNG）の供給不足で停電の可能性まで懸念されると、韓国政府は主要供給国であるカタールに対し、「価格は最大限合わせるので、LNG船をもう1..",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneVFnLTRFaHRiWVIwdkc3eWpUNkxHejBKdTBuYm8xM0hSY1NmMzduZXdmekd3dmFrclVPMVdnRWh0RVk1Y3NmNUxjZ0RIeW9rWUdrLXpR?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-19T17:09+09:00"
+    },
+    {
+     "title": "ウクライナがクリミア橋を攻撃、1週間で3度目　ロシア当局が発表",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVkxKclg5M1c3MUs4bjhvdE5iSVhfTE5Mb1AxU290c0hEOUk3M1l0TzlJZ0RFUEdXVVY1R3lGaDF3WEd2MWJOV0lFQkJOYlQ3bGNETHR1V0RITEUzYmlMadIBZkFVX3lxTFBQVzlweG9OMElsNWJ0X01LeVRXOVhXVkZWblNGWkZ3SDhxbzRCOV9PM0RQVkt5bmItNDRVQkZtR284OFlRdXpkVzY4c1JxMEdQWndPYi1qZnV3YWFWNkt6LUo4dFpIZw?oc=5",
+     "source": "BBC",
+     "at": "2026-11-19T16:31+09:00"
     }
    ]
   },
@@ -322,12 +322,6 @@
  ],
  "nankai": [
   {
-   "title": "土砂流入の家屋や浸水した車を想定 南海トラフ地震に備えて県警１６０人が災害訓練 南国市",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hTlM5c1NYUGYxdC1EME5VYXIzandjYl9xdTdNMFMyMjlSS2tjRHpjWWR4S1RYSWhGcW43aGhTdzZ4X1FUazY5VjJIblFPYUVLeVRlQjFuYnBsdnRpWTBv?oc=5",
-   "source": "高知新聞",
-   "at": "2026-11-19T18:45+09:00"
-  },
-  {
    "title": "緊急輸送路確保、ライフライン復旧へ連携 南海トラフ備え、岡山県などが図上訓練",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdG5pb2pNREprd2o1Y0xaQ2FtTEpPc084bHlsMlNNTXdSSDZWU2w4dk5SQUFMNndNTTE2OW96RV9lR1hFWWZvSlZ0a3BpcXdtMGc?oc=5",
    "source": "山陽新聞",
@@ -356,6 +350,12 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jcFZHU1ZJYjNfNldiSElNd0ZFc1pQVEVVbk1VTzNoVnY2OUpacVA2eVdSdzBGQkVFTktlZTBROXBvRGRDTm8wLTNETzNPcVVHdzQ2Qkp0YWlfLUdTRkxn?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-18T19:02+09:00"
+  },
+  {
+   "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練（RSK山陽放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOUx4eklOS2s4dHFfY3dudVZKVVpuSW5LcDJMTExYVVBGVlFzQjYtdjFsV2RQeWZfeno5Z0h6ZHNMNTJVbDZHWXJjOXBOR3lFZDItOUJxUkd1LW51RXR3V0lDcUt0MXU2bVN3X2dYcmw1NGlsUHAwU1R1V0cwbG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T19:00+09:00"
   }
  ],
  "outage": [],
@@ -392,6 +392,24 @@
    "at": "2026-11-19T17:05+09:00"
   },
   {
+   "title": "北海道「六花亭」に不正アクセス クレカ情報 約8000件流出か",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVd3dtVHhjN0h3VWJ0TDNra0s0QXphZ0V0NEFhWE1zQ3hGeVRpS0xrVGdWVVB5OFNxYWJfeF85OGh1dGYwTl9wZmJJMVdoeVRQOWpCaGE2Z0l0U3BKM3FN?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-19T20:12+09:00"
+  },
+  {
+   "title": "「パソコンを使う時点で全員が対象」取引先経由で狙われるサイバー攻撃、いま企業に求められる対策とは？",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oczJraWdxYWpJZmN1NkRJak5QU0NCVXktS1pocGhUS0tfcTBmTGIwcURGYndlUU9UZnZyc280VDhjdks0WVFJc3ZOdFJwN2phVmo1cDBDa3ZxdnlxdHFV?oc=5",
+   "source": "radiko news",
+   "at": "2026-11-19T20:00+09:00"
+  },
+  {
+   "title": "六花亭に不正アクセス カードのセキュリティーコードも流出の可能性 [北海道] [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ibmZlS0NfTkE2LVlOTFRwVjNudVREUGtzdHk5S0lYeVpQVnZhQmRpbGNtSzlpUXEtT3pWUkM5M2tBUnBuTnpIOFBMTkZBU3lpVUtMcDdHRlpWdC1CcnlEYVd1bzNwdHc?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-19T19:36+09:00"
+  },
+  {
    "title": "楽天証券への不正アクセス、余波大きく＝情報管理体制に問題も(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzQ4YTA2eUYxQTJqdWVZUGRWalpkdUtzbXF3MTNmYVhwMXc2QktQbzItT0poenZLdkxuZmlPbElsMm9IT19HZ1g2aDRELTBFaUNRdWYyUmQ1SnFfbkEyR2dhdEx6RFhocndKYXhBYk85QzhkVF8yajlBV2xhcDI2Y3ozM1d0UEE?oc=5",
    "source": "Yahoo!ファイナンス",
@@ -404,10 +422,10 @@
    "at": "2026-11-19T19:34+09:00"
   },
   {
-   "title": "『六花亭』に不正アクセス…クレジットカード番号と”セキュリティコード”など約8000件流失か―サイトの決算画面のプログラムが改ざん「不審な請求があった場合カード会社へ」〈北海道帯広市〉",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nblI4Q3F4NVZUeWRDN0lINEtURUZqeVhXYnJwbkVRaTZQSmlQR1E1dlMzaTJzWnNwcXNuX3Y0Yk5PNVg3bmUyYV9iYmRmQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-19T19:15+09:00"
+   "title": "『六花亭』に不正アクセス…クレジットカード番号と\"セキュリティコード\"など約8000件流失か―サイトの決算画面のプログラムが改ざん「不審な請求があった場合カード会社へ」〈北海道帯広市〉",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FOXlVVWRSZF9OcERGcWV3aUVFTDZ4ZFpxY2M3UUFlY3o5ZG55YkRJZTBhX1lzS0E2b2N0V0pVQnNZVE5hcVNfYTh5MGVGQTYyYWI1T3Y2TQ?oc=5",
+   "source": "UHB 北海道文化放送",
+   "at": "2026-11-19T19:27+09:00"
   },
   {
    "title": "三井ショッピングパークアプリに不正アクセス、ポイント会員の個人情報の一部漏えい…アプリ提供停止",
@@ -432,41 +450,23 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvQ0V1Skx4TnJYNFk4X2kwR3c3NG5KMWQ1REo4Qk1yNkprcGhKek03enhyNnRIYk5mZ2lLYTh1MGhLVkdXMXJScFQ2cjgzdUdESFBsakJMV3F5bDU4Q2k1WXVhYlJHeHNEa1RodC1PQ0xaNHp4VTVvT1RtMDYxcWM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T18:54+09:00"
-  },
-  {
-   "title": "株式会社プレイド『KARTE』への不正アクセスに伴う情報漏洩の可能性について",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvdDVXV205YWFqZ0dVaDl4VGxiQWhQWThDRy1wQjFNNzVnbVktQ2JoMVlScllWbkJ5UFRzQS1MVjN2XzdiM1JwZWk3TDRPTkYtYlN0MUh3VWhWWUdPT0Jmd2NuUFpMcFhxdVBaSA?oc=5",
-   "source": "GO株式会社",
-   "at": "2026-11-19T18:47+09:00"
-  },
-  {
-   "title": "「KARTE」不正アクセス、シャープ通販で最大約326万件流出のおそれ DHCは約1911万件漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41YnJ6WkV0cmlfV1NETWFvTFhOQjludHVlQmt4ajU2VG5aS0NsMVBlOUdFYzVGbFNEcXBQT1JNN2tZVHplVUFUdmxSSGVLN194eXc?oc=5",
-   "source": "CNET Japan",
-   "at": "2026-11-19T18:47+09:00"
-  },
-  {
-   "title": "シャープや関電子会社で情報漏えい 「プレイド」不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Hc3U3YVJVcVJTbFgzRW5kYU1ITGNqeHhpeVlISUR0ZjM1Yjk4MzlZNEQ4RDFHQV8ySExZSVBaTEVBNVFFVlNYR3ozMjNmMDlpLUt1ZnlsMHdVRHdZVVVj?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-19T18:39+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米中ロ会談、習氏が仕切る プーチン氏「我々は第2次大戦の戦勝国」",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtNE9MSk9uWHJkM2hCemxVM1pmMVlEZS1UbDFnZWNYX0swd0RGc1MxNDA2Y3lsU2NyMkVjbzlzZVJOdzRZWXc0OWxIdDRkT2ljcUVZeDY4cmQ0XzNkYW9ENldLOVhNUk0?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-19T20:04+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ニクショル・ダン：「ヨーロッパは現在、ハイブリッド攻撃を受けている」",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGpleDlXR3ZzOWJxTEdSMEdoTnM4VDlIeUJiWUo5aEFEMHpYSllIU3N3cHhUcmtCYVBmaGgxQ01mdFZ0ZXNLc0dFZ0lmZTZJbUVWeGh1NUh1R2N0Ty0wLXN5ekhRS0RfYkQ3Y2Vwd0l0eXdkQkc0VnpYYmd3azJVWU1jRE9weWl4VXBUUkFNcmx1U0dDYUdoTVFQamtVbTRpRWc?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-19T19:16+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-19T19:13+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "史上初の米中ロ首脳会談 大国主導に警戒 焦点は核軍縮とイラン情勢",
@@ -490,25 +490,11 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ロシア軍輸送機が突然急降下、地面に激突…搭乗者19人全員が死亡、墜落の瞬間を捉えた衝撃映像（ニューズウィーク日本版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYnkzNE9kbnNEMEVETDBfQjZha2hzZjJmTFdMYmVWQlZXQkZoWndNdHlfQkhfTEhtUXFYV2NjQ3NFY2VOWnM2NV9PeW5SN2N6Y2FNalo4LVJ2V25Fc1JZQXRWUTJibGlHcWFwTW9wYU05alZyQ05XMUQzOHpheWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T18:51+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米中露“トップ3”会談の舞台「麒麟山荘」敷地は東京ドーム8個分 北朝鮮の金正日氏も宿泊 大手宿泊サイトにも掲載",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oOVgyR2lhUThHcE90bUJlLUdrUjFTZUUzSE5YaHJ4a0ZaLWNYOGY5V3Y1UW1BOXJmcUY5VDJITE04NTV4cWE1eS1aS2RfQk13UTdOM1BOMU54bFMtN2VOWWt1bHg1NG01RExydHZMX0dIa2MwckRRWEthcjU1Unc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T18:45+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "台湾周辺にロシア戦略爆撃機",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbkZlcmUtdTcxc0NzMXhzZWcyVXhZY3J0QUdfSG92V3d2RkFGc0FKaXVmdXVVLW1tNGN4UGVmaExRU21vMUR5QXJ1WU51THVXNGJPek1R?oc=5",
-   "source": "熊谷経済新聞",
-   "at": "2026-11-19T18:16+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ハリー王子、要請があれば軍復帰の覚悟。ウクライナ訪問で、ロシアの脅威について語る。（フィガロジャポン）",
@@ -523,6 +509,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T17:57+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "トランプ米大統領、ロシア・ウクライナ戦争終結についてプーチン氏と一緒に話し合うことを習氏に提案",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMzBqcGVXajhTTjBmU2NJTW9vMXVTN2dHRF9xYy1ka1ZmYkkyMnI4bEgxZkp3bFJfWGF4bXJQY0FlMWtnWXZhWmtYSmVLVEhjS09vaXlFQ2dRT2E5ZzdEaE9ybFhITmVUWFRrZzg4bEpzLW05SUFHeThxdTRNQTlMN1ZYUkh5c001R3BVM05oWklKWmFiSTQ3RXRIVGE5X1dKR01TX3U5dWZ5X1dZRFRvVTVVZnR3OTZYZVNiLXQtZktCS01GTTVIN1F4MnN0YU5yWW95bFRPTzk2c1hZTEFseFl2Wjctd3RNTnVDSjVqRzZFMXNUeVp1ZFR0cjdKM2JuN3fSAYcCQVVfeXFMUHhGUUR0cDRXMUpuMjBTOVFNaVNfZTNQTnBhaXh6UUpGczU0U0ZPSVBsNVhVV2VQV19hX0paMWRCWHhwWW5RRXhKdDlCcG1vcThELWlkRjBDeERvOHVkdV9VZ0h0VTlPbnBGb2NGU3FyZnE1YU1lcVJhQkdOdG53a1ExLVhBeEtrclplR0MwM2ZtMG4waDgwNWJ5eWdpeHhGdzFxSEpFQ1dFQnJRQjFDdFZNYTJrZWdHMFJ1NXoxNldMN1l6Q3N6VFJ5b01pUUx6RWk2VVFOTHpoVWh6bUQtaHRmLWUwUHZWS05GaktZSl9jejdNa3dpWmlqWVVQR0s1WFplTl9FYzA?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-19T17:55+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "米中露首脳 核軍縮やイラン議論か",
@@ -546,10 +539,10 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "台湾周辺にロシア戦略爆撃機 防空識別圏進入、写真を公開",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fb3ZjUkc2clBaaGh6ZGRaNElFZ2wtd2IwdGkxWVppbENFYmQ3dWhqWGJxbVRZRE50ZURIUWxXenk1TnRzVUdTTzQxVHotY0c2ZGZ4LUJFcTlvTTY5SHh5V2RrYw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-19T17:16+09:00",
+   "title": "ロシアがウクライナに侵攻した2022年のことだ。 液化天然ガス（LNG）の供給不足で停電の可能性まで懸念されると、韓国政府は主要供給国であるカタールに対し、「価格は最大限合わせるので、LNG船をもう1..",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneVFnLTRFaHRiWVIwdkc3eWpUNkxHejBKdTBuYm8xM0hSY1NmMzduZXdmekd3dmFrclVPMVdnRWh0RVk1Y3NmNUxjZ0RIeW9rWUdrLXpR?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-19T17:09+09:00",
    "topic": "ロシア"
   },
   {
@@ -565,6 +558,13 @@
    "source": "AFPBB News",
    "at": "2026-11-19T16:35+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "ウクライナがクリミア橋を攻撃、1週間で3度目　ロシア当局が発表",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVkxKclg5M1c3MUs4bjhvdE5iSVhfTE5Mb1AxU290c0hEOUk3M1l0TzlJZ0RFUEdXVVY1R3lGaDF3WEd2MWJOV0lFQkJOYlQ3bGNETHR1V0RITEUzYmlMadIBZkFVX3lxTFBQVzlweG9OMElsNWJ0X01LeVRXOVhXVkZWblNGWkZ3SDhxbzRCOV9PM0RQVkt5bmItNDRVQkZtR284OFlRdXpkVzY4c1JxMEdQWndPYi1qZnV3YWFWNkt6LUo4dFpIZw?oc=5",
+   "source": "BBC",
+   "at": "2026-11-19T16:31+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】",
@@ -613,7 +613,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」3件",
     "中国・台湾：「爆撃」「侵攻」4件",
-    "ロシア：「爆撃」3件",
+    "ロシア：「攻撃」「侵攻」2件",
     "欧州・NATO：「攻撃」「侵攻」5件"
    ],
    "items": [
@@ -630,10 +630,10 @@
      "at": "2026-11-19T19:02+09:00"
     },
     {
-     "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-19T19:13+09:00"
+     "title": "ロシアがウクライナに侵攻した2022年のことだ。 液化天然ガス（LNG）の供給不足で停電の可能性まで懸念されると、韓国政府は主要供給国であるカタールに対し、「価格は最大限合わせるので、LNG船をもう1..",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBneVFnLTRFaHRiWVIwdkc3eWpUNkxHejBKdTBuYm8xM0hSY1NmMzduZXdmekd3dmFrclVPMVdnRWh0RVk1Y3NmNUxjZ0RIeW9rWUdrLXpR?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-19T17:09+09:00"
     }
    ]
   }
