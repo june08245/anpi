@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:45+09:00",
+ "updated": "2026-11-20T08:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T07:49:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.2",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T07:27:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T21:18:00+09:00",
-   "place": "山梨県東部・富士五湖",
-   "mag": "2.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -162,34 +162,34 @@
      "at": "2026-11-20T07:06+09:00"
     },
     {
+     "title": "中国・習主席、台湾問題について米を牽制 トランプ大統領との首脳会談で",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TcWRiRExETmk4X1dFcTJ4ZDNiUWNISFoxZFlVZk1SR1poOUtOZWtJblZrbGNNQkFtLWItQmJlTGptYnM5SzVQSkpNMDE4R3hFOFhuSjdfUVlzZE1NeUh0RkJ1VUhiVmRhWlhET0NB?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-19T22:02+09:00"
+    },
+    {
      "title": "ロシア戦略爆撃機が台湾の防空識別圏に進入　今週2度目",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXhzdllaajNGa2dQM1VHbm1Jblp4eDJiMk9XUXlQd1o3UlJTUU1oOEh3YUpJTVByaVB4SkpFUXlUaDBvbDRpMWotUW5nQUFEQmpfejA5a3VqbURkdE9mRS1RYU5seVFJTUZZeUJxdUt5X01JVERhUlB2UmlJQkZqNHdYUjJ4QjJFSndQWHE1TnV1d9IBlwFBVV95cUxPZ3d1dlJBd3hmLWdTUW8wWHFocTYzbDZjR0w0elROYTJaQXpZdDVVVW9Tamlpd29uWVAxMzkxeWN4ODlkWlcwOFBiUlctdWVabEJ1aGRmWl9VR0hELVNIYzRFeW52cFVjWnVmbDY3T2Y4RG9FNHFoR0gxUFA2bDRBcnJZNWhaQjFqeGd5RUhVU0wwNEh5bUNr?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-19T22:01+09:00"
     },
     {
+     "title": "米中貿易改善へ期待、トランプ氏 習氏は台湾問題けん制、首脳会談",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SWGMyMl9lbUdOVXQ1MWh4MVRTN19Xb2ZPX1JVQnpfN05zUGZuSm1xQ2hCdno1U09xUnNiaTFTQmtTRnF3LXlYTHBPUmZqMDRQcXk4RlNsR2JXZzNEQ2c?oc=5",
+     "source": "沖縄タイムス社",
+     "at": "2026-11-19T21:25+09:00"
+    },
+    {
+     "title": "米中、関係安定へ行動計画 習氏、台湾武器売却けん制―今年３回目首脳会談",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsVFQ5U2V2U2d5ZDFjdnZLcWRkbTJVYmdiRmhVVi1oVGh6YnhjNDhFYlItN0JaTW9UT2ZDdndtUVBVQmZfY3Y0Vk9tcG5fVmlhVTZCUDlaYm1ZN1QxdDFUNXI4RQ?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-19T19:07+09:00"
+    },
+    {
      "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-19T19:02+09:00"
-    },
-    {
-     "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WEFEUl9HOHFoWUtjb0dwRWZyYmpVYURJSGxBWkNJVTJpUnI2YkZacldNY21sb0h0N095c2RxSm41Q085emRXS3Nod3Y5amZWd1M1dUh0endKbVdPZ1JyUm1zZ3lLaVNDbTFwdHRGNV9NUk5UOVNkV1Nta2tRTXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T16:55+09:00"
-    },
-    {
-     "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXfSAVRBVV95cUxNWTJhdFJDNTFvTENhaVZaV2k4MmJ4Yi11dnQzWC1zbnJBZEtVc3BoRnBxX0laTS04cHRWbi1aWXNzbGkxcmdZRTRydFdtV2tZRmF3S0I?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-19T16:35+09:00"
-    },
-    {
-     "title": "台湾、今週に入り二度目となるロシア軍Tu-95の島周辺飛行を報告",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckQxc0RNZU1YQVJiSjd0X3dkWmJTbkQ0UWJDOGpVVTJwTjJBRVpEeE5kSGJackV5dHFTQkpyeEh3TFJoel9WTVlvMEhPUmhRSWUzdDlrLVBCRktZcXYxQTJGdVI0WHBoc3lHcmg2RGJBYXJOOEc2QTEwQTRzb0ZMNmlFRThHdGItcVdqVFZGUzlhRHBzYWFr?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-19T14:10+09:00"
     }
    ]
   },
@@ -216,12 +216,6 @@
      "at": "2026-11-20T06:11+09:00"
     },
     {
-     "title": "李大統領「北朝鮮との対話の扉開かれ、平和議論を期待」",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXVnSXhWb1o5MGxPMkpZSWZQWmV3VGktTUZlc3htMTdUM3JsR084ZFJhQ2FTTkRiTkgxeVZTaGRFUE1pek5ZU1JJM1FEb1l1TkZBYTM5MTVNcDRLRlZpQXRET0l0MTVXZXc2UXFBZVBHT2JUUGlKUjcwSDhETjUwTDJBUTM5Z21zWFQ2NDJ3?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-20T00:52+09:00"
-    },
-    {
      "title": "米朝首脳会談は実現するか？中露に高官を派遣「金正恩の思惑」",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSC1mZmlfQm9NVmJqc3Z2bDNHMUtMd2EzOWtRT1JTUW83TjBEUVgyOWF0Nl9kRXpVTVVTc0dsaWktZzRhTktjNldsd2ppZXp4NHVXb1hxbW4?oc=5",
      "source": "現代ビジネス",
@@ -232,6 +226,12 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSVFpZ0h2SHM4M2VsTmtKc3htV3lkRmozSHZ6QVRYc1JuT21WY1BiaUJFbzJPQktqZHVQZVowWHpZTERpTk9HdG53YkgzSGR1UzlB?oc=5",
      "source": "매일경제",
      "at": "2026-11-19T23:33+09:00"
+    },
+    {
+     "title": "北朝鮮、非核化議論を注視か 韓国も「頭越し」警戒 米中ロ（時事通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZVJPM2tnQWZ6WHJfVFZ3QlZLU19EZjk2LUVjQ2JvQWUwNEZJeXVFUjlFdVdyMTg5M2RSOGhpOEluN1Y4ajlzdTZNYkpTTFhnM3JUWHNQUjdBbjY1UUlaTWZYTXQzeHZkYVgtaDlkMW04b3VNVWpMUzdQalkzRkE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T22:22+09:00"
     }
    ]
   },
@@ -406,22 +406,22 @@
    "at": "2026-11-20T00:54+09:00"
   },
   {
-   "title": "システム障害、原因はサイバー攻撃？ 見極めるための5つのポイント",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xZVVyTXhnVlkzdkhqbExPQnNUcFdjZ2VPM0RRSk1xNTNUMno4ZVQ0U01iNzBMZmQxSWRBM0VvZ2ZQNlNjYmRpXzBWLUxhVkREdTVDdk9tSENaVkE0NTN3?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-20T00:04+09:00"
-  },
-  {
-   "title": "相次ぐサイバー攻撃へ対策 都、局長級の臨時委員会",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56cFVScnlMR3Y5YkhRcXcyLXRBS3VrVjN5X0dqRDMyb2ZVQ1RVd05mMlNVR3VXY0VhNlRPNlQtcUdFOEo2dFdUY2N0bnktOVF3R3NJ?oc=5",
-   "source": "東京新聞",
-   "at": "2026-11-20T07:35+09:00"
+   "title": "相次ぐサイバー攻撃へ対策　都、局長級の臨時委員会",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMF9KMXlkZS0xRjRCamR0Q2V2ejJ3SHRWNm9sbmVQaE9TczloZ240QzUxeG50d0E5Uy14QWZzNFdVaGlMOU8xS0dmMEpYa2c4MVNXX1dsQWRxZkNaY3dacTJ1bURGbWh4SlN5RzE5YW84RzNudmZnYzVzWU40ZEQtTHR2SFVFMWtKbTlxSWppdEJuNXdDMVo2QndVekwyX0pqQWVubDJBREZmVG9GbjI4eHVYOGJoRHdFWWhiemRCZUd6aHJTb3dzQ9IBeEFVX3lxTE9NODFTaDVZMmIzTWtXMzVqRVVFRWUyVXQ4c3cwdWJYdUFqRGhXT0VfS1F4MHloQmh0TlNmZHpjVl9JNFh2LVRZcnpDWjNZWHhqODJRMl9rYmVmcFBmT2llNE01NkFFTkJlY1E2R2V4ak9xeHZEc0FhZg?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-20T07:50+09:00"
   },
   {
    "title": "FFGインダストリーズのデータ分析ツールに不正アクセス 顧客・取引先1,221先の情報漏えいの恐れ",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFpNUzZyUjRYWGU1SUMxRHo0TFhnZHF6QVZoRC1MZEVYQ245UGZjTWdKRGFGdVdOa0FwaUN4WnZ4UktsbFdxT0haVThuUDVCUjNFeWpnUzlUV0lUampqUVlob1hMcUh6dEs1MUNpTmRIRlAydW9oLW5sRHR4V2JFSWtOeDI4UWdGeFBPSWdpZXNjM0pMSUFHXzVXWWNjaWlhbzNFU21B?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-20T07:30+09:00"
+  },
+  {
+   "title": "JPMorgan Chase、Visa、Mastercardの委託先にサイバー攻撃 一部顧客情報が流出",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzV6alJMd19sZWZFRFNKLWVGOU1aeXNjUU1QTllmQUJyYnlfUTY2Ukk1R3lSbHJCaFlla3FRQ2x6c0NzOUF4TFQ4NW5XeVUxSF9BOW1od3dXS092SVJ3RmtnNF9FSy1kY3lFQ0hJb1pvbW85aWJ1bHUzV3Y0SW5HdVpFUk5YZkppVnlfOEt5YzBNb2NXVjZHSTJrV2UtYnhuS3duRm53cXZEM2dYdTE0OEdn?oc=5",
+   "source": "디지털투데이",
+   "at": "2026-11-20T07:18+09:00"
   },
   {
    "title": "欧州委にＡＩサイバー攻撃＝複数システムが一時停止",
@@ -581,13 +581,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "李大統領「北朝鮮との対話の扉開かれ、平和議論を期待」",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXVnSXhWb1o5MGxPMkpZSWZQWmV3VGktTUZlc3htMTdUM3JsR084ZFJhQ2FTTkRiTkgxeVZTaGRFUE1pek5ZU1JJM1FEb1l1TkZBYTM5MTVNcDRLRlZpQXRET0l0MTVXZXc2UXFBZVBHT2JUUGlKUjcwSDhETjUwTDJBUTM5Z21zWFQ2NDJ3?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-20T00:52+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "トランプ大統領 イランへの大規模攻撃を検討か ブルームバーグ通信",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SVHNUWThfRVJodTBBT3I4cnlZRUNRUEhCU0t3bS1LVnc2RE01LTRodEt4bzdPdlA1VHFPV04tR2NBaElHQmZuMTRSUWtnbXJPX25Za2hiZnkxdjY4eGY1OHpFOUFFNE5EdzNZMDJIMmtZOTg?oc=5",
    "source": "Excite エキサイト",
@@ -607,6 +600,13 @@
    "source": "매일경제",
    "at": "2026-11-19T23:33+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "キーウへの攻撃で複数の大使館が被害を受け、EUはロシア大使を呼び出す",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSElCanRRWDA5Y05VVmFRYnNFQndUS2RrNDR6dWRUdUpGcmJLM0FXVzM1N3U0LTNVaUdkaTBiR0pZZnFWaXEzY3F6RUNnczBhT1FaOU5nOWJ2RlFnU0JVS214UW4tU25hM1F1R2Nha2NSbHNCZUNlWHhtWVg1TG1zRmwtUDc4UjBQZ0hOYmhvWmJkMjl3SjdxWkp3?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-19T22:31+09:00",
+   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -626,7 +626,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」5件",
-    "中国・台湾：「爆撃」3件",
+    "中国・台湾：「爆撃」2件",
     "ロシア：「攻撃」「爆撃」4件",
     "欧州・NATO：「攻撃」「侵攻」5件"
    ],
