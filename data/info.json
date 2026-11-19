@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T13:15+09:00",
+ "updated": "2026-11-19T13:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -108,10 +108,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イランが湾岸諸国に攻撃、米軍のケシュム島攻撃受け",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZNVpmcnZON0JUbF9yV21kMVdsb1pDXzRpNGI1MVJ1SHBLbWRFMWF2T2c3STlFYjNONnNGeENoQ3lvZkszZDMtRkxrMkVtcUJianfSAVRBVV95cUxQRFBvVG1IQktrZkVydFN2cXdyREE3ZEtjRmMzcTdwTXZyVWNscDJ5NzlXMjkzMmc4SHZDb2JBaTFsQnJmcTZZazlaMHVwMDdVVDIwdDc?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-19T13:00+09:00"
+     "title": "イランが湾岸諸国に攻撃、米軍のケシュム島攻撃受け（ＡＦＰ＝時事）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NS2ZqRzlmVWNpNHlCdWdXTm91VFJOdHY5ZUo1WnRnVFlDdzZTb3QxMVpJdVZQRmM0LWR6YmEtcnFaSjhKeXF6bG03dF93TlhpWEtEN3VKXzUtRXlUbnc5Mk5PR0x2STVTeF9ZYUFGUGx0akNMLW5CV09zMlY1RGs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T13:07+09:00"
     },
     {
      "title": "イラン、湾岸地域での攻撃範囲拡大 米軍によるミサイル発射施設への攻撃受け",
@@ -192,6 +192,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "李大統領、APEC演説で「北朝鮮との対話の扉、再び開かれること期待」",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb005YTZ2Tlgwcjl4R21pMVA5cllRWG1LQ2t5R1JwTGpuNm9QRTRPbzlGWjhsNjhtdEZIenM0WVFyV2FQTDBtX2h1TExKeldfZU95WTdET3lsRThWQUFZRkpsTjlHeWdCMmFqbGQtR0VtaUJCdmUtU2NEalJhRnVrX0RsNWhyaGhCYWo1WlRn?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-19T12:41+09:00"
+    },
+    {
      "title": "北朝鮮メディア トランプ大統領「米朝会談」発言に反応伝えず",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90Vmtmci16SU9QeW05N196UjNoWlNtRFpnYllxcldRcnVJam53SDNQMm1pVVVLRjdIekNXcmxoQmN5ZmMtUUJmUF9oSVQ1M3JZbU54UEc5dFpDNU9Hd3c4?oc=5",
      "source": "NHKニュース",
@@ -220,12 +226,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42VC0yUmZ6UlBqenAwX1VSRDZOUDN1S0FFUm5fRU5FcDNTVHlmVzlYb2pVNnVOektGeE5FdDNXXzZtTHQxZVJ3NnQ2aExzcmRsS1HSAVRBVV95cUxPTmVQN2xrbjVqQnE2ZTNVdk9VY1FzXzBRNkN6ZWtMWUV1aHh2YndtNzk3ZWRFOUZnZC1GdXZJNG5LMFRtRF9hOEFFNUhYYVpUaFU3Xzk?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-19T09:48+09:00"
-    },
-    {
-     "title": "金正恩委員長、朝米首脳会談に注目が集まる中、海軍大学など咸鏡南道一帯を視察",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yNzRyVU9JZWtPWmxEdUlsal9NcG43NUJIY1pjdGpQZ0F5dVdHU1VYSnRveTBGX0tXa1h4MVlnTTZLbzVSRWhVbG9iaVN5eEJiaHpEMQ?oc=5",
-     "source": "中央日報",
-     "at": "2026-11-19T09:35+09:00"
     }
    ]
   },
@@ -399,6 +399,12 @@
    "at": "2026-11-19T09:52+09:00"
   },
   {
+   "title": "FBIが緊急警告「中国製AIサイバー攻撃ツール拡散、3時間で侵入完了」",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XVl93S1lDNHI4MEh0c1pYQkhqT2FNSUZvc0NBS3AyQV9LZF9kZ25BdjlWcVhXblBrMnhzd1ozUUk5Q3ZWRGJWaVoweFZTLXZOODh3?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-19T13:16+09:00"
+  },
+  {
    "title": "テックファーム－後場急騰 サイバー攻撃に備えた脆弱性対策の緊急支援サービス開始(トレーダーズ・ウェブ)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkdxMjgxemFPRzIwNk1jSHota3Y2VkhiTnFFOG5MNldpcUpqdjExbVkwTEYzNldTVE95VDI5azVRb1QyZFhjMC1wNV9MMjUzQjVRUWx1ckdGbktsSFM5ZXFMY0ZkR0loOFRGN012dnBFT1RrQ0VZaWNnOXFDRWh1eDJmNzZfVUE?oc=5",
    "source": "Yahoo!ファイナンス",
@@ -409,6 +415,12 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVU2YU1MZVlUeGhldngzTUxPT3d4MEhsci10cVA2aTE5SkVCUWltN09uR204WFIycXlEVlZlbkxVaW5IM1M5ZGVlZmh2NWF6ajh1YVpxa3pseHlndjh3d1JIaTY3MG42QXV2cEhreTZsTWpJQkxPV251Y3F3RkxMaG5rZzdYVGc?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-19T13:03+09:00"
+  },
+  {
+   "title": "AIで加速するサイバー攻撃に備え、テックファームが脆弱性対策の緊急支援を開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JV3FDbUszbS0zNDZOcWU0ak1MaVRpbm5jRnE4UFBBSlRaREViWUZQUURLNldnNmxHcUMyVnJNc1VTSU1HUms3QUN1bkNKdEtFam1abmZTZHFtMUszdVhQc0xRZ2cyV01Kbnc?oc=5",
+   "source": "PR TIMES",
+   "at": "2026-11-19T13:00+09:00"
   },
   {
    "title": "大崎電気が大幅安､サイバー攻撃で生産･出荷を停止",
@@ -439,27 +451,15 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwNUt1eW42RTNOaDdIdzVrTjJmb1pXUVp4Y3NYRVpQeTZFa1Nza2xtS0tkYlJxU3ZleGNJVjZCbnkzU2kxTlFtb0VsWnE2NTYwTUs0WE9rb2tIS0FfYmEwa1BFZ0V2SGt5ZEtQY0dxM3hNbHRXRTY4NGF2OVY1Znc?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-19T12:07+09:00"
-  },
-  {
-   "title": "亀の井ホテル・スパリゾートハワイアンズなど5ブランドで個人情報漏えい LINE運用サービス「COMSBI」への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzZEdUFtYXo5QTJQV2Rjd1BxZzBMSzRqejY1SHBVNU95aVhGUmFDMm83RTJmazRGS1U2Qks1b3ctVGMyUVM1Ql94dUtqX3hCSmw0TVg1ZU1yZU9BQmc5cHktMVZScy1ROWRQZnJMaGxSOXAyQUhMbnRveWN1YzZBTk1wY0dOcVhyMFdQSHpZakJ5V0VIdzI5NlBMSGc1MHU2VDd1Smx3?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T12:00+09:00"
-  },
-  {
-   "title": "クラブツーリズム、「KARTE」への不正アクセスで約406万件の情報が漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QRXB6N0pCVURFOWdUQ251VENVb0FlTnVNUWxsRlhiWHdxdnNQWl9oRUFpYVFMcHdNb2VnVWF3VjJnd0FxdF9WUHQ1YjlZTVY0OVM1RDBna1NkaVVFNU5r?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-19T12:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
-   "title": "イランが湾岸諸国に攻撃、米軍のケシュム島攻撃受け",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZNVpmcnZON0JUbF9yV21kMVdsb1pDXzRpNGI1MVJ1SHBLbWRFMWF2T2c3STlFYjNONnNGeENoQ3lvZkszZDMtRkxrMkVtcUJianfSAVRBVV95cUxQRFBvVG1IQktrZkVydFN2cXdyREE3ZEtjRmMzcTdwTXZyVWNscDJ5NzlXMjkzMmc4SHZDb2JBaTFsQnJmcTZZazlaMHVwMDdVVDIwdDc?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-19T13:00+09:00",
+   "title": "イランが湾岸諸国に攻撃、米軍のケシュム島攻撃受け（ＡＦＰ＝時事）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NS2ZqRzlmVWNpNHlCdWdXTm91VFJOdHY5ZUo1WnRnVFlDdzZTb3QxMVpJdVZQRmM0LWR6YmEtcnFaSjhKeXF6bG03dF93TlhpWEtEN3VKXzUtRXlUbnc5Mk5PR0x2STVTeF9ZYUFGUGx0akNMLW5CV09zMlY1RGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T13:07+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -468,6 +468,13 @@
    "source": "Excite エキサイト",
    "at": "2026-11-19T12:56+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "李大統領、APEC演説で「北朝鮮との対話の扉、再び開かれること期待」",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb005YTZ2Tlgwcjl4R21pMVA5cllRWG1LQ2t5R1JwTGpuNm9QRTRPbzlGWjhsNjhtdEZIenM0WVFyV2FQTDBtX2h1TExKeldfZU95WTdET3lsRThWQUFZRkpsTjlHeWdCMmFqbGQtR0VtaUJCdmUtU2NEalJhRnVrX0RsNWhyaGhCYWo1WlRn?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-19T12:41+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "米国とイスラエル軍高官、対イランで対応協議：時事ドットコム",
@@ -582,13 +589,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "金正恩委員長、朝米首脳会談に注目が集まる中、海軍大学など咸鏡南道一帯を視察",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yNzRyVU9JZWtPWmxEdUlsal9NcG43NUJIY1pjdGpQZ0F5dVdHU1VYSnRveTBGX0tXa1h4MVlnTTZLbzVSRWhVbG9iaVN5eEJiaHpEMQ?oc=5",
-   "source": "中央日報",
-   "at": "2026-11-19T09:35+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcUlZa2ZTeGNEd3JOUC1raGlZNnR5NEs1dU5NM1JnTWo1ZGVWMlhBR240Sy11YTE5QjM1YXdMMk05N2x3YzJLSFY2WlhIRlZndXkwSVpoSUY1dUU?oc=5",
    "source": "東洋経済オンライン",
@@ -619,10 +619,10 @@
    ],
    "items": [
     {
-     "title": "イランが湾岸諸国に攻撃、米軍のケシュム島攻撃受け",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZNVpmcnZON0JUbF9yV21kMVdsb1pDXzRpNGI1MVJ1SHBLbWRFMWF2T2c3STlFYjNONnNGeENoQ3lvZkszZDMtRkxrMkVtcUJianfSAVRBVV95cUxQRFBvVG1IQktrZkVydFN2cXdyREE3ZEtjRmMzcTdwTXZyVWNscDJ5NzlXMjkzMmc4SHZDb2JBaTFsQnJmcTZZazlaMHVwMDdVVDIwdDc?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-19T13:00+09:00"
+     "title": "イランが湾岸諸国に攻撃、米軍のケシュム島攻撃受け（ＡＦＰ＝時事）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NS2ZqRzlmVWNpNHlCdWdXTm91VFJOdHY5ZUo1WnRnVFlDdzZTb3QxMVpJdVZQRmM0LWR6YmEtcnFaSjhKeXF6bG03dF93TlhpWEtEN3VKXzUtRXlUbnc5Mk5PR0x2STVTeF9ZYUFGUGx0akNMLW5CV09zMlY1RGs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T13:07+09:00"
     },
     {
      "title": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理",
