@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:45+09:00",
+ "updated": "2026-11-19T18:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-18T23:30:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-19T17:47:00+09:00",
+   "place": "和歌山県北部",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-19T17:16:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -90,16 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T11:27:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -108,10 +108,22 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "史上初の米中ロ首脳会談 大国主導に警戒 焦点は核軍縮とイラン情勢（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wNEtQdUs5Z2N6RFhNS3BlWVBZVGZWUEN3dTg2ZXdUWFJlRXBNSWJIdlVyZFJtZE9FV1VZUnYtblhtZWFsQmFIN2w3Mnc3ZF9lX05SNTliQzQ1ZFN5dS1wcTRVZmttTzMwZVAxd1JxLVZEYXVreDRpdWROa2YtM2M?oc=5",
+     "title": "米中露首脳 核軍縮やイラン議論か",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtNWxrQUlpdEh0VkYyczZ3bDBaTDhlUk1OV3NxaGIxeDhReXM3cXRadUZTeU41Z0dYTFk4VnpTNDZqaFB3X0V3UWdkcE9BZ3hT?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-19T17:27+09:00"
+     "at": "2026-11-19T17:51+09:00"
+    },
+    {
+     "title": "【速報】中国・深センで史上初の米中ロ首脳会談始まる 核軍縮やイラン情勢など議論か（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uZFd2MWZGOVF2czFSdkVGRzg5czVXQkQ4TEVCMUhkZ0xmXzl4UmM2S1EzTmJMUnZhMHpOTVlNNXFqRDRaeU9mVnhrRF9ZVk1pZXJ6eXFrZW04TXdBNC1RVURaXzgwZHYybkhxYXlrS3B3amp6N2xUSFRvUG1hX1k?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T17:31+09:00"
+    },
+    {
+     "title": "史上初の米中ロ首脳会談 大国主導に警戒 焦点は核軍縮とイラン情勢",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZWkFnQ0NRVVRSV1B0S0ptbHJ2YTJxeDdLU3hZTmRmMUlhN0ZJNFEyZFJGcEtEb3VYNmxmeWM3QVE2Vks1OW5oOXBuVll2Unk2RFdBTXI1RHhFTTVpbkVHVW1Na0N4RDBDM211bnRVOVZTWVNWMXlJZXVn?oc=5",
+     "source": "テレビ朝日",
+     "at": "2026-11-19T17:26+09:00"
     },
     {
      "title": "史上初・米中ロ首脳会談まもなく 核軍縮やイラン情勢など議論の見通しも…3か国首脳による“政治ショー”の意味合い強く トランプ氏は2人と個別に会談【記者解説】",
@@ -130,18 +142,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NS2ZqRzlmVWNpNHlCdWdXTm91VFJOdHY5ZUo1WnRnVFlDdzZTb3QxMVpJdVZQRmM0LWR6YmEtcnFaSjhKeXF6bG03dF93TlhpWEtEN3VKXzUtRXlUbnc5Mk5PR0x2STVTeF9ZYUFGUGx0akNMLW5CV09zMlY1RGs?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-19T13:07+09:00"
-    },
-    {
-     "title": "イラン、湾岸地域での攻撃範囲拡大 米軍によるミサイル発射施設への攻撃受け",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKSThLMS1KaXdVY2tHcDgxTnhwYlBSRFpnMzlaOGUxYmlQSVl4R1RlOE5qZDg5b1YzVWFHYlI3blNfT0pTTmdpV1hEeGtLMTcyZ0Rhb0ZxSkg2RnRnZUQw?oc=5",
-     "source": "千葉テレビ放送株式会社",
-     "at": "2026-11-19T12:56+09:00"
-    },
-    {
-     "title": "きょう史上初の米中露首脳会談、「ヤルタ会談を想起」と米同盟国などに懸念も…核軍縮やイラン情勢議論か",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pTlFaU2owN1BUTUFEOW1jYm0zZnh2VzB1ZGRhNC0wdVJQMndoOWVSblJXeFVKQVRnVWZVNUx0OVRheFFYUGg2UVdpZk5pYUtpZ0RPWXFEX3pnODkxTGY4Y2NB?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-19T12:30+09:00"
     }
    ]
   },
@@ -237,12 +237,18 @@
      "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
      "source": "時事ドットコム",
-     "at": "2026-11-19T17:33+09:00"
+     "at": "2026-11-19T17:45+09:00"
     },
     {
      "title": "台湾周辺にロシア戦略爆撃機＝防空識別圏進入、写真を公開",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Bb18zcTBYd1NvUU8wZ2htajVnOTlPdElRMnVka0pmMTdiN2J1M3BFU2pLWkxZbFRDb3BQYVZuUXFvbEVQTE5yeHlQSmpqNnhRSTNTdjctTHI3enVlMVJKNG1OTmZYd9IBa0FVX3lxTE1aN0duNDJCTUY0TFNvRk9fRkVjajhGVlR6a1BwVUIwVHZsbEJqLTMzNVp6aGVmWXVweDZ3a19ScURNcUZsOWFROHU1N010WVFUdFVIMEdDc194cm5xQUVsMmtXcjdfdnZ5TV93?oc=5",
      "source": "Infoseek",
+     "at": "2026-11-19T17:16+09:00"
+    },
+    {
+     "title": "台湾周辺にロシア戦略爆撃機 防空識別圏進入、写真を公開",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUTV3VVZEME1fb1pjTnVtMDBnTG9HN2R2Z0VZbzRNNUdRckk5NkMxZkExczdpaWdoWm5CbVlqVTA1eWVSalF1aVlyRmpkVDRWc2szWVdpaElUSUpRTG9BRHNGOFlhVmZnSUxOZnRPdndZVTlTZWZ0amdPUk0tN2xLRnJ3?oc=5",
+     "source": "時事ドットコム",
      "at": "2026-11-19T17:16+09:00"
     },
     {
@@ -262,12 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVkxKclg5M1c3MUs4bjhvdE5iSVhfTE5Mb1AxU290c0hEOUk3M1l0TzlJZ0RFUEdXVVY1R3lGaDF3WEd2MWJOV0lFQkJOYlQ3bGNETHR1V0RITEUzYmlMadIBZkFVX3lxTFBQVzlweG9OMElsNWJ0X01LeVRXOVhXVkZWblNGWkZ3SDhxbzRCOV9PM0RQVkt5bmItNDRVQkZtR284OFlRdXpkVzY4c1JxMEdQWndPYi1qZnV3YWFWNkt6LUo4dFpIZw?oc=5",
      "source": "BBC",
      "at": "2026-11-19T16:31+09:00"
-    },
-    {
-     "title": "クリミア橋が通行止め、今週3度目の攻撃で 負傷者はなし＝ロシア",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82NWRIT3NoZGZUVDRmZkY1X1FmSWctNkdyTndiWU1TZHBlWTR1OWJjWFdrQ21wSV84d3VrS3prTzJnT29VQVZqbjI3QWtKRnFhRlFuUjF2Nm9KbkRmU2ZvWElxRW9ucnotb3cxakNSaDh2M3ZFMGhTVHUxTQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-19T15:46+09:00"
     }
    ]
   },
@@ -280,12 +280,6 @@
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
      "source": "TVer",
      "at": "2026-11-19T15:16+09:00"
-    },
-    {
-     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-19T14:08+09:00"
     },
     {
      "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
@@ -310,6 +304,12 @@
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk12TEdpcU5lMnoyU0pHRG1ycXlUTS1Qc1BLdGRsb2NiMXlZRGZqa28tRWpzNWpyM3hSRDlZX1FJdnRMUWs4WTh1NjVXVWFBanZnQ1V6bENhUENHX1lfeWhheVBuVkdvbG9vWGFhVVJsakRTRGZ4TjJydjBXd2g5enB1VmdsbU1Rd1dPMFRzMkxQMnNPcnUxM242bVY1LU9JMGY5YS1B?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-19T03:58+09:00"
+    },
+    {
+     "title": "エストニア、ロシア国境閉鎖へ 防衛企業への破壊工作疑惑受け（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81M1hHVHBVM1hjQ0VIa1NXZU1TSE1RVTlla1dSZzZtZzF1SDNXSVBxNXUtZ1puR3ZGNzAtS242WXpLS3pFNURwZWNrLVF5V2VqUEFIckJ3OEhGQzVSSEFKTTk2R3Rhb1Qxa2RFZVdxSkJjakw3c0plZTBPNUhvZ3c?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-18T23:55+09:00"
     }
    ]
   }
@@ -357,15 +357,21 @@
  "cyber": [
   {
    "title": "東宝スタジオ見学ツアー、teketシステム障害により応募受付一時停止中です",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pZTdmcVhESmJQUjJLVzVkcFEwblVOSkVzc01mbkg3eURleHlDWmRnSjNOekVzNGlGSWhOWGxmeDlpZU1uUklYaFR3?oc=5",
-   "source": "https://momono.info/",
-   "at": "2026-11-19T17:24+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FTzlva09hXzBRb0Z5T1FtUWNGa2FMbVE3Y25fZmE4TmJtMVo0VTU2blNjajVSbmdMRWlhNS1HcDZoN0FlQWlxV1lmN1l3VGNMc09RTXctQTNONGNndEE?oc=5",
+   "source": "選挙ドットコム",
+   "at": "2026-11-19T17:39+09:00"
   },
   {
    "title": "AI時代の「セキュリティパッチのパラドックス」…JPモルガンでシステム障害、米財務省とOCCが緊急対応",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42MjdSMnJCYkF3elc5ZWNaelZFcWxfdUZ3b242bWoydllSNUJfQkRpSEJTMXllczlkUm51eThjbVZLMlhiVW9qa0dyWmFMQmpYNG5lS0RkbmRodl9ObFJwYkNXWQ?oc=5",
    "source": "재경일보",
    "at": "2026-11-19T17:05+09:00"
+  },
+  {
+   "title": "コストコに｢パニック買い｣、相次ぐシステム障害で必需品駆け込み需要 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSk1SV09wcVhCZUhWUHZCaDJtUXVUZVJncDA0ZjFGel9zSTVrZmRPLTJPcVBXenVoVmREd2pNLVczbGpBWGJVLV9NekhBcUlBU1o0M2ZOYzFxVVIyVVdSU19RZHc3T3E3QXFJei1jMEJEUFJjVk1RZnhYVmp3UXk0WDRGbHotU0lkLU9MOEdJaUtaMWdRdEx4LXdBNDZvaTM1QkplWnNCLTdxempoVHNlc2dpcEJfNUozNnBuN284Tlk0SVpZb0hHREtvc3dxNV9ST2V0ZkhOV183Z1o1eW4yby04b2JBNWRaNjl6UEphclJfc3FzUGdYY3pLN3FkZm93bVh6VWdhb28?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-19T15:38+09:00"
   },
   {
    "title": "Bitwise CEO、銀行障害に備え一部資金の暗号資産保有を提唱",
@@ -392,6 +398,12 @@
    "at": "2026-11-19T17:40+09:00"
   },
   {
+   "title": "スーパーコンピューター「富岳」は、いかにして不正アクセスされたのか",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdTJsaU4zT0p6S0RoR0JsMGR5bm5ZQjA0TXIyaU9DRkJEUXhQdV9JbDJJM25ZMWJBdEM4cGwwQ1dKd0EyS3U1SGZKT3BQZkd1X3c5NTNjSW9WN0RodUtTRzRDeGdGenRiV2dzamxRT3VmUTNsUnpoRm1rX1IxN3pyak1uTUwyYVk?oc=5",
+   "source": "WIRED.jp",
+   "at": "2026-11-19T17:30+09:00"
+  },
+  {
    "title": "サントリーウエルネス、94万件超情報漏洩 プレイドへの不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qRTVKbXNUQ0xnaXVUQVlKN1lwWWdEaUo5SmtxZUdyc2RzU2oxSEJzWk52ZlJUcy1hVXJIei11NlNxZTVKXzJTRGpDdGxfazV2YzVhbjhsT3dZUUJKWUFrYzlSMk9FZkl6NTlVeQ?oc=5",
    "source": "日本経済新聞",
@@ -404,9 +416,9 @@
    "at": "2026-11-19T17:16+09:00"
   },
   {
-   "title": "六花亭に不正アクセス クレジットカード情報流出か（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zblBaQXlNbk5SVU8xektOY1k4bjRSRHVrQjlaNlNIZ00zOTFLbFJvVThaS3R6bFlnSmV4cGFwejRyaU4xb2k2aGNERVNkZTZ0TTdibXFaeWg5bFFlNU8wV0M5T3hhUnB0eG5uajRpSk9hTkp2QU9oSWQ3WlZnOHc?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "六花亭に不正アクセス クレジットカード情報流出か",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ibmZlS0NfTkE2LVlOTFRwVjNudVREUGtzdHk5S0lYeVpQVnZhQmRpbGNtSzlpUXEtT3pWUkM5M2tBUnBuTnpIOFBMTkZBU3lpVUtMcDdHRlpWdC1CcnlEYVd1bzNwdHc?oc=5",
+   "source": "朝日新聞",
    "at": "2026-11-19T17:06+09:00"
   },
   {
@@ -416,38 +428,40 @@
    "at": "2026-11-19T17:05+09:00"
   },
   {
+   "title": "全国警察のサイバー担当が臨時会議 相次ぐサイバー攻撃被害に「プッシュ型」捜査を推進",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NM1ByOWRaTDBDb1FoZDhuVmV1VmpnNHBpZDZlN0tPSngxNHRSbGdTR3dsd0dzWVNWeTByTnVxeDVPbXF4LU1xaklINFBnNGpfMlp5RnAxYmJPaXZoS0hFMC0yNXpka2ViX0VjRnRkQUVNY0hRMjhFNVdTTm9hNDA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T17:04+09:00"
+  },
+  {
+   "title": "六花亭のオンラインショップに不正アクセス、カード情報約8000件が流出した恐れ セキュリティコードも対象",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKUEU2Q2pRaFMwRzUxWUJQOXc0V29icTJRa3dhVElKT1NuWFhXOEdBTzBQTnRaRTZsT3N6UzRtdjFVWTRXWVl4MUFrYmt1NktSM09UdVpJbWRRM0pGUUhmN0VVNHZGeDg?oc=5",
+   "source": "テクノエッジ TechnoEdge",
+   "at": "2026-11-19T17:00+09:00"
+  },
+  {
    "title": "帯広 六花亭が不正アクセス被害 クレカ情報8000件流出か",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xd0R5Y0Z6TEFaUlhlLTlsT2E5cXl0ekJxSEtNc05OYjBEVFo4anV6SW9MOXYtWXB3b0JnX1Bxd2hBVExsWWNRTk5jdk1LOFliM0otMFA0eEhqRW5rcWpN?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-19T17:00+09:00"
-  },
-  {
-   "title": "エン「ミドルの転職」、企業アカウント1万2,474件の情報漏洩、プレイド KARTE 不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcF93QkM5WDlNVE9QSHhpLXY4YjBLVHJ3bmZLSWl5NkJHeHhWd2FmanFfVFlIX0FVTTQ3SDhid2Vwb2g2MWd3OEFiTXp1VXdvOFR3QVVZM0JqS01QdmdJZVR3dXhRQlp2bGs5Z2x0Y19ydHJHdlA5MnRtaXZ5a05Jek5RS1Q1NmxCZzFTclNOYUY5RTh0d2VEVFk3V1QzalJiSS1z?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T16:59+09:00"
-  },
-  {
-   "title": "タイミー、求人事業者最大22万6,662人の情報漏えい、一部は個人情報漏洩の恐れ-委託先 プレイド「KARTE」への不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanc5Nk56b3h0bDduenFVWWJlTDVBYkV4ODJNbGJ0RF9CMXJvQ2luY1ZFTFZzQ3BYRkVjd2swVWNhMDg0NDVwQ1dpckMzWjEwSVhjWVhQS1ljbFcyZ0U0dElRRTk5MkxVR2tqNU5oVWkyRzd2Mno1aDVDMnBaZnpiV2EyT2ZVc1ZmSmF2V3FyUDRyamQyYk53N1JXOA?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T16:53+09:00"
-  },
-  {
-   "title": "松屋公式アプリ、不正アクセスによる一時停止から復旧",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YTkNWRjB0SXNBQk4xaUtiSGR1SFNlRlFTZmJmQkVVcDZsd25IM0V1Z1pNa1pGMmFEUDhSMldVWXlaUlVBYVhSR3V0S2Q?oc=5",
-   "source": "ギュメシー",
-   "at": "2026-11-19T16:51+09:00"
-  },
-  {
-   "title": "レゴランド・ジャパン、年間パスポート購入者約15万人の個人情報漏えいの可能性 委託先 accessoのチケット販売基盤に不正アクセス|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbW00aGRJUW5KQXRIZGxDRGQ4UTk2Q19MX09jd1hEVWxoR3NIc3c2d3JHY0ZnRWQtWmpPRXZlR3Z5a0Y5SklNOTFnLWRyd3FBYnF1QWdYMnNGTEczR24yM2tsXzlIY3A5b2sxZmVubXNsb1hoVHN4cHVyU0djdUgtUUlCMjhQYy16elZQTGJnQlpfa0gxaWs3R09ONDdmSVpISlE?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-19T16:45+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米中露首脳 核軍縮やイラン議論か",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtNWxrQUlpdEh0VkYyczZ3bDBaTDhlUk1OV3NxaGIxeDhReXM3cXRadUZTeU41Z0dYTFk4VnpTNDZqaFB3X0V3UWdkcE9BZ3hT?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T17:51+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-19T17:45+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "北朝鮮・寧辺のウラン濃縮施設、増築部分の外観が完成 IAEAが核計画拡大に懸念",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jNUI2NUxBbUFiQVVROTBUMzBWZXZ6c1NscFB2SnNPZDFYMzE4NkVkSVJnWXoxclNqcXFNZ0RZeUhPTVhiRWhndU5YdHJ6VkhUNW8zRDJYTU1oMHFtSjl6QXNLQXVuZllkdXc?oc=5",
@@ -456,23 +470,30 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-19T17:33+09:00",
-   "topic": "ロシア"
+   "title": "【速報】中国・深センで史上初の米中ロ首脳会談始まる 核軍縮やイラン情勢など議論か（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uZFd2MWZGOVF2czFSdkVGRzg5czVXQkQ4TEVCMUhkZ0xmXzl4UmM2S1EzTmJMUnZhMHpOTVlNNXFqRDRaeU9mVnhrRF9ZVk1pZXJ6eXFrZW04TXdBNC1RVURaXzgwZHYybkhxYXlrS3B3amp6N2xUSFRvUG1hX1k?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T17:31+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
-   "title": "史上初の米中ロ首脳会談 大国主導に警戒 焦点は核軍縮とイラン情勢（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wNEtQdUs5Z2N6RFhNS3BlWVBZVGZWUEN3dTg2ZXdUWFJlRXBNSWJIdlVyZFJtZE9FV1VZUnYtblhtZWFsQmFIN2w3Mnc3ZF9lX05SNTliQzQ1ZFN5dS1wcTRVZmttTzMwZVAxd1JxLVZEYXVreDRpdWROa2YtM2M?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-19T17:27+09:00",
+   "title": "史上初の米中ロ首脳会談 大国主導に警戒 焦点は核軍縮とイラン情勢",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZWkFnQ0NRVVRSV1B0S0ptbHJ2YTJxeDdLU3hZTmRmMUlhN0ZJNFEyZFJGcEtEb3VYNmxmeWM3QVE2Vks1OW5oOXBuVll2Unk2RFdBTXI1RHhFTTVpbkVHVW1Na0N4RDBDM211bnRVOVZTWVNWMXlJZXVn?oc=5",
+   "source": "テレビ朝日",
+   "at": "2026-11-19T17:26+09:00",
    "topic": "イラン・アメリカ"
   },
   {
    "title": "台湾周辺にロシア戦略爆撃機＝防空識別圏進入、写真を公開",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Bb18zcTBYd1NvUU8wZ2htajVnOTlPdElRMnVka0pmMTdiN2J1M3BFU2pLWkxZbFRDb3BQYVZuUXFvbEVQTE5yeHlQSmpqNnhRSTNTdjctTHI3enVlMVJKNG1OTmZYd9IBa0FVX3lxTE1aN0duNDJCTUY0TFNvRk9fRkVjajhGVlR6a1BwVUIwVHZsbEJqLTMzNVp6aGVmWXVweDZ3a19ScURNcUZsOWFROHU1N010WVFUdFVIMEdDc194cm5xQUVsMmtXcjdfdnZ5TV93?oc=5",
    "source": "Infoseek",
+   "at": "2026-11-19T17:16+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "台湾周辺にロシア戦略爆撃機 防空識別圏進入、写真を公開",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUTV3VVZEME1fb1pjTnVtMDBnTG9HN2R2Z0VZbzRNNUdRckk5NkMxZkExczdpaWdoWm5CbVlqVTA1eWVSalF1aVlyRmpkVDRWc2szWVdpaElUSUpRTG9BRHNGOFlhVmZnSUxOZnRPdndZVTlTZWZ0amdPUk0tN2xLRnJ3?oc=5",
+   "source": "時事ドットコム",
    "at": "2026-11-19T17:16+09:00",
    "topic": "ロシア"
   },
@@ -512,13 +533,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "クリミア橋が通行止め、今週3度目の攻撃で 負傷者はなし＝ロシア",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82NWRIT3NoZGZUVDRmZkY1X1FmSWctNkdyTndiWU1TZHBlWTR1OWJjWFdrQ21wSV84d3VrS3prTzJnT29VQVZqbjI3QWtKRnFhRlFuUjF2Nm9KbkRmU2ZvWElxRW9ucnotb3cxakNSaDh2M3ZFMGhTVHUxTQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-19T15:46+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "プーチン氏がトランプ氏を操る？対欧州破壊工作の実動部隊は",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
    "source": "TVer",
@@ -531,13 +545,6 @@
    "source": "朝日新聞",
    "at": "2026-11-19T14:50+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-19T14:08+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "【社説】米国でも中国でも優先順位が下がった北朝鮮の非核化（中央日報日本語版）",
@@ -580,20 +587,13 @@
    "source": "毎日新聞",
    "at": "2026-11-19T13:00+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "イラン、湾岸地域での攻撃範囲拡大 米軍によるミサイル発射施設への攻撃受け",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKSThLMS1KaXdVY2tHcDgxTnhwYlBSRFpnMzlaOGUxYmlQSVl4R1RlOE5qZDg5b1YzVWFHYlI3blNfT0pTTmdpV1hEeGtLMTcyZ0Rhb0ZxSkg2RnRnZUQw?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-19T12:56+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "警報なし・大きな揺れや停電の報道なし"
+    "「全国警察のサイバー担当が臨時会議 相次ぐサイバー攻撃被害に「プッシュ型」捜査を推」"
    ]
   },
   "japan": {
@@ -605,10 +605,10 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「ミサイル」3件",
+    "イラン・アメリカ：「攻撃」2件",
     "中国・台湾：「爆撃」「侵攻」3件",
     "ロシア：「攻撃」「爆撃」6件",
-    "欧州・NATO：「攻撃」「侵攻」4件"
+    "欧州・NATO：「侵攻」「爆破予告」4件"
    ],
    "items": [
     {
@@ -627,7 +627,7 @@
      "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
      "source": "時事ドットコム",
-     "at": "2026-11-19T17:33+09:00"
+     "at": "2026-11-19T17:45+09:00"
     }
    ]
   }
