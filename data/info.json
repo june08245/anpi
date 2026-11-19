@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:45+09:00",
+ "updated": "2026-11-19T13:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -108,6 +108,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米国とイスラエル軍高官、対イランで対応協議：時事ドットコム",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Gc18xRWczb3FOU1RHTW9QQ0Y2MV9vTGhUb09RWWNOQW0tWGxnSTlnTUQ5dzBVMjlCeXdnYkdZUmlHYThsSmF3cVJKX2wzUUozVjVKMUhyWWE4Mm96VHFQOGtsVQ?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-19T12:39+09:00"
+    },
+    {
      "title": "米中央軍司令官、イスラエル軍参謀総長・モサド長官と会談…対イラン軍事作戦を協議か（中央日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03eUx6RnV5QVYtSUdHM19IWjhKS0k4S0NybW5mQVlmUHdDSHAxVFZOaVdqczg2ZUF2U0xzWTVQQWRJRFRnNzQ4cmxSQk5kdU80RGd1Qkd3bWlHRno0WjNBWjBSdVFiNGh2UnlKcF9zY3VMdHZnVzk3Yjhqak1tWlU?oc=5",
      "source": "Yahoo!ニュース",
@@ -136,12 +142,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zT09CSXozRzEyWlhDdGxCSlBZLVdVc2NVaWN2ZGVNYVRJbWx6TGczNVRIY0JOVnZrYnIwYldZWXJwUlZNcHdkNTlSbHlxSnViZmsxMnhvUGFjeXJBNXVBc3hrMExMS0o4SFUtd0JoSzVjX21nQUthS3ItaFJIZnc?oc=5",
      "source": "Reuters",
      "at": "2026-11-19T08:27+09:00"
-    },
-    {
-     "title": "対イランで対応協議＝米イスラエル軍高官が会談",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DWEVnZVNlSk1IWlo1MFhpcGZpR1h1VHpNejFvTldzbVQ1eUZTUzJJNlhqajFNN29Jel9lZnRQeTl1d21BTHZXdHRwVnFOc1JvaWk2Sk5kVXViSHpQYXlR?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-19T06:48+09:00"
     }
    ]
   },
@@ -363,6 +363,12 @@
  ],
  "cyber": [
   {
+   "title": "相次ぐ米システム障害、パッチ急増が一因か 銀行当局も警戒（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WbzV3SUh3bnNhaTJMdDJLeEI5dkIzZWRISTBNa3FLZWNUOXNjMHh3TlZhYnJBd1J3NjdXQTY1TVhzcDNid0V1NERObnAxNF9ka1JITDNHMUVMYmtzV1ZGNzhxNzhXcTZpNUxEcjBwaTIzb0pOVUtXdElScHBrc1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-19T12:40+09:00"
+  },
+  {
    "title": "システム障害、原因はサイバー攻撃？ 見極めるための5つのポイント",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xZVVyTXhnVlkzdkhqbExPQnNUcFdjZ2VPM0RRSk1xNTNUMno4ZVQ0U01iNzBMZmQxSWRBM0VvZ2ZQNlNjYmRpXzBWLUxhVkREdTVDdk9tSENaVkE0NTN3?oc=5",
    "source": "ライブドアニュース",
@@ -393,15 +399,9 @@
    "at": "2026-11-19T09:52+09:00"
   },
   {
-   "title": "米国で相次ぐシステム障害、アップルやNSAにも波及 政府高官はサイバー攻撃を否定",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vdjBZLUZYS0xyYVhSbHFDbWd0X3pPZmJaRXlzWWlhSmZnNklQajRtOFFzUzM0UWllazIxUE85Z2staFVqNFMtVkJzVXYxQ2tWWURTRlpSYnRtQQ?oc=5",
-   "source": "Forbes JAPAN",
-   "at": "2026-11-19T09:45+09:00"
-  },
-  {
    "title": "相次ぐサイバー攻撃に対策を！ 被害を最小限に抑えるポイントを実機操作で解説",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqOTdqaWJTaGZpV2UxZF9oZ3ZnS2tTb180cVFoaXdldXdvMUZPM2pmQWo0elBSX1A1WHZvazVObVB3Q0JDcTZLTDZ6YjVHUXMxb096RWRheTk3SFRvUG5mYVJxUzFXS3M?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjWmFTTTFtRE03Y0lpNVdxS2U2VGwtakJnMW0yVmJEaS1WWTN5MUg5UkZHeXRLZGExbkxCbWxOTTBPU3AzeVdfQ0t4VkFSLWw1V0V0ZzdUU1JBOGM?oc=5",
+   "source": "共同通信PRワイヤー",
    "at": "2026-11-19T12:32+09:00"
   },
   {
@@ -429,6 +429,12 @@
    "at": "2026-11-19T12:00+09:00"
   },
   {
+   "title": "クラブツーリズム、「KARTE」への不正アクセスで約406万件の情報が漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QRXB6N0pCVURFOWdUQ251VENVb0FlTnVNUWxsRlhiWHdxdnNQWl9oRUFpYVFMcHdNb2VnVWF3VjJnd0FxdF9WUHQ1YjlZTVY0OVM1RDBna1NkaVVFNU5r?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-19T12:00+09:00"
+  },
+  {
    "title": "Ｓｃｈｏｏ[264A]：当社が提供する「Schoo Swing」への不正アクセスに関するお詫びとお知らせ 2026年11月19日(適時開示) ：日経会社情報DIGITAL",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XdzFWaThrSUNia2FUQ21kUDQtaGtGdXRMRDBha1lfWmhwRXRCbDF3X05YNW91aG5EdXBMdDNIeVVJMk56NlljWFFuVDJkWHZDdlE1Xy1RMDFKV1JrYTFiNkdZdEFuNXp4ZkE?oc=5",
    "source": "日本経済新聞",
@@ -445,16 +451,17 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TMWh4bWN4NTIwNmNpRWNqb08tWWdLdWNHVWhHNlBXWVBWbFVhMWItMTR4V0tQMlpWejU4bkxvZjZjU0NWcXo3d0Y1ajQzRU9aTFRjRERDeTJsSlhsYmpJ?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-19T11:51+09:00"
-  },
-  {
-   "title": "クラブツーリズム、「KARTE」への不正アクセスで約406万件の情報が漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZeU1oSEFXUG00clVpbHdscTI4cDJFd0dTRzBvRGlERTRVOVJGZXZoa0JrazdLNS1QVnk1YkVrNWJVTXN2WkdYZzg0MEx1aF96ZjVhWC13OA?oc=5",
-   "source": "TRAICY（トライシー）",
-   "at": "2026-11-19T11:48+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米国とイスラエル軍高官、対イランで対応協議：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Gc18xRWczb3FOU1RHTW9QQ0Y2MV9vTGhUb09RWWNOQW0tWGxnSTlnTUQ5dzBVMjlCeXdnYkdZUmlHYThsSmF3cVJKX2wzUUozVjVKMUhyWWE4Mm96VHFQOGtsVQ?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-19T12:39+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "日中首脳が再び握手、接触は10秒 高市首相が習近平氏に話しかける",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtNE9MSk9uWHJkM2hCemxVM1pmMVlEZS1UbDFnZWNYX0swd0RGc1MxNDA2Y3lsU2NyMkVjbzlzZVJOdzRZWXc0OWxIdDRkT2ljcUVZeDY4cmQ0XzNkYW9ENldLOVhNUk0?oc=5",
@@ -587,20 +594,13 @@
    "source": "Reuters",
    "at": "2026-11-19T08:27+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTh2UkxiOU1PV3lRcVV2T2Z1ZFJMZ0tyblQ0dlp6bk1UYlNIVkI1UGJmNS10NW9rZGNoWW9uc1hEZGVyTjlZeGo4QWFKQzM1U1NlRVBCb3RmS2hhdlk0aVM5X0hySEhGVGtXYVhLTGtjcVNKVjZjUTN2RXdETmVuODVWRzdGOVhvMVc5T2pDVDZicG1vbXptOA?oc=5",
-   "source": "Pasquale Pillitteri",
-   "at": "2026-11-19T07:09+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「米国で相次ぐシステム障害、アップルやNSAにも波及 政府高官はサイバー攻撃を否定」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
