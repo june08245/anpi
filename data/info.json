@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:15+09:00",
+ "updated": "2026-11-21T01:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T18:24+09:00"
+    },
+    {
      "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
      "source": "BigGo ファイナンス",
@@ -161,16 +167,10 @@
      "at": "2026-11-20T15:15+09:00"
     },
     {
-     "title": "習氏 台湾問題で米大統領をけん制",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T07:22+09:00"
-    },
-    {
-     "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-20T07:06+09:00"
+     "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDX3U0dEZPc1RnbHc5MTlHRVNKQTlodDBxcVpxc3BuRnNDVERPc2RiYXFKc1dIa3RQZWthOEpnaXRpNkRmMGUzVnR2LVg2OF9VSUhnOFAyb1ZVa0xpdnJzbHlfTWt1T1h1eXdXenFJdUdWbkE?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T09:38+09:00"
     }
    ]
   },
@@ -197,6 +197,12 @@
      "at": "2026-11-20T21:10+09:00"
     },
     {
+     "title": "鄭東泳（チョン·ドンヨン）統一部長官が20日、ミシェル·スティール在韓米国大使、ジェイビア·ブランソン在韓米軍司令官と初めて会い、韓半島情勢と対北朝鮮政策について意見を交わした。 韓国政府の対北朝鮮政..",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ja2psYXdSSGtaYWJhRkk5TlFOMEF6SG1DVEZ4VkNUX1dNVUE2WGtHdFRORFNxV3BEekp6ckstOE1oM3Z1OUNBNUhzeGxxODdMM3E0?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-20T19:55+09:00"
+    },
+    {
      "title": "実現しなかったトランプ氏と金正恩氏の会談 水を向けた米側に「無反応」続けた北 その背景は",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heXJ2QmxPek9wTTdFNi03VDRDeUNEMENmZWNzX0Q5OGhUSTRTbHZ0Tm9CU2h2YzdBdHBfbGNLbHFyVklxcHkya3YwT3UzY2VJR0lr?oc=5",
      "source": "東京新聞",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRW5nOHhsbVJPcVlOM0k3OXBkYy1HbjlOakhOX3J4M0tYQXBkazBDeFNwYUlVd0hLTFNPVWN5TDRyRkdjWldwOF9jd0tsNkFLTWVKTWJEQVJVOEI3Zzkyd3ZZTTlTOEhERUZTVm8yc3E0OUFwRC04US1Lb3V1X2ZfNFA5ejhjSXRx?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T16:17+09:00"
-    },
-    {
-     "title": "北朝鮮、トランプ大統領の対話提案に応じず…「核保有国の承認」と「敵視政策の撤回」が壁に",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CRWg1ZUozd1VIYkRBM3FwVkZsOEE4MzBuY2lXa2VYQnVnRVdiMF85a2Z3SmRjbTJHYmk5azgxakR6T3pGZWNTZnM1cEIwQlFuVmfSAVRBVV95cUxOelRoSm1GZ2FhSW5nUm9zVnZKRFpnUGJTNTNQcmpKVXJwTnk2czVsclBlQi04ZzQtV0k4TWRrQ0Q2RmF6VTVvMjBJdHp1R091bDhIaTI?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-20T15:59+09:00"
     }
    ]
   },
@@ -251,10 +251,10 @@
      "at": "2026-11-20T22:53+09:00"
     },
     {
-     "title": "ロシア軍による複合攻撃　キーウの死者数７名、負傷者数１７名",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZE5NcTdZWkVIaU41RnV1SGdPUVhidzB2OGtybnRDX1FuVGlGcjhYd0Y3QWN4MGRJYi1WZERjakVLWGl0SXdxT2hsaHZuaXpCMzgxZjRndmY0d0VlakZuZ1ZINzJhenlPb1RvNWl3MVFjQVVMN2ZaRVlTaF92VkEyWmVMdllyRkYwUHh5MFhPMTdlajc5VlFjMDRONWpzck1nd0VMbkxBN0ZpRjdYdnppNFhOLVVRV3hhbkxwWNIBwgFBVV95cUxQeTFYNEZrLThxbjlmVFc0M0NOVGhsSUdhRGdFdmVSb1ZwSHZUcmdCQVhRRlcxam5FenFucjdQRlJpUGgtYkdDb0VsQVBzdWpBaGhDTnlNazlpUmZ3Z05QX3MzWC13LS1KX2xVeUY3ZGx0WEJ0aDd4Sml2a1pGeWpTRGdFa3VGR3c2Zm5NdU0xczRDVUtYdzE3allsWW9EdkZidkswTlBXVW16TWRHNXprN3FGZDJzeXdVUEtCT1pObWxMZw?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-20T22:38+09:00"
+     "title": "ポーランドにミサイル落下 ロシアのウクライナ攻撃で侵入（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TY2xfblA3UzIxSjVXalFuQ01oRTNTaHFTRklzV3BkWGpjRjB3YWthLTd5STBWdmhvMzJ1S2xxU3BtdklLZFp2UnVrWk5ncjNaNmNtOWk5ZG5uSEdoaXZ5Z3huVnA1eno4NlQ5a2J0TFVDMFhKT2hQaVZNMklRRlU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T22:13+09:00"
     }
    ]
   },
@@ -531,18 +531,18 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア軍による複合攻撃　キーウの死者数７名、負傷者数１７名",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZE5NcTdZWkVIaU41RnV1SGdPUVhidzB2OGtybnRDX1FuVGlGcjhYd0Y3QWN4MGRJYi1WZERjakVLWGl0SXdxT2hsaHZuaXpCMzgxZjRndmY0d0VlakZuZ1ZINzJhenlPb1RvNWl3MVFjQVVMN2ZaRVlTaF92VkEyWmVMdllyRkYwUHh5MFhPMTdlajc5VlFjMDRONWpzck1nd0VMbkxBN0ZpRjdYdnppNFhOLVVRV3hhbkxwWNIBwgFBVV95cUxQeTFYNEZrLThxbjlmVFc0M0NOVGhsSUdhRGdFdmVSb1ZwSHZUcmdCQVhRRlcxam5FenFucjdQRlJpUGgtYkdDb0VsQVBzdWpBaGhDTnlNazlpUmZ3Z05QX3MzWC13LS1KX2xVeUY3ZGx0WEJ0aDd4Sml2a1pGeWpTRGdFa3VGR3c2Zm5NdU0xczRDVUtYdzE3allsWW9EdkZidkswTlBXVW16TWRHNXprN3FGZDJzeXdVUEtCT1pObWxMZw?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-20T22:38+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "イラン戦争の費用が480億ドルを超える 中東基地被害額の見積もりを求める声",
    "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNQ1ByNk9JczJrYzBnYk83eURsMktQa3duamNGWGhlbGQ2cmFPMGNSbkRKNmhqUzhiZ0NJaHF3Y1ZwZXNvS0lLOS0xeVpYXzBScnVDajNnS3ZlNjBkS19KYTY1b3JCcmRReGVRUVNkRWl6UVpnenZ4WjVaWVB2ZmhCLXpMc1JTdXZaLWVybkE2V2hWZ3ZkTkxWdno0OXpYNDJoTEZGRnNQOVlmaXVwUVdsQXRkdGdFSjVoYnl4b1JwTHRIYUZoMFd5Rmh3V1NnSGs3TG9QYXhyYmtRV3FwQ2Vvdm9aU3l6UDZPMy1BR3kzMU8zdVA2OTBJaFpzMXFUTFB1RUhPNkt5R2JERmdWN1B3MTFhTUU3UzQzUEVDQUVmWFdPc3NOM3Y5bHhxSERhRHpuVk5tUWRpUS1rSDJ3RUpjZDdWWnJQay1QYW1RSEhhSTN2N1JtZlVXaUNjSlNWZGdUMkxERUdjajRjWVBjTFM3MDBPQlV4SWdjRlZTMFEtMnhKTEotbWFWQUFyMWpHS2JsdEdORENxNHR5UDRhWXRpa1QtUGpRNm16SGFZdTExSWZrQkZoeTFWMkJ1a1MxNXJXbld6QWJyNllYc3VzNm5wVnZwZnJMWnYzanF2LWtFSTRiR2VRNHhJcg?oc=5",
    "source": "アラブニュース",
    "at": "2026-11-20T22:29+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ポーランドにミサイル落下 ロシアのウクライナ攻撃で侵入（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TY2xfblA3UzIxSjVXalFuQ01oRTNTaHFTRklzV3BkWGpjRjB3YWthLTd5STBWdmhvMzJ1S2xxU3BtdklLZFp2UnVrWk5ncjNaNmNtOWk5ZG5uSEdoaXZ5Z3huVnA1eno4NlQ5a2J0TFVDMFhKT2hQaVZNMklRRlU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T22:13+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "欧州連合（EU）の外交責任者カヤ・カラス氏は、キエフに対するロシアの攻撃を非難し、EU駐在ロシア大使の召喚を発表",
@@ -566,11 +566,25 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "鄭東泳（チョン·ドンヨン）統一部長官が20日、ミシェル·スティール在韓米国大使、ジェイビア·ブランソン在韓米軍司令官と初めて会い、韓半島情勢と対北朝鮮政策について意見を交わした。 韓国政府の対北朝鮮政..",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ja2psYXdSSGtaYWJhRkk5TlFOMEF6SG1DVEZ4VkNUX1dNVUE2WGtHdFRORFNxV3BEekp6ckstOE1oM3Z1OUNBNUhzeGxxODdMM3E0?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-20T19:55+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "実現しなかったトランプ氏と金正恩氏の会談 水を向けた米側に「無反応」続けた北 その背景は",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heXJ2QmxPek9wTTdFNi03VDRDeUNEMENmZWNzX0Q5OGhUSTRTbHZ0Tm9CU2h2YzdBdHBfbGNLbHFyVklxcHkya3YwT3UzY2VJR0lr?oc=5",
    "source": "東京新聞",
    "at": "2026-11-20T19:54+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-20T18:24+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "元国防総省高官は、NATOが「抑止力の危機」にあると述べる／「欧州からの米軍撤退は間違いだ」",
@@ -599,20 +613,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T16:17+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（2）【中国問題グローバル研究所】",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ZXdBNUF4dTJhWkFWR1pBY3RQMGJUQko0MnV2aktxdzNmNnRLZFlBRnRSbmF2TzZUUTAzOHp2WEpMZ1drcll3cTgtdW81a2NSa0dYZDcxUjBpaWtOaEVVWUFUVFR1OFBVN014Y2ZiVmg?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-20T16:15+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "米国はイランでの軍事作戦に480億ドル以上を支出",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGNQN0ppRGNlNVFnUFpnM1VfTWRicVk0blpKRkRpZDZ3dTZ1V1V5UWZsMmx4NldQQ3c0eUVsNm82cFRUZFNjT3dDQlFOU3F4UmtRNW1JNUlLcFlaS1ZYcVM5UzNnVXp5UmxoWl81NHFVZ1RvNWxjc2pSWUJrYlY1ZnFrUDRtVDFPSnZVbHBWRUg1WnllR0dXZGNnYw?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-20T16:14+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -632,7 +632,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「封鎖」1件",
-    "中国・台湾：「侵攻」1件",
+    "中国・台湾：「攻撃」「封鎖」2件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「報復」6件",
     "欧州・NATO：「攻撃」「軍事衝突」2件"
@@ -645,10 +645,10 @@
      "at": "2026-11-20T15:53+09:00"
     },
     {
-     "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
-     "source": "BigGo ファイナンス",
-     "at": "2026-11-20T16:35+09:00"
+     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T18:24+09:00"
     },
     {
      "title": "英軍、ロシア・中国・イラン・北朝鮮へのサイバー攻撃作戦を公式に認める",
