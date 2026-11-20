@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:30+09:00",
+ "updated": "2026-11-21T05:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,10 +102,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "トランプ氏　米中ロ会談は「ここ数年で最も画期的」イランやウクライナ問題を協議",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDgtVkNsUWNzZzBlLUYyOXRRdjRmem9KcncxVjRNVkpwYVBSYnNOemExOFlCX2dQYWJWOGNSTk91cXhmdG4xRVhYUTBCMW9mNW12eTUyRTVrMEtrNFEtY0t2aXF5Yy1vV1BOR25YU0UxRkd4SmEtMWRoRHIyWkZDRElza28wd9IBiwFBVV95cUxONVdvOXZDS19UV2hTbWVVQ0xabGRnblRjX2h4Wk5CRm40ajNzdGZkNEdwV3VTbnlyaF9zTmZYVnpLVTJVZUFmYmNKc1hQb09NLXF4SG9jSlJIN0dTXy1lcDdZYkhxWm1wblE2NFhWQlUyTWswV2JVOHZuTVNsSHRHWm5aSC1CMmlZODFN?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-21T05:26+09:00"
+     "title": "トランプ氏 米中ロ会談は「ここ数年で最も画期的」イランやウクライナ問題を協議",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bVBMZ0RUR01WU1BxaW90VFBjRlVpNDEtU3BnREw4TU1PS3FYVnFaOHg1NWhyT3BTUkJVMi13YjZxTUlOQUVsb1pVYTJ5dlpuX3VRRV9HcERnU1hFb2J1WmFKcklpUUZNRkRIXzJFQVctVndLRm1Zekd3?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-21T05:19+09:00"
     },
     {
      "title": "米財務省、シンガポールとマレーシアにイラン制裁の順守要求 違反リスクを警告",
@@ -121,7 +121,7 @@
     },
     {
      "title": "イラン戦争の米戦費、483億ドル（約7.7兆円）に―基地被害額は依然示されず",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbS1IR2hXcUlwb00wdUQxR2VGRUNSaHdPOUcyZVI3cDI0cmRHOXVtWFFGU1pJY3BrYUlaUGRlRmpySFVtQlV3czBNbE81ZFhWalhfSnBXUm1OTkk0UTNJbFpEakVIalk30gFoQVVfeXFMTmRtLUhHaFdxSXBvTTB1RDFHZUZFQ1Jod085RzJlUjdwMjRyZEc5dW1YUUZTWkljcGthSVpQZGVGanJIVW1CVXdzME1sTzVkWFZqWF9KcFdSbU5OSTRRM0lsWkRqRUhqWTc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Oa2Y0S2VqNVNsVmxyWVg4Skl2a0RfbHJjM2NWa2VzMnFBNzJFMXpLN0dGODBPdE5vMEZNa2M1TVFGdXE3ek42WC1GTHNVYk9rR0YzY3ZfR0lZZjJaOUNtYzhSZ9IBaEFVX3lxTE5kbS1IR2hXcUlwb00wdUQxR2VGRUNSaHdPOUcyZVI3cDI0cmRHOXVtWFFGU1pJY3BrYUlaUGRlRmpySFVtQlV3czBNbE81ZFhWalhfSnBXUm1OTkk0UTNJbFpEakVIalk3?oc=5",
      "source": "財経新聞",
      "at": "2026-11-20T23:27+09:00"
     },
@@ -143,6 +143,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T18:24+09:00"
+    },
     {
      "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDX3U0dEZPc1RnbHc5MTlHRVNKQTlodDBxcVpxc3BuRnNDVERPc2RiYXFKc1dIa3RQZWthOEpnaXRpNkRmMGUzVnR2LVg2OF9VSUhnOFAyb1ZVa0xpdnJzbHlfTWt1T1h1eXdXenFJdUdWbkE?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-20T09:38+09:00"
-    },
-    {
-     "title": "米、中国軍企業への輸出承認 ＡＩ半導体、今年５月時点",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1cU5yX0Q3ZjR0Si1wOXlKeWtpdEljczdVWDAtd3RWbHptUF9uejZxYzRiMEticGFaSlNIaWJmR2hyYTdWcnRrXzRHYmVURkRZVlAwMXZnT01sSEstZnd0WHVGSFhKYVk?oc=5",
-     "source": "中日新聞Web",
-     "at": "2026-11-20T09:36+09:00"
     }
    ]
   },
@@ -388,12 +388,6 @@
    "at": "2026-11-21T04:13+09:00"
   },
   {
-   "title": "AIがせかす脆弱性修正 ｢パッチ地獄｣が米IT障害誘発、銀行や空港停止",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tOWZ5dkdna29oY0dlWVMyYWQ1SlRDVkxLb1NCYkxGRkttb2xiYmw4UXhZcU5SNk5YUXltZVhZLWhxSDM4MFhQQ2tyYVNUVlp5UnFsSDZnZUN0NzVRUmY3SzVwM3k0OHFIUUlfMA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-21T04:04+09:00"
-  },
-  {
    "title": "米サイバー長官が辞任、AI政策など担当 システム障害との関連は不明",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JaGZWWmM0VXl3ekRDUzI4bDBISzN5WDBGeU9VbUd3cGt6U0hnLUtTX3J5SWpDWkRTdjJpZTIxN1o0cjlhZUNyZ3FwcjBfOFNlS3p4ZVdIY1NiaXdYTzBTS1VUVFhIVG5pcTY1SA?oc=5",
    "source": "日本経済新聞",
@@ -422,6 +416,12 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVZ1Z1gxRUFXdVNNQmpQUktfOUNlZ19fanpYX21fVGdiTnEzYVBOakQ0dEs2enhuZlYzaV8zOFNRTk1IM0VxUG41QzRzR0ZPdHhqYVdHM1ZOZXdGZ3pMOU5pNWZnc09Vam5Oa2hKSE9iRm5xUi03dWZMSnl2NTNzUnZhenFNczZP0gGcAUFVX3lxTE9ad2RmVFpRVWY0eFJTU1RfanVqZ3V6alFJVDhHVjhVbUstSWVkWmhBd09RaVBuSkRuOEVoNElzQXJ2QjJiWU1TVnR4ckE3SURGLWp4N2VCQ0taeXdwbTlBS3dxa3ZZMDctYnoxR1hHRldib045NENfYW51SHJvZjhFbzVhMjNWcDZVbTFCMHBvMHJRME92Y3FQSXRidQ?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-21T00:58+09:00"
+  },
+  {
+   "title": "アークスグループの「RARAカード」システム障害で一時使用できず 青森県内の店舗でも",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNmw0LVhGdWM3SW9MYnhWekFKVk9rN2haMVdlZUNRWW1NYTFtSzlPSlJFQ09JTEl6STZ1Z184MzlnM19DMWNOS0JySQ?oc=5",
+   "source": "TVer",
+   "at": "2026-11-20T20:27+09:00"
   },
   {
    "title": "政府資料ファイル流出か システムに不正アクセス",
@@ -466,10 +466,10 @@
    "at": "2026-11-21T03:03+09:00"
   },
   {
-   "title": "【速報】大阪・堺市の電子申請システムに不正アクセス 利用者のメールアドレス約６万4000件が漏洩",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CNFRfVHV4dlhSWVhnVGwyWUNIRTg0Zl9OMjJ4NXFrRGFZVmJPT1lkX2V3YWRLY1ZieGFIdmJqUEsxeFRlZDhxcTVBUGZBbHduSHpSRg?oc=5",
-   "source": "ktv.jp",
-   "at": "2026-11-21T02:14+09:00"
+   "title": "奈良県の委託先に不正アクセス 県職員らのメールアドレス漏洩 (産経新聞)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNm0yZVdVZGUxdEVGODFuR0t1cTEzQXJXcm43SV9YbTBjVXFMTGNUSURicEYtZXRvNEdIRGxvQlJ6d2Izb3B1ajliQVpuU1E1aTBoRlVrNFR6Uk9lTDU3cnRmdVZKLUFEMVAxOVNVRUlGN3l4b1NNa0NsT2tpanBfMWZiZGJGdWdITFl4Z0hB?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T23:53+09:00"
   }
  ],
  "osaka": [
@@ -482,10 +482,10 @@
  ],
  "world": [
   {
-   "title": "トランプ氏　米中ロ会談は「ここ数年で最も画期的」イランやウクライナ問題を協議",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDgtVkNsUWNzZzBlLUYyOXRRdjRmem9KcncxVjRNVkpwYVBSYnNOemExOFlCX2dQYWJWOGNSTk91cXhmdG4xRVhYUTBCMW9mNW12eTUyRTVrMEtrNFEtY0t2aXF5Yy1vV1BOR25YU0UxRkd4SmEtMWRoRHIyWkZDRElza28wd9IBiwFBVV95cUxONVdvOXZDS19UV2hTbWVVQ0xabGRnblRjX2h4Wk5CRm40ajNzdGZkNEdwV3VTbnlyaF9zTmZYVnpLVTJVZUFmYmNKc1hQb09NLXF4SG9jSlJIN0dTXy1lcDdZYkhxWm1wblE2NFhWQlUyTWswV2JVOHZuTVNsSHRHWm5aSC1CMmlZODFN?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-21T05:26+09:00",
+   "title": "トランプ氏 米中ロ会談は「ここ数年で最も画期的」イランやウクライナ問題を協議",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83bVBMZ0RUR01WU1BxaW90VFBjRlVpNDEtU3BnREw4TU1PS3FYVnFaOHg1NWhyT3BTUkJVMi13YjZxTUlOQUVsb1pVYTJ5dlpuX3VRRV9HcERnU1hFb2J1WmFKcklpUUZNRkRIXzJFQVctVndLRm1Zekd3?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-21T05:19+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -553,7 +553,7 @@
   },
   {
    "title": "イラン戦争の米戦費、483億ドル（約7.7兆円）に―基地被害額は依然示されず",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbS1IR2hXcUlwb00wdUQxR2VGRUNSaHdPOUcyZVI3cDI0cmRHOXVtWFFGU1pJY3BrYUlaUGRlRmpySFVtQlV3czBNbE81ZFhWalhfSnBXUm1OTkk0UTNJbFpEakVIalk30gFoQVVfeXFMTmRtLUhHaFdxSXBvTTB1RDFHZUZFQ1Jod085RzJlUjdwMjRyZEc5dW1YUUZTWkljcGthSVpQZGVGanJIVW1CVXdzME1sTzVkWFZqWF9KcFdSbU5OSTRRM0lsWkRqRUhqWTc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Oa2Y0S2VqNVNsVmxyWVg4Skl2a0RfbHJjM2NWa2VzMnFBNzJFMXpLN0dGODBPdE5vMEZNa2M1TVFGdXE3ek42WC1GTHNVYk9rR0YzY3ZfR0lZZjJaOUNtYzhSZ9IBaEFVX3lxTE5kbS1IR2hXcUlwb00wdUQxR2VGRUNSaHdPOUcyZVI3cDI0cmRHOXVtWFFGU1pJY3BrYUlaUGRlRmpySFVtQlV3czBNbE81ZFhWalhfSnBXUm1OTkk0UTNJbFpEakVIalk3?oc=5",
    "source": "財経新聞",
    "at": "2026-11-20T23:27+09:00",
    "topic": "イラン・アメリカ"
@@ -615,11 +615,11 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "元国防総省高官は、NATOが「抑止力の危機」にあると述べる／「欧州からの米軍撤退は間違いだ」",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGdRb1hzWUlKaHRveXdZb0FiZGRmZloyTFRiSTZpUERpanVNQlZtb1ZNUlFKUEpJTXJuYVIwOGZ2U3laRzB5bGk5cmJhbmxhdUtibklwNG1NRlFCVm4wZ0J4VHJKWDd2LVlENVNsaW5hZk5oaFRsRDZmaGYxV2tDckNoamQwcElneTNOY25HZWZ1UzN5QTdLdkkzZDdmRlVLYVNGZmpmRWdjNmpMc0E?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-20T18:11+09:00",
-   "topic": "欧州・NATO"
+   "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-20T18:24+09:00",
+   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -638,17 +638,17 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "中国・台湾：「侵攻」1件",
+    "中国・台湾：「攻撃」「封鎖」2件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「報復」5件",
     "欧州・NATO：「攻撃」「軍事衝突」3件"
    ],
    "items": [
     {
-     "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
-     "source": "BigGo ファイナンス",
-     "at": "2026-11-20T16:35+09:00"
+     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T18:24+09:00"
     },
     {
      "title": "英軍、ロシア・中国・イラン・北朝鮮へのサイバー攻撃作戦を公式に認める",
