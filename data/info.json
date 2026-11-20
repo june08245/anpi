@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:00+09:00",
+ "updated": "2026-11-21T04:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-20T21:51:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-21T04:01:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-21T02:14:00+09:00",
    "place": "トカラ列島近海",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T15:31:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T18:24+09:00"
+    },
+    {
      "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
      "source": "BigGo ファイナンス",
@@ -155,9 +161,9 @@
      "at": "2026-11-20T15:42+09:00"
     },
     {
-     "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調 – Quebee キュエビー",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdTlXdUxfNk1zUnl1Vk90NlhjRW5lUDJNZlRnVmRYWWpQYUtWbzNhdTdRTWYzM19GYmlyYTBLX1NBMTBCY05GaE9DTV9UakNuZ3ZSOUFnd0g?oc=5",
-     "source": "QAB 琉球朝日放送",
+     "title": "米中ロ首脳会談　中国紙「国際関係史の節目」　台湾問題めぐる意義も強調",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVVhbDFLc3NXUDVvTkxLRHFyV1dNUUFFVF9nYkNxUWFTM2RFa244RXVqWDVkTF9vT2U5SDNnMVVCZVl0d0s2aFdodW45THQ0ZFIwZW9zcDBmMlZ4QkJQb3JzeGhmb3J2Vkg5UkVGWUp4Qkx0cWxEdVo0LVhvTDlXZHdYeG56TmxGZGhz0gGLAUFVX3lxTE5BVWFsMUtzc1dQNW9OTEtEcXJXV01RQUVUX2diQ3FRYVMzZEVrbjhFdWpYNWRMX29PZTlIM2cxVUJlWXR3SzZoV2h1bjlMdDRkUjBlb3NwMGYyVnhCQlBvcnN4aGZvcnZWSDlSRUZZSnhCTHRxbER1WjQtWG9MOVdkd1h4bnpObEZkaHM?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-20T15:15+09:00"
     },
     {
@@ -165,12 +171,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDX3U0dEZPc1RnbHc5MTlHRVNKQTlodDBxcVpxc3BuRnNDVERPc2RiYXFKc1dIa3RQZWthOEpnaXRpNkRmMGUzVnR2LVg2OF9VSUhnOFAyb1ZVa0xpdnJzbHlfTWt1T1h1eXdXenFJdUdWbkE?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-20T09:38+09:00"
-    },
-    {
-     "title": "米、中国軍企業への輸出承認 ＡＩ半導体、今年５月時点",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1cU5yX0Q3ZjR0Si1wOXlKeWtpdEljczdVWDAtd3RWbHptUF9uejZxYzRiMEticGFaSlNIaWJmR2hyYTdWcnRrXzRHYmVURkRZVlAwMXZnT01sSEstZnd0WHVGSFhKYVk?oc=5",
-     "source": "中日新聞Web",
-     "at": "2026-11-20T09:36+09:00"
     }
    ]
   },
@@ -183,6 +183,12 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BYVJhT3RYc0dJWThpaGgxZlBLQVY1dWJWWEwybDRTckppck9rdzRFS2U5ZHgyUmxZNHk4c0wxRE5za1FHcC1fTnlZQzhyRG0wTzJIdEdXTGpsVFhLZnFJX1lwTdIBaEFVX3lxTFA2eWNid1VfbWNzdG5MWTJyVmtTYVUwN0E3WkNQUGVtWHN4UmR0eWhkd1BsV3lzaTV3NjdyRW1qcmpZcHpHVm0wVjRfYXlROUdvMDVIMVBYcUlLY2oxTk8xdC1LVTRiNTNn?oc=5",
      "source": "財経新聞",
      "at": "2026-11-20T23:40+09:00"
+    },
+    {
+     "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWblJpb3MxX1ptRzVCbm56ZVc5UTdiRlZuTDV6all1WXZpSEx2YmUwUWJDSGVYTmhuZlRMcURZWjdQZUkzSEpmVHRRRktGQXBZSUxCZ1VqTFdDYUcwTXp2ODhCUkw1NkNPMHNnaHJyUENBa0lWRFhXb2tFNW1MakU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T23:21+09:00"
     },
     {
      "title": "カナダ海軍フリゲートが北朝鮮籍船舶の「瀬取り」を警戒監視 外務省発表（9月下旬～11月上旬）",
@@ -207,12 +213,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRW5nOHhsbVJPcVlOM0k3OXBkYy1HbjlOakhOX3J4M0tYQXBkazBDeFNwYUlVd0hLTFNPVWN5TDRyRkdjWldwOF9jd0tsNkFLTWVKTWJEQVJVOEI3Zzkyd3ZZTTlTOEhERUZTVm8yc3E0OUFwRC04US1Lb3V1X2ZfNFA5ejhjSXRx?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T16:17+09:00"
-    },
-    {
-     "title": "北朝鮮、トランプ大統領の対話提案に応じず…「核保有国の承認」と「敵視政策の撤回」が壁に",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CRWg1ZUozd1VIYkRBM3FwVkZsOEE4MzBuY2lXa2VYQnVnRVdiMF85a2Z3SmRjbTJHYmk5azgxakR6T3pGZWNTZnM1cEIwQlFuVmfSAVRBVV95cUxOelRoSm1GZ2FhSW5nUm9zVnZKRFpnUGJTNTNQcmpKVXJwTnk2czVsclBlQi04ZzQtV0k4TWRrQ0Q2RmF6VTVvMjBJdHp1R091bDhIaTI?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-20T15:59+09:00"
     }
    ]
   },
@@ -221,10 +221,10 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ウクライナに“過去最大規模”の攻撃　8人死亡　ロシア報復警告後…首都の橋にも被害",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEduRGt4WXlBWE5MUHdZUnQ0OTg2U0o2b2dTbzJPSUNkLTg2T0hZd1NDcy1ianpwRVRaU29FaXZKbEszSzRZSmlFRzc0Uk5GSFhGWmZYN0FGMTlNWmJnSWROdFJ2SVJuSzFZZmk5WThpRzZsYXZfMDU2U3FJQ2lsaUVVMGtsZ9IBiwFBVV95cUxOaXhaMUdqTFNjd3FITU5lRmtUd29YMDRBSUNYYmlweXVfd2hqQTJENWo5dC1ENlpvSlJlSmRES0V6Zks3WkUydjJhbFNfZmlWNEw3ZkpJZXRabFkzVU9JUm4wOEtkaWlpOFp5bW9kejVVT19EODNMMlJhVU9mejlFY1hLeV9rWUd2RmZV?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-21T03:50+09:00"
+     "title": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yM3c2ZGpGMGZraGhZUzBVOEdWZlhJME1aM2wtQV94OHpCcURVc0tpNjNyTi1NOU1tTV9tSWRDYWFWdmZoSmI4TjY3ajlManZuN0oydlFVNS1LQ0NqOGxaVnBGOUpTT2k1SFR3V0NsTUFRNVFwLU82S0l3?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-21T03:44+09:00"
     },
     {
      "title": "ロシアとウクライナ、橋への攻撃応酬　欧州にも緊張波及",
@@ -321,6 +321,12 @@
    "at": "2026-11-20T19:15+09:00"
   },
   {
+   "title": "愛知で約30年ぶりの震度5強 南海トラフ地震評価検討会｢特段の変化なし｣ 防災庁｢水やトイレなど日頃の備えを｣",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MT2lLWEFSY1Fxemp0RS1lYU4xREt6emJIV2lhZ1VJNzFwOE9WdzBGS3JpR2NZbUhxUDhLRkw2cXhtMFNMSWc4czhrVC1iSFl5OFhtOFJwNDJqamZhUnNZ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-20T12:33+09:00"
+  },
+  {
    "title": "香川県丸亀署が離島で南海トラフ地震を想定した訓練行う",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PSGZfSy1CM2JvaVhhX184cW5MVlBXYVgxNlZ4UEc4bV91UU45RVJpTEU0aFYxTUVWS0lUNnNBc0ZjUWd0eF93b0d3QjNvdGd2LTZMRmFTQTZpOVU?oc=5",
    "source": "日刊警察",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdG5pb2pNREprd2o1Y0xaQ2FtTEpPc084bHlsMlNNTXdSSDZWU2w4dk5SQUFMNndNTTE2OW96RV9lR1hFWWZvSlZ0a3BpcXdtMGc?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-19T17:34+09:00"
-  },
-  {
-   "title": "南海トラフの巨大地震を想定 身元確認訓練 愛知 田原",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96YW92QWVtYjRLb3ZCMTZ3OGJwTmI5OFBZYzFJaXFGNlJUcExLc3MtaWwxaHQ1WElPODN2alVoVTZaYmphOTJOVnNQQ0RjdlRpUzNmY2ZiQ0pPc21qSGZv?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-19T16:04+09:00"
   }
  ],
  "outage": [
@@ -375,6 +375,18 @@
  ],
  "cyber": [
   {
+   "title": "AIがせかす脆弱性修正 ｢パッチ地獄｣が米IT障害誘発、銀行や空港停止",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tOWZ5dkdna29oY0dlWVMyYWQ1SlRDVkxLb1NCYkxGRkttb2xiYmw4UXhZcU5SNk5YUXltZVhZLWhxSDM4MFhQQ2tyYVNUVlp5UnFsSDZnZUN0NzVRUmY3SzVwM3k0OHFIUUlfMA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-21T04:04+09:00"
+  },
+  {
+   "title": "米サイバー長官が辞任、AI政策など担当 システム障害との関連は不明",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JaGZWWmM0VXl3ekRDUzI4bDBISzN5WDBGeU9VbUd3cGt6U0hnLUtTX3J5SWpDWkRTdjJpZTIxN1o0cjlhZUNyZ3FwcjBfOFNlS3p4ZVdIY1NiaXdYTzBTS1VUVFhIVG5pcTY1SA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-21T04:04+09:00"
+  },
+  {
    "title": "【我孫子市】あびこショッピングプラザの「お買物ポイント販売会」、システム障害のため本日11月21日(土)は中止。明日以降の開催は前日に判断へ",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lQTYxVnJpOWVfZ0p4YUgwWkdsVFN1amdnOElON0NVNWV4UXhuTDVPRU5RbGFWa2ViUzFZYUdqV3lqS0JjdlVtdF9rV2JFS25nNDR5YjA3Ym5oVHpXWlk4VmxXcw?oc=5",
    "source": "地域ニュースサイト号外NET",
@@ -411,6 +423,12 @@
    "at": "2026-11-20T20:27+09:00"
   },
   {
+   "title": "プレイド 漏えい企業2200社 不正アクセス ZOZOなど被害",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zVGJ4cjF0ajZ5b0ZXQlF6TURENlNyWk5oRHk4aEVDR21VTFplOWd1WkxTams4Q2pGZVR1OEtiRl9qc3pPSUpkdkpRVF9zZkQ4WkpfSGZSbFg2TGJuc3c?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-21T03:58+09:00"
+  },
+  {
    "title": "警察庁がサイバー捜査の初動対応専門チーム「FFF」を設置 相次ぐ不正アクセス受け（FNNプライムオンライン（フジテレビ系））",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5VWtEV0lMYVE5X2kxVEt6NnE3eE1rUmNmaFhib0g2bWtLRmlrcVVlODlqYmNXWTJqaEpjNlZwUE5IZWxxY3BEckdXSU1rZ0FLdGdmRGxIVk1HX0ZNRlhoTUlPbThHWEY4b3NYcWV1N3FPX21MbUlWdm9wUlBBSzA?oc=5",
    "source": "Yahoo!ニュース",
@@ -445,24 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BYVJhT3RYc0dJWThpaGgxZlBLQVY1dWJWWEwybDRTckppck9rdzRFS2U5ZHgyUmxZNHk4c0wxRE5za1FHcC1fTnlZQzhyRG0wTzJIdEdXTGpsVFhLZnFJX1lwTdIBaEFVX3lxTFA2eWNid1VfbWNzdG5MWTJyVmtTYVUwN0E3WkNQUGVtWHN4UmR0eWhkd1BsV3lzaTV3NjdyRW1qcmpZcHpHVm0wVjRfYXlROUdvMDVIMVBYcUlLY2oxTk8xdC1LVTRiNTNn?oc=5",
    "source": "財経新聞",
    "at": "2026-11-20T23:40+09:00"
-  },
-  {
-   "title": "サイバー攻撃対策の「ブロッキング」検討開始…「魔法のつえになるのは危険だが『転ばぬ先のつえ』として」",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2YWwxazdWSk5PSUx5MVk2SXRyczhfU1g4MFFyTTlocEtpSkl3VXh4SmdYTzB2RFVGMmF5aV84Yk9UYmdDMTI5UVNjemNlTl9YLWo5OHdSSnJIRVVjbVdoRDJoU0o?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-20T23:00+09:00"
-  },
-  {
-   "title": "スパコン「富岳」の不正アクセス問題、認証情報４３０件持ち出されたか…外部のスパコン接続の「秘密鍵」",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uaDlSVEtkYW53MUwtS2RsMzN5eWtPSDdtSHIwZVg2S3h3dGxUMHdHNjNPbGd3N3ZhRzdaR2JYTm4teDlOLXRSWmszYUNYeGVMU0tYUUFKanFRSEEyYmtHQ3ZmQVk?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-20T21:55+09:00"
-  },
-  {
-   "title": "「超PayPay祭」が11月20日から開始！ PayPayカードのスマホタッチ決済ならスクラッチくじが必ず当たる",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jX29OOHFNaXQ4VE11d3lIbEFQWHN2WnljRWtlMzhxNHVNUjItbmVhcjZhd3ozVUtIekdsa3BPRzVHeVRxRW5QQW40OWc5aGVkV3Zmb0UyQlMzTUl0empWTTc4UjNEak9rN3c?oc=5",
-   "source": "AppBank",
-   "at": "2026-11-20T21:53+09:00"
   }
  ],
  "osaka": [
@@ -475,10 +475,10 @@
  ],
  "world": [
   {
-   "title": "ウクライナに“過去最大規模”の攻撃　8人死亡　ロシア報復警告後…首都の橋にも被害",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEduRGt4WXlBWE5MUHdZUnQ0OTg2U0o2b2dTbzJPSUNkLTg2T0hZd1NDcy1ianpwRVRaU29FaXZKbEszSzRZSmlFRzc0Uk5GSFhGWmZYN0FGMTlNWmJnSWROdFJ2SVJuSzFZZmk5WThpRzZsYXZfMDU2U3FJQ2lsaUVVMGtsZ9IBiwFBVV95cUxOaXhaMUdqTFNjd3FITU5lRmtUd29YMDRBSUNYYmlweXVfd2hqQTJENWo5dC1ENlpvSlJlSmRES0V6Zks3WkUydjJhbFNfZmlWNEw3ZkpJZXRabFkzVU9JUm4wOEtkaWlpOFp5bW9kejVVT19EODNMMlJhVU9mejlFY1hLeV9rWUd2RmZV?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-21T03:50+09:00",
+   "title": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yM3c2ZGpGMGZraGhZUzBVOEdWZlhJME1aM2wtQV94OHpCcURVc0tpNjNyTi1NOU1tTV9tSWRDYWFWdmZoSmI4TjY3ajlManZuN0oydlFVNS1LQ0NqOGxaVnBGOUpTT2k1SFR3V0NsTUFRNVFwLU82S0l3?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-21T03:44+09:00",
    "topic": "ロシア"
   },
   {
@@ -538,6 +538,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWblJpb3MxX1ptRzVCbm56ZVc5UTdiRlZuTDV6all1WXZpSEx2YmUwUWJDSGVYTmhuZlRMcURZWjdQZUkzSEpmVHRRRktGQXBZSUxCZ1VqTFdDYUcwTXp2ODhCUkw1NkNPMHNnaHJyUENBa0lWRFhXb2tFNW1MakU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T23:21+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "イラン戦争の費用が480億ドルを超える 中東基地被害額の見積もりを求める声",
    "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNQ1ByNk9JczJrYzBnYk83eURsMktQa3duamNGWGhlbGQ2cmFPMGNSbkRKNmhqUzhiZ0NJaHF3Y1ZwZXNvS0lLOS0xeVpYXzBScnVDajNnS3ZlNjBkS19KYTY1b3JCcmRReGVRUVNkRWl6UVpnenZ4WjVaWVB2ZmhCLXpMc1JTdXZaLWVybkE2V2hWZ3ZkTkxWdno0OXpYNDJoTEZGRnNQOVlmaXVwUVdsQXRkdGdFSjVoYnl4b1JwTHRIYUZoMFd5Rmh3V1NnSGs3TG9QYXhyYmtRV3FwQ2Vvdm9aU3l6UDZPMy1BR3kzMU8zdVA2OTBJaFpzMXFUTFB1RUhPNkt5R2JERmdWN1B3MTFhTUU3UzQzUEVDQUVmWFdPc3NOM3Y5bHhxSERhRHpuVk5tUWRpUS1rSDJ3RUpjZDdWWnJQay1QYW1RSEhhSTN2N1JtZlVXaUNjSlNWZGdUMkxERUdjajRjWVBjTFM3MDBPQlV4SWdjRlZTMFEtMnhKTEotbWFWQUFyMWpHS2JsdEdORENxNHR5UDRhWXRpa1QtUGpRNm16SGFZdTExSWZrQkZoeTFWMkJ1a1MxNXJXbld6QWJyNllYc3VzNm5wVnZwZnJMWnYzanF2LWtFSTRiR2VRNHhJcg?oc=5",
    "source": "アラブニュース",
@@ -580,6 +587,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-20T18:24+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "元国防総省高官は、NATOが「抑止力の危機」にあると述べる／「欧州からの米軍撤退は間違いだ」",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGdRb1hzWUlKaHRveXdZb0FiZGRmZloyTFRiSTZpUERpanVNQlZtb1ZNUlFKUEpJTXJuYVIwOGZ2U3laRzB5bGk5cmJhbmxhdUtibklwNG1NRlFCVm4wZ0J4VHJKWDd2LVlENVNsaW5hZk5oaFRsRDZmaGYxV2tDckNoamQwcElneTNOY25HZWZ1UzN5QTdLdkkzZDdmRlVLYVNGZmpmRWdjNmpMc0E?oc=5",
    "source": "Informat.ro",
@@ -598,20 +612,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-20T16:35+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "「会いたい」トランプ大統領、「待てる」金正恩総書記―米中露の平和宣言にない「北朝鮮」の文字（西岡省二） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRW5nOHhsbVJPcVlOM0k3OXBkYy1HbjlOakhOX3J4M0tYQXBkazBDeFNwYUlVd0hLTFNPVWN5TDRyRkdjWldwOF9jd0tsNkFLTWVKTWJEQVJVOEI3Zzkyd3ZZTTlTOEhERUZTVm8yc3E0OUFwRC04US1Lb3V1X2ZfNFA5ejhjSXRx?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T16:17+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（2）【中国問題グローバル研究所】",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ZXdBNUF4dTJhWkFWR1pBY3RQMGJUQko0MnV2aktxdzNmNnRLZFlBRnRSbmF2TzZUUTAzOHp2WEpMZ1drcll3cTgtdW81a2NSa0dYZDcxUjBpaWtOaEVVWUFUVFR1OFBVN014Y2ZiVmg?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-20T16:15+09:00",
    "topic": "中国・台湾"
   }
  ],
@@ -632,7 +632,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「封鎖」1件",
-    "中国・台湾：「侵攻」1件",
+    "中国・台湾：「攻撃」「封鎖」2件",
     "北朝鮮：「攻撃」1件",
     "ロシア：「攻撃」「報復」5件",
     "欧州・NATO：「攻撃」「軍事衝突」2件"
@@ -645,10 +645,10 @@
      "at": "2026-11-20T15:53+09:00"
     },
     {
-     "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
-     "source": "BigGo ファイナンス",
-     "at": "2026-11-20T16:35+09:00"
+     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T18:24+09:00"
     },
     {
      "title": "英軍、ロシア・中国・イラン・北朝鮮へのサイバー攻撃作戦を公式に認める",
