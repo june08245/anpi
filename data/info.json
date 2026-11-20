@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:45+09:00",
+ "updated": "2026-11-20T11:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T10:46:00+09:00",
+   "place": "和歌山県北部",
+   "mag": "2.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T10:40:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T04:04:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.7",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -114,22 +114,28 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "西側4カ国、ＩＡＥＡ理事会でイランに核査察の再開を要求",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXpTRGk4UnBabU9udUVDZEVQQTA2MTVNOGs0ajFKZjlqWUk0WUlVQW9FV2hHdHA1MWg1WGFzcEVGQ3BzelpSUUk5Y2ZfT0RoWUkyaGpkdndjWUVKRHFpMjA5eUE2NDY1NVFSWjJEVGVpby1GWmd0TW42ZEVydFBtbFFVY1NIOFU?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-20T10:42+09:00"
+    },
+    {
      "title": "トランプ氏、年内のイラン攻撃再開見送りを示唆　戦略練り直しか",
      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWV9PQlBmNm0wYks3Q1N0bUREVnpaOEFOMW1oQlh6OEpjakFfVG9DMnNDc3BQN0wzOWJtUUZjYWJoazl3X0hTSlF0c3NQTFlzdjUzcUxIc0tyVFVVSV9YRVZfLXFqT3lGOTFXMDB0WDkzelJsT0V6bEQzd2tUY2F3UGJZMVNkajJuSmZ6d2xhVTFJR05keGdybTN3dTBsQnVXaDVrNGY3WU5oaHVtLVRUS0ZyR3U5VWpyXzV4aExVS1BRX1BtZ0VESzBXUXczQjlZX1VGTDNWTjR1ektsdnRkMW14UW13T3PSAZcBQVVfeXFMTzRENnBsRllaOWxjQzRocFQ2V0s0MHlVRkpWTjlUQWZSUTBiU0xUREVMdFNHQ09WVkg0VDlhVmlnSTFNVS1RbVJtNVhYWG5ZZENmUUhEd1NGNDhsOXlhVmpsV3k5LUlZeE52RGFWYW96VmUzQXAwckJNQWd4VlN0UUh6RFBxeTdZOTBVYXhBem9EVnpiM3QxMA?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-20T10:15+09:00"
     },
     {
-     "title": "米国当局者がイランへの攻撃再開の理由を明らかにする",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjdadDRpQ3hzekJZcF9xaDIwSFFXU3JDdUNHWkZRWEpkT0E4a1YyTF9fSnVLRGRDRWtRVUFIS01DSEJyNURGVEdFTjJzQmxqMmd5QXdWVDFtUlNQZXdacUZoUGpkSXNWaFJReEhPVDd4TVRwNnRsYk51dzRsSEU2SWxmd2pseHNvNnNPdFBmX2pyVlFWTTloYzZEV1Q?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-20T08:00+09:00"
-    },
-    {
      "title": "トランプ氏、対イラン攻撃再開「年明け以降に動き見極める」 上院は攻撃制限決議案を否決（産経新聞）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95cEdsdVAtOTU4dF9jc0xKWFN2QlAyd2IxUFUwV2hqTEt4MzlpeXZod0FPaWVFck1Db3JabFhfNHktOF81cTZ0RjBOR1d1a29CWk01SnRoNnh3MFp5d2UyNUdKNjMzZnM3SnZEOTFSVklqazJQa0ZXZ1VnQUNGdTg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T07:44+09:00"
+    },
+    {
+     "title": "トランプ氏、イランへの攻撃再開巡る判断は来年に持ち越し 「急がず」 | ロイター",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmZEQzZ2d3poT3NJRk1zQ0x0N1hLcVlaYTA3RkZhM1FONEJuQ1hheG91REY5Mlg2ZFlsd3EwUDkxQ3RreElZWjBxdVJIWEYtYlczS0V5QmVmU2tJbzVvZ1RCT2RLUzJxeE05NkRvMFFNODJkSDgzemdMX29hWDJnVzdYd21CSEU?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-20T07:03+09:00"
     },
     {
      "title": "イスラエル情報機関トップ、米にイラン再攻撃を要請していた",
@@ -142,12 +148,6 @@
      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Vbncya0JtS3hjNTdON2RsZkFVUVZWNTBtUlNOalpfM2NHQlNWNUhyMldXVm5ZR2xXaG9QNXBrLVpyeEFOQkZCNQ?oc=5",
      "source": "みんかぶ FX/為替",
      "at": "2026-11-20T06:33+09:00"
-    },
-    {
-     "title": "トランプ氏 イランへの対応は年内に判断しない考え 大規模攻撃検討との報道も（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQWJJZGlFSEZqTUZaV0E5ME5POEZPbEIxQ3hROUdXdzEySWJtR1BRME12WWZEaGxWUTVmTHNlZTJWUFVkNzJTM2Y0WjM4YmxnWXYtWkdwUnItQmpyU2ZfdWFzQ0lYdzBhMjFTdFVTYkhYQWVINHlERDJWRk5OMk0?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T06:33+09:00"
     }
    ]
   },
@@ -155,6 +155,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "習氏 台湾問題で米大統領をけん制",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T07:24+09:00"
+    },
     {
      "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
@@ -184,12 +190,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WEFEUl9HOHFoWUtjb0dwRWZyYmpVYURJSGxBWkNJVTJpUnI2YkZacldNY21sb0h0N095c2RxSm41Q085emRXS3Nod3Y5amZWd1M1dUh0endKbVdPZ1JyUm1zZ3lLaVNDbTFwdHRGNV9NUk5UOVNkV1Nta2tRTXM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-19T16:55+09:00"
-    },
-    {
-     "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXfSAVRBVV95cUxNWTJhdFJDNTFvTENhaVZaV2k4MmJ4Yi11dnQzWC1zbnJBZEtVc3BoRnBxX0laTS04cHRWbi1aWXNzbGkxcmdZRTRydFdtV2tZRmF3S0I?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-19T16:35+09:00"
     }
    ]
   },
@@ -228,10 +228,10 @@
      "at": "2026-11-20T06:36+09:00"
     },
     {
-     "title": "李大統領「北朝鮮との対話の扉開かれ、平和議論を期待」",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXVnSXhWb1o5MGxPMkpZSWZQWmV3VGktTUZlc3htMTdUM3JsR084ZFJhQ2FTTkRiTkgxeVZTaGRFUE1pek5ZU1JJM1FEb1l1TkZBYTM5MTVNcDRLRlZpQXRET0l0MTVXZXc2UXFBZVBHT2JUUGlKUjcwSDhETjUwTDJBUTM5Z21zWFQ2NDJ3?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-20T00:52+09:00"
+     "title": "米朝首脳会談は実現するか？中露に高官を派遣「金正恩の思惑」",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSC1mZmlfQm9NVmJqc3Z2bDNHMUtMd2EzOWtRT1JTUW83TjBEUVgyOWF0Nl9kRXpVTVVTc0dsaWktZzRhTktjNldsd2ppZXp4NHVXb1hxbW4?oc=5",
+     "source": "現代ビジネス",
+     "at": "2026-11-20T00:06+09:00"
     }
    ]
   },
@@ -241,9 +241,9 @@
    "items": [
     {
      "title": "米中露首脳「平和宣言」もロシア軍がウクライナ首都キーウの各国大使館を攻撃 オーストリア首相「断じて容認できない」",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTlBHODZZcUlCRDRSb1FtV19WQjU5UjliS2tUNGliRWdEQVhselFReHNKcnlTTEtaWWkzRkZnNzF5a1V3VXctc3dmUGpaX2NWS1BFSVNxaTVnX1hkTmt4QjRUSU5Sd3RNc1owaTRfcVdhWTVQbERER0ZqNTNWSEU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T09:51+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsT3I2T1FUN3dYNWVFSlkyVXE4M1JzZ0ZrRHRxM09VTnVIR0hfc3pPNUNxZHJFT2lVU0M3Y1ZBRTE5RXhMbUg0OHZMTERubkVSamc1MzZFeDctNVVZUGtpSlg4SUwzdzh3U0wyZTNn?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-20T09:52+09:00"
     },
     {
      "title": "ロシア無人機攻撃で大使館損傷",
@@ -252,16 +252,10 @@
      "at": "2026-11-20T09:44+09:00"
     },
     {
-     "title": "ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ（共同通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93NlZwX3EtSUhBWUFNcXgzYzRHSlhfcmsycndZdmFMQ2laVzVYaTl5VXVUR3BKd25aS2hzc0tKWGtidXN1R09fNDM5MUZ6eTZ2czNmc195al8tLWV4VGRVVEZ4NVB0TnJZUnVfZ3RJS3B4TEpoNldsTUZJbERlUlE?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "【写真】ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwN05nRFEzNUIxRFlfclh4eTIxOUpHSkFJcU80akhRRWhjNlpIVlozdGlEcVF5ZGFPU2ZKeERNeGVkMzhUWHdyUl8xbHFYeGwxOGtXVjFHVk04bEJFQ2dYT1hjSlp1WXZF?oc=5",
+     "source": "南日本新聞",
      "at": "2026-11-20T09:40+09:00"
-    },
-    {
-     "title": "ロシアのプーチン大統領 クリミア橋攻撃受けウクライナに報復宣言",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nc1BaaFVEdUFScXFtZmQ3elQyOXZwTnZvR2w0WlhqV29oclJ4dmttdnJ1WFBvdmhxejFVbzdaLXMzMGd3eTNIUXhRb0hsdw?oc=5",
-     "source": "FNNプライムオンライン",
-     "at": "2026-11-20T08:51+09:00"
     },
     {
      "title": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」（ＡＦＰ＝時事）",
@@ -274,6 +268,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94R3ZXdDFtSjZqYzR6UFNjRm1laWJFNDJKZFgwLThvSzl4d0gyTnA2UnNGLWlZQ1hLSU9wdFZUanBvbE40c0d5VDFFTUJsaV9mSlBvWDdvSlhLcmxCWEZZcm0wb2l4VUJYYWIxamtrSkRUbnItbDFmVWxwaEwyOU0?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T08:16+09:00"
+    },
+    {
+     "title": "プーチン氏、黒海・エネルギー停戦否定 クリミア橋攻撃受け",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVTRNZUlGRnN3cU4xZXdDSUlDTGkwdXo5U29VNm1UYXIxaDJjQTRsd3pZcG9oZDhXblcwNVRsVTBKT2VrYWo0TUVMclA1S25IUlNWeVI2aDNBX05BblZ6VTZGNGoxdVFXQVVObnRHOWhKbWt6bG1DVjBRb09VQVBaMl9EWVpIUQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-20T08:09+09:00"
     }
    ]
   },
@@ -300,22 +300,22 @@
      "at": "2026-11-19T19:16+09:00"
     },
     {
+     "title": "エルブリッジ・コルビーは、ウクライナによるロシアへの攻撃を批判した後、NATOの会合を退出した",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3dQalZoOHlLZmJvQkVKdi1fenh6bi04Z1NwcDRQLWFiLTFqanFTd0FnSDlGa2E4MFRONy01NUQwZElESDZjeXFqWjR6VVhrLWpTZ29WM0swZS0yR0M1T0RSNTc4dlBpZG1xNTVwOGxEdU1aczRqX21xNXZRY0dKLVlOeWxoYzdoWXhCTUFjZG94TWFEa3NrYVlDWWtQUzBKV0w1V3RkSldoVVot?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-19T18:02+09:00"
+    },
+    {
      "title": "プーチン氏がトランプ氏を操る？対欧州破壊工作の実動部隊は",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
      "source": "TVer",
      "at": "2026-11-19T15:16+09:00"
     },
     {
-     "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sc290ekFBemRvNERCNWhiWmVSQkxfM3VNS0d2V0RGOW13am5mZ1N5dHRsMnFZX1NUZUlvbWhLQWxOZGpFcXcySFNQeXVURFNZcVE4cnN0bVJCeV9vdkFwUi1NZ3oyenZo?oc=5",
-     "source": "毎日新聞",
-     "at": "2026-11-19T13:00+09:00"
-    },
-    {
-     "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTh2UkxiOU1PV3lRcVV2T2Z1ZFJMZ0tyblQ0dlp6bk1UYlNIVkI1UGJmNS10NW9rZGNoWW9uc1hEZGVyTjlZeGo4QWFKQzM1U1NlRVBCb3RmS2hhdlk0aVM5X0hySEhGVGtXYVhLTGtjcVNKVjZjUTN2RXdETmVuODVWRzdGOVhvMVc5T2pDVDZicG1vbXptOA?oc=5",
-     "source": "Pasquale Pillitteri",
-     "at": "2026-11-19T07:09+09:00"
+     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-19T14:08+09:00"
     }
    ]
   }
@@ -376,6 +376,12 @@
  ],
  "cyber": [
   {
+   "title": "米NSAで大規模システム障害、職員の自宅待機が3日目に―中東情報拠点にも影響",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KUlBXVEV4SHp3STNPTmJQTENadkd1ZmVtcjZsNmVxSU9zNnd1YVpuenpTT2g1b1R3aktSaUhJVG93WTQxQi02VUNJbUNjYW1QRVdIT1NBWkt6QzhBLVVJbWhhONIBaEFVX3lxTE5JZUl3X3lwNkVtbThobjU2bi1iVzB2RzFKN1N0TF9UNTJzUmEzSlpjZ2hlNmVtX0hiN0pncWE0UUp1LXVNM2N0OGZCZUhVRFRCbGZrZjBvcE1rR01wbXJWOE5uNklWeDh4?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-20T10:49+09:00"
+  },
+  {
    "title": "米国家サイバー長官が退任へ、相次ぐシステム障害の中（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVUXZScmFEX25Hbjl2NUNQLTYwSFVqal9SRWlwcVRhQU9sSWpodlVONmRpdEtVQTJxbUQzUFliQUpldkRDb2xja29mOTUxMHNUM0hoYjZnN01GOVhTZkdpOUMzZGNya3cxYUpIQTNNd2lIVTBGQzNGNTVnSnVaN1k?oc=5",
    "source": "Yahoo!ニュース",
@@ -394,21 +400,21 @@
    "at": "2026-11-20T09:14+09:00"
   },
   {
-   "title": "Windows 11、11月のセキュリティ更新に不具合 Officeなどが起動できない場合も",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XNHVYaTV5WUQ3WmlwNjY3UVF3RnlqZHpTSGdNN2R2d3FqVmdYcGZYZDF4MEJOVUwyWWR1d1BXN2FJaGJfbG4zdW5FcXIxQ3NQcEY5R0lOS2xmVjEtWGZHZkxtX19FMVpSb3hFOE4zSnVDOWd6X0JGVmJ5SEcycnc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T07:30+09:00"
+   "title": "タイミーが５カ月ぶり安値、委託先への不正アクセスで求人事業者情報が漏えい(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0E5RllkTEN3c3lfblF4RF9UWjdTYVZTUHJWSC1JTDJSN2Q3TThIMlk5d01Rd1EzbWRTWDg1djgzbmIwR21qcFZjR3JyTHg5LU5yYlhyTzdwUEdHVURIb0V2NENxU1ZQRjVhczJHMWFaUXA3QkxScldsdl9xSm14eUNhTVgzcXc?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "at": "2026-11-20T10:47+09:00"
   },
   {
-   "title": "ユナイテッド航空、「広範なシステム障害」を報告した後に技術的な問題を修正したと発表",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3ZlRU9DZ0p5SVJiZlNJVmRqdHZTVmhzZktpcEZIR2ExSjBpM3JsU0FSQ19yZkFuSERwbXVyYUZ1aDBXQ0R0UWQzd0d3NUFGYUxvTWxCa3BPVDlJN0Y5T0duamZ2V2lQVkpKek5fTnJQSzVWVHhaRmpHMDR0SlNkWldtX2hiTElwX3lBbmlR?oc=5",
-   "source": "Business Insider Jap",
-   "at": "2026-11-20T07:00+09:00"
+   "title": "クリエイター向けプラットフォーム MOSH、92万8,617件が情報漏えい プレイド「KARTE」への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGdRdTFhaEZDYkN2UVZWV2t5bTVVNWx2cVdtWE00cFVJY3lJUS01Q2JJQVExbjFUb3hkQWdTaGloZzByV0tNN1dtMkdDR1pZSmNLRGVfYjJ5QXhELUgxek9UUkQ1U2hTUlRLOHlyZEZSR1J5bFlfVkprZlRXdEhzcXF1MTRtdFd3UkhISWlmMGNsWFd1aWxfczNmUGt2bXM?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-20T10:45+09:00"
   },
   {
    "title": "スカイチケット、不正アクセスでパスポート番号流出 15人分",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSlBHX1ctckdkeTlxb0RwdFJMMFBYNDZES1dMRTJuWk5tSUxZOUFBZ2lMQjJnbGRIQVJQTzFSZ2RycmRvcVNvQ29aQ1Z6N0lCeVE?oc=5",
-   "source": "CNET Japan",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tRHc1WFkwZFAycHFjS0NrRzdrb0Fib3lmZGRHUHNOSHhWSE9MWThkNVYwTEdXcWlIVXFqRDBDWXVHMDVieWVCeG44VGZkUkQ1dS1lMEVFTjdPMzREWEFJS3FJX2x0R0l0X3NnZmJsNndWc3gxbkhLTTl5c1I1WEE?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-20T10:40+09:00"
   },
   {
@@ -458,16 +464,17 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rOFFKOUFkMEZueG1nREZsbWoxRVJyYldKWmlBN0I0QkVnTkcwaUlxNUd0Y2pfblNtcFNhQkV6aHRLbUpnemtqQg?oc=5",
    "source": "株式会社アクト",
    "at": "2026-11-20T09:40+09:00"
-  },
-  {
-   "title": "「毎日新聞デジタル」会員約14万人分の姓などが漏えい ニュースアプリで使うプレイド「KARTE」への不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84MG45TUNxcWMxdFVRd2NUQTRiX2lCbkpMWnByczhmOHA3VTVfT2V3UGw3ZVYtbjFzLU5ic1hmb05sbVpsazFBRQ?oc=5",
-   "source": "株式会社アクト",
-   "at": "2026-11-20T09:40+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "西側4カ国、ＩＡＥＡ理事会でイランに核査察の再開を要求",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXpTRGk4UnBabU9udUVDZEVQQTA2MTVNOGs0ajFKZjlqWUk0WUlVQW9FV2hHdHA1MWg1WGFzcEVGQ3BzelpSUUk5Y2ZfT0RoWUkyaGpkdndjWUVKRHFpMjA5eUE2NDY1NVFSWjJEVGVpby1GWmd0TW42ZEVydFBtbFFVY1NIOFU?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-20T10:42+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "トランプ氏、金正恩氏との会談不発に「会議が多かった、いつかは会うだろう」（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Tm9KME8xZFp0UWFNSGdrZ011aDExVVdBMHRjMlJYaHRQemNwZzR1RFJOLUxCUnUyTml5Zzk5cm80SVMtRVJqYkduZmM0UUV6OW5pTk9SbldYM3k5ZjdiaXNUdFFMc05CY01VWlR5Q1BSMkMtN3NlbWFoVGhLSDQ?oc=5",
@@ -491,9 +498,9 @@
   },
   {
    "title": "米中露首脳「平和宣言」もロシア軍がウクライナ首都キーウの各国大使館を攻撃 オーストリア首相「断じて容認できない」",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTlBHODZZcUlCRDRSb1FtV19WQjU5UjliS2tUNGliRWdEQVhselFReHNKcnlTTEtaWWkzRkZnNzF5a1V3VXctc3dmUGpaX2NWS1BFSVNxaTVnX1hkTmt4QjRUSU5Sd3RNc1owaTRfcVdhWTVQbERER0ZqNTNWSEU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T09:51+09:00",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsT3I2T1FUN3dYNWVFSlkyVXE4M1JzZ0ZrRHRxM09VTnVIR0hfc3pPNUNxZHJFT2lVU0M3Y1ZBRTE5RXhMbUg0OHZMTERubkVSamc1MzZFeDctNVVZUGtpSlg4SUwzdzh3U0wyZTNn?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-20T09:52+09:00",
    "topic": "ロシア"
   },
   {
@@ -504,9 +511,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93NlZwX3EtSUhBWUFNcXgzYzRHSlhfcmsycndZdmFMQ2laVzVYaTl5VXVUR3BKd25aS2hzc0tKWGtidXN1R09fNDM5MUZ6eTZ2czNmc195al8tLWV4VGRVVEZ4NVB0TnJZUnVfZ3RJS3B4TEpoNldsTUZJbERlUlE?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "【写真】ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwN05nRFEzNUIxRFlfclh4eTIxOUpHSkFJcU80akhRRWhjNlpIVlozdGlEcVF5ZGFPU2ZKeERNeGVkMzhUWHdyUl8xbHFYeGwxOGtXVjFHVk04bEJFQ2dYT1hjSlp1WXZF?oc=5",
+   "source": "南日本新聞",
    "at": "2026-11-20T09:40+09:00",
    "topic": "ロシア"
   },
@@ -516,13 +523,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T08:55+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "ロシアのプーチン大統領 クリミア橋攻撃受けウクライナに報復宣言",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nc1BaaFVEdUFScXFtZmQ3elQyOXZwTnZvR2w0WlhqV29oclJ4dmttdnJ1WFBvdmhxejFVbzdaLXMzMGd3eTNIUXhRb0hsdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-20T08:51+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」（ＡＦＰ＝時事）",
@@ -539,11 +539,11 @@
    "topic": "ロシア"
   },
   {
-   "title": "米国当局者がイランへの攻撃再開の理由を明らかにする",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjdadDRpQ3hzekJZcF9xaDIwSFFXU3JDdUNHWkZRWEpkT0E4a1YyTF9fSnVLRGRDRWtRVUFIS01DSEJyNURGVEdFTjJzQmxqMmd5QXdWVDFtUlNQZXdacUZoUGpkSXNWaFJReEhPVDd4TVRwNnRsYk51dzRsSEU2SWxmd2pseHNvNnNPdFBmX2pyVlFWTTloYzZEV1Q?oc=5",
-   "source": "Laodong.vn",
-   "at": "2026-11-20T08:00+09:00",
-   "topic": "イラン・アメリカ"
+   "title": "プーチン氏、黒海・エネルギー停戦否定 クリミア橋攻撃受け",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVTRNZUlGRnN3cU4xZXdDSUlDTGkwdXo5U29VNm1UYXIxaDJjQTRsd3pZcG9oZDhXblcwNVRsVTBKT2VrYWo0TUVMclA1S25IUlNWeVI2aDNBX05BblZ6VTZGNGoxdVFXQVVObnRHOWhKbWt6bG1DVjBRb09VQVBaMl9EWVpIUQ?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-20T08:09+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "トランプ氏、対イラン攻撃再開「年明け以降に動き見極める」 上院は攻撃制限決議案を否決（産経新聞）",
@@ -567,11 +567,25 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "習氏 台湾問題で米大統領をけん制",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T07:24+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
    "source": "조선일보",
    "at": "2026-11-20T07:06+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "トランプ氏、イランへの攻撃再開巡る判断は来年に持ち越し 「急がず」 | ロイター",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmZEQzZ2d3poT3NJRk1zQ0x0N1hLcVlaYTA3RkZhM1FONEJuQ1hheG91REY5Mlg2ZFlsd3EwUDkxQ3RreElZWjBxdVJIWEYtYlczS0V5QmVmU2tJbzVvZ1RCT2RLUzJxeE05NkRvMFFNODJkSDgzemdMX29hWDJnVzdYd21CSEU?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-20T07:03+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "イスラエル情報機関トップ、米にイラン再攻撃を要請していた",
@@ -593,20 +607,6 @@
    "source": "みんかぶ FX/為替",
    "at": "2026-11-20T06:33+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "トランプ氏 イランへの対応は年内に判断しない考え 大規模攻撃検討との報道も（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQWJJZGlFSEZqTUZaV0E5ME5POEZPbEIxQ3hROUdXdzEySWJtR1BRME12WWZEaGxWUTVmTHNlZTJWUFVkNzJTM2Y0WjM4YmxnWXYtWkdwUnItQmpyU2ZfdWFzQ0lYdzBhMjFTdFVTYkhYQWVINHlERDJWRk5OMk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T06:33+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "李大統領「北朝鮮との対話の扉開かれ、平和議論を期待」",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXVnSXhWb1o5MGxPMkpZSWZQWmV3VGktTUZlc3htMTdUM3JsR084ZFJhQ2FTTkRiTkgxeVZTaGRFUE1pek5ZU1JJM1FEb1l1TkZBYTM5MTVNcDRLRlZpQXRET0l0MTVXZXc2UXFBZVBHT2JUUGlKUjcwSDhETjUwTDJBUTM5Z21zWFQ2NDJ3?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-20T00:52+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -625,10 +625,10 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」6件",
+    "イラン・アメリカ：「攻撃」「封鎖」5件",
     "中国・台湾：「爆撃」3件",
     "ロシア：「攻撃」「報復」5件",
-    "欧州・NATO：「攻撃」「侵攻」4件"
+    "欧州・NATO：「攻撃」「破壊工作」5件"
    ],
    "items": [
     {
@@ -645,9 +645,9 @@
     },
     {
      "title": "米中露首脳「平和宣言」もロシア軍がウクライナ首都キーウの各国大使館を攻撃 オーストリア首相「断じて容認できない」",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTlBHODZZcUlCRDRSb1FtV19WQjU5UjliS2tUNGliRWdEQVhselFReHNKcnlTTEtaWWkzRkZnNzF5a1V3VXctc3dmUGpaX2NWS1BFSVNxaTVnX1hkTmt4QjRUSU5Sd3RNc1owaTRfcVdhWTVQbERER0ZqNTNWSEU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T09:51+09:00"
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsT3I2T1FUN3dYNWVFSlkyVXE4M1JzZ0ZrRHRxM09VTnVIR0hfc3pPNUNxZHJFT2lVU0M3Y1ZBRTE5RXhMbUg0OHZMTERubkVSamc1MzZFeDctNVVZUGtpSlg4SUwzdzh3U0wyZTNn?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-20T09:52+09:00"
     }
    ]
   }
