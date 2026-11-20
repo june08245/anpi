@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:00+09:00",
+ "updated": "2026-11-20T11:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -156,12 +156,6 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "習氏 台湾問題で米大統領をけん制",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T07:24+09:00"
-    },
-    {
      "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
      "source": "조선일보",
@@ -190,6 +184,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WEFEUl9HOHFoWUtjb0dwRWZyYmpVYURJSGxBWkNJVTJpUnI2YkZacldNY21sb0h0N095c2RxSm41Q085emRXS3Nod3Y5amZWd1M1dUh0endKbVdPZ1JyUm1zZ3lLaVNDbTFwdHRGNV9NUk5UOVNkV1Nta2tRTXM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-19T16:55+09:00"
+    },
+    {
+     "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXfSAVRBVV95cUxNWTJhdFJDNTFvTENhaVZaV2k4MmJ4Yi11dnQzWC1zbnJBZEtVc3BoRnBxX0laTS04cHRWbi1aWXNzbGkxcmdZRTRydFdtV2tZRmF3S0I?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-19T16:35+09:00"
     }
    ]
   },
@@ -241,9 +241,9 @@
    "items": [
     {
      "title": "米中露首脳「平和宣言」もロシア軍がウクライナ首都キーウの各国大使館を攻撃 オーストリア首相「断じて容認できない」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsT3I2T1FUN3dYNWVFSlkyVXE4M1JzZ0ZrRHRxM09VTnVIR0hfc3pPNUNxZHJFT2lVU0M3Y1ZBRTE5RXhMbUg0OHZMTERubkVSamc1MzZFeDctNVVZUGtpSlg4SUwzdzh3U0wyZTNn?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-20T09:52+09:00"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTlBHODZZcUlCRDRSb1FtV19WQjU5UjliS2tUNGliRWdEQVhselFReHNKcnlTTEtaWWkzRkZnNzF5a1V3VXctc3dmUGpaX2NWS1BFSVNxaTVnX1hkTmt4QjRUSU5Sd3RNc1owaTRfcVdhWTVQbERER0ZqNTNWSEU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T09:51+09:00"
     },
     {
      "title": "ロシア無人機攻撃で大使館損傷",
@@ -252,10 +252,16 @@
      "at": "2026-11-20T09:44+09:00"
     },
     {
-     "title": "【写真】ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwN05nRFEzNUIxRFlfclh4eTIxOUpHSkFJcU80akhRRWhjNlpIVlozdGlEcVF5ZGFPU2ZKeERNeGVkMzhUWHdyUl8xbHFYeGwxOGtXVjFHVk04bEJFQ2dYT1hjSlp1WXZF?oc=5",
-     "source": "南日本新聞",
+     "title": "ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93NlZwX3EtSUhBWUFNcXgzYzRHSlhfcmsycndZdmFMQ2laVzVYaTl5VXVUR3BKd25aS2hzc0tKWGtidXN1R09fNDM5MUZ6eTZ2czNmc195al8tLWV4VGRVVEZ4NVB0TnJZUnVfZ3RJS3B4TEpoNldsTUZJbERlUlE?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-20T09:40+09:00"
+    },
+    {
+     "title": "ロシアのプーチン大統領 クリミア橋攻撃受けウクライナに報復宣言",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nc1BaaFVEdUFScXFtZmQ3elQyOXZwTnZvR2w0WlhqV29oclJ4dmttdnJ1WFBvdmhxejFVbzdaLXMzMGd3eTNIUXhRb0hsdw?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-20T08:51+09:00"
     },
     {
      "title": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」（ＡＦＰ＝時事）",
@@ -268,12 +274,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94R3ZXdDFtSjZqYzR6UFNjRm1laWJFNDJKZFgwLThvSzl4d0gyTnA2UnNGLWlZQ1hLSU9wdFZUanBvbE40c0d5VDFFTUJsaV9mSlBvWDdvSlhLcmxCWEZZcm0wb2l4VUJYYWIxamtrSkRUbnItbDFmVWxwaEwyOU0?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T08:16+09:00"
-    },
-    {
-     "title": "プーチン氏、黒海・エネルギー停戦否定 クリミア橋攻撃受け",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVTRNZUlGRnN3cU4xZXdDSUlDTGkwdXo5U29VNm1UYXIxaDJjQTRsd3pZcG9oZDhXblcwNVRsVTBKT2VrYWo0TUVMclA1S25IUlNWeVI2aDNBX05BblZ6VTZGNGoxdVFXQVVObnRHOWhKbWt6bG1DVjBRb09VQVBaMl9EWVpIUQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-20T08:09+09:00"
     }
    ]
   },
@@ -300,22 +300,22 @@
      "at": "2026-11-19T19:16+09:00"
     },
     {
-     "title": "エルブリッジ・コルビーは、ウクライナによるロシアへの攻撃を批判した後、NATOの会合を退出した",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3dQalZoOHlLZmJvQkVKdi1fenh6bi04Z1NwcDRQLWFiLTFqanFTd0FnSDlGa2E4MFRONy01NUQwZElESDZjeXFqWjR6VVhrLWpTZ29WM0swZS0yR0M1T0RSNTc4dlBpZG1xNTVwOGxEdU1aczRqX21xNXZRY0dKLVlOeWxoYzdoWXhCTUFjZG94TWFEa3NrYVlDWWtQUzBKV0w1V3RkSldoVVot?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-19T18:02+09:00"
-    },
-    {
      "title": "プーチン氏がトランプ氏を操る？対欧州破壊工作の実動部隊は",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
      "source": "TVer",
      "at": "2026-11-19T15:16+09:00"
     },
     {
-     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-19T14:08+09:00"
+     "title": "ウクライナ侵攻：頭越しの米中露首脳会談に警戒強める欧州 影響力低下への懸念も",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sc290ekFBemRvNERCNWhiWmVSQkxfM3VNS0d2V0RGOW13am5mZ1N5dHRsMnFZX1NUZUlvbWhLQWxOZGpFcXcySFNQeXVURFNZcVE4cnN0bVJCeV9vdkFwUi1NZ3oyenZo?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-19T13:00+09:00"
+    },
+    {
+     "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTh2UkxiOU1PV3lRcVV2T2Z1ZFJMZ0tyblQ0dlp6bk1UYlNIVkI1UGJmNS10NW9rZGNoWW9uc1hEZGVyTjlZeGo4QWFKQzM1U1NlRVBCb3RmS2hhdlk0aVM5X0hySEhGVGtXYVhLTGtjcVNKVjZjUTN2RXdETmVuODVWRzdGOVhvMVc5T2pDVDZicG1vbXptOA?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-19T07:09+09:00"
     }
    ]
   }
@@ -382,6 +382,12 @@
    "at": "2026-11-20T10:49+09:00"
   },
   {
+   "title": "「終末への備え」広がる、米消費者の買いだめ急増－相次ぐシステム障害で不安拡大",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVVFR0JGSGo0NHlaT010eV93NVkweklDRFkyMm80cnkxUkIwNWdxeTJPb3RtRmRZVFZncy1teHB0R2J6OWQwZ2JOdFhKSnJVa2hXUkVmOGFQdGRDekVmWnBvMVQ2Zm53c1RoRDVXMnNESlVxeG04azkxZUFMUVZYY3FId2hNaVU?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-20T10:06+09:00"
+  },
+  {
    "title": "米国家サイバー長官が退任へ、相次ぐシステム障害の中（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVUXZScmFEX25Hbjl2NUNQLTYwSFVqal9SRWlwcVRhQU9sSWpodlVONmRpdEtVQTJxbUQzUFliQUpldkRDb2xja29mOTUxMHNUM0hoYjZnN01GOVhTZkdpOUMzZGNya3cxYUpIQTNNd2lIVTBGQzNGNTVnSnVaN1k?oc=5",
    "source": "Yahoo!ニュース",
@@ -398,6 +404,24 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hVlV3b3dhMkxaSTlVajNNMHZzMWZ3LXcyeFJuSFlWUjJRdXo1Q0xWWHNhYm5GOTk4N1hKYm1ENkV1eWRjbmcxMVQ0c0IxZw?oc=5",
    "source": "DXマガジン",
    "at": "2026-11-20T09:14+09:00"
+  },
+  {
+   "title": "Windows 11、11月のセキュリティ更新に不具合 Officeなどが起動できない場合も",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOUhfbTJPT19GV21Pa2ZkUGIxMWk1SkdSVlZWcVJ0aHFTalNsWnl1N2JmVUtPNGFfV2pya01tc2lwQlhia3JFV1dVNWVtX0gwSWc?oc=5",
+   "source": "CNET Japan",
+   "at": "2026-11-20T07:30+09:00"
+  },
+  {
+   "title": "Keeper Security、サイバー攻撃を受けている組織向け緊急対応サービスを提供開始",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RRjdWZ1dCQXhndWw4dHpBWi10dV9uYzlHTHhuaWhfSTk0Y003UDl2d1Y4dDdnY0UzY2NfbVNBSFlBVklwbUdDSUE1dHQ4bDRqa2QxYm1FSGtXN3MzOGJGS1pPeGg5SWh6UFE?oc=5",
+   "source": "PR TIMES",
+   "at": "2026-11-20T11:00+09:00"
+  },
+  {
+   "title": "インバウンドは好調だが…物価高とサイバー攻撃で消費は“失速”するばかり（中西文行）",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wbS1jYkJMSFJnTVdpeU1xa1hrNGxzUVU5ZnRNdE9lTWRyWmFqQ2NNYzBUbHkwZ2JhdE5QVmM0dTlTSE1kdi1Sd2c4bXpnRkNSZ1JvTi1MZjlaTzh6VU5mMEdyS2I?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-20T10:55+09:00"
   },
   {
    "title": "タイミーが５カ月ぶり安値、委託先への不正アクセスで求人事業者情報が漏えい(ウエルスアドバイザー)",
@@ -440,30 +464,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSmx2QTRRNEhMOGpCTzgybHgwdEF0RzJMX1c0VGhLWVRmMkNVdFJHQVFNMWlQbncteHFTRVRQc0xyNG1kWFVQak11TUprWTB6MlpmaU9YWjJiZHlwNDNUSjNxWmlDamNCSzBaWEthQlVDcWZuakpmbWpyZ1dRQjRlSWhCWWpSVms?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-20T10:15+09:00"
-  },
-  {
-   "title": "欧州委員会にAI悪用のサイバー攻撃、職員の個人データ流出か",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0xaEl5VWdnaFJ5aEhZYkFobGNRR0dWUnFDV0VUTVB5dG16Q2JEai1hTkxuWDRvTng3dkZtOEM2OTNyRlU?oc=5",
-   "source": "NEXTMONEY",
-   "at": "2026-11-20T10:05+09:00"
-  },
-  {
-   "title": "アジャイルウェア、不正アクセスで個人情報漏洩の恐れ 2021年以前のバックアップデータが外部流出",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYlNFV29yYmJMYXJ5czRweVpQbGtCSHRlNzBveVFLcGFpSER1Tk5hdEhtVzBNQjlZNmlKX3VKOFhBT2lRNGdOSUhDd19VMjV4Q0lPM3BzUlVESGF1WGplTkt5Qlh2Y0x0RXZHWElpRlgwU21RVlhId3l5TW9PWk5YSWZHSktETVhtdWUzeF8xQmtJTVJ4UTVjN180OU9BNER3alQwaFVPelRpNTVaOEhLcl9R?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-20T10:00+09:00"
-  },
-  {
-   "title": "サイバー攻撃の最新動向と対策を共有。「Security × Engineering Conference」スポンサー募集開始！",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55ZGtoNHJURWZZbUw3VThoZlRfaExzMzFGWWNIRDZwUUlMdmlYbFdnS1lZVnJqenVob2loenpQUWVaWFBpS1p0SEF5bElTQ3NWeUlXaGhiQlVQSjBOLUY4VUxzM3NFbGxHbVE?oc=5",
-   "source": "PR TIMES",
-   "at": "2026-11-20T10:00+09:00"
-  },
-  {
-   "title": "タイミー、KARTE不正アクセスで求人事業者の情報最大22.6万人分が漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rOFFKOUFkMEZueG1nREZsbWoxRVJyYldKWmlBN0I0QkVnTkcwaUlxNUd0Y2pfblNtcFNhQkV6aHRLbUpnemtqQg?oc=5",
-   "source": "株式会社アクト",
-   "at": "2026-11-20T09:40+09:00"
   }
  ],
  "osaka": [],
@@ -498,9 +498,9 @@
   },
   {
    "title": "米中露首脳「平和宣言」もロシア軍がウクライナ首都キーウの各国大使館を攻撃 オーストリア首相「断じて容認できない」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsT3I2T1FUN3dYNWVFSlkyVXE4M1JzZ0ZrRHRxM09VTnVIR0hfc3pPNUNxZHJFT2lVU0M3Y1ZBRTE5RXhMbUg0OHZMTERubkVSamc1MzZFeDctNVVZUGtpSlg4SUwzdzh3U0wyZTNn?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-20T09:52+09:00",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTlBHODZZcUlCRDRSb1FtV19WQjU5UjliS2tUNGliRWdEQVhselFReHNKcnlTTEtaWWkzRkZnNzF5a1V3VXctc3dmUGpaX2NWS1BFSVNxaTVnX1hkTmt4QjRUSU5Sd3RNc1owaTRfcVdhWTVQbERER0ZqNTNWSEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T09:51+09:00",
    "topic": "ロシア"
   },
   {
@@ -511,9 +511,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "【写真】ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwN05nRFEzNUIxRFlfclh4eTIxOUpHSkFJcU80akhRRWhjNlpIVlozdGlEcVF5ZGFPU2ZKeERNeGVkMzhUWHdyUl8xbHFYeGwxOGtXVjFHVk04bEJFQ2dYT1hjSlp1WXZF?oc=5",
-   "source": "南日本新聞",
+   "title": "ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93NlZwX3EtSUhBWUFNcXgzYzRHSlhfcmsycndZdmFMQ2laVzVYaTl5VXVUR3BKd25aS2hzc0tKWGtidXN1R09fNDM5MUZ6eTZ2czNmc195al8tLWV4VGRVVEZ4NVB0TnJZUnVfZ3RJS3B4TEpoNldsTUZJbERlUlE?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-20T09:40+09:00",
    "topic": "ロシア"
   },
@@ -523,6 +523,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T08:55+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシアのプーチン大統領 クリミア橋攻撃受けウクライナに報復宣言",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nc1BaaFVEdUFScXFtZmQ3elQyOXZwTnZvR2w0WlhqV29oclJ4dmttdnJ1WFBvdmhxejFVbzdaLXMzMGd3eTNIUXhRb0hsdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-20T08:51+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」（ＡＦＰ＝時事）",
@@ -536,13 +543,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94R3ZXdDFtSjZqYzR6UFNjRm1laWJFNDJKZFgwLThvSzl4d0gyTnA2UnNGLWlZQ1hLSU9wdFZUanBvbE40c0d5VDFFTUJsaV9mSlBvWDdvSlhLcmxCWEZZcm0wb2l4VUJYYWIxamtrSkRUbnItbDFmVWxwaEwyOU0?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T08:16+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "プーチン氏、黒海・エネルギー停戦否定 クリミア橋攻撃受け",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVTRNZUlGRnN3cU4xZXdDSUlDTGkwdXo5U29VNm1UYXIxaDJjQTRsd3pZcG9oZDhXblcwNVRsVTBKT2VrYWo0TUVMclA1S25IUlNWeVI2aDNBX05BblZ6VTZGNGoxdVFXQVVObnRHOWhKbWt6bG1DVjBRb09VQVBaMl9EWVpIUQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-20T08:09+09:00",
    "topic": "ロシア"
   },
   {
@@ -565,13 +565,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T07:35+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "習氏 台湾問題で米大統領をけん制",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T07:24+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
@@ -607,6 +600,13 @@
    "source": "みんかぶ FX/為替",
    "at": "2026-11-20T06:33+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米朝首脳会談は実現するか？中露に高官を派遣「金正恩の思惑」",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSC1mZmlfQm9NVmJqc3Z2bDNHMUtMd2EzOWtRT1JTUW83TjBEUVgyOWF0Nl9kRXpVTVVTc0dsaWktZzRhTktjNldsd2ppZXp4NHVXb1hxbW4?oc=5",
+   "source": "現代ビジネス",
+   "at": "2026-11-20T00:06+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -628,7 +628,7 @@
     "イラン・アメリカ：「攻撃」「封鎖」5件",
     "中国・台湾：「爆撃」3件",
     "ロシア：「攻撃」「報復」5件",
-    "欧州・NATO：「攻撃」「破壊工作」5件"
+    "欧州・NATO：「攻撃」「侵攻」4件"
    ],
    "items": [
     {
@@ -645,9 +645,9 @@
     },
     {
      "title": "米中露首脳「平和宣言」もロシア軍がウクライナ首都キーウの各国大使館を攻撃 オーストリア首相「断じて容認できない」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsT3I2T1FUN3dYNWVFSlkyVXE4M1JzZ0ZrRHRxM09VTnVIR0hfc3pPNUNxZHJFT2lVU0M3Y1ZBRTE5RXhMbUg0OHZMTERubkVSamc1MzZFeDctNVVZUGtpSlg4SUwzdzh3U0wyZTNn?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-20T09:52+09:00"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTlBHODZZcUlCRDRSb1FtV19WQjU5UjliS2tUNGliRWdEQVhselFReHNKcnlTTEtaWWkzRkZnNzF5a1V3VXctc3dmUGpaX2NWS1BFSVNxaTVnX1hkTmt4QjRUSU5Sd3RNc1owaTRfcVdhWTVQbERER0ZqNTNWSEU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T09:51+09:00"
     }
    ]
   }
