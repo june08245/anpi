@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:30+09:00",
+ "updated": "2026-11-20T17:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -162,10 +162,16 @@
      "at": "2026-11-20T15:42+09:00"
     },
     {
-     "title": "米議会「中国軍、NVIDIAの先端チップ確保へ輸出規制を回避」 : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hUm9WcVdGZEtVSE5YVFplTjFvc21IMjNZQWpXSUhCLWkwVDlSbEpxWlFqTk4wTFRzYS1mbUs2aExMLUY2T19RWnFPel9ZY09tTVNpQlNNZjhxdjR3ekpKRWpTWQ?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-20T10:15+09:00"
+     "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調 – Quebee キュエビー",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdTlXdUxfNk1zUnl1Vk90NlhjRW5lUDJNZlRnVmRYWWpQYUtWbzNhdTdRTWYzM19GYmlyYTBLX1NBMTBCY05GaE9DTV9UakNuZ3ZSOUFnd0g?oc=5",
+     "source": "QAB 琉球朝日放送",
+     "at": "2026-11-20T15:15+09:00"
+    },
+    {
+     "title": "米、中国軍企業への輸出承認 ＡＩ半導体、今年５月時点",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1cU5yX0Q3ZjR0Si1wOXlKeWtpdEljczdVWDAtd3RWbHptUF9uejZxYzRiMEticGFaSlNIaWJmR2hyYTdWcnRrXzRHYmVURkRZVlAwMXZnT01sSEstZnd0WHVGSFhKYVk?oc=5",
+     "source": "中日新聞Web",
+     "at": "2026-11-20T09:36+09:00"
     },
     {
      "title": "習氏 台湾問題で米大統領をけん制",
@@ -178,12 +184,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
      "source": "조선일보",
      "at": "2026-11-20T07:06+09:00"
-    },
-    {
-     "title": "米中首脳会談、両国の「安定」へ行動計画策定で合意…習氏は台湾問題に関与しないよう求めたか（読売新聞オンライン）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdmZIMWRhendlOUJoWVdVN1diN3J1WXpjOVROR3gxSGlRV1p6V21OMms3dWxITXBuNEFSMXZTSWJXQTJCV1NEdDZCUlJYdHNtX3daMEtKbE1VVEZqRlA3WmtSTWd0eEpRQjZ3TVVmRHhpTFVMLVpQdlBkS3VaTlE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T22:55+09:00"
     }
    ]
   },
@@ -234,8 +234,20 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍、ウクライナの船舶やエネ・輸送インフラを攻撃",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZm1XVC1EVXFWekNFSlpRbExDSDVfNXByUEZyTmJka2Y2TERlaEFucExrdVF4UllRQnJmYjNLZ3lINVhFUjA4YWpaLXFQMWJxeUN3MEJJMURNeU5mbkpmZmVWRFpIbGd5azNhZG5fcGNwa0lFekpHb2UwNm53Z1lPSTNScFY0dw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-20T17:31+09:00"
+    },
+    {
+     "title": "ウクライナ首都で橋損傷 ロシアが弾道ミサイル攻撃",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zMlJ3NzNRQWVkbmZKXzJpZ1JCUVRuLXgzME9ZM3VkVk9WMldORmJ6RUlqTURaR2hhWmctSHBnLVpMdHl2STR6dFQ4Rm5RaWFWdmgxanBCTy1ETEJzbkNGM2pRMDkyZnQ3MEZFNQ?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-20T17:28+09:00"
+    },
+    {
      "title": "ヘンリー王子、必要ならロシアと戦うため軍に復帰する用意 英メディアに発言",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vVkt3SXFUVHRPSm5DUDEzeER4Qk9YOHBQZTN4X2RJVHUwb2R2d1Z4UjNaS213TVNZRDlwRnc4bHpOQUlyUTk0MExYR1ByVnhYY1ozZ3BKTUVSLUFITWc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YUVHUjlPeGZiWldEUzR5SkJIVlZSX2Q5MXc2NGcyblY4bDJzUWE5UDZKTk9QQUYwdzNpTTY0RHhSTTFNT0lmVHRWZ1VjRWVHTEFN?oc=5",
      "source": "CNN",
      "at": "2026-11-20T17:22+09:00"
     },
@@ -247,8 +259,8 @@
     },
     {
      "title": "ウクライナへ大規模攻撃、プーチン氏が「痛烈な」報復表明後",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdzNBQ19KVjh0a21JamQySThZVXNjaTQ1LTlocVhKY2hMV3liVlFUT0t1NkpZakdQMVUtZC1xX0Y3TmJYamc1U204NUppUUFfQWZ4YmdoRk5oUW1YNjRV0gFkQVVfeXFMUDBhWkZsWkxMTGVtU2hkZmxTbF9QUFlmQy1OZS1yTWJ1UE1aWWk3Q1k5anMwMi0xUDNZeWxNdHhMbGlNS2p1UDBqdUt6SXJFV2Qtd2FEczRNSmRzeUpQeG05WUJCUg?oc=5",
-     "source": "Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UbnM4VnQ4WGdqTUY0SEJzdWEzY0s1bkwzU0U1SmRRaDhISWZtNHZIWXBuUi0tMWhHLWlhSGxuaExHRm9Rb0lFMUJLSExmTUlvMVHSAVRBVV95cUxPU01LM09vR09sN0lYVEtSZThKZ3ZjbFFPalZJX0ctLWhzejRSMTBCRF92ckJDZmp0WThNNWFQc1BFTXVYZlg5Vmw2SldnUnNIeXRKcTU?oc=5",
+     "source": "AFPBB News",
      "at": "2026-11-20T16:59+09:00"
     },
     {
@@ -256,18 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYjZVUXlib0NadjVETk5xSDFrbkk2THZVdV80bE9SZEZJcG9MYV9tRnBpWUZuQW5Wek9aVlFodHhJZFlLX1A5N0xuRVlPaWpHRFk4MHhtcGdRaVlIX0tudHI0WFFicUlNR2xHZmJCaEVBQVZDcEYtTW5Xa01fOFQ1OFppdFFVTlBzczk2OVpscmFvSWRhbmlsUEpWZDVkWFQyRi1IQ3YxZlpjYzVndDZDOHJWLU94enVfbWR6aUIzTTJ0NUdWdFcyWUxfX1JmcHlHVzRjX0FjdzdSTG45WnRweUNTTHpJaXhUT242SEJFLXZUcEpRcEFqZNIB_gFBVV95cUxQeW5EcTZ5enowTGNpbnFKVWRIS1huU1huMy1VQUczc0VFSmU1UGJ0OU82bXJsY1RVQUdwYUdDTDZYSmV5aF9mS3hyemhRWWhuNzBEMm5XeG5GTzdVZlZmd2JKMTFndFB5VHdTMGFWZVVqbnFEdmVqMzlxbWwwNnN1MVd6cTExcVJYbHRNX1h5bmZyOC1XSTJFRS1XZDJXVi1LOTFQRW01NzVwbUhwTzJFLTNhQzI3VlJ1cVRCekI1OVpzdkpwVVc4YjYtTHdyUWVnZU8waEhlamlDTVdoc3VaYzBFbDg0LVRJaWVOOFU2OFUtS2lETG8zeW9SY0UyUQ?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-20T16:46+09:00"
-    },
-    {
-     "title": "【速報】ロシアの攻撃でウクライナ首都の橋3本損傷",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VcDcwd08yQWl4TVRzcl9TUTl1SW1PdXg4T2RKMFYzQXljVHhmS0tfVGhYSko0V1BWWFJ3NWpVWDh5S21uQTF1YnR4TQ?oc=5",
-     "source": "47NEWS",
-     "at": "2026-11-20T16:28+09:00"
-    },
-    {
-     "title": "ロシア攻撃で外国大使館被害 窓吹き飛ぶ ウクライナ首都（時事通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42NjBBenp1b21ZQU9qRmlhcGFBX004WU85R01OYlVtLWY0VVN0TEJXdjMxTndDczlaN084ODF6M05CRDdOLWpWeDhVODVmQXhqSGV4M0RwdTFmWjBLNkoxUE16T19KaDFySGx5bU9UVWx1RVRYQzl3d3RqM29zQ1E?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T15:28+09:00"
     }
    ]
   },
@@ -362,6 +362,12 @@
  ],
  "japan": [
   {
+   "title": "ウクライナ首都で橋損傷 ロシアが弾道ミサイル攻撃",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zMlJ3NzNRQWVkbmZKXzJpZ1JCUVRuLXgzME9ZM3VkVk9WMldORmJ6RUlqTURaR2hhWmctSHBnLVpMdHl2STR6dFQ4Rm5RaWFWdmgxanBCTy1ETEJzbkNGM2pRMDkyZnQ3MEZFNQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-20T17:28+09:00"
+  },
+  {
    "title": "弾道ミサイル攻撃でポディルスコ・ヴォスクレセンスキー橋とダルニツキー橋が損傷",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2NoN3ZTRUJaQ3R5Y3h5RHRGUWVtbjdERHZsV3RMX2Fwb2loT29yYXl4YTBqTjBDazVWVWdYOVJfVW1nUWR5TzhiQ0x3ZS1qVWFacldneXg0aUdEeUF5VjQzZy05djczNnZ3bXdwdFV4UkF3TW9mZVEwQU5FNjZDM09USFVLbFkzODBlamRNamNQcFI2dFlqM29wUU5HY0x0Z2lkRDVRNA?oc=5",
    "source": "Mezha.net",
@@ -390,7 +396,7 @@
   {
    "title": "Peach、顧客の個人情報約900万件が漏えい 委託先メール配信サービスへの不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSWNWNkFVWFJWOFhNUWlWOEFjRERfZUR5S3ZrOTB2M0dKRDV2SU5BMzV4Y203bjc0dFcza0xLVkRXWS01RXo3N05NSGJLb0p0eUg0UWxFTDU4OTNCOFE?oc=5",
-   "source": "sky-budget.com",
+   "source": "sky-budget スカイバジェット",
    "at": "2026-11-20T17:26+09:00"
   },
   {
@@ -400,9 +406,15 @@
    "at": "2026-11-20T17:26+09:00"
   },
   {
-   "title": "プレイド、「KARTE」不正アクセスの調査結果を公表、2027年1月中旬の段階的な再開を目指す",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KVlBDVW00OGQ5bmQyQllrb2pNYnU3VmVwSlpUaHlEaThVZzhtQk9OcU9NTGpMZFFRUUtpWjZZd2dZZGF6MGZFTFZsdkxJaVNXNkROVVEzNUtBSkFielR0bkY5OUZQVHhHZEZB?oc=5",
-   "source": "INTERNET Watch",
+   "title": "ピーチで８９９万件超流出 委託先で不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBM1VVMWUtVkpXSE93Z2Q3RWJiOHZPbFVSdjljYWEwVWRZODIxcVBVYnYxZTZ1R2ViZWxKdVpvRk9xMFpIb0xacXYtVFZ2MW5JVWRDcEhzOEFJWTd2?oc=5",
+   "source": "琉球新報デジタル",
+   "at": "2026-11-20T17:21+09:00"
+  },
+  {
+   "title": "プレイド、「KARTE」不正アクセスの調査結果を公表、2027年1月中旬の段階的な再開を目指す（INTERNET Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PcjJGMkxzN2o4V2xhX3o5Z042RmZIakZEVlZwQ2tQNlRYaEFmSWxxa3BtUnJUdy1pMzhRRUpHWmpBY3p0X2ZsTW93Z3J0bFlOSndadnBXWjBldmZpaTJtR19BV1ZmX3NQZGgydFB4a04zTUh2SmVGaTFnVG9Ncmc?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-20T17:17+09:00"
   },
   {
@@ -458,19 +470,27 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mWmRBN0xoa1B4SkJlYjdfQmRrWVBRZmxOUTVsQ2tzX2R6U3JncnZ2bE1ManN4NzBJVllmc1dfbmV5MVBzbGxqWlZNUkZ4dw?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-20T16:50+09:00"
-  },
-  {
-   "title": "画像・写真：不正アクセスで緊急対策 警察庁：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POGhSdHNFT3JtLXNDbUFKWkJaMFA3WUxzQWFDZWpiamViWXYxN2xTdkRVejdQODBvbGNLbUtUOHJ4UWJIWVpHRGhBdnNUbmQtbVVvUHNlcGVYMzNHOVNXSThjMFc?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-20T16:44+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
+   "title": "ロシア軍、ウクライナの船舶やエネ・輸送インフラを攻撃",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZm1XVC1EVXFWekNFSlpRbExDSDVfNXByUEZyTmJka2Y2TERlaEFucExrdVF4UllRQnJmYjNLZ3lINVhFUjA4YWpaLXFQMWJxeUN3MEJJMURNeU5mbkpmZmVWRFpIbGd5azNhZG5fcGNwa0lFekpHb2UwNm53Z1lPSTNScFY0dw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-20T17:31+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ウクライナ首都で橋損傷 ロシアが弾道ミサイル攻撃",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zMlJ3NzNRQWVkbmZKXzJpZ1JCUVRuLXgzME9ZM3VkVk9WMldORmJ6RUlqTURaR2hhWmctSHBnLVpMdHl2STR6dFQ4Rm5RaWFWdmgxanBCTy1ETEJzbkNGM2pRMDkyZnQ3MEZFNQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-20T17:28+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ヘンリー王子、必要ならロシアと戦うため軍に復帰する用意 英メディアに発言",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vVkt3SXFUVHRPSm5DUDEzeER4Qk9YOHBQZTN4X2RJVHUwb2R2d1Z4UjNaS213TVNZRDlwRnc4bHpOQUlyUTk0MExYR1ByVnhYY1ozZ3BKTUVSLUFITWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YUVHUjlPeGZiWldEUzR5SkJIVlZSX2Q5MXc2NGcyblY4bDJzUWE5UDZKTk9QQUYwdzNpTTY0RHhSTTFNT0lmVHRWZ1VjRWVHTEFN?oc=5",
    "source": "CNN",
    "at": "2026-11-20T17:22+09:00",
    "topic": "ロシア"
@@ -484,8 +504,8 @@
   },
   {
    "title": "ウクライナへ大規模攻撃、プーチン氏が「痛烈な」報復表明後",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdzNBQ19KVjh0a21JamQySThZVXNjaTQ1LTlocVhKY2hMV3liVlFUT0t1NkpZakdQMVUtZC1xX0Y3TmJYamc1U204NUppUUFfQWZ4YmdoRk5oUW1YNjRV0gFkQVVfeXFMUDBhWkZsWkxMTGVtU2hkZmxTbF9QUFlmQy1OZS1yTWJ1UE1aWWk3Q1k5anMwMi0xUDNZeWxNdHhMbGlNS2p1UDBqdUt6SXJFV2Qtd2FEczRNSmRzeUpQeG05WUJCUg?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UbnM4VnQ4WGdqTUY0SEJzdWEzY0s1bkwzU0U1SmRRaDhISWZtNHZIWXBuUi0tMWhHLWlhSGxuaExHRm9Rb0lFMUJLSExmTUlvMVHSAVRBVV95cUxPU01LM09vR09sN0lYVEtSZThKZ3ZjbFFPalZJX0ctLWhzejRSMTBCRF92ckJDZmp0WThNNWFQc1BFTXVYZlg5Vmw2SldnUnNIeXRKcTU?oc=5",
+   "source": "AFPBB News",
    "at": "2026-11-20T16:59+09:00",
    "topic": "ロシア"
   },
@@ -494,13 +514,6 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYjZVUXlib0NadjVETk5xSDFrbkk2THZVdV80bE9SZEZJcG9MYV9tRnBpWUZuQW5Wek9aVlFodHhJZFlLX1A5N0xuRVlPaWpHRFk4MHhtcGdRaVlIX0tudHI0WFFicUlNR2xHZmJCaEVBQVZDcEYtTW5Xa01fOFQ1OFppdFFVTlBzczk2OVpscmFvSWRhbmlsUEpWZDVkWFQyRi1IQ3YxZlpjYzVndDZDOHJWLU94enVfbWR6aUIzTTJ0NUdWdFcyWUxfX1JmcHlHVzRjX0FjdzdSTG45WnRweUNTTHpJaXhUT242SEJFLXZUcEpRcEFqZNIB_gFBVV95cUxQeW5EcTZ5enowTGNpbnFKVWRIS1huU1huMy1VQUczc0VFSmU1UGJ0OU82bXJsY1RVQUdwYUdDTDZYSmV5aF9mS3hyemhRWWhuNzBEMm5XeG5GTzdVZlZmd2JKMTFndFB5VHdTMGFWZVVqbnFEdmVqMzlxbWwwNnN1MVd6cTExcVJYbHRNX1h5bmZyOC1XSTJFRS1XZDJXVi1LOTFQRW01NzVwbUhwTzJFLTNhQzI3VlJ1cVRCekI1OVpzdkpwVVc4YjYtTHdyUWVnZU8waEhlamlDTVdoc3VaYzBFbDg0LVRJaWVOOFU2OFUtS2lETG8zeW9SY0UyUQ?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-20T16:46+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "【速報】ロシアの攻撃でウクライナ首都の橋3本損傷",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VcDcwd08yQWl4TVRzcl9TUTl1SW1PdXg4T2RKMFYzQXljVHhmS0tfVGhYSko0V1BWWFJ3NWpVWDh5S21uQTF1YnR4TQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-20T16:28+09:00",
    "topic": "ロシア"
   },
   {
@@ -539,18 +552,18 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシア攻撃で外国大使館被害 窓吹き飛ぶ ウクライナ首都（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42NjBBenp1b21ZQU9qRmlhcGFBX004WU85R01OYlVtLWY0VVN0TEJXdjMxTndDczlaN084ODF6M05CRDdOLWpWeDhVODVmQXhqSGV4M0RwdTFmWjBLNkoxUE16T19KaDFySGx5bU9UVWx1RVRYQzl3d3RqM29zQ1E?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T15:28+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米軍の対イラン戦費、約7兆7200億円 国防総省",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FOXpSaFkyZmszVTNQcEU4VUY2OXZNVzd0all0d21rcFVBWkotSWZTRWZpNng0VS11SzVKcDVSVE1LOUQtRlo5dFVJUG0tRkpFQ2ItNkZhLTY4NmgwU0xuT2k4eXlBVnVlb0wtaXZ5c3NyUdIBVEFVX3lxTFBsN3pHT0twZEI2Tml5YTdwd1d3Z25jWnl6Q2EtaHVPR0tpdWFEQUVvbmk1NWFBNzJqZFk1dEVtd0NuYXVVaE1qTDY4OXRNZEt5VmJoNw?oc=5",
    "source": "AFPBB News",
    "at": "2026-11-20T15:19+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調 – Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdTlXdUxfNk1zUnl1Vk90NlhjRW5lUDJNZlRnVmRYWWpQYUtWbzNhdTdRTWYzM19GYmlyYTBLX1NBMTBCY05GaE9DTV9UakNuZ3ZSOUFnd0g?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "at": "2026-11-20T15:15+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "米国はイラン戦争をどう終わらせるのか、朝鮮戦争とベトナム戦争が教える歴史の教訓",
@@ -600,13 +613,6 @@
    "source": "中央日報",
    "at": "2026-11-20T10:18+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "米議会「中国軍、NVIDIAの先端チップ確保へ輸出規制を回避」 : 国際 : 財経日報",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hUm9WcVdGZEtVSE5YVFplTjFvc21IMjNZQWpXSUhCLWkwVDlSbEpxWlFqTk4wTFRzYS1mbUs2aExMLUY2T19RWnFPel9ZY09tTVNpQlNNZjhxdjR3ekpKRWpTWQ?oc=5",
-   "source": "재경일보",
-   "at": "2026-11-20T10:15+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -637,10 +643,10 @@
      "at": "2026-11-20T11:30+09:00"
     },
     {
-     "title": "ロシア軍、ウクライナ西部リヴィウの鉄道駅を攻撃　死者２名、負傷者７名",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUZEMi13U2pLcG9VWGVuSjY5QjhJZ1FNN2h6NXprUldHQ29WcWtmRVhNRk5LWUdhOFI2ZDl5QnFqeWJiS3JFeVY4bG9xVkxCV1JRSV9pVXVnQkZPRVJrbjYzVmk2ZF9lMENxVnhUSGhMdFZBa1QxZ1dGYzBrWEdLZWRlN19hSnhVcWxGNExVRDVtel80Z3BidWZ6M0Y2WWFMamREMEpMbXZIV3JmNW9RVFc4eDA2NmVreWh0cnVjeU8yNHpyejBXbdIBzgFBVV95cUxQSFUwbHFldC1nN1ExcHVveUp4aWJHUlVJa3R6UUZYcjl4RXJRVC02Tk84MjIyN0R6a29YeGpHOThEZ09HbXk2Y1hXYVdwdWQ5MmZud01WYWlUY2lmTzV4U29Ed2Y2YV9zMGpyZ2FzeXFNQ0ROazcycmlzZUxwa0pSQmJrNGxUWnROYWZicVBINkphRFNpWmFzT2J5VkpvQ2FBbldidFVLZDVVRHVqV083TWgyc3cwZDNjM01mdjdmSlo2NE52bzFpYnJnWXRMUQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-20T17:17+09:00"
+     "title": "ロシア軍、ウクライナの船舶やエネ・輸送インフラを攻撃",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZm1XVC1EVXFWekNFSlpRbExDSDVfNXByUEZyTmJka2Y2TERlaEFucExrdVF4UllRQnJmYjNLZ3lINVhFUjA4YWpaLXFQMWJxeUN3MEJJMURNeU5mbkpmZmVWRFpIbGd5azNhZG5fcGNwa0lFekpHb2UwNm53Z1lPSTNScFY0dw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-20T17:31+09:00"
     },
     {
      "title": "キーウへの攻撃で複数の大使館が被害を受け、EUはロシア大使を呼び出す",
