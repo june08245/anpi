@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:30+09:00",
+ "updated": "2026-11-20T09:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T09:38:00+09:00",
+   "place": "沖縄本島近海",
+   "mag": "3.0",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T07:49:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-19T21:29:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -156,10 +156,22 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "習氏 台湾問題で米大統領をけん制",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T07:24+09:00"
+    },
+    {
      "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
      "source": "조선일보",
      "at": "2026-11-20T07:06+09:00"
+    },
+    {
+     "title": "中国・習主席、台湾問題について米を牽制 トランプ大統領との首脳会談で",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TcWRiRExETmk4X1dFcTJ4ZDNiUWNISFoxZFlVZk1SR1poOUtOZWtJblZrbGNNQkFtLWItQmJlTGptYnM5SzVQSkpNMDE4R3hFOFhuSjdfUVlzZE1NeUh0RkJ1VUhiVmRhWlhET0NB?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-19T22:02+09:00"
     },
     {
      "title": "ロシア戦略爆撃機が台湾の防空識別圏に進入　今週2度目",
@@ -168,28 +180,16 @@
      "at": "2026-11-19T22:01+09:00"
     },
     {
-     "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-19T19:02+09:00"
+     "title": "米中貿易改善へ期待、トランプ氏 習氏は台湾問題けん制、首脳会談",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SWGMyMl9lbUdOVXQ1MWh4MVRTN19Xb2ZPX1JVQnpfN05zUGZuSm1xQ2hCdno1U09xUnNiaTFTQmtTRnF3LXlYTHBPUmZqMDRQcXk4RlNsR2JXZzNEQ2c?oc=5",
+     "source": "沖縄タイムス社",
+     "at": "2026-11-19T21:25+09:00"
     },
     {
-     "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WEFEUl9HOHFoWUtjb0dwRWZyYmpVYURJSGxBWkNJVTJpUnI2YkZacldNY21sb0h0N095c2RxSm41Q085emRXS3Nod3Y5amZWd1M1dUh0endKbVdPZ1JyUm1zZ3lLaVNDbTFwdHRGNV9NUk5UOVNkV1Nta2tRTXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T16:55+09:00"
-    },
-    {
-     "title": "中国、西沙諸島に新滑走路建設 軍事的なプレゼンスが大幅に強化される可能性",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45UFl0QWhDc2hITFdiVlRVTi1JZVo5MVdjV1phcTB6TVhmcTFFTXJScnNTMlpJR3hfTjdsYVdhOF9MSlVjd19sdjRJcGUycy02SXfSAVRBVV95cUxNWTJhdFJDNTFvTENhaVZaV2k4MmJ4Yi11dnQzWC1zbnJBZEtVc3BoRnBxX0laTS04cHRWbi1aWXNzbGkxcmdZRTRydFdtV2tZRmF3S0I?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-19T16:35+09:00"
-    },
-    {
-     "title": "台湾、今週に入り二度目となるロシア軍Tu-95の島周辺飛行を報告",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckQxc0RNZU1YQVJiSjd0X3dkWmJTbkQ0UWJDOGpVVTJwTjJBRVpEeE5kSGJackV5dHFTQkpyeEh3TFJoel9WTVlvMEhPUmhRSWUzdDlrLVBCRktZcXYxQTJGdVI0WHBoc3lHcmg2RGJBYXJOOEc2QTEwQTRzb0ZMNmlFRThHdGItcVdqVFZGUzlhRHBzYWFr?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-19T14:10+09:00"
+     "title": "米中、関係安定へ行動計画 習氏、台湾武器売却けん制―今年３回目首脳会談",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsVFQ5U2V2U2d5ZDFjdnZLcWRkbTJVYmdiRmhVVi1oVGh6YnhjNDhFYlItN0JaTW9UT2ZDdndtUVBVQmZfY3Y0Vk9tcG5fVmlhVTZCUDlaYm1ZN1QxdDFUNXI4RQ?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-19T19:07+09:00"
     }
    ]
   },
@@ -240,6 +240,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア無人機攻撃で大使館損傷",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwWmtfTmFMSkVhQ2JJeVJoXzR0NldHM0czTnZRUzg3ZDNMY2JNQ202ZUNIWERIZ3RMcTFUdWE5Y3VuZU1sSFBVdHpoWGY5ZDFFcGdqODM5OVhWLUc2WFE?oc=5",
+     "source": "福井新聞社",
+     "at": "2026-11-20T09:40+09:00"
+    },
+    {
      "title": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」（ＡＦＰ＝時事）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UeW9BTkEzTVJyUW02MV9KS0ZHTGNFZDNkd3BuVzFSenNYX2FBaGdxZDV1OS1fOXI3TTV6aTVZWlJYaGVud29PWmR6UTBTN1JxSGJtSFJzSFJfRXZhMDBRaVBfa0g4azFrc01Tby1PVFhMZ3Y0V2RpZFVNdWJSeEE?oc=5",
      "source": "Yahoo!ニュース",
@@ -264,16 +270,10 @@
      "at": "2026-11-20T07:51+09:00"
     },
     {
-     "title": "ウクライナの攻撃でついに落ちたクリミア大橋、ロシアが受ける重大な2つの打撃 なぜ今？ 7段階に及ぶ周到な準備を敢行(1/5)",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yeFB5UGplZWg3X1lmM2xtVEhSLVI5RHJ4XzFrMVVUejZISjRXNDZDeUdzWEJhOFFrNm5QYjFmUWpqdjktY1VJWGJHNUhfXy1Fc3g5bHZR?oc=5",
-     "source": "JBpress",
-     "at": "2026-11-20T06:00+09:00"
-    },
-    {
-     "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-20T05:43+09:00"
+     "title": "「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後、米クシュナー氏発言（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYkY1anBncTlybjJfTGgtSlU1Q0dXeUhIb1E5cTNPQWlTOTJXOHVNWG10THJBMEEwNnk4bEo5LV8yQXNqMC01VFlkeWV6bFlKY0o2RGwxMjJkNE02bTh6MFdsSEkyVEstQWhQdGxGN1dRUzR4c05jb1dsRVE0MXM?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T07:35+09:00"
     }
    ]
   },
@@ -281,12 +281,6 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
-    {
-     "title": "「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後、米クシュナー氏発言（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYkY1anBncTlybjJfTGgtSlU1Q0dXeUhIb1E5cTNPQWlTOTJXOHVNWG10THJBMEEwNnk4bEo5LV8yQXNqMC01VFlkeWV6bFlKY0o2RGwxMjJkNE02bTh6MFdsSEkyVEstQWhQdGxGN1dRUzR4c05jb1dsRVE0MXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T07:35+09:00"
-    },
     {
      "title": "キーウへの攻撃で複数の大使館が被害を受け、EUはロシア大使を呼び出す",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSElCanRRWDA5Y05VVmFRYnNFQndUS2RrNDR6dWRUdUpGcmJLM0FXVzM1N3U0LTNVaUdkaTBiR0pZZnFWaXEzY3F6RUNnczBhT1FaOU5nOWJ2RlFnU0JVS214UW4tU25hM1F1R2Nha2NSbHNCZUNlWHhtWVg1TG1zRmwtUDc4UjBQZ0hOYmhvWmJkMjl3SjdxWkp3?oc=5",
@@ -316,6 +310,12 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sc290ekFBemRvNERCNWhiWmVSQkxfM3VNS0d2V0RGOW13am5mZ1N5dHRsMnFZX1NUZUlvbWhLQWxOZGpFcXcySFNQeXVURFNZcVE4cnN0bVJCeV9vdkFwUi1NZ3oyenZo?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-19T13:00+09:00"
+    },
+    {
+     "title": "イタリアの学校への爆破予告、アンドロポフの名を使う人物を米国で特定、FBIは関与を否定",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTh2UkxiOU1PV3lRcVV2T2Z1ZFJMZ0tyblQ0dlp6bk1UYlNIVkI1UGJmNS10NW9rZGNoWW9uc1hEZGVyTjlZeGo4QWFKQzM1U1NlRVBCb3RmS2hhdlk0aVM5X0hySEhGVGtXYVhLTGtjcVNKVjZjUTN2RXdETmVuODVWRzdGOVhvMVc5T2pDVDZicG1vbXptOA?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-19T07:09+09:00"
     }
    ]
   }
@@ -346,16 +346,16 @@
    "at": "2026-11-19T15:21+09:00"
   },
   {
-   "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練（RSK山陽放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOUx4eklOS2s4dHFfY3dudVZKVVpuSW5LcDJMTExYVVBGVlFzQjYtdjFsV2RQeWZfeno5Z0h6ZHNMNTJVbDZHWXJjOXBOR3lFZDItOUJxUkd1LW51RXR3V0lDcUt0MXU2bVN3X2dYcmw1NGlsUHAwU1R1V0cwbG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T19:00+09:00"
+   "title": "南海トラフ、被災したその後も地域は続く...香南市で事前復興計画策定へワークショップ始まる",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00eEJlLVVWSFFWQV9Zd1REMEw2dDZyUnJxbHB6bG5wUVNreDg4M2FacWZZVjU2ZHFCQUpjVjNfNE9lNnFvODIxR0Q5RUsxbjh3S1NZMm14R0gtT2FzTnFF?oc=5",
+   "source": "高知新聞",
+   "at": "2026-11-18T19:08+09:00"
   },
   {
-   "title": "国難級の災害に備え発足「防災庁」 \"緊急要請\"で私たちに求められること 南海トラフ・首都直下地震をどう乗り切る",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xYUtKMDNleDZaTVQwU2ZfRDQ5LUtrc2lUN2ttQ3daWEJnZFZ6alFRY2tsMWhEaXBxeHFGd2JzY2NEcXhKWWZXcnlGNjlKNmdqZGlacTdCa1FwM3lHWGhwTGtWMWxDSHc5UlE?oc=5",
-   "source": "FTV 福島テレビ",
-   "at": "2026-11-18T19:00+09:00"
+   "title": "南海トラフ巨大地震との関連は？今できる備えは？防災庁｢備蓄を最低3日分、できれば1週間分の用意を｣",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jcFZHU1ZJYjNfNldiSElNd0ZFc1pQVEVVbk1VTzNoVnY2OUpacVA2eVdSdzBGQkVFTktlZTBROXBvRGRDTm8wLTNETzNPcVVHdzQ2Qkp0YWlfLUdTRkxn?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-18T19:02+09:00"
   }
  ],
  "outage": [
@@ -382,6 +382,12 @@
    "at": "2026-11-20T09:14+09:00"
   },
   {
+   "title": "Windows 11、11月のセキュリティ更新に不具合 Officeなどが起動できない場合も",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XNHVYaTV5WUQ3WmlwNjY3UVF3RnlqZHpTSGdNN2R2d3FqVmdYcGZYZDF4MEJOVUwyWWR1d1BXN2FJaGJfbG4zdW5FcXIxQ3NQcEY5R0lOS2xmVjEtWGZHZkxtX19FMVpSb3hFOE4zSnVDOWd6X0JGVmJ5SEcycnc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T07:30+09:00"
+  },
+  {
    "title": "ユナイテッド航空、「広範なシステム障害」を報告した後に技術的な問題を修正したと発表",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3ZlRU9DZ0p5SVJiZlNJVmRqdHZTVmhzZktpcEZIR2ExSjBpM3JsU0FSQ19yZkFuSERwbXVyYUZ1aDBXQ0R0UWQzd0d3NUFGYUxvTWxCa3BPVDlJN0Y5T0duamZ2V2lQVkpKek5fTnJQSzVWVHhaRmpHMDR0SlNkWldtX2hiTElwX3lBbmlR?oc=5",
    "source": "Business Insider Jap",
@@ -395,8 +401,8 @@
   },
   {
    "title": "「終末への備え」広がる、米消費者の買いだめ急増－相次ぐシステム障害で不安拡大",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtMldqY1oxUnlaZDhGNl91SnloWlRIcWtkcVFCMjBHYk00bjZzTC1ocVhwYXRvd2FJZTJReV9vSjAyTkk0YWltaTBIdGRnTGpzSl9zdVZzVXIyVGN0RVpwdy0tQ0dSRzQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JY3B2UWdHeEJaZkctazBpVlFOVGVMUDRiejllenJUUVlqSUJEMlhkX0RiOGhyai15Y2tGa0o5QklEUnMyY0VRRlFGYW9sTVpXZTZUZUptYklXN2laX0xKRjZzWdIBaEFVX3lxTE5Bd2NwSHgteTFpaE9ZSFBLa3dXV3p6QnhmNFZ3bjBNUGZEc2FPNUZNOWxDdkJlYVZpRGRLTWl2X3huR2xIYmxQSE5yaFc0UVNyaFY2bjhINFFQZ213SWU1UXA5dG13VzlZ?oc=5",
+   "source": "Infoseek",
    "at": "2026-11-20T04:33+09:00"
   },
   {
@@ -458,16 +464,17 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56cFVScnlMR3Y5YkhRcXcyLXRBS3VrVjN5X0dqRDMyb2ZVQ1RVd05mMlNVR3VXY0VhNlRPNlQtcUdFOEo2dFdUY2N0bnktOVF3R3NJ?oc=5",
    "source": "東京新聞",
    "at": "2026-11-20T07:35+09:00"
-  },
-  {
-   "title": "FFGインダストリーズのデータ分析ツールに不正アクセス 顧客・取引先1,221先の情報漏えいの恐れ",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFpNUzZyUjRYWGU1SUMxRHo0TFhnZHF6QVZoRC1MZEVYQ245UGZjTWdKRGFGdVdOa0FwaUN4WnZ4UktsbFdxT0haVThuUDVCUjNFeWpnUzlUV0lUampqUVlob1hMcUh6dEs1MUNpTmRIRlAydW9oLW5sRHR4V2JFSWtOeDI4UWdGeFBPSWdpZXNjM0pMSUFHXzVXWWNjaWlhbzNFU21B?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-20T07:30+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア無人機攻撃で大使館損傷",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwWmtfTmFMSkVhQ2JJeVJoXzR0NldHM0czTnZRUzg3ZDNMY2JNQ202ZUNIWERIZ3RMcTFUdWE5Y3VuZU1sSFBVdHpoWGY5ZDFFcGdqODM5OVhWLUc2WFE?oc=5",
+   "source": "福井新聞社",
+   "at": "2026-11-20T09:40+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」（ＡＦＰ＝時事）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UeW9BTkEzTVJyUW02MV9KS0ZHTGNFZDNkd3BuVzFSenNYX2FBaGdxZDV1OS1fOXI3TTV6aTVZWlJYaGVud29PWmR6UTBTN1JxSGJtSFJzSFJfRXZhMDBRaVBfa0g4azFrc01Tby1PVFhMZ3Y0V2RpZFVNdWJSeEE?oc=5",
@@ -515,7 +522,14 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYkY1anBncTlybjJfTGgtSlU1Q0dXeUhIb1E5cTNPQWlTOTJXOHVNWG10THJBMEEwNnk4bEo5LV8yQXNqMC01VFlkeWV6bFlKY0o2RGwxMjJkNE02bTh6MFdsSEkyVEstQWhQdGxGN1dRUzR4c05jb1dsRVE0MXM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T07:35+09:00",
-   "topic": "欧州・NATO"
+   "topic": "ロシア"
+  },
+  {
+   "title": "習氏 台湾問題で米大統領をけん制",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T07:24+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
@@ -551,20 +565,6 @@
    "source": "ハンギョレ新聞",
    "at": "2026-11-20T06:11+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "ウクライナの攻撃でついに落ちたクリミア大橋、ロシアが受ける重大な2つの打撃 なぜ今？ 7段階に及ぶ周到な準備を敢行(1/5)",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yeFB5UGplZWg3X1lmM2xtVEhSLVI5RHJ4XzFrMVVUejZISjRXNDZDeUdzWEJhOFFrNm5QYjFmUWpqdjktY1VJWGJHNUhfXy1Fc3g5bHZR?oc=5",
-   "source": "JBpress",
-   "at": "2026-11-20T06:00+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "画像・写真：台湾周辺にロシア戦略爆撃機：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHZFTTZiVE1ESFl3c2ltX18xalFTbUtlaHA2aERVZjhPTy1lU1dyM1BHZVIwRDVZUUw2SUF3Q0FKZTNZWlFJeXRFVnVGenZ0d0V5ZnBreFBOUy03S2hWcW1YZ0g?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-20T05:43+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "高橋洋一・政治経済ホントのところ【イラン「紛争終結」】米大統領また方針転換｜政治｜石川のニュース",
@@ -626,8 +626,8 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
-    "中国・台湾：「爆撃」3件",
-    "ロシア：「攻撃」「爆撃」4件",
+    "中国・台湾：「爆撃」1件",
+    "ロシア：「攻撃」「報復」3件",
     "欧州・NATO：「攻撃」「侵攻」5件"
    ],
    "items": [
@@ -644,10 +644,10 @@
      "at": "2026-11-19T22:01+09:00"
     },
     {
-     "title": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」（ＡＦＰ＝時事）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UeW9BTkEzTVJyUW02MV9KS0ZHTGNFZDNkd3BuVzFSenNYX2FBaGdxZDV1OS1fOXI3TTV6aTVZWlJYaGVud29PWmR6UTBTN1JxSGJtSFJzSFJfRXZhMDBRaVBfa0g4azFrc01Tby1PVFhMZ3Y0V2RpZFVNdWJSeEE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T08:28+09:00"
+     "title": "ロシア無人機攻撃で大使館損傷",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwWmtfTmFMSkVhQ2JJeVJoXzR0NldHM0czTnZRUzg3ZDNMY2JNQ202ZUNIWERIZ3RMcTFUdWE5Y3VuZU1sSFBVdHpoWGY5ZDFFcGdqODM5OVhWLUc2WFE?oc=5",
+     "source": "福井新聞社",
+     "at": "2026-11-20T09:40+09:00"
     }
    ]
   }
