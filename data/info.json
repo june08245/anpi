@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:00+09:00",
+ "updated": "2026-11-20T12:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T11:58:00+09:00",
+   "place": "宮城県沖",
+   "mag": "3.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T11:11:00+09:00",
    "place": "日向灘",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T04:42:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -156,6 +156,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "米、中国軍企業への輸出承認 ＡＩ半導体、今年５月時点",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1cU5yX0Q3ZjR0Si1wOXlKeWtpdEljczdVWDAtd3RWbHptUF9uejZxYzRiMEticGFaSlNIaWJmR2hyYTdWcnRrXzRHYmVURkRZVlAwMXZnT01sSEstZnd0WHVGSFhKYVk?oc=5",
+     "source": "中日新聞Web",
+     "at": "2026-11-20T09:36+09:00"
+    },
+    {
      "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
      "source": "조선일보",
@@ -174,22 +180,16 @@
      "at": "2026-11-19T22:01+09:00"
     },
     {
-     "title": "米中ロ会談の裏で高市総理に“歓迎格差” 中国の真意は",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85OFBDZ3ZJU1k0eHFBdGY5NTVXSHNXWGpadmh0TnhkLXpvM1Q4ZXdoSnZWdVB3dkFaSXBzYzBLcWpuWWJ0c3VxcFFZa0tPS3o2UGFnY2ZOaVJSeVBZMGI0amFmUTA1eFlOS1VnTzZVMTdUUmV5dVd2X2NB?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-19T19:33+09:00"
+     "title": "中国とロシア「戦勝国」強調 トランプ氏との首脳会談で、日本念頭",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5b2tSWDhwMVUyUVNlVENCTVNrNjI3S2VFOWxMR2M1eFBjV1hOWXcyZy1uT01OLUtsbkVibXFPQUtOTlpxcllLTGZOZnVtSnJhdVA1eGdwU3p0RlkxanQyXzlrbkdsTWwzc3ZXUQ?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-19T19:50+09:00"
     },
     {
      "title": "台湾国防部は、ロシアのTu-95爆撃機2機が同島の防空識別圏に進入したと発表した",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWGRweTRnOHdLQ1JRZUJfcldzTDRjdGNpZm5lN0tsZjdSdTQzR3d4UlF4MXE1cTEtNTFnN1k4d2JMTy04Y3FGLXg4RkN0aExiemdfX2h2Wl9sdjlyUDJmNW5Qa2c0TGJqaGF1TnZXTThDSVh4d3B4XzFRRDNrRzRySmhBeEhQQlBLbjdzRzdEaHE2c3JtZnV2Qw?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-19T19:02+09:00"
-    },
-    {
-     "title": "ロシア軍戦略爆撃機が台湾東側を飛行、今週2回目＝台湾国防部（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WEFEUl9HOHFoWUtjb0dwRWZyYmpVYURJSGxBWkNJVTJpUnI2YkZacldNY21sb0h0N095c2RxSm41Q085emRXS3Nod3Y5amZWd1M1dUh0endKbVdPZ1JyUm1zZ3lLaVNDbTFwdHRGNV9NUk5UOVNkV1Nta2tRTXM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T16:55+09:00"
     }
    ]
   },
@@ -222,16 +222,16 @@
      "at": "2026-11-20T06:36+09:00"
     },
     {
+     "title": "米朝首脳会談は実現するか？中露に高官を派遣「金正恩の思惑」",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSC1mZmlfQm9NVmJqc3Z2bDNHMUtMd2EzOWtRT1JTUW83TjBEUVgyOWF0Nl9kRXpVTVVTc0dsaWktZzRhTktjNldsd2ppZXp4NHVXb1hxbW4?oc=5",
+     "source": "現代ビジネス",
+     "at": "2026-11-20T00:06+09:00"
+    },
+    {
      "title": "北朝鮮のキム·ジョンウン国務委員長がドナルド·トランプ米大統領のアジア歴訪期間中、平壌を空けて観光振興·民生·軍事関連現場訪問を継続した。 アジア太平洋経済協力会議（APEC）首脳会議に出席するため中..",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSVFpZ0h2SHM4M2VsTmtKc3htV3lkRmozSHZ6QVRYc1JuT21WY1BiaUJFbzJPQktqZHVQZVowWHpZTERpTk9HdG53YkgzSGR1UzlB?oc=5",
      "source": "매일경제",
      "at": "2026-11-19T23:33+09:00"
-    },
-    {
-     "title": "北朝鮮、非核化議論を注視か 韓国も「頭越し」警戒 米中ロ（時事通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZVJPM2tnQWZ6WHJfVFZ3QlZLU19EZjk2LUVjQ2JvQWUwNEZJeXVFUjlFdVdyMTg5M2RSOGhpOEluN1Y4ajlzdTZNYkpTTFhnM3JUWHNQUjdBbjY1UUlaTWZYTXQzeHZkYVgtaDlkMW04b3VNVWpMUzdQalkzRkE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-19T22:22+09:00"
     }
    ]
   },
@@ -352,10 +352,10 @@
    "at": "2026-11-19T15:21+09:00"
   },
   {
-   "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練（RSK山陽放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOUx4eklOS2s4dHFfY3dudVZKVVpuSW5LcDJMTExYVVBGVlFzQjYtdjFsV2RQeWZfeno5Z0h6ZHNMNTJVbDZHWXJjOXBOR3lFZDItOUJxUkd1LW51RXR3V0lDcUt0MXU2bVN3X2dYcmw1NGlsUHAwU1R1V0cwbG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-18T19:00+09:00"
+   "title": "南海トラフ、被災したその後も地域は続く...香南市で事前復興計画策定へワークショップ始まる",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00eEJlLVVWSFFWQV9Zd1REMEw2dDZyUnJxbHB6bG5wUVNreDg4M2FacWZZVjU2ZHFCQUpjVjNfNE9lNnFvODIxR0Q5RUsxbjh3S1NZMm14R0gtT2FzTnFF?oc=5",
+   "source": "高知新聞",
+   "at": "2026-11-18T19:08+09:00"
   }
  ],
  "outage": [
@@ -412,6 +412,12 @@
    "at": "2026-11-20T09:14+09:00"
   },
   {
+   "title": "日立がOpenAIのサイバー防御網に参画！ AIで脆弱性の発見から修復までを支援する新たな仕組みへ",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yZF95WDAtQTVjeTQzdWlnMl9pZUVScFRrT1UxcW40TXZnNkRTb1NrT1VZVk12SnV4eXdqZ1RCdmFWd2dwRUdPWFFIS3FSYU1IcUE?oc=5",
+   "source": "DXマガジン",
+   "at": "2026-11-20T12:01+09:00"
+  },
+  {
    "title": "【決済アプリPayどん】サービス停止 不正アクセスで25万件余りの個人情報漏えい （鹿児島ニュースＫＴＳ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UbUJTSTdtSG5aZnBFWDJMcTJOaENmcTRsOWVlOW45emtqZGdVYThLbDJQZkllRmdmaHdiSWpNWkhBXzhlVXNmV05LdkxRbmhZeGdHV016cnJEWXdzeHN0alUxUlM3dzVZNjlkWHVVcXByVmozREUwSTIwc3V4RlU?oc=5",
    "source": "Yahoo!ニュース",
@@ -458,12 +464,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15YmpFdTNuTC1HUmtXTkd4RlNPaURjM1ZmcWlTWl9WZHFYelFEUU1WUHVveTZUUlNiRUZKMDNydlU0UlRIWWViU0VmSVdIcElJbzVzUTlyZV8yZWh00gFiQVVfeXFMTUg4U0M4eURkUC1fTmZjUkVxMXY0S2I3UUt5d0pLSDNieUplNDZhZ25oNk02SjVNTFNCWWZJRTdPdlI3NlhNUjBNUXl4NC1RdG84dDNWXzJkNnhidmVRVHljUHc?oc=5",
    "source": "Infoseek",
    "at": "2026-11-20T11:22+09:00"
-  },
-  {
-   "title": "12月17日にＡＩセキュリティセミナー サイバー攻撃への対処法解説 14日まで参加者募集 福島・民報ビル",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42T3lsYWJYT1lHNzY3U1M0ZHJ0ZVZRVFd1NldHODJpMm4xOTVlMXloQ0d5TU5qX0JjN096b29WdDBNcnNRRXZpU2Z5bUpyVkU?oc=5",
-   "source": "福島民報デジタル",
-   "at": "2026-11-20T11:11+09:00"
   }
  ],
  "osaka": [],
@@ -553,6 +553,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "米、中国軍企業への輸出承認 ＡＩ半導体、今年５月時点",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1cU5yX0Q3ZjR0Si1wOXlKeWtpdEljczdVWDAtd3RWbHptUF9uejZxYzRiMEticGFaSlNIaWJmR2hyYTdWcnRrXzRHYmVURkRZVlAwMXZnT01sSEstZnd0WHVGSFhKYVk?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-20T09:36+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "「金正恩委員長と会う可能性ある」と言っていたトランプ大統領、アジア歴訪を終えて米国へ（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sbEtWTktFV0x0WlliMDFkT25SWXl0S0xienU4Xzd1aWZPdEZFaHR5ZVRqT0REbDRGNnk0UnVEdHJHVV9vVS1mRFZGeG5Kd1lYQ1h4S1M0Sl95WTE3T0JfOG5OdEhKdmxlb1k4NVg3eVNRV2xUMnhnVGx0U2gtNjg?oc=5",
    "source": "Yahoo!ニュース",
@@ -600,13 +607,6 @@
    "source": "매일경제",
    "at": "2026-11-20T06:36+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮のキム·ジョンウン国務委員長がドナルド·トランプ米大統領のアジア歴訪期間中、平壌を空けて観光振興·民生·軍事関連現場訪問を継続した。 アジア太平洋経済協力会議（APEC）首脳会議に出席するため中..",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSVFpZ0h2SHM4M2VsTmtKc3htV3lkRmozSHZ6QVRYc1JuT21WY1BiaUJFbzJPQktqZHVQZVowWHpZTERpTk9HdG53YkgzSGR1UzlB?oc=5",
-   "source": "매일경제",
-   "at": "2026-11-19T23:33+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -626,7 +626,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」4件",
-    "中国・台湾：「爆撃」3件",
+    "中国・台湾：「爆撃」2件",
     "ロシア：「攻撃」「報復」4件",
     "欧州・NATO：「攻撃」「破壊工作」4件"
    ],
