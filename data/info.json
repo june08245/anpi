@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:00+09:00",
+ "updated": "2026-11-20T22:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-20T21:51:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T21:59:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T21:46:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -72,16 +82,6 @@
    "at": "2026-11-20T13:22:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T11:58:00+09:00",
-   "place": "宮城県沖",
-   "mag": "3.7",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -179,10 +179,10 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "カナダ海軍フリゲート「レジャイナ」が北朝鮮籍船舶の「瀬取り」を警戒監視（9月下旬～11月上旬）",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdC1UenJhVmdKNGl1VHB5SUU2bC1xYlpNYVh6U0FFT0NOaHZzT0pYVUNsV1VyTDloVWM2RUlaaTlNUUVPWGVXd3Vvc1hKQlpCWGFKNUhXN1pUVzk0?oc=5",
+     "title": "カナダ海軍フリゲートが北朝鮮籍船舶の「瀬取り」を警戒監視 外務省発表（9月下旬～11月上旬）",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ETUpZUkxSaW9iNUJmdGNFZWVPLVd4N0p4cWR0eG16cVBEX0tNYUN2M21sWXFOYU1xMWxhSW92OE82LTNiV0c0MGFFTERRS1JrbUtuWHNWYkQ3SE1w?oc=5",
      "source": "J ディフェンス ニュース",
-     "at": "2026-11-20T20:50+09:00"
+     "at": "2026-11-20T21:10+09:00"
     },
     {
      "title": "実現しなかったトランプ氏と金正恩氏の会談 水を向けた米側に「無反応」続けた北 その背景は",
@@ -227,16 +227,10 @@
      "at": "2026-11-20T21:41+09:00"
     },
     {
-     "title": "ロシアがウクライナに「過去最大級」攻撃　クリミア橋損傷への報復、民間人8人死亡",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzJINGJRQnVyam9XWTdKeUxLMlh1c3I0NjQ2OUo2OEdiYmJUQjlLYlV0UmtEdl9xdTJiMXFmMWVQR2pmRW9EM3ktaDRfWHI5NnJ4NkNXYjl1bXVNclhhdlp5ZjNZWjkwd0pxMG9Kd3BmdWdDWDFXV3NMTERIVXFaUDBRYmI2SnpUbDlSZzMxSTlCd1l2aVRMYUNUNmhVQzRwOUHSAacBQVVfeXFMTVdEMWg0Y2x5ZG5tMGp5WkxGMFI4eWYxa0lJYUlPbVpiLTVPZkk1VDY4YWRQY0k5Z3RFS3I1Vk9JMWdtWldfeWpMZ1hCSXZCdlgtLU51R0JZZEYySUlhMUExUGRoRVBoYzhQRlBmQm5fXzhSSFhlaDdwSlZzdDM2MmVJWE9YeWN0UUFZY2NscmVpM0kyR0lKY19fMW9Id2hHT1lLOU9teVU?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-20T21:37+09:00"
-    },
-    {
-     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月20日の動き）",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14UVFVTXk0NUl0cTRXbTdwSVk1MW1vS3hiZU84U0tnSjR2VUFDc0NDMW05bTF5a0NyZXZ6WHV0NzNxVUt4TXBuRThIaUo0VDhsaGROZVZzM1ZjTTVvVExn?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-20T21:05+09:00"
+     "title": "ロシアがウクライナに「過去最大級」攻撃 クリミア橋損傷への報復、民間人8人死亡（産経新聞）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tc1Y1NlZQZzdseGlGTGpaaTRTcEF3RmMxT0MzM2ZQQUZ1UHZSVkliaVc0a2Z2T0pSSHRaQ2ZwRERmcTRkeUdqWFpDWDVtZGJPRzM2YzNZZkRxeXZiWkljMW0yMFVuQU9ZUmYzaUdrX0ZwTlJYcUVLNkpwM0pLZ28?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T21:40+09:00"
     },
     {
      "title": "ロシア軍のドローン攻撃で住宅が損壊…取り残された住民を救出、ウクライナ南部の緊迫した現場（ニューズウィーク日本版）",
@@ -255,6 +249,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DTUFHdTBXOVJRREszdlk1djZoczRzUThJLVRMaDF6YlEteXBVT3plVlVlTndlbDFqT0hWOTVfc2QzR0FjQlEzMHdCdnVHc3lqOUJJY0Q5SFhTak15RDJLN0c5dGg4MmJUcFJ6Qm85MjBTcUNsd01nekg5Y3EzbkE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T20:40+09:00"
+    },
+    {
+     "title": "キーウの橋3本に被害、複数地区で水圧低下 ロシア軍の夜間攻撃で6人死亡・15人負傷",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id0xhVkt6WGxrMFRRNkE1NV95NTY3djVac0E4YVRZYmVuenpsMWIzeXk5UWVTOWtVeFh2d1gyTTkzd3ExOEFFZDdUUEdnYmFTaUxZX2FxNGE5VnBScXNhT01HZlhGelpXaHc?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-20T19:54+09:00"
     }
    ]
   },
@@ -381,22 +381,28 @@
    "at": "2026-11-20T20:27+09:00"
   },
   {
-   "title": "スパコン「富岳」の不正アクセス問題、認証情報４３０件持ち出されたか…外部のスパコン接続の「秘密鍵」",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uaDlSVEtkYW53MUwtS2RsMzN5eWtPSDdtSHIwZVg2S3h3dGxUMHdHNjNPbGd3N3ZhRzdaR2JYTm4teDlOLXRSWmszYUNYeGVMU0tYUUFKanFRSEEyYmtHQ3ZmQVk?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-20T21:55+09:00"
-  },
-  {
-   "title": "プレイドの不正アクセス 延べ2200社に影響か 通期業績見通しも修正 20億円の赤字に｜Quebee キュエビー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUUHdmV0RFUkxpT3A4eTRQMExLMmpmaVRtYkhXV29IYktCd2RyelMyblE4SFFCUDAxZ3JCRUREUjF6eWp6b1gySUd1T1VSOVhReXItZVBMZDc?oc=5",
-   "source": "QAB 琉球朝日放送",
-   "at": "2026-11-20T21:49+09:00"
-  },
-  {
    "title": "当社委託先システムへの不正アクセスに伴う、「タイミー」ご利用事業者様の一部情報漏えいについて｜ニュース",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnSlM3N1l5Wi15ZHRTaHhKdW9wUzhfN2hTbHB4RTNNdnJMUEZvVG53bUg1azJCTF85blNzZGZKSVRsSnZWS2UwempUN0xUWUVncFFMaw?oc=5",
    "source": "株式会社タイミー",
-   "at": "2026-11-20T21:48+09:00"
+   "at": "2026-11-20T22:02+09:00"
+  },
+  {
+   "title": "スパコン「富岳」の不正アクセス問題、認証情報４３０件持ち出されたか…外部のスパコン接続の「秘密鍵」（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHQkMwNkNxUUhRZmZYR1lZdUVpZWw1Smp6c3MtU1lzR3N1UnhFalA4bk5IblpmVnBIbTBPb21mRE52WVVZU01fampFMDBNMGZ6emhJMS1ZQ2RMam5ZTUxxUGtlamdCMVBsZV9TU09MVWxjRHJWblB4THA2eFlSeU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T21:56+09:00"
+  },
+  {
+   "title": "「超PayPay祭」が11月20日から開始！ PayPayカードのスマホタッチ決済ならスクラッチくじが必ず当たる",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jX29OOHFNaXQ4VE11d3lIbEFQWHN2WnljRWtlMzhxNHVNUjItbmVhcjZhd3ozVUtIekdsa3BPRzVHeVRxRW5QQW40OWc5aGVkV3Zmb0UyQlMzTUl0empWTTc4UjNEak9rN3c?oc=5",
+   "source": "AppBank",
+   "at": "2026-11-20T21:53+09:00"
+  },
+  {
+   "title": "プレイドの不正アクセス 延べ2200社に影響か 通期業績見通しも修正 20億円の赤字に",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfTEEwOF9mWEM1Qi1WektNQVU2bE8tSm5sRTh2R2E0WTRhNkRUY0g3b3hNU0ZzRE9XOF9lMElhcVZEcVlpVTJYOXRQRUJHT2ROTlJrM2dadURMWTJWSmVsYThNSlFSa2J6eHB3WVVkT1RzQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-20T21:49+09:00"
   },
   {
    "title": "サイバー被害拡大防止へ アクセス抑止策を検討する初会合",
@@ -441,28 +447,22 @@
    "at": "2026-11-20T21:05+09:00"
   },
   {
-   "title": "三井住友銀、最大1400万件情報流出 委託先「カルテ」不正アクセス 丸井GやJINSも、2200社影響か（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUU0wZlNac3VEMUpuYmtIdTBMTHl4N21ZekE1VjU2X3I0Wm92c1F6Q1pYZ2FfNDJHQjZMaWR6WXBmRHB5ZGI3UG5QVEVpUTN4bWZ6RkNIaEpyR29xc0lPRTFudVNZNF9PZVFkZE5sQW1PZnpsTHFKcnEyZjVrbTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T21:04+09:00"
-  },
-  {
    "title": "ZOZO、1518万人分の顧客情報流出 委託先に不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bzliazhDTkc2NFllVGd3eTZHV2d6azhBVVRqR1NVU2FlU09ROWJWcVUydEdWX2VGX0drblRhLWJiRnprNHNFNGJQbjh5LVBfam0ySDlDb3BzNmYzOE1zTExPZWpiNGRLMnNqdA?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-20T21:03+09:00"
   },
   {
-   "title": "佐川急便、新たに別の不正アクセス＝一時預かり予約で1万3000件流出か(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTk1BSHAyWGJLUldNQmpfUTNiTl91RHc4RGdWR2xDVm1aMHhrMm1EaVlkR1p0NHhSNUItUkZQdDAtek1CUW5YbDNxSHdVeXpjZ3lOU3VvV0hYTVVjZS1Tc0ppMTBOcDl1MVBKajFaU2FSbGw4TXNLUkRQWFVJQUpOUUxwY0lONTQ?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-20T21:01+09:00"
-  },
-  {
    "title": "認証情報430件流出が判明 理研スパコン「富岳」不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MNjJsbXFxRHliVHRJLS12YXJvaENWXzhTUE8wdG5NckhRS1BWN0c1dXdLRllkRHdGbVNMc29Bd0FEVHJBeGJpZ3BlSTVoTmpNenphVjh0Sm5IMHlQUHktalRoeEtJQWdi?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-20T20:57+09:00"
+  },
+  {
+   "title": "理研スパコン「富岳」不正アクセスで調査委設置へ 再開めどなし",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXbHNKc0k0M1Y2Vnlna2xyMGtRQTFNeTZvakphTEs2dXh2eU0ySldadkI1Sjc5Y3FWbDNiQ1lwVFduOEZqZndmcXZaaHFyZ1J0RXllOWctYmk4VExrX3J2a05ra0VDbTRz?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-20T20:56+09:00"
   }
  ],
  "osaka": [
@@ -482,10 +482,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシアがウクライナに「過去最大級」攻撃　クリミア橋損傷への報復、民間人8人死亡",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzJINGJRQnVyam9XWTdKeUxLMlh1c3I0NjQ2OUo2OEdiYmJUQjlLYlV0UmtEdl9xdTJiMXFmMWVQR2pmRW9EM3ktaDRfWHI5NnJ4NkNXYjl1bXVNclhhdlp5ZjNZWjkwd0pxMG9Kd3BmdWdDWDFXV3NMTERIVXFaUDBRYmI2SnpUbDlSZzMxSTlCd1l2aVRMYUNUNmhVQzRwOUHSAacBQVVfeXFMTVdEMWg0Y2x5ZG5tMGp5WkxGMFI4eWYxa0lJYUlPbVpiLTVPZkk1VDY4YWRQY0k5Z3RFS3I1Vk9JMWdtWldfeWpMZ1hCSXZCdlgtLU51R0JZZEYySUlhMUExUGRoRVBoYzhQRlBmQm5fXzhSSFhlaDdwSlZzdDM2MmVJWE9YeWN0UUFZY2NscmVpM0kyR0lKY19fMW9Id2hHT1lLOU9teVU?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-20T21:37+09:00",
+   "title": "ロシアがウクライナに「過去最大級」攻撃 クリミア橋損傷への報復、民間人8人死亡（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tc1Y1NlZQZzdseGlGTGpaaTRTcEF3RmMxT0MzM2ZQQUZ1UHZSVkliaVc0a2Z2T0pSSHRaQ2ZwRERmcTRkeUdqWFpDWDVtZGJPRzM2YzNZZkRxeXZiWkljMW0yMFVuQU9ZUmYzaUdrX0ZwTlJYcUVLNkpwM0pLZ28?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T21:40+09:00",
    "topic": "ロシア"
   },
   {
@@ -496,18 +496,18 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "カナダ海軍フリゲートが北朝鮮籍船舶の「瀬取り」を警戒監視 外務省発表（9月下旬～11月上旬）",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ETUpZUkxSaW9iNUJmdGNFZWVPLVd4N0p4cWR0eG16cVBEX0tNYUN2M21sWXFOYU1xMWxhSW92OE82LTNiV0c0MGFFTERRS1JrbUtuWHNWYkQ3SE1w?oc=5",
+   "source": "J ディフェンス ニュース",
+   "at": "2026-11-20T21:10+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ロシアはNATOが軍事衝突の準備を公然としていると非難",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2RhMkl0ZGtkN000UVd6YVhRRi0zQ0l5X2lBLTdTb2Mta2JqTnBFYURzRUlGVWtlanFJSkFFX04yTkZZRkIxMjRjS3pGZ3htMy1vRGhjYmFKLXhaZjBBWl9sdU5paDlSM1RoQ0o2U3N0SDBGd1IzdEdHRTV6a2x5cXFmanljR3JONXJSMFR3OS16Z21GY2RpSUZnaklqSlo4dkE?oc=5",
    "source": "Laodong.vn",
    "at": "2026-11-20T21:07+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月20日の動き）",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14UVFVTXk0NUl0cTRXbTdwSVk1MW1vS3hiZU84U0tnSjR2VUFDc0NDMW05bTF5a0NyZXZ6WHV0NzNxVUt4TXBuRThIaUo0VDhsaGROZVZzM1ZjTTVvVExn?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-20T21:05+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ロシア軍のドローン攻撃で住宅が損壊…取り残された住民を救出、ウクライナ南部の緊迫した現場（ニューズウィーク日本版）",
@@ -524,13 +524,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "カナダ海軍フリゲート「レジャイナ」が北朝鮮籍船舶の「瀬取り」を警戒監視（9月下旬～11月上旬）",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdC1UenJhVmdKNGl1VHB5SUU2bC1xYlpNYVh6U0FFT0NOaHZzT0pYVUNsV1VyTDloVWM2RUlaaTlNUUVPWGVXd3Vvc1hKQlpCWGFKNUhXN1pUVzk0?oc=5",
-   "source": "J ディフェンス ニュース",
-   "at": "2026-11-20T20:50+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ロシア内陸1300キロの石油拠点にドローン攻撃…夜空を照らす激しい閃光、ウクライナが狙った重要施設とは",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DTUFHdTBXOVJRREszdlk1djZoczRzUThJLVRMaDF6YlEteXBVT3plVlVlTndlbDFqT0hWOTVfc2QzR0FjQlEzMHdCdnVHc3lqOUJJY0Q5SFhTak15RDJLN0c5dGg4MmJUcFJ6Qm85MjBTcUNsd01nekg5Y3EzbkE?oc=5",
    "source": "Yahoo!ニュース",
@@ -543,6 +536,13 @@
    "source": "東京新聞",
    "at": "2026-11-20T19:54+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "キーウの橋3本に被害、複数地区で水圧低下 ロシア軍の夜間攻撃で6人死亡・15人負傷",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id0xhVkt6WGxrMFRRNkE1NV95NTY3djVac0E4YVRZYmVuenpsMWIzeXk5UWVTOWtVeFh2d1gyTTkzd3ExOEFFZDdUUEdnYmFTaUxZX2FxNGE5VnBScXNhT01HZlhGelpXaHc?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-20T19:54+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」（読売新聞オンライン）",
