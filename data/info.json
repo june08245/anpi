@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-20T23:30+09:00",
- "errors": [],
+ "updated": "2026-11-20T23:45+09:00",
+ "errors": [
+  "nankai"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [],
@@ -95,6 +97,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン戦争の米戦費、483億ドル（約7.7兆円）に―基地被害額は依然示されず",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Oa2Y0S2VqNVNsVmxyWVg4Skl2a0RfbHJjM2NWa2VzMnFBNzJFMXpLN0dGODBPdE5vMEZNa2M1TVFGdXE3ek42WC1GTHNVYk9rR0YzY3ZfR0lZZjJaOUNtYzhSZ9IBaEFVX3lxTE5kbS1IR2hXcUlwb00wdUQxR2VGRUNSaHdPOUcyZVI3cDI0cmRHOXVtWFFGU1pJY3BrYUlaUGRlRmpySFVtQlV3czBNbE81ZFhWalhfSnBXUm1OTkk0UTNJbFpEakVIalk3?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-20T23:27+09:00"
+    },
+    {
      "title": "イラン戦争の費用が480億ドルを超える 中東基地被害額の見積もりを求める声",
      "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNQ1ByNk9JczJrYzBnYk83eURsMktQa3duamNGWGhlbGQ2cmFPMGNSbkRKNmhqUzhiZ0NJaHF3Y1ZwZXNvS0lLOS0xeVpYXzBScnVDajNnS3ZlNjBkS19KYTY1b3JCcmRReGVRUVNkRWl6UVpnenZ4WjVaWVB2ZmhCLXpMc1JTdXZaLWVybkE2V2hWZ3ZkTkxWdno0OXpYNDJoTEZGRnNQOVlmaXVwUVdsQXRkdGdFSjVoYnl4b1JwTHRIYUZoMFd5Rmh3V1NnSGs3TG9QYXhyYmtRV3FwQ2Vvdm9aU3l6UDZPMy1BR3kzMU8zdVA2OTBJaFpzMXFUTFB1RUhPNkt5R2JERmdWN1B3MTFhTUU3UzQzUEVDQUVmWFdPc3NOM3Y5bHhxSERhRHpuVk5tUWRpUS1rSDJ3RUpjZDdWWnJQay1QYW1RSEhhSTN2N1JtZlVXaUNjSlNWZGdUMkxERUdjajRjWVBjTFM3MDBPQlV4SWdjRlZTMFEtMnhKTEotbWFWQUFyMWpHS2JsdEdORENxNHR5UDRhWXRpa1QtUGpRNm16SGFZdTExSWZrQkZoeTFWMkJ1a1MxNXJXbld6QWJyNllYc3VzNm5wVnZwZnJMWnYzanF2LWtFSTRiR2VRNHhJcg?oc=5",
      "source": "アラブニュース",
@@ -123,12 +131,6 @@
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFllS2ZubTkzendzbDFaY0RTcEthRFowVm8yZndMZ1lRaWR0cnM4anYzV2lUUHBNWFVsbkgtc0Z5eW8yLWtnR2kxSzFBaG9pVnMzTC1vMHZvcEo4emhoMC04NE9kU2VEejREVFFiNDk5Rmp3NC02cDhIeHhGbTNwVGk4UU9LdXhreTRuNDlzbnhBNG1BNHNSbERCT1JYenRReU1iZ3o1N0ZIUnQ1ZU4w?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-20T15:31+09:00"
-    },
-    {
-     "title": "米軍の対イラン戦費、約7兆7200億円 国防総省（ＡＦＰ＝時事）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVTVtZldaVzhOdHBINVIweVJIUmp6U3NhYUxPcVN6U0xMZkNpc2VxeXpVeHJScFVTVUd6UEpPNDVSRDVxTHhFSjhxajR5bTRjSDl6QTJOTGp2TlRXeDJXb3RyZC0ySGhFODIwWmw5X190d3JpVi1NZ2NRd3FKNW8?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T15:04+09:00"
     }
    ]
   },
@@ -136,12 +138,6 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
-    {
-     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-20T18:24+09:00"
-    },
     {
      "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
@@ -171,6 +167,12 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDX3U0dEZPc1RnbHc5MTlHRVNKQTlodDBxcVpxc3BuRnNDVERPc2RiYXFKc1dIa3RQZWthOEpnaXRpNkRmMGUzVnR2LVg2OF9VSUhnOFAyb1ZVa0xpdnJzbHlfTWt1T1h1eXdXenFJdUdWbkE?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-20T09:38+09:00"
+    },
+    {
+     "title": "習氏 台湾問題で米大統領をけん制",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T07:22+09:00"
     }
    ]
   },
@@ -263,6 +265,12 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ES21ndmJQd1JQd3VWRjN0MlBNMGtxQWlIZ0tSMlBlX2o3WEVGMGpkWFRJTmk5TGpHUzJPQm10RzNBWWFVc294TWgxOGNmaVVZRVZ4bTc3V1pBT2p4cm1RUGZRamllTWVmdloxbnNlajdiZHdhTVZVOExR?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-20T21:41+09:00"
+    },
+    {
      "title": "欧州連合（EU）の外交責任者カヤ・カラス氏は、キエフに対するロシアの攻撃を非難し、EU駐在ロシア大使の召喚を発表",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJXOVBqZHJFY3lzLV9FeU9GQ1pVMzJTbVROdmROclVlczhCczNYbXVhM2lTTVREdnFTNkt1OHZUX214aERZSUpSanoxQy14eEt6bmpHX3AtOWpNaXZLQ0gxT0ZleFZjZGhrdTBTWmRvVlFwY3N1eEtVUmlSTlVvcDNWR0ZiVXhpS0Z5VHM1cDNqcDdabzY5M2NULUFvU28wZnZnNzhpck0zMzN2OGZPaW1OOGpRQQ?oc=5",
      "source": "Informat.ro",
@@ -291,12 +299,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsam1jajRqeUZMQlVQMlhqbVBaR0QyTlhtSjZMYWhhV19MWWRtekJQbTZLMkQ3MTN4eTk3SkltYnFDTlg5d1lRN3Q0dXdYMmV2ZGRjLU9B?oc=5",
      "source": "KSBニュース",
      "at": "2026-11-20T07:30+09:00"
-    },
-    {
-     "title": "キーウへの攻撃で複数の大使館が被害を受け、EUはロシア大使を呼び出す",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSElCanRRWDA5Y05VVmFRYnNFQndUS2RrNDR6dWRUdUpGcmJLM0FXVzM1N3U0LTNVaUdkaTBiR0pZZnFWaXEzY3F6RUNnczBhT1FaOU5nOWJ2RlFnU0JVS214UW4tU25hM1F1R2Nha2NSbHNCZUNlWHhtWVg1TG1zRmwtUDc4UjBQZ0hOYmhvWmJkMjl3SjdxWkp3?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-19T22:31+09:00"
     }
    ]
   }
@@ -475,6 +477,13 @@
  ],
  "world": [
   {
+   "title": "イラン戦争の米戦費、483億ドル（約7.7兆円）に―基地被害額は依然示されず",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Oa2Y0S2VqNVNsVmxyWVg4Skl2a0RfbHJjM2NWa2VzMnFBNzJFMXpLN0dGODBPdE5vMEZNa2M1TVFGdXE3ek42WC1GTHNVYk9rR0YzY3ZfR0lZZjJaOUNtYzhSZ9IBaEFVX3lxTE5kbS1IR2hXcUlwb00wdUQxR2VGRUNSaHdPOUcyZVI3cDI0cmRHOXVtWFFGU1pJY3BrYUlaUGRlRmpySFVtQlV3czBNbE81ZFhWalhfSnBXUm1OTkk0UTNJbFpEakVIalk3?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-20T23:27+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシア軍、キーウの主要橋3本をミサイル攻撃―プーチン氏の「報復」表明から数時間後",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uU3AyM2VxV0hNYnV0WHVZODhTY2NJOVROZGxXSXNaelM2d1FaaDRmOWttaG5zdldNMnlzNEJDLVRVQkZfaGRNNGJ4Zm9OUHNfN1QtR2dER2o4WE1MaDdzTW5FZ9IBaEFVX3lxTE9mNEdOWW1ZSHF3cU1uZ1QtV2c2czFXNkVaeEpWVEpjNHUyNTBPcUJYRzFla1ZucjQxLUthTndoTG5EV01XdndrYXl2TVpnSDhkUTdTbXZnVFcyNkZtb28xVGZVVGNOVkxv?oc=5",
    "source": "財経新聞",
@@ -524,6 +533,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ES21ndmJQd1JQd3VWRjN0MlBNMGtxQWlIZ0tSMlBlX2o3WEVGMGpkWFRJTmk5TGpHUzJPQm10RzNBWWFVc294TWgxOGNmaVVZRVZ4bTc3V1pBT2p4cm1RUGZRamllTWVmdloxbnNlajdiZHdhTVZVOExR?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-20T21:41+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "ロシアがウクライナに「過去最大級」攻撃 クリミア橋損傷への報復、民間人8人死亡（産経新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tc1Y1NlZQZzdseGlGTGpaaTRTcEF3RmMxT0MzM2ZQQUZ1UHZSVkliaVc0a2Z2T0pSSHRaQ2ZwRERmcTRkeUdqWFpDWDVtZGJPRzM2YzNZZkRxeXZiWkljMW0yMFVuQU9ZUmYzaUdrX0ZwTlJYcUVLNkpwM0pLZ28?oc=5",
    "source": "Yahoo!ニュース",
@@ -557,13 +573,6 @@
    "source": "東京新聞",
    "at": "2026-11-20T19:54+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-20T18:24+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "元国防総省高官は、NATOが「抑止力の危機」にあると述べる／「欧州からの米軍撤退は間違いだ」",
@@ -606,13 +615,6 @@
    "source": "Laodong.vn",
    "at": "2026-11-20T16:14+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "北朝鮮、トランプ大統領の対話提案に応じず…「核保有国の承認」と「敵視政策の撤回」が壁に",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CRWg1ZUozd1VIYkRBM3FwVkZsOEE4MzBuY2lXa2VYQnVnRVdiMF85a2Z3SmRjbTJHYmk5azgxakR6T3pGZWNTZnM1cEIwQlFuVmfSAVRBVV95cUxOelRoSm1GZ2FhSW5nUm9zVnZKRFpnUGJTNTNQcmpKVXJwTnk2czVsclBlQi04ZzQtV0k4TWRrQ0Q2RmF6VTVvMjBJdHp1R091bDhIaTI?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-20T15:59+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -632,9 +634,9 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「封鎖」1件",
-    "中国・台湾：「攻撃」「封鎖」2件",
+    "中国・台湾：「侵攻」1件",
     "ロシア：「攻撃」「報復」6件",
-    "欧州・NATO：「攻撃」「軍事衝突」2件"
+    "欧州・NATO：「攻撃」「軍事衝突」3件"
    ],
    "items": [
     {
@@ -644,10 +646,10 @@
      "at": "2026-11-20T15:53+09:00"
     },
     {
-     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-20T18:24+09:00"
+     "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
+     "source": "BigGo ファイナンス",
+     "at": "2026-11-20T16:35+09:00"
     },
     {
      "title": "ロシア軍、キーウの主要橋3本をミサイル攻撃―プーチン氏の「報復」表明から数時間後",
