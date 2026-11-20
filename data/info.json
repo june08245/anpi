@@ -1,15 +1,9 @@
 {
- "updated": "2026-11-20T14:30+09:00",
+ "updated": "2026-11-20T14:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
-   {
-    "code": "14",
-    "name": "雷注意報",
-    "level": 2,
-    "status": "発表"
-   },
    {
     "code": "15",
     "name": "強風注意報",
@@ -23,8 +17,8 @@
     "status": "発表"
    }
   ],
-  "headline": "大阪府では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-  "reported": "2026-11-19T18:24:00+09:00"
+  "headline": "注意報を解除します。",
+  "reported": "2026-11-20T14:44:00+09:00"
  },
  "quakes": [
   {
@@ -138,16 +132,16 @@
      "at": "2026-11-20T10:15+09:00"
     },
     {
+     "title": "米国当局者がイランへの攻撃再開の理由を明らかにする",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjdadDRpQ3hzekJZcF9xaDIwSFFXU3JDdUNHWkZRWEpkT0E4a1YyTF9fSnVLRGRDRWtRVUFIS01DSEJyNURGVEdFTjJzQmxqMmd5QXdWVDFtUlNQZXdacUZoUGpkSXNWaFJReEhPVDd4TVRwNnRsYk51dzRsSEU2SWxmd2pseHNvNnNPdFBmX2pyVlFWTTloYzZEV1Q?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-20T08:00+09:00"
+    },
+    {
      "title": "トランプ氏、対イラン攻撃再開「年明け以降に動き見極める」 上院は攻撃制限決議案を否決（産経新聞）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95cEdsdVAtOTU4dF9jc0xKWFN2QlAyd2IxUFUwV2hqTEt4MzlpeXZod0FPaWVFck1Db3JabFhfNHktOF81cTZ0RjBOR1d1a29CWk01SnRoNnh3MFp5d2UyNUdKNjMzZnM3SnZEOTFSVklqazJQa0ZXZ1VnQUNGdTg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T07:38+09:00"
-    },
-    {
-     "title": "トランプ氏、イランへの攻撃再開巡る判断は来年に持ち越し 「急がず」 | ロイター",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmZEQzZ2d3poT3NJRk1zQ0x0N1hLcVlaYTA3RkZhM1FONEJuQ1hheG91REY5Mlg2ZFlsd3EwUDkxQ3RreElZWjBxdVJIWEYtYlczS0V5QmVmU2tJbzVvZ1RCT2RLUzJxeE05NkRvMFFNODJkSDgzemdMX29hWDJnVzdYd21CSEU?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-20T07:03+09:00"
     }
    ]
   },
@@ -168,6 +162,12 @@
      "at": "2026-11-20T09:36+09:00"
     },
     {
+     "title": "習氏 台湾問題で米大統領をけん制",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T07:22+09:00"
+    },
+    {
      "title": "米半導体輸出規制の不可解、テンセントなど「中国軍事企業」に87万9000個超承認",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
      "source": "조선일보",
@@ -184,12 +184,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRVYtQWE5OUdtTEZpbTFGeTF5amxhN05VQXZPNUZTeGJ6UTN3OGZRbWNpemN2bnB0cDdZWDRnRkpsblpmam0tMnhoUjJPYWFXSzBCaEpRRmgyTkNYMWJnd0dkaERWX1Z1cnhKTS11VW4tOEdUTldBWXBhdklIN1E?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-19T22:02+09:00"
-    },
-    {
-     "title": "中国とロシア「戦勝国」強調 トランプ氏との首脳会談で、日本念頭",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5b2tSWDhwMVUyUVNlVENCTVNrNjI3S2VFOWxMR2M1eFBjV1hOWXcyZy1uT01OLUtsbkVibXFPQUtOTlpxcllLTGZOZnVtSnJhdVA1eGdwU3p0RlkxanQyXzlrbkdsTWwzc3ZXUQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-19T19:50+09:00"
     }
    ]
   },
@@ -199,7 +193,7 @@
    "items": [
     {
      "title": "米朝首脳会談は実現せず トランプ氏、なお金正恩氏との対話を模索",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45eWMxVFU3N3RBWTFVYkUwSm9ZbTNQZzNoeUpabkJQdTUyaHZWZVF5d096dW1VTWRxR1padjZzWXVYSnQ0bVFGWi13dDl6dWdUYk9LLXhlVlFBRkVFUXR0Y2xBSVh5UWs?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HbHZkZUFhSnVkTkhSVG5oWDZBZ0NOX0FPU1VXcWRjOHFBWUZlS1RtRzhjMUdBZjJUMkxoRVZGR1lHbjFORkpCbVVlVi1CQ3JVbXNuR3drLXR5cXRwbF9ralJSWFJDZw?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-20T12:10+09:00"
     },
@@ -283,9 +277,9 @@
    "items": [
     {
      "title": "クシュナー氏「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後発言",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eUdjWkFDOTd4T0loaGxhcU1BUDBaUy1NdjhfeFVYaGx4SnM2ZW5nekZodWxYeE1FVEtMTlFqM19xdVgxOGVjYVFtQXZrY19xRFI2d3JLZnJFV1U?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbXQ1ZG1OQjRTbnp3d29QcTFOTTdyekdtQzNhTy1tRWJSZ3VneDVUZU5Ib1hMZzByS01aR1h6WFl0U0V3RFpkRGE4OS1yUGh0YlU0aDVISUczUVFzNFM5M3E1RUxXN3o3ZFN3MWtlSFQ0T293N002bXRHUE80QjBYRUdVdGtoVEdITDE2cmNsRlNwbHIwTWdHNVRPc1hDVUk2Vm80VWs4eFNLUzRPUTVqWlpyTmNuWnRhNU5uVDJvdjFwYW1nb0k1TkRZemJKZDZYUTItbmNBRUZwaV9DQkpYLUJYQURVSENf?oc=5",
      "source": "ABEMA",
-     "at": "2026-11-20T13:31+09:00"
+     "at": "2026-11-20T11:25+09:00"
     },
     {
      "title": "「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後、米クシュナー氏発言（テレビ朝日系（ANN））",
@@ -388,16 +382,16 @@
    "at": "2026-11-20T13:05+09:00"
   },
   {
-   "title": "米NSAで大規模システム障害、職員の自宅待機が3日目に―中東情報拠点にも影響",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KUlBXVEV4SHp3STNPTmJQTENadkd1ZmVtcjZsNmVxSU9zNnd1YVpuenpTT2g1b1R3aktSaUhJVG93WTQxQi02VUNJbUNjYW1QRVdIT1NBWkt6QzhBLVVJbWhhONIBaEFVX3lxTE5JZUl3X3lwNkVtbThobjU2bi1iVzB2RzFKN1N0TF9UNTJzUmEzSlpjZ2hlNmVtX0hiN0pncWE0UUp1LXVNM2N0OGZCZUhVRFRCbGZrZjBvcE1rR01wbXJWOE5uNklWeDh4?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-20T10:49+09:00"
+   "title": "星槎道都大学のMicrosoft 365に不正アクセス-個人情報漏えいのおそれ、大学メールから海外へ偽請求メールを大量送信",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWpubUYxVG16UlZwRDRNZGdrZUpKMnhEbGdiSllIRElsdG85UWE5UndSdDJ5RlJHSllKOXA3ZVRjTEVaN0Z6X0s4X0Q3R2pUd1VGT2loOEhJNllNZjVXSEdHb05aRzltb1E0cFpwWmZwdE1adjI2bkdfSkEtR3BDMGRaX0NUbXB2eDBCaGJlZXk3ZWZYMHNFOWh1UkxXMWVNRkEyRUlub0hLdHc?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-20T14:30+09:00"
   },
   {
-   "title": "[写真]米NSAで大規模システム障害、職員の自宅待機が3日目に―中東情報拠点にも影響",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xRDl4bjZVSkdxYndSWGZWbjQzV2R4bmtMQWNoRlc2bDRGREZxeGtlSFBUSVp6V3hHWUdyUExMU3lxeWtFSmI2QTlZMHpjNVZwS3YyTw?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-20T10:49+09:00"
+   "title": "欧州委員会がAIを用いたサイバー攻撃の標的になったことを発表",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrNDZjSkRmVF9nd1MxYVB6MFM5aUMxX1ZLY3ZQYVp5Qk9vZGJlM2dkSTdoZl9UNGtvaG1jMk1QM2ZZN3hGeVZwN21HM2FvWFNuMzJMeGRYRzVTTGtrU29PSlh1Mm9ieXR4MnFydnpR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-20T14:30+09:00"
   },
   {
    "title": "「ＫＡＲＴＥ」のプレイド、不正アクセス問題で最終赤字に修正（ロイター）",
@@ -482,13 +476,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "クシュナー氏「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後発言",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eUdjWkFDOTd4T0loaGxhcU1BUDBaUy1NdjhfeFVYaGx4SnM2ZW5nekZodWxYeE1FVEtMTlFqM19xdVgxOGVjYVFtQXZrY19xRFI2d3JLZnJFV1U?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-20T13:31+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（遠藤誉） - エキスパート",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk4zRng5VUFyVlZ0cmM3a2lLWEY2YkF2SmF0cXVfdW9CczlzaEdnNnI0NEltQUJZcUR3QmIzV1BCMDlsTFhFTk5zTFh6ckxVRlcyS09ucG53YUVCaV92V1FSSmtBbHlNenVrMUtTdmZjbHlRRno4cGFXenhZdExjc3hjUHk5X3pG?oc=5",
    "source": "Yahoo!ニュース",
@@ -504,7 +491,7 @@
   },
   {
    "title": "米朝首脳会談は実現せず トランプ氏、なお金正恩氏との対話を模索",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45eWMxVFU3N3RBWTFVYkUwSm9ZbTNQZzNoeUpabkJQdTUyaHZWZVF5d096dW1VTWRxR1padjZzWXVYSnQ0bVFGWi13dDl6dWdUYk9LLXhlVlFBRkVFUXR0Y2xBSVh5UWs?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HbHZkZUFhSnVkTkhSVG5oWDZBZ0NOX0FPU1VXcWRjOHFBWUZlS1RtRzhjMUdBZjJUMkxoRVZGR1lHbjFORkpCbVVlVi1CQ3JVbXNuR3drLXR5cXRwbF9ralJSWFJDZw?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-20T12:10+09:00",
    "topic": "北朝鮮"
@@ -522,6 +509,13 @@
    "source": "Laodong.vn",
    "at": "2026-11-20T11:30+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "クシュナー氏「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後発言",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbXQ1ZG1OQjRTbnp3d29QcTFOTTdyekdtQzNhTy1tRWJSZ3VneDVUZU5Ib1hMZzByS01aR1h6WFl0U0V3RFpkRGE4OS1yUGh0YlU0aDVISUczUVFzNFM5M3E1RUxXN3o3ZFN3MWtlSFQ0T293N002bXRHUE80QjBYRUdVdGtoVEdITDE2cmNsRlNwbHIwTWdHNVRPc1hDVUk2Vm80VWs4eFNLUzRPUTVqWlpyTmNuWnRhNU5uVDJvdjFwYW1nb0k1TkRZemJKZDZYUTItbmNBRUZwaV9DQkpYLUJYQURVSENf?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-20T11:25+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "トランプ氏、イラン戦争巡る判断は「急がず」 年明けに情勢を見極める考え",
@@ -594,6 +588,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "米国当局者がイランへの攻撃再開の理由を明らかにする",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjdadDRpQ3hzekJZcF9xaDIwSFFXU3JDdUNHWkZRWEpkT0E4a1YyTF9fSnVLRGRDRWtRVUFIS01DSEJyNURGVEdFTjJzQmxqMmd5QXdWVDFtUlNQZXdacUZoUGpkSXNWaFJReEhPVDd4TVRwNnRsYk51dzRsSEU2SWxmd2pseHNvNnNPdFBmX2pyVlFWTTloYzZEV1Q?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-20T08:00+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "トランプ氏、金正恩氏と「いずれ会談」 歴訪中は多忙で実現せず＝ＮＢＣ（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CQUMydzhvczFOZFFFZGJYS2pNVVpZRzZ0LVhYTEFYSzBudlE4cHVjenJHUm5RQkFUSjVKVFJabE1HeVY1VGFOMWhsS2dZQzJWWDFtT1RlODFpUXY4cEVCTVVZZVpoM3JYd2RNZE5ocnB5RG5iXzVsbzNDemVVVGs?oc=5",
    "source": "Yahoo!ニュース",
@@ -606,13 +607,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T07:38+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後、米クシュナー氏発言（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYkY1anBncTlybjJfTGgtSlU1Q0dXeUhIb1E5cTNPQWlTOTJXOHVNWG10THJBMEEwNnk4bEo5LV8yQXNqMC01VFlkeWV6bFlKY0o2RGwxMjJkNE02bTh6MFdsSEkyVEstQWhQdGxGN1dRUzR4c05jb1dsRVE0MXM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T07:29+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
