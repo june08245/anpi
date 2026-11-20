@@ -1,26 +1,23 @@
 {
- "updated": "2026-11-20T21:45+09:00",
+ "updated": "2026-11-20T22:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [
-   {
-    "code": "15",
-    "name": "強風注意報",
-    "level": 2,
-    "status": "発表"
-   },
-   {
-    "code": "16",
-    "name": "波浪注意報",
-    "level": 2,
-    "status": "発表"
-   }
-  ],
+  "items": [],
   "headline": "注意報を解除します。",
-  "reported": "2026-11-20T14:44:00+09:00"
+  "reported": "2026-11-20T21:51:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T21:46:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "4.1",
+   "maxi": "4",
+   "maxiRank": 4,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T20:40:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -90,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T11:11:00+09:00",
-   "place": "日向灘",
-   "mag": "3.1",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -138,10 +125,10 @@
      "at": "2026-11-20T15:00+09:00"
     },
     {
-     "title": "トランプ氏、イラン戦争巡る判断は「急がず」 年明けに情勢を見極める考え",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kY0ZQODBnNkRPQ3llZHIzcVprcEI1UEd0SnZEQnVNb2I1UngxY1ZPU2x2Zm83YUhrM1I5bFVSN2wyOWFtNWt2RE5uVHdHYlVQLVRRREFoNk9HVXY5QndQMlRkUUo0bzVzYmVVbXBR?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-20T11:11+09:00"
+     "title": "イランは射程4,500kmのミサイルがヨーロッパの米軍基地に到達可能であると発表",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEJLRHRxbkdCOWwtZ0prdEtVZVhrb3VqM2prTk1jenlhWHliZ1NHWXVlNEJkVnNrMnFiM3lwajZsTE5FMExBcWIyYTBsOXB3ODNxbHE5NUxBR0lBa0xCQzB5VlZyOGhjbHJGeEctOEtzZUpKdnpVX29iWG82ZG5iRUpqbDE2VWt3SWZ1YUc1T05yS1JURm9iVm1wQVRVTmtGVHN0TnBscmpxTW5UWHFGV082M3B4NGs?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-20T11:30+09:00"
     }
    ]
   },
@@ -204,10 +191,10 @@
      "at": "2026-11-20T19:54+09:00"
     },
     {
-     "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OcnF4SndtQmloRzNTanYtdUw3dV9iaGs4MVh2OU9hdUpWTXZ0R19kX09ZV1FlX3ZFZGtPcmZpNlB5RlFTOWtKX0FtVVMteVN6UjR2MUs2SEhaWW0zYWZ2YjF4RllDOW91SjR0ZjJn?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-20T19:30+09:00"
+     "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWblJpb3MxX1ptRzVCbm56ZVc5UTdiRlZuTDV6all1WXZpSEx2YmUwUWJDSGVYTmhuZlRMcURZWjdQZUkzSEpmVHRRRktGQXBZSUxCZ1VqTFdDYUcwTXp2ODhCUkw1NkNPMHNnaHJyUENBa0lWRFhXb2tFNW1MakU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T19:34+09:00"
     },
     {
      "title": "「会いたい」トランプ大統領、「待てる」金正恩総書記―米中露の平和宣言にない「北朝鮮」の文字（西岡省二） - エキスパート",
@@ -234,9 +221,15 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ロシアがウクライナに「過去最大級」攻撃 クリミア橋損傷への報復、民間人8人死亡",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjlOYUpVUUlJUjZ1clRxZGxnLUEyek1UcHZoUWxUeE80cDF1bHI5a2ZneG84Yld4UVF6MFpYTU9ocXlDQXFoc0NuVmtwc21HR2VjTmxiSFFVY0lFVEJ0MGRhanJwMEpHM01BS1o1ZktjM2FNdjBkRTEzaXMtdmlZWVlxcVBrNWhueWdldA?oc=5",
-     "source": "産経ニュース",
+     "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ES21ndmJQd1JQd3VWRjN0MlBNMGtxQWlIZ0tSMlBlX2o3WEVGMGpkWFRJTmk5TGpHUzJPQm10RzNBWWFVc294TWgxOGNmaVVZRVZ4bTc3V1pBT2p4cm1RUGZRamllTWVmdloxbnNlajdiZHdhTVZVOExR?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-20T21:41+09:00"
+    },
+    {
+     "title": "ロシアがウクライナに「過去最大級」攻撃　クリミア橋損傷への報復、民間人8人死亡",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzJINGJRQnVyam9XWTdKeUxLMlh1c3I0NjQ2OUo2OEdiYmJUQjlLYlV0UmtEdl9xdTJiMXFmMWVQR2pmRW9EM3ktaDRfWHI5NnJ4NkNXYjl1bXVNclhhdlp5ZjNZWjkwd0pxMG9Kd3BmdWdDWDFXV3NMTERIVXFaUDBRYmI2SnpUbDlSZzMxSTlCd1l2aVRMYUNUNmhVQzRwOUHSAacBQVVfeXFMTVdEMWg0Y2x5ZG5tMGp5WkxGMFI4eWYxa0lJYUlPbVpiLTVPZkk1VDY4YWRQY0k5Z3RFS3I1Vk9JMWdtWldfeWpMZ1hCSXZCdlgtLU51R0JZZEYySUlhMUExUGRoRVBoYzhQRlBmQm5fXzhSSFhlaDdwSlZzdDM2MmVJWE9YeWN0UUFZY2NscmVpM0kyR0lKY19fMW9Id2hHT1lLOU9teVU?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-20T21:37+09:00"
     },
     {
@@ -262,12 +255,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DTUFHdTBXOVJRREszdlk1djZoczRzUThJLVRMaDF6YlEteXBVT3plVlVlTndlbDFqT0hWOTVfc2QzR0FjQlEzMHdCdnVHc3lqOUJJY0Q5SFhTak15RDJLN0c5dGg4MmJUcFJ6Qm85MjBTcUNsd01nekg5Y3EzbkE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T20:40+09:00"
-    },
-    {
-     "title": "キーウの橋3本に被害、複数地区で水圧低下 ロシア軍の夜間攻撃で6人死亡・15人負傷",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id0xhVkt6WGxrMFRRNkE1NV95NTY3djVac0E4YVRZYmVuenpsMWIzeXk5UWVTOWtVeFh2d1gyTTkzd3ExOEFFZDdUUEdnYmFTaUxZX2FxNGE5VnBScXNhT01HZlhGelpXaHc?oc=5",
-     "source": "NOVAIST",
-     "at": "2026-11-20T19:54+09:00"
     }
    ]
   },
@@ -275,6 +262,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "欧州連合（EU）の外交責任者カヤ・カラス氏は、キエフに対するロシアの攻撃を非難し、EU駐在ロシア大使の召喚を発表",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJXOVBqZHJFY3lzLV9FeU9GQ1pVMzJTbVROdmROclVlczhCczNYbXVhM2lTTVREdnFTNkt1OHZUX214aERZSUpSanoxQy14eEt6bmpHX3AtOWpNaXZLQ0gxT0ZleFZjZGhrdTBTWmRvVlFwY3N1eEtVUmlSTlVvcDNWR0ZiVXhpS0Z5VHM1cDNqcDdabzY5M2NULUFvU28wZnZnNzhpck0zMzN2OGZPaW1OOGpRQQ?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-20T21:23+09:00"
+    },
     {
      "title": "ロシアはNATOが軍事衝突の準備を公然としていると非難",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2RhMkl0ZGtkN000UVd6YVhRRi0zQ0l5X2lBLTdTb2Mta2JqTnBFYURzRUlGVWtlanFJSkFFX04yTkZZRkIxMjRjS3pGZ3htMy1vRGhjYmFKLXhaZjBBWl9sdU5paDlSM1RoQ0o2U3N0SDBGd1IzdEdHRTV6a2x5cXFmanljR3JONXJSMFR3OS16Z21GY2RpSUZnaklqSlo4dkE?oc=5",
@@ -304,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSElCanRRWDA5Y05VVmFRYnNFQndUS2RrNDR6dWRUdUpGcmJLM0FXVzM1N3U0LTNVaUdkaTBiR0pZZnFWaXEzY3F6RUNnczBhT1FaOU5nOWJ2RlFnU0JVS214UW4tU25hM1F1R2Nha2NSbHNCZUNlWHhtWVg1TG1zRmwtUDc4UjBQZ0hOYmhvWmJkMjl3SjdxWkp3?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-19T22:31+09:00"
-    },
-    {
-     "title": "ニクショル・ダン：「ヨーロッパは現在、ハイブリッド攻撃を受けている」",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGpleDlXR3ZzOWJxTEdSMEdoTnM4VDlIeUJiWUo5aEFEMHpYSllIU3N3cHhUcmtCYVBmaGgxQ01mdFZ0ZXNLc0dFZ0lmZTZJbUVWeGh1NUh1R2N0Ty0wLXN5ekhRS0RfYkQ3Y2Vwd0l0eXdkQkc0VnpYYmd3azJVWU1jRE9weWl4VXBUUkFNcmx1U0dDYUdoTVFQamtVbTRpRWc?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-19T19:16+09:00"
     }
    ]
   }
@@ -394,14 +381,50 @@
    "at": "2026-11-20T20:27+09:00"
   },
   {
+   "title": "スパコン「富岳」の不正アクセス問題、認証情報４３０件持ち出されたか…外部のスパコン接続の「秘密鍵」",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uaDlSVEtkYW53MUwtS2RsMzN5eWtPSDdtSHIwZVg2S3h3dGxUMHdHNjNPbGd3N3ZhRzdaR2JYTm4teDlOLXRSWmszYUNYeGVMU0tYUUFKanFRSEEyYmtHQ3ZmQVk?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-20T21:55+09:00"
+  },
+  {
+   "title": "プレイドの不正アクセス 延べ2200社に影響か 通期業績見通しも修正 20億円の赤字に｜Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUUHdmV0RFUkxpT3A4eTRQMExLMmpmaVRtYkhXV29IYktCd2RyelMyblE4SFFCUDAxZ3JCRUREUjF6eWp6b1gySUd1T1VSOVhReXItZVBMZDc?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "at": "2026-11-20T21:49+09:00"
+  },
+  {
+   "title": "当社委託先システムへの不正アクセスに伴う、「タイミー」ご利用事業者様の一部情報漏えいについて｜ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnSlM3N1l5Wi15ZHRTaHhKdW9wUzhfN2hTbHB4RTNNdnJMUEZvVG53bUg1azJCTF85blNzZGZKSVRsSnZWS2UwempUN0xUWUVncFFMaw?oc=5",
+   "source": "株式会社タイミー",
+   "at": "2026-11-20T21:48+09:00"
+  },
+  {
+   "title": "サイバー被害拡大防止へ アクセス抑止策を検討する初会合",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KVEU5Rm1nOVZvMVRhOU9Nc2tQMTEwZ1NFdWZjUl9PcWwzRm1QV3pDVjRQcVNrcU5acjN6LUREdkNYMFppLW9SS3ZabmtoOUI3Uy02RkZnR0toUDRSeXFN?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-20T21:44+09:00"
+  },
+  {
+   "title": "政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wdW80U2c5T2p5bDh4enF3X3ZGeTgycGZEVFUtalRqMEVrUW9QNXJCMHhpVWIxcnNDZ2dIX2xVblJ5VTRtb1BOeEpQSkxER0cw?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T21:36+09:00"
+  },
+  {
    "title": "総務省が不正アクセス対策の有識者会議 「ブロッキング」の扱い焦点、権利侵害課題",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NdEcyOG90RVJobzEwQjJaZTNtVW5jRnJYbDdPN1dhS1RSTjR0TXZ2NEVJRDZyaFVuZFhydHk5bzhmZ0thRndFQXUxcUYtWm1qOXhUbjN4YW5aMVlmX1dsN21IbDFzZXJuVUxPTnVma0NfZnBwUEE?oc=5",
    "source": "産経ニュース",
    "at": "2026-11-20T21:32+09:00"
   },
   {
+   "title": "政府のファイル共有サービスに不正アクセス、会議資料など外部流出か…７月以降継続と判明",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rbVBXYzZFZW04R0s0YzB5Uk1BYXZ4Z2ttLUdWMUFidE00V01teEJxQVRBY3FGQnRyd09pa3l6YzZjYmc4RWpyQXdueW5hamU4RTVxbnRNaWdvWlVya20zMVhXcjZ3QQ?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-20T21:30+09:00"
+  },
+  {
    "title": "政府の情報システム基盤GSSで不正アクセス 内部資料漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13UGlhOVhkdXhTNWNGWF91LUNqbUVBeFR3ZVJUOWNLbUwwY2RUUWxkWUtDdXI3U25HUndIenQ4aFNrTzZpM1hEX2NuWUNhZVpqblFiUHJ5SHJsWHg5ZGo0MmNuaXNYTUVoX3JsZkRMcmdrRjYw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GY2VLbGJremFTcnRsdDI1NHR3QWdTN2JBeEd2UkNkUlQ4ZkNvb3cxSnlNLVV5aFdKNTdzVkNxaDBQdXFDRWlrNDNCVFU3OHIydjZmcV9mWQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-20T21:29+09:00"
   },
@@ -440,42 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MNjJsbXFxRHliVHRJLS12YXJvaENWXzhTUE8wdG5NckhRS1BWN0c1dXdLRllkRHdGbVNMc29Bd0FEVHJBeGJpZ3BlSTVoTmpNenphVjh0Sm5IMHlQUHktalRoeEtJQWdi?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-20T20:57+09:00"
-  },
-  {
-   "title": "理研スパコン「富岳」不正アクセスで調査委設置へ 再開めどなし",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXbHNKc0k0M1Y2Vnlna2xyMGtRQTFNeTZvakphTEs2dXh2eU0ySldadkI1Sjc5Y3FWbDNiQ1lwVFduOEZqZndmcXZaaHFyZ1J0RXllOWctYmk4VExrX3J2a05ra0VDbTRz?oc=5",
-   "source": "毎日新聞",
-   "at": "2026-11-20T20:56+09:00"
-  },
-  {
-   "title": "四日市市がメールアドレス3720件漏えいと発表 「アララ」に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EWGl1aExjUmpMY19NanBCYThyWW01QlpkSS1aRFF2ZlNDYUswSy1LWnd6bWx3VDlBUUdaSjNxOFJSTVplZ2dmbzNlVGlqVnYtSEwyRlI4STVFU1JvajZ3?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-20T20:53+09:00"
-  },
-  {
-   "title": "長野県の不正アクセス問題、個人情報流出確認されず 「チアフルながの」などのメール配信サービス",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52RlBhdUhPVXE0OXZscnpMdmUzT0VLdzdPS1E2RzM5Vy1yQTFXc3RJUU5GSzA2RE1RMW1XRE9RbXQzN1lER3BfUGNRcFI2N0dkbXNlMQ?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-20T20:40+09:00"
-  },
-  {
-   "title": "欧州委員会、AI生成のサイバー攻撃を確認",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFNqWnctZjBhTng1TFk2QmV1d1pTVjFXQ3pBOXQxWFZDVU9LbXBlc1M3MzVCb1RzM1FWd3hGX0V5Wm40QkJyOUF6OWJaODdBS1FGTGQ4TW1fbHk4ZVhEa2FPZS10NXVneWFPWWs4MGtvV2JSTXVxOGlqeENQc1REODViRVNJYTVSLWRUbXQ5Sm8?oc=5",
-   "source": "Pasquale Pillitteri",
-   "at": "2026-11-20T20:30+09:00"
-  },
-  {
-   "title": "プレイドへの不正アクセス、2200社に影響 丸井やDHC、ジンズ [情報漏洩・個人情報流出の最新ニュース]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TQTRFVU1Bd3lvc1M1Qi01S1YtTEdRbHloQlNBSmE2b2xaaXJaMkE4TC1TWXd0UWFlT3pYY2pNelVlVC12RHRqZmxhQzhhWmNwWnZhUmR1UFRxVXlkSThHTGNYcVg1cHM?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-20T20:30+09:00"
-  },
-  {
-   "title": "「富岳」に不正アクセス 他機関のスパコンなどに接続するための認証情報に持ち出された痕跡 悪用の形跡は確認されず",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlREthMks3N2RsR3M2dFM1b1ZmTXRhSGJ2eUwzbmFHb1pNVGVSMmpXdzNxd0RRX3NvZ09kd2dCaVI2bjZVWkJRSzhXTGNyMklKeHJEYlNMOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-20T20:29+09:00"
   }
  ],
  "osaka": [
@@ -488,11 +475,25 @@
  ],
  "world": [
   {
-   "title": "ロシアがウクライナに「過去最大級」攻撃 クリミア橋損傷への報復、民間人8人死亡",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjlOYUpVUUlJUjZ1clRxZGxnLUEyek1UcHZoUWxUeE80cDF1bHI5a2ZneG84Yld4UVF6MFpYTU9ocXlDQXFoc0NuVmtwc21HR2VjTmxiSFFVY0lFVEJ0MGRhanJwMEpHM01BS1o1ZktjM2FNdjBkRTEzaXMtdmlZWVlxcVBrNWhueWdldA?oc=5",
-   "source": "産経ニュース",
+   "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ES21ndmJQd1JQd3VWRjN0MlBNMGtxQWlIZ0tSMlBlX2o3WEVGMGpkWFRJTmk5TGpHUzJPQm10RzNBWWFVc294TWgxOGNmaVVZRVZ4bTc3V1pBT2p4cm1RUGZRamllTWVmdloxbnNlajdiZHdhTVZVOExR?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-20T21:41+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシアがウクライナに「過去最大級」攻撃　クリミア橋損傷への報復、民間人8人死亡",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzJINGJRQnVyam9XWTdKeUxLMlh1c3I0NjQ2OUo2OEdiYmJUQjlLYlV0UmtEdl9xdTJiMXFmMWVQR2pmRW9EM3ktaDRfWHI5NnJ4NkNXYjl1bXVNclhhdlp5ZjNZWjkwd0pxMG9Kd3BmdWdDWDFXV3NMTERIVXFaUDBRYmI2SnpUbDlSZzMxSTlCd1l2aVRMYUNUNmhVQzRwOUHSAacBQVVfeXFMTVdEMWg0Y2x5ZG5tMGp5WkxGMFI4eWYxa0lJYUlPbVpiLTVPZkk1VDY4YWRQY0k5Z3RFS3I1Vk9JMWdtWldfeWpMZ1hCSXZCdlgtLU51R0JZZEYySUlhMUExUGRoRVBoYzhQRlBmQm5fXzhSSFhlaDdwSlZzdDM2MmVJWE9YeWN0UUFZY2NscmVpM0kyR0lKY19fMW9Id2hHT1lLOU9teVU?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-20T21:37+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "欧州連合（EU）の外交責任者カヤ・カラス氏は、キエフに対するロシアの攻撃を非難し、EU駐在ロシア大使の召喚を発表",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJXOVBqZHJFY3lzLV9FeU9GQ1pVMzJTbVROdmROclVlczhCczNYbXVhM2lTTVREdnFTNkt1OHZUX214aERZSUpSanoxQy14eEt6bmpHX3AtOWpNaXZLQ0gxT0ZleFZjZGhrdTBTWmRvVlFwY3N1eEtVUmlSTlVvcDNWR0ZiVXhpS0Z5VHM1cDNqcDdabzY5M2NULUFvU28wZnZnNzhpck0zMzN2OGZPaW1OOGpRQQ?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-20T21:23+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "ロシアはNATOが軍事衝突の準備を公然としていると非難",
@@ -544,17 +545,10 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "キーウの橋3本に被害、複数地区で水圧低下 ロシア軍の夜間攻撃で6人死亡・15人負傷",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id0xhVkt6WGxrMFRRNkE1NV95NTY3djVac0E4YVRZYmVuenpsMWIzeXk5UWVTOWtVeFh2d1gyTTkzd3ExOEFFZDdUUEdnYmFTaUxZX2FxNGE5VnBScXNhT01HZlhGelpXaHc?oc=5",
-   "source": "NOVAIST",
-   "at": "2026-11-20T19:54+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OcnF4SndtQmloRzNTanYtdUw3dV9iaGs4MVh2OU9hdUpWTXZ0R19kX09ZV1FlX3ZFZGtPcmZpNlB5RlFTOWtKX0FtVVMteVN6UjR2MUs2SEhaWW0zYWZ2YjF4RllDOW91SjR0ZjJn?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-20T19:30+09:00",
+   "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWblJpb3MxX1ptRzVCbm56ZVc5UTdiRlZuTDV6all1WXZpSEx2YmUwUWJDSGVYTmhuZlRMcURZWjdQZUkzSEpmVHRRRktGQXBZSUxCZ1VqTFdDYUcwTXp2ODhCUkw1NkNPMHNnaHJyUENBa0lWRFhXb2tFNW1MakU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T19:34+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -619,13 +613,6 @@
    "source": "Informat.ro",
    "at": "2026-11-20T15:31+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調 – Quebee キュエビー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdTlXdUxfNk1zUnl1Vk90NlhjRW5lUDJNZlRnVmRYWWpQYUtWbzNhdTdRTWYzM19GYmlyYTBLX1NBMTBCY05GaE9DTV9UakNuZ3ZSOUFnd0g?oc=5",
-   "source": "QAB 琉球朝日放送",
-   "at": "2026-11-20T15:15+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -644,10 +631,10 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「封鎖」1件",
+    "イラン・アメリカ：「ミサイル」「封鎖」2件",
     "中国・台湾：「侵攻」1件",
     "ロシア：「攻撃」「報復」6件",
-    "欧州・NATO：「攻撃」「軍事衝突」2件"
+    "欧州・NATO：「攻撃」「軍事衝突」3件"
    ],
    "items": [
     {
@@ -663,10 +650,10 @@
      "at": "2026-11-20T16:35+09:00"
     },
     {
-     "title": "ロシアがウクライナに「過去最大級」攻撃 クリミア橋損傷への報復、民間人8人死亡",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjlOYUpVUUlJUjZ1clRxZGxnLUEyek1UcHZoUWxUeE80cDF1bHI5a2ZneG84Yld4UVF6MFpYTU9ocXlDQXFoc0NuVmtwc21HR2VjTmxiSFFVY0lFVEJ0MGRhanJwMEpHM01BS1o1ZktjM2FNdjBkRTEzaXMtdmlZWVlxcVBrNWhueWdldA?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-20T21:37+09:00"
+     "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ES21ndmJQd1JQd3VWRjN0MlBNMGtxQWlIZ0tSMlBlX2o3WEVGMGpkWFRJTmk5TGpHUzJPQm10RzNBWWFVc294TWgxOGNmaVVZRVZ4bTc3V1pBT2p4cm1RUGZRamllTWVmdloxbnNlajdiZHdhTVZVOExR?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-20T21:41+09:00"
     }
    ]
   }
