@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:59+09:00",
+ "updated": "2026-11-20T16:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -162,12 +162,6 @@
      "at": "2026-11-20T13:15+09:00"
     },
     {
-     "title": "中国の王毅外相 「米中露首脳会談は平和サミット」と強調するも、中国共産党の新聞では台湾問題を「各国が超えてはならない第一線」と圧力",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IUzA0Z1RmQVkyT1g0UUxSdnZTUXpLaW5VZWF0c3BJVXh5MjF1R3plZy1YM0hPTHpTYzhFN3VLTjc0UGM5TVBCS0xlRTFoUFRBZVpSTkF0SWo4ZVN2TTNRRzZRck5vNkVab2lPZEhR?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-20T12:03+09:00"
-    },
-    {
      "title": "米、中国軍企業への輸出承認 ＡＩ半導体、今年５月時点",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1cU5yX0Q3ZjR0Si1wOXlKeWtpdEljczdVWDAtd3RWbHptUF9uejZxYzRiMEticGFaSlNIaWJmR2hyYTdWcnRrXzRHYmVURkRZVlAwMXZnT01sSEstZnd0WHVGSFhKYVk?oc=5",
      "source": "中日新聞Web",
@@ -184,6 +178,12 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQam9RU25ZcnpFcXpUd2pmWDZ3UHZJaHg2ako1aERaZVM1VVNzaWR2SUY1a2RBS1J6T2ZENnpNcjVNVlhNM3hLaHlKZDhYd1NiLXFYSTlpdTRkcEJHN1J3SWFKT0ZNNUp3ZTdIWEdZSFdUdi1xdi0xdVEyRDlTVFlwVWRUOFpraHlB?oc=5",
      "source": "조선일보",
      "at": "2026-11-20T07:06+09:00"
+    },
+    {
+     "title": "米中首脳会談、両国の「安定」へ行動計画策定で合意…習氏は台湾問題に関与しないよう求めたか（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdmZIMWRhendlOUJoWVdVN1diN3J1WXpjOVROR3gxSGlRV1p6V21OMms3dWxITXBuNEFSMXZTSWJXQTJCV1NEdDZCUlJYdHNtX3daMEtKbE1VVEZqRlA3WmtSTWd0eEpRQjZ3TVVmRHhpTFVMLVpQdlBkS3VaTlE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T22:55+09:00"
     }
    ]
   },
@@ -277,9 +277,9 @@
    "items": [
     {
      "title": "クシュナー氏「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後発言",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbXQ1ZG1OQjRTbnp3d29QcTFOTTdyekdtQzNhTy1tRWJSZ3VneDVUZU5Ib1hMZzByS01aR1h6WFl0U0V3RFpkRGE4OS1yUGh0YlU0aDVISUczUVFzNFM5M3E1RUxXN3o3ZFN3MWtlSFQ0T293N002bXRHUE80QjBYRUdVdGtoVEdITDE2cmNsRlNwbHIwTWdHNVRPc1hDVUk2Vm80VWs4eFNLUzRPUTVqWlpyTmNuWnRhNU5uVDJvdjFwYW1nb0k1TkRZemJKZDZYUTItbmNBRUZwaV9DQkpYLUJYQURVSENf?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eUdjWkFDOTd4T0loaGxhcU1BUDBaUy1NdjhfeFVYaGx4SnM2ZW5nekZodWxYeE1FVEtMTlFqM19xdVgxOGVjYVFtQXZrY19xRFI2d3JLZnJFV1U?oc=5",
      "source": "ABEMA",
-     "at": "2026-11-20T11:25+09:00"
+     "at": "2026-11-20T13:31+09:00"
     },
     {
      "title": "「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後、米クシュナー氏発言（テレビ朝日系（ANN））",
@@ -376,22 +376,10 @@
  ],
  "cyber": [
   {
-   "title": "［今週のリリース情報］SD最新号ではシステム障害の原因を特定する技術とエンジニアのためのUI設計を特集。最新テクノロジーの解説書や有機化学の入門書など新刊が発売",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxQjBkaURKbzl0NUluOEFpNWRINHVkRTM3WkY4ZDdhRHphQWxFY0tSSHlOTUtzNGlEYkxqWmpRcGlBTXppXzlaWWJ5bGRFQ1g4OXk3ZDlvWW1mU2hUaklXeHdYWQ?oc=5",
-   "source": "gihyo.jp",
-   "at": "2026-11-20T15:45+09:00"
-  },
-  {
    "title": "障害児支援施設の児童へのわいせつ動画提供か、男逮捕「覚えてない」",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVjJ3QmYycUVSZFNSVWthb1I2TTh5aFhiYkZXNGltNTZxS0Q3bzUxSE1XUVRWNTFtb1kzUnF0Q3V2T2x2cGdUTlB4LXVzZjFERllUUnF1T01pM1Y5WmdPc09JSE9QdEk?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-20T14:40+09:00"
-  },
-  {
-   "title": "ドコモ通信障害 藤井総務大臣「大変遺憾」 今月3度目 「根本原因の究明を」",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EbE1yT1Nma0dFWFR4eklnWlBCM0dkbmxpRGZkREVnSlh5QlY2WFF6QmoxMDd4eFlhUFZlZUV4SkZaN0g1Tlh3RDRTN1prOTduUVlFYkVNSzR2YXM?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-20T14:39+09:00"
   },
   {
    "title": "S.RIDEで利用者情報が漏えい KARTEへの不正アクセスで生年月日・乗降エリア、法人利用企業名も対象",
@@ -464,6 +452,18 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DSWdiSE9pLVItTmUwaVhuMF9xeUw2Z0o3UTlzVFA5NnBQNTQ0Q2Zkemw5RDE4ZklIcmN3c0tmcVBHU2VndHVuWm5sYWhXRVl6bmpWT1lwU2E4eWEzM1dKTHc1aFRaejAzOVdCVUlxbjlsYUF1LUZBRDBpQ3pXVGs?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T15:34+09:00"
+  },
+  {
+   "title": "サイバー攻撃で顧客から訴訟リスク 企業は契約見直しなど対策急務",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYci1VVE90UEd2VGFyOVpqbmNuZDBfWmlLTkk5NnBqNU5Pc1FkekxKZV9DTUlDSHRNanFfb08yV1k0VkNnczJHZ0REU0p1dmc2R1dTZTNmb2lVT1JQWE1tVm1sZmxWMk93MWJjcQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-20T15:12+09:00"
+  },
+  {
+   "title": "不正アクセスや特殊詐欺などの重点課題を確認 香川県警が警察署長会議を開催（RSK山陽放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rcElXQWRxY2dpM0R1OTN5QVZHcU9uOEYxZmdZVXhJZ0hydGEwb3I3cEVaN2Y4dkFOa3cyalBna002LTl4Q0JKSVU3THVxbHBZcWdqSzZFYjA1ZUU4aEtrZDYxVXN3cC1xT0JxVHhudVBuVjFwNzhBb01oTzJiWVk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T15:00+09:00"
   }
  ],
  "osaka": [],
@@ -518,6 +518,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "クシュナー氏「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後発言",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eUdjWkFDOTd4T0loaGxhcU1BUDBaUy1NdjhfeFVYaGx4SnM2ZW5nekZodWxYeE1FVEtMTlFqM19xdVgxOGVjYVFtQXZrY19xRFI2d3JLZnJFV1U?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-20T13:31+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（遠藤誉） - エキスパート",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk4zRng5VUFyVlZ0cmM3a2lLWEY2YkF2SmF0cXVfdW9CczlzaEdnNnI0NEltQUJZcUR3QmIzV1BCMDlsTFhFTk5zTFh6ckxVRlcyS09ucG53YUVCaV92V1FSSmtBbHlNenVrMUtTdmZjbHlRRno4cGFXenhZdExjc3hjUHk5X3pG?oc=5",
    "source": "Yahoo!ニュース",
@@ -539,25 +546,11 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "中国の王毅外相 「米中露首脳会談は平和サミット」と強調するも、中国共産党の新聞では台湾問題を「各国が超えてはならない第一線」と圧力",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IUzA0Z1RmQVkyT1g0UUxSdnZTUXpLaW5VZWF0c3BJVXh5MjF1R3plZy1YM0hPTHpTYzhFN3VLTjc0UGM5TVBCS0xlRTFoUFRBZVpSTkF0SWo4ZVN2TTNRRzZRck5vNkVab2lPZEhR?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-20T12:03+09:00",
-   "topic": "中国・台湾"
-  },
-  {
    "title": "ロシア軍を煽るコメント？「橋は大切だよ」突如スウェーデン軍が公式でSNS投稿！（1/2 ページ）",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kdmN2Uzd1NmM5cEhWeEF0MHZUem94NVY1QU9BNmVReE94SW1sVnBvNWF6eVhRZ3Q3MVJHay13U1QwamxUZG83ZDVn?oc=5",
    "source": "乗りものニュース",
    "at": "2026-11-20T11:42+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "クシュナー氏「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後発言",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbXQ1ZG1OQjRTbnp3d29QcTFOTTdyekdtQzNhTy1tRWJSZ3VneDVUZU5Ib1hMZzByS01aR1h6WFl0U0V3RFpkRGE4OS1yUGh0YlU0aDVISUczUVFzNFM5M3E1RUxXN3o3ZFN3MWtlSFQ0T293N002bXRHUE80QjBYRUdVdGtoVEdITDE2cmNsRlNwbHIwTWdHNVRPc1hDVUk2Vm80VWs4eFNLUzRPUTVqWlpyTmNuWnRhNU5uVDJvdjFwYW1nb0k1TkRZemJKZDZYUTItbmNBRUZwaV9DQkpYLUJYQURVSENf?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-20T11:25+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "トランプ氏、イラン戦争巡る判断は「急がず」 年明けに情勢を見極める考え",
@@ -607,13 +600,20 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T08:55+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "トランプ氏、金正恩氏と「いずれ会談」 歴訪中は多忙で実現せず＝ＮＢＣ（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CQUMydzhvczFOZFFFZGJYS2pNVVpZRzZ0LVhYTEFYSzBudlE4cHVjenJHUm5RQkFUSjVKVFJabE1HeVY1VGFOMWhsS2dZQzJWWDFtT1RlODFpUXY4cEVCTVVZZVpoM3JYd2RNZE5ocnB5RG5iXzVsbzNDemVVVGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T07:54+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「ドコモ通信障害 藤井総務大臣「大変遺憾」 今月3度目 「根本原因の究明を」」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
