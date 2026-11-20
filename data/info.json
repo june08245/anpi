@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:15+09:00",
+ "updated": "2026-11-20T13:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-19T18:24:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T13:22:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T11:58:00+09:00",
    "place": "宮城県沖",
@@ -91,16 +101,6 @@
    "at": "2026-11-20T07:27:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T05:02:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.7",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -174,6 +174,12 @@
      "at": "2026-11-20T07:06+09:00"
     },
     {
+     "title": "米中首脳会談、両国の「安定」へ行動計画策定で合意…習氏は台湾問題に関与しないよう求めたか（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdmZIMWRhendlOUJoWVdVN1diN3J1WXpjOVROR3gxSGlRV1p6V21OMms3dWxITXBuNEFSMXZTSWJXQTJCV1NEdDZCUlJYdHNtX3daMEtKbE1VVEZqRlA3WmtSTWd0eEpRQjZ3TVVmRHhpTFVMLVpQdlBkS3VaTlE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-19T22:55+09:00"
+    },
+    {
      "title": "中国・習主席、台湾問題について米を牽制 トランプ大統領との首脳会談で",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TcWRiRExETmk4X1dFcTJ4ZDNiUWNISFoxZFlVZk1SR1poOUtOZWtJblZrbGNNQkFtLWItQmJlTGptYnM5SzVQSkpNMDE4R3hFOFhuSjdfUVlzZE1NeUh0RkJ1VUhiVmRhWlhET0NB?oc=5",
      "source": "Excite エキサイト",
@@ -184,12 +190,6 @@
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXhzdllaajNGa2dQM1VHbm1Jblp4eDJiMk9XUXlQd1o3UlJTUU1oOEh3YUpJTVByaVB4SkpFUXlUaDBvbDRpMWotUW5nQUFEQmpfejA5a3VqbURkdE9mRS1RYU5seVFJTUZZeUJxdUt5X01JVERhUlB2UmlJQkZqNHdYUjJ4QjJFSndQWHE1TnV1d9IBlwFBVV95cUxPZ3d1dlJBd3hmLWdTUW8wWHFocTYzbDZjR0w0elROYTJaQXpZdDVVVW9Tamlpd29uWVAxMzkxeWN4ODlkWlcwOFBiUlctdWVabEJ1aGRmWl9VR0hELVNIYzRFeW52cFVjWnVmbDY3T2Y4RG9FNHFoR0gxUFA2bDRBcnJZNWhaQjFqeGd5RUhVU0wwNEh5bUNr?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-19T22:01+09:00"
-    },
-    {
-     "title": "中国とロシア「戦勝国」強調 トランプ氏との首脳会談で、日本念頭",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5b2tSWDhwMVUyUVNlVENCTVNrNjI3S2VFOWxMR2M1eFBjV1hOWXcyZy1uT01OLUtsbkVibXFPQUtOTlpxcllLTGZOZnVtSnJhdVA1eGdwU3p0RlkxanQyXzlrbkdsTWwzc3ZXUQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-19T19:50+09:00"
     }
    ]
   },
@@ -258,9 +258,15 @@
      "at": "2026-11-20T11:42+09:00"
     },
     {
+     "title": "ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92amdHNXR6bFByd0g3bHk2VmhudXE2Zk5TNFZBWHBNZVhGbHMxSzA4NmdTU3ZBdWI5Y2VvZWpHUzhMbUs2dFZiZUlBYWNYWjItQ2F3S0pWTmNieHZzYWJaSDJUV3Y?oc=5",
+     "source": "千葉テレビ放送株式会社",
+     "at": "2026-11-20T09:57+09:00"
+    },
+    {
      "title": "米中露首脳「平和宣言」もロシア軍がウクライナ首都キーウの各国大使館を攻撃 オーストリア首相「断じて容認できない」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsT3I2T1FUN3dYNWVFSlkyVXE4M1JzZ0ZrRHRxM09VTnVIR0hfc3pPNUNxZHJFT2lVU0M3Y1ZBRTE5RXhMbUg0OHZMTERubkVSamc1MzZFeDctNVVZUGtpSlg4SUwzdzh3U0wyZTNn?oc=5",
-     "source": "Excite エキサイト",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Z2tzTjZfQ2NheUM3VjMwYjEyWlgtOV9ZbnJvZS01VlBFVUZINlp4OFdBa2VZNnRCbVBmWFVvTWNPUVFmeVZ3dndkUF90WWJOeDlGNGtXLTFvbEx1MEFB?oc=5",
+     "source": "千葉テレビ放送株式会社",
      "at": "2026-11-20T09:52+09:00"
     },
     {
@@ -268,12 +274,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83b1l6MDhSUTcyNHZvVjNiTXhkMWVlTVZKY0NvcTlXVGRDQ2lwSDF1SWxNQ1lST3BnZU5MWUFONEI2RkJmdkZ4QjlVVm80akdCbkZPeGVRV0tvY05jdVJja1N2MVpiNzNGM1lBNFZvSkdOSUU?oc=5",
      "source": "デイリースポーツ",
      "at": "2026-11-20T09:44+09:00"
-    },
-    {
-     "title": "ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15VmVBdERjbjFMSGFRTnBiVnZtN3IxR3FVZC0yY1MzQ0hiWjhXOGd1SkZScENKbEl4S0lsbUsweUk3TlZMWGg4Q3pqUQ?oc=5",
-     "source": "47NEWS",
-     "at": "2026-11-20T09:42+09:00"
     }
    ]
   },
@@ -306,16 +306,16 @@
      "at": "2026-11-19T19:16+09:00"
     },
     {
-     "title": "エルブリッジ・コルビーは、ウクライナによるロシアへの攻撃を批判した後、NATOの会合を退出した",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3dQalZoOHlLZmJvQkVKdi1fenh6bi04Z1NwcDRQLWFiLTFqanFTd0FnSDlGa2E4MFRONy01NUQwZElESDZjeXFqWjR6VVhrLWpTZ29WM0swZS0yR0M1T0RSNTc4dlBpZG1xNTVwOGxEdU1aczRqX21xNXZRY0dKLVlOeWxoYzdoWXhCTUFjZG94TWFEa3NrYVlDWWtQUzBKV0w1V3RkSldoVVot?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-19T18:02+09:00"
-    },
-    {
      "title": "プーチン氏がトランプ氏を操る？対欧州破壊工作の実動部隊は",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
      "source": "TVer",
      "at": "2026-11-19T15:16+09:00"
+    },
+    {
+     "title": "【欧州へのハイブリッド攻撃】無人機や偽情報、背後にロ ＮＡＴＯ足並み乱す狙いも",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZUREbUU5cGd2RElVUVd2ZWdIQ2ZPeWdxYXo2emxOQndtN2E4SFl2T2JVeHVZV2xJWWlscTk5SkJ2eFVaVmJXa3NmZGtRbkdTRjVpWW9NOEJNWDAw?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-19T14:08+09:00"
     }
    ]
   }
@@ -382,6 +382,12 @@
    "at": "2026-11-20T10:49+09:00"
   },
   {
+   "title": "[写真]米NSAで大規模システム障害、職員の自宅待機が3日目に―中東情報拠点にも影響",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xRDl4bjZVSkdxYndSWGZWbjQzV2R4bmtMQWNoRlc2bDRGREZxeGtlSFBUSVp6V3hHWUdyUExMU3lxeWtFSmI2QTlZMHpjNVZwS3YyTw?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-20T10:49+09:00"
+  },
+  {
    "title": "「終末への備え」広がる、米消費者の買いだめ急増－相次ぐシステム障害で不安拡大",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVVFR0JGSGo0NHlaT010eV93NVkweklDRFkyMm80cnkxUkIwNWdxeTJPb3RtRmRZVFZncy1teHB0R2J6OWQwZ2JOdFhKSnJVa2hXUkVmOGFQdGRDekVmWnBvMVQ2Zm53c1RoRDVXMnNESlVxeG04azkxZUFMUVZYY3FId2hNaVU?oc=5",
    "source": "TBS NEWS DIG",
@@ -394,10 +400,22 @@
    "at": "2026-11-20T09:57+09:00"
   },
   {
-   "title": "米政権が国家サイバー長官解任、相次ぐシステム障害で批判",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXJud2F0M3J4RllaaW5aUjhxd2RzbTRMOXBXOGxtN1U3bTl6UHBEelNlNFZDYzdQc3pPVXVOakdtS3k5REFVR2pWWjBJa3k2aHZxeEpjS252RjFxb0ZUNWxwT2Y0RWQxczdnWUJkM2ttci1KSlZDYTh3VW5rZkdTbUxKVldBeFk?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-20T09:57+09:00"
+   "title": "富岳不正アクセスで調査委設置",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80RlBOenBqcmUwZGw3U1RLSC14MEY0c2sxUEQ4ZG1FMURQU3o5aEJMNVNySVhMTERaLVdLeW03NTdHaVJnZXprcGhPR2hlLXhScnctLWt0Rm5Odw?oc=5",
+   "source": "中国新聞デジタル",
+   "at": "2026-11-20T13:19+09:00"
+  },
+  {
+   "title": "富岳不正アクセスで調査委設置　理研、運用再開見通し立たず",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdG5IUGN6ZEJEdjdqa3M1cklqSVpxVmR3Ni05Rk55YUd0N01HZnBDMXdHRUdhMTVaNzFKT29Jd0Q2eGVDMUpuLXJEVVBMVmJPb0JzbWlpbzNuZUpZWHJuQXVVbmtNOU1PZ0dWcXY1d3dhRV9nSVloVC1jdHh1Z21vR00tZHFKaWd5YUHSAY8BQVVfeXFMT0poQUVJNDBXQ3RZTVFRbkZ4OEt1bHEzWXVJZThhaXBBSmFqZm5xN1RvMGQ0N3E5M0hLb2FrRHU5VllMN2pnNHJpOVFCV1J0UFhxR1VhTHBPVHFoTFJoZmVPNGxLOENNUUZ0QjM4MjFYZGM5Nk9qUDMzQ0hzUXhXdEtmVXZRZTZTMVZXWC1OUHM?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-20T13:19+09:00"
+  },
+  {
+   "title": "SEホールディングス子会社の婚活サイト「スマリッジ」が不正アクセスでサービス停止 個人情報漏えいの有無を調査",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83b2pjS2VXTXI0aUk3aW9nZHN4ZXpLT2dROEpKQ25FNVMzMjFSWXpsUnhOYTA4bTZONUNLX0pMal9QTXRCa0tUb2ZFSmJzZllaVE9ab0lxQlBhODVIOW56SENJWTB3ZGs1RGc?oc=5",
+   "source": "media-innovation.jp",
+   "at": "2026-11-20T13:15+09:00"
   },
   {
    "title": "サイバー保険の事故急増、東京海上やSOMPOで2倍超－攻撃多発受け",
@@ -446,24 +464,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXOGQtZHA5T0hzdnY4ME51dzhiZTd5TV9SRHFBV29TM2JTbUstWGVLOVlVNGVJWTFheE5DM0J2OHdDMUhLX3RPNXI0QzdOcUpuWkY1ZGRoQQ?oc=5",
    "source": "南日本新聞",
    "at": "2026-11-20T12:13+09:00"
-  },
-  {
-   "title": "「六花亭」不正アクセスでセキュリティコードまで流出 利用明細の〝異変〟を見逃すな",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuRzlXU05TMEZNWXM0RWVNR3RrbjdRUHFseDd0Ynh6R041Z0dONXZXU19GTUZwYUZDYS1WTlUtODFONloxRVB3VjM2b2NqWWtzR0xTWl9MdkVtTU9wc1dN?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-20T12:03+09:00"
-  },
-  {
-   "title": "不正アクセス、「必要な再発防止策を」",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uNWRfZVU1QjRTSVo0MzdncF9ieE56QmZVY0FvdDJpS3NWV2xwZ3BveHJWZ1kxVHNlT2U1Q0VsWG1JTUVUOEZEQQ?oc=5",
-   "source": "日刊薬業",
-   "at": "2026-11-20T11:47+09:00"
-  },
-  {
-   "title": "【速報】大阪・堺市の電子申請システムに不正アクセス 利用者のメールアドレス約６万4000件が漏洩",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CNFRfVHV4dlhSWVhnVGwyWUNIRTg0Zl9OMjJ4NXFrRGFZVmJPT1lkX2V3YWRLY1ZieGFIdmJqUEsxeFRlZDhxcTVBUGZBbHduSHpSRg?oc=5",
-   "source": "ktv.jp",
-   "at": "2026-11-20T11:44+09:00"
   }
  ],
  "osaka": [],
@@ -546,9 +546,16 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92amdHNXR6bFByd0g3bHk2VmhudXE2Zk5TNFZBWHBNZVhGbHMxSzA4NmdTU3ZBdWI5Y2VvZWpHUzhMbUs2dFZiZUlBYWNYWjItQ2F3S0pWTmNieHZzYWJaSDJUV3Y?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-20T09:57+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "米中露首脳「平和宣言」もロシア軍がウクライナ首都キーウの各国大使館を攻撃 オーストリア首相「断じて容認できない」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsT3I2T1FUN3dYNWVFSlkyVXE4M1JzZ0ZrRHRxM09VTnVIR0hfc3pPNUNxZHJFT2lVU0M3Y1ZBRTE5RXhMbUg0OHZMTERubkVSamc1MzZFeDctNVVZUGtpSlg4SUwzdzh3U0wyZTNn?oc=5",
-   "source": "Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Z2tzTjZfQ2NheUM3VjMwYjEyWlgtOV9ZbnJvZS01VlBFVUZINlp4OFdBa2VZNnRCbVBmWFVvTWNPUVFmeVZ3dndkUF90WWJOeDlGNGtXLTFvbEx1MEFB?oc=5",
+   "source": "千葉テレビ放送株式会社",
    "at": "2026-11-20T09:52+09:00",
    "topic": "ロシア"
   },
@@ -557,13 +564,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83b1l6MDhSUTcyNHZvVjNiTXhkMWVlTVZKY0NvcTlXVGRDQ2lwSDF1SWxNQ1lST3BnZU5MWUFONEI2RkJmdkZ4QjlVVm80akdCbkZPeGVRV0tvY05jdVJja1N2MVpiNzNGM1lBNFZvSkdOSUU?oc=5",
    "source": "デイリースポーツ",
    "at": "2026-11-20T09:44+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア無人機攻撃で大使館損傷 ウクライナの首都キーウ",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15VmVBdERjbjFMSGFRTnBiVnZtN3IxR3FVZC0yY1MzQ0hiWjhXOGd1SkZScENKbEl4S0lsbUsweUk3TlZMWGg4Q3pqUQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-20T09:42+09:00",
    "topic": "ロシア"
   },
   {
