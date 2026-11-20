@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:45+09:00",
+ "updated": "2026-11-20T20:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -234,6 +234,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "キーウの橋3本に被害、複数地区で水圧低下 ロシア軍の夜間攻撃で6人死亡・15人負傷",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id0xhVkt6WGxrMFRRNkE1NV95NTY3djVac0E4YVRZYmVuenpsMWIzeXk5UWVTOWtVeFh2d1gyTTkzd3ExOEFFZDdUUEdnYmFTaUxZX2FxNGE5VnBScXNhT01HZlhGelpXaHc?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-20T19:54+09:00"
+    },
+    {
+     "title": "ロシア内陸1300キロの石油拠点にドローン攻撃…夜空を照らす激しい閃光、ウクライナが狙った重要施設とは",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xSjFpOGZBSGJWbktxOFdBVmVCNGJkM2ZJVlFzVEoyOTZ2c1dKLWs4Z3Q2cnhtV2x6QjltajhFb2lVMUZGdlk4ZGZRNlVjMVJXM2lwcWROZWR4QQ?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-20T19:45+09:00"
+    },
+    {
      "title": "ロシアがウクライナに大規模攻撃、死者も 米中ロ会談で「世界平和の推進役」を自任",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKS2poMTlDc2ZtWUVteFlnTDU1bmp3ODZPZmVRWVNMTUdSZ1V6NlBhWEFQNW4zZFd3LTJtVzB4eHVCdVVIdmVBcWM0ZTVzY204ZlRCUmFlQTk0Q0l0Nkp3?oc=5",
      "source": "千葉テレビ放送株式会社",
@@ -256,18 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZm1XVC1EVXFWekNFSlpRbExDSDVfNXByUEZyTmJka2Y2TERlaEFucExrdVF4UllRQnJmYjNLZ3lINVhFUjA4YWpaLXFQMWJxeUN3MEJJMURNeU5mbkpmZmVWRFpIbGd5azNhZG5fcGNwa0lFekpHb2UwNm53Z1lPSTNScFY0dw?oc=5",
      "source": "Reuters",
      "at": "2026-11-20T17:31+09:00"
-    },
-    {
-     "title": "ウクライナ首都で橋損傷 ロシアが弾道ミサイル攻撃",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zMlJ3NzNRQWVkbmZKXzJpZ1JCUVRuLXgzME9ZM3VkVk9WMldORmJ6RUlqTURaR2hhWmctSHBnLVpMdHl2STR6dFQ4Rm5RaWFWdmgxanBCTy1ETEJzbkNGM2pRMDkyZnQ3MEZFNQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-20T17:28+09:00"
-    },
-    {
-     "title": "ヘンリー王子、必要ならロシアと戦うため軍に復帰する用意 英メディアに発言",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YUVHUjlPeGZiWldEUzR5SkJIVlZSX2Q5MXc2NGcyblY4bDJzUWE5UDZKTk9QQUYwdzNpTTY0RHhSTTFNT0lmVHRWZ1VjRWVHTEFN?oc=5",
-     "source": "CNN",
-     "at": "2026-11-20T17:22+09:00"
     }
    ]
   },
@@ -388,6 +388,18 @@
  ],
  "cyber": [
   {
+   "title": "ドコモ障害頻発、信頼に傷",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxd2xFN1gyVGtWSnBoQlBNQUozOUpveEdoTWwyNjgtb0tabnBqN2M5Xy0zN0NBalhPTFdCRGQ1Z2J2Rnd4d3BpVHZMNEE2cDBHM0hVMW9iWVZuNXM?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-20T17:58+09:00"
+  },
+  {
+   "title": "ドコモ障害頻発、信頼に傷　品質改善に影、政府も懸念",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11NGJkcVJlTm11Y2MxX0VyVExaNDB3Z1lLUW55XzVMVTdabHRFYW01TTZnazV4YXpBODZJWUt4NFU3eGtuWExDUWNOWHRsQVBXRzFRY05XYWNlaUtqdTdTNlY4a0FkZ1c5a3Jjdk9SOFBvT0tx0gF0QVVfeXFMTXU0YmRxUmVObXVjYzFfRXJUTFo0MHdnWUtRbnlfNUxVN1psdEVhbTVNNmdrNXhhekE4NklZS3g0VTd4a25YTENRY05YdGxBUFdHMVFjTldhY2VpS2p1N1M2VjhrQWRnVzlrcmN2T1I4UG9PS3E?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-20T17:58+09:00"
+  },
+  {
    "title": "KARTE 不正アクセス 情報漏えいや漏えいおそれ のべ約2200社に",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aakhZOENoSVVSSzZ5SHRSZFhGMU9ySTJXV1dXSnpFck9xY3lBajlIZF9lc1YyS3hnN2FMcVV6TEVRRTFEREpvT1VRaVhtdzRwZ2I1RnF2Qkw4akdVRnZZ?oc=5",
    "source": "NHKニュース",
@@ -406,6 +418,12 @@
    "at": "2026-11-20T19:32+09:00"
   },
   {
+   "title": "宮城県、サイバー攻撃対策で企業向け緊急セミナー 定員上回る参加",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iWE5qQnd0NkxZZ2YzVWlZVjlENnBlOU5NTWFsbFhMbXpyNmdMOGRBazlYT2s2NVpndVVwVXVTbWM5cnZSUk9oMC1VX2lfeGJTVGFjZ0tOdE9paXRyUVhjMHIzLXNpSWVSMHc4TA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-20T19:30+09:00"
+  },
+  {
    "title": "奈良県の委託先に不正アクセス 県職員らのメールアドレス漏洩（産経新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUS1mMVprWDRpcnh1aGpLYXE5amV0RmpnY2lQcXhJYnlCUDB2bUhxUjlrRWFBRmJoQ3J4TnNWbHZVejN3cE9LQXRxaTNtOFFxbWJKSHZIQkV5TzJKWk5Gd2xUYl9YLUloeW1TUFg0N1UyX0Znc3pzRXFXLWgwS0U?oc=5",
    "source": "Yahoo!ニュース",
@@ -418,12 +436,6 @@
    "at": "2026-11-20T19:26+09:00"
   },
   {
-   "title": "川崎重工、サイバーセキュリティ対策を強化したロボットコントローラ「Fシリーズコントローラ S-type」発売",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fc05lbXJTWk1WU0hqaTRoeTE5bkV1LTVwSDFHRC1kRzJ1NElTWE9BaEptZW1OeXM1dTJHdEpvNkR0ODJzUFpRR2ZZLW9qMHRSUkVqeDhLNWFldw?oc=5",
-   "source": "オートメーション新聞WEB",
-   "at": "2026-11-20T19:25+09:00"
-  },
-  {
    "title": "県の委託先が利用のクラウドサービスに不正アクセス ４０件のメールアドレスが流出（奈良テレビ放送）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wYndjdVRLVTVNY29fLXByQ0Q1R1ZLQm1uZ1ItTFRNZFhyRlJ1ZDQtTUZmel9JOUw2Nmt2NDJCSGNUZ1JBYnlnMG9yLVJadVFyUVhXaFBPSnpOcVBDNkhOTmYtbUpHTVRKNmVwTEtseU9MeXMzWVpJWC1sVjlJMmc?oc=5",
    "source": "Yahoo!ニュース",
@@ -434,6 +446,12 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4d3YtTURvekdhRlZxSGNhbkpqRm55TWw4NXIyZnZxbFlYeXdMWHkyVFJkUmhpSFhKY0VaaHd3dmRtbVU3OEZIR2xxWDlOdHlodFlFXzFwcUk4SzR4bi1ySlpuaXNwY0tNenpWZzlKUHA?oc=5",
    "source": "信濃毎日新聞デジタル",
    "at": "2026-11-20T19:22+09:00"
+  },
+  {
+   "title": "丸井G、顧客情報延べ1733万件が漏洩 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vbUlhYTlSQVdNeU1qVXp3UnZBOVB3dFNnd1o4aFd0d1RCblFXRWQ1a18yUEZwUGtsak14Y1oxQmV1YnN3WTNIc0RKRzZocjY5ajZTS3BlT0lsQ21VWnk5TTRZdFB6V0JyNWMxSg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-20T19:20+09:00"
   },
   {
    "title": "スパコン「富岳」不正アクセス、認証情報430件が流出 被害確認されず 理研は調査続行",
@@ -458,28 +476,24 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ESVU1Z1M5Z254bEFHY0ZkUC02RWRiX29Kb2xKRnpXdVJyeWxNcmtKSUdDRDRLa3Z5Y3JEVjJlaFVlS3JZa1hNdmNJUzdIQQ?oc=5",
    "source": "DXマガジン",
    "at": "2026-11-20T19:09+09:00"
-  },
-  {
-   "title": "宿泊予約システム「手間いらず」、情報流出最大100万人 不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1laGdHM0lQckIwZ1IwMERRd0VYNnZKc3lnTWR5WTc5anVHLTV5TGdmMFR3eVBTbnpDazczRzZtS2J4N3FrUEtpS3U1UzVjNkZpMjc2RS1TWXhFYnR4MEFZSDg2Wk5ncUs2alFGQw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-20T18:51+09:00"
-  },
-  {
-   "title": "Equinor ASA、数日間のセキュリティ対応でサイバー攻撃を阻止",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TSFVkaGJ0OVo3ZGZlV0VuOFNnaVV5NFVfZWJFTlBMMXFkTERfdUwwcTVhaV8xM3hWTzhkUzVvQ0NMXzJhSzdvZHhfV3psa1NXT2VJUlFNVDZpYVpNd2cwdlFSeUUzLTRnTnExYWpFeU5xS0VET1cw?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-20T18:50+09:00"
-  },
-  {
-   "title": "北上市､マイナンバーカード予約のメールアドレス100件超漏えい 個人番号漏えいなし､不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VMGRiampqcWZfMDBiZVhHVXZzRVp4V2p4R2w0SktCc0J5eVpnNFZVTnFlSlRIWVFTUVJiMHQ1X3NSSVBqNVVua2lRQ0owd0VQb2lzdTFCSGlKcDFPRGVQNDB3?oc=5",
-   "source": "岩手日報",
-   "at": "2026-11-20T18:47+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "キーウの橋3本に被害、複数地区で水圧低下 ロシア軍の夜間攻撃で6人死亡・15人負傷",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id0xhVkt6WGxrMFRRNkE1NV95NTY3djVac0E4YVRZYmVuenpsMWIzeXk5UWVTOWtVeFh2d1gyTTkzd3ExOEFFZDdUUEdnYmFTaUxZX2FxNGE5VnBScXNhT01HZlhGelpXaHc?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-20T19:54+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア内陸1300キロの石油拠点にドローン攻撃…夜空を照らす激しい閃光、ウクライナが狙った重要施設とは",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xSjFpOGZBSGJWbktxOFdBVmVCNGJkM2ZJVlFzVEoyOTZ2c1dKLWs4Z3Q2cnhtV2x6QjltajhFb2lVMUZGdlk4ZGZRNlVjMVJXM2lwcWROZWR4QQ?oc=5",
+   "source": "ニューズウィーク日本版",
+   "at": "2026-11-20T19:45+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OcnF4SndtQmloRzNTanYtdUw3dV9iaGs4MVh2OU9hdUpWTXZ0R19kX09ZV1FlX3ZFZGtPcmZpNlB5RlFTOWtKX0FtVVMteVN6UjR2MUs2SEhaWW0zYWZ2YjF4RllDOW91SjR0ZjJn?oc=5",
@@ -520,20 +534,6 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZm1XVC1EVXFWekNFSlpRbExDSDVfNXByUEZyTmJka2Y2TERlaEFucExrdVF4UllRQnJmYjNLZ3lINVhFUjA4YWpaLXFQMWJxeUN3MEJJMURNeU5mbkpmZmVWRFpIbGd5azNhZG5fcGNwa0lFekpHb2UwNm53Z1lPSTNScFY0dw?oc=5",
    "source": "Reuters",
    "at": "2026-11-20T17:31+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ首都で橋損傷 ロシアが弾道ミサイル攻撃",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zMlJ3NzNRQWVkbmZKXzJpZ1JCUVRuLXgzME9ZM3VkVk9WMldORmJ6RUlqTURaR2hhWmctSHBnLVpMdHl2STR6dFQ4Rm5RaWFWdmgxanBCTy1ETEJzbkNGM2pRMDkyZnQ3MEZFNQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-20T17:28+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ヘンリー王子、必要ならロシアと戦うため軍に復帰する用意 英メディアに発言",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YUVHUjlPeGZiWldEUzR5SkJIVlZSX2Q5MXc2NGcyblY4bDJzUWE5UDZKTk9QQUYwdzNpTTY0RHhSTTFNT0lmVHRWZ1VjRWVHTEFN?oc=5",
-   "source": "CNN",
-   "at": "2026-11-20T17:22+09:00",
    "topic": "ロシア"
   },
   {
@@ -625,7 +625,8 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "停電の報道（大阪府の停電情報）"
+    "停電の報道（大阪府の停電情報）",
+    "「ドコモ障害頻発、信頼に傷」"
    ]
   },
   "japan": {
@@ -639,7 +640,7 @@
    "reasons": [
     "イラン・アメリカ：「ミサイル」1件",
     "中国・台湾：「侵攻」1件",
-    "ロシア：「攻撃」「ミサイル」5件",
+    "ロシア：「攻撃」6件",
     "欧州・NATO：「攻撃」1件"
    ],
    "items": [
@@ -656,10 +657,10 @@
      "at": "2026-11-20T16:35+09:00"
     },
     {
-     "title": "ロシアがウクライナに大規模攻撃、死者も 米中ロ会談で「世界平和の推進役」を自任",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKS2poMTlDc2ZtWUVteFlnTDU1bmp3ODZPZmVRWVNMTUdSZ1V6NlBhWEFQNW4zZFd3LTJtVzB4eHVCdVVIdmVBcWM0ZTVzY204ZlRCUmFlQTk0Q0l0Nkp3?oc=5",
-     "source": "千葉テレビ放送株式会社",
-     "at": "2026-11-20T18:41+09:00"
+     "title": "キーウの橋3本に被害、複数地区で水圧低下 ロシア軍の夜間攻撃で6人死亡・15人負傷",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id0xhVkt6WGxrMFRRNkE1NV95NTY3djVac0E4YVRZYmVuenpsMWIzeXk5UWVTOWtVeFh2d1gyTTkzd3ExOEFFZDdUUEdnYmFTaUxZX2FxNGE5VnBScXNhT01HZlhGelpXaHc?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-20T19:54+09:00"
     }
    ]
   }
