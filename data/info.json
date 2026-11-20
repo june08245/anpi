@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T06:15+09:00",
+ "updated": "2026-11-21T06:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-21T06:22:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-21T04:43:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -79,16 +89,6 @@
    "at": "2026-11-20T20:40:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T18:28:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.2",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -192,16 +192,22 @@
      "at": "2026-11-20T23:40+09:00"
     },
     {
+     "title": "[写真]英軍、ロシア・中国・イラン・北朝鮮へのサイバー攻撃作戦を公式に認める",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wcDlKcVpPYkNHYk9CaE91Mmt6UDFSMmptWE5yQ3A2N0dhenZnWl9pRElac1JoNldtTDFtTEp0R21wTHYtUGl0RWNIRHRBRVRhSnFpRg?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-20T23:40+09:00"
+    },
+    {
      "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWblJpb3MxX1ptRzVCbm56ZVc5UTdiRlZuTDV6all1WXZpSEx2YmUwUWJDSGVYTmhuZlRMcURZWjdQZUkzSEpmVHRRRktGQXBZSUxCZ1VqTFdDYUcwTXp2ODhCUkw1NkNPMHNnaHJyUENBa0lWRFhXb2tFNW1MakU?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T23:21+09:00"
     },
     {
-     "title": "カナダ海軍フリゲート「レジャイナ」が北朝鮮籍船舶の「瀬取り」を警戒監視（9月下旬～11月上旬）",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdC1UenJhVmdKNGl1VHB5SUU2bC1xYlpNYVh6U0FFT0NOaHZzT0pYVUNsV1VyTDloVWM2RUlaaTlNUUVPWGVXd3Vvc1hKQlpCWGFKNUhXN1pUVzk0?oc=5",
+     "title": "カナダ海軍フリゲートが北朝鮮籍船舶の「瀬取り」を警戒監視 外務省発表（9月下旬～11月上旬）",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ETUpZUkxSaW9iNUJmdGNFZWVPLVd4N0p4cWR0eG16cVBEX0tNYUN2M21sWXFOYU1xMWxhSW92OE82LTNiV0c0MGFFTERRS1JrbUtuWHNWYkQ3SE1w?oc=5",
      "source": "J ディフェンス ニュース",
-     "at": "2026-11-20T20:50+09:00"
+     "at": "2026-11-20T21:10+09:00"
     },
     {
      "title": "鄭東泳（チョン·ドンヨン）統一部長官が20日、ミシェル·スティール在韓米国大使、ジェイビア·ブランソン在韓米軍司令官と初めて会い、韓半島情勢と対北朝鮮政策について意見を交わした。 韓国政府の対北朝鮮政..",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heXJ2QmxPek9wTTdFNi03VDRDeUNEMENmZWNzX0Q5OGhUSTRTbHZ0Tm9CU2h2YzdBdHBfbGNLbHFyVklxcHkya3YwT3UzY2VJR0lr?oc=5",
      "source": "東京新聞",
      "at": "2026-11-20T19:54+09:00"
-    },
-    {
-     "title": "「会いたい」トランプ大統領、「待てる」金正恩総書記―米中露の平和宣言にない「北朝鮮」の文字（西岡省二） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRW5nOHhsbVJPcVlOM0k3OXBkYy1HbjlOakhOX3J4M0tYQXBkazBDeFNwYUlVd0hLTFNPVWN5TDRyRkdjWldwOF9jd0tsNkFLTWVKTWJEQVJVOEI3Zzkyd3ZZTTlTOEhERUZTVm8yc3E0OUFwRC04US1Lb3V1X2ZfNFA5ejhjSXRx?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T16:17+09:00"
     }
    ]
   },
@@ -311,8 +311,8 @@
  "nankai": [
   {
    "title": "奈良県下市町で総合防災訓練 町民ら500人が連携確認 南海トラフ地震を想定 陸自など20団体・機関が協力、避難所開設や運営体験",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHc01nRnhNTS1JcnVDdTNnMmlySUtXNEtkMkJ6MkROU3VMX3hrdUhLRkl3VW5icU84ZmQ2V3hGUEpRV1NPSmF3dUk1WlRUSGJFZm5SaUQxY0N4TzZDMDRj?oc=5",
-   "source": "奈良新聞",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhckJfTkszQmVkM0RNcWZyYzg4cDhXLWpURTNpM25CbWp6THlBTTBod3MwbC1OaG85a0lYWVNYMjE5ODJ3S2puaExhVQ?oc=5",
+   "source": "47NEWS",
    "at": "2026-11-21T06:00+09:00"
   },
   {
@@ -366,6 +366,12 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUC1YX1lNNWgwc3UtMWRObHJiV25BZWxudXZCVUFrbUFrYllXS2pscjZPRTI1YU5qWDh1VXBIV2hUeGtNQVVodGJJbkxWdjJzQXk5VEdVZU1yQm5FbmNISFZlNmtiaTRRZmlQRlBaTkh2TXdubF9KaXNKUWJFNUprQ3plbkJTYjY0YWJGRmhxLVNzMFJmOFU3bEtyTTZhQ0JBTm5PRHBWVQ?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-20T13:14+09:00"
+  },
+  {
+   "title": "米国「船舶60隻など5500個のイラン標的打撃…弾道ミサイル工場も」",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUZvZnpWUXlYWGpNQThjRTlqWVNQa3habzlzWjF6c3EwMl9ydFhRbTZRSXdaaHpZSmxGTnRhbHpVREtiZmV0a3FfRVFvWTRpSEhNZFFYSG1iOHdGOGYwRGpyZ0FiallqQTFUbi1DZ3IwVVJpVFByZGlTTTFkS2RSMFpsa0hVdw?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-20T10:48+09:00"
   },
   {
    "title": "暫定情報によると、ロシアはウクライナに80発の巡航ミサイルと最大20発の弾道ミサイルを発射 - イフナト",
@@ -559,6 +565,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "[写真]英軍、ロシア・中国・イラン・北朝鮮へのサイバー攻撃作戦を公式に認める",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wcDlKcVpPYkNHYk9CaE91Mmt6UDFSMmptWE5yQ3A2N0dhenZnWl9pRElac1JoNldtTDFtTEp0R21wTHYtUGl0RWNIRHRBRVRhSnFpRg?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-20T23:40+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "イラン戦争の米戦費、483億ドル（約7.7兆円）に―基地被害額は依然示されず",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kbS1IR2hXcUlwb00wdUQxR2VGRUNSaHdPOUcyZVI3cDI0cmRHOXVtWFFGU1pJY3BrYUlaUGRlRmpySFVtQlV3czBNbE81ZFhWalhfSnBXUm1OTkk0UTNJbFpEakVIalk30gFoQVVfeXFMTmRtLUhHaFdxSXBvTTB1RDFHZUZFQ1Jod085RzJlUjdwMjRyZEc5dW1YUUZTWkljcGthSVpQZGVGanJIVW1CVXdzME1sTzVkWFZqWF9KcFdSbU5OSTRRM0lsWkRqRUhqWTc?oc=5",
    "source": "財経新聞",
@@ -594,6 +607,13 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "カナダ海軍フリゲートが北朝鮮籍船舶の「瀬取り」を警戒監視 外務省発表（9月下旬～11月上旬）",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ETUpZUkxSaW9iNUJmdGNFZWVPLVd4N0p4cWR0eG16cVBEX0tNYUN2M21sWXFOYU1xMWxhSW92OE82LTNiV0c0MGFFTERRS1JrbUtuWHNWYkQ3SE1w?oc=5",
+   "source": "J ディフェンス ニュース",
+   "at": "2026-11-20T21:10+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ロシアはNATOが軍事衝突の準備を公然としていると非難",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2RhMkl0ZGtkN000UVd6YVhRRi0zQ0l5X2lBLTdTb2Mta2JqTnBFYURzRUlGVWtlanFJSkFFX04yTkZZRkIxMjRjS3pGZ3htMy1vRGhjYmFKLXhaZjBBWl9sdU5paDlSM1RoQ0o2U3N0SDBGd1IzdEdHRTV6a2x5cXFmanljR3JONXJSMFR3OS16Z21GY2RpSUZnaklqSlo4dkE?oc=5",
    "source": "Laodong.vn",
@@ -601,24 +621,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "カナダ海軍フリゲート「レジャイナ」が北朝鮮籍船舶の「瀬取り」を警戒監視（9月下旬～11月上旬）",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdC1UenJhVmdKNGl1VHB5SUU2bC1xYlpNYVh6U0FFT0NOaHZzT0pYVUNsV1VyTDloVWM2RUlaaTlNUUVPWGVXd3Vvc1hKQlpCWGFKNUhXN1pUVzk0?oc=5",
-   "source": "J ディフェンス ニュース",
-   "at": "2026-11-20T20:50+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "鄭東泳（チョン·ドンヨン）統一部長官が20日、ミシェル·スティール在韓米国大使、ジェイビア·ブランソン在韓米軍司令官と初めて会い、韓半島情勢と対北朝鮮政策について意見を交わした。 韓国政府の対北朝鮮政..",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ja2psYXdSSGtaYWJhRkk5TlFOMEF6SG1DVEZ4VkNUX1dNVUE2WGtHdFRORFNxV3BEekp6ckstOE1oM3Z1OUNBNUhzeGxxODdMM3E0?oc=5",
    "source": "매일경제",
    "at": "2026-11-20T19:55+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "実現しなかったトランプ氏と金正恩氏の会談 水を向けた米側に「無反応」続けた北 その背景は",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heXJ2QmxPek9wTTdFNi03VDRDeUNEMENmZWNzX0Q5OGhUSTRTbHZ0Tm9CU2h2YzdBdHBfbGNLbHFyVklxcHkya3YwT3UzY2VJR0lr?oc=5",
-   "source": "東京新聞",
-   "at": "2026-11-20T19:54+09:00",
    "topic": "北朝鮮"
   }
  ],
@@ -639,7 +645,7 @@
    "level": "yellow",
    "reasons": [
     "中国・台湾：「侵攻」1件",
-    "北朝鮮：「攻撃」1件",
+    "北朝鮮：「攻撃」2件",
     "ロシア：「攻撃」「報復」5件",
     "欧州・NATO：「攻撃」「軍事衝突」3件"
    ],
