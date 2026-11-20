@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:15+09:00",
+ "updated": "2026-11-21T02:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-20T21:51:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-21T02:14:00+09:00",
+   "place": "トカラ列島近海",
+   "mag": "2.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T22:25:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T13:50:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.9",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -137,6 +137,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国がアジア太平洋経済協力会議（APEC）首脳会議が終わった後も、高市早苗首相の台湾関連発言に対して是正を要求し、依然として強硬な態度を示した。中国外交部の郭嘉勲報道官は20日、定例ブリーフィングで高..",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4WXZmWHZQNDZIT19GZXZSa3plLWd5U3pkbWFHa3EtbDVGZVEyb1VwcEtYMUhRemEzdnBRZlpuYVBJM0R6MzFVV0Z2b1VVeWM?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-20T18:36+09:00"
+    },
+    {
      "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
      "source": "BigGo ファイナンス",
@@ -155,22 +161,16 @@
      "at": "2026-11-20T15:42+09:00"
     },
     {
-     "title": "米中ロ首脳会談　中国紙「国際関係史の節目」　台湾問題めぐる意義も強調",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVVhbDFLc3NXUDVvTkxLRHFyV1dNUUFFVF9nYkNxUWFTM2RFa244RXVqWDVkTF9vT2U5SDNnMVVCZVl0d0s2aFdodW45THQ0ZFIwZW9zcDBmMlZ4QkJQb3JzeGhmb3J2Vkg5UkVGWUp4Qkx0cWxEdVo0LVhvTDlXZHdYeG56TmxGZGhz0gGLAUFVX3lxTE5BVWFsMUtzc1dQNW9OTEtEcXJXV01RQUVUX2diQ3FRYVMzZEVrbjhFdWpYNWRMX29PZTlIM2cxVUJlWXR3SzZoV2h1bjlMdDRkUjBlb3NwMGYyVnhCQlBvcnN4aGZvcnZWSDlSRUZZSnhCTHRxbER1WjQtWG9MOVdkd1h4bnpObEZkaHM?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調 – Quebee キュエビー",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdTlXdUxfNk1zUnl1Vk90NlhjRW5lUDJNZlRnVmRYWWpQYUtWbzNhdTdRTWYzM19GYmlyYTBLX1NBMTBCY05GaE9DTV9UakNuZ3ZSOUFnd0g?oc=5",
+     "source": "QAB 琉球朝日放送",
      "at": "2026-11-20T15:15+09:00"
     },
     {
-     "title": "中国の王毅外相 「米中露首脳会談は平和サミット」と強調するも、中国共産党の新聞では台湾問題を「各国が超えてはならない第一線」と圧力（FNNプライムオンライン）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWNU5GR3NVT0tiNExhTDNJUV9kVmxhVW54YVpRdWNLS1Bxb0VxZU5ESmJEOGdKR21DRy04b0hLNXd0cERRT0FvTWV4ckJ6R1pWT3NRc2ZGYkhFeWFVbzgyTlhLSU5HaFNDMlpudkN3?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-20T11:55+09:00"
-    },
-    {
-     "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDX3U0dEZPc1RnbHc5MTlHRVNKQTlodDBxcVpxc3BuRnNDVERPc2RiYXFKc1dIa3RQZWthOEpnaXRpNkRmMGUzVnR2LVg2OF9VSUhnOFAyb1ZVa0xpdnJzbHlfTWt1T1h1eXdXenFJdUdWbkE?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-20T09:38+09:00"
+     "title": "米議会「中国軍、NVIDIAの先端チップ確保へ輸出規制を回避」 : 国際 : 財経日報",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hUm9WcVdGZEtVSE5YVFplTjFvc21IMjNZQWpXSUhCLWkwVDlSbEpxWlFqTk4wTFRzYS1mbUs2aExMLUY2T19RWnFPel9ZY09tTVNpQlNNZjhxdjR3ekpKRWpTWQ?oc=5",
+     "source": "재경일보",
+     "at": "2026-11-20T10:15+09:00"
     }
    ]
   },
@@ -221,16 +221,22 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ポーランド政府“南東部にミサイルなど3発落下” 1つはロシア軍が使用する巡航ミサイル けが人などの被害確認されず",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlE0UG1uSWJKUDIwYVF6QUo2TlB1TlEycW9aNS1aWmtGa3Rldjk0cGtBSDVGYlJ2cHVZd1FtdTgyWEhuWHdfYVViZU5vX2QtaTJpZzNaSnFxc08wWkVQTkIydG9IYnE5OVZScTdsejVJZXVCcjVUWkRmeVFaUDFYcw?oc=5",
-     "source": "UQライフ",
-     "at": "2026-11-21T02:13+09:00"
+     "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難 ＮＡＴＯ支援要請へ",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXo3al8yZGNyR2ZfYm5tS2FzXzE1VUxnWDJUdFpablhwTzFWSmRZdHZJdXVNNjlYVlVwYl91VlljcEFuQ1EzVmpFVVo5UnlmR0pLZ2FBcWI2ZE5yTWhDYXhycnhjMmJQd3A3MHVoaFkwRzV5emJLM0ZOTVhFckdBRkRHb2d3QQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-21T02:10+09:00"
     },
     {
      "title": "ポーランドにロシア軍の巡航ミサイル落下 首相「意図的な挑発行為」と非難",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yZjAzWHF6dG5xQmFEQ3JKTjNBR0xFN05FRVliZWpkM0s1REZDa0ZxTUlHSmVzUXhiREltNC02eXJWV0tHMHdoMVQzS1hTUXJGNUI5TU11TnZZd3FlMWFtVlI4MkZVc2QtdkJBRGNB?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-21T01:49+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rYVJaaXdjR1ZyWGh1TkU0d3RGbG1Xb0l4aHo5Tk1oNGl4REgwUHVIcm5fVHhidkhPQl9WOVFDcXNyN0NNX1ptM3A4WnFaUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-21T01:46+09:00"
+    },
+    {
+     "title": "ポーランド政府“南東部にミサイルなど3発落下” 1つはロシア軍が使用する巡航ミサイル けが人などの被害確認されず",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbEh4Z09qUngzUmtiSUk3QnJoS2ROc1oxLV8wQnlHd0x1WWotSzBEMS1kUG5TYW1Ca3g0Nm9EUm1KT3ZTOFFpQzBzbUtvQ1NWT0hJYlQzd0xsUWk5b0lEenNfYWVYNFpybi1jblppRWx2VWRUd0MtUGlxQkFSbzBkbjNwbDI?oc=5",
+     "source": "日テレNEWS NNN",
+     "at": "2026-11-21T01:26+09:00"
     },
     {
      "title": "ロシア軍がウクライナに大規模攻撃 少なくとも9人死亡 ゼレンスキー大統領「最大規模の一つ」",
@@ -246,15 +252,9 @@
     },
     {
      "title": "ロシア軍、キーウの主要橋3本をミサイル攻撃―プーチン氏の「報復」表明から数時間後",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uU3AyM2VxV0hNYnV0WHVZODhTY2NJOVROZGxXSXNaelM2d1FaaDRmOWttaG5zdldNMnlzNEJDLVRVQkZfaGRNNGJ4Zm9OUHNfN1QtR2dER2o4WE1MaDdzTW5FZ9IBaEFVX3lxTE9mNEdOWW1ZSHF3cU1uZ1QtV2c2czFXNkVaeEpWVEpjNHUyNTBPcUJYRzFla1ZucjQxLUthTndoTG5EV01XdndrYXl2TVpnSDhkUTdTbXZnVFcyNkZtb28xVGZVVGNOVkxv?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mNEdOWW1ZSHF3cU1uZ1QtV2c2czFXNkVaeEpWVEpjNHUyNTBPcUJYRzFla1ZucjQxLUthTndoTG5EV01XdndrYXl2TVpnSDhkUTdTbXZnVFcyNkZtb28xVGZVVGNOVkxv0gFoQVVfeXFMT2Y0R05ZbVlIcXdxTW5nVC1XZzZzMVc2RVp4SlZUSmM0dTI1ME9xQlhHMWVrVm5yNDEtS2FOd2hMbkRXTVd2d2theXZNWmdIOGRRN1NtdmdUVzI2Rm1vbzFUZlVUY05WTG8?oc=5",
      "source": "財経新聞",
      "at": "2026-11-20T23:25+09:00"
-    },
-    {
-     "title": "ポーランド首相、ロシア軍のミサイル落はウクライナ支援国の軍事演習場付近に落下したと報告 「意図的な挑発だ」",
-     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOeHpPVXBSTFpUXzluZUFmZjFXcUtVcHZQZ3V0eklNQjhPXzRydTlBc2oyZDZ2bXI2ZmVHUFhBYUN3R0pkZmtSVFlfQUh0VXZsRzhURW1IYlBGTnJaUlBBbE82N19jenBpVUZvVkxlZk8tNGtDbWdsWTFwbEYxMENQbEttRUcxdzlUa2pTWkhIQ3Q5dG95ejhYeDZLc1J1TktoNFpTY3pReENkUmF4T2xGQnZURDdzMVF2NzBqcThkS1pwT21PS08yOFJxTjJaSXRCbEJ3a0FLSzNHd3VSV28wM2FPbXFQVmpfS09YOER6aDFGU2hKdmx4RHJwWXVoY1phRzRFZnJKWV9PZVJFbHFrTEh2d0xEckdnMnZ1cmR30gGjAkFVX3lxTE9MVzRsNXJxcC1JVWpvNTRsVXo5V2I1ODNNUlFqV1lQTE11Q0dqZVhRd3FfNE5lbTYxbE9FTnN4RmM3eUxLN1BwbHNkbExZXzAxNzE3akd3VkxBNlBDWVhwQ1F2czA1MWViT200RHdHbkI2eHFoVXV5VXNrdXVOLTNBOFpTVzlnczFnR0xlVTBCSVFaa0YtQ0UyWDA2THRIWjA3eWxMUklLbU1BOUlTQ2pOQS1XZEdRVU5zYmVfRFdtbkg1NUtqLXFsR2gtUHdsVWM3SzE0eS1jMktNLTVHb09ZODRoa1FCdF9aXzdxZ01icTZMakQ1RkJKOU5yOW83bUR4a2xRX1BtaVRJT2JoLWhJeGVsbHJWdVVYV1BYZHd5d01Hbw?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-20T23:17+09:00"
     }
    ]
   },
@@ -262,6 +262,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難　ＮＡＴＯ支援要請へ",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNMk1HNmQtNUR0bnpHb3g0ajAzQ05XV0E0cDdUemtUMklaZFhOR3lsa3dKYTh0bUQ5LU9RWmtqNnpCeDhfZEZPS2hsVkVoSDRiaUdYbWIwOXNMUk8xWDZaRWkyNEFiWmR5M3RpM0dnLTlRS2FQRWhmS2xjc2tZUdIBgwFBVV95cUxNd18yNFF2d0VGNUx6Wk5vdFVUMDdHWGc1dnlMTFRpekZhOXJBZU9zRkVudmN6OXlqQWpzS2JDUm40LXNjTnFvX0JLX0xNcU9TZUVQbERwX3ctOTNhN2txYzNzZkxTM05henZNOHg1bnVweW52QnJwYms4ckhIeUNKTS1zUQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-21T02:20+09:00"
+    },
     {
      "title": "欧州連合（EU）の外交責任者カヤ・カラス氏は、キエフに対するロシアの攻撃を非難し、EU駐在ロシア大使の召喚を発表",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJXOVBqZHJFY3lzLV9FeU9GQ1pVMzJTbVROdmROclVlczhCczNYbXVhM2lTTVREdnFTNkt1OHZUX214aERZSUpSanoxQy14eEt6bmpHX3AtOWpNaXZLQ0gxT0ZleFZjZGhrdTBTWmRvVlFwY3N1eEtVUmlSTlVvcDNWR0ZiVXhpS0Z5VHM1cDNqcDdabzY5M2NULUFvU28wZnZnNzhpck0zMzN2OGZPaW1OOGpRQQ?oc=5",
@@ -291,12 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsam1jajRqeUZMQlVQMlhqbVBaR0QyTlhtSjZMYWhhV19MWWRtekJQbTZLMkQ3MTN4eTk3SkltYnFDTlg5d1lRN3Q0dXdYMmV2ZGRjLU9B?oc=5",
      "source": "KSBニュース",
      "at": "2026-11-20T07:30+09:00"
-    },
-    {
-     "title": "「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後、米クシュナー氏発言 (テレビ朝日系（ANN）)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQai02WXQ4Nm9DczlpVDFibVNxQkVvTVVDbXdYVWFxQnFVYXF5aGk2YXJHbmtORTQ2V3pMYzVnRlo5amY2LVlUUWtNTDl1M2RHVC1qSEJhbm5NSVNPSDBCTk41ZkJiTTU2d0l0Mm55WHA5QWtaU29LRDRGMzktbmIyeVk4XzNILVRRQ1NaMEFR?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T07:29+09:00"
     }
    ]
   }
@@ -321,6 +321,12 @@
    "at": "2026-11-20T19:15+09:00"
   },
   {
+   "title": "愛知で約30年ぶりの震度5強 南海トラフ地震評価検討会｢特段の変化なし｣ 防災庁｢水やトイレなど日頃の備えを｣",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MT2lLWEFSY1Fxemp0RS1lYU4xREt6emJIV2lhZ1VJNzFwOE9WdzBGS3JpR2NZbUhxUDhLRkw2cXhtMFNMSWc4czhrVC1iSFl5OFhtOFJwNDJqamZhUnNZ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-20T12:33+09:00"
+  },
+  {
    "title": "香川県丸亀署が離島で南海トラフ地震を想定した訓練行う",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PSGZfSy1CM2JvaVhhX184cW5MVlBXYVgxNlZ4UEc4bV91UU45RVJpTEU0aFYxTUVWS0lUNnNBc0ZjUWd0eF93b0d3QjNvdGd2LTZMRmFTQTZpOVU?oc=5",
    "source": "日刊警察",
@@ -331,12 +337,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdG5pb2pNREprd2o1Y0xaQ2FtTEpPc084bHlsMlNNTXdSSDZWU2w4dk5SQUFMNndNTTE2OW96RV9lR1hFWWZvSlZ0a3BpcXdtMGc?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-19T17:34+09:00"
-  },
-  {
-   "title": "南海トラフの巨大地震を想定 身元確認訓練 愛知 田原",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96YW92QWVtYjRLb3ZCMTZ3OGJwTmI5OFBZYzFJaXFGNlJUcExLc3MtaWwxaHQ1WElPODN2alVoVTZaYmphOTJOVnNQQ0RjdlRpUzNmY2ZiQ0pPc21qSGZv?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-19T16:04+09:00"
   }
  ],
  "outage": [
@@ -475,17 +475,17 @@
  ],
  "world": [
   {
-   "title": "ポーランド政府“南東部にミサイルなど3発落下” 1つはロシア軍が使用する巡航ミサイル けが人などの被害確認されず",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlE0UG1uSWJKUDIwYVF6QUo2TlB1TlEycW9aNS1aWmtGa3Rldjk0cGtBSDVGYlJ2cHVZd1FtdTgyWEhuWHdfYVViZU5vX2QtaTJpZzNaSnFxc08wWkVQTkIydG9IYnE5OVZScTdsejVJZXVCcjVUWkRmeVFaUDFYcw?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-21T02:13+09:00",
-   "topic": "ロシア"
+   "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難　ＮＡＴＯ支援要請へ",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNMk1HNmQtNUR0bnpHb3g0ajAzQ05XV0E0cDdUemtUMklaZFhOR3lsa3dKYTh0bUQ5LU9RWmtqNnpCeDhfZEZPS2hsVkVoSDRiaUdYbWIwOXNMUk8xWDZaRWkyNEFiWmR5M3RpM0dnLTlRS2FQRWhmS2xjc2tZUdIBgwFBVV95cUxNd18yNFF2d0VGNUx6Wk5vdFVUMDdHWGc1dnlMTFRpekZhOXJBZU9zRkVudmN6OXlqQWpzS2JDUm40LXNjTnFvX0JLX0xNcU9TZUVQbERwX3ctOTNhN2txYzNzZkxTM05henZNOHg1bnVweW52QnJwYms4ckhIeUNKTS1zUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-21T02:20+09:00",
+   "topic": "欧州・NATO"
   },
   {
-   "title": "ポーランドにロシア軍の巡航ミサイル落下 首相「意図的な挑発行為」と非難",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yZjAzWHF6dG5xQmFEQ3JKTjNBR0xFN05FRVliZWpkM0s1REZDa0ZxTUlHSmVzUXhiREltNC02eXJWV0tHMHdoMVQzS1hTUXJGNUI5TU11TnZZd3FlMWFtVlI4MkZVc2QtdkJBRGNB?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-21T01:49+09:00",
+   "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難 ＮＡＴＯ支援要請へ",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXo3al8yZGNyR2ZfYm5tS2FzXzE1VUxnWDJUdFpablhwTzFWSmRZdHZJdXVNNjlYVlVwYl91VlljcEFuQ1EzVmpFVVo5UnlmR0pLZ2FBcWI2ZE5yTWhDYXhycnhjMmJQd3A3MHVoaFkwRzV5emJLM0ZOTVhFckdBRkRHb2d3QQ?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-21T02:10+09:00",
    "topic": "ロシア"
   },
   {
@@ -494,6 +494,20 @@
    "source": "Reuters",
    "at": "2026-11-21T01:47+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ポーランドにロシア軍の巡航ミサイル落下 首相「意図的な挑発行為」と非難",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rYVJaaXdjR1ZyWGh1TkU0d3RGbG1Xb0l4aHo5Tk1oNGl4REgwUHVIcm5fVHhidkhPQl9WOVFDcXNyN0NNX1ptM3A4WnFaUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-21T01:46+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ポーランド政府“南東部にミサイルなど3発落下” 1つはロシア軍が使用する巡航ミサイル けが人などの被害確認されず",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbEh4Z09qUngzUmtiSUk3QnJoS2ROc1oxLV8wQnlHd0x1WWotSzBEMS1kUG5TYW1Ca3g0Nm9EUm1KT3ZTOFFpQzBzbUtvQ1NWT0hJYlQzd0xsUWk5b0lEenNfYWVYNFpybi1jblppRWx2VWRUd0MtUGlxQkFSbzBkbjNwbDI?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-21T01:26+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "ロシア軍がウクライナに大規模攻撃 少なくとも9人死亡 ゼレンスキー大統領「最大規模の一つ」",
@@ -525,16 +539,9 @@
   },
   {
    "title": "ロシア軍、キーウの主要橋3本をミサイル攻撃―プーチン氏の「報復」表明から数時間後",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uU3AyM2VxV0hNYnV0WHVZODhTY2NJOVROZGxXSXNaelM2d1FaaDRmOWttaG5zdldNMnlzNEJDLVRVQkZfaGRNNGJ4Zm9OUHNfN1QtR2dER2o4WE1MaDdzTW5FZ9IBaEFVX3lxTE9mNEdOWW1ZSHF3cU1uZ1QtV2c2czFXNkVaeEpWVEpjNHUyNTBPcUJYRzFla1ZucjQxLUthTndoTG5EV01XdndrYXl2TVpnSDhkUTdTbXZnVFcyNkZtb28xVGZVVGNOVkxv?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mNEdOWW1ZSHF3cU1uZ1QtV2c2czFXNkVaeEpWVEpjNHUyNTBPcUJYRzFla1ZucjQxLUthTndoTG5EV01XdndrYXl2TVpnSDhkUTdTbXZnVFcyNkZtb28xVGZVVGNOVkxv0gFoQVVfeXFMT2Y0R05ZbVlIcXdxTW5nVC1XZzZzMVc2RVp4SlZUSmM0dTI1ME9xQlhHMWVrVm5yNDEtS2FOd2hMbkRXTVd2d2theXZNWmdIOGRRN1NtdmdUVzI2Rm1vbzFUZlVUY05WTG8?oc=5",
    "source": "財経新聞",
    "at": "2026-11-20T23:25+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ポーランド首相、ロシア軍のミサイル落はウクライナ支援国の軍事演習場付近に落下したと報告 「意図的な挑発だ」",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOeHpPVXBSTFpUXzluZUFmZjFXcUtVcHZQZ3V0eklNQjhPXzRydTlBc2oyZDZ2bXI2ZmVHUFhBYUN3R0pkZmtSVFlfQUh0VXZsRzhURW1IYlBGTnJaUlBBbE82N19jenBpVUZvVkxlZk8tNGtDbWdsWTFwbEYxMENQbEttRUcxdzlUa2pTWkhIQ3Q5dG95ejhYeDZLc1J1TktoNFpTY3pReENkUmF4T2xGQnZURDdzMVF2NzBqcThkS1pwT21PS08yOFJxTjJaSXRCbEJ3a0FLSzNHd3VSV28wM2FPbXFQVmpfS09YOER6aDFGU2hKdmx4RHJwWXVoY1phRzRFZnJKWV9PZVJFbHFrTEh2d0xEckdnMnZ1cmR30gGjAkFVX3lxTE9MVzRsNXJxcC1JVWpvNTRsVXo5V2I1ODNNUlFqV1lQTE11Q0dqZVhRd3FfNE5lbTYxbE9FTnN4RmM3eUxLN1BwbHNkbExZXzAxNzE3akd3VkxBNlBDWVhwQ1F2czA1MWViT200RHdHbkI2eHFoVXV5VXNrdXVOLTNBOFpTVzlnczFnR0xlVTBCSVFaa0YtQ0UyWDA2THRIWjA3eWxMUklLbU1BOUlTQ2pOQS1XZEdRVU5zYmVfRFdtbkg1NUtqLXFsR2gtUHdsVWM3SzE0eS1jMktNLTVHb09ZODRoa1FCdF9aXzdxZ01icTZMakQ1RkJKOU5yOW83bUR4a2xRX1BtaVRJT2JoLWhJeGVsbHJWdVVYV1BYZHd5d01Hbw?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-20T23:17+09:00",
    "topic": "ロシア"
   },
   {
@@ -580,6 +587,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "中国がアジア太平洋経済協力会議（APEC）首脳会議が終わった後も、高市早苗首相の台湾関連発言に対して是正を要求し、依然として強硬な態度を示した。中国外交部の郭嘉勲報道官は20日、定例ブリーフィングで高..",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4WXZmWHZQNDZIT19GZXZSa3plLWd5U3pkbWFHa3EtbDVGZVEyb1VwcEtYMUhRemEzdnBRZlpuYVBJM0R6MzFVV0Z2b1VVeWM?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-20T18:36+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "元国防総省高官は、NATOが「抑止力の危機」にあると述べる／「欧州からの米軍撤退は間違いだ」",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGdRb1hzWUlKaHRveXdZb0FiZGRmZloyTFRiSTZpUERpanVNQlZtb1ZNUlFKUEpJTXJuYVIwOGZ2U3laRzB5bGk5cmJhbmxhdUtibklwNG1NRlFCVm4wZ0J4VHJKWDd2LVlENVNsaW5hZk5oaFRsRDZmaGYxV2tDckNoamQwcElneTNOY25HZWZ1UzN5QTdLdkkzZDdmRlVLYVNGZmpmRWdjNmpMc0E?oc=5",
    "source": "Informat.ro",
@@ -598,20 +612,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-20T16:35+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "「会いたい」トランプ大統領、「待てる」金正恩総書記―米中露の平和宣言にない「北朝鮮」の文字（西岡省二） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRW5nOHhsbVJPcVlOM0k3OXBkYy1HbjlOakhOX3J4M0tYQXBkazBDeFNwYUlVd0hLTFNPVWN5TDRyRkdjWldwOF9jd0tsNkFLTWVKTWJEQVJVOEI3Zzkyd3ZZTTlTOEhERUZTVm8yc3E0OUFwRC04US1Lb3V1X2ZfNFA5ejhjSXRx?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T16:17+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（2）【中国問題グローバル研究所】",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ZXdBNUF4dTJhWkFWR1pBY3RQMGJUQko0MnV2aktxdzNmNnRLZFlBRnRSbmF2TzZUUTAzOHp2WEpMZ1drcll3cTgtdW81a2NSa0dYZDcxUjBpaWtOaEVVWUFUVFR1OFBVN014Y2ZiVmg?oc=5",
-   "source": "Investing.com - FX",
-   "at": "2026-11-20T16:15+09:00",
    "topic": "中国・台湾"
   }
  ],
@@ -634,7 +634,7 @@
     "イラン・アメリカ：「封鎖」1件",
     "中国・台湾：「侵攻」1件",
     "北朝鮮：「攻撃」1件",
-    "ロシア：「攻撃」「報復」6件",
+    "ロシア：「攻撃」「報復」5件",
     "欧州・NATO：「攻撃」「軍事衝突」2件"
    ],
    "items": [
