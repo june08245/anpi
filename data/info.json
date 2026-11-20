@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:15+09:00",
+ "updated": "2026-11-20T12:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -138,16 +138,16 @@
      "at": "2026-11-20T10:15+09:00"
     },
     {
+     "title": "米国当局者がイランへの攻撃再開の理由を明らかにする",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjdadDRpQ3hzekJZcF9xaDIwSFFXU3JDdUNHWkZRWEpkT0E4a1YyTF9fSnVLRGRDRWtRVUFIS01DSEJyNURGVEdFTjJzQmxqMmd5QXdWVDFtUlNQZXdacUZoUGpkSXNWaFJReEhPVDd4TVRwNnRsYk51dzRsSEU2SWxmd2pseHNvNnNPdFBmX2pyVlFWTTloYzZEV1Q?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-20T08:00+09:00"
+    },
+    {
      "title": "トランプ氏、対イラン攻撃再開「年明け以降に動き見極める」 上院は攻撃制限決議案を否決（産経新聞）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95cEdsdVAtOTU4dF9jc0xKWFN2QlAyd2IxUFUwV2hqTEt4MzlpeXZod0FPaWVFck1Db3JabFhfNHktOF81cTZ0RjBOR1d1a29CWk01SnRoNnh3MFp5d2UyNUdKNjMzZnM3SnZEOTFSVklqazJQa0ZXZ1VnQUNGdTg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-20T07:38+09:00"
-    },
-    {
-     "title": "トランプ氏、イランへの攻撃再開巡る判断は来年に持ち越し 「急がず」 | ロイター",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmZEQzZ2d3poT3NJRk1zQ0x0N1hLcVlaYTA3RkZhM1FONEJuQ1hheG91REY5Mlg2ZFlsd3EwUDkxQ3RreElZWjBxdVJIWEYtYlczS0V5QmVmU2tJbzVvZ1RCT2RLUzJxeE05NkRvMFFNODJkSDgzemdMX29hWDJnVzdYd21CSEU?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-20T07:03+09:00"
     }
    ]
   },
@@ -198,6 +198,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "米朝首脳会談は実現せず トランプ氏、なお金正恩氏との対話を模索",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45eWMxVFU3N3RBWTFVYkUwSm9ZbTNQZzNoeUpabkJQdTUyaHZWZVF5d096dW1VTWRxR1padjZzWXVYSnQ0bVFGWi13dDl6dWdUYk9LLXhlVlFBRkVFUXR0Y2xBSVh5UWs?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-20T12:10+09:00"
+    },
+    {
      "title": "米国、国連の北朝鮮人権決議案で初の棄権…「朝米会談を意識したものではない」（ハンギョレ新聞）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZ3hTQWZ6STU4VjJxNmlvTHFoODREWFdTMy13SFQ0MmpwdnN0ME9FTDBkNDZOUXFvamVleC1XaDNIYXRQeEp3XzEzQ2NPOTdHR20tTzBxWk1LMFIyYU5na1BqTWRuVHNJUGJ5WVlxYjFxZ3Z5ZUxnNG80XzdTcDA?oc=5",
      "source": "Yahoo!ニュース",
@@ -226,12 +232,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSC1mZmlfQm9NVmJqc3Z2bDNHMUtMd2EzOWtRT1JTUW83TjBEUVgyOWF0Nl9kRXpVTVVTc0dsaWktZzRhTktjNldsd2ppZXp4NHVXb1hxbW4?oc=5",
      "source": "現代ビジネス",
      "at": "2026-11-20T00:06+09:00"
-    },
-    {
-     "title": "北朝鮮のキム·ジョンウン国務委員長がドナルド·トランプ米大統領のアジア歴訪期間中、平壌を空けて観光振興·民生·軍事関連現場訪問を継続した。 アジア太平洋経済協力会議（APEC）首脳会議に出席するため中..",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSVFpZ0h2SHM4M2VsTmtKc3htV3lkRmozSHZ6QVRYc1JuT21WY1BiaUJFbzJPQktqZHVQZVowWHpZTERpTk9HdG53YkgzSGR1UzlB?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-19T23:33+09:00"
     }
    ]
   },
@@ -352,10 +352,10 @@
    "at": "2026-11-19T15:21+09:00"
   },
   {
-   "title": "南海トラフ、被災したその後も地域は続く...香南市で事前復興計画策定へワークショップ始まる",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00eEJlLVVWSFFWQV9Zd1REMEw2dDZyUnJxbHB6bG5wUVNreDg4M2FacWZZVjU2ZHFCQUpjVjNfNE9lNnFvODIxR0Q5RUsxbjh3S1NZMm14R0gtT2FzTnFF?oc=5",
-   "source": "高知新聞",
-   "at": "2026-11-18T19:08+09:00"
+   "title": "「いざという時に道の駅が活躍できる場となるよう」 道の駅 “源平の里むれ” で南海トラフ地震を想定した訓練（RSK山陽放送）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UOUx4eklOS2s4dHFfY3dudVZKVVpuSW5LcDJMTExYVVBGVlFzQjYtdjFsV2RQeWZfeno5Z0h6ZHNMNTJVbDZHWXJjOXBOR3lFZDItOUJxUkd1LW51RXR3V0lDcUt0MXU2bVN3X2dYcmw1NGlsUHAwU1R1V0cwbG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-18T19:00+09:00"
   }
  ],
  "outage": [
@@ -412,16 +412,16 @@
    "at": "2026-11-20T09:14+09:00"
   },
   {
+   "title": "湘南美容クリニックなどのSBC、不正アクセスで約162万人の情報漏えい（Impress Watch）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VU2x1cUlRdnF3RTdYdC0wQXNSN09SQ09YYW9KNDJFaGtBamhSR09xaEpURWRxQ0JLLU9yVU1wSDZDNkYxZ2JxRm9iUzlUQ3RBYTU2UFMxNlFUU0pIaWlweUM5MmNBcGlLeTlkVXliQkVHajJjbS1BTmRJZUZyblk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T12:16+09:00"
+  },
+  {
    "title": "日立がOpenAIのサイバー防御網に参画！ AIで脆弱性の発見から修復までを支援する新たな仕組みへ",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yZF95WDAtQTVjeTQzdWlnMl9pZUVScFRrT1UxcW40TXZnNkRTb1NrT1VZVk12SnV4eXdqZ1RCdmFWd2dwRUdPWFFIS3FSYU1IcUE?oc=5",
    "source": "DXマガジン",
    "at": "2026-11-20T12:01+09:00"
-  },
-  {
-   "title": "【決済アプリPayどん】サービス停止 不正アクセスで25万件余りの個人情報漏えい （鹿児島ニュースＫＴＳ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UbUJTSTdtSG5aZnBFWDJMcTJOaENmcTRsOWVlOW45emtqZGdVYThLbDJQZkllRmdmaHdiSWpNWkhBXzhlVXNmV05LdkxRbmhZeGdHV016cnJEWXdzeHN0alUxUlM3dzVZNjlkWHVVcXByVmozREUwSTIwc3V4RlU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T11:53+09:00"
   },
   {
    "title": "不正アクセス、「必要な再発防止策を」",
@@ -468,6 +468,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米朝首脳会談は実現せず トランプ氏、なお金正恩氏との対話を模索",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45eWMxVFU3N3RBWTFVYkUwSm9ZbTNQZzNoeUpabkJQdTUyaHZWZVF5d096dW1VTWRxR1padjZzWXVYSnQ0bVFGWi13dDl6dWdUYk9LLXhlVlFBRkVFUXR0Y2xBSVh5UWs?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-20T12:10+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "ロシア軍を煽るコメント？「橋は大切だよ」突如スウェーデン軍が公式でSNS投稿！（1/2 ページ）",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kdmN2Uzd1NmM5cEhWeEF0MHZUem94NVY1QU9BNmVReE94SW1sVnBvNWF6eVhRZ3Q3MVJHay13U1QwamxUZG83ZDVn?oc=5",
@@ -567,6 +574,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "米国当局者がイランへの攻撃再開の理由を明らかにする",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjdadDRpQ3hzekJZcF9xaDIwSFFXU3JDdUNHWkZRWEpkT0E4a1YyTF9fSnVLRGRDRWtRVUFIS01DSEJyNURGVEdFTjJzQmxqMmd5QXdWVDFtUlNQZXdacUZoUGpkSXNWaFJReEhPVDd4TVRwNnRsYk51dzRsSEU2SWxmd2pseHNvNnNPdFBmX2pyVlFWTTloYzZEV1Q?oc=5",
+   "source": "Laodong.vn",
+   "at": "2026-11-20T08:00+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "トランプ氏、対イラン攻撃再開「年明け以降に動き見極める」 上院は攻撃制限決議案を否決（産経新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95cEdsdVAtOTU4dF9jc0xKWFN2QlAyd2IxUFUwV2hqTEt4MzlpeXZod0FPaWVFck1Db3JabFhfNHktOF81cTZ0RjBOR1d1a29CWk01SnRoNnh3MFp5d2UyNUdKNjMzZnM3SnZEOTFSVklqazJQa0ZXZ1VnQUNGdTg?oc=5",
    "source": "Yahoo!ニュース",
@@ -593,20 +607,6 @@
    "source": "조선일보",
    "at": "2026-11-20T07:06+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "トランプ氏、イランへの攻撃再開巡る判断は来年に持ち越し 「急がず」 | ロイター",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmZEQzZ2d3poT3NJRk1zQ0x0N1hLcVlaYTA3RkZhM1FONEJuQ1hheG91REY5Mlg2ZFlsd3EwUDkxQ3RreElZWjBxdVJIWEYtYlczS0V5QmVmU2tJbzVvZ1RCT2RLUzJxeE05NkRvMFFNODJkSDgzemdMX29hWDJnVzdYd21CSEU?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-20T07:03+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ドナルド·トランプ米大統領と北朝鮮の金正恩（キム·ジョンウン）国務委員長のアジア太平洋経済協力会議（APEC）首脳会議の契機会合がついに不発に終わった。米NBC放送は19日（現地時間）、トランプ大統領..",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNkswbUtMeUJGZFR6dzRKT2RDd05TZ0R6QUJTTUtvS1F2UmdXSVduWV9IcTA2TlAwczRSOTZ2TzZ2ZndkeGtZNEpzT1RaQm8?oc=5",
-   "source": "매일경제",
-   "at": "2026-11-20T06:36+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
