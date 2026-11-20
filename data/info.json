@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:45+09:00",
+ "updated": "2026-11-21T06:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -144,6 +144,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aN0F6VFdXY2NyNWxWMjF2UVhIQU1faC1iOWllWUhMc1dFaV8tWFp2V1VRWl9fX2hERzQyZVlPVjBIZ1A3Zjktb1NEQ3BDdDc2b29Dd0VVTDNjNG8?oc=5",
+     "source": "ABEMA",
+     "at": "2026-11-20T18:31+09:00"
+    },
+    {
      "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
      "source": "山陽新聞",
@@ -166,12 +172,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QRVZCOG5tM29QU1Z1YWhiZS1waGtPbVJYNmhQcTFHUllyT3RBVVktdWpNZUFySTR3N2E4eU1MUm5XMkVDVVVybGFmWkFOZW03?oc=5",
      "source": "風傳媒日本語版",
      "at": "2026-11-20T15:42+09:00"
-    },
-    {
-     "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調 – Quebee キュエビー",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdTlXdUxfNk1zUnl1Vk90NlhjRW5lUDJNZlRnVmRYWWpQYUtWbzNhdTdRTWYzM19GYmlyYTBLX1NBMTBCY05GaE9DTV9UakNuZ3ZSOUFnd0g?oc=5",
-     "source": "QAB 琉球朝日放送",
-     "at": "2026-11-20T15:15+09:00"
     },
     {
      "title": "中国軍、太平洋での活動拡大 ロシアとの連携強化に重大懸念",
@@ -328,12 +328,6 @@
    "at": "2026-11-20T19:15+09:00"
   },
   {
-   "title": "愛知で約30年ぶりの震度5強 南海トラフ地震評価検討会｢特段の変化なし｣ 防災庁｢水やトイレなど日頃の備えを｣",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MT2lLWEFSY1Fxemp0RS1lYU4xREt6emJIV2lhZ1VJNzFwOE9WdzBGS3JpR2NZbUhxUDhLRkw2cXhtMFNMSWc4czhrVC1iSFl5OFhtOFJwNDJqamZhUnNZ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-20T12:33+09:00"
-  },
-  {
    "title": "香川県丸亀署が離島で南海トラフ地震を想定した訓練行う",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PSGZfSy1CM2JvaVhhX184cW5MVlBXYVgxNlZ4UEc4bV91UU45RVJpTEU0aFYxTUVWS0lUNnNBc0ZjUWd0eF93b0d3QjNvdGd2LTZMRmFTQTZpOVU?oc=5",
    "source": "日刊警察",
@@ -344,6 +338,12 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdG5pb2pNREprd2o1Y0xaQ2FtTEpPc084bHlsMlNNTXdSSDZWU2w4dk5SQUFMNndNTTE2OW96RV9lR1hFWWZvSlZ0a3BpcXdtMGc?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-19T17:34+09:00"
+  },
+  {
+   "title": "南海トラフの巨大地震を想定 身元確認訓練 愛知 田原",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96YW92QWVtYjRLb3ZCMTZ3OGJwTmI5OFBZYzFJaXFGNlJUcExLc3MtaWwxaHQ1WElPODN2alVoVTZaYmphOTJOVnNQQ0RjdlRpUzNmY2ZiQ0pPc21qSGZv?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-19T16:04+09:00"
   }
  ],
  "outage": [
@@ -424,6 +424,12 @@
    "at": "2026-11-20T20:27+09:00"
   },
   {
+   "title": "西日本１２８信金でシステム障害 決済、ＡＴＭ利用できず",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfRlNIeGZpUW5JQjF6R0ZzNDJEUEIzNnN6RjZmcGxFWUNBR2dMRDdMZWtvMjJMWFB1ZFpJczZ1aGwwSGNISnBKdTJqUDhqMnVPRGVSNGpoZXFYWHRETE11R0pmU19iN0E?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-20T20:16+09:00"
+  },
+  {
    "title": "政府資料ファイル流出か システムに不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pMGhVenRDOGdrckZKU0hLQVNoNWZuNmVLOWNGYkg1ZUdlbC1TMzU1MkI3UlZ4alI1MHhkZWhPN083cjVKT0JmTFZ0bEtqaExuY2otZ21GSVViT1A1YjZlMUh3?oc=5",
    "source": "琉球新報デジタル",
@@ -464,12 +470,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JdU5ud1RRSjA3MW9jNkNiTXNuZTdKSjZGY0RqT0VHdGpSWF9MOGwzQkVMeFYtVElTbk1uQ21nR204Nmp4V2NsYUtnY1JqOTFYNW9HdTEyeTZmcVE?oc=5",
    "source": "ベンチャー・ソリューション株式会社",
    "at": "2026-11-21T03:03+09:00"
-  },
-  {
-   "title": "奈良県の委託先に不正アクセス 県職員らのメールアドレス漏洩 (産経新聞)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNm0yZVdVZGUxdEVGODFuR0t1cTEzQXJXcm43SV9YbTBjVXFMTGNUSURicEYtZXRvNEdIRGxvQlJ6d2Izb3B1ajliQVpuU1E1aTBoRlVrNFR6Uk9lTDU3cnRmdVZKLUFEMVAxOVNVRUlGN3l4b1NNa0NsT2tpanBfMWZiZGJGdWdITFl4Z0hB?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T23:53+09:00"
   }
  ],
  "osaka": [
@@ -615,18 +615,18 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-20T18:24+09:00",
+   "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aN0F6VFdXY2NyNWxWMjF2UVhIQU1faC1iOWllWUhMc1dFaV8tWFp2V1VRWl9fX2hERzQyZVlPVjBIZ1A3Zjktb1NEQ3BDdDc2b29Dd0VVTDNjNG8?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-20T18:31+09:00",
    "topic": "中国・台湾"
   }
  ],
  "status": {
   "osaka": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "警報なし・大きな揺れや停電の報道なし"
+    "「西日本１２８信金でシステム障害 決済、ＡＴＭ利用できず」"
    ]
   },
   "japan": {
