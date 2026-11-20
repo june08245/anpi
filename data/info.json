@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:30+09:00",
+ "updated": "2026-11-20T20:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-20T14:44:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-20T20:40:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-20T18:28:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -90,16 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T10:46:00+09:00",
-   "place": "和歌山県北部",
-   "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -120,10 +120,10 @@
      "at": "2026-11-20T15:31+09:00"
     },
     {
-     "title": "米軍の対イラン戦費、約7兆7200億円 国防総省",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FOXpSaFkyZmszVTNQcEU4VUY2OXZNVzd0all0d21rcFVBWkotSWZTRWZpNng0VS11SzVKcDVSVE1LOUQtRlo5dFVJUG0tRkpFQ2ItNkZhLTY4NmgwU0xuT2k4eXlBVnVlb0wtaXZ5c3NyUdIBVEFVX3lxTFBsN3pHT0twZEI2Tml5YTdwd1d3Z25jWnl6Q2EtaHVPR0tpdWFEQUVvbmk1NWFBNzJqZFk1dEVtd0NuYXVVaE1qTDY4OXRNZEt5VmJoNw?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-20T15:19+09:00"
+     "title": "米軍の対イラン戦費、約7兆7200億円 国防総省（ＡＦＰ＝時事）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVTVtZldaVzhOdHBINVIweVJIUmp6U3NhYUxPcVN6U0xMZkNpc2VxeXpVeHJScFVTVUd6UEpPNDVSRDVxTHhFSjhxajR5bTRjSDl6QTJOTGp2TlRXeDJXb3RyZC0ySGhFODIwWmw5X190d3JpVi1NZ2NRd3FKNW8?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T15:04+09:00"
     },
     {
      "title": "米国はイラン戦争をどう終わらせるのか、朝鮮戦争とベトナム戦争が教える歴史の教訓",
@@ -180,10 +180,10 @@
      "at": "2026-11-20T09:38+09:00"
     },
     {
-     "title": "習氏 台湾問題で米大統領をけん制",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-20T07:22+09:00"
+     "title": "米、中国軍企業への輸出承認 ＡＩ半導体、今年５月時点",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1cU5yX0Q3ZjR0Si1wOXlKeWtpdEljczdVWDAtd3RWbHptUF9uejZxYzRiMEticGFaSlNIaWJmR2hyYTdWcnRrXzRHYmVURkRZVlAwMXZnT01sSEstZnd0WHVGSFhKYVk?oc=5",
+     "source": "中日新聞Web",
+     "at": "2026-11-20T09:36+09:00"
     }
    ]
   },
@@ -306,19 +306,19 @@
      "at": "2026-11-19T19:16+09:00"
     },
     {
-     "title": "プーチン氏がトランプ氏を操る？対欧州破壊工作の実動部隊は",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
-     "source": "TVer",
-     "at": "2026-11-19T15:16+09:00"
+     "title": "エルブリッジ・コルビーは、ウクライナによるロシアへの攻撃を批判した後、NATOの会合を退出した",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3dQalZoOHlLZmJvQkVKdi1fenh6bi04Z1NwcDRQLWFiLTFqanFTd0FnSDlGa2E4MFRONy01NUQwZElESDZjeXFqWjR6VVhrLWpTZ29WM0swZS0yR0M1T0RSNTc4dlBpZG1xNTVwOGxEdU1aczRqX21xNXZRY0dKLVlOeWxoYzdoWXhCTUFjZG94TWFEa3NrYVlDWWtQUzBKV0w1V3RkSldoVVot?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-19T18:02+09:00"
     }
    ]
   }
  ],
  "nankai": [
   {
-   "title": "南海トラフ地震を想定 宮崎市で「脱出船」による傷病者搬送訓練（2026年11月20日掲載）｜UMK NEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVN3NDlZODJrZmFRVmh2amJldmk4MmtaZktIdEhhOEt0T2V2SlhPbDlndXhZTUdoa2I2ajFpM2xJZmRwZEl2VTV6c3NqLWhlQjFnVWsxbFhRbXNhYXV1UnNINEszY0hmeG15RnFMRFRteXNlZVNzeE0zUlRwRUl4Y1FOd0d3ams?oc=5",
-   "source": "日テレNEWS NNN",
+   "title": "南海トラフ地震を想定 宮崎市で「脱出船」による傷病者搬送訓練を実施",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5udElxOWhMX3hNbW5PZ3o4WV8wNklHMnJZOWZXWnJJaEp1SkUxV08xMm5oTGxlWmtzMjQ3OWh3b2wtUzBHMmFISUg2eVNkRTVlZTJQb0NtOWhnQURjeVpEbmE0UWJ3Y09RWmFmLUdB?oc=5",
+   "source": "Excite エキサイト",
    "at": "2026-11-20T19:28+09:00"
   },
   {
@@ -384,12 +384,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2NoN3ZTRUJaQ3R5Y3h5RHRGUWVtbjdERHZsV3RMX2Fwb2loT29yYXl4YTBqTjBDazVWVWdYOVJfVW1nUWR5TzhiQ0x3ZS1qVWFacldneXg0aUdEeUF5VjQzZy05djczNnZ3bXdwdFV4UkF3TW9mZVEwQU5FNjZDM09USFVLbFkzODBlamRNamNQcFI2dFlqM29wUU5HY0x0Z2lkRDVRNA?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-20T06:34+09:00"
-  },
-  {
-   "title": "ゼレンスキー：プーチン、弾道ミサイルとジェット推進型「シャヘド型ドローン」による攻撃を強化",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzVjNycjQwLWRwUmdCLTlaZlNhbVZQNVJrTV94a3c3NDFWbG50X2M2NWhzNXVQY19kSUZZbXJNc0U5UGhrOXRmMDRWcE9pSVBUOUczMzRMbVJ0eG5FOElxb3lZbmtGQ2p0?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-19T20:35+09:00"
   }
  ],
  "cyber": [
@@ -400,10 +394,52 @@
    "at": "2026-11-20T20:27+09:00"
   },
   {
-   "title": "政府職員のファイル共有で漏えいか、不正アクセスは3カ月超 デジタル庁が提供停止",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Cc3Atc1plMkluTlJrTy05N3RJeGtfc0RZSmY0bWR5Skh4RUEzVDdpalB4dGZ0bWpoSm5qY0hJU0NQOGtXNlo4RTVpUm5IU19yc1JN?oc=5",
-   "source": "ビジネス+IT",
+   "title": "スパコン「富岳」不正アクセスで認証情報430件流出 理研が調査委員会を設置へ（神戸新聞NEXT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWU92TUtsRFJpcEVOXzFyS0pIXzhGRVB0UmZEd2gwMmg4d3lINnlyTGZGWTQ1MTVrOXlmcDVQcWE3VFJ2Y1ZPZEZVZFVwQzNZT1JuTmpwV0pzVHE1eDJJb2ZOZHZOSGh5RGx4Y3RGQmRJcXotaHFUUDdnVmVTY0k?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T20:30+09:00"
+  },
+  {
+   "title": "プレイドへの不正アクセス、2200社に影響 丸井やDHC、ジンズ [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TQTRFVU1Bd3lvc1M1Qi01S1YtTEdRbHloQlNBSmE2b2xaaXJaMkE4TC1TWXd0UWFlT3pYY2pNelVlVC12RHRqZmxhQzhhWmNwWnZhUmR1UFRxVXlkSThHTGNYcVg1cHM?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-20T20:30+09:00"
+  },
+  {
+   "title": "「富岳」に不正アクセス 他機関のスパコンなどに接続するための認証情報に持ち出された痕跡 悪用の形跡は確認されず",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlREthMks3N2RsR3M2dFM1b1ZmTXRhSGJ2eUwzbmFHb1pNVGVSMmpXdzNxd0RRX3NvZ09kd2dCaVI2bjZVWkJRSzhXTGNyMklKeHJEYlNMOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-20T20:29+09:00"
+  },
+  {
+   "title": "政府職員のファイル共有で漏えいか、不正アクセスは3カ月超 デジタル庁が提供停止（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TUTR3ZjVQZEVXbW0teGZ5Ukk3TTNsanhzd3hSanNRUU0zY3A5YXBiNlFQemtLekk4UVVRNE91OEtUSmROOUZYTmtkdWxBbnhMaEJfc2w0WVlFN0xWVnlmRjdORVdoVEVJTURkbFhlZnVqSE1ETC0wYkxtdm5CNEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T20:25+09:00"
+  },
+  {
+   "title": "棚倉町、メアド166件漏えい アララ不正アクセス受け",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHR2RtMG91WUhjc3V3T1lqVVQzMjhXOWZSTlBaU2lTa3lSa0kzRXdDTkVTLV9Xa2NpOVJ0VlBORVJYeWEyZ3FCd3hNaw?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-20T20:19+09:00"
+  },
+  {
+   "title": "相次ぐサイバー攻撃を分かりやすく徹底生解説するセミナーのご案内",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoVlNla3NkMDgxbnVrUm9DSlllUGNkajd0U0Nka3lLS2s0Ykg5Z19nWWZfWDlTX1NvM19Ra20wNlBnYS1sVFZxSE9hYVAyc1NDMVNqTE1oM1RjLUNFLVppeUg0ekV4dmRzd0hLYzZnVHRXVjg?oc=5",
+   "source": "Excite エキサイト",
    "at": "2026-11-20T20:15+09:00"
+  },
+  {
+   "title": "デジタル庁運用システムに不正アクセス 行政文書漏えいか（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtczdDcXF2a3FKbnZreFF1S0stUDlwem55SFNtNkdNUTBDb3ltbjlHZ3hQMS10UDhldVpZZHhTQklWalFRWGpfQ2s2R2owemdXLXBTZGtRUHIwY2drUXF3SEdWZXdGelpHQUVOVmZMWGZldkdQM3ZPRnlhVlpnVmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T20:13+09:00"
+  },
+  {
+   "title": "キヤノンMJ、366万件の情報漏洩の恐れ 委託先への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Y2xkN0liX2owbXNDd01wOEJiN3dtZGZvM2lxQ1NxejJpVTdReU8tUV9YeTNxNzVhWjZ1bmQwd2k4YVZpU1NqM2NGV0pBQS1TbW1LeHduVHBiemhEcm1kaTAtNmt0Q3E5TmtrMg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-20T20:11+09:00"
   },
   {
    "title": "メルカリ、顧客の個人情報流出の恐れ 委託先へ不正アクセス",
@@ -419,8 +455,8 @@
   },
   {
    "title": "大崎電気、サイバー攻撃でスマートメーターの生産・出荷停止…自社システム内の技術情報がネット上に流出か",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iQ2NaMnhTSlNFMHNwakw4RmNOWWxnN3dPOWR3djg1SUVfd0E0VXNqamtwR0NFY2p0ZWFtcjFYZFJpbHJYR3VqZG9LdEh6VW1vcXJIaGZBZFZ4WC1PZXpoSHQyNDFrbWJqWUZuVnVOaENfXzlJelNZTUNaRm1FeHc?oc=5",
-   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZ3R5NUd3dzNYU3ZEcmhPWDdMNlNIZzFOdllJQ2hPd0l2YXRaZkx5bTlBQzRCMTdxX2QxX2pQelQ2YWZiT0dkckdycVdNbS1uMjY4b01PenRzNFdlZ1JRNlVLS00?oc=5",
+   "source": "読売新聞",
    "at": "2026-11-20T20:05+09:00"
   },
   {
@@ -440,48 +476,6 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWU4UmJjWlZQMTB0T1ZXa1V6QlV3SlBtSkZJWFdjSnRmLUdPODhGVVA4SnV1b0hwWnRxcWc1bHhkX0xJcUk0RmFwMWwwZWxvUmxoWTVNLXRKVDF2RDRPaGJ5bURyaE9IZEpFaEFKQlNtNjJUaU44NW5FZl9uLTdwQXlhZDVJYTd4aTNJTUptSmdSUQ?oc=5",
    "source": "Reuters",
    "at": "2026-11-20T19:59+09:00"
-  },
-  {
-   "title": "三井住友銀行、委託先の不正アクセスで最大1400万件の顧客情報漏えい",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpQ2ZRZEZBNTBHSkp5T0xmcXV6bVNPSkZVYlUwV2RuQ1NQeXNJcnlWTjJsaVFkSzhBdUt0UkhUZnlJZFJRUlFRTUp1UGV5T3F1R1hSenBObFdMczR2c2paV1pEcEZ0XzVBTlBZd21Mb29MUWJW?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-20T19:55+09:00"
-  },
-  {
-   "title": "リクルート、従業員など2万件情報流出の恐れ 委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vdFlxSW1iRlJpQlZVVFZ3NzFROXd2dEtSWk5GQzN5dWd5QnRtZEJOZ2lmTkE2X3V1NTlyeUZnTDVKQ1haNWxaVGxtUENPTnFTTV9ILWV1d3Q4b3N4aDVmRWFDcWlaNjY0aUY0ZQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-20T19:51+09:00"
-  },
-  {
-   "title": "KARTE 不正アクセス 情報漏えいや漏えいおそれ のべ約2200社に",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aakhZOENoSVVSSzZ5SHRSZFhGMU9ySTJXV1dXSnpFck9xY3lBajlIZF9lc1YyS3hnN2FMcVV6TEVRRTFEREpvT1VRaVhtdzRwZ2I1RnF2Qkw4akdVRnZZ?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-20T19:34+09:00"
-  },
-  {
-   "title": "長野県の不正アクセス問題、個人情報流出確認されず 「チアフルながの」などのメール配信サービス",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52RlBhdUhPVXE0OXZscnpMdmUzT0VLdzdPS1E2RzM5Vy1yQTFXc3RJUU5GSzA2RE1RMW1XRE9RbXQzN1lER3BfUGNRcFI2N0dkbXNlMQ?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-20T19:33+09:00"
-  },
-  {
-   "title": "デジタル庁、政府共通基盤GSSのファイル共有サービスに不正アクセス 内部資料漏えいの可能性",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xcTBJLTJLcGxrNXh0Z0JsYXI2RDMyQ0NZdlNIXzVVSm14RzAya0Z1UHFPV0lEaE5SUEV2S1c0d3AtRWJ2ekFWc3VWd0V2SENEVktTWEl3di03QnhuSHNuNEZpUkRoQ0U?oc=5",
-   "source": "テクノエッジ TechnoEdge",
-   "at": "2026-11-20T19:32+09:00"
-  },
-  {
-   "title": "奈良県の委託先に不正アクセス 県職員らのメールアドレス漏洩（産経新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUS1mMVprWDRpcnh1aGpLYXE5amV0RmpnY2lQcXhJYnlCUDB2bUhxUjlrRWFBRmJoQ3J4TnNWbHZVejN3cE9LQXRxaTNtOFFxbWJKSHZIQkV5TzJKWk5Gd2xUYl9YLUloeW1TUFg0N1UyX0Znc3pzRXFXLWgwS0U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T19:30+09:00"
-  },
-  {
-   "title": "Payどんサービスを全て停止 25万人の個人情報漏えい…委託先不正アクセス受け（2026年11月20日掲載）｜KYT NEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUlvNXAwbkZoX2JSWUFVY2tYSFkxYzlRMXltUmxQVFl0dmJvQjRqTkNrb2Q1RUVEX1liaUNfYkJ6YjFHM0FlVVRqNVdTLWR4V1FxZmpWb2lIdnBBNHlIOTR3amI0TG00YlZ4UlpBaEo2bWQzLW5NZldnWlZXd3JjTXhSMkQyRzg?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-20T19:30+09:00"
   }
  ],
  "osaka": [
@@ -606,18 +600,18 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米軍の対イラン戦費、約7兆7200億円 国防総省",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FOXpSaFkyZmszVTNQcEU4VUY2OXZNVzd0all0d21rcFVBWkotSWZTRWZpNng0VS11SzVKcDVSVE1LOUQtRlo5dFVJUG0tRkpFQ2ItNkZhLTY4NmgwU0xuT2k4eXlBVnVlb0wtaXZ5c3NyUdIBVEFVX3lxTFBsN3pHT0twZEI2Tml5YTdwd1d3Z25jWnl6Q2EtaHVPR0tpdWFEQUVvbmk1NWFBNzJqZFk1dEVtd0NuYXVVaE1qTDY4OXRNZEt5VmJoNw?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-20T15:19+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調 – Quebee キュエビー",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdTlXdUxfNk1zUnl1Vk90NlhjRW5lUDJNZlRnVmRYWWpQYUtWbzNhdTdRTWYzM19GYmlyYTBLX1NBMTBCY05GaE9DTV9UakNuZ3ZSOUFnd0g?oc=5",
    "source": "QAB 琉球朝日放送",
    "at": "2026-11-20T15:15+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "米軍の対イラン戦費、約7兆7200億円 国防総省（ＡＦＰ＝時事）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVTVtZldaVzhOdHBINVIweVJIUmp6U3NhYUxPcVN6U0xMZkNpc2VxeXpVeHJScFVTVUd6UEpPNDVSRDVxTHhFSjhxajR5bTRjSDl6QTJOTGp2TlRXeDJXb3RyZC0ySGhFODIwWmw5X190d3JpVi1NZ2NRd3FKNW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T15:04+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "米国はイラン戦争をどう終わらせるのか、朝鮮戦争とベトナム戦争が教える歴史の教訓",
