@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:45+09:00",
+ "updated": "2026-11-20T21:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -180,10 +180,10 @@
      "at": "2026-11-20T09:38+09:00"
     },
     {
-     "title": "米、中国軍企業への輸出承認 ＡＩ半導体、今年５月時点",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1cU5yX0Q3ZjR0Si1wOXlKeWtpdEljczdVWDAtd3RWbHptUF9uejZxYzRiMEticGFaSlNIaWJmR2hyYTdWcnRrXzRHYmVURkRZVlAwMXZnT01sSEstZnd0WHVGSFhKYVk?oc=5",
-     "source": "中日新聞Web",
-     "at": "2026-11-20T09:36+09:00"
+     "title": "習氏 台湾問題で米大統領をけん制",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeVVkRTV2aVhEcktwYlRSX0xCZ2ZCR05hTTZGVXVrdHV4dklxYkFmYkczekJTQmx0Zk9iVlpBZHkwUlhPWTdfeDUwcVc3alkt?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T07:22+09:00"
     }
    ]
   },
@@ -234,6 +234,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア、キーウの橋3カ所など各地を攻撃 ウクライナ全土で8人死亡",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbURVaVdleEFUQXQyLWh2eFdnZHhfa3dWalpCUkpmVUVob0ZCZzQ5MkVHVU9Na2pFNmlyaWJveEpybVZpYTNNelpvb0lUQlhYSl9sZmp2clNJdmFUbEhuYVBaNXBKNl9XUXVkM2VrdWg1TGJrQ09NWHktcGlrVzVSVDdDbndUdw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-20T20:52+09:00"
+    },
+    {
+     "title": "ロシア内陸1300キロの石油拠点にドローン攻撃…夜空を照らす激しい閃光、ウクライナが狙った重要施設とは",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DTUFHdTBXOVJRREszdlk1djZoczRzUThJLVRMaDF6YlEteXBVT3plVlVlTndlbDFqT0hWOTVfc2QzR0FjQlEzMHdCdnVHc3lqOUJJY0Q5SFhTak15RDJLN0c5dGg4MmJUcFJ6Qm85MjBTcUNsd01nekg5Y3EzbkE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-20T20:40+09:00"
+    },
+    {
      "title": "ロシア軍のドローン攻撃で住宅が損壊…取り残された住民を救出、ウクライナ南部の緊迫した現場",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LbTRrbGpYckwwZ1ZvZkFSRHgzUG5MZGZTdHFyQU80QzdoUDFEb1pMUDBMNUUxcXNpbUQyclIybTFHVUp0WnE1NlRrNThVVmotQTZWREYzTUNIZw?oc=5",
      "source": "ニューズウィーク日本版",
@@ -252,22 +264,10 @@
      "at": "2026-11-20T19:54+09:00"
     },
     {
-     "title": "ロシア内陸1300キロの石油拠点にドローン攻撃…夜空を照らす激しい閃光、ウクライナが狙った重要施設とは",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xSjFpOGZBSGJWbktxOFdBVmVCNGJkM2ZJVlFzVEoyOTZ2c1dKLWs4Z3Q2cnhtV2x6QjltajhFb2lVMUZGdlk4ZGZRNlVjMVJXM2lwcWROZWR4QQ?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-20T19:45+09:00"
-    },
-    {
      "title": "ウクライナ防空戦力、ロシア軍発射のミサイル８２弾と無人機３８０機を阻止",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOU1VWFZoNDdRdEJGd1o1V1BkYnU2bGNXb1pndFAxMjRQNnp4Y2lab01RejNiMFUtQlVNS19acS1jVVlPUzg0Vmp6QUNtMXVZZTU2cm80Q2J4ZkNNZzR6bEcteGVfcjhLYkhjSjBoaTJaN2FlN0FNRV9Ia2lndThZNzRQbnZvMUphc2VkUEVsQUhGVEcyaTcyaXA5ZFZibkVxZTBQeVJGOG5aNnBTb21QaDdrSWtpZjcxY1hfTzN1Q3dnRUd6VnpYSEhCTdIB0AFBVV95cUxONmN5UjB1TXB4SVY5TmRvV3U5Mjk0Q2w3NmVRcVRuRHBOdHcyRkM1eTlQRFJtdkNIUGo4VW1OU04wazh4Y2xYUHhCVl95aW1PcWxMaTZMdVc0OE83ODV5OThsT3haY3kwRlVSY2FMWUc0VG5XNjc4VWNwZTN3dE5ZY3NGNW93QldiaDJnYjdwNnpZdFZyQS1EMXY0OFk3djZGSExsa0VzcHJoZkQ4YkpZY2xaM0dOT0p4SC03VEdYUWQzQWtwWDNrVWlBdWN0Smxr?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-20T18:55+09:00"
-    },
-    {
-     "title": "ウクライナ：ロシアによるエネルギー施設・暖房システムへの攻撃が増加 民間人の命を脅かす",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaW8wX1ExczZ5U1JaakR3RVBzUEN2LWJwQlZGMTVlN3o1di1pclpiMzViUGhNbnhYOVBJWGwtb0xOdU5DVE1HSnUyUXZzcmpOdzZjcFBFVVFnalJtVTlDMw?oc=5",
-     "source": "アムネスティ・インターナショナル日本",
-     "at": "2026-11-20T18:33+09:00"
     }
    ]
   },
@@ -306,10 +306,10 @@
      "at": "2026-11-19T19:16+09:00"
     },
     {
-     "title": "エルブリッジ・コルビーは、ウクライナによるロシアへの攻撃を批判した後、NATOの会合を退出した",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3dQalZoOHlLZmJvQkVKdi1fenh6bi04Z1NwcDRQLWFiLTFqanFTd0FnSDlGa2E4MFRONy01NUQwZElESDZjeXFqWjR6VVhrLWpTZ29WM0swZS0yR0M1T0RSNTc4dlBpZG1xNTVwOGxEdU1aczRqX21xNXZRY0dKLVlOeWxoYzdoWXhCTUFjZG94TWFEa3NrYVlDWWtQUzBKV0w1V3RkSldoVVot?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-19T18:02+09:00"
+     "title": "プーチン氏がトランプ氏を操る？対欧州破壊工作の実動部隊は",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEeDNVRkJjemF4UmdBQUkwSEtpS0MtcEVRTnY1RDJVWUJ4OWJnNlJTYUVfOEJiaHpoWmpxQWtQdm1IMDRHSnFYWVFQaw?oc=5",
+     "source": "TVer",
+     "at": "2026-11-19T15:16+09:00"
     }
    ]
   }
@@ -394,6 +394,12 @@
    "at": "2026-11-20T20:27+09:00"
   },
   {
+   "title": "認証情報430件流出が判明 理研スパコン「富岳」不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MNjJsbXFxRHliVHRJLS12YXJvaENWXzhTUE8wdG5NckhRS1BWN0c1dXdLRllkRHdGbVNMc29Bd0FEVHJBeGJpZ3BlSTVoTmpNenphVjh0Sm5IMHlQUHktalRoeEtJQWdi?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-20T20:57+09:00"
+  },
+  {
    "title": "スパコン「富岳」不正アクセスで認証情報430件流出 理研が調査委員会を設置へ（神戸新聞NEXT）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YWU92TUtsRFJpcEVOXzFyS0pIXzhGRVB0UmZEd2gwMmg4d3lINnlyTGZGWTQ1MTVrOXlmcDVQcWE3VFJ2Y1ZPZEZVZFVwQzNZT1JuTmpwV0pzVHE1eDJJb2ZOZHZOSGh5RGx4Y3RGQmRJcXotaHFUUDdnVmVTY0k?oc=5",
    "source": "Yahoo!ニュース",
@@ -412,12 +418,6 @@
    "at": "2026-11-20T20:29+09:00"
   },
   {
-   "title": "政府職員のファイル共有で漏えいか、不正アクセスは3カ月超 デジタル庁が提供停止（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TUTR3ZjVQZEVXbW0teGZ5Ukk3TTNsanhzd3hSanNRUU0zY3A5YXBiNlFQemtLekk4UVVRNE91OEtUSmROOUZYTmtkdWxBbnhMaEJfc2w0WVlFN0xWVnlmRjdORVdoVEVJTURkbFhlZnVqSE1ETC0wYkxtdm5CNEU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T20:25+09:00"
-  },
-  {
    "title": "棚倉町、メアド166件漏えい アララ不正アクセス受け",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHR2RtMG91WUhjc3V3T1lqVVQzMjhXOWZSTlBaU2lTa3lSa0kzRXdDTkVTLV9Xa2NpOVJ0VlBORVJYeWEyZ3FCd3hNaw?oc=5",
    "source": "47NEWS",
@@ -430,16 +430,22 @@
    "at": "2026-11-20T20:15+09:00"
   },
   {
-   "title": "デジタル庁運用システムに不正アクセス 行政文書漏えいか（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtczdDcXF2a3FKbnZreFF1S0stUDlwem55SFNtNkdNUTBDb3ltbjlHZ3hQMS10UDhldVpZZHhTQklWalFRWGpfQ2s2R2owemdXLXBTZGtRUHIwY2drUXF3SEdWZXdGelpHQUVOVmZMWGZldkdQM3ZPRnlhVlpnVmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T20:13+09:00"
+   "title": "政府職員のファイル共有で漏えいか、不正アクセスは3カ月超 デジタル庁が提供停止",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Cc3Atc1plMkluTlJrTy05N3RJeGtfc0RZSmY0bWR5Skh4RUEzVDdpalB4dGZ0bWpoSm5qY0hJU0NQOGtXNlo4RTVpUm5IU19yc1JN?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-20T20:15+09:00"
   },
   {
    "title": "キヤノンMJ、366万件の情報漏洩の恐れ 委託先への不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Y2xkN0liX2owbXNDd01wOEJiN3dtZGZvM2lxQ1NxejJpVTdReU8tUV9YeTNxNzVhWjZ1bmQwd2k4YVZpU1NqM2NGV0pBQS1TbW1LeHduVHBiemhEcm1kaTAtNmt0Q3E5TmtrMg?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-20T20:11+09:00"
+  },
+  {
+   "title": "行政文書漏えいか＝デジ庁運用システムに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53a091SlBaOENaMURaYm05d0VaTEZFVlRBQUlJZFJRQkJ6d1ZoTkNyLU5rVEtOR1BJOXI4TzFORTlZendJY1JlQ2lrNzZxZEwxY2FBRA?oc=5",
+   "source": "時事通信ニュース",
+   "at": "2026-11-20T20:10+09:00"
   },
   {
    "title": "メルカリ、顧客の個人情報流出の恐れ 委託先へ不正アクセス",
@@ -460,22 +466,16 @@
    "at": "2026-11-20T20:05+09:00"
   },
   {
-   "title": "警察庁、サイバー被害のログ保全を支援する「FFF」発足 全国153人で初動対応を強化",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Rd01qWWp3eHptSXlmVlRDWDQyZm1zWDhXRkJxNE0ySXROZkJJR0luazkxVkpjSFZxV1pMamJiWUlsTmpBaGZpVUdlSHJHUlpqOVhUTzA0SzZINnlRQkpSNS1DS2Z6aUtq?oc=5",
-   "source": "NOVAIST",
-   "at": "2026-11-20T20:04+09:00"
+   "title": "訂正-三井住友銀、委託先に不正アクセス 最大1400万件の情報漏えい（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NM282OUQ4cDcxdjRhc2I1M3I3R3NwZnFXNU5KV3RpVmRKUUdYYnpXUGgycXFtdk9JanRLY1Q2VUlTczcwbENZVE1WQ0tuQXRLb1E0c3BoUnoyLTlGU0ZzX2poOFhzMU92VHZ1eTdKMkxsM0l1VFMxY09MZFE4MW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T20:02+09:00"
   },
   {
-   "title": "プレイド「KARTE」、不正アクセス被害1億件超 他社サービスに拡大も",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ENFJYeGo2Sm1vMzdjRkpySXZOc2dPdHp1Yi0wXzdJMnRPV0Vaa0tQMW1IVDhHRXNLS2tINGNOa2EtaHlibHo2a0Y2S0puZ1RLemRXMUhwX2VQMDR3a2JLQV9yR01obE5QUjM4Sg?oc=5",
-   "source": "日本経済新聞",
+   "title": "西宮市で2万5千件のアドレス漏えい、尼崎市も1万7千件 オンライン申請サービスで不正アクセス 兵庫（神戸新聞NEXT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRSjZnRDBiMVNWWF94SkNQMW9aUDFtWS1sMi1kMVozYlhZQTNvdHpsZTc5TWNBdlhmdlh6MWFiNUdmaGlFb3d1SG5WemxkVnFkQTNJR2o4ck1KQWhrWmZSSUtJSXUtLXhYVWJ2NUFJVm90Ynk2MTE5Q1h1b0Q3Q0k?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-20T20:00+09:00"
-  },
-  {
-   "title": "三井住友銀、委託先に不正アクセス 最大1400万件の情報漏えい",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWU4UmJjWlZQMTB0T1ZXa1V6QlV3SlBtSkZJWFdjSnRmLUdPODhGVVA4SnV1b0hwWnRxcWc1bHhkX0xJcUk0RmFwMWwwZWxvUmxoWTVNLXRKVDF2RDRPaGJ5bURyaE9IZEpFaEFKQlNtNjJUaU44NW5FZl9uLTdwQXlhZDVJYTd4aTNJTUptSmdSUQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-20T19:59+09:00"
   }
  ],
  "osaka": [
@@ -487,6 +487,20 @@
   }
  ],
  "world": [
+  {
+   "title": "ロシア、キーウの橋3カ所など各地を攻撃 ウクライナ全土で8人死亡",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbURVaVdleEFUQXQyLWh2eFdnZHhfa3dWalpCUkpmVUVob0ZCZzQ5MkVHVU9Na2pFNmlyaWJveEpybVZpYTNNelpvb0lUQlhYSl9sZmp2clNJdmFUbEhuYVBaNXBKNl9XUXVkM2VrdWg1TGJrQ09NWHktcGlrVzVSVDdDbndUdw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-20T20:52+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア内陸1300キロの石油拠点にドローン攻撃…夜空を照らす激しい閃光、ウクライナが狙った重要施設とは",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DTUFHdTBXOVJRREszdlk1djZoczRzUThJLVRMaDF6YlEteXBVT3plVlVlTndlbDFqT0hWOTVfc2QzR0FjQlEzMHdCdnVHc3lqOUJJY0Q5SFhTak15RDJLN0c5dGg4MmJUcFJ6Qm85MjBTcUNsd01nekg5Y3EzbkE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-20T20:40+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ロシア軍のドローン攻撃で住宅が損壊…取り残された住民を救出、ウクライナ南部の緊迫した現場",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LbTRrbGpYckwwZ1ZvZkFSRHgzUG5MZGZTdHFyQU80QzdoUDFEb1pMUDBMNUUxcXNpbUQyclIybTFHVUp0WnE1NlRrNThVVmotQTZWREYzTUNIZw?oc=5",
@@ -516,13 +530,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア内陸1300キロの石油拠点にドローン攻撃…夜空を照らす激しい閃光、ウクライナが狙った重要施設とは",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xSjFpOGZBSGJWbktxOFdBVmVCNGJkM2ZJVlFzVEoyOTZ2c1dKLWs4Z3Q2cnhtV2x6QjltajhFb2lVMUZGdlk4ZGZRNlVjMVJXM2lwcWROZWR4QQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-20T19:45+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米朝の首脳会談は「会合が多すぎて」行われず…金正恩氏は無反応、トランプ氏は意欲「いずれは実現」",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OcnF4SndtQmloRzNTanYtdUw3dV9iaGs4MVh2OU9hdUpWTXZ0R19kX09ZV1FlX3ZFZGtPcmZpNlB5RlFTOWtKX0FtVVMteVN6UjR2MUs2SEhaWW0zYWZ2YjF4RllDOW91SjR0ZjJn?oc=5",
    "source": "au Webポータル",
@@ -534,13 +541,6 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOU1VWFZoNDdRdEJGd1o1V1BkYnU2bGNXb1pndFAxMjRQNnp4Y2lab01RejNiMFUtQlVNS19acS1jVVlPUzg0Vmp6QUNtMXVZZTU2cm80Q2J4ZkNNZzR6bEcteGVfcjhLYkhjSjBoaTJaN2FlN0FNRV9Ia2lndThZNzRQbnZvMUphc2VkUEVsQUhGVEcyaTcyaXA5ZFZibkVxZTBQeVJGOG5aNnBTb21QaDdrSWtpZjcxY1hfTzN1Q3dnRUd6VnpYSEhCTdIB0AFBVV95cUxONmN5UjB1TXB4SVY5TmRvV3U5Mjk0Q2w3NmVRcVRuRHBOdHcyRkM1eTlQRFJtdkNIUGo4VW1OU04wazh4Y2xYUHhCVl95aW1PcWxMaTZMdVc0OE83ODV5OThsT3haY3kwRlVSY2FMWUc0VG5XNjc4VWNwZTN3dE5ZY3NGNW93QldiaDJnYjdwNnpZdFZyQS1EMXY0OFk3djZGSExsa0VzcHJoZkQ4YkpZY2xaM0dOT0p4SC03VEdYUWQzQWtwWDNrVWlBdWN0Smxr?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-20T18:55+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ：ロシアによるエネルギー施設・暖房システムへの攻撃が増加 民間人の命を脅かす",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaW8wX1ExczZ5U1JaakR3RVBzUEN2LWJwQlZGMTVlN3o1di1pclpiMzViUGhNbnhYOVBJWGwtb0xOdU5DVE1HSnUyUXZzcmpOdzZjcFBFVVFnalJtVTlDMw?oc=5",
-   "source": "アムネスティ・インターナショナル日本",
-   "at": "2026-11-20T18:33+09:00",
    "topic": "ロシア"
   },
   {
@@ -663,10 +663,10 @@
      "at": "2026-11-20T16:35+09:00"
     },
     {
-     "title": "ロシア軍のドローン攻撃で住宅が損壊…取り残された住民を救出、ウクライナ南部の緊迫した現場",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LbTRrbGpYckwwZ1ZvZkFSRHgzUG5MZGZTdHFyQU80QzdoUDFEb1pMUDBMNUUxcXNpbUQyclIybTFHVUp0WnE1NlRrNThVVmotQTZWREYzTUNIZw?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-20T20:02+09:00"
+     "title": "ロシア、キーウの橋3カ所など各地を攻撃 ウクライナ全土で8人死亡",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbURVaVdleEFUQXQyLWh2eFdnZHhfa3dWalpCUkpmVUVob0ZCZzQ5MkVHVU9Na2pFNmlyaWJveEpybVZpYTNNelpvb0lUQlhYSl9sZmp2clNJdmFUbEhuYVBaNXBKNl9XUXVkM2VrdWg1TGJrQ09NWHktcGlrVzVSVDdDbndUdw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-20T20:52+09:00"
     }
    ]
   }
