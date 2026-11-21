@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:00+09:00",
+ "updated": "2026-11-21T19:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-21T19:09:00+09:00",
+   "place": "房総半島南方沖",
+   "mag": "4.9",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-21T18:51:00+09:00",
    "place": "浦河沖",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T21:59:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -120,12 +120,6 @@
      "at": "2026-11-21T15:20+09:00"
     },
     {
-     "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZVgyMTVXTmYwQWtCWVpfd1Q3ZUFPaGpwT0hmQ0tNdmVqT3d1ZTkwM25ReDJVX2cwV3lfRXdkYS1SZXh5Ykp1T3JrN3JjQTdWeE8tRjBCd0NHd0k?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-21T10:25+09:00"
-    },
-    {
      "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGdaOVdMRXktMW5uMVBfSEc2RFl4ekdkOGFBVVBISjdjVGF3WlhMSHZWOWNvQzZlVDFnbldYSWVNZnZfZkJPdmZWVDR1d3I1c254aHJJdlVrUE5oVHJvdEhvR2xKUW0xMExWem5oVlB6YWI5Q2FoU1JLNUF4ZDg?oc=5",
      "source": "Yahoo!ニュース",
@@ -136,6 +130,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fM3FaWlQwVjR3M3N1dkJiMm5TangyZkliYjZPc1JYLTFLNHZlUWtKZHRQMVl4SmZJeVB5SnFZUURseEVlSzE5dHV3S3prd3YtbGtHSHNHbk1JTnBYcFlyMHlxM21BdGtQMlpLN0dfVmR1enA0OC14WE1vOXpQdDQ?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-21T09:24+09:00"
+    },
+    {
+     "title": "イラン、外交で米との戦争終結望む 仲介者通じ連絡継続＝外相",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0pDQm1GdlhuYzV1WnltVHQxQ1JmejMwX05SelFEdkFnTUVXSmVrbDlESDJzQWxSa1BZUUJhRnUwcjBJMk1OLS15X3QyQVZLYk1adTZzendMQU5EUnVpSUhEb01oXzJQMzNqWW1CVGY1UVdwc1hHdkk3MF81OVJjbl9SSzRLTmM?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-21T07:22+09:00"
     }
    ]
   },
@@ -143,6 +143,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wUG9OV29WekNIYXBBVWlTaElzVVRsR09xU3RJNjl4d0g1VnNLOUhEdmVaZUVIS044MkVJbWs4RTJhS0NuTTVqb2F3VXIteUYyMGlYUUx2bENHTGplYWdSQVV2LXNFQdIBa0FVX3lxTE9SQjRobVpzeWNZa09QekR0MHhUNXU2UGFkVzhCZ0l3XzZFellUbFVGYW9xRTUyc1FIRnZjR19CYlp3NUlKcUxFVHBwN2tyMkFlV2Q2dWpHaFFJT0g1MkF0Y092cnBxTWxDWTM4?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-21T17:57+09:00"
+    },
     {
      "title": "親族ら中国軍事企業とつながりか エヌビディア問題の女性フアン氏",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZXhYSGduNzEzcEVVbkE3eW9YZFlLRms0djAwUUVsSkp2SURDeDhEX3NUTmhLMkVCc2dRaEhRV3dRR2tNOWFLR0lNSmFKU1dqTnRId3JTVmppWm40azJ3Ni05MDVWN1NGV0w4Q3g4cTk?oc=5",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
      "source": "BigGo ファイナンス",
      "at": "2026-11-20T16:35+09:00"
-    },
-    {
-     "title": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（2）【中国問題グローバル研究所】",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ZXdBNUF4dTJhWkFWR1pBY3RQMGJUQko0MnV2aktxdzNmNnRLZFlBRnRSbmF2TzZUUTAzOHp2WEpMZ1drcll3cTgtdW81a2NSa0dYZDcxUjBpaWtOaEVVWUFUVFR1OFBVN014Y2ZiVmg?oc=5",
-     "source": "Investing.com - FX",
-     "at": "2026-11-20T16:15+09:00"
     }
    ]
   },
@@ -234,9 +234,9 @@
      "at": "2026-11-21T17:12+09:00"
     },
     {
-     "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04czlZdUI0WWtvQk55TEdsNHpsY2YyMWJMaU8wejVtUDFFYXlmNkdrSjVlWUxtbTI5WTBxRWZyZkVqak9meGxpQTNQZnB6UXgxbkYxa1hnbFMtVGh5WjJ1UTRsVmlZYWhMNFVlLV9sMGVOQk9SdkJqQVZrVkdiUlk?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PRkc4Y3Y0NVUyR1ZwN0J3OXNibk1meDhRTXlSNlU3UzhKOC1zMEtIUDBQMTZ2U2Yxcjk5U1FISWpqZGhleE9oM25KYllvVFJTeFFha1V4alBOdW1vMTRuNGpzVkVQb1ppZkN4TGthNTlSREZQV2Z6aXRR?oc=5",
+     "source": "テレ朝NEWS",
      "at": "2026-11-21T16:43+09:00"
     },
     {
@@ -244,6 +244,12 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52NnpLZlE4XzlTWG9ialRCSmZTMTJsTnd0QUJpTm5XSGVncG4yR1BTSFpjblBwb21BR1RCQWxzSmdDSVAycXU4ZGpjd3EwRjYybGhMMFBWdlczLVREZ05aaFUwYXRGT2lGcVlJc3l3?oc=5",
      "source": "au Webポータル",
      "at": "2026-11-21T14:05+09:00"
+    },
+    {
+     "title": "ウクライナ保安庁(SBU)の「アルファ」、4333人のロシア軍兵士が死傷したと発表 - 7日間で",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnRPcTN1NGtwdW90ZG1jWW9zMm9EMFFWazVSVTFtZWdHNTMyNnhNNF9QM05IU3dwdzVDOWZaX3hzNW5janY5dDhkV2pObEUxT0h0MlFzV2FFSkR5a25WMEI1dFRNWUxJNFFUSVBobG5LcHRxUEdkYmJMU3lJZkUwUUgzUWI1Nk1CUUEzRGtQa2lDVVQ2?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-21T12:03+09:00"
     },
     {
      "title": "ポーランドにロシア軍の巡航ミサイルなど落下 ウクライナと国境接する地域 ポーランド首相「意図的な挑発とみられる」と非難",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXZjRnRoQkRSajg4V1h3UjNwN0xDYmRhWThxSzNMcWZ2YlFhcjZxaW1QVUptWW41dVdrQmNZRld4c0ZfWk1OWFlHUjQzMTBLYmUtRjItZHh6cUxVaUdqeWkzSDhZRVlzNG5KZFphSVprMlp3c1V3RmRQR0g0THc3VDloS2lRMEFkQWdoaQ?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-21T11:14+09:00"
-    },
-    {
-     "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhcWtwNXEybEd0S2N1OFV1d1E2WVE1dU5zQVFXZWx3NXVWU0FNVWZGeUhDbV9SZUx1NTRQZHVLMlRIdmEwblpQOGZZM0pkel9BR0dHdWl2aVlZQmhPbzJyaNIBZkFVX3lxTE9SaWNNRTJ0NF9lVnFzNWZYQkJ1Z2RkeHhHQlgzd2pqcmJ0MmZ0VUFvb0RQS0tBWVl4VWVMeVdwT2RwdktfVjl4TEZXaWt5OWQ5c20xc1NKWFIyc0lVNjZsclUzcXBqUQ?oc=5",
-     "source": "BBC",
-     "at": "2026-11-21T11:12+09:00"
     }
    ]
   },
@@ -274,6 +274,12 @@
      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQRzR3OWVMZXljYUdfY1hRX3J2V2Zlc05ScVQ4NENZUHNSTDc4eGFVWm1NYndrM1k0UDJEM3UwenBlY0xQVHk5dnFlekVBVFd5SFI0UGNZWGFXRnZmRTBCRVVpTlVXQlJ4NC1kc2RYRk40blNabURKdnYyZVJHUjdGSXNaZDl5N0ZRSTVzcW5aN1pKX3RYYkJtTlFiYVVNUmd2MkhzODcySmlmX2FkLWMyRGdTc3dOUHVfY3ppU3FJOTJXUGFVS1d0ZDQxMnFscm1aWk55Q0N3QlZzb3V3bEx2Q1huRll4alk5OVhQMTdXZzFJTmJkUE15bEJvQzl4czlGejFoeExmNldkZ0pjckg5QnpIbEpFNkxucHZTdXNfS1ltYkxKZmc4Wl95aFFUV1BVRlVncG5JbkdNMmpveHVlQ0ZYdGtQMlVKTmROcVM3X0l4TFVHOFhhVjRZek11ZFdyS1lORXR4WWMwZW1xb3lNUXRWZTJxUHVRb1FiN2pYcFpGX0Ex?oc=5",
      "source": "SmartNews",
      "at": "2026-11-21T13:37+09:00"
+    },
+    {
+     "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhcWtwNXEybEd0S2N1OFV1d1E2WVE1dU5zQVFXZWx3NXVWU0FNVWZGeUhDbV9SZUx1NTRQZHVLMlRIdmEwblpQOGZZM0pkel9BR0dHdWl2aVlZQmhPbzJyaNIBZkFVX3lxTE9SaWNNRTJ0NF9lVnFzNWZYQkJ1Z2RkeHhHQlgzd2pqcmJ0MmZ0VUFvb0RQS0tBWVl4VWVMeVdwT2RwdktfVjl4TEZXaWt5OWQ5c20xc1NKWFIyc0lVNjZsclUzcXBqUQ?oc=5",
+     "source": "BBC",
+     "at": "2026-11-21T11:12+09:00"
     },
     {
      "title": "ロシアがデンマークで暗殺計画　当局阻止、制裁強化へ",
@@ -298,17 +304,17 @@
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2RhMkl0ZGtkN000UVd6YVhRRi0zQ0l5X2lBLTdTb2Mta2JqTnBFYURzRUlGVWtlanFJSkFFX04yTkZZRkIxMjRjS3pGZ3htMy1vRGhjYmFKLXhaZjBBWl9sdU5paDlSM1RoQ0o2U3N0SDBGd1IzdEdHRTV6a2x5cXFmanljR3JONXJSMFR3OS16Z21GY2RpSUZnaklqSlo4dkE?oc=5",
      "source": "Laodong.vn",
      "at": "2026-11-20T21:07+09:00"
-    },
-    {
-     "title": "元国防総省高官は、NATOが「抑止力の危機」にあると述べる／「欧州からの米軍撤退は間違いだ」",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGdRb1hzWUlKaHRveXdZb0FiZGRmZloyTFRiSTZpUERpanVNQlZtb1ZNUlFKUEpJTXJuYVIwOGZ2U3laRzB5bGk5cmJhbmxhdUtibklwNG1NRlFCVm4wZ0J4VHJKWDd2LVlENVNsaW5hZk5oaFRsRDZmaGYxV2tDckNoamQwcElneTNOY25HZWZ1UzN5QTdLdkkzZDdmRlVLYVNGZmpmRWdjNmpMc0E?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-20T18:11+09:00"
     }
    ]
   }
  ],
  "nankai": [
+  {
+   "title": "｢南海トラフは30年以内に80%の確率｣を京大名誉教授が分かりやすく言い換えた\"覚えるべきたった2つの項目\"",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFcEVERzlsaFcwaFl0R0tZS3ljVHFCekNTeWxPRFlvcl85MDVhcjhIY3R5bmIyT1BNLW9zNXpFYUF4Y3IwSlRpbFNLMTdsc3c?oc=5",
+   "source": "PRESIDENT Online（プレジ",
+   "at": "2026-11-21T19:02+09:00"
+  },
   {
    "title": "避難所運営「ゲーム形式」で攻略？ 南海トラフ被災後へ、高岡高校と土佐電子が考えた",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GN1pUMUc0WnRwRkR3d1dYT1ZWMjRLbGE5cFZWQk9yTnlVTlVKMGFuM2JLX2EtcmUzRWZxNUtzUEIyVVlQQ3Z2d0ZqcmM0UUZOTTFXTzRPZGxfYklLS2Nn?oc=5",
@@ -338,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80WnZQVXJsZ3Ztbno5QmtaZzBPYXhPUS10emlwdzA4NUpqSlJjeDZnZDQ3ZDhOd3Z4bWx4YmZhbVhiR3JWRlZndUFpZGFIME9ESE5oeUxaczkwYnZyajF4RjcySVdOZWFUYzNIcDF2OWRRMmpxMW9pNHZ3WlY4VTg?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-20T19:25+09:00"
-  },
-  {
-   "title": "東日本大震災の津波は数十分後､では南海トラフは…地震学者が｢極端に速い｣と話す\"巨大津波の到達速度\"",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UNXNPS044anp5TnVBUmVZQnZQeE50ekhvcFNGaElqTF9Wb0tYbVhQank0Rkt5VDB6RTY2Y2U1M0ZRZDNwQVYxMWJsLS1sUl9INmJCeHM5NE5ZMmlObGtiVmkyeDBlckJib0VKbjVWY1pTYUZIVURIelg2bk1Qenc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T19:15+09:00"
   }
  ],
  "outage": [],
@@ -364,12 +364,6 @@
   {
    "title": "米で相次ぐ大規模システム障害―専門家は「相互依存」と「AIによる急速な修正」を指摘",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81T3ZpZzY4VktSRXlqQnhncWY3T2ppbElfQm80X28waUROQjYwcGRldWRTWDNRLU9CSmJPeU90ZEd5R05sY2tTRjJyRm5nSkpkX1JxamlERjBnUjYxZXFQeF90Y9IBaEFVX3lxTE8wdEZhZ283Wjh4R080MHh6RW13S0t1Z2E3Ylk1RmlXYmVNeWlLMmRfb01mVmhfN2JGNkdJQVU1OUZqWlQwRG84aVg3bFJLTk5vQl9aOWJNVXdqclNXYWowMVVMWTg1NjFn?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-21T16:55+09:00"
-  },
-  {
-   "title": "[写真]米で相次ぐ大規模システム障害―専門家は「相互依存」と「AIによる急速な修正」を指摘",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sbXdZSVQzaEZhTjNoRlE0UndJYndwbXp5YXRYdkszMjZpOE9aTkxwQnZNSVhzMXpaek94VkVFLXpUeFlIZ0Y5U2xOM050M1FKV1JVSg?oc=5",
    "source": "財経新聞",
    "at": "2026-11-21T16:55+09:00"
   },
@@ -416,12 +410,6 @@
    "at": "2026-11-21T17:21+09:00"
   },
   {
-   "title": "決済アプリ「Payどん」全サービス停止 個人情報25万1172件漏えい、委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91RllvU1hOYVJ0X3BWek9ZOUk2dEo3MVFqV2p3cGdNNGNfZE5hVnJkeXRSZE9PYThfTE1vamZPdjlyYUxvNF9aWlQzT1RmbnZQQlE?oc=5",
-   "source": "CNET Japan",
-   "at": "2026-11-21T17:20+09:00"
-  },
-  {
    "title": "米農務省にサイバー攻撃",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TZGJZM2JoU0dCQ2hYeVZhNUg3bU10Z0cxNG4zRUNheVdqN09IVENldWhMeGtRSVVlYzZfbk9wVUw4NlU3dlVieFYwSktxNHU4aDROTklqeDJuMEpjV3hTY2xqOWlSTmVJTVhTelk0N0UwZEE?oc=5",
    "source": "デイリースポーツ",
@@ -438,6 +426,18 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hYUJjd0JzV1pDQWtLR3VROTl6RlNNZWVDWkhFSlhlakR2QUljZWQtd2ZqdG1Lay1tMWhEbDg1SzF6S1RMNXp1c3V6Y2I0bGtUZjcyU0x3?oc=5",
    "source": "佐賀新聞",
    "at": "2026-11-21T15:06+09:00"
+  },
+  {
+   "title": "ゲーセン不正アクセス問題、『CHUNITHM』『maimai でらっくす』がついに試験稼働へ！停止から約3週間…『英傑大戦』も対人戦以外で再開",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uSDNpWnBvdFdmVmtLMWZBbXlITUp5UllNUjVkdkU0b0FJSHRiTXBDbWozWGY2NThfWDdSdTRRNS1XTzk0c3VkTmRDNWhKdUtWc2YzcUpSaG5ySEdPY2NV?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-21T14:47+09:00"
+  },
+  {
+   "title": "メルカリ AIに入力した個人情報漏えいか「リスト型攻撃」も",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TalNCZy1TQVp0bzNGdlk5WF9fNmo1RVBtM1UzaEVLVE04LUd1WDlfcGFkaklueFFUWWFWTF9DOTNUY2hkNFdVR2NCalNIUk5DWmZmNjlEYUF2blhUSmw0?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-21T14:33+09:00"
   }
  ],
  "osaka": [],
@@ -448,6 +448,13 @@
    "source": "アラブニュース",
    "at": "2026-11-21T18:51+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wUG9OV29WekNIYXBBVWlTaElzVVRsR09xU3RJNjl4d0g1VnNLOUhEdmVaZUVIS044MkVJbWs4RTJhS0NuTTVqb2F3VXIteUYyMGlYUUx2bENHTGplYWdSQVV2LXNFQdIBa0FVX3lxTE9SQjRobVpzeWNZa09QekR0MHhUNXU2UGFkVzhCZ0l3XzZFellUbFVGYW9xRTUyc1FIRnZjR19CYlp3NUlKcUxFVHBwN2tyMkFlV2Q2dWpHaFFJT0g1MkF0Y092cnBxTWxDWTM4?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-21T17:57+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "ロシアの「クリミア大橋」破壊に新型の“ジェット推進自爆ドローン”投入か？ ゼレンスキー大統領が存在明かす",
@@ -464,9 +471,9 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く（テレビ朝日系（ANN））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04czlZdUI0WWtvQk55TEdsNHpsY2YyMWJMaU8wejVtUDFFYXlmNkdrSjVlWUxtbTI5WTBxRWZyZkVqak9meGxpQTNQZnB6UXgxbkYxa1hnbFMtVGh5WjJ1UTRsVmlZYWhMNFVlLV9sMGVOQk9SdkJqQVZrVkdiUlk?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PRkc4Y3Y0NVUyR1ZwN0J3OXNibk1meDhRTXlSNlU3UzhKOC1zMEtIUDBQMTZ2U2Yxcjk5U1FISWpqZGhleE9oM25KYllvVFJTeFFha1V4alBOdW1vMTRuNGpzVkVQb1ppZkN4TGthNTlSREZQV2Z6aXRR?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-21T16:43+09:00",
    "topic": "ロシア"
   },
@@ -506,6 +513,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "ウクライナ保安庁(SBU)の「アルファ」、4333人のロシア軍兵士が死傷したと発表 - 7日間で",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnRPcTN1NGtwdW90ZG1jWW9zMm9EMFFWazVSVTFtZWdHNTMyNnhNNF9QM05IU3dwdzVDOWZaX3hzNW5janY5dDhkV2pObEUxT0h0MlFzV2FFSkR5a25WMEI1dFRNWUxJNFFUSVBobG5LcHRxUEdkYmJMU3lJZkUwUUgzUWI1Nk1CUUEzRGtQa2lDVVQ2?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-21T12:03+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ポーランドにロシア軍の巡航ミサイルなど落下 ウクライナと国境接する地域 ポーランド首相「意図的な挑発とみられる」と非難",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5MWpneURxZzNRSnVhbEJIYUFpTm5ZVVFabk1oendYbzRaQWMtX2laaTJfV1Q1Zk9ONVdWT0FENldicktnOHp6MkhhWERfc3JPZVBvWGpJU1pYQXM5UUFOSkJZejczajNIeFhCUV9wQkkwRzJP?oc=5",
    "source": "TBS NEWS DIG",
@@ -538,14 +552,7 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhcWtwNXEybEd0S2N1OFV1d1E2WVE1dU5zQVFXZWx3NXVWU0FNVWZGeUhDbV9SZUx1NTRQZHVLMlRIdmEwblpQOGZZM0pkel9BR0dHdWl2aVlZQmhPbzJyaNIBZkFVX3lxTE9SaWNNRTJ0NF9lVnFzNWZYQkJ1Z2RkeHhHQlgzd2pqcmJ0MmZ0VUFvb0RQS0tBWVl4VWVMeVdwT2RwdktfVjl4TEZXaWt5OWQ5c20xc1NKWFIyc0lVNjZsclUzcXBqUQ?oc=5",
    "source": "BBC",
    "at": "2026-11-21T11:12+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZVgyMTVXTmYwQWtCWVpfd1Q3ZUFPaGpwT0hmQ0tNdmVqT3d1ZTkwM25ReDJVX2cwV3lfRXdkYS1SZXh5Ykp1T3JrN3JjQTdWeE8tRjBCd0NHd0k?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-21T10:25+09:00",
-   "topic": "イラン・アメリカ"
+   "topic": "欧州・NATO"
   },
   {
    "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
@@ -574,13 +581,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-21T09:02+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "対話で北朝鮮の核開発阻止、なぜ夢に終わったのか",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TMVFad2libWljZ0tsVkcyOVZORC1OTXN3RHFoVW9ZRHhQOVN2ckF5bjNqb0FxUWRObnozN01xaFZyOEtyTFhXclpIeHBYYjFzUV9tWHVFcnM1QktQLU4tRl9UZ1ZHUQ?oc=5",
-   "source": "동아일보",
-   "at": "2026-11-21T08:55+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -599,10 +599,10 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「報復」3件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「攻撃」「軍事衝突」3件"
+    "ロシア：「攻撃」「ミサイル」3件",
+    "欧州・NATO：「攻撃」「軍事衝突」4件"
    ],
    "items": [
     {
@@ -618,9 +618,9 @@
      "at": "2026-11-21T08:30+09:00"
     },
     {
-     "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く（テレビ朝日系（ANN））",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04czlZdUI0WWtvQk55TEdsNHpsY2YyMWJMaU8wejVtUDFFYXlmNkdrSjVlWUxtbTI5WTBxRWZyZkVqak9meGxpQTNQZnB6UXgxbkYxa1hnbFMtVGh5WjJ1UTRsVmlZYWhMNFVlLV9sMGVOQk9SdkJqQVZrVkdiUlk?oc=5",
-     "source": "Yahoo!ニュース",
+     "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PRkc4Y3Y0NVUyR1ZwN0J3OXNibk1meDhRTXlSNlU3UzhKOC1zMEtIUDBQMTZ2U2Yxcjk5U1FISWpqZGhleE9oM25KYllvVFJTeFFha1V4alBOdW1vMTRuNGpzVkVQb1ppZkN4TGthNTlSREZQV2Z6aXRR?oc=5",
+     "source": "テレ朝NEWS",
      "at": "2026-11-21T16:43+09:00"
     }
    ]
