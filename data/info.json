@@ -1,8 +1,6 @@
 {
- "updated": "2026-11-21T20:00+09:00",
- "errors": [
-  "outage"
- ],
+ "updated": "2026-11-21T20:15+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -110,6 +108,12 @@
      "at": "2026-11-21T18:51+09:00"
     },
     {
+     "title": "アメリカ、イランとの実質的な核合意の達成を推進",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUtZdXZBS0d0N3RhQkF0VnY5bTJ6ZVpSR0NjSkdxaHlOQWZwM0F4OGhGeHlJQk96SFpxTEJwU3p0Qi0zV1FnNlpDcnFFMzF3dUdGM0o5WnhUMFZ5LWJsa0xkRVA5eDgzUHAwTjlnVHdENl83ZXhELW50c2NTeEc0NnF0VlJOOXFQSmhQUGNaZlBuZ2lZcTJFZDVR?oc=5",
+     "source": "VOV World",
+     "at": "2026-11-21T18:23+09:00"
+    },
+    {
      "title": "「イラン攻撃急がず」トランプ米大統領、国内外から圧力",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTdMQ3hKSFA3Ynpfdi0xb3RtZUp3Y1FuUTlIWlVtTDFEbjNUejJNc2txUWc1dHk4QVQ0cnUzVGFKYjFCTE0ybUExWUdZSUYtbFQzdkJNT2Z0X0lYYWIyV0Q1V01VTmVkRWFVS3BEUS1CMUtVU3BTREhvLWZndm05TzhEZjNzME1x?oc=5",
      "source": "조선일보",
@@ -132,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fM3FaWlQwVjR3M3N1dkJiMm5TangyZkliYjZPc1JYLTFLNHZlUWtKZHRQMVl4SmZJeVB5SnFZUURseEVlSzE5dHV3S3prd3YtbGtHSHNHbk1JTnBYcFlyMHlxM21BdGtQMlpLN0dfVmR1enA0OC14WE1vOXpQdDQ?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-21T09:24+09:00"
-    },
-    {
-     "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTFg4Y1hYTkpVYTd4Tkp3STg4VmpMbXVsZ1FobFV0THFsbnNmUzZ2d3FnNDQ5bm1DdFV6RkRMbmxNR0hyZmJxdzQ2LXZqT1MyME54S1Vyanl1a2llYlFFUGdPQWRjSzM3TEViaWluZ3R1ZVE?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-21T09:06+09:00"
     }
    ]
   },
@@ -146,10 +144,10 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wUG9OV29WekNIYXBBVWlTaElzVVRsR09xU3RJNjl4d0g1VnNLOUhEdmVaZUVIS044MkVJbWs4RTJhS0NuTTVqb2F3VXIteUYyMGlYUUx2bENHTGplYWdSQVV2LXNFQdIBa0FVX3lxTE9SQjRobVpzeWNZa09QekR0MHhUNXU2UGFkVzhCZ0l3XzZFellUbFVGYW9xRTUyc1FIRnZjR19CYlp3NUlKcUxFVHBwN2tyMkFlV2Q2dWpHaFFJT0g1MkF0Y092cnBxTWxDWTM4?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-21T17:57+09:00"
+     "title": "中国・深圳APECを振り返る 米中露首脳会議後に日米首脳が電話会談した、その重要性",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndlAyaXhTUDZsNXMyZTFqQS1RaXhEdUdhSGtIYWd4aUFJcXlrQ2VuQjlaemVVa1dYcWFNRWd2eDJwa1VCT0hkTlIzLTFjU19xVjlITjZPWTBxSzBwTjJn?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-21T19:00+09:00"
     },
     {
      "title": "親族ら中国軍事企業とつながりか エヌビディア問題の女性フアン氏",
@@ -170,16 +168,16 @@
      "at": "2026-11-21T06:00+09:00"
     },
     {
-     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-20T18:24+09:00"
-    },
-    {
      "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
      "source": "BigGo ファイナンス",
      "at": "2026-11-20T16:35+09:00"
+    },
+    {
+     "title": "米中露首脳会談の目的は習近平が狙う「台湾統一」 日本にはなぜそれが見えないのか？（2）【中国問題グローバル研究所】",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ZXdBNUF4dTJhWkFWR1pBY3RQMGJUQko0MnV2aktxdzNmNnRLZFlBRnRSbmF2TzZUUTAzOHp2WEpMZ1drcll3cTgtdW81a2NSa0dYZDcxUjBpaWtOaEVVWUFUVFR1OFBVN014Y2ZiVmg?oc=5",
+     "source": "Investing.com - FX",
+     "at": "2026-11-20T16:15+09:00"
     }
    ]
   },
@@ -376,74 +374,81 @@
    "at": "2026-11-21T16:55+09:00"
   },
   {
-   "title": "静岡防災アプリ、障害時も受信可 県の災害情報、人工衛星利用で",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RbndVcWs1QWlIQ0Q2UllKVUxoOVhKLXhMbGJPcWRWUTRLcGZMZjc1UGJaak1aWHRmSVVmQzZrYk1PdXV4UEtNWW05RjktQ2czbW0wREdCd3VCdw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-21T13:39+09:00"
+   "title": "ＦＢＩ犯罪情報網に不正侵入疑い 農務省もサイバー攻撃被害―米報道",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83Wk9tUHZIVnBRcGZ3MnU3Slp1V2I1NDhLMTBKbGNBRWxwSTExS250d2F0MUhyS0NFVzc4QWpoeXpyQkRTZmh6a05xWEw0VWlsS1d3NHBieEVXRFdyM0tuTk4tYw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-21T19:55+09:00"
   },
   {
-   "title": "相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGRFMnlhd0RyYTliQTBFeG1aLUVoZEpUTm9SX3d4QmR6TjFDclVROTE0d2RiZGNMYnJmNkEzal9qMElsRkZWWklTZ3pHUldZZmZ3cGU2VlY2bXZ2a3N3MFN1YTJTam5KZnhvbDJpOGRwcFhTX25qd1dyQ1RHOGk5QVZ6TEFUSWpWTTBRMnpB?oc=5",
+   "title": "「六花亭」不正アクセス、クレジットカードの不正利用１件確認…客からの申し出により判明（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKOHJJYUYyMWhsTnVPRmtLMm9IbHpRVF9ZTFF1VjF5SE5NRWlDZzdsWUdXWjBBb3dFR0pTc29rdk9kNVVETXVCQncwZHloY0dpVGg3WVlKSlVWbXc4Y3RjYnNvZ3B4bVQzM2JMejdMdGphbVNZMzlkeUpjMDg0cGc?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-21T09:48+09:00"
-  },
-  {
-   "title": "AGM Nexus Android版を更新 3機種の不具合を修正",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sSS1LbGc1cUJDQTVCU3NKQTVpYk5mUVZmTEMwQ1dwTXRxTXlsZ1FtaTJwZElQdDdxNjdJSy05bTl6S294VUFj?oc=5",
-   "source": "Dellows News",
-   "at": "2026-11-21T05:54+09:00"
-  },
-  {
-   "title": "Cloudflareの障害が示す、サイバーレジリエンスが重要な理由",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PMFZXa2tLTjRxMkV5NHp5T3BYc0I5Z0Z0ZllxTFJFVk03dHpmRlF5NDZCYnBndkFFRzl5d2pEVDNPYzlaYTN2WlFrTTlxaWt4dTRqdHZnWWtkS0dFZ1Y3bUgyOGk1eUF5ME9QUEo1RURHYVZvbThuUVdYZ2g4dw?oc=5",
-   "source": "eSecurity Planet",
-   "at": "2026-11-21T04:13+09:00"
-  },
-  {
-   "title": "米サイバー長官が辞任、AI政策など担当 システム障害との関連は不明",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JaGZWWmM0VXl3ekRDUzI4bDBISzN5WDBGeU9VbUd3cGt6U0hnLUtTX3J5SWpDWkRTdjJpZTIxN1o0cjlhZUNyZ3FwcjBfOFNlS3p4ZVdIY1NiaXdYTzBTS1VUVFhIVG5pcTY1SA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-21T04:04+09:00"
-  },
-  {
-   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
-   "source": "GameWith",
-   "at": "2026-11-21T02:10+09:00"
-  },
-  {
-   "title": "【我孫子市】あびこショッピングプラザの「お買物ポイント販売会」、システム障害のため本日11月21日(土)は中止。明日以降の開催は前日に判断へ",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lQTYxVnJpOWVfZ0p4YUgwWkdsVFN1amdnOElON0NVNWV4UXhuTDVPRU5RbGFWa2ViUzFZYUdqV3lqS0JjdlVtdF9rV2JFS25nNDR5YjA3Ym5oVHpXWlk4VmxXcw?oc=5",
-   "source": "地域ニュースサイト号外NET",
-   "at": "2026-11-21T02:00+09:00"
-  },
-  {
-   "title": "東京ディズニーリゾートのクリスマスグッズ発売でシステム障害…11月10日の初日組から消費者庁への通報も",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNm5jTDg2U1g3cGpqVFJkQ0gyb2EyN0pyTVRtRWhyaG85UTZVQkViX1J3VEdtLXJUbXdvdnlWUEJYdWR1ZWI2c0hZa2l2c2VKYkYwRElqR0VDLXhsWExz?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-21T01:52+09:00"
-  },
-  {
-   "title": "「六花亭」不正アクセス、クレジットカードの不正利用１件確認…客からの申し出により判明",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WRGZ2VkZyQTcwMDBWNHNxYlQ2S3ROQXM4NUxzb1Jhd0hfdmhBYjFTeDhuWWdyZDZRYkFndlFTSHJGSndVQ2FJelh5dzZ1aVd6bmEzZ29keEZ5dG5hMlUyVGtzdGcyWi1zeTVvSTZR?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-21T19:50+09:00"
-  },
-  {
-   "title": "トランプ大統領、サイバー大混乱の責任問い国家サイバー長官を電撃交代…Davis国防総省CIOを指名",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SDdlbzhtUTkwQU9ETjEzd2JEMjZ3TDdLWnNqbUFBUkNONVJCajNYMWg5aUxVLUQwbWdwZWxJZmlZbEVxaUNfM0Z4U194T08zZUY3SGhUdVNxaF9JaF9JRUxxUWdLbV9CNE5oaWdtTFAtT1A1?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-21T18:55+09:00"
+   "at": "2026-11-21T19:51+09:00"
   },
   {
    "title": "くまモン！Pay一時使用不能に QRコード決済、デジタル商品券 不正アクセスで臨時メンテナンス",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTzRSczFHWnB2WUMweldKUjZHZXZwa0k2aXpYLXk2S05BWm9aZmtITmozRjVDZHhNelVyeFNqREpPZUVDQUZhS2ZuazJKVU0?oc=5",
    "source": "熊本日日新聞社",
    "at": "2026-11-21T18:10+09:00"
+  },
+  {
+   "title": "米FBIの犯罪情報網に侵入の形跡　農務省もサイバー攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWpKSV9YclRjeDZnUTB2aE1PUkVQOS1TaW0xbmY0akc4VFVZeW1qcnptV0pSc25qRHozbUd4X3pRVGg5M1JxN1QzTDNMRFoxSDZJZUFOeG80SHdBWlNTM2xlSnZ6Qjc5clVTakpIeXYweEZyRjN6dUZwMHdyUVJKR3lnRGpjaHpC0gGcAUFVX3lxTE5kalhmRTB5VDAzaW9CdGNOTHZ2UEQyVlRiR0RueW95SmtpTXhicWZmTnhwdVJLNTNMdHF6LWpWVUpYX2F2ZFpEZG5lUXNrU21XaG0tU1dwTXpidGc4RjJfSXRLM0dUQ1JjQ3ZBLUxSR2xsYW43M0VGa1o0b0ZlRkVvTW16LVFQWEhZajZRTENzUG9zMzVWNjc2NEJXaQ?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-21T17:57+09:00"
+  },
+  {
+   "title": "Deutsche Bank、2017年の中国APT10ハッキングでITインフラ情報流出の疑い…内部文書1,500万件を分析",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84bGY0YWlHQmsyak43ZTVTWW02VGt6SXVGdDlQdUhlM09RNXVZeWZmTzJQRVZrdGk1ZGY2WklGLVhLMkxwT3A3THRxU3NMd1JwWlB5Y2NsTjFsV2FuMkRWZWY4ai1hd2NMN0FpQ19QdGtzaG5h?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-21T17:55+09:00"
+  },
+  {
+   "title": "サイバー攻撃が過去最多に！医療DX時代に求められる情報セキュリティ対策｜嗣江建栄",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zdE9FX3laY2x1MmNacUh1dkxvSzB0VUtLMTYzQ09nZ1lYS2hGRGt6TDlZZ1NreFluUnlNRmZBdGtWRTYwWThOS05hQmpCaUgzeG94MzJ4Q0Q1X21DMFR2eWxkN09Gcjg?oc=5",
+   "source": "JIJICO",
+   "at": "2026-11-21T17:31+09:00"
+  },
+  {
+   "title": "ＥＵ欧州委にサイバー攻撃、報道官は攻撃元への言及避ける…中国語のＡＩエージェント利用か",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5acjV0a2tiWXVEYzVjOF9IYlNxaFJUNEs3c002LWVZQVQxOGl0SFNJRWRiYmxobkpsaDBmcDRYMGtqVnNXdUFVSzFVaTJxdGFMdU9ORGdFV29TZGZfdUVFZlZR?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-21T17:23+09:00"
+  },
+  {
+   "title": "米農務省にサイバー攻撃",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TZGJZM2JoU0dCQ2hYeVZhNUg3bU10Z0cxNG4zRUNheVdqN09IVENldWhMeGtRSVVlYzZfbk9wVUw4NlU3dlVieFYwSktxNHU4aDROTklqeDJuMEpjV3hTY2xqOWlSTmVJTVhTelk0N0UwZEE?oc=5",
+   "source": "デイリースポーツ",
+   "at": "2026-11-21T15:57+09:00"
+  },
+  {
+   "title": "ＦＢＩ犯罪情報網に不正侵入か＝農務省もサイバー攻撃被害―米報道",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhUWlZQndfdnh5WDh4Nk9oVGFlQTJ0dXl1Uk1tUlRWcW0yR1gxM2QxUU1uRDZ3R2lHNlJiRmVsSEdQLTRORnY2WkRWdTFoeHFWWXYwMmxMSWlzYnFscGpxMmJzM0Y?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-21T15:24+09:00"
+  },
+  {
+   "title": "米農務省にサイバー攻撃 ＦＢＩもハッキングか | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hYUJjd0JzV1pDQWtLR3VROTl6RlNNZWVDWkhFSlhlakR2QUljZWQtd2ZqdG1Lay1tMWhEbDg1SzF6S1RMNXp1c3V6Y2I0bGtUZjcyU0x3?oc=5",
+   "source": "佐賀新聞",
+   "at": "2026-11-21T15:06+09:00"
+  },
+  {
+   "title": "ゲーセン不正アクセス問題、『CHUNITHM』『maimai でらっくす』がついに試験稼働へ！停止から約3週間…『英傑大戦』も対人戦以外で再開",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uSDNpWnBvdFdmVmtLMWZBbXlITUp5UllNUjVkdkU0b0FJSHRiTXBDbWozWGY2NThfWDdSdTRRNS1XTzk0c3VkTmRDNWhKdUtWc2YzcUpSaG5ySEdPY2NV?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "at": "2026-11-21T14:47+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "中国・深圳APECを振り返る 米中露首脳会議後に日米首脳が電話会談した、その重要性",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ndlAyaXhTUDZsNXMyZTFqQS1RaXhEdUdhSGtIYWd4aUFJcXlrQ2VuQjlaemVVa1dYcWFNRWd2eDJwa1VCT0hkTlIzLTFjU19xVjlITjZPWTBxSzBwTjJn?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-21T19:00+09:00",
+   "topic": "中国・台湾"
+  },
   {
    "title": "トランプ大統領、イランとの「本物の合意」を求めると発言、テヘランは外交的希望を保つ",
    "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxQMkJzUFJFU0dBdWhvaVBjTUthQkstTnN0YUNtd0FsenRtMk9odWZaWVhHaGxGeVktaERBbm4xcTFXa3djUG9EakN4b0c1Tk1VUkJQZDZVb21zYmRCa2xweGRmcXA2R2dETUQxMS1CcGlfNGlEczhrb0Q4SHl4bWRhazRUYkhsVUM3VzJGM1JQczI5UzhHb19reEJKUXM0cDhnQWl6VmE4MHJRVEtsQTFxd1pYdTJtVFRRMmk2M1VNZHhHZXZnMklOTXRSTkNubEZ3TzQ2X2Y0NGhiM0ktREl5a1hVRW16ek1HN0pvOVh0UE1PLU1LaDRQUFJsdnpaLWl3LS1FQWlWaUp6MXBJaUZad1NSUVdYbENYcEstVUxoT3F1dzI3RHlRa1BlOUQtWng4U1BZTlB5OE1QY1dTQXNSR2QwcXRFaXZ4ZFNCYXJ5QS1OanlYMmVrTjlsZ012TjVwU1lHRjZRT1kwSnRaMlZWM1lxYlU3clh4NE1KOTFlSDBicjVNeHZBUldVZUp0Mi11RW5KcDdadnZfUTRmOHVJeERaVUFLRmdSbDBGam83eFc5bDl6ODRnNEZrRlRBMDRkNllsaU9DcVFUc2lkTGl3SkJJaEJWYVRQMnhUdmRtd0IwZUVGc0VkdXVOZ3gyaVZnWVBXaUdKcl9FZEVEWTJCQXlwNmF3WTAwa1JzeXNkRjh3eFE?oc=5",
@@ -452,11 +457,11 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wUG9OV29WekNIYXBBVWlTaElzVVRsR09xU3RJNjl4d0g1VnNLOUhEdmVaZUVIS044MkVJbWs4RTJhS0NuTTVqb2F3VXIteUYyMGlYUUx2bENHTGplYWdSQVV2LXNFQdIBa0FVX3lxTE9SQjRobVpzeWNZa09QekR0MHhUNXU2UGFkVzhCZ0l3XzZFellUbFVGYW9xRTUyc1FIRnZjR19CYlp3NUlKcUxFVHBwN2tyMkFlV2Q2dWpHaFFJT0g1MkF0Y092cnBxTWxDWTM4?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-21T17:57+09:00",
-   "topic": "中国・台湾"
+   "title": "アメリカ、イランとの実質的な核合意の達成を推進",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUtZdXZBS0d0N3RhQkF0VnY5bTJ6ZVpSR0NjSkdxaHlOQWZwM0F4OGhGeHlJQk96SFpxTEJwU3p0Qi0zV1FnNlpDcnFFMzF3dUdGM0o5WnhUMFZ5LWJsa0xkRVA5eDgzUHAwTjlnVHdENl83ZXhELW50c2NTeEc0NnF0VlJOOXFQSmhQUGNaZlBuZ2lZcTJFZDVR?oc=5",
+   "source": "VOV World",
+   "at": "2026-11-21T18:23+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "ロシアの「クリミア大橋」破壊に新型の“ジェット推進自爆ドローン”投入か？ ゼレンスキー大統領が存在明かす（1/2 ページ）",
@@ -576,20 +581,13 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-21T09:19+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTFg4Y1hYTkpVYTd4Tkp3STg4VmpMbXVsZ1FobFV0THFsbnNmUzZ2d3FnNDQ5bm1DdFV6RkRMbmxNR0hyZmJxdzQ2LXZqT1MyME54S1Vyanl1a2llYlFFUGdPQWRjSzM3TEViaWluZ3R1ZVE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-21T09:06+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "警報なし・大きな揺れや停電の報道なし"
+    "「米農務省にサイバー攻撃 ＦＢＩもハッキングか | | 全国のニュース」"
    ]
   },
   "japan": {
@@ -601,7 +599,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「報復」3件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
