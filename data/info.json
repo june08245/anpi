@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:15+09:00",
+ "updated": "2026-11-22T02:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -132,10 +132,10 @@
      "at": "2026-11-21T15:20+09:00"
     },
     {
-     "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGdaOVdMRXktMW5uMVBfSEc2RFl4ekdkOGFBVVBISjdjVGF3WlhMSHZWOWNvQzZlVDFnbldYSWVNZnZfZkJPdmZWVDR1d3I1c254aHJJdlVrUE5oVHJvdEhvR2xKUW0xMExWem5oVlB6YWI5Q2FoU1JLNUF4ZDg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-21T10:05+09:00"
+     "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBORnRxMmtFa1UybHZOWnE4aEFGNVZYRjczMDNGcmhyeE53UkptZmM4cXVfUFQ5N1pxSjNsdGVyM25sbk9hNER1eE5SdzNva05RRTBhWE9lQ1JaanBseW9qdklvU2hBZw?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-21T10:25+09:00"
     }
    ]
   },
@@ -393,10 +393,10 @@
    "at": "2026-11-21T14:04+09:00"
   },
   {
-   "title": "FBIの犯罪情報データベースに不正アクセスか トランプ大統領「良くないことだ」",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jYUpRT2s0Sk0wNFBoT3pIUTJBbC10RXdDY3ZtODVpdmR5dTcyVnZsN3JOdU1MQ2xEQXNCRENtblZNOFk2cXBOZVdxdkZDVEUyNXRXMkNBcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-22T02:04+09:00"
+   "title": "FBIの犯罪情報データベースに不正アクセスか　トランプ大統領「良くないことだ」",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nVnVvM3ZETGJFU1JvX2hYVmF6eTJETDY2SkI2cTFpMnFRRkp3OWpTUFNENy1LSy1Ya0hPeWlRczg5VU5yN3RhR3dEYXF6ODhDMWhKMDQ5V0ZjY2xfejdTMUptUEpERzl1aVhVRE1n0gFzQVVfeXFMT3JLU2M4YUEwYWRTaWNmZlcwdllXRjF1d2xxTW4xWjkwWFNBTGxLYkRJbzBWMW1zaHRMX1FNNUVIOFNUV0V5dlRTT0ZmR2RlaWc4NWhDNm1RaVpWUkI4QW44aF9XcV9tRnRuQkpXUXV5Ql9Ndw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-22T02:15+09:00"
   },
   {
    "title": "「富岳」不正アクセス　認証情報４３０件流出　調査を続行｜四国新聞WEB朝刊",
@@ -583,10 +583,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGdaOVdMRXktMW5uMVBfSEc2RFl4ekdkOGFBVVBISjdjVGF3WlhMSHZWOWNvQzZlVDFnbldYSWVNZnZfZkJPdmZWVDR1d3I1c254aHJJdlVrUE5oVHJvdEhvR2xKUW0xMExWem5oVlB6YWI5Q2FoU1JLNUF4ZDg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-21T10:05+09:00",
+   "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBORnRxMmtFa1UybHZOWnE4aEFGNVZYRjczMDNGcmhyeE53UkptZmM4cXVfUFQ5N1pxSjNsdGVyM25sbk9hNER1eE5SdzNva05RRTBhWE9lQ1JaanBseW9qdklvU2hBZw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-21T10:25+09:00",
    "topic": "イラン・アメリカ"
   }
  ],
@@ -606,7 +606,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」4件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」5件",
     "欧州・NATO：「ミサイル」2件"
