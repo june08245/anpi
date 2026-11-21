@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:00+09:00",
+ "updated": "2026-11-22T04:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-22T04:03:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-22T02:30:00+09:00",
    "place": "房総半島南方沖",
@@ -79,16 +89,6 @@
    "at": "2026-11-21T04:43:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-21T04:01:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.2",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -234,6 +234,12 @@
      "at": "2026-11-22T00:10+09:00"
     },
     {
+     "title": "【詳細】ロシア ウクライナに軍事侵攻（11月21日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTE9vWFVKU01UeWJxMXZQeG1Dd29Sd1AtX25oNHQ5Vm9oaUJfc2liNmlfLXRWc2NRUUxSRHp6SDdFYmJqMTVkWFNPVmJ2TkJ3Ti1OQ2xERndCczhIRVA4?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-21T22:00+09:00"
+    },
+    {
      "title": "キーウへのロシア軍の攻撃により、３地区で被害　２名負傷",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VuWUhGSTVvaFpBN1hWZUpwcmpZOGhheS10Q3lmVWdiN1VGbl9ZT2l0TjlnWTFsT1NLVGRzdUU1RDBrQ2JOYkV0LTI1SExnd2NvcVVjUzlZdVB2MmFiZjhWV1d5QXloSi1hb3BxUUlMd0ZQQ0x1VzFXZ1pBT1U2NHo4S3FjM28zcGlTWml5NXU2Ni11ZGZoSDgwUzZwNnplZ2lLTjlkc3Y5X2xITUtN0gG0AUFVX3lxTFBzaHA3Zkdacko2RGFaSnNaQWN3UXpOQ3lieHhHdFhYcEtwaXdGSHNwMVpUN2ZFam1MN3ZBMGN3REY2eXhMLVJ0Unl6YXJlb3k0ZERTWlhiSUJWc080SHZQTXh3V0l1SHRLTmE1NXhaaEpIaHVMcUVlWmFuTTdmVHNyd2g4Q29mZEprZ0xfMXRXUExadWxrVUFqVUN5enktRHRLU21oVjd4dTRFUHpwd0J6d0ZXSQ?oc=5",
      "source": "ウクルインフォルム通信",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jSzg1YWpLMXdOaVdPY3EwZXFVUXJRbm1PUXB4TmFqSUJ0T3VLMmtBYVRGRjk3cTFuc29yb1Boa3h3M0ZrWkh2ZGFQSFdNaG81ci1MMWJ1a3lDbkMzT0dGVk43TVhKVkRfajZsbGtjTm5TVzJsZ1VST2w3R1VYQk0?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-21T19:36+09:00"
-    },
-    {
-     "title": "ロシア軍の攻撃でドニプロペトロウシク州の五人が負傷 - 州軍政府",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSjAwVzVmb3c1bFlUOVk2MEZ4UmVsTndTd1loVlpvQkpBS0o5bG1LdC1WYk1VbS1fSEc4UFREeFU4MWdVNGlhRzY4djJNVWtFNjl1RXlLQVVNRWZCV09xUV9HRTdzbFBSRTVpTV9JT1pOLW90OTNoaWhtSnNFT2x4LWE3T1liVnZ2T2dUc1NmTDZ3alFRQkw3alJfVVY?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-21T18:45+09:00"
     }
    ]
   },
@@ -399,6 +399,12 @@
    "at": "2026-11-21T14:04+09:00"
   },
   {
+   "title": "サイバー攻撃 防止策を提供 セキュア社 半年無償",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5bEdIZjdnbzE0V3diQWZQQlRQX0JpSVVhc29hVnlKNjFuRzN4M1RwOU5tX3pFLTY5c1p3TlZpQTJLVl9aVXprNkhZOHA5TDJvQzBKSTJiczd2TTJlNWc?oc=5",
+   "source": "沖縄タイムス社",
+   "at": "2026-11-22T03:57+09:00"
+  },
+  {
    "title": "プレイドがKARTE不正アクセスの調査結果を公表、影響は延べ約2,200社に",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRk1ZbVl2TTBndlo3RUFVT3BtckxHQXg0cmdzemdSc0x6YjlWdllzVExrRXRNMUhCMFVXVm9DLVhaZ2J0NmVDVmRMektYM2lERlhZUGt3STlNX2c?oc=5",
    "source": "ベンチャー・ソリューション株式会社",
@@ -439,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93N1M2dGczVEhfSXF5UGM0Z2ZtdlAzSEtUU2xIaHVDb2E2MGNjbTlTNTAwMGV0Q1k5WXVMUld6NmJRd2N6ZGlXVmhYR0V3QzdpOXo1MEdzbmhkalJqUnZUYnllMnRiZw?oc=5",
    "source": "読売新聞",
    "at": "2026-11-21T19:50+09:00"
-  },
-  {
-   "title": "くまモン！Pay一時使用不能に QRコード決済、デジタル商品券 不正アクセスで臨時メンテナンス",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTzRSczFHWnB2WUMweldKUjZHZXZwa0k2aXpYLXk2S05BWm9aZmtITmozRjVDZHhNelVyeFNqREpPZUVDQUZhS2ZuazJKVU0?oc=5",
-   "source": "熊本日日新聞社",
-   "at": "2026-11-21T18:10+09:00"
   }
  ],
  "osaka": [],
@@ -461,6 +461,13 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85Ui1wbDk2VXFlZTdlbWtIQVdrTmdFUS1vNW5QT2hBWDg2YXlzUm1zMEpNT2NENm9jQ0tiMzZxaXNNeER1TDlreEJuRWZuamhDUkhSV0kwR19fc2FDME5XQ0Ftd2FCeUZtRTJpOFNYNjNGRjA5UF9GZ2l3?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-22T00:10+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "【詳細】ロシア ウクライナに軍事侵攻（11月21日の動き）",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTE9vWFVKU01UeWJxMXZQeG1Dd29Sd1AtX25oNHQ5Vm9oaUJfc2liNmlfLXRWc2NRUUxSRHp6SDdFYmJqMTVkWFNPVmJ2TkJ3Ti1OQ2xERndCczhIRVA4?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-21T22:00+09:00",
    "topic": "ロシア"
   },
   {
@@ -504,13 +511,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-21T19:06+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ロシア軍の攻撃でドニプロペトロウシク州の五人が負傷 - 州軍政府",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSjAwVzVmb3c1bFlUOVk2MEZ4UmVsTndTd1loVlpvQkpBS0o5bG1LdC1WYk1VbS1fSEc4UFREeFU4MWdVNGlhRzY4djJNVWtFNjl1RXlLQVVNRWZCV09xUV9HRTdzbFBSRTVpTV9JT1pOLW90OTNoaWhtSnNFT2x4LWE3T1liVnZ2T2dUc1NmTDZ3alFRQkw3alJfVVY?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-21T18:45+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "アメリカ、イランとの実質的な核合意の達成を推進",
@@ -608,7 +608,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」4件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」4件",
+    "ロシア：「攻撃」「侵攻」4件",
     "欧州・NATO：「ミサイル」2件"
    ],
    "items": [
