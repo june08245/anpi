@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:45+09:00",
+ "updated": "2026-11-22T02:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -252,16 +252,16 @@
      "at": "2026-11-21T19:36+09:00"
     },
     {
+     "title": "ロシア軍の攻撃でドニプロペトロウシク州の五人が負傷 - 州軍政府",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSjAwVzVmb3c1bFlUOVk2MEZ4UmVsTndTd1loVlpvQkpBS0o5bG1LdC1WYk1VbS1fSEc4UFREeFU4MWdVNGlhRzY4djJNVWtFNjl1RXlLQVVNRWZCV09xUV9HRTdzbFBSRTVpTV9JT1pOLW90OTNoaWhtSnNFT2x4LWE3T1liVnZ2T2dUc1NmTDZ3alFRQkw3alJfVVY?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-21T18:45+09:00"
+    },
+    {
      "title": "ロシア軍がオブルチ共同体の駅を攻撃、負傷者が出る",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVZnT0NwYnRMZTlwY3RKTmtSdUdHYnpzdUVVaHR0WHliTU1TMVkwUm92dEh3aERic1VYM1htM0hYQmswbEx6QmxRR1gwODVQdVFxZXBkX2F2M09WLTk0dkFEUWszeWtiZDVmSjdFTjlUVkxpZGhYcDR2YnJ3eWNpV2xSQ0FKYlFCMm5MaHJHMGZGVFpMTWdaZjFIZl9rd0E?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-21T18:00+09:00"
-    },
-    {
-     "title": "ロシアの「クリミア大橋」破壊に新型の“ジェット推進自爆ドローン”投入か？ ゼレンスキー大統領が存在明かす（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDMWgxOTNzNnZFZ3Y0SGl0NnJQM21RWFM0SVNPLTk5RWpBWmlfNXFyWG1LZ2hkc2IzcWsxR1J5VlBxZzRxZ3ZxYVJn?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-21T17:12+09:00"
     }
    ]
   },
@@ -499,6 +499,13 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "ロシア軍の攻撃でドニプロペトロウシク州の五人が負傷 - 州軍政府",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSjAwVzVmb3c1bFlUOVk2MEZ4UmVsTndTd1loVlpvQkpBS0o5bG1LdC1WYk1VbS1fSEc4UFREeFU4MWdVNGlhRzY4djJNVWtFNjl1RXlLQVVNRWZCV09xUV9HRTdzbFBSRTVpTV9JT1pOLW90OTNoaWhtSnNFT2x4LWE3T1liVnZ2T2dUc1NmTDZ3alFRQkw3alJfVVY?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-21T18:45+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "アメリカ、イランとの実質的な核合意の達成を推進",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUtZdXZBS0d0N3RhQkF0VnY5bTJ6ZVpSR0NjSkdxaHlOQWZwM0F4OGhGeHlJQk96SFpxTEJwU3p0Qi0zV1FnNlpDcnFFMzF3dUdGM0o5WnhUMFZ5LWJsa0xkRVA5eDgzUHAwTjlnVHdENl83ZXhELW50c2NTeEc0NnF0VlJOOXFQSmhQUGNaZlBuZ2lZcTJFZDVR?oc=5",
    "source": "VOV World",
@@ -518,13 +525,6 @@
    "source": "Infoseek",
    "at": "2026-11-21T17:57+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ロシアの「クリミア大橋」破壊に新型の“ジェット推進自爆ドローン”投入か？ ゼレンスキー大統領が存在明かす（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDMWgxOTNzNnZFZ3Y0SGl0NnJQM21RWFM0SVNPLTk5RWpBWmlfNXFyWG1LZ2hkc2IzcWsxR1J5VlBxZzRxZ3ZxYVJn?oc=5",
-   "source": "乗りものニュース",
-   "at": "2026-11-21T17:12+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "「イラン攻撃急がず」トランプ米大統領、国内外から圧力",
@@ -608,7 +608,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」4件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」4件",
+    "ロシア：「攻撃」5件",
     "欧州・NATO：「ミサイル」2件"
    ],
    "items": [
