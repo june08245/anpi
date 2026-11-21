@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:45+09:00",
+ "updated": "2026-11-22T07:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア支配地域で6人死亡 集合住宅に無人機攻撃 ウクライナ東部ユビレイノエ",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01VWEybUtDWU4yXy1walp2WlJVeDdaR0NhVHVRcXlsTzlNc3k0SFBoVzlvTjFSdEI3Vy1XYnZkZDhvLXp4YXZVbUEtRzZWWnhpYThEd0R4OUFLRENTT2J4cGZHUlFrN0JRR05US2hwMzlLUFhFN0E?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-22T06:53+09:00"
+    },
+    {
      "title": "ロシア貨物船に無人機攻撃、フィンランド領海に漂流 ウクライナ関与か（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGNG11TmhBbEx0c3U2LThFMXp3Y0xVcDlRaUE3eGNUclBIeTZLN2NFNGdGX3JVNVU2UEZSV0U0ZWZqM1kzcGl4RE9QRkhRcFVPeHctZTNQSi1MUmVqUEtQLVFCazdxWnMzUmNuM2p5NzE3QkZhRWJyTVNfcE9PVUU?oc=5",
      "source": "Yahoo!ニュース",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTE9vWFVKU01UeWJxMXZQeG1Dd29Sd1AtX25oNHQ5Vm9oaUJfc2liNmlfLXRWc2NRUUxSRHp6SDdFYmJqMTVkWFNPVmJ2TkJ3Ti1OQ2xERndCczhIRVA4?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-21T22:00+09:00"
-    },
-    {
-     "title": "キーウへのロシア軍の攻撃により、３地区で被害　２名負傷",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VuWUhGSTVvaFpBN1hWZUpwcmpZOGhheS10Q3lmVWdiN1VGbl9ZT2l0TjlnWTFsT1NLVGRzdUU1RDBrQ2JOYkV0LTI1SExnd2NvcVVjUzlZdVB2MmFiZjhWV1d5QXloSi1hb3BxUUlMd0ZQQ0x1VzFXZ1pBT1U2NHo4S3FjM28zcGlTWml5NXU2Ni11ZGZoSDgwUzZwNnplZ2lLTjlkc3Y5X2xITUtN0gG0AUFVX3lxTFBzaHA3Zkdacko2RGFaSnNaQWN3UXpOQ3lieHhHdFhYcEtwaXdGSHNwMVpUN2ZFam1MN3ZBMGN3REY2eXhMLVJ0Unl6YXJlb3k0ZERTWlhiSUJWc080SHZQTXh3V0l1SHRLTmE1NXhaaEpIaHVMcUVlWmFuTTdmVHNyd2g4Q29mZEprZ0xfMXRXUExadWxrVUFqVUN5enktRHRLU21oVjd4dTRFUHpwd0J6d0ZXSQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-21T20:14+09:00"
     }
    ]
   },
@@ -435,8 +435,8 @@
    "at": "2026-11-22T05:10+09:00"
   },
   {
-   "title": "GMOも被害のサイバー攻撃 AI悪用と対応策を知る10選",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUlQWDBMRG9vNmhYOXBIRUU4Vzl0MFo3V2Z0THEzNnhYaFlyZmUyQjRFWFA3OXZBTVdKSFJKQ1hTeWpFSDY4ZkcwUW5QSE13MHFfWmtWcGdIN24xMEMwUlJtOHJSUVFNMTVsa3lmS3JqbFhWUnlUOXdnblF1b2ZicDd1b0U5Nk43SktqUkNNU2c0Um1wdWhPUFVfY1lKZ2xSM1Z3QzZOSWp6eXhtbkc2ZUlR?oc=5",
+   "title": "GMOも被害のサイバー攻撃 AI悪用と対応策を知る10選 - 日経デジタルガバナンス",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlZicEpqdWRYa0NVX1RyMmZiT0FQaFFwdHl6RnM0Mzlna0FfQm41WnJUSFZvRmFiMUh3bUFlRVA5NWh3X2VseUdJZmxreGFtaWlKZGtYRU96MEQ4Wm1JRFJMRWFNelJMdEI1VEx6b0FwUFVYeDA5T3dvOU9lY2RBMmlfT1hhQ3dKc3lLLQ?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-22T05:00+09:00"
   },
@@ -449,6 +449,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア支配地域で6人死亡 集合住宅に無人機攻撃 ウクライナ東部ユビレイノエ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01VWEybUtDWU4yXy1walp2WlJVeDdaR0NhVHVRcXlsTzlNc3k0SFBoVzlvTjFSdEI3Vy1XYnZkZDhvLXp4YXZVbUEtRzZWWnhpYThEd0R4OUFLRENTT2J4cGZHUlFrN0JRR05US2hwMzlLUFhFN0E?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-22T06:53+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ロシア貨物船に無人機攻撃、フィンランド領海に漂流 ウクライナ関与か（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGNG11TmhBbEx0c3U2LThFMXp3Y0xVcDlRaUE3eGNUclBIeTZLN2NFNGdGX3JVNVU2UEZSV0U0ZWZqM1kzcGl4RE9QRkhRcFVPeHctZTNQSi1MUmVqUEtQLVFCazdxWnMzUmNuM2p5NzE3QkZhRWJyTVNfcE9PVUU?oc=5",
@@ -532,13 +539,6 @@
    "source": "アラブニュース",
    "at": "2026-11-21T21:48+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "キーウへのロシア軍の攻撃により、３地区で被害　２名負傷",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VuWUhGSTVvaFpBN1hWZUpwcmpZOGhheS10Q3lmVWdiN1VGbl9ZT2l0TjlnWTFsT1NLVGRzdUU1RDBrQ2JOYkV0LTI1SExnd2NvcVVjUzlZdVB2MmFiZjhWV1d5QXloSi1hb3BxUUlMd0ZQQ0x1VzFXZ1pBT1U2NHo4S3FjM28zcGlTWml5NXU2Ni11ZGZoSDgwUzZwNnplZ2lLTjlkc3Y5X2xITUtN0gG0AUFVX3lxTFBzaHA3Zkdacko2RGFaSnNaQWN3UXpOQ3lieHhHdFhYcEtwaXdGSHNwMVpUN2ZFam1MN3ZBMGN3REY2eXhMLVJ0Unl6YXJlb3k0ZERTWlhiSUJWc080SHZQTXh3V0l1SHRLTmE1NXhaaEpIaHVMcUVlWmFuTTdmVHNyd2g4Q29mZEprZ0xfMXRXUExadWxrVUFqVUN5enktRHRLU21oVjd4dTRFUHpwd0J6d0ZXSQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-21T20:14+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "米中首脳会談、両国の「安定」へ行動計画策定で合意…習氏は台湾問題に関与しないよう求めたか（読売新聞オンライン）",
@@ -625,10 +625,10 @@
      "at": "2026-11-21T08:30+09:00"
     },
     {
-     "title": "ロシア貨物船に無人機攻撃、フィンランド領海に漂流 ウクライナ関与か（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGNG11TmhBbEx0c3U2LThFMXp3Y0xVcDlRaUE3eGNUclBIeTZLN2NFNGdGX3JVNVU2UEZSV0U0ZWZqM1kzcGl4RE9QRkhRcFVPeHctZTNQSi1MUmVqUEtQLVFCazdxWnMzUmNuM2p5NzE3QkZhRWJyTVNfcE9PVUU?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-22T06:32+09:00"
+     "title": "ロシア支配地域で6人死亡 集合住宅に無人機攻撃 ウクライナ東部ユビレイノエ",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01VWEybUtDWU4yXy1walp2WlJVeDdaR0NhVHVRcXlsTzlNc3k0SFBoVzlvTjFSdEI3Vy1XYnZkZDhvLXp4YXZVbUEtRzZWWnhpYThEd0R4OUFLRENTT2J4cGZHUlFrN0JRR05US2hwMzlLUFhFN0E?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-22T06:53+09:00"
     }
    ]
   }
