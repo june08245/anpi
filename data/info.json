@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:15+09:00",
+ "updated": "2026-11-21T12:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-21T12:17:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.0",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-21T06:22:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-20T20:40:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -145,9 +145,21 @@
    "items": [
     {
      "title": "渦中女性、中国軍事企業とつながりか＝エヌビディア前ＣＥＯ不倫問題",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aLUtHTDdlMV9lWG40V21ENFQtcUczcGVFYkVwR256aDNuT3l4ajBuU2JaYkRobFoxcTM3c1ZveVh6U0tnZF81SGxZXzdXMmIyRFFoTXp2dWN2SnpIVTVHekRRejB2czM2cGNaUVdPOE02YVluMzhvZ9IBfkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmF3bHJsNlhSNjBKMUFEeTN1b3BpOXU4dVlkTGc0dHFQaFBZSjQyZUMwbkRUNjFBSWdDRGVfSF9WN3R0THJ3WjF6Qlo4OW5ra3J1VW95ZDQwanh2dHZsUXJtTlN3elZPQXlqM1RIMnBwMDNDOWlnS3gwc1JGdEFqRk9xMjJkM1BQbGxHcTdxZGhSNEwwSXZERzdNeVczMmlCRGExalh0RnZkQWdISXRlUEFDTE9FbkhMcEJrUGdHSWZ6V1RvdUszSzAydEhPUdIBfkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQQ?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-21T09:19+09:00"
+    },
+    {
+     "title": "中国主席とＡＩ安全策整備で合意と米大統領",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHZoUGFBcUlkWU9pSXlxcy1CUWRtMExxWkhHc0pMMk45YTJFdGN6emUzeVVFMjBqbDB5RmRaRVJqWXNvcXA5RkJCRnBJNXNzbTdkV2pYUGV1WGw5UG1XMENCeEw1M1RuRjhhc1dhc25TemNXSk00a3dlVFlIRmZNRW9RQVbSAYQBQVVfeXFMUER2aFBhQXFJZFlPaUl5cXMtQlFkbTBMcVpIR3NKTDJOOWEyRXRjenplM3lVRTIwamwweUZkWkVSallzb3FwOUZCQkZwSTVzc203ZFdqWFBldVhsOVBtVzBDQnhMNTNUbkY4YXNXYXNuU3pjV0pNNGt3ZVRZSEZmTUVvUUFW?oc=5",
+     "source": "大分合同新聞",
+     "at": "2026-11-21T03:03+09:00"
+    },
+    {
+     "title": "中国がアジア太平洋経済協力会議（APEC）首脳会議が終わった後も、高市早苗首相の台湾関連発言に対して是正を要求し、依然として強硬な態度を示した。中国外交部の郭嘉勲報道官は20日、定例ブリーフィングで高..",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4WXZmWHZQNDZIT19GZXZSa3plLWd5U3pkbWFHa3EtbDVGZVEyb1VwcEtYMUhRemEzdnBRZlpuYVBJM0R6MzFVV0Z2b1VVeWM?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-20T18:36+09:00"
     },
     {
      "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
@@ -166,18 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0ZXdBNUF4dTJhWkFWR1pBY3RQMGJUQko0MnV2aktxdzNmNnRLZFlBRnRSbmF2TzZUUTAzOHp2WEpMZ1drcll3cTgtdW81a2NSa0dYZDcxUjBpaWtOaEVVWUFUVFR1OFBVN014Y2ZiVmg?oc=5",
      "source": "Investing.com - FX",
      "at": "2026-11-20T16:15+09:00"
-    },
-    {
-     "title": "【舞台裏】台湾軍、無人機20万機時代へ 顧立雄国防部長が「年1回入札」を迫った理由 | 張曜麟（チヨウ・ヨウリン） | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QRVZCOG5tM29QU1Z1YWhiZS1waGtPbVJYNmhQcTFHUllyT3RBVVktdWpNZUFySTR3N2E4eU1MUm5XMkVDVVVybGFmWkFOZW03?oc=5",
-     "source": "風傳媒日本語版",
-     "at": "2026-11-20T15:42+09:00"
-    },
-    {
-     "title": "米中ロ首脳会談 中国紙「国際関係史の節目」 台湾問題めぐる意義も強調 – Quebee キュエビー",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdTlXdUxfNk1zUnl1Vk90NlhjRW5lUDJNZlRnVmRYWWpQYUtWbzNhdTdRTWYzM19GYmlyYTBLX1NBMTBCY05GaE9DTV9UakNuZ3ZSOUFnd0g?oc=5",
-     "source": "QAB 琉球朝日放送",
-     "at": "2026-11-20T15:15+09:00"
     }
    ]
   },
@@ -185,6 +185,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮、軍事境界線“要塞化”の思惑 韓国との対立を固定化（2026年11月20日掲載）｜日テレNEWS NNN",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEJ1cXVzbEVrNU0zc2l0NjNwU09Cak91b2RTV25tWElZLWdWbmJuWDVHN3IweGZKekJFVDcyRmFfTlN2dVdrTFFnS3FVQ3pBWERDQnh6TmVWd05TNExKSENnR2tlVk45cGdPbmFQUzV5R0NSX1RSUEJCZEJHaHVNVWduX1I?oc=5",
+     "source": "日テレNEWS NNN",
+     "at": "2026-11-21T12:07+09:00"
+    },
     {
      "title": "カナダ海軍フリゲート「レジャイナ」、北朝鮮船「瀬取り」警戒監視を実施 カナダ艦艇として16度目",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSR3Y3VjJscUNHQmt3VFBQdnRfY0c3alh0SDY3RXdleVFVbFFIVU5HRXNnTTYzXzl5a255OVE1eGQzcVJiYWUyeXFB?oc=5",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXdDVzSHhIUTN1WnRzMDczWEFja0R4azJkaUNVOFJoZ3hKd3MtOVNXdVJlUVdkdEswQ0d6dXFqVTIzbTZwWG4xa3p4VDRvUQ?oc=5",
      "source": "FNNプライムオンライン",
      "at": "2026-11-21T08:30+09:00"
-    },
-    {
-     "title": "国連の北朝鮮人権決議案、「サイバー脅威活動」を初めて非難…第3委員会で採択",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WNXpGT3h5Q0s3TnVPczFXVktkRXBCbnJHT0RDYXBpR3NGd1VacjF0TFVVaDhVa1hHeDR4NU42SnJhTDFUX1hIWFhrWlRZSFAwTDNNU9IBVEFVX3lxTE5WNXpGT3h5Q0s3TnVPczFXVktkRXBCbnJHT0RDYXBpR3NGd1VacjF0TFVVaDhVa1hHeDR4NU42SnJhTDFUX1hIWFhrWlRZSFAwTDNNUw?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-21T08:03+09:00"
     }
    ]
   },
@@ -227,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ポーランドにロシア軍の巡航ミサイルなど落下 ウクライナと国境接する地域 ポーランド首相「意図的な挑発とみられる」と非難",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5MWpneURxZzNRSnVhbEJIYUFpTm5ZVVFabk1oendYbzRaQWMtX2laaTJfV1Q1Zk9ONVdWT0FENldicktnOHp6MkhhWERfc3JPZVBvWGpJU1pYQXM5UUFOSkJZejczajNIeFhCUV9wQkkwRzJP?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-21T11:57+09:00"
+    },
     {
      "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhcWtwNXEybEd0S2N1OFV1d1E2WVE1dU5zQVFXZWx3NXVWU0FNVWZGeUhDbV9SZUx1NTRQZHVLMlRIdmEwblpQOGZZM0pkel9BR0dHdWl2aVlZQmhPbzJyaNIBZkFVX3lxTE9SaWNNRTJ0NF9lVnFzNWZYQkJ1Z2RkeHhHQlgzd2pqcmJ0MmZ0VUFvb0RQS0tBWVl4VWVMeVdwT2RwdktfVjl4TEZXaWt5OWQ5c20xc1NKWFIyc0lVNjZsclUzcXBqUQ?oc=5",
@@ -244,12 +250,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RS0t0LXlxREZoWXdEdDIxSmItWWx3bUZWZmd6NTlGUVZPLTdURUdqZTdGeGFIRXVhbXRLTWYxQ3ZBbHlpTTY4aUloRzdweDdrUTdTT3FjYzFoc1htakNIOS1n?oc=5",
      "source": "読売新聞",
      "at": "2026-11-21T10:50+09:00"
-    },
-    {
-     "title": "ポーランドにロシア軍の巡航ミサイル落下…非難上がる「意図的な挑発行為」 (2026年11月21日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SNkJMa1QyaHpwMm10Nm9sOGxtU3k1UDJSMnhoOEIwbmE4VGFiUWVNeHlDYjhJX2hvUUhfTlpqYmpVLTRCUGpSSFNKaUNkVGc3TWdoNmRGUXpjQWJndGc?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-21T10:14+09:00"
     },
     {
      "title": "プーチン氏の「報復」か、ロシア軍がキーウなどミサイル１１０発以上で攻撃…ゼレンスキー氏「最大規模の攻撃の一つ」と非難",
@@ -346,14 +346,7 @@
    "at": "2026-11-20T12:33+09:00"
   }
  ],
- "outage": [
-  {
-   "title": "大阪府の停電情報",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iRTZJREIxVWNNU3V0N3ZKcTQ1RWZ4OUVkeHBYdFkySmEwc0UzOHhWSjZ5SXNCNzd3ejBJWGpOTVVJM3duYngwQ011Vi14R0ZZaGFLTHBFSFBFLUVCbkN4QlhweTE?oc=5",
-   "source": "ウェザーニュース",
-   "at": "2026-11-20T00:40+09:00"
-  }
- ],
+ "outage": [],
  "japan": [
   {
    "title": "ウクライナ首都で橋損傷 ロシアが弾道ミサイル攻撃",
@@ -406,6 +399,12 @@
    "at": "2026-11-21T01:47+09:00"
   },
   {
+   "title": "米政府、国家サイバー局長を解任　システム障害相次ぐ中",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVZ1Z1gxRUFXdVNNQmpQUktfOUNlZ19fanpYX21fVGdiTnEzYVBOakQ0dEs2enhuZlYzaV8zOFNRTk1IM0VxUG41QzRzR0ZPdHhqYVdHM1ZOZXdGZ3pMOU5pNWZnc09Vam5Oa2hKSE9iRm5xUi03dWZMSnl2NTNzUnZhenFNczZP0gGcAUFVX3lxTE9ad2RmVFpRVWY0eFJTU1RfanVqZ3V6alFJVDhHVjhVbUstSWVkWmhBd09RaVBuSkRuOEVoNElzQXJ2QjJiWU1TVnR4ckE3SURGLWp4N2VCQ0taeXdwbTlBS3dxa3ZZMDctYnoxR1hHRldib045NENfYW51SHJvZjhFbzVhMjNWcDZVbTFCMHBvMHJRME92Y3FQSXRidQ?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-21T00:58+09:00"
+  },
+  {
    "title": "栃木銀行顧客アドレス、最大530件流出 プレイド不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10NmM4MWNCbW9SVmZzamlmblNFS2EtWFZ6dnVnTkxRdkMteG9ZWFhaQzM5cVZJdTR6Z0cwbklPSFF3ZmFEUHdTOEVBdUZYOTNlQTkzR3hrb2gwdmc?oc=5",
    "source": "下野新聞社",
@@ -446,16 +445,24 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IUHVpWm5BVXVJbzhUbUpCREdQZHBuZEk5c08ycmV6dkFzeDQ5YzBNdTNSY0VMdjhsVXRlX18wcV90UlYteHJxRGtrdzM3bzl4bnBfdU1vNnl6YndKRWJBZEVXNzc2d0Q2?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-21T11:02+09:00"
-  },
-  {
-   "title": "サイバー攻撃で国内病院も被害 患者の病名流出、電子カルテが停止",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdC0wYjV2UElCcnN4ZmVnUDk4TklwWXU4aDNUSmk5SWc1Q0s1aFZmOUh6NDE2NHNhVy0zbF90UHpyQkxYS2xkaFB6dlF4c1NQdmVoQ3ZtNEpMWG9TXzlsX01XNUlQUWZ1VER1aA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-21T11:00+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北朝鮮、軍事境界線“要塞化”の思惑 韓国との対立を固定化（2026年11月20日掲載）｜日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEJ1cXVzbEVrNU0zc2l0NjNwU09Cak91b2RTV25tWElZLWdWbmJuWDVHN3IweGZKekJFVDcyRmFfTlN2dVdrTFFnS3FVQ3pBWERDQnh6TmVWd05TNExKSENnR2tlVk45cGdPbmFQUzV5R0NSX1RSUEJCZEJHaHVNVWduX1I?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-21T12:07+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ポーランドにロシア軍の巡航ミサイルなど落下 ウクライナと国境接する地域 ポーランド首相「意図的な挑発とみられる」と非難",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5MWpneURxZzNRSnVhbEJIYUFpTm5ZVVFabk1oendYbzRaQWMtX2laaTJfV1Q1Zk9ONVdWT0FENldicktnOHp6MkhhWERfc3JPZVBvWGpJU1pYQXM5UUFOSkJZejczajNIeFhCUV9wQkkwRzJP?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-21T11:57+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "カナダ海軍フリゲート「レジャイナ」、北朝鮮船「瀬取り」警戒監視を実施 カナダ艦艇として16度目",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSR3Y3VjJscUNHQmt3VFBQdnRfY0c3alh0SDY3RXdleVFVbFFIVU5HRXNnTTYzXzl5a255OVE1eGQzcVJiYWUyeXFB?oc=5",
@@ -492,13 +499,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ポーランドにロシア軍の巡航ミサイル落下…非難上がる「意図的な挑発行為」 (2026年11月21日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SNkJMa1QyaHpwMm10Nm9sOGxtU3k1UDJSMnhoOEIwbmE4VGFiUWVNeHlDYjhJX2hvUUhfTlpqYmpVLTRCUGpSSFNKaUNkVGc3TWdoNmRGUXpjQWJndGc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-21T10:14+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "プーチン氏の「報復」か、ロシア軍がキーウなどミサイル１１０発以上で攻撃…ゼレンスキー氏「最大規模の攻撃の一つ」と非難",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Qb3pGck45YzBDX3p4bFBtOV81WmRLTGJRbF9SZmZUb3h4UlpvbjI5SnFvWURENHM1N3BCcktSZ2NwbjdRbFlpaHJsU2wyZWczMWc2RWJkNnZuQXMzQ1VQLVZn?oc=5",
    "source": "読売新聞",
@@ -521,7 +521,7 @@
   },
   {
    "title": "渦中女性、中国軍事企業とつながりか＝エヌビディア前ＣＥＯ不倫問題",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aLUtHTDdlMV9lWG40V21ENFQtcUczcGVFYkVwR256aDNuT3l4ajBuU2JaYkRobFoxcTM3c1ZveVh6U0tnZF81SGxZXzdXMmIyRFFoTXp2dWN2SnpIVTVHekRRejB2czM2cGNaUVdPOE02YVluMzhvZ9IBfkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmF3bHJsNlhSNjBKMUFEeTN1b3BpOXU4dVlkTGc0dHFQaFBZSjQyZUMwbkRUNjFBSWdDRGVfSF9WN3R0THJ3WjF6Qlo4OW5ra3J1VW95ZDQwanh2dHZsUXJtTlN3elZPQXlqM1RIMnBwMDNDOWlnS3gwc1JGdEFqRk9xMjJkM1BQbGxHcTdxZGhSNEwwSXZERzdNeVczMmlCRGExalh0RnZkQWdISXRlUEFDTE9FbkhMcEJrUGdHSWZ6V1RvdUszSzAydEhPUdIBfkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQQ?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-21T09:19+09:00",
    "topic": "中国・台湾"
@@ -555,13 +555,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "国連の北朝鮮人権決議案、「サイバー脅威活動」を初めて非難…第3委員会で採択",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WNXpGT3h5Q0s3TnVPczFXVktkRXBCbnJHT0RDYXBpR3NGd1VacjF0TFVVaDhVa1hHeDR4NU42SnJhTDFUX1hIWFhrWlRZSFAwTDNNU9IBVEFVX3lxTE5WNXpGT3h5Q0s3TnVPczFXVktkRXBCbnJHT0RDYXBpR3NGd1VacjF0TFVVaDhVa1hHeDR4NU42SnJhTDFUX1hIWFhrWlRZSFAwTDNNUw?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-21T08:03+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "トランプ氏、米副大統領に「不満ない」＝イラン作戦が敗因発言で",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91VUNKRXZXMTdxM1htR2paVUJMRXZjNS1rMThCeWt4eTFJRl9pUml4Y2ZXejlIVU85VDVtUk5tZWhhdFFYM3kxc054QVYtTU80TVI3UFhHcl9JNVhnTVhr?oc=5",
    "source": "Excite エキサイト",
@@ -590,11 +583,11 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難 ＮＡＴＯ支援要請へ | ロイター",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXo3al8yZGNyR2ZfYm5tS2FzXzE1VUxnWDJUdFpablhwTzFWSmRZdHZJdXVNNjlYVlVwYl91VlljcEFuQ1EzVmpFVVo5UnlmR0pLZ2FBcWI2ZE5yTWhDYXhycnhjMmJQd3A3MHVoaFkwRzV5emJLM0ZOTVhFckdBRkRHb2d3QQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-21T02:10+09:00",
-   "topic": "欧州・NATO"
+   "title": "中国主席とＡＩ安全策整備で合意と米大統領",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHZoUGFBcUlkWU9pSXlxcy1CUWRtMExxWkhHc0pMMk45YTJFdGN6emUzeVVFMjBqbDB5RmRaRVJqWXNvcXA5RkJCRnBJNXNzbTdkV2pYUGV1WGw5UG1XMENCeEw1M1RuRjhhc1dhc25TemNXSk00a3dlVFlIRmZNRW9RQVbSAYQBQVVfeXFMUER2aFBhQXFJZFlPaUl5cXMtQlFkbTBMcVpIR3NKTDJOOWEyRXRjenplM3lVRTIwamwweUZkWkVSallzb3FwOUZCQkZwSTVzc203ZFdqWFBldVhsOVBtVzBDQnhMNTNUbkY4YXNXYXNuU3pjV0pNNGt3ZVRZSEZmTUVvUUFW?oc=5",
+   "source": "大分合同新聞",
+   "at": "2026-11-21T03:03+09:00",
+   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -632,10 +625,10 @@
      "at": "2026-11-21T08:30+09:00"
     },
     {
-     "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhcWtwNXEybEd0S2N1OFV1d1E2WVE1dU5zQVFXZWx3NXVWU0FNVWZGeUhDbV9SZUx1NTRQZHVLMlRIdmEwblpQOGZZM0pkel9BR0dHdWl2aVlZQmhPbzJyaNIBZkFVX3lxTE9SaWNNRTJ0NF9lVnFzNWZYQkJ1Z2RkeHhHQlgzd2pqcmJ0MmZ0VUFvb0RQS0tBWVl4VWVMeVdwT2RwdktfVjl4TEZXaWt5OWQ5c20xc1NKWFIyc0lVNjZsclUzcXBqUQ?oc=5",
-     "source": "BBC",
-     "at": "2026-11-21T11:12+09:00"
+     "title": "ポーランドにロシア軍の巡航ミサイルなど落下 ウクライナと国境接する地域 ポーランド首相「意図的な挑発とみられる」と非難",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5MWpneURxZzNRSnVhbEJIYUFpTm5ZVVFabk1oendYbzRaQWMtX2laaTJfV1Q1Zk9ONVdWT0FENldicktnOHp6MkhhWERfc3JPZVBvWGpJU1pYQXM5UUFOSkJZejczajNIeFhCUV9wQkkwRzJP?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-21T11:57+09:00"
     }
    ]
   }
