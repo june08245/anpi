@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:00+09:00",
+ "updated": "2026-11-21T11:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,16 +228,16 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシアの領空侵犯の疑いを報告 ポーランド南東部に物体が落下（AP通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52VW00Tm4zSW42NHc4WGFRVUowZmNLeXRtdGxUSmw5OEtDR2VpRWE3NXd6OUZnMEdrMzdxMDU4b25uUW5MUGtoOTBVbkR1cDkzcERDTVZrOEs3SlAyOENTRUEyUjhfZERqWDQ1S1RfLUc0NjhvNnphb1pIOGlObEU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-21T10:55+09:00"
+    },
+    {
      "title": "ポーランドにロシアの巡航ミサイルなど落下、トゥスク首相「意図的」と批判…近くでウクライナ支援「有志連合」が軍事演習中",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pdGE0enl1UUN5WHN6cy1lTXlNa09qZG9ZY0RsNXNvcTJRcWRNTnQ1TEprTXRnSEI4NFBWYlNXYmx6OEV5YUlCYnU5clppUm9tS01mT3p0QVFYdGFPNG1NOVdlbVVZWVg5LXVHSExR?oc=5",
      "source": "au Webポータル",
      "at": "2026-11-21T10:50+09:00"
-    },
-    {
-     "title": "ポーランドにロシア軍の巡航ミサイル落下…非難上がる「意図的な挑発行為」 (2026年11月21日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SNkJMa1QyaHpwMm10Nm9sOGxtU3k1UDJSMnhoOEIwbmE4VGFiUWVNeHlDYjhJX2hvUUhfTlpqYmpVLTRCUGpSSFNKaUNkVGc3TWdoNmRGUXpjQWJndGc?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-21T10:14+09:00"
     },
     {
      "title": "プーチン氏の「報復」か、ロシア軍がキーウなどミサイル１１０発以上で攻撃…ゼレンスキー氏「最大規模の攻撃の一つ」と非難",
@@ -364,10 +364,10 @@
  ],
  "cyber": [
   {
-   "title": "相次ぐシステム障害、AIはどこまで関係しているのか 「12月はさらに深刻に」と専門家",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xd2dqWVk3c1hoZDZjcUJjQXY5eWd6WGprSU5xS2lLQzE2T2tGZHhRbENkdGJFTEM4RUQweGlGNGhnNnIzNVN4OERSclA5M0NTQlZ5SkN4cWpieFotanBVY28zU3Q?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-21T08:42+09:00"
+   "title": "相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uemFvN1hmTnk3ZVpaTWoyZkZzeFdvSnV5V2Q3SzhDM3RkUTB0UnBuR2x4cDFSd0NUdlJFbjlLV1pSTTJvMFhSU2p0eTgwaGpmR1o3Tk5jelNCem1ZMGpXYUlhbEVVYWxodFRfaFdrdmlrYTE1Q1A2Q1pNRktGckk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-21T08:30+09:00"
   },
   {
    "title": "Cloudflareの障害が示す、サイバーレジリエンスが重要な理由",
@@ -412,62 +412,62 @@
    "at": "2026-11-21T00:58+09:00"
   },
   {
-   "title": "システム障害に注意：$JPM",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83WnNVNFpxUWliYkdvbGtEVHBvSmFVUE55TmFVRmVrUl9WV3JCS2l6YWZMVmFNUWNIMmVSdTZPQlVFSFpxUVBZS0cwLUxJMmVOdkNtRnF6UnhZNnNlMXZKSWhHLVN2cEJERjdjN0pyOHd4dS1oRmw4R3BiYUdBQQ?oc=5",
-   "source": "Moomoo",
-   "at": "2026-11-20T21:41+09:00"
+   "title": "三井住友銀行、最大約1,400万件が情報漏えい プレイド「KARTE」への不正アクセスによるサイバー攻撃で",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnpjcmVVMFZ3R2FrYkVZZEhjc1RvS3RmbWtjUlJEWHJBQ1dXSzB2UWVVejFXRFlpenBCMXZIOUtMaWgyX0RDcjlYd1JWdFVoajJncGxtNWtmcGZBb1FpVnhmS2xLb21fWC1XNTVRUDA0aXY0ajZqYmZhX0RaeEYxemVULS1laXVER1JYb293VUVvcDJwaVJMTTg3WlZ5OWljNmIwcVlB?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-21T11:11+09:00"
+  },
+  {
+   "title": "メルカリ、Notion AI経由で顧客1,522名など計3,796名分の情報流出のおそれ 委託先Fireworks AIに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRWhuNFBiZ0xDQ3FLLWZlaFV3R0pjNzAtcDk4ajBXekY2TDZuMS1ZUS04ZHVEOVpYT211V3AzWWNiaWVYVHVQYnNxMWpscXdxT3JwbENkTVRUSHpiRmRYZjBaYTVjNFJXZGlJd0lzcnA2THRaeUNuXzVwclNUWWxETlZrTDNnMXAzSlZUTmdlVTlCZ3EyZEJ6VUZzZi1VSWhGdDh5YWZn?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-21T11:07+09:00"
+  },
+  {
+   "title": "個人情報：個人情報、闇の「市場価値」 不正アクセス ダークウェブで売買、無料から1件数万円",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IUHVpWm5BVXVJbzhUbUpCREdQZHBuZEk5c08ycmV6dkFzeDQ5YzBNdTNSY0VMdjhsVXRlX18wcV90UlYteHJxRGtrdzM3bzl4bnBfdU1vNnl6YndKRWJBZEVXNzc2d0Q2?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-21T11:02+09:00"
+  },
+  {
+   "title": "レザー製品やスマートフォンケースのBONAVENTURA（ボナベンチュラ）-最大57万6,742件が個人情報漏洩の恐れ-プレイド「KARTE」への不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHdBa2VQYmhxOWl1QU5uYzlsV09SNW8tZ1R0NE1MdWxYaVIwZlhJUkpxaWN4dzN2MjEzN2dKbzF5Y1ZFaTNTdlR3ZFpEOTJRSlZldVFFbWRRM21STDZ6RDc3RVJYVkpzNTlkYUg1THYwQUt1aXdyTTN1WmZ5U1lxc21scTFFanh6cHVsRGNZTEowUnNxUG9N?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-21T11:00+09:00"
+  },
+  {
+   "title": "サイバー攻撃で国内病院も被害 患者の病名流出、電子カルテが停止",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdC0wYjV2UElCcnN4ZmVnUDk4TklwWXU4aDNUSmk5SWc1Q0s1aFZmOUh6NDE2NHNhVy0zbF90UHpyQkxYS2xkaFB6dlF4c1NQdmVoQ3ZtNEpMWG9TXzlsX01XNUlQUWZ1VER1aA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-21T11:00+09:00"
+  },
+  {
+   "title": "プレイド不正アクセスで三井住友銀、丸井、DHCなど2200社に影響 | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPcDI2TWUzZng4QXoyMlBralhWLWRWX2N5ZGhRYy1NeEVRTGl0TUxWZzRfNWdQVDk2MW5zUjQ3NDJNOEcxZ1NUcFZ3S2t2OFVSRk1OVTRRaDJuNUVuRzJFcmNydnN3ZTZIREU1SHNZS2VFMHRVYUZKVnZ3anNKR2JiZ3BTRDdua2p6VnpNVFhsNmRBWW96Vllaem11MXNHSThfVUd4M1pJYlhQZmNSdHRwQ0kwR1JvcTV0OF9LMzI2b3dPbWxwWWxSWl9INEtaUkliSDUwX1BMYUtDUHdteUxnWFlkblZMcG5zZHNvVHJDYzFHb29HZWZKZ1ZldHNaM2tsNjF6RkVDMnhnWlpYa0tLNk1tZ2ZfbEhWZEZDRVlkZlBCY1BpdWFaTmpNLVVnSGlTNVhZY0wyeW5HZ0dzS0FKdmpmeE52Y1h1V2FZbkwwOEx3VFZ4VThVWEdWN2lQZWlIYTRDekJmc01LQTA5WmVkeldSN3laU183QmFiSkFZdERiYnNSakYtT05Vd0pweXpIRWJxZXpIanJGRlZ0WkpPRnFVV19hc09kcktGcA?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-21T10:39+09:00"
   },
   {
    "title": "相次ぐサイバー攻撃に対処 警察の専門部隊「FFF」発足 通信履歴の保全・分析など",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93NWZGcGVVVlZhUG5RdElubkpCRWZ1cHdaUlhHZW9HbGJLZDFhWUhTaDI1RWFVSWxSRU9md1dlM01USlMxUDVxQlhjQWFiR1Fjd2Jnd3ZzUjI4UWVWOW1PdlRjWkRoNWo0Xzg0UE5EN0k5Zw?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-21T10:32+09:00"
-  },
-  {
-   "title": "不正アクセスの痕跡を見つけよ サイバー競技大会で実力を競う警察官 [秋田県] [情報漏洩・個人情報流出の最新ニュース]",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xUy1VNzlwU2lVamJpenFPLWxUT0FhdjhCbDdrdE1yaV9pWmh6MXVTUW9GVHNORi02eUV5bUtLZTdWVDVFSE12SnRwT2EwazU5X094bTRrNEZtb1hQSkY0REw0LVpIMTA?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-21T10:30+09:00"
-  },
-  {
-   "title": "情報漏えい相次ぐ中…愛知県警がオンラインでの“セキュリティ診断”を開始 不正アクセス被害に関する相談は先月までで約2600件 去年同時期比で約400件増加（CBCテレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uMTFvUWlOTTFUM1Bac1EwNkxmWWZhODdhdWxQOVJ4RHB6Q0NGRXN2d3FaTVdValBHS196SUJudG5ZclNScV9ua29aSWRqYWNtaE03WDZKSXlIUmRUbzlQZ1NCNTJzYURFdk1tU2MxV0lYc2J0eWxlZy04ekN3djQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-21T10:04+09:00"
-  },
-  {
-   "title": "「テケト」不正アクセス 新たに61人分",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MNkExbTJfTHdfVlAyRTYwNWdxN0RqMUE3M0NpZ29adHpfMEhUM0lmaHFuZUdWVjhUM1VTMkNyVzlrN3ZIMFIzczNrenpyV2xYVjh2b29sb00?oc=5",
-   "source": "滋賀報知新聞",
-   "at": "2026-11-21T10:00+09:00"
-  },
-  {
-   "title": "米農務省にサイバー攻撃",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TZGJZM2JoU0dCQ2hYeVZhNUg3bU10Z0cxNG4zRUNheVdqN09IVENldWhMeGtRSVVlYzZfbk9wVUw4NlU3dlVieFYwSktxNHU4aDROTklqeDJuMEpjV3hTY2xqOWlSTmVJTVhTelk0N0UwZEE?oc=5",
-   "source": "デイリースポーツ",
-   "at": "2026-11-21T09:56+09:00"
-  },
-  {
-   "title": "米農務省にサイバー攻撃 機密情報漏えいの恐れ",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QLXBKa1FpNDdPTVZKU0ZMMzFfa0Q3U24tUXhDaFhEb00tNGc4WXotN1ZkZDVmT3kzazI5R05MUWZPRW9Ua0pCYTRXVQ?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-21T09:51+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
+   "title": "ロシアの領空侵犯の疑いを報告 ポーランド南東部に物体が落下（AP通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52VW00Tm4zSW42NHc4WGFRVUowZmNLeXRtdGxUSmw5OEtDR2VpRWE3NXd6OUZnMEdrMzdxMDU4b25uUW5MUGtoOTBVbkR1cDkzcERDTVZrOEs3SlAyOENTRUEyUjhfZERqWDQ1S1RfLUc0NjhvNnphb1pIOGlObEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-21T10:55+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ポーランドにロシアの巡航ミサイルなど落下、トゥスク首相「意図的」と批判…近くでウクライナ支援「有志連合」が軍事演習中",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pdGE0enl1UUN5WHN6cy1lTXlNa09qZG9ZY0RsNXNvcTJRcWRNTnQ1TEprTXRnSEI4NFBWYlNXYmx6OEV5YUlCYnU5clppUm9tS01mT3p0QVFYdGFPNG1NOVdlbVVZWVg5LXVHSExR?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-21T10:50+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ポーランドにロシア軍の巡航ミサイル落下…非難上がる「意図的な挑発行為」 (2026年11月21日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SNkJMa1QyaHpwMm10Nm9sOGxtU3k1UDJSMnhoOEIwbmE4VGFiUWVNeHlDYjhJX2hvUUhfTlpqYmpVLTRCUGpSSFNKaUNkVGc3TWdoNmRGUXpjQWJndGc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-21T10:14+09:00",
    "topic": "ロシア"
   },
   {
@@ -616,7 +616,7 @@
     "イラン・アメリカ：「攻撃」1件",
     "中国・台湾：「攻撃」「封鎖」2件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「攻撃」「報復」5件",
+    "ロシア：「攻撃」「報復」4件",
     "欧州・NATO：「攻撃」「軍事衝突」3件"
    ],
    "items": [
