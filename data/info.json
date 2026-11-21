@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:15+09:00",
+ "updated": "2026-11-22T04:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -133,7 +133,7 @@
     },
     {
      "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBORnRxMmtFa1UybHZOWnE4aEFGNVZYRjczMDNGcmhyeE53UkptZmM4cXVfUFQ5N1pxSjNsdGVyM25sbk9hNER1eE5SdzNva05RRTBhWE9lQ1JaanBseW9qdklvU2hBZw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZVgyMTVXTmYwQWtCWVpfd1Q3ZUFPaGpwT0hmQ0tNdmVqT3d1ZTkwM25ReDJVX2cwV3lfRXdkYS1SZXh5Ykp1T3JrN3JjQTdWeE8tRjBCd0NHd0k?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-21T10:25+09:00"
     }
@@ -156,12 +156,6 @@
      "at": "2026-11-21T17:57+09:00"
     },
     {
-     "title": "中国軍事企業とつながりか エヌビディア問題の女性",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtUU1iQmRnbE9yaFBYR2gzTmQtTHpQakV4RmJiTzBvMG5wYkpCVEphMjhlTE03YjV5SEJvNnlicFJBdUJ2WE5pa1YwdmlkN2M0NXV4bHlFQkpJUFV1bkowUjZFbw?oc=5",
-     "source": "テレ東BIZ",
-     "at": "2026-11-21T16:00+09:00"
-    },
-    {
      "title": "親族ら中国軍事企業とつながりか エヌビディア問題の女性フアン氏",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZXhYSGduNzEzcEVVbkE3eW9YZFlLRms0djAwUUVsSkp2SURDeDhEX3NUTmhLMkVCc2dRaEhRV3dRR2tNOWFLR0lNSmFKU1dqTnRId3JTVmppWm40azJ3Ni05MDVWN1NGV0w4Q3g4cTk?oc=5",
      "source": "Excite エキサイト",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBneWFpR3VNZlZTMmVZSjZPQUt4RXlVVjFNWWN3S0NHSjQycFdnSUFzcGtmVW5jcTZCckJuOExFMFpQejBZdnh5c1NmX2VBc0E4ZjBfdDVzVmdvazNxckg4?oc=5",
      "source": "JBpress",
      "at": "2026-11-21T06:00+09:00"
+    },
+    {
+     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T18:24+09:00"
     }
    ]
   },
@@ -311,15 +311,21 @@
  "nankai": [
   {
    "title": "｢南海トラフは30年以内に80%の確率｣を京大名誉教授が分かりやすく言い換えた\"覚えるべきたった2つの項目\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZWlDYllaUHJlYzYySG0tSHdpbngwVGpabTB5em9vYmtUNHpPcHZhTEpOMl9wbThYbjRBVkM5TFYyWDU5MzFxeTBoVEVmS1B6UHZnN25EdVQ0NGs?oc=5",
-   "source": "PRESIDENT Online（プレジ",
-   "at": "2026-11-21T23:14+09:00"
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZRHcyZDJ1ZVVOQUs0bWVzQlFUOXNIci16NUVZMmh5ZmlTTk9HbkY4OEdqa3VkQ3RJVDRldmZ4SWdUTlR6d01JUkdIQl93SVBoekF4ZzlkQ1hNLS15QzByRUFoUlBiaUsxUlh0T2dDb2dIam5IR2x0RzBHREIxNkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-21T19:15+09:00"
   },
   {
    "title": "避難所運営「ゲーム形式」で攻略？ 南海トラフ被災後へ、高岡高校と土佐電子が考えた",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GN1pUMUc0WnRwRkR3d1dYT1ZWMjRLbGE5cFZWQk9yTnlVTlVKMGFuM2JLX2EtcmUzRWZxNUtzUEIyVVlQQ3Z2d0ZqcmM0UUZOTTFXTzRPZGxfYklLS2Nn?oc=5",
    "source": "高知新聞",
    "at": "2026-11-21T17:21+09:00"
+  },
+  {
+   "title": "夜間の地震・津波を想定した避難訓練 懐中電灯で足元を照らしながら高台の避難所へ 南海トラフ巨大地震で最大16mの津波が予想される三重・大紀町",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWblhYWmRZbGpxaDFtQVJWb0Q1aTFEOElUQURmWWd6TUtKRlVSZ0NlRHROazlDN1BuSlNtY3lVdWJ5OHQ3UkxJaENQN2xPYW9mUldwelZ0RmVvdWhhU3lv?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-21T14:38+09:00"
   },
   {
    "title": "南海トラフ地震の支援体制を確認 小城市、派遣先の大分県国東市を視察 市役所で報告会",
@@ -334,16 +340,10 @@
    "at": "2026-11-21T06:00+09:00"
   },
   {
-   "title": "南海トラフ地震発生を想定 – 東日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjcmljVldiWlJISlhLSW5lRjR4UGJ5Y083Y0RHS1JtNG9lakt0cklFT1VuYXl5NU1IdllJUm5hVUhWY0loN2ZXZ041RS15WXctb3JuZE5jbFluc0Q3Y1E?oc=5",
-   "source": "東日新聞",
-   "at": "2026-11-21T00:03+09:00"
-  },
-  {
-   "title": "南海トラフ地震を想定 宮崎市で「脱出船」による傷病者搬送訓練を実施",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80WnZQVXJsZ3Ztbno5QmtaZzBPYXhPUS10emlwdzA4NUpqSlJjeDZnZDQ3ZDhOd3Z4bWx4YmZhbVhiR3JWRlZndUFpZGFIME9ESE5oeUxaczkwYnZyajF4RjcySVdOZWFUYzNIcDF2OWRRMmpxMW9pNHZ3WlY4VTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T19:25+09:00"
+   "title": "＜写真＞奈良県下市町で総合防災訓練 町民ら500人が連携確認 南海トラフ地震を想定 陸自など20団体・機関が協力、避難所開設や運営体験",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtYVZaLVBtbFNZdDEtWHJFVmdHQnFEVktvdlY2bnJ3TGhuQzlCRTh3SDdnMnlVUVp1c1RyYnpxS3Bmc3h4YnhScGRWQl85MW11VGxZdFpLamM0d2MxV0NpMDdVeWNiWGM?oc=5",
+   "source": "奈良新聞",
+   "at": "2026-11-21T06:00+09:00"
   }
  ],
  "outage": [],
@@ -534,13 +534,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "中国軍事企業とつながりか エヌビディア問題の女性",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtUU1iQmRnbE9yaFBYR2gzTmQtTHpQakV4RmJiTzBvMG5wYkpCVEphMjhlTE03YjV5SEJvNnlicFJBdUJ2WE5pa1YwdmlkN2M0NXV4bHlFQkpJUFV1bkowUjZFbw?oc=5",
-   "source": "テレ東BIZ",
-   "at": "2026-11-21T16:00+09:00",
-   "topic": "中国・台湾"
-  },
-  {
    "title": "米軍の長期駐留負担でイラン攻撃論が拡大、トランプ氏は苦悩 : 国際 : 財経日報",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SZnV0TnNrdkZ3NnhXOHh6cVBLOXVuV21UdXppTU5EempVZjU0SHc1T1A5WEZuLVRQdXZqTlpNcjE0VXZFTUpidDhtVWZ2Z3B6OHMyVjVESElHR2F0anZKOFVucw?oc=5",
    "source": "재경일보",
@@ -588,6 +581,13 @@
    "source": "BBC",
    "at": "2026-11-21T11:12+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZVgyMTVXTmYwQWtCWVpfd1Q3ZUFPaGpwT0hmQ0tNdmVqT3d1ZTkwM25ReDJVX2cwV3lfRXdkYS1SZXh5Ykp1T3JrN3JjQTdWeE8tRjBCd0NHd0k?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-21T10:25+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
