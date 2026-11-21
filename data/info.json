@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:45+09:00",
+ "updated": "2026-11-22T06:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランがバーレーン攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2VwSHNxeVdVTkVScElxTHowWEN4YmdGOVNHQ0R3TlE3NWVyZlNqQURkbHlIei03cmc4QjJVdks4WU9qQ3NfdlpuMFRBcmdoZzlQT0dSN3N6YVVkZ0tvQXhTT09RZjdUSS03UFFkNy1DYjRSWF9VMEg3R1RDbWFQaFJlbXNncVpIdGfSAY8BQVVfeXFMT2dUa01LcWdtV19zYTJLUk1mTnlHZVhnR3lQTlJqNEFqZ2MtX3U2SnpQdUlEN0k4d0ZiNWUxVWlpOU1uQXhNQ1pkT1Uza1NEbm0wdDVKTmtJeGdKWW5vVmo2aHZmakt6UWpocE93UV9TT3IxblE3ZVdvWXpWU0FwSEFwZ3lxQ2RDTjNqRTF1TTg?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-22T05:50+09:00"
+    },
+    {
      "title": "トランプ氏「イランの核保有を防ぐ恒久的合意結ぶ」",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmlHX1RnWGlfZzJJc081YnByck5FZkZqVUNhaHZUaFl2ZVcyVERyMDhSalNUZDlFLUtpelZNQWJSczFWT1ZYdU9NS1YzaGpIRS1uRENLcEpST2lWM1ZjSzJMX2RmRjRVclBfUUxVMkZPM3dhYTdOSXgyR2JUdlNHajF2T1JkYkZJ?oc=5",
      "source": "조선일보",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTdMQ3hKSFA3Ynpfdi0xb3RtZUp3Y1FuUTlIWlVtTDFEbjNUejJNc2txUWc1dHk4QVQ0cnUzVGFKYjFCTE0ybUExWUdZSUYtbFQzdkJNT2Z0X0lYYWIyV0Q1V01VTmVkRWFVS3BEUS1CMUtVU3BTREhvLWZndm05TzhEZjNzME1x?oc=5",
      "source": "조선일보",
      "at": "2026-11-21T16:46+09:00"
-    },
-    {
-     "title": "米軍の長期駐留負担でイラン攻撃論が拡大、トランプ氏は苦悩 : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SZnV0TnNrdkZ3NnhXOHh6cVBLOXVuV21UdXppTU5EempVZjU0SHc1T1A5WEZuLVRQdXZqTlpNcjE0VXZFTUpidDhtVWZ2Z3B6OHMyVjVESElHR2F0anZKOFVucw?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-21T15:20+09:00"
     }
    ]
   },
@@ -174,10 +174,10 @@
      "at": "2026-11-21T06:00+09:00"
     },
     {
-     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-20T18:24+09:00"
+     "title": "隠れた標的は日本？米中ロ首脳会談と中国が狙う世界秩序（Wedge（ウェッジ））",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakJlejJzUmlDRUtUOWszZkNtMVhiNElqbGxkaVZUSDMtRmRrTGFUTFVnQkw4V0xaeWNQUHQ3dHdYbTlUWHRFcFBhZ3dBN2YxbWMtNkdSUEMteE1hN1JYVkZYSFpQVGQ1aExiRGtXMnpPRHk2c1BtNzFuZDViWnFfNGFFdGkzcGpl?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-21T05:00+09:00"
     }
    ]
   },
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア商船、無人機攻撃で損傷 フィンランド沖 軍と関連 ウクライナの攻撃か",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9scTE0dmxCUmlNeFAydDJBUFBtYm14Q1FZOEFCbV9ReUZ6OGlDY3MxaGxjRXRuZWRORDY1NnJyY2JvQ2NEcll1Z0dEVGZZSVVvUnpiN1d5ZDc2Wno4bV9nWU92b0hRUVRJSHdCUWJIVlZxdVZza2c?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-22T05:51+09:00"
+    },
+    {
      "title": "ロシア巡航弾落下の対応協議へ　NATO意思決定機関",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1B1WUxhWUpFMFFmNlp2aTlnVl95MmRtdDIxaEtIb2Npc0dTX3pnWm9SNHlwcHdydnoySmNaYmZmME54UjVaczUtNVByaXlMWW5TcVB3N0hnMW51eTdXdjdzQkdqVkNrMXlpXzdaOUFCNmJJenhaS0szNU5VSHpFckxSaEdveEw5TTVjOXJOYnFoZ0N0dWpNV3A0bi1Qa1JCQ2ZHTWUtRXNGa21XNVZMSzBwRHpPTUU2RjR3eGZzbmduTWZqQ3NUUWRZR19FTDVBU2xBOTF5c1JxcGlqVWJF0gGPAUFVX3lxTE9SMVRVQ2JLOGZ3cGhNZy1TRXgydlNXUlk1MDBsR01YTWd3M3ZuVDBrQk9Bc3FmUEF5Z29RV0p5a3FxaTRCNGRTR3FiNWoySm9BM1BkVUVkNnA3R3IyR3F6aGJzMTNWN3FoTm8xNTFtS3JITEoyc3hJUHpSNW5qck54V0tKNktFNEVZN3JTMEFn?oc=5",
      "source": "ｄメニューニュース",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0lsbXhnY0l1S2JoWDJxT01OYTQtQjNLOUFYbE1EMXlMN0JqR3JRVzZleV95dlM4d0kwX21CaHJ2T0JxMnFIZ0NhM0FZUDhXNnZDV1F4X2lWRFY0OGJTbzA5YkFzSkViOVk0NUstdlEwaFlkcmxFUHdZM0pOQVEybjhuSXY0ZlEwdW9TRURRaHZPNy02LXNFT011ZXIyOTVxZWMxQnZET0g?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-21T20:00+09:00"
-    },
-    {
-     "title": "ウクライナ南部クリヴィー・リフでロシア軍攻撃により２名死亡、６０名負傷",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdExCSVQxbkU4YUhpdEZuV0kwcm1ITWd4SHJ4bzRIOW04cFZyc09QWERUemRDSmJ0NjVPZGVPU2pkX194S0daSXUxN1BZYjlUTGxZNnpTUXE3UDUweTNfSU5mbS14NE1LRlpaX0dfczRUUGpRNWdzU3Rhb1J1bEFXd3c0R3Jhb21VUVJqWmhTTXNEWWJ4YUhpM1EzZ3kxNUhYMEtOa09RVFVBQWZtLVlWYi1yVWktdWtEWk5Vd0I4Tk9wLUpS0gHKAUFVX3lxTE1RUHVnNVg0QWdCU01wRC1pd29SSzlTaHJlVkN0V2lyekVRYXJCeUg0TkRqT1RvMlFzZ3lRRHNiZHdPamJORGtfajd0SjdRV0l5WVRLZTJNUU4zLTlHRUdBVVotSFozRXkzME5oVk52c2gyOXp0c0pPR3lYcXc4Q1YtTHNLVXpFZHVhdFVIdnY4TmpUd2tCSlJtdEZfREF3YWtZaXU1YUpDZFR3TkNvc19UNDBQeUJFUXlZeV9PX3Z5aG1zTzlHYzdfVmc?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-21T19:55+09:00"
     }
    ]
   },
@@ -323,9 +323,9 @@
   },
   {
    "title": "｢南海トラフは30年以内に80%の確率｣を京大名誉教授が分かりやすく言い換えた\"覚えるべきたった2つの項目\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZWlDYllaUHJlYzYySG0tSHdpbngwVGpabTB5em9vYmtUNHpPcHZhTEpOMl9wbThYbjRBVkM5TFYyWDU5MzFxeTBoVEVmS1B6UHZnN25EdVQ0NGs?oc=5",
-   "source": "PRESIDENT Online（プレジ",
-   "at": "2026-11-21T23:14+09:00"
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZRHcyZDJ1ZVVOQUs0bWVzQlFUOXNIci16NUVZMmh5ZmlTTk9HbkY4OEdqa3VkQ3RJVDRldmZ4SWdUTlR6d01JUkdIQl93SVBoekF4ZzlkQ1hNLS15QzByRUFoUlBiaUsxUlh0T2dDb2dIam5IR2x0RzBHREIxNkU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-21T19:15+09:00"
   },
   {
    "title": "避難所運営「ゲーム形式」で攻略？ 南海トラフ被災後へ、高岡高校と土佐電子が考えた",
@@ -334,16 +334,16 @@
    "at": "2026-11-21T17:21+09:00"
   },
   {
+   "title": "夜間の地震・津波を想定した避難訓練 懐中電灯で足元を照らしながら高台の避難所へ 南海トラフ巨大地震で最大16mの津波が予想される三重・大紀町",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWblhYWmRZbGpxaDFtQVJWb0Q1aTFEOElUQURmWWd6TUtKRlVSZ0NlRHROazlDN1BuSlNtY3lVdWJ5OHQ3UkxJaENQN2xPYW9mUldwelZ0RmVvdWhhU3lv?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-21T14:38+09:00"
+  },
+  {
    "title": "南海トラフ地震の支援体制を確認 小城市、派遣先の大分県国東市を視察 市役所で報告会",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80dWJvaklKT3dGTHB1NHB3N0RBWXNKWDJ2ZVdyMmdXanQ1MWk4Yk9LTEEzX05PXzRnM2tyQ3NsMXJiZEtOVG5IVjBWa1dJUERia2NCcWxn?oc=5",
    "source": "佐賀新聞",
    "at": "2026-11-21T07:45+09:00"
-  },
-  {
-   "title": "奈良県下市町で総合防災訓練 町民ら500人が連携確認 南海トラフ地震を想定 陸自など20団体・機関が協力、避難所開設や運営体験",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHc01nRnhNTS1JcnVDdTNnMmlySUtXNEtkMkJ6MkROU3VMX3hrdUhLRkl3VW5icU84ZmQ2V3hGUEpRV1NPSmF3dUk1WlRUSGJFZm5SaUQxY0N4TzZDMDRj?oc=5",
-   "source": "奈良新聞",
-   "at": "2026-11-21T06:00+09:00"
   }
  ],
  "outage": [],
@@ -450,6 +450,20 @@
  "osaka": [],
  "world": [
   {
+   "title": "ロシア商船、無人機攻撃で損傷 フィンランド沖 軍と関連 ウクライナの攻撃か",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9scTE0dmxCUmlNeFAydDJBUFBtYm14Q1FZOEFCbV9ReUZ6OGlDY3MxaGxjRXRuZWRORDY1NnJyY2JvQ2NEcll1Z0dEVGZZSVVvUnpiN1d5ZDc2Wno4bV9nWU92b0hRUVRJSHdCUWJIVlZxdVZza2c?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-22T05:51+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "イランがバーレーン攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2VwSHNxeVdVTkVScElxTHowWEN4YmdGOVNHQ0R3TlE3NWVyZlNqQURkbHlIei03cmc4QjJVdks4WU9qQ3NfdlpuMFRBcmdoZzlQT0dSN3N6YVVkZ0tvQXhTT09RZjdUSS03UFFkNy1DYjRSWF9VMEg3R1RDbWFQaFJlbXNncVpIdGfSAY8BQVVfeXFMT2dUa01LcWdtV19zYTJLUk1mTnlHZVhnR3lQTlJqNEFqZ2MtX3U2SnpQdUlEN0k4d0ZiNWUxVWlpOU1uQXhNQ1pkT1Uza1NEbm0wdDVKTmtJeGdKWW5vVmo2aHZmakt6UWpocE93UV9TT3IxblE3ZVdvWXpWU0FwSEFwZ3lxQ2RDTjNqRTF1TTg?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-22T05:50+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシア巡航弾落下の対応協議へ NATO意思決定機関",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsU2Z0aEhnMjhrWWVlTEcxTlEtNDZ4MzI0dS13RDBuUm5SdGwtNkNYMGJPN0ZyN1RScVRLUE9obTRFRXp0d2xqR3FTeW1ESmFwQ3dybVJ6QUoyZw?oc=5",
    "source": "北海道新聞デジタル",
@@ -513,13 +527,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナ南部クリヴィー・リフでロシア軍攻撃により２名死亡、６０名負傷",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdExCSVQxbkU4YUhpdEZuV0kwcm1ITWd4SHJ4bzRIOW04cFZyc09QWERUemRDSmJ0NjVPZGVPU2pkX194S0daSXUxN1BZYjlUTGxZNnpTUXE3UDUweTNfSU5mbS14NE1LRlpaX0dfczRUUGpRNWdzU3Rhb1J1bEFXd3c0R3Jhb21VUVJqWmhTTXNEWWJ4YUhpM1EzZ3kxNUhYMEtOa09RVFVBQWZtLVlWYi1yVWktdWtEWk5Vd0I4Tk9wLUpS0gHKAUFVX3lxTE1RUHVnNVg0QWdCU01wRC1pd29SSzlTaHJlVkN0V2lyekVRYXJCeUg0TkRqT1RvMlFzZ3lRRHNiZHdPamJORGtfajd0SjdRV0l5WVRLZTJNUU4zLTlHRUdBVVotSFozRXkzME5oVk52c2gyOXp0c0pPR3lYcXc4Q1YtTHNLVXpFZHVhdFVIdnY4TmpUd2tCSlJtdEZfREF3YWtZaXU1YUpDZFR3TkNvc19UNDBQeUJFUXlZeV9PX3Z5aG1zTzlHYzdfVmc?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-21T19:55+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "米中首脳会談、両国の「安定」へ行動計画策定で合意…習氏は台湾問題に関与しないよう求めたか（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdmZIMWRhendlOUJoWVdVN1diN3J1WXpjOVROR3gxSGlRV1p6V21OMms3dWxITXBuNEFSMXZTSWJXQTJCV1NEdDZCUlJYdHNtX3daMEtKbE1VVEZqRlA3WmtSTWd0eEpRQjZ3TVVmRHhpTFVMLVpQdlBkS3VaTlE?oc=5",
    "source": "Yahoo!ニュース",
@@ -545,13 +552,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTdMQ3hKSFA3Ynpfdi0xb3RtZUp3Y1FuUTlIWlVtTDFEbjNUejJNc2txUWc1dHk4QVQ0cnUzVGFKYjFCTE0ybUExWUdZSUYtbFQzdkJNT2Z0X0lYYWIyV0Q1V01VTmVkRWFVS3BEUS1CMUtVU3BTREhvLWZndm05TzhEZjNzME1x?oc=5",
    "source": "조선일보",
    "at": "2026-11-21T16:46+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "米軍の長期駐留負担でイラン攻撃論が拡大、トランプ氏は苦悩 : 国際 : 財経日報",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SZnV0TnNrdkZ3NnhXOHh6cVBLOXVuV21UdXppTU5EempVZjU0SHc1T1A5WEZuLVRQdXZqTlpNcjE0VXZFTUpidDhtVWZ2Z3B6OHMyVjVESElHR2F0anZKOFVucw?oc=5",
-   "source": "재경일보",
-   "at": "2026-11-21T15:20+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -613,10 +613,10 @@
    ],
    "items": [
     {
-     "title": "イラン、米F16攻撃と主張　米軍は否定",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNendQTFdnLUpybDh3YmJTNzhYWUV1LUFCLXRwdXNXaTRkdkJEeW5VdnhvSlRad2paeEJ1UmhENDdQX2dqYWxpX1pTY25BeWE5Z1hJZUhyclJkM1FUTF9Rc3hoT3JOQVNMX0wyQzhHU1JGVlVWVDZCaUdxclYyT29KSkNzSTREOGl20gGcAUFVX3lxTE1DaE00MzJtTlJHVlNRY0dzMlhxRTl2UlBaelBTZjVNWnFYXzRpd21JNnRDSFFCMFNRRzh0Y1I3aU5vb0dfdGFPcVM3cmRRVlo5REdVWTNZZXBoYzJiNElXMFBpSXp2cGFDT2JwNjNNUWhFOTJkUXJKNkVjYTN0dFpjTXRhV2huWnFZTW1TUUpPWlJtMElBeXc2ckdtNg?oc=5",
-     "source": "Chosunbiz",
-     "at": "2026-11-22T01:23+09:00"
+     "title": "イランがバーレーン攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2VwSHNxeVdVTkVScElxTHowWEN4YmdGOVNHQ0R3TlE3NWVyZlNqQURkbHlIei03cmc4QjJVdks4WU9qQ3NfdlpuMFRBcmdoZzlQT0dSN3N6YVVkZ0tvQXhTT09RZjdUSS03UFFkNy1DYjRSWF9VMEg3R1RDbWFQaFJlbXNncVpIdGfSAY8BQVVfeXFMT2dUa01LcWdtV19zYTJLUk1mTnlHZVhnR3lQTlJqNEFqZ2MtX3U2SnpQdUlEN0k4d0ZiNWUxVWlpOU1uQXhNQ1pkT1Uza1NEbm0wdDVKTmtJeGdKWW5vVmo2aHZmakt6UWpocE93UV9TT3IxblE3ZVdvWXpWU0FwSEFwZ3lxQ2RDTjNqRTF1TTg?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-22T05:50+09:00"
     },
     {
      "title": "北朝鮮ミサイル監視も担う情報収集衛星 H3ロケット11号機で来年1月打ち上げ 打ち上げ業務がJAXAから三菱重工へ コスト削減と商業衛星の受注拡大がねらい（FNNプライムオンライン）",
@@ -625,10 +625,10 @@
      "at": "2026-11-21T08:30+09:00"
     },
     {
-     "title": "北欧の海でロシア貨物船が攻撃され炎上漂流　「戦争が近くに…」フィンランド首相",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVB2d3o3V2VtV1VtTzRsamFJRUN4RC1Ud1IyMG82ZVh0S2g0MU5ZcXVJOS1CNFdpU281Um5Db3h3Q1VjR3FmQUM1cFZDYzRaWXJqbGFlQnJ2dlk5azBrb2NrVjFfV0FMQkNJcGFlSkJLcnlwTk1lV0kzamc2dWxoV0psYmU5d9IBiwFBVV95cUxPeVgxOEVLZEx5YlZjWUFqWks2MkRRcVczZzUzWU82NlhMTzhrU3htRk1BeDNIMkpXbi1GbUY1Tkc5cFAxVzJVSURTUmFTdFFpbXpqbDZ3ckJIOWdYMHNNak50YnpFUUtWcGRLNkpoYWxyX2FpZXE2bmtWdllQZ2F1b3BtS2hOekJqc0gw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-22T03:57+09:00"
+     "title": "ロシア商船、無人機攻撃で損傷 フィンランド沖 軍と関連 ウクライナの攻撃か",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9scTE0dmxCUmlNeFAydDJBUFBtYm14Q1FZOEFCbV9ReUZ6OGlDY3MxaGxjRXRuZWRORDY1NnJyY2JvQ2NEcll1Z0dEVGZZSVVvUnpiN1d5ZDc2Wno4bV9nWU92b0hRUVRJSHdCUWJIVlZxdVZza2c?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-22T05:51+09:00"
     }
    ]
   }
