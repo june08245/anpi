@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:00+09:00",
+ "updated": "2026-11-22T05:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-22T05:00:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-22T04:03:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -79,16 +89,6 @@
    "at": "2026-11-21T06:22:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-21T04:43:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.8",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -174,10 +174,10 @@
      "at": "2026-11-21T06:00+09:00"
     },
     {
-     "title": "ロシア軍爆撃機と哨戒機が与那国島・台湾間や対馬海峡を飛行（11月19日、Tu-95、Tu-142）",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6WUMxQnpIN2VleUY0NWNjRDk1OHJMQ2RiaVVsMmtYdGlYc0c2WGFVU21jdGpRTXA2Wmlxc3NxUmE3TUJoOWpkbUJFeVVqUVFuWmN4WU5Cd2JxajJT?oc=5",
-     "source": "J ディフェンス ニュース",
-     "at": "2026-11-20T21:20+09:00"
+     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-20T18:24+09:00"
     }
    ]
   },
@@ -228,10 +228,10 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "北欧の海でロシア貨物船が攻撃され炎上漂流 「戦争が近くに…」フィンランド首相",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85Ui1wbDk2VXFlZTdlbWtIQVdrTmdFUS1vNW5QT2hBWDg2YXlzUm1zMEpNT2NENm9jQ0tiMzZxaXNNeER1TDlreEJuRWZuamhDUkhSV0kwR19fc2FDME5XQ0Ftd2FCeUZtRTJpOFNYNjNGRjA5UF9GZ2l3?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-22T00:10+09:00"
+     "title": "北欧の海でロシア貨物船が攻撃され炎上漂流　「戦争が近くに…」フィンランド首相",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVB2d3o3V2VtV1VtTzRsamFJRUN4RC1Ud1IyMG82ZVh0S2g0MU5ZcXVJOS1CNFdpU281Um5Db3h3Q1VjR3FmQUM1cFZDYzRaWXJqbGFlQnJ2dlk5azBrb2NrVjFfV0FMQkNJcGFlSkJLcnlwTk1lV0kzamc2dWxoV0psYmU5d9IBiwFBVV95cUxPeVgxOEVLZEx5YlZjWUFqWks2MkRRcVczZzUzWU82NlhMTzhrU3htRk1BeDNIMkpXbi1GbUY1Tkc5cFAxVzJVSURTUmFTdFFpbXpqbDZ3ckJIOWdYMHNNak50YnpFUUtWcGRLNkpoYWxyX2FpZXE2bmtWdllQZ2F1b3BtS2hOekJqc0gw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-22T03:57+09:00"
     },
     {
      "title": "【詳細】ロシア ウクライナに軍事侵攻（11月21日の動き）",
@@ -283,7 +283,7 @@
     },
     {
      "title": "ロシアがデンマークで暗殺計画　当局阻止、制裁強化へ",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tS1BSdm10aEhDakIwZDNXRTBlWXVsaTlZZVlWVDRWbjhuWWkxbXhGWC1icUJRRWkxazRjRm5OVk1xYjAxZG9Wa0VSMzlIS19xb0xtNTVxN3ItVTQzMUg4VElTaFAyYy1rWGJPTXFrbnhUbUk50gF0QVVfeXFMTW1LUFJ2bXRoSENqQjBkM1dFMGVZdWxpOVllWVZUNFZuOG5ZaTFteEZYLWJxQlFFaTFrNGNGbk5WTXFiMDFkb1ZrRVIzOUhLX3FvTG01NXE3ci1VNDMxSDhUSVNoUDJjLWtYYk9NcWtueFRtSTk?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1ZlRHNGxSVklMOHNxV0JFdEtxdldZRm1XNEF2X0wwQ2kxVUswQ0Y4UU9HWG1iNFFiWUtJOEZ3MDZ6VlVLQkFNRjN0bEVvTU90STI3bl9LZXVhZlVZNXNHem9KZ3pVWGRnVUpyUXEwc9IBdEFVX3lxTE1tS1BSdm10aEhDakIwZDNXRTBlWXVsaTlZZVlWVDRWbjhuWWkxbXhGWC1icUJRRWkxazRjRm5OVk1xYjAxZG9Wa0VSMzlIS19xb0xtNTVxN3ItVTQzMUg4VElTaFAyYy1rWGJPTXFrbnhUbUk5?oc=5",
      "source": "Infoseek",
      "at": "2026-11-21T08:42+09:00"
     },
@@ -310,6 +310,18 @@
  ],
  "nankai": [
   {
+   "title": "〈生きるために 南海トラフ地震〉活断層地震 備え万全に",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XdzBpU2wxa1d0UkYwdDIwemJCNG1OYVB0UHFHVTVWVHM3bHdCS2RybUVrT3VEN04wTHMwS0NjcUM5aU5iNFZKR3g3VEl6Tjh6al9LckVxY1ZCcHFIcnY0?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-22T05:10+09:00"
+  },
+  {
+   "title": "国難級の災害に備え発足「防災庁」 緊急要請で求められること 南海トラフ・首都直下地震をどう乗り切る",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50cWtTNHhabGVaRTlPUXJXMlpkNDFBcHlMSHp1UW55RkVOeTBkLUc1TDJramNpMDJJRWJEVU5IWXNJb25RZnpCeGc4ejdOZ1lYbjdHNkhkekhobHFUbVNXWEFwbFkxZktSWTN6ODFn?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-22T05:02+09:00"
+  },
+  {
    "title": "｢南海トラフは30年以内に80%の確率｣を京大名誉教授が分かりやすく言い換えた\"覚えるべきたった2つの項目\"",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZWlDYllaUHJlYzYySG0tSHdpbngwVGpabTB5em9vYmtUNHpPcHZhTEpOMl9wbThYbjRBVkM5TFYyWDU5MzFxeTBoVEVmS1B6UHZnN25EdVQ0NGs?oc=5",
    "source": "PRESIDENT Online（プレジ",
@@ -332,18 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHc01nRnhNTS1JcnVDdTNnMmlySUtXNEtkMkJ6MkROU3VMX3hrdUhLRkl3VW5icU84ZmQ2V3hGUEpRV1NPSmF3dUk1WlRUSGJFZm5SaUQxY0N4TzZDMDRj?oc=5",
    "source": "奈良新聞",
    "at": "2026-11-21T06:00+09:00"
-  },
-  {
-   "title": "南海トラフ地震発生を想定 – 東日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjcmljVldiWlJISlhLSW5lRjR4UGJ5Y083Y0RHS1JtNG9lakt0cklFT1VuYXl5NU1IdllJUm5hVUhWY0loN2ZXZ041RS15WXctb3JuZE5jbFluc0Q3Y1E?oc=5",
-   "source": "東日新聞",
-   "at": "2026-11-21T00:03+09:00"
-  },
-  {
-   "title": "南海トラフ地震を想定 宮崎市で「脱出船」による傷病者搬送訓練を実施",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80WnZQVXJsZ3Ztbno5QmtaZzBPYXhPUS10emlwdzA4NUpqSlJjeDZnZDQ3ZDhOd3Z4bWx4YmZhbVhiR3JWRlZndUFpZGFIME9ESE5oeUxaczkwYnZyajF4RjcySVdOZWFUYzNIcDF2OWRRMmpxMW9pNHZ3WlY4VTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-20T19:25+09:00"
   }
  ],
  "outage": [],
@@ -399,6 +399,18 @@
    "at": "2026-11-21T14:04+09:00"
   },
   {
+   "title": "Peach、顧客情報899万件超が漏えい 氏名や住所、旅程も対象 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByQkV1V3Z3NVZLOFUtdW9aZ3VoeFJpLUZpRDJtRUlkUURhU0hwenlHcTVhd1U2YU5CNDN6V1BmcmJIVjdUZUhwX0tFSnJxNW1ZYVRtX1BqZ2xISnAzS3BGSDBxYXU2S05hY1h1b0llZk05cmFQQnN3VFU2N1ZZVVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-22T05:07+09:00"
+  },
+  {
+   "title": "GMOも被害のサイバー攻撃 AI悪用と対応策を知る10選",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUlQWDBMRG9vNmhYOXBIRUU4Vzl0MFo3V2Z0THEzNnhYaFlyZmUyQjRFWFA3OXZBTVdKSFJKQ1hTeWpFSDY4ZkcwUW5QSE13MHFfWmtWcGdIN24xMEMwUlJtOHJSUVFNMTVsa3lmS3JqbFhWUnlUOXdnblF1b2ZicDd1b0U5Nk43SktqUkNNU2c0Um1wdWhPUFVfY1lKZ2xSM1Z3QzZOSWp6eXhtbkc2ZUlR?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-22T05:00+09:00"
+  },
+  {
    "title": "サイバー攻撃 防止策を提供 セキュア社 半年無償",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5bEdIZjdnbzE0V3diQWZQQlRQX0JpSVVhc29hVnlKNjFuRzN4M1RwOU5tX3pFLTY5c1p3TlZpQTJLVl9aVXprNkhZOHA5TDJvQzBKSTJiczd2TTJlNWc?oc=5",
    "source": "沖縄タイムス社",
@@ -423,45 +435,33 @@
    "at": "2026-11-22T03:02+09:00"
   },
   {
+   "title": "情報漏洩・サイバー攻撃時代に資産はデジタルだけでいいのか？再注目される実物資産「アンティークコイン」 FPが解説",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10dWNnY2JaVW9iZzdOZWZtanl3bDlqZ3oxNjhHYmxzcE1yOEgwajFVZnM5MWdTMmhhcUkxU2laSklITXpFY1RKTExmb241TUlYNFJXM0duZUFvT19VU052Sk8wTld2X2djT21GVjFzWjRpQQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-22T02:10+09:00"
+  },
+  {
    "title": "FBIの犯罪情報データベースに不正アクセスか トランプ大統領「良くないことだ」（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ST2pyMzAtakpIMG5LdUcwNmI2bEx3amZzQ24yZDUwS21ZNjlQSmsxVFJWRTJ6SUlTZ0hkeDE4Tk41LXQ2YmpkRDJ0ZFlweWt4SFdES3poX0pycXM5alNUX2Q2VnU2OEtZWmpwRjdjbEVWZ1pDMW1DTlBNN0R4eEE?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-22T02:06+09:00"
-  },
-  {
-   "title": "「富岳」不正アクセス　認証情報４３０件流出　調査を続行｜四国新聞WEB朝刊",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XMnhQV19lUjBFOEFjMG5ObnlEUjRnVGQtdE8xNEptY0Y3OThKZUI5NFZfWUpRMGUtc3dZLW0wdThxM3NyaTk3WUNmYlV6N3A3QVBpVEpTc3JfUnVDZGZ1SkVXYk1ac1J5UFZwZGJmSjJoYXczVHlJ0gF8QVVfeXFMUEdMWlZoRGJFYzBtMXA4MUgtcV84YURYcVUzaGh5Tmc4Q3RjeVpLdmp2Q0M1LXRpb1FzbTZtOG85aW00b0FJN3kxaERJTHVZSGpTR3o1QzIwbjJEYkRYNWk3U01oN213LWx5U3EtLVNsVGE3dmIyaS05c3lBWA?oc=5",
-   "source": "四国新聞",
-   "at": "2026-11-21T22:21+09:00"
-  },
-  {
-   "title": "毎日新聞デジタル会員約14万人分の姓など漏えい KARTEへの不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xTGdmc1R1aDdhc3pJLTBZdTJ0LXlhSnJpRjRMQVl6RkhDMXVCMjd0ajRWUGJpRXpzTnlDeEUzdTBkQjh0VDNVc3hNQ0dqbmIxRFhEVEE5ZF9lZE1acF9tUUxyYmVKRHlEb1E?oc=5",
-   "source": "Media Innovation",
-   "at": "2026-11-21T21:22+09:00"
-  },
-  {
-   "title": "「六花亭」不正アクセス、クレジットカードの不正利用１件確認…客からの申し出により判明",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93N1M2dGczVEhfSXF5UGM0Z2ZtdlAzSEtUU2xIaHVDb2E2MGNjbTlTNTAwMGV0Q1k5WXVMUld6NmJRd2N6ZGlXVmhYR0V3QzdpOXo1MEdzbmhkalJqUnZUYnllMnRiZw?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-21T19:50+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "北欧の海でロシア貨物船が攻撃され炎上漂流　「戦争が近くに…」フィンランド首相",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVB2d3o3V2VtV1VtTzRsamFJRUN4RC1Ud1IyMG82ZVh0S2g0MU5ZcXVJOS1CNFdpU281Um5Db3h3Q1VjR3FmQUM1cFZDYzRaWXJqbGFlQnJ2dlk5azBrb2NrVjFfV0FMQkNJcGFlSkJLcnlwTk1lV0kzamc2dWxoV0psYmU5d9IBiwFBVV95cUxPeVgxOEVLZEx5YlZjWUFqWks2MkRRcVczZzUzWU82NlhMTzhrU3htRk1BeDNIMkpXbi1GbUY1Tkc5cFAxVzJVSURTUmFTdFFpbXpqbDZ3ckJIOWdYMHNNak50YnpFUUtWcGRLNkpoYWxyX2FpZXE2bmtWdllQZ2F1b3BtS2hOekJqc0gw?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-22T03:57+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "イラン、米F16攻撃と主張　米軍は否定",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNendQTFdnLUpybDh3YmJTNzhYWUV1LUFCLXRwdXNXaTRkdkJEeW5VdnhvSlRad2paeEJ1UmhENDdQX2dqYWxpX1pTY25BeWE5Z1hJZUhyclJkM1FUTF9Rc3hoT3JOQVNMX0wyQzhHU1JGVlVWVDZCaUdxclYyT29KSkNzSTREOGl20gGcAUFVX3lxTE1DaE00MzJtTlJHVlNRY0dzMlhxRTl2UlBaelBTZjVNWnFYXzRpd21JNnRDSFFCMFNRRzh0Y1I3aU5vb0dfdGFPcVM3cmRRVlo5REdVWTNZZXBoYzJiNElXMFBpSXp2cGFDT2JwNjNNUWhFOTJkUXJKNkVjYTN0dFpjTXRhV2huWnFZTW1TUUpPWlJtMElBeXc2ckdtNg?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-22T01:23+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "北欧の海でロシア貨物船が攻撃され炎上漂流 「戦争が近くに…」フィンランド首相",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85Ui1wbDk2VXFlZTdlbWtIQVdrTmdFUS1vNW5QT2hBWDg2YXlzUm1zMEpNT2NENm9jQ0tiMzZxaXNNeER1TDlreEJuRWZuamhDUkhSV0kwR19fc2FDME5XQ0Ftd2FCeUZtRTJpOFNYNjNGRjA5UF9GZ2l3?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-22T00:10+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "【詳細】ロシア ウクライナに軍事侵攻（11月21日の動き）",
@@ -625,10 +625,10 @@
      "at": "2026-11-21T08:30+09:00"
     },
     {
-     "title": "北欧の海でロシア貨物船が攻撃され炎上漂流 「戦争が近くに…」フィンランド首相",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85Ui1wbDk2VXFlZTdlbWtIQVdrTmdFUS1vNW5QT2hBWDg2YXlzUm1zMEpNT2NENm9jQ0tiMzZxaXNNeER1TDlreEJuRWZuamhDUkhSV0kwR19fc2FDME5XQ0Ftd2FCeUZtRTJpOFNYNjNGRjA5UF9GZ2l3?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-22T00:10+09:00"
+     "title": "北欧の海でロシア貨物船が攻撃され炎上漂流　「戦争が近くに…」フィンランド首相",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVB2d3o3V2VtV1VtTzRsamFJRUN4RC1Ud1IyMG82ZVh0S2g0MU5ZcXVJOS1CNFdpU281Um5Db3h3Q1VjR3FmQUM1cFZDYzRaWXJqbGFlQnJ2dlk5azBrb2NrVjFfV0FMQkNJcGFlSkJLcnlwTk1lV0kzamc2dWxoV0psYmU5d9IBiwFBVV95cUxPeVgxOEVLZEx5YlZjWUFqWks2MkRRcVczZzUzWU82NlhMTzhrU3htRk1BeDNIMkpXbi1GbUY1Tkc5cFAxVzJVSURTUmFTdFFpbXpqbDZ3ckJIOWdYMHNNak50YnpFUUtWcGRLNkpoYWxyX2FpZXE2bmtWdllQZ2F1b3BtS2hOekJqc0gw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-22T03:57+09:00"
     }
    ]
   }
