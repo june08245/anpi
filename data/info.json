@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:45+09:00",
+ "updated": "2026-11-21T09:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -186,6 +186,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "対話で北朝鮮の核開発阻止、なぜ夢に終わったのか",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TMVFad2libWljZ0tsVkcyOVZORC1OTXN3RHFoVW9ZRHhQOVN2ckF5bjNqb0FxUWRObnozN01xaFZyOEtyTFhXclpIeHBYYjFzUV9tWHVFcnM1QktQLU4tRl9UZ1ZHUQ?oc=5",
+     "source": "동아일보",
+     "at": "2026-11-21T08:55+09:00"
+    },
+    {
      "title": "北朝鮮ミサイル監視も担う情報収集衛星 H3ロケット11号機で来年1月打ち上げ 打ち上げ業務がJAXAから三菱重工へ コスト削減と商業衛星の受注拡大がねらい",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXdDVzSHhIUTN1WnRzMDczWEFja0R4azJkaUNVOFJoZ3hKd3MtOVNXdVJlUVdkdEswQ0d6dXFqVTIzbTZwWG4xa3p4VDRvUQ?oc=5",
      "source": "FNNプライムオンライン",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ETUpZUkxSaW9iNUJmdGNFZWVPLVd4N0p4cWR0eG16cVBEX0tNYUN2M21sWXFOYU1xMWxhSW92OE82LTNiV0c0MGFFTERRS1JrbUtuWHNWYkQ3SE1w?oc=5",
      "source": "J ディフェンス ニュース",
      "at": "2026-11-20T21:10+09:00"
-    },
-    {
-     "title": "鄭東泳（チョン·ドンヨン）統一部長官が20日、ミシェル·スティール在韓米国大使、ジェイビア·ブランソン在韓米軍司令官と初めて会い、韓半島情勢と対北朝鮮政策について意見を交わした。 韓国政府の対北朝鮮政..",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ja2psYXdSSGtaYWJhRkk5TlFOMEF6SG1DVEZ4VkNUX1dNVUE2WGtHdFRORFNxV3BEekp6ckstOE1oM3Z1OUNBNUhzeGxxODdMM3E0?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-20T19:55+09:00"
     }
    ]
   },
@@ -240,28 +240,28 @@
      "at": "2026-11-21T08:21+09:00"
     },
     {
-     "title": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yM3c2ZGpGMGZraGhZUzBVOEdWZlhJME1aM2wtQV94OHpCcURVc0tpNjNyTi1NOU1tTV9tSWRDYWFWdmZoSmI4TjY3ajlManZuN0oydlFVNS1LQ0NqOGxaVnBGOUpTT2k1SFR3V0NsTUFRNVFwLU82S0l3?oc=5",
-     "source": "テレ朝NEWS",
-     "at": "2026-11-21T07:57+09:00"
-    },
-    {
      "title": "ポーランド、ウクライナ国境に近い南東部にミサイルなど3発落下したと発表 “ロシアによるものだ”と厳しく非難",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01djNWV1ZENkI3RExfRmd1TEkyZHZwZ0o5dTlydWd2bWRsYWFRbjczZ2I1TllQWVEzdnFZTi11eXhqTkY0Nm4wOVZtNlkzbVZYdzluYlFpVlRGaDlxcW53VEtjSlRTamp6VVQ0dzdHbmRaM0hVX3k4V3AtSEptTmM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-21T07:34+09:00"
     },
     {
-     "title": "ウクライナの首都など各地でロシア軍による大規模攻撃 8人死亡、約30人負傷（2026年11月20日掲載）｜日テレNEWS NNN",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEg5b1pPbklBTFJNd3Q5Vlp1emFzcldscW0tY0M0bWJfVEFVbmhzb2NmRzk5OWVZZmZhYVAxUmxTRDJRUXFyTVk4ZGlnZFR6RDJzRTFuWEQtd2x5Vmlkdko1QjBSS3Z4M2E3aG82ak9FMklWZnVLeF9XUUZWX3ByQWVVTmE?oc=5",
-     "source": "日テレNEWS NNN",
-     "at": "2026-11-21T07:21+09:00"
+     "title": "ウクライナの首都など各地でロシア軍による大規模攻撃 8人死亡、約30人負傷",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xSnEwSkt1QXBVQkQ5cU1HTGVVNU5kcGxJTnAwMmxvOGs2SXdveXRVb3FpTHozTTZER3BSZ2FiY3pOOTVuVUxWd1dwMmFOVVZFN2dubS1aS3dlclB0eE9Wd2tKSGFubTdrSXRHWVRn?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-21T07:22+09:00"
     },
     {
      "title": "ロシア軍のキーウ攻撃でオーストリア・オランダ大使館が損傷 続く大規模攻撃で欧州の緊張拡大",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbG5FVmc3ekJwSFc4Y1RaVzF5dGdjUmhrMHFkcUtNUjNFQUl0bDZ2dnlRbWo4OEZCb3hLbzlyRzl3TjhVYVNicU5BMlN5WkpiRUFB?oc=5",
      "source": "東京報道新聞",
      "at": "2026-11-21T07:16+09:00"
+    },
+    {
+     "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMGpnZUNzMmlFQ0hLeWM0QURmc0Q1ZVhiZVhDcGlzOXlUaVhEdXRkLWZ1QTJGZ3o1Ri1EdlBnajhaTTRBanlCQW9KUC1xUjFRY2F1dlR6bmdEblpiVm01U0lNX3ZTR2lObmUzUV9NRHdsWFNNeDA3bVUtQWR3ZDA?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-21T07:13+09:00"
     }
    ]
   },
@@ -270,10 +270,16 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難 ＮＡＴＯ支援要請へ | ロイター",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXo3al8yZGNyR2ZfYm5tS2FzXzE1VUxnWDJUdFpablhwTzFWSmRZdHZJdXVNNjlYVlVwYl91VlljcEFuQ1EzVmpFVVo5UnlmR0pLZ2FBcWI2ZE5yTWhDYXhycnhjMmJQd3A3MHVoaFkwRzV5emJLM0ZOTVhFckdBRkRHb2d3QQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-21T02:10+09:00"
+     "title": "ロシアがデンマークで暗殺計画　当局阻止、制裁強化へ",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1ZlRHNGxSVklMOHNxV0JFdEtxdldZRm1XNEF2X0wwQ2kxVUswQ0Y4UU9HWG1iNFFiWUtJOEZ3MDZ6VlVLQkFNRjN0bEVvTU90STI3bl9LZXVhZlVZNXNHem9KZ3pVWGRnVUpyUXEwc9IBdEFVX3lxTE1tS1BSdm10aEhDakIwZDNXRTBlWXVsaTlZZVlWVDRWbjhuWWkxbXhGWC1icUJRRWkxazRjRm5OVk1xYjAxZG9Wa0VSMzlIS19xb0xtNTVxN3ItVTQzMUg4VElTaFAyYy1rWGJPTXFrbnhUbUk5?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-21T08:42+09:00"
+    },
+    {
+     "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難　ＮＡＴＯ支援要請へ",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzdqNmZfX1pkYXNSaUNIRmdrcll6aG1nY21IWjMtbC1TUjlyX2ZYMTUwRjVHUTN3UHVvUmlQbmRMYS1lSlFvRDNwVEZ6WTgwRVBOTWFOS0VrckNVN1hJdlY4amNvRHVCTkFWbFd5ekRkcDZkanBHS0N5RndZRzRyUE1KOEVaZ03SAYMBQVVfeXFMTXdfMjRRdndFRjVMelpOb3RVVDA3R1hnNXZ5TExUaXpGYTlyQWVPc0ZFbnZjejl5akFqc0tiQ1JuNC1zY05xb19CS19MTXFPU2VFUGxEcF93LTkzYTdrcWMzc2ZMUzNOYXp2TTh4NW51cHludkJycGJrOHJISHlDSk0tc1E?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-21T02:26+09:00"
     },
     {
      "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし",
@@ -298,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGdRb1hzWUlKaHRveXdZb0FiZGRmZloyTFRiSTZpUERpanVNQlZtb1ZNUlFKUEpJTXJuYVIwOGZ2U3laRzB5bGk5cmJhbmxhdUtibklwNG1NRlFCVm4wZ0J4VHJKWDd2LVlENVNsaW5hZk5oaFRsRDZmaGYxV2tDckNoamQwcElneTNOY25HZWZ1UzN5QTdLdkkzZDdmRlVLYVNGZmpmRWdjNmpMc0E?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-20T18:11+09:00"
-    },
-    {
-     "title": "クシュナー氏「ロシアはNATOのような安全保障を容認すると思う」米中ロ会談後発言",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eUdjWkFDOTd4T0loaGxhcU1BUDBaUy1NdjhfeFVYaGx4SnM2ZW5nekZodWxYeE1FVEtMTlFqM19xdVgxOGVjYVFtQXZrY19xRFI2d3JLZnJFV1U?oc=5",
-     "source": "ABEMA",
-     "at": "2026-11-20T13:31+09:00"
     }
    ]
   }
@@ -340,10 +340,10 @@
    "at": "2026-11-20T19:15+09:00"
   },
   {
-   "title": "香川県丸亀署が離島で南海トラフ地震を想定した訓練行う",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PSGZfSy1CM2JvaVhhX184cW5MVlBXYVgxNlZ4UEc4bV91UU45RVJpTEU0aFYxTUVWS0lUNnNBc0ZjUWd0eF93b0d3QjNvdGd2LTZMRmFTQTZpOVU?oc=5",
-   "source": "日刊警察",
-   "at": "2026-11-20T10:30+09:00"
+   "title": "愛知で約30年ぶりの震度5強 南海トラフ地震評価検討会｢特段の変化なし｣ 防災庁｢水やトイレなど日頃の備えを｣",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MT2lLWEFSY1Fxemp0RS1lYU4xREt6emJIV2lhZ1VJNzFwOE9WdzBGS3JpR2NZbUhxUDhLRkw2cXhtMFNMSWc4czhrVC1iSFl5OFhtOFJwNDJqamZhUnNZ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-20T12:33+09:00"
   }
  ],
  "outage": [
@@ -366,12 +366,6 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUC1YX1lNNWgwc3UtMWRObHJiV25BZWxudXZCVUFrbUFrYllXS2pscjZPRTI1YU5qWDh1VXBIV2hUeGtNQVVodGJJbkxWdjJzQXk5VEdVZU1yQm5FbmNISFZlNmtiaTRRZmlQRlBaTkh2TXdubF9KaXNKUWJFNUprQ3plbkJTYjY0YWJGRmhxLVNzMFJmOFU3bEtyTTZhQ0JBTm5PRHBWVQ?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-20T13:14+09:00"
-  },
-  {
-   "title": "米国「船舶60隻など5500個のイラン標的打撃…弾道ミサイル工場も」",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUZvZnpWUXlYWGpNQThjRTlqWVNQa3habzlzWjF6c3EwMl9ydFhRbTZRSXdaaHpZSmxGTnRhbHpVREtiZmV0a3FfRVFvWTRpSEhNZFFYSG1iOHdGOGYwRGpyZ0FiallqQTFUbi1DZ3IwVVJpVFByZGlTTTFkS2RSMFpsa0hVdw?oc=5",
-   "source": "中央日報",
-   "at": "2026-11-20T10:48+09:00"
   },
   {
    "title": "暫定情報によると、ロシアはウクライナに80発の巡航ミサイルと最大20発の弾道ミサイルを発射 - イフナト",
@@ -482,6 +476,20 @@
  ],
  "world": [
   {
+   "title": "対話で北朝鮮の核開発阻止、なぜ夢に終わったのか",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TMVFad2libWljZ0tsVkcyOVZORC1OTXN3RHFoVW9ZRHhQOVN2ckF5bjNqb0FxUWRObnozN01xaFZyOEtyTFhXclpIeHBYYjFzUV9tWHVFcnM1QktQLU4tRl9UZ1ZHUQ?oc=5",
+   "source": "동아일보",
+   "at": "2026-11-21T08:55+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシアがデンマークで暗殺計画　当局阻止、制裁強化へ",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1ZlRHNGxSVklMOHNxV0JFdEtxdldZRm1XNEF2X0wwQ2kxVUswQ0Y4UU9HWG1iNFFiWUtJOEZ3MDZ6VlVLQkFNRjN0bEVvTU90STI3bl9LZXVhZlVZNXNHem9KZ3pVWGRnVUpyUXEwc9IBdEFVX3lxTE1tS1BSdm10aEhDakIwZDNXRTBlWXVsaTlZZVlWVDRWbjhuWWkxbXhGWC1icUJRRWkxazRjRm5OVk1xYjAxZG9Wa0VSMzlIS19xb0xtNTVxN3ItVTQzMUg4VElTaFAyYy1rWGJPTXFrbnhUbUk5?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-21T08:42+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "北朝鮮ミサイル監視も担う情報収集衛星 H3ロケット11号機で来年1月打ち上げ 打ち上げ業務がJAXAから三菱重工へ コスト削減と商業衛星の受注拡大がねらい",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXdDVzSHhIUTN1WnRzMDczWEFja0R4azJkaUNVOFJoZ3hKd3MtOVNXdVJlUVdkdEswQ0d6dXFqVTIzbTZwWG4xa3p4VDRvUQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -517,13 +525,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yM3c2ZGpGMGZraGhZUzBVOEdWZlhJME1aM2wtQV94OHpCcURVc0tpNjNyTi1NOU1tTV9tSWRDYWFWdmZoSmI4TjY3ajlManZuN0oydlFVNS1LQ0NqOGxaVnBGOUpTT2k1SFR3V0NsTUFRNVFwLU82S0l3?oc=5",
-   "source": "テレ朝NEWS",
-   "at": "2026-11-21T07:57+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "トランプ氏、米副大統領に「不満ない」＝イラン作戦が敗因発言で",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91VUNKRXZXMTdxM1htR2paVUJMRXZjNS1rMThCeWt4eTFJRl9pUml4Y2ZXejlIVU85VDVtUk5tZWhhdFFYM3kxc054QVYtTU80TVI3UFhHcl9JNVhnTVhr?oc=5",
    "source": "Excite エキサイト",
@@ -545,10 +546,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ウクライナの首都など各地でロシア軍による大規模攻撃 8人死亡、約30人負傷（2026年11月20日掲載）｜日テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEg5b1pPbklBTFJNd3Q5Vlp1emFzcldscW0tY0M0bWJfVEFVbmhzb2NmRzk5OWVZZmZhYVAxUmxTRDJRUXFyTVk4ZGlnZFR6RDJzRTFuWEQtd2x5Vmlkdko1QjBSS3Z4M2E3aG82ak9FMklWZnVLeF9XUUZWX3ByQWVVTmE?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-21T07:21+09:00",
+   "title": "ウクライナの首都など各地でロシア軍による大規模攻撃 8人死亡、約30人負傷",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xSnEwSkt1QXBVQkQ5cU1HTGVVNU5kcGxJTnAwMmxvOGs2SXdveXRVb3FpTHozTTZER3BSZ2FiY3pOOTVuVUxWd1dwMmFOVVZFN2dubS1aS3dlclB0eE9Wd2tKSGFubTdrSXRHWVRn?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-21T07:22+09:00",
    "topic": "ロシア"
   },
   {
@@ -556,6 +557,13 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbG5FVmc3ekJwSFc4Y1RaVzF5dGdjUmhrMHFkcUtNUjNFQUl0bDZ2dnlRbWo4OEZCb3hLbzlyRzl3TjhVYVNicU5BMlN5WkpiRUFB?oc=5",
    "source": "東京報道新聞",
    "at": "2026-11-21T07:16+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMGpnZUNzMmlFQ0hLeWM0QURmc0Q1ZVhiZVhDcGlzOXlUaVhEdXRkLWZ1QTJGZ3o1Ri1EdlBnajhaTTRBanlCQW9KUC1xUjFRY2F1dlR6bmdEblpiVm01U0lNX3ZTR2lObmUzUV9NRHdsWFNNeDA3bVUtQWR3ZDA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-21T07:13+09:00",
    "topic": "ロシア"
   },
   {
@@ -573,10 +581,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難 ＮＡＴＯ支援要請へ | ロイター",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXo3al8yZGNyR2ZfYm5tS2FzXzE1VUxnWDJUdFpablhwTzFWSmRZdHZJdXVNNjlYVlVwYl91VlljcEFuQ1EzVmpFVVo5UnlmR0pLZ2FBcWI2ZE5yTWhDYXhycnhjMmJQd3A3MHVoaFkwRzV5emJLM0ZOTVhFckdBRkRHb2d3QQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-21T02:10+09:00",
+   "title": "ポーランド、ロシアの領空侵犯を「挑発」と非難　ＮＡＴＯ支援要請へ",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzdqNmZfX1pkYXNSaUNIRmdrcll6aG1nY21IWjMtbC1TUjlyX2ZYMTUwRjVHUTN3UHVvUmlQbmRMYS1lSlFvRDNwVEZ6WTgwRVBOTWFOS0VrckNVN1hJdlY4amNvRHVCTkFWbFd5ekRkcDZkanBHS0N5RndZRzRyUE1KOEVaZ03SAYMBQVVfeXFMTXdfMjRRdndFRjVMelpOb3RVVDA3R1hnNXZ5TExUaXpGYTlyQWVPc0ZFbnZjejl5akFqc0tiQ1JuNC1zY05xb19CS19MTXFPU2VFUGxEcF93LTkzYTdrcWMzc2ZMUzNOYXp2TTh4NW51cHludkJycGJrOHJISHlDSk0tc1E?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-21T02:26+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -606,20 +614,6 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-20T21:41+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "欧州連合（EU）の外交責任者カヤ・カラス氏は、キエフに対するロシアの攻撃を非難し、EU駐在ロシア大使の召喚を発表",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJXOVBqZHJFY3lzLV9FeU9GQ1pVMzJTbVROdmROclVlczhCczNYbXVhM2lTTVREdnFTNkt1OHZUX214aERZSUpSanoxQy14eEt6bmpHX3AtOWpNaXZLQ0gxT0ZleFZjZGhrdTBTWmRvVlFwY3N1eEtVUmlSTlVvcDNWR0ZiVXhpS0Z5VHM1cDNqcDdabzY5M2NULUFvU28wZnZnNzhpck0zMzN2OGZPaW1OOGpRQQ?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-20T21:23+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "カナダ海軍フリゲートが北朝鮮籍船舶の「瀬取り」を警戒監視 外務省発表（9月下旬～11月上旬）",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ETUpZUkxSaW9iNUJmdGNFZWVPLVd4N0p4cWR0eG16cVBEX0tNYUN2M21sWXFOYU1xMWxhSW92OE82LTNiV0c0MGFFTERRS1JrbUtuWHNWYkQ3SE1w?oc=5",
-   "source": "J ディフェンス ニュース",
-   "at": "2026-11-20T21:10+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -641,7 +635,7 @@
     "イラン・アメリカ：「攻撃」1件",
     "中国・台湾：「侵攻」1件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「攻撃」「報復」6件",
+    "ロシア：「攻撃」「ミサイル」6件",
     "欧州・NATO：「攻撃」「軍事衝突」3件"
    ],
    "items": [
