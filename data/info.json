@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-21T19:45+09:00",
- "errors": [],
+ "updated": "2026-11-21T20:00+09:00",
+ "errors": [
+  "outage"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -132,10 +134,10 @@
      "at": "2026-11-21T09:24+09:00"
     },
     {
-     "title": "イラン、外交で米との戦争終結望む 仲介者通じ連絡継続＝外相",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0pDQm1GdlhuYzV1WnltVHQxQ1JmejMwX05SelFEdkFnTUVXSmVrbDlESDJzQWxSa1BZUUJhRnUwcjBJMk1OLS15X3QyQVZLYk1adTZzendMQU5EUnVpSUhEb01oXzJQMzNqWW1CVGY1UVdwc1hHdkk3MF81OVJjbl9SSzRLTmM?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-21T07:22+09:00"
+     "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTFg4Y1hYTkpVYTd4Tkp3STg4VmpMbXVsZ1FobFV0THFsbnNmUzZ2d3FnNDQ5bm1DdFV6RkRMbmxNR0hyZmJxdzQ2LXZqT1MyME54S1Vyanl1a2llYlFFUGdPQWRjSzM3TEViaWluZ3R1ZVE?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-21T09:06+09:00"
     }
    ]
   },
@@ -157,8 +159,8 @@
     },
     {
      "title": "渦中女性、中国軍事企業とつながりか＝エヌビディア前ＣＥＯ不倫問題",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vb0pZQThDMGZQdVBHLTU3ZmFtSnZSZVhRdmV1U25XanJSVUJwakQwRkEyNkZIQkk2TXY2djh5dThUVzJVYlROby1pbldLelJSdHNHREpxNGlGcGtIdm42WkFSdjRqaWJwTGVz0gFrQVVfeXFMTVVvSllBOEMwZlB1UEctNTdmYW1KdlJlWFF2ZXVTbldqclJVQnBqRDBGQTI2RkhCSTZNdjZ2OHl1OFRXMlViVE5vLWluV0t6UlJ0c0dESnE0aUZwa0h2bjZaQVJ2NGppYnBMZXM?oc=5",
-     "source": "Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmF3bHJsNlhSNjBKMUFEeTN1b3BpOXU4dVlkTGc0dHFQaFBZSjQyZUMwbkRUNjFBSWdDRGVfSF9WN3R0THJ3WjF6Qlo4OW5ra3J1VW95ZDQwanh2dHZsUXJtTlN3elZPQXlqM1RIMnBwMDNDOWlnS3gwc1JGdEFqRk9xMjJkM1BQbGxHcTdxZGhSNEwwSXZERzdNeVczMmlCRGExalh0RnZkQWdISXRlUEFDTE9FbkhMcEJrUGdHSWZ6V1RvdUszSzAydEhPUdIBfkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQQ?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-21T09:19+09:00"
     },
     {
@@ -234,9 +236,9 @@
      "at": "2026-11-21T17:12+09:00"
     },
     {
-     "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PRkc4Y3Y0NVUyR1ZwN0J3OXNibk1meDhRTXlSNlU3UzhKOC1zMEtIUDBQMTZ2U2Yxcjk5U1FISWpqZGhleE9oM25KYllvVFJTeFFha1V4alBOdW1vMTRuNGpzVkVQb1ppZkN4TGthNTlSREZQV2Z6aXRR?oc=5",
-     "source": "テレ朝NEWS",
+     "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04czlZdUI0WWtvQk55TEdsNHpsY2YyMWJMaU8wejVtUDFFYXlmNkdrSjVlWUxtbTI5WTBxRWZyZkVqak9meGxpQTNQZnB6UXgxbkYxa1hnbFMtVGh5WjJ1UTRsVmlZYWhMNFVlLV9sMGVOQk9SdkJqQVZrVkdiUlk?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-21T16:43+09:00"
     },
     {
@@ -374,70 +376,70 @@
    "at": "2026-11-21T16:55+09:00"
   },
   {
+   "title": "静岡防災アプリ、障害時も受信可 県の災害情報、人工衛星利用で",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RbndVcWs1QWlIQ0Q2UllKVUxoOVhKLXhMbGJPcWRWUTRLcGZMZjc1UGJaak1aWHRmSVVmQzZrYk1PdXV4UEtNWW05RjktQ2czbW0wREdCd3VCdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-21T13:39+09:00"
+  },
+  {
    "title": "相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZGRFMnlhd0RyYTliQTBFeG1aLUVoZEpUTm9SX3d4QmR6TjFDclVROTE0d2RiZGNMYnJmNkEzal9qMElsRkZWWklTZ3pHUldZZmZ3cGU2VlY2bXZ2a3N3MFN1YTJTam5KZnhvbDJpOGRwcFhTX25qd1dyQ1RHOGk5QVZ6TEFUSWpWTTBRMnpB?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-21T09:48+09:00"
   },
   {
+   "title": "AGM Nexus Android版を更新 3機種の不具合を修正",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sSS1LbGc1cUJDQTVCU3NKQTVpYk5mUVZmTEMwQ1dwTXRxTXlsZ1FtaTJwZElQdDdxNjdJSy05bTl6S294VUFj?oc=5",
+   "source": "Dellows News",
+   "at": "2026-11-21T05:54+09:00"
+  },
+  {
+   "title": "Cloudflareの障害が示す、サイバーレジリエンスが重要な理由",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PMFZXa2tLTjRxMkV5NHp5T3BYc0I5Z0Z0ZllxTFJFVk03dHpmRlF5NDZCYnBndkFFRzl5d2pEVDNPYzlaYTN2WlFrTTlxaWt4dTRqdHZnWWtkS0dFZ1Y3bUgyOGk1eUF5ME9QUEo1RURHYVZvbThuUVdYZ2g4dw?oc=5",
+   "source": "eSecurity Planet",
+   "at": "2026-11-21T04:13+09:00"
+  },
+  {
+   "title": "米サイバー長官が辞任、AI政策など担当 システム障害との関連は不明",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JaGZWWmM0VXl3ekRDUzI4bDBISzN5WDBGeU9VbUd3cGt6U0hnLUtTX3J5SWpDWkRTdjJpZTIxN1o0cjlhZUNyZ3FwcjBfOFNlS3p4ZVdIY1NiaXdYTzBTS1VUVFhIVG5pcTY1SA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-21T04:04+09:00"
+  },
+  {
+   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
+   "source": "GameWith",
+   "at": "2026-11-21T02:10+09:00"
+  },
+  {
+   "title": "【我孫子市】あびこショッピングプラザの「お買物ポイント販売会」、システム障害のため本日11月21日(土)は中止。明日以降の開催は前日に判断へ",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lQTYxVnJpOWVfZ0p4YUgwWkdsVFN1amdnOElON0NVNWV4UXhuTDVPRU5RbGFWa2ViUzFZYUdqV3lqS0JjdlVtdF9rV2JFS25nNDR5YjA3Ym5oVHpXWlk4VmxXcw?oc=5",
+   "source": "地域ニュースサイト号外NET",
+   "at": "2026-11-21T02:00+09:00"
+  },
+  {
+   "title": "東京ディズニーリゾートのクリスマスグッズ発売でシステム障害…11月10日の初日組から消費者庁への通報も",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGNm5jTDg2U1g3cGpqVFJkQ0gyb2EyN0pyTVRtRWhyaG85UTZVQkViX1J3VEdtLXJUbXdvdnlWUEJYdWR1ZWI2c0hZa2l2c2VKYkYwRElqR0VDLXhsWExz?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-21T01:52+09:00"
+  },
+  {
+   "title": "「六花亭」不正アクセス、クレジットカードの不正利用１件確認…客からの申し出により判明",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WRGZ2VkZyQTcwMDBWNHNxYlQ2S3ROQXM4NUxzb1Jhd0hfdmhBYjFTeDhuWWdyZDZRYkFndlFTSHJGSndVQ2FJelh5dzZ1aVd6bmEzZ29keEZ5dG5hMlUyVGtzdGcyWi1zeTVvSTZR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-21T19:50+09:00"
+  },
+  {
+   "title": "トランプ大統領、サイバー大混乱の責任問い国家サイバー長官を電撃交代…Davis国防総省CIOを指名",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SDdlbzhtUTkwQU9ETjEzd2JEMjZ3TDdLWnNqbUFBUkNONVJCajNYMWg5aUxVLUQwbWdwZWxJZmlZbEVxaUNfM0Z4U194T08zZUY3SGhUdVNxaF9JaF9JRUxxUWdLbV9CNE5oaWdtTFAtT1A1?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-21T18:55+09:00"
+  },
+  {
    "title": "くまモン！Pay一時使用不能に QRコード決済、デジタル商品券 不正アクセスで臨時メンテナンス",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTzRSczFHWnB2WUMweldKUjZHZXZwa0k2aXpYLXk2S05BWm9aZmtITmozRjVDZHhNelVyeFNqREpPZUVDQUZhS2ZuazJKVU0?oc=5",
    "source": "熊本日日新聞社",
    "at": "2026-11-21T18:10+09:00"
-  },
-  {
-   "title": "米FBIの犯罪情報網に侵入の形跡　農務省もサイバー攻撃",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWpKSV9YclRjeDZnUTB2aE1PUkVQOS1TaW0xbmY0akc4VFVZeW1qcnptV0pSc25qRHozbUd4X3pRVGg5M1JxN1QzTDNMRFoxSDZJZUFOeG80SHdBWlNTM2xlSnZ6Qjc5clVTakpIeXYweEZyRjN6dUZwMHdyUVJKR3lnRGpjaHpC0gGcAUFVX3lxTE5kalhmRTB5VDAzaW9CdGNOTHZ2UEQyVlRiR0RueW95SmtpTXhicWZmTnhwdVJLNTNMdHF6LWpWVUpYX2F2ZFpEZG5lUXNrU21XaG0tU1dwTXpidGc4RjJfSXRLM0dUQ1JjQ3ZBLUxSR2xsYW43M0VGa1o0b0ZlRkVvTW16LVFQWEhZajZRTENzUG9zMzVWNjc2NEJXaQ?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-21T17:57+09:00"
-  },
-  {
-   "title": "Deutsche Bank、2017年の中国APT10ハッキングでITインフラ情報流出の疑い…内部文書1,500万件を分析",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84bGY0YWlHQmsyak43ZTVTWW02VGt6SXVGdDlQdUhlM09RNXVZeWZmTzJQRVZrdGk1ZGY2WklGLVhLMkxwT3A3THRxU3NMd1JwWlB5Y2NsTjFsV2FuMkRWZWY4ai1hd2NMN0FpQ19QdGtzaG5h?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-21T17:55+09:00"
-  },
-  {
-   "title": "サイバー攻撃が過去最多に！医療DX時代に求められる情報セキュリティ対策｜嗣江建栄",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zdE9FX3laY2x1MmNacUh1dkxvSzB0VUtLMTYzQ09nZ1lYS2hGRGt6TDlZZ1NreFluUnlNRmZBdGtWRTYwWThOS05hQmpCaUgzeG94MzJ4Q0Q1X21DMFR2eWxkN09Gcjg?oc=5",
-   "source": "JIJICO",
-   "at": "2026-11-21T17:31+09:00"
-  },
-  {
-   "title": "ＥＵ欧州委にサイバー攻撃、報道官は攻撃元への言及避ける…中国語のＡＩエージェント利用か",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5acjV0a2tiWXVEYzVjOF9IYlNxaFJUNEs3c002LWVZQVQxOGl0SFNJRWRiYmxobkpsaDBmcDRYMGtqVnNXdUFVSzFVaTJxdGFMdU9ORGdFV29TZGZfdUVFZlZR?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-21T17:23+09:00"
-  },
-  {
-   "title": "米農務省にサイバー攻撃",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TZGJZM2JoU0dCQ2hYeVZhNUg3bU10Z0cxNG4zRUNheVdqN09IVENldWhMeGtRSVVlYzZfbk9wVUw4NlU3dlVieFYwSktxNHU4aDROTklqeDJuMEpjV3hTY2xqOWlSTmVJTVhTelk0N0UwZEE?oc=5",
-   "source": "デイリースポーツ",
-   "at": "2026-11-21T15:57+09:00"
-  },
-  {
-   "title": "ＦＢＩ犯罪情報網に不正侵入か＝農務省もサイバー攻撃被害―米報道",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wS1Q0a0FZc0JqOXFQMTBTR0lxWVdqTUhPcDhjM0R5aWZ5aEJPZFNrV1diNk5CQWxubWM2T2hzdXoxX21CdWlKcEhSVWw2MkxfaU11VA?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-21T15:24+09:00"
-  },
-  {
-   "title": "米農務省にサイバー攻撃 ＦＢＩもハッキングか | | 全国のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hYUJjd0JzV1pDQWtLR3VROTl6RlNNZWVDWkhFSlhlakR2QUljZWQtd2ZqdG1Lay1tMWhEbDg1SzF6S1RMNXp1c3V6Y2I0bGtUZjcyU0x3?oc=5",
-   "source": "佐賀新聞",
-   "at": "2026-11-21T15:06+09:00"
-  },
-  {
-   "title": "ゲーセン不正アクセス問題、『CHUNITHM』『maimai でらっくす』がついに試験稼働へ！停止から約3週間…『英傑大戦』も対人戦以外で再開",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uSDNpWnBvdFdmVmtLMWZBbXlITUp5UllNUjVkdkU0b0FJSHRiTXBDbWozWGY2NThfWDdSdTRRNS1XTzk0c3VkTmRDNWhKdUtWc2YzcUpSaG5ySEdPY2NV?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-21T14:47+09:00"
-  },
-  {
-   "title": "メルカリ AIに入力した個人情報漏えいか「リスト型攻撃」も",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TalNCZy1TQVp0bzNGdlk5WF9fNmo1RVBtM1UzaEVLVE04LUd1WDlfcGFkaklueFFUWWFWTF9DOTNUY2hkNFdVR2NCalNIUk5DWmZmNjlEYUF2blhUSmw0?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-21T14:33+09:00"
   }
  ],
  "osaka": [],
@@ -471,9 +473,9 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PRkc4Y3Y0NVUyR1ZwN0J3OXNibk1meDhRTXlSNlU3UzhKOC1zMEtIUDBQMTZ2U2Yxcjk5U1FISWpqZGhleE9oM25KYllvVFJTeFFha1V4alBOdW1vMTRuNGpzVkVQb1ppZkN4TGthNTlSREZQV2Z6aXRR?oc=5",
-   "source": "テレ朝NEWS",
+   "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04czlZdUI0WWtvQk55TEdsNHpsY2YyMWJMaU8wejVtUDFFYXlmNkdrSjVlWUxtbTI5WTBxRWZyZkVqak9meGxpQTNQZnB6UXgxbkYxa1hnbFMtVGh5WjJ1UTRsVmlZYWhMNFVlLV9sMGVOQk9SdkJqQVZrVkdiUlk?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-21T16:43+09:00",
    "topic": "ロシア"
   },
@@ -570,24 +572,24 @@
   },
   {
    "title": "渦中女性、中国軍事企業とつながりか＝エヌビディア前ＣＥＯ不倫問題",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vb0pZQThDMGZQdVBHLTU3ZmFtSnZSZVhRdmV1U25XanJSVUJwakQwRkEyNkZIQkk2TXY2djh5dThUVzJVYlROby1pbldLelJSdHNHREpxNGlGcGtIdm42WkFSdjRqaWJwTGVz0gFrQVVfeXFMTVVvSllBOEMwZlB1UEctNTdmYW1KdlJlWFF2ZXVTbldqclJVQnBqRDBGQTI2RkhCSTZNdjZ2OHl1OFRXMlViVE5vLWluV0t6UlJ0c0dESnE0aUZwa0h2bjZaQVJ2NGppYnBMZXM?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmF3bHJsNlhSNjBKMUFEeTN1b3BpOXU4dVlkTGc0dHFQaFBZSjQyZUMwbkRUNjFBSWdDRGVfSF9WN3R0THJ3WjF6Qlo4OW5ra3J1VW95ZDQwanh2dHZsUXJtTlN3elZPQXlqM1RIMnBwMDNDOWlnS3gwc1JGdEFqRk9xMjJkM1BQbGxHcTdxZGhSNEwwSXZERzdNeVczMmlCRGExalh0RnZkQWdISXRlUEFDTE9FbkhMcEJrUGdHSWZ6V1RvdUszSzAydEhPUdIBfkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQQ?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-21T09:19+09:00",
    "topic": "中国・台湾"
   },
   {
-   "title": "止められなかった北朝鮮の核開発、日本はどう備える？ 「非核三原則の見直しを」と韓国元高官、初の核実験から２０年",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QM2ZZMU53X3R4TWhUeVc5SDdvZkpYWmFNOWFLLXEwTC1pazNNbHprYl94a3FucEV5MEhCZkl4MEpmNV9XWjhZNE1ZWGdzSjZwb28zX1FTNXhzeXhVZXZzd2NWcldBZ3lVOFdYNGROd2FmX2FTLUVHYy0xSldaeFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-21T09:02+09:00",
-   "topic": "北朝鮮"
+   "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTFg4Y1hYTkpVYTd4Tkp3STg4VmpMbXVsZ1FobFV0THFsbnNmUzZ2d3FnNDQ5bm1DdFV6RkRMbmxNR0hyZmJxdzQ2LXZqT1MyME54S1Vyanl1a2llYlFFUGdPQWRjSzM3TEViaWluZ3R1ZVE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-21T09:06+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「米農務省にサイバー攻撃 ＦＢＩもハッキングか | | 全国のニュース」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
@@ -599,7 +601,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」3件",
+    "イラン・アメリカ：「攻撃」「報復」4件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
@@ -618,9 +620,9 @@
      "at": "2026-11-21T08:30+09:00"
     },
     {
-     "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PRkc4Y3Y0NVUyR1ZwN0J3OXNibk1meDhRTXlSNlU3UzhKOC1zMEtIUDBQMTZ2U2Yxcjk5U1FISWpqZGhleE9oM25KYllvVFJTeFFha1V4alBOdW1vMTRuNGpzVkVQb1ppZkN4TGthNTlSREZQV2Z6aXRR?oc=5",
-     "source": "テレ朝NEWS",
+     "title": "今年10カ月で1144人の子どもが死傷 去年を上回る被害 ロシア軍の攻撃続く（テレビ朝日系（ANN））",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04czlZdUI0WWtvQk55TEdsNHpsY2YyMWJMaU8wejVtUDFFYXlmNkdrSjVlWUxtbTI5WTBxRWZyZkVqak9meGxpQTNQZnB6UXgxbkYxa1hnbFMtVGh5WjJ1UTRsVmlZYWhMNFVlLV9sMGVOQk9SdkJqQVZrVkdiUlk?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-21T16:43+09:00"
     }
    ]
