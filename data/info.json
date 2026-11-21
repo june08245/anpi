@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:00+09:00",
+ "updated": "2026-11-21T23:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -126,16 +126,16 @@
      "at": "2026-11-21T15:20+09:00"
     },
     {
-     "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZVgyMTVXTmYwQWtCWVpfd1Q3ZUFPaGpwT0hmQ0tNdmVqT3d1ZTkwM25ReDJVX2cwV3lfRXdkYS1SZXh5Ykp1T3JrN3JjQTdWeE8tRjBCd0NHd0k?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-21T10:25+09:00"
-    },
-    {
      "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGdaOVdMRXktMW5uMVBfSEc2RFl4ekdkOGFBVVBISjdjVGF3WlhMSHZWOWNvQzZlVDFnbldYSWVNZnZfZkJPdmZWVDR1d3I1c254aHJJdlVrUE5oVHJvdEhvR2xKUW0xMExWem5oVlB6YWI5Q2FoU1JLNUF4ZDg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-21T10:05+09:00"
+    },
+    {
+     "title": "米中ロ会談 イラン問題など協議 トランプ氏「数年で最も画期的」（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fM3FaWlQwVjR3M3N1dkJiMm5TangyZkliYjZPc1JYLTFLNHZlUWtKZHRQMVl4SmZJeVB5SnFZUURseEVlSzE5dHV3S3prd3YtbGtHSHNHbk1JTnBYcFlyMHlxM21BdGtQMlpLN0dfVmR1enA0OC14WE1vOXpQdDQ?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-21T09:24+09:00"
     }
    ]
   },
@@ -143,6 +143,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "米中首脳会談、両国の「安定」へ行動計画策定で合意…習氏は台湾問題に関与しないよう求めたか（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdmZIMWRhendlOUJoWVdVN1diN3J1WXpjOVROR3gxSGlRV1p6V21OMms3dWxITXBuNEFSMXZTSWJXQTJCV1NEdDZCUlJYdHNtX3daMEtKbE1VVEZqRlA3WmtSTWd0eEpRQjZ3TVVmRHhpTFVMLVpQdlBkS3VaTlE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-21T19:06+09:00"
+    },
     {
      "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SQjRobVpzeWNZa09QekR0MHhUNXU2UGFkVzhCZ0l3XzZFellUbFVGYW9xRTUyc1FIRnZjR19CYlp3NUlKcUxFVHBwN2tyMkFlV2Q2dWpHaFFJT0g1MkF0Y092cnBxTWxDWTM40gFrQVVfeXFMT1JCNGhtWnN5Y1lrT1B6RHQweFQ1dTZQYWRXOEJnSXdfNkV6WVRsVUZhb3FFNTJzUUhGdmNHX0JiWnc1SUpxTEVUcHA3a3IyQWVXZDZ1akdoUUlPSDUyQXRjT3ZycHFNbENZMzg?oc=5",
@@ -156,9 +162,9 @@
      "at": "2026-11-21T14:39+09:00"
     },
     {
-     "title": "渦中女性、中国軍事企業とつながりか エヌビディア前ＣＥＯ不倫問題",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85WEJjY2xiTFVPdl9sUUk2UFZzOVRPaGRFMFdHbGZkWWZSZ1BBTkpLR2l0SFJEREV1Uld4c1ZEa1FtVjkwVUFCMHZ6QnlHT3A2cUg3dk1fZmtWRGZvQXNMMFpxaw?oc=5",
-     "source": "時事ドットコム",
+     "title": "渦中女性、中国軍事企業とつながりか＝エヌビディア前ＣＥＯ不倫問題",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vb0pZQThDMGZQdVBHLTU3ZmFtSnZSZVhRdmV1U25XanJSVUJwakQwRkEyNkZIQkk2TXY2djh5dThUVzJVYlROby1pbldLelJSdHNHREpxNGlGcGtIdm42WkFSdjRqaWJwTGVz0gFrQVVfeXFMTVVvSllBOEMwZlB1UEctNTdmYW1KdlJlWFF2ZXVTbldqclJVQnBqRDBGQTI2RkhCSTZNdjZ2OHl1OFRXMlViVE5vLWluV0t6UlJ0c0dESnE0aUZwa0h2bjZaQVJ2NGppYnBMZXM?oc=5",
+     "source": "Infoseek",
      "at": "2026-11-21T09:19+09:00"
     },
     {
@@ -166,12 +172,6 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBneWFpR3VNZlZTMmVZSjZPQUt4RXlVVjFNWWN3S0NHSjQycFdnSUFzcGtmVW5jcTZCckJuOExFMFpQejBZdnh5c1NmX2VBc0E4ZjBfdDVzVmdvazNxckg4?oc=5",
      "source": "JBpress",
      "at": "2026-11-21T06:00+09:00"
-    },
-    {
-     "title": "中国民間船隊の軍事利用 台湾有事から第二列島線まで広がる輸送・監視能力",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTDZ6Uk9Qc3QyMXRNS3V2VU55SUExTFJQQzdXckNON3BoNHRZNTlMZ0xLYm1wVFF0ZEMtajQtVmJPVU1fQk5OTUlrWm5Ca25WSHl5dHhxeTdvR1VPdy1mZFJWZko3RG16TGV4NXZzQ3piQnBHYVAyRF9kbGtEY1lUV3J4N3VKeU85WHA1eXBIbw?oc=5",
-     "source": "Meta-Defense",
-     "at": "2026-11-21T01:33+09:00"
     },
     {
      "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
@@ -435,10 +435,10 @@
    "at": "2026-11-21T17:31+09:00"
   },
   {
-   "title": "ＥＵ欧州委にサイバー攻撃、報道官は攻撃元への言及避ける…中国語のＡＩエージェント利用か",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5acjV0a2tiWXVEYzVjOF9IYlNxaFJUNEs3c002LWVZQVQxOGl0SFNJRWRiYmxobkpsaDBmcDRYMGtqVnNXdUFVSzFVaTJxdGFMdU9ORGdFV29TZGZfdUVFZlZR?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-21T17:23+09:00"
+   "title": "ＥＵ欧州委にサイバー攻撃、報道官は攻撃元への言及避ける…中国語のＡＩエージェント利用か (読売新聞オンライン)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXlvcmZYZ0Zmb29BTTNYSmF3NS1hcU45VUEtbnpDWEtTTURyT1FpSTEzWUZXSGJ6cHNxMVBUdlZfb0kwN2ZtNHd4SFRXRkFrQUt1NTRuLWZHWWZkb3hXR0dFSVNnUDJLR2tFMjQyWnc2ekQ4XzNsMEVnNVRiSElDWkNYMGdqWXJsOGVYV2Rn?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-21T17:24+09:00"
   },
   {
    "title": "米農務省にサイバー攻撃",
@@ -469,6 +469,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-21T19:36+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "米中首脳会談、両国の「安定」へ行動計画策定で合意…習氏は台湾問題に関与しないよう求めたか（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdmZIMWRhendlOUJoWVdVN1diN3J1WXpjOVROR3gxSGlRV1p6V21OMms3dWxITXBuNEFSMXZTSWJXQTJCV1NEdDZCUlJYdHNtX3daMEtKbE1VVEZqRlA3WmtSTWd0eEpRQjZ3TVVmRHhpTFVMLVpQdlBkS3VaTlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-21T19:06+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "トランプ大統領、イランとの「本物の合意」を求めると発言、テヘランは外交的希望を保つ",
@@ -569,13 +576,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZVgyMTVXTmYwQWtCWVpfd1Q3ZUFPaGpwT0hmQ0tNdmVqT3d1ZTkwM25ReDJVX2cwV3lfRXdkYS1SZXh5Ykp1T3JrN3JjQTdWeE8tRjBCd0NHd0k?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-21T10:25+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "米イランが互いに「報復」攻撃、再び緊張高まる…イランは米軍レーダーを攻撃・米軍はミサイル発射基地を（読売新聞オンライン）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcGdaOVdMRXktMW5uMVBfSEc2RFl4ekdkOGFBVVBISjdjVGF3WlhMSHZWOWNvQzZlVDFnbldYSWVNZnZfZkJPdmZWVDR1d3I1c254aHJJdlVrUE5oVHJvdEhvR2xKUW0xMExWem5oVlB6YWI5Q2FoU1JLNUF4ZDg?oc=5",
    "source": "Yahoo!ニュース",
@@ -583,11 +583,11 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "渦中女性、中国軍事企業とつながりか エヌビディア前ＣＥＯ不倫問題",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85WEJjY2xiTFVPdl9sUUk2UFZzOVRPaGRFMFdHbGZkWWZSZ1BBTkpLR2l0SFJEREV1Uld4c1ZEa1FtVjkwVUFCMHZ6QnlHT3A2cUg3dk1fZmtWRGZvQXNMMFpxaw?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-21T09:19+09:00",
-   "topic": "中国・台湾"
+   "title": "米中ロ会談 イラン問題など協議 トランプ氏「数年で最も画期的」（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fM3FaWlQwVjR3M3N1dkJiMm5TangyZkliYjZPc1JYLTFLNHZlUWtKZHRQMVl4SmZJeVB5SnFZUURseEVlSzE5dHV3S3prd3YtbGtHSHNHbk1JTnBYcFlyMHlxM21BdGtQMlpLN0dfVmR1enA0OC14WE1vOXpQdDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-21T09:24+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -606,7 +606,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「報復」3件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「ミサイル」2件"
