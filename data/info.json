@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:30+09:00",
+ "updated": "2026-11-22T02:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-22T02:30:00+09:00",
+   "place": "房総半島南方沖",
+   "mag": "4.6",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-21T21:58:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-21T02:14:00+09:00",
-   "place": "トカラ列島近海",
-   "mag": "2.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -133,7 +133,7 @@
     },
     {
      "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBORnRxMmtFa1UybHZOWnE4aEFGNVZYRjczMDNGcmhyeE53UkptZmM4cXVfUFQ5N1pxSjNsdGVyM25sbk9hNER1eE5SdzNva05RRTBhWE9lQ1JaanBseW9qdklvU2hBZw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZVgyMTVXTmYwQWtCWVpfd1Q3ZUFPaGpwT0hmQ0tNdmVqT3d1ZTkwM25ReDJVX2cwV3lfRXdkYS1SZXh5Ykp1T3JrN3JjQTdWeE8tRjBCd0NHd0k?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-21T10:25+09:00"
     }
@@ -584,7 +584,7 @@
   },
   {
    "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBORnRxMmtFa1UybHZOWnE4aEFGNVZYRjczMDNGcmhyeE53UkptZmM4cXVfUFQ5N1pxSjNsdGVyM25sbk9hNER1eE5SdzNva05RRTBhWE9lQ1JaanBseW9qdklvU2hBZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZVgyMTVXTmYwQWtCWVpfd1Q3ZUFPaGpwT0hmQ0tNdmVqT3d1ZTkwM25ReDJVX2cwV3lfRXdkYS1SZXh5Ykp1T3JrN3JjQTdWeE8tRjBCd0NHd0k?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-21T10:25+09:00",
    "topic": "イラン・アメリカ"
