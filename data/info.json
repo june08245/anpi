@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:00+09:00",
+ "updated": "2026-11-23T03:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-23T03:03:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-23T02:49:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-22T05:00:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -144,6 +144,12 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国軍水陸両用戦車沈没動画がXで話題、2002年テスト映像",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRlcxdzFPMm1vQ2E1cE8yRUc1S3ZVcDUxeUlLVHFZRzZPV3QzajIxaWhHTkNGaDJMRE5iaERDSmcyZDA0YWdWQ3A2SGswa1pHeVpGLVdlQQ?oc=5",
+     "source": "X",
+     "at": "2026-11-23T01:54+09:00"
+    },
+    {
      "title": "米国の国際影響力、中国に対するリードが縮小－イラン戦争が軍事・外交力に打撃－アジア・パワー指数",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QVTNVTTVBVzBHOHVDT3gyT1k1bnljMjg3OW1ZSHRKM1FFaWRsTUNmM3BkN3hzVTFpbS1aVGNxZlBSSi1UdWpROERBS3NFckpBUy1YTlluVFpfWU8xQ1BONE05UzhpOThpc1hpcDFtMEdfSlpPc3pB?oc=5",
      "source": "Bloomberg.com",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GV2xwYzkzNC1FWndSVVlqRWY2Z1NNR21rbHNEakFKNXluZTd0a01WUjlJbHhhSkFCWkN5NkdzXzJGOVU4QWNFZGd5ckV2Q25JTU9vUDJubzdfdkFBVkJpME1WcGxKWkdQdEV0dkJnOXpUMHBwNVpB0gF3QVVfeXFMT0ZXbHBjOTM0LUVad1JVWWpFZjZnU01HbWtsc0RqQUo1eW5lN3RrTVZSOUlseGFKQUJaQ3k2R3NfMkY5VThBY0VkZ3lyRXZDbklNT29QMm5vN192QUFWQmkwTVZwbEpaR1B0RXR2Qmc5elQwcHA1WkE?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-21T17:57+09:00"
-    },
-    {
-     "title": "親族ら中国軍事企業とつながりか エヌビディア問題の女性フアン氏",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZXhYSGduNzEzcEVVbkE3eW9YZFlLRms0djAwUUVsSkp2SURDeDhEX3NUTmhLMkVCc2dRaEhRV3dRR2tNOWFLR0lNSmFKU1dqTnRId3JTVmppWm40azJ3Ni05MDVWN1NGV0w4Q3g4cTk?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-21T14:39+09:00"
     }
    ]
   },
@@ -368,6 +368,18 @@
    "at": "2026-11-22T13:55+09:00"
   },
   {
+   "title": "くら寿司、寿司ネタなど一部欠品を報告…フェア商品の状況も伝える 取引先のシステム障害が影響",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9peDRhZU11NE83Z2pPSUl3QUNZZWJmalVldTZvVjVSYVdUclNUSUxhbWFYMjFRLTBVU1FvMzNldEIxX0NRNFZMR2pnVXRQeWdJR1VTaTBKRUxDWUJudk1pZGxzc1lKMEFzM0dlYlBQUQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T12:16+09:00"
+  },
+  {
+   "title": "ピーチ・アビエーションが委託先への不正アクセスで顧客899万件の情報漏えいを発表",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbVRfU1I0QzVySEkxNmhRSHpVYVZJOXZuX1ptUDMzRWxJejk0QmEtZHlNSHlBM3RXOER3ZHBpb2Q4Xzk0bzlsNHhLWEZXM2FrNFI3VFFlQzB2S1k?oc=5",
+   "source": "ベンチャー・ソリューション株式会社",
+   "at": "2026-11-23T03:05+09:00"
+  },
+  {
    "title": "不正アクセス、パッチ適用は数時間で ブレット・ゴールドスタイン氏",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92UFZaRnJJNUdvRUY2eUptQzJya1RUX0s1bHRKXzNOSDNuSkVrUFJMVlRGeW5mWGRyZHN6VE02LUhGakR0YURCdmdnM0VoaVQ3NThSQV9xM2tvMzB4c1NHcEdfTVpGWmNvOTBfaQ?oc=5",
    "source": "日本経済新聞",
@@ -380,15 +392,15 @@
    "at": "2026-11-23T01:40+09:00"
   },
   {
+   "title": "「FBI記録システムハッキング」との報道にトランプ氏反応",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNGJ3enNtVnBSeTlvWlR5YjZDZFRaaHBoZWR5bTRfMG9CbUZRbGJDN2tyLTVuclMyVVpqN3VKcHFOemFOUFlPWjJjWHk2Q1prRGZpUWJFUVc3S3ZGWUHSAV5BVV95cUxOWjRid3pzbVZwUnk5b1pUeWI2Q2RUWmhwaGVkeW00XzBvQm1GUWxiQzdrci01bnJTMlVaajd1SnBxTnphTlBZT1oyY1h5NkNaa0RmaVFiRVFXN0t2RllB?oc=5",
+   "source": "大紀元 エポックタイムズ",
+   "at": "2026-11-22T21:00+09:00"
+  },
+  {
    "title": "タワーレコード、個人情報1100万件流出 不正アクセス受け",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQXRwLXBuSVRyVHZJT2wxRDdwWXllSnF2R3JVTmg0T2JDYUhSbWE4cWY3dFFvVTluR0N4eXA3ZWhDYmpsZXV6eWRVajYwal96RDhKLXJqaHJqNnRLMmxNajV6N0RIWGVWU25IVg?oc=5",
    "source": "日本経済新聞",
-   "at": "2026-11-22T20:58+09:00"
-  },
-  {
-   "title": "「FBI記録システムハッキング」との報道にトランプ氏反応",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlSER1NVJzSU5uTGJFZzNUSGJnZU1STmxuMGN2UFBqMmhIcU84MWpJbDFNQ1d5S2s3Rjk5WHFkY2gtdWFmSkpCNUFSSGtDYjlPMWdlRWVmOVPSAV5BVV95cUxOWjRid3pzbVZwUnk5b1pUeWI2Q2RUWmhwaGVkeW00XzBvQm1GUWxiQzdrci01bnJTMlVaajd1SnBxTnphTlBZT1oyY1h5NkNaa0RmaVFiRVFXN0t2RllB?oc=5",
-   "source": "大紀元 エポックタイムズ",
    "at": "2026-11-22T20:58+09:00"
   },
   {
@@ -426,21 +438,16 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IaWM5dkR5YUtpSE1aSFJsb1FadDV6RUtZMG9yMFkzLU9rM2hkYjlWWWNnYWlaWHY1N0xsZmwwOVM2OV9nUThiVEJETk9xOThUcE1UMGlYd2VPOUVBR1NSVEVzTm1CRUN3cC1JQnE4MTFGQjg?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-22T20:10+09:00"
-  },
-  {
-   "title": "【北朝鮮サイバー攻撃】英才教育でハッカー量産 ＡＩ駆使、核開発資金に",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WdGptTVVtNHlRTDdEUjZBamY4M2tLZm1iczZEdk0tTnc3UHozVmJkbDhNeTJkOXRpZEFKZk9NT3FPMm9jSWxueW9EcDRvd2lPWmc?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-22T19:59+09:00"
-  },
-  {
-   "title": "米連邦政府機関や主要航空会社、大型銀行などで電算事故が相次いでいる中、連邦捜査局(FBI)の核心犯罪情報網までハッカーに破られた情況が捉えられた。 農務省もサイバー攻撃を受けるなど米国主要機関と企業で..",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85UWhxRXMwdlFvR3M0d2phV3hDOTVRWUNEbkIyTUdzNmdpN3NzMnRhY1hVaTRGdThiR1l3Q1M0NkpXZGRrNC14QU9nNTVWdmM?oc=5",
-   "source": "매일경제",
-   "at": "2026-11-22T19:29+09:00"
   }
  ],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLXlyN1lWclFCY1RpV3B3VVBvLVREeUFkNVdtQ2JPQjBWMU53Wm1WTy1XSXAtclZyV2FfX0EwUGRfR2xndU5Qc2k4UGU0SDhTa0J1ZFpFSFk2b2c?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T13:59+09:00"
+  }
+ ],
  "world": [
   {
    "title": "NATOは月曜日、ロシアによるポーランドの空域侵犯について協議する",
@@ -448,6 +455,13 @@
    "source": "Informat.ro",
    "at": "2026-11-23T02:17+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "中国軍水陸両用戦車沈没動画がXで話題、2002年テスト映像",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRlcxdzFPMm1vQ2E1cE8yRUc1S3ZVcDUxeUlLVHFZRzZPV3QzajIxaWhHTkNGaDJMRE5iaERDSmcyZDA0YWdWQ3A2SGswa1pHeVpGLVdlQQ?oc=5",
+   "source": "X",
+   "at": "2026-11-23T01:54+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "バーレーン、ホルムズでタンカーが攻撃された中、イラン攻撃で負傷者2人",
@@ -574,13 +588,6 @@
    "source": "Infoseek",
    "at": "2026-11-22T16:18+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "中国共産党 海軍の拡張を牽制　日本　原潜導入の検討明記へ調整　年末改定の安保3文書で",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aTkFxSG1fZXc2MG9GbkJHLTF4aVh5UklsVVEyN0xyb25fUEJlNUZKa2F3SXJjMVJGcS01cTg4R2RUVm9LTmJaRGdKNUJ5RlpTVUhzeWd2T3fSAV5BVV95cUxNQXdQYWpqSktJWDFWWEhnbFNJYkRwNktITGFHZnpPVlhTT0w0ZjVfWldnRHU1MWpFSzE4RXktbXNDV21Qd2Z6Q2dEZjk0VC1JR21UdXF6MTc3NlVDTjJB?oc=5",
-   "source": "大紀元 エポックタイムズ",
-   "at": "2026-11-22T15:43+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
