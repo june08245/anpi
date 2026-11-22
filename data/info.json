@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:45+09:00",
+ "updated": "2026-11-23T04:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -350,6 +350,18 @@
  "japan": [],
  "cyber": [
   {
+   "title": "米デルタ航空、重量管理システム障害でアトランタ発着便を地上停止 遅延1000便超",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BemduenhnWmtoWmZ0T2pGRXMwcG9waUlYWUxxSXp5VzN3QW5La0plemNWa1UwV1lNVzRvamZZbFFsbHBxM2YtYWRiWmdDRWYzYjFvTmRGdGpOdVU0akRzbnNpMUp1WVNDS1RIOU9jVTZXQnMw?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-23T03:55+09:00"
+  },
+  {
+   "title": "ウォール街モーニング・ブリーフ：システム障害の嵐がリスク回避を誘発、S&P500とナスダックは4日続落、ソフトウェア株が急落、エヌビディアは時間外に力強く反発",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSzJTOVJBRVJmcFZkRGMyYnZaREF4Y0h5UGpKQ2xxeE43M09nc25IcXk0UnBaeHRjaDlKcVp6QkdLWW1xbms2TXdreUZqZjNVZlRsWG5KakpzOWhqSC0xYTBDb2VNakd3VEYzTjNxMzNWSTJNZ3RlajVLZVZoR28?oc=5",
+   "source": "PANews",
+   "at": "2026-11-23T00:49+09:00"
+  },
+  {
    "title": "ドコモ、全国で通信障害 高速サービス通話しづらく",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1ZtU1BJSU5RVVM5STBLWDV1dzV1aWphMGhPSE5rVVhlcDlPMEtZb3BlWENSczNPcjdnaUd2ZkdMblZhTDhTcWFyRlJnSVQ2ZzVXVlVJS2tYRExKR3ZIcmQ5cTNlNUE?oc=5",
    "source": "山陽新聞",
@@ -392,12 +404,6 @@
    "at": "2026-11-22T20:58+09:00"
   },
   {
-   "title": "「FBI記録システムハッキング」との報道にトランプ氏反応",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlSER1NVJzSU5uTGJFZzNUSGJnZU1STmxuMGN2UFBqMmhIcU84MWpJbDFNQ1d5S2s3Rjk5WHFkY2gtdWFmSkpCNUFSSGtDYjlPMWdlRWVmOVPSAV5BVV95cUxOWjRid3pzbVZwUnk5b1pUeWI2Q2RUWmhwaGVkeW00XzBvQm1GUWxiQzdrci01bnJTMlVaajd1SnBxTnphTlBZT1oyY1h5NkNaa0RmaVFiRVFXN0t2RllB?oc=5",
-   "source": "大紀元 エポックタイムズ",
-   "at": "2026-11-22T20:58+09:00"
-  },
-  {
    "title": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMUTJqbU5Wem5ibTF2MktDek1fSldINnRhaWtaeGNLR241bW11cEtST2Z4MTd5SGJUUkNRVFphMFY5U3NKMFE?oc=5",
    "source": "Togetter",
@@ -432,15 +438,16 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IaWM5dkR5YUtpSE1aSFJsb1FadDV6RUtZMG9yMFkzLU9rM2hkYjlWWWNnYWlaWHY1N0xsZmwwOVM2OV9nUThiVEJETk9xOThUcE1UMGlYd2VPOUVBR1NSVEVzTm1CRUN3cC1JQnE4MTFGQjg?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-22T20:10+09:00"
-  },
-  {
-   "title": "米連邦政府機関や主要航空会社、大型銀行などで電算事故が相次いでいる中、連邦捜査局(FBI)の核心犯罪情報網までハッカーに破られた情況が捉えられた。 農務省もサイバー攻撃を受けるなど米国主要機関と企業で..",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85UWhxRXMwdlFvR3M0d2phV3hDOTVRWUNEbkIyTUdzNmdpN3NzMnRhY1hVaTRGdThiR1l3Q1M0NkpXZGRrNC14QU9nNTVWdmM?oc=5",
-   "source": "매일경제",
-   "at": "2026-11-22T19:29+09:00"
   }
  ],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLXlyN1lWclFCY1RpV3B3VVBvLVREeUFkNVdtQ2JPQjBWMU53Wm1WTy1XSXAtclZyV2FfX0EwUGRfR2xndU5Qc2k4UGU0SDhTa0J1ZFpFSFk2b2c?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T13:59+09:00"
+  }
+ ],
  "world": [
   {
    "title": "バーレーン、ホルムズでタンカーが攻撃された中、イラン攻撃で負傷者2人",
