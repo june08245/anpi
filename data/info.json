@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:15+09:00",
+ "updated": "2026-11-22T19:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-22T19:17:00+09:00",
+   "place": "トカラ列島近海",
+   "mag": "2.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-22T09:09:00+09:00",
    "place": "茨城県南部",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-21T18:51:00+09:00",
-   "place": "浦河沖",
-   "mag": "3.7",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -102,16 +102,16 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、中国とロシアが核ドクトリンの変更に反対と述べる",
+     "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOSWxsT1FNR2FvcG9iVVVNV1JoSUxXWUlqUnpkZ3Z6SXc5X1RWc0FnWUU2eTMyQTZabk5sWnBfLTVWRGdpaU1oVTZneVRia1pPNmZoZWhIaXd0YmJobk5PekNMTlFZZUtLTzJXUkdlRkFqWTF5SXJTLUV4TUlQaURCb0lQcU9TMDRHRHhVNWcwbVo0YUpYT0FsZGJDcW9qc1ZURi1acGppQWppblNwdjNjczFZQ2VxWUYyNFZKTzlaUWRlN3dVZzRWVGdCSml2TlNJd0w5aTgyYWltMW56ZE1zNWRheHJCYWpSSjFzVDJOcmUybHNweXpLeEt5LTB6SnhBdjEzSnRiLUVVNDVaeXZxbjV1T09yc3JFb052US1SS0Job1dITTFIY0tpWENPekZnME81MDVtSktITGRORU1SVTdxcDNYcktCWVM5ekU4SUswTE85cDYybDBVWmVOalV5VGJoZC1fdjNSSFpzSkg4QlBhRVl0aVZXdWVTVk9hb2lzbVU5Z1BQQV9WUFpMT0U?oc=5",
+     "source": "アラブニュース",
+     "at": "2026-11-22T19:26+09:00"
+    },
+    {
      "title": "トンネルの両側にミサイルなどが一面に…イランが革命防衛隊のミサイル施設を公開 幹部「力で脅威に立ち向かうことに躊躇せず」強調 アメリカへの“けん制”報道も",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUcG81UGFJQ19YUUZIZ0FLSHUwaVVWUngzZ0JOaHByeFpzVHFfSlFLNUlmQURiQU16TTVkdm9tb3YtWUI1ek1LVVhMTk9JMW03OVVCaFRWMA?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-22T18:09+09:00"
-    },
-    {
-     "title": "イラン、中国とロシアが核ドクトリンの変更に反対と述べる",
-     "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOSWxsT1FNR2FvcG9iVVVNV1JoSUxXWUlqUnpkZ3Z6SXc5X1RWc0FnWUU2eTMyQTZabk5sWnBfLTVWRGdpaU1oVTZneVRia1pPNmZoZWhIaXd0YmJobk5PekNMTlFZZUtLTzJXUkdlRkFqWTF5SXJTLUV4TUlQaURCb0lQcU9TMDRHRHhVNWcwbVo0YUpYT0FsZGJDcW9qc1ZURi1acGppQWppblNwdjNjczFZQ2VxWUYyNFZKTzlaUWRlN3dVZzRWVGdCSml2TlNJd0w5aTgyYWltMW56ZE1zNWRheHJCYWpSSjFzVDJOcmUybHNweXpLeEt5LTB6SnhBdjEzSnRiLUVVNDVaeXZxbjV1T09yc3JFb052US1SS0Job1dITTFIY0tpWENPekZnME81MDVtSktITGRORU1SVTdxcDNYcktCWVM5ekU4SUswTE85cDYybDBVWmVOalV5VGJoZC1fdjNSSFpzSkg4QlBhRVl0aVZXdWVTVk9hb2lzbVU5Z1BQQV9WUFpMT0U?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-22T17:22+09:00"
     },
     {
      "title": "新型ミサイル発射装置を公開 イランの革命防衛隊",
@@ -144,10 +144,28 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国共産党 海軍の拡張を牽制　日本　原潜導入の検討明記へ調整　年末改定の安保3文書で",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aTkFxSG1fZXc2MG9GbkJHLTF4aVh5UklsVVEyN0xyb25fUEJlNUZKa2F3SXJjMVJGcS01cTg4R2RUVm9LTmJaRGdKNUJ5RlpTVUhzeWd2T3fSAV5BVV95cUxNQXdQYWpqSktJWDFWWEhnbFNJYkRwNktITGFHZnpPVlhTT0w0ZjVfWldnRHU1MWpFSzE4RXktbXNDV21Qd2Z6Q2dEZjk0VC1JR21UdXF6MTc3NlVDTjJB?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-22T15:43+09:00"
+    },
+    {
      "title": "【寄稿】中国軍の台湾周辺「統合戦備警戒パトロール」はどう変わったか 午前に集中、7～8 日周期で見える新たな傾向",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6b2lSVHA1V2dIb2FyMTBHMGZiblZLTjlSbzNsLXd1ZmpUTEZNeDN1enQwcFM5dmlzR0RoVHJTUmc2YWpibGV0aVh1aFVmQTlH?oc=5",
      "source": "風傳媒日本語版",
      "at": "2026-11-22T12:13+09:00"
+    },
+    {
+     "title": "だから中国船が92時間も尖閣の領海に居座れる…海保の弱腰でも自衛隊の怠慢でもない｢日本の海｣の弱点",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10VEtaUW9TdFJZUFZPR3dXQnI4Rmw4anFTVFp0UjR6NmR1TFNpQUtrOU5jQktOTlJSd25iQ3hPUy1SZ2ZYQ1JZTEI1dTJCWE1CRm1hT2xPb0o4bHdqYWIyRDdJUEhfZTdVUmRDMHZlbE5xQjF1SC1IcGJZLUJJNUU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-22T11:15+09:00"
+    },
+    {
+     "title": "中国軍事企業とつながりか エヌビディア問題の女性",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtUU1iQmRnbE9yaFBYR2gzTmQtTHpQakV4RmJiTzBvMG5wYkpCVEphMjhlTE03YjV5SEJvNnlicFJBdUJ2WE5pa1YwdmlkN2M0NXV4bHlFQkpJUFV1bkowUjZFbw?oc=5",
+     "source": "テレ東BIZ",
+     "at": "2026-11-22T06:27+09:00"
     },
     {
      "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
@@ -160,24 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZXhYSGduNzEzcEVVbkE3eW9YZFlLRms0djAwUUVsSkp2SURDeDhEX3NUTmhLMkVCc2dRaEhRV3dRR2tNOWFLR0lNSmFKU1dqTnRId3JTVmppWm40azJ3Ni05MDVWN1NGV0w4Q3g4cTk?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-21T14:39+09:00"
-    },
-    {
-     "title": "渦中女性、中国軍事企業とつながりか＝エヌビディア前ＣＥＯ不倫問題",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQdIBfkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-21T09:19+09:00"
-    },
-    {
-     "title": "「政権は銃口から生まれる」の思想を継ぐ習近平の軍拡、高市首相は冷遇、米中ロ首脳会談でも歯止めかからず 【舛添直言】選挙で大敗し外交的成果を欲するトランプと、米中と同格と誇示したいプーチンを従え、世界の中心に立った習近平(1/3)",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2dVlVbFZSWEpwWl9kb25YS0FmUExEUXMzeTJJMlBDenl4TUlFNmFCbmdmRVJDUWZ3OVFBVGI2MGxIS0RTUnRYYS1icmM3MkFhbW0wNHlB?oc=5",
-     "source": "JBpress",
-     "at": "2026-11-21T06:00+09:00"
-    },
-    {
-     "title": "隠れた標的は日本？米中ロ首脳会談と中国が狙う世界秩序（Wedge（ウェッジ））",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakJlejJzUmlDRUtUOWszZkNtMVhiNElqbGxkaVZUSDMtRmRrTGFUTFVnQkw4V0xaeWNQUHQ3dHdYbTlUWHRFcFBhZ3dBN2YxbWMtNkdSUEMteE1hN1JYVkZYSFpQVGQ1aExiRGtXMnpPRHk2c1BtNzFuZDViWnFfNGFFdGkzcGpl?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-21T05:00+09:00"
     }
    ]
   },
@@ -246,12 +246,6 @@
      "at": "2026-11-22T16:59+09:00"
     },
     {
-     "title": "「プーチン氏は第2のヤルタ実現できず」ゼレンスキー大統領が指摘 史上初の米中露首脳会談「ロシアにとって失敗」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONzNaZGVhczQzNHM3VTE4MFFWQTZiZ0FEUnh1bkhEZ3V3U1ZOdUl0aHFaM3dOUFJCc2hteHVTcThjaUZfSlA1UGJBSnphT2F3clI5Q0psU3dBWkxIbEdpMGthTF9HNGxSaWVDblln?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-22T14:00+09:00"
-    },
-    {
      "title": "ロシア貨物船、フィンランド湾で炎上し漂流 ウクライナによる無人機攻撃か",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QR0RMdHNPcDJMeTk2OWxPYTJnQ0hrSG00YmRxR2FqLVl0eEhEZ0EtWGMwclJCMWVjNjBnMnFKQWdkaFJ3OWt1cGZRZw?oc=5",
      "source": "TVer",
@@ -262,6 +256,12 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWY0c2d1lOVHBha1hhcC03TGFla1N1UzVNT3g0c2RNa3IyRWE1aC1uNFF0ODV4Rm42c2l2bGhlVHZDcDI4Zk5IMEc2SUJPLUFyM29hZFNuaXJkbzdCVnJz?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-22T12:42+09:00"
+    },
+    {
+     "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月22日の動き）",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54c05qQ3RaUW1WNE9DS0VuM1pHSE9DTkdFclFrR3ExdmhtNkktcDE1b0xxMFNlVTlUZlBXTG1XREdOQ0lUOUNyLTZpNFYyZFRVZlUxVUlNbzUzZV9QbUVr?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-22T09:51+09:00"
     }
    ]
   },
@@ -289,9 +289,9 @@
     },
     {
      "title": "ロシア巡航弾落下の対応協議へ NATO意思決定機関",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMWnBBWXFhcURBT1FweVpRSVdDVDdhY0RDLVE2V0dQdTJhb25KUkFVQnNNSnpaWkxOTlFyc3FPZ0JKaFAyaXRjaHRmdHR2UQ?oc=5",
-     "source": "NEWSjp",
-     "at": "2026-11-22T05:30+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsU2Z0aEhnMjhrWWVlTEcxTlEtNDZ4MzI0dS13RDBuUm5SdGwtNkNYMGJPN0ZyN1RScVRLUE9obTRFRXp0d2xqR3FTeW1ESmFwQ3dybVJ6QUoyZw?oc=5",
+     "source": "北海道新聞デジタル",
+     "at": "2026-11-22T05:36+09:00"
     },
     {
      "title": "北欧の海でロシア貨物船が攻撃され炎上漂流 「戦争が近くに…」フィンランド首相",
@@ -347,14 +347,7 @@
   }
  ],
  "outage": [],
- "japan": [
-  {
-   "title": "フーシ派が再びリヤドを攻撃、弾道ミサイル3発を迎撃",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWRtVzVtc1N3Ynp2cDgtQWRXaHdlcnNCdEptNmlEVm9ieldyZE91WGVJekt0RXRseHRpUmt0eVlXd3RuTXA4eUdsS1l0ZXFWSnBXYS0wTGc3ZkxWRURQa3RtenZZWXpSOVJtdE1tb2xlbWNxN2I4REhFZkptaW5sX0FUcmZCLTFLUWdBd21lQXU4SExQT041YXRNQUZTMVlBTEJ0TnhTUmtYcVRs?oc=5",
-   "source": "IDNFinancials",
-   "at": "2026-11-21T19:30+09:00"
-  }
- ],
+ "japan": [],
  "cyber": [
   {
    "title": "アークスグループの「RARAカード」システム障害で一時使用できず 青森県内の店舗でも（青森放送）",
@@ -369,6 +362,12 @@
    "at": "2026-11-22T13:55+09:00"
   },
   {
+   "title": "くら寿司、寿司ネタなど一部欠品を報告…フェア商品の状況も伝える 取引先のシステム障害が影響",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9peDRhZU11NE83Z2pPSUl3QUNZZWJmalVldTZvVjVSYVdUclNUSUxhbWFYMjFRLTBVU1FvMzNldEIxX0NRNFZMR2pnVXRQeWdJR1VTaTBKRUxDWUJudk1pZGxzc1lKMEFzM0dlYlBQUQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T12:16+09:00"
+  },
+  {
    "title": "相次ぐシステム障害、背後にある「恐ろしい現実」とは | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQaUxlWGxrWGVGc2V6LWlXbXhqZklGLS15MmF0MnFLTldRQW1ZakUtLXVoNks2YnhhQ0ZQM2hRbGE5dGJkdEl2N0pRUWV3Mm4zYmRnSEtKZ1RwVVk5Q18ycUFWYkdzSmFBZ2ZkMmpwNzlMT09BSHFFS1hEdW9HN20ta2FSZ2hpMEVWcVJjN3dXWFFKWlYxQmR4ZzdVeGpwV1h2X1ZxeHNTbWpaMzZQaTJ6alpnNEh6bi1vWE9jNUtpNTR0bmVfUHVmS2tCNDJuYVYtZDFISGdRUk4tM1FWY1NoTjNuYVJORlc0VVBRMGNpRHRvY0RBTXBIT3ctajdlQXhhTWMtN1NRR09OcUZpS2dYa1Y4UUZCS1ZkSnl1TC1ONUpvZFdxSkNXS21PTWZQVDVpWG4yeVNLVWtOR3VtSnBrMVBMci1fTk9hUUJxTFNMWUh2X2t3WWJ3RnlLTmFDYlhubS1nOWRwRXFlLXdfQ2Q3ZDZtX2RoNzVHN2cxNUpXVjdEbkdWSnp5ZWNHTUZhaVpuRWhuYVlqTQ?oc=5",
    "source": "SmartNews",
@@ -381,22 +380,28 @@
    "at": "2026-11-22T07:03+09:00"
   },
   {
-   "title": "なぜドコモばかりで通信障害が相次ぐのか？5G SAで12日間に3度の全国通信障害、2回目以降の発端はなお不明のまま 【生成AI事件簿】初回は最大約158万7000回線に影響、暫定措置後も障害が相次いだ背景と公表資料に残る疑問(4/4)",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBya1VocExmU2ZldExNVUVNelVpRlI2aUhhRVlyZ1lUUGNsQXBGQWlSRlRqSmp0bDB5U3lUZnlubkQ4OUYxS3ZmazZRRUtRbzJGNUlUTmU3WkJjUjFaMC1J?oc=5",
-   "source": "JBpress",
-   "at": "2026-11-22T06:00+09:00"
+   "title": "タワーレコードで1千万件超流出 通販サイトに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GN0RoQUhVOF9YS09uNVM5eEFSdF9wNUJBYUlaTXp6WW9ZNi1WdjZhR1ZxZ2RXZ20yMVZRb21JOHZEUFRIRktiRUc4cnFkN2FVcGVQS0tzeTdwdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-22T19:15+09:00"
   },
   {
    "title": "【速報】タワーレコード、不正アクセスで約1100万件の個人情報が流出",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jV2FDNGdnT3FpckpQeDJjdnBkRkw4Y3c5WENraTFmM3k3RC1RS3FqR1RwRjRRYnRSM1NrelpsTjNsUWZBZlp0TUlYMWwtLXpTdTVPZkkxS0JUdDRRcUE?oc=5",
-   "source": "新潟日報",
-   "at": "2026-11-22T19:05+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jTTBfcldLWnlSQmRPSjViVFI1aGxGOFRBZ0VIWlh2WDRaRTNQZUZyT1hSS3VfU2k4MnNXVmtwVkhQaFNMT2o0QXJwMA?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-22T19:15+09:00"
+  },
+  {
+   "title": "タワーレコードで１千万件超流出 通販サイトに不正アクセス | | 全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoR1Y0Q01XenBGNV9TS2d4X1dhZG1hSThwV2FyLWJSN0xkT1VFMEFXdkxDVE1lNU94YUNyd0V1QnBNSmdqazZvNHljZnhBYy1URElQWjJ3?oc=5",
+   "source": "佐賀新聞",
+   "at": "2026-11-22T19:08+09:00"
   },
   {
    "title": "京王電鉄、京王プレッソインのランサムウェア攻撃で18億円減収 12月にも予約受付再開へ",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CcVRqeTY5RWMtQWU4aWJXbVFnY0VkM1FQNDB3UFJWWFdYSkdyVU40UWdNTE44M1NIR2Joek1Qa0w4N3NJeXEwVURkMUtHVkltV21LYVRmQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VVjNWOElGMnJFUGZxWmIzam12WS13QTBnazNIQ0RBZzA4Y2pNc3ZYbmpnSGpMa1VOeFhYYjYxb0RvbkpSUkNF?oc=5",
    "source": "TRAICY（トライシー）",
-   "at": "2026-11-22T19:00+09:00"
+   "at": "2026-11-22T19:02+09:00"
   },
   {
    "title": "タワーレコードに不正アクセス、1100万件の個人情報流出と発表（朝日新聞）",
@@ -433,29 +438,17 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NM282OUQ4cDcxdjRhc2I1M3I3R3NwZnFXNU5KV3RpVmRKUUdYYnpXUGgycXFtdk9JanRLY1Q2VUlTczcwbENZVE1WQ0tuQXRLb1E0c3BoUnoyLTlGU0ZzX2poOFhzMU92VHZ1eTdKMkxsM0l1VFMxY09MZFE4MW8?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-22T17:51+09:00"
-  },
-  {
-   "title": "マネーのまなび【不正アクセス急増！今すぐできる資産防衛術／銀行株の選び方】",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa3BlRHpCNGV4U3pYWnlHRmRLMEhkdnlCTEJpUUtVS2d2VGt6eTdTU0dZRHhTc25rS2RqeHhidUdncVJ6SDRYelI5OFA1QnA1NDAweXhRaEVHOEZONUU4Sm5RaFhxd2dha1FuN2puVWJkZGJhOEJaRGVXSmN3eVVWOFZBUUxVYjJLcElaTTFrVGk2dw?oc=5",
-   "source": "テレビ東京",
-   "at": "2026-11-22T17:24+09:00"
-  },
-  {
-   "title": "イェビョル損保、顧客66人の情報流出　委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX2ZsS2pFX1lFZHlvSGRLcVpuckwxbGNyOTF0eF9PUkx4UEZjQ1d0YWV0YWNNSjRzZi1HT3lPU0NQcWk3S05ROUpqVjBNOTFhUE5tQ2FHS29FNEdiREcxSVhGV2pRS2NqdnkzYWZUMG9XdFM3SnJjX3FRMVU1NlNUQdIBlAFBVV95cUxPTDg3RDVIeEJsd2NIRkRaOGR0Tlk1anF3S0lIc1UyemdtcjFsNHRVNkNISWhhS0tMRDVTVlNheHhkbG9pTFNnUXktVmVvQjdzUXVRLWZFN25rZG1wTWM0b0xTaEFHMkxFN3VscjBaNmRMU3hVcVlrVDFmNElqbzZxTDV5UlVlellDOG50YjhEQkZReFJQ?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-22T16:36+09:00"
   }
  ],
- "osaka": [
-  {
-   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLXlyN1lWclFCY1RpV3B3VVBvLVREeUFkNVdtQ2JPQjBWMU53Wm1WTy1XSXAtclZyV2FfX0EwUGRfR2xndU5Qc2k4UGU0SDhTa0J1ZFpFSFk2b2c?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-22T13:59+09:00"
-  }
- ],
+ "osaka": [],
  "world": [
+  {
+   "title": "イラン、中国とロシアが核ドクトリンの変更に反対と述べる",
+   "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOSWxsT1FNR2FvcG9iVVVNV1JoSUxXWUlqUnpkZ3Z6SXc5X1RWc0FnWUU2eTMyQTZabk5sWnBfLTVWRGdpaU1oVTZneVRia1pPNmZoZWhIaXd0YmJobk5PekNMTlFZZUtLTzJXUkdlRkFqWTF5SXJTLUV4TUlQaURCb0lQcU9TMDRHRHhVNWcwbVo0YUpYT0FsZGJDcW9qc1ZURi1acGppQWppblNwdjNjczFZQ2VxWUYyNFZKTzlaUWRlN3dVZzRWVGdCSml2TlNJd0w5aTgyYWltMW56ZE1zNWRheHJCYWpSSjFzVDJOcmUybHNweXpLeEt5LTB6SnhBdjEzSnRiLUVVNDVaeXZxbjV1T09yc3JFb052US1SS0Job1dITTFIY0tpWENPekZnME81MDVtSktITGRORU1SVTdxcDNYcktCWVM5ekU4SUswTE85cDYybDBVWmVOalV5VGJoZC1fdjNSSFpzSkg4QlBhRVl0aVZXdWVTVk9hb2lzbVU5Z1BQQV9WUFpMT0U?oc=5",
+   "source": "アラブニュース",
+   "at": "2026-11-22T19:26+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "トンネルの両側にミサイルなどが一面に…イランが革命防衛隊のミサイル施設を公開 幹部「力で脅威に立ち向かうことに躊躇せず」強調 アメリカへの“けん制”報道も",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUcG81UGFJQ19YUUZIZ0FLSHUwaVVWUngzZ0JOaHByeFpzVHFfSlFLNUlmQURiQU16TTVkdm9tb3YtWUI1ek1LVVhMTk9JMW03OVVCaFRWMA?oc=5",
@@ -483,13 +476,6 @@
    "source": "Informat.ro",
    "at": "2026-11-22T17:46+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "イラン、中国とロシアが核ドクトリンの変更に反対と述べる",
-   "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOSWxsT1FNR2FvcG9iVVVNV1JoSUxXWUlqUnpkZ3Z6SXc5X1RWc0FnWUU2eTMyQTZabk5sWnBfLTVWRGdpaU1oVTZneVRia1pPNmZoZWhIaXd0YmJobk5PekNMTlFZZUtLTzJXUkdlRkFqWTF5SXJTLUV4TUlQaURCb0lQcU9TMDRHRHhVNWcwbVo0YUpYT0FsZGJDcW9qc1ZURi1acGppQWppblNwdjNjczFZQ2VxWUYyNFZKTzlaUWRlN3dVZzRWVGdCSml2TlNJd0w5aTgyYWltMW56ZE1zNWRheHJCYWpSSjFzVDJOcmUybHNweXpLeEt5LTB6SnhBdjEzSnRiLUVVNDVaeXZxbjV1T09yc3JFb052US1SS0Job1dITTFIY0tpWENPekZnME81MDVtSktITGRORU1SVTdxcDNYcktCWVM5ekU4SUswTE85cDYybDBVWmVOalV5VGJoZC1fdjNSSFpzSkg4QlBhRVl0aVZXdWVTVk9hb2lzbVU5Z1BQQV9WUFpMT0U?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-22T17:22+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "フィンランド沖でロシアの貨物船が炎上 ドローン攻撃により 軍は「ウクライナが背後にいる」可能性指摘 貨物船には武器積載か",
@@ -520,6 +506,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "中国共産党 海軍の拡張を牽制　日本　原潜導入の検討明記へ調整　年末改定の安保3文書で",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aTkFxSG1fZXc2MG9GbkJHLTF4aVh5UklsVVEyN0xyb25fUEJlNUZKa2F3SXJjMVJGcS01cTg4R2RUVm9LTmJaRGdKNUJ5RlpTVUhzeWd2T3fSAV5BVV95cUxNQXdQYWpqSktJWDFWWEhnbFNJYkRwNktITGFHZnpPVlhTT0w0ZjVfWldnRHU1MWpFSzE4RXktbXNDV21Qd2Z6Q2dEZjk0VC1JR21UdXF6MTc3NlVDTjJB?oc=5",
+   "source": "大紀元 エポックタイムズ",
+   "at": "2026-11-22T15:43+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "トランプ米大統領（ゲッティ＝共同）、北朝鮮の金正恩朝鮮労働党総書記（朝鮮通信＝共同） - 北朝鮮、米に条件提示 受諾できず首脳会談見送りか - 写真・画像(1/1)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wcy1ESWNrYUEwNkN2SXZ1ZV9wMTN4YTE3OGl4LWFaYUJaOFVGYWdWUDhYaDNzc0ZicTBudjJUNDNVdFFZMWxGMzhoa0tmNjRRU2l6UUVTMA?oc=5",
    "source": "西日本新聞me",
@@ -539,13 +532,6 @@
    "source": "南日本新聞",
    "at": "2026-11-22T15:28+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "「プーチン氏は第2のヤルタ実現できず」ゼレンスキー大統領が指摘 史上初の米中露首脳会談「ロシアにとって失敗」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONzNaZGVhczQzNHM3VTE4MFFWQTZiZ0FEUnh1bkhEZ3V3U1ZOdUl0aHFaM3dOUFJCc2hteHVTcThjaUZfSlA1UGJBSnphT2F3clI5Q0psU3dBWkxIbEdpMGthTF9HNGxSaWVDblln?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-22T14:00+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ロシア貨物船、フィンランド湾で炎上し漂流 ウクライナによる無人機攻撃か",
@@ -590,11 +576,11 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "NATO、ロシアのミサイルによるポーランド領空侵犯を協議へ",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd005cDZoV2xldmRBQmZUR2dUNXRQVzJhOFhuc2xib2l1WVhmX3R5OVljeGl2N3dhOHlVa3RHS2lyMElfTmFGTEZKZEtyRmtxMk03RmdsVjBuRWY1ZXpFZWItLTRGRGpyTGpabVRBVWVoOUdmazBPNjJNc2VBWFRHRWhkeFc0bE05b2RvakhsbEoxdXpDTWpNTU5LSzVXazNweGc?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-22T09:23+09:00",
-   "topic": "欧州・NATO"
+   "title": "だから中国船が92時間も尖閣の領海に居座れる…海保の弱腰でも自衛隊の怠慢でもない｢日本の海｣の弱点",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10VEtaUW9TdFJZUFZPR3dXQnI4Rmw4anFTVFp0UjR6NmR1TFNpQUtrOU5jQktOTlJSd25iQ3hPUy1SZ2ZYQ1JZTEI1dTJCWE1CRm1hT2xPb0o4bHdqYWIyRDdJUEhfZTdVUmRDMHZlbE5xQjF1SC1IcGJZLUJJNUU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-22T11:15+09:00",
+   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -614,7 +600,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「ミサイル」5件",
-    "ロシア：「攻撃」4件",
+    "ロシア：「攻撃」「侵攻」5件",
     "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
    "items": [
