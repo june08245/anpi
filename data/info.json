@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:45+09:00",
+ "updated": "2026-11-23T08:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-23T07:49:00+09:00",
+   "place": "天草灘",
+   "mag": "4.1",
+   "maxi": "3",
+   "maxiRank": 3,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-23T06:35:00+09:00",
    "place": "熊本県熊本地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-23T02:46:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "4.1",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -101,6 +101,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fX2pKODJUNFFOWHFBSjBOdUQ5NjdSNlZlQ0hlM2VMaElHdHN2T2g4NENnb2J4UFFNck51X1RYUFVGWDBWRGlmWjlvc0xXUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-23T07:52+09:00"
+    },
     {
      "title": "イラン、バーレーンの米軍基地へのミサイルおよびドローン攻撃を発表",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk9TQWtFNXRsNjgwUVZaS0pIVUIydU1nVUxHWjRkV1cyWUk4UVVLQ3hfS0pSWlR1azktSHJTWkJfU1hsRlFkamh2b0JlajRnMmJ0WGNiTTZ0SXRBa3JmMTdzUzk5N0FSUElFMk9sOWFKbURTVnJ1elR3OHNpWUgxNFJCM3NlUldPZlVUcEdOSl9fMHEyVENnM0xncF9zNlZrWncwUGpXd0dxRy1YbWZrdzBUWQ?oc=5",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUcG81UGFJQ19YUUZIZ0FLSHUwaVVWUngzZ0JOaHByeFpzVHFfSlFLNUlmQURiQU16TTVkdm9tb3YtWUI1ek1LVVhMTk9JMW03OVVCaFRWMA?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-22T18:09+09:00"
-    },
-    {
-     "title": "イラン革命防衛隊 バーレーンの米軍施設に攻撃と主張",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcGxDTW40bzFoTFY5WVczWTN6dXQzdnF0aEN1b2toZ3ZTZENmTm5PVWFTeDUxb19tNWNkcHRqSGZHUDhCSjBuN1BPNzJ4cnBRRWZ2TkZ5bEp6QnBwcXM3RDdzaw?oc=5",
-     "source": "テレ東BIZ",
-     "at": "2026-11-22T17:20+09:00"
     }
    ]
   },
@@ -174,10 +174,10 @@
      "at": "2026-11-22T04:05+09:00"
     },
     {
-     "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SQjRobVpzeWNZa09QekR0MHhUNXU2UGFkVzhCZ0l3XzZFellUbFVGYW9xRTUyc1FIRnZjR19CYlp3NUlKcUxFVHBwN2tyMkFlV2Q2dWpHaFFJT0g1MkF0Y092cnBxTWxDWTM40gFrQVVfeXFMT1JCNGhtWnN5Y1lrT1B6RHQweFQ1dTZQYWRXOEJnSXdfNkV6WVRsVUZhb3FFNTJzUUhGdmNHX0JiWnc1SUpxTEVUcHA3a3IyQWVXZDZ1akdoUUlPSDUyQXRjT3ZycHFNbENZMzg?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-21T17:57+09:00"
+     "title": "中国共産党軍は「平和病」か　米CSIS報告書　粛清4年で高級将校101人　「実戦能力に影響」と分析",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EUmZVMy1kN0tmRjlJOHhFdWZfaHIxeHVqajBtNjRtMWEzUGdhV3M0QnJNcGsxa1FsR1BoX1hRUWxZUFpJRmJYMG9TNW9obVdNUmdwM3Z2WVLSAV5BVV95cUxOVVpEQnZPMmxmdndPSkp0RTk3NXpHdWlva01ZUm5tdlZBMktHcHJNaDVzZFQ4Vnp0QmM3akNUcF9MendZUGJzczlYdzBmZVk2WEdaQUlIQ3F0NUNHQWR3?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-21T20:55+09:00"
     }
    ]
   },
@@ -185,6 +185,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮、寧辺核施設を増築…遠心分離機を追加すればウラン35キロ増産",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVFZ3d1E4RVVRSHdzczY2ZVR3TWNwUU5OQ2x4ejJ2MzdTczBwc0tnXy1Bb0NmYXF3YjRBWVBDbUxPc2dJVGtJbGlPbkp2cU9kN3NlbjhPT2oyQUxxQ3pnYlE1dmx2emNlazdVZ0ZlOU5ETjZwVkVrX01HU1VQUzE4bGNjeDdzTmhDMk9Ib3h6Yk5QZzRBbmo4bzVpM2FCeFluU0lNTnRmS09oVG1LYnhEdUZiNlBVR1BhRDFkSUs1TUppdlRnb1NrOU40VTZXclhjeFZkdkVtQmVvc0xI0gGMAUFVX3lxTFBXcC1ONkppbXloOVpkb3RnSndNY05MeU9wQ0tyT0V1NzdPZ1M0N3BVdnhES25YOThuVFkzeTFZTldRd0hIaUxvWERuM3ROYkpWMFQ2bEJjUklVdkNGN0hMREtvV0dJa3VTekctT2dJQkgxM0VGSENKd0dLT2h4UmpNeWt1dEZfSlVHOGNK?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-23T07:44+09:00"
+    },
     {
      "title": "「北朝鮮版海上警察」延坪島で初めて確認…軍艦のような75ミリ艦砲（中央日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMW9jTWxmcmllV2F3ODY0Z2JMZEdud2hUZHJLVjJ4WWVjeEd0TVZ1ZFJTdHUySEZRSVBkZnpQRFBmbVBQdGZfNW50SEtONlgxZXlsZ29JTmZBMDctcVpMbjJtRjRGYnp4N3h2UDUyWVBQcWJjcm42Q0hJaUlqWGc?oc=5",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5cnpQSnViTk8xbTZjSVNXczZ3VDBwRm1KYjl5azE5dFEybXFfWXY5U0FscEIxSkRWQk1QTVpWVmdicDBZenFHeG1wbUVJU20ycGUyeEVjcmV4ejJf?oc=5",
      "source": "朝日新聞",
      "at": "2026-11-23T05:00+09:00"
-    },
-    {
-     "title": "北朝鮮が条件提示 米、受諾できず見送りか 首脳会談",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybl9LbTlrdi1mTWFmWGN6UlFPUmNpbzFNZm5XVEpNTndyTnRSdEVrNnJiYkxFWXVFV0E2ZHctTnN4REE5TnNpLUJtbVQ0N29NdEEtbkt5elFtV1o5VlE?oc=5",
-     "source": "福井新聞社",
-     "at": "2026-11-23T05:00+09:00"
     }
    ]
   },
@@ -240,7 +240,7 @@
      "at": "2026-11-23T07:15+09:00"
     },
     {
-     "title": "露プーチン大統領が集団防衛容認か ウクライナに欧米駐留なし条件 米紙報道",
+     "title": "露プーチン大統領が集団防衛容認か ウクライナ領内への欧米軍駐留なし条件 米紙報道",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMjBiYkpRb21xcE1KS0M2cWZmZkJPMENZenpTbFdlblUtQ3FKbmZJaXRiNEFmbUxqMWo4TUxWOW5ncEtORm1PWGFTMWgtS19wdzZoU25jVTV2amM2S3lBOVlBWkNuQjNYdVlwelNhdlZ3MDItMFE?oc=5",
      "source": "産経ニュース",
      "at": "2026-11-23T06:59+09:00"
@@ -380,6 +380,12 @@
    "at": "2026-11-22T18:18+09:00"
   },
   {
+   "title": "ドコモ高速通信でまた障害 復旧に８時間、先週に続き",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jY0lQY29kbGxmMDE5a2lBU0ZVaktYdWJnMGN6SlBybHhoaW9ja2J3dGU0MlVBLWRZUnlrR1MtUEZOa1kybm5EQTlqTVZreXNHTU9vYmM4bUJSdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T13:55+09:00"
+  },
+  {
    "title": "NVIDIAを揺るがした｢人的リスク｣は他人事ではない､アメリカ中間選挙後に変わるサイバーセキュリティの焦点",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tRnotUEdubnlVMkJHQlRjQmxfeTYwRXFQQlRqUU1uSjhqSC12ZXFtZHNHMHMzQVV6OVVmeF9aTXZqRmI4eHBBQjg1QmhWVVNUOVd1OHY1U3R1MGU3NWJldlc0dVJNV090cVpSelRBdGw?oc=5",
    "source": "Infoseek",
@@ -392,22 +398,10 @@
    "at": "2026-11-23T06:15+09:00"
   },
   {
-   "title": "米FBIの犯罪データベース不正アクセス、犯罪歴、指名手配、逮捕状など情報漏えい疑い",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRFphaHFlMk5mV1llTGx1WjZLTDQ5TVNVb2lxQmlmMS1URkNGUEMyRHZIbXg0WEhVYm05N0hvb3A5R0ZrWDlCLVhNV3MyejJoTWFz?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-23T06:03+09:00"
-  },
-  {
    "title": "マイナンバー情報、約150円で売買も――サイバー攻撃時「すぐに事業を止める」覚悟はあるか 問われる経営の責任",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42VzdQQjhWTV8zZnhYUXlLRjVLUGExbjk0dXcydGtlN2l0ei1fall2ZzdzTlN4SS1ONVpDeEo2emFVeTMwd1c1ejU4VllCRDV3RUlvTnFXZ0loS05vOWV4VEFBN3RaRWVTOWMxWkZpOXZIaDJLT211WUN1ZFNjVVE?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-23T05:32+09:00"
-  },
-  {
-   "title": "タワレコ、個人情報流出 １１００万件、不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NeUxwTFBFd1ZfNGdnVEJqQnlfcExNc3AzamNrRTVNSDQwSFFLc2c4NjEyVC1sc0tjTE9Nck1xVlBDR1BZVHNmd1lxZ19KTWhQY0liV2pwX0w2YnlBdUltRQ?oc=5",
-   "source": "琉球新報デジタル",
-   "at": "2026-11-23T05:00+09:00"
   },
   {
    "title": "個人資産は7億8000万円！ 古川サイバー大臣の資産運用方法とは？ 「妻の保有分はさらにすごい」",
@@ -434,14 +428,41 @@
    "at": "2026-11-23T02:00+09:00"
   },
   {
-   "title": "不正アクセス確認の「テレ東マート」個人情報やクレカ情報の漏えいなし サイトの閉鎖は続く「安全性が確認され次第、改めてご案内」",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hcWVtY2FnUzNINkRiUy1YM01mbVNrTFFaZjBacnNnTHZjT0Q0dkVIZl9mLXphM2VCeU5CcUVKY1F5WkdVemxzRGlnRjVZOGpfc0ZlN1hRRGRZZjQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-23T01:43+09:00"
+   "title": "タワーレコード、個人情報1100万件流出 不正アクセス受け",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQXRwLXBuSVRyVHZJT2wxRDdwWXllSnF2R3JVTmg0T2JDYUhSbWE4cWY3dFFvVTluR0N4eXA3ZWhDYmpsZXV6eWRVajYwal96RDhKLXJqaHJqNnRLMmxNajV6N0RIWGVWU25IVg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-22T20:58+09:00"
+  },
+  {
+   "title": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMUTJqbU5Wem5ibTF2MktDek1fSldINnRhaWtaeGNLR241bW11cEtST2Z4MTd5SGJUUkNRVFphMFY5U3NKMFE?oc=5",
+   "source": "Togetter",
+   "at": "2026-11-22T20:57+09:00"
   }
  ],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLXlyN1lWclFCY1RpV3B3VVBvLVREeUFkNVdtQ2JPQjBWMU53Wm1WTy1XSXAtclZyV2FfX0EwUGRfR2xndU5Qc2k4UGU0SDhTa0J1ZFpFSFk2b2c?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T13:59+09:00"
+  }
+ ],
  "world": [
+  {
+   "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fX2pKODJUNFFOWHFBSjBOdUQ5NjdSNlZlQ0hlM2VMaElHdHN2T2g4NENnb2J4UFFNck51X1RYUFVGWDBWRGlmWjlvc0xXUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-23T07:52+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "北朝鮮、寧辺核施設を増築…遠心分離機を追加すればウラン35キロ増産",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVFZ3d1E4RVVRSHdzczY2ZVR3TWNwUU5OQ2x4ejJ2MzdTczBwc0tnXy1Bb0NmYXF3YjRBWVBDbUxPc2dJVGtJbGlPbkp2cU9kN3NlbjhPT2oyQUxxQ3pnYlE1dmx2emNlazdVZ0ZlOU5ETjZwVkVrX01HU1VQUzE4bGNjeDdzTmhDMk9Ib3h6Yk5QZzRBbmo4bzVpM2FCeFluU0lNTnRmS09oVG1LYnhEdUZiNlBVR1BhRDFkSUs1TUppdlRnb1NrOU40VTZXclhjeFZkdkVtQmVvc0xI0gGMAUFVX3lxTFBXcC1ONkppbXloOVpkb3RnSndNY05MeU9wQ0tyT0V1NzdPZ1M0N3BVdnhES25YOThuVFkzeTFZTldRd0hIaUxvWERuM3ROYkpWMFQ2bEJjUklVdkNGN0hMREtvV0dJa3VTekctT2dJQkgxM0VGSENKd0dLT2h4UmpNeWt1dEZfSlVHOGNK?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-23T07:44+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "「北朝鮮版海上警察」延坪島で初めて確認…軍艦のような75ミリ艦砲（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMW9jTWxmcmllV2F3ODY0Z2JMZEdud2hUZHJLVjJ4WWVjeEd0TVZ1ZFJTdHUySEZRSVBkZnpQRFBmbVBQdGZfNW50SEtONlgxZXlsZ29JTmZBMDctcVpMbjJtRjRGYnp4N3h2UDUyWVBQcWJjcm42Q0hJaUlqWGc?oc=5",
@@ -471,7 +492,7 @@
    "topic": "ロシア"
   },
   {
-   "title": "露プーチン大統領が集団防衛容認か ウクライナに欧米駐留なし条件 米紙報道",
+   "title": "露プーチン大統領が集団防衛容認か ウクライナ領内への欧米軍駐留なし条件 米紙報道",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMjBiYkpRb21xcE1KS0M2cWZmZkJPMENZenpTbFdlblUtQ3FKbmZJaXRiNEFmbUxqMWo4TUxWOW5ncEtORm1PWGFTMWgtS19wdzZoU25jVTV2amM2S3lBOVlBWkNuQjNYdVlwelNhdlZ3MDItMFE?oc=5",
    "source": "産経ニュース",
    "at": "2026-11-23T06:59+09:00",
@@ -527,13 +548,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "北朝鮮が条件提示 米、受諾できず見送りか 首脳会談",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybl9LbTlrdi1mTWFmWGN6UlFPUmNpbzFNZm5XVEpNTndyTnRSdEVrNnJiYkxFWXVFV0E2ZHctTnN4REE5TnNpLUJtbVQ0N29NdEEtbkt5elFtV1o5VlE?oc=5",
-   "source": "福井新聞社",
-   "at": "2026-11-23T05:00+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "バーレーン、ホルムズでタンカーが攻撃された中、イラン攻撃で負傷者2人",
    "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxNY3lNczBzWkFjX0Z4bWZ2b3AyTWFQYjMzaGl3dTZ3TEl0SXFuNkxkVktldV85YjZhYzlCLUJSVUZiYVBHQVJkVmFBdjlVYnpFTXh1YnlKLWpLaTRaNWxQeVd2blBEaFZRb0VwbWxkMnFRdjFia2JQeU5ST2RVNXhSazliRTZWZmxHUGNJNGZQX0VGUWI4STl2YTlmOGNkQm5WeXA5LU45cG5nejl2b201VFBWUW9acjVwbWpVcjRHY0pXUGVleXZ6bzhUM1J2eXF5SUQ3TmlCdXFqUkZuNmhLa1JOUDZ1eEhpZ05ER3hqZXNMa3U4b1JkR0stNzMzekczSFVmXzFqb2Vqem9oZkl5bUVnQzM0aXQwM21LZ19tOENZTFY4bFpTT2tNaE5ZeHVROXpSdWhIVFVaRmtVSGpLVUp2cFRSN1ktckI4R3VTaFF0RWpVdGhjUml4bEZhejVEeHhBREZWcG9vSmRLRFRoMW95ckEwN3hnbUI1WFBYYklXYWlZTmlQUFVpeEpuYk5XMlVMNVZqZF9LT1J6YnJ3SkZPSjUzSHNyVWRTbklvUllLZmxtSnZ3MWxzbjFKQ3dVU2tUa0FjVDdzU1I5?oc=5",
    "source": "アラブニュース",
@@ -574,13 +588,6 @@
    "source": "毎日新聞",
    "at": "2026-11-22T21:10+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "フランスは、国家テロ対策検察官オリヴィエ・クリステンによると、テロの脅威により引き続き「高い緊張状態」にある。",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWJjRDlPN29kSHAtQ3c5aGdyTU5FdVNYUXhhcDQ5ekdXdXVQTUxQNjhaOUV6aUlEX1JsUFhTTFRqYWVjajhaZHpzT1VpeW1IaWhwS1pMNm9RMFBYNXBaSzZiWG9TZmhwX2ZwR3k3YVpCS2tmc1ZoVDc0bmdSNWQ3VlRBejE1ZEJDUFg2ZVN6MUxtMWg5RGxHLU5QMVZabEIxQW5UdXVqMzlfMmdx?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-22T20:45+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -605,10 +612,10 @@
    ],
    "items": [
     {
-     "title": "イラン、バーレーンの米軍基地へのミサイルおよびドローン攻撃を発表",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk9TQWtFNXRsNjgwUVZaS0pIVUIydU1nVUxHWjRkV1cyWUk4UVVLQ3hfS0pSWlR1azktSHJTWkJfU1hsRlFkamh2b0JlajRnMmJ0WGNiTTZ0SXRBa3JmMTdzUzk5N0FSUElFMk9sOWFKbURTVnJ1elR3OHNpWUgxNFJCM3NlUldPZlVUcEdOSl9fMHEyVENnM0xncF9zNlZrWncwUGpXd0dxRy1YbWZrdzBUWQ?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-23T05:02+09:00"
+     "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fX2pKODJUNFFOWHFBSjBOdUQ5NjdSNlZlQ0hlM2VMaElHdHN2T2g4NENnb2J4UFFNck51X1RYUFVGWDBWRGlmWjlvc0xXUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-23T07:52+09:00"
     },
     {
      "title": "リビア停泊中のロシア軍艦に攻撃 ウクライナのドローンによる長距離攻撃の指摘も",
