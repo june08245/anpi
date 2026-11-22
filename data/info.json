@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:00+09:00",
+ "updated": "2026-11-22T11:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -229,9 +229,9 @@
    "items": [
     {
      "title": "フィンランド湾でロシア商船にドローン攻撃、火災発生 フィンランド国防軍「ウクライナによる可能性高い」",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZN01aR2xMdEJHdGVTS04tSzFtV2RDWFZTRF92SVR3WWx2N3N4YU1xZk1MRUh5bVNINkY2Q3hDNWJ0TzNsdzNNN1lqaVdGM2lyRUVHeW1UalZkUDdvRjF3MTdVdFVNSlQ1eWpPSHU1enVEbUZreUQwaGRMb3Rzdzg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-22T09:36+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NUE44MU1jaUFLengxQk1ydVBBS1RNRXBPNkN1SHNGYktWaWZpWFNqTmhpV0VYeTUtekRXbUhjWXE4c3kzRjk0NlAwWUxoUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-22T09:35+09:00"
     },
     {
      "title": "フィンランド近海でウクライナのドローン攻撃、ロシア船が炎上（ＡＦＰ＝時事）",
@@ -353,20 +353,14 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWRtVzVtc1N3Ynp2cDgtQWRXaHdlcnNCdEptNmlEVm9ieldyZE91WGVJekt0RXRseHRpUmt0eVlXd3RuTXA4eUdsS1l0ZXFWSnBXYS0wTGc3ZkxWRURQa3RtenZZWXpSOVJtdE1tb2xlbWNxN2I4REhFZkptaW5sX0FUcmZCLTFLUWdBd21lQXU4SExQT041YXRNQUZTMVlBTEJ0TnhTUmtYcVRs?oc=5",
    "source": "IDNFinancials",
    "at": "2026-11-21T19:30+09:00"
-  },
-  {
-   "title": "キーウで国家非常事態庁(救助隊)の爆発物処理班がロシアの弾道ミサイルの弾頭を回収",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEJaUTZXUUZndXZsYkR2MlRPeEgtS0dLTFhkWWhzY0Y5U2FGS19ZV0RqTnhqa0JBcDdMSm40bGJ0c2YxWVcwNjA4Uk04VmNjeWk2bjJPdW9BUm1WN0VUVGFTQjhCbFVpV21EejJUTEFJM1U4VEpYSTBSVUFCN3pqcWhpMG5OQWNtUTdiRmtDZl8ybE1zbDlBU2lB?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-21T12:06+09:00"
   }
  ],
  "cyber": [
   {
-   "title": "相次ぐシステム障害、背後にある「恐ろしい現実」とは | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQaUxlWGxrWGVGc2V6LWlXbXhqZklGLS15MmF0MnFLTldRQW1ZakUtLXVoNks2YnhhQ0ZQM2hRbGE5dGJkdEl2N0pRUWV3Mm4zYmRnSEtKZ1RwVVk5Q18ycUFWYkdzSmFBZ2ZkMmpwNzlMT09BSHFFS1hEdW9HN20ta2FSZ2hpMEVWcVJjN3dXWFFKWlYxQmR4ZzdVeGpwV1h2X1ZxeHNTbWpaMzZQaTJ6alpnNEh6bi1vWE9jNUtpNTR0bmVfUHVmS2tCNDJuYVYtZDFISGdRUk4tM1FWY1NoTjNuYVJORlc0VVBRMGNpRHRvY0RBTXBIT3ctajdlQXhhTWMtN1NRR09OcUZpS2dYa1Y4UUZCS1ZkSnl1TC1ONUpvZFdxSkNXS21PTWZQVDVpWG4yeVNLVWtOR3VtSnBrMVBMci1fTk9hUUJxTFNMWUh2X2t3WWJ3RnlLTmFDYlhubS1nOWRwRXFlLXdfQ2Q3ZDZtX2RoNzVHN2cxNUpXVjdEbkdWSnp5ZWNHTUZhaVpuRWhuYVlqTQ?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-22T09:53+09:00"
+   "title": "相次ぐシステム障害、背後にある「恐ろしい現実」とは",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VRFhGdUhTZjhiMHUxWUdoYzNOSlEtTFg1NjkxYlFTOEpxSE5Va2djY0RvaGlXUWgtTU9KMzk3STJVUGhCV1c0Y0xDcFlkV0RvRVJuY0NtdlR0djdCQzYweEFZaFFEZnM0Z1RxVUxIemhnNldlNnNR0gF8QVVfeXFMUFhHQlRfelBsWC1STjdTWkpKNXBueVBxbWU1VlhPV0czbVprUWU1U2pkdGV6MTd0UE9wTVJpdlNMTlZZQXJNNmVrc2xyaDVvSjRYNERWMGM2MnM3VXJ0NjlKbnNEOW45bjl6cE5MLWMyWDZ2eTVUN1JaMUhkUA?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-22T09:52+09:00"
   },
   {
    "title": "米農務省とFBIにサイバー攻撃か、相次ぐ障害で懸念高まる（ＡＦＰ＝時事）",
@@ -411,16 +405,10 @@
    "at": "2026-11-21T17:05+09:00"
   },
   {
-   "title": "米で相次ぐ大規模システム障害―専門家は「相互依存」と「AIによる急速な修正」を指摘",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81T3ZpZzY4VktSRXlqQnhncWY3T2ppbElfQm80X28waUROQjYwcGRldWRTWDNRLU9CSmJPeU90ZEd5R05sY2tTRjJyRm5nSkpkX1JxamlERjBnUjYxZXFQeF90Y9IBaEFVX3lxTE8wdEZhZ283Wjh4R080MHh6RW13S0t1Z2E3Ylk1RmlXYmVNeWlLMmRfb01mVmhfN2JGNkdJQVU1OUZqWlQwRG84aVg3bFJLTk5vQl9aOWJNVXdqclNXYWowMVVMWTg1NjFn?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-21T16:55+09:00"
-  },
-  {
-   "title": "[写真]米で相次ぐ大規模システム障害―専門家は「相互依存」と「AIによる急速な修正」を指摘",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sbXdZSVQzaEZhTjNoRlE0UndJYndwbXp5YXRYdkszMjZpOE9aTkxwQnZNSVhzMXpaek94VkVFLXpUeFlIZ0Y5U2xOM050M1FKV1JVSg?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-21T16:55+09:00"
+   "title": "ビットコインのプルーフ・オブ・ワークはAIサイバー攻撃を阻止できると元宇宙軍局長",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRElwYUJWWEptVmlBMkx6cHBnRnNJUkNVNEpVclNtQVFzQlRLNE1EQi1tWjVHZF90US1wb0FoT3JfMkp1MGhnMGhnOHFRT3hiZ1Nsc3dhUURDSmdGMF94ekZpY0txWXZhLWhoUzJCSFI4S0xDbHhkcjdFdDJnRnN6YmF4cWNobUxqb2g0RnpGbW5jdHZlclB2dnNweFZOZ3RESEtVTmVjMlFoOVh5RVJaS2ItbjlPaC1fdndlZDkxbjFJTUVHVUROLUUtaw?oc=5",
+   "source": "Bitcoin News",
+   "at": "2026-11-22T10:34+09:00"
   },
   {
    "title": "FBIの犯罪情報データベースに不正アクセスの疑い 情報流出の有無を捜査、アメリカメディア報道",
@@ -447,6 +435,12 @@
    "at": "2026-11-22T08:35+09:00"
   },
   {
+   "title": "水道工務店が関東全域で冬に向け受付体制を強化 後払い決済にも新たに対応",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54UW5sQ2F6ejVickd5Z19hakw5Y3UwZVcxRHdqVXloR2M2R1pnM1FCSUZQREh3SHZIX1NfOEJPY0NfVHRGMDBz?oc=5",
+   "source": "Dellows News",
+   "at": "2026-11-22T08:15+09:00"
+  },
+  {
    "title": "「AIは銃のようなものに」 銀行口座･インフラも標的 専門家が警鐘 急増するサイバー攻撃 被害どう防ぐ（CBCテレビ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OcGxZYmFPQXhBVW9YRU8xbDRWYmI4MUlwaVdmYWdDUUdSOUdKdmpQdU5OeXhPbWpVMnhUam5UOU9NYVRvZVpycXF0NTk0Q2hzRVAtTGhZZzZadnV2cUo1T1NWcWo0ajRYTmhJbTY4UmwtYXNEaFlhYWxoNmJ0Q0k?oc=5",
    "source": "Yahoo!ニュース",
@@ -471,9 +465,9 @@
   },
   {
    "title": "フィンランド湾でロシア商船にドローン攻撃、火災発生 フィンランド国防軍「ウクライナによる可能性高い」",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZN01aR2xMdEJHdGVTS04tSzFtV2RDWFZTRF92SVR3WWx2N3N4YU1xZk1MRUh5bVNINkY2Q3hDNWJ0TzNsdzNNN1lqaVdGM2lyRUVHeW1UalZkUDdvRjF3MTdVdFVNSlQ1eWpPSHU1enVEbUZreUQwaGRMb3Rzdzg?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-22T09:36+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NUE44MU1jaUFLengxQk1ydVBBS1RNRXBPNkN1SHNGYktWaWZpWFNqTmhpV0VYeTUtekRXbUhjWXE4c3kzRjk0NlAwWUxoUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-22T09:35+09:00",
    "topic": "ロシア"
   },
   {
@@ -625,9 +619,9 @@
     },
     {
      "title": "フィンランド湾でロシア商船にドローン攻撃、火災発生 フィンランド国防軍「ウクライナによる可能性高い」",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZN01aR2xMdEJHdGVTS04tSzFtV2RDWFZTRF92SVR3WWx2N3N4YU1xZk1MRUh5bVNINkY2Q3hDNWJ0TzNsdzNNN1lqaVdGM2lyRUVHeW1UalZkUDdvRjF3MTdVdFVNSlQ1eWpPSHU1enVEbUZreUQwaGRMb3Rzdzg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-22T09:36+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NUE44MU1jaUFLengxQk1ydVBBS1RNRXBPNkN1SHNGYktWaWZpWFNqTmhpV0VYeTUtekRXbUhjWXE4c3kzRjk0NlAwWUxoUQ?oc=5",
+     "source": "FNNプライムオンライン",
+     "at": "2026-11-22T09:35+09:00"
     },
     {
      "title": "ロシア巡航ミサイルがポーランドに落下 NATOが対応協議へ (2026年11月22日掲載)",
