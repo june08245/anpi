@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:15+09:00",
+ "updated": "2026-11-22T09:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-22T09:09:00+09:00",
+   "place": "茨城県南部",
+   "mag": "2.7",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-22T05:39:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -81,16 +91,6 @@
    "mag": "3.7",
    "maxi": "1",
    "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-21T12:17:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.0",
-   "maxi": "2",
-   "maxiRank": 2,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -168,16 +168,16 @@
      "at": "2026-11-21T06:00+09:00"
     },
     {
-     "title": "隠れた標的は日本？米中ロ首脳会談と中国が狙う世界秩序（Wedge（ウェッジ））",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakJlejJzUmlDRUtUOWszZkNtMVhiNElqbGxkaVZUSDMtRmRrTGFUTFVnQkw4V0xaeWNQUHQ3dHdYbTlUWHRFcFBhZ3dBN2YxbWMtNkdSUEMteE1hN1JYVkZYSFpQVGQ1aExiRGtXMnpPRHk2c1BtNzFuZDViWnFfNGFFdGkzcGpl?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-21T05:00+09:00"
-    },
-    {
      "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-20T18:24+09:00"
+    },
+    {
+     "title": "NVIDIAのチップが中国人民解放軍の研究機関に流出か 之江実験室が名指しで「台湾侵攻」をシミュレーション",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uZEtZOWZjOVpmWWlJMnRGWkw0QnZnVFJMY2U2N3c2T1ctRkNZNFVTcFVXRDZXQmh4NXBvV0xmXzBGVUgzeUdRdklpVUxlYkdYMW9fZ0tUWUh4Nng4MF9uUWx4VlJ1M3lieW5jYnRMV3EyX2pC?oc=5",
+     "source": "BigGo ファイナンス",
+     "at": "2026-11-20T16:35+09:00"
     }
    ]
   },
@@ -417,16 +417,22 @@
    "at": "2026-11-21T16:55+09:00"
   },
   {
+   "title": "BEAMS、5万6,187件の情報漏えいのおそれ プレイド「KARTE」への不正アクセスが波及",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3IxM1FNY1RvX2JOcTNPeGhVYWk5QWVaVXVEZ3o1R2FlVnYyc1pjSWsxME9wemtsTEdSZ2pCTkQxTkFOS2c0VzR4bE5QWXI2LXJxaVFDNDZjUEgyWGFMWVhIVUJIa2ZzcGNGUUNuMnZwNmpqaEpSb0FQWDREYWQwNTlzTV92WXpIUDEtTjJBeUY5ZERZeGk4U0t0VmNDelVCZXNR?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-22T09:19+09:00"
+  },
+  {
+   "title": "メルセデス・ベンツ日本、ロードサービス利用者約1万8,000人の個人情報漏えい 委託先PCSに不正アクセス、住所・車台番号も流出|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbnp1TlFBeHFhMUdzdWxQMllEbHZ1akRPUTExaURLdUgwNWVSb2JhendIbTllaDRrS0lLMXFzR0c1N1E5aUFaUzlGLWctRHhvbGp1eWF4c1Y0bDNEYXloN0lHTFM1UVA3ZVloRnhBVGRFVVh1RG5yLXNhMjBLTmFHbldaeDRYUDhSM0lKbXJ1VUVtdEwya3JOc0NrMHFXbGpqZFNDWUR2dlY2dlo2Z3BMaWcxRmc?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-22T09:16+09:00"
+  },
+  {
    "title": "JPモルガン・ビザ・マスターカード、委託先攻撃で顧客情報流出の恐れ 「n0n」が犯行主張",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1U2JxbUdCYmtDQkt4UzFVWUtKaDAwOXpTdnhhTUxlZU9EQ0J4QzZNVHpoanRITndLdlpFa2NLYUltNzN1eXE2VXphYjIzOHlwNjlwTG9sSHVfQi01S0d1aS1qSXh2Z2RWNnVyR0tFN3liLUJZ?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-22T08:35+09:00"
-  },
-  {
-   "title": "ビザ・マスターカード・JPモルガン、委託先へのサイバー攻撃で顧客情報流出か",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PZnhfSDJkam1RREFleGlnc0lmWEk2eTlUZGU5MWJBRDQzSS0wbC1Cd2txSFBKSWpGdDdMVkpnaDBsVkR4emFGY2VDRXZFa0k?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-22T08:14+09:00"
   },
   {
    "title": "「AIは銃のようなものに」 銀行口座･インフラも標的 専門家が警鐘 急増するサイバー攻撃 被害どう防ぐ（CBCテレビ）",
@@ -445,12 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa3BlRHpCNGV4U3pYWnlHRmRLMEhkdnlCTEJpUUtVS2d2VGt6eTdTU0dZRHhTc25rS2RqeHhidUdncVJ6SDRYelI5OFA1QnA1NDAweXhRaEVHOEZONUU4Sm5RaFhxd2dha1FuN2puVWJkZGJhOEJaRGVXSmN3eVVWOFZBUUxVYjJLcElaTTFrVGk2dw?oc=5",
    "source": "テレビ東京",
    "at": "2026-11-22T07:15+09:00"
-  },
-  {
-   "title": "「Payどん」全サービス停止 不正アクセスで25万件余り漏えいか 鹿児島銀行など4行が共同運営 交通決済の開始から1カ月 プレミアムポイント販売も2度目の延期（FNNプライムオンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyRzZPLWpEd1lHVVJIMnBZaWVza3Y1X3o1cUtMVGNkb2EzM0hQTUFIb19CMml5bmtMazFITzBKX2VmTGpNTnZLcW9NT214dDFhcm9tZ1ZwQzlZZkI4QkR6bmVaSW9GRURfWXNyejZtdkEzX0JDR2wwQy1MS2c1eXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-22T07:08+09:00"
   }
  ],
  "osaka": [],
