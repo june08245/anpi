@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:45+09:00",
+ "updated": "2026-11-23T06:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -120,12 +120,6 @@
      "at": "2026-11-22T22:23+09:00"
     },
     {
-     "title": "レバノンのアウン大統領、イスラエルの占領とイランの干渉の終結を要求",
-     "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQTGlRZlhZTWQ3am5BLTBqSXRnbTFicUlTNkxRa2NqakRtUlpSMDJadFdXZ1BFQU5aSG10UFpIbGVPNFUwZ1RsSk9fMHZZMWkwc09BQklXMGhiTzY0TWFhb1dQTllZUmVMWlFHZVFyN1REU1A2SnVhQW5YTFI2cFc3SG5obUExVi1HbkhNQThNdzBkUk9nS2h6WjhQZ2ExZWN5dlpuNl9ZR0h1cUNNRUxtdTdMMEROcW5tNldXUWhfd3A0Vmw3U29rYWgzdENmb1lrOHNkc1hMMTVMdVRnT2NmSXhNM0dYWVlicDNMT1A1VG9mRUJkLXFleTVORzlLNUs2MjdfMmJyNnNVcUJBQkV5S0o1RWhxTFhUMWdJMVNWV2h5ZzZrZU5ya2dDWHF6eDZvaUZiallFS1VTblQ4ZUd1OW5qVENRaDJkd0xhTGp0RFNySWJmWndLZGdmWURZZm5VbmV0Y2FSRkJVOWprbFJXWEF0RjVMYXdhcUstMUJQQ0dYQm52bllqR2UzemFwY1lCTGRXOW1HN1RxUXhjd1NFdzh0NGZLXzNvWDlnTi1JOHZiU25Cc3V5OXpaWUNmRl85cG9sTWpXWEh1TmJjbGVxZ2ZWUHB0YkE?oc=5",
-     "source": "アラブニュース",
-     "at": "2026-11-22T22:06+09:00"
-    },
-    {
      "title": "イラン、バーレーンの米軍施設攻撃＝今月４度目、「報復」主張",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81cFpia01BTlpzY0thcEZZSkctYklwTXFyYU81UmtZXzIwbFNjM1NNVFllWDZ4Z0VfbTZBbUlqcVN6WjZWMHNQb3BaRkZwTUppaHN5ZjlRVGN4ZEVyeDlV?oc=5",
      "source": "Excite エキサイト",
@@ -133,9 +127,15 @@
     },
     {
      "title": "トンネルの両側にミサイルなどが一面に…イランが革命防衛隊のミサイル施設を公開 幹部「力で脅威に立ち向かうことに躊躇せず」強調 アメリカへの“けん制”報道も",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85Z2I0X3R3MDd6blFpU0NPcnBaQ3VvcHduZS1ZYXNrQV9LQk9Rd0ZMbnBRM1d6a2M2OUhReDc2Z2dOcWRtWE5keEJnQW1kdWE0aTBidmVvaE5DczBidjFyWTVnTHRQTHZDbXpKV3hjM3p5Y3M?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-22T18:24+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUcG81UGFJQ19YUUZIZ0FLSHUwaVVWUngzZ0JOaHByeFpzVHFfSlFLNUlmQURiQU16TTVkdm9tb3YtWUI1ek1LVVhMTk9JMW03OVVCaFRWMA?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-22T18:09+09:00"
+    },
+    {
+     "title": "イラン革命防衛隊 バーレーンの米軍施設に攻撃と主張",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcGxDTW40bzFoTFY5WVczWTN6dXQzdnF0aEN1b2toZ3ZTZENmTm5PVWFTeDUxb19tNWNkcHRqSGZHUDhCSjBuN1BPNzJ4cnBRRWZ2TkZ5bEp6QnBwcXM3RDdzaw?oc=5",
+     "source": "テレ東BIZ",
+     "at": "2026-11-22T17:20+09:00"
     }
    ]
   },
@@ -410,16 +410,22 @@
    "at": "2026-11-23T02:00+09:00"
   },
   {
-   "title": "京都大学で学生や教職員のメルアド4万2399件流出　安否確認システムに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVRwMFNzdlY4MGp3RUZfS0NTeG82ZkpISmtJeVVxRXJ1TklZQ3l2bUswbFlZR18wWnlMc1B4WUlfaTZwX1QxSHY0M3RpeW03VFFLekFWeGI3N093RTctSEFPV2xwY3kwMUpOenVaTkRiTFA0LU1RR0IwNFJqN0lSdTExLTljQdIBiwFBVV95cUxNc1JiMHRBaUtGNjViVFJyZUtkN3EtYUZ3WVdabDJ1emxockFDVHUtSlNuZnlzSzJaNFFnYjg1eGI2Zms3Y2MyQ1VqbVV6NlJQODMwQXc1SGRwRHYxeWE0WTJCemdEcGc3Qmx5Ym5FQnhtMGxqb25LU0JCVk1veXNjcUlfT0ZvbkZhTHJr?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-23T01:09+09:00"
+   "title": "「FBI記録システムハッキング」との報道にトランプ氏反応",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNGJ3enNtVnBSeTlvWlR5YjZDZFRaaHBoZWR5bTRfMG9CbUZRbGJDN2tyLTVuclMyVVpqN3VKcHFOemFOUFlPWjJjWHk2Q1prRGZpUWJFUVc3S3ZGWUHSAV5BVV95cUxOWjRid3pzbVZwUnk5b1pUeWI2Q2RUWmhwaGVkeW00XzBvQm1GUWxiQzdrci01bnJTMlVaajd1SnBxTnphTlBZT1oyY1h5NkNaa0RmaVFiRVFXN0t2RllB?oc=5",
+   "source": "大紀元 エポックタイムズ",
+   "at": "2026-11-22T21:00+09:00"
   },
   {
    "title": "タワーレコード、個人情報1100万件流出 不正アクセス受け",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQXRwLXBuSVRyVHZJT2wxRDdwWXllSnF2R3JVTmg0T2JDYUhSbWE4cWY3dFFvVTluR0N4eXA3ZWhDYmpsZXV6eWRVajYwal96RDhKLXJqaHJqNnRLMmxNajV6N0RIWGVWU25IVg?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-22T20:58+09:00"
+  },
+  {
+   "title": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMUTJqbU5Wem5ibTF2MktDek1fSldINnRhaWtaeGNLR241bW11cEtST2Z4MTd5SGJUUkNRVFphMFY5U3NKMFE?oc=5",
+   "source": "Togetter",
+   "at": "2026-11-22T20:57+09:00"
   },
   {
    "title": "10月の日本狙ったサイバー攻撃、前年同月比82％増 背景にAIによる自動化 対策急務",
@@ -432,12 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BaVlqMGZGaV85ZEc0LTJiNDNPUFlGcC1FdzZHTjVtc0I4ZmFMNlRkT0xFWDNIaGFSMG5MMGFNSjZfaGx4TEluN1BnU2E5ZXM?oc=5",
    "source": "Newscast.jp",
    "at": "2026-11-22T20:43+09:00"
-  },
-  {
-   "title": "タワーレコード通販サイトに不正アクセス、会員1100万件の個人情報が流出",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1obFYwaXVmb1BDZUVleER5b2FRTXVnVmx0Z2c3dFQ5bjBSTWJiYnNNenF2akRNSFNQbTJHRWpmMUhBTnZCMWdzRnVDVjU3dmpJU2FJbE9WeW1IUUd6V3Axd1RJb1U2US1NN1pUTzlteXM2Q3VT?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-22T20:35+09:00"
   }
  ],
  "osaka": [
@@ -520,13 +520,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "レバノンのアウン大統領、イスラエルの占領とイランの干渉の終結を要求",
-   "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQTGlRZlhZTWQ3am5BLTBqSXRnbTFicUlTNkxRa2NqakRtUlpSMDJadFdXZ1BFQU5aSG10UFpIbGVPNFUwZ1RsSk9fMHZZMWkwc09BQklXMGhiTzY0TWFhb1dQTllZUmVMWlFHZVFyN1REU1A2SnVhQW5YTFI2cFc3SG5obUExVi1HbkhNQThNdzBkUk9nS2h6WjhQZ2ExZWN5dlpuNl9ZR0h1cUNNRUxtdTdMMEROcW5tNldXUWhfd3A0Vmw3U29rYWgzdENmb1lrOHNkc1hMMTVMdVRnT2NmSXhNM0dYWVlicDNMT1A1VG9mRUJkLXFleTVORzlLNUs2MjdfMmJyNnNVcUJBQkV5S0o1RWhxTFhUMWdJMVNWV2h5ZzZrZU5ya2dDWHF6eDZvaUZiallFS1VTblQ4ZUd1OW5qVENRaDJkd0xhTGp0RFNySWJmWndLZGdmWURZZm5VbmV0Y2FSRkJVOWprbFJXWEF0RjVMYXdhcUstMUJQQ0dYQm52bllqR2UzemFwY1lCTGRXOW1HN1RxUXhjd1NFdzh0NGZLXzNvWDlnTi1JOHZiU25Cc3V5OXpaWUNmRl85cG9sTWpXWEh1TmJjbGVxZ2ZWUHB0YkE?oc=5",
-   "source": "アラブニュース",
-   "at": "2026-11-22T22:06+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "模索する欧州：露ハイブリッド攻撃への危機感高まる 強じん性の向上急ぐ欧州",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RYmVkUnlGaW5nRm56TnhsVTJ0d1dNdV90YUpqbXNOWkpGdmEwbWtQZEc2VERveEFmTWJXN29OYVhtMmxkOHBlMFpvakJIR1YxQkt5UV83Sk9wc2lkMU54c3ZuUVFDSWUy?oc=5",
    "source": "毎日新聞",
@@ -563,9 +556,9 @@
   },
   {
    "title": "トンネルの両側にミサイルなどが一面に…イランが革命防衛隊のミサイル施設を公開 幹部「力で脅威に立ち向かうことに躊躇せず」強調 アメリカへの“けん制”報道も",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85Z2I0X3R3MDd6blFpU0NPcnBaQ3VvcHduZS1ZYXNrQV9LQk9Rd0ZMbnBRM1d6a2M2OUhReDc2Z2dOcWRtWE5keEJnQW1kdWE0aTBidmVvaE5DczBidjFyWTVnTHRQTHZDbXpKV3hjM3p5Y3M?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-22T18:24+09:00",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUcG81UGFJQ19YUUZIZ0FLSHUwaVVWUngzZ0JOaHByeFpzVHFfSlFLNUlmQURiQU16TTVkdm9tb3YtWUI1ek1LVVhMTk9JMW03OVVCaFRWMA?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-22T18:09+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -588,6 +581,13 @@
    "source": "Informat.ro",
    "at": "2026-11-22T17:46+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "イラン革命防衛隊 バーレーンの米軍施設に攻撃と主張",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcGxDTW40bzFoTFY5WVczWTN6dXQzdnF0aEN1b2toZ3ZTZENmTm5PVWFTeDUxb19tNWNkcHRqSGZHUDhCSjBuN1BPNzJ4cnBRRWZ2TkZ5bEp6QnBwcXM3RDdzaw?oc=5",
+   "source": "テレ東BIZ",
+   "at": "2026-11-22T17:20+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -606,7 +606,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「報復」5件",
     "ロシア：「攻撃」5件",
     "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
