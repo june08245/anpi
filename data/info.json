@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:30+09:00",
+ "updated": "2026-11-23T06:41+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-23T06:35:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "2.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-23T04:32:00+09:00",
    "place": "鳥取県東部",
@@ -81,16 +91,6 @@
    "mag": "4.1",
    "maxi": "3",
    "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-22T22:33:00+09:00",
-   "place": "神奈川県東部",
-   "mag": "3.0",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -228,16 +228,28 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ウクライナ、ロシアの軍艦攻撃か リビアで複数の無人艇、報道",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0waW1CVUNIdVBZQTlscnFJSlNEWW1oc2xWbFNOdjd5bWtESjZCWTR3OFFiWmwxMHh5UnBpMm1XbnM0YkZmbFNic1BLdzFPemdjNU40SzN1UG9SZw?oc=5",
-     "source": "北海道新聞デジタル",
-     "at": "2026-11-23T06:24+09:00"
+     "title": "リビア停泊中のロシア軍艦が爆発炎上10人負傷 ウクライナのドローンによる長距離攻撃か",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzalpOTEJTNFVycklTN3R2SmJJb0g2amJGY2xJYUh6bXhCYXRaclNDVUdYM0ZwbFNmQk9meC1BZnlKVGJmN1l5Tzc1VVJCLXUxeHhSbnhTN1pnSkVUQTIyZ2xnYnEzbEVuLTJBaTdR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-23T06:37+09:00"
     },
     {
      "title": "リビア東部ベンガジの海軍基地で黒煙を上げるロシアのコルベット艦＝22日（Vantor提供、ロイター＝共同） - ウクライナ、ロシアの軍艦攻撃か リビアで複数の無人艇、報道 - 写真・画像(1/1)",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DWmZ2bGhFZnNWUGFlWVBqZjhfSWtsMHRCQ2RmX2E5NjEzWWdjektxb2tLcVp5X29EaGNaV2d0MjFlNUx3Q1k2TjNnUW1iVmVCY3F5c1lUWQ?oc=5",
      "source": "西日本新聞me",
      "at": "2026-11-23T06:23+09:00"
+    },
+    {
+     "title": "ウクライナ、ロシアの軍艦攻撃か　リビアで複数の無人艇、報道",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFF5Z1N6YzJhZlREYUhrWHI1Sm54dnRfSjVvV2ZPQmw4ZkdEdk5wS0lfTTVOSk1feDFLM3h0UUFEM2xaM0FaNkpfSjd6b1I4NWZTTTN5RkJycVVSTGVpUHJJU2d0T2hJZUlteXIxM2Y3c19EcW9mWktrZXE5M0NjN21PbnBHV0oyVjRZY2tJZ2FSV1Q4VWs4Qm9yMG7SAY8BQVVfeXFMTXNVTDFWcHpLVmJEVnJRUWJSc1FXZWNRdHByRmdxMnB0b05zWTBsQmdyb1RMM2ZzaTBXYjdkeEVNVU11RkxuUTZVN2V4RjJza2ZRUnlUN29XSnRGcklaa0kxWFpOZmZJd2NLQnA0ZkNtYm9RYU84R19wd3JOS3Vma2Nhc29FSGc5VVlVRmRJbUU?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-23T06:22+09:00"
+    },
+    {
+     "title": "ウクライナ、ロシアの軍艦攻撃か",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LZHdncTVsZFNJLU5UU0tpMzZ4REVqWC02aHVlaXpnc0I1OWZXdUtySE56RnZkYk52SzZvaE5KaWp6YjA1bHVBZG42Yw?oc=5",
+     "source": "北日本新聞webunプラス",
+     "at": "2026-11-23T06:14+09:00"
     },
     {
      "title": "リビア停泊中のロシア軍艦に攻撃 ウクライナのドローンによる長距離攻撃の指摘も",
@@ -250,18 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wUm91LTc5cDcxaTV0dUViSVpiY3RiYnlzU29OUmdJS0RjeHRwY2JnY0hSc1pzOVB0UUo5UzVVa0JWR2pFVXdQdVFmS3VTLXpNN1BUWnJhMXpCaVh4UlZTVWVXcnV0QmNUeEFHM1dB?oc=5",
      "source": "Infoseek",
      "at": "2026-11-22T20:29+09:00"
-    },
-    {
-     "title": "ディメルで、ロシア軍の攻撃による死者数が3人に増えた",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXpPN25ORVB1c1Z1aFV3VnNSZkpLNzd1SDNuT2lOeXMzQlFYQ1VmM0FrYVJqQXc5VzVhRGFDOUp1bzc0M1pZX01KbS03LTVQYTZ3d1FOZXFJNXZBQ1VnR2JpMXN5YkxCOUlmMkZKT1VoaERsaVlMR1p5djZYYlhxZkJJODlrQ3VWZEJ4elo3OFU?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-22T18:27+09:00"
-    },
-    {
-     "title": "ロシア軍の無人艇を「滅多打ち」で撃破 ウクライナ海軍が現代の「新たな海戦」を捉えた映像を公開",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUNnVHhwbzI2R1lvbWxGRHNjbi1mWlQ4MnZ6VU5BRGZnbWhPcnBUYWxYWmVyYWhWclZYM2dpQlVTQzllVGpNeXFQQkhucGlaMWRHMWlwNTVKWFRKeEdoVy1nTE96NXhENnFfRHJPdTBQT1MxSkE5NkdpOW8zb0x0NENGdEtQQlhqb01ZRml3?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-22T17:58+09:00"
     }
    ]
   },
@@ -301,9 +301,9 @@
     },
     {
      "title": "ロシア巡航弾落下の対応協議へ NATO意思決定機関",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsU2Z0aEhnMjhrWWVlTEcxTlEtNDZ4MzI0dS13RDBuUm5SdGwtNkNYMGJPN0ZyN1RScVRLUE9obTRFRXp0d2xqR3FTeW1ESmFwQ3dybVJ6QUoyZw?oc=5",
-     "source": "北海道新聞デジタル",
-     "at": "2026-11-22T05:36+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMWnBBWXFhcURBT1FweVpRSVdDVDdhY0RDLVE2V0dQdTJhb25KUkFVQnNNSnpaWkxOTlFyc3FPZ0JKaFAyaXRjaHRmdHR2UQ?oc=5",
+     "source": "NEWSjp",
+     "at": "2026-11-22T05:30+09:00"
     }
    ]
   }
@@ -350,6 +350,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "デルタ航空でシステム障害、全米の運航に遅れ",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2VweUZtRkE3MFNUYzlQY3Z1cTk5T3kyX1B6Q0RSWmNTQm02ZzFKVXBhZ1d4cUV5aFIwOFlyVXRQcXFhbjEyVFAwNzIxdk5IZlFuZ2FFUkFVNjA2dUlxZllzMVVpYTNVVnlMR0F6X2h1ZkdDZ3o5a0JSeHNsQTd0cUxRaWJ0Unox0gGcAUFVX3lxTE5rb0V2SXBkdURtQ0ItNXRlc3h0WVRWc3BCd2N6MHRUUDlGR28zX1I2emlTS1ptOWpxc0FQcGRrcm84RWR2MnZidWxCUTF4TlRxRXNxVmlEalZfZGdhSTRaSGxYRTdOOGdRUlg3ZmFSOWRDVVNpcWFiWFhldE9FdE0tNlRRYkhzZm1Mc1ljZ1BxYi1VUTVZc3BiSmtmbw?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-23T06:36+09:00"
+  },
+  {
    "title": "マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システム障害は偶然なのか",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XR0RIVHlHeWhnUi0wTFVCQ1gxckRKaDU1VXNNNWgtanFDdWpveTNfVnh0LTNoYkJ2NVc3R09jQWlLXzNLU3lJWjFtQnp1eUVOZ3MxTkpqYU1BVUhjem04?oc=5",
    "source": "東洋経済オンライン",
@@ -366,6 +372,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSzJTOVJBRVJmcFZkRGMyYnZaREF4Y0h5UGpKQ2xxeE43M09nc25IcXk0UnBaeHRjaDlKcVp6QkdLWW1xbms2TXdreUZqZjNVZlRsWG5KakpzOWhqSC0xYTBDb2VNakd3VEYzTjNxMzNWSTJNZ3RlajVLZVZoR28?oc=5",
    "source": "PANews",
    "at": "2026-11-23T00:49+09:00"
+  },
+  {
+   "title": "ドコモ、全国で通信障害 高速サービス通話しづらく",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1ZtU1BJSU5RVVM5STBLWDV1dzV1aWphMGhPSE5rVVhlcDlPMEtZb3BlWENSczNPcjdnaUd2ZkdMblZhTDhTcWFyRlJnSVQ2ZzVXVlVJS2tYRExKR3ZIcmQ5cTNlNUE?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T19:32+09:00"
   },
   {
    "title": "ドコモ障害頻発、信頼に傷 品質改善に影、政府も懸念",
@@ -426,18 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQXRwLXBuSVRyVHZJT2wxRDdwWXllSnF2R3JVTmg0T2JDYUhSbWE4cWY3dFFvVTluR0N4eXA3ZWhDYmpsZXV6eWRVajYwal96RDhKLXJqaHJqNnRLMmxNajV6N0RIWGVWU25IVg?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-22T20:58+09:00"
-  },
-  {
-   "title": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMUTJqbU5Wem5ibTF2MktDek1fSldINnRhaWtaeGNLR241bW11cEtST2Z4MTd5SGJUUkNRVFphMFY5U3NKMFE?oc=5",
-   "source": "Togetter",
-   "at": "2026-11-22T20:57+09:00"
-  },
-  {
-   "title": "10月の日本狙ったサイバー攻撃、前年同月比82％増 背景にAIによる自動化 対策急務",
-   "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOMkFnMVhadUt6MlJKT3d3ZVMxSDZjbnh0SjRPMHZ3a04wcXBFX1dFQmVoVW5yMnhDVW1kZFh1bjdmaTFqSFRLaWJISXhaYTctb2dKNXhVbEhqQU41ZTlQdXZ0el9rR2lsQlYzc3pTNTdONUJ1Tmo4b1NOYzlpVy1zdnZPbHg3Z05tS2lwbkxuVkdvUmxaMTVKQlQxYVljRUNLRUNQbGZRTmFibmVmX1U1N1BmTWlaLTV6NzBiUmhmNFBfT2h3bGNFZEdaTVF0U1d6Vzdma0pRYllsR1ktUHRmaUpJaUlmZ0FpNnYzZ2dyYS1Ncm9ScE4xUXJwZTJCbVkzRDVVRTBTSC1qdlQ5aG9PdUdWQ1VMM1RiT0Y1VGJCX3dTRjBmb0dVeTUtanlWLXdrdjVaUUxUcF9vdlZFd1hNQXM4RlRtVzAzbVlYall6UDBBZDQ?oc=5",
-   "source": "cedarnews.net",
-   "at": "2026-11-22T20:48+09:00"
   }
  ],
  "osaka": [
@@ -450,10 +450,10 @@
  ],
  "world": [
   {
-   "title": "ウクライナ、ロシアの軍艦攻撃か リビアで複数の無人艇、報道",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0waW1CVUNIdVBZQTlscnFJSlNEWW1oc2xWbFNOdjd5bWtESjZCWTR3OFFiWmwxMHh5UnBpMm1XbnM0YkZmbFNic1BLdzFPemdjNU40SzN1UG9SZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-23T06:24+09:00",
+   "title": "リビア停泊中のロシア軍艦が爆発炎上10人負傷 ウクライナのドローンによる長距離攻撃か",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzalpOTEJTNFVycklTN3R2SmJJb0g2amJGY2xJYUh6bXhCYXRaclNDVUdYM0ZwbFNmQk9meC1BZnlKVGJmN1l5Tzc1VVJCLXUxeHhSbnhTN1pnSkVUQTIyZ2xnYnEzbEVuLTJBaTdR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-23T06:37+09:00",
    "topic": "ロシア"
   },
   {
@@ -464,11 +464,25 @@
    "topic": "ロシア"
   },
   {
+   "title": "ウクライナ、ロシアの軍艦攻撃か　リビアで複数の無人艇、報道",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFF5Z1N6YzJhZlREYUhrWHI1Sm54dnRfSjVvV2ZPQmw4ZkdEdk5wS0lfTTVOSk1feDFLM3h0UUFEM2xaM0FaNkpfSjd6b1I4NWZTTTN5RkJycVVSTGVpUHJJU2d0T2hJZUlteXIxM2Y3c19EcW9mWktrZXE5M0NjN21PbnBHV0oyVjRZY2tJZ2FSV1Q4VWs4Qm9yMG7SAY8BQVVfeXFMTXNVTDFWcHpLVmJEVnJRUWJSc1FXZWNRdHByRmdxMnB0b05zWTBsQmdyb1RMM2ZzaTBXYjdkeEVNVU11RkxuUTZVN2V4RjJza2ZRUnlUN29XSnRGcklaa0kxWFpOZmZJd2NLQnA0ZkNtYm9RYU84R19wd3JOS3Vma2Nhc29FSGc5VVlVRmRJbUU?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-23T06:22+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ＷＳＪ「北朝鮮、トランプ大統領の手紙も投げ捨てた…『条件』掲げ朝米対話が決裂」 : 日本•国際",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iLS1UclN3aF94ajRoc3R3MHI3TVpQYkRNQ3Bma05YNUREZS0tdXdEdENIeDRVVVlhOG9qR3ZTdDB3T3N0Mmt4cWdHZXluQ1o2SWE4LU9kQ1dralNUQUJRSjNSRm0?oc=5",
    "source": "ハンギョレ新聞",
    "at": "2026-11-23T06:14+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "ウクライナ、ロシアの軍艦攻撃か",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LZHdncTVsZFNJLU5UU0tpMzZ4REVqWC02aHVlaXpnc0I1OWZXdUtySE56RnZkYk52SzZvaE5KaWp6YjA1bHVBZG42Yw?oc=5",
+   "source": "北日本新聞webunプラス",
+   "at": "2026-11-23T06:14+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "イラン、バーレーンの米軍基地へのミサイルおよびドローン攻撃を発表",
@@ -569,25 +583,11 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ディメルで、ロシア軍の攻撃による死者数が3人に増えた",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXpPN25ORVB1c1Z1aFV3VnNSZkpLNzd1SDNuT2lOeXMzQlFYQ1VmM0FrYVJqQXc5VzVhRGFDOUp1bzc0M1pZX01KbS03LTVQYTZ3d1FOZXFJNXZBQ1VnR2JpMXN5YkxCOUlmMkZKT1VoaERsaVlMR1p5djZYYlhxZkJJODlrQ3VWZEJ4elo3OFU?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-22T18:27+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "トンネルの両側にミサイルなどが一面に…イランが革命防衛隊のミサイル施設を公開 幹部「力で脅威に立ち向かうことに躊躇せず」強調 アメリカへの“けん制”報道も",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUcG81UGFJQ19YUUZIZ0FLSHUwaVVWUngzZ0JOaHByeFpzVHFfSlFLNUlmQURiQU16TTVkdm9tb3YtWUI1ek1LVVhMTk9JMW03OVVCaFRWMA?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-22T18:09+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア軍の無人艇を「滅多打ち」で撃破 ウクライナ海軍が現代の「新たな海戦」を捉えた映像を公開",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUNnVHhwbzI2R1lvbWxGRHNjbi1mWlQ4MnZ6VU5BRGZnbWhPcnBUYWxYWmVyYWhWclZYM2dpQlVTQzllVGpNeXFQQkhucGlaMWRHMWlwNTVKWFRKeEdoVy1nTE96NXhENnFfRHJPdTBQT1MxSkE5NkdpOW8zb0x0NENGdEtQQlhqb01ZRml3?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-22T17:58+09:00",
-   "topic": "ロシア"
   }
  ],
  "status": {
@@ -607,7 +607,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
-    "ロシア：「攻撃」5件",
+    "ロシア：「攻撃」6件",
     "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
    "items": [
@@ -618,10 +618,10 @@
      "at": "2026-11-23T05:02+09:00"
     },
     {
-     "title": "ウクライナ、ロシアの軍艦攻撃か リビアで複数の無人艇、報道",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0waW1CVUNIdVBZQTlscnFJSlNEWW1oc2xWbFNOdjd5bWtESjZCWTR3OFFiWmwxMHh5UnBpMm1XbnM0YkZmbFNic1BLdzFPemdjNU40SzN1UG9SZw?oc=5",
-     "source": "北海道新聞デジタル",
-     "at": "2026-11-23T06:24+09:00"
+     "title": "リビア停泊中のロシア軍艦が爆発炎上10人負傷 ウクライナのドローンによる長距離攻撃か",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzalpOTEJTNFVycklTN3R2SmJJb0g2amJGY2xJYUh6bXhCYXRaclNDVUdYM0ZwbFNmQk9meC1BZnlKVGJmN1l5Tzc1VVJCLXUxeHhSbnhTN1pnSkVUQTIyZ2xnYnEzbEVuLTJBaTdR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-23T06:37+09:00"
     },
     {
      "title": "模索する欧州：露ハイブリッド攻撃への危機感高まる 強じん性の向上急ぐ欧州",
