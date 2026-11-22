@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-22T23:45+09:00",
- "errors": [],
+ "updated": "2026-11-23T00:00+09:00",
+ "errors": [
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -145,7 +147,7 @@
    "items": [
     {
      "title": "米国の国際影響力、中国に対するリードが縮小－イラン戦争が軍事・外交力に打撃－アジア・パワー指数",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1I5MkpwbG05a0pxZzJMbTFxT2xSS2xQdmpPaUFzcHNPek1GNTNRenBPRURxVHZzekpDY3pWQ0RCbnYyUWJYZ0JCNEpFOVRnNHpsOTUxbGpGY3loUVAxak5EcHNyd19VVVdPcUNXUjJDa1ZUamFudWVmUUdESjZGdGUtWlRTZzZXUlBSbEhn?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QVTNVTTVBVzBHOHVDT3gyT1k1bnljMjg3OW1ZSHRKM1FFaWRsTUNmM3BkN3hzVTFpbS1aVGNxZlBSSi1UdWpROERBS3NFckpBUy1YTlluVFpfWU8xQ1BONE05UzhpOThpc1hpcDFtMEdfSlpPc3pB?oc=5",
      "source": "Bloomberg.com",
      "at": "2026-11-22T23:08+09:00"
     },
@@ -175,8 +177,8 @@
     },
     {
      "title": "渦中女性、中国軍事企業とつながりか＝エヌビディア前ＣＥＯ不倫問題",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vb0pZQThDMGZQdVBHLTU3ZmFtSnZSZVhRdmV1U25XanJSVUJwakQwRkEyNkZIQkk2TXY2djh5dThUVzJVYlROby1pbldLelJSdHNHREpxNGlGcGtIdm42WkFSdjRqaWJwTGVz0gFrQVVfeXFMTVVvSllBOEMwZlB1UEctNTdmYW1KdlJlWFF2ZXVTbldqclJVQnBqRDBGQTI2RkhCSTZNdjZ2OHl1OFRXMlViVE5vLWluV0t6UlJ0c0dESnE0aUZwa0h2bjZaQVJ2NGppYnBMZXM?oc=5",
-     "source": "Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQdIBfkFVX3lxTE9fWER0UU5xWWQ1bmZCY2NyNEJsTlM5TDJxaTVUNUVRbDE1azVtQTZNX0VnTnJtdS00UnZrMFpXMVd3dkdKWkI0UlJqTzZDQk52Q3hUVTdGcTZxWXJOMHBrc3lMVDdGalFzd2NzTUFYbU9jbE92eC1XNDMtckxwQQ?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-21T09:19+09:00"
     }
    ]
@@ -246,22 +248,22 @@
      "at": "2026-11-22T17:46+09:00"
     },
     {
-     "title": "ロシアの貨物船にドローン攻撃 攻撃にはウクライナが関与か",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sd3k4SjlybHNfcUdoVUhpZm01X21ySUZmZEZya2VpakxpWXBhTFNpQ1FyY2NKNHNKZkdtczhZd2RwX1JhQTJoTU13S2pGdF9ONlI2TnJnM052bjJNRldhQngzRQ?oc=5",
-     "source": "テレ東BIZ",
-     "at": "2026-11-22T17:20+09:00"
-    },
-    {
-     "title": "フィンランド沖でロシアの貨物船が炎上 ドローン攻撃により 軍は「ウクライナが背後にいる」可能性指摘 貨物船には武器積載か",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RVXlFZjVfc1h2MDFEd2hIUFdKUHc1S1RSdzYxbEY3NEVpU0J2T0hCTXdsbUgwM2R3d044MkJNaFFXd0w0ZWZ1LWZrSHlTV0pTMVZ3b0hsQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-22T16:59+09:00"
-    },
-    {
      "title": "ロシア軍がザポリージャでFPVドローンにより民間車両を攻撃",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4WndVbW9VZnBGaE5TYzgzYU9OaDlPVGhzUElXNnBEdjJGeWUyUHlhRE5MMUJIZ093SXhZQ19XRUVhUEdaVlRtbzdMNkY1Rnh0a1NYN3ozM19KVkJscmtyckliREpzYmFk?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-22T16:01+09:00"
+    },
+    {
+     "title": "ハルキウでロシア軍のドローン攻撃により女性が負傷",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZU5LVjZWWi15eDJsTzQ2V1JCbGozLUQyS1I0M19FRnlLR2RiczJwcHJ0ZTlYYmVxelZBeGc0YzdteGRCY0NGcTJBZEVIbFNMMnNiVkNPMTgyOU5ycHF4NVNHU0xfeW00aThVUFpHV2ZYM3F2cDdESnBtQ3FMRkM3TktaYXlZbEgwQ0YyUEt6LTVQN0tKWDcxWDZDQQ?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-22T14:04+09:00"
+    },
+    {
+     "title": "ロシア軍のドローンの破片がドニプロの住宅を損傷、けが人なし - 市長",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QSEExTGIyODVuNFMyQ0VBNGpoWEsxeVVkUTJIUDZ2X2dyU1duU0hyT1JibERGeDhPLUtqTUR4V3YzWEtvSmhFdlg5a0RUOElWZEpTTGUxM3FCclp4eDlNaUVjZG9UVE9P?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-22T13:12+09:00"
     }
    ]
   },
@@ -274,12 +276,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RYmVkUnlGaW5nRm56TnhsVTJ0d1dNdV90YUpqbXNOWkpGdmEwbWtQZEc2VERveEFmTWJXN29OYVhtMmxkOHBlMFpvakJIR1YxQkt5UV83Sk9wc2lkMU54c3ZuUVFDSWUy?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-22T21:10+09:00"
-    },
-    {
-     "title": "フランスは、国家テロ対策検察官オリヴィエ・クリステンによると、テロの脅威により引き続き「高い緊張状態」にある。",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWJjRDlPN29kSHAtQ3c5aGdyTU5FdVNYUXhhcDQ5ekdXdXVQTUxQNjhaOUV6aUlEX1JsUFhTTFRqYWVjajhaZHpzT1VpeW1IaWhwS1pMNm9RMFBYNXBaSzZiWG9TZmhwX2ZwR3k3YVpCS2tmc1ZoVDc0bmdSNWQ3VlRBejE1ZEJDUFg2ZVN6MUxtMWg5RGxHLU5QMVZabEIxQW5UdXVqMzlfMmdx?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-22T20:45+09:00"
     },
     {
      "title": "NATO、ロシアのミサイルによるポーランド領空侵犯を協議へ",
@@ -304,6 +300,12 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsU2Z0aEhnMjhrWWVlTEcxTlEtNDZ4MzI0dS13RDBuUm5SdGwtNkNYMGJPN0ZyN1RScVRLUE9obTRFRXp0d2xqR3FTeW1ESmFwQ3dybVJ6QUoyZw?oc=5",
      "source": "北海道新聞デジタル",
      "at": "2026-11-22T05:36+09:00"
+    },
+    {
+     "title": "北欧の海でロシア貨物船が攻撃され炎上漂流 「戦争が近くに…」フィンランド首相",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85Ui1wbDk2VXFlZTdlbWtIQVdrTmdFUS1vNW5QT2hBWDg2YXlzUm1zMEpNT2NENm9jQ0tiMzZxaXNNeER1TDlreEJuRWZuamhDUkhSV0kwR19fc2FDME5XQ0Ftd2FCeUZtRTJpOFNYNjNGRjA5UF9GZ2l3?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-22T00:10+09:00"
     }
    ]
   }
@@ -316,16 +318,10 @@
    "at": "2026-11-22T06:15+09:00"
   },
   {
-   "title": "国難級の災害に備え発足「防災庁」 緊急要請で求められること 南海トラフ・首都直下地震をどう乗り切る",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wVS1EVER1eGJnWDhfWmFFaGxJOXNuS1JEOW1YdHdaUkJ3NUp2NVlLMXRkWG1tNGZjekJkNXRvWmduQVVNdFZzd3hwQ09SYV9jbVVNOW1fQ3pZUlluWVdfVlNSV3lUSnhDaHhkQ1JGLU90V2R0ZExzODVR?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-22T05:02+09:00"
-  },
-  {
-   "title": "愛媛南海トラフ自然災害防災VR、VR部門 特別賞を受賞",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtWjdlU0R3aUV1SElRbFN1Q3oyM2UxVkhzbXFLT3FGdzZKSExReEVuS3NMVTBlWWxFSXpMeXRucWwxXzRBT0lN?oc=5",
-   "source": "Dellows News",
-   "at": "2026-11-21T23:41+09:00"
+   "title": "国難級の災害に備え発足「防災庁」 緊急要請で求められること 南海トラフ・首都直下地震をどう乗り切る：ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFUGgwWTNnZVloMjdPTGFZSC02ZDlNekh5MERNNFd2YTYyLUFPQnNqNEp5MzNrNEVjSzVMOVBycUVWYWFPbngwcU5EbU90aUx1b3RwRXk4bFdWU1hTeGVreUpuWkU4UlNUU0RRSXI4NmdPd2RkRVhUVWl3?oc=5",
+   "source": "FTV 福島テレビ",
+   "at": "2026-11-22T05:00+09:00"
   },
   {
    "title": "｢南海トラフは30年以内に80%の確率｣を京大名誉教授が分かりやすく言い換えた\"覚えるべきたった2つの項目\"",
@@ -340,10 +336,16 @@
    "at": "2026-11-21T17:21+09:00"
   },
   {
-   "title": "夜間の地震・津波を想定した避難訓練 懐中電灯で足元を照らしながら高台の避難所へ 南海トラフ巨大地震で最大16mの津波が予想される三重・大紀町",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWblhYWmRZbGpxaDFtQVJWb0Q1aTFEOElUQURmWWd6TUtKRlVSZ0NlRHROazlDN1BuSlNtY3lVdWJ5OHQ3UkxJaENQN2xPYW9mUldwelZ0RmVvdWhhU3lv?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-21T14:38+09:00"
+   "title": "南海トラフ地震の支援体制を確認 小城市、派遣先の大分県国東市を視察 市役所で報告会",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80dWJvaklKT3dGTHB1NHB3N0RBWXNKWDJ2ZVdyMmdXanQ1MWk4Yk9LTEEzX05PXzRnM2tyQ3NsMXJiZEtOVG5IVjBWa1dJUERia2NCcWxn?oc=5",
+   "source": "佐賀新聞",
+   "at": "2026-11-21T07:45+09:00"
+  },
+  {
+   "title": "奈良県下市町で総合防災訓練 町民ら500人が連携確認 南海トラフ地震を想定 陸自など20団体・機関が協力、避難所開設や運営体験",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHc01nRnhNTS1JcnVDdTNnMmlySUtXNEtkMkJ6MkROU3VMX3hrdUhLRkl3VW5icU84ZmQ2V3hGUEpRV1NPSmF3dUk1WlRUSGJFZm5SaUQxY0N4TzZDMDRj?oc=5",
+   "source": "奈良新聞",
+   "at": "2026-11-21T06:00+09:00"
   }
  ],
  "outage": [],
@@ -354,6 +356,12 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1ZtU1BJSU5RVVM5STBLWDV1dzV1aWphMGhPSE5rVVhlcDlPMEtZb3BlWENSczNPcjdnaUd2ZkdMblZhTDhTcWFyRlJnSVQ2ZzVXVlVJS2tYRExKR3ZIcmQ5cTNlNUE?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-22T19:32+09:00"
+  },
+  {
+   "title": "［社説］ITインフラ障害に社会全体で備えよう",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BUTB3VXoxNmk1eTVtenJpRnhKM01xb3NubzRrWlgxTjBoTlZBY25naEp1dFNLMkZpQnZEMmxRT2F1amJqQk9pLUJpdk0tV3RpNTVpeUNmS0ZCV0VlejVKS216WUprSWozcGp1UA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-22T19:05+09:00"
   },
   {
    "title": "ドコモ障害頻発、信頼に傷 品質改善に影、政府も懸念",
@@ -368,34 +376,10 @@
    "at": "2026-11-22T13:55+09:00"
   },
   {
-   "title": "くら寿司、寿司ネタなど一部欠品を報告…フェア商品の状況も伝える 取引先のシステム障害が影響",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9peDRhZU11NE83Z2pPSUl3QUNZZWJmalVldTZvVjVSYVdUclNUSUxhbWFYMjFRLTBVU1FvMzNldEIxX0NRNFZMR2pnVXRQeWdJR1VTaTBKRUxDWUJudk1pZGxzc1lKMEFzM0dlYlBQUQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-22T12:16+09:00"
-  },
-  {
-   "title": "相次ぐシステム障害、背後にある「恐ろしい現実」とは | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQaUxlWGxrWGVGc2V6LWlXbXhqZklGLS15MmF0MnFLTldRQW1ZakUtLXVoNks2YnhhQ0ZQM2hRbGE5dGJkdEl2N0pRUWV3Mm4zYmRnSEtKZ1RwVVk5Q18ycUFWYkdzSmFBZ2ZkMmpwNzlMT09BSHFFS1hEdW9HN20ta2FSZ2hpMEVWcVJjN3dXWFFKWlYxQmR4ZzdVeGpwV1h2X1ZxeHNTbWpaMzZQaTJ6alpnNEh6bi1vWE9jNUtpNTR0bmVfUHVmS2tCNDJuYVYtZDFISGdRUk4tM1FWY1NoTjNuYVJORlc0VVBRMGNpRHRvY0RBTXBIT3ctajdlQXhhTWMtN1NRR09OcUZpS2dYa1Y4UUZCS1ZkSnl1TC1ONUpvZFdxSkNXS21PTWZQVDVpWG4yeVNLVWtOR3VtSnBrMVBMci1fTk9hUUJxTFNMWUh2X2t3WWJ3RnlLTmFDYlhubS1nOWRwRXFlLXdfQ2Q3ZDZtX2RoNzVHN2cxNUpXVjdEbkdWSnp5ZWNHTUZhaVpuRWhuYVlqTQ?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-22T09:53+09:00"
-  },
-  {
-   "title": "タワーレコードの通販サイトに不正アクセス 住所など約1100万件流出 (2026年11月22日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MM3lleUJ5VjBTZnV2dzhzSkhBcURUdnZ1cGViN1hZVXZoNm9MdGhvUnZwMUFjVUdQQmZYTzlfdDhMcktadWtTZmEwNU5tRDJqVVY0bXBfNVh4VmQ3eWc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-22T22:25+09:00"
-  },
-  {
    "title": "タワーレコード、個人情報1100万件流出 不正アクセス受け",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQXRwLXBuSVRyVHZJT2wxRDdwWXllSnF2R3JVTmg0T2JDYUhSbWE4cWY3dFFvVTluR0N4eXA3ZWhDYmpsZXV6eWRVajYwal96RDhKLXJqaHJqNnRLMmxNajV6N0RIWGVWU25IVg?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-22T20:58+09:00"
-  },
-  {
-   "title": "プレイド『KARTE』の不正アクセスを受け、ZOZOTOWNや三菱UFJ銀行・東京ガスなど影響をうけた企業が次々判明→「どこまで漏れているのか」と不安や警戒の声広がる",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMUTJqbU5Wem5ibTF2MktDek1fSldINnRhaWtaeGNLR241bW11cEtST2Z4MTd5SGJUUkNRVFphMFY5U3NKMFE?oc=5",
-   "source": "Togetter",
-   "at": "2026-11-22T20:57+09:00"
   },
   {
    "title": "10月の日本狙ったサイバー攻撃、前年同月比82％増 背景にAIによる自動化 対策急務",
@@ -434,17 +418,35 @@
    "at": "2026-11-22T19:29+09:00"
   },
   {
+   "title": "ソニー生命で３８万件漏えい 顧客の契約情報、不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ycWRRakZLTnoxRmFoNE5yOXZLbXNvVklIV1V5V1hkb2piTk1ydWlOQ29LaTBWcTZ3OWZWZ0M1MTB2VXpmYUpJSlJRWkxQSGhXWHNrQU15Rzc3UHRCbXZnNkQtY2xLVG8?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T19:21+09:00"
+  },
+  {
    "title": "タワーレコード、不正アクセスで約1100万件の個人情報が流出",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jTTBfcldLWnlSQmRPSjViVFI1aGxGOFRBZ0VIWlh2WDRaRTNQZUZyT1hSS3VfU2k4MnNXVmtwVkhQaFNMT2o0QXJwMA?oc=5",
    "source": "47NEWS",
    "at": "2026-11-22T19:15+09:00"
+  },
+  {
+   "title": "タワーレコードで１千万件超流出 通販サイトに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tZTg2elp3Y0VEM2k5RjczZjhmUVFuTmlPUmt1dUY1RGpOOEM1eTFxRzJqRWZoUVViYlNkbDZ4Mk8zY2sxX3Rtb1J2MWNhOGl6QnNlVjVzUllyNEstS3c?oc=5",
+   "source": "新潟日報",
+   "at": "2026-11-22T19:08+09:00"
+  },
+  {
+   "title": "タワーレコードで1千万件超流出　通販サイトに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHSkFWY1NJRGtGWkFXVmk5LTZyVU1oeE5IMnhhSmljeUtxZWllZDFsVi1jRkc5Y3UzdTE3UzBPY0dfR3VHdmY3OWZfZFZIenRJTmdxUzdjU2V1NEgwOFo3dVNDTjRidVNuYXJHaHlPM0dnNDZU0gF0QVVfeXFMUEdKQVZjU0lEa0ZaQVdWaTktNnJVTWh4TkgyeGFKaWN5S3FlaWVkMWxWLWNGRzljdTN1MTdTME9jR19HdUd2Zjc5Zl9kVkh6dElOZ3FTN2NTZXU0SDA4Wjd1U0NONGJ1U25hckdoeU8zR2c0NlQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-22T19:08+09:00"
   }
  ],
  "osaka": [],
  "world": [
   {
    "title": "米国の国際影響力、中国に対するリードが縮小－イラン戦争が軍事・外交力に打撃－アジア・パワー指数",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1I5MkpwbG05a0pxZzJMbTFxT2xSS2xQdmpPaUFzcHNPek1GNTNRenBPRURxVHZzekpDY3pWQ0RCbnYyUWJYZ0JCNEpFOVRnNHpsOTUxbGpGY3loUVAxak5EcHNyd19VVVdPcUNXUjJDa1ZUamFudWVmUUdESjZGdGUtWlRTZzZXUlBSbEhn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QVTNVTTVBVzBHOHVDT3gyT1k1bnljMjg3OW1ZSHRKM1FFaWRsTUNmM3BkN3hzVTFpbS1aVGNxZlBSSi1UdWpROERBS3NFckpBUy1YTlluVFpfWU8xQ1BONE05UzhpOThpc1hpcDFtMEdfSlpPc3pB?oc=5",
    "source": "Bloomberg.com",
    "at": "2026-11-22T23:08+09:00",
    "topic": "中国・台湾"
@@ -468,13 +470,6 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RYmVkUnlGaW5nRm56TnhsVTJ0d1dNdV90YUpqbXNOWkpGdmEwbWtQZEc2VERveEFmTWJXN29OYVhtMmxkOHBlMFpvakJIR1YxQkt5UV83Sk9wc2lkMU54c3ZuUVFDSWUy?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-22T21:10+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "フランスは、国家テロ対策検察官オリヴィエ・クリステンによると、テロの脅威により引き続き「高い緊張状態」にある。",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWJjRDlPN29kSHAtQ3c5aGdyTU5FdVNYUXhhcDQ5ekdXdXVQTUxQNjhaOUV6aUlEX1JsUFhTTFRqYWVjajhaZHpzT1VpeW1IaWhwS1pMNm9RMFBYNXBaSzZiWG9TZmhwX2ZwR3k3YVpCS2tmc1ZoVDc0bmdSNWQ3VlRBejE1ZEJDUFg2ZVN6MUxtMWg5RGxHLU5QMVZabEIxQW5UdXVqMzlfMmdx?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-22T20:45+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -518,20 +513,6 @@
    "source": "テレ東BIZ",
    "at": "2026-11-22T17:20+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシアの貨物船にドローン攻撃 攻撃にはウクライナが関与か",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sd3k4SjlybHNfcUdoVUhpZm01X21ySUZmZEZya2VpakxpWXBhTFNpQ1FyY2NKNHNKZkdtczhZd2RwX1JhQTJoTU13S2pGdF9ONlI2TnJnM052bjJNRldhQngzRQ?oc=5",
-   "source": "テレ東BIZ",
-   "at": "2026-11-22T17:20+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "フィンランド沖でロシアの貨物船が炎上 ドローン攻撃により 軍は「ウクライナが背後にいる」可能性指摘 貨物船には武器積載か",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RVXlFZjVfc1h2MDFEd2hIUFdKUHc1S1RSdzYxbEY3NEVpU0J2T0hCTXdsbUgwM2R3d044MkJNaFFXd0w0ZWZ1LWZrSHlTV0pTMVZ3b0hsQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-22T16:59+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "米、北朝鮮に首脳会談求めるも条件合わず 会談見送りに",
@@ -581,6 +562,27 @@
    "source": "西日本新聞me",
    "at": "2026-11-22T15:40+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "トランプ氏と金正恩氏 土壇場の首脳会談探るも見送りか (2026年11月22日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XS2h5UkFDM2ZwZlV5NGpsR2NKRW5CRkZmNXFONE5jRm1CWTB3djc0NGxTZG5GdzhkdERDclFQYURkWFRuRy14ZEY3QURRb0g4VnlsM1dkNFVGT1JScnc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-22T15:31+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "【写真】北朝鮮、米に条件提示 受諾できず首脳会談見送りか",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EcWwzYkd3NlJ2STFWSjFaTVpFeURQVEhTU0ZIQ0F1eHMwb2RubTRPQU4zQTlMTGlLS0J0VTVxS3hPMldiOTdYeGxZSjFaR1JHZHoycXgta1YzTW5xTzZ5UzJqS3doc0gw?oc=5",
+   "source": "南日本新聞",
+   "at": "2026-11-22T15:28+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ハルキウでロシア軍のドローン攻撃により女性が負傷",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZU5LVjZWWi15eDJsTzQ2V1JCbGozLUQyS1I0M19FRnlLR2RiczJwcHJ0ZTlYYmVxelZBeGc0YzdteGRCY0NGcTJBZEVIbFNMMnNiVkNPMTgyOU5ycHF4NVNHU0xfeW00aThVUFpHV2ZYM3F2cDdESnBtQ3FMRkM3TktaYXlZbEgwQ0YyUEt6LTVQN0tKWDcxWDZDQQ?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-22T14:04+09:00",
+   "topic": "ロシア"
   }
  ],
  "status": {
@@ -600,8 +602,8 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
-    "ロシア：「攻撃」5件",
-    "欧州・NATO：「攻撃」「ミサイル」3件"
+    "ロシア：「攻撃」4件",
+    "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
     {
