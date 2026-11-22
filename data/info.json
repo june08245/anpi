@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:30+09:00",
+ "updated": "2026-11-22T22:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,26 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-22T22:33:00+09:00",
+   "place": "神奈川県東部",
+   "mag": "3.0",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-22T22:31:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.0",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-22T19:17:00+09:00",
    "place": "トカラ列島近海",
@@ -69,26 +89,6 @@
    "at": "2026-11-22T02:30:00+09:00",
    "place": "房総半島南方沖",
    "mag": "4.6",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-21T21:58:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-21T19:09:00+09:00",
-   "place": "房総半島南方沖",
-   "mag": "4.9",
    "maxi": "2",
    "maxiRank": 2,
    "osaka": "",
@@ -156,6 +156,18 @@
      "at": "2026-11-22T12:13+09:00"
     },
     {
+     "title": "だから中国船が92時間も尖閣の領海に居座れる…海保の弱腰でも自衛隊の怠慢でもない｢日本の海｣の弱点",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10VEtaUW9TdFJZUFZPR3dXQnI4Rmw4anFTVFp0UjR6NmR1TFNpQUtrOU5jQktOTlJSd25iQ3hPUy1SZ2ZYQ1JZTEI1dTJCWE1CRm1hT2xPb0o4bHdqYWIyRDdJUEhfZTdVUmRDMHZlbE5xQjF1SC1IcGJZLUJJNUU?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-22T11:15+09:00"
+    },
+    {
+     "title": "中国軍事企業とつながりか エヌビディア問題の女性",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtUU1iQmRnbE9yaFBYR2gzTmQtTHpQakV4RmJiTzBvMG5wYkpCVEphMjhlTE03YjV5SEJvNnlicFJBdUJ2WE5pa1YwdmlkN2M0NXV4bHlFQkpJUFV1bkowUjZFbw?oc=5",
+     "source": "テレ東BIZ",
+     "at": "2026-11-22T06:27+09:00"
+    },
+    {
      "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GV2xwYzkzNC1FWndSVVlqRWY2Z1NNR21rbHNEakFKNXluZTd0a01WUjlJbHhhSkFCWkN5NkdzXzJGOVU4QWNFZGd5ckV2Q25JTU9vUDJubzdfdkFBVkJpME1WcGxKWkdQdEV0dkJnOXpUMHBwNVpB0gF3QVVfeXFMT0ZXbHBjOTM0LUVad1JVWWpFZjZnU01HbWtsc0RqQUo1eW5lN3RrTVZSOUlseGFKQUJaQ3k2R3NfMkY5VThBY0VkZ3lyRXZDbklNT29QMm5vN192QUFWQmkwTVZwbEpaR1B0RXR2Qmc5elQwcHA1WkE?oc=5",
      "source": "ｄメニューニュース",
@@ -166,18 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZXhYSGduNzEzcEVVbkE3eW9YZFlLRms0djAwUUVsSkp2SURDeDhEX3NUTmhLMkVCc2dRaEhRV3dRR2tNOWFLR0lNSmFKU1dqTnRId3JTVmppWm40azJ3Ni05MDVWN1NGV0w4Q3g4cTk?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-21T14:39+09:00"
-    },
-    {
-     "title": "渦中女性、中国軍事企業とつながりか＝エヌビディア前ＣＥＯ不倫問題",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vb0pZQThDMGZQdVBHLTU3ZmFtSnZSZVhRdmV1U25XanJSVUJwakQwRkEyNkZIQkk2TXY2djh5dThUVzJVYlROby1pbldLelJSdHNHREpxNGlGcGtIdm42WkFSdjRqaWJwTGVz0gFrQVVfeXFMTVVvSllBOEMwZlB1UEctNTdmYW1KdlJlWFF2ZXVTbldqclJVQnBqRDBGQTI2RkhCSTZNdjZ2OHl1OFRXMlViVE5vLWluV0t6UlJ0c0dESnE0aUZwa0h2bjZaQVJ2NGppYnBMZXM?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-21T09:19+09:00"
-    },
-    {
-     "title": "「政権は銃口から生まれる」の思想を継ぐ習近平の軍拡、高市首相は冷遇、米中ロ首脳会談でも歯止めかからず 【舛添直言】選挙で大敗し外交的成果を欲するトランプと、米中と同格と誇示したいプーチンを従え、世界の中心に立った習近平(1/3)",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2dVlVbFZSWEpwWl9kb25YS0FmUExEUXMzeTJJMlBDenl4TUlFNmFCbmdmRVJDUWZ3OVFBVGI2MGxIS0RTUnRYYS1icmM3MkFhbW0wNHlB?oc=5",
-     "source": "JBpress",
-     "at": "2026-11-21T06:00+09:00"
     }
    ]
   },
@@ -301,9 +301,9 @@
     },
     {
      "title": "ロシア巡航弾落下の対応協議へ NATO意思決定機関",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsU2Z0aEhnMjhrWWVlTEcxTlEtNDZ4MzI0dS13RDBuUm5SdGwtNkNYMGJPN0ZyN1RScVRLUE9obTRFRXp0d2xqR3FTeW1ESmFwQ3dybVJ6QUoyZw?oc=5",
-     "source": "北海道新聞デジタル",
-     "at": "2026-11-22T05:36+09:00"
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMWnBBWXFhcURBT1FweVpRSVdDVDdhY0RDLVE2V0dQdTJhb25KUkFVQnNNSnpaWkxOTlFyc3FPZ0JKaFAyaXRjaHRmdHR2UQ?oc=5",
+     "source": "NEWSjp",
+     "at": "2026-11-22T05:30+09:00"
     }
    ]
   }
@@ -356,6 +356,12 @@
    "at": "2026-11-22T19:32+09:00"
   },
   {
+   "title": "［社説］ITインフラ障害に社会全体で備えよう",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BUTB3VXoxNmk1eTVtenJpRnhKM01xb3NubzRrWlgxTjBoTlZBY25naEp1dFNLMkZpQnZEMmxRT2F1amJqQk9pLUJpdk0tV3RpNTVpeUNmS0ZCV0VlejVKS216WUprSWozcGp1UA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-22T19:05+09:00"
+  },
+  {
    "title": "ドコモ障害頻発、信頼に傷 品質改善に影、政府も懸念",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzFYem5xOWlYenQ4SDNVWlFpbGtIVVhOb2FMc0oxbFBXcFJKeGdjaEtZU2FvNk5lbkJmaE9iNVh5MmctaGh2OTMyTXBueXNvUlBkWnJVZmRiUWw0Z2hMelJKMWZ1SXBLTlVhbXg3TlIyZW9NN015dUJVbXFsaVIxNEdhQUpDOGo5?oc=5",
    "source": "北海道新聞デジタル",
@@ -374,10 +380,10 @@
    "at": "2026-11-22T12:16+09:00"
   },
   {
-   "title": "相次ぐシステム障害、背後にある「恐ろしい現実」とは | スマートニュース",
-   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQaUxlWGxrWGVGc2V6LWlXbXhqZklGLS15MmF0MnFLTldRQW1ZakUtLXVoNks2YnhhQ0ZQM2hRbGE5dGJkdEl2N0pRUWV3Mm4zYmRnSEtKZ1RwVVk5Q18ycUFWYkdzSmFBZ2ZkMmpwNzlMT09BSHFFS1hEdW9HN20ta2FSZ2hpMEVWcVJjN3dXWFFKWlYxQmR4ZzdVeGpwV1h2X1ZxeHNTbWpaMzZQaTJ6alpnNEh6bi1vWE9jNUtpNTR0bmVfUHVmS2tCNDJuYVYtZDFISGdRUk4tM1FWY1NoTjNuYVJORlc0VVBRMGNpRHRvY0RBTXBIT3ctajdlQXhhTWMtN1NRR09OcUZpS2dYa1Y4UUZCS1ZkSnl1TC1ONUpvZFdxSkNXS21PTWZQVDVpWG4yeVNLVWtOR3VtSnBrMVBMci1fTk9hUUJxTFNMWUh2X2t3WWJ3RnlLTmFDYlhubS1nOWRwRXFlLXdfQ2Q3ZDZtX2RoNzVHN2cxNUpXVjdEbkdWSnp5ZWNHTUZhaVpuRWhuYVlqTQ?oc=5",
-   "source": "SmartNews",
-   "at": "2026-11-22T09:53+09:00"
+   "title": "タワーレコードの通販サイトに不正アクセス 住所など約1100万件流出 (2026年11月22日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MM3lleUJ5VjBTZnV2dzhzSkhBcURUdnZ1cGViN1hZVXZoNm9MdGhvUnZwMUFjVUdQQmZYTzlfdDhMcktadWtTZmEwNU5tRDJqVVY0bXBfNVh4VmQ3eWc?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-22T22:25+09:00"
   },
   {
    "title": "タワーレコード、個人情報1100万件流出 不正アクセス受け",
@@ -432,15 +438,16 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jTTBfcldLWnlSQmRPSjViVFI1aGxGOFRBZ0VIWlh2WDRaRTNQZUZyT1hSS3VfU2k4MnNXVmtwVkhQaFNMT2o0QXJwMA?oc=5",
    "source": "47NEWS",
    "at": "2026-11-22T19:15+09:00"
-  },
-  {
-   "title": "タワーレコードの通販サイトに不正アクセス 住所など約1100万件流出 (2026年11月22日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MM3lleUJ5VjBTZnV2dzhzSkhBcURUdnZ1cGViN1hZVXZoNm9MdGhvUnZwMUFjVUdQQmZYTzlfdDhMcktadWtTZmEwNU5tRDJqVVY0bXBfNVh4VmQ3eWc?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-22T19:13+09:00"
   }
  ],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLXlyN1lWclFCY1RpV3B3VVBvLVREeUFkNVdtQ2JPQjBWMU53Wm1WTy1XSXAtclZyV2FfX0EwUGRfR2xndU5Qc2k4UGU0SDhTa0J1ZFpFSFk2b2c?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-22T13:59+09:00"
+  }
+ ],
  "world": [
   {
    "title": "バーレーン、ホルムズでタンカーが攻撃された中、イラン攻撃で負傷者2人",
