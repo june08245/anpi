@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:00+09:00",
+ "updated": "2026-11-23T06:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -350,6 +350,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システム障害は偶然なのか",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XR0RIVHlHeWhnUi0wTFVCQ1gxckRKaDU1VXNNNWgtanFDdWpveTNfVnh0LTNoYkJ2NVc3R09jQWlLXzNLU3lJWjFtQnp1eUVOZ3MxTkpqYU1BVUhjem04?oc=5",
+   "source": "東洋経済オンライン",
+   "at": "2026-11-23T06:00+09:00"
+  },
+  {
    "title": "米デルタ航空、重量管理システム障害でアトランタ発着便を地上停止 遅延1000便超",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BemduenhnWmtoWmZ0T2pGRXMwcG9waUlYWUxxSXp5VzN3QW5La0plemNWa1UwV1lNVzRvamZZbFFsbHBxM2YtYWRiWmdDRWYzYjFvTmRGdGpOdVU0akRzbnNpMUp1WVNDS1RIOU9jVTZXQnMw?oc=5",
    "source": "BigGo ファイナンス",
@@ -362,12 +368,6 @@
    "at": "2026-11-23T00:49+09:00"
   },
   {
-   "title": "ドコモ、全国で通信障害 高速サービス通話しづらく",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ1ZtU1BJSU5RVVM5STBLWDV1dzV1aWphMGhPSE5rVVhlcDlPMEtZb3BlWENSczNPcjdnaUd2ZkdMblZhTDhTcWFyRlJnSVQ2ZzVXVlVJS2tYRExKR3ZIcmQ5cTNlNUE?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-22T19:32+09:00"
-  },
-  {
    "title": "ドコモ障害頻発、信頼に傷 品質改善に影、政府も懸念",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzFYem5xOWlYenQ4SDNVWlFpbGtIVVhOb2FMc0oxbFBXcFJKeGdjaEtZU2FvNk5lbkJmaE9iNVh5MmctaGh2OTMyTXBueXNvUlBkWnJVZmRiUWw0Z2hMelJKMWZ1SXBLTlVhbXg3TlIyZW9NN015dUJVbXFsaVIxNEdhQUpDOGo5?oc=5",
    "source": "北海道新聞デジタル",
@@ -378,6 +378,12 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jY0lQY29kbGxmMDE5a2lBU0ZVaktYdWJnMGN6SlBybHhoaW9ja2J3dGU0MlVBLWRZUnlrR1MtUEZOa1kybm5EQTlqTVZreXNHTU9vYmM4bUJSdw?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-22T13:55+09:00"
+  },
+  {
+   "title": "米FBIの犯罪データベース不正アクセス、犯罪歴、指名手配、逮捕状など情報漏えい疑い",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DRFphaHFlMk5mV1llTGx1WjZLTDQ5TVNVb2lxQmlmMS1URkNGUEMyRHZIbXg0WEhVYm05N0hvb3A5R0ZrWDlCLVhNV3MyejJoTWFz?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-23T06:03+09:00"
   },
   {
    "title": "マイナンバー情報、約150円で売買も――サイバー攻撃時「すぐに事業を止める」覚悟はあるか 問われる経営の責任",
@@ -408,12 +414,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92UFZaRnJJNUdvRUY2eUptQzJya1RUX0s1bHRKXzNOSDNuSkVrUFJMVlRGeW5mWGRyZHN6VE02LUhGakR0YURCdmdnM0VoaVQ3NThSQV9xM2tvMzB4c1NHcEdfTVpGWmNvOTBfaQ?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-23T02:00+09:00"
-  },
-  {
-   "title": "「FBI記録システムハッキング」との報道にトランプ氏反応",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNGJ3enNtVnBSeTlvWlR5YjZDZFRaaHBoZWR5bTRfMG9CbUZRbGJDN2tyLTVuclMyVVpqN3VKcHFOemFOUFlPWjJjWHk2Q1prRGZpUWJFUVc3S3ZGWUHSAV5BVV95cUxOWjRid3pzbVZwUnk5b1pUeWI2Q2RUWmhwaGVkeW00XzBvQm1GUWxiQzdrci01bnJTMlVaajd1SnBxTnphTlBZT1oyY1h5NkNaa0RmaVFiRVFXN0t2RllB?oc=5",
-   "source": "大紀元 エポックタイムズ",
-   "at": "2026-11-22T21:00+09:00"
   },
   {
    "title": "タワーレコード、個人情報1100万件流出 不正アクセス受け",
@@ -594,7 +594,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「ドコモ、全国で通信障害 高速サービス通話しづらく」"
+    "「マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システ」"
    ]
   },
   "japan": {
