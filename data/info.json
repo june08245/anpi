@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:15+09:00",
+ "updated": "2026-11-22T12:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,6 +102,18 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イランがバーレーン攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OTXoyZVhtZkMybUVheXg4aTFjamhSOG1FU3JEdmVKaXZKRXpHdkVqRGpETHN2NGFIVFlPOUdKSnQtYnVSU3ByY0FGQlQzdEQxRFF3azZvZlpSZjJpaFcw?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-22T12:10+09:00"
+    },
+    {
+     "title": "イラン革命防衛隊 新型ミサイル発射装置を公開　「あらゆる任務の分野に準備万全だ」",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDZpUG9VaFFuSkJsaDlHWXZqbXVkOGNRdklUdDZLQVNSMDBQRE9mZ1pOR0hFbWJ1dGptNWQ3dmJ3c2xIRmRKdzJQdVlsTFFkR2JneGlOeHBaUWJNNTVzdDg2NjRzUVQ5TkNMLTk5cF9QZkw2OEtsMGhfQzk3bGRoMFIwQkgyd9IBiwFBVV95cUxPTThRRkl5OXN2aGV6VFJKT0h1SVNNLWhPazJTY1I3MXQ2b2xrbTk4YTZDOFNucUxZY2VfRmtXQWhPbElxcDEtbXMtSzhhSmlzdllscWFMV0wwdTM1UnJmMnFEa3YwY2l3Yll0T3dEYVk3OXZvTWZBYzlXTEFUWEtjV012LTlIRE5HWG9Z?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-22T12:09+09:00"
+    },
+    {
      "title": "イランはバーレーンで米国のパトリオットレーダー2基を攻撃したと発表",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlhfRzliZkVSSXlxVEJWcnB2UE43TXY2dUREZllNaldCU25tMlk0QVBhM0dGOVVNWDU1X1BGMEVMcGVQeEwySloxNlZ5WG5vVU92RXpmdGhIS0xjSHYycEVVQ2RueXFsZl9yTTlLbWVqT0ptN0NnQk5fVFpYbWFsOExKY1d5OFcySjZjQXFaOWlRUmJRbnJrbWRMZW1nTUtGRnNsaA?oc=5",
      "source": "Laodong.vn",
@@ -124,18 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YOERLZ2d0WDM5UzNibkJRWm40R3lwVWZyRC1YRFo5clQtRXNGbjFFQzhvdE81emZlaV8xcm9LcXplZDl3dVdpdndYTUpaeFBoSkM3NlVjTkpwVjJLVVFNa1NHVTJvZzFCWldfZ0NB?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-22T09:36+09:00"
-    },
-    {
-     "title": "トランプ大統領 イラン核阻止へ任期後も続く合意目指す (2026年11月22日掲載)",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XZEdkWkd3Y2RuVWF1ZXlkQ3pJamNhM3JhOXZ2azRWaU83NzY2TjZYZ3NIRTF5REM1QXY5UjJFTV9ENGhfTjI1N0MybXhYWE5WUFQ2SW5nNDVLZ1dxU1E?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-22T09:31+09:00"
-    },
-    {
-     "title": "バーレーンの民間産業施設で火災、負傷者なし　イランが攻撃",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2F4QnF1VnlqdHd0bXVzLVZ0U2x1M0JWZnExd3ByTjZVQS03cFVqN3BiLUYxazVCR3BVdWdrZmhGWkdPTGlQSkN2RnNQczNIeV9xZ0JjNW1RSnY5a0hmblJYcnVrVmFELTlSYnZYcWVVRWtDb3pPeTZVNXlLanQzRzNTbmp5anBWUEMtTE8ybFA2Z9IBlwFBVV95cUxPR1hsQ0pCZHFERHZaOTQzSmQ0SjFSaWRqUVdkYzNWeFExajREVl9HWDA1YXlEaUpGTlVZcnd1YmpTTnBZTU1IWWp6cENWRWo3SnV5RE9WeGt1TzlKZ1pVUTBPZ3dGdG9pSlM2UE9BbHFHLWx1V2JKNVVmVFJuOGQyZWtvYTYxUTZQaEtqajBhWEd3ZEF3azRJ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-22T08:55+09:00"
     }
    ]
   },
@@ -143,6 +143,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "【寄稿】中国軍の台湾周辺「統合戦備警戒パトロール」はどう変わったか 午前に集中、7～8 日周期で見える新たな傾向",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6b2lSVHA1V2dIb2FyMTBHMGZiblZLTjlSbzNsLXd1ZmpUTEZNeDN1enQwcFM5dmlzR0RoVHJTUmc2YWpibGV0aVh1aFVmQTlH?oc=5",
+     "source": "風傳媒日本語版",
+     "at": "2026-11-22T12:13+09:00"
+    },
     {
      "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SQjRobVpzeWNZa09QekR0MHhUNXU2UGFkVzhCZ0l3XzZFellUbFVGYW9xRTUyc1FIRnZjR19CYlp3NUlKcUxFVHBwN2tyMkFlV2Q2dWpHaFFJT0g1MkF0Y092cnBxTWxDWTM40gFrQVVfeXFMT1JCNGhtWnN5Y1lrT1B6RHQweFQ1dTZQYWRXOEJnSXdfNkV6WVRsVUZhb3FFNTJzUUhGdmNHX0JiWnc1SUpxTEVUcHA3a3IyQWVXZDZ1akdoUUlPSDUyQXRjT3ZycHFNbENZMzg?oc=5",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakJlejJzUmlDRUtUOWszZkNtMVhiNElqbGxkaVZUSDMtRmRrTGFUTFVnQkw4V0xaeWNQUHQ3dHdYbTlUWHRFcFBhZ3dBN2YxbWMtNkdSUEMteE1hN1JYVkZYSFpQVGQ1aExiRGtXMnpPRHk2c1BtNzFuZDViWnFfNGFFdGkzcGpl?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-21T05:00+09:00"
-    },
-    {
-     "title": "【台湾で大規模演習】「グレーゾーン」を警戒 サイバー攻撃、封鎖も想定",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaUkZLZHlESTdlSWc0ei0tX2pLZHJjb3FEcWpDczZzQklNRHliSzFHcDZhTmR3N3RpMTN5ZVAwRkZDSG5BTEhPUVBXOU9reE5tU0E?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-20T18:24+09:00"
     }
    ]
   },
@@ -210,10 +210,10 @@
      "at": "2026-11-21T11:52+09:00"
     },
     {
-     "title": "トランプ氏の会談呼び掛けに応じず？ 金正恩氏は国内視察",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zN3g0MzZDUzFvYnBRU2t3M3hvejNUUElrNHhJLWg2M1BRWllsV2lFc3NRMGg1OTZESmFlYXIxMGxpRk01N2NiWTV2M182M0czT1HSAVRBVV95cUxNd3JScjFEQ0M3X29MTWNnSmt5WkVMQ1Y0cHNkc1R3c0RoYlR2TVhwRGlpS01EZmxEcUl5ekJvM2Y5cnBHSzBMVC0xOXpodWNxbE9fOTE?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-21T11:37+09:00"
+     "title": "トランプ氏の会談呼び掛けに応じず？ 金正恩氏は国内視察（ＡＦＰ＝時事）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2ZldYX3E1M25sdFl2TXFzNERnNUVVN2JjVkRzX0g1NjhUclpSZlpBZ09lUzNIY0lQdmlVcjNXRmpyMFZyaDJaVEJzV1pzZUZ2a2UyRG9zcWNBUThEVWd2QjRxNGItX1ZYNThVaXFjdUdsZzdOd0ZvOVhlSXNpdjg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-21T11:43+09:00"
     },
     {
      "title": "止められなかった北朝鮮の核開発、日本はどう備える？ 「非核三原則の見直しを」と韓国元高官、初の核実験から２０年",
@@ -357,10 +357,10 @@
  ],
  "cyber": [
   {
-   "title": "相次ぐシステム障害、背後にある「恐ろしい現実」とは",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VRFhGdUhTZjhiMHUxWUdoYzNOSlEtTFg1NjkxYlFTOEpxSE5Va2djY0RvaGlXUWgtTU9KMzk3STJVUGhCV1c0Y0xDcFlkV0RvRVJuY0NtdlR0djdCQzYweEFZaFFEZnM0Z1RxVUxIemhnNldlNnNR0gF8QVVfeXFMUFhHQlRfelBsWC1STjdTWkpKNXBueVBxbWU1VlhPV0czbVprUWU1U2pkdGV6MTd0UE9wTVJpdlNMTlZZQXJNNmVrc2xyaDVvSjRYNERWMGM2MnM3VXJ0NjlKbnNEOW45bjl6cE5MLWMyWDZ2eTVUN1JaMUhkUA?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-22T09:52+09:00"
+   "title": "相次ぐシステム障害、背後にある「恐ろしい現実」とは | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQaUxlWGxrWGVGc2V6LWlXbXhqZklGLS15MmF0MnFLTldRQW1ZakUtLXVoNks2YnhhQ0ZQM2hRbGE5dGJkdEl2N0pRUWV3Mm4zYmRnSEtKZ1RwVVk5Q18ycUFWYkdzSmFBZ2ZkMmpwNzlMT09BSHFFS1hEdW9HN20ta2FSZ2hpMEVWcVJjN3dXWFFKWlYxQmR4ZzdVeGpwV1h2X1ZxeHNTbWpaMzZQaTJ6alpnNEh6bi1vWE9jNUtpNTR0bmVfUHVmS2tCNDJuYVYtZDFISGdRUk4tM1FWY1NoTjNuYVJORlc0VVBRMGNpRHRvY0RBTXBIT3ctajdlQXhhTWMtN1NRR09OcUZpS2dYa1Y4UUZCS1ZkSnl1TC1ONUpvZFdxSkNXS21PTWZQVDVpWG4yeVNLVWtOR3VtSnBrMVBMci1fTk9hUUJxTFNMWUh2X2t3WWJ3RnlLTmFDYlhubS1nOWRwRXFlLXdfQ2Q3ZDZtX2RoNzVHN2cxNUpXVjdEbkdWSnp5ZWNHTUZhaVpuRWhuYVlqTQ?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-22T09:53+09:00"
   },
   {
    "title": "米農務省とFBIにサイバー攻撃か、相次ぐ障害で懸念高まる（ＡＦＰ＝時事）",
@@ -373,6 +373,12 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcEltN005eWI2dWpKazJjb3Z5WmVfVVBpUG5kRlZtTlo5RG5FV3FRMzF1cHBZejFyYWxTVHMwNTF1QVY5REVkSms5dDhIaExWdVVua3pB?oc=5",
    "source": "JBpress",
    "at": "2026-11-22T06:00+09:00"
+  },
+  {
+   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
+   "source": "GameWith",
+   "at": "2026-11-22T03:42+09:00"
   },
   {
    "title": "【速報】“てんかん”の影響で正常な運転できないおそれのある状態で運転 意識障害起こして暴走 当時22歳女性を死亡させたなどの罪問われた女に「危険運転致死傷罪」成立認め「懲役5年・実刑判決」",
@@ -393,10 +399,10 @@
    "at": "2026-11-21T18:09+09:00"
   },
   {
-   "title": "約5万円の不正利用確認　北海道･六花亭への不正アクセスで客のクレジットカード情報流出めぐり　客の名前や住所など8000件流出の可能性も",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0td3kyaVZnM28wVDhMUkp3R1pBR0ZjSWVyUGlFdzFodkpUaTRTSUxuTnZiX1R4LVBqZzRjc1hQM3AtV1lNc1RpNFRaLWQ4ZGt3ZDlWeVBTR1RteE4tbDdUdUhzWTlmc1pMVG9qblYxa9IBdEFVX3lxTE5aQms1cUxiSXVUdmFseDFBd1BjMUlSSmFvMTFHR1M5Szk4dHJ6WHZ3Zzk1cGdHa3h0enp5ZXZSQ01neXRMY0dCdzBzN1U5UUF6aXpja3lqQTRXc3drMWptNXBkZmM0Z0NDMHZucXQteGozekJL?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-22T12:05+09:00"
+   "title": "約5万円の不正利用確認 北海道･六花亭への不正アクセスで客のクレジットカード情報流出めぐり 客の名前や住所など8000件流出の可能性も",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0STlORHlYak82d3k0UFJ4ZnltbDBOVlc3NlRJZ0xUZm0yQzNlWklYSEhUdExXT29IME8yVk9GUmo5WVpKSW5pYS05VFR0elZlWmxCVXZ5cw?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-22T11:55+09:00"
   },
   {
    "title": "「知っていたはず」から「実践している」へ―2026年秋に相次いだ不正アクセスから学ぶデジタルアイデンティティの教訓",
@@ -439,16 +445,31 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYYWxwOVM1WUR4ZGdZZTdtSmtaT2lCbTNQSURWSDVUNUt4OGxZbjNuc0JfZ2QwRkpfMW0weG15TTVrQ2xaalVKZ243SlZQanVjWkRCcmZra05Rb2FVNHpF?oc=5",
    "source": "千葉テレビ放送株式会社",
    "at": "2026-11-22T09:48+09:00"
-  },
-  {
-   "title": "BEAMS、5万6,187件の情報漏えいのおそれ プレイド「KARTE」への不正アクセスが波及",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3IxM1FNY1RvX2JOcTNPeGhVYWk5QWVaVXVEZ3o1R2FlVnYyc1pjSWsxME9wemtsTEdSZ2pCTkQxTkFOS2c0VzR4bE5QWXI2LXJxaVFDNDZjUEgyWGFMWVhIVUJIa2ZzcGNGUUNuMnZwNmpqaEpSb0FQWDREYWQwNTlzTV92WXpIUDEtTjJBeUY5ZERZeGk4U0t0VmNDelVCZXNR?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-22T09:19+09:00"
   }
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "【寄稿】中国軍の台湾周辺「統合戦備警戒パトロール」はどう変わったか 午前に集中、7～8 日周期で見える新たな傾向",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6b2lSVHA1V2dIb2FyMTBHMGZiblZLTjlSbzNsLXd1ZmpUTEZNeDN1enQwcFM5dmlzR0RoVHJTUmc2YWpibGV0aVh1aFVmQTlH?oc=5",
+   "source": "風傳媒日本語版",
+   "at": "2026-11-22T12:13+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "イランがバーレーン攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OTXoyZVhtZkMybUVheXg4aTFjamhSOG1FU3JEdmVKaXZKRXpHdkVqRGpETHN2NGFIVFlPOUdKSnQtYnVSU3ByY0FGQlQzdEQxRFF3azZvZlpSZjJpaFcw?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-22T12:10+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イラン革命防衛隊 新型ミサイル発射装置を公開　「あらゆる任務の分野に準備万全だ」",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDZpUG9VaFFuSkJsaDlHWXZqbXVkOGNRdklUdDZLQVNSMDBQRE9mZ1pOR0hFbWJ1dGptNWQ3dmJ3c2xIRmRKdzJQdVlsTFFkR2JneGlOeHBaUWJNNTVzdDg2NjRzUVQ5TkNMLTk5cF9QZkw2OEtsMGhfQzk3bGRoMFIwQkgyd9IBiwFBVV95cUxPTThRRkl5OXN2aGV6VFJKT0h1SVNNLWhPazJTY1I3MXQ2b2xrbTk4YTZDOFNucUxZY2VfRmtXQWhPbElxcDEtbXMtSzhhSmlzdllscWFMV0wwdTM1UnJmMnFEa3YwY2l3Yll0T3dEYVk3OXZvTWZBYzlXTEFUWEtjV012LTlIRE5HWG9Z?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-22T12:09+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ロシア貨物船、フィンランド湾で炎上し漂流 ウクライナによる無人機攻撃か（2026年11月21日掲載）｜日テレNEWS NNN",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSC1pRHhJNGdfZFR6YmVSODZlbjgtU1dpTFBQRm1hWXRHbUNDWEJVdWk5V1Rha0lPZkptRUFqQUZKcURDMmd4ZmktUGlOLV8ta3ZabF9IV01mVUdNWDlRVXY2UzhhT0hQd3JNZzdMb25jN0xmaDd4anU1QUt6cUtlcElEelg?oc=5",
@@ -513,20 +534,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "トランプ大統領 イラン核阻止へ任期後も続く合意目指す (2026年11月22日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XZEdkWkd3Y2RuVWF1ZXlkQ3pJamNhM3JhOXZ2azRWaU83NzY2TjZYZ3NIRTF5REM1QXY5UjJFTV9ENGhfTjI1N0MybXhYWE5WUFQ2SW5nNDVLZ1dxU1E?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-22T09:31+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "バーレーンの民間産業施設で火災、負傷者なし　イランが攻撃",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2F4QnF1VnlqdHd0bXVzLVZ0U2x1M0JWZnExd3ByTjZVQS03cFVqN3BiLUYxazVCR3BVdWdrZmhGWkdPTGlQSkN2RnNQczNIeV9xZ0JjNW1RSnY5a0hmblJYcnVrVmFELTlSYnZYcWVVRWtDb3pPeTZVNXlLanQzRzNTbmp5anBWUEMtTE8ybFA2Z9IBlwFBVV95cUxPR1hsQ0pCZHFERHZaOTQzSmQ0SjFSaWRqUVdkYzNWeFExajREVl9HWDA1YXlEaUpGTlVZcnd1YmpTTnBZTU1IWWp6cENWRWo3SnV5RE9WeGt1TzlKZ1pVUTBPZ3dGdG9pSlM2UE9BbHFHLWx1V2JKNVVmVFJuOGQyZWtvYTYxUTZQaEtqajBhWEd3ZEF3azRJ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-22T08:55+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "ドイツ・ベルリンで記者団に話すNATOのルッテ事務総長＝19日（ロイター＝共同） - ロシア巡航弾落下の対応協議へ NATO意思決定機関 - 写真・画像(1/1)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZUmxYaFFtRTNFajRibGJtQjR3OFU0ZXNpRXJCRUxEX1d3M3VBS1ZENnpIeWdZTkVPcDJiYVpBM1RNMHZFSzJZS3Exdkg2YTIwRzMxMllHYw?oc=5",
    "source": "西日本新聞me",
@@ -581,13 +588,6 @@
    "source": "Infoseek",
    "at": "2026-11-21T17:57+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "親族ら中国軍事企業とつながりか エヌビディア問題の女性フアン氏",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZXhYSGduNzEzcEVVbkE3eW9YZFlLRms0djAwUUVsSkp2SURDeDhEX3NUTmhLMkVCc2dRaEhRV3dRR2tNOWFLR0lNSmFKU1dqTnRId3JTVmppWm40azJ3Ni05MDVWN1NGV0w4Q3g4cTk?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-21T14:39+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -606,16 +606,16 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」3件",
+    "イラン・アメリカ：「攻撃」「ミサイル」4件",
     "ロシア：「攻撃」3件",
     "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
    "items": [
     {
-     "title": "イランはバーレーンで米国のパトリオットレーダー2基を攻撃したと発表",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlhfRzliZkVSSXlxVEJWcnB2UE43TXY2dUREZllNaldCU25tMlk0QVBhM0dGOVVNWDU1X1BGMEVMcGVQeEwySloxNlZ5WG5vVU92RXpmdGhIS0xjSHYycEVVQ2RueXFsZl9yTTlLbWVqT0ptN0NnQk5fVFpYbWFsOExKY1d5OFcySjZjQXFaOWlRUmJRbnJrbWRMZW1nTUtGRnNsaA?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-22T11:45+09:00"
+     "title": "イランがバーレーン攻撃",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OTXoyZVhtZkMybUVheXg4aTFjamhSOG1FU3JEdmVKaXZKRXpHdkVqRGpETHN2NGFIVFlPOUdKSnQtYnVSU3ByY0FGQlQzdEQxRFF3azZvZlpSZjJpaFcw?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-22T12:10+09:00"
     },
     {
      "title": "ロシア貨物船、フィンランド湾で炎上し漂流 ウクライナによる無人機攻撃か（2026年11月21日掲載）｜日テレNEWS NNN",
