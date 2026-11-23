@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:15+09:00",
+ "updated": "2026-11-23T22:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-23T20:56:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-23T22:22:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-23T19:50:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-23T04:31:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "3.0",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -114,15 +114,9 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3NUTXMwRDV2LWR6bXBuOFUtalRFOWFMcUtkSXowUzFtSFFEN3NjVEVudVZaSlNxVnVsLWplczJpa2x0QTNxQkNSVlZzbmtUOFZSNko4YlNIaUZmMEg5WURLSTVPUTQ3NExKV0xvVFozSzAwSnpqRXdWWXF3T1A1VzVHeVZPNHZQZ09iU1JNVExMZXNmU09URlF4aTNkNlowTDdBNTlOWXBNYmtfV2JVRnVNZ0diSmRVTV93WVg5cUZwTEtJXzNsNE4tYjZiYUpoeTZ4UG14SlZCOEZoX1Yw0gGPAUFVX3lxTE1iRUlYcVl2RTFaQjg1QVVtbVh3UXlSazJxcmtYY0ZuaFpBY014X2otdnFuLXZlWU1xNWV5Y2lCNHYzYkpBaWJaVHFtRFM4VzJXQ1U2VUxpSFdQYUlZekdEVXo3djFCbS1ZcHhMMmlJYWF3WmM4RVBMalNkRlhoWmkzUEU0SWRhUXNTclB0Si1Z?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-23T16:18+09:00"
-    },
-    {
-     "title": "イラン、商船への攻撃強化か／ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96cVNsNnVMVk9DOFRxcUkzci1sWUwxZ2Z4ZGNLd2tJSnJuV0pGbmk0WlhIZUVFWDA3TWtvcmI3dURzQVFpaVNfOGN4d1dKQlp6dGtvUjRzbklwM2RfVHJ4SVlESVpsQ29YeFBnTnlYdGtQbEE?oc=5",
-     "source": "四国新聞",
+     "title": "イラン、商船への攻撃強化か ホルムズ海峡、米政権揺さぶり",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbS1acDFrUnk4M2pjZ0tDWkRITXlHODJ0ZEE2UXhWdXNJTkkwYzJqZUdIZE05NXhJVVo3cTJzbDllU3hRNVNPTTRMR2NNUQ?oc=5",
+     "source": "NEWSjp",
      "at": "2026-11-23T16:18+09:00"
     },
     {
@@ -148,6 +142,12 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yY2pMN29SV2xYYXQxak9GQzVGM0lma0xRNU1faV96VUo1dFUxUnczTjR4QkhoYzQ0eVBDOWNqd0FRaWluX1dtVmFqLTFsclRieEtZcQ?oc=5",
      "source": "Switch news",
      "at": "2026-11-23T09:05+09:00"
+    },
+    {
+     "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆 (FNNプライムオンライン（フジテレビ系）)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVpGSnBvMjhEdHRlS214cUlmWEgxR0FZdmpuLU1qQkV6cXJIMW5IcEtnMHNSUnBBRFZaTk42ckFCRnZtdzFJd3BjcHg3bC1pd1c0UDVhQ3IyWmpSLXVkcFZRckdIZjh0RmJ2UWRGTE1paW0zdENrVFg5VE9oYm9zdHRLYVNPR1BaeDM0LXZB?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-23T08:59+09:00"
     }
    ]
   },
@@ -380,12 +380,6 @@
    "at": "2026-11-23T16:25+09:00"
   },
   {
-   "title": "クラウドサービスで大規模なシステム障害で、どのような影響が最も気になりますか？（みんなの意見）のコメント一覧",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hajAyRVBnY2cwNXZJSjQ4Q2VuWjc1d2xKbFo0alI0U0VCbnVaRDhmRkpRQlBGaGsyUmZuRm5tSC11V0xZWm9MYlRWeTF5UWpwMHhqeU5tS0w?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-23T13:07+09:00"
-  },
-  {
    "title": "相次ぐ米国のシステム障害で広がる不安 ラジオや非常食買い求め殺到 | スマートニュース",
    "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNMTdla1lQazF1SGs0MnlZa0FvWTYzOWYxOE0xZFA1eEZIWWZMWWhoZnZKTXd5eGszdEwyVlJlQ0ViVy1mY21FZmI0bFZJNGFGazI0V3RONm1nWF9yQlUxMmFGcWNBc0k4VXA4NGFrcHcwQWQzOEhxOVJLaFBOZGZ1MmIxbUxBRmRnenktMVFCM215YVBod3NsV2x6SHBjNHZ2bHBMUWVkYlhFTUxmM2lWT0MyM2V5ZGcwSFBPVDQ0WDdUbWsyN21ucVI1cDRveURXQ1VVbDljSkoxN1JhT1NRNFQ4TFNwSUZ4US15SFhSNXRGYXFVbkNXX2tuMlcyZVZ4Rlp6X0diVjRoU2ZaZkJ3MUJUbkUzUFc2OWUyOFUzM3J4dzFZMDFsUlMtQVE3X3RVQlppaS16NDczaEd6eW1Rc0lpbzFLNXBHem0yQmE4WXQ2eC1YT05BXzJXMTFsTE5XdUJnczhPa1pYQnRicDBvLVRMazJqcjFQZkNEZHRZbHo1bFpFSmVQQ1JqTEZ0cTVDZ0hDcVE1WFV0bEk4RGcxZENFeWhpbTV2TFdpRDdfZHlMVnoxRlJWV1BkQmVmT05GWUZ2SkhsSW1yeXg5RGNTYWxqd043WVJBZWQtY0E0VGZTdDlwWUl0SjVXZw?oc=5",
    "source": "SmartNews",
@@ -408,12 +402,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LQzRxcUF1b0NNSk1sSVdsZTR4eWM0VHNPMmc4RjBDQk1zNWI1SnNsRGMxcTl1V2VQVWVTa205bThDZ1J3akhnS0x6dkZJODZXN19BeHd3QmRKV0I2bzBxcFFWR09HMTNPTS1lb3R3?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-23T09:37+09:00"
-  },
-  {
-   "title": "マツダ新型CX-5でディスプレイやコネクティッド関連の不具合が多数発生！修正プログラム後もトラブルが続き、オーナーから困惑の声",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwY3RqWEtBUVhSblRjcVNtTEtZdXp3YlpleTl6LTVuSndoejJ3Y1U5M0lyMUxxck9YaDkxTUVQRjJUTVlNcXhhZtIBUEFVX3lxTE1tZzRKNmRGSThfQk85bmlmT0VCYU5hUnJPcExWdFk2c25PclBvZWViRTJhQWxqWDQ0V2RhRWJIT0FTbHpZY1JGdFZwUEYwQzc3?oc=5",
-   "source": "Creative Trend",
-   "at": "2026-11-23T08:45+09:00"
   },
   {
    "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
@@ -446,10 +434,22 @@
    "at": "2026-11-23T22:05+09:00"
   },
   {
-   "title": "不正アクセスで個人情報漏えい…消費者庁が紹介する“被害防ぐ6つの対策”に「企業側にも厳しく指導を」",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jY0xvbHpIbzlXaHlQZ1Z0clpJV3loLWoxYzd3NEFOVVZJbk9IVmVlRkk2RzhON0hIcWRaeG00T0xVTkxlYmYzdHdR?oc=5",
-   "source": "オトナンサー",
-   "at": "2026-11-23T21:00+09:00"
+   "title": "不正アクセスで個人情報漏えい…消費者庁が紹介する“被害防ぐ6つの対策”に「企業側にも厳しく指導を」（オトナンサー）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15TUl2T1lFeFAwOElFblRMeUVjbHhOQ0w2bnVNd2hralp4eXpOeEhrNDRZSS12bWh0SVVfUDZzU2dWMEN0TXpzRHpacHpjLUxaZnNlV05DNVVvNmpHNk1telRnTzJiNWJfc2w5MFBYQXFlUGxfZ2ZVeXFZaEJGSzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-23T21:15+09:00"
+  },
+  {
+   "title": "ドローン対策はサイバー攻撃にも有効。ウクライナ、発電所を小型化&分散化 (ギズモード・ジャパン)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEwwNjI5TmFSZXdWMVRCWll1N28wcUZFWmQtLUhBX09BaGN2enN0SzZ2dkNSUlZtQTZFTWRpOUJpYkh3LXFDVGFoMWo3QXdTOVNhZU1RMF9kd25Oa29ZTndmWFN2RHJoOU1XVDhSZllPdW5NRE5iaGE1ZGg0bklPRjlzc3BSWXJTQi1lOHJ3?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-23T20:00+09:00"
+  },
+  {
+   "title": "「日本サイバーディフェンス」2027年春、静岡市に中核拠点開設 攻撃監視・対処の専門チーム、企業の危機管理を支援",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LaEtRVnR4SE9hT25BdHdJVnVqQU5VVndwMXp0aXdVYVREUVZHOVljZ01ENVVpbW9Xb2wtU1FzVlZQRUV6SU9USFRtNHkxZw?oc=5",
+   "source": "静岡新聞DIGITAL",
+   "at": "2026-11-23T20:00+09:00"
   }
  ],
  "tokyo": [
@@ -560,16 +560,9 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3NUTXMwRDV2LWR6bXBuOFUtalRFOWFMcUtkSXowUzFtSFFEN3NjVEVudVZaSlNxVnVsLWplczJpa2x0QTNxQkNSVlZzbmtUOFZSNko4YlNIaUZmMEg5WURLSTVPUTQ3NExKV0xvVFozSzAwSnpqRXdWWXF3T1A1VzVHeVZPNHZQZ09iU1JNVExMZXNmU09URlF4aTNkNlowTDdBNTlOWXBNYmtfV2JVRnVNZ0diSmRVTV93WVg5cUZwTEtJXzNsNE4tYjZiYUpoeTZ4UG14SlZCOEZoX1Yw0gGPAUFVX3lxTE1iRUlYcVl2RTFaQjg1QVVtbVh3UXlSazJxcmtYY0ZuaFpBY014X2otdnFuLXZlWU1xNWV5Y2lCNHYzYkpBaWJaVHFtRFM4VzJXQ1U2VUxpSFdQYUlZekdEVXo3djFCbS1ZcHhMMmlJYWF3WmM4RVBMalNkRlhoWmkzUEU0SWRhUXNTclB0Si1Z?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-23T16:18+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イラン、商船への攻撃強化か／ホルムズ海峡、米政権揺さぶり",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96cVNsNnVMVk9DOFRxcUkzci1sWUwxZ2Z4ZGNLd2tJSnJuV0pGbmk0WlhIZUVFWDA3TWtvcmI3dURzQVFpaVNfOGN4d1dKQlp6dGtvUjRzbklwM2RfVHJ4SVlESVpsQ29YeFBnTnlYdGtQbEE?oc=5",
-   "source": "四国新聞",
+   "title": "イラン、商船への攻撃強化か ホルムズ海峡、米政権揺さぶり",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbS1acDFrUnk4M2pjZ0tDWkRITXlHODJ0ZEE2UXhWdXNJTkkwYzJqZUdIZE05NXhJVVo3cTJzbDllU3hRNVNPTTRMR2NNUQ?oc=5",
+   "source": "NEWSjp",
    "at": "2026-11-23T16:18+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -607,6 +600,13 @@
    "source": "グノシー",
    "at": "2026-11-23T13:27+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "米朝首脳会談 北朝鮮側の条件提示が原因で見送りか 米紙報道 米側は核兵器開発計画の廃棄を求めないことなども検討",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KcFVJNk1ZdmZYalNrU2ptU0FSckVLZFJkWkUyTjVudXhTb1pNOTVsUXluX0hEbmtSblNKR04zb1RKRlFoQklqZmRyUkdnNndEYnJWeWtXUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-23T13:15+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -633,9 +633,9 @@
    ],
    "items": [
     {
-     "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3NUTXMwRDV2LWR6bXBuOFUtalRFOWFMcUtkSXowUzFtSFFEN3NjVEVudVZaSlNxVnVsLWplczJpa2x0QTNxQkNSVlZzbmtUOFZSNko4YlNIaUZmMEg5WURLSTVPUTQ3NExKV0xvVFozSzAwSnpqRXdWWXF3T1A1VzVHeVZPNHZQZ09iU1JNVExMZXNmU09URlF4aTNkNlowTDdBNTlOWXBNYmtfV2JVRnVNZ0diSmRVTV93WVg5cUZwTEtJXzNsNE4tYjZiYUpoeTZ4UG14SlZCOEZoX1Yw0gGPAUFVX3lxTE1iRUlYcVl2RTFaQjg1QVVtbVh3UXlSazJxcmtYY0ZuaFpBY014X2otdnFuLXZlWU1xNWV5Y2lCNHYzYkpBaWJaVHFtRFM4VzJXQ1U2VUxpSFdQYUlZekdEVXo3djFCbS1ZcHhMMmlJYWF3WmM4RVBMalNkRlhoWmkzUEU0SWRhUXNTclB0Si1Z?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "イラン、商船への攻撃強化か ホルムズ海峡、米政権揺さぶり",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbS1acDFrUnk4M2pjZ0tDWkRITXlHODJ0ZEE2UXhWdXNJTkkwYzJqZUdIZE05NXhJVVo3cTJzbDllU3hRNVNPTTRMR2NNUQ?oc=5",
+     "source": "NEWSjp",
      "at": "2026-11-23T16:18+09:00"
     },
     {
