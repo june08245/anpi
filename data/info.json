@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:15+09:00",
+ "updated": "2026-11-24T02:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -114,6 +114,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、米海上封鎖に「あらゆる手段で対抗」―トランプ氏の撃沈警告で衝突リスク",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zUlNORjRJdnNFa1FYUkNnNDVfTkdmYkdTVHhHeDVnbEF6VmVlM1h1ZHdRem1LaGFEYVB0ZEUwakZHVzJueXYxamstdDNWWFNjLS05eXgwUm5obC1jSFg1N2w3d9IBaEFVX3lxTFB3bUhhcDZlOWg2ZWRwNWR2TTJEeS1EU3Q2OG1GWHRfLW0yUTVEZkVUbldtQllhZURxTzR4VFdjM0JuaXFnZDZSY1ppNkFFcmMxTjZBY2JwQ1BXN1QxM0ZSNGhGT2VOcUdx?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-24T01:56+09:00"
+    },
+    {
      "title": "イランの裁判所、米国に2900億ドルの戦争賠償金の支払いを命じる",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblhJRGYybkUxYjFUazcxTU03SXpicFRad19ENkNDOXN5X19vcGdjbEZqS050VWdkeWNCZ2xIRkhmSHF0WHZiV2lLaE9xZW1WU2M1SFA4WG9PYVg1Rk9zQ2RZLXoyaHV4eFVCTkNLSDdXWWY3amNTdmIxOVBzOWxkNXh1TG42dktIX2kzMTFNcVlRcG16VDJLeHdjTU4tZkIyZUczb0hVRE0teHZJRTg3c2NEdw?oc=5",
      "source": "Informat.ro",
@@ -142,12 +148,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94anlOR2pGdjV5ZlBBa2ZlT1MtVVFDakw3RzFEaTlIQWJ1Q3FWanpGQXg5b3JOdS12R2xnQzMtSXhNV3pwNjRtajlLeU1jeF93WlFnLWpTZXBFR2Q4aWxvRFpraHd1ckVHV0ZUTHlCVmtWbkk?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-23T09:59+09:00"
-    },
-    {
-     "title": "イラン軍が米軍の「F-16」戦闘機を攻撃、機体が損傷したと主張",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yY2pMN29SV2xYYXQxak9GQzVGM0lma0xRNU1faV96VUo1dFUxUnczTjR4QkhoYzQ0eVBDOWNqd0FRaWluX1dtVmFqLTFsclRieEtZcQ?oc=5",
-     "source": "Switch news",
-     "at": "2026-11-23T09:05+09:00"
     }
    ]
   },
@@ -204,10 +204,10 @@
      "at": "2026-11-24T00:58+09:00"
     },
     {
-     "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道（TBS NEWS DIG Powered by JNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUVBvZnpUYlQ5bmdXb2l1eV9nMFZTSWpLZTk0Nkt5N0FHQ21YX2ZzUE9EOFZVaGd2SEdDRzVsZS1JS3g5OWxzeTdUXzhnODQxRU53V3l4UXFrV2pwSjBNejBQTlpKMnRzMDl1LTVOMkVnRlBTaS1oYXQ2YnkwdlE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-23T17:49+09:00"
+     "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LUGROb0dBQzVieEduemxrTVNLb0kzZ3lXbC1qajdMb1REUDh5T2dLMVk5RGpRM0NOOHdmcHFGZUU4Yy1WSjNaSXRudDVxdTAybFhYRzZvel9hZlVDM3RxUllzMEp1M3ZwLXdoSnR2bk9PbVRs?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-23T17:50+09:00"
     },
     {
      "title": "北朝鮮の金正恩（キム·ジョンウン）国務委員長が各国の新任駐北朝鮮大使から信任状を受け取り、自身の外交·安保·経済政策基調を直接説明する異例の外交行動を見せた。 ドナルド·トランプ米大統領の相次ぐ首脳会..",
@@ -240,10 +240,28 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "[写真]ウクライナ、リビアでロシア最新鋭艦を撃沈―水上ドローン7機で防衛網突破",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12aFBoWHpkQm4wXzJ6ZFFsOGNtQ2dibHdGVlhhamctTXN1MFlzR2ZrRm51LVlfZm9salZxVWxOaG04WGpFQWpFTHNmMjJ2T0EzMGUwTA?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-24T02:05+09:00"
+    },
+    {
+     "title": "ロシア軍艦がリビア沖で沈没、ウクライナが攻撃とゼレンスキー氏発表（TBS CROSS DIG with Bloomberg）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaFMwX0N4bWcydU5pOUsxblFOcW81dXZpOWdhXzZ3Ujk3Uy1EN2NDU29wRWdQeHhyWlpsbVN3b3VaeFBScVM0aFNQcnZDWHZtMExTNU9LSHliUU15OUItZjlySXp3M2lHd1ZaWTRwelFpbF85VjkwVVhEUl94eGs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-24T00:44+09:00"
+    },
+    {
      "title": "リビアでウクライナ軍の攻撃受けたロシア軍",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0dXQnlmNWt0OTVwbTZsMjJiYXVVTkhPZ3g3RWo5bWVURWhoSEc4T2VlZXFXZGV5VkZiRmMxWUZGQkQwUFRoYXl0TUhxb3FnNUFHdmh0Unlzd2FnaTE5M3NJa2ZzR2FnUWRuRHNaU1F4bkZ0ajRXenBwWFZOTktqOUQtTG1NaXM3?oc=5",
      "source": "조선일보",
      "at": "2026-11-24T00:44+09:00"
+    },
+    {
+     "title": "リビアでロシア軍艦攻撃 ゼレンスキー氏が映像公開（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12SnM3SWFaQ0JRek9YQ3NmQjJfY2llZnhxQzNDT2FfYjlpMTVRc0txNVF0NGlZeTdZQ2RraGI1M2VweWZWOGs5QkFabEZsT1pxWGowek14Q0tQaGswWjF1UmQ2eWpEOEMzbEtVMl9nVVRxT3E5WFlTTkxHQVJrVGc?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-24T00:16+09:00"
     },
     {
      "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
@@ -252,28 +270,10 @@
      "at": "2026-11-23T23:57+09:00"
     },
     {
-     "title": "ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」（読売新聞オンライン）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ld08yRDhnN1FBUkR4TmtEanRMUnVNcGdNMm9XMEV1VW1vb0dMaGNoQXZhZFVNR2VlNGMwWjU4cUMxVTVGZGlrSXd1dzNKREtyc2ZzWjZGYkh2NkhyVUNIb3hzdy03VG1GRXV4RXlheGt4Tl9BYXg2T1J1VnNxQ0U?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-23T22:03+09:00"
-    },
-    {
-     "title": "ウクライナ南部ザポリッジャの民間病院をロシア軍が攻撃　３名が死亡",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTVmMGg1MnV5d2dfSUhoLXQ2cGhXQ1Rvb3QyVksydTd0TUpvU0VXY1JiT3c4QWViU0dEeXdYSUVIaDRySUQ0ZkhjS0NQaFkxNFdrMDZsMjNrLUNocFJVN1l3MlpIY0gxNVBBZDBVRVFKUDByVW9qVVM3bk8xaGYzcnl0TzZCUTN4QXR4SXRPek5PdThvdG5FdkVGN20yWjFqanRfTUFEeTZ3ckpITGJpeFYzRVZFUWV2dFJidHdENFFURUtZeXh1cTBn0gHPAUFVX3lxTE9uaS1IWjdZdlFYV0hsdlZlNXFaYS02ZHd0RWMxRVV0U05zYzdJSmgtcHVvV1BKR1J6X0o4WWNuNUZSekVzakF6Nlp1R0JVaElpYkV4d1NIVGpEcEJndUFlRDRTR0hveERocGJtTUF1M3NVbzBabGlQaFlMN0U4TUJodkJvdHNwWDR5VFVmVHpMYkQteHk2QXdjeU9xbDI4dXhLZXFzSVBjSGVEX1BDVXVNSVlIMk5rWE9NdEdkVzVMTExZMGRQbU9hQklYT3FqTQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-23T21:49+09:00"
-    },
-    {
-     "title": "ロシア軍の攻撃でドニプロペトロウシク州の民間人二人が死亡",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmhyb1VNWFRHbFV4Q2VXanNwWGxveGNLUTRhaFRkWGo4WW5SaDhKUDg5Z0tMOWZ6WW55Q2RONkZnb3RPZWtkZDN5NmdZdDhSY2hYT2M5alI1TUpfejB0UDJnX25ZQWQxWV9mXzloUGNGZTBycGFCU0w0NEJKdnJoN2UyMU0yRDNpbEpKMW1CLWRvdGJYLUtudGNIUy12QQ?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-23T18:53+09:00"
-    },
-    {
-     "title": "ガーディアン、ウクライナ戦争中に自殺したロシア軍関係者1,087人を特定",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUY4cmlZZVNIMF9uUWpoTWtoSWF2aUJTSTd1cHhpWkMySXlrVm5kNW92SVFEOFJLNWU1ejNvMFJpakNJZGN5dFBZSGEtNkdTUEFEdDJFQThJWVNpa21CZlVRRy1yUzJ3Mm5UaGpPbnFfN0lPbGg2Z3ptanRoMDhKUlhZTTQ2M2c0Wk1KaVV6WFJ4R1d5LXgxSEZTOXlvRXZkTHc?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-23T18:29+09:00"
+     "title": "【動画】ウクライナ、無人艇でロシアの軍艦１隻撃沈…リビア沖の地中海で奇襲、輸送船にも打撃",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHU1eHZ3ODRxZm1JMENZMnZDOHJFNHFCcFJfd21EZ2ozZHJTSng1bVFtY28tNDk1VFpWcnNjYTRuQVMwWXhXWGlkeHM1RjR2NkdV?oc=5",
+     "source": "読売新聞",
+     "at": "2026-11-23T23:50+09:00"
     }
    ]
   },
@@ -423,6 +423,12 @@
    "at": "2026-11-23T09:37+09:00"
   },
   {
+   "title": "マツダ新型CX-5でディスプレイやコネクティッド関連の不具合が多数発生！修正プログラム後もトラブルが続き、オーナーから困惑の声",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwY3RqWEtBUVhSblRjcVNtTEtZdXp3YlpleTl6LTVuSndoejJ3Y1U5M0lyMUxxck9YaDkxTUVQRjJUTVlNcXhhZtIBUEFVX3lxTE1tZzRKNmRGSThfQk85bmlmT0VCYU5hUnJPcExWdFk2c25PclBvZWViRTJhQWxqWDQ0V2RhRWJIT0FTbHpZY1JGdFZwUEYwQzc3?oc=5",
+   "source": "Creative Trend",
+   "at": "2026-11-23T08:45+09:00"
+  },
+  {
    "title": "クラウドストライク、ゼットスケーラー7兆円買収 サイバー2強統合",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IZjBMc0xLdnRuXy1XbjRGMVR0Zko3VHdqZnBJbTVDYUNTR1FQWk82TnNrcmJsTXF5eEpqRFVSeWRIMjhtY1haUkpBVWhqNnlWWmdnZ2NuZVJJVWVlMGNDd1JPSkIxS3RWTWZPeg?oc=5",
    "source": "日本経済新聞",
@@ -430,7 +436,7 @@
   },
   {
    "title": "AIを駆使したサイバー攻撃が急増 防御側が利点に変える対処法",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MNWlMVXE4YkhyYWxfRE04MzFYWGVDc05nSHYzak8ydkxzNzF3T01XQUtsUlFCT1djOWtUMGQ3Ym1kT0hMR1FHNGJ2MGNTbnc0WTEta0p2TXpVMTd2N3J0N01XNzJ4QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3VJWnZhNmlPRC04dk9tVEZMT3Vaek1zdVZiVzE1RVFWNnBQdWgwSUZsSVFpTzJ6Z0VVWi1vTFQwSE82dkF4V0ZXSEVWR1JvMjFaZnBOVzRjZlprMTVjenc1dXhSTVI5RUVvZ1dMRkVzeVVmem5ESkxaT29CUm5EQUVZLWNFeVFQVFJn?oc=5",
    "source": "日経クロストレンド",
    "at": "2026-11-24T00:00+09:00"
   },
@@ -451,12 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxPcGM0VlBGMlhjblpDSnVtVHJkQkt1dmNZVE5vd014czhndHdHQUJNdlpRdGxhSUdOdHZmUGY5VzNBUzd2LU1SZ1RfYVpYMG1lYXQ4Z08wV0h2T3dzMmpibTlNYUhTczM2TGFnZkFQVV9sbTN3ZE5qeHliQmxWS2tlU0xHaTlDTWRfNUd6ZjdhWjRYZEQ2MzdXV1Z1aE9MRmF5cHJBejIyV0Iyd3RzemJzdGFwY2RZNHp1cmd1V2xFLURxbTVxZndJNWVtTnl1WFh6TGhyNld2eDYzNXpKa0JSYjFoei02Z2hYLWRiZkw1QmdlMDdOOG9IZldMeGZDWXpKUlVKUG1kdjRQdHhyQkNLNTc4bjlGVFA5MXdZRFVreVdwNlk0dlEwbVFKNUFqZTRXMUR5TG83WXNaRzRqS1JkOS04MXlqS0ZZc1QzUzNmQUszSVpmVmh3cmgzNTN0T090MGxGNVoyN1BpMlBER3VWRHVxSEYzbXBDNHlrSTNWbVVGV2luTDF1WW12Tm1kd1psaFFtWEdzMGViZ0E1NHh5VUNTeE1NLXVUNGFJRFQyeWxBWXRKaHl2M0dEZEUyWTk1STR0VFQ3X21BUDlaNl84aG16RGNPUXpVazgzVVBKRnI0aHk0X3BrZThBeDRHb0xKX0kwbGZNWU50TlZwRGhlZXo5WWdMRUI5WFFCSDhCcjVYMDhsWUltWDY4Um5hTEtlVUFhTw?oc=5",
    "source": "Goal.com",
    "at": "2026-11-23T22:05+09:00"
-  },
-  {
-   "title": "不正アクセス急増！今すぐできる資産防衛術／銀行株の選び方｜マネーのまなび",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05ai1LaEU4RW5OeGZrbGJ2NWhZcWdWVVpJdUQ2b2p2Zmk2UlR5Y0NLUzlqMkQ0YmNPbnU0WElBZC01MUpDaV9fcVdQWXJWcnhEdGJLeFlIeFd3M0VUdk5VOWxQZXFGcWc?oc=5",
-   "source": "テレ東BIZ",
-   "at": "2026-11-23T22:00+09:00"
   }
  ],
  "tokyo": [
@@ -476,6 +476,20 @@
  "osaka": [],
  "world": [
   {
+   "title": "[写真]ウクライナ、リビアでロシア最新鋭艦を撃沈―水上ドローン7機で防衛網突破",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12aFBoWHpkQm4wXzJ6ZFFsOGNtQ2dibHdGVlhhamctTXN1MFlzR2ZrRm51LVlfZm9salZxVWxOaG04WGpFQWpFTHNmMjJ2T0EzMGUwTA?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-24T02:05+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "イラン、米海上封鎖に「あらゆる手段で対抗」―トランプ氏の撃沈警告で衝突リスク",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zUlNORjRJdnNFa1FYUkNnNDVfTkdmYkdTVHhHeDVnbEF6VmVlM1h1ZHdRem1LaGFEYVB0ZEUwakZHVzJueXYxamstdDNWWFNjLS05eXgwUm5obC1jSFg1N2w3d9IBaEFVX3lxTFB3bUhhcDZlOWg2ZWRwNWR2TTJEeS1EU3Q2OG1GWHRfLW0yUTVEZkVUbldtQllhZURxTzR4VFdjM0JuaXFnZDZSY1ppNkFFcmMxTjZBY2JwQ1BXN1QxM0ZSNGhGT2VOcUdx?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-24T01:56+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "イランの裁判所、米国に2900億ドルの戦争賠償金の支払いを命じる",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQblhJRGYybkUxYjFUazcxTU03SXpicFRad19ENkNDOXN5X19vcGdjbEZqS050VWdkeWNCZ2xIRkhmSHF0WHZiV2lLaE9xZW1WU2M1SFA4WG9PYVg1Rk9zQ2RZLXoyaHV4eFVCTkNLSDdXWWY3amNTdmIxOVBzOWxkNXh1TG42dktIX2kzMTFNcVlRcG16VDJLeHdjTU4tZkIyZUczb0hVRE0teHZJRTg3c2NEdw?oc=5",
    "source": "Informat.ro",
@@ -490,6 +504,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "ロシア軍艦がリビア沖で沈没、ウクライナが攻撃とゼレンスキー氏発表（TBS CROSS DIG with Bloomberg）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yaFMwX0N4bWcydU5pOUsxblFOcW81dXZpOWdhXzZ3Ujk3Uy1EN2NDU29wRWdQeHhyWlpsbVN3b3VaeFBScVM0aFNQcnZDWHZtMExTNU9LSHliUU15OUItZjlySXp3M2lHd1ZaWTRwelFpbF85VjkwVVhEUl94eGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-24T00:44+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "リビアでウクライナ軍の攻撃受けたロシア軍",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0dXQnlmNWt0OTVwbTZsMjJiYXVVTkhPZ3g3RWo5bWVURWhoSEc4T2VlZXFXZGV5VkZiRmMxWUZGQkQwUFRoYXl0TUhxb3FnNUFHdmh0Unlzd2FnaTE5M3NJa2ZzR2FnUWRuRHNaU1F4bkZ0ajRXenBwWFZOTktqOUQtTG1NaXM3?oc=5",
    "source": "조선일보",
@@ -497,10 +518,24 @@
    "topic": "ロシア"
   },
   {
+   "title": "リビアでロシア軍艦攻撃 ゼレンスキー氏が映像公開（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12SnM3SWFaQ0JRek9YQ3NmQjJfY2llZnhxQzNDT2FfYjlpMTVRc0txNVF0NGlZeTdZQ2RraGI1M2VweWZWOGs5QkFabEZsT1pxWGowek14Q0tQaGswWjF1UmQ2eWpEOEMzbEtVMl9nVVRxT3E5WFlTTkxHQVJrVGc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-24T00:16+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
    "source": "乗りものニュース",
    "at": "2026-11-23T23:57+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "【動画】ウクライナ、無人艇でロシアの軍艦１隻撃沈…リビア沖の地中海で奇襲、輸送船にも打撃",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hNHU1eHZ3ODRxZm1JMENZMnZDOHJFNHFCcFJfd21EZ2ozZHJTSng1bVFtY28tNDk1VFpWcnNjYTRuQVMwWXhXWGlkeHM1RjR2NkdV?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-23T23:50+09:00",
    "topic": "ロシア"
   },
   {
@@ -523,20 +558,6 @@
    "source": "Informat.ro",
    "at": "2026-11-23T22:08+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ld08yRDhnN1FBUkR4TmtEanRMUnVNcGdNMm9XMEV1VW1vb0dMaGNoQXZhZFVNR2VlNGMwWjU4cUMxVTVGZGlrSXd1dzNKREtyc2ZzWjZGYkh2NkhyVUNIb3hzdy03VG1GRXV4RXlheGt4Tl9BYXg2T1J1VnNxQ0U?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-23T22:03+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ南部ザポリッジャの民間病院をロシア軍が攻撃　３名が死亡",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTVmMGg1MnV5d2dfSUhoLXQ2cGhXQ1Rvb3QyVksydTd0TUpvU0VXY1JiT3c4QWViU0dEeXdYSUVIaDRySUQ0ZkhjS0NQaFkxNFdrMDZsMjNrLUNocFJVN1l3MlpIY0gxNVBBZDBVRVFKUDByVW9qVVM3bk8xaGYzcnl0TzZCUTN4QXR4SXRPek5PdThvdG5FdkVGN20yWjFqanRfTUFEeTZ3ckpITGJpeFYzRVZFUWV2dFJidHdENFFURUtZeXh1cTBn0gHPAUFVX3lxTE9uaS1IWjdZdlFYV0hsdlZlNXFaYS02ZHd0RWMxRVV0U05zYzdJSmgtcHVvV1BKR1J6X0o4WWNuNUZSekVzakF6Nlp1R0JVaElpYkV4d1NIVGpEcEJndUFlRDRTR0hveERocGJtTUF1M3NVbzBabGlQaFlMN0U4TUJodkJvdHNwWDR5VFVmVHpMYkQteHk2QXdjeU9xbDI4dXhLZXFzSVBjSGVEX1BDVXVNSVlIMk5rWE9NdEdkVzVMTExZMGRQbU9hQklYT3FqTQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-23T21:49+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ドイツ約450校とデンマークの学校に爆破予告メール",
@@ -567,13 +588,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ロシア軍の攻撃でドニプロペトロウシク州の民間人二人が死亡",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmhyb1VNWFRHbFV4Q2VXanNwWGxveGNLUTRhaFRkWGo4WW5SaDhKUDg5Z0tMOWZ6WW55Q2RONkZnb3RPZWtkZDN5NmdZdDhSY2hYT2M5alI1TUpfejB0UDJnX25ZQWQxWV9mXzloUGNGZTBycGFCU0w0NEJKdnJoN2UyMU0yRDNpbEpKMW1CLWRvdGJYLUtudGNIUy12QQ?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-23T18:53+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ロシアのミサイル3発が同国の領空を侵犯したことを受け、ポーランドがNATOに支援を要請",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcS1pc0w3eFY3Q3VJeTk0YmdOVGxwRmh3MWJnX2hsdUJvOFEtcWhmTEpqb2F2ZGotWUd4OG40aFBPcHgxZWdQb1RNSEVFRzdBcGJTTTgtajl0UG1xc3B3Y3Y0bW9uWmdJbllTNUpYdE9JYmNCdVBCRWZmbmJhY2Jkc0s4dGJzLVB5N0diMkt5Zms1SlY0SU90ZjAtczEyQmg5Y2I2Skp6MVNhX2pqOWUtYWxIRERsSmNmbzd5OA?oc=5",
    "source": "Informat.ro",
@@ -581,17 +595,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "ガーディアン、ウクライナ戦争中に自殺したロシア軍関係者1,087人を特定",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUY4cmlZZVNIMF9uUWpoTWtoSWF2aUJTSTd1cHhpWkMySXlrVm5kNW92SVFEOFJLNWU1ejNvMFJpakNJZGN5dFBZSGEtNkdTUEFEdDJFQThJWVNpa21CZlVRRy1yUzJ3Mm5UaGpPbnFfN0lPbGg2Z3ptanRoMDhKUlhZTTQ2M2c0Wk1KaVV6WFJ4R1d5LXgxSEZTOXlvRXZkTHc?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-23T18:29+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUVBvZnpUYlQ5bmdXb2l1eV9nMFZTSWpLZTk0Nkt5N0FHQ21YX2ZzUE9EOFZVaGd2SEdDRzVsZS1JS3g5OWxzeTdUXzhnODQxRU53V3l4UXFrV2pwSjBNejBQTlpKMnRzMDl1LTVOMkVnRlBTaS1oYXQ2YnkwdlE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-23T17:49+09:00",
+   "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LUGROb0dBQzVieEduemxrTVNLb0kzZ3lXbC1qajdMb1REUDh5T2dLMVk5RGpRM0NOOHdmcHFGZUU4Yy1WSjNaSXRudDVxdTAybFhYRzZvel9hZlVDM3RxUllzMEp1M3ZwLXdoSnR2bk9PbVRs?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-23T17:50+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -607,13 +614,6 @@
    "source": "NEWSjp",
    "at": "2026-11-23T16:18+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "北朝鮮が困難な条件で会談見送りか トランプ大統領 土壇場で模索も…",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yNnNZN0lGbXlkU2dNYWFOXzdkQngyd3JZZEU1OGRacGlZWHFDMk5FT3NMSWpJemx6ZlRfVjhyaW0wTU5TR2VMVk5JVnFJZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-23T14:57+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -632,18 +632,18 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」5件",
+    "イラン・アメリカ：「攻撃」「封鎖」5件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」4件",
+    "ロシア：「攻撃」3件",
     "欧州・NATO：「ミサイル」「爆破予告」4件"
    ],
    "items": [
     {
-     "title": "イラン、商船への攻撃強化か ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbS1acDFrUnk4M2pjZ0tDWkRITXlHODJ0ZEE2UXhWdXNJTkkwYzJqZUdIZE05NXhJVVo3cTJzbDllU3hRNVNPTTRMR2NNUQ?oc=5",
-     "source": "NEWSjp",
-     "at": "2026-11-23T16:18+09:00"
+     "title": "イラン、米海上封鎖に「あらゆる手段で対抗」―トランプ氏の撃沈警告で衝突リスク",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zUlNORjRJdnNFa1FYUkNnNDVfTkdmYkdTVHhHeDVnbEF6VmVlM1h1ZHdRem1LaGFEYVB0ZEUwakZHVzJueXYxamstdDNWWFNjLS05eXgwUm5obC1jSFg1N2w3d9IBaEFVX3lxTFB3bUhhcDZlOWg2ZWRwNWR2TTJEeS1EU3Q2OG1GWHRfLW0yUTVEZkVUbldtQllhZURxTzR4VFdjM0JuaXFnZDZSY1ppNkFFcmMxTjZBY2JwQ1BXN1QxM0ZSNGhGT2VOcUdx?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-24T01:56+09:00"
     },
     {
      "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
@@ -652,10 +652,10 @@
      "at": "2026-11-23T10:00+09:00"
     },
     {
-     "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道（TBS NEWS DIG Powered by JNN）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUVBvZnpUYlQ5bmdXb2l1eV9nMFZTSWpLZTk0Nkt5N0FHQ21YX2ZzUE9EOFZVaGd2SEdDRzVsZS1JS3g5OWxzeTdUXzhnODQxRU53V3l4UXFrV2pwSjBNejBQTlpKMnRzMDl1LTVOMkVnRlBTaS1oYXQ2YnkwdlE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-23T17:49+09:00"
+     "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LUGROb0dBQzVieEduemxrTVNLb0kzZ3lXbC1qajdMb1REUDh5T2dLMVk5RGpRM0NOOHdmcHFGZUU4Yy1WSjNaSXRudDVxdTAybFhYRzZvel9hZlVDM3RxUllzMEp1M3ZwLXdoSnR2bk9PbVRs?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-23T17:50+09:00"
     }
    ]
   }
