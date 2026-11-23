@@ -174,3 +174,4 @@ body.noscroll{overflow:hidden}
 .star[aria-pressed=true]{color:#d99a00;border-color:#d99a00;background:var(--warn-bg)}
 .tabs{overflow-x:auto}
 .tab{white-space:nowrap}
+#tripInfo{display:flex;flex-direction:column;gap:12px}

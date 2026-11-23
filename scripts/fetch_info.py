@@ -58,6 +58,17 @@ WORLD_NEWS_WORDS = ["爆破予告", "破壊工作", "妨害工作", "ハイブ�
 # 南海トラフ（臨時情報などは大阪にも直接関わる）
 NANKAI_FEEDS = ["https://news.google.com/rss/search?q=" + urllib.parse.quote("南海トラフ when:7d") + "&hl=ja&gl=JP&ceid=JP:ja"]
 
+# 出張先（東京・東日本橋）のニュース。出張が終わったら TRIP_ON を False にする
+TRIP_ON = True
+TOKYO_FEEDS = [
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("東京 停電 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("中央区 避難指示 OR 断水 OR 火災 OR 爆発 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("日本橋 火災 OR 停電 OR 事故 OR 避難 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
+    "https://news.google.com/rss/search?q=" + urllib.parse.quote("東京都 断水 OR 大規模火災 OR 避難指示 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
+]
+TOKYO_KEYWORDS = ["停電", "断水", "避難", "火災", "延焼", "爆発", "テロ", "通信障害", "不審物"]
+TOKYO_PLACES = ["東京", "都内", "23区", "首都圏", "中央区", "東日本橋", "日本橋", "浜町", "人形町", "馬喰町"]
+
 OUTAGE_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("停電 大阪 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
 ]
@@ -496,6 +507,7 @@ def main():
         "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48, OUTAGE_PLACES),
         "japan": lambda: collect_news(JAPAN_FEEDS, JAPAN_KEYWORDS, 6, 48),
         "cyber": collect_cyber,
+        "tokyo": lambda: collect_news(TOKYO_FEEDS, TOKYO_KEYWORDS, 8, 48, TOKYO_PLACES) if TRIP_ON else [],
         "osaka": lambda: collect_news(OSAKA_FEEDS, OSAKA_RED + OSAKA_YELLOW, 6, 48, OSAKA_PLACES),
     }
     for key, fn in jobs.items():

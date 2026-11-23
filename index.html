@@ -10,7 +10,7 @@
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="ふたりの安否">
-<link rel="stylesheet" href="style.css?v=33">
+<link rel="stylesheet" href="style.css?v=34">
 </head>
 <body>
 <div class="wrap">
@@ -49,6 +49,10 @@
         <span class="slevel">確認中</span>
         <span class="sbody"><span class="slabel">大阪市</span><span class="sreason"></span></span>
       </a>
+      <a class="scard" id="stTrip" href="#" hidden>
+        <span class="slevel">確認中</span>
+        <span class="sbody"><span class="slabel">出張先：東京（東日本橋）</span><span class="sreason"></span></span>
+      </a>
       <a class="scard" id="stJapan" href="#">
         <span class="slevel">確認中</span>
         <span class="sbody"><span class="slabel">日本</span><span class="sreason"></span></span>
@@ -62,6 +66,10 @@
     <a class="weather" id="weather" href="https://www.jma.go.jp/bosai/forecast/#area_type=offices&amp;area_code=270000" target="_blank" rel="noopener" hidden>
       <span class="wxhead"><b>大阪の天気</b><small>気象庁</small></span>
       <span class="wxdays" id="wxDays"></span>
+    </a>
+    <a class="weather" id="weatherTrip" href="https://www.jma.go.jp/bosai/forecast/#area_type=offices&amp;area_code=130000" target="_blank" rel="noopener" hidden>
+      <span class="wxhead"><b>東京の天気（出張先）</b><small>気象庁</small></span>
+      <span class="wxdays" id="wxDaysTrip"></span>
     </a>
 
     <section class="panel" aria-label="安否を送る">
@@ -148,6 +156,7 @@
       <div class="chips" id="ward">
         <button class="chip" data-w="生野区" aria-pressed="true">生野区</button>
         <button class="chip" data-w="旭区" aria-pressed="false">旭区</button>
+        <button class="chip" data-w="中央区（東京）" aria-pressed="false" hidden>東京・中央区</button>
       </div>
       <p class="sub">大阪市が公表している災害時避難所の一覧です。「地図」で場所を開けます（地図はネットが必要）。</p>
       <div id="shelList"></div>
@@ -175,6 +184,22 @@
         <a class="sm" href="https://apps.apple.com/jp/app/id1460232066" target="_blank" rel="noopener">関西停電情報アプリ（iPhone）</a>
       </div>
       <div id="infoOutage" class="ilist"></div>
+
+      <div id="tripInfo" hidden>
+        <h3 class="grp" id="grpTrip">出張先：東京（東日本橋）</h3>
+        <h2>警報・注意報（東京都中央区）</h2>
+        <div id="tripWarn" class="ilist"></div>
+        <h2>東京のニュース（避難指示・停電・火災など）</h2>
+        <div id="tripNews" class="ilist"></div>
+        <h2>東京で揺れた地震</h2>
+        <div id="tripQuake" class="ilist"></div>
+        <h2>避難・停電</h2>
+        <p class="sub">東日本橋・日本橋地域は「地区内残留地区」です。燃え広がりにくい地域とされているので、大きな火事でも基本は遠くへ逃げなくて大丈夫です。建物が危ない時は近くの防災拠点（久松小学校など）へ。避難所の一覧は「避難所」タブの「東京・中央区」にあります。</p>
+        <div class="row">
+          <a class="sm" href="https://teideninfo.tepco.co.jp/" target="_blank" rel="noopener">東京電力の停電情報</a>
+          <a class="sm" href="https://www.city.chuo.lg.jp/a0011/bousaianzen/bousai/bousaitaisaku/hinanjo/bousaikyotenfukukyoten.html" target="_blank" rel="noopener">中央区の防災拠点</a>
+        </div>
+      </div>
 
       <h3 class="grp" id="grpJapan">日本</h3>
       <h2>Jアラート・弾道ミサイル</h2>
@@ -222,6 +247,7 @@
         <button class="sm" id="copyRoom2">合言葉をコピー</button>
         <button class="sm" id="resetSetup">呼び名・合言葉を変える</button>
       </div>
+      <div class="row"><button class="sm" id="tripToggle" hidden></button></div>
       <p class="sub">ホーム画面に追加しておくと、ネットがなくてもこのアプリを開けます（iPhoneはSafariの共有ボタン →「ホーム画面に追加」）。</p>
     </section>
   </main>
@@ -237,6 +263,6 @@
     </div>
   </div>
 </div>
-<script type="module" src="app.js?v=33"></script>
+<script type="module" src="app.js?v=34"></script>
 </body>
 </html>

@@ -4,11 +4,25 @@ const FB = "https://www.gstatic.com/firebasejs/10.12.2/";
 
 // 大阪市の各区役所が公表している災害時避難所（2026年10月時点で確認）
 // [名称, 住所, 地震時に浸水のおそれ]
+const WARD_PREFIX = { "生野区": "大阪市生野区", "旭区": "大阪市旭区", "中央区（東京）": "東京都中央区" };
 const SHELTERS = {
+"中央区（東京）": [["久松小学校（東日本橋のすぐ北）","日本橋久松町7-2"],["日本橋中学校 浜町校舎（浜町公園内）","日本橋浜町2-59-1"],["十思スクエア","日本橋小伝馬町5-1"],["日本橋小学校","日本橋人形町1-1-17"],["有馬小学校","日本橋蛎殻町2-10-23"],["常盤小学校","日本橋本石町4-4-26"],["阪本小学校","日本橋兜町15-18"]],
   "生野区": [["北鶴橋小学校","鶴橋3-4-50"],["鶴橋小学校","桃谷2-20-32"],["いくのコーライブズパーク（もと御幸森小）","桃谷5-5-37"],["東勝山小学校","勝山北3-7-21"],["もと舎利寺小学校","勝山南4-15-25"],["ワン・ワールド・インターナショナルスクール大阪（もと生野小）","舎利寺3-1-39"],["田島南小中一貫校 第2校地","田島3-7-38"],["東朋学園高等学校（もと生野南小）","林寺6-6-7"],["アブロードインターナショナル大阪校（もと林寺小）","林寺2-14-3"],["大池小学校","中川3-4-3"],["東中川小学校","新今里7-14-37"],["小路小学校","小路2-24-40"],["東小路小学校","小路東3-8-15"],["巽小学校","巽中3-12-5"],["北巽小学校","巽北1-30-29"],["巽南小学校","巽南2-10-7"],["巽東小学校","巽東3-8-13"],["もと鶴橋中学校","勝山北4-9-22"],["桃谷中学校","勝山北3-13-44"],["生野未来学園","生野西3-5-40"],["田島南小中一貫校","田島5-23-7"],["大池中学校","中川6-3-6"],["東生野中学校","新今里7-9-25"],["新生野中学校","巽東3-3-12"],["巽中学校","巽中3-17-20"],["新巽中学校","巽南4-2-53"],["府立生野工業高等学校","生野東2-3-66"],["府立生野支援学校","巽東4-2-47"],["府立桃谷高等学校","勝山南3-1-4"],["府立大阪わかば高等学校","巽東3-10-75"],["金光藤蔭高等学校","小路東4-1-26"],["プール学院中学校・高等学校","勝山北1-19-31"],["大阪偕星学園高等学校","勝山南2-6-38"],["天理教葛上分教会","新今里5-3-1"],["NRB日本理容美容専門学校","鶴橋1-6-34"],["府立生野聴覚支援学校","桃谷1-2-1"]],
   "旭区": [["清水小学校","清水5-1-12"],["新森小路小学校","新森6-3-13"],["古市小学校","森小路2-10-35"],["太子橋小学校","太子橋1-12-15"],["大宮小学校","大宮4-9-16"],["大宮西小学校","中宮1-8-14",1],["生江小学校","生江1-10-21"],["城北小学校","赤川3-13-47"],["高殿小学校","高殿6-9-10"],["高殿南小学校","高殿3-10-30"],["旭東中学校","新森6-7-25"],["今市中学校","大宮5-13-40"],["大宮中学校","中宮4-7-11"],["旭陽中学校","高殿5-9-31",1],["旭高等学校","高殿5-6-41",1],["淀川工科高等学校","太子橋3-1-32"],["大阪工業大学 総合体育館","大宮5-16-1"],["大阪工業大学 第2体育館","大宮5-16-1"],["思斉支援学校","大宮5-11-7"],["光陽支援学校","新森6-8-21"]]
 };
 // 内部の値（ok/hurt/help）はFirebaseのルールと合わせてあるので変えない。表示だけ変える
+// 出張先（一時的に表示する）。出張が終わったら on を false にするか、設定タブで非表示にする
+const TRIP = {
+  on: true,
+  label: "東京・東日本橋",
+  office: "130000",      // 気象庁の府県予報区（東京都）
+  city: "1310200",       // 警報の地域（東京都中央区）
+  cityName: "中央区",
+  fcArea: "130010",      // 天気予報の地域（東京地方）
+  tempArea: "44132",     // 気温の地点（東京）
+  prefInt: "13",         // 地震の震度の都道府県（東京都）
+};
+const tripOn = () => TRIP.on && ls.get("tripHidden") !== true;
 const LABEL = { ok: "家で無事", hurt: "避難した", help: "ケガ・危ない" };
 const SIX_H = 6 * 3600e3;
 
@@ -315,6 +329,8 @@ function openTab(name) { const t = document.querySelector(`.tab[data-t="${name}"
 
 /* ---------- 避難所 ---------- */
 function renderShel() {
+  const tb = document.querySelector('#ward .chip[data-w="中央区（東京）"]'); if (tb) tb.hidden = !tripOn();
+  if (!tripOn() && ward === "中央区（東京）") ward = "生野区";
   document.querySelectorAll("#ward .chip").forEach(c => c.setAttribute("aria-pressed", String(c.dataset.w === ward)));
   const box = $("#shelList"); box.innerHTML = "";
   for (const [n, a, flood] of SHELTERS[ward]) {
@@ -322,9 +338,9 @@ function renderShel() {
     const row = document.createElement("div"); row.className = "shel";
     row.innerHTML = '<div class="nm"><b></b><span class="sub"></span></div><div class="acts"><a class="sm" target="_blank" rel="noopener">地図</a><button class="sm"></button></div>';
     row.querySelector("b").textContent = n;
-    row.querySelector(".sub").textContent = "大阪市" + ward + a;
+    row.querySelector(".sub").textContent = (WARD_PREFIX[ward] || ward) + a;
     if (flood) { const w = document.createElement("div"); w.className = "note"; w.textContent = "地震時は浸水していないか確かめてから"; row.querySelector(".nm").appendChild(w); }
-    row.querySelector("a").href = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(`大阪市${ward}${a} ${n}`);
+    row.querySelector("a").href = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(`${WARD_PREFIX[ward] || ward}${a} ${n}`);
     const b = row.querySelector("button");
     b.textContent = on ? "ここにいる ✓" : "ここにいる"; b.classList.toggle("on", on);
     b.onclick = () => {
@@ -452,6 +468,8 @@ function renderInfo(info, fromCache) {
   if (!nk.children.length) emptyRow(nk, info.nankai ? "ここ1週間、該当するニュースはありません" : "次の更新から表示されます");
 
   renderWeather(info.forecast);
+  if (tripOn()) renderWeather(info.tripForecast, "#weatherTrip", "#wxDaysTrip", null); else $("#weatherTrip").hidden = true;
+  renderTripInfo(info);
   renderStatus(info);
 }
 
@@ -464,10 +482,10 @@ function dayLabel(t, i) {
   const rel = k === today ? "今日" : k === tm ? "明日" : k === da ? "明後日" : "";
   return { rel, md: `${d.getMonth() + 1}/${d.getDate()}(${WD[d.getDay()]})` };
 }
-function renderWeather(fc) {
-  const box = $("#weather"), wk = $("#weekWeather");
+function renderWeather(fc, boxSel = "#weather", daysSel = "#wxDays", weekSel = "#weekWeather") {
+  const box = $(boxSel), wk = weekSel ? $(weekSel) : null;
   if (!fc || !fc.days || !fc.days.length) { box.hidden = true; if (wk) { wk.innerHTML = ""; emptyRow(wk, "取得できていません"); } return; }
-  const rows = $("#wxDays"); rows.innerHTML = "";
+  const rows = $(daysSel); rows.innerHTML = "";
   for (const [i, d] of fc.days.slice(0, 3).entries()) {
     const l = dayLabel(d.date, i);
     const pmax = d.pops && d.pops.length ? Math.max(...d.pops.map(p => p.p)) : null;
@@ -501,10 +519,27 @@ function renderWeather(fc) {
     }
   }
 }
+function renderTripInfo(info) {
+  const grp = $("#tripInfo"); grp.hidden = !tripOn(); if (!tripOn()) return;
+  const w = $("#tripWarn"); w.innerHTML = "";
+  const items = (info.tripWarnings && info.tripWarnings.items) || [];
+  if (items.length) {
+    const tags = document.createElement("div"); tags.className = "wtags";
+    for (const i of items) { const s = document.createElement("span"); s.className = "wtag l" + i.level; s.textContent = i.name; tags.appendChild(s); }
+    w.appendChild(tags);
+  } else emptyRow(w, info.tripWarnings ? "いま発表中の警報・注意報はありません" : "取得できていません");
+  const n = $("#tripNews"); n.innerHTML = "";
+  for (const x of (info.tokyo || [])) n.appendChild(infoRow(x.title, [x.source, fmtAt(x.at)].filter(Boolean).join("　"), x.link, x));
+  if (!n.children.length) emptyRow(n, info.tokyo ? "ここ2日、該当するニュースはありません" : "次の更新から表示されます");
+  const q = $("#tripQuake"); q.innerHTML = "";
+  const tq = (info.quakes || []).filter(e => e.tokyoRank > 0).slice(0, 3);
+  for (const e of tq) q.appendChild(infoRow(`${e.place}（東京 震度${e.tokyo}）`, `${fmtAt(e.at)}　M${e.mag || "-"}`));
+  if (!tq.length) emptyRow(q, "最近、東京で揺れた地震はありません");
+}
 function renderHeadline(st) {
   const box = $("#headline"), list = $("#headlineList");
   const items = [], seen = new Set();
-  for (const [key, label] of [["osaka", "大阪市"], ["japan", "日本"], ["world", "世界"]]) {
+  for (const [key, label] of [["osaka", "大阪市"], ["trip", "出張先"], ["japan", "日本"], ["world", "世界"]]) {
     const s = st[key];
     if (!s || s.level !== "red") continue;
     for (const n of (s.urgent || s.items || []).slice(0, 2)) {
@@ -527,7 +562,8 @@ function renderHeadline(st) {
 function renderStatus(info) {
   const st = info.status || {};
   renderHeadline(st);
-  for (const [key, id] of [["osaka", "#stOsaka"], ["japan", "#stJapan"], ["world", "#stWorld"]]) {
+  $("#stTrip").hidden = !tripOn();
+  for (const [key, id] of [["osaka", "#stOsaka"], ["trip", "#stTrip"], ["japan", "#stJapan"], ["world", "#stWorld"]]) {
     const card = $(id), s = st[key];
     card.className = "scard" + (s && LEVEL[s.level] ? " " + s.level : "");
     card.querySelector(".slevel").textContent = s ? (LEVEL[s.level] || "不明") : "確認中";
@@ -548,7 +584,7 @@ function timeLine(info) {
   return parts.join("／");
 }
 // カードを押すと、情報タブの該当する場所（大阪市・日本・世界）まで移動する
-for (const [id, grp] of [["#stOsaka", "#grpOsaka"], ["#stJapan", "#grpJapan"], ["#stWorld", "#grpWorld"]]) {
+for (const [id, grp] of [["#stOsaka", "#grpOsaka"], ["#stTrip", "#grpTrip"], ["#stJapan", "#grpJapan"], ["#stWorld", "#grpWorld"]]) {
   $(id).onclick = e => {
     e.preventDefault();
     const t = document.querySelector('.tab[data-t="info"]'); if (t) t.click();
@@ -584,19 +620,19 @@ function kindsToList(kinds) {
   }
   return out;
 }
-function parseWarnings(data) {
+function parseWarnings(data, city = OSAKA_CITY, cityName = "大阪市") {
   let items = [], headline = "", reported = "";
   if (Array.isArray(data)) {
     for (const m of data) {
       if (m.reportDatetime && m.reportDatetime > reported) { reported = m.reportDatetime; headline = (m.headlineText || "").trim() || headline; }
-      for (const it of (m.warning && m.warning.class20Items) || []) if (String(it.areaCode) === OSAKA_CITY) items.push(...kindsToList(it.kinds));
+      for (const it of (m.warning && m.warning.class20Items) || []) if (String(it.areaCode) === city) items.push(...kindsToList(it.kinds));
     }
   } else if (data && data.areaTypes) {
     reported = data.reportDatetime; headline = (data.headlineText || "").trim();
-    for (const at of data.areaTypes) for (const a of at.areas || []) if (String(a.code) === OSAKA_CITY) items.push(...kindsToList(a.warnings));
+    for (const at of data.areaTypes) for (const a of at.areas || []) if (String(a.code) === city) items.push(...kindsToList(a.warnings));
   } else throw new Error("unknown format");
   const uniq = Object.values(Object.fromEntries(items.map(i => [i.code, i]))).sort((a, b) => b.level - a.level || a.code.localeCompare(b.code));
-  return { area: "大阪市", items: uniq, headline: headline.slice(0, 300), reported };
+  return { area: cityName, items: uniq, headline: headline.slice(0, 300), reported };
 }
 // 同じ地震でも「震度速報」「震源・震度情報」「震源要素更新」など何通も出るので、まとめてから使う
 // （最新の1通だけだと、震度の入っていないお知らせで上書きされることがある）
@@ -605,12 +641,14 @@ function parseQuakes(data) {
   for (const q of data || []) {
     if (!q || !q.at) continue;
     const id = q.eid || q.at;
-    const e = byId.get(id) || { at: q.at, place: "", mag: "", maxiRaw: "", osakaRaw: "" };
+    const e = byId.get(id) || { at: q.at, place: "", mag: "", maxiRaw: "", osakaRaw: "", tokyoRaw: "" };
     if (!e.place && q.anm) e.place = q.anm;              // 新しい順に並んでいるので、最初に見つけたものが最新
     if (!e.mag && q.mag) e.mag = q.mag;
     if ((SHINDO_RANK[q.maxi] || 0) > (SHINDO_RANK[e.maxiRaw] || 0)) e.maxiRaw = q.maxi;
     const o = ((q.int || []).find(p => String(p.code) === OSAKA_PREF_INT) || {}).maxi || "";
     if ((SHINDO_RANK[o] || 0) > (SHINDO_RANK[e.osakaRaw] || 0)) e.osakaRaw = o;
+    const tk = ((q.int || []).find(p => String(p.code) === TRIP.prefInt) || {}).maxi || "";
+    if ((SHINDO_RANK[tk] || 0) > (SHINDO_RANK[e.tokyoRaw] || 0)) e.tokyoRaw = tk;
     byId.set(id, e);
   }
   return [...byId.values()]
@@ -618,7 +656,8 @@ function parseQuakes(data) {
     .sort((a, b) => new Date(b.at) - new Date(a.at))
     .slice(0, 8)
     .map(e => ({ at: e.at, place: e.place || "震源を調査中", mag: e.mag, maxi: shindoLabel(e.maxiRaw), maxiRank: SHINDO_RANK[e.maxiRaw] || 0,
-      osaka: shindoLabel(e.osakaRaw), osakaRank: SHINDO_RANK[e.osakaRaw] || 0 }));
+      osaka: shindoLabel(e.osakaRaw), osakaRank: SHINDO_RANK[e.osakaRaw] || 0,
+      tokyo: shindoLabel(e.tokyoRaw), tokyoRank: SHINDO_RANK[e.tokyoRaw] || 0 }));
 }
 async function getJSON(url) {
   const r = await fetch(url + "?_=" + Math.floor(Date.now() / 30e3), { cache: "no-store" });
@@ -645,22 +684,22 @@ function wxName(code, text) {
 }
 const wxKind = code => ({ 1: "sun", 2: "cloud", 3: "rain", 4: "snow" }[Math.floor(+code / 100)] || "cloud");
 const dateKey = t => { const d = new Date(t); return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`; };
-function parseForecast(data) {
+function parseForecast(data, FC = OSAKA_FC_AREA, TEMP = OSAKA_TEMP_AREA) {
   const out = { days: [], week: [] };
   const short = data && data[0], week = data && data[1];
   if (!short || !short.timeSeries) throw new Error("format");
   // 天気（今日・明日・明後日）
-  const ts0 = short.timeSeries[0], a0 = (ts0.areas || []).find(a => a.area && a.area.code === OSAKA_FC_AREA) || (ts0.areas || [])[0];
+  const ts0 = short.timeSeries[0], a0 = (ts0.areas || []).find(a => a.area && a.area.code === FC) || (ts0.areas || [])[0];
   (ts0.timeDefines || []).forEach((t, i) => out.days.push({ date: t, code: a0.weatherCodes && a0.weatherCodes[i], text: a0.weathers && a0.weathers[i], wind: a0.winds && a0.winds[i] }));
   // 降水確率（6時間ごと）→ 日ごとの最大と、時間帯の一覧
-  const ts1 = short.timeSeries[1], a1 = ts1 && ((ts1.areas || []).find(a => a.area && a.area.code === OSAKA_FC_AREA) || ts1.areas[0]);
+  const ts1 = short.timeSeries[1], a1 = ts1 && ((ts1.areas || []).find(a => a.area && a.area.code === FC) || ts1.areas[0]);
   if (a1) (ts1.timeDefines || []).forEach((t, i) => {
     const day = out.days.find(d => dateKey(d.date) === dateKey(t)); const p = a1.pops && a1.pops[i];
     if (!day || p === "" || p == null) return;
     (day.pops = day.pops || []).push({ t, p: +p });
   });
   // 気温（00:00は最低、09:00は最高）
-  const ts2 = short.timeSeries[2], a2 = ts2 && ((ts2.areas || []).find(a => a.area && a.area.code === OSAKA_TEMP_AREA) || ts2.areas[0]);
+  const ts2 = short.timeSeries[2], a2 = ts2 && ((ts2.areas || []).find(a => a.area && a.area.code === TEMP) || ts2.areas[0]);
   if (a2) (ts2.timeDefines || []).forEach((t, i) => {
     const day = out.days.find(d => dateKey(d.date) === dateKey(t)); const v = a2.temps && a2.temps[i];
     if (!day || v === "" || v == null) return;
@@ -668,8 +707,8 @@ function parseForecast(data) {
   });
   // 週間予報
   if (week && week.timeSeries) {
-    const w0 = week.timeSeries[0], wa = (w0.areas || []).find(a => a.area && a.area.code === OSAKA_FC_AREA) || (w0.areas || [])[0];
-    const w1 = week.timeSeries[1], wt = w1 && ((w1.areas || []).find(a => a.area && a.area.code === OSAKA_TEMP_AREA) || w1.areas[0]);
+    const w0 = week.timeSeries[0], wa = (w0.areas || []).find(a => a.area && a.area.code === FC) || (w0.areas || [])[0];
+    const w1 = week.timeSeries[1], wt = w1 && ((w1.areas || []).find(a => a.area && a.area.code === TEMP) || w1.areas[0]);
     (w0.timeDefines || []).forEach((t, i) => out.week.push({
       date: t, code: wa.weatherCodes && wa.weatherCodes[i], pop: wa.pops && wa.pops[i] !== "" ? +wa.pops[i] : null,
       min: wt && wt.tempsMin && wt.tempsMin[i] !== "" ? +wt.tempsMin[i] : null, max: wt && wt.tempsMax && wt.tempsMax[i] !== "" ? +wt.tempsMax[i] : null
@@ -706,6 +745,13 @@ async function fetchJMA() {
   try { live.forecast = parseForecast(await getJSON(JMA_FORECAST)); } catch {}
   for (const u of JMA_WARN) { try { live.warnings = parseWarnings(await getJSON(u)); break; } catch {} }
   try { live.quakes = parseQuakes(await getJSON(JMA_QUAKE)); } catch {}
+  if (tripOn()) {
+    const base = "https://www.jma.go.jp/bosai/";
+    for (const u of [`${base}warning/data/r8/${TRIP.office}.json`, `${base}warning/data/warning/${TRIP.office}.json`]) {
+      try { live.tripWarnings = parseWarnings(await getJSON(u), TRIP.city, TRIP.cityName); break; } catch {}
+    }
+    try { live.tripForecast = parseForecast(await getJSON(`${base}forecast/data/forecast/${TRIP.office}.json`), TRIP.fcArea, TRIP.tempArea); } catch {}
+  }
   return (live.warnings || live.quakes || live.forecast) ? live : null;
 }
 
@@ -777,6 +823,27 @@ function pushNankai(info, red, yel, urgent) {
   const [l, r, n] = nankaiLevel(info.nankai);
   if (l === "red") { red.push(r); if (urgent && n) urgent.push(newsUrgent(n)); } else if (l === "yellow") yel.push(r);
 }
+// 出張先（東京・中央区）：警報、東京の震度、東京のニュース（避難指示・停電など）
+const TRIP_STRICT = ["中央区", "東日本橋", "日本橋", "浜町", "人形町", "馬喰町"];
+const TRIP_PLACES = ["東京", "都内", "23区", "首都圏", ...TRIP_STRICT];
+function assessTrip(info) {
+  const red = [], yel = [], urgent = [];
+  for (const w of (info.tripWarnings && info.tripWarnings.items) || []) {
+    if (w.level >= 4) { red.push(`${TRIP.cityName}に${w.name}`); urgent.push({ title: `東京都${TRIP.cityName}に${w.name}`, link: `https://www.jma.go.jp/bosai/warning/#area_type=class20s&area_code=${TRIP.city}`, source: "気象庁" }); }
+    else if (w.level === 3) yel.push(`${TRIP.cityName}に${w.name}`);
+  }
+  for (const q of info.quakes || []) {
+    if (!within(q.at, 24)) continue;
+    if (q.tokyoRank >= 5) { red.push(`東京で震度${q.tokyo}の地震（${fmtAt(q.at)}）`); urgent.push({ title: `東京で震度${q.tokyo}の地震（震源：${q.place}）`, link: JMA_QUAKE_PAGE, source: "気象庁", at: q.at }); }
+    else if (q.tokyoRank === 4) yel.push(`東京で震度4の地震（${fmtAt(q.at)}）`);
+  }
+  const tn = (info.tokyo || []).filter(n => !isResolved(n.title));
+  const tr = realOnly(newsHits(tn, ["避難指示", "緊急安全確保", "テロ", "爆発"])).filter(n => TRIP_STRICT.some(p => n.title.includes(p)));
+  if (tr.length) { red.push(`「${tr[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(tr[0])); }
+  const ty = newsHits(tn, ["停電", "断水", "大規模火災", "延焼", "通信障害"]).filter(n => TRIP_PLACES.some(p => n.title.includes(p)));
+  if (ty.length) yel.push(`「${ty[0].title.slice(0, 40)}」`);
+  return result(red, yel, "警報なし・大きな揺れや停電の報道なし", urgent);
+}
 function assessJapan(info) {
   const red = [], yel = [], urgent = [];
   for (const q of info.quakes || []) {
@@ -800,8 +867,11 @@ function withLive(news, live) {
     if (live.warnings) info.warnings = live.warnings;
     if (live.quakes) info.quakes = live.quakes;
     if (live.forecast) info.forecast = live.forecast;
+    if (live.tripWarnings) info.tripWarnings = live.tripWarnings;
+    if (live.tripForecast) info.tripForecast = live.tripForecast;
   }
   info.status = { ...(info.status || {}), osaka: assessOsaka(info), japan: assessJapan(info) };
+  if (tripOn()) info.status.trip = assessTrip(info);
   return info;
 }
 
@@ -828,6 +898,8 @@ async function loadInfo(force) {
     const base = news || cached || {};
     const info = withLive(base, live || (news ? null : cached && cached.live && { at: cached.live.at, warnings: cached.warnings, quakes: cached.quakes }));
     if (!info.forecast && cached && cached.forecast) info.forecast = cached.forecast; // 取れなかった時は前回の予報を使う
+    if (!info.tripForecast && cached && cached.tripForecast) info.tripForecast = cached.tripForecast;
+    if (!info.tripWarnings && cached && cached.tripWarnings) { info.tripWarnings = cached.tripWarnings; if (tripOn()) info.status.trip = assessTrip(info); }
     ls.set("info", info); renderInfo(info, false); infoLoadedAt = Date.now();
   } else if (!cached) {
     $("#infoTime").textContent = "情報を取得できませんでした。ネットにつながったら「更新」を押してください";
@@ -870,6 +942,16 @@ async function connect() {
   }
 }
 
+function paintTripToggle() {
+  const b = $("#tripToggle"); if (!b) return;
+  b.hidden = !TRIP.on;
+  b.textContent = tripOn() ? `出張先（${TRIP.label}）を隠す` : `出張先（${TRIP.label}）を表示する`;
+}
+$("#tripToggle").onclick = () => {
+  tripOn() ? ls.set("tripHidden", true) : ls.del("tripHidden");
+  paintTripToggle(); renderShel(); loadInfo(true);
+};
+
 /* ---------- 起動 ---------- */
 function start() {
   const name = ls.get("name"), room = ls.get("room");
@@ -880,6 +962,7 @@ function start() {
   }
   $("#setup").hidden = true; $("#main").hidden = false;
   $("#confInfo").textContent = `呼び名：${name}`;
+  paintTripToggle();
   const last = ls.get("last"); if (last && !Object.keys(people).length) { people.me = last; }
   renderPeople(); renderShel(); smsText(); paintMode();
   connect();
