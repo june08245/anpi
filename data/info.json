@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:00+09:00",
+ "updated": "2026-11-23T22:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -240,6 +240,18 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWh4N3oyNWE1X1BGYzR3dkE3UmlhVHgwUk9IRHlGLVAwVmNDMkdoc19CamsxZHRCTzhoODNtc0hEYVJFUk9hYk5oWWhFeHdjQzNCN0gzOURadlZUbmhsRnNXMVF5Zjk4YXM2d2otclEwdnY0SGk3aTUzRW9iQ25ramVMc05pcGdQ0gGOAUFVX3lxTE1YZmFCdktBUzQ1dWRlSXJpRWZzY0oxOTZ4bFlHbHh1X1dwZXZkTUxPaEphbzlVa1JXUXNzYk5WbWx1bkZlOWVCRlctUTRmdENZdVhKUlV5T1JfQ1RqdVN5NFlRZ3VuLS1STlprSnpCZThoMTVMel9rOXo1Zi1Ma2dadkNjZkZxXzdaaG51a0E?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-23T22:03+09:00"
+    },
+    {
+     "title": "ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YN3NoSVJIUXdhSzVTSjVndFpvVFQxb0I3ZmlhS0pxLWlFaWpPU0lyT0djRC1rdzlKcGltd0d0YzdEVG9DMF9EOS1hUGEzWEVxZUF2OFdGbGpBTzRCNF9WVUtsRnB2TUI1Ql9VVw?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-23T22:00+09:00"
+    },
+    {
      "title": "ゼレンスキー氏 リビア海上でロシア軍艦「撃沈」",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFYUQzakRacHl0eEJlc19BOENwa2lFaW42VTBCM2h2a0xpVEVPbUVQSmpWbEVEQndWdGdsWHNPTkJQR0pxQVJFWEIwbUdEcGtMQ0hKTHB1d3VhT1NGOUNxQUV1REttX1BvUmFGNmRR?oc=5",
      "source": "au Webポータル",
@@ -262,18 +274,6 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUUFOeDh3ejIxUmMzamp4YjltUWFMYXpmYmpUYTRGODBlOWJZUGtHbHRwcWNYY1pGTTQ2dFNmREYwTlpMRXJSR3VKazdQNzl1Q042RG1JWQ?oc=5",
      "source": "西日本新聞me",
      "at": "2026-11-23T20:11+09:00"
-    },
-    {
-     "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で (共同通信)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWg3aWdQSnFySVQwdDJQd2hZU0VoNUhXbTBULS1BbTd5a2QyWFhWS2FHWnlZWE9hXzI4V1IwSXFGc0tuQTEyTC1RbVc4b1VVVzZxU0xsemEybHd2YkNlelkzSlE0QzJSQmg2QUlGeDljODdGX1hiMkM1WVJPbTk2UFI2d0tFSmhHWVZ1cDln?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-23T19:59+09:00"
-    },
-    {
-     "title": "ウクライナ大統領、リビアでロシア軍艦撃沈と発表 水上ドローン使用",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0ltRDR3MnFiSGNaMFA5X25TM1NJM2VXc1FNX2E5a0E2SVRJelFSTW5zbGFaaHVNYjZrZFVqSnoyM1NiTno2ejVwSkFZeFJqb1A5azJPdEdCLVBPVmw3cjRobWdjeWJNVkVyeXAtN2xWME9nN1dqcWhRMDhRbExvSzJjWlpIZw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-23T19:43+09:00"
     }
    ]
   },
@@ -398,12 +398,6 @@
    "at": "2026-11-23T12:01+09:00"
   },
   {
-   "title": "画像 | マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システム障害は偶然なのか",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kYWtDYXNMSk9Wc24wYjg4bXU0NmdseUV0Wnd2MWFnS1JmRGJoZHg3UUdUdF9scWUtQ0l2ZWFlWEoycjA0TWh0NUZhak4yX1JDUjVVNFZNQQ?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-23T10:03+09:00"
-  },
-  {
    "title": "今度はデルタ航空で一時的なシステム障害、全米で運航に遅れ",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iQTdlWHJMa0tidXR6Tl83R0RGTGx6X1pIbnVuUG9SR1R4SXY2OTRmcUdPRXBhMjF5VmpudDVJNFhVdWFQakM5NnhtWTMtRVNQZVo2TjUwUnJfNGx4aHl4V1V6ZnQ?oc=5",
    "source": "千葉テレビ放送株式会社",
@@ -416,10 +410,10 @@
    "at": "2026-11-23T09:37+09:00"
   },
   {
-   "title": "ドコモ高速通信でまた障害 復旧に８時間、先週に続き",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IMVN5LVlVdldob01XYzBIYTNpcHlWc09OS05ldFNNWVQ0aHAtZWxSU0pvSzJVb296NjhfRi1rNnQzdVEzd1ZlY0pJTnR6dEZaQmtGcTRaOE8wei1x?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-23T07:30+09:00"
+   "title": "マツダ新型CX-5でディスプレイやコネクティッド関連の不具合が多数発生！修正プログラム後もトラブルが続き、オーナーから困惑の声",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwY3RqWEtBUVhSblRjcVNtTEtZdXp3YlpleTl6LTVuSndoejJ3Y1U5M0lyMUxxck9YaDkxTUVQRjJUTVlNcXhhZtIBUEFVX3lxTE1tZzRKNmRGSThfQk85bmlmT0VCYU5hUnJPcExWdFk2c25PclBvZWViRTJhQWxqWDQ0V2RhRWJIT0FTbHpZY1JGdFZwUEYwQzc3?oc=5",
+   "source": "Creative Trend",
+   "at": "2026-11-23T08:45+09:00"
   },
   {
    "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
@@ -446,6 +440,12 @@
    "at": "2026-11-23T05:07+09:00"
   },
   {
+   "title": "「惨事の封じ込めまで3日間」ラ・リーガが深刻なサイバー攻撃の被害に",
+   "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxPcGM0VlBGMlhjblpDSnVtVHJkQkt1dmNZVE5vd014czhndHdHQUJNdlpRdGxhSUdOdHZmUGY5VzNBUzd2LU1SZ1RfYVpYMG1lYXQ4Z08wV0h2T3dzMmpibTlNYUhTczM2TGFnZkFQVV9sbTN3ZE5qeHliQmxWS2tlU0xHaTlDTWRfNUd6ZjdhWjRYZEQ2MzdXV1Z1aE9MRmF5cHJBejIyV0Iyd3RzemJzdGFwY2RZNHp1cmd1V2xFLURxbTVxZndJNWVtTnl1WFh6TGhyNld2eDYzNXpKa0JSYjFoei02Z2hYLWRiZkw1QmdlMDdOOG9IZldMeGZDWXpKUlVKUG1kdjRQdHhyQkNLNTc4bjlGVFA5MXdZRFVreVdwNlk0dlEwbVFKNUFqZTRXMUR5TG83WXNaRzRqS1JkOS04MXlqS0ZZc1QzUzNmQUszSVpmVmh3cmgzNTN0T090MGxGNVoyN1BpMlBER3VWRHVxSEYzbXBDNHlrSTNWbVVGV2luTDF1WW12Tm1kd1psaFFtWEdzMGViZ0E1NHh5VUNTeE1NLXVUNGFJRFQyeWxBWXRKaHl2M0dEZEUyWTk1STR0VFQ3X21BUDlaNl84aG16RGNPUXpVazgzVVBKRnI0aHk0X3BrZThBeDRHb0xKX0kwbGZNWU50TlZwRGhlZXo5WWdMRUI5WFFCSDhCcjVYMDhsWUltWDY4Um5hTEtlVUFhTw?oc=5",
+   "source": "Goal.com",
+   "at": "2026-11-23T22:05+09:00"
+  },
+  {
    "title": "不正アクセスで個人情報漏えい…消費者庁が紹介する“被害防ぐ6つの対策”に「企業側にも厳しく指導を」",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5jY0xvbHpIbzlXaHlQZ1Z0clpJV3loLWoxYzd3NEFOVVZJbk9IVmVlRkk2RzhON0hIcWRaeG00T0xVTkxlYmYzdHdR?oc=5",
    "source": "オトナンサー",
@@ -468,6 +468,20 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWh4N3oyNWE1X1BGYzR3dkE3UmlhVHgwUk9IRHlGLVAwVmNDMkdoc19CamsxZHRCTzhoODNtc0hEYVJFUk9hYk5oWWhFeHdjQzNCN0gzOURadlZUbmhsRnNXMVF5Zjk4YXM2d2otclEwdnY0SGk3aTUzRW9iQ25ramVMc05pcGdQ0gGOAUFVX3lxTE1YZmFCdktBUzQ1dWRlSXJpRWZzY0oxOTZ4bFlHbHh1X1dwZXZkTUxPaEphbzlVa1JXUXNzYk5WbWx1bkZlOWVCRlctUTRmdENZdVhKUlV5T1JfQ1RqdVN5NFlRZ3VuLS1STlprSnpCZThoMTVMel9rOXo1Zi1Ma2dadkNjZkZxXzdaaG51a0E?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-23T22:03+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YN3NoSVJIUXdhSzVTSjVndFpvVFQxb0I3ZmlhS0pxLWlFaWpPU0lyT0djRC1rdzlKcGltd0d0YzdEVG9DMF9EOS1hUGEzWEVxZUF2OFdGbGpBTzRCNF9WVUtsRnB2TUI1Ql9VVw?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-23T22:00+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ゼレンスキー氏 リビア海上でロシア軍艦「撃沈」",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFYUQzakRacHl0eEJlc19BOENwa2lFaW42VTBCM2h2a0xpVEVPbUVQSmpWbEVEQndWdGdsWHNPTkJQR0pxQVJFWEIwbUdEcGtMQ0hKTHB1d3VhT1NGOUNxQUV1REttX1BvUmFGNmRR?oc=5",
@@ -515,20 +529,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUUFOeDh3ejIxUmMzamp4YjltUWFMYXpmYmpUYTRGODBlOWJZUGtHbHRwcWNYY1pGTTQ2dFNmREYwTlpMRXJSR3VKazdQNzl1Q042RG1JWQ?oc=5",
    "source": "西日本新聞me",
    "at": "2026-11-23T20:11+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で (共同通信)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWg3aWdQSnFySVQwdDJQd2hZU0VoNUhXbTBULS1BbTd5a2QyWFhWS2FHWnlZWE9hXzI4V1IwSXFGc0tuQTEyTC1RbVc4b1VVVzZxU0xsemEybHd2YkNlelkzSlE0QzJSQmg2QUlGeDljODdGX1hiMkM1WVJPbTk2UFI2d0tFSmhHWVZ1cDln?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-23T19:59+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ大統領、リビアでロシア軍艦撃沈と発表 水上ドローン使用",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0ltRDR3MnFiSGNaMFA5X25TM1NJM2VXc1FNX2E5a0E2SVRJelFSTW5zbGFaaHVNYjZrZFVqSnoyM1NiTno2ejVwSkFZeFJqb1A5azJPdEdCLVBPVmw3cjRobWdjeWJNVkVyeXAtN2xWME9nN1dqcWhRMDhRbExvSzJjWlpIZw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-23T19:43+09:00",
    "topic": "ロシア"
   },
   {
@@ -613,7 +613,7 @@
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「画像 | マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大」"
+    "「マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システ」"
    ]
   },
   "japan": {
@@ -628,7 +628,7 @@
     "イラン・アメリカ：「攻撃」6件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」1件",
+    "ロシア：「攻撃」3件",
     "欧州・NATO：「ミサイル」「爆破予告」5件"
    ],
    "items": [
