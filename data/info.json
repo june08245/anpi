@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:30+09:00",
+ "updated": "2026-11-23T19:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナ リビア沖でロシア軍艦を撃沈 ゼレンスキー大統領が攻撃映像を公開",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOUtGczlTWDlmMXhmQ21PSDRrS0Y4VFFsR1Vad2Zwa1pYMVJBaWhpQXZNQjBtWnlQZ215eDJrTTZtWTlIMThiUlM5R2RqenVrTVl2akxSelNyNU0wR0xMR2FWZUxXTEVENjVFNXc0MnFPbEwxUzdXM1Rn?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-23T19:27+09:00"
+    },
+    {
      "title": "欧州に軸足移すウクライナ 米との関係が不穏に 対ロシア継戦を支えるドローン進化",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nUTZsUVpUS0dCYVhQVVIxQTZLV09kZFlvYmFyNHlzWFZfWk9MYXprODc1V2dObUc2Wm9rRXFCTVVZajBuS3FXLThrMjloNE0?oc=5",
      "source": "khb東日本放送",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wSHZaeFNDTnZVUHZNazE0UVFUU0VPZFdWMUhxZVZZUGNEQkRPZEFmaVMxaUtzRmwwSEtnUmxPaDJqRER2XzZORExYc1luUkNvQThXcVhzLUtYT2NUck83TUh6dHlxNy1icHhPaDdobWlwZTjSAXhBVV95cUxNQWMtSFdxRUtTX2RkNjZOQ3hUQmVPWmpHZjlSN0V4RkFUcy1MdjZBUkE0SGNxb19UaC1hRmZpbWlQZTNTS0dGdUoyZTRjTzVrQXE2VWFVM0FSYk9veUttb0hIa2tXamtnWlJhVk9zUnhXdXBwWXFpcnE?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-23T18:48+09:00"
-    },
-    {
-     "title": "ウクライナ、ロシア軍艦「撃沈」",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wYjB5OUpCU01hcWItTG1HTWotbE95WGVkRFBRRHV0WE1XSU1UTmlYWm01VTBHbjB1QzJNQWQ3eklMWHZhS3kzR2JOT0hKQURyZURhLVVBOFlVVHNYTzkzWUsxa3ZNWVRfeXJIa0VwdnFyMm8?oc=5",
-     "source": "デイリースポーツ",
-     "at": "2026-11-23T18:20+09:00"
     }
    ]
   },
@@ -311,8 +311,8 @@
  "nankai": [
   {
    "title": "阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2hoRTNTV3VkVl9jR21ISl9YRERCQmpqY1VHb1NVSXFDYjd3VW5UTFRzR1lnNTVaWHJKVi05VzFleXQ4U2ZNQUlEWVFaZlRkNDdHRnVqNkhLT0t5WGpFYUhDU1pfT3p3c29LWjU3V0taTkZYaFREMzRfRWZreDYzMXpXaDJLYVE?oc=5",
-   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vWlhHVDUwZ0Nla1ZHY0RjNVpsTDAzeGI0ck5DWktfeUVyOU1aWDgyV1Y5NXVoOUxUS25uYXZHcUN6VS04TExiNlQ3Rm1NWHNrS1Z5UUQ2VkRSVmp4eGZpUG5NWXhvREl5TGlRQVN4MnVOMW5aUm5RQ2VmbXlsZTg?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-23T19:15+09:00"
   },
   {
@@ -350,6 +350,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "米国で起きたシステム障害連鎖、「急ぎすぎた修正」が背景か",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0xqRkhnT1Y2XzQwc0s2aEN5UFV0ZldRcnNaQlB5azF3OFM5ZnA5c1o5RkNEbmNZckdxcTFfMTU2NjRTOTZxeGM2Yl9tLXFtbGdZOERqcDMxcm43QV9ZYnBvcllHZ3dOQS0wSng5d1c0VldZN3hDRjdDdE5WTDV5RVRLOE9WZE0?oc=5",
+   "source": "CRYPTO TIMES",
+   "at": "2026-11-23T19:33+09:00"
+  },
+  {
    "title": "デルタ航空のシステム障害で1600便が遅延、米国の重要ITインフラに相次ぐ「不具合」",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmaVZRSDJac3NMdG9td1FiNlp6eS05dDVvVzhRc2xtUUlDRklkN21ETklITG53LVFRVDVzWEhUandqeDB6dVR2amUyblNpWkdjWWN2RTVZT2xDQWJRSjJLS2dxemNReWN0ZmZtR3oyN1lEYWpE?oc=5",
    "source": "BigGo ファイナンス",
@@ -374,6 +380,12 @@
    "at": "2026-11-23T12:01+09:00"
   },
   {
+   "title": "米国の感謝祭を前にデルタ航空でもシステム障害…航空便の運航が一時遅延",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85MXZFa2lVM2Vpa2o5MFRmSElyaGwxOEJQMEZWR3dSRDVaRnJrLXoxMUZUVmp2NFVCVXdfMWNUaVg4bFRsTDhvSUo0SUgxcGMtRXBDZA?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-23T10:36+09:00"
+  },
+  {
    "title": "今度はデルタ航空で一時的なシステム障害、全米で運航に遅れ",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iQTdlWHJMa0tidXR6Tl83R0RGTGx6X1pIbnVuUG9SR1R4SXY2OTRmcUdPRXBhMjF5VmpudDVJNFhVdWFQakM5NnhtWTMtRVNQZVo2TjUwUnJfNGx4aHl4V1V6ZnQ?oc=5",
    "source": "千葉テレビ放送株式会社",
@@ -384,6 +396,12 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LQzRxcUF1b0NNSk1sSVdsZTR4eWM0VHNPMmc4RjBDQk1zNWI1SnNsRGMxcTl1V2VQVWVTa205bThDZ1J3akhnS0x6dkZJODZXN19BeHd3QmRKV0I2bzBxcFFWR09HMTNPTS1lb3R3?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-23T09:37+09:00"
+  },
+  {
+   "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWE9TSkhaS2o4NDF5Y3RmY184V0syR3o5U000TU5iY2Q2WUtKX3pmRktTZi14blE4ZzVQeVRTWjJZUzVRWUtvS1dYWXZPYTkyb3I5Nld1LTBiVDMzbzBpSG5oaHJDbG5PZTlBYU4zY1hxdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-23T07:25+09:00"
   },
   {
    "title": "デルタ航空でシステム障害、全米の運航に遅れ",
@@ -404,18 +422,6 @@
    "at": "2026-11-23T03:55+09:00"
   },
   {
-   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
-   "source": "GameWith",
-   "at": "2026-11-23T02:33+09:00"
-  },
-  {
-   "title": "ウォール街モーニング・ブリーフ：システム障害の嵐がリスク回避を誘発、S&P500とナスダックは4日続落、ソフトウェア株が急落、エヌビディアは時間外に力強く反発",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSzJTOVJBRVJmcFZkRGMyYnZaREF4Y0h5UGpKQ2xxeE43M09nc25IcXk0UnBaeHRjaDlKcVp6QkdLWW1xbms2TXdreUZqZjNVZlRsWG5KakpzOWhqSC0xYTBDb2VNakd3VEYzTjNxMzNWSTJNZ3RlajVLZVZoR28?oc=5",
-   "source": "PANews",
-   "at": "2026-11-23T00:49+09:00"
-  },
-  {
    "title": "タワーレコードに不正アクセス 個人情報1100万件流出か 一部に名前や住所など含むも、クレカ情報は流出せず",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlB4Y2dpLUVjXzhSRTJrNTg2cm1SWGx1eUN3ZVRLYXN5V2VLWEQwcW9nSWZYUDJzOUxQLVV4cjdCbzM3UWh6Zjk2TUpaV3BaUUlBVE1fclRsc1B5Y05ZeDVzbzJxZ1hxSHRTaDlMMHY0RzFpVWxNdXFicFhCZURYSQ?oc=5",
    "source": "UQライフ",
@@ -432,12 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzRvVUhLVDNETlVSQmJWQmo0VmYwdS0xSzgyNFVUb1V4MXZtZS1SMmI4VTFmZXJqZmx6akZ0YVA3VHlRdDNCWGQ4MVZXNDB6Q29lU3UtUWN5N1JHRmZOMnZoTWRodEl2czhKNXgyMDNQNks3TWRnTWxoYXNFR0RBOWdvWDFadHV0S1V3SFhxRkpXREhxSS1BOVhrd0pKQ0ZRSXBfdzhB?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-23T16:00+09:00"
-  },
-  {
-   "title": "米国の交通・物流網に非常事態…航空便1900便遅延、港湾へのサイバー攻撃相次ぐ（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1UmlNZ2ktUXNMWEhDdy1WS256RXBNSnBnOUh4cDMzeVZCNjdTNjBfUFd4QUwxRVpySlY4RXJVeTBva2JqRDVyandhdkpqaFhqekVKSy1pamlGVTNMd2JyWlQ0b1JkVUprbFdRMENWWlJfSHpzTVp2bVNoNi1FdE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-23T14:51+09:00"
   }
  ],
  "tokyo": [
@@ -456,6 +456,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ウクライナ リビア沖でロシア軍艦を撃沈 ゼレンスキー大統領が攻撃映像を公開",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOUtGczlTWDlmMXhmQ21PSDRrS0Y4VFFsR1Vad2Zwa1pYMVJBaWhpQXZNQjBtWnlQZ215eDJrTTZtWTlIMThiUlM5R2RqenVrTVl2akxSelNyNU0wR0xMR2FWZUxXTEVENjVFNXc0MnFPbEwxUzdXM1Rn?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-23T19:27+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "欧州に軸足移すウクライナ 米との関係が不穏に 対ロシア継戦を支えるドローン進化",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nUTZsUVpUS0dCYVhQVVIxQTZLV09kZFlvYmFyNHlzWFZfWk9MYXprODc1V2dObUc2Wm9rRXFCTVVZajBuS3FXLThrMjloNE0?oc=5",
@@ -503,13 +510,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wSHZaeFNDTnZVUHZNazE0UVFUU0VPZFdWMUhxZVZZUGNEQkRPZEFmaVMxaUtzRmwwSEtnUmxPaDJqRER2XzZORExYc1luUkNvQThXcVhzLUtYT2NUck83TUh6dHlxNy1icHhPaDdobWlwZTjSAXhBVV95cUxNQWMtSFdxRUtTX2RkNjZOQ3hUQmVPWmpHZjlSN0V4RkFUcy1MdjZBUkE0SGNxb19UaC1hRmZpbWlQZTNTS0dGdUoyZTRjTzVrQXE2VWFVM0FSYk9veUttb0hIa2tXamtnWlJhVk9zUnhXdXBwWXFpcnE?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-23T18:48+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ、ロシア軍艦「撃沈」",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wYjB5OUpCU01hcWItTG1HTWotbE95WGVkRFBRRHV0WE1XSU1UTmlYWm01VTBHbjB1QzJNQWQ3eklMWHZhS3kzR2JOT0hKQURyZURhLVVBOFlVVHNYTzkzWUsxa3ZNWVRfeXJIa0VwdnFyMm8?oc=5",
-   "source": "デイリースポーツ",
-   "at": "2026-11-23T18:20+09:00",
    "topic": "ロシア"
   },
   {
@@ -616,7 +616,7 @@
     "イラン・アメリカ：「攻撃」6件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」2件",
+    "ロシア：「攻撃」3件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
