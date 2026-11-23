@@ -1,6 +1,9 @@
 {
- "updated": "2026-11-23T15:45+09:00",
- "errors": [],
+ "updated": "2026-11-23T16:00+09:00",
+ "errors": [
+  "nankai",
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -133,9 +136,9 @@
     },
     {
      "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9admRlVVFiTnNfQTBDZGJqM2RNLU5DdzJ1WFQ5QWVFUDBDbkJNNnJManBHc1kyVUtoYjM3SUhxRDdjNDc3Z0ZzMXEwT05CdVdvUGhHckhiRXhabVhYTWlTdGo1RmY5UWZDTjRkVHpGbw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00MlpFQ3FIZ0xxUHBYSExUa01CcUM1LXllVUVJbXpjSXlJcUxuenVmWWhrWUZSWjh5UV9GWXNLYTFpNU5hSGRkQ0JYeXduOF8tdVBrd2FQYnZPRjJI?oc=5",
      "source": "山陽新聞",
-     "at": "2026-11-23T07:07+09:00"
+     "at": "2026-11-23T07:09+09:00"
     }
    ]
   },
@@ -228,6 +231,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "リビアの海軍基地 ロシアの軍艦とみられる船が爆発（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMU0zSlZOalpuNnlzYkhXXy00VUpVdW5iOEVxd1p4NFdJS0thVUYwcS1NemFmSzRVZWpYODVOWVpYYzV0Q0QwMnB2elZDWjB3TDZpNDVhVHRvZXJTWFZOZlNOa1dmbXIxZno1RnUyc3lRN1gtNEh5Tnp6clc3VWs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-23T15:45+09:00"
+    },
+    {
      "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
      "source": "乗りものニュース",
@@ -256,12 +265,6 @@
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEeTlHOGdsYTlDVVJPd0tycWRqVTFUdzhuY2taVmltd1A5RWxiSXR4MVhMbF9wWlp1YW1pRWVQSTNnUjUxY19OTGRKNURBZm91SjZTbnhwVWpyUGJSbm1FbmxaYTZtRlh3T3ZnVktabGl3MzBod1l2UVNR?oc=5",
      "source": "テレ朝NEWS",
      "at": "2026-11-23T12:37+09:00"
-    },
-    {
-     "title": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CeUdCQ2h6UTBjT0R2N0dzTDJSeGhxVXZ6SEtNZlA3c1hudUdGTUticnNheUJMdnRVUUJsbWxJZmRURDhOcy1MM0ZySzZVbGtWN1p1SGRGcktBdWd6b2E1a9IBZkFVX3lxTE9SOHJNblljZWxqVHctdjk3YjFCVmVmaTNFVFM4VVU1ZFVuTFFray1WUjdMbVNENDk0Ty10TThVWFVMOGtCS1M1eUVZSlFtaWNWVHVabmJOUm9CS0VDeXBJUEdhNk51Zw?oc=5",
-     "source": "BBC",
-     "at": "2026-11-23T12:34+09:00"
     }
    ]
   },
@@ -404,10 +407,22 @@
    "at": "2026-11-23T03:55+09:00"
   },
   {
+   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
+   "source": "GameWith",
+   "at": "2026-11-23T02:33+09:00"
+  },
+  {
    "title": "ウォール街モーニング・ブリーフ：システム障害の嵐がリスク回避を誘発、S&P500とナスダックは4日続落、ソフトウェア株が急落、エヌビディアは時間外に力強く反発",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSzJTOVJBRVJmcFZkRGMyYnZaREF4Y0h5UGpKQ2xxeE43M09nc25IcXk0UnBaeHRjaDlKcVp6QkdLWW1xbms2TXdreUZqZjNVZlRsWG5KakpzOWhqSC0xYTBDb2VNakd3VEYzTjNxMzNWSTJNZ3RlajVLZVZoR28?oc=5",
    "source": "PANews",
    "at": "2026-11-23T00:49+09:00"
+  },
+  {
+   "title": "米国で複数業界に相次ぐ「システム障害」！銀行からNSAまで、一体何が起きているのか",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBSEVvTGpmWFZfWll3UFRyQktnM19CMXlNVUJ4WFFSN2FiVTM2NUZvUmZhT1d0NVNwZ0hKcEpyTUU2eWI3UkwtamhaXzNKM3BTSDFvMVBmYjVKdWZYbllCUzVRWVo2bkxPbWNNNjJIYkVoUS16WFVJbG5TS3hoYUk?oc=5",
+   "source": "PANews",
+   "at": "2026-11-22T23:41+09:00"
   },
   {
    "title": "米国の交通・物流網に非常事態…航空便1900便遅延、港湾へのサイバー攻撃相次ぐ（中央日報日本語版）",
@@ -416,22 +431,10 @@
    "at": "2026-11-23T14:51+09:00"
   },
   {
-   "title": "個人資産は7億8000万円！ 古川サイバー大臣の資産運用方法とは？ 「妻の保有分はさらにすごい」（写真1）",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdVA4bGg0UDNObWdmT21DMENZWHllcGQxbTZJUG5LQy1LbkU3aDlYSWFXUlp2YTVROFc4UnpxczZuSWtQdDh6MGZ0X1hSNVJKRkwwU19fM1h0cnVuMVpJNkpoSVlxQlU5ZkE?oc=5",
-   "source": "デイリー新潮",
-   "at": "2026-11-23T11:54+09:00"
-  },
-  {
    "title": "マクドナルド公式アプリに不正アクセス、位置情報と購入履歴が対象 氏名は含まれず",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11RVdJV1NxcGQ0MmZ0ZGNpQXZ6QzFKSV96dEZ0TWpDUlZyQUo0aUZMLURlNmdSSU96LUxYekRWQUJ0TllILWdJYXVaYXdPZnZwRUYw?oc=5",
    "source": "ビジネス+IT",
    "at": "2026-11-23T11:50+09:00"
-  },
-  {
-   "title": "相次ぐサイバー攻撃に対策を！ 被害を最小限に抑えるポイントを実機操作で解説",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rZDdxSEJDT21NSWJDUUZDbnl3ajdtcXB2SExjTWhqUnQzaHJqQkFuQVZfbndnQ2czX2dBUm9VU2huUVYxR0dFLXhlbjZpSWdPUnZhdk9B?oc=5",
-   "source": "千葉日報オンライン",
-   "at": "2026-11-23T11:14+09:00"
   },
   {
    "title": "日本 マクドナルド、公式アプリのデータベースに不正アクセスによるサイバー攻撃|セキュリティニュースのセキュリティ対策Lab",
@@ -456,6 +459,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "リビアの海軍基地 ロシアの軍艦とみられる船が爆発（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMU0zSlZOalpuNnlzYkhXXy00VUpVdW5iOEVxd1p4NFdJS0thVUYwcS1NemFmSzRVZWpYODVOWVpYYzV0Q0QwMnB2elZDWjB3TDZpNDVhVHRvZXJTWFZOZlNOa1dmbXIxZno1RnUyc3lRN1gtNEh5Tnp6clc3VWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-23T15:45+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "北朝鮮が困難な条件で会談見送りか トランプ大統領 土壇場で模索も…",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yNnNZN0lGbXlkU2dNYWFOXzdkQngyd3JZZEU1OGRacGlZWHFDMk5FT3NMSWpJemx6ZlRfVjhyaW0wTU5TR2VMVk5JVnFJZw?oc=5",
@@ -525,13 +535,6 @@
    "source": "テレ朝NEWS",
    "at": "2026-11-23T12:37+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CeUdCQ2h6UTBjT0R2N0dzTDJSeGhxVXZ6SEtNZlA3c1hudUdGTUticnNheUJMdnRVUUJsbWxJZmRURDhOcy1MM0ZySzZVbGtWN1p1SGRGcktBdWd6b2E1a9IBZkFVX3lxTE9SOHJNblljZWxqVHctdjk3YjFCVmVmaTNFVFM4VVU1ZFVuTFFray1WUjdMbVNENDk0Ty10TThVWFVMOGtCS1M1eUVZSlFtaWNWVHVabmJOUm9CS0VDeXBJUEdhNk51Zw?oc=5",
-   "source": "BBC",
-   "at": "2026-11-23T12:34+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "ポーランド落下の3物体は露巡航ミサイル「Kh101」 NATOで東欧防衛強化要求へ",
@@ -616,7 +619,7 @@
     "イラン・アメリカ：「攻撃」6件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「攻撃」「ミサイル」4件",
+    "ロシア：「攻撃」「ミサイル」3件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
