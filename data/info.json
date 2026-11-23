@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:00+09:00",
+ "updated": "2026-11-23T11:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -311,7 +311,7 @@
  "nankai": [
   {
    "title": "7000人の地区全体で初の避難訓練 南海トラフ地震を想定 [愛媛県]",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZE9oWXdlbEZPQ1A5c0ppMV92R2xFQjJNb0JHN1FtYjU4Q0FndXdWbE04a0VWSC1xVTRRZVdIeVpXekNUVGhHVWlfNnNRYjUxQ3hkUUJwZExSUUIwQnVOcWVnYkJmQmxGY19WcEVCV0xodWxfUTVETm55bXlBNkRoejlUVERBdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hQ1dUWDBBRXdXdGdxc2tiVHVOT19sdlRXLWJzOXFKSzdPSS1zeEV5S2lMQ0FvaGJTTUZvY1dVVTB5NUpaMnltUkZQMW0tMjd4VDJDM2IybU9fRTdJSHVZQlVPQjliWlE?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-23T10:30+09:00"
   },
@@ -380,6 +380,12 @@
    "at": "2026-11-23T08:45+09:00"
   },
   {
+   "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWE9TSkhaS2o4NDF5Y3RmY184V0syR3o5U000TU5iY2Q2WUtKX3pmRktTZi14blE4ZzVQeVRTWjJZUzVRWUtvS1dYWXZPYTkyb3I5Nld1LTBiVDMzbzBpSG5oaHJDbG5PZTlBYU4zY1hxdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-23T07:25+09:00"
+  },
+  {
    "title": "デルタ航空でシステム障害、全米の運航に遅れ",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2VweUZtRkE3MFNUYzlQY3Z1cTk5T3kyX1B6Q0RSWmNTQm02ZzFKVXBhZ1d4cUV5aFIwOFlyVXRQcXFhbjEyVFAwNzIxdk5IZlFuZ2FFUkFVNjA2dUlxZllzMVVpYTNVVnlMR0F6X2h1ZkdDZ3o5a0JSeHNsQTd0cUxRaWJ0Unox0gGcAUFVX3lxTE5rb0V2SXBkdURtQ0ItNXRlc3h0WVRWc3BCd2N6MHRUUDlGR28zX1I2emlTS1ptOWpxc0FQcGRrcm84RWR2MnZidWxCUTF4TlRxRXNxVmlEalZfZGdhSTRaSGxYRTdOOGdRUlg3ZmFSOWRDVVNpcWFiWFhldE9FdE0tNlRRYkhzZm1Mc1ljZ1BxYi1VUTVZc3BiSmtmbw?oc=5",
    "source": "Chosunbiz",
@@ -404,6 +410,18 @@
    "at": "2026-11-23T00:49+09:00"
   },
   {
+   "title": "日本 マクドナルド、公式アプリのデータベースに不正アクセスによるサイバー攻撃|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGpjN3EyNTZ4dTBIcTNJTjFKdGRHTHhxVG9hOVhrMjJ6V0ZvQ0VCN29GRjRxeG41aVluUTJsOVA1X1dCMVRuLXpXcmY5WWhVU0dWZVpWQkNFeDlWQURNU0lWY1N6QlVSakNPaEFMVzlQTG1GRVA1TnFLdTlBNUIwYjlBTGpBMDN6eGVQZTdRTFZTakVmRVNBODFZUzB0ODFyNjR6MkdXUzhoYjZXN3ZIdFVGcXdBUQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-23T11:00+09:00"
+  },
+  {
+   "title": "マンダム、3万6000人の顧客情報漏洩の恐れ 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZW5wQlJNQmdmd3djRjJKRmEydjZiUVQweGI5b0NhS0RuM2RlclRENEprVkhUdmFMT21ybVJsQmxtbTJTTm5GeWF4VE5tOUpKSVl3NGhVS1ZyZVp0c0dLRUhaSE5WVHVmRHdqWA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-23T10:56+09:00"
+  },
+  {
    "title": "米港湾・海運狙うサイバー攻撃急増　貿易網の脆弱性露呈",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTzRVQWtUSkp3TUFtck1uN2d5QmlyX3lwNWp0R0JKU2dsa3E3Q1NMXzAxazB6Q3Q4d3RjWDlmRVVxOF9KMFBtbEItdURlbE1kRWNwZmd1em95MmtCM3hJTXZZYkRuVU9tZUxGWDFlOENibnM4eTFKWUlJNTRwS1JtXzVrZk96R2lR0gGcAUFVX3lxTE45dnV2SjhfNHh3Um5sRXpoc3ZieE5LS3FoNkVxNjFCb2NER0w5cjg1S0M0NTcxT1B5Y2NNMzczTjl2a2tiVDQ3Z3BMeGwxZnhybS1SczNqU0l0M1hpNVVEZmNwM1Z6Ynk5aXFScTgyMDFKaUN6bW1QRThrMFU0S3RTaDgtYzEtNU1kc1cyTjVOaW4yckw5NVFzN0dPZA?oc=5",
    "source": "Chosunbiz",
@@ -420,24 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU181NDBTU19CQllrd1NZbUVMVzNIY2l2STJsYk9SNF9ZUTJxU0pMU2dRcTdjZFB4NVY4Q2RYXy1OcU9xRVE4MFhLaWdyTXRISllZamE4UHFRVlAtcTdTV0RmWHh0RWZEbmlYZ00yZGhsdEVSRGhmcUg4Z1k4MHhHWGR6cENKeVB0NWpGWTRHZUZXSnJJQ3FLZzc3QXpSc0pzT3c?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-23T10:45+09:00"
-  },
-  {
-   "title": "タワーレコード オンラインに不正アクセスによるサイバー攻撃、約1,100万件の個人情報漏洩の恐れ",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODU4SDdtYTBrbE8zT21LajFnOVZlY3p5bVVKZFBQeGt0VXFRb0ozaVdsd1hlMVQ3YnMyZkhkd1lUdFpsbHppTUtWUVNqWEtsTTlCZk1HVndhc0pUMGdISmRHbmRxcjI5Q2t2V2dUclFyYVNNaDdFV3VpR2IzUTVKQ1R4blFzcUtMWmREeFI0blJtVjY3YnZsSkJkdERLMlhYR1FvSGNB?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-23T10:33+09:00"
-  },
-  {
-   "title": "韓国金融当局へのサイバー攻撃急増、情報流出の試みも",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTGRLaDVsTzV2MWtLdGhKR1piMkZfLVkzeHNmSmFYRkdNcFR2VVNWT0NJRmI5ZnU5bGdfQTlFM1JvbDVWeUhZeEpLak9NVVR4WXA0RUU0LVNfUFNvMUc1RmJ5YW5UajdGU0ppbzBEdUt0cVNmTEFENXBWY29lakprdtIBlAFBVV95cUxPV3NkRWROYkVoSUhvRHBndElUNlhMVFRZaVhXX21fN2lBZVowcjE0d3F4UFhFWUlMNlRjS0RhQUtNN2NVTEpoYmlsMG9QRkhZY05MUWc3dTdOSEZtUlkwRXdJemFwSHVDWkYzVnZ0ZnpsRnhUcWNoSG50bGt2V1RNaF9SRXpKU0kwU2x3ZEZlN1hfLWNT?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-23T10:11+09:00"
-  },
-  {
-   "title": "OpenAIが認めた80回の暴走、Googleが初確認した無人サイバー攻撃――この1ヶ月でAIエージェントが制御を外れた8つの事故【編集部まとめ】",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4bks0cFR6Mk12OGNMOVFWbFNraXJEVVV2NUZTR2Q0RXVkTkFIUWNZSmJxMVJmWVhKRXVEWGk0eklOUQ?oc=5",
-   "source": "shiritomo",
-   "at": "2026-11-23T10:00+09:00"
   }
  ],
  "osaka": [
