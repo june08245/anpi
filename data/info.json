@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-23T21:30+09:00",
- "errors": [],
+ "updated": "2026-11-23T21:45+09:00",
+ "errors": [
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -115,21 +117,15 @@
    "items": [
     {
      "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2F5dUE2ZDltT3dRU05qRGJ0RnkxNGxNdThyUGpZODJuSnMySTBpYkYtWFpSMGw3X1RlSTdhU1V5VUhIeThJeXB1VHZlMkdybUdKX1VYZFZ6TjUwcjN2bm05a0NXZ09tSWtaaF8zYlZwNW1sX25QOE9Ca1NoLVI5eDNILV9ZTEhEMnfSAY8BQVVfeXFMTWJFSVhxWXZFMVpCODVBVW1tWHdReVJrMnFya1hjRm5oWkFjTXhfai12cW4tdmVZTXE1ZXljaUI0djNiSkFpYlpUcW1EUzhXMldDVTZVTGlIV1BhSVl6R0RVejd2MUJtLVlweEwyaUlhYXdaYzhFUExqU2RGWGhaaTNQRTRJZGFRc1NyUHRKLVk?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3NUTXMwRDV2LWR6bXBuOFUtalRFOWFMcUtkSXowUzFtSFFEN3NjVEVudVZaSlNxVnVsLWplczJpa2x0QTNxQkNSVlZzbmtUOFZSNko4YlNIaUZmMEg5WURLSTVPUTQ3NExKV0xvVFozSzAwSnpqRXdWWXF3T1A1VzVHeVZPNHZQZ09iU1JNVExMZXNmU09URlF4aTNkNlowTDdBNTlOWXBNYmtfV2JVRnVNZ0diSmRVTV93WVg5cUZwTEtJXzNsNE4tYjZiYUpoeTZ4UG14SlZCOEZoX1Yw0gGPAUFVX3lxTE1iRUlYcVl2RTFaQjg1QVVtbVh3UXlSazJxcmtYY0ZuaFpBY014X2otdnFuLXZlWU1xNWV5Y2lCNHYzYkpBaWJaVHFtRFM4VzJXQ1U2VUxpSFdQYUlZekdEVXo3djFCbS1ZcHhMMmlJYWF3WmM4RVBMalNkRlhoWmkzUEU0SWRhUXNTclB0Si1Z?oc=5",
      "source": "ｄメニューニュース",
-     "at": "2026-11-23T16:23+09:00"
+     "at": "2026-11-23T16:18+09:00"
     },
     {
      "title": "イラン再攻撃の可能性警告＝来年以降、交渉決裂なら―米大統領",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBOS0xZHJJQVgzd2lWNmRlWklTUjBOWEF0SVg4ZzA2MzNFSGRtZHNVY2VJQ0EtQU15QXF6RlVOR0JQci0tZXpmYW0ySnBPVnQ5Mm1oSm93UGxjMHFQNlJIQl9sa3dYcl9CWkdDdUJsdVFkanRKQ0JQRNIBfkFVX3lxTFA4T2dzV3NMOHpmWlcxZGtVeGNlWE8yM2IxVGZ6V1lyelhwV2FWc2hlWWxseFZaTC1iUXlQR1NKT3RrLUh2NGcyUXA1d0poRHFuaEczNnpHQTJORG9QYmRLR2g4ZXNCR3ZkelRud0VSNkFVNnJxblFWanJNZXd0Zw?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-23T13:54+09:00"
-    },
-    {
-     "title": "イスラエルと米国、イラン攻撃初日に小学校を爆撃、165 人の遺体が埋葬される",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeWREbzZzYkhPVDh6LXltc2ZGRmhCSm1Ya3R6TmJCM3RISHA3S2FnS0dTRFp6U3NyaEdjdUotRjZXeGxhTWg3MGFkS0ZyekRhZTRLNnR5VEdTbTRQbHIwMW1vOExwd2Jxa3pyVmdvTnlpcWZMelBWUmlfMU16ZFFucmpZTmdqNTBmeEx1Z3dWRG9tYnM3UHlSUUcya0FXdWtmWVZFQ0JVQi1uMjVoNmh0VFpCVVlfaXhfQVE?oc=5",
-     "source": "VOI.ID",
-     "at": "2026-11-23T13:30+09:00"
     },
     {
      "title": "トランプ氏、イランと合意なければ年明けの再攻撃検討 譲歩迫る",
@@ -148,6 +144,12 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yY2pMN29SV2xYYXQxak9GQzVGM0lma0xRNU1faV96VUo1dFUxUnczTjR4QkhoYzQ0eVBDOWNqd0FRaWluX1dtVmFqLTFsclRieEtZcQ?oc=5",
      "source": "Switch news",
      "at": "2026-11-23T09:05+09:00"
+    },
+    {
+     "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆 (FNNプライムオンライン（フジテレビ系）)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVpGSnBvMjhEdHRlS214cUlmWEgxR0FZdmpuLU1qQkV6cXJIMW5IcEtnMHNSUnBBRFZaTk42ckFCRnZtdzFJd3BjcHg3bC1pd1c0UDVhQ3IyWmpSLXVkcFZRckdIZjh0RmJ2UWRGTE1paW0zdENrVFg5VE9oYm9zdHRLYVNPR1BaeDM0LXZB?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-23T08:59+09:00"
     }
    ]
   },
@@ -155,6 +157,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "屏東県で旧日本軍戦没者の慰霊碑除幕式 滝波宏文参院議員らが出席／台湾",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMR3lQcm9TRFB2MWstSGtCRmVqa25KeDR0TFFQWS1OUDh6MHdPQUN4NHBNU1lSV09WOVFVa21rTTZIaVpITUtlMy1PVFZudEJhb0k5WU9sMXdycWt0eGpB?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-23T21:08+09:00"
+    },
     {
      "title": "中国軍、配送大手の調達資格停止　「規則違反」",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWExUGh3T0JpX2Q4WTFVV1UtVWJWOWIwQmFMeDJQMnpyVml5UVhRRUc4eHZQeVJad2pKYVFQejlheUg3MWVlSXdGQTVfTHZPVmszTF9iV0NsSnFWYzJrMDVEUWFfdEdPeXBBUmRYdW5BYktHcG93U2dfX2hBYlBwaXZ2V2NYYlFBc2fSAY8BQVVfeXFMTW83cFJNOUw2bzV2Vk5KR3FOTmZKbmhlb1BPN2pKX002WGdzdGVvb1Fyb0hOZURNaEhlOGNlV1JPcS1zYnhnWnpkNG02d0hobDBVX01waWpSTC1GeXBwWktaT1dkRmZockdVZjd1YUtvVTZyLS13bTVXRHlHdVRjYTl5cU1rUlVMVm9SWVZhS0k?oc=5",
@@ -184,12 +192,6 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QVTNVTTVBVzBHOHVDT3gyT1k1bnljMjg3OW1ZSHRKM1FFaWRsTUNmM3BkN3hzVTFpbS1aVGNxZlBSSi1UdWpROERBS3NFckpBUy1YTlluVFpfWU8xQ1BONE05UzhpOThpc1hpcDFtMEdfSlpPc3pB?oc=5",
      "source": "Bloomberg.com",
      "at": "2026-11-22T23:08+09:00"
-    },
-    {
-     "title": "中国共産党 海軍の拡張を牽制　日本　原潜導入の検討明記へ調整　年末改定の安保3文書で",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aTkFxSG1fZXc2MG9GbkJHLTF4aVh5UklsVVEyN0xyb25fUEJlNUZKa2F3SXJjMVJGcS01cTg4R2RUVm9LTmJaRGdKNUJ5RlpTVUhzeWd2T3fSAV5BVV95cUxNQXdQYWpqSktJWDFWWEhnbFNJYkRwNktITGFHZnpPVlhTT0w0ZjVfWldnRHU1MWpFSzE4RXktbXNDV21Qd2Z6Q2dEZjk0VC1JR21UdXF6MTc3NlVDTjJB?oc=5",
-     "source": "大紀元 エポックタイムズ",
-     "at": "2026-11-22T15:43+09:00"
     }
    ]
   },
@@ -222,8 +224,8 @@
      "at": "2026-11-23T14:22+09:00"
     },
     {
-     "title": "トランプ大統領、金正恩総書記と会うため「終戦宣言」「北朝鮮の核廃棄を求めない声明」検討（朝鮮日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmb1d1TlNUaWEteklZdzh4WVlDTEF6d2RqTjRBeW16dU9zVFFrLXdyM3Fud2tZbG5hMjlkNXQ4cXRmQndaWllIaEdaZkFEcnF1eVNUNE9jUzYzUV85TF9PVVNfcEd1MTl3Q3V0UWVFck1hTU9uejZiQl9hN2xvdEk?oc=5",
+     "title": "トランプ大統領、金正恩総書記と会うため「終戦宣言」「北朝鮮の核廃棄を求めない声明」検討 (朝鮮日報日本語版)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkg0N3Z0X3M1N25FN3dxa1psX0RDQm5zVW10RmdHTWY0Yl9fM3Q1enB3Q1FLalZfTV9iZVpqVGpwbjJBUWdVQk85N0pRRmpvOGdVUWU5aWhIdE04bnAwVEx4SzhJNUlEZGNockRTLXpSUWNma05JS1RkWThoSWhZb2FfZFVNZnl2cTR3UlpR?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-23T14:05+09:00"
     },
@@ -240,6 +242,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ゼレンスキー氏 リビア海上でロシア軍艦「撃沈」",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFYUQzakRacHl0eEJlc19BOENwa2lFaW42VTBCM2h2a0xpVEVPbUVQSmpWbEVEQndWdGdsWHNPTkJQR0pxQVJFWEIwbUdEcGtMQ0hKTHB1d3VhT1NGOUNxQUV1REttX1BvUmFGNmRR?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-23T21:30+09:00"
+    },
+    {
      "title": "ウクライナ・ゼレンスキー大統領「ロシア軍艦を撃沈」リビア沖で無人艇7隻使い攻撃 10人負傷",
      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0a3R6YnNsZGpZSUt6SUQ4WE1ZZXR3ZTdseUg4ZXZubWtCQ1lZeV9pWV80VHM5VE9mUDR5Sko1VXRGNXk0RlRrcDNWUG5IUQ?oc=5",
      "source": "FNNプライムオンライン",
@@ -252,28 +260,22 @@
      "at": "2026-11-23T20:36+09:00"
     },
     {
-     "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で（共同通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMnhTRGgyUHRrX0VmNW41d25kTEdQUUVoM2ZaQVJIMlFzNk1EbFhlYWh0TWx0aF9iM0RQa0xNUlJYY1BXYnhBQjJ5NEhlUjh4aFh0cWNQT3JfOXJ4aVRaQkRNRENFVkRmTTMtZV9zbFNfeXU2MnEzYWh2c1N6VmM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-23T20:20+09:00"
-    },
-    {
      "title": "ロシア、ウクライナ、リビア、黒海、地中海 - ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で - 写真・画像(3/3)",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUUFOeDh3ejIxUmMzamp4YjltUWFMYXpmYmpUYTRGODBlOWJZUGtHbHRwcWNYY1pGTTQ2dFNmREYwTlpMRXJSR3VKazdQNzl1Q042RG1JWQ?oc=5",
      "source": "西日本新聞me",
      "at": "2026-11-23T20:11+09:00"
     },
     {
+     "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で (共同通信)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWg3aWdQSnFySVQwdDJQd2hZU0VoNUhXbTBULS1BbTd5a2QyWFhWS2FHWnlZWE9hXzI4V1IwSXFGc0tuQTEyTC1RbVc4b1VVVzZxU0xsemEybHd2YkNlelkzSlE0QzJSQmg2QUlGeDljODdGX1hiMkM1WVJPbTk2UFI2d0tFSmhHWVZ1cDln?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-23T19:59+09:00"
+    },
+    {
      "title": "ウクライナ大統領、リビアでロシア軍艦撃沈と発表 水上ドローン使用",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0ltRDR3MnFiSGNaMFA5X25TM1NJM2VXc1FNX2E5a0E2SVRJelFSTW5zbGFaaHVNYjZrZFVqSnoyM1NiTno2ejVwSkFZeFJqb1A5azJPdEdCLVBPVmw3cjRobWdjeWJNVkVyeXAtN2xWME9nN1dqcWhRMDhRbExvSzJjWlpIZw?oc=5",
      "source": "Reuters",
      "at": "2026-11-23T19:43+09:00"
-    },
-    {
-     "title": "ウクライナ リビア沖でロシア軍艦を撃沈 ゼレンスキー大統領が攻撃映像を公開",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDBQOUc1WVNmclhkd25GUmFHTjdvTWtBQ2lLaFZpNHBBTW04QlJQOGExV21ZR0luYlprT1gzZVBOVEJDU0xteWJ4OU1GbC1fa2lPTy1yY1R3LTk3QzEtU0NNWEdCa2xaREZWU0I5c1hqeGxXSnNNS3pVNm9SVzRZWk1wNDZBbHc0WHpTaU1XeHI4clc0M0szMS1WSVVGb2ViSS1FWUpIN1VvTTRMMURUM1JmUFU?oc=5",
-     "source": "ABEMA",
-     "at": "2026-11-23T19:31+09:00"
     }
    ]
   },
@@ -410,6 +412,12 @@
    "at": "2026-11-23T09:37+09:00"
   },
   {
+   "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWE9TSkhaS2o4NDF5Y3RmY184V0syR3o5U000TU5iY2Q2WUtKX3pmRktTZi14blE4ZzVQeVRTWjJZUzVRWUtvS1dYWXZPYTkyb3I5Nld1LTBiVDMzbzBpSG5oaHJDbG5PZTlBYU4zY1hxdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-23T07:25+09:00"
+  },
+  {
    "title": "デルタ航空でシステム障害、全米の運航に遅れ",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2VweUZtRkE3MFNUYzlQY3Z1cTk5T3kyX1B6Q0RSWmNTQm02ZzFKVXBhZ1d4cUV5aFIwOFlyVXRQcXFhbjEyVFAwNzIxdk5IZlFuZ2FFUkFVNjA2dUlxZllzMVVpYTNVVnlMR0F6X2h1ZkdDZ3o5a0JSeHNsQTd0cUxRaWJ0Unox0gGcAUFVX3lxTE5rb0V2SXBkdURtQ0ItNXRlc3h0WVRWc3BCd2N6MHRUUDlGR28zX1I2emlTS1ptOWpxc0FQcGRrcm84RWR2MnZidWxCUTF4TlRxRXNxVmlEalZfZGdhSTRaSGxYRTdOOGdRUlg3ZmFSOWRDVVNpcWFiWFhldE9FdE0tNlRRYkhzZm1Mc1ljZ1BxYi1VUTVZc3BiSmtmbw?oc=5",
    "source": "Chosunbiz",
@@ -428,28 +436,22 @@
    "at": "2026-11-23T05:07+09:00"
   },
   {
+   "title": "米デルタ航空、重量管理システム障害でアトランタ発着便を地上停止 遅延1000便超",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BemduenhnWmtoWmZ0T2pGRXMwcG9waUlYWUxxSXp5VzN3QW5La0plemNWa1UwV1lNVzRvamZZbFFsbHBxM2YtYWRiWmdDRWYzYjFvTmRGdGpOdVU0akRzbnNpMUp1WVNDS1RIOU9jVTZXQnMw?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-23T03:55+09:00"
+  },
+  {
    "title": "不正アクセスで個人情報漏えい…消費者庁が紹介する“被害防ぐ6つの対策”に「企業側にも厳しく指導を」",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zTTlOc1NwSUhZeVphMGR3bVJ6NnpZVzJEdDZtNGR3QS1TdjZWNnFlbjFOLWlPVVk5S1ZUYUN6NzBXNWx0R3dmSHg4d2tOR2hQTVZ3NUtmcnExMTlkcmVITk5BRkgzOFJyQVBHWENKbHZibWwtaXlMM2xnZW5hQdIBgwFBVV95cUxPZFdSQUZ5Ymx1RDhxaTA0VWFHZDFUbVVCV0t3dTBMWjJrMm1hcGh5VzhJRTRiMlBaTndfY3JzazRFb0VwV1doSFpDR1hlWmEza1hmbzFGSEpxQnM0WGxTMUx5MTlzTWxsNDFNNEM2WjZwOTJNYUttRUNpa2I1SjFZYTVlTQ?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-23T21:15+09:00"
   },
   {
-   "title": "ドローン対策はサイバー攻撃にも有効。ウクライナ、発電所を小型化&分散化 (ギズモード・ジャパン)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEwwNjI5TmFSZXdWMVRCWll1N28wcUZFWmQtLUhBX09BaGN2enN0SzZ2dkNSUlZtQTZFTWRpOUJpYkh3LXFDVGFoMWo3QXdTOVNhZU1RMF9kd25Oa29ZTndmWFN2RHJoOU1XVDhSZllPdW5NRE5iaGE1ZGg0bklPRjlzc3BSWXJTQi1lOHJ3?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-23T20:00+09:00"
-  },
-  {
    "title": "「日本サイバーディフェンス」2027年春、静岡市に中核拠点開設 攻撃監視・対処の専門チーム、企業の危機管理を支援",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LaEtRVnR4SE9hT25BdHdJVnVqQU5VVndwMXp0aXdVYVREUVZHOVljZ01ENVVpbW9Xb2wtU1FzVlZQRUV6SU9USFRtNHkxZw?oc=5",
    "source": "静岡新聞DIGITAL",
    "at": "2026-11-23T20:00+09:00"
-  },
-  {
-   "title": "タワーレコードに不正アクセス 個人情報1100万件流出か 一部に名前や住所など含むも、クレカ情報は流出せず",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlB4Y2dpLUVjXzhSRTJrNTg2cm1SWGx1eUN3ZVRLYXN5V2VLWEQwcW9nSWZYUDJzOUxQLVV4cjdCbzM3UWh6Zjk2TUpaV3BaUUlBVE1fclRsc1B5Y05ZeDVzbzJxZ1hxSHRTaDlMMHY0RzFpVWxNdXFicFhCZURYSQ?oc=5",
-   "source": "UQライフ",
-   "at": "2026-11-23T18:47+09:00"
   }
  ],
  "tokyo": [
@@ -469,11 +471,25 @@
  "osaka": [],
  "world": [
   {
+   "title": "ゼレンスキー氏 リビア海上でロシア軍艦「撃沈」",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFYUQzakRacHl0eEJlc19BOENwa2lFaW42VTBCM2h2a0xpVEVPbUVQSmpWbEVEQndWdGdsWHNPTkJQR0pxQVJFWEIwbUdEcGtMQ0hKTHB1d3VhT1NGOUNxQUV1REttX1BvUmFGNmRR?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-23T21:30+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ドイツ約450校とデンマークの学校に爆破予告メール",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXk2WmJzMFhPcnVHZ0ZKNnMxWmJHdUZKdEdlZjVjUnhsa0RfLWpfaWJ3ZHBFN01EQldCUHh1MmxyRWpya245U2pXb1c4U0tRT0ZRUUU1cEkxQlFQVWMtRW5JaHV2dGRGcTdHbVV2bVplOTl0Zi1jazVKeVZOei1vZUc2ZTlISUk4YmtN?oc=5",
    "source": "Pasquale Pillitteri",
    "at": "2026-11-23T21:23+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "屏東県で旧日本軍戦没者の慰霊碑除幕式 滝波宏文参院議員らが出席／台湾",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMR3lQcm9TRFB2MWstSGtCRmVqa25KeDR0TFFQWS1OUDh6MHdPQUN4NHBNU1lSV09WOVFVa21rTTZIaVpITUtlMy1PVFZudEJhb0k5WU9sMXdycWt0eGpB?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-23T21:08+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "ウクライナ・ゼレンスキー大統領「ロシア軍艦を撃沈」リビア沖で無人艇7隻使い攻撃 10人負傷",
@@ -497,13 +513,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMnhTRGgyUHRrX0VmNW41d25kTEdQUUVoM2ZaQVJIMlFzNk1EbFhlYWh0TWx0aF9iM0RQa0xNUlJYY1BXYnhBQjJ5NEhlUjh4aFh0cWNQT3JfOXJ4aVRaQkRNRENFVkRmTTMtZV9zbFNfeXU2MnEzYWh2c1N6VmM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-23T20:20+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ロシア、ウクライナ、リビア、黒海、地中海 - ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で - 写真・画像(3/3)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUUFOeDh3ejIxUmMzamp4YjltUWFMYXpmYmpUYTRGODBlOWJZUGtHbHRwcWNYY1pGTTQ2dFNmREYwTlpMRXJSR3VKazdQNzl1Q042RG1JWQ?oc=5",
    "source": "西日本新聞me",
@@ -511,17 +520,17 @@
    "topic": "ロシア"
   },
   {
+   "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で (共同通信)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWg3aWdQSnFySVQwdDJQd2hZU0VoNUhXbTBULS1BbTd5a2QyWFhWS2FHWnlZWE9hXzI4V1IwSXFGc0tuQTEyTC1RbVc4b1VVVzZxU0xsemEybHd2YkNlelkzSlE0QzJSQmg2QUlGeDljODdGX1hiMkM1WVJPbTk2UFI2d0tFSmhHWVZ1cDln?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-23T19:59+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ウクライナ大統領、リビアでロシア軍艦撃沈と発表 水上ドローン使用",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0ltRDR3MnFiSGNaMFA5X25TM1NJM2VXc1FNX2E5a0E2SVRJelFSTW5zbGFaaHVNYjZrZFVqSnoyM1NiTno2ejVwSkFZeFJqb1A5azJPdEdCLVBPVmw3cjRobWdjeWJNVkVyeXAtN2xWME9nN1dqcWhRMDhRbExvSzJjWlpIZw?oc=5",
    "source": "Reuters",
    "at": "2026-11-23T19:43+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ リビア沖でロシア軍艦を撃沈 ゼレンスキー大統領が攻撃映像を公開",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDBQOUc1WVNmclhkd25GUmFHTjdvTWtBQ2lLaFZpNHBBTW04QlJQOGExV21ZR0luYlprT1gzZVBOVEJDU0xteWJ4OU1GbC1fa2lPTy1yY1R3LTk3QzEtU0NNWEdCa2xaREZWU0I5c1hqeGxXSnNNS3pVNm9SVzRZWk1wNDZBbHc0WHpTaU1XeHI4clc0M0szMS1WSVVGb2ViSS1FWUpIN1VvTTRMMURUM1JmUFU?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-23T19:31+09:00",
    "topic": "ロシア"
   },
   {
@@ -554,9 +563,9 @@
   },
   {
    "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2F5dUE2ZDltT3dRU05qRGJ0RnkxNGxNdThyUGpZODJuSnMySTBpYkYtWFpSMGw3X1RlSTdhU1V5VUhIeThJeXB1VHZlMkdybUdKX1VYZFZ6TjUwcjN2bm05a0NXZ09tSWtaaF8zYlZwNW1sX25QOE9Ca1NoLVI5eDNILV9ZTEhEMnfSAY8BQVVfeXFMTWJFSVhxWXZFMVpCODVBVW1tWHdReVJrMnFya1hjRm5oWkFjTXhfai12cW4tdmVZTXE1ZXljaUI0djNiSkFpYlpUcW1EUzhXMldDVTZVTGlIV1BhSVl6R0RVejd2MUJtLVlweEwyaUlhYXdaYzhFUExqU2RGWGhaaTNQRTRJZGFRc1NyUHRKLVk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3NUTXMwRDV2LWR6bXBuOFUtalRFOWFMcUtkSXowUzFtSFFEN3NjVEVudVZaSlNxVnVsLWplczJpa2x0QTNxQkNSVlZzbmtUOFZSNko4YlNIaUZmMEg5WURLSTVPUTQ3NExKV0xvVFozSzAwSnpqRXdWWXF3T1A1VzVHeVZPNHZQZ09iU1JNVExMZXNmU09URlF4aTNkNlowTDdBNTlOWXBNYmtfV2JVRnVNZ0diSmRVTV93WVg5cUZwTEtJXzNsNE4tYjZiYUpoeTZ4UG14SlZCOEZoX1Yw0gGPAUFVX3lxTE1iRUlYcVl2RTFaQjg1QVVtbVh3UXlSazJxcmtYY0ZuaFpBY014X2otdnFuLXZlWU1xNWV5Y2lCNHYzYkpBaWJaVHFtRFM4VzJXQ1U2VUxpSFdQYUlZekdEVXo3djFCbS1ZcHhMMmlJYWF3WmM4RVBMalNkRlhoWmkzUEU0SWRhUXNTclB0Si1Z?oc=5",
    "source": "ｄメニューニュース",
-   "at": "2026-11-23T16:23+09:00",
+   "at": "2026-11-23T16:18+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -574,8 +583,8 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "トランプ大統領、金正恩総書記と会うため「終戦宣言」「北朝鮮の核廃棄を求めない声明」検討（朝鮮日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmb1d1TlNUaWEteklZdzh4WVlDTEF6d2RqTjRBeW16dU9zVFFrLXdyM3Fud2tZbG5hMjlkNXQ4cXRmQndaWllIaEdaZkFEcnF1eVNUNE9jUzYzUV85TF9PVVNfcEd1MTl3Q3V0UWVFck1hTU9uejZiQl9hN2xvdEk?oc=5",
+   "title": "トランプ大統領、金正恩総書記と会うため「終戦宣言」「北朝鮮の核廃棄を求めない声明」検討 (朝鮮日報日本語版)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkg0N3Z0X3M1N25FN3dxa1psX0RDQm5zVW10RmdHTWY0Yl9fM3Q1enB3Q1FLalZfTV9iZVpqVGpwbjJBUWdVQk85N0pRRmpvOGdVUWU5aWhIdE04bnAwVEx4SzhJNUlEZGNockRTLXpSUWNma05JS1RkWThoSWhZb2FfZFVNZnl2cTR3UlpR?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-23T14:05+09:00",
    "topic": "北朝鮮"
@@ -585,13 +594,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBOS0xZHJJQVgzd2lWNmRlWklTUjBOWEF0SVg4ZzA2MzNFSGRtZHNVY2VJQ0EtQU15QXF6RlVOR0JQci0tZXpmYW0ySnBPVnQ5Mm1oSm93UGxjMHFQNlJIQl9sa3dYcl9CWkdDdUJsdVFkanRKQ0JQRNIBfkFVX3lxTFA4T2dzV3NMOHpmWlcxZGtVeGNlWE8yM2IxVGZ6V1lyelhwV2FWc2hlWWxseFZaTC1iUXlQR1NKT3RrLUh2NGcyUXA1d0poRHFuaEczNnpHQTJORG9QYmRLR2g4ZXNCR3ZkelRud0VSNkFVNnJxblFWanJNZXd0Zw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-23T13:54+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イスラエルと米国、イラン攻撃初日に小学校を爆撃、165 人の遺体が埋葬される",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeWREbzZzYkhPVDh6LXltc2ZGRmhCSm1Ya3R6TmJCM3RISHA3S2FnS0dTRFp6U3NyaEdjdUotRjZXeGxhTWg3MGFkS0ZyekRhZTRLNnR5VEdTbTRQbHIwMW1vOExwd2Jxa3pyVmdvTnlpcWZMelBWUmlfMU16ZFFucmpZTmdqNTBmeEx1Z3dWRG9tYnM3UHlSUUcya0FXdWtmWVZFQ0JVQi1uMjVoNmh0VFpCVVlfaXhfQVE?oc=5",
-   "source": "VOI.ID",
-   "at": "2026-11-23T13:30+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -625,18 +627,18 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「爆撃」6件",
+    "イラン・アメリカ：「攻撃」6件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」2件",
+    "ロシア：「攻撃」1件",
     "欧州・NATO：「ミサイル」「爆破予告」5件"
    ],
    "items": [
     {
      "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2F5dUE2ZDltT3dRU05qRGJ0RnkxNGxNdThyUGpZODJuSnMySTBpYkYtWFpSMGw3X1RlSTdhU1V5VUhIeThJeXB1VHZlMkdybUdKX1VYZFZ6TjUwcjN2bm05a0NXZ09tSWtaaF8zYlZwNW1sX25QOE9Ca1NoLVI5eDNILV9ZTEhEMnfSAY8BQVVfeXFMTWJFSVhxWXZFMVpCODVBVW1tWHdReVJrMnFya1hjRm5oWkFjTXhfai12cW4tdmVZTXE1ZXljaUI0djNiSkFpYlpUcW1EUzhXMldDVTZVTGlIV1BhSVl6R0RVejd2MUJtLVlweEwyaUlhYXdaYzhFUExqU2RGWGhaaTNQRTRJZGFRc1NyUHRKLVk?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR3NUTXMwRDV2LWR6bXBuOFUtalRFOWFMcUtkSXowUzFtSFFEN3NjVEVudVZaSlNxVnVsLWplczJpa2x0QTNxQkNSVlZzbmtUOFZSNko4YlNIaUZmMEg5WURLSTVPUTQ3NExKV0xvVFozSzAwSnpqRXdWWXF3T1A1VzVHeVZPNHZQZ09iU1JNVExMZXNmU09URlF4aTNkNlowTDdBNTlOWXBNYmtfV2JVRnVNZ0diSmRVTV93WVg5cUZwTEtJXzNsNE4tYjZiYUpoeTZ4UG14SlZCOEZoX1Yw0gGPAUFVX3lxTE1iRUlYcVl2RTFaQjg1QVVtbVh3UXlSazJxcmtYY0ZuaFpBY014X2otdnFuLXZlWU1xNWV5Y2lCNHYzYkpBaWJaVHFtRFM4VzJXQ1U2VUxpSFdQYUlZekdEVXo3djFCbS1ZcHhMMmlJYWF3WmM4RVBMalNkRlhoWmkzUEU0SWRhUXNTclB0Si1Z?oc=5",
      "source": "ｄメニューニュース",
-     "at": "2026-11-23T16:23+09:00"
+     "at": "2026-11-23T16:18+09:00"
     },
     {
      "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
