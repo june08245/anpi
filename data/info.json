@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:30+09:00",
+ "updated": "2026-11-23T17:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "浜松の南米系外国人学校から初めて防衛大学校に合格 ロシアによるウクライナ侵攻きっかけに「生まれ育った日本守りたい」",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xM2w4Mjl2Zm5wOWxRczlrRFUwMlgxeERkdDBjVGJ6alo1N2JOWVQ4ODBHQUswR0JOT0poVG9FUTV0eDlQZGhEanM3bGN3c1dOdUNJQg?oc=5",
+     "source": "中日新聞Web",
+     "at": "2026-11-23T17:36+09:00"
+    },
+    {
      "title": "リビア沖でロシア軍艦「撃沈」とウクライナ",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNkxMSjBLMjVwenNaT3U2RFhndlJXWTlmQmF5VV9OLVk3WFVTSkJGVjhBWWctMTQ1SGFOa0FaYi1tdFBiZXdzekxHQlhXSkhNTE41RzFybGQ?oc=5",
      "source": "京都新聞デジタル",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
      "source": "乗りものニュース",
      "at": "2026-11-23T14:37+09:00"
-    },
-    {
-     "title": "リビアでロシアの軍艦とみられる船が爆発 ウクライナの長距離攻撃か",
-     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9wV2tMd0J3LWd2cjlLVTBEWTd1aTV3cGVWeEFWOHFGcUQzWkhOWUp6UGZ5QVpHRjZKcE5n?oc=5",
-     "source": "Howl.Link",
-     "at": "2026-11-23T14:07+09:00"
     }
    ]
   },
@@ -350,6 +350,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "デルタ航空のシステム障害で1600便が遅延、米国の重要ITインフラに相次ぐ「不具合」",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmaVZRSDJac3NMdG9td1FiNlp6eS05dDVvVzhRc2xtUUlDRklkN21ETklITG53LVFRVDVzWEhUandqeDB6dVR2amUyblNpWkdjWWN2RTVZT2xDQWJRSjJLS2dxemNReWN0ZmZtR3oyN1lEYWpE?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-23T16:25+09:00"
+  },
+  {
    "title": "クラウドサービスで大規模なシステム障害で、どのような影響が最も気になりますか？（みんなの意見）のコメント一覧",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hajAyRVBnY2cwNXZJSjQ4Q2VuWjc1d2xKbFo0alI0U0VCbnVaRDhmRkpRQlBGaGsyUmZuRm5tSC11V0xZWm9MYlRWeTF5UWpwMHhqeU5tS0w?oc=5",
    "source": "Yahoo!ニュース",
@@ -432,12 +438,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmFhd2tISklpb2tRT2RBbFJQSEF0bDl3SWRvZG9PTGp6bVRKNnFfbTl6RUFxQUxvVDRkYnFCZjZlaEhOTEMyQmg4TFl5TmVjczg4TmpWM3lsNXQwaDdfS2FnVW9fYXFIdE1jMVVZWFg3UFFKNGp2MTRXRGt1UGs0NzRiS282c3d3VVIyWk93?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-23T12:00+09:00"
-  },
-  {
-   "title": "日本 マクドナルド、公式アプリのデータベースに不正アクセスによるサイバー攻撃|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGpjN3EyNTZ4dTBIcTNJTjFKdGRHTHhxVG9hOVhrMjJ6V0ZvQ0VCN29GRjRxeG41aVluUTJsOVA1X1dCMVRuLXpXcmY5WWhVU0dWZVpWQkNFeDlWQURNU0lWY1N6QlVSakNPaEFMVzlQTG1GRVA1TnFLdTlBNUIwYjlBTGpBMDN6eGVQZTdRTFZTakVmRVNBODFZUzB0ODFyNjR6MkdXUzhoYjZXN3ZIdFVGcXdBUQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-23T11:00+09:00"
   }
  ],
  "tokyo": [
@@ -456,6 +456,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "浜松の南米系外国人学校から初めて防衛大学校に合格 ロシアによるウクライナ侵攻きっかけに「生まれ育った日本守りたい」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xM2w4Mjl2Zm5wOWxRczlrRFUwMlgxeERkdDBjVGJ6alo1N2JOWVQ4ODBHQUswR0JOT0poVG9FUTV0eDlQZGhEanM3bGN3c1dOdUNJQg?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-23T17:36+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "リビア沖でロシア軍艦「撃沈」とウクライナ",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNkxMSjBLMjVwenNaT3U2RFhndlJXWTlmQmF5VV9OLVk3WFVTSkJGVjhBWWctMTQ1SGFOa0FaYi1tdFBiZXdzekxHQlhXSkhNTE41RzFybGQ?oc=5",
@@ -511,13 +518,6 @@
    "source": "Howl.Link",
    "at": "2026-11-23T14:22+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "リビアでロシアの軍艦とみられる船が爆発 ウクライナの長距離攻撃か",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9wV2tMd0J3LWd2cjlLVTBEWTd1aTV3cGVWeEFWOHFGcUQzWkhOWUp6UGZ5QVpHRjZKcE5n?oc=5",
-   "source": "Howl.Link",
-   "at": "2026-11-23T14:07+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "トランプ大統領、金正恩総書記と会うため「終戦宣言」「北朝鮮の核廃棄を求めない声明」検討（朝鮮日報日本語版）",
@@ -616,7 +616,7 @@
     "イラン・アメリカ：「攻撃」6件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「攻撃」「ミサイル」1件",
-    "ロシア：「攻撃」3件",
+    "ロシア：「攻撃」「侵攻」3件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
