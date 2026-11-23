@@ -490,6 +490,27 @@ def collect_cyber():
     return (first + rest)[:15]
 
 
+def collect_tokyo():
+    """東京の中央区・日本橋だけを残す（新潟市中央区や大阪の日本橋などを除く）"""
+    if not TRIP_ON:
+        return []
+    items = collect_news(TOKYO_FEEDS, TOKYO_KEYWORDS, 30, 48, TOKYO_PLACES)
+    out = []
+    for n in items:
+        t = n["title"]
+        if re.search(r"[一-龥ぁ-んァ-ン]{1,4}市中央区", t):   # 新潟市中央区、札幌市中央区など
+            continue
+        if "日本橋" in t and any(x in t for x in ["大阪", "なんば", "難波", "でんでん"]):
+            continue
+        if not any(x in t for x in ["東京", "都内", "23区", "首都圏", "東日本橋", "浜町", "人形町", "馬喰町"]) and not re.search(r"(東京都|都)中央区|中央区(日本橋|銀座|築地|月島|晴海|八丁堀|新川|京橋|東日本橋)", t):
+            # 「中央区」「日本橋」だけでは東京か分からないので外す
+            continue
+        out.append(n)
+        if len(out) >= 8:
+            break
+    return out
+
+
 # ---------- まとめ ----------
 def main():
     try:
@@ -507,7 +528,7 @@ def main():
         "outage": lambda: collect_news(OUTAGE_FEEDS, OUTAGE_KEYWORDS, 6, 48, OUTAGE_PLACES),
         "japan": lambda: collect_news(JAPAN_FEEDS, JAPAN_KEYWORDS, 6, 48),
         "cyber": collect_cyber,
-        "tokyo": lambda: collect_news(TOKYO_FEEDS, TOKYO_KEYWORDS, 8, 48, TOKYO_PLACES) if TRIP_ON else [],
+        "tokyo": collect_tokyo,
         "osaka": lambda: collect_news(OSAKA_FEEDS, OSAKA_RED + OSAKA_YELLOW, 6, 48, OSAKA_PLACES),
     }
     for key, fn in jobs.items():
