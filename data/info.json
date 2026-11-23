@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:00+09:00",
+ "updated": "2026-11-24T00:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -114,16 +114,22 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イラン、商船への攻撃強化か ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbS1acDFrUnk4M2pjZ0tDWkRITXlHODJ0ZEE2UXhWdXNJTkkwYzJqZUdIZE05NXhJVVo3cTJzbDllU3hRNVNPTTRMR2NNUQ?oc=5",
-     "source": "NEWSjp",
-     "at": "2026-11-23T16:18+09:00"
+     "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2F5dUE2ZDltT3dRU05qRGJ0RnkxNGxNdThyUGpZODJuSnMySTBpYkYtWFpSMGw3X1RlSTdhU1V5VUhIeThJeXB1VHZlMkdybUdKX1VYZFZ6TjUwcjN2bm05a0NXZ09tSWtaaF8zYlZwNW1sX25QOE9Ca1NoLVI5eDNILV9ZTEhEMnfSAY8BQVVfeXFMTWJFSVhxWXZFMVpCODVBVW1tWHdReVJrMnFya1hjRm5oWkFjTXhfai12cW4tdmVZTXE1ZXljaUI0djNiSkFpYlpUcW1EUzhXMldDVTZVTGlIV1BhSVl6R0RVejd2MUJtLVlweEwyaUlhYXdaYzhFUExqU2RGWGhaaTNQRTRJZGFRc1NyUHRKLVk?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-23T16:23+09:00"
     },
     {
      "title": "イラン再攻撃の可能性警告＝来年以降、交渉決裂なら―米大統領",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBOS0xZHJJQVgzd2lWNmRlWklTUjBOWEF0SVg4ZzA2MzNFSGRtZHNVY2VJQ0EtQU15QXF6RlVOR0JQci0tZXpmYW0ySnBPVnQ5Mm1oSm93UGxjMHFQNlJIQl9sa3dYcl9CWkdDdUJsdVFkanRKQ0JQRNIBfkFVX3lxTFA4T2dzV3NMOHpmWlcxZGtVeGNlWE8yM2IxVGZ6V1lyelhwV2FWc2hlWWxseFZaTC1iUXlQR1NKT3RrLUh2NGcyUXA1d0poRHFuaEczNnpHQTJORG9QYmRLR2g4ZXNCR3ZkelRud0VSNkFVNnJxblFWanJNZXd0Zw?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-23T13:54+09:00"
+    },
+    {
+     "title": "ホルムズ海峡におけるイランの攻撃、紛争開始以来の最高水準に 海事データ分析",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KR3R0LW9jWHo4MlFrc0UycW5vbDVkSWpSZGx2QlNSOTBCdkM0RWtCaDRuM3dZc0VTY1JZc1BMYkdQeXlSV3lVWV9Mc0ZyU29HdXlr?oc=5",
+     "source": "CNN",
+     "at": "2026-11-23T13:34+09:00"
     },
     {
      "title": "トランプ氏、イランと合意なければ年明けの再攻撃検討 譲歩迫る",
@@ -142,12 +148,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yY2pMN29SV2xYYXQxak9GQzVGM0lma0xRNU1faV96VUo1dFUxUnczTjR4QkhoYzQ0eVBDOWNqd0FRaWluX1dtVmFqLTFsclRieEtZcQ?oc=5",
      "source": "Switch news",
      "at": "2026-11-23T09:05+09:00"
-    },
-    {
-     "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆 (FNNプライムオンライン（フジテレビ系）)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVpGSnBvMjhEdHRlS214cUlmWEgxR0FZdmpuLU1qQkV6cXJIMW5IcEtnMHNSUnBBRFZaTk42ckFCRnZtdzFJd3BjcHg3bC1pd1c0UDVhQ3IyWmpSLXVkcFZRckdIZjh0RmJ2UWRGTE1paW0zdENrVFg5VE9oYm9zdHRLYVNPR1BaeDM0LXZB?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-23T08:59+09:00"
     }
    ]
   },
@@ -198,10 +198,10 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3YVlsTHpRQnR3RmV3aTNwejRXZ3ltUHFvWlJIQjdZY3AyQ3VMejN0Y3BrTWZKaWdjZ1F6czRaRXhSdXFCTlN1bndvdV9FTnF1NUhBVnNDQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-23T17:50+09:00"
+     "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道（TBS NEWS DIG Powered by JNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUVBvZnpUYlQ5bmdXb2l1eV9nMFZTSWpLZTk0Nkt5N0FHQ21YX2ZzUE9EOFZVaGd2SEdDRzVsZS1JS3g5OWxzeTdUXzhnODQxRU53V3l4UXFrV2pwSjBNejBQTlpKMnRzMDl1LTVOMkVnRlBTaS1oYXQ2YnkwdlE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-23T17:49+09:00"
     },
     {
      "title": "北朝鮮の金正恩（キム·ジョンウン）国務委員長が各国の新任駐北朝鮮大使から信任状を受け取り、自身の外交·安保·経済政策基調を直接説明する異例の外交行動を見せた。 ドナルド·トランプ米大統領の相次ぐ首脳会..",
@@ -240,40 +240,40 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍艦がリビア沖で沈没、ウクライナが攻撃とゼレンスキー氏発表",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeU13REptd3cxazFWaTdRenZTM2JhMjB2eDNXcmt1WGJYWkZBZktkZmVJZ2g3VUM0N0dabVIyRmlaYVpSblFPUW9CcnF6WndwRXlVNUZ3bnlUY284YkNpVmpVRjlCV2NqMlppWkpUUlJlT2p4dWpKMUZ6WUYzNVhSVGNNVWZEcG14QUluQkpR?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-24T00:02+09:00"
+    },
+    {
+     "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-23T23:57+09:00"
+    },
+    {
+     "title": "リビアでロシア軍艦攻撃 ゼレンスキー氏が映像公開",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pMjJEVDY0bEs1c21DSE8yNXltXzdjU3pRTEtjMlJTdXJwZU8xY0V2eXJmaHJRdFRYTEpESGo0SzN0TTRWZUsycG8tUGZ6UlRfamJ6ZQ?oc=5",
+     "source": "ABEMA TIMES",
+     "at": "2026-11-23T23:57+09:00"
+    },
+    {
      "title": "【動画】ウクライナ、無人艇でロシアの軍艦１隻撃沈…リビア沖の地中海で奇襲、輸送船にも打撃",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DRTBocnVsV1ZRMXY5dFBXSHJ1YU9WaE5HNmhsaUJ1bWJqTGZxMzVzWi1yRjJLRElJZEZla3ktTE9lUFlxTTl0bmdqd0hpdi1vZFkwdkJXWGpOc2M?oc=5",
      "source": "読売新聞",
      "at": "2026-11-23T23:52+09:00"
     },
     {
-     "title": "ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMcnBOSzh2TG5jTW9mYjQtdU1PUFNObUtxdjczRWxmTWpscWw1bDJQZVRwb2RrX2FhOVBaWjVfWE5UTmhMNUpWeXpvZENYczVzSjVnc2JSNF8wODYtcEFBYkxn?oc=5",
-     "source": "読売新聞",
+     "title": "プーチン政権の「記念碑」の橋、修復作業は長期化か…ウクライナ攻撃で一部崩落・ロシア軍の補給混乱（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcUtGclEtWDJGSWlodkdoRmFqNlZKeVlhWDhQYXQ1T2Rkd3Z1VHVPVktXaVZIOHFMZ2lYZS1SWVlIYW5faElzekNLTjd2R1RKM1ZyOGhUS3pVQmlqLVowdjVqb3Nmb2VVZnJxcHl2OFdCTGl5YUtyTWFGRF9xa2c?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-23T22:04+09:00"
+    },
+    {
+     "title": "ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ld08yRDhnN1FBUkR4TmtEanRMUnVNcGdNMm9XMEV1VW1vb0dMaGNoQXZhZFVNR2VlNGMwWjU4cUMxVTVGZGlrSXd1dzNKREtyc2ZzWjZGYkh2NkhyVUNIb3hzdy03VG1GRXV4RXlheGt4Tl9BYXg2T1J1VnNxQ0U?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-23T22:03+09:00"
-    },
-    {
-     "title": "ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YN3NoSVJIUXdhSzVTSjVndFpvVFQxb0I3ZmlhS0pxLWlFaWpPU0lyT0djRC1rdzlKcGltd0d0YzdEVG9DMF9EOS1hUGEzWEVxZUF2OFdGbGpBTzRCNF9WVUtsRnB2TUI1Ql9VVw?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-23T22:00+09:00"
-    },
-    {
-     "title": "ウクライナ南部ザポリッジャの民間病院をロシア軍が攻撃　３名が死亡",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTVmMGg1MnV5d2dfSUhoLXQ2cGhXQ1Rvb3QyVksydTd0TUpvU0VXY1JiT3c4QWViU0dEeXdYSUVIaDRySUQ0ZkhjS0NQaFkxNFdrMDZsMjNrLUNocFJVN1l3MlpIY0gxNVBBZDBVRVFKUDByVW9qVVM3bk8xaGYzcnl0TzZCUTN4QXR4SXRPek5PdThvdG5FdkVGN20yWjFqanRfTUFEeTZ3ckpITGJpeFYzRVZFUWV2dFJidHdENFFURUtZeXh1cTBn0gHPAUFVX3lxTE9uaS1IWjdZdlFYV0hsdlZlNXFaYS02ZHd0RWMxRVV0U05zYzdJSmgtcHVvV1BKR1J6X0o4WWNuNUZSekVzakF6Nlp1R0JVaElpYkV4d1NIVGpEcEJndUFlRDRTR0hveERocGJtTUF1M3NVbzBabGlQaFlMN0U4TUJodkJvdHNwWDR5VFVmVHpMYkQteHk2QXdjeU9xbDI4dXhLZXFzSVBjSGVEX1BDVXVNSVlIMk5rWE9NdEdkVzVMTExZMGRQbU9hQklYT3FqTQ?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-23T21:49+09:00"
-    },
-    {
-     "title": "ゼレンスキー氏 リビア海上でロシア軍艦「撃沈」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFYUQzakRacHl0eEJlc19BOENwa2lFaW42VTBCM2h2a0xpVEVPbUVQSmpWbEVEQndWdGdsWHNPTkJQR0pxQVJFWEIwbUdEcGtMQ0hKTHB1d3VhT1NGOUNxQUV1REttX1BvUmFGNmRR?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-23T21:30+09:00"
-    },
-    {
-     "title": "ウクライナ・ゼレンスキー大統領「ロシア軍艦を撃沈」リビア沖で無人艇7隻使い攻撃 10人負傷",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oLXZtY0Qyd21UTGhuVWxnXzFibjlTSVNLcGpMSXBsUjZ2djI4eWJWc1lHbmpVMWJRUUZXbnpjMUJCSkNRcm1nM2NjLS1zQXR0WVNDa2F5SFotcVhpTDlF?oc=5",
-     "source": "千葉テレビ放送",
-     "at": "2026-11-23T21:00+09:00"
     }
    ]
   },
@@ -300,22 +300,22 @@
      "at": "2026-11-23T22:08+09:00"
     },
     {
-     "title": "ポーランドに落下した3つの飛行物体“ロシア製の巡航ミサイル”と確認 検察発表 NATO本部で緊急会合開き対応協議へ",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nWWlzQkQzaG56a3ptdG5IMHJuVGlkTWdnV3BVa0Rsc0xNWmFRMUkxUnlUMHR1OURrYXVLUDB5aWFNQ0xCSkxJRXZ0WE4wUW5zandXc2RXcEFFWGFHTG5nN3UwTnZqR05ZM3NMS3g5QTVZY3M?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-23T20:39+09:00"
+     "title": "ドイツ約450校とデンマークの学校に爆破予告メール",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXk2WmJzMFhPcnVHZ0ZKNnMxWmJHdUZKdEdlZjVjUnhsa0RfLWpfaWJ3ZHBFN01EQldCUHh1MmxyRWpya245U2pXb1c4U0tRT0ZRUUU1cEkxQlFQVWMtRW5JaHV2dGRGcTdHbVV2bVplOTl0Zi1jazVKeVZOei1vZUc2ZTlISUk4YmtN?oc=5",
+     "source": "Pasquale Pillitteri",
+     "at": "2026-11-23T21:23+09:00"
     },
     {
-     "title": "ロシアのミサイル3発が同国の領空を侵犯したことを受け、ポーランドがNATOに支援を要請",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcS1pc0w3eFY3Q3VJeTk0YmdOVGxwRmh3MWJnX2hsdUJvOFEtcWhmTEpqb2F2ZGotWUd4OG40aFBPcHgxZWdQb1RNSEVFRzdBcGJTTTgtajl0UG1xc3B3Y3Y0bW9uWmdJbllTNUpYdE9JYmNCdVBCRWZmbmJhY2Jkc0s4dGJzLVB5N0diMkt5Zms1SlY0SU90ZjAtczEyQmg5Y2I2Skp6MVNhX2pqOWUtYWxIRERsSmNmbzd5OA?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-23T18:49+09:00"
+     "title": "ヨーロッパはロシアと「平和でも戦争でもない中間にある」 - 元フィンランド国防軍司令官が語る",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHpPYk91SUttbzhWTHc3bTQtSGVXQ0x4aVV3Y09LUDBXdWJoSngyMGthQjc1RDlzb2xaRGNPcmZlTHJVZ3FBVTVDd0lkRm5HOWh1enM0bHpnS0NXbkZkZWpvVVZLa21wdGZ3UlJoSFZDUzdzY3AxMnNxeTZDeTl5cXhKTE12enBIN1pmWXhyVUR6bDBUVDNUSFRWMA?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-23T01:28+09:00"
     },
     {
-     "title": "ポーランド落下の3飛翔体、ロシア製巡航ミサイルと断定 NATO協議へ",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESnJyU0x1RzVTSjhlWkxpOXJHLVlCU3ZPcjdqcmdHMkx3RGlLc19QMUxCTU5OQzdEUDR0aUV6bzVpdnc3M09SSW9PaW9ieERKMUHSAVRBVV95cUxOcVVKVUp6OEZab2JhNmh3QWJ6cUxvYzlMQlllUGoxbGpLNjQ1TUc4dTFKMWlNQ2xabG9neDFfbGlXMWk1Njd6TmE4VDl2eEhLeUxzdkQ?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-23T11:30+09:00"
+     "title": "模索する欧州：露ハイブリッド攻撃への危機感高まる 強じん性の向上急ぐ欧州",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RYmVkUnlGaW5nRm56TnhsVTJ0d1dNdV90YUpqbXNOWkpGdmEwbWtQZEc2VERveEFmTWJXN29OYVhtMmxkOHBlMFpvakJIR1YxQkt5UV83Sk9wc2lkMU54c3ZuUVFDSWUy?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-22T21:10+09:00"
     }
    ]
   }
@@ -358,7 +358,14 @@
    "at": "2026-11-21T23:14+09:00"
   }
  ],
- "outage": [],
+ "outage": [
+  {
+   "title": "大阪府の停電情報",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iRTZJREIxVWNNU3V0N3ZKcTQ1RWZ4OUVkeHBYdFkySmEwc0UzOHhWSjZ5SXNCNzd3ejBJWGpOTVVJM3duYngwQ011Vi14R0ZZaGFLTHBFSFBFLUVCbkN4QlhweTE?oc=5",
+   "source": "ウェザーニュース",
+   "at": "2026-11-22T16:05+09:00"
+  }
+ ],
  "japan": [],
  "cyber": [
   {
@@ -416,10 +423,16 @@
    "at": "2026-11-23T07:25+09:00"
   },
   {
-   "title": "マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システム障害は偶然なのか",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WbUpORk55NTd4d2p3OFJQVnZMbi1xT2tZS09XeDEtOFE4dUtxb1VUU2ZreVVXVVZMbTY5UTY0WnBrSjdEYWdvTGxFak9GalQ3d3VNay1YTEVtdFk?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-23T06:00+09:00"
+   "title": "AIを駆使したサイバー攻撃が急増 防御側が利点に変える対処法",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3VJWnZhNmlPRC04dk9tVEZMT3Vaek1zdVZiVzE1RVFWNnBQdWgwSUZsSVFpTzJ6Z0VVWi1vTFQwSE82dkF4V0ZXSEVWR1JvMjFaZnBOVzRjZlprMTVjenc1dXhSTVI5RUVvZ1dMRkVzeVVmem5ESkxaT29CUm5EQUVZLWNFeVFQVFJn?oc=5",
+   "source": "日経クロストレンド",
+   "at": "2026-11-24T00:00+09:00"
+  },
+  {
+   "title": "ＹＭＣＡにサイバー攻撃、個人情報流出か",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45eVhXWlBhcHh4QU5fWkh4dG8xeXR6Z3dheVhuM3NXRmlrMFRtd1RqX3A0bEQ3VGg4bWJ4WUJWenZnQjFub2c?oc=5",
+   "source": "NNAアジア",
+   "at": "2026-11-24T00:00+09:00"
   },
   {
    "title": "欧州委にサイバー攻撃、中国系組織の関与疑い",
@@ -444,12 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEwwNjI5TmFSZXdWMVRCWll1N28wcUZFWmQtLUhBX09BaGN2enN0SzZ2dkNSUlZtQTZFTWRpOUJpYkh3LXFDVGFoMWo3QXdTOVNhZU1RMF9kd25Oa29ZTndmWFN2RHJoOU1XVDhSZllPdW5NRE5iaGE1ZGg0bklPRjlzc3BSWXJTQi1lOHJ3?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-23T20:00+09:00"
-  },
-  {
-   "title": "「日本サイバーディフェンス」2027年春、静岡市に中核拠点開設 攻撃監視・対処の専門チーム、企業の危機管理を支援",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LaEtRVnR4SE9hT25BdHdJVnVqQU5VVndwMXp0aXdVYVREUVZHOVljZ01ENVVpbW9Xb2wtU1FzVlZQRUV6SU9USFRtNHkxZw?oc=5",
-   "source": "静岡新聞DIGITAL",
-   "at": "2026-11-23T20:00+09:00"
   }
  ],
  "tokyo": [
@@ -468,6 +475,27 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア軍艦がリビア沖で沈没、ウクライナが攻撃とゼレンスキー氏発表",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeU13REptd3cxazFWaTdRenZTM2JhMjB2eDNXcmt1WGJYWkZBZktkZmVJZ2g3VUM0N0dabVIyRmlaYVpSblFPUW9CcnF6WndwRXlVNUZ3bnlUY284YkNpVmpVRjlCV2NqMlppWkpUUlJlT2p4dWpKMUZ6WUYzNVhSVGNNVWZEcG14QUluQkpR?oc=5",
+   "source": "Bloomberg.com",
+   "at": "2026-11-24T00:02+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-23T23:57+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "リビアでロシア軍艦攻撃 ゼレンスキー氏が映像公開",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pMjJEVDY0bEs1c21DSE8yNXltXzdjU3pRTEtjMlJTdXJwZU8xY0V2eXJmaHJRdFRYTEpESGo0SzN0TTRWZUsycG8tUGZ6UlRfamJ6ZQ?oc=5",
+   "source": "ABEMA TIMES",
+   "at": "2026-11-23T23:57+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "【動画】ウクライナ、無人艇でロシアの軍艦１隻撃沈…リビア沖の地中海で奇襲、輸送船にも打撃",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DRTBocnVsV1ZRMXY5dFBXSHJ1YU9WaE5HNmhsaUJ1bWJqTGZxMzVzWi1yRjJLRElJZEZla3ktTE9lUFlxTTl0bmdqd0hpdi1vZFkwdkJXWGpOc2M?oc=5",
@@ -497,32 +525,25 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMcnBOSzh2TG5jTW9mYjQtdU1PUFNObUtxdjczRWxmTWpscWw1bDJQZVRwb2RrX2FhOVBaWjVfWE5UTmhMNUpWeXpvZENYczVzSjVnc2JSNF8wODYtcEFBYkxn?oc=5",
-   "source": "読売新聞",
+   "title": "プーチン政権の「記念碑」の橋、修復作業は長期化か…ウクライナ攻撃で一部崩落・ロシア軍の補給混乱（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcUtGclEtWDJGSWlodkdoRmFqNlZKeVlhWDhQYXQ1T2Rkd3Z1VHVPVktXaVZIOHFMZ2lYZS1SWVlIYW5faElzekNLTjd2R1RKM1ZyOGhUS3pVQmlqLVowdjVqb3Nmb2VVZnJxcHl2OFdCTGl5YUtyTWFGRF9xa2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-23T22:04+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ld08yRDhnN1FBUkR4TmtEanRMUnVNcGdNMm9XMEV1VW1vb0dMaGNoQXZhZFVNR2VlNGMwWjU4cUMxVTVGZGlrSXd1dzNKREtyc2ZzWjZGYkh2NkhyVUNIb3hzdy03VG1GRXV4RXlheGt4Tl9BYXg2T1J1VnNxQ0U?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-23T22:03+09:00",
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YN3NoSVJIUXdhSzVTSjVndFpvVFQxb0I3ZmlhS0pxLWlFaWpPU0lyT0djRC1rdzlKcGltd0d0YzdEVG9DMF9EOS1hUGEzWEVxZUF2OFdGbGpBTzRCNF9WVUtsRnB2TUI1Ql9VVw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-23T22:00+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ南部ザポリッジャの民間病院をロシア軍が攻撃　３名が死亡",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTVmMGg1MnV5d2dfSUhoLXQ2cGhXQ1Rvb3QyVksydTd0TUpvU0VXY1JiT3c4QWViU0dEeXdYSUVIaDRySUQ0ZkhjS0NQaFkxNFdrMDZsMjNrLUNocFJVN1l3MlpIY0gxNVBBZDBVRVFKUDByVW9qVVM3bk8xaGYzcnl0TzZCUTN4QXR4SXRPek5PdThvdG5FdkVGN20yWjFqanRfTUFEeTZ3ckpITGJpeFYzRVZFUWV2dFJidHdENFFURUtZeXh1cTBn0gHPAUFVX3lxTE9uaS1IWjdZdlFYV0hsdlZlNXFaYS02ZHd0RWMxRVV0U05zYzdJSmgtcHVvV1BKR1J6X0o4WWNuNUZSekVzakF6Nlp1R0JVaElpYkV4d1NIVGpEcEJndUFlRDRTR0hveERocGJtTUF1M3NVbzBabGlQaFlMN0U4TUJodkJvdHNwWDR5VFVmVHpMYkQteHk2QXdjeU9xbDI4dXhLZXFzSVBjSGVEX1BDVXVNSVlIMk5rWE9NdEdkVzVMTExZMGRQbU9hQklYT3FqTQ?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-23T21:49+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ゼレンスキー氏 リビア海上でロシア軍艦「撃沈」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFYUQzakRacHl0eEJlc19BOENwa2lFaW42VTBCM2h2a0xpVEVPbUVQSmpWbEVEQndWdGdsWHNPTkJQR0pxQVJFWEIwbUdEcGtMQ0hKTHB1d3VhT1NGOUNxQUV1REttX1BvUmFGNmRR?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-23T21:30+09:00",
-   "topic": "ロシア"
+   "title": "ドイツ約450校とデンマークの学校に爆破予告メール",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXk2WmJzMFhPcnVHZ0ZKNnMxWmJHdUZKdEdlZjVjUnhsa0RfLWpfaWJ3ZHBFN01EQldCUHh1MmxyRWpya245U2pXb1c4U0tRT0ZRUUU1cEkxQlFQVWMtRW5JaHV2dGRGcTdHbVV2bVplOTl0Zi1jazVKeVZOei1vZUc2ZTlISUk4YmtN?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-23T21:23+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "屏東県で旧日本軍戦没者の慰霊碑除幕式 滝波宏文参院議員らが出席／台湾",
@@ -532,20 +553,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ウクライナ・ゼレンスキー大統領「ロシア軍艦を撃沈」リビア沖で無人艇7隻使い攻撃 10人負傷",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oLXZtY0Qyd21UTGhuVWxnXzFibjlTSVNLcGpMSXBsUjZ2djI4eWJWc1lHbmpVMWJRUUZXbnpjMUJCSkNRcm1nM2NjLS1zQXR0WVNDa2F5SFotcVhpTDlF?oc=5",
-   "source": "千葉テレビ放送",
-   "at": "2026-11-23T21:00+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ポーランドに落下した3つの飛行物体“ロシア製の巡航ミサイル”と確認 検察発表 NATO本部で緊急会合開き対応協議へ",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nWWlzQkQzaG56a3ptdG5IMHJuVGlkTWdnV3BVa0Rsc0xNWmFRMUkxUnlUMHR1OURrYXVLUDB5aWFNQ0xCSkxJRXZ0WE4wUW5zandXc2RXcEFFWGFHTG5nN3UwTnZqR05ZM3NMS3g5QTVZY3M?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-23T20:39+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "中国軍、配送大手の調達資格停止　「規則違反」",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWExUGh3T0JpX2Q4WTFVV1UtVWJWOWIwQmFMeDJQMnpyVml5UVhRRUc4eHZQeVJad2pKYVFQejlheUg3MWVlSXdGQTVfTHZPVmszTF9iV0NsSnFWYzJrMDVEUWFfdEdPeXBBUmRYdW5BYktHcG93U2dfX2hBYlBwaXZ2V2NYYlFBc2fSAY8BQVVfeXFMTW83cFJNOUw2bzV2Vk5KR3FOTmZKbmhlb1BPN2pKX002WGdzdGVvb1Fyb0hOZURNaEhlOGNlV1JPcS1zYnhnWnpkNG02d0hobDBVX01waWpSTC1GeXBwWktaT1dkRmZockdVZjd1YUtvVTZyLS13bTVXRHlHdVRjYTl5cU1rUlVMVm9SWVZhS0k?oc=5",
    "source": "ｄメニューニュース",
@@ -553,17 +560,10 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "ロシアのミサイル3発が同国の領空を侵犯したことを受け、ポーランドがNATOに支援を要請",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcS1pc0w3eFY3Q3VJeTk0YmdOVGxwRmh3MWJnX2hsdUJvOFEtcWhmTEpqb2F2ZGotWUd4OG40aFBPcHgxZWdQb1RNSEVFRzdBcGJTTTgtajl0UG1xc3B3Y3Y0bW9uWmdJbllTNUpYdE9JYmNCdVBCRWZmbmJhY2Jkc0s4dGJzLVB5N0diMkt5Zms1SlY0SU90ZjAtczEyQmg5Y2I2Skp6MVNhX2pqOWUtYWxIRERsSmNmbzd5OA?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-23T18:49+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3YVlsTHpRQnR3RmV3aTNwejRXZ3ltUHFvWlJIQjdZY3AyQ3VMejN0Y3BrTWZKaWdjZ1F6czRaRXhSdXFCTlN1bndvdV9FTnF1NUhBVnNDQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-23T17:50+09:00",
+   "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUVBvZnpUYlQ5bmdXb2l1eV9nMFZTSWpLZTk0Nkt5N0FHQ21YX2ZzUE9EOFZVaGd2SEdDRzVsZS1JS3g5OWxzeTdUXzhnODQxRU53V3l4UXFrV2pwSjBNejBQTlpKMnRzMDl1LTVOMkVnRlBTaS1oYXQ2YnkwdlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-23T17:49+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -574,10 +574,10 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "イラン、商船への攻撃強化か ホルムズ海峡、米政権揺さぶり",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbS1acDFrUnk4M2pjZ0tDWkRITXlHODJ0ZEE2UXhWdXNJTkkwYzJqZUdIZE05NXhJVVo3cTJzbDllU3hRNVNPTTRMR2NNUQ?oc=5",
-   "source": "NEWSjp",
-   "at": "2026-11-23T16:18+09:00",
+   "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2F5dUE2ZDltT3dRU05qRGJ0RnkxNGxNdThyUGpZODJuSnMySTBpYkYtWFpSMGw3X1RlSTdhU1V5VUhIeThJeXB1VHZlMkdybUdKX1VYZFZ6TjUwcjN2bm05a0NXZ09tSWtaaF8zYlZwNW1sX25QOE9Ca1NoLVI5eDNILV9ZTEhEMnfSAY8BQVVfeXFMTWJFSVhxWXZFMVpCODVBVW1tWHdReVJrMnFya1hjRm5oWkFjTXhfai12cW4tdmVZTXE1ZXljaUI0djNiSkFpYlpUcW1EUzhXMldDVTZVTGlIV1BhSVl6R0RVejd2MUJtLVlweEwyaUlhYXdaYzhFUExqU2RGWGhaaTNQRTRJZGFRc1NyUHRKLVk?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-23T16:23+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -607,13 +607,20 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-23T13:54+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ホルムズ海峡におけるイランの攻撃、紛争開始以来の最高水準に 海事データ分析",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KR3R0LW9jWHo4MlFrc0UycW5vbDVkSWpSZGx2QlNSOTBCdkM0RWtCaDRuM3dZc0VTY1JZc1BMYkdQeXlSV3lVWV9Mc0ZyU29HdXlr?oc=5",
+   "source": "CNN",
+   "at": "2026-11-23T13:34+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システ」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
@@ -629,14 +636,14 @@
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」4件",
-    "欧州・NATO：「ミサイル」「爆破予告」4件"
+    "欧州・NATO：「爆破予告」2件"
    ],
    "items": [
     {
-     "title": "イラン、商船への攻撃強化か ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbS1acDFrUnk4M2pjZ0tDWkRITXlHODJ0ZEE2UXhWdXNJTkkwYzJqZUdIZE05NXhJVVo3cTJzbDllU3hRNVNPTTRMR2NNUQ?oc=5",
-     "source": "NEWSjp",
-     "at": "2026-11-23T16:18+09:00"
+     "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2F5dUE2ZDltT3dRU05qRGJ0RnkxNGxNdThyUGpZODJuSnMySTBpYkYtWFpSMGw3X1RlSTdhU1V5VUhIeThJeXB1VHZlMkdybUdKX1VYZFZ6TjUwcjN2bm05a0NXZ09tSWtaaF8zYlZwNW1sX25QOE9Ca1NoLVI5eDNILV9ZTEhEMnfSAY8BQVVfeXFMTWJFSVhxWXZFMVpCODVBVW1tWHdReVJrMnFya1hjRm5oWkFjTXhfai12cW4tdmVZTXE1ZXljaUI0djNiSkFpYlpUcW1EUzhXMldDVTZVTGlIV1BhSVl6R0RVejd2MUJtLVlweEwyaUlhYXdaYzhFUExqU2RGWGhaaTNQRTRJZGFRc1NyUHRKLVk?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-23T16:23+09:00"
     },
     {
      "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
@@ -645,10 +652,10 @@
      "at": "2026-11-23T10:00+09:00"
     },
     {
-     "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3YVlsTHpRQnR3RmV3aTNwejRXZ3ltUHFvWlJIQjdZY3AyQ3VMejN0Y3BrTWZKaWdjZ1F6czRaRXhSdXFCTlN1bndvdV9FTnF1NUhBVnNDQQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-23T17:50+09:00"
+     "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道（TBS NEWS DIG Powered by JNN）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUVBvZnpUYlQ5bmdXb2l1eV9nMFZTSWpLZTk0Nkt5N0FHQ21YX2ZzUE9EOFZVaGd2SEdDRzVsZS1JS3g5OWxzeTdUXzhnODQxRU53V3l4UXFrV2pwSjBNejBQTlpKMnRzMDl1LTVOMkVnRlBTaS1oYXQ2YnkwdlE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-23T17:49+09:00"
     }
    ]
   }
