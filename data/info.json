@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:00+09:00",
+ "updated": "2026-11-24T06:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-23T20:56:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-24T06:00:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.1",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-24T03:33:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-23T07:49:00+09:00",
-   "place": "天草灘",
-   "mag": "4.1",
-   "maxi": "3",
-   "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -144,10 +144,10 @@
      "at": "2026-11-23T13:54+09:00"
     },
     {
-     "title": "ホルムズ海峡におけるイランの攻撃、紛争開始以来の最高水準に 海事データ分析",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KR3R0LW9jWHo4MlFrc0UycW5vbDVkSWpSZGx2QlNSOTBCdkM0RWtCaDRuM3dZc0VTY1JZc1BMYkdQeXlSV3lVWV9Mc0ZyU29HdXlr?oc=5",
-     "source": "CNN",
-     "at": "2026-11-23T13:34+09:00"
+     "title": "トランプ氏、イランと合意なければ年明けの再攻撃検討　譲歩迫る",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRDdEYzdqc1lVQjgwa0tvYnk3MldQMF95cHNjUlhNWGgxTkFvTjFaNHUtRF9SNVBscnM4WWJ5b0R5Q0F5UjBtcVVyR2FiZ2UtYld6aGdKdEVjdy1Ca1BNS3FmLVFQYmJsLTNMcEd2T0F4cVJGYWs4c2MwV0N1YW1VZmhLZDQtS1NJaW91T1lWYk1BQdIBlwFBVV95cUxPSEFTVjEzSURFR2Jiamh6TEVuMDVRVlp6eGJiMDBfSndiNzdqbE45eThvN0VIdWxCSFZfYjBvRzhVam95UWloLW04NHJ2dDBSUURteXNJQVQwdzBQR2tJaVYzNDVtWXYzQmJDaWNLc2J2ZEFkWDhua21LMG9IcEZVNXc3TkJ3V0h6aVJvM2swZ2w1dVBKTjgw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-23T10:48+09:00"
     }
    ]
   },
@@ -240,6 +240,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア代表参加禁止の制裁案 ＥＵ、域内スポーツ大会で",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5NkRVa1NLeVlHWVM4S2NBOG1YeHZ3Vmh6SVlDQ3NKRkhOOUNGajZxTVc2bWxxNFhoazJ2WTgtMUl4RmtGZXUwNGRrRjh3cXBRWFh2Nw?oc=5",
+     "source": "中日新聞Web",
+     "at": "2026-11-24T05:54+09:00"
+    },
+    {
      "title": "ロシア軍兵士、ウクライナで50万人近く死亡－新データでさらに増加",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nV2c5T1Voc0RJd1RaQWRyRjlaRDROQWRodkZIbVJ2SnRUVm1Wbm5VbFFyZFdZYnlsbHhpemNIc2YxaXhHRmV1dE5TOEVtNDg0dXZUaEVfejdHV2dNUmJ0cGQzcUZzUDA?oc=5",
      "source": "TBS NEWS DIG",
@@ -268,12 +274,6 @@
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ubmtkV1FnajBkQjNuZThldkhvMWZnM2tkRmV6MnhlU0swNEpnak51OFJwcFdFanBRMXVyVlB3dC1KM3MwemRxdXBGNWlMTGpFV0tLOW9HVExhTFk?oc=5",
      "source": "山陰中央新報デジタル",
      "at": "2026-11-24T04:00+09:00"
-    },
-    {
-     "title": "ウクライナ・ゼレンスキー大統領「ロシア軍艦を撃沈」リビア沖で無人艇7隻使い攻撃 10人負傷",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0a3R6YnNsZGpZSUt6SUQ4WE1ZZXR3ZTdseUg4ZXZubWtCQ1lZeV9pWV80VHM5VE9mUDR5Sko1VXRGNXk0RlRrcDNWUG5IUQ?oc=5",
-     "source": "FNNプライムオンライン",
-     "at": "2026-11-24T02:55+09:00"
     }
    ]
   },
@@ -417,6 +417,18 @@
    "at": "2026-11-23T11:54+09:00"
   },
   {
+   "title": "キヤノンマーケティングジャパン、約366万件の情報漏洩の恐れ、プレイド「KARTE」への不正アクセスによるサイバー攻撃で",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVkY4X1ZYeU04cmFyT2p4LTh2MzNpTHV4ck91VFVFc1dzS09xMGtsbGxPYnZVMnBaei1mbFJFb0ZMOTNHNWNRRTk1dUprWlFFR0VCTDZlUFZRd2REYWpRa1RPZ3hBSDI0WTNFWXZCWl9kaWtLd1JnamZ5MkloUkx4ajhvMXhNZFRrbkFLZDlvS09vSDFZNFp4UGxPYw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-24T06:00+09:00"
+  },
+  {
+   "title": "サイバー被害はこれからどうなる､最も起こりやすいのは｢被害公表が数年続く｣展開…専門家に聞いた3つのシナリオ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CR00zY2JKaUgwTU9QbUFhRDBMRWhyNjJINkNkM3JNNG00LU1XcFlQQjZGM2NaYnVLUG5hN2QydExITjNpYVFQN2xJdkJEbHhaS0hvcW50S1lUc0ZDLWIw?oc=5",
+   "source": "東洋経済オンライン",
+   "at": "2026-11-24T06:00+09:00"
+  },
+  {
    "title": "【#きっかけ解説】サイバー攻撃対策は「重要な投資」 重要インフラへの攻撃急増「これからの時代地震など天災と一緒」との声も",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kclR0bDhHM205TjVLZGw2ZFo5NzR1cHB1RGZRTW1SSWc3NGF6VUIxSjUxUEIwQk9MOHl2aHhLR2d5WlZDVldOQ1ZYMA?oc=5",
    "source": "TVer",
@@ -445,18 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ak1SRUdNLXB3SmdLUldjR2lnR2QzalplZm0zRUJxcXlSVHF0NHZIT3l1SEFVYnhwelNDSDBWX0txdjNSenRpNEZ4ZVhuWGw2OC1MdGRWUEttcUFwU3pnRkR2ZThzeDR3Nng2Sw?oc=5",
    "source": "日経クロステック",
    "at": "2026-11-24T05:00+09:00"
-  },
-  {
-   "title": "三菱電機 サイバー攻撃の急増受けプラント制御・運用技術の安全性強化へ",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1ZGJGQnBfaTFjdlNxclFZZkhRaVRxbXpkcEx6OENUbHBZanpneGN6LTh3V3BPN2Fwa25aYVc0RFFibHRoUHJKdDFoVlBEdWdCSzNxV2lnQ3k5ckViVW5NSVVOVk1HMURY?oc=5",
-   "source": "カナロコ",
-   "at": "2026-11-24T05:00+09:00"
-  },
-  {
-   "title": "相次ぐ不正アクセス、ポイント経済圏に転機 個人情報収集に再考迫る",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2emtuMGdaTWJXdTNJekNYLVc3V1FNelNsSmxPbEIzSlFGNVRnak5GMWxHeUtEeWE4QTljUHBwdjZLYWQ2NWhWUmZBLVA3Si1TLVFreGZLTnRWUlp4MnZuQUczSFZPUGV5UEdRRw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-24T05:00+09:00"
   }
  ],
  "tokyo": [
@@ -475,6 +475,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア代表参加禁止の制裁案 ＥＵ、域内スポーツ大会で",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5NkRVa1NLeVlHWVM4S2NBOG1YeHZ3Vmh6SVlDQ3NKRkhOOUNGajZxTVc2bWxxNFhoazJ2WTgtMUl4RmtGZXUwNGRrRjh3cXBRWFh2Nw?oc=5",
+   "source": "中日新聞Web",
+   "at": "2026-11-24T05:54+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ロシア軍兵士、ウクライナで50万人近く死亡－新データでさらに増加",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nV2c5T1Voc0RJd1RaQWRyRjlaRDROQWRodkZIbVJ2SnRUVm1Wbm5VbFFyZFdZYnlsbHhpemNIc2YxaXhHRmV1dE5TOEVtNDg0dXZUaEVfejdHV2dNUmJ0cGQzcUZzUDA?oc=5",
@@ -544,13 +551,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-24T02:57+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ウクライナ・ゼレンスキー大統領「ロシア軍艦を撃沈」リビア沖で無人艇7隻使い攻撃 10人負傷",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0a3R6YnNsZGpZSUt6SUQ4WE1ZZXR3ZTdseUg4ZXZubWtCQ1lZeV9pWV80VHM5VE9mUDR5Sko1VXRGNXk0RlRrcDNWUG5IUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "at": "2026-11-24T02:55+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "イラン、米海上封鎖に「あらゆる手段で対抗」―トランプ氏の撃沈警告で衝突リスク",
@@ -635,7 +635,7 @@
     "イラン・アメリカ：「攻撃」「封鎖」5件",
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「ミサイル」1件",
-    "ロシア：「攻撃」「ミサイル」3件",
+    "ロシア：「攻撃」「ミサイル」2件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
