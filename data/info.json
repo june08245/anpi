@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:45+09:00",
+ "updated": "2026-11-23T09:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-23T08:50:00+09:00",
+   "place": "沖縄本島近海",
+   "mag": "3.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-23T07:49:00+09:00",
    "place": "天草灘",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-23T02:49:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.2",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -103,8 +103,8 @@
    "items": [
     {
      "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMkNZWXk3eWFlLTlJbGJsNzk5NTdTT0VXcjd3VXBqdFFJZHNhc0VTaFFLcnBRdkFCOEp2YjZxU3lYV2FtQWhlNVhHUzdyZ3RHR0JNamxOeVE1WEN1VzhseGRLbVhpbEpXdXVUbFJR?oc=5",
-     "source": "Excite エキサイト",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KanNNcVBYNW43MUlPZUw0clVrSmlhbWpzd1BmUnVDMzYxV0xBdkpYOWU4OU9OYXVYOWNPdFNfMUYzSUYtSDJrU1NGRmwzXzJzaE1PXzBRd04xa2p5b2Rr?oc=5",
+     "source": "千葉テレビ放送株式会社",
      "at": "2026-11-23T07:57+09:00"
     },
     {
@@ -186,6 +186,18 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "「北朝鮮外交官、トランプ大統領の親書を封筒ごと返した」…朝米首脳会談が実現しなかった経緯（1）",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkZXemJmMWhxbjRWM2tiUjRrT0lLME9rMGk4TjJqS09KTmFrUE9GVUVKd2Y5aHdSMzNfMHRyR0ZzdDFERU9XaXZyc2VnMlk4dUNmUEZrLW41bU5JQXB6NzVsMHA4Sm03WjcwZE5YZVRXNHctMWlvUllhbEs2MkFhR0NwZ0ltMlXSAYwBQVVfeXFMTVQ3YUxNTEIxYWVXVFo5b1VDZDBHOS0zT1ZCempPWk1PV3V1RWJCV1ZlTDZodl80aEppcVBZZk4zLVhYWUtGQVpwSFAwLU5mZHJ1SFVnS1I2TDZXbG1paXVKR1NfRmxTXzcwQ00xcDdjQWJ3Q0wzRDYwU1pqOG5Sa1JLT2RxMVRIbkt2NW0?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-23T08:51+09:00"
+    },
+    {
+     "title": "トランプ大統領、金正恩氏との会談に向け核廃棄要求を外した声明を検討",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqaWFyWFluMHN1ZkhlblpZdk5WZkJlMml6bVVCNENtbDRaaDBUZ2FQS0xfTG5QV0Uzd3FXbkMybXY5VFdhTlNGZ3g2dkV2cV9vOG9iME1HenBEa0NsVk5IbmRKc0VNdw?oc=5",
+     "source": "동아일보",
+     "at": "2026-11-23T08:34+09:00"
+    },
+    {
      "title": "北朝鮮、寧辺核施設を増築…遠心分離機を追加すればウラン35キロ増産（中央日報日本語版）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zeGZwcWlueGZPY25BSHpOQUtKbS0telRlRFo2QmtWTFMwa1JfbER5X2NxdURkNU44Y0VXajZlUlVhNnRVb3FyZzJjOENtSms3QmpHMTlMODBWVEJoejNjcHhlblJxQUxFS1lwX3Ewbjd5aXMyVXNrTE9iYm5LeXc?oc=5",
      "source": "Yahoo!ニュース",
@@ -208,18 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sbzd4N2Nsb2lLS0FuYzJSRl9UdUQyVDF5S3FsZDU5N2dvSFJ6UURtYzE5dE9EZ3dreld3dnl0b3dQdFBEM24xaXA0WEg0VW14S3hNVUZ1eVhnMTAtbXlTU1NILVJTTWlfUkt5c1VLR1BpazZSZm1vNUFjV2R2ZFE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-23T06:52+09:00"
-    },
-    {
-     "title": "「トランプ氏、金正恩氏との会談に向け核廃棄のない終戦宣言を検討」",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN2tTUi00ejJiV2dldk9PWUZ5TndSU3pLOFRQak5RTy1qLWdNNS0tRGlRWms2RUo1OUFRLVRyVzAwUWpMSUR6QmFOV0pOdDBKVTdaLWRibTk3M3h2UmRSYWwzdkpRTDhBLWZrMdIBbEFVX3lxTE5oN2tTUi00ejJiV2dldk9PWUZ5TndSU3pLOFRQak5RTy1qLWdNNS0tRGlRWms2RUo1OUFRLVRyVzAwUWpMSUR6QmFOV0pOdDBKVTdaLWRibTk3M3h2UmRSYWwzdkpRTDhBLWZrMQ?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-23T06:45+09:00"
-    },
-    {
-     "title": "北朝鮮望むスタバ、１．４キロ先に自走砲 韓国、隣り合う日常と緊張",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5cnpQSnViTk8xbTZjSVNXczZ3VDBwRm1KYjl5azE5dFEybXFfWXY5U0FscEIxSkRWQk1QTVpWVmdicDBZenFHeG1wbUVJU20ycGUyeEVjcmV4ejJf?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-23T05:00+09:00"
     }
    ]
   },
@@ -227,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシア艦船に攻撃＝リビア東部の基地停泊中",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qYW1hS2diTXYyMlVrMmJQTl8tVjJ4T19oTkt6cmFwVENUM0ZqVjBJTzM3aTJlVzcxYWVtQnlXQU1GYnlmai1kekxBajdSdzJBY0dLTlVRTXd6amx1UVpCMldXeHlFQdIBa0FVX3lxTE43YXZ2akhyWGNvQmxZT0JGVDlNN284azR2a3haUndsaG5zY1VSeXRfNlA0M0IxUDNueXBYQ1ZvUmpabVlVLW5FRDFqNzdHT3RBbXJMQWh4QzRQRllUWlpSdkVENUxEb05peU1Z?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-23T08:40+09:00"
+    },
     {
      "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kamsyLWxjS1VLUURmTGhFZG8zZG8zYUJ1Z292Q1pONHhsbXRBZGJqbVRZUDctajBNSE9LcS1Dd3NYcUlkTjlYdzR2aklrNkxwWnZ3ejBtUEFWODVmR0dfUFlvWVl2RlFUSzRTQW1xa1NCTVI0UVJaeDJhNFJqTGM?oc=5",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80aFBZc3hJQXBGNjJlQWxOV3hFMHFTMmNCYURTUVM0T21rUUxDSWFwRlpOZFpEUDRIYy03NXhGWjZ3cGpmcFJjanE0bjR5R1VJcnVFS1BBRkhPY1pEbXpJaGlDMm9Lc20ycjZPR0VlMWZCeEU?oc=5",
      "source": "Excite エキサイト",
      "at": "2026-11-23T06:54+09:00"
-    },
-    {
-     "title": "ロシア大統領「集団防衛」容認か",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWVVkMFFKcEJ2YnlnampMVnd5QWpMcURGTTlicE8wOEptV25GR04zMGNOc1U1NEtpWDRPZ05TNld2c0cxSllLYWhpQ05nUHhITlliZGl2OEhCWHRrV1pKOFp0eC1ZYU1RTkQ5YXRTR21pdw?oc=5",
-     "source": "デイリースポーツ",
-     "at": "2026-11-23T06:52+09:00"
     }
    ]
   },
@@ -350,6 +350,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "マツダ新型CX-5でディスプレイやコネクティッド関連の不具合が多数発生！修正プログラム後もトラブルが続き、オーナーから困惑の声",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwY3RqWEtBUVhSblRjcVNtTEtZdXp3YlpleTl6LTVuSndoejJ3Y1U5M0lyMUxxck9YaDkxTUVQRjJUTVlNcXhhZtIBUEFVX3lxTE1tZzRKNmRGSThfQk85bmlmT0VCYU5hUnJPcExWdFk2c25PclBvZWViRTJhQWxqWDQ0V2RhRWJIT0FTbHpZY1JGdFZwUEYwQzc3?oc=5",
+   "source": "Creative Trend",
+   "at": "2026-11-23T08:45+09:00"
+  },
+  {
    "title": "デルタ航空でシステム障害、全米の運航に遅れ",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2VweUZtRkE3MFNUYzlQY3Z1cTk5T3kyX1B6Q0RSWmNTQm02ZzFKVXBhZ1d4cUV5aFIwOFlyVXRQcXFhbjEyVFAwNzIxdk5IZlFuZ2FFUkFVNjA2dUlxZllzMVVpYTNVVnlMR0F6X2h1ZkdDZ3o5a0JSeHNsQTd0cUxRaWJ0Unox0gGcAUFVX3lxTE5rb0V2SXBkdURtQ0ItNXRlc3h0WVRWc3BCd2N6MHRUUDlGR28zX1I2emlTS1ptOWpxc0FQcGRrcm84RWR2MnZidWxCUTF4TlRxRXNxVmlEalZfZGdhSTRaSGxYRTdOOGdRUlg3ZmFSOWRDVVNpcWFiWFhldE9FdE0tNlRRYkhzZm1Mc1ljZ1BxYi1VUTVZc3BiSmtmbw?oc=5",
    "source": "Chosunbiz",
@@ -378,12 +384,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzFYem5xOWlYenQ4SDNVWlFpbGtIVVhOb2FMc0oxbFBXcFJKeGdjaEtZU2FvNk5lbkJmaE9iNVh5MmctaGh2OTMyTXBueXNvUlBkWnJVZmRiUWw0Z2hMelJKMWZ1SXBLTlVhbXg3TlIyZW9NN015dUJVbXFsaVIxNEdhQUpDOGo5?oc=5",
    "source": "北海道新聞デジタル",
    "at": "2026-11-22T18:18+09:00"
-  },
-  {
-   "title": "ドコモ高速通信でまた障害 復旧に８時間、先週に続き",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jY0lQY29kbGxmMDE5a2lBU0ZVaktYdWJnMGN6SlBybHhoaW9ja2J3dGU0MlVBLWRZUnlrR1MtUEZOa1kybm5EQTlqTVZreXNHTU9vYmM4bUJSdw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-22T13:55+09:00"
   },
   {
    "title": "WOW WORLDに不正アクセス、約4万9,000件が情報漏洩 Vポイントのメールアドレスも対象",
@@ -450,6 +450,27 @@
  ],
  "world": [
   {
+   "title": "「北朝鮮外交官、トランプ大統領の親書を封筒ごと返した」…朝米首脳会談が実現しなかった経緯（1）",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkZXemJmMWhxbjRWM2tiUjRrT0lLME9rMGk4TjJqS09KTmFrUE9GVUVKd2Y5aHdSMzNfMHRyR0ZzdDFERU9XaXZyc2VnMlk4dUNmUEZrLW41bU5JQXB6NzVsMHA4Sm03WjcwZE5YZVRXNHctMWlvUllhbEs2MkFhR0NwZ0ltMlXSAYwBQVVfeXFMTVQ3YUxNTEIxYWVXVFo5b1VDZDBHOS0zT1ZCempPWk1PV3V1RWJCV1ZlTDZodl80aEppcVBZZk4zLVhYWUtGQVpwSFAwLU5mZHJ1SFVnS1I2TDZXbG1paXVKR1NfRmxTXzcwQ00xcDdjQWJ3Q0wzRDYwU1pqOG5Sa1JLT2RxMVRIbkt2NW0?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-23T08:51+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシア艦船に攻撃＝リビア東部の基地停泊中",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qYW1hS2diTXYyMlVrMmJQTl8tVjJ4T19oTkt6cmFwVENUM0ZqVjBJTzM3aTJlVzcxYWVtQnlXQU1GYnlmai1kekxBajdSdzJBY0dLTlVRTXd6amx1UVpCMldXeHlFQdIBa0FVX3lxTE43YXZ2akhyWGNvQmxZT0JGVDlNN284azR2a3haUndsaG5zY1VSeXRfNlA0M0IxUDNueXBYQ1ZvUmpabVlVLW5FRDFqNzdHT3RBbXJMQWh4QzRQRllUWlpSdkVENUxEb05peU1Z?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-23T08:40+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "トランプ大統領、金正恩氏との会談に向け核廃棄要求を外した声明を検討",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqaWFyWFluMHN1ZkhlblpZdk5WZkJlMml6bVVCNENtbDRaaDBUZ2FQS0xfTG5QV0Uzd3FXbkMybXY5VFdhTlNGZ3g2dkV2cV9vOG9iME1HenBEa0NsVk5IbmRKc0VNdw?oc=5",
+   "source": "동아일보",
+   "at": "2026-11-23T08:34+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kamsyLWxjS1VLUURmTGhFZG8zZG8zYUJ1Z292Q1pONHhsbXRBZGJqbVRZUDctajBNSE9LcS1Dd3NYcUlkTjlYdzR2aklrNkxwWnZ3ejBtUEFWODVmR0dfUFlvWVl2RlFUSzRTQW1xa1NCTVI0UVJaeDJhNFJqTGM?oc=5",
    "source": "Yahoo!ニュース",
@@ -472,8 +493,8 @@
   },
   {
    "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMkNZWXk3eWFlLTlJbGJsNzk5NTdTT0VXcjd3VXBqdFFJZHNhc0VTaFFLcnBRdkFCOEp2YjZxU3lYV2FtQWhlNVhHUzdyZ3RHR0JNamxOeVE1WEN1VzhseGRLbVhpbEpXdXVUbFJR?oc=5",
-   "source": "Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KanNNcVBYNW43MUlPZUw0clVrSmlhbWpzd1BmUnVDMzYxV0xBdkpYOWU4OU9OYXVYOWNPdFNfMUYzSUYtSDJrU1NGRmwzXzJzaE1PXzBRd04xa2p5b2Rr?oc=5",
+   "source": "千葉テレビ放送株式会社",
    "at": "2026-11-23T07:57+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -520,32 +541,11 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ロシア大統領「集団防衛」容認か",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWVVkMFFKcEJ2YnlnampMVnd5QWpMcURGTTlicE8wOEptV25GR04zMGNOc1U1NEtpWDRPZ05TNld2c0cxSllLYWhpQ05nUHhITlliZGl2OEhCWHRrV1pKOFp0eC1ZYU1RTkQ5YXRTR21pdw?oc=5",
-   "source": "デイリースポーツ",
-   "at": "2026-11-23T06:52+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "「トランプ氏、金正恩氏との会談に向け核廃棄のない終戦宣言を検討」",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN2tTUi00ejJiV2dldk9PWUZ5TndSU3pLOFRQak5RTy1qLWdNNS0tRGlRWms2RUo1OUFRLVRyVzAwUWpMSUR6QmFOV0pOdDBKVTdaLWRibTk3M3h2UmRSYWwzdkpRTDhBLWZrMdIBbEFVX3lxTE5oN2tTUi00ejJiV2dldk9PWUZ5TndSU3pLOFRQak5RTy1qLWdNNS0tRGlRWms2RUo1OUFRLVRyVzAwUWpMSUR6QmFOV0pOdDBKVTdaLWRibTk3M3h2UmRSYWwzdkpRTDhBLWZrMQ?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-23T06:45+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "イラン、バーレーンの米軍基地へのミサイルおよびドローン攻撃を発表",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk9TQWtFNXRsNjgwUVZaS0pIVUIydU1nVUxHWjRkV1cyWUk4UVVLQ3hfS0pSWlR1azktSHJTWkJfU1hsRlFkamh2b0JlajRnMmJ0WGNiTTZ0SXRBa3JmMTdzUzk5N0FSUElFMk9sOWFKbURTVnJ1elR3OHNpWUgxNFJCM3NlUldPZlVUcEdOSl9fMHEyVENnM0xncF9zNlZrWncwUGpXd0dxRy1YbWZrdzBUWQ?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-23T05:02+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "北朝鮮望むスタバ、１．４キロ先に自走砲 韓国、隣り合う日常と緊張",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5cnpQSnViTk8xbTZjSVNXczZ3VDBwRm1KYjl5azE5dFEybXFfWXY5U0FscEIxSkRWQk1QTVpWVmdicDBZenFHeG1wbUVJU20ycGUyeEVjcmV4ejJf?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-23T05:00+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "バーレーン、ホルムズでタンカーが攻撃された中、イラン攻撃で負傷者2人",
@@ -607,21 +607,21 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」5件",
-    "ロシア：「攻撃」3件",
+    "ロシア：「攻撃」4件",
     "欧州・NATO：「攻撃」「ミサイル」2件"
    ],
    "items": [
     {
      "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMkNZWXk3eWFlLTlJbGJsNzk5NTdTT0VXcjd3VXBqdFFJZHNhc0VTaFFLcnBRdkFCOEp2YjZxU3lYV2FtQWhlNVhHUzdyZ3RHR0JNamxOeVE1WEN1VzhseGRLbVhpbEpXdXVUbFJR?oc=5",
-     "source": "Excite エキサイト",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KanNNcVBYNW43MUlPZUw0clVrSmlhbWpzd1BmUnVDMzYxV0xBdkpYOWU4OU9OYXVYOWNPdFNfMUYzSUYtSDJrU1NGRmwzXzJzaE1PXzBRd04xa2p5b2Rr?oc=5",
+     "source": "千葉テレビ放送株式会社",
      "at": "2026-11-23T07:57+09:00"
     },
     {
-     "title": "リビアに停泊していたロシア海軍の艦船、ドローン攻撃を受けて沈没",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EX19NbkpJNXh4RlJWQnMxRGNMS3RzYy1HM3VDUXdUbkJnTnJfSlhtMlY3dlhlNnZDSkgtaDhrTW9mcG5ISzZ4M1VnbTNNd0o0eW91UQ?oc=5",
-     "source": "Switch news",
-     "at": "2026-11-23T08:05+09:00"
+     "title": "ロシア艦船に攻撃＝リビア東部の基地停泊中",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qYW1hS2diTXYyMlVrMmJQTl8tVjJ4T19oTkt6cmFwVENUM0ZqVjBJTzM3aTJlVzcxYWVtQnlXQU1GYnlmai1kekxBajdSdzJBY0dLTlVRTXd6amx1UVpCMldXeHlFQdIBa0FVX3lxTE43YXZ2akhyWGNvQmxZT0JGVDlNN284azR2a3haUndsaG5zY1VSeXRfNlA0M0IxUDNueXBYQ1ZvUmpabVlVLW5FRDFqNzdHT3RBbXJMQWh4QzRQRllUWlpSdkVENUxEb05peU1Z?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-23T08:40+09:00"
     },
     {
      "title": "模索する欧州：露ハイブリッド攻撃への危機感高まる 強じん性の向上急ぐ欧州",
