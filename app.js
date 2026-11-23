@@ -23,6 +23,105 @@ const TRIP = {
   tempArea: "44132",     // 気温の地点（東京）
   prefInt: "13",         // 地震の震度の都道府県（東京都）
 };
+// 出張先から20km以内のイベント（2026年11月24日に調べたもの。出張が終わると一緒に消える）
+const TRIP_EVENTS = [
+ {
+  "name": "東京クリスマスアドベント",
+  "place": "上野恩賜公園（袴腰広場・不忍池）",
+  "until": "2026-12-25",
+  "hours": "袴腰広場 12:00〜23:00／不忍池 平日15:00〜22:00",
+  "km": 3,
+  "kind": "クリスマスマーケット"
+ },
+ {
+  "name": "絵本の中のクリスマスマーケット",
+  "place": "東京スカイツリータウン 4階スカイアリーナ",
+  "until": "2026-12-25",
+  "hours": "11:00〜22:00",
+  "km": 3,
+  "kind": "クリスマスマーケット"
+ },
+ {
+  "name": "GINZA クリスマスマーケット",
+  "place": "銀座三越 新館7階 催物会場",
+  "until": "2026-12-21",
+  "hours": "24日(火)は18:00まで",
+  "km": 3,
+  "kind": "クリスマスマーケット"
+ },
+ {
+  "name": "Marunouchi Street Park Winter",
+  "place": "丸の内仲通り",
+  "until": "2026-12-25",
+  "hours": "",
+  "km": 3,
+  "kind": "クリスマス・イルミネーション"
+ },
+ {
+  "name": "HIBIYA Magic Time Illumination",
+  "place": "東京ミッドタウン日比谷 周辺",
+  "until": "2027-02-28",
+  "hours": "16:00〜23:00",
+  "km": 4,
+  "kind": "イルミネーション"
+ },
+ {
+  "name": "東京クリスマスマーケット in 新豊洲",
+  "place": "江東区豊洲6-4",
+  "until": "2026-12-25",
+  "hours": "11:00〜21:30",
+  "km": 5,
+  "kind": "クリスマスマーケット"
+ },
+ {
+  "name": "TORANOMON HILLS CHRISTMAS",
+  "place": "虎ノ門ヒルズ",
+  "until": "2026-12-25",
+  "hours": "",
+  "km": 6,
+  "kind": "イルミネーション"
+ },
+ {
+  "name": "TOKYO TOWER Christmas Market",
+  "place": "東京タワー 正面玄関前広場",
+  "until": "2026-12-25",
+  "hours": "12:00〜22:00",
+  "km": 6,
+  "kind": "クリスマスマーケット"
+ },
+ {
+  "name": "麻布台ヒルズ クリスマスマーケット",
+  "place": "麻布台ヒルズ 中央広場",
+  "until": "2026-12-25",
+  "hours": "11:00〜21:00",
+  "km": 7,
+  "kind": "クリスマスマーケット"
+ },
+ {
+  "name": "六本木ヒルズ クリスマスマーケット",
+  "place": "六本木ヒルズ 大屋根プラザ",
+  "until": "2026-12-25",
+  "hours": "11:00〜21:00",
+  "km": 8,
+  "kind": "クリスマスマーケット"
+ },
+ {
+  "name": "けやき坂・66プラザ・毛利庭園イルミネーション",
+  "place": "六本木ヒルズ",
+  "until": "2026-12-25",
+  "hours": "けやき坂 17:00〜22:00",
+  "km": 8,
+  "kind": "イルミネーション"
+ },
+ {
+  "name": "東京メガイルミ",
+  "place": "大井競馬場（品川区）",
+  "until": "2027-01-10",
+  "hours": "",
+  "km": 11,
+  "kind": "イルミネーション"
+ }
+];
 const tripActive = () => TRIP.on && (!TRIP.until || Date.now() < new Date(TRIP.until).getTime());
 const tripOn = () => tripActive() && ls.get("tripHidden") !== true;
 const LABEL = { ok: "家で無事", hurt: "避難した", help: "ケガ・危ない" };
@@ -537,6 +636,17 @@ function renderTripInfo(info) {
   const tq = (info.quakes || []).filter(e => e.tokyoRank > 0).slice(0, 3);
   for (const e of tq) q.appendChild(infoRow(`${e.place}（東京 震度${e.tokyo}）`, `${fmtAt(e.at)}　M${e.mag || "-"}`));
   if (!tq.length) emptyRow(q, "最近、東京で揺れた地震はありません");
+  renderTripEvents();
+}
+function renderTripEvents() {
+  const box = $("#tripEvents"); if (!box) return; box.innerHTML = "";
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const list = TRIP_EVENTS.filter(e => new Date(e.until + "T23:59:59+09:00") >= today).sort((a, b) => a.km - b.km);
+  for (const e of list) {
+    const meta = [`約${e.km}km`, e.kind, `〜${+e.until.slice(5, 7)}/${+e.until.slice(8, 10)}`, e.hours].filter(Boolean).join("　");
+    box.appendChild(infoRow(`${e.name}（${e.place}）`, meta, "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(e.place)));
+  }
+  if (!list.length) emptyRow(box, "開催中のイベントはありません");
 }
 function renderHeadline(st) {
   const box = $("#headline"), list = $("#headlineList");
