@@ -60,6 +60,7 @@ NANKAI_FEEDS = ["https://news.google.com/rss/search?q=" + urllib.parse.quote("�
 
 # 出張先（東京・東日本橋）のニュース。出張が終わったら TRIP_ON を False にする
 TRIP_ON = True
+TRIP_UNTIL = datetime(2026, 11, 26, 0, 0, tzinfo=JST)  # 11月25日いっぱい
 TOKYO_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("東京 停電 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("中央区 避難指示 OR 断水 OR 火災 OR 爆発 when:1d") + "&hl=ja&gl=JP&ceid=JP:ja",
@@ -492,7 +493,7 @@ def collect_cyber():
 
 def collect_tokyo():
     """東京の中央区・日本橋だけを残す（新潟市中央区や大阪の日本橋などを除く）"""
-    if not TRIP_ON:
+    if not TRIP_ON or datetime.now(timezone.utc) >= TRIP_UNTIL:
         return []
     items = collect_news(TOKYO_FEEDS, TOKYO_KEYWORDS, 30, 48, TOKYO_PLACES)
     out = []

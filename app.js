@@ -15,6 +15,7 @@ const SHELTERS = {
 const TRIP = {
   on: true,
   label: "東京・東日本橋",
+  until: "2026-11-26T00:00:00+09:00", // 11月25日いっぱいで自動で消える
   office: "130000",      // 気象庁の府県予報区（東京都）
   city: "1310200",       // 警報の地域（東京都中央区）
   cityName: "中央区",
@@ -22,7 +23,8 @@ const TRIP = {
   tempArea: "44132",     // 気温の地点（東京）
   prefInt: "13",         // 地震の震度の都道府県（東京都）
 };
-const tripOn = () => TRIP.on && ls.get("tripHidden") !== true;
+const tripActive = () => TRIP.on && (!TRIP.until || Date.now() < new Date(TRIP.until).getTime());
+const tripOn = () => tripActive() && ls.get("tripHidden") !== true;
 const LABEL = { ok: "家で無事", hurt: "避難した", help: "ケガ・危ない" };
 const SIX_H = 6 * 3600e3;
 
@@ -944,7 +946,7 @@ async function connect() {
 
 function paintTripToggle() {
   const b = $("#tripToggle"); if (!b) return;
-  b.hidden = !TRIP.on;
+  b.hidden = !tripActive();
   b.textContent = tripOn() ? `出張先（${TRIP.label}）を隠す` : `出張先（${TRIP.label}）を表示する`;
 }
 $("#tripToggle").onclick = () => {
