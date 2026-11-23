@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:15+09:00",
+ "updated": "2026-11-23T14:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-21T04:17:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-23T14:14:00+09:00",
+   "place": "長野県中部",
+   "mag": "3.9",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-23T13:02:00+09:00",
    "place": "天草灘",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-23T03:19:00+09:00",
-   "place": "岐阜県飛騨地方",
-   "mag": "3.0",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -133,9 +133,9 @@
     },
     {
      "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9admRlVVFiTnNfQTBDZGJqM2RNLU5DdzJ1WFQ5QWVFUDBDbkJNNnJManBHc1kyVUtoYjM3SUhxRDdjNDc3Z0ZzMXEwT05CdVdvUGhHckhiRXhabVhYTWlTdGo1RmY5UWZDTjRkVHpGbw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00MlpFQ3FIZ0xxUHBYSExUa01CcUM1LXllVUVJbXpjSXlJcUxuenVmWWhrWUZSWjh5UV9GWXNLYTFpNU5hSGRkQ0JYeXduOF8tdVBrd2FQYnZPRjJI?oc=5",
      "source": "山陽新聞",
-     "at": "2026-11-23T07:07+09:00"
+     "at": "2026-11-23T07:09+09:00"
     }
    ]
   },
@@ -143,6 +143,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "習主席・台湾代表との会談が実現しなかった高市首相...日本メディア「自ら孤立」と苦言（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bk5ZUThST3E4U3g0bm5aaDRFQXRjemRLc2tmN0F5R1ZuR2ZGNHVMaGx5cG9STXprbG1Ta1hxTjk1Nzcza0FHUDRLek0wZw?oc=5",
+     "source": "グノシー",
+     "at": "2026-11-23T13:27+09:00"
+    },
     {
      "title": "中国軍水陸両用戦車沈没動画がXで話題、2002年テスト映像",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRlcxdzFPMm1vQ2E1cE8yRUc1S3ZVcDUxeUlLVHFZRzZPV3QzajIxaWhHTkNGaDJMRE5iaERDSmcyZDA0YWdWQ3A2SGswa1pHeVpGLVdlQQ?oc=5",
@@ -157,9 +163,9 @@
     },
     {
      "title": "中国共産党 海軍の拡張を牽制　日本　原潜導入の検討明記へ調整　年末改定の安保3文書で",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aTkFxSG1fZXc2MG9GbkJHLTF4aVh5UklsVVEyN0xyb25fUEJlNUZKa2F3SXJjMVJGcS01cTg4R2RUVm9LTmJaRGdKNUJ5RlpTVUhzeWd2T3fSAV5BVV95cUxNQXdQYWpqSktJWDFWWEhnbFNJYkRwNktITGFHZnpPVlhTT0w0ZjVfWldnRHU1MWpFSzE4RXktbXNDV21Qd2Z6Q2dEZjk0VC1JR21UdXF6MTc3NlVDTjJB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Bd1BhampKS0lYMVZYSGdsU0liRHA2S0hMYUdmek9WWFNPTDRmNV9aV2dEdTUxakVLMThFeS1tc0NXbVB3ZnpDZ0RmOTRULUlHbVR1cXoxNzc2VUNOMkHSAV5BVV95cUxNQXdQYWpqSktJWDFWWEhnbFNJYkRwNktITGFHZnpPVlhTT0w0ZjVfWldnRHU1MWpFSzE4RXktbXNDV21Qd2Z6Q2dEZjk0VC1JR21UdXF6MTc3NlVDTjJB?oc=5",
      "source": "大紀元 エポックタイムズ",
-     "at": "2026-11-22T15:43+09:00"
+     "at": "2026-11-22T15:51+09:00"
     },
     {
      "title": "【寄稿】中国軍の台湾周辺「統合戦備警戒パトロール」はどう変わったか 午前に集中、7～8 日周期で見える新たな傾向",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdmZIMWRhendlOUJoWVdVN1diN3J1WXpjOVROR3gxSGlRV1p6V21OMms3dWxITXBuNEFSMXZTSWJXQTJCV1NEdDZCUlJYdHNtX3daMEtKbE1VVEZqRlA3WmtSTWd0eEpRQjZ3TVVmRHhpTFVMLVpQdlBkS3VaTlE?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-22T04:05+09:00"
-    },
-    {
-     "title": "中国・深圳APECを振り返る　米中露首脳会議後に日米首脳が電話会談した、その重要性",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42ajRHVnlWRi1YZmZQaTl6eTBRMzZmOFAyZW9IS2RJWHNuQzFkNVlFTnZDcWFTZGVTZXFkc3hXVzAxT0xiTmVKY3FpMDAzTFRJbEpNUHA1eVRmVDNuaF9kc19fZ3RoNGNiY1Q2Z2R4bG40d9IBd0FVX3lxTE9GV2xwYzkzNC1FWndSVVlqRWY2Z1NNR21rbHNEakFKNXluZTd0a01WUjlJbHhhSkFCWkN5NkdzXzJGOVU4QWNFZGd5ckV2Q25JTU9vUDJubzdfdkFBVkJpME1WcGxKWkdQdEV0dkJnOXpUMHBwNVpB?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-21T17:57+09:00"
     }
    ]
   },
@@ -204,8 +204,8 @@
      "at": "2026-11-23T10:15+09:00"
     },
     {
-     "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0lWbFFRN0FnclZxaGU1LXdhUU5HQ2QyR0h1M0JXYlBQaE1sWHJkUmtUaG01ZktlMmViVmRHTWlvWU1MR2RaejJOR1l1SG1uT0IzTzF1VHE2RG1Cc0djOG9ud2o5Zm03LWdDeWZvajJTTkRpV0hJRkRxSjkyOFVtZHRxVkwzd3phR2Zpb3pQRjRoMUpDbGFTQTUtY2lPOFV5ZTFnRGt0VTdqNWlTQnc?oc=5",
+     "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zaHdPZklSb0RNYTZtNzBLSGtaOXdlczhYNzQ3NzZNekJzNUVFbVh0eHhlTDlHQXZ3UDE5Smo1VGNibUthTzlPODVHZ1FIUDdNSkptNE9hakhUZ0tJNnhn?oc=5",
      "source": "JBpress",
      "at": "2026-11-23T10:00+09:00"
     },
@@ -234,6 +234,12 @@
      "at": "2026-11-23T14:07+09:00"
     },
     {
+     "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-23T13:57+09:00"
+    },
+    {
      "title": "リビアでロシア軍艦爆発 ウクライナのドローン命中か | スマートニュース",
      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOREZmX21wN1l5S2RDQnZuZndBeGw2WGVsTjRMdUZIWUp5cFZYaHpPR0o2cmwzVlEtTk5TSF9UdG11cHphOTBTLUpvMFBKQWdIdDVsSS1YRVFkYVlBbEUwYW5CaUJsSnhiZy0zXzNOTjZITmhwM1VoMGJVQWZoQVc4M2s0QXdDNldGVWNndHZ3UC1qbDZQUy1EV1dCSTBxRTJaVG1ZeHB0aVVrQUJOTXo4WUt2QmhXTUVpbVZVcTZCSDBQb2JleFlydFkzZUFxbzJQb0tFaGp0R0hicXJ2VkRIOVZZYzA4TnJWTVJJcnh1aWU0MXpUa3hrMmVjb296cmx1clVROG5FOU9xSWJDd0RVajFHWGZCNVk5SVhYai1xRHA2dzZ1YlZ0SG90N2htZTRTUG0taEk3NUFNaDhNbnEyVk5oQUJIQnFOUk5OSkQ0MnNXUTBBMzdqdEVJbnJpWmEzX1REVW55NWxtT2pNR251Q1FxQ3pSeVJiZ2V4dEo0X1Zsbk80bnV5VFBBRWtVWVN2eTVibHROYw?oc=5",
      "source": "SmartNews",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CeUdCQ2h6UTBjT0R2N0dzTDJSeGhxVXZ6SEtNZlA3c1hudUdGTUticnNheUJMdnRVUUJsbWxJZmRURDhOcy1MM0ZySzZVbGtWN1p1SGRGcktBdWd6b2E1a9IBZkFVX3lxTE9SOHJNblljZWxqVHctdjk3YjFCVmVmaTNFVFM4VVU1ZFVuTFFray1WUjdMbVNENDk0Ty10TThVWFVMOGtCS1M1eUVZSlFtaWNWVHVabmJOUm9CS0VDeXBJUEdhNk51Zw?oc=5",
      "source": "BBC",
      "at": "2026-11-23T12:34+09:00"
-    },
-    {
-     "title": "リビアで停泊中のロシア船が爆発 ウクライナ軍「水上ドローン」攻撃か",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9seEpjd2NpYjBvM19XX0lNV1AyY2JQNjl2ekNYc09jR2JhRVNfbllPY01jdXFRcU9mNG8wV21NSzc3RGc4M01RWkFoWQ?oc=5",
-     "source": "TVer",
-     "at": "2026-11-23T12:19+09:00"
     }
    ]
   },
@@ -269,6 +269,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "ポーランド落下の3物体は露巡航ミサイル「Kh101」 NATOで東欧防衛強化要求へ",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoZkh3OG5ZakZJWVZfd2xGLUlSRy11Y3BMSEw1cXRiZE5vYVRmSkpnMHR4UHNUZElrQnZ3SjVmZE5YRzVvdElud2FHaU84OGEtLWsyd050ODJPN2VTTEJxTGw5N2RLZEFUWnBVWXZIOEotUG1jQXc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-23T11:45+09:00"
+    },
     {
      "title": "ポーランド落下の3飛翔体、ロシア製巡航ミサイルと断定 NATO協議へ",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESnJyU0x1RzVTSjhlWkxpOXJHLVlCU3ZPcjdqcmdHMkx3RGlLc19QMUxCTU5OQzdEUDR0aUV6bzVpdnc3M09SSW9PaW9ieERKMUHSAVRBVV95cUxOcVVKVUp6OEZab2JhNmh3QWJ6cUxvYzlMQlllUGoxbGpLNjQ1TUc4dTFKMWlNQ2xabG9neDFfbGlXMWk1Njd6TmE4VDl2eEhLeUxzdkQ?oc=5",
@@ -298,12 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RYmVkUnlGaW5nRm56TnhsVTJ0d1dNdV90YUpqbXNOWkpGdmEwbWtQZEc2VERveEFmTWJXN29OYVhtMmxkOHBlMFpvakJIR1YxQkt5UV83Sk9wc2lkMU54c3ZuUVFDSWUy?oc=5",
      "source": "毎日新聞",
      "at": "2026-11-22T21:10+09:00"
-    },
-    {
-     "title": "フランスは、国家テロ対策検察官オリヴィエ・クリステンによると、テロの脅威により引き続き「高い緊張状態」にある。",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWJjRDlPN29kSHAtQ3c5aGdyTU5FdVNYUXhhcDQ5ekdXdXVQTUxQNjhaOUV6aUlEX1JsUFhTTFRqYWVjajhaZHpzT1VpeW1IaWhwS1pMNm9RMFBYNXBaSzZiWG9TZmhwX2ZwR3k3YVpCS2tmc1ZoVDc0bmdSNWQ3VlRBejE1ZEJDUFg2ZVN6MUxtMWg5RGxHLU5QMVZabEIxQW5UdXVqMzlfMmdx?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-22T20:45+09:00"
     }
    ]
   }
@@ -350,6 +350,12 @@
  "japan": [],
  "cyber": [
   {
+   "title": "クラウドサービスで大規模なシステム障害で、どのような影響が最も気になりますか？（みんなの意見）のコメント一覧",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hajAyRVBnY2cwNXZJSjQ4Q2VuWjc1d2xKbFo0alI0U0VCbnVaRDhmRkpRQlBGaGsyUmZuRm5tSC11V0xZWm9MYlRWeTF5UWpwMHhqeU5tS0w?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-23T13:07+09:00"
+  },
+  {
    "title": "相次ぐ米国のシステム障害で広がる不安　ラジオや非常食買い求め殺到",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQcTZKdThrNVR1d2xQaGlmNjI1T0cwXzBJNGdQel8yUWUxNnVTRFFKVHVQMnE0aTE5V1h2SVd5cEhHaDlZdzBqeXBfWGM1bEhob2lvVEJOWmE0TWlEb2ZzZzNoWmFsZmxMT0hHZnlqeFFWNEpId0Zz0gF8QVVfeXFMTTNfOERTVkFoS1llSjVTMWV3QUxuQUNMRTNJcWVxbktpWmFhZFpJMTVCWWN1SWRwbnI1MkhlSHluRW9NcWRNRmZvTkVKanpoemN3aWM5NENGb1R5cHZJTXJzRFhURXVtdmREalJ3R25Wa0dWUTNoNGQ1cGZVNQ?oc=5",
    "source": "Infoseek",
@@ -386,6 +392,12 @@
    "at": "2026-11-23T08:45+09:00"
   },
   {
+   "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWE9TSkhaS2o4NDF5Y3RmY184V0syR3o5U000TU5iY2Q2WUtKX3pmRktTZi14blE4ZzVQeVRTWjJZUzVRWUtvS1dYWXZPYTkyb3I5Nld1LTBiVDMzbzBpSG5oaHJDbG5PZTlBYU4zY1hxdw?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-23T07:25+09:00"
+  },
+  {
    "title": "デルタ航空でシステム障害、全米の運航に遅れ",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2VweUZtRkE3MFNUYzlQY3Z1cTk5T3kyX1B6Q0RSWmNTQm02ZzFKVXBhZ1d4cUV5aFIwOFlyVXRQcXFhbjEyVFAwNzIxdk5IZlFuZ2FFUkFVNjA2dUlxZllzMVVpYTNVVnlMR0F6X2h1ZkdDZ3o5a0JSeHNsQTd0cUxRaWJ0Unox0gGcAUFVX3lxTE5rb0V2SXBkdURtQ0ItNXRlc3h0WVRWc3BCd2N6MHRUUDlGR28zX1I2emlTS1ptOWpxc0FQcGRrcm84RWR2MnZidWxCUTF4TlRxRXNxVmlEalZfZGdhSTRaSGxYRTdOOGdRUlg3ZmFSOWRDVVNpcWFiWFhldE9FdE0tNlRRYkhzZm1Mc1ljZ1BxYi1VUTVZc3BiSmtmbw?oc=5",
    "source": "Chosunbiz",
@@ -410,34 +422,22 @@
    "at": "2026-11-23T00:49+09:00"
   },
   {
+   "title": "個人資産は7億8000万円！ 古川サイバー大臣の資産運用方法とは？ 「妻の保有分はさらにすごい」（写真1）",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdVA4bGg0UDNObWdmT21DMENZWHllcGQxbTZJUG5LQy1LbkU3aDlYSWFXUlp2YTVROFc4UnpxczZuSWtQdDh6MGZ0X1hSNVJKRkwwU19fM1h0cnVuMVpJNkpoSVlxQlU5ZkE?oc=5",
+   "source": "デイリー新潮",
+   "at": "2026-11-23T11:54+09:00"
+  },
+  {
    "title": "マクドナルド公式アプリに不正アクセス、位置情報と購入履歴が対象 氏名は含まれず",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11RVdJV1NxcGQ0MmZ0ZGNpQXZ6QzFKSV96dEZ0TWpDUlZyQUo0aUZMLURlNmdSSU96LUxYekRWQUJ0TllILWdJYXVaYXdPZnZwRUYw?oc=5",
    "source": "ビジネス+IT",
    "at": "2026-11-23T11:50+09:00"
   },
   {
-   "title": "日本 マクドナルド、公式アプリのデータベースに不正アクセスによるサイバー攻撃|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGpjN3EyNTZ4dTBIcTNJTjFKdGRHTHhxVG9hOVhrMjJ6V0ZvQ0VCN29GRjRxeG41aVluUTJsOVA1X1dCMVRuLXpXcmY5WWhVU0dWZVpWQkNFeDlWQURNU0lWY1N6QlVSakNPaEFMVzlQTG1GRVA1TnFLdTlBNUIwYjlBTGpBMDN6eGVQZTdRTFZTakVmRVNBODFZUzB0ODFyNjR6MkdXUzhoYjZXN3ZIdFVGcXdBUQ?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-23T11:00+09:00"
-  },
-  {
-   "title": "Samsung Securities、VOC受付に不正アクセス 顧客8241人の個人情報漏えい",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGRvNTdtcHh2T0M3cmEyVTNuRVNET20tc0VORG9IdHdYUl9tRk5KeDViY293QkpWb0R1VGZUcGVtazdiejgwMHZ4T2R0UEN0RUNfaHFKX3JGYVhnMDlzSy1oaUlmOFFVU2Y4a0NDNEptWHptdkdNVi1ha3RycktIU1NZZXhyZUJDTWo2NnZkTnhwd01ncWdkVHJTVllCM3A0aEF6U1FfRkZfSDY5?oc=5",
-   "source": "디지털투데이",
-   "at": "2026-11-23T10:58+09:00"
-  },
-  {
-   "title": "マンダム、3万6000人の顧客情報漏洩の恐れ 委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZW5wQlJNQmdmd3djRjJKRmEydjZiUVQweGI5b0NhS0RuM2RlclRENEprVkhUdmFMT21ybVJsQmxtbTJTTm5GeWF4VE5tOUpKSVl3NGhVS1ZyZVp0c0dLRUhaSE5WVHVmRHdqWA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-23T10:56+09:00"
-  },
-  {
-   "title": "米港湾・海運狙うサイバー攻撃急増　貿易網の脆弱性露呈",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTzRVQWtUSkp3TUFtck1uN2d5QmlyX3lwNWp0R0JKU2dsa3E3Q1NMXzAxazB6Q3Q4d3RjWDlmRVVxOF9KMFBtbEItdURlbE1kRWNwZmd1em95MmtCM3hJTXZZYkRuVU9tZUxGWDFlOENibnM4eTFKWUlJNTRwS1JtXzVrZk96R2lR0gGcAUFVX3lxTE45dnV2SjhfNHh3Um5sRXpoc3ZieE5LS3FoNkVxNjFCb2NER0w5cjg1S0M0NTcxT1B5Y2NNMzczTjl2a2tiVDQ3Z3BMeGwxZnhybS1SczNqU0l0M1hpNVVEZmNwM1Z6Ynk5aXFScTgyMDFKaUN6bW1QRThrMFU0S3RTaDgtYzEtNU1kc1cyTjVOaW4yckw5NVFzN0dPZA?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-23T10:50+09:00"
+   "title": "相次ぐサイバー攻撃に対策を！ 被害を最小限に抑えるポイントを実機操作で解説",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rZDdxSEJDT21NSWJDUUZDbnl3ajdtcXB2SExjTWhqUnQzaHJqQkFuQVZfbndnQ2czX2dBUm9VU2huUVYxR0dFLXhlbjZpSWdPUnZhdk9B?oc=5",
+   "source": "千葉日報オンライン",
+   "at": "2026-11-23T11:14+09:00"
   }
  ],
  "tokyo": [
@@ -464,11 +464,25 @@
    "topic": "ロシア"
   },
   {
+   "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-23T13:57+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "イラン再攻撃の可能性警告＝来年以降、交渉決裂なら―米大統領",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBOS0xZHJJQVgzd2lWNmRlWklTUjBOWEF0SVg4ZzA2MzNFSGRtZHNVY2VJQ0EtQU15QXF6RlVOR0JQci0tZXpmYW0ySnBPVnQ5Mm1oSm93UGxjMHFQNlJIQl9sa3dYcl9CWkdDdUJsdVFkanRKQ0JQRNIBfkFVX3lxTFA4T2dzV3NMOHpmWlcxZGtVeGNlWE8yM2IxVGZ6V1lyelhwV2FWc2hlWWxseFZaTC1iUXlQR1NKT3RrLUh2NGcyUXA1d0poRHFuaEczNnpHQTJORG9QYmRLR2g4ZXNCR3ZkelRud0VSNkFVNnJxblFWanJNZXd0Zw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-23T13:54+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "習主席・台湾代表との会談が実現しなかった高市首相...日本メディア「自ら孤立」と苦言（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bk5ZUThST3E4U3g0bm5aaDRFQXRjemRLc2tmN0F5R1ZuR2ZGNHVMaGx5cG9STXprbG1Ta1hxTjk1Nzcza0FHUDRLek0wZw?oc=5",
+   "source": "グノシー",
+   "at": "2026-11-23T13:27+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "リビアでロシア軍艦爆発 ウクライナのドローン命中か | スマートニュース",
@@ -506,11 +520,11 @@
    "topic": "ロシア"
   },
   {
-   "title": "リビアで停泊中のロシア船が爆発 ウクライナ軍「水上ドローン」攻撃か",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9seEpjd2NpYjBvM19XX0lNV1AyY2JQNjl2ekNYc09jR2JhRVNfbllPY01jdXFRcU9mNG8wV21NSzc3RGc4M01RWkFoWQ?oc=5",
-   "source": "TVer",
-   "at": "2026-11-23T12:19+09:00",
-   "topic": "ロシア"
+   "title": "ポーランド落下の3物体は露巡航ミサイル「Kh101」 NATOで東欧防衛強化要求へ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoZkh3OG5ZakZJWVZfd2xGLUlSRy11Y3BMSEw1cXRiZE5vYVRmSkpnMHR4UHNUZElrQnZ3SjVmZE5YRzVvdElud2FHaU84OGEtLWsyd050ODJPN2VTTEJxTGw5N2RLZEFUWnBVWXZIOEotUG1jQXc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-23T11:45+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "ポーランド落下の3飛翔体、ロシア製巡航ミサイルと断定 NATO協議へ",
@@ -541,8 +555,8 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0lWbFFRN0FnclZxaGU1LXdhUU5HQ2QyR0h1M0JXYlBQaE1sWHJkUmtUaG01ZktlMmViVmRHTWlvWU1MR2RaejJOR1l1SG1uT0IzTzF1VHE2RG1Cc0djOG9ud2o5Zm03LWdDeWZvajJTTkRpV0hJRkRxSjkyOFVtZHRxVkwzd3phR2Zpb3pQRjRoMUpDbGFTQTUtY2lPOFV5ZTFnRGt0VTdqNWlTQnc?oc=5",
+   "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zaHdPZklSb0RNYTZtNzBLSGtaOXdlczhYNzQ3NzZNekJzNUVFbVh0eHhlTDlHQXZ3UDE5Smo1VGNibUthTzlPODVHZ1FIUDdNSkptNE9hakhUZ0tJNnhn?oc=5",
    "source": "JBpress",
    "at": "2026-11-23T10:00+09:00",
    "topic": "北朝鮮"
@@ -581,20 +595,6 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-23T08:47+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9admRlVVFiTnNfQTBDZGJqM2RNLU5DdzJ1WFQ5QWVFUDBDbkJNNnJManBHc1kyVUtoYjM3SUhxRDdjNDc3Z0ZzMXEwT05CdVdvUGhHckhiRXhabVhYTWlTdGo1RmY5UWZDTjRkVHpGbw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-23T07:07+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "NATOは月曜日、ロシアによるポーランドの空域侵犯について協議する",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmptbWdrMzJlQldqcTIwSWFaRGJKTDVoRWd4QnpJVTZTaHpINUV3OTNxTTU0dmJ2bjhIcnZ1OER4NmFHaGNEWWlmdWFBU3hVbjhwakc2QTlhNWdkTnU5WUxsWVhOanRHeVd5QjNxOFhHNWZzSVB1OWZwa1hHaXJPcVdTemQ5SjlkVXdQZXpnWDNyVjA3TXV4OVpWSHlqaDQ0TFFKdnRLbFpVYktESXhEZ2Etcw?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-23T02:17+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -615,8 +615,8 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」6件",
     "北朝鮮：「攻撃」「ミサイル」2件",
-    "ロシア：「攻撃」「ミサイル」5件",
-    "欧州・NATO：「攻撃」「ミサイル」3件"
+    "ロシア：「攻撃」「ミサイル」4件",
+    "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
     {
