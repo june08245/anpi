@@ -1,18 +1,30 @@
 {
- "updated": "2026-11-23T20:45+09:00",
+ "updated": "2026-11-23T21:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
    {
-    "code": "21",
-    "name": "乾燥注意報",
+    "code": "14",
+    "name": "雷注意報",
+    "level": 2,
+    "status": "発表"
+   },
+   {
+    "code": "15",
+    "name": "強風注意報",
+    "level": 2,
+    "status": "発表"
+   },
+   {
+    "code": "16",
+    "name": "波浪注意報",
     "level": 2,
     "status": "発表"
    }
   ],
-  "headline": "大阪府では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-  "reported": "2026-11-21T04:17:00+09:00"
+  "headline": "大阪府では、強風に注意してください。",
+  "reported": "2026-11-23T20:56:00+09:00"
  },
  "quakes": [
   {
@@ -246,12 +258,6 @@
      "at": "2026-11-23T19:59+09:00"
     },
     {
-     "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-23T19:58+09:00"
-    },
-    {
      "title": "ウクライナ大統領、リビアでロシア軍艦撃沈と発表 水上ドローン使用",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0ltRDR3MnFiSGNaMFA5X25TM1NJM2VXc1FNX2E5a0E2SVRJelFSTW5zbGFaaHVNYjZrZFVqSnoyM1NiTno2ejVwSkFZeFJqb1A5azJPdEdCLVBPVmw3cjRobWdjeWJNVkVyeXAtN2xWME9nN1dqcWhRMDhRbExvSzJjWlpIZw?oc=5",
      "source": "Reuters",
@@ -262,6 +268,12 @@
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDBQOUc1WVNmclhkd25GUmFHTjdvTWtBQ2lLaFZpNHBBTW04QlJQOGExV21ZR0luYlprT1gzZVBOVEJDU0xteWJ4OU1GbC1fa2lPTy1yY1R3LTk3QzEtU0NNWEdCa2xaREZWU0I5c1hqeGxXSnNNS3pVNm9SVzRZWk1wNDZBbHc0WHpTaU1XeHI4clc0M0szMS1WSVVGb2ViSS1FWUpIN1VvTTRMMURUM1JmUFU?oc=5",
      "source": "ABEMA",
      "at": "2026-11-23T19:31+09:00"
+    },
+    {
+     "title": "欧州に軸足移すウクライナ 米との関係が不穏に 対ロシア継戦を支えるドローン進化｜Quebee キュエビー",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FY215YUJNQ0hDU3Ewd3NsQnhmZnRER2pESzU2ZHhlRFkxYmg5eDhwcHc4dW5xY2M0cHp1cWRKSjU0X0tVeXFJdl9DVHRseGE1TXNuNzVmcGE?oc=5",
+     "source": "QAB 琉球朝日放送",
+     "at": "2026-11-23T19:18+09:00"
     }
    ]
   },
@@ -270,40 +282,40 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "ポーランドに落下した3つの飛行物体“ロシア製の巡航ミサイル”と確認 検察発表 NATO本部で緊急会合開き対応協議へ",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10YzVONUZKSlM1ZnhFSXJGbUg4b0RlcFgtclp0cHBEQUlTTTBsX0cyRlpmVTNILWtJXzdrajNvN1NTWGJ6VXNSa2djb2dTZ21HSExkX1ZiQ2FYVXNoay10c2NBU3pNbWcwbV9OV0J30gFzQVVfeXFMTm9qc3loU05vLVhPd1ExSHNfY3FXUmNjNHNuN2tQRXVpQVJXUU9jN2RKdDBZbDdPc1Vnb1V1ZGFZSU96NnowamdjMGlyVzZwNm9kaWdTSVI3S3F0VGJnN1pSc29QVGxKUGFyYXBnWGN0N1J1WQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-23T20:34+09:00"
-    },
-    {
-     "title": "ロシアのミサイル3発が同国の領空を侵犯したことを受け、ポーランドがNATOに支援を要請",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcS1pc0w3eFY3Q3VJeTk0YmdOVGxwRmh3MWJnX2hsdUJvOFEtcWhmTEpqb2F2ZGotWUd4OG40aFBPcHgxZWdQb1RNSEVFRzdBcGJTTTgtajl0UG1xc3B3Y3Y0bW9uWmdJbllTNUpYdE9JYmNCdVBCRWZmbmJhY2Jkc0s4dGJzLVB5N0diMkt5Zms1SlY0SU90ZjAtczEyQmg5Y2I2Skp6MVNhX2pqOWUtYWxIRERsSmNmbzd5OA?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-23T18:49+09:00"
-    },
-    {
-     "title": "ポーランド落下の3飛翔体、ロシア製巡航ミサイルと断定 NATO協議へ",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESnJyU0x1RzVTSjhlWkxpOXJHLVlCU3ZPcjdqcmdHMkx3RGlLc19QMUxCTU5OQzdEUDR0aUV6bzVpdnc3M09SSW9PaW9ieERKMUHSAVRBVV95cUxOcVVKVUp6OEZab2JhNmh3QWJ6cUxvYzlMQlllUGoxbGpLNjQ1TUc4dTFKMWlNQ2xabG9neDFfbGlXMWk1Njd6TmE4VDl2eEhLeUxzdkQ?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-23T11:30+09:00"
-    },
-    {
-     "title": "ロシア巡航ミサイル3発、ポーランド領空侵犯　NATO協議へ",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnJ4YkZPNzE1aURIYkZ5X0tSN2Qwam55d3pGM004NjdHTjBpdWpHa0l6azBwcGNENFU0VDNRWXBUdHJvZ1k4dDNwbFh0dE5KVVp1bHpmbnZ3ZEd4UXp6RFdZZ3o1LVlWU3AzUkR6VUpFSHlTcXpyWGw3cTZfVDFOSzBQN2VKRE540gGcAUFVX3lxTFBQQmpGdEZycUROR1ZESW54RmpMaW1COHZjcldudUwwM2hSZlAwcDBUU1d1S2hYeHMzNXJlSC1Jbk9aU1NHbkkwZnBKX0Z3dVo4ZmtXRm54Q3ItcGY5elNEN2c5a3pzdTdxM0ZfTHRhY3BpUFJrVnMtbURJMU9MWjd5dmcwSGpWQndFVjZtTkxvU3dDcS1MMkdXeHBqWQ?oc=5",
-     "source": "Chosunbiz",
-     "at": "2026-11-23T11:11+09:00"
-    },
-    {
-     "title": "NATOは月曜日、ロシアによるポーランドの空域侵犯について協議する",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmptbWdrMzJlQldqcTIwSWFaRGJKTDVoRWd4QnpJVTZTaHpINUV3OTNxTTU0dmJ2bjhIcnZ1OER4NmFHaGNEWWlmdWFBU3hVbjhwakc2QTlhNWdkTnU5WUxsWVhOanRHeVd5QjNxOFhHNWZzSVB1OWZwa1hHaXJPcVdTemQ5SjlkVXdQZXpnWDNyVjA3TXV4OVpWSHlqaDQ0TFFKdnRLbFpVYktESXhEZ2Etcw?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-23T02:17+09:00"
-    },
-    {
      "title": "ヨーロッパはロシアと「平和でも戦争でもない中間にある」 - 元フィンランド国防軍司令官が語る",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHpPYk91SUttbzhWTHc3bTQtSGVXQ0x4aVV3Y09LUDBXdWJoSngyMGthQjc1RDlzb2xaRGNPcmZlTHJVZ3FBVTVDd0lkRm5HOWh1enM0bHpnS0NXbkZkZWpvVVZLa21wdGZ3UlJoSFZDUzdzY3AxMnNxeTZDeTl5cXhKTE12enBIN1pmWXhyVUR6bDBUVDNUSFRWMA?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-23T01:28+09:00"
+    },
+    {
+     "title": "模索する欧州：露ハイブリッド攻撃への危機感高まる 強じん性の向上急ぐ欧州",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RYmVkUnlGaW5nRm56TnhsVTJ0d1dNdV90YUpqbXNOWkpGdmEwbWtQZEc2VERveEFmTWJXN29OYVhtMmxkOHBlMFpvakJIR1YxQkt5UV83Sk9wc2lkMU54c3ZuUVFDSWUy?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-22T21:10+09:00"
+    },
+    {
+     "title": "フランスは、国家テロ対策検察官オリヴィエ・クリステンによると、テロの脅威により引き続き「高い緊張状態」にある。",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWJjRDlPN29kSHAtQ3c5aGdyTU5FdVNYUXhhcDQ5ekdXdXVQTUxQNjhaOUV6aUlEX1JsUFhTTFRqYWVjajhaZHpzT1VpeW1IaWhwS1pMNm9RMFBYNXBaSzZiWG9TZmhwX2ZwR3k3YVpCS2tmc1ZoVDc0bmdSNWQ3VlRBejE1ZEJDUFg2ZVN6MUxtMWg5RGxHLU5QMVZabEIxQW5UdXVqMzlfMmdx?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-22T20:45+09:00"
+    },
+    {
+     "title": "マーク・ルッテ、複数の飛翔物体がポーランドの領空に侵入したことを受け、NATOによるポーランド防衛を約束",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEhPclZqR0cxNm5wRjZ1cVh1ZkRVdEQwdzY4MW9iNkhYOTZRNmtmbFVyb0ZzMG1FcDQ3T2htVHJmYUFZV1AwWmpDZ1dCRi1za1FCOTVLT3JDRVdGYkZpV3l1SWRuWG1EVlNENm00R290ZkxHLWhjTk9jb0xwZlBkMHNxVk5vb1RRX2NrM3BjN1d4S0QxSEt4cURSUEZMSkk?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-22T00:11+09:00"
+    },
+    {
+     "title": "ロシアがデンマークで暗殺計画　当局阻止、制裁強化へ",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tS1BSdm10aEhDakIwZDNXRTBlWXVsaTlZZVlWVDRWbjhuWWkxbXhGWC1icUJRRWkxazRjRm5OVk1xYjAxZG9Wa0VSMzlIS19xb0xtNTVxN3ItVTQzMUg4VElTaFAyYy1rWGJPTXFrbnhUbUk50gF0QVVfeXFMTW1LUFJ2bXRoSENqQjBkM1dFMGVZdWxpOVllWVZUNFZuOG5ZaTFteEZYLWJxQlFFaTFrNGNGbk5WTXFiMDFkb1ZrRVIzOUhLX3FvTG01NXE3ci1VNDMxSDhUSVNoUDJjLWtYYk9NcWtueFRtSTk?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-21T08:42+09:00"
+    },
+    {
+     "title": "欧州連合（EU）の外交責任者カヤ・カラス氏は、キエフに対するロシアの攻撃を非難し、EU駐在ロシア大使の召喚を発表",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTJXOVBqZHJFY3lzLV9FeU9GQ1pVMzJTbVROdmROclVlczhCczNYbXVhM2lTTVREdnFTNkt1OHZUX214aERZSUpSanoxQy14eEt6bmpHX3AtOWpNaXZLQ0gxT0ZleFZjZGhrdTBTWmRvVlFwY3N1eEtVUmlSTlVvcDNWR0ZiVXhpS0Z5VHM1cDNqcDdabzY5M2NULUFvU28wZnZnNzhpck0zMzN2OGZPaW1OOGpRQQ?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-20T21:23+09:00"
     }
    ]
   }
@@ -398,12 +410,6 @@
    "at": "2026-11-23T09:37+09:00"
   },
   {
-   "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWE9TSkhaS2o4NDF5Y3RmY184V0syR3o5U000TU5iY2Q2WUtKX3pmRktTZi14blE4ZzVQeVRTWjJZUzVRWUtvS1dYWXZPYTkyb3I5Nld1LTBiVDMzbzBpSG5oaHJDbG5PZTlBYU4zY1hxdw?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-23T07:25+09:00"
-  },
-  {
    "title": "デルタ航空でシステム障害、全米の運航に遅れ",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2VweUZtRkE3MFNUYzlQY3Z1cTk5T3kyX1B6Q0RSWmNTQm02ZzFKVXBhZ1d4cUV5aFIwOFlyVXRQcXFhbjEyVFAwNzIxdk5IZlFuZ2FFUkFVNjA2dUlxZllzMVVpYTNVVnlMR0F6X2h1ZkdDZ3o5a0JSeHNsQTd0cUxRaWJ0Unox0gGcAUFVX3lxTE5rb0V2SXBkdURtQ0ItNXRlc3h0WVRWc3BCd2N6MHRUUDlGR28zX1I2emlTS1ptOWpxc0FQcGRrcm84RWR2MnZidWxCUTF4TlRxRXNxVmlEalZfZGdhSTRaSGxYRTdOOGdRUlg3ZmFSOWRDVVNpcWFiWFhldE9FdE0tNlRRYkhzZm1Mc1ljZ1BxYi1VUTVZc3BiSmtmbw?oc=5",
    "source": "Chosunbiz",
@@ -422,12 +428,6 @@
    "at": "2026-11-23T03:55+09:00"
   },
   {
-   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
-   "source": "GameWith",
-   "at": "2026-11-23T02:33+09:00"
-  },
-  {
    "title": "「日本サイバーディフェンス」2027年春、静岡市に中核拠点開設 攻撃監視・対処の専門チーム、企業の危機管理を支援",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LaEtRVnR4SE9hT25BdHdJVnVqQU5VVndwMXp0aXdVYVREUVZHOVljZ01ENVVpbW9Xb2wtU1FzVlZQRUV6SU9USFRtNHkxZw?oc=5",
    "source": "静岡新聞DIGITAL",
@@ -435,9 +435,21 @@
   },
   {
    "title": "ドローン対策はサイバー攻撃にも有効。ウクライナ、発電所を小型化&分散化（ギズモード・ジャパン）",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUklSNmRPYmhjQzF4dE5lQm1aTVpiZGRlWFlaMGV1d1ZjV21jLTQ1cnVyRTZCU0FoQWxXa1lBY2NjZEsxTU9EN3l4Z2FfLWx1QklIZmtTOVRwYzlhLVpwSldoanRHVDcyMXcwM1M4d093UXhQeFhlbDloXzVDZFlBWTZqUGFiZXVCVkt4d2p3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWdU9jbUlQUk5UOWJxVGxfQi1QQk5Bc214ZWpRNW1XWGEwb045eF9QWk15YmNIcU5aUzBua1l2WTVkbENtMU5JM2JOa2RlLUdYQTJEYlpuc1kzRF9Pa1RFOGpvM0lnUGpTbkNmZ09PVWV4VlZYalNHbGFpVGo1VnM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-23T19:00+09:00"
+  },
+  {
+   "title": "タワーレコードに不正アクセス 個人情報1100万件流出か 一部に名前や住所など含むも、クレカ情報は流出せず",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlB4Y2dpLUVjXzhSRTJrNTg2cm1SWGx1eUN3ZVRLYXN5V2VLWEQwcW9nSWZYUDJzOUxQLVV4cjdCbzM3UWh6Zjk2TUpaV3BaUUlBVE1fclRsc1B5Y05ZeDVzbzJxZ1hxSHRTaDlMMHY0RzFpVWxNdXFicFhCZURYSQ?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-23T18:47+09:00"
+  },
+  {
+   "title": "RAGTAG、最大37万人の個人情報漏洩の恐れ- 委託先 プレイド「KARTE」への不正アクセスによるサイバー攻撃で",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzRvVUhLVDNETlVSQmJWQmo0VmYwdS0xSzgyNFVUb1V4MXZtZS1SMmI4VTFmZXJqZmx6akZ0YVA3VHlRdDNCWGQ4MVZXNDB6Q29lU3UtUWN5N1JHRmZOMnZoTWRodEl2czhKNXgyMDNQNks3TWRnTWxoYXNFR0RBOWdvWDFadHV0S1V3SFhxRkpXREhxSS1BOVhrd0pKQ0ZRSXBfdzhB?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-23T16:00+09:00"
   }
  ],
  "tokyo": [
@@ -464,13 +476,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ポーランドに落下した3つの飛行物体“ロシア製の巡航ミサイル”と確認 検察発表 NATO本部で緊急会合開き対応協議へ",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10YzVONUZKSlM1ZnhFSXJGbUg4b0RlcFgtclp0cHBEQUlTTTBsX0cyRlpmVTNILWtJXzdrajNvN1NTWGJ6VXNSa2djb2dTZ21HSExkX1ZiQ2FYVXNoay10c2NBU3pNbWcwbV9OV0J30gFzQVVfeXFMTm9qc3loU05vLVhPd1ExSHNfY3FXUmNjNHNuN2tQRXVpQVJXUU9jN2RKdDBZbDdPc1Vnb1V1ZGFZSU96NnowamdjMGlyVzZwNm9kaWdTSVI3S3F0VGJnN1pSc29QVGxKUGFyYXBnWGN0N1J1WQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-23T20:34+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ロシア、ウクライナ、リビア、黒海、地中海 - ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で - 写真・画像(3/3)",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUUFOeDh3ejIxUmMzamp4YjltUWFMYXpmYmpUYTRGODBlOWJZUGtHbHRwcWNYY1pGTTQ2dFNmREYwTlpMRXJSR3VKazdQNzl1Q042RG1JWQ?oc=5",
    "source": "西日本新聞me",
@@ -482,13 +487,6 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWg3aWdQSnFySVQwdDJQd2hZU0VoNUhXbTBULS1BbTd5a2QyWFhWS2FHWnlZWE9hXzI4V1IwSXFGc0tuQTEyTC1RbVc4b1VVVzZxU0xsemEybHd2YkNlelkzSlE0QzJSQmg2QUlGeDljODdGX1hiMkM1WVJPbTk2UFI2d0tFSmhHWVZ1cDln?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-23T19:59+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア軍機が「真っ逆さまに墜落」 空中で火だるまになった機体が「地上に激突」する瞬間を捉えた映像が公開（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4ZlVqWHhzQTJUbkljb0dKQ001VUFUcWRHZlNGY3NPSWhIMFRrY2wwNjNEVEVSNC1yd1BXYzRpRXdzTWZqQ0VWTEp3?oc=5",
-   "source": "乗りものニュース",
-   "at": "2026-11-23T19:58+09:00",
    "topic": "ロシア"
   },
   {
@@ -506,18 +504,18 @@
    "topic": "ロシア"
   },
   {
+   "title": "欧州に軸足移すウクライナ 米との関係が不穏に 対ロシア継戦を支えるドローン進化｜Quebee キュエビー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FY215YUJNQ0hDU3Ewd3NsQnhmZnRER2pESzU2ZHhlRFkxYmg5eDhwcHc4dW5xY2M0cHp1cWRKSjU0X0tVeXFJdl9DVHRseGE1TXNuNzVmcGE?oc=5",
+   "source": "QAB 琉球朝日放送",
+   "at": "2026-11-23T19:18+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "中国軍、配送大手の調達資格停止　「規則違反」",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWExUGh3T0JpX2Q4WTFVV1UtVWJWOWIwQmFMeDJQMnpyVml5UVhRRUc4eHZQeVJad2pKYVFQejlheUg3MWVlSXdGQTVfTHZPVmszTF9iV0NsSnFWYzJrMDVEUWFfdEdPeXBBUmRYdW5BYktHcG93U2dfX2hBYlBwaXZ2V2NYYlFBc2fSAY8BQVVfeXFMTW83cFJNOUw2bzV2Vk5KR3FOTmZKbmhlb1BPN2pKX002WGdzdGVvb1Fyb0hOZURNaEhlOGNlV1JPcS1zYnhnWnpkNG02d0hobDBVX01waWpSTC1GeXBwWktaT1dkRmZockdVZjd1YUtvVTZyLS13bTVXRHlHdVRjYTl5cU1rUlVMVm9SWVZhS0k?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-23T19:17+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ロシアのミサイル3発が同国の領空を侵犯したことを受け、ポーランドがNATOに支援を要請",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcS1pc0w3eFY3Q3VJeTk0YmdOVGxwRmh3MWJnX2hsdUJvOFEtcWhmTEpqb2F2ZGotWUd4OG40aFBPcHgxZWdQb1RNSEVFRzdBcGJTTTgtajl0UG1xc3B3Y3Y0bW9uWmdJbllTNUpYdE9JYmNCdVBCRWZmbmJhY2Jkc0s4dGJzLVB5N0diMkt5Zms1SlY0SU90ZjAtczEyQmg5Y2I2Skp6MVNhX2pqOWUtYWxIRERsSmNmbzd5OA?oc=5",
-   "source": "Informat.ro",
-   "at": "2026-11-23T18:49+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "“米朝首脳会談”北朝鮮提示の条件が原因で実現せずか 米側は朝鮮戦争終結宣言など検討、見返りに核・ミサイル実験上限方針 米報道",
@@ -583,18 +581,32 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ポーランド落下の3飛翔体、ロシア製巡航ミサイルと断定 NATO協議へ",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESnJyU0x1RzVTSjhlWkxpOXJHLVlCU3ZPcjdqcmdHMkx3RGlLc19QMUxCTU5OQzdEUDR0aUV6bzVpdnc3M09SSW9PaW9ieERKMUHSAVRBVV95cUxOcVVKVUp6OEZab2JhNmh3QWJ6cUxvYzlMQlllUGoxbGpLNjQ1TUc4dTFKMWlNQ2xabG9neDFfbGlXMWk1Njd6TmE4VDl2eEhLeUxzdkQ?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-23T11:30+09:00",
-   "topic": "欧州・NATO"
+   "title": "トランプ氏、イランと合意なければ年明けの再攻撃検討 譲歩迫る",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bmNyekc2YVFLM3Z5bkxCdWNKeHNMT2QybVdBYVBCSzJTekl0aXNPQXFTejNqMXRWWXhXRmNuaHpVcmFoMnlBTEJEdnhzcFBkX0pJQ3N2SnVWLWllSlVNSTh4SW5udk1C?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-23T10:48+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
-   "title": "ロシア巡航ミサイル3発、ポーランド領空侵犯　NATO協議へ",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnJ4YkZPNzE1aURIYkZ5X0tSN2Qwam55d3pGM004NjdHTjBpdWpHa0l6azBwcGNENFU0VDNRWXBUdHJvZ1k4dDNwbFh0dE5KVVp1bHpmbnZ3ZEd4UXp6RFdZZ3o1LVlWU3AzUkR6VUpFSHlTcXpyWGw3cTZfVDFOSzBQN2VKRE540gGcAUFVX3lxTFBQQmpGdEZycUROR1ZESW54RmpMaW1COHZjcldudUwwM2hSZlAwcDBUU1d1S2hYeHMzNXJlSC1Jbk9aU1NHbkkwZnBKX0Z3dVo4ZmtXRm54Q3ItcGY5elNEN2c5a3pzdTdxM0ZfTHRhY3BpUFJrVnMtbURJMU9MWjd5dmcwSGpWQndFVjZtTkxvU3dDcS1MMkdXeHBqWQ?oc=5",
-   "source": "Chosunbiz",
-   "at": "2026-11-23T11:11+09:00",
-   "topic": "欧州・NATO"
+   "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zaHdPZklSb0RNYTZtNzBLSGtaOXdlczhYNzQ3NzZNekJzNUVFbVh0eHhlTDlHQXZ3UDE5Smo1VGNibUthTzlPODVHZ1FIUDdNSkptNE9hakhUZ0tJNnhn?oc=5",
+   "source": "JBpress",
+   "at": "2026-11-23T10:00+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "トランプ大統領 来年以降のイラン攻撃再開の可能性を主張 米テレビインタビュー ホルムズ海峡の航行正常化などで合意しない場合",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94anlOR2pGdjV5ZlBBa2ZlT1MtVVFDakw3RzFEaTlIQWJ1Q3FWanpGQXg5b3JOdS12R2xnQzMtSXhNV3pwNjRtajlLeU1jeF93WlFnLWpTZXBFR2Q4aWxvRFpraHd1ckVHV0ZUTHlCVmtWbkk?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-23T09:59+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "イラン軍が米軍の「F-16」戦闘機を攻撃、機体が損傷したと主張",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yY2pMN29SV2xYYXQxak9GQzVGM0lma0xRNU1faV96VUo1dFUxUnczTjR4QkhoYzQ0eVBDOWNqd0FRaWluX1dtVmFqLTFsclRieEtZcQ?oc=5",
+   "source": "Switch news",
+   "at": "2026-11-23T09:05+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -617,7 +629,7 @@
     "中国・台湾：「攻撃」1件",
     "北朝鮮：「ミサイル」1件",
     "ロシア：「攻撃」1件",
-    "欧州・NATO：「ミサイル」4件"
+    "欧州・NATO：「攻撃」「ハイブリッド攻撃」1件"
    ],
    "items": [
     {
