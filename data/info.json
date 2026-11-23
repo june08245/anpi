@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:30+09:00",
+ "updated": "2026-11-24T03:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-23T20:56:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-24T03:33:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.0",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-24T01:12:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-23T06:35:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "2.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -159,7 +159,7 @@
      "title": "屏東県で旧日本軍戦没者の慰霊碑除幕式 滝波宏文参院議員らが出席／台湾",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMR3lQcm9TRFB2MWstSGtCRmVqa25KeDR0TFFQWS1OUDh6MHdPQUN4NHBNU1lSV09WOVFVa21rTTZIaVpITUtlMy1PVFZudEJhb0k5WU9sMXdycWt0eGpB?oc=5",
      "source": "ライブドアニュース",
-     "at": "2026-11-23T21:08+09:00"
+     "at": "2026-11-23T19:55+09:00"
     },
     {
      "title": "中国軍、配送大手の調達資格停止　「規則違反」",
@@ -584,7 +584,7 @@
    "title": "屏東県で旧日本軍戦没者の慰霊碑除幕式 滝波宏文参院議員らが出席／台湾",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMR3lQcm9TRFB2MWstSGtCRmVqa25KeDR0TFFQWS1OUDh6MHdPQUN4NHBNU1lSV09WOVFVa21rTTZIaVpITUtlMy1PVFZudEJhb0k5WU9sMXdycWt0eGpB?oc=5",
    "source": "ライブドアニュース",
-   "at": "2026-11-23T21:08+09:00",
+   "at": "2026-11-23T19:55+09:00",
    "topic": "中国・台湾"
   },
   {
