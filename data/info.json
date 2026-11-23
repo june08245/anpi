@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:30+09:00",
+ "updated": "2026-11-23T18:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -114,6 +114,12 @@
      "at": "2026-11-23T13:54+09:00"
     },
     {
+     "title": "ホルムズ海峡におけるイランの攻撃、紛争開始以来の最高水準に 海事データ分析",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KR3R0LW9jWHo4MlFrc0UycW5vbDVkSWpSZGx2QlNSOTBCdkM0RWtCaDRuM3dZc0VTY1JZc1BMYkdQeXlSV3lVWV9Mc0ZyU29HdXlr?oc=5",
+     "source": "CNN",
+     "at": "2026-11-23T13:34+09:00"
+    },
+    {
      "title": "トランプ氏、イランと合意なければ年明けの再攻撃検討 譲歩迫る",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bmNyekc2YVFLM3Z5bkxCdWNKeHNMT2QybVdBYVBCSzJTekl0aXNPQXFTejNqMXRWWXhXRmNuaHpVcmFoMnlBTEJEdnhzcFBkX0pJQ3N2SnVWLWllSlVNSTh4SW5udk1C?oc=5",
      "source": "毎日新聞",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yY2pMN29SV2xYYXQxak9GQzVGM0lma0xRNU1faV96VUo1dFUxUnczTjR4QkhoYzQ0eVBDOWNqd0FRaWluX1dtVmFqLTFsclRieEtZcQ?oc=5",
      "source": "Switch news",
      "at": "2026-11-23T09:05+09:00"
-    },
-    {
-     "title": "アメリカのトランプ大統領 イランとの交渉合意できなければ年明け以降に攻撃示唆 (FNNプライムオンライン（フジテレビ系）)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVpGSnBvMjhEdHRlS214cUlmWEgxR0FZdmpuLU1qQkV6cXJIMW5IcEtnMHNSUnBBRFZaTk42ckFCRnZtdzFJd3BjcHg3bC1pd1c0UDVhQ3IyWmpSLXVkcFZRckdIZjh0RmJ2UWRGTE1paW0zdENrVFg5VE9oYm9zdHRLYVNPR1BaeDM0LXZB?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-23T08:59+09:00"
     }
    ]
   },
@@ -228,15 +228,15 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で | | 全国のニュース",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1a3hIcy1feFViN0JBSi1iUUdQSVdONEFCbFVLVXFOdWY5MG1McldLbHFodXMtT24tcS1reGxKdnhQOW5lWWhnM2thbnRHbFBadDVWbnln?oc=5",
-     "source": "佐賀新聞",
-     "at": "2026-11-23T18:15+09:00"
+     "title": "ウクライナ、ロシア軍艦「撃沈」",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wYjB5OUpCU01hcWItTG1HTWotbE95WGVkRFBRRHV0WE1XSU1UTmlYWm01VTBHbjB1QzJNQWQ3eklMWHZhS3kzR2JOT0hKQURyZURhLVVBOFlVVHNYTzkzWUsxa3ZNWVRfeXJIa0VwdnFyMm8?oc=5",
+     "source": "デイリースポーツ",
+     "at": "2026-11-23T18:20+09:00"
     },
     {
-     "title": "ウクライナ、ロシア軍艦「撃沈」",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kYUZxMHVYbXNCRlFFd1h1a2YyazExU3dPM1NQUXlVc200akRacnhtS1BfMnhYREpHUFFUYjBtNWxMRmk5WEhINHQtZWh5aTJQem5VQTJFNA?oc=5",
-     "source": "埼玉新聞",
+     "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYTN0NXJNTFNobDBXakFEdE4zVmExd3JDNWNGZTBXWWJfeUFMS1NJQXh3V05INGRfS2F5N3ZlX3pmUmYxUW1oMFZ5R29FSGNBUUdOSnRn?oc=5",
+     "source": "西日本新聞me",
      "at": "2026-11-23T18:15+09:00"
     },
     {
@@ -362,10 +362,10 @@
    "at": "2026-11-23T13:07+09:00"
   },
   {
-   "title": "相次ぐ米国のシステム障害で広がる不安　ラジオや非常食買い求め殺到",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQcTZKdThrNVR1d2xQaGlmNjI1T0cwXzBJNGdQel8yUWUxNnVTRFFKVHVQMnE0aTE5V1h2SVd5cEhHaDlZdzBqeXBfWGM1bEhob2lvVEJOWmE0TWlEb2ZzZzNoWmFsZmxMT0hHZnlqeFFWNEpId0Zz0gF8QVVfeXFMTTNfOERTVkFoS1llSjVTMWV3QUxuQUNMRTNJcWVxbktpWmFhZFpJMTVCWWN1SWRwbnI1MkhlSHluRW9NcWRNRmZvTkVKanpoemN3aWM5NENGb1R5cHZJTXJzRFhURXVtdmREalJ3R25Wa0dWUTNoNGQ1cGZVNQ?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-23T12:08+09:00"
+   "title": "相次ぐ米国のシステム障害で広がる不安 ラジオや非常食買い求め殺到 | スマートニュース",
+   "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNMTdla1lQazF1SGs0MnlZa0FvWTYzOWYxOE0xZFA1eEZIWWZMWWhoZnZKTXd5eGszdEwyVlJlQ0ViVy1mY21FZmI0bFZJNGFGazI0V3RONm1nWF9yQlUxMmFGcWNBc0k4VXA4NGFrcHcwQWQzOEhxOVJLaFBOZGZ1MmIxbUxBRmRnenktMVFCM215YVBod3NsV2x6SHBjNHZ2bHBMUWVkYlhFTUxmM2lWT0MyM2V5ZGcwSFBPVDQ0WDdUbWsyN21ucVI1cDRveURXQ1VVbDljSkoxN1JhT1NRNFQ4TFNwSUZ4US15SFhSNXRGYXFVbkNXX2tuMlcyZVZ4Rlp6X0diVjRoU2ZaZkJ3MUJUbkUzUFc2OWUyOFUzM3J4dzFZMDFsUlMtQVE3X3RVQlppaS16NDczaEd6eW1Rc0lpbzFLNXBHem0yQmE4WXQ2eC1YT05BXzJXMTFsTE5XdUJnczhPa1pYQnRicDBvLVRMazJqcjFQZkNEZHRZbHo1bFpFSmVQQ1JqTEZ0cTVDZ0hDcVE1WFV0bEk4RGcxZENFeWhpbTV2TFdpRDdfZHlMVnoxRlJWV1BkQmVmT05GWUZ2SkhsSW1yeXg5RGNTYWxqd043WVJBZWQtY0E0VGZTdDlwWUl0SjVXZw?oc=5",
+   "source": "SmartNews",
+   "at": "2026-11-23T12:09+09:00"
   },
   {
    "title": "孤立状態解消も停電や通信障害続く 福島・北塩原村 大雪の影響で一時1500人が孤立状態に",
@@ -380,12 +380,6 @@
    "at": "2026-11-23T10:36+09:00"
   },
   {
-   "title": "画像 | マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システム障害は偶然なのか",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kYWtDYXNMSk9Wc24wYjg4bXU0NmdseUV0Wnd2MWFnS1JmRGJoZHg3UUdUdF9scWUtQ0l2ZWFlWEoycjA0TWh0NUZhak4yX1JDUjVVNFZNQQ?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-23T10:03+09:00"
-  },
-  {
    "title": "今度はデルタ航空で一時的なシステム障害、全米で運航に遅れ",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iQTdlWHJMa0tidXR6Tl83R0RGTGx6X1pIbnVuUG9SR1R4SXY2OTRmcUdPRXBhMjF5VmpudDVJNFhVdWFQakM5NnhtWTMtRVNQZVo2TjUwUnJfNGx4aHl4V1V6ZnQ?oc=5",
    "source": "千葉テレビ放送株式会社",
@@ -398,16 +392,10 @@
    "at": "2026-11-23T09:37+09:00"
   },
   {
-   "title": "くら寿司、寿司ネタなど一部欠品を報告…フェア商品の状況も伝える 取引先のシステム障害が影響",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlpVRUdGcVJaTUpiUDhlMEJSSkNPM1lWMG1JOFdXNjZ3MlE4ckJBelkxekZlR29OS2p2UkwtSmZ3R090U0pkSXVFN2FjUWc1cGtqMDl5YVRzVENDbWVqRmtGLVJ0VnZoZG5MbWhvdTM0V3A4YVIzTWhHY2VVOGVPS1VOcF8?oc=5",
+   "title": "ＫＦＣ、納品に支障で臨時休業も ニチレイのシステム障害影響",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWE9TSkhaS2o4NDF5Y3RmY184V0syR3o5U000TU5iY2Q2WUtKX3pmRktTZi14blE4ZzVQeVRTWjJZUzVRWUtvS1dYWXZPYTkyb3I5Nld1LTBiVDMzbzBpSG5oaHJDbG5PZTlBYU4zY1hxdw?oc=5",
    "source": "山陽新聞",
-   "at": "2026-11-23T07:47+09:00"
-  },
-  {
-   "title": "ドコモ高速通信でまた障害 復旧に８時間、先週に続き",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IMVN5LVlVdldob01XYzBIYTNpcHlWc09OS05ldFNNWVQ0aHAtZWxSU0pvSzJVb296NjhfRi1rNnQzdVEzd1ZlY0pJTnR6dEZaQmtGcTRaOE8wei1x?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-23T07:30+09:00"
+   "at": "2026-11-23T07:25+09:00"
   },
   {
    "title": "デルタ航空でシステム障害、全米の運航に遅れ",
@@ -434,10 +422,22 @@
    "at": "2026-11-23T02:33+09:00"
   },
   {
+   "title": "ウォール街モーニング・ブリーフ：システム障害の嵐がリスク回避を誘発、S&P500とナスダックは4日続落、ソフトウェア株が急落、エヌビディアは時間外に力強く反発",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSzJTOVJBRVJmcFZkRGMyYnZaREF4Y0h5UGpKQ2xxeE43M09nc25IcXk0UnBaeHRjaDlKcVp6QkdLWW1xbms2TXdreUZqZjNVZlRsWG5KakpzOWhqSC0xYTBDb2VNakd3VEYzTjNxMzNWSTJNZ3RlajVLZVZoR28?oc=5",
+   "source": "PANews",
+   "at": "2026-11-23T00:49+09:00"
+  },
+  {
    "title": "ドローン対策はサイバー攻撃にも有効。ウクライナ、発電所を小型化&分散化",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBad2VrVXVubkM2NG43MTNKbXBtZ3MwVXR1b0kyX2F2eUtfUTliQUt1RWxVenVwYUE1VDhfVzhwMjBqS0VGNXVyTTdaQnlIdUJNdGd1VXpMX0s4dlBTT3pfY0dZNEV0NW9WZFNpUkM0VFAzeXhWX2ZKeg?oc=5",
    "source": "Gizmodo",
    "at": "2026-11-23T18:00+09:00"
+  },
+  {
+   "title": "タワーレコードに不正アクセス 個人情報1100万件流出か 一部に名前や住所など含むも、クレカ情報は流出せず",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XSG55aDFzUlZHV2pVNXBEN0NlQVNwcF9MREt6d1pEcU9MMl9qeGM0M2duSVhrZ1E4UTBPbjdtcnV1YVU5UnVlTnhoZUF2eEZDbGd4RW1UUzRONXd4Zl9F?oc=5",
+   "source": "千葉テレビ放送",
+   "at": "2026-11-23T17:48+09:00"
   }
  ],
  "tokyo": [
@@ -457,16 +457,16 @@
  "osaka": [],
  "world": [
   {
-   "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で | | 全国のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1a3hIcy1feFViN0JBSi1iUUdQSVdONEFCbFVLVXFOdWY5MG1McldLbHFodXMtT24tcS1reGxKdnhQOW5lWWhnM2thbnRHbFBadDVWbnln?oc=5",
-   "source": "佐賀新聞",
-   "at": "2026-11-23T18:15+09:00",
+   "title": "ウクライナ、ロシア軍艦「撃沈」",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wYjB5OUpCU01hcWItTG1HTWotbE95WGVkRFBRRHV0WE1XSU1UTmlYWm01VTBHbjB1QzJNQWQ3eklMWHZhS3kzR2JOT0hKQURyZURhLVVBOFlVVHNYTzkzWUsxa3ZNWVRfeXJIa0VwdnFyMm8?oc=5",
+   "source": "デイリースポーツ",
+   "at": "2026-11-23T18:20+09:00",
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナ、ロシア軍艦「撃沈」",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kYUZxMHVYbXNCRlFFd1h1a2YyazExU3dPM1NQUXlVc200akRacnhtS1BfMnhYREpHUFFUYjBtNWxMRmk5WEhINHQtZWh5aTJQem5VQTJFNA?oc=5",
-   "source": "埼玉新聞",
+   "title": "ウクライナ、ロシア軍艦「撃沈」 リビア沖地中海、無人艇で",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYTN0NXJNTFNobDBXakFEdE4zVmExd3JDNWNGZTBXWWJfeUFMS1NJQXh3V05INGRfS2F5N3ZlX3pmUmYxUW1oMFZ5R29FSGNBUUdOSnRn?oc=5",
+   "source": "西日本新聞me",
    "at": "2026-11-23T18:15+09:00",
    "topic": "ロシア"
   },
@@ -548,6 +548,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ホルムズ海峡におけるイランの攻撃、紛争開始以来の最高水準に 海事データ分析",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KR3R0LW9jWHo4MlFrc0UycW5vbDVkSWpSZGx2QlNSOTBCdkM0RWtCaDRuM3dZc0VTY1JZc1BMYkdQeXlSV3lVWV9Mc0ZyU29HdXlr?oc=5",
+   "source": "CNN",
+   "at": "2026-11-23T13:34+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "習主席・台湾代表との会談が実現しなかった高市首相...日本メディア「自ら孤立」と苦言（中央日報日本語版）",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4bk5ZUThST3E4U3g0bm5aaDRFQXRjemRLc2tmN0F5R1ZuR2ZGNHVMaGx5cG9STXprbG1Ta1hxTjk1Nzcza0FHUDRLek0wZw?oc=5",
    "source": "グノシー",
@@ -588,20 +595,13 @@
    "source": "JBpress",
    "at": "2026-11-23T10:00+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "トランプ大統領 来年以降のイラン攻撃再開の可能性を主張 米テレビインタビュー ホルムズ海峡の航行正常化などで合意しない場合",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94anlOR2pGdjV5ZlBBa2ZlT1MtVVFDakw3RzFEaTlIQWJ1Q3FWanpGQXg5b3JOdS12R2xnQzMtSXhNV3pwNjRtajlLeU1jeF93WlFnLWpTZXBFR2Q4aWxvRFpraHd1ckVHV0ZUTHlCVmtWbkk?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-23T09:59+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「画像 | マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大」"
+    "「マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システ」"
    ]
   },
   "japan": {
