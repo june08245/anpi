@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:45+09:00",
+ "updated": "2026-11-24T19:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -252,6 +252,12 @@
      "at": "2026-11-24T17:18+09:00"
     },
     {
+     "title": "ウクライナ中部ヴィンニツャでロシア軍がエネルギー施設等攻撃　４名が負傷",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2xoS1BnVlZONmNNZnZ0ajJsWm42clV4N1BiZnh5Yzl0Z1Z2eHdQeTFNQWllazJtUFkxNjRyMi1YbHFHUkZlRlYzaThDLXdHWmdvNnk2NEtJaUQtNHpPMEJyWHZKNmdMVTl3WE5kb0lWOE5pcUkweWloX2ctMjlwVTBJOXplQ0NlVDUxeXdOMHY2djd4OGZPQ2xrNGY0UUp5RDVZQl91cXp2d05TcHZVOW9WSFAtSWxMZ0tIQUhBbnJxTUdxdkpCbG5JeVJVUDjSAdQBQVVfeXFMUGR5VWstWjBLLW1vSEYtRk56WHhleDQ4LUt5dF9RY0RyajNub1VJazJzb1dsQnppUXFMeTRQemtGSFNveGFNOFNqNTZjRHNsSWhPLWo0aUs3dlpNWTNEenJEeFpkM1FIb05YU0RfSGd5ck1NQlI5Z3BEdmozX0JQNDREalRTc3VLSFp4b3JYaU9iV2xkQWhVT1ZVZ3VlWXlzRWRKbTVhUTBJcWpfWXRVdjg4Yl9CZ3pUWjVnS2p2aUxYaUpVVXMweVduY1ZCR1JxQkNTUlo?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-24T17:00+09:00"
+    },
+    {
      "title": "ザポリージャ市へのロシアの攻撃：2人が死亡し、さらに22人が負傷",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlhiRXBBdG02ZFpHZC1ldmV3TXA2aGczQ1dkeHNBNDQ2bXpfY3BVOGZ0UE81VzB4Z0J4S2hXRmV5TjdPMzdBVTdDSGVDTndSU1h5ek01S0VNTEd2M1NmLXpaQ0V0V2hoN2RvQkNrdUlnVnFLbDgwZW9ycm9ZSHgySWR0OU9mRXlxa3Q3T2ZlRGY5ZGRmWDI5X1Y2R3JoOFVUakZ2UDhnRQ?oc=5",
      "source": "Informat.ro",
@@ -262,12 +268,6 @@
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jcnlDZHJyaGRvblhBa1M1a0hsTG1tZnVUWFVJdURsbFZFWDh5cHkyOHRiQXNCeFdBR0QtSW9veVpCOVNCTHpzeUZTVE5wT01xRXAyaXNZUUMxNkVINlBEcWVBaEQxV0tBQjBQS2w5eVNrUHEyNnFPMUlFMER4Zw?oc=5",
      "source": "Reuters",
      "at": "2026-11-24T15:58+09:00"
-    },
-    {
-     "title": "ロシア軍の攻撃で住宅崩壊 22時間ぶり高齢女性救出（ABEMA TIMES）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52Ml9vT2k5NDNheTVDTHBuMUx2S04ydjQyekxWbEpqMG1XbmU2Ym1USlVQU2NwaUx3QzNGWjY4QThEekFEMFdxUU1kWEVJRHZwaVJ3bTdFQmI0bzNpalFlLWxhdDY1alprWDFjSkwwSEVEenU1OS15UHN2TGo0M3M?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-24T15:57+09:00"
     }
    ]
   },
@@ -356,18 +356,6 @@
  "japan": [],
  "cyber": [
   {
-   "title": "ウォール街モーニング・ブリーフ：システム障害の嵐がリスク回避を誘発、S&P500とナスダックは4日続落、ソフトウェア株が急落、エヌビディアは時間外に力強く反発",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zSzJTOVJBRVJmcFZkRGMyYnZaREF4Y0h5UGpKQ2xxeE43M09nc25IcXk0UnBaeHRjaDlKcVp6QkdLWW1xbms2TXdreUZqZjNVZlRsWG5KakpzOWhqSC0xYTBDb2VNakd3VEYzTjNxMzNWSTJNZ3RlajVLZVZoR28?oc=5",
-   "source": "PANews",
-   "at": "2026-11-24T17:04+09:00"
-  },
-  {
-   "title": "暗号資産取引所の責任を強化…ハッキング・システム障害による被害の無過失賠償を推進 : 企業·産業 : 財経日報",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlR0I1RmcxTjgyZmZ3VVdPTTl0QzAxaFJTTF9SY0FsWUhaSG8xeWdQVUxvLS1Gcmp1MXRJYzVQSU9zbnZMT0tqd056SE9fOGNCY0JwNTRMMGlQWE9YUzJmN09qNA?oc=5",
-   "source": "재경일보",
-   "at": "2026-11-24T16:10+09:00"
-  },
-  {
    "title": "日本企業へのサイバー攻撃が前年比82％増、生成AIの機密漏えいリスクも上昇",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNNVBjWjdnRU8wV0JlOUU1bkIwTFFvNExza1BqTDBKU3V4WXRlNjhia25qT1Z0aVgtT255Y0w2aFJLZVI5RVA0bDN4aklNV2V3NldNZm1UTHZYYWJTRDNFZkw1cGNzcGlKZHlIZ2dtNUtfZEhW?oc=5",
    "source": "BigGo ファイナンス",
@@ -444,6 +432,18 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHNvaWF4ckd1OF9YcERJY3ItYU9XR29GMUpWTmM5T0tzTl96NkhxcU5NSWlrSURWRGswTFJkVGdNV2UxNGJwRWxNR0xUVnJRTTAyMDl5LVdRSDNQU21lbkdLUFpwOFFxMWpoLVdDMmVaZEtaRW5XbWJyVzdVRmVxT2N2bHBrdE0?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-24T17:44+09:00"
+  },
+  {
+   "title": "JAXAのシステムに不正アクセス 一部アカウント名など漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EZ1pJd0MzOW5fMkY3MXZyUjNTREI0bUVtV2VheG15Z0tMSkJrUEdVM0JjQWtsTExmNDhCTzk1NmREY0JvMy0zTGVpZVB0ZC1saVVVUl9qUmpKSXVmSDdv?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-24T17:40+09:00"
+  },
+  {
+   "title": "「BAKUNE（バクネ）のTENTIAL、12万4,348人の情報漏洩-委託先 プレイド「KARTE」への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjhOTnBNSG8tcUZDSDBWQk9SSDhvbFFhTG5FMFU0ZGNzVzRCOXhGaHpvRklkV3JQQnAtem9NV0F1a05mNXg1a1FCSlZRMFhUWFg5VHk4TVpjb3FYel9XdVVSZ0U4NE10aTQwLW1aUlVsUWtVd3RyMkljNzR0aWRiNEJYOUFpeF9BWE1qQzhmeWpESGFHcEE?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-24T17:30+09:00"
   }
  ],
  "tokyo": [
@@ -504,6 +504,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "ウクライナ中部ヴィンニツャでロシア軍がエネルギー施設等攻撃　４名が負傷",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2xoS1BnVlZONmNNZnZ0ajJsWm42clV4N1BiZnh5Yzl0Z1Z2eHdQeTFNQWllazJtUFkxNjRyMi1YbHFHUkZlRlYzaThDLXdHWmdvNnk2NEtJaUQtNHpPMEJyWHZKNmdMVTl3WE5kb0lWOE5pcUkweWloX2ctMjlwVTBJOXplQ0NlVDUxeXdOMHY2djd4OGZPQ2xrNGY0UUp5RDVZQl91cXp2d05TcHZVOW9WSFAtSWxMZ0tIQUhBbnJxTUdxdkpCbG5JeVJVUDjSAdQBQVVfeXFMUGR5VWstWjBLLW1vSEYtRk56WHhleDQ4LUt5dF9RY0RyajNub1VJazJzb1dsQnppUXFMeTRQemtGSFNveGFNOFNqNTZjRHNsSWhPLWo0aUs3dlpNWTNEenJEeFpkM1FIb05YU0RfSGd5ck1NQlI5Z3BEdmozX0JQNDREalRTc3VLSFp4b3JYaU9iV2xkQWhVT1ZVZ3VlWXlzRWRKbTVhUTBJcWpfWXRVdjg4Yl9CZ3pUWjVnS2p2aUxYaUpVVXMweVduY1ZCR1JxQkNTUlo?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-24T17:00+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ロシアが核衛星を宇宙に打ち上げる準備をしているとの情報を受けたNATO事務総長の反応",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzZrTVAxbEN2UWxyR3NUZW9KTmxxQ1FIZktsdXY3cTFtMTd3TkMxVzNlcmV6NTFrbEpDUWJHSGRIRlZIbXVxYllHbGdSYVBzTWpNLU5Ta1hMOWhTSURacUJuLUJlbmtmbnB6bGdFUDdCakE2OFV2MnRrRUdnX3ZkSVVZc0tlQXpoekJTT1RJeWZHcU9pelNIek1PekpkdDRnS1Q1d1lJRQ?oc=5",
    "source": "Informat.ro",
@@ -529,13 +536,6 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jcnlDZHJyaGRvblhBa1M1a0hsTG1tZnVUWFVJdURsbFZFWDh5cHkyOHRiQXNCeFdBR0QtSW9veVpCOVNCTHpzeUZTVE5wT01xRXAyaXNZUUMxNkVINlBEcWVBaEQxV0tBQjBQS2w5eVNrUHEyNnFPMUlFMER4Zw?oc=5",
    "source": "Reuters",
    "at": "2026-11-24T15:58+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシア軍の攻撃で住宅崩壊 22時間ぶり高齢女性救出（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52Ml9vT2k5NDNheTVDTHBuMUx2S04ydjQyekxWbEpqMG1XbmU2Ym1USlVQU2NwaUx3QzNGWjY4QThEekFEMFdxUU1kWEVJRHZwaVJ3bTdFQmI0bzNpalFlLWxhdDY1alprWDFjSkwwSEVEenU1OS15UHN2TGo0M3M?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-24T15:57+09:00",
    "topic": "ロシア"
   },
   {
