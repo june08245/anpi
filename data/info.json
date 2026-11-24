@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:30+09:00",
+ "updated": "2026-11-24T21:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -362,10 +362,28 @@
    "at": "2026-11-24T17:04+09:00"
   },
   {
+   "title": "Microsoft、「Perception」一般提供開始 AIエージェントがサイバー攻撃の模擬・脅威検知・修正で連携",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YdGtRR0tyU3Z3dmpjN2RydVVBRVc1WHhzT05mV2kzTEZsdmdXYVNpV19WM3RRTWk3Qk0xMFIxY0RpR0lmS2VNRnN6MGQyUnBNb3c2dk50aUg2UnlUdHdF?oc=5",
+   "source": "PlusWeb3",
+   "at": "2026-11-24T20:12+09:00"
+  },
+  {
    "title": "地球観測データの公開停止続く JAXAへの不正アクセスで2,000人分のアカウント情報流出",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95OWcwb2tFd29mT2haZmdNRk0yQXU3Wk5JUzVISlc0Z2JWaXluS3owbXppRHRjalFyUzU0V2pDQ3ZjVVhBVGFEVVFPaDBFNWc0Q3pJcHNaYUhIY21CSjc1WFcybw?oc=5",
    "source": "NOVAIST",
    "at": "2026-11-24T20:08+09:00"
+  },
+  {
+   "title": "京王電鉄で１１００万人超の個人情報流出か…ホテル宿泊客のパスポート画像や京王百貨店顧客のクレカ情報",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWZwMFJETFpZdVI3elhPbURTcGF2Zm16eFY3NmswRHpXODlMTG1HRm9LNE5ndUJZbmZtS01lajcycEktWDlMR1lXRmhfM3dNWURibFc0b0pPVXJoenFIMENfZXRIOE04cHhVM3N0VWVjRVdiQy1XUEdwaXViLU4ycUFLZFd4SFRBN3N5MWNB?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-24T20:02+09:00"
+  },
+  {
+   "title": "【GMOサイバー攻撃ネットde診断 ASM】NGINXの重大脆弱性「NGINX2Root」（CVE-2026-123007ほか）への対応について",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxczN3cWUyX2VOdTV2b3gtSzdCMXB2b2ZzSFA2R0h1cnB5TVQ2eUJLT0lCQ2lyNVhIeF9nQVF1aHZmN09WaFdWRWFUdU1RbHB4ck1NRWszSXljV2Nscld3bHlnUQ?oc=5",
+   "source": "gmo-cybersecurity.co",
+   "at": "2026-11-24T20:01+09:00"
   },
   {
    "title": "Payどん不正アクセス 影響続く「デニム取り置きの客がキャンセル」（MBC南日本放送）",
@@ -416,12 +434,6 @@
    "at": "2026-11-24T19:08+09:00"
   },
   {
-   "title": "京王電鉄、1063万人の個人情報漏えいか ランサムウエア攻撃で（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZmY3OFlJNm9ITERkSnYwNDEwa0VSdENQSVdwNTVSQ1dnY0ZzNWxWbXYydG91ZkcxQ09EZWlIV0hPYV9EeG5tRXVyc2oxQ01qTlpnejFwUnMzeng4TWg2dUllQksteFRkclZjZm16Z1l0eThqbFlJNmFCOF9mWkE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-24T19:02+09:00"
-  },
-  {
    "title": "ペット保険「PS保険」、最大約21万件の個人情報漏えいのおそれ 委託先サーバーに不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV05EbXpsbkNyU0pZSEpxbW81TDI5LUFzcUhVYWNWeWFSZ05HaEhwRmxRejRZS0ljaWxQN3JNTi00VUxCVDJCOHZhNXRPUXdnQlVoUGZuUHlOTXp6R3JqVGtqdzRNeWNNamUtNkJGSzdKV2tjN2s2MVB3MnlPZ2Fxc0V3ZDVHcE9EYUtld1RWU1BWVXl0V3R4Y2NzRUU2dFgxNWc?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -432,18 +444,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcFNNRkFONW83bHFVb1ctbENMUG5xZ21wTWtXR29qOThHa2NKNVI3OFVWa2w3bnBlRWRhY1VGOUwtcTdwaEhkVWlJOUl4SXhWTVMyNjJLLVBZLW8zcUJF?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-24T18:51+09:00"
-  },
-  {
-   "title": "日本企業へのサイバー攻撃が前年比82％増、生成AIの機密漏えいリスクも上昇",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNNVBjWjdnRU8wV0JlOUU1bkIwTFFvNExza1BqTDBKU3V4WXRlNjhia25qT1Z0aVgtT255Y0w2aFJLZVI5RVA0bDN4aklNV2V3NldNZm1UTHZYYWJTRDNFZkw1cGNzcGlKZHlIZ2dtNUtfZEhW?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-24T18:35+09:00"
-  },
-  {
-   "title": "JAXAの衛星データ公開システムに不正アクセス、2千人分のアカウント情報流出",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10eWt0dDIzRzZtcG1RRWE1YjNCNlVnZElkZm8zMUtxZnZxVUFoY1pqZmxKdG9SZkcxYTRFaHprOU9yb1RySmtnMHVUNjBDWHpzcU16a2g2RXFPY3pCNDlKVUV6MWpRREhQcTVMSS1hRDQxUUY1?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-24T18:35+09:00"
   }
  ],
  "tokyo": [
@@ -475,9 +475,9 @@
  "osaka": [
   {
    "title": "たくろう「まさか本当に会えるとは…」“Googleのジェームズ”とついに対面！！【M-1感情爆発展】大阪で開催スタート！",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tY0RUMFB3Vndzc183d2hsY05Pbl9kOTh3U1k4Tnh2ODcwSC1LVjZoNHRmYkV3RjY1M3Q3eFUybWpBT1RlTTBQS3g4Q2dlUFhfRmdEMkt3TnQ3R0otNGdB?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-24T13:00+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiXzgzV0NQUmFkLVdsWFpzVWZ5eXFuaVlkd3g3WWp5S2xpZldkY0R5RW5GY1NsZTRhSHo1bU01MU9LODktSlJab3FVa3NITGdMTjFlNFZTcw?oc=5",
+   "source": "ABCマガジン",
+   "at": "2026-11-24T13:05+09:00"
   }
  ],
  "world": [
