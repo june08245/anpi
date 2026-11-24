@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:15+09:00",
+ "updated": "2026-11-25T00:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-24T21:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-25T00:17:00+09:00",
+   "place": "薩摩半島西方沖",
+   "mag": "1.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-24T21:07:00+09:00",
    "place": "福島県沖",
@@ -85,16 +95,6 @@
    "at": "2026-11-23T22:22:00+09:00",
    "place": "熊本県天草・芦北地方",
    "mag": "2.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-23T19:50:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.3",
    "maxi": "1",
    "maxiRank": 1,
    "osaka": "",
@@ -174,10 +174,10 @@
      "at": "2026-11-23T19:55+09:00"
     },
     {
-     "title": "中国軍、配送大手の調達資格停止　「規則違反」",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWExUGh3T0JpX2Q4WTFVV1UtVWJWOWIwQmFMeDJQMnpyVml5UVhRRUc4eHZQeVJad2pKYVFQejlheUg3MWVlSXdGQTVfTHZPVmszTF9iV0NsSnFWYzJrMDVEUWFfdEdPeXBBUmRYdW5BYktHcG93U2dfX2hBYlBwaXZ2V2NYYlFBc2fSAY8BQVVfeXFMTW83cFJNOUw2bzV2Vk5KR3FOTmZKbmhlb1BPN2pKX002WGdzdGVvb1Fyb0hOZURNaEhlOGNlV1JPcS1zYnhnWnpkNG02d0hobDBVX01waWpSTC1GeXBwWktaT1dkRmZockdVZjd1YUtvVTZyLS13bTVXRHlHdVRjYTl5cU1rUlVMVm9SWVZhS0k?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-23T19:17+09:00"
+     "title": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DREVlY0g3Y1VqQU92cTA1TGI1YTVGMUQzTHlCVmtwVHdZcjRPbTAzaDZaazVQTHRKaDJTSGJzTnNMc2lFSHF2T3FUWmM1OENROTlqMVg3OHJOTXpoNlJj?oc=5",
+     "source": "東洋経済オンライン",
+     "at": "2026-11-23T11:30+09:00"
     },
     {
      "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
@@ -252,9 +252,9 @@
      "at": "2026-11-24T22:19+09:00"
     },
     {
-     "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wOFFvdmE2Z1lXZ0FxcS1mWWhydV9WTWhXSTRIUURaZERJaDhSWXF0UlJyNTBkaXhuVmZOUE00aWl4aW1NaXl4TE5JekFsc0x3dEVpX0Vfc2ZHLXdnZ2t0SHB3?oc=5",
-     "source": "読売新聞",
+     "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算（読売新聞オンライン）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWW9CS0ZHZ1J3Y3RPbEFFZUJsN0FLNE8xTFdIODNFRzhVZGlMODJpclI1TGxrVDUxOG5rdnhnZGpCUnpqWmxuMDUyRWRXS0tqNk9WcXhvMHl3bVM5UXhSTEpqQlFMbTVUNkpGVUlNY1VTdGpGWG9SbEUwcFJLSUk?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-24T22:18+09:00"
     },
     {
@@ -275,6 +275,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUtfaWJwcVdlUXlEalA2NWVwd0dGaXN1eVBGTHVxTHBQV1dHWEcwUVJqb1ZTTmQzZTBYUi03S28wSk1OWTVSQ0t3a1BRSFhJbWFuaU9qaUd4Vzk5OVVpUnNVTGJxWXN4RG5sYWstZ1dZMmhUNW1HaG9hUUhBYWVua2UtWEJBZw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-24T23:27+09:00"
+    },
     {
      "title": "ポーランド領内でロシアのミサイル3発が爆発したことを受け、NATOがポーランドにAWACS機を提供",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFlfZWdqMFFFNWpGQlVlczdtSldxcjVRT2FrN21jSHNpNWNqZkJyWUhLWk05QzZybmZaWUVUT0YyMkNXWUZJaTJyTDBJTlN5T1MtT21nNGtUSHFhVEF1ZF9kR3JjdXdDcDRVaUdkdEoyZ2dJdHRYNmhwSHZWVDVkcmxfTlUyQ2dqOWw3WW1HTGdVek81Y2wyZVNCaFRTVHlDaHFIdGNBWnBmUlIw?oc=5",
@@ -304,12 +310,6 @@
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cd0NhYURtMDJwQWRNOWU1YnhNZ3k1ekhrT2lhRjZSRGtCUzlXWFFIWTFUN1N4MHZTZnp1emlDd1NFYm1TbmJQSlZDVm9STHhNQjdpSHVPdzN0LWc?oc=5",
      "source": "ABEMA",
      "at": "2026-11-24T16:27+09:00"
-    },
-    {
-     "title": "NATO、ポーランドにAWACS配備へ－ロシアのミサイル侵入・落下受け",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3VGTTBXYS1SMm5ha3BYUHVENnNkLWtvTkNBVk55M3NjVWpyYk9Ia1VLdUU2WVlidGN2a3hMTEQxZjdaYXhrdVpqbV8wT3ZlcncyWDk3Z25RcHRkZ051cDBneFFocERrZlJZcDFRdmxITU1fWlpjMzFBbkZUYVpmdzA4WFotcWRiZlRhZHdMX3FCU0Et?oc=5",
-     "source": "Bloomberg.com",
-     "at": "2026-11-24T14:21+09:00"
     }
    ]
   }
@@ -369,15 +369,21 @@
    "at": "2026-11-24T21:22+09:00"
   },
   {
+   "title": "京王電鉄、ランサムウェア攻撃で最大約1,063万人の情報が漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TSmg4aGhRNG5oZE9RaXZhclhSV29ZczZabWVjTW5wV0V0ckdVRTl5VXI2aTNRXzFzTW5pVnVrREhYQlJrczhaTlhJSGpTQmV6RWU1RVB5OA?oc=5",
+   "source": "TRAICY（トライシー）",
+   "at": "2026-11-25T00:18+09:00"
+  },
+  {
    "title": "イランのサイバー攻撃で国交断絶もアルバニア政府高官単独取材「作戦変更」で脅威続く",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DR3IxQmE1eWdFR1BaR29lUTd4ZlpXeUwwRWMtQnJTWnUxbDVySHN5YWotM3VSVWhGZjNBVGtCdktHQ2JLdzBjMUNmUjczNU1BaVNaaGMycVZMdGFqZl9CZ3NQNzRUeUFrdlMzeVdvZTJveTRWRFlqTTd3?oc=5",
    "source": "テレ朝NEWS",
    "at": "2026-11-24T23:26+09:00"
   },
   {
-   "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wOFFvdmE2Z1lXZ0FxcS1mWWhydV9WTWhXSTRIUURaZERJaDhSWXF0UlJyNTBkaXhuVmZOUE00aWl4aW1NaXl4TE5JekFsc0x3dEVpX0Vfc2ZHLXdnZ2t0SHB3?oc=5",
-   "source": "読売新聞",
+   "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWW9CS0ZHZ1J3Y3RPbEFFZUJsN0FLNE8xTFdIODNFRzhVZGlMODJpclI1TGxrVDUxOG5rdnhnZGpCUnpqWmxuMDUyRWRXS0tqNk9WcXhvMHl3bVM5UXhSTEpqQlFMbTVUNkpGVUlNY1VTdGpGWG9SbEUwcFJLSUk?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-24T22:18+09:00"
   },
   {
@@ -417,6 +423,12 @@
    "at": "2026-11-24T19:54+09:00"
   },
   {
+   "title": "ランサムウェア攻撃",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0FsQklnZXJDRXEwcW9iNzhhVWlaQzZ0THRwdml2TEJkWHRuM0c1NXZKMWdLM1NLT2VfcC1GT3JQQ25LU1U2cGZrU09QeXMzeEpTQ3g2d3pRbk1SNTIzZGlYcWwyYVRuSFpvc3Y4ZVpCbS1qWHVtRnF2bktoQmdySXJqRHVkekU3ZDV2Z2FEcmh5YzhERV9DVW9xTE5VZklYbWdjd0p6Rm9qS2R6WEhIQTFsYnluT0ZqWjdJU2dfZjI0OUwxU09QVA?oc=5",
+   "source": "テクノエッジ TechnoEdge",
+   "at": "2026-11-24T19:42+09:00"
+  },
+  {
    "title": "京王電鉄、ランサムウェア攻撃で約1063万人の個人情報漏洩か",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GdEhMa3R1cWhaTUdFMVJxQ0g1ZDdCVFRNZ002NnFDYnEwRlFtUVNORlNvRUQ1Q0dFRjRZM0REd21jS3pGRzY2Y0l5LXVwYTItSmc?oc=5",
    "source": "激流オンライン",
@@ -435,25 +447,19 @@
    "at": "2026-11-24T19:36+09:00"
   },
   {
-   "title": "ＪＡＸＡのシステムに不正アクセス、２０００人分のアカウント情報漏えい…データ提供サイトの運用停止（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pbEVlZGVURE9Qd0t3aGIwY0preGlqZHB1cjdhekp6Sm9Hbi1WVlE0eXY0RllNVmFQRTktYVlGZGs2bHVBUDRyYjNuLWJxUGM0ZW0zY0lpWjZYakRtM1lHMmZRaW9rN21NLUdIQVFXTjlhM0NWTUZmUkZfY2hHT1E?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-24T19:31+09:00"
-  },
-  {
    "title": "化粧品販売のヴェレダ「クレカ情報が漏れた可能性」 4万5千人分 [情報漏洩・個人情報流出の最新ニュース]",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rVEFxVTlBQ0lRZG84OEdLY1VNSl82UkRFbktJRHVaWDBUbERkMG1aTHN2dmtrUjdRbUhZQVlGLU1GdmVza2tUYnpWR1NfZlV5c3RYYXQ4djJralFYUmEzYkdHR1o3eE0?oc=5",
    "source": "朝日新聞",
    "at": "2026-11-24T19:22+09:00"
-  },
-  {
-   "title": "京王G 顧客など1100万人以上情報漏えいか",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xWHEtLWxveGdiVFBZNGVXeG9XeHY3UGhUMWN1NUFmYXJrMEJOY2F6VXZXSTduM0xvN2IxRVNVM1pzbmNPZVJvTzN0ZVRDZnV0bjBsMmZnZ3Y?oc=5",
-   "source": "NCC長崎文化放送",
-   "at": "2026-11-24T19:20+09:00"
   }
  ],
  "tokyo": [
+  {
+   "title": "【速報】東京 大田区池上の集合住宅で火災 炎が上がる",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yTW52OGUxUnd2UFlXUzlRRFFEeHBwMTVWMHFJcUpjVXE2c1JuempPbWFBT0lWdnZVMkVWTjhtbmZMX1FSakwtR1NySlh0RlpkMWVsc0lLWEg5ODUtdTNQN0RUMkFpNFFnSlphc0lmVFk?oc=5",
+   "source": "https://newsdigest.j",
+   "at": "2026-11-24T21:20+09:00"
+  },
   {
    "title": "東京 世田谷区で停電 約2100軒 東京電力",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DaFF5NG50Mjc1bkg3VkNKMWUzUWhjM2FmYTRKWGQyaGRNZmtvWDNUMFhrLVIwWjZ2TDhBVHlGenM3d2NBQ01HQkVabDEwMXJuYnhGMnNaX21PY1NoM2FnaHFMQmRVMXZ0Y3FHZXlDMms?oc=5",
@@ -503,6 +509,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUtfaWJwcVdlUXlEalA2NWVwd0dGaXN1eVBGTHVxTHBQV1dHWEcwUVJqb1ZTTmQzZTBYUi03S28wSk1OWTVSQ0t3a1BRSFhJbWFuaU9qaUd4Vzk5OVVpUnNVTGJxWXN4RG5sYWstZ1dZMmhUNW1HaG9hUUhBYWVua2UtWEJBZw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-24T23:27+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "ポーランド領内でロシアのミサイル3発が爆発したことを受け、NATOがポーランドにAWACS機を提供",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFlfZWdqMFFFNWpGQlVlczdtSldxcjVRT2FrN21jSHNpNWNqZkJyWUhLWk05QzZybmZaWUVUT0YyMkNXWUZJaTJyTDBJTlN5T1MtT21nNGtUSHFhVEF1ZF9kR3JjdXdDcDRVaUdkdEoyZ2dJdHRYNmhwSHZWVDVkcmxfTlUyQ2dqOWw3WW1HTGdVek81Y2wyZVNCaFRTVHlDaHFIdGNBWnBmUlIw?oc=5",
    "source": "Informat.ro",
@@ -517,9 +530,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wOFFvdmE2Z1lXZ0FxcS1mWWhydV9WTWhXSTRIUURaZERJaDhSWXF0UlJyNTBkaXhuVmZOUE00aWl4aW1NaXl4TE5JekFsc0x3dEVpX0Vfc2ZHLXdnZ2t0SHB3?oc=5",
-   "source": "読売新聞",
+   "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算（読売新聞オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWW9CS0ZHZ1J3Y3RPbEFFZUJsN0FLNE8xTFdIODNFRzhVZGlMODJpclI1TGxrVDUxOG5rdnhnZGpCUnpqWmxuMDUyRWRXS0tqNk9WcXhvMHl3bVM5UXhSTEpqQlFMbTVUNkpGVUlNY1VTdGpGWG9SbEUwcFJLSUk?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-24T22:18+09:00",
    "topic": "ロシア"
   },
@@ -578,13 +591,6 @@
    "source": "風傳媒日本語版",
    "at": "2026-11-24T15:43+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "NATO、ポーランドにAWACS配備へ－ロシアのミサイル侵入・落下受け",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3VGTTBXYS1SMm5ha3BYUHVENnNkLWtvTkNBVk55M3NjVWpyYk9Ia1VLdUU2WVlidGN2a3hMTEQxZjdaYXhrdVpqbV8wT3ZlcncyWDk3Z25RcHRkZ051cDBneFFocERrZlJZcDFRdmxITU1fWlpjMzFBbkZUYVpmdzA4WFotcWRiZlRhZHdMX3FCU0Et?oc=5",
-   "source": "Bloomberg.com",
-   "at": "2026-11-24T14:21+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "北朝鮮・金与正氏、平壌のスイス外交事務所に「撤退を勧告」 制裁に反発",
@@ -647,7 +653,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」3件",
     "ロシア：「攻撃」4件",
-    "欧州・NATO：「攻撃」「ミサイル」5件"
+    "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
     {
