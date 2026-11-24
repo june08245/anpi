@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:45+09:00",
+ "updated": "2026-11-25T07:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-25T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-25T06:46:00+09:00",
+   "place": "福島県会津",
+   "mag": "3.8",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-25T05:32:00+09:00",
    "place": "福島県会津",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-24T06:00:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.1",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -102,28 +102,28 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米軍、イラン首脳部の排除作戦を検討　米報道",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRV9hb24wdGhhVVhVNF9TR0g5NEh6OS1JTjVIOXZDT19nTjA4bFo3VzB2cmg3ZlFPNnJBbTM1YXRMUUluVzFjN28zWTdqTlBHNFpqeXVtX3FMdFVISTVUYUNKdnB3VlhaanlQZFppUkJOZVMtM3pHVTdxbTlHSWFnamd6TjBFN3Ro0gGcAUFVX3lxTFBNZWJyUUlYbkRMYm51X0pRNndwaUJzVzY5LU1VLWd6ZFpRUnF5UG9FMlFzOUFzUmNIREIxekNCVFpaVFhGeEhmRjhZVlpxZ1BRTHh4Rkx5aWRIR2tLZ3JIT21qbnI5bTR0eXJsOWYxbTB6NUZKNTRES1lncEhvVjB6VkpBX2NKMFB4eDM4Q0VpSXEwZjZjZFZBT3Q1Qg?oc=5",
+     "source": "Chosunbiz",
+     "at": "2026-11-25T06:39+09:00"
+    },
+    {
      "title": "イラン革命防衛隊総司令官；「次の戦いは地域的なものではなくなる」",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZWjQ3NTJKcm13OF9ZLTJTd1RYUTd0dmdGbTVNZDYxVUhhVWZJZnhrb0RaUkxiRktTeTVUbjJVYmVCazY2TkkxT2RkQWtiZzlQNlhF?oc=5",
      "source": "Pars Today",
      "at": "2026-11-25T05:14+09:00"
     },
     {
+     "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-24T23:34+09:00"
+    },
+    {
      "title": "イスラエル軍、ネタニヤフ暫定首相にイラン再攻撃なら「広範な紛争に発展」と警告か…現地報道（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqWWYydGdrazR6X0xBR2c2NHNJRXFpNzFLMXNKUWVOQ2h2LVNGbEpySFN4UFJKNm5vMERNcXBtMW5OT3kzdXVvTF9TcGw4bFhaaFJnUDBXRkZsbW5UUlc2SG53b2t4RTR3UnlfNDREVlRVZ2NNQjdYZEt0cy1VNjg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-24T10:19+09:00"
-    },
-    {
-     "title": "米イラン交渉に転機！バンス氏がカタール首相と極秘会談、原油市場は供給過剰へ傾き始める",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVc4OENSM3V6VUE1N3R3YWp1NkRfZ2s5aGhYT1VxRU1ONDJpT0RJdF9Sa25DVXpqa2JSYkluMVF5cXhtRDJ3eEtnaDA4VnM4UHVCU2R2WURXMzlZak1tem1US1o5SVhLWDJkdUx6YXhLTjRKbEltV29CajJhTHVuMGp5S09oWHBQM1VQcElmazFzTEpKYnFHS1ZRb0NwS0p5dU1Jc3duQm5VVE1LY2JRT2VNRG12dw?oc=5",
-     "source": "Moomoo",
-     "at": "2026-11-24T10:10+09:00"
-    },
-    {
-     "title": "船舶へのサイバー攻撃、米がイランの関与調査＝ＷＳＪ",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVDZXZWQ2dGtXVmdhRC1rUGI5VEtJQkNCbkVoTWNNODlrZFVOdGd5Y0t0QUNnMEVnQ21hcllHZ3BHLUt5VUxZeHhlMVNURXpPSzBzVms1cnpqRUZOR0lRM0t5bmFMUkJRc01YbndhU21fdzFpMWNsVGJCTEU1Wlk?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-24T10:00+09:00"
     },
     {
      "title": "米上院民主党、イラン戦争の戦費補填を含む補正予算876億ドルを拒否",
@@ -198,10 +198,10 @@
      "at": "2026-11-24T13:19+09:00"
     },
     {
-     "title": "米朝首脳会談 なぜ“幻”に…？「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lVmVwMWNCV0xsa2RaMENWWld3MDdEOHBGdGp4XzF6elkzSDJ3UHdINlRjWk5IbVk1aWxEM3Y0WDVjbnNGVU81TEZMcHBndnhQejdCdTd5OVVCZl9OTEpF?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-24T12:41+09:00"
+     "title": "米朝首脳会談 なぜ“幻”に…?「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JREdIekR1TWtHQTNVMTVaZVFTbWl0TENGMHBPVkt1THhFMlA0U2ItNzVtYmVSS1ZsNVEtNHFuaGZ4Z0Nicy1fS0JVVFpwU09CbmtWYVAxUUJDNWdvR2czLWNoTTJ2UVFxRlFSNXpCNlYtdFVpTWctR2RSRS10djg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-24T12:29+09:00"
     },
     {
      "title": "北朝鮮の金与正氏、スイスの制裁に「汚らわしい行為」…平壌外交事務所の撤収を検討 (中央日報日本語版)",
@@ -310,6 +310,12 @@
  ],
  "nankai": [
   {
+   "title": "名大病院で南海トラフを想定した災害訓練 名古屋・昭和区（2026年11月24日掲載）｜中京テレビNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVm4wVE4wUWdyNkVVekU1cDk5QUM1YjlfX3NOZVZCbkRMQXRYR2lPUGFiVV80ZF9WMm9heHJNcGJzMnpkb2p4bV8xUTZYZUhhdHphT3lIcUpUSWljR1hhYmZxRmFnUXRNYkRROUtBVkQ5YWxfaDFubjZDMkNzM0xFOUMxWHRvQzQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-25T06:55+09:00"
+  },
+  {
    "title": "南海トラフ地震が発生したら… 名古屋大学病院で災害対応訓練 状況把握やトリアージを実施 医療物資を運ぶロボットも登場",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95NnlMUDJYdnJxcXA5Vk9LSjAyNU5KX0tkU1FKNHFjb1JaNGtzVFNlZDctOWMzLWdXR1RielBRcEdkUFVIUWNobVdoMGVrcFV1MG9GblNUMnl6MXU1UlE?oc=5",
    "source": "ライブドアニュース",
@@ -322,28 +328,22 @@
    "at": "2026-11-24T21:07+09:00"
   },
   {
+   "title": "画像 | 阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yNEl6M1VZWVlIdzVIbkZpZ0hxbV8xMjJFd3dtUTl2YTE1RjVSay15QjZ2M1BnTUlVazIzRURUWjRFRG5aOFBGa2dHaHU2RU0tUk4yMXVjMEs5a3c?oc=5",
+   "source": "PRESIDENT Online（プレジ",
+   "at": "2026-11-24T14:51+09:00"
+  },
+  {
    "title": "鎌田浩毅の役に立つ地学：南海トラフ地震の被害額 土木学会は1466兆円と推計／270",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdFlWQWo2N1BWZ1JEd1V2bEFtTGVJV1hsUFh0S1V2bExoN1ZYQjMyVkxwcFNQX0VDUjZfamhwX21uZkRPUWpidExXRGNsYWtQTEkyRHdxS2NOSnlweUpMclBsYVozUzlJSERydTBJaExoZFE5UWhNWGRScXYza1U?oc=5",
    "source": "週刊エコノミスト Online",
    "at": "2026-11-24T05:01+09:00"
   },
   {
-   "title": "画像 | 阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYTZFZU8tZ2VmZEFEbjJYMHJyUkRBV2plOEp4S1E0dGpyX2Jqb0dyYUZMd1VrX1hTd1dTUE9RMzk2aUNkNENNWjlublhtb2NRV1hwMVFWSGFpNkE?oc=5",
-   "source": "PRESIDENT Online（プレジ",
-   "at": "2026-11-23T23:38+09:00"
-  },
-  {
    "title": "阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQkF6Y1gwOXZ4MFNDSHA0N1h1Z2dmQmFxY3JqYzMxakNNUGZ5TkVIX04tdEk2eHNXWjRMQ05tR3Y5MDB5QThQVXlmMDZ3T1dPT2Ezb0tHNnVDSzBhaXBzWGxabGhqUWVXWk1na2FXbHVwYnA5azJadGdjZ1BHVkZ4RFJVSHd3X2Nf?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-23T19:15+09:00"
-  },
-  {
-   "title": "避難所の開設、自分たちの手で 南海トラフ地震に備えて訓練（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yTHd0enBXVEdNVk53LUd6S1V0WmltOTE5WU5ienpycGhocFgxTGgtc0RxWXp3WGRhTVFSc2otOU1QV1NMdlAxY3JFRFY3bEZtekxRUm5NckRyZGwza0ZCbVAxYlBUMmotWTRlYkdDejZpU0l0OVJ1X3FUSTBrbWs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-23T10:30+09:00"
   }
  ],
  "outage": [
@@ -357,12 +357,6 @@
  "japan": [],
  "cyber": [
   {
-   "title": "ビッグテック障害・安全性懸念で「脱クラウド」…オンプレミス・エッジコンピューティング台頭",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEFlNWg0X09Rb1pSREdnNFhJREdWVnZ6ZTZHMlppTzdWcHdOdk9MYm5RdWZ5OHpaYXZ4UkFKWkZPSXZQUjBhdnFRSlc0SnJlbGxwQ3hDR0UxOGhjZWtjTk11czRrU2ctdnhhVjIwUHJQbmVhVm9QbE5vcC1oa1oxMw?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-25T06:00+09:00"
-  },
-  {
    "title": "Bank of America CEO「銀行のシステム障害はハッキングではなくリアルタイムのセキュリティパッチが原因」",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Kc1pHS29MNkwtbkt1WkNnMDM5TDgzdzNhNkFaWWUtVVRNN1lKN3Y3cUJFaW9ob2VKbXU0d1pDZ0lUMkpSaUJrcFIzNTdXODRfZTZ2eE5KZ0pMUFE5SnhFdzBVUE9vZ1ZOekZ5ZlRPZmV2bTUy?oc=5",
    "source": "BigGo ファイナンス",
@@ -373,6 +367,24 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hajAyRVBnY2cwNXZJSjQ4Q2VuWjc1d2xKbFo0alI0U0VCbnVaRDhmRkpRQlBGaGsyUmZuRm5tSC11V0xZWm9MYlRWeTF5UWpwMHhqeU5tS0w?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-24T21:22+09:00"
+  },
+  {
+   "title": "CIAにハッキング、非機密データが流出",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1hQNndVSV84YU9UbXpjX2VGWWxBaWx0NWEzOERDZnIyQ2pOdmhELVd3WnNYZU9XM2NaWUhtOGVaYzFpTjR1ZmRYNElKOTlyUGFJN19MUU9YbF93bk9DeHdkQzE4eWxTRXFlVlRWMDAwczN4MUYxaExZUkdrTWk4YmNUZ3k1ODVw?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-25T06:55+09:00"
+  },
+  {
+   "title": "米CIAと国家情報長官室にサイバー攻撃、非機密情報流出",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTNTbkZpQ2l6bXQzZkhBdENWamZYS2dFaXl1TjNQTDVyaU9CVnIyTl9pZlRYUUdmbTE3MUNuOU1BcTN4T0xxZXhyNU5pajZLWWlaempOOGdyLWhubEVfN3BacUpaN3psVGkzNHZwVUdFY0FfOVJaVDlqOE9QeEJ5YlZyUGdGQmRz0gGcAUFVX3lxTE9hampOMHNTd2ZmSDE5dnRMeTdoTk9zbHVTWlo1Q0R1LWd1MlQ2SmVqQ1V2VnM1a0NKVU92WEZPM2ZQSXQ0RVpqelp1bDBWWkdvcjFoejNNbVZXdXhKQ0c3NFZIQnNyWFBhUlduWndNNnpPbTRJYTlWNVNyVGRxTmpnaC1lTXlWUkNIdl9lLUE3bzZVVExFaEdSY0RyYg?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-25T06:52+09:00"
+  },
+  {
+   "title": "アイ・エス・ビーのMDM「FiT SDM」「FiT サイネージ」に不正アクセス、全サービスを一時停止",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGs2UmpWbWQyZHg2Q09uWFh3OHEyeVIwYVdhcTk5QTlIR1FlblhoVTlvZ0tiYnNKaUp2NG5CX2xQcXRSR2dza0wxRGJid1pLTy1NR0xNYzNCby1FbDJsaFNkckRhN1FZUUQwQ1djdW1rekZLNVNOZUdfaHMxdVl4ZUltVEJMOFBnUGlNczU3N3FlWXpYLUd0VA?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-25T06:45+09:00"
   },
   {
    "title": "四国銀行、法人向けサービス「Mikatano」の情報漏えい-プレイド「KARTE」への不正アクセスで",
@@ -400,9 +412,9 @@
   },
   {
    "title": "「警告音。閉じられない」個人に身代金要求の攻撃も…相次ぐ不正アクセス　巧妙化する手口とは　北海道",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UTU52QWYwenpRS1IyekFaQV9ab1hYX2NlTHMzWk55YWxFYWQ0Qm0wZTVsOFdyNXhUNURiXy1tRXZPTW1Zd29LNHZ5ZUd6VUVaVHBxR2lOWWphMGdLMnM4dlZTcjFLQkxFREFjZXRWMlY4TzI0QjZPVEp3ONIBgAFBVV95cUxQTE0wVzVETE9QR0UwcHZHRmlic1diR0xIcE5SWVZpRm54aVk4bU9vLWt2RFAxV2FpR0NjaHJ2MVpZYUlwc3F6R0VwMk9OTFBZTXBlUlFRVW1xSm82UkRCQktPRjhneks0NzRxaDI2ZUpMWHdZSEg4MnBweG12V2ZvMw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-25T05:51+09:00"
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kd1VCdTNlYk1FWlRxYWItckF6cjJXZlB0Mi1LeUFrdTduVExET3FXTDk4Q2pEMW5EZkVkdmNDdHdEbVJSYndtOVNiLTZvOUp4WThGLWZISG5ER0dYcWlGZjFxVDJmcGJ3cU1QeEx2eFJiUdIBckFVX3lxTE9kd1VCdTNlYk1FWlRxYWItckF6cjJXZlB0Mi1LeUFrdTduVExET3FXTDk4Q2pEMW5EZkVkdmNDdHdEbVJSYndtOVNiLTZvOUp4WThGLWZISG5ER0dYcWlGZjFxVDJmcGJ3cU1QeEx2eFJiUQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-25T05:47+09:00"
   },
   {
    "title": "東宝「TOHO-ONE」、347万217件の情報漏洩の恐れ-委託先 プレイド「KARTE」への不正アクセスによるサイバー攻撃で",
@@ -433,18 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TUC1oNEFXbEJ2MmN1YVhxanh2aGVnelA0MTRIbXY2NmdnUnQtN1p0LVNvRVJ1TTZvRFk3UWVEcUpKaUFrTmtvRkNsb2ZCcmZZbUU5dndFU3JwM3QxRjZfU3dqWmFUTlpDZFo4R2ZTU3RvRUtw?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-25T05:35+09:00"
-  },
-  {
-   "title": "AIはサイバー攻撃の実行役から指揮官へ、目前に迫る戦慄の未来 Google予想",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92SmprM1VUdWxJTHB0ZEgxZHphd0NmdDJJeW0tVTM5SFU3X2NIZHZuOEIyejlhTlFOLXdqOTdSTmRJNlhJVzBrU0N5YUw1SzNuQkUwbWphSERMaDFIRk5XcTRia0FwUExQYWx6MQ?oc=5",
-   "source": "日経クロステック",
-   "at": "2026-11-25T05:00+09:00"
-  },
-  {
-   "title": "奈良：奈良県警に「サイバー警察部」 不正アクセスなど対策強化 ６６年以来の新設へ：地域ニュース",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwUXdUTVYxUmtPQ3FhcU81Szg0X2NtRWxldW5EWlhhcFVpY3JzS2xUR3RweWFkRERXdXluV3NwczlwdlI0UTZ6RE42aEFoa1VPWXotbUFONHFGWEYwTnI0TV9EWlg5WkdpdlpOOFlMVQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-25T05:00+09:00"
   }
  ],
  "tokyo": [
@@ -488,6 +488,13 @@
   }
  ],
  "world": [
+  {
+   "title": "米軍、イラン首脳部の排除作戦を検討　米報道",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRV9hb24wdGhhVVhVNF9TR0g5NEh6OS1JTjVIOXZDT19nTjA4bFo3VzB2cmg3ZlFPNnJBbTM1YXRMUUluVzFjN28zWTdqTlBHNFpqeXVtX3FMdFVISTVUYUNKdnB3VlhaanlQZFppUkJOZVMtM3pHVTdxbTlHSWFnamd6TjBFN3Ro0gGcAUFVX3lxTFBNZWJyUUlYbkRMYm51X0pRNndwaUJzVzY5LU1VLWd6ZFpRUnF5UG9FMlFzOUFzUmNIREIxekNCVFpaVFhGeEhmRjhZVlpxZ1BRTHh4Rkx5aWRIR2tLZ3JIT21qbnI5bTR0eXJsOWYxbTB6NUZKNTRES1lncEhvVjB6VkpBX2NKMFB4eDM4Q0VpSXEwZjZjZFZBT3Q1Qg?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-25T06:39+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ロシア海軍の最新ステルス艦が「大爆発」 真横から「刺客」が突入し撃沈する瞬間を捉えた映像が公開（1/2 ページ）",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EUW5FU3VxNnJnQXNhN1ZLTTR2dTZvZEFSZTFGSFNFald5b1dMWFBhVk1EcUN1THQ0Q1Q3cVBDNTNEaG9Cbnp6T0VB?oc=5",
@@ -559,6 +566,13 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-24T23:34+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUtfaWJwcVdlUXlEalA2NWVwd0dGaXN1eVBGTHVxTHBQV1dHWEcwUVJqb1ZTTmQzZTBYUi03S28wSk1OWTVSQ0t3a1BRSFhJbWFuaU9qaUd4Vzk5OVVpUnNVTGJxWXN4RG5sYWstZ1dZMmhUNW1HaG9hUUhBYWVua2UtWEJBZw?oc=5",
    "source": "Reuters",
@@ -613,20 +627,6 @@
    "source": "日本経済新聞",
    "at": "2026-11-24T13:19+09:00",
    "topic": "北朝鮮"
-  },
-  {
-   "title": "米朝首脳会談 なぜ“幻”に…？「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lVmVwMWNCV0xsa2RaMENWWld3MDdEOHBGdGp4XzF6elkzSDJ3UHdINlRjWk5IbVk1aWxEM3Y0WDVjbnNGVU81TEZMcHBndnhQejdCdTd5OVVCZl9OTEpF?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-24T12:41+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "北朝鮮の金与正氏、スイスの制裁に「汚らわしい行為」…平壌外交事務所の撤収を検討 (中央日報日本語版)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnc3YXMtbzZVQzdGRmdMTEpGWTRGc1RBZkllMHV0Q1MyeUpDTFRpZXVmNnlJRkVkVTVibHNvWEY0SENaUGNsaDhZUGlNdTRxUDhBVk1Kd05RQ1Q2dDlTNUlqZnNkUUdFOEFxekhCNWxJYzhNWlFXcm5manU4Vkl4STQ5WjAzRm9XT0JPdlRB?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-24T11:39+09:00",
-   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -645,7 +645,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」2件",
+    "イラン・アメリカ：「攻撃」1件",
     "ロシア：「攻撃」「報復」4件",
     "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
