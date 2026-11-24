@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:30+09:00",
+ "updated": "2026-11-24T09:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -114,6 +114,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米上院民主党、イラン戦争の戦費補填を含む補正予算876億ドルを拒否",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDNfb01jcmFvSVQ1RHpSVUcyYU9BRHIzM3I2My1FT3lvSnkyb3UtYVBqTnZfZVJUb201Ri0tbXQ1TURhZXo1cnBJaEhKcV9TNHc1eEQzQ0J2TUFFVUlOclRocklBSDF0SFIybmZwUlNQY05mZXdmOGpLTTFoaW9zOElteWMtNmlFTzh6VVNWd1dVV0dQOFZITWFjc0NTdVphanBLQThzWGZFbGRFWHNFbUZtX0RQbHk5ZGtEeW5rWElrcDJXV0NnUXg3S0xZbklnbkxTQw?oc=5",
+     "source": "航空万能論GF",
+     "at": "2026-11-24T09:27+09:00"
+    },
+    {
      "title": "米、イランの影の銀行網に制裁 数十の個人・団体対象",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2YkY0S0lCUlZzNldZeDVjdXUyTXRxdWgtV05GZ3pJQ3BBRnlmVVBHV1NxbFRrWjZFb3p6ZVp5bjdTX294S2dMdDduX2czZXFBWFhMVENyaVlkbGVScEpvdmlQUVZkME5VQ0ZOU3Z6blBER2o4UnRZMk1KNnZWWXM?oc=5",
      "source": "Reuters",
@@ -138,15 +144,9 @@
      "at": "2026-11-24T00:25+09:00"
     },
     {
-     "title": "イランは、 米国との長期戦争の準備ができている外交の余地がないと主張する",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHdSYWdhb0lGTkJRSHhEZXR3MmZCeHU1VFl2V1d5WENWSGRacFRmc3BWd05jQ3ZRSXY0OWJibDlQX2F4SnlJODZ6cERzS3c3LVhuRlg2enFyOGlhbEw5Wk1Wd3VIbnp6SzNPdFJvdTZnRU5FaVJVcC1RM0hyV2NOT0Fqa0czUnlkRG1KYkt1Y280eXFUb0VhRlNFVFVHR0JzeWR1Uw?oc=5",
-     "source": "VOI.ID",
-     "at": "2026-11-23T18:20+09:00"
-    },
-    {
-     "title": "イラン、商船への攻撃強化か　ホルムズ海峡、米政権揺さぶり",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2F5dUE2ZDltT3dRU05qRGJ0RnkxNGxNdThyUGpZODJuSnMySTBpYkYtWFpSMGw3X1RlSTdhU1V5VUhIeThJeXB1VHZlMkdybUdKX1VYZFZ6TjUwcjN2bm05a0NXZ09tSWtaaF8zYlZwNW1sX25QOE9Ca1NoLVI5eDNILV9ZTEhEMnfSAY8BQVVfeXFMTWJFSVhxWXZFMVpCODVBVW1tWHdReVJrMnFya1hjRm5oWkFjTXhfai12cW4tdmVZTXE1ZXljaUI0djNiSkFpYlpUcW1EUzhXMldDVTZVTGlIV1BhSVl6R0RVejd2MUJtLVlweEwyaUlhYXdaYzhFUExqU2RGWGhaaTNQRTRJZGFRc1NyUHRKLVk?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "イラン、商船への攻撃強化か ホルムズ海峡、米政権揺さぶり",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUEwzdXItX1M4Mnktc1BYUVhBdHFHX2Q4alFtTWYwdTVEbVpTSmxNemxNQ01ZWWltS1kwM0dfZno0TEhQcW9Rc2J2ZXhpclNDd2stTGhRSVVQQQ?oc=5",
+     "source": "山陽新聞",
      "at": "2026-11-23T16:23+09:00"
     }
    ]
@@ -204,12 +204,6 @@
      "at": "2026-11-24T08:59+09:00"
     },
     {
-     "title": "北朝鮮、スイス外交事務所の閉鎖を警告 新たな制裁に反発",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGdIb0g0WnA1YmZvc1I0OUE3RmxzRzBJX0F4VUhYMjRfMDVlVExWYWhySy1zdmd1VHh5Y2pDZWpJY3huWmswRWh1Tzd1Qy15TE5VZnhqU3E3MEpLTEpXNFJyY0Q3MXpYamVZSjVUVWNkaG_SAXhBVV95cUxQN3R0VDYxcXlnUlhxbkJKZ3ZIUnBKbUxzVVNGVmVWLUZ6WXlBQlM2Y0xiZ0w4ZjhSdU9YTU5sMEx3dnpsRENzTGhIWTg3QXIyTmdpUWtTWTg3RHdlZFVQUUprMEEtcGJXTzlxX0laTkJoS0FTQlM3XzE?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-24T08:49+09:00"
-    },
-    {
      "title": "北朝鮮、スイス外交事務所の閉鎖検討 制裁措置受け＝ＫＣＮＡ（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ySC1HOG9PYVZmRmt5dW1KZU1Vc1YxVlFoNE1iQU9EelUyOGhCUWM2eFk2NXEtZ1A5M1pmcHRlLXlfS0FoV09hSEJ2Q0ZlbUVnaVNBZGwweEowVmlVb05iTHBXQlhVSEdPSENQMzJxT09GRl9kZjl0bDVLc1VKTUk?oc=5",
      "source": "Yahoo!ニュース",
@@ -222,16 +216,22 @@
      "at": "2026-11-24T08:23+09:00"
     },
     {
-     "title": "24日午前7時52分頃、北朝鮮の航空機と推定される飛行体が領空を侵犯した。 慶尚北道鬱陵郡（キョンサンブクド·ウルルングン）地域に警戒警報が出された。行政安全部によると、行安部は同日、鬱陵郡地域で受信..",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KWGM1UzZIbW9lS3hSeHQxOHlEdmZQeDh1cXNBYWVfU1VhWFptaFNVOURsX1JHSGhobTRQWXpyVW5hN21IUm95U2pWcDFwa0V1enc?oc=5",
-     "source": "매일경제",
-     "at": "2026-11-24T08:06+09:00"
+     "title": "北朝鮮、スイス外交事務所の閉鎖を警告 新たな制裁に反発",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOG9SV0E5VEZial93RVpyWEY3ZTZyX0VIVEZHWXJMWmNRcVhIUVdFQ0M5VE9jbHZoMEV6UU9HY0tPQmRUVEotTFVmazdxZDdIN081VEhaQjREWFk2WUdlQ0UwZ3VXUGdnUGhnTlpsRS12OE0yZ21OMWlRdUxoaUEtTmVBb3gwUdIBeEFVX3lxTFA3dHRUNjFxeWdSWHFuQkpndkhScEptTHNVU0ZWZVYtRnpZeUFCUzZjTGJnTDhmOFJ1T1hNTmwwTHd2emxEQ3NMaEhZODdBcjJOZ2lRa1NZODdEd2VkVVBRSmswQS1wYldPOXFfSVpOQmhLQVNCUzdfMQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-24T08:07+09:00"
+    },
+    {
+     "title": "対話条件引き上げる金正恩氏…韓国、北朝鮮の核問題「新たな解決策」見出せるか : 政治•社会",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzbDctT25VX3YxODJuWU9MSlNpVXFRc1ZMRXE1NHp4eXpOWkl2QXZLT2xILUFYalZQblltdXg4WVJkckpHNFFwWTNHNUFQcXBnamQyc2loTEp0ZGxtU0E?oc=5",
+     "source": "ハンギョレ新聞",
+     "at": "2026-11-24T01:20+09:00"
     },
     {
      "title": "米朝首脳会談 なぜ“幻”に…？「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qV1RvUktjXy1qRzlCQXNQdG1kSWhRTk41YS1JT0RqUW4wOGlTM1JRV1hGTngzSVhKVWNLLWVybVhzc2dWY3JMNmQxZmowcTlaNVR4SnVRbHFUVDVV?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01UUJpN0lrQ1AyRTVqTDRRSDhyNk1zTGZqR0dHY1I3bEtXNkMtZWg5TjBQQWJybnAxVTBhalAwb19tSFd5bGxxU3Z6NUpWbkI3RzZ6NFpKOA?oc=5",
      "source": "TBS NEWS DIG",
-     "at": "2026-11-24T01:40+09:00"
+     "at": "2026-11-24T00:58+09:00"
     }
    ]
   },
@@ -294,28 +294,28 @@
      "at": "2026-11-24T08:40+09:00"
     },
     {
-     "title": "NATOと独 対外国境の防衛強化へ",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDVTQ3Y2lTUFN5TG03U1AxakdDUHZwNEdHT0tyNzdNb251OThuTzA2QzI4bTRUV2VSLTh6RGlVZ1NCdWZIOUxXUHRGTE5DUFdrM3JxYUc0RzJMZ0tIWFR0U09mWjBENWRBb3pFNNIBbEFVX3lxTFBDVTQ3Y2lTUFN5TG03U1AxakdDUHZwNEdHT0tyNzdNb251OThuTzA2QzI4bTRUV2VSLTh6RGlVZ1NCdWZIOUxXUHRGTE5DUFdrM3JxYUc0RzJMZ0tIWFR0U09mWjBENWRBb3pFNA?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-24T08:29+09:00"
-    },
-    {
      "title": "ポーランドに空中警戒管制機 NATOが配備、ロシアの巡航ミサイルが領空侵入して落下",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nWS1sT2hHVHp1V2o5RzNCNG5GLWRSUXdZOUYweTQzRHZsRjB0RnYzd29UQVRNUWU5aG1JTVAwbF83QmxDQ1V3OEVOaHZNNW5XU1FHSVRMVmRhdWFyYUJYMGxOWHdIM1k0bkVCZV8yX05DWkk4Q0E?oc=5",
      "source": "産経ニュース",
      "at": "2026-11-24T08:23+09:00"
     },
     {
-     "title": "NATOと独　対外国境防衛強化へ　露ミサイル領空侵犯や黒海でのドローン攻撃受け",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS29SSlV2SGV2alM0QXR0b3J0TnZXcS05bUtvcmxvWnh4WmliQ3dHSXRDeFhlbzRoVDhCb0NZWE1UVjcwbV9uVW03RzBsem9NaVlqX2t5OVpfQjQzckpVZFdEYmd4MVBEdEYtazROVzlfOWxVdVg3VnozT2ZJMEJTenMwUVE5QdIBiwFBVV95cUxOaHlmQWk5MmZKZjdGYWVpN1FrVkotcnB6RXh5c2RINUNqbTJOMGlaVUk3ODlwSVNCNl91YkZvWmowR0dwS1ZMZEhhWkc5Q2UtejJoM2F3QXZ2UVBRczFlS0s5cDdJSjRjZDUyNkJUanJuMk1LYzFGWV91MldwdHljYy1XT1VSR1JOaTI0?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-24T06:56+09:00"
+     "title": "NATOと独 対外国境防衛強化へ 露ミサイル領空侵犯や黒海でのドローン攻撃受け",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGX0NGVFVfVGdraXhoa0dCazhOLVhBU1FoakNjQk5pZXVMX05xNkpwbzVMTDdvNXowaXItY3hURnFLc0tYSXJSaE9mc3JQZHB2ZGNKN3NNNy1pbXo3aGpfVkd2b3hnbTBXcThYV0w0WVY2Nm16eFl0SE1R?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-24T07:23+09:00"
     },
     {
      "title": "NATO新戦略「勝利の論理」とは？ロシア領深部への攻撃、戦争の教訓を踏まえた変化とは？（Wedge（ウェッジ））",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFhZWmpBbGlCRG40S0RvZEVPTEF5bHppM2FwY0RGZk9ZWEN4bFVIdUV3ZmJ2d2FkVldBQk80YWZBZHdBaE41VkpMN3BoLU90aTdQd3NRUndRbUJTcUVNQk1HeV9hWlNEN3RoMm5hbHdhNXBwLTJvcGxFWmRVQ1RRTkF0YXY1el9P?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-24T06:38+09:00"
+    },
+    {
+     "title": "ＮＡＴＯ、ポーランドに警戒管制機派遣へ　ロシア製ミサイル着弾受け",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42ZUh3V1pDc24yaGpZUlJPVTVGVkRXNVpGWFJ4aFdXZVlXNmpPT0hlMmVGS2ZzNFc2OEVBUS1aRVpiWTliOWlSbW5PZ0Q3NGhKZ3R5OWxucTc1OTkzYWJGa2p1Z2JfVG1TM01lM2RlUHRGM2k0dFdlQU5ndTJVUdIBgwFBVV95cUxPSmI0Qk1mX3UyWjAzdEVKdXVHUTVOSEhzMDZlTzI3dGhjZkNnWVc5RjUzejNlZ3gxQXctc3hBYUpMWXdkUUYyMm1oRVM2M21TYWRXc1ZZQ2lZV2haSngyZEtHeVZlVEVpOGlnOW9Pb0QzOE9td05JN0RBUVpIUXVDcmtWUQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-24T05:21+09:00"
     }
    ]
   }
@@ -381,10 +381,10 @@
    "at": "2026-11-24T05:00+09:00"
   },
   {
-   "title": "KB5132057をインストールできない不具合。0x800f0993、0x80070306などのエラーで失敗。一部Windows11 PCで発生",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NeFU1VklkWFIxek5RNmZDMVIyWVFfSmtVdEMzMHljLXBGVG1TZlJRYnFXRTJVVGs0eEU0RHZXd1FZaDZTOGdZNGJGZFozckc5WTBuMUJEdHVsOFVBd3BWbWhoTUM?oc=5",
-   "source": "ニッチなPCゲーマーの環境構築Z",
-   "at": "2026-11-24T01:00+09:00"
+   "title": "長島・大野・常松法律事務所に不正アクセス、個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORm1CbHZESGV4OVd4OXhsdk9PSHpOZFhSNGdlU281V2Z0dmZoWDI4dm5RenZMYkFfdmNZNVVwc1dwWGtGb2dZMmgzYmRsUWE4ZjY1R0NSZzVMNVNGSEtkUXZmV0ZkOFZlNTN1Y1lmX2VHeFJwUVN2a2tMTE80cHVoczZEcDlfZ3hBM0hoZGIzZ0s5UlE2QUF5cXJib2YyNkpyUE9lOFRaNTFaaFluc0E?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-24T09:30+09:00"
   },
   {
    "title": "東日本最大の「アスクル」新物流拠点、ＡＩでシステム脆弱性を診断…サイバー攻撃受け２４時間監視・出荷能力４割増",
@@ -403,6 +403,12 @@
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXYlU3TDlkNTRSZ3hrZ09weTIwZERpTmlGcndyLU9RMmFBcWY3ZzFDN1BxTmpwYXN0UTZIR2ZteU5jU3c?oc=5",
    "source": "CoinPost",
    "at": "2026-11-24T09:20+09:00"
+  },
+  {
+   "title": "タワーレコード オンラインに不正アクセス、会員情報約1,100万件が流出 ログイン情報は1,021万件超",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WaUpQUlJmY0l5QXlYTGtXbmVmR0xtQjEwYUVic0FEeUh4M2k0N2JEbGdGVW9aY2YyMnM0aWJGclNQdzExeEx0cA?oc=5",
+   "source": "株式会社アクト",
+   "at": "2026-11-24T09:17+09:00"
   },
   {
    "title": "佐川急便「SAGAWA手ぶらサービス」に不正アクセス、約1.3万人の個人情報漏洩の恐れ-お荷物問い合わせサービスとは別 インシデント|セキュリティニュースのセキュリティ対策Lab",
@@ -424,7 +430,7 @@
   },
   {
    "title": "インフキュリオン[438A]：「Wallet Station」への不正アクセスによる個人情報漏えいに関するお詫びと緊急点検の状況について（第３報） 2026年11月24日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tUUlYY1lTMHd4bkR5cFRTeWZ0eHBwWVRJcnBLdXBZdGc1cnZlaUZKY3ozVXQ3T1Y5MGVDNml6X1p2OUlVRS04ZGxwSmtWTGM4cm1QYzJUaFUzWkNUbGJIc2VlQmJnQlhDX2c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNekZmRkJDZ2U0NHd2N0dXM3lIOUlSQWpXekUyMGU1d1l1UUY5Y21fZUo0RGVnNGVqUE9zdjdfWDRvd0hfUTZHRTNydW5kR1laenY3dGFXYThMTW4wMkRrNDFvQmxHam4zRmpzbjJFblN3Wk0xS0w1N0Y1UjJOZFN6NkxhaDJHNkRaeFhqeEZuMlM0NG1LZkJEZjA3eS1vREZNMjVtRXMtRl96R21fTVZVbkJtcVlJdGdIMnlscTlUNTV1SmRLSHN1TlRKcDE?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-24T08:30+09:00"
   },
@@ -447,16 +453,10 @@
    "at": "2026-11-24T08:05+09:00"
   },
   {
-   "title": "プレイドが不正アクセスによる「KARTE」停止について調査結果とサービス再開の見通し公表",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmtMZWJaNS1LeU45ck5QekVrRDR2QU8tdklROHZPQ2VydVRPV2RTNk5pUHJLUEg2MEs3WlpmYmFMUXRBZm95UUFGMVFYNm5wSElOSXFucXNRN3VTLUxNXzVaX1NJbVpPN1VxOFk0UWJpMjNtXzNpb2MzVVJUYVJDTnBQSVBsMzg3eENpSWhnQmd2bFRIbU5abVVXcGY5TE8zemZfOGFQZ1FtRm_SAbABQVVfeXFMUDUzbWY2SV9qeDlPTnRWYzBxaVBIZlJqeVVRU3FLektTVloxdlJ4ampHc3h2Qk8yaXoxM0tkd1AxbDIyRGhUVDhROGtnY3pQS2M5clE5MWt0eTlla2QxcUdUTHd4NUVDQzhMaUU4TXcweEt4SERVSDBVM1EwNWxzOVIxUTBYZmJIT1RneDBPbHMzZnlSTG41TjdvYTZCVXFiTWZaUzlVSnpNTURFYTdWaFM?oc=5",
+   "title": "決済画面のプログラムが改ざんでカード情報が漏えいの可能性。「六花亭オンラインショップ」への不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3NSTHBlNy1YYThBOEdPZkU1RXR3eXhXeXVjVHJ2MUVmTXE5aXY4STdiQXJlVkoxNzJDbk14U0Z6NU56U1pTbHR1UTFJMHFTOEk2b19HcnluMTR4NzdDWm55SDQwVHZvREItb0pkak1MbG9xOGgtUFd4WDlKc1pxZlhCbjNLY1Y3RW9iWURWaGZubXg4VVhmZUw0OU5BSXlKNHhpNFQ3VG9GRWpxRGZr0gG0AUFVX3lxTFBNTFJGMUJHY21hY0YtRGhiQjNjQlhfeWNvLV95SVBFM3RBTzVQbDVSdTk4ejFfWlJjc21MTVNJSlcta2FzQXJMa3FKdGVyMk9PR1J0MnlJbk5LRlljRlIwTEM0c0NaOENRTWJaS1BXRnNnYVVYY3MxeFFUN2xfM0tKTkNWeWd6RFNaM3JBRHE4enlEdkNHY05wTUhBdUFkTUJlbWwwUTJDUEtDWG5tdm1BcG0zdg?oc=5",
    "source": "ｄメニューニュース",
-   "at": "2026-11-24T07:47+09:00"
-  },
-  {
-   "title": "アイルのSaaS検証環境に不正アクセス、実在する顧客情報・API認証情報が流出 CROSS MALL・CROSS POINT本番環境への侵入は確認されず|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0VoZDZ0NGZzSTU3R3R3cEk0bEZ3ak9uZnpRLTlZTHpMVVlKMk4waGVyT0VZYndwMW1sWXhVbi0zX2d1LUx0bVNxbTJkLVRGa2twUi1uUEdXcjJaSThrYk5PV2haMUdrN0FBYXlXc3hhTElQQnN1T040a01Zbm5WdmV1c0Y3S053SHpCY09zT1RTMUhYekZhY2hzTzRzSXhSc29Gb3cwZllfVVBIdFBHMkJR?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-24T07:30+09:00"
+   "at": "2026-11-24T07:52+09:00"
   }
  ],
  "tokyo": [
@@ -481,6 +481,13 @@
  ],
  "osaka": [],
  "world": [
+  {
+   "title": "米上院民主党、イラン戦争の戦費補填を含む補正予算876億ドルを拒否",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDNfb01jcmFvSVQ1RHpSVUcyYU9BRHIzM3I2My1FT3lvSnkyb3UtYVBqTnZfZVJUb201Ri0tbXQ1TURhZXo1cnBJaEhKcV9TNHc1eEQzQ0J2TUFFVUlOclRocklBSDF0SFIybmZwUlNQY05mZXdmOGpLTTFoaW9zOElteWMtNmlFTzh6VVNWd1dVV0dQOFZITWFjc0NTdVphanBLQThzWGZFbGRFWHNFbUZtX0RQbHk5ZGtEeW5rWElrcDJXV0NnUXg3S0xZbklnbkxTQw?oc=5",
+   "source": "航空万能論GF",
+   "at": "2026-11-24T09:27+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "プーチン大統領、米中ロ3カ国首脳会談後にウクライナを大規模攻撃…キーウ近郊攻撃で少なくとも15人死亡",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZVIxN1B3U3FKUlI2TTFJSURPdzJadU9heUN2LUM3R2pMZy01YjMxQnlQLXNjaElMT3lBa3pxNmREWnN0VTJlcXVZY28wMGhka3RpRHBBeGpPdXQ2VjhLTHVacXZFN292UUZ2OWRQUFZjZTZjbk91VC1kQWQ1MWc?oc=5",
@@ -524,13 +531,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "北朝鮮、スイス外交事務所の閉鎖を警告 新たな制裁に反発",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGdIb0g0WnA1YmZvc1I0OUE3RmxzRzBJX0F4VUhYMjRfMDVlVExWYWhySy1zdmd1VHh5Y2pDZWpJY3huWmswRWh1Tzd1Qy15TE5VZnhqU3E3MEpLTEpXNFJyY0Q3MXpYamVZSjVUVWNkaG_SAXhBVV95cUxQN3R0VDYxcXlnUlhxbkJKZ3ZIUnBKbUxzVVNGVmVWLUZ6WXlBQlM2Y0xiZ0w4ZjhSdU9YTU5sMEx3dnpsRENzTGhIWTg3QXIyTmdpUWtTWTg3RHdlZFVQUUprMEEtcGJXTzlxX0laTkJoS0FTQlM3XzE?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-24T08:49+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "北朝鮮、スイス外交事務所の閉鎖検討 制裁措置受け＝ＫＣＮＡ（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ySC1HOG9PYVZmRmt5dW1KZU1Vc1YxVlFoNE1iQU9EelUyOGhCUWM2eFk2NXEtZ1A5M1pmcHRlLXlfS0FoV09hSEJ2Q0ZlbUVnaVNBZGwweEowVmlVb05iTHBXQlhVSEdPSENQMzJxT09GRl9kZjl0bDVLc1VKTUk?oc=5",
    "source": "Yahoo!ニュース",
@@ -543,13 +543,6 @@
    "source": "AFPBB News",
    "at": "2026-11-24T08:40+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "NATOと独 対外国境の防衛強化へ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDVTQ3Y2lTUFN5TG03U1AxakdDUHZwNEdHT0tyNzdNb251OThuTzA2QzI4bTRUV2VSLTh6RGlVZ1NCdWZIOUxXUHRGTE5DUFdrM3JxYUc0RzJMZ0tIWFR0U09mWjBENWRBb3pFNNIBbEFVX3lxTFBDVTQ3Y2lTUFN5TG03U1AxakdDUHZwNEdHT0tyNzdNb251OThuTzA2QzI4bTRUV2VSLTh6RGlVZ1NCdWZIOUxXUHRGTE5DUFdrM3JxYUc0RzJMZ0tIWFR0U09mWjBENWRBb3pFNA?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-24T08:29+09:00",
-   "topic": "欧州・NATO"
   },
   {
    "title": "［速報］北朝鮮航空機とみられる飛行体が韓国領空を侵犯か",
@@ -566,10 +559,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "24日午前7時52分頃、北朝鮮の航空機と推定される飛行体が領空を侵犯した。 慶尚北道鬱陵郡（キョンサンブクド·ウルルングン）地域に警戒警報が出された。行政安全部によると、行安部は同日、鬱陵郡地域で受信..",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KWGM1UzZIbW9lS3hSeHQxOHlEdmZQeDh1cXNBYWVfU1VhWFptaFNVOURsX1JHSGhobTRQWXpyVW5hN21IUm95U2pWcDFwa0V1enc?oc=5",
-   "source": "매일경제",
-   "at": "2026-11-24T08:06+09:00",
+   "title": "北朝鮮、スイス外交事務所の閉鎖を警告 新たな制裁に反発",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOG9SV0E5VEZial93RVpyWEY3ZTZyX0VIVEZHWXJMWmNRcVhIUVdFQ0M5VE9jbHZoMEV6UU9HY0tPQmRUVEotTFVmazdxZDdIN081VEhaQjREWFk2WUdlQ0UwZ3VXUGdnUGhnTlpsRS12OE0yZ21OMWlRdUxoaUEtTmVBb3gwUdIBeEFVX3lxTFA3dHRUNjFxeWdSWHFuQkpndkhScEptTHNVU0ZWZVYtRnpZeUFCUzZjTGJnTDhmOFJ1T1hNTmwwTHd2emxEQ3NMaEhZODdBcjJOZ2lRa1NZODdEd2VkVVBRSmswQS1wYldPOXFfSVpOQmhLQVNCUzdfMQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-24T08:07+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -580,6 +573,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "NATOと独 対外国境防衛強化へ 露ミサイル領空侵犯や黒海でのドローン攻撃受け",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGX0NGVFVfVGdraXhoa0dCazhOLVhBU1FoakNjQk5pZXVMX05xNkpwbzVMTDdvNXowaXItY3hURnFLc0tYSXJSaE9mc3JQZHB2ZGNKN3NNNy1pbXo3aGpfVkd2b3hnbTBXcThYV0w0WVY2Nm16eFl0SE1R?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-24T07:23+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "米、イランの影の銀行網に制裁 数十の個人・団体対象",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2YkY0S0lCUlZzNldZeDVjdXUyTXRxdWgtV05GZ3pJQ3BBRnlmVVBHV1NxbFRrWjZFb3p6ZVp5bjdTX294S2dMdDduX2czZXFBWFhMVENyaVlkbGVScEpvdmlQUVZkME5VQ0ZOU3Z6blBER2o4UnRZMk1KNnZWWXM?oc=5",
    "source": "Reuters",
@@ -587,17 +587,17 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "NATOと独　対外国境防衛強化へ　露ミサイル領空侵犯や黒海でのドローン攻撃受け",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS29SSlV2SGV2alM0QXR0b3J0TnZXcS05bUtvcmxvWnh4WmliQ3dHSXRDeFhlbzRoVDhCb0NZWE1UVjcwbV9uVW03RzBsem9NaVlqX2t5OVpfQjQzckpVZFdEYmd4MVBEdEYtazROVzlfOWxVdVg3VnozT2ZJMEJTenMwUVE5QdIBiwFBVV95cUxOaHlmQWk5MmZKZjdGYWVpN1FrVkotcnB6RXh5c2RINUNqbTJOMGlaVUk3ODlwSVNCNl91YkZvWmowR0dwS1ZMZEhhWkc5Q2UtejJoM2F3QXZ2UVBRczFlS0s5cDdJSjRjZDUyNkJUanJuMk1LYzFGWV91MldwdHljYy1XT1VSR1JOaTI0?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-24T06:56+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "NATO新戦略「勝利の論理」とは？ロシア領深部への攻撃、戦争の教訓を踏まえた変化とは？（Wedge（ウェッジ））",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFhZWmpBbGlCRG40S0RvZEVPTEF5bHppM2FwY0RGZk9ZWEN4bFVIdUV3ZmJ2d2FkVldBQk80YWZBZHdBaE41VkpMN3BoLU90aTdQd3NRUndRbUJTcUVNQk1HeV9hWlNEN3RoMm5hbHdhNXBwLTJvcGxFWmRVQ1RRTkF0YXY1el9P?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-24T06:38+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "ＮＡＴＯ、ポーランドに警戒管制機派遣へ　ロシア製ミサイル着弾受け",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42ZUh3V1pDc24yaGpZUlJPVTVGVkRXNVpGWFJ4aFdXZVlXNmpPT0hlMmVGS2ZzNFc2OEVBUS1aRVpiWTliOWlSbW5PZ0Q3NGhKZ3R5OWxucTc1OTkzYWJGa2p1Z2JfVG1TM01lM2RlUHRGM2k0dFdlQU5ndTJVUdIBgwFBVV95cUxPSmI0Qk1mX3UyWjAzdEVKdXVHUTVOSEhzMDZlTzI3dGhjZkNnWVc5RjUzejNlZ3gxQXctc3hBYUpMWXdkUUYyMm1oRVM2M21TYWRXc1ZZQ2lZV2haSngyZEtHeVZlVEVpOGlnOW9Pb0QzOE9td05JN0RBUVpIUXVDcmtWUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-24T05:21+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -615,10 +615,10 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "米朝首脳会談 なぜ“幻”に…？「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qV1RvUktjXy1qRzlCQXNQdG1kSWhRTk41YS1JT0RqUW4wOGlTM1JRV1hGTngzSVhKVWNLLWVybVhzc2dWY3JMNmQxZmowcTlaNVR4SnVRbHFUVDVV?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-24T01:40+09:00",
+   "title": "対話条件引き上げる金正恩氏…韓国、北朝鮮の核問題「新たな解決策」見出せるか : 政治•社会",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzbDctT25VX3YxODJuWU9MSlNpVXFRc1ZMRXE1NHp4eXpOWkl2QXZLT2xILUFYalZQblltdXg4WVJkckpHNFFwWTNHNUFQcXBnamQyc2loTEp0ZGxtU0E?oc=5",
+   "source": "ハンギョレ新聞",
+   "at": "2026-11-24T01:20+09:00",
    "topic": "北朝鮮"
   }
  ],
@@ -641,7 +641,7 @@
     "イラン・アメリカ：「攻撃」「封鎖」3件",
     "中国・台湾：「攻撃」1件",
     "ロシア：「攻撃」2件",
-    "欧州・NATO：「攻撃」「ミサイル」4件"
+    "欧州・NATO：「攻撃」「ミサイル」5件"
    ],
    "items": [
     {
