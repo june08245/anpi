@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:30+09:00",
+ "updated": "2026-11-25T01:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -21,6 +21,16 @@
   "reported": "2026-11-24T21:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-25T01:40:00+09:00",
+   "place": "大隅半島東方沖",
+   "mag": "3.9",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-25T00:17:00+09:00",
    "place": "薩摩半島西方沖",
@@ -90,16 +100,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-23T22:22:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -112,12 +112,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqWWYydGdrazR6X0xBR2c2NHNJRXFpNzFLMXNKUWVOQ2h2LVNGbEpySFN4UFJKNm5vMERNcXBtMW5OT3kzdXVvTF9TcGw4bFhaaFJnUDBXRkZsbW5UUlc2SG53b2t4RTR3UnlfNDREVlRVZ2NNQjdYZEt0cy1VNjg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-24T10:19+09:00"
-    },
-    {
-     "title": "米イラン交渉に転機！バンス氏がカタール首相と極秘会談、原油市場は供給過剰へ傾き始める",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVc4OENSM3V6VUE1N3R3YWp1NkRfZ2s5aGhYT1VxRU1ONDJpT0RJdF9Sa25DVXpqa2JSYkluMVF5cXhtRDJ3eEtnaDA4VnM4UHVCU2R2WURXMzlZak1tem1US1o5SVhLWDJkdUx6YXhLTjRKbEltV29CajJhTHVuMGp5S09oWHBQM1VQcElmazFzTEpKYnFHS1ZRb0NwS0p5dU1Jc3duQm5VVE1LY2JRT2VNRG12dw?oc=5",
-     "source": "Moomoo",
-     "at": "2026-11-24T10:10+09:00"
     },
     {
      "title": "船舶へのサイバー攻撃、米がイランの関与調査＝ＷＳＪ",
@@ -138,10 +132,16 @@
      "at": "2026-11-24T07:20+09:00"
     },
     {
-     "title": "イランは米国の封鎖に抵抗するためにあらゆる手段を使用する",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc21yRU9UZ1RWMWZHNXFPREd6TTc0NjdZd0NWZW1zV3AwZ25lZE9Ub0JUWHJuaUdvSFBVcG03WWRtLVJ4U0NkRFdpTjlvX0o2TWl6X3FXbzRPb3ppMTV1OGdvbWxnSWNlVHVwMURUUGt3bkN5ZzhJVjY5bzJ0dkR0Tk4zc0p3TDZoMXdrMjNjNDRYTFZ0?oc=5",
-     "source": "VOI.ID",
-     "at": "2026-11-24T05:00+09:00"
+     "title": "イラン、米海上封鎖に「あらゆる手段で対抗」―トランプ氏の撃沈警告で衝突リスク",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zUlNORjRJdnNFa1FYUkNnNDVfTkdmYkdTVHhHeDVnbEF6VmVlM1h1ZHdRem1LaGFEYVB0ZEUwakZHVzJueXYxamstdDNWWFNjLS05eXgwUm5obC1jSFg1N2w3d9IBaEFVX3lxTFB3bUhhcDZlOWg2ZWRwNWR2TTJEeS1EU3Q2OG1GWHRfLW0yUTVEZkVUbldtQllhZURxTzR4VFdjM0JuaXFnZDZSY1ppNkFFcmMxTjZBY2JwQ1BXN1QxM0ZSNGhGT2VOcUdx?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-24T01:56+09:00"
+    },
+    {
+     "title": "イラン、「あらゆる手段」で米海上封鎖に対抗＝外務省報道官 | ロイター",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkE2WkZGN014SzlMQk1VSjloQ3BNblphVzJzWGZuUG1NczlKbndwdU1PUnBwNnczREhGYXEyWFVSWllCLXN3TVk1QnoyX1lacnFmcjBMbXhPN3VpVGE3ZHJFMFAtSEM5anVoNGpLeUNwWVpRVEpsbEpDNG5tNTZWUHF0Wm9mUk0?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-24T00:25+09:00"
     }
    ]
   },
@@ -180,10 +180,10 @@
      "at": "2026-11-23T19:17+09:00"
     },
     {
-     "title": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DREVlY0g3Y1VqQU92cTA1TGI1YTVGMUQzTHlCVmtwVHdZcjRPbTAzaDZaazVQTHRKaDJTSGJzTnNMc2lFSHF2T3FUWmM1OENROTlqMVg3OHJOTXpoNlJj?oc=5",
-     "source": "東洋経済オンライン",
-     "at": "2026-11-23T11:30+09:00"
+     "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zaHdPZklSb0RNYTZtNzBLSGtaOXdlczhYNzQ3NzZNekJzNUVFbVh0eHhlTDlHQXZ3UDE5Smo1VGNibUthTzlPODVHZ1FIUDdNSkptNE9hakhUZ0tJNnhn?oc=5",
+     "source": "JBpress",
+     "at": "2026-11-23T10:00+09:00"
     }
    ]
   },
@@ -234,16 +234,16 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ウクライナがロシア製油所攻撃継続なら「必ず対応」＝プーチン氏",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tbjR0T0d6RVIyd0h4bEVya2dDS3JhRDB3amdDWEZ3VUtELWpvLUFndGtmY2FLWnR0aWVIUF83WXlnWW9KSXFNWXFIcHE1RURzTFpvcXY4OXpwVXZ6TFhnN25LNUhaSjgzc1pxT09xT3lCdXlKTEdjc3JXVFFKd9IBgwFBVV95cUxNa20zSk0xc3JNQnlGQXUtU1g2ekRrVXNXV05qZzJRRFduM18wNVlVaWFOSG45QnFwOXh0NTlwQW91VXA1YVUtODJ5WWtoQmN4OXQ2R3pKcFhwZzl1TEVjX2pYcEd2RGswWnVsUW9KVHZ2N2hRdldnUklGeEdEbzB2SFJiRQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-25T01:29+09:00"
+    },
+    {
      "title": "ゼレンスキー氏、フィンランド湾のロシア貨物船攻撃認める 「正当な標的」（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zbUVUWUUtYVoxU280dnY2UmppeVJlR0RLbm5WWFQxSUxBZ3Job0JibzVteWVnTVhrSngtOXpZdm1ZUXJMMURPZkJacklnOWlvazhxSVZlajVWSVo5NVh3WWgtb21sWHp2a0pzMEg1UjNhbVNOMF9VcGZ5cUhCS1U?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-25T01:25+09:00"
-    },
-    {
-     "title": "ウクライナがロシア製油所攻撃継続なら「必ず対応」＝プーチン氏",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWpDZXM0N2hxR0tCeXAyZlNZeV85ZWsxWFJfZFdpNVpqYkFHOFlVODIzakozRFRtRTYwZTdlOUR6TVd0ZzlLRWZibWlrYmhSTUdtUENOcTFpTEkwR3E3WnVhV3UzcXpJYVNkdDVDSXZIbWE2M3RmakhIT1VRQ3hSWVpuejV1Zw?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-25T01:21+09:00"
     },
     {
      "title": "ロシア軍の戦死者、72万人に達した可能性―流出した政府記録を独立系メディアが分析",
@@ -258,16 +258,16 @@
      "at": "2026-11-24T23:47+09:00"
     },
     {
-     "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWi1qQV9ONEw5aFM0alowR1NyOERGUS1zRkZyU2ZHVlFXMHA0cXExXzQ0M25LVGl5OEJEZ09MYlZHNHRBUVNZQXJRR0NyLXVLV1pOZ21WLVRNWkMyeG16QkV4cmhlZ0o2TEZidU84c0ZUVzROaWkxUDNZTXFidUloQ19tc2UzOUZtV2hrNVlR?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-24T23:27+09:00"
+     "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領（ロイター）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KT0dEOWJTSGctLVhwdXBqbFlaVXJsTVNMQWVrNkY2enMxelctd0MyQUpMbnBpM012bGlwbTg5emY2czBBcmY1UnhvdUJvNEpHZFVJWUNpQVZ1NTlLNkllV0hhaG9RVkV0OXkwVWQ4b3VoV1J4T3lGLXFsWGpCckk?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-24T23:25+09:00"
     },
     {
-     "title": "【速報】伊、ロシア軍艦攻撃でウクライナに懸念伝達",
-     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EcWR6aWlWZlFFMmFQVTlVbml6QnBQSlJRSmM4OHRtd1lmc2gwUEFDcUdWbjhuMWNHT3FmWUEtZGZCQm5sVjRyY3Ricw?oc=5",
-     "source": "47NEWS",
-     "at": "2026-11-24T22:19+09:00"
+     "title": "ゼレンシキー宇大統領、フィンランド湾でのロシア船舶への攻撃を認める",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa19ndHBxT3pKX3h2N3JjWU9LcXZHeHlMcHBmTG80TmQxcEdDazViRUxpLVcyTlNrdVVGNHBxNUxCRmFCV2lXRjVXYkJDZzdsdUw2cWFROUpndFdVLTd2UnVNTy00VDZJSTJXdmxDd3YxaU9xOFZ3ZFc4UXpoYjk3UzBHOVYwNUdHby1TUTRWX2xjM284WkcwdXduVFQ5M0tjVXpJOF9LbVA1djM2MDRieG40MUVNYzJtWWlnTHNWTEZSWHZvbjU40gHMAUFVX3lxTE1qNnpzU3VBeHZDNml0eGdKaURjS1QwRFBEcVBRNHQxcFoxQzBlV0ZLSy1OOXVUUkE1eGlkYzVTQjRGTDVGSTVOUVNIeUkybk4wUlVpLTNDNjlXb0w0OFY4Nk5FNzc4c2RFdVpsaUlLSVdRYTFBR05rbnU2T1V5MnZ2MEZ4S2l4cTZUVW8xRnVLazUtLUhYUHhsVFdKUm9KOG9Zb2tsejMxMGZ3dF8yVTJuRUxqSkR1dkJBZ01HUFRLOEl4anlSenR6UnVHQQ?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-24T22:39+09:00"
     }
    ]
   },
@@ -328,16 +328,16 @@
    "at": "2026-11-24T21:07+09:00"
   },
   {
-   "title": "画像 | 阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yNEl6M1VZWVlIdzVIbkZpZ0hxbV8xMjJFd3dtUTl2YTE1RjVSay15QjZ2M1BnTUlVazIzRURUWjRFRG5aOFBGa2dHaHU2RU0tUk4yMXVjMEs5a3c?oc=5",
-   "source": "PRESIDENT Online（プレジ",
-   "at": "2026-11-24T14:51+09:00"
-  },
-  {
    "title": "鎌田浩毅の役に立つ地学：南海トラフ地震の被害額 土木学会は1466兆円と推計／270",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdFlWQWo2N1BWZ1JEd1V2bEFtTGVJV1hsUFh0S1V2bExoN1ZYQjMyVkxwcFNQX0VDUjZfamhwX21uZkRPUWpidExXRGNsYWtQTEkyRHdxS2NOSnlweUpMclBsYVozUzlJSERydTBJaExoZFE5UWhNWGRScXYza1U?oc=5",
    "source": "週刊エコノミスト Online",
    "at": "2026-11-24T05:01+09:00"
+  },
+  {
+   "title": "画像 | 阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYTZFZU8tZ2VmZEFEbjJYMHJyUkRBV2plOEp4S1E0dGpyX2Jqb0dyYUZMd1VrX1hTd1dTUE9RMzk2aUNkNENNWjlublhtb2NRV1hwMVFWSGFpNkE?oc=5",
+   "source": "PRESIDENT Online（プレジ",
+   "at": "2026-11-23T23:38+09:00"
   },
   {
    "title": "阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
@@ -367,6 +367,12 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hajAyRVBnY2cwNXZJSjQ4Q2VuWjc1d2xKbFo0alI0U0VCbnVaRDhmRkpRQlBGaGsyUmZuRm5tSC11V0xZWm9MYlRWeTF5UWpwMHhqeU5tS0w?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-24T21:22+09:00"
+  },
+  {
+   "title": "[写真]米、商船50隻へのサイバー攻撃でイラン関与を調査―テキサス向けタンカー2隻も標的に",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWnJIVjItVlVOX1RhXy14TUhEU0t1QS11YlRPNG9JbnlHcXBDOERzNTlXUUJLMHhaY2dRSVpqOFd6R2NTWF83Z0YteklUcWRSamhndw?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-25T01:24+09:00"
   },
   {
    "title": "京王電鉄、ランサムウェア攻撃で最大約1,063万人の情報が漏えいの可能性",
@@ -445,12 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GdEhMa3R1cWhaTUdFMVJxQ0g1ZDdCVFRNZ002NnFDYnEwRlFtUVNORlNvRUQ1Q0dFRjRZM0REd21jS3pGRzY2Y0l5LXVwYTItSmc?oc=5",
    "source": "激流オンライン",
    "at": "2026-11-24T19:39+09:00"
-  },
-  {
-   "title": "U-NEXT HOLDINGSグループのUSEN TRUSTに不正アクセス、家賃保証申込情報3万2,075件に漏えいのおそれ",
-   "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPRTNKRG9LUlA3dGh1V3haTXBvWUMtZ194b3BvWFJvXzZFMnlZa3RDb3RrY2xUY0VaUW1sVUZnbXBadnpvS1pVR1Rkc1pLMEpldG1HWHpybjRvV3RUbXNlWnZRN0QxM0JJVDNlR1JwTEhVdUNEUjVuVzNfS1dyaVF5bGZLYV9SVDQ0ZWRjSFlWc1E3UEYwQUNwcFFkU0xFM01qV1pvS1BGN2tCZmFDX3pxTm13Q3BXYmd1eDE5RzlRWDd6UmQtNXhzU1ZtUWl1QnVrbVdrWkphZDhtS2NMMWRkcjRvckVKanFlUmdxenpHcE1jaFhEcVpRcFZxTXRYQjlrQnhEUWFTaUZBX1hqQmpfcTZ5RjU2THludy1UeEpiYTVFbi1UaXRGYnVTRWFHSG5QaldTR1ZXVzBYanhVY0N4SXNTUUF0czBtQWxaSS10UGdZUjdNcXhmU3BwN3JEZEc5NUZz?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-24T19:37+09:00"
   }
  ],
  "tokyo": [
@@ -495,17 +495,17 @@
  ],
  "world": [
   {
+   "title": "ウクライナがロシア製油所攻撃継続なら「必ず対応」＝プーチン氏",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tbjR0T0d6RVIyd0h4bEVya2dDS3JhRDB3amdDWEZ3VUtELWpvLUFndGtmY2FLWnR0aWVIUF83WXlnWW9KSXFNWXFIcHE1RURzTFpvcXY4OXpwVXZ6TFhnN25LNUhaSjgzc1pxT09xT3lCdXlKTEdjc3JXVFFKd9IBgwFBVV95cUxNa20zSk0xc3JNQnlGQXUtU1g2ekRrVXNXV05qZzJRRFduM18wNVlVaWFOSG45QnFwOXh0NTlwQW91VXA1YVUtODJ5WWtoQmN4OXQ2R3pKcFhwZzl1TEVjX2pYcEd2RGswWnVsUW9KVHZ2N2hRdldnUklGeEdEbzB2SFJiRQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-25T01:29+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ゼレンスキー氏、フィンランド湾のロシア貨物船攻撃認める 「正当な標的」（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zbUVUWUUtYVoxU280dnY2UmppeVJlR0RLbm5WWFQxSUxBZ3Job0JibzVteWVnTVhrSngtOXpZdm1ZUXJMMURPZkJacklnOWlvazhxSVZlajVWSVo5NVh3WWgtb21sWHp2a0pzMEg1UjNhbVNOMF9VcGZ5cUhCS1U?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-25T01:25+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナがロシア製油所攻撃継続なら「必ず対応」＝プーチン氏",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWpDZXM0N2hxR0tCeXAyZlNZeV85ZWsxWFJfZFdpNVpqYkFHOFlVODIzakozRFRtRTYwZTdlOUR6TVd0ZzlLRWZibWlrYmhSTUdtUENOcTFpTEkwR3E3WnVhV3UzcXpJYVNkdDVDSXZIbWE2M3RmakhIT1VRQ3hSWVpuejV1Zw?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-25T01:21+09:00",
    "topic": "ロシア"
   },
   {
@@ -544,10 +544,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWi1qQV9ONEw5aFM0alowR1NyOERGUS1zRkZyU2ZHVlFXMHA0cXExXzQ0M25LVGl5OEJEZ09MYlZHNHRBUVNZQXJRR0NyLXVLV1pOZ21WLVRNWkMyeG16QkV4cmhlZ0o2TEZidU84c0ZUVzROaWkxUDNZTXFidUloQ19tc2UzOUZtV2hrNVlR?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-24T23:27+09:00",
+   "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KT0dEOWJTSGctLVhwdXBqbFlaVXJsTVNMQWVrNkY2enMxelctd0MyQUpMbnBpM012bGlwbTg5emY2czBBcmY1UnhvdUJvNEpHZFVJWUNpQVZ1NTlLNkllV0hhaG9RVkV0OXkwVWQ4b3VoV1J4T3lGLXFsWGpCckk?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-24T23:25+09:00",
    "topic": "ロシア"
   },
   {
@@ -558,10 +558,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "【速報】伊、ロシア軍艦攻撃でウクライナに懸念伝達",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EcWR6aWlWZlFFMmFQVTlVbml6QnBQSlJRSmM4OHRtd1lmc2gwUEFDcUdWbjhuMWNHT3FmWUEtZGZCQm5sVjRyY3Ricw?oc=5",
-   "source": "47NEWS",
-   "at": "2026-11-24T22:19+09:00",
+   "title": "ゼレンシキー宇大統領、フィンランド湾でのロシア船舶への攻撃を認める",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa19ndHBxT3pKX3h2N3JjWU9LcXZHeHlMcHBmTG80TmQxcEdDazViRUxpLVcyTlNrdVVGNHBxNUxCRmFCV2lXRjVXYkJDZzdsdUw2cWFROUpndFdVLTd2UnVNTy00VDZJSTJXdmxDd3YxaU9xOFZ3ZFc4UXpoYjk3UzBHOVYwNUdHby1TUTRWX2xjM284WkcwdXduVFQ5M0tjVXpJOF9LbVA1djM2MDRieG40MUVNYzJtWWlnTHNWTEZSWHZvbjU40gHMAUFVX3lxTE1qNnpzU3VBeHZDNml0eGdKaURjS1QwRFBEcVBRNHQxcFoxQzBlV0ZLSy1OOXVUUkE1eGlkYzVTQjRGTDVGSTVOUVNIeUkybk4wUlVpLTNDNjlXb0w0OFY4Nk5FNzc4c2RFdVpsaUlLSVdRYTFBR05rbnU2T1V5MnZ2MEZ4S2l4cTZUVW8xRnVLazUtLUhYUHhsVFdKUm9KOG9Zb2tsejMxMGZ3dF8yVTJuRUxqSkR1dkJBZ01HUFRLOEl4anlSenR6UnVHQQ?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-24T22:39+09:00",
    "topic": "ロシア"
   },
   {
@@ -663,10 +663,10 @@
      "at": "2026-11-24T10:19+09:00"
     },
     {
-     "title": "ゼレンスキー氏、フィンランド湾のロシア貨物船攻撃認める 「正当な標的」（ロイター）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zbUVUWUUtYVoxU280dnY2UmppeVJlR0RLbm5WWFQxSUxBZ3Job0JibzVteWVnTVhrSngtOXpZdm1ZUXJMMURPZkJacklnOWlvazhxSVZlajVWSVo5NVh3WWgtb21sWHp2a0pzMEg1UjNhbVNOMF9VcGZ5cUhCS1U?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-25T01:25+09:00"
+     "title": "ウクライナがロシア製油所攻撃継続なら「必ず対応」＝プーチン氏",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tbjR0T0d6RVIyd0h4bEVya2dDS3JhRDB3amdDWEZ3VUtELWpvLUFndGtmY2FLWnR0aWVIUF83WXlnWW9KSXFNWXFIcHE1RURzTFpvcXY4OXpwVXZ6TFhnN25LNUhaSjgzc1pxT09xT3lCdXlKTEdjc3JXVFFKd9IBgwFBVV95cUxNa20zSk0xc3JNQnlGQXUtU1g2ekRrVXNXV05qZzJRRFduM18wNVlVaWFOSG45QnFwOXh0NTlwQW91VXA1YVUtODJ5WWtoQmN4OXQ2R3pKcFhwZzl1TEVjX2pYcEd2RGswWnVsUW9KVHZ2N2hRdldnUklGeEdEbzB2SFJiRQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-25T01:29+09:00"
     },
     {
      "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
