@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:30+09:00",
+ "updated": "2026-11-25T06:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -108,12 +108,6 @@
      "at": "2026-11-25T05:14+09:00"
     },
     {
-     "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
-     "source": "中央日報",
-     "at": "2026-11-24T23:34+09:00"
-    },
-    {
      "title": "イスラエル軍、ネタニヤフ暫定首相にイラン再攻撃なら「広範な紛争に発展」と警告か…現地報道（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqWWYydGdrazR6X0xBR2c2NHNJRXFpNzFLMXNKUWVOQ2h2LVNGbEpySFN4UFJKNm5vMERNcXBtMW5OT3kzdXVvTF9TcGw4bFhaaFJnUDBXRkZsbW5UUlc2SG53b2t4RTR3UnlfNDREVlRVZ2NNQjdYZEt0cy1VNjg?oc=5",
      "source": "Yahoo!ニュース",
@@ -136,6 +130,12 @@
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDNfb01jcmFvSVQ1RHpSVUcyYU9BRHIzM3I2My1FT3lvSnkyb3UtYVBqTnZfZVJUb201Ri0tbXQ1TURhZXo1cnBJaEhKcV9TNHc1eEQzQ0J2TUFFVUlOclRocklBSDF0SFIybmZwUlNQY05mZXdmOGpLTTFoaW9zOElteWMtNmlFTzh6VVNWd1dVV0dQOFZITWFjc0NTdVphanBLQThzWGZFbGRFWHNFbUZtX0RQbHk5ZGtEeW5rWElrcDJXV0NnUXg3S0xZbklnbkxTQw?oc=5",
      "source": "航空万能論GF",
      "at": "2026-11-24T09:27+09:00"
+    },
+    {
+     "title": "米、イランの影の銀行網に制裁 数十の個人・団体対象",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2YkY0S0lCUlZzNldZeDVjdXUyTXRxdWgtV05GZ3pJQ3BBRnlmVVBHV1NxbFRrWjZFb3p6ZVp5bjdTX294S2dMdDduX2czZXFBWFhMVENyaVlkbGVScEpvdmlQUVZkME5VQ0ZOU3Z6blBER2o4UnRZMk1KNnZWWXM?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-24T07:20+09:00"
     }
    ]
   },
@@ -198,10 +198,10 @@
      "at": "2026-11-24T13:19+09:00"
     },
     {
-     "title": "米朝首脳会談 なぜ“幻”に…?「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JREdIekR1TWtHQTNVMTVaZVFTbWl0TENGMHBPVkt1THhFMlA0U2ItNzVtYmVSS1ZsNVEtNHFuaGZ4Z0Nicy1fS0JVVFpwU09CbmtWYVAxUUJDNWdvR2czLWNoTTJ2UVFxRlFSNXpCNlYtdFVpTWctR2RSRS10djg?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-24T12:29+09:00"
+     "title": "米朝首脳会談 なぜ“幻”に…？「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lVmVwMWNCV0xsa2RaMENWWld3MDdEOHBGdGp4XzF6elkzSDJ3UHdINlRjWk5IbVk1aWxEM3Y0WDVjbnNGVU81TEZMcHBndnhQejdCdTd5OVVCZl9OTEpF?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-24T12:41+09:00"
     },
     {
      "title": "北朝鮮の金与正氏、スイスの制裁に「汚らわしい行為」…平壌外交事務所の撤収を検討 (中央日報日本語版)",
@@ -227,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ロシア海軍の最新ステルス艦が「大爆発」 真横から「刺客」が突入し撃沈する瞬間を捉えた映像が公開（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EUW5FU3VxNnJnQXNhN1ZLTTR2dTZvZEFSZTFGSFNFald5b1dMWFBhVk1EcUN1THQ0Q1Q3cVBDNTNEaG9Cbnp6T0VB?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-25T06:12+09:00"
+    },
     {
      "title": "エネルギー大国ロシアの誤算…製油所攻撃でガソリン輸入が急増、「低品質燃料」の流通にも着手か",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1UzBzUGRhalBiWU5zWUtsR0UwcHlsV3pqeXJKN0g0a01SWGhVVVJXZlJoTUE0WW1yOGo1SWhla1JITXlZcFl0cEFOYThKZXVlX0lHdEhKVkRTY2twcjZfUUpsMXBuMVFpaVltRnducGdiZi1zTEN4YW92azZVXzg?oc=5",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWpDZXM0N2hxR0tCeXAyZlNZeV85ZWsxWFJfZFdpNVpqYkFHOFlVODIzakozRFRtRTYwZTdlOUR6TVd0ZzlLRWZibWlrYmhSTUdtUENOcTFpTEkwR3E3WnVhV3UzcXpJYVNkdDVDSXZIbWE2M3RmakhIT1VRQ3hSWVpuejV1Zw?oc=5",
      "source": "Reuters",
      "at": "2026-11-25T03:42+09:00"
-    },
-    {
-     "title": "ウクライナのロシア軍艦撃沈、戦線拡大に反発広がる エジプトなど非難",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUGpEOFRRVW5mMmlrZlp6b3dsYWlKTU9LLVQ4RmJEcnF0eGh3Mzl1YmgtcURoOUNwSzFjcXN0TFFkSl9ZWFlnZkptbGd6eVpfMklHMDVrNzBqOXJDUDNGeV9Ka2tHeHg1ZnhEbg?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-25T02:23+09:00"
     }
    ]
   },
@@ -269,12 +269,6 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
-    {
-     "title": "フィンランド沖でロシア貨物船が炎上…ドローン攻撃でNATO加盟国の領海に漂着、広がる戦争の余波",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RMmxoZGNGbi1ZMEJNbVdDa040NTZrbGk0Z3dTb3ZpSW5TZUpnSEllRnlyLTZhWFZPSjRjeFdEamwzdjJ3b3Zob0FBOFJGLW4zS1c4MXRRZFpVdzJIdzZv?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-25T02:20+09:00"
-    },
     {
      "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHd3QVFpVHRXN2M3amJpVExEc1g4WmxqMzNqQVQyOThmUmhVc2gxajhLdUtUdVljbGNSZDFsMUdaUGEzN3NNcjhmNHhmM0c5WXQ5djRTZDdHc1psM1E5OWhBclJHdlRLV2N3Vy10UVpWWTdSaEVFeHczaGo4WnBDS1I0NmJZSFZkakoyeWgzYjd5QVVPNlRFbkFfSWZiekg4YXgyWV9R?oc=5",
@@ -304,6 +298,12 @@
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFlfZWdqMFFFNWpGQlVlczdtSldxcjVRT2FrN21jSHNpNWNqZkJyWUhLWk05QzZybmZaWUVUT0YyMkNXWUZJaTJyTDBJTlN5T1MtT21nNGtUSHFhVEF1ZF9kR3JjdXdDcDRVaUdkdEoyZ2dJdHRYNmhwSHZWVDVkcmxfTlUyQ2dqOWw3WW1HTGdVek81Y2wyZVNCaFRTVHlDaHFIdGNBWnBmUlIw?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-24T22:42+09:00"
+    },
+    {
+     "title": "メディア：ロシア軍艦、英国近海で140便のGPS信号を妨害した疑い",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUxvY2g5R3VnZXltZENDUWlkZjNzak10aV91SnRkUHRtdEhmdkh0QkN5V0dlcWdTNXpOSF92LTl4WDVMWVVwNFVrNk43T19JYllQa0k5R3QwNTlOVHR1SnpOcC1aVHR6LXA0YjgyMy1SNWlOc2VVZklTREhyTDRfTkhpTzRvQTN3OGtMV1RUajlneHRzQWRrUTVOWEJISlQ5cWc?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-24T22:25+09:00"
     }
    ]
   }
@@ -357,16 +357,28 @@
  "japan": [],
  "cyber": [
   {
-   "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nNmNDTXd0YUJ4bUdHbkRhVlpfRHV5MzZqc1FjVHV3SlpONGFkNWNOT05aUmZXZTZhNVlSajloUkV0MFFEbU9naWZ3eE1zeGxO?oc=5",
-   "source": "GameWith",
-   "at": "2026-11-25T00:28+09:00"
+   "title": "ビッグテック障害・安全性懸念で「脱クラウド」…オンプレミス・エッジコンピューティング台頭",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEFlNWg0X09Rb1pSREdnNFhJREdWVnZ6ZTZHMlppTzdWcHdOdk9MYm5RdWZ5OHpaYXZ4UkFKWkZPSXZQUjBhdnFRSlc0SnJlbGxwQ3hDR0UxOGhjZWtjTk11czRrU2ctdnhhVjIwUHJQbmVhVm9QbE5vcC1oa1oxMw?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-25T06:00+09:00"
+  },
+  {
+   "title": "Bank of America CEO「銀行のシステム障害はハッキングではなくリアルタイムのセキュリティパッチが原因」",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Kc1pHS29MNkwtbkt1WkNnMDM5TDgzdzNhNkFaWWUtVVRNN1lKN3Y3cUJFaW9ob2VKbXU0d1pDZ0lUMkpSaUJrcFIzNTdXODRfZTZ2eE5KZ0pMUFE5SnhFdzBVUE9vZ1ZOekZ5ZlRPZmV2bTUy?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-25T00:35+09:00"
   },
   {
    "title": "クラウドサービスで大規模なシステム障害で、どのような影響が最も気になりますか？（みんなの意見）のコメント一覧",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hajAyRVBnY2cwNXZJSjQ4Q2VuWjc1d2xKbFo0alI0U0VCbnVaRDhmRkpRQlBGaGsyUmZuRm5tSC11V0xZWm9MYlRWeTF5UWpwMHhqeU5tS0w?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-24T21:22+09:00"
+  },
+  {
+   "title": "四国銀行、法人向けサービス「Mikatano」の情報漏えい-プレイド「KARTE」への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalBMcTdEVHUtUjQzSWlNX0hid1AzTHFlbFFLMTlscFhpdjZIbURXM1E4Um1GR0FERkw0ejAzUUhseHhSc2pPejEtTU1VMk04ODRuYll3UUpHYW9LYUEtekNTR2dESUFfYWNQTXVFdnZuOWdyUzVmY0JiZ3prOFY5cWMxUDJPU0VMQW03cGk3ZndlZnZ3X0NTVzFydw?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-25T06:30+09:00"
   },
   {
    "title": "情報流出が止まらない理由とは？AIによる自動サイバー攻撃の脅威",
@@ -433,18 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwUXdUTVYxUmtPQ3FhcU81Szg0X2NtRWxldW5EWlhhcFVpY3JzS2xUR3RweWFkRERXdXluV3NwczlwdlI0UTZ6RE42aEFoa1VPWXotbUFONHFGWEYwTnI0TV9EWlg5WkdpdlpOOFlMVQ?oc=5",
    "source": "読売新聞",
    "at": "2026-11-25T05:00+09:00"
-  },
-  {
-   "title": "JAXAの地球観測データ公開システムに不正アクセス、利用者2,000名のアカウント情報が流出",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tSXBRcnB5TTVqdHRUekY1ZWVpVm9iLUFKRW9fSG96Q2dfdDYtY1c1QkdTTTNxNld0RWJUWEdQOGwzNzhMU3AzdlBpTUliQjl6cmIxdGE4eUEzWmc?oc=5",
-   "source": "ベンチャー・ソリューション株式会社",
-   "at": "2026-11-25T03:04+09:00"
-  },
-  {
-   "title": "政府の業務システム 9月に続きまた不正アクセス 個人情報流出の可能性 - 【アベマ厳選】注目の最新&独自ニュースをチェック! - 厳選 (ニュース) | 無料動画・見逃し配信を見るなら",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTlhxT21vdXpJbHNzQjhZOFNMVzh0bFJSUDAtX3lsdkFqX0xUYm1pUWtXTEZHR285Y2JsczVRa3lUWWk4QmNaY1c2UDl1dTVVa290WDNtdjBVUDQ?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-25T02:06+09:00"
   }
  ],
  "tokyo": [
@@ -482,12 +482,19 @@
  "osaka": [
   {
    "title": "たくろう「まさか本当に会えるとは…」“Googleのジェームズ”とついに対面！！【M-1感情爆発展】大阪で開催スタート！",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tY0RUMFB3Vndzc183d2hsY05Pbl9kOTh3U1k4Tnh2ODcwSC1LVjZoNHRmYkV3RjY1M3Q3eFUybWpBT1RlTTBQS3g4Q2dlUFhfRmdEMkt3TnQ3R0otNGdB?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-24T13:00+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiXzgzV0NQUmFkLVdsWFpzVWZ5eXFuaVlkd3g3WWp5S2xpZldkY0R5RW5GY1NsZTRhSHo1bU01MU9LODktSlJab3FVa3NITGdMTjFlNFZTcw?oc=5",
+   "source": "ABCマガジン",
+   "at": "2026-11-24T13:05+09:00"
   }
  ],
  "world": [
+  {
+   "title": "ロシア海軍の最新ステルス艦が「大爆発」 真横から「刺客」が突入し撃沈する瞬間を捉えた映像が公開（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EUW5FU3VxNnJnQXNhN1ZLTTR2dTZvZEFSZTFGSFNFald5b1dMWFBhVk1EcUN1THQ0Q1Q3cVBDNTNEaG9Cbnp6T0VB?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-25T06:12+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "エネルギー大国ロシアの誤算…製油所攻撃でガソリン輸入が急増、「低品質燃料」の流通にも着手か",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1UzBzUGRhalBiWU5zWUtsR0UwcHlsV3pqeXJKN0g0a01SWGhVVVJXZlJoTUE0WW1yOGo1SWhla1JITXlZcFl0cEFOYThKZXVlX0lHdEhKVkRTY2twcjZfUUpsMXBuMVFpaVltRnducGdiZi1zTEN4YW92azZVXzg?oc=5",
@@ -538,20 +545,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナのロシア軍艦撃沈、戦線拡大に反発広がる エジプトなど非難",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUGpEOFRRVW5mMmlrZlp6b3dsYWlKTU9LLVQ4RmJEcnF0eGh3Mzl1YmgtcURoOUNwSzFjcXN0TFFkSl9ZWFlnZkptbGd6eVpfMklHMDVrNzBqOXJDUDNGeV9Ka2tHeHg1ZnhEbg?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-25T02:23+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "フィンランド沖でロシア貨物船が炎上…ドローン攻撃でNATO加盟国の領海に漂着、広がる戦争の余波",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RMmxoZGNGbi1ZMEJNbVdDa040NTZrbGk0Z3dTb3ZpSW5TZUpnSEllRnlyLTZhWFZPSjRjeFdEamwzdjJ3b3Zob0FBOFJGLW4zS1c4MXRRZFpVdzJIdzZv?oc=5",
-   "source": "ニューズウィーク日本版",
-   "at": "2026-11-25T02:20+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHd3QVFpVHRXN2M3amJpVExEc1g4WmxqMzNqQVQyOThmUmhVc2gxajhLdUtUdVljbGNSZDFsMUdaUGEzN3NNcjhmNHhmM0c5WXQ5djRTZDdHc1psM1E5OWhBclJHdlRLV2N3Vy10UVpWWTdSaEVFeHczaGo4WnBDS1I0NmJZSFZkakoyeWgzYjd5QVVPNlRFbkFfSWZiekg4YXgyWV9R?oc=5",
    "source": "Informat.ro",
@@ -564,13 +557,6 @@
    "source": "IDNFinancials",
    "at": "2026-11-25T01:00+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
-   "source": "中央日報",
-   "at": "2026-11-24T23:34+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領",
@@ -591,6 +577,13 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFlfZWdqMFFFNWpGQlVlczdtSldxcjVRT2FrN21jSHNpNWNqZkJyWUhLWk05QzZybmZaWUVUT0YyMkNXWUZJaTJyTDBJTlN5T1MtT21nNGtUSHFhVEF1ZF9kR3JjdXdDcDRVaUdkdEoyZ2dJdHRYNmhwSHZWVDVkcmxfTlUyQ2dqOWw3WW1HTGdVek81Y2wyZVNCaFRTVHlDaHFIdGNBWnBmUlIw?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-24T22:42+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "メディア：ロシア軍艦、英国近海で140便のGPS信号を妨害した疑い",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUxvY2g5R3VnZXltZENDUWlkZjNzak10aV91SnRkUHRtdEhmdkh0QkN5V0dlcWdTNXpOSF92LTl4WDVMWVVwNFVrNk43T19JYllQa0k5R3QwNTlOVHR1SnpOcC1aVHR6LXA0YjgyMy1SNWlOc2VVZklTREhyTDRfTkhpTzRvQTN3OGtMV1RUajlneHRzQWRrUTVOWEJISlQ5cWc?oc=5",
+   "source": "Mezha.net",
+   "at": "2026-11-24T22:25+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -622,10 +615,17 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "米朝首脳会談 なぜ“幻”に…?「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JREdIekR1TWtHQTNVMTVaZVFTbWl0TENGMHBPVkt1THhFMlA0U2ItNzVtYmVSS1ZsNVEtNHFuaGZ4Z0Nicy1fS0JVVFpwU09CbmtWYVAxUUJDNWdvR2czLWNoTTJ2UVFxRlFSNXpCNlYtdFVpTWctR2RSRS10djg?oc=5",
+   "title": "米朝首脳会談 なぜ“幻”に…？「調整は土壇場まで続けられていた」 北朝鮮の条件は受け入れられず【news23】",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lVmVwMWNCV0xsa2RaMENWWld3MDdEOHBGdGp4XzF6elkzSDJ3UHdINlRjWk5IbVk1aWxEM3Y0WDVjbnNGVU81TEZMcHBndnhQejdCdTd5OVVCZl9OTEpF?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-24T12:41+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮の金与正氏、スイスの制裁に「汚らわしい行為」…平壌外交事務所の撤収を検討 (中央日報日本語版)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnc3YXMtbzZVQzdGRmdMTEpGWTRGc1RBZkllMHV0Q1MyeUpDTFRpZXVmNnlJRkVkVTVibHNvWEY0SENaUGNsaDhZUGlNdTRxUDhBVk1Kd05RQ1Q2dDlTNUlqZnNkUUdFOEFxekhCNWxJYzhNWlFXcm5manU4Vkl4STQ5WjAzRm9XT0JPdlRB?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-24T12:29+09:00",
+   "at": "2026-11-24T11:39+09:00",
    "topic": "北朝鮮"
   }
  ],
@@ -647,7 +647,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」2件",
     "ロシア：「攻撃」「報復」4件",
-    "欧州・NATO：「攻撃」「ミサイル」4件"
+    "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
    "items": [
     {
@@ -663,10 +663,10 @@
      "at": "2026-11-25T06:00+09:00"
     },
     {
-     "title": "フィンランド沖でロシア貨物船が炎上…ドローン攻撃でNATO加盟国の領海に漂着、広がる戦争の余波",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RMmxoZGNGbi1ZMEJNbVdDa040NTZrbGk0Z3dTb3ZpSW5TZUpnSEllRnlyLTZhWFZPSjRjeFdEamwzdjJ3b3Zob0FBOFJGLW4zS1c4MXRRZFpVdzJIdzZv?oc=5",
-     "source": "ニューズウィーク日本版",
-     "at": "2026-11-25T02:20+09:00"
+     "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHd3QVFpVHRXN2M3amJpVExEc1g4WmxqMzNqQVQyOThmUmhVc2gxajhLdUtUdVljbGNSZDFsMUdaUGEzN3NNcjhmNHhmM0c5WXQ5djRTZDdHc1psM1E5OWhBclJHdlRLV2N3Vy10UVpWWTdSaEVFeHczaGo4WnBDS1I0NmJZSFZkakoyeWgzYjd5QVVPNlRFbkFfSWZiekg4YXgyWV9R?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-25T01:12+09:00"
     }
    ]
   }
