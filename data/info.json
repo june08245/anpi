@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-25T01:45+09:00",
- "errors": [],
+ "updated": "2026-11-25T02:00+09:00",
+ "errors": [
+  "nankai"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -108,6 +110,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-24T23:34+09:00"
+    },
+    {
      "title": "イスラエル軍、ネタニヤフ暫定首相にイラン再攻撃なら「広範な紛争に発展」と警告か…現地報道（読売新聞オンライン）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqWWYydGdrazR6X0xBR2c2NHNJRXFpNzFLMXNKUWVOQ2h2LVNGbEpySFN4UFJKNm5vMERNcXBtMW5OT3kzdXVvTF9TcGw4bFhaaFJnUDBXRkZsbW5UUlc2SG53b2t4RTR3UnlfNDREVlRVZ2NNQjdYZEt0cy1VNjg?oc=5",
      "source": "Yahoo!ニュース",
@@ -136,12 +144,6 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zUlNORjRJdnNFa1FYUkNnNDVfTkdmYkdTVHhHeDVnbEF6VmVlM1h1ZHdRem1LaGFEYVB0ZEUwakZHVzJueXYxamstdDNWWFNjLS05eXgwUm5obC1jSFg1N2w3d9IBaEFVX3lxTFB3bUhhcDZlOWg2ZWRwNWR2TTJEeS1EU3Q2OG1GWHRfLW0yUTVEZkVUbldtQllhZURxTzR4VFdjM0JuaXFnZDZSY1ppNkFFcmMxTjZBY2JwQ1BXN1QxM0ZSNGhGT2VOcUdx?oc=5",
      "source": "財経新聞",
      "at": "2026-11-24T01:56+09:00"
-    },
-    {
-     "title": "イラン、「あらゆる手段」で米海上封鎖に対抗＝外務省報道官 | ロイター",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkE2WkZGN014SzlMQk1VSjloQ3BNblphVzJzWGZuUG1NczlKbndwdU1PUnBwNnczREhGYXEyWFVSWllCLXN3TVk1QnoyX1lacnFmcjBMbXhPN3VpVGE3ZHJFMFAtSEM5anVoNGpLeUNwWVpRVEpsbEpDNG5tNTZWUHF0Wm9mUk0?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-24T00:25+09:00"
     }
    ]
   },
@@ -156,12 +158,6 @@
      "at": "2026-11-24T18:00+09:00"
     },
     {
-     "title": "ロシア軍機が台湾ADIZに相次ぎ進入 元台湾国安局長が警鐘「大国は利益を再配分している」",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dXdwVDE3WU90T0RPbERFSUJ0NEgxUEUzc044SEl4cTd3NDZ6WFhiSWdybGpnSlkwVGRlVWpDY3RvRVZLaEpfd2hramlnZWRE?oc=5",
-     "source": "風傳媒日本語版",
-     "at": "2026-11-24T15:43+09:00"
-    },
-    {
      "title": "中国関連の計画で軍事情報や装備を扱った陸軍軍曹が有罪を認める、司法省発表",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8tWDFwNEcxdXdzbEY3R2x1TTRlWFRSZ3BsZTVmdjlqM1NYWFR2eVR0dnY5cWx5OWpPbktJTXlvZ25WUks3WDhhNm81ZHNHZGQ3T2dYMUVST2FmclFXMUJNMHZsVWIwN1FvZlJNZDdIZjZVWFY2MXlGZU1LNGRPQUkxY3lITVkycHhTbF9TN0FuOFVwQjFydnZR?oc=5",
      "source": "Mezha.net",
@@ -174,16 +170,22 @@
      "at": "2026-11-23T19:55+09:00"
     },
     {
-     "title": "中国軍、配送大手の調達資格停止　「規則違反」",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWExUGh3T0JpX2Q4WTFVV1UtVWJWOWIwQmFMeDJQMnpyVml5UVhRRUc4eHZQeVJad2pKYVFQejlheUg3MWVlSXdGQTVfTHZPVmszTF9iV0NsSnFWYzJrMDVEUWFfdEdPeXBBUmRYdW5BYktHcG93U2dfX2hBYlBwaXZ2V2NYYlFBc2fSAY8BQVVfeXFMTW83cFJNOUw2bzV2Vk5KR3FOTmZKbmhlb1BPN2pKX002WGdzdGVvb1Fyb0hOZURNaEhlOGNlV1JPcS1zYnhnWnpkNG02d0hobDBVX01waWpSTC1GeXBwWktaT1dkRmZockdVZjd1YUtvVTZyLS13bTVXRHlHdVRjYTl5cU1rUlVMVm9SWVZhS0k?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-23T19:17+09:00"
-    },
-    {
      "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zaHdPZklSb0RNYTZtNzBLSGtaOXdlczhYNzQ3NzZNekJzNUVFbVh0eHhlTDlHQXZ3UDE5Smo1VGNibUthTzlPODVHZ1FIUDdNSkptNE9hakhUZ0tJNnhn?oc=5",
      "source": "JBpress",
      "at": "2026-11-23T10:00+09:00"
+    },
+    {
+     "title": "中国軍水陸両用戦車沈没動画がXで話題、2002年テスト映像",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRlcxdzFPMm1vQ2E1cE8yRUc1S3ZVcDUxeUlLVHFZRzZPV3QzajIxaWhHTkNGaDJMRE5iaERDSmcyZDA0YWdWQ3A2SGswa1pHeVpGLVdlQQ?oc=5",
+     "source": "X",
+     "at": "2026-11-23T01:54+09:00"
+    },
+    {
+     "title": "米国の国際影響力、中国に対するリード縮小－イラン戦争が軍事・外交力に打撃",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QVTNVTTVBVzBHOHVDT3gyT1k1bnljMjg3OW1ZSHRKM1FFaWRsTUNmM3BkN3hzVTFpbS1aVGNxZlBSSi1UdWpROERBS3NFckpBUy1YTlluVFpfWU8xQ1BONE05UzhpOThpc1hpcDFtMEdfSlpPc3pB?oc=5",
+     "source": "Bloomberg.com",
+     "at": "2026-11-22T23:08+09:00"
     }
    ]
   },
@@ -191,12 +193,6 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
-    {
-     "title": "「青い目の聖者」ハム・ジェド神父帰天…韓国で66年、北朝鮮結核撲滅に献身",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHJmOUZ3R2tSVXlVM3ZZMkpsbTV1djduVDhGazlYeHM5ZEl1WUkxZFdDbE15bHVwOVQ2aUlBX2h4WGFyZVR2TXM3cVVJeHNkRlBCZkxxZnpUb0Vxb2U3Z3NKRXFXREpLMjRPcmI3eWxvSENNODlnQ21BbTU5V0ZCODNHYW1nckE?oc=5",
-     "source": "조선일보",
-     "at": "2026-11-25T00:40+09:00"
-    },
     {
      "title": "北朝鮮・金与正氏、平壌のスイス外交事務所に「撤退を勧告」 制裁に反発",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BS3d6aHpCenJBeW5MSUREQklaQnU5VWZLOE1rRnM1dXNmX1JuMUdBd2hWY0NzQjJMYk53SWNOYk1LcGZlSkdiZ3dEM2E2UVNvMWVxRXI1ckRaaENPSVpkZEgtcy1YWUZseFh6Mw?oc=5",
@@ -226,6 +222,12 @@
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPTVBMRjdXV0Z6Vm0wRElmTHdzY0ZaOERKbGQzdnVaaWNHZ2huWWg0UE9oLXhRVFdNQXpfTW1nR293RHVYa3VyQm13LTROek51eXhoNklkUWg0dTZaQVZRMjh3?oc=5",
      "source": "読売新聞",
      "at": "2026-11-24T11:18+09:00"
+    },
+    {
+     "title": "ロシア軍機接近で韓国・鬱陵島に一時警報 自治体は「北朝鮮機」と誤記",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UWFk0RzRpWnZhaHdsM05oMG1FcGtaVW1BN2o5eTNjXzJ5Rkdzb2lmTXUtZFRLU3BNS2tYY2h2Ul83Nl90YjBxTmZNZE9lQmV4Q3Rjbm41RW01cDNLcFgzZnJ1S0tuUmpsSU1pNnE2bTVORFU2STRGUkhn?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-24T10:23+09:00"
     }
    ]
   },
@@ -300,16 +302,16 @@
      "at": "2026-11-24T19:00+09:00"
     },
     {
-     "title": "ドイツの学校980校に爆破予告、デンマークでも150校が被害 : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUM2pWb08yZkJsM04zWW00UGxnODNzZlk5NGxWeWpoN2pIOURNTUVDdmNLM1doMDhNZnlXRHVhblI4OFNmdVg0VGhCcWJDbDBIS2xKV3hVcDlnQm5lRUhJa19Ndw?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-24T18:10+09:00"
-    },
-    {
      "title": "ロシアが核衛星を宇宙に打ち上げる準備をしているとの情報を受けたNATO事務総長の反応",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzZrTVAxbEN2UWxyR3NUZW9KTmxxQ1FIZktsdXY3cTFtMTd3TkMxVzNlcmV6NTFrbEpDUWJHSGRIRlZIbXVxYllHbGdSYVBzTWpNLU5Ta1hMOWhTSURacUJuLUJlbmtmbnB6bGdFUDdCakE2OFV2MnRrRUdnX3ZkSVVZc0tlQXpoekJTT1RJeWZHcU9pelNIek1PekpkdDRnS1Q1d1lJRQ?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-24T16:59+09:00"
+    },
+    {
+     "title": "NATO “対外国境”防衛強化へ ロシアのミサイル落下や領空侵犯など受け",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cd0NhYURtMDJwQWRNOWU1YnhNZ3k1ekhrT2lhRjZSRGtCUzlXWFFIWTFUN1N4MHZTZnp1emlDd1NFYm1TbmJQSlZDVm9STHhNQjdpSHVPdzN0LWc?oc=5",
+     "source": "ABEMA",
+     "at": "2026-11-24T16:27+09:00"
     }
    ]
   }
@@ -530,18 +532,18 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "「青い目の聖者」ハム・ジェド神父帰天…韓国で66年、北朝鮮結核撲滅に献身",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHJmOUZ3R2tSVXlVM3ZZMkpsbTV1djduVDhGazlYeHM5ZEl1WUkxZFdDbE15bHVwOVQ2aUlBX2h4WGFyZVR2TXM3cVVJeHNkRlBCZkxxZnpUb0Vxb2U3Z3NKRXFXREpLMjRPcmI3eWxvSENNODlnQ21BbTU5V0ZCODNHYW1nckE?oc=5",
-   "source": "조선일보",
-   "at": "2026-11-25T00:40+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ロシア軍艦が電波妨害と英紙 航空機ＧＰＳにトラブル",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kalRTZ2I3Vjdyam45amhSbkI4ODA5Q3otX21hVVNCSHIyY25kV0RwYVc0cm54a2hNVm85UWgxQU1ra3V5WWdPQ0lPQzF1N3pGN0JCNg?oc=5",
    "source": "中日新聞Web",
    "at": "2026-11-24T23:47+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-24T23:34+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領（ロイター）",
@@ -572,13 +574,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "ドイツの学校980校に爆破予告、デンマークでも150校が被害 : 国際 : 財経日報",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUM2pWb08yZkJsM04zWW00UGxnODNzZlk5NGxWeWpoN2pIOURNTUVDdmNLM1doMDhNZnlXRHVhblI4OFNmdVg0VGhCcWJDbDBIS2xKV3hVcDlnQm5lRUhJa19Ndw?oc=5",
-   "source": "재경일보",
-   "at": "2026-11-24T18:10+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "イラン戦争などで米国の力が低下、アジアでの中国との差が過去最小に―シンガポールメディア",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QWlY0aWh6bDNad19TcWY4el9fM1BCVFdMSU5uV092WU9pT0tmbk9OYUVRTlJnWVRQN09tQ29mVkxtdWJDM1h3NDNBUjJUT195d3J4U1BGZkY5R0pUS19QM0lBRTk5ODNlN0E?oc=5",
    "source": "Infoseek",
@@ -593,11 +588,11 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "ロシア軍機が台湾ADIZに相次ぎ進入 元台湾国安局長が警鐘「大国は利益を再配分している」",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dXdwVDE3WU90T0RPbERFSUJ0NEgxUEUzc044SEl4cTd3NDZ6WFhiSWdybGpnSlkwVGRlVWpDY3RvRVZLaEpfd2hramlnZWRE?oc=5",
-   "source": "風傳媒日本語版",
-   "at": "2026-11-24T15:43+09:00",
-   "topic": "中国・台湾"
+   "title": "NATO “対外国境”防衛強化へ ロシアのミサイル落下や領空侵犯など受け",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cd0NhYURtMDJwQWRNOWU1YnhNZ3k1ekhrT2lhRjZSRGtCUzlXWFFIWTFUN1N4MHZTZnp1emlDd1NFYm1TbmJQSlZDVm9STHhNQjdpSHVPdzN0LWc?oc=5",
+   "source": "ABEMA",
+   "at": "2026-11-24T16:27+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "北朝鮮・金与正氏、平壌のスイス外交事務所に「撤退を勧告」 制裁に反発",
@@ -633,6 +628,13 @@
    "source": "読売新聞",
    "at": "2026-11-24T11:18+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "ロシア軍機接近で韓国・鬱陵島に一時警報 自治体は「北朝鮮機」と誤記",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UWFk0RzRpWnZhaHdsM05oMG1FcGtaVW1BN2o5eTNjXzJ5Rkdzb2lmTXUtZFRLU3BNS2tYY2h2Ul83Nl90YjBxTmZNZE9lQmV4Q3Rjbm41RW01cDNLcFgzZnJ1S0tuUmpsSU1pNnE2bTVORFU2STRGUkhn?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-24T10:23+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -651,7 +653,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」3件",
+    "イラン・アメリカ：「攻撃」2件",
     "ロシア：「攻撃」3件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
