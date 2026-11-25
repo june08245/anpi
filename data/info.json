@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:30+09:00",
+ "updated": "2026-11-25T20:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -108,12 +108,6 @@
      "at": "2026-11-25T17:22+09:00"
     },
     {
-     "title": "イランが攻撃、米兵２人死亡 ヨルダン基地で、中央軍は報復",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rNmM0WXNGakJEUHpnbzRkdHJfSFNqR2ZhN2xzcXVzM3dqQ0E3NFVTRHpCZ1NXZUU5S2EwWHUxZnIwSDA0VGV2X19Xa1M4Sk5iZlM5XzJCY0RKQQ?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-25T14:53+09:00"
-    },
-    {
      "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zRVBSM012eXFfckZMSkR0VTFZNTE3TEZrQTduQU1SN0JjOEduRU42V09NdzhydktRdWZ0YXBVaDJfdS10UU9sUXBUWEloZERoQm9RZmZqeU51bWdocGEtYk8xUjNhUEFKRXZGRWJaSFZyb2M?oc=5",
      "source": "山陽新聞",
@@ -136,6 +130,12 @@
      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQOHlaZUYtSEJFdk1NNThhdU40Y2szY05QcmxOSzZCZkxJZHJwOG1qLUxlaUR6MzIyMlJjcHk5NGtzOE91Y1VKSE1xYTFkRUZpeE1ZYUM2S0tHVkhkeFFFb0pfZUJjaFNBQWJWeS0taWlnWFJ6cHdjWDJ3T1F5dGY2aEk3eGpUQVRoSnQ0VEhwYTlqMXBhOHZLVzl5dU9KN3V5bVduWmxWRGl6SDBLaFdIQ2ZzUE91UklPdXB1VV8tQXhIRHU2cGNOZ00yRnRFWXVIVGROX2F3ZC1HcEw3YXlaTkdkQURYSUwzWlZOeHhEcUZiTmgwbGtoT1ZwRnRHbEgyTVZFLXdzd2RvOENUYUtrRVk3N0JYNGlZdEFjeDBUcTNGOGlwZEZXQmxISUpyTW9FZ19fbm94MVkzTWwzNWVrMHRmbGt2anNPY1A4MTA3RzJteXpZYmIxcGFMendDX2xXN2xMZUx5NExFTWJhYWs1WUo1NnJYUk9rUmMxTTgxRWlkUHNlSUhnd1R0emxjQUtGNlM5UVE4dmdUYjFHVlFxdFV0SE56d21ySU1kOEV3TGZHUQ?oc=5",
      "source": "Pars Today",
      "at": "2026-11-25T05:14+09:00"
+    },
+    {
+     "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-24T23:34+09:00"
     }
    ]
   },
@@ -143,6 +143,18 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "台湾から200キロ弱　米軍大型機の離着陸可能に　フィリピンが空港改修へ",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRmdnNGtrSVktNFNfSldUUE9VRG5acExGVVZYRkItMmRKOWMtLUtCUjY2dFV0MWtDSG1YMjkxUmVrTkJ1U1VjWXQxYjBuNzFQa1ZWYmhiREh3MXMwdmfSAV5BVV95cUxNWEZnZzRra0lZLTRTX0pXVFBPVURuWnBMRlVWWEZCLTJkSjljLS1LQlI2NnRVdDFrQ0htWDI5MVJla05CdVNVY1l0MWIwbjcxUGtWVmJoYkRIdzFzMHZn?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-25T18:53+09:00"
+    },
+    {
+     "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-25T18:53+09:00"
+    },
     {
      "title": "リトアニア大統領顧問、「台湾代表処」の名称変更を要求 中国との外交関係改善を模索 | 李靖棠（リ・セイタン） | ニュース",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10aVBEaGFqc1RUTzBJZTZ0VHJ1LThjeU5rRDhBa0VCakRGbXpVeUdsT3MtQXo5bno3Rmtma3J3NS1BcTdMYWN4QnNzUmloTzZh?oc=5",
@@ -166,18 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ONng4ODFSTjR4ZjV2U3BkODdKdHp5anJFNlBBRDZtSXYyLWlnLUtFQ0Q1eTcwcTZFLVpwWEctMHdNMDgwdU1ILVZRQUYyUWNHeEFGQQ?oc=5",
      "source": "中央日報",
      "at": "2026-11-25T08:21+09:00"
-    },
-    {
-     "title": "中国の対日プロパガンダ、NYTが組織的な情報戦を検証 「再軍事化」宣伝と日米分断の構図",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU21OUXF0V1NyUHJGRmlFbGU1TkxGckt2Y0NLaTMxaHRrTXUxaHp4NG1PXzhmVV83dFlQT3RTN3BNREk2NGRNQ0tCYlpYU2drVldfeU9uOXpGVGpVSERKZzY4a2R4a2x4NVQwY0loYkJ1cUUyYzd3N1pVUGhWQ3RBbTRyM1lkWUZHdll3ZkJWV0lwWW1pMVFYRGFxdGFONE9pWjh6QVJEU0h0dw?oc=5",
-     "source": "合同会社ロケットボーイズ",
-     "at": "2026-11-25T05:00+09:00"
-    },
-    {
-     "title": "イラン戦争などで米国の力が低下、アジアでの中国との差が過去最小に―シンガポールメディア",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QWlY0aWh6bDNad19TcWY4el9fM1BCVFdMSU5uV092WU9pT0tmbk9OYUVRTlJnWVRQN09tQ29mVkxtdWJDM1h3NDNBUjJUT195d3J4U1BGZkY5R0pUS19QM0lBRTk5ODNlN0E?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-24T18:00+09:00"
     }
    ]
   },
@@ -240,12 +240,6 @@
      "at": "2026-11-25T18:46+09:00"
     },
     {
-     "title": "ウクライナ南部ザポリッジャをロシア軍が航空攻撃　６名負傷、集合住宅が損傷",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN1ZxNkdDQ1dNVzVrU2xLRE1LUGoyN1JsOGVmVWhnT2tMQVZmelR4UTB2Nmh3RXJGaFVPQVlFMG91dWs3bkd6NE1JZEk4aGxETGc3aFhFTjJtRTc0RnlrQUtiXy1FVUJzOWJwM2xlV0JyNWVSZ04ycXRYcmhTbHExTW9SRzVzNXhQYXZDeTBLUlNGX3ZvTVU0Wld2U1VwWDAwcHZDdHFyTzRvQWNWTEo0ajlUMFJjMlRsWWhyeWMtTjBqNk9CZENlWmVFVF9ITC1Dc1M1eTU2aS1uSFdqNkHSAeMBQVVfeXFMT2NyQkhYVzRYYVBtek1KYS05RTZ3UXZBOTVVUkJvU083OXFQNEFfSU03dW1kWEN2cVZja0NDcmxpQkwtRENfS1JCbS14alU5amVwa0I1QjNSV0ctX0Zwei1FR2JObmRsWnowTERQQmZ1OUR6NXNvMUtydGhpV3lQSkx5Nm5MN3FZV1d4SVRIdHBwOUlYUkFReGJrWGlnd0dwejJWOUcxNHpWZGFyaTF5ck5ienpjbzRMYUpGVVc2R1V5RHpMVmF0UUhRZEZUT3NDMk5QdndZeUJTWlV3S1dNZmJWclE?oc=5",
-     "source": "ウクルインフォルム通信",
-     "at": "2026-11-25T18:45+09:00"
-    },
-    {
      "title": "ウクライナがロシア製油所への攻撃を再開して1カ月で20回攻撃の間に米燃料価格は下がり続けて影響は無し",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3NqdEpqekNETVhXNU5ST3c1VlFUSDkxTHFNYzc5MGVoZ3RJSTFhMXV6Wm5NX041TDhtYmIyV3A5R3JCUl9tZ29DM2k5OFJubDJJelBmX2lXM1h6U1F3RnQxRTRYN0NTREZIQ2d3M0dUT0VVODQ5dld6T3VZUG9YVXMxUVZadzR1?oc=5",
      "source": "Yahoo!ニュース",
@@ -262,6 +256,12 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWVYyMTJQenh1NkllSUZ2eFcybTJZd2FRakl6Sm82TjNYOHVDVVpCZFdEM1lvS00zcU9LSkxhWC02bVk1M0R6RlBjd0YtbzZqVHRrYXNTb0xTcXIwR0JKQ05FWjl4di1lUy1QeFJZWGRSMGJmZWRqeldoMmpkQnM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-25T17:54+09:00"
+    },
+    {
+     "title": "クリミア橋へのミサイル猛攻、背後にロシア人亡命者",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVUzeVp6Wk11ZW1vZE96UEtRaE5VNjlPLXd4eUxtR0Zzc25tMkxTd05lVnpJbElsbmpLWEV4TGV1cnk4US1neFdiWWdpRVozTU5PVXJxSEFjMjVUQTdOcVFKdlkwM0xXUWNCUWpkWnY1SGtRMEY2UHFJRnphVFlGekZqMjZCTUdBOFpGc0E3ZTNNOU5yZmgtUU9xdHFydVlTU0hPbnJmYnlFWkI4aUVueEpn?oc=5",
+     "source": "WSJ",
+     "at": "2026-11-25T17:27+09:00"
     }
    ]
   },
@@ -328,10 +328,10 @@
    "at": "2026-11-25T06:55+09:00"
   },
   {
-   "title": "南海トラフ想定し６府県警が訓練 津波で多数の漂流者救出",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90VzdtdF9DdnNZRmQ0S2cyVkZxcDhTcTFvMUFpQ1RCSnotdC0xS3J6NnhHd3dSTjYxcGNQNG9sMzRIR2N4Qm9MN0ZMMVZnNnRaR1JlSHVxbkp2V28?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-25T04:04+09:00"
+   "title": "南海トラフ巨大地震の想定震源域でM5.7 愛知で最大震度5強 関連は？専門家“プレート境界型とは違うメカニズム”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54WDVlUVpoVUNkVERmazZkYk9JbjhKaUxtRVp4RzBLVUt2Z2diS2ZaY2NMS2l5UjZZRTdsX1c4YWtOOVQ3b05PcXdRR1VWenltVzFjamJPSEd5eG5ncjNZ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-25T06:30+09:00"
   },
   {
    "title": "南海トラフ地震が発生したら… 名古屋大学病院で災害対応訓練 状況把握やトリアージを実施 医療物資を運ぶロボットも登場",
@@ -379,6 +379,12 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SXpzMEg0eURiYVMyS3I1YWFoRVZjTDJrUHVDRGkxNFEydk5TUzk4dU43MWFYSFhaUUl1N3JxZ2JOaWdMeGNTRlBIOXp1NldObzU0bld4c1NqaFEzQlZHZTZMbktRRk1hMjA0ejBR?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-25T18:30+09:00"
+  },
+  {
+   "title": "花キューピット、不正アクセスで注文者情報670件漏洩 クレカ番号も",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50Z0ZEU2pqcE1qTkljWkhTX2s5VVBVZUowQkhwOEpVNEE2MTF6dERqQlNjQjdNRFFES3FlcU1wY0F2ejBtSUZEd0ZBR3M0dFg1MUZDMHpZMHJTVVdMOXdQWnZpa0UxRXFDaTJ4OQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-25T20:33+09:00"
   },
   {
    "title": "ミロク情報のM&A仲介子会社、不正アクセスで数千社の情報漏洩か",
@@ -435,22 +441,16 @@
    "at": "2026-11-25T18:45+09:00"
   },
   {
-   "title": "鹿児島の決済アプリ「Payどん」26日再開 不正アクセス対策強化",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44ZlZxRVJQSUtOVUdqZUxIY1I4dkRUVEdpSVdiSFhaZW1LNXdwcVpqQzRaUjdXcDFieWtyMnRNYjItdHZ1SFp5TmhRVDJOdzZYZjZGU1dsRGVfVDF4ME00Sk5OaWRfczN6MWFwMw?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-25T18:38+09:00"
-  },
-  {
-   "title": "【11月30日開催】現役ホワイトハッカーと学ぶ、企業が「狙われる仕組み」と「守り方」──AIでサイバー攻撃はどう変わった？法人向け研修",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbTBmZjR6N1RBWU5HUzkwR2JIakJicDh2d0Z4bWlGd3ZoN3k2dDRBazkwRFpnN3VRbjcwNk5XQ2dYaERnanoyZk0zVWt0NENFbWdmNWI5RTh5UjhEaFhNQlVOTkxQR0RwSXRN?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-25T18:16+09:00"
-  },
-  {
    "title": "【速報】京都生協の組合員メールアドレス12万4000件が流出 メール配信システムに不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jUkV0aUtwQXc2c2wyZV81M3ZBenZLdjZzY3M0b1FsYXZ4ZnBRTHNXUnhEVnkyTXFoUERZd1JIZU1pMC05bVh3SzdnLWl1dS10UmhxdGM2VUU?oc=5",
    "source": "京都新聞デジタル",
    "at": "2026-11-25T18:14+09:00"
+  },
+  {
+   "title": "Todoistに不正アクセス、利用者の約6%に影響 旧方式のパスワードハッシュなど流出",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QSDdSdGR4RkM4VVN4NHo3MWZVYlVId0xTRTNqRjkzbUF5dFk0U0Q5WXZFWVo0Z3Z2UHNFNjZVU0VwaXZHd1BRY0JkWHFMR1JtMkRnN3RHV1RPMDRVb0FnUG50ZndTSTBi?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-25T18:11+09:00"
   }
  ],
  "tokyo": [],
@@ -460,12 +460,6 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVERTU3RNQjc1V3JXMXFlSmREVGZhLUZTQ3lYMmYzWVl3d0Vkc0FPTWVSa1dTM05JMXkyR3duS09QNlpleVo0RkFrRVItODdMTU5oem5NOENXT3lEQjNRNkk0ak9fb2E1ZUlqYnNaaVFrQ29obU1KalFpOTF3ZXBZVHB2eEQ3a3Q1VE1LM1MtLVpMQdIBlwFBVV95cUxNSnlDZzIxYnppV3YwV3pSSEZiMWtSUTNQQXppanhobkhxM0ZidmM4SloxVVkwTzhqa3VKSzdfMmVscHZqeFpRb1NHTXppOWEyODVBOThiVzgtQ3VCczJCdS0wd2ZmSV9TWWQ5MkI2UEtXTkk5ZWxhQ3VYd21pMkFNQVBGMzNaUGgxVGRudXdub0VwWnFqTFBn?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-25T11:45+09:00"
-  },
-  {
-   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzlLd0VWV3RZY2kxMWI1djBHa3VxaXVqREU0UnBJRTNGTl9xTTZyVlJtcXlQZnlBR2hpRTBPVzRtUjd1aDVOWVhDRzdZM0JaSUNRaWZ2YjRBTno2R1BVN3Z1TWtlWTdneHdjWHM0WVdBcUJDem5nRk42WFlUeGhOMQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-25T08:34+09:00"
   }
  ],
  "world": [
@@ -477,11 +471,18 @@
    "topic": "ロシア"
   },
   {
+   "title": "台湾から200キロ弱　米軍大型機の離着陸可能に　フィリピンが空港改修へ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRmdnNGtrSVktNFNfSldUUE9VRG5acExGVVZYRkItMmRKOWMtLUtCUjY2dFV0MWtDSG1YMjkxUmVrTkJ1U1VjWXQxYjBuNzFQa1ZWYmhiREh3MXMwdmfSAV5BVV95cUxNWEZnZzRra0lZLTRTX0pXVFBPVURuWnBMRlVWWEZCLTJkSjljLS1LQlI2NnRVdDFrQ0htWDI5MVJla05CdVNVY1l0MWIwbjcxUGtWVmJoYkRIdzFzMHZn?oc=5",
+   "source": "大紀元 エポックタイムズ",
+   "at": "2026-11-25T18:53+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
    "source": "大紀元 エポックタイムズ",
    "at": "2026-11-25T18:53+09:00",
-   "topic": "欧州・NATO"
+   "topic": "中国・台湾"
   },
   {
    "title": "英国で家庭備蓄広がる　相次ぐサイバー攻撃　インフラへの不安背景に",
@@ -495,13 +496,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qVUdsdkNTTHBfSHJkVl9OT1kydG93NVNMY0k3TkRZUVU2OEgwQUZXeEs3bjJVRy0yMXdxVEpoVVZqTEF4bWJVekp3c25PWV9EZnRYMjZnQ0l3UQ?oc=5",
    "source": "ニューズウィーク日本版",
    "at": "2026-11-25T18:46+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ウクライナ南部ザポリッジャをロシア軍が航空攻撃　６名負傷、集合住宅が損傷",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN1ZxNkdDQ1dNVzVrU2xLRE1LUGoyN1JsOGVmVWhnT2tMQVZmelR4UTB2Nmh3RXJGaFVPQVlFMG91dWs3bkd6NE1JZEk4aGxETGc3aFhFTjJtRTc0RnlrQUtiXy1FVUJzOWJwM2xlV0JyNWVSZ04ycXRYcmhTbHExTW9SRzVzNXhQYXZDeTBLUlNGX3ZvTVU0Wld2U1VwWDAwcHZDdHFyTzRvQWNWTEo0ajlUMFJjMlRsWWhyeWMtTjBqNk9CZENlWmVFVF9ITC1Dc1M1eTU2aS1uSFdqNkHSAeMBQVVfeXFMT2NyQkhYVzRYYVBtek1KYS05RTZ3UXZBOTVVUkJvU083OXFQNEFfSU03dW1kWEN2cVZja0NDcmxpQkwtRENfS1JCbS14alU5amVwa0I1QjNSV0ctX0Zwei1FR2JObmRsWnowTERQQmZ1OUR6NXNvMUtydGhpV3lQSkx5Nm5MN3FZV1d4SVRIdHBwOUlYUkFReGJrWGlnd0dwejJWOUcxNHpWZGFyaTF5ck5ienpjbzRMYUpGVVc2R1V5RHpMVmF0UUhRZEZUT3NDMk5QdndZeUJTWlV3S1dNZmJWclE?oc=5",
-   "source": "ウクルインフォルム通信",
-   "at": "2026-11-25T18:45+09:00",
    "topic": "ロシア"
   },
   {
@@ -545,6 +539,13 @@
    "source": "Informat.ro",
    "at": "2026-11-25T17:51+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "クリミア橋へのミサイル猛攻、背後にロシア人亡命者",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVUzeVp6Wk11ZW1vZE96UEtRaE5VNjlPLXd4eUxtR0Zzc25tMkxTd05lVnpJbElsbmpLWEV4TGV1cnk4US1neFdiWWdpRVozTU5PVXJxSEFjMjVUQTdOcVFKdlkwM0xXUWNCUWpkWnY1SGtRMEY2UHFJRnphVFlGekZqMjZCTUdBOFpGc0E3ZTNNOU5yZmgtUU9xdHFydVlTU0hPbnJmYnlFWkI4aUVueEpn?oc=5",
+   "source": "WSJ",
+   "at": "2026-11-25T17:27+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "イラン、米の海上封鎖を懸念せず 物価上昇抑制へ＝第１副大統領",
@@ -596,13 +597,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "イランが攻撃、米兵２人死亡 ヨルダン基地で、中央軍は報復",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rNmM0WXNGakJEUHpnbzRkdHJfSFNqR2ZhN2xzcXVzM3dqQ0E3NFVTRHpCZ1NXZUU5S2EwWHUxZnIwSDA0VGV2X19Xa1M4Sk5iZlM5XzJCY0RKQQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-25T14:53+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zRVBSM012eXFfckZMSkR0VTFZNTE3TEZrQTduQU1SN0JjOEduRU42V09NdzhydktRdWZ0YXBVaDJfdS10UU9sUXBUWEloZERoQm9RZmZqeU51bWdocGEtYk8xUjNhUEFKRXZGRWJaSFZyb2M?oc=5",
    "source": "山陽新聞",
@@ -626,7 +620,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「封鎖」3件",
     "ロシア：「攻撃」「ミサイル」5件",
     "欧州・NATO：「攻撃」「破壊工作」3件"
    ],
