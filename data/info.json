@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:30+09:00",
+ "updated": "2026-11-25T16:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-25T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-25T16:38:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.3",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-25T10:42:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-25T01:40:00+09:00",
-   "place": "大隅半島東方沖",
-   "mag": "3.9",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -132,10 +132,10 @@
      "at": "2026-11-25T05:14+09:00"
     },
     {
-     "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
-     "source": "中央日報",
-     "at": "2026-11-24T23:34+09:00"
+     "title": "イラン革命防衛隊 バーレーンの米軍施設に攻撃と主張",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcGxDTW40bzFoTFY5WVczWTN6dXQzdnF0aEN1b2toZ3ZTZENmTm5PVWFTeDUxb19tNWNkcHRqSGZHUDhCSjBuN1BPNzJ4cnBRRWZ2TkZ5bEp6QnBwcXM3RDdzaw?oc=5",
+     "source": "テレ東BIZ",
+     "at": "2026-11-24T17:03+09:00"
     }
    ]
   },
@@ -148,6 +148,12 @@
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-25T16:16+09:00"
+    },
+    {
+     "title": "習近平指導部が振るう粛清の刃 中国の巨大軍需企業で若手有望株まで次々と消える異常事態",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMTDJ4MGh1eGE4S3E3b2RJRzItODBpeDVxY2U3R0ROekh5U2NGYmo1ZHVqNkNiVkJoMmdnNXhmU0o5ZFVkVzdQYzlQT2ptY204WC1fYlRCLXl4UVJpZXMwcm1Tc3BybkVV0gFuQVVfeXFMTkdvTVJVRnhJN2JUc1c2dTV5RXFUUUxFSjI1cDgzV2RmellxVTMwT2RoSVcwNldWU0syREZkbnhVWTNrczY0b3RmZVZNYlZlUGRfU05JNzNsZm5walpESmhNVTQ4eHJtWV9qZG9QOGc?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-25T10:00+09:00"
     },
     {
      "title": "【図解】3度の米中首脳会談、台湾めぐる中国の対米要求に変化 2027年の「4つの波乱要因」 | 楊騰凱（ヨウ・トウガイ） | ニュース",
@@ -168,16 +174,10 @@
      "at": "2026-11-25T05:00+09:00"
     },
     {
-     "title": "中国関連の計画で軍事情報や装備を扱った陸軍軍曹が有罪を認める、司法省発表",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8tWDFwNEcxdXdzbEY3R2x1TTRlWFRSZ3BsZTVmdjlqM1NYWFR2eVR0dnY5cWx5OWpPbktJTXlvZ25WUks3WDhhNm81ZHNHZGQ3T2dYMUVST2FmclFXMUJNMHZsVWIwN1FvZlJNZDdIZjZVWFY2MXlGZU1LNGRPQUkxY3lITVkycHhTbF9TN0FuOFVwQjFydnZR?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-24T04:58+09:00"
-    },
-    {
-     "title": "中国軍水陸両用戦車沈没動画がXで話題、2002年テスト映像",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRlcxdzFPMm1vQ2E1cE8yRUc1S3ZVcDUxeUlLVHFZRzZPV3QzajIxaWhHTkNGaDJMRE5iaERDSmcyZDA0YWdWQ3A2SGswa1pHeVpGLVdlQQ?oc=5",
-     "source": "X",
-     "at": "2026-11-23T01:54+09:00"
+     "title": "ロシア軍機が台湾ADIZに相次ぎ進入 元台湾国安局長が警鐘「大国は利益を再配分している」",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dXdwVDE3WU90T0RPbERFSUJ0NEgxUEUzc044SEl4cTd3NDZ6WFhiSWdybGpnSlkwVGRlVWpDY3RvRVZLaEpfd2hramlnZWRE?oc=5",
+     "source": "風傳媒日本語版",
+     "at": "2026-11-24T15:43+09:00"
     }
    ]
   },
@@ -185,6 +185,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮 スイスの制裁受け外交事務所代表に国外退去を要求",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSGlEdVFaOHFMd2ZLMVRfd0pOUXEwMmpqMFZTaGdiaC1uaWZKTDFqcm5YVFYwX1R6XzBxNmFZUEc4X0ozdTBhNlphZWc1Rm5oODl1c1RRWmwwU2Q1MmxF?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-25T16:40+09:00"
+    },
     {
      "title": "北朝鮮がスイス代表呼び出し、平壌の拠点閉鎖要求 「制裁は敵対行為」",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51ZW5qVndXblhrWUluVU5ORHNXWW5vWkhNYktGVEcweEpRdkkxQXIyR1FRUVFSSEpNeFRsOHFwUTdmbjNkakhRekxQb0JzT1B5UHFCT2dvbGdpUFMzWll3YU50MjB0NHNpQjlWVUVYTGZSNEpwb1E?oc=5",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ma3Viak5iUVNudmZaNGdfZTFkYWVvQllhN0pFSDlaUjVRV0IxUWdyS2xaRFdaVXIya1dsRV92TTIzOEdCcmJSNHJQdFd1NnM?oc=5",
      "source": "매일경제",
      "at": "2026-11-25T14:32+09:00"
-    },
-    {
-     "title": "「青い目の聖者」ハム・ジェド神父が永眠…韓国で66年、北朝鮮の結核撲滅に献身（朝鮮日報日本語版）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUVFSdV9NcE5jRTZxcG5JR1Y1S0htd1BpekhCakxfc3Mxa3pvYlJpX2hvVzItdzlUQndicnRjZkNJRmM1TEVZd1I5bnpYUkx2MDlQdDZxWVNzNUpvdlh3SjdUR3ZPVXprRHZ1YmsybTljY09mVzhacy1aTENUak0?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-25T14:06+09:00"
     }
    ]
   },
@@ -369,22 +369,52 @@
    "at": "2026-11-25T13:00+09:00"
   },
   {
+   "title": "システム障害発生、リストラ決断にやりきれない思い 届かなかったリリース延期の訴え 話の肖像画 ぴあ創業者・社長 矢内廣＜23＞（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KVW1JeGJrSFNNYTJTNUNVU2UzVUhzZm5RWlRjRTVlazk3QTB6anhLLXRSZ2xmYUxOSldsekdaZ3lGZFM2MDJIanp4Q180YkhUM1NDM3lGTEJXZHU0S2pCUTZmbGlHLWdSNy13eVhUMGNKOGoyTmlKQVJXZkNTV00?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-25T12:00+09:00"
+  },
+  {
+   "title": "共英製鋼の米国子会社にサイバー攻撃 情報漏洩は「現時点で確認されず」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdzBzUll0UEtZV2VlYUVnZGFWMUUyZnVjT0NWZ0I3a3JwSDFoTWRxdlYxNFB0SUdKLXFmdE15cTUtZzh4UnplM3VhRS01VFVjclhyRVZ0SHVUTzhvN096RzlkcHA4TE5OZWhORQ?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-25T16:42+09:00"
+  },
+  {
+   "title": "「Todoist」に不正アクセス、ユーザーの約6％でメールアドレスとパスワードハッシュが流出",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GUDNUQkM1Z1BmTGxrb1U4dHdNeVcwdm1TR0NLcW16R0owRjNudzB1UFJiSC00cnNHMWJ6MXdYMXhNXzdDbW5LWXlQcGxwbVFJZlNOLUtkSnRFb0t1MV9ZVTI3TXhMXzl6?oc=5",
+   "source": "窓の杜",
+   "at": "2026-11-25T16:42+09:00"
+  },
+  {
+   "title": "ランサムウェア集団The GentlemenがNVIDIA攻撃を主張、11月28日にデータ公開を予告",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXZmMU1yWi1aMElPVER1dVBnN3haX2hncEc1S2hlekMwaDlENUMyQ2V1M01zc3cySldEbjdJMmtCZnF1bGZOd0ZMdjZEUEZjTEJjd05UNWlVQ0FLZ1Q2eExfY3NucWt0Mml4Q0R3WkFwWm92MXY5Q0gwNGphQlY1a3NLdW0xNTVUSkVrYmVvRFhTTkJzay0xbEtIT2ItQQ?oc=5",
+   "source": "Pasquale Pillitteri",
+   "at": "2026-11-25T16:36+09:00"
+  },
+  {
+   "title": "米CIAにサイバー攻撃 非機密の情報システム侵入",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TQ0dqcUJkMVZfVGppeEJjUUpWMi1WYmZpV2ZYMGRQUDNldDlsS2ZsbGFxR1B2ZVByRHU3eV9WOGRqVGtFdGI2RGpjMmJDYmhtWWE0M3NQdFZaVVFWdnJTN0E3cFotQ00xX2szUA?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-25T16:31+09:00"
+  },
+  {
+   "title": "山口きらら博記念公園へのキャッシュレス決済の導入について",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40TVZhOFlHZ3NaRUtYQm84UFlkUlE4VnpVZVhLcHVrQklCOVVMWkFpdUdpT1NCaWwyenhzRFFqUGlSYzh3NlFBNlRkVWU1dXp5dzRpN0c5enBSRkNUMUhR?oc=5",
+   "source": "山口県ホームページ トップページ",
+   "at": "2026-11-25T16:29+09:00"
+  },
+  {
    "title": "TOLOT、クレカ入力不要の「PayPay」決済に対応！ 現金チャージで2027年版カレンダーが1部500円から",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsRUtjeHV2SW9IRzZiR0IwTEhJSThTeXZoSElpLUduS2NLVlIzTlY1VWpfMjNpcTBrSHo5UGxnX2swYWpibllwdDZoWWpEb0NqdkJ4X0haTkZNVWdIaEV2Q1hnTU1SZkNEd2c?oc=5",
    "source": "AppBank",
    "at": "2026-11-25T16:23+09:00"
   },
   {
-   "title": "Payどん26日午後順次再開へ 不正アクセスで全サービスストップ（MBC南日本放送）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Nkl0X0h2SXEyREppMTRnaGlXY2pza1lXRHYxaF91Z3NjRnFlWEticHdwYkQ1djd1Z3NnOUVCWUt6WEpuR3lDODU3cFRveEQtWUE0N3I5eGJjdngwRG1vdkZwMHNIQmN2T1VPd3h2bi1yYVlrTHdVZThDbzJZWWs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-25T16:13+09:00"
-  },
-  {
-   "title": "米CIAにサイバー攻撃 AIハッキングツール利用か（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wR1loM1phNGtRZ19oZDl1anNPeXIyU3RGOXNBcjJaWnBhQjUwd0xubDlodzVQRVVJdTRXMjhvTnk2VkJjbWh4Z21QSklCQjJYWkpuaWxOLU1JbTlvNWF1MGRmR2pzOWVlWDVueHhyQXZzRkxJMTlTb2ZvR1VjX2s?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-25T16:06+09:00"
+   "title": "Payどん26日午後順次再開へ 不正アクセスで全サービスストップ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4UVRkQkxmM3plUjRJVmNTdlJFdk02Tzd2QXhuSW5aTHg3bUMzcDhIOG5mb1phMVA0UVcydThYdm5razVHczJHLU1fSDcySkJsemFIc3hFSQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-25T16:12+09:00"
   },
   {
    "title": "富士通、米ＯｐｅｎＡＩとの連携拡大、ＡＩ活用のサイバー脆弱性診断サービスを開始",
@@ -415,36 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzTllUbXcxdVZ3dWY3MmdHeFp3blYtS3UyVGxRd0UxUVdjT3N1TkVsX1E2RzZWaTZWWGEzVldWa0ExbElzYlRRMzFGSE1iaWtnd2RJdk9sVXU5ZW9WcE52VkVMNW42QlhkM2c?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-25T15:30+09:00"
-  },
-  {
-   "title": "韓国金融当局、AIサイバー攻撃と取り付け騒ぎの複合危機で初の合同模擬訓練",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sNWFHX1RIRnJOYjFpWXVUR0NzcFExSXNNdVJyMzlsQXFnNjFMdU5aRC14YXhteUJPcFljbG93UnpsaUNld1EwMHc0QTZWcmdQQ3ZzU01jS05lRXNXQnVITXI5Z3d6RnVENTItMExRUF9NT2RC?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-25T15:25+09:00"
-  },
-  {
-   "title": "デサント公式通販に不正アクセス 委託先ジェイド経由で会員情報漏えいか",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5maXNQSEVkWFphR0RWTUJxMHRyUkQtM1YxdHVPMk03WnhNMGJCMkFTQUhUYWR5R0ctWnMwM2FXdzAwYll5ZVVUOQ?oc=5",
-   "source": "株式会社アクト",
-   "at": "2026-11-25T15:17+09:00"
-  },
-  {
-   "title": "サイバー防御、完全自動化",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jSHQ4azVpREdZQU9xejF2dlh5cGo2SXNTMC1ocm9LcFREUkxMN290STJrN0xfcG5MUzQtSTU3TFU1SDZIOFgwQ09HcUEzQVZtd05QTllNM0o?oc=5",
-   "source": "京都新聞デジタル",
-   "at": "2026-11-25T15:16+09:00"
-  },
-  {
-   "title": "米CIAなどにサイバー攻撃 AIハッキングツール使用か",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1kVXJRZjA2WjJmY0Y5bU5aTEJnYkZNWjdnNDdSdnQ3TFFTSXdqUjJPUHR6dzBIc1VkWk5V?oc=5",
-   "source": "Howl.Link",
-   "at": "2026-11-25T15:16+09:00"
-  },
-  {
-   "title": "台湾、AI悪用のサイバー攻撃対策を強化 企業に早期通知と迅速復旧促す",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnZCTUNPcl9pbTUwVjBOVFJTcFpXcFd5WWEydkIyNEJScjYyRDFTWGNVZHNQMl9UZVBzNlNpR3NjRWJieHItLXAyYlBUdG9abXpHRVJYdkRMVkFnTmZ3NXItSDQ2cmVBYzRORGZhZXkzb1Rtcm5EekFPWkM2czBiM3FlRk5GVlVOUmF3UlhhSTVCSXRyMjNSUEE0RERsa2pvLTdUSXJycEcybEFyYjVhMVBzeGhXM1d0U0JsSmcyNXRSdmwtS3NzV0RrcU5aLVJZU2JBWDVhVy1OMXVaQy05bjY3ZW1na2E0OThZ?oc=5",
-   "source": "디지털투데이",
-   "at": "2026-11-25T15:08+09:00"
   }
  ],
  "tokyo": [
@@ -464,18 +464,19 @@
  "osaka": [
   {
    "title": "M-1を“体感”できる『M-1感情爆発展』が大阪でスタート! “地元の先輩”たくろう・きむらバンドに芸人ライターも感情爆発「愛媛の王様が…」",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVERTU3RNQjc1V3JXMXFlSmREVGZhLUZTQ3lYMmYzWVl3d0Vkc0FPTWVSa1dTM05JMXkyR3duS09QNlpleVo0RkFrRVItODdMTU5oem5NOENXT3lEQjNRNkk0ak9fb2E1ZUlqYnNaaVFrQ29obU1KalFpOTF3ZXBZVHB2eEQ3a3Q1VE1LM1MtLVpMQdIBlwFBVV95cUxNSnlDZzIxYnppV3YwV3pSSEZiMWtSUTNQQXppanhobkhxM0ZidmM4SloxVVkwTzhqa3VKSzdfMmVscHZqeFpRb1NHTXppOWEyODVBOThiVzgtQ3VCczJCdS0wd2ZmSV9TWWQ5MkI2UEtXTkk5ZWxhQ3VYd21pMkFNQVBGMzNaUGgxVGRudXdub0VwWnFqTFBn?oc=5",
-   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzbUl2eGE2ZGJHWC1vT3pNNWk5UXY4amk0UTRtZDI4TW9qTzNjLTB4N0lBODZBOVRiQzdGUDd3UlNwbjBwNXZWSw?oc=5",
+   "source": "Fany Magazine",
    "at": "2026-11-25T11:45+09:00"
-  },
-  {
-   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzlLd0VWV3RZY2kxMWI1djBHa3VxaXVqREU0UnBJRTNGTl9xTTZyVlJtcXlQZnlBR2hpRTBPVzRtUjd1aDVOWVhDRzdZM0JaSUNRaWZ2YjRBTno2R1BVN3Z1TWtlWTdneHdjWHM0WVdBcUJDem5nRk42WFlUeGhOMQ?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-25T08:34+09:00"
   }
  ],
  "world": [
+  {
+   "title": "北朝鮮 スイスの制裁受け外交事務所代表に国外退去を要求",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSGlEdVFaOHFMd2ZLMVRfd0pOUXEwMmpqMFZTaGdiaC1uaWZKTDFqcm5YVFYwX1R6XzBxNmFZUEc4X0ozdTBhNlphZWc1Rm5oODl1c1RRWmwwU2Q1MmxF?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-25T16:40+09:00",
+   "topic": "北朝鮮"
+  },
   {
    "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
@@ -533,13 +534,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "「青い目の聖者」ハム・ジェド神父が永眠…韓国で66年、北朝鮮の結核撲滅に献身（朝鮮日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUVFSdV9NcE5jRTZxcG5JR1Y1S0htd1BpekhCakxfc3Mxa3pvYlJpX2hvVzItdzlUQndicnRjZkNJRmM1TEVZd1I5bnpYUkx2MDlQdDZxWVNzNUpvdlh3SjdUR3ZPVXprRHZ1YmsybTljY09mVzhacy1aTENUak0?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-25T14:06+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月25日の動き）",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WQjdwV1luc2F1OXpuSDUtR1U1blZBakNqaTlpU2FFWUwtMW1TQWhiQlV4anZFQmdkQTAxc2xSd2llUDE3WHp0bDlZdHlaemNpWGw3SC14alI0R01lM0FR?oc=5",
    "source": "NHKニュース",
@@ -582,6 +576,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "習近平指導部が振るう粛清の刃 中国の巨大軍需企業で若手有望株まで次々と消える異常事態",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMTDJ4MGh1eGE4S3E3b2RJRzItODBpeDVxY2U3R0ROekh5U2NGYmo1ZHVqNkNiVkJoMmdnNXhmU0o5ZFVkVzdQYzlQT2ptY204WC1fYlRCLXl4UVJpZXMwcm1Tc3BybkVV0gFuQVVfeXFMTkdvTVJVRnhJN2JUc1c2dTV5RXFUUUxFSjI1cDgzV2RmellxVTMwT2RoSVcwNldWU0syREZkbnhVWTNrczY0b3RmZVZNYlZlUGRfU05JNzNsZm5walpESmhNVTQ4eHJtWV9qZG9QOGc?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-25T10:00+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "【図解】3度の米中首脳会談、台湾めぐる中国の対米要求に変化 2027年の「4つの波乱要因」 | 楊騰凱（ヨウ・トウガイ） | ニュース",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13RlZHQllDNExvNW45d0xHSGpZN0plUzRKLTdhWnY0am9vS0UtY1pVM0t2eHFSbnBBSjRmR19DMlZBbENpNlNkeHV4TU5BeFpO?oc=5",
    "source": "風傳媒日本語版",
@@ -608,13 +609,6 @@
    "source": "Chosunbiz",
    "at": "2026-11-25T06:39+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "イラン革命防衛隊総司令官；「次の戦いは地域的なものではなくなる」",
-   "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQOHlaZUYtSEJFdk1NNThhdU40Y2szY05QcmxOSzZCZkxJZHJwOG1qLUxlaUR6MzIyMlJjcHk5NGtzOE91Y1VKSE1xYTFkRUZpeE1ZYUM2S0tHVkhkeFFFb0pfZUJjaFNBQWJWeS0taWlnWFJ6cHdjWDJ3T1F5dGY2aEk3eGpUQVRoSnQ0VEhwYTlqMXBhOHZLVzl5dU9KN3V5bVduWmxWRGl6SDBLaFdIQ2ZzUE91UklPdXB1VV8tQXhIRHU2cGNOZ00yRnRFWXVIVGROX2F3ZC1HcEw3YXlaTkdkQURYSUwzWlZOeHhEcUZiTmgwbGtoT1ZwRnRHbEgyTVZFLXdzd2RvOENUYUtrRVk3N0JYNGlZdEFjeDBUcTNGOGlwZEZXQmxISUpyTW9FZ19fbm94MVkzTWwzNWVrMHRmbGt2anNPY1A4MTA3RzJteXpZYmIxcGFMendDX2xXN2xMZUx5NExFTWJhYWs1WUo1NnJYUk9rUmMxTTgxRWlkUHNlSUhnd1R0emxjQUtGNlM5UVE4dmdUYjFHVlFxdFV0SE56d21ySU1kOEV3TGZHUQ?oc=5",
-   "source": "Pars Today",
-   "at": "2026-11-25T05:14+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -633,7 +627,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」3件",
+    "イラン・アメリカ：「攻撃」4件",
     "ロシア：「攻撃」「侵攻」4件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
