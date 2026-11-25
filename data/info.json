@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:00+09:00",
+ "updated": "2026-11-26T08:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-25T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-26T07:59:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "1.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-26T07:52:00+09:00",
    "place": "高知県中部",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-25T23:14:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.4",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -126,16 +126,16 @@
      "at": "2026-11-25T17:22+09:00"
     },
     {
+     "title": "イランが攻撃、米兵２人死亡 ヨルダン基地で、中央軍は報復",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rNmM0WXNGakJEUHpnbzRkdHJfSFNqR2ZhN2xzcXVzM3dqQ0E3NFVTRHpCZ1NXZUU5S2EwWHUxZnIwSDA0VGV2X19Xa1M4Sk5iZlM5XzJCY0RKQQ?oc=5",
+     "source": "山陽新聞",
+     "at": "2026-11-25T14:53+09:00"
+    },
+    {
      "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDck1NVThvcTZnOEREdVdjaFNiZmsyR0VxNnpCWUJBcG84R3ZPYi1nU2NxS0lZUHlLZ1c4SFN5MGtHQ01Ucmc5dmE1MkVYUDNlMTMyR051clg1T09yRU1xOWJFMVRSZmx4UjFBRUhLMA?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-25T09:15+09:00"
-    },
-    {
-     "title": "米国、イラン攻撃再開を控え指導部排除を検討 : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NeDFRLXhBUEZ4RVZETGMwdG96Z2dxQ1BTV0dNOHhrelN1RlZJTFBTQnpJSmxJVW1hWmFjVWtkeTdhQVpGZ1hXb0h4ZDdDSWd5TlZ5ZmpfUy1weFN4N3ZIVWhQOA?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-25T08:40+09:00"
     }
    ]
   },
@@ -144,16 +144,22 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45eGtHNTlzb3dRaEoxWC02cWlfaVNpbzNLMk9BaGl0VHcxUnMtRmZiLUxOVnQzdzdSM2swRkd5WGxZOG1OLXpNc0JjLXNUbDVEZ25CeWp1UkFGRXh4M3hDaHFCLTl0NHZTOEdhWmdVdkY?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-26T07:00+09:00"
+    },
+    {
+     "title": "これでは中国のやりたい放題ではないか…メディアが報じない、習近平の露骨な「日本潰し」の全貌【米中ロ首脳会談】",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYYUtsLW5BN1JHVlU0dG5KNFJjcGdRVktnZktPWHpaMjhPQU1TUFZ1LXJQdldibFBZNWdIUFNDdm9ZOFdQNmo5R1k4YzFpUXBheUdHRGQxV2ZFRUhqWXpV?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-26T07:00+09:00"
+    },
+    {
      "title": "米台すら読めない中国の「台湾侵攻」最終判断…歴代指導者が直面した《軍事の壁》と、繰り返された《先送り》の歴史",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEFSUHFfYlA2bHVNNTNpcDdBQ3ZBVGE2TElLb2I5TmhXMjhseE83eEd0X2FidE5NM09uRUVhYzhHMFA0TFZuek0ySEd6LUc3dk9zclZmcjMtbmJiWEgyYVhKclBDcGpUWkwzQWExTHhxWTJKcl9mTThtanpmU08zVzNYS0tkWmM?oc=5",
      "source": "Yahoo!ファイナンス",
      "at": "2026-11-26T05:00+09:00"
-    },
-    {
-     "title": "中国軍の偵察・攻撃型無人機と情報収集機に空自戦闘機が緊急発進 日本領空に相次ぎ接近（FNNプライムオンライン）",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FQ1pTdkhLR3M3N2JPcXh4ZU5RQlZtYVE5UV9YTld0QXRQUUVPWEZqLU4wa09OczlZOEZRMzNDNThPMmFCTnNDajU4dU91a0hZdzlmc19xdHRTc0RycU84NzJzTnhRekw2M1JaLTdITmlyQQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-25T22:40+09:00"
     },
     {
      "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約",
@@ -172,12 +178,6 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
      "source": "大紀元 エポックタイムズ",
      "at": "2026-11-25T18:53+09:00"
-    },
-    {
-     "title": "リトアニア大統領顧問、台湾代表処の中国語名変更を求める 台湾に「誤りを認めるべき」と発言 | 李靖棠（リ・セイタン） | ニュース",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10aVBEaGFqc1RUTzBJZTZ0VHJ1LThjeU5rRDhBa0VCakRGbXpVeUdsT3MtQXo5bno3Rmtma3J3NS1BcTdMYWN4QnNzUmloTzZh?oc=5",
-     "source": "風傳媒日本語版",
-     "at": "2026-11-25T15:29+09:00"
     }
    ]
   },
@@ -192,10 +192,10 @@
      "at": "2026-11-26T07:45+09:00"
     },
     {
-     "title": "戦術核「多領域で活用」 北朝鮮の金正恩氏（時事通信）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRSkdTU3l0ekJnZHlKbmprSWdobkMzMExfX3Q5bnpveVluZkkzMWtPSVA3YTg4T3otX2s0T1dubUJFVFlwQ3ZobXFaeFRYaTkxNTJKcUItUGl0Q1lpT0daZjVYT19SMG5XRlpYemRKWUM0bWt6N1l5d0VGMk04czA?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-26T07:01+09:00"
+     "title": "戦術核の活用領域拡大 北朝鮮の金正恩氏、韓国を念頭に",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1QTM3SnpiUjhRbVN2Mk1od0dKZTlyUDVadnZ0dVBCengzSXZ2UUdmTHdIQkZuRGNMTEh3VllwN3NQSFExX0laM2ptYUpxQ1cyYmw4VU9QNjBoZXRFNm9CSE43OA?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-26T07:09+09:00"
     },
     {
      "title": "金正恩氏、核開発を継続 研究所を視察 敵勢力抑止へ報復能力",
@@ -216,10 +216,10 @@
      "at": "2026-11-26T06:43+09:00"
     },
     {
-     "title": "北朝鮮、スイスに平壌事務所の閉鎖要求 「制裁は敵対行為」",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SVEFzQWNNaGp0eFhfckg2QUIxeGZSRW1RMVlCV0pZOHN5TE1EeWtGUXhmZU1PZXBvdDRkQTJWYmtYLVFXbTloZ1ZiWmVCc01RSVYtYXdXa1l0YWhoY3c4LXdrQW9zcjF3bGU1MQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-26T04:35+09:00"
+     "title": "【速報】北朝鮮の金正恩（キム・ジョンウン）氏は戦術核を多領域で活用する必要性に言及した",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkb2R4b0p0WjRKcjk1QmJIOE5ZQVVTRU5tMFB4LWFqWjJnMjRLTzdxV2NmeDllWkcxZUQ3Tkl0YnE2QzR6TXZzZnF4d25pX3k4X01UcnFyVkRFV2ZNVmVSdzRNdnZ2dw?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-26T06:37+09:00"
     }
    ]
   },
@@ -227,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ウクライナ軍、ロシア主要空軍基地を攻撃　軍用機5機損傷と表明",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EMkFDaGE0TG9MLUEtTDRKUjZmcXJRZFVtWlhvdUFrSUhJMy1YUzlQa0I0SURYdW8tQWxTN2NwSFJaU2VydXlnVWxwalRrU3E2bXFRWmIyaXdEczdPazdCbFlsam5Qb2R1SU5QVV9GLTd5SXZZOGp4dUtwQ3hRUdIBgwFBVV95cUxPNi1ZcTF4NHdoZjlXYVJYMU9GWGJ3UjhBa3NET3lvaGVqRHZHXzBwV2xtMkNabFJKckRJNE9UcDF5TVB4d25Ta2QtZVFZT0htQzhwR0tjTEYwWF9QU0MxUm0wQVd3YnR2WDNMbWY0TmdCa0JhSmNQbW9kTUtGUS1xcHI0SQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-26T07:23+09:00"
+    },
     {
      "title": "ウクライナ首都キーウにロシアの弾道ミサイル攻撃、爆発音響く（ロイター）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04NExVSThPSEFPaEpTZEoxWWNHclVhMS15UlowMXJiVHZwcHJMNlBRb3BFN0g1OGU0bElYZF91WTJKZ2VCUldkZDVubThWdEdvQmI4Tk9ldEtiRTN4YXJIX05YTGVaTkk0YUlRRHRINlQ3NzZlTjJjcTE0VUVvVkU?oc=5",
@@ -246,22 +252,16 @@
      "at": "2026-11-26T06:25+09:00"
     },
     {
-     "title": "ウクライナ上空で撃墜は「自衛」 ロシア攻撃巡り、ポーランド外相",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54dTBJWFhYUE9TR1lEMWZVNjdlczFmSWQtWG90azlwMkhCcEI5M0RvQjVyYmpDS0k2WUJPZ21sWWtMY05PX1ZPdlJrckY1ZFB0WFNpTm9ES1JSa3hRbE4zSk5EM0U0NDJJcWJDaHJCdjlMYndsTVI2MDFR?oc=5",
-     "source": "北海道新聞デジタル",
-     "at": "2026-11-26T05:57+09:00"
+     "title": "ウクライナ上空で撃墜は「自衛」 ロシア攻撃巡り、ポーランド外相（共同通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMWNFcEF3WGNKckdtSmh0X3FDZmZURFNFdXpUM21tazZEeFhPeWFpYnNxY0k3U252eG5KdmRoVGtISGpLSVdPdlhFS2xwV1dXV3VVY0VWOEE0RF90V0k3Z1dXaUZsakNUN1VVZXgwUVhsblNyWFNHY2kyNGVZVzg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-26T05:54+09:00"
     },
     {
      "title": "ウクライナがロシア製油所攻撃 10月以降製油能力30％低下か",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02bVRtRF91MVVOUDFCM09fQVFueTVQeXFTYnhRV3cwTDR0YkNtZmVYSG5tSTdXNzREVF93eU11UjhqNFY0ZG9MUEcxVTczdVJISnp3ZTgxMGUxYVM1dHN3?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-26T05:30+09:00"
-    },
-    {
-     "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scFZ3cVBNYTFienFDVUdvcXpzNjd6Rk5qbDVFUU5IdEdWMy02YmVmN3hxdTh0S1hwdDFtMzNrTUJMN3BJRTg1UGZveDA4X1pScmFYeEZ1NnM5MUY5Ulk1OXNCRXo4cnM?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-26T03:30+09:00"
     }
    ]
   },
@@ -316,6 +316,12 @@
    "at": "2026-11-25T23:14+09:00"
   },
   {
+   "title": "画像 | 阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlRFhZUXpmSTlTUzY4cHNtdkJfVlh1eE9UT3JuREFGNVYwVHpNdWJENmpTaVpHMnlhNjFEVjR3TVpjWjhxVTFUaG4zQW5oV0ZEWEM2UQ?oc=5",
+   "source": "PRESIDENT Online（プレジ",
+   "at": "2026-11-25T20:00+09:00"
+  },
+  {
    "title": "南海トラフ臨時情報、防災行動の実施率変わらず 関西大教授ら調査",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QXNIQld3dUlyTEUxVTh2N0tTUTFTVWIwdVYzMm1sUUlxSlpVQ2RIcm0xTmw4bmhGUm03MjY1VmJrdkl5NVhXdjFxQjA5MXpkSUhrQm5JZlhHMGN1bW82QXRmVVFPZVVaTFlOeg?oc=5",
    "source": "日本経済新聞",
@@ -328,31 +334,25 @@
    "at": "2026-11-25T09:43+09:00"
   },
   {
-   "title": "名大病院で南海トラフを想定した災害訓練 名古屋・昭和区",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwdU14WklpYlVqWFdTTExqaG82Um14dXdYVVJaV1l4VjY3S0lJRmZHNTJoSlBlWXlKZXFvMkJSc0dTLWZTb3NKbEZNS3FDVGtSM3BpbWVSbTZZU0pKS1NyS2pVX2RBVUJsakFhbDhUSQ?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-25T06:56+09:00"
-  },
-  {
-   "title": "南海トラフ地震が発生したら… 名古屋大学病院で災害対応訓練 状況把握やトリアージを実施 医療物資を運ぶロボットも登場",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95NnlMUDJYdnJxcXA5Vk9LSjAyNU5KX0tkU1FKNHFjb1JaNGtzVFNlZDctOWMzLWdXR1RielBRcEdkUFVIUWNobVdoMGVrcFV1MG9GblNUMnl6MXU1UlE?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-24T21:10+09:00"
-  },
-  {
-   "title": "「正確で迅速な対応へ」南海トラフ地震想定し図上訓練 三重・松阪庁舎（夕刊三重）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wekZ6bkVTX1hJbENSM0NmTHlfQzJLb2ZOZVJsRVZPTmxUSHVYQ2dsUXJfQVo2dndFbkJOU1FjcEotbTRwWWRmeXJfaTBLVjhXdmoxZU5wY1NnajRtbC1OOFY2NDROcHFaWllsT3l6cEdpekRzLVduLXVYVDVFSlk?oc=5",
+   "title": "名大病院で南海トラフを想定した災害訓練 名古屋・昭和区（中京テレビＮＥＷＳ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KVGFUTGtQUTljZlZ6MEdPYTFKa2FBMTNQV3d1SFJhZy1sckRoaXhvWi11UE5oLUNIM3ZTM3hoSm5HM3YtWjhRY1ZuVF9McWhTMElWaTlXSndMREpjRmxXLXM5bkozZXBNR1pJa3lrNk5ybVRUVnNVaXd5dExSV1U?oc=5",
    "source": "Yahoo!ニュース",
-   "at": "2026-11-24T21:07+09:00"
+   "at": "2026-11-25T06:55+09:00"
+  },
+  {
+   "title": "南海トラフ巨大地震の想定震源域でM5.7 愛知で最大震度5強 関連は？専門家“プレート境界型とは違うメカニズム”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54WDVlUVpoVUNkVERmazZkYk9JbjhKaUxtRVp4RzBLVUt2Z2diS2ZaY2NMS2l5UjZZRTdsX1c4YWtOOVQ3b05PcXdRR1VWenltVzFjamJPSEd5eG5ncjNZ?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-25T06:30+09:00"
   }
  ],
  "outage": [],
  "japan": [
   {
    "title": "ウクライナ首都キーウにロシアの弾道ミサイル攻撃、爆発音響く",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3JNX1VqSlFQWGJlVi1oa0pQcWtuS3A0aVNKZ1JOQlpaYmF2VlI0OHJKb1kxeGZRUml5Zi13ZGdGY3RqTmM0a09SZEc2Y0pMTHhySkM3NHlXX0ZUZHRMTUZOLTBsLV9zNFZhZEdiQWFTSU5CcDd1RHJpMGhnSVZRQ29PWXEtQQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-26T06:11+09:00"
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZUwzYmxtMU9SS0RUZUY1bl9TcThSRHB5ak9kaHlXX1p3ME9VQUJGT250RFkzV3dZMzJNY0pLUkQ4QS0wSEdRSjR0TXdYMDVTb25NRWV4bENmYnlOYVB5VWliNHdUZzVKSG1MSEJLaVltQjVFclRfNVBfNXBYZ9IBgwFBVV95cUxPempITEhxR1VIYU13RjBIWW43Y19mbGRqVFlCY3dzTjBGbnNSZk96c2swYU5kckN1aU9QNGhMYTBXNTNKMldueGx3aU1sZTJzSXJNQ1RDWVo2UDFUbjFPVmVSLU1tMjJiT0dmWGtmUEhOQWNxWUVwOGpibEdyRDhKUnRUUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-26T06:23+09:00"
   },
   {
    "title": "民間施設では仙台市で初 弾道ミサイルを想定した避難訓練",
@@ -447,16 +447,16 @@
    "at": "2026-11-25T23:51+09:00"
   },
   {
-   "title": "ペイペイ、アプリ機能でクレカ決済障害　",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJjc2FyNm81QTZIaEczR1lSWTg3LVIzNW55VFB1WWpFNWJBaHhCT3U0Y2hWLUhtUzBXcGRBS3JfNTdmSzJmQVZvTmNZajVKeTNyeDc0Q3NBUTAzcDlxZXFzM3BKRzdQR1hBbzZLYUhXM2J2NzUzVnhQMVZBbnNQYVRtOURlYW4ycUHSAYoBQVVfeXFMUFEyY3NhcjZvNUE2SGhHM0dZUlk4Ny1SMzVueVRQdVlqRTViQWh4Qk91NGNoVi1IbVMwV3BkQUtyXzU3ZksyZkFWb05jWWo1Snkzcng3NENzQVEwM3A5cWVxczNwSkc3UEdYQW82S2FIVzNidjc1M1Z4UDFWQW5zUGFUbTlEZWFuMnFB?oc=5",
-   "source": "サンスポ",
-   "at": "2026-11-25T23:33+09:00"
+   "title": "「KARTE」への不正アクセス、ZOZOの顧客情報も漏えい",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFSmdpckUwV2dRc2Y3YzM1LWZ0LThFdjJGN3Fpa1lBb2F6MVkwOXBMWC1BcEZHWW05RlVjSVg2SDZoSE9UVVlQOHJwM3N6VG12YnVHZFNUUmU4eXVpRkNVdk1sOC1NYnlIVWw5Zg?oc=5",
+   "source": "ScanNetSecurity",
+   "at": "2026-11-26T08:05+09:00"
   },
   {
-   "title": "インディゴソリューションズ、ランサムウェア対策製品「NeuShield Data Sentinel」取り扱い開始（INTERNET Watch）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JeE5nSEhrYkEyaWVuTXdvNi1NSThNa1plMmM0VXhnRTNvZzVxZm84Ujl1Tk9yeGIyeFEyWFBUbVZGcmpxQUNMNFk3WUdVZW1sTFVPUnhENEJmLUpENV90MFV2Vm5wcDFsVXVkVEdkSkRtUjJxUG9yaEtRTHpiMTA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-26T07:39+09:00"
+   "title": "「KARTE」への不正アクセス、ZAP ID登録者 最大約432万件のメールアドレスが漏えいした可能性",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DajdubkVYVjExYUhtMUNFZXc3Wnh6cS13eUJIeVdiRjRIYXdQb1lnUXdkMWpLcTBzLS05WHhxNnhxaVdHbjBkZ3NfMlZMQkN6a1E1LWh3U0lpQTMxTXBpQzZNaUg3Wmx1Qnk2NQ?oc=5",
+   "source": "ScanNetSecurity",
+   "at": "2026-11-26T08:05+09:00"
   }
  ],
  "tokyo": [],
@@ -483,6 +483,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "ウクライナ軍、ロシア主要空軍基地を攻撃　軍用機5機損傷と表明",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EMkFDaGE0TG9MLUEtTDRKUjZmcXJRZFVtWlhvdUFrSUhJMy1YUzlQa0I0SURYdW8tQWxTN2NwSFJaU2VydXlnVWxwalRrU3E2bXFRWmIyaXdEczdPazdCbFlsam5Qb2R1SU5QVV9GLTd5SXZZOGp4dUtwQ3hRUdIBgwFBVV95cUxPNi1ZcTF4NHdoZjlXYVJYMU9GWGJ3UjhBa3NET3lvaGVqRHZHXzBwV2xtMkNabFJKckRJNE9UcDF5TVB4d25Ta2QtZVFZT0htQzhwR0tjTEYwWF9QU0MxUm0wQVd3YnR2WDNMbWY0TmdCa0JhSmNQbW9kTUtGUS1xcHI0SQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-26T07:23+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ウクライナ首都キーウにロシアの弾道ミサイル攻撃、爆発音響く（ロイター）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04NExVSThPSEFPaEpTZEoxWWNHclVhMS15UlowMXJiVHZwcHJMNlBRb3BFN0g1OGU0bElYZF91WTJKZ2VCUldkZDVubThWdEdvQmI4Tk9ldEtiRTN4YXJIX05YTGVaTkk0YUlRRHRINlQ3NzZlTjJjcTE0VUVvVkU?oc=5",
    "source": "Yahoo!ニュース",
@@ -490,10 +497,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "戦術核「多領域で活用」 北朝鮮の金正恩氏（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRSkdTU3l0ekJnZHlKbmprSWdobkMzMExfX3Q5bnpveVluZkkzMWtPSVA3YTg4T3otX2s0T1dubUJFVFlwQ3ZobXFaeFRYaTkxNTJKcUItUGl0Q1lpT0daZjVYT19SMG5XRlpYemRKWUM0bWt6N1l5d0VGMk04czA?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-26T07:01+09:00",
+   "title": "戦術核の活用領域拡大 北朝鮮の金正恩氏、韓国を念頭に",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1QTM3SnpiUjhRbVN2Mk1od0dKZTlyUDVadnZ0dVBCengzSXZ2UUdmTHdIQkZuRGNMTEh3VllwN3NQSFExX0laM2ptYUpxQ1cyYmw4VU9QNjBoZXRFNm9CSE43OA?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-26T07:09+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -502,6 +509,20 @@
    "source": "アラブニュース",
    "at": "2026-11-26T07:00+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45eGtHNTlzb3dRaEoxWC02cWlfaVNpbzNLMk9BaGl0VHcxUnMtRmZiLUxOVnQzdzdSM2swRkd5WGxZOG1OLXpNc0JjLXNUbDVEZ25CeWp1UkFGRXh4M3hDaHFCLTl0NHZTOEdhWmdVdkY?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-26T07:00+09:00",
+   "topic": "中国・台湾"
+  },
+  {
+   "title": "これでは中国のやりたい放題ではないか…メディアが報じない、習近平の露骨な「日本潰し」の全貌【米中ロ首脳会談】",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYYUtsLW5BN1JHVlU0dG5KNFJjcGdRVktnZktPWHpaMjhPQU1TUFZ1LXJQdldibFBZNWdIUFNDdm9ZOFdQNmo5R1k4YzFpUXBheUdHRGQxV2ZFRUhqWXpV?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-26T07:00+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "金正恩氏、核開発を継続 研究所を視察 敵勢力抑止へ報復能力",
@@ -532,6 +553,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "【速報】北朝鮮の金正恩（キム・ジョンウン）氏は戦術核を多領域で活用する必要性に言及した",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkb2R4b0p0WjRKcjk1QmJIOE5ZQVVTRU5tMFB4LWFqWjJnMjRLTzdxV2NmeDllWkcxZUQ3Tkl0YnE2QzR6TXZzZnF4d25pX3k4X01UcnFyVkRFV2ZNVmVSdzRNdnZ2dw?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-26T06:37+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ウクライナ侵攻によりロシアは50万人近くの死者 サイバー攻撃から流出したロシア連邦統計局の資料で発覚 BBCが報道",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtM1FEeUpxakNLcG5FM0QxdVZTeDVjeXdDNWdXa0VaRElQVi1OVWQ1aThpajFIeW5PVFRwaGFXS2R6SzNWT0t4QnM0TWZpdFRiSlhOZHdNdFpPRlZaVXZ6YTE4bUkxUXJGS19FcUlrYzVZWkkwLUZMVGVlTHNyNlE?oc=5",
    "source": "Yahoo!ニュース",
@@ -539,10 +567,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナ上空で撃墜は「自衛」 ロシア攻撃巡り、ポーランド外相",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54dTBJWFhYUE9TR1lEMWZVNjdlczFmSWQtWG90azlwMkhCcEI5M0RvQjVyYmpDS0k2WUJPZ21sWWtMY05PX1ZPdlJrckY1ZFB0WFNpTm9ES1JSa3hRbE4zSk5EM0U0NDJJcWJDaHJCdjlMYndsTVI2MDFR?oc=5",
-   "source": "北海道新聞デジタル",
-   "at": "2026-11-26T05:57+09:00",
+   "title": "ウクライナ上空で撃墜は「自衛」 ロシア攻撃巡り、ポーランド外相（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMWNFcEF3WGNKckdtSmh0X3FDZmZURFNFdXpUM21tazZEeFhPeWFpYnNxY0k3U252eG5KdmRoVGtISGpLSVdPdlhFS2xwV1dXV3VVY0VWOEE0RF90V0k3Z1dXaUZsakNUN1VVZXgwUVhsblNyWFNHY2kyNGVZVzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-26T05:54+09:00",
    "topic": "ロシア"
   },
   {
@@ -574,20 +602,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "北朝鮮、スイスに平壌事務所の閉鎖要求 「制裁は敵対行為」",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SVEFzQWNNaGp0eFhfckg2QUIxeGZSRW1RMVlCV0pZOHN5TE1EeWtGUXhmZU1PZXBvdDRkQTJWYmtYLVFXbTloZ1ZiWmVCc01RSVYtYXdXa1l0YWhoY3c4LXdrQW9zcjF3bGU1MQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-26T04:35+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scFZ3cVBNYTFienFDVUdvcXpzNjd6Rk5qbDVFUU5IdEdWMy02YmVmN3hxdTh0S1hwdDFtMzNrTUJMN3BJRTg1UGZveDA4X1pScmFYeEZ1NnM5MUY5Ulk1OXNCRXo4cnM?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-26T03:30+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvZ1VMUG56WElmYWJnSUJMUUNKV2ZsLWhyY0RNcXFQMDdRMXVjWUphS0cyYWZYTmpSUU53Z2Y0SHRwUXJuem1Ja0Q2Z0xPMF9BMjRob1ZqQTJiVTlNOVVEbmZMeXFYQ1Zf0gFoQVVfeXFMUG9nVUxQbnpYSWZhYmdJQkxRQ0pXZmwtaHJjRE1xcVAwN1ExdWNZSmFLRzJhZlhOalJRTndnZjRIdHBRcm56bUlrRDZnTE8wX0EyNGhvVmpBMmJVOU05VURuZkx5cVhDVl8?oc=5",
    "source": "Infoseek",
@@ -600,20 +614,6 @@
    "source": "Informat.ro",
    "at": "2026-11-26T00:19+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "イラン、米軍のAI利用を国連で非難―パランティアとアンソロピックを名指し",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40aVZuTVFuaUluTVhrQnlBSWd3UzdaV1VIUEpIT3k5Y3JqaUZlVV9ZNkN4alAxcFhZQlJ3SzIzZ0gwd0ZlUDdYZVlTaVR0UGVFZURIc1JwcU43aXk1T3plcGRnbXBCS09B0gFoQVVfeXFMTjRpVm5NUW5pSW5NWGtCeUFJZ3dTN1pXVUhQSkhPeTljcmppRmVVX1k2Q3hqUDFwWFlCUndLMjNnSDB3RmVQN1hlWVNpVHRQZUVlREhzUnBxTjdpeTVPemVwZGdtcEJLT0E?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-25T23:13+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "中国軍の偵察・攻撃型無人機と情報収集機に空自戦闘機が緊急発進 日本領空に相次ぎ接近（FNNプライムオンライン）",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FQ1pTdkhLR3M3N2JPcXh4ZU5RQlZtYVE5UV9YTld0QXRQUUVPWEZqLU4wa09OczlZOEZRMzNDNThPMmFCTnNDajU4dU91a0hZdzlmc19xdHRTc0RycU84NzJzTnhRekw2M1JaLTdITmlyQQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-25T22:40+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -632,8 +632,8 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」3件",
-    "中国・台湾：「攻撃」「侵攻」2件",
+    "イラン・アメリカ：「攻撃」「報復」3件",
+    "中国・台湾：「侵攻」2件",
     "北朝鮮：「報復」1件",
     "ロシア：「攻撃」「ミサイル」6件",
     "欧州・NATO：「攻撃」「ミサイル」5件"
@@ -646,10 +646,10 @@
      "at": "2026-11-25T17:22+09:00"
     },
     {
-     "title": "米台すら読めない中国の「台湾侵攻」最終判断…歴代指導者が直面した《軍事の壁》と、繰り返された《先送り》の歴史",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEFSUHFfYlA2bHVNNTNpcDdBQ3ZBVGE2TElLb2I5TmhXMjhseE83eEd0X2FidE5NM09uRUVhYzhHMFA0TFZuek0ySEd6LUc3dk9zclZmcjMtbmJiWEgyYVhKclBDcGpUWkwzQWExTHhxWTJKcl9mTThtanpmU08zVzNYS0tkWmM?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "at": "2026-11-26T05:00+09:00"
+     "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45eGtHNTlzb3dRaEoxWC02cWlfaVNpbzNLMk9BaGl0VHcxUnMtRmZiLUxOVnQzdzdSM2swRkd5WGxZOG1OLXpNc0JjLXNUbDVEZ25CeWp1UkFGRXh4M3hDaHFCLTl0NHZTOEdhWmdVdkY?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-26T07:00+09:00"
     },
     {
      "title": "金正恩氏、核開発を継続 研究所を視察 敵勢力抑止へ報復能力",
