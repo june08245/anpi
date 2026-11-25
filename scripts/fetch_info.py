@@ -59,7 +59,7 @@ WORLD_NEWS_WORDS = ["爆破予告", "破壊工作", "妨害工作", "ハイブ�
 NANKAI_FEEDS = ["https://news.google.com/rss/search?q=" + urllib.parse.quote("南海トラフ when:7d") + "&hl=ja&gl=JP&ceid=JP:ja"]
 
 # 出張先（東京・東日本橋）のニュース。出張が終わったら TRIP_ON を False にする
-TRIP_ON = True
+TRIP_ON = False
 TRIP_UNTIL = datetime(2026, 11, 26, 0, 0, tzinfo=JST)  # 11月25日いっぱい
 TOKYO_FEEDS = [
     "https://news.google.com/rss/search?q=" + urllib.parse.quote("東京 停電 when:2d") + "&hl=ja&gl=JP&ceid=JP:ja",
