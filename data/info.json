@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:15+09:00",
+ "updated": "2026-11-25T23:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-25T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-25T23:14:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.4",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-25T19:32:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-25T06:46:00+09:00",
-   "place": "福島県会津",
-   "mag": "3.8",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -102,9 +102,15 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "イラン、米軍のAI利用を国連で非難―パランティアとアンソロピックを名指し",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vU1FTaC0xZmtrR2NmWURZLTFIdU9wRkowbVNNZEMtLV9VbVF0QWsyR18xUlNhN0hRbW9HdUVuWk5TSjhQZDkyd2JHTHJUbUdFaEJ4Y241M29YUzlUbnhUM1ctc9IBaEFVX3lxTE40aVZuTVFuaUluTVhrQnlBSWd3UzdaV1VIUEpIT3k5Y3JqaUZlVV9ZNkN4alAxcFhZQlJ3SzIzZ0gwd0ZlUDdYZVlTaVR0UGVFZURIc1JwcU43aXk1T3plcGRnbXBCS09B?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-25T23:13+09:00"
+    },
+    {
      "title": "イラン、米の海上封鎖を懸念せず 物価上昇抑制へ＝第１副大統領",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OclZRTGtFSjNpd19NUGZGUXo1a2Q1YVlaYmQ2aFRvNjI3RXhNRVRuVUFycGtZQ3lBRlZuc0xRMDlvQ1hpaUVOQnlGX1pFZzRKeFhxTzZhWnJ2eUh0YkVHSnV3QlU1WlI1T1hXeGlB?oc=5",
-     "source": "Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfem80Yk9WckV2UV8tSWhXMWwwdl9zY253eUs4MWZoLV9SVjFLSmd3QnJjOUUyNF8wYmJoV05PaDBTTzNXU2ZKU0haMDZFQUwxRF9XREpueUxHMGpjNHMxV3lGektfMHo4UWplZU4xTnJ1bFJPWElDdzYxa2ZkMDg?oc=5",
+     "source": "Reuters",
      "at": "2026-11-25T17:22+09:00"
     },
     {
@@ -118,12 +124,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OWFJ6N1VKcGNiYklLRnZyR0ZYX1FwbWFxZ09SYkQ3ZEtEVlhaR1pzam80NkpFWldRWkJVMTU0dlJDMVpSZGdOa0pTYWRXVzIwejVnRTEyaEYtUQ?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-25T11:28+09:00"
-    },
-    {
-     "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDck1NVThvcTZnOEREdVdjaFNiZmsyR0VxNnpCWUJBcG84R3ZPYi1nU2NxS0lZUHlLZ1c4SFN5MGtHQ01Ucmc5dmE1MkVYUDNlMTMyR051clg1T09yRU1xOWJFMVRSZmx4UjFBRUhLMA?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-25T09:15+09:00"
     },
     {
      "title": "米軍、イラン首脳部の排除作戦を検討　米報道",
@@ -276,6 +276,18 @@
      "at": "2026-11-25T22:17+09:00"
     },
     {
+     "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-25T18:53+09:00"
+    },
+    {
+     "title": "英国で家庭備蓄広がる　相次ぐサイバー攻撃　インフラへの不安背景に",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNHlmVlpFUFF5YW9kQjktR1EwQXZZczhtY2g3Y182ZVBrbkx4cjBpOTJXaFI5OUVTdUxmVUxVdkg0U04wSWcxS2dUdlNaRFZjRWlfRHhnRDgtcjJDZ0HSAV5BVV95cUxPaDR5ZlZaRVBReWFvZEI5LUdRMEF2WXM4bWNoN2NfNmVQa25MeHIwaTkyV2hSOTlFU3VMZlVMVXZINFNOMElnMUtnVHZTWkRWY0VpX0R4Z0Q4LXIyQ2dB?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-25T18:53+09:00"
+    },
+    {
      "title": "Mark Rutteは、ロシアとの戦争の可能性に備え、民間人も準備するようNATOに呼びかける",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmFhYXUzYlVfN3J5UU1OQXVLNHcxbmE2aGw3Tjd5QWZtaW5LVzVyeWt3a2NlMkN4a3FicjF1Nmp5RjVZNjRrSi1nVEF4S2NrZVcxTlE3UjVaSmpqMVg4YnNuR1F4aExEd1JfRHktc2s3ZzJZUmluSUF5RVdBSkRfUWxxdHNXUjFmcW1mZ1o4dlM5Rml3bzE2ZzRyX3pHOEc5ZGVZd01ETDM1al9rdDZwSDQxMHFVMFBqbWtLcTNB?oc=5",
      "source": "Informat.ro",
@@ -292,18 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWU8zcW81SUQwbFpVTmZuTEY3akdBQkltUldRdExUYnUwUW9KTTZ2eFplZFpTZ3pZcXltZW5ZYnVfdnRhSkVZaTRxejN3bGdtM05fR2J1SjI0SGs1NEUySWppVHh0dw?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-25T14:20+09:00"
-    },
-    {
-     "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHd3QVFpVHRXN2M3amJpVExEc1g4WmxqMzNqQVQyOThmUmhVc2gxajhLdUtUdVljbGNSZDFsMUdaUGEzN3NNcjhmNHhmM0c5WXQ5djRTZDdHc1psM1E5OWhBclJHdlRLV2N3Vy10UVpWWTdSaEVFeHczaGo4WnBDS1I0NmJZSFZkakoyeWgzYjd5QVVPNlRFbkFfSWZiekg4YXgyWV9R?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-25T01:12+09:00"
-    },
-    {
-     "title": "NATOの情報機関、ロシアが核兵器搭載衛星を準備していると指摘",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSU4tYnhtajFhclRTVm44YUVmVkFKMUswd0I1ZTVYSWM0VWQ0R0JCVF9EQkxUWmo3S1A2cXJkMWJhcE95cXdkN1dsR29lSGFpcy1pLU91NHF3WXdGTmdDeG8wZ1pUU085ZlhkZmpJS0VaOTEwODBDc09FSHUtZGhabTdYVEd3bWhzQUtkU2FRNTlHU3Y3UVVTeGtDYjloUjJsVU5oYmRlUngwcDFIRHZ4cU8tQQ?oc=5",
-     "source": "IDNFinancials",
-     "at": "2026-11-25T01:00+09:00"
     }
    ]
   }
@@ -363,6 +363,18 @@
  ],
  "cyber": [
   {
+   "title": "PayPayでシステム障害 カード連携サービスで決済できず",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEY0JEeW9zb05RblhDSDRVRDBiUFZrbG43dF9tdXpCV2cwNEx0V2E5V3ROM0wwd05EakhSeHM4VW9pU3ROY2hjb1NwSEtTNG16R1U4bXo2Z2lpc3pxbVQ0?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-25T23:16+09:00"
+  },
+  {
+   "title": "ペイペイ、クレカ決済機能で障害",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRbC1Bbk9EZEJFYnBBa3cyUHNkWldPbURtNWNGMC1KWm9Oa2VCZVNPSF82QzkxSzhVMHVVTzRZczdRX0h5REpzSzB6cWtxTS1lQU5mclhmTi00V2s?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-25T23:14+09:00"
+  },
+  {
    "title": "アメリカで航空機も銀行もメールも次々停止…相次ぐ大規模システム障害の真因は「AIの急速な発達」？",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqQmd4eDZvU2pidF9scllDckdlOHhoMmZTNVNiYTZvU2VVUTdUZ3RhX290dXpyRFU1amRLd0d5WGxOWG5vX2V5TVJRM3FvQUVRMVQzTG41djljZw?oc=5",
    "source": "ニューズウィーク日本版",
@@ -373,6 +385,12 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SXpzMEg0eURiYVMyS3I1YWFoRVZjTDJrUHVDRGkxNFEydk5TUzk4dU43MWFYSFhaUUl1N3JxZ2JOaWdMeGNTRlBIOXp1NldObzU0bld4c1NqaFEzQlZHZTZMbktRRk1hMjA0ejBR?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-25T18:30+09:00"
+  },
+  {
+   "title": "京都生協の組合員メールアドレス12万4000件が流出 メール配信システムに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jUkV0aUtwQXc2c2wyZV81M3ZBenZLdjZzY3M0b1FsYXZ4ZnBRTHNXUnhEVnkyTXFoUERZd1JIZU1pMC05bVh3SzdnLWl1dS10UmhxdGM2VUU?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-25T22:49+09:00"
   },
   {
    "title": "ENEOS、給油向け公式アプリを一時停止 不正アクセス検知で",
@@ -417,12 +435,6 @@
    "at": "2026-11-25T21:51+09:00"
   },
   {
-   "title": "Bithumbの情報漏えい、被害範囲が当初公表より拡大 不正アクセス把握に2週間超",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWktoVkkzUTRzdUdBWU9zY1VqUDFlSzNNTk8wX0NWQTJfY2UzTnNUYy0zaWR3RlZhOW9qREFnRW5uVlk5OGRiM0dad00wMDV6Unp3dGUwY3FBdTVCbXRtejkwRjRuRTlCTU9ybHZiaXQ5aTY5VHVZSXNpQ0h1eUpTTjJ5Y3hNdGlZMVg3aWxuajQ4SEs5aVFUdFRUNkVPdllJWVdVakZPeGtfaWp5UlhOdEY5eHlaQQ?oc=5",
-   "source": "디지털투데이",
-   "at": "2026-11-25T21:38+09:00"
-  },
-  {
    "title": "大崎電気、27日から順次生産再開＝サイバー攻撃、要求には応じず(時事通信)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTIwUm9LajBKcng4ODJVcmEwTGI4THVkMTcxZG5Ta0lJM0gtMjJvMVhUUlgyWXFvT0ZmcEJpcW1XN2d1M19aZ3FNNUJ3VUU2RHRESS1hMVNiWGk1a1hSR3l0emJNV2FOS1ZjdUZfeEptLWlIQVFkdkQ4amJlNDJSWUVEMjdNTXM?oc=5",
    "source": "Yahoo!ファイナンス",
@@ -439,30 +451,31 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51X1NIMm9QT2p5TGJ0NldCX1c1UF9GUnBodkVlWThoa1JqSDVvVUNyR0Z5Y0oxUlJadVFfOXh3TVl1SjVsaWRZRzNDYU1IaUZLbmN3UEkyaUVJREtwRDBpa19sUUplMDBSNE1iQWtXYlFlMFFm?oc=5",
    "source": "BigGo ファイナンス",
    "at": "2026-11-25T21:18+09:00"
-  },
-  {
-   "title": "最大54件の顧客情報漏えい 外部サービス、不正アクセス被害／東北電",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jSFlhS0JwVFRpVFpOaFFpSzF1OHRpSzh4MjFYakN5YV9CSWdoME5hcGxVaHpDRW1OZ3NLcXliTFk5MGZ2SV9SV1FqXy1hMWVUaVoyM1pqcURYbWhveVdXTUNHOUhhc1k?oc=5",
-   "source": "デーリー東北",
-   "at": "2026-11-25T21:17+09:00"
-  },
-  {
-   "title": "「DLsite」運営のエイシス、クリエイター支援サービス「Ci-en」での不正アクセス被害を発表―クリエイターの取引に関する個人情報が流出した可能性（Game Spark）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KcUt1U2ZIRWxFVTRxLTlDWnZjRGhDbDFlVUhkZkJtWVFzWmdQVVh3d0xDZTd6YXAxZ1N3LXlLVjZ0YmsxQjQyTVZ3cHJJalV6VlpUV2lmc3pwTE9ZQkI5d3FhVTZVcnF4NUJOMDRlQlo3dlJISVFXVk9MQ3NzQVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-25T20:49+09:00"
   }
  ],
  "tokyo": [],
  "osaka": [
   {
    "title": "M-1を“体感”できる『M-1感情爆発展』が大阪でスタート! “地元の先輩”たくろう・きむらバンドに芸人ライターも感情爆発「愛媛の王様が…」",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVERTU3RNQjc1V3JXMXFlSmREVGZhLUZTQ3lYMmYzWVl3d0Vkc0FPTWVSa1dTM05JMXkyR3duS09QNlpleVo0RkFrRVItODdMTU5oem5NOENXT3lEQjNRNkk0ak9fb2E1ZUlqYnNaaVFrQ29obU1KalFpOTF3ZXBZVHB2eEQ3a3Q1VE1LM1MtLVpMQdIBlwFBVV95cUxNSnlDZzIxYnppV3YwV3pSSEZiMWtSUTNQQXppanhobkhxM0ZidmM4SloxVVkwTzhqa3VKSzdfMmVscHZqeFpRb1NHTXppOWEyODVBOThiVzgtQ3VCczJCdS0wd2ZmSV9TWWQ5MkI2UEtXTkk5ZWxhQ3VYd21pMkFNQVBGMzNaUGgxVGRudXdub0VwWnFqTFBn?oc=5",
-   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzbUl2eGE2ZGJHWC1vT3pNNWk5UXY4amk0UTRtZDI4TW9qTzNjLTB4N0lBODZBOVRiQzdGUDd3UlNwbjBwNXZWSw?oc=5",
+   "source": "Fany Magazine",
    "at": "2026-11-25T11:45+09:00"
+  },
+  {
+   "title": "住宅建設現場で不発弾発見 大阪・箕面、爆発危険なし",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzlLd0VWV3RZY2kxMWI1djBHa3VxaXVqREU0UnBJRTNGTl9xTTZyVlJtcXlQZnlBR2hpRTBPVzRtUjd1aDVOWVhDRzdZM0JaSUNRaWZ2YjRBTno2R1BVN3Z1TWtlWTdneHdjWHM0WVdBcUJDem5nRk42WFlUeGhOMQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-25T08:34+09:00"
   }
  ],
  "world": [
+  {
+   "title": "イラン、米軍のAI利用を国連で非難―パランティアとアンソロピックを名指し",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vU1FTaC0xZmtrR2NmWURZLTFIdU9wRkowbVNNZEMtLV9VbVF0QWsyR18xUlNhN0hRbW9HdUVuWk5TSjhQZDkyd2JHTHJUbUdFaEJ4Y241M29YUzlUbnhUM1ctc9IBaEFVX3lxTE40aVZuTVFuaUluTVhrQnlBSWd3UzdaV1VIUEpIT3k5Y3JqaUZlVV9ZNkN4alAxcFhZQlJ3SzIzZ0gwd0ZlUDdYZVlTaVR0UGVFZURIc1JwcU43aXk1T3plcGRnbXBCS09B?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-25T23:13+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "ロシアのミサイルとドローンがポーランドの領空を侵犯したことを受け、ポーランド政府は米国の公式な反応を待っている",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHRobW05Q1RkczAycU1qUk1mblpXbUpmNTFrdC1SSkxFNWNHb0dCMmxwNWNtNDNQZjNrOTVWUDVmWFFpSGZlM3JMY0pGZmYwX3JEVy1MU0NtOVR5eDdJY2x4M0JXLTZWVW1iWG4ydl9idG5EeFFVcW1HSUtaM05hWlU3bnM2MlVPalpTLVA5Tm5iUk16Z0plcjN0Q3Z3S1Q3UFRkdHZwTGZNZ1hpWWs1cFhYNlpIcjBV?oc=5",
@@ -490,6 +503,20 @@
    "source": "ライブドアニュース",
    "at": "2026-11-25T19:20+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
+   "source": "大紀元 エポックタイムズ",
+   "at": "2026-11-25T18:53+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "英国で家庭備蓄広がる　相次ぐサイバー攻撃　インフラへの不安背景に",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNHlmVlpFUFF5YW9kQjktR1EwQXZZczhtY2g3Y182ZVBrbkx4cjBpOTJXaFI5OUVTdUxmVUxVdkg0U04wSWcxS2dUdlNaRFZjRWlfRHhnRDgtcjJDZ0HSAV5BVV95cUxPaDR5ZlZaRVBReWFvZEI5LUdRMEF2WXM4bWNoN2NfNmVQa25MeHIwaTkyV2hSOTlFU3VMZlVMVXZINFNOMElnMUtnVHZTWkRWY0VpX0R4Z0Q4LXIyQ2dB?oc=5",
+   "source": "大紀元 エポックタイムズ",
+   "at": "2026-11-25T18:53+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "ウクライナ南部ザポリッジャをロシア軍が航空攻撃　６名負傷、集合住宅が損傷",
@@ -549,8 +576,8 @@
   },
   {
    "title": "イラン、米の海上封鎖を懸念せず 物価上昇抑制へ＝第１副大統領",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OclZRTGtFSjNpd19NUGZGUXo1a2Q1YVlaYmQ2aFRvNjI3RXhNRVRuVUFycGtZQ3lBRlZuc0xRMDlvQ1hpaUVOQnlGX1pFZzRKeFhxTzZhWnJ2eUh0YkVHSnV3QlU1WlI1T1hXeGlB?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfem80Yk9WckV2UV8tSWhXMWwwdl9zY253eUs4MWZoLV9SVjFLSmd3QnJjOUUyNF8wYmJoV05PaDBTTzNXU2ZKU0haMDZFQUwxRF9XREpueUxHMGpjNHMxV3lGektfMHo4UWplZU4xTnJ1bFJPWElDdzYxa2ZkMDg?oc=5",
+   "source": "Reuters",
    "at": "2026-11-25T17:22+09:00",
    "topic": "イラン・アメリカ"
   },
@@ -581,34 +608,13 @@
    "source": "山陽新聞",
    "at": "2026-11-25T14:53+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-25T14:44+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "ピョトル・クルパ、ウクライナの防衛産業から兵器を調達する欧州基金の創設を提案",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXdyTU9pMWZWYTM0R05nbm5HSVF0MnNoOTc1akVkZHNybmRyNGlPZ2JBOWNTM1NRRFRMOFZrSXZMa3lEbEpWZnc2NUxseFFET0JPZkVBUHRwZVBOa0MxaGZmSEF1QXJudjRzWVpkTm1rbGtxMmVJNF9DeWdsbzd5Q1hVWERELWhPcjQ2amNpclVkUGhabmZrNXBYcDVUU1E?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-25T14:33+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "ポーランド、NATOにウクライナ上空でのミサイル迎撃を提案 合意には至らず",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWU8zcW81SUQwbFpVTmZuTEY3akdBQkltUldRdExUYnUwUW9KTTZ2eFplZFpTZ3pZcXltZW5ZYnVfdnRhSkVZaTRxejN3bGdtM05fR2J1SjI0SGs1NEUySWppVHh0dw?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-25T14:20+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
   "osaka": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "警報なし・大きな揺れや停電の報道なし"
+    "「PayPayでシステム障害 カード連携サービスで決済できず」"
    ]
   },
   "japan": {
@@ -620,15 +626,15 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「報復」3件",
     "ロシア：「攻撃」「ミサイル」6件",
     "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
    "items": [
     {
      "title": "イラン、米の海上封鎖を懸念せず 物価上昇抑制へ＝第１副大統領",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OclZRTGtFSjNpd19NUGZGUXo1a2Q1YVlaYmQ2aFRvNjI3RXhNRVRuVUFycGtZQ3lBRlZuc0xRMDlvQ1hpaUVOQnlGX1pFZzRKeFhxTzZhWnJ2eUh0YkVHSnV3QlU1WlI1T1hXeGlB?oc=5",
-     "source": "Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfem80Yk9WckV2UV8tSWhXMWwwdl9zY253eUs4MWZoLV9SVjFLSmd3QnJjOUUyNF8wYmJoV05PaDBTTzNXU2ZKU0haMDZFQUwxRF9XREpueUxHMGpjNHMxV3lGektfMHo4UWplZU4xTnJ1bFJPWElDdzYxa2ZkMDg?oc=5",
+     "source": "Reuters",
      "at": "2026-11-25T17:22+09:00"
     },
     {
