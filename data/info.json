@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:45+09:00",
+ "updated": "2026-11-25T11:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,16 @@
   "reported": "2026-11-25T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-25T10:42:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "1.6",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-25T10:35:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-25T00:17:00+09:00",
-   "place": "薩摩半島西方沖",
-   "mag": "1.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -120,6 +120,12 @@
      "at": "2026-11-25T05:14+09:00"
     },
     {
+     "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
+     "source": "中央日報",
+     "at": "2026-11-24T23:34+09:00"
+    },
+    {
      "title": "イラン革命防衛隊 バーレーンの米軍施設に攻撃と主張",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcGxDTW40bzFoTFY5WVczWTN6dXQzdnF0aEN1b2toZ3ZTZENmTm5PVWFTeDUxb19tNWNkcHRqSGZHUDhCSjBuN1BPNzJ4cnBRRWZ2TkZ5bEp6QnBwcXM3RDdzaw?oc=5",
      "source": "テレ東BIZ",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqWWYydGdrazR6X0xBR2c2NHNJRXFpNzFLMXNKUWVOQ2h2LVNGbEpySFN4UFJKNm5vMERNcXBtMW5OT3kzdXVvTF9TcGw4bFhaaFJnUDBXRkZsbW5UUlc2SG53b2t4RTR3UnlfNDREVlRVZ2NNQjdYZEt0cy1VNjg?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-24T10:19+09:00"
-    },
-    {
-     "title": "船舶へのサイバー攻撃、米がイランの関与調査＝ＷＳＪ | ロイター",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVDZXZWQ2dGtXVmdhRC1rUGI5VEtJQkNCbkVoTWNNODlrZFVOdGd5Y0t0QUNnMEVnQ21hcllHZ3BHLUt5VUxZeHhlMVNURXpPSzBzVms1cnpqRUZOR0lRM0t5bmFMUkJRc01YbndhU21fdzFpMWNsVGJCTEU1Wlk?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-24T10:00+09:00"
     }
    ]
   },
@@ -163,21 +163,21 @@
     },
     {
      "title": "イラン戦争などで米国の力が低下、アジアでの中国との差が過去最小に―シンガポールメディア",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QWlY0aWh6bDNad19TcWY4el9fM1BCVFdMSU5uV092WU9pT0tmbk9OYUVRTlJnWVRQN09tQ29mVkxtdWJDM1h3NDNBUjJUT195d3J4U1BGZkY5R0pUS19QM0lBRTk5ODNlN0E?oc=5",
-     "source": "Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1ljOHM0S1E0dVNidjFwd20zek5mdXlMWVI5SWZJX1pROXRmVmNoVUc5U2ZRLWhBSWR3SF85Z0duaWtqSkNrM2pOUUo1TGs5ZkNGMGxKWlQwOExSZ0MwdzFLUGdwNWZpLUNUYkdSbU9VRXFQd0FWMFZHaVdZU0UxaXBUa09RRmdVRVBB0gGLAUFVX3lxTE5HWWM4czRLUTR1U2J2MXB3bTN6TmZ1eUxZUjlJZklfWlE5dGZWY2hVRzlTZlEtaEFJZHdIXzlnR25pa2pKQ2szak5RSjVMazlmQ0YwbEpaVDA4TFJnQzB3MUtQZ3A1ZmktQ1RiR1JtT1VFcVB3QVYwVkdpV1lTRTFpcFRrT1FGZ1VFUEE?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-24T18:00+09:00"
+    },
+    {
+     "title": "ロシア軍機が台湾ADIZに相次ぎ進入 元台湾国安局長が警鐘「大国は利益を再配分している」",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dXdwVDE3WU90T0RPbERFSUJ0NEgxUEUzc044SEl4cTd3NDZ6WFhiSWdybGpnSlkwVGRlVWpDY3RvRVZLaEpfd2hramlnZWRE?oc=5",
+     "source": "風傳媒日本語版",
+     "at": "2026-11-24T15:43+09:00"
     },
     {
      "title": "中国関連の計画で軍事情報や装備を扱った陸軍軍曹が有罪を認める、司法省発表",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8tWDFwNEcxdXdzbEY3R2x1TTRlWFRSZ3BsZTVmdjlqM1NYWFR2eVR0dnY5cWx5OWpPbktJTXlvZ25WUks3WDhhNm81ZHNHZGQ3T2dYMUVST2FmclFXMUJNMHZsVWIwN1FvZlJNZDdIZjZVWFY2MXlGZU1LNGRPQUkxY3lITVkycHhTbF9TN0FuOFVwQjFydnZR?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-24T04:58+09:00"
-    },
-    {
-     "title": "なぜ米国はイランを攻撃し北朝鮮には動かないのか？「核抑止」と「中国の影」から読み解く軍事行動の“損益分岐点”(3/5)",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zaHdPZklSb0RNYTZtNzBLSGtaOXdlczhYNzQ3NzZNekJzNUVFbVh0eHhlTDlHQXZ3UDE5Smo1VGNibUthTzlPODVHZ1FIUDdNSkptNE9hakhUZ0tJNnhn?oc=5",
-     "source": "JBpress",
-     "at": "2026-11-23T10:00+09:00"
     }
    ]
   },
@@ -186,9 +186,9 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "金正恩氏娘が使用のスキー用品は「ぜいたく品」　国連制裁違反＝米政府",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TTDZDMDFLMFJ2dTNkX3RtbkhMZEYyRnFZRXQ3MXRKT3R6SjUxdTJuRTRaQWY3VUgwcXh2eWtIYXlLT1p2b0tlaVNmWC1pdUZUY0ZQSHhMbnpCVEZpaEZqbjBqQi1hYktibk1ENXdyeWFHMmxiQUVyZmxZYWFsTG_SAYQBQVVfeXFMTkF1OUJMOUI1OEFUYjlTNktOazhUZk9HN2VuY0hMaVJNdWVqYzJsOTlLNm1URi1BSXhOdy0xNHZBYzJMSUVpX1Q4aHVXMEVUaWlzWnBzRXZkZ1R5WUpYMFlfYl9JeUZEN0lLMWQ4b0NTbmZqUEVocHFIcjMzOEw2NGV0WlJy?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "金正恩氏娘が使用のスキー用品は「ぜいたく品」 国連制裁違反＝米政府",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjWkdIeU5BZFFCZmhjcjhZR2Q4dnV6R2xqN3dxOEVKWWNjMXNibnNVNkxCLVBUR2Y5NWg5Yk00a3FPd28yNVdyYVFZTmU5bkVxWkdtYS1iUFNkeVZTTUNGWTlHQnpXVDF5Vzg5Nll3OW1oOWNTMFFrWDBCcFlqeFU?oc=5",
+     "source": "Yahoo!ニュース",
      "at": "2026-11-25T10:08+09:00"
     },
     {
@@ -228,6 +228,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計（CNN.co.jp）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ia05CaFJyU0xoWW9Mdks2czViT01qSk9sOEhobmVCSTlaQW5QU1JraWQtUkp2amNhUlNDOTV6YmNUTDdra091VS1wUzUtUnZhSHk2ajVBUEYxU2ZYT2g1VDlzemRSc2hOM25Sd3BKcHB0ZW56dUVsbVBoTmFKWGs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-25T10:46+09:00"
+    },
+    {
      "title": "ウクライナ、フィンランド湾でロシア商船攻撃 海上での戦闘拡大（毎日新聞）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3cGlVY0xEVFhOTWpsc25FczVTX0ZwR2FhemwwZVJfOGhld0tZckdTNTVPMGh3SWdzQVZVUlNIeFI2QXk0MHpqM2VBZFNrOFhKZG1QWHdpLTRMeUZaUExtZ0d3QXhTZUlSYzJMTUhkTHllMERONjJiZnU2MzJua0E?oc=5",
      "source": "Yahoo!ニュース",
@@ -253,15 +259,9 @@
     },
     {
      "title": "ロシア軍の精神衛生に「赤信号」…「ウクライナ侵攻以降1000人以上が自殺」",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aMk5UY2lWVEVpNGlSQmJuTWZiUVVNaEE4R3JBakhaSnBaN2Rlb19keng2QUtUaGN0Ni1pUE45UDlxNFVjMGRNQTZ1dWFHR2VTM0ZBeWltYklwdmk1cWNrdGhsdUNzeUnSAWxBVV95cUxQMG5KWVN5YWs1UTAxV2czNG1tVllDcmdlMXRZNHdWWS1BQTZTSkhtVnlobVhHRnpmUVlLV1pxd180MHdxaElXMjhKNlhUZUw5N1Y1VElXOC14aUl5Z01YTmowWTFNQ0VRbTl2ckE?oc=5",
-     "source": "Infoseek",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlpNdWxTRkFZNmx4ZG90eW8yc1hQdFN5MXVUSmxrdWk3R0hLNlNqTEl1eVV1TjRsdEVKandMTUZSN24tUDRxbzFzWmhtcTUtSGxsN3Ziei03TllkNnhyUjJUSUM0b1Z3djRicml3RlVlUDdfeGtaOHhPZTVzNzRTUi1YVVNGYVNRZ2RVUdIBjAFBVV95cUxQdlpNdWxTRkFZNmx4ZG90eW8yc1hQdFN5MXVUSmxrdWk3R0hLNlNqTEl1eVV1TjRsdEVKandMTUZSN24tUDRxbzFzWmhtcTUtSGxsN3Ziei03TllkNnhyUjJUSUM0b1Z3djRicml3RlVlUDdfeGtaOHhPZTVzNzRTUi1YVVNGYVNRZ2RVUQ?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-25T08:11+09:00"
-    },
-    {
-     "title": "ロシアの貨物船に小型ボートが急接近→激しい爆発とともに沈没する衝撃の瞬間 ウクライナ軍が遠く離れたリビア沖でドローン7機を使って攻撃（ABEMA TIMES）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRaGx5TVJhX3dGTHV1OTB2Vk9kSG5SWjF0MEVLdlVqLVFGVEtCeGU3ODRUanhCZmwzR281TGVmTWhjQ1g2aU9QRDJLX25FZ2Q5R1U4S0dWN1dEWW9kZTZLS2FhRTA3ZDgzTFpIck43VG1oaVZ4Nkw1MVFFRkF5NFE?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-25T08:00+09:00"
     }
    ]
   },
@@ -328,6 +328,12 @@
    "at": "2026-11-25T07:12+09:00"
   },
   {
+   "title": "南海トラフ想定し６府県警が訓練 津波で多数の漂流者救出",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90VzdtdF9DdnNZRmQ0S2cyVkZxcDhTcTFvMUFpQ1RCSnotdC0xS3J6NnhHd3dSTjYxcGNQNG9sMzRIR2N4Qm9MN0ZMMVZnNnRaR1JlSHVxbkp2V28?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-25T04:04+09:00"
+  },
+  {
    "title": "南海トラフ地震が発生したら… 名古屋大学病院で災害対応訓練 状況把握やトリアージを実施 医療物資を運ぶロボットも登場",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95NnlMUDJYdnJxcXA5Vk9LSjAyNU5KX0tkU1FKNHFjb1JaNGtzVFNlZDctOWMzLWdXR1RielBRcEdkUFVIUWNobVdoMGVrcFV1MG9GblNUMnl6MXU1UlE?oc=5",
    "source": "ライブドアニュース",
@@ -338,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wekZ6bkVTX1hJbENSM0NmTHlfQzJLb2ZOZVJsRVZPTmxUSHVYQ2dsUXJfQVo2dndFbkJOU1FjcEotbTRwWWRmeXJfaTBLVjhXdmoxZU5wY1NnajRtbC1OOFY2NDROcHFaWllsT3l6cEdpekRzLVduLXVYVDVFSlk?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-24T21:07+09:00"
-  },
-  {
-   "title": "鎌田浩毅の役に立つ地学：南海トラフ地震の被害額 土木学会は1466兆円と推計／270",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdFlWQWo2N1BWZ1JEd1V2bEFtTGVJV1hsUFh0S1V2bExoN1ZYQjMyVkxwcFNQX0VDUjZfamhwX21uZkRPUWpidExXRGNsYWtQTEkyRHdxS2NOSnlweUpMclBsYVozUzlJSERydTBJaExoZFE5UWhNWGRScXYza1U?oc=5",
-   "source": "週刊エコノミスト Online",
-   "at": "2026-11-24T05:01+09:00"
   }
  ],
  "outage": [
@@ -364,8 +364,8 @@
   },
   {
    "title": "空港もNSAも止まった米国の障害、背景にAIが見つけた脆弱性と「修正ラッシュ」",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOSmx1emVlUi1qV2pVY0lHWmVUTHVBc2l3b045ZjZrY1NFc0FXQkVYemg2WWJIT2pJSHk0bDFiZFdKVURPc1EtaERKYmItY09uVEJ6RDB6VDMxdw?oc=5",
-   "source": "Forbes JAPAN",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HTjBoQzd6bDQtMlozMzVfWHB2ZnpQdy1IcEhQQ19oMEJlVTI4amlFUlE0S0RqNGpVaUJCQzRYM3AxejFNblZJaHUxWUJOdnRxejRELWVITVRqNld3NVlwWlBMazk2enBONm15d3ZRcDRXN1IzRmIzTmdwNGRtSXM?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-25T10:15+09:00"
   },
   {
@@ -387,9 +387,9 @@
    "at": "2026-11-25T10:31+09:00"
   },
   {
-   "title": "ランサムウェア被害の内部感染拡大を防ぎ、クライアントとの信頼を支えるセキュリティ体制を構築。小春スクリーン株式会社様のTiFRONT導入事例を公開",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CazlnT0NVSVl6UmVYT0UwR0lTN2p4OHJmbExhWmk0U0Y4MGJzMmgxb0VxdjZ4VGE0MWUzYnBDWS0zeG1lQUptU3hnT05jYk5jQ2V4dkdpOW5BZjd0dFN0ckNYTDhuNzNfbGc?oc=5",
-   "source": "PR TIMES",
+   "title": "『AIで巧妙化するサイバー攻撃、なりすましやVPNからの侵入にどう備えるか？』というテーマのウェビナーを開催（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53OUFjYUxtZDFjMHd5Q295a3RNLVc1c1pXbHgwNlNWcDlQZ0taaTU2SFJicVhqSjRnUTUybGtXY1FqMkNSdUIzaGJ3NFUtRUhvN1pvUVV2M2k4Y3N4WG5WSnZBY19idGFp?oc=5",
+   "source": "毎日新聞",
    "at": "2026-11-25T10:23+09:00"
   },
   {
@@ -397,6 +397,12 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Td3FIQWk3RW04a2N0NG45NlNtTlJoSEc1QWtBcnRYa0lTT09MZ2pjSEdhNWR6UUtMZWR3bVdUSjIyQlk4Y0NqUktpX0czVE1hVDkxMGUtYW8wdk94Tk5hLXlxWU1hWVVIbXNZR0R0V2ZXSGpXLTZ3QjRjamRXVXM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-25T10:07+09:00"
+  },
+  {
+   "title": "AIを悪用したサイバー攻撃にどう備える？KAGOYA×ROCKETWORKS、AI搭載WAFと多層防御をテーマに共催ウェビナーを12月15日開催",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZlA1Q21jcUNCVW1XM2V1cGRmdHRYMG5xbVVNY2FsckJjSG96OXJ5WWl2UVpJU2pEZXVhV1hDbFI0czFqd1gwUnlmVTJIN2VNcE9jU3RaNFdtQUJZLWtpcVRPS0c1NmdnV3c?oc=5",
+   "source": "PR TIMES",
+   "at": "2026-11-25T10:00+09:00"
   },
   {
    "title": "JAXAに不正アクセス、2000人分のアカウント情報漏えい（アスキー）",
@@ -439,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xbEhkRFplNW5fblRuN0YtTzdFeWZHZDZUcG9MQXN2MFpBTUhDalc5WjhHM2RZVW9aUF9kMmtUMlNOZHFVb2VGaUItV0kzZzhY?oc=5",
    "source": "CNN",
    "at": "2026-11-25T09:17+09:00"
-  },
-  {
-   "title": "ＣＩＡシステムに不正侵入＝政府機関にサイバー攻撃続発―米報道",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XZHNfRUx6dlZ5RVcwQ3ZGdHBNaktaNkVDRGotckp3WnlVOFFKQWJzckVEd0JMVDEzN1lXQVFHeXlFV19DRmpCamx4ME9TT0NJQ1c4RA?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-25T09:16+09:00"
   }
  ],
  "tokyo": [
@@ -489,6 +489,13 @@
  ],
  "world": [
   {
+   "title": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計（CNN.co.jp）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ia05CaFJyU0xoWW9Mdks2czViT01qSk9sOEhobmVCSTlaQW5QU1JraWQtUkp2amNhUlNDOTV6YmNUTDdra091VS1wUzUtUnZhSHk2ajVBUEYxU2ZYT2g1VDlzemRSc2hOM25Sd3BKcHB0ZW56dUVsbVBoTmFKWGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-25T10:46+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "ウクライナ、フィンランド湾でロシア商船攻撃 海上での戦闘拡大（毎日新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3cGlVY0xEVFhOTWpsc25FczVTX0ZwR2FhemwwZVJfOGhld0tZckdTNTVPMGh3SWdzQVZVUlNIeFI2QXk0MHpqM2VBZFNrOFhKZG1QWHdpLTRMeUZaUExtZ0d3QXhTZUlSYzJMTUhkTHllMERONjJiZnU2MzJua0E?oc=5",
    "source": "Yahoo!ニュース",
@@ -496,9 +503,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "金正恩氏娘が使用のスキー用品は「ぜいたく品」　国連制裁違反＝米政府",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TTDZDMDFLMFJ2dTNkX3RtbkhMZEYyRnFZRXQ3MXRKT3R6SjUxdTJuRTRaQWY3VUgwcXh2eWtIYXlLT1p2b0tlaVNmWC1pdUZUY0ZQSHhMbnpCVEZpaEZqbjBqQi1hYktibk1ENXdyeWFHMmxiQUVyZmxZYWFsTG_SAYQBQVVfeXFMTkF1OUJMOUI1OEFUYjlTNktOazhUZk9HN2VuY0hMaVJNdWVqYzJsOTlLNm1URi1BSXhOdy0xNHZBYzJMSUVpX1Q4aHVXMEVUaWlzWnBzRXZkZ1R5WUpYMFlfYl9JeUZEN0lLMWQ4b0NTbmZqUEVocHFIcjMzOEw2NGV0WlJy?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "金正恩氏娘が使用のスキー用品は「ぜいたく品」 国連制裁違反＝米政府",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjWkdIeU5BZFFCZmhjcjhZR2Q4dnV6R2xqN3dxOEVKWWNjMXNibnNVNkxCLVBUR2Y5NWg5Yk00a3FPd28yNVdyYVFZTmU5bkVxWkdtYS1iUFNkeVZTTUNGWTlHQnpXVDF5Vzg5Nll3OW1oOWNTMFFrWDBCcFlqeFU?oc=5",
+   "source": "Yahoo!ニュース",
    "at": "2026-11-25T10:08+09:00",
    "topic": "北朝鮮"
   },
@@ -560,16 +567,9 @@
   },
   {
    "title": "ロシア軍の精神衛生に「赤信号」…「ウクライナ侵攻以降1000人以上が自殺」",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aMk5UY2lWVEVpNGlSQmJuTWZiUVVNaEE4R3JBakhaSnBaN2Rlb19keng2QUtUaGN0Ni1pUE45UDlxNFVjMGRNQTZ1dWFHR2VTM0ZBeWltYklwdmk1cWNrdGhsdUNzeUnSAWxBVV95cUxQMG5KWVN5YWs1UTAxV2czNG1tVllDcmdlMXRZNHdWWS1BQTZTSkhtVnlobVhHRnpmUVlLV1pxd180MHdxaElXMjhKNlhUZUw5N1Y1VElXOC14aUl5Z01YTmowWTFNQ0VRbTl2ckE?oc=5",
-   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlpNdWxTRkFZNmx4ZG90eW8yc1hQdFN5MXVUSmxrdWk3R0hLNlNqTEl1eVV1TjRsdEVKandMTUZSN24tUDRxbzFzWmhtcTUtSGxsN3Ziei03TllkNnhyUjJUSUM0b1Z3djRicml3RlVlUDdfeGtaOHhPZTVzNzRTUi1YVVNGYVNRZ2RVUdIBjAFBVV95cUxQdlpNdWxTRkFZNmx4ZG90eW8yc1hQdFN5MXVUSmxrdWk3R0hLNlNqTEl1eVV1TjRsdEVKandMTUZSN24tUDRxbzFzWmhtcTUtSGxsN3Ziei03TllkNnhyUjJUSUM0b1Z3djRicml3RlVlUDdfeGtaOHhPZTVzNzRTUi1YVVNGYVNRZ2RVUQ?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-25T08:11+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "ロシアの貨物船に小型ボートが急接近→激しい爆発とともに沈没する衝撃の瞬間 ウクライナ軍が遠く離れたリビア沖でドローン7機を使って攻撃（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRaGx5TVJhX3dGTHV1OTB2Vk9kSG5SWjF0MEVLdlVqLVFGVEtCeGU3ODRUanhCZmwzR281TGVmTWhjQ1g2aU9QRDJLX25FZ2Q5R1U4S0dWN1dEWW9kZTZLS2FhRTA3ZDgzTFpIck43VG1oaVZ4Nkw1MVFFRkF5NFE?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-25T08:00+09:00",
    "topic": "ロシア"
   },
   {
@@ -615,17 +615,17 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "イラン「今日早朝、イスラエル・米軍基地を自爆ドローンで精密打撃」",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVBpaUh5QTNKUms0NEdOMjZhR3dxM1V2bVBCSDV1b2U0cmlWU3hfbGJoZ0paRlNqTmRZVEh1WnFBYkgtMFJHRXZKbXVRVnVNaUxpdXJraDVERnY4N2NTMGtLYS00ZTFVRG1TdDQxZzk3Z1oweGoyOTJTLTJQYnlIbFA0cmdLUQ?oc=5",
+   "source": "中央日報",
+   "at": "2026-11-24T23:34+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ウクライナ戦争、ロシア敗北へ来年が「転機」の可能性＝ラトビア大統領 | ロイター",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUtfaWJwcVdlUXlEalA2NWVwd0dGaXN1eVBGTHVxTHBQV1dHWEcwUVJqb1ZTTmQzZTBYUi03S28wSk1OWTVSQ0t3a1BRSFhJbWFuaU9qaUd4Vzk5OVVpUnNVTGJxWXN4RG5sYWstZ1dZMmhUNW1HaG9hUUhBYWVua2UtWEJBZw?oc=5",
    "source": "Reuters",
    "at": "2026-11-24T23:27+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "ポーランド上空でロシアのミサイルへの発砲を許可されたスウェーデンのNATO戦闘機、発砲せず",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXh5SUlQcG9DNWN5dl80cnYxWVpTQS1tSVEtaFlhVTFaVG82WmJQSWV1b1lYRmxyTlJIbFMtVTJxQll4T3lsTnVxXzlXWEU1M1VWY0FJLTJBbEJycVFRLVNrVEQtaFVscnh5UVZtbkI4RzlmZDV4eG5xaHI0Q2t3Ull4dlB6Y0djT3MzYms3T19zeTdDYXhHWXV3?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-24T23:09+09:00",
    "topic": "欧州・NATO"
   }
  ],
@@ -657,10 +657,10 @@
      "at": "2026-11-25T08:40+09:00"
     },
     {
-     "title": "ウクライナ、フィンランド湾でロシア商船攻撃 海上での戦闘拡大（毎日新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3cGlVY0xEVFhOTWpsc25FczVTX0ZwR2FhemwwZVJfOGhld0tZckdTNTVPMGh3SWdzQVZVUlNIeFI2QXk0MHpqM2VBZFNrOFhKZG1QWHdpLTRMeUZaUExtZ0d3QXhTZUlSYzJMTUhkTHllMERONjJiZnU2MzJua0E?oc=5",
+     "title": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計（CNN.co.jp）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ia05CaFJyU0xoWW9Mdks2czViT01qSk9sOEhobmVCSTlaQW5QU1JraWQtUkp2amNhUlNDOTV6YmNUTDdra091VS1wUzUtUnZhSHk2ajVBUEYxU2ZYT2g1VDlzemRSc2hOM25Sd3BKcHB0ZW56dUVsbVBoTmFKWGs?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-25T10:09+09:00"
+     "at": "2026-11-25T10:46+09:00"
     },
     {
      "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
