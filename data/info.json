@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:00+09:00",
+ "updated": "2026-11-26T03:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,26 @@
   "reported": "2026-11-25T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-26T03:06:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "1.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-26T02:59:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "3.2",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-26T02:48:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -74,26 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-25T10:35:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.9",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-25T08:40:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "1.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -144,16 +144,16 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hLXU0R29CV2pmZ1VWZ3Rpb2F4ZzZ5b3paWUtpRUl6VUQ5TF9LTnZaNE9GWV9GeE52YjRjVFhYZDhyRC1NdVZQSjVYc25mNEZGbjBjSjVNR19UNnZzWFJob2tKaTlPV1g5NnZUYWFlYjF4akE2NTRRdUFB?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-25T20:03+09:00"
+    },
+    {
      "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02S3BWbV9ubnMtd1puWF9CM0FRNlBLaGdYMzQ3MlJMWlRVSGN5dy1RQnBLS2g2M01aT1RWVkhuUXdnUmJIOTdhWkZDNWF2c2lSZVJVSWU0d1NDc1RLVWRZ?oc=5",
      "source": "ライブドアニュース",
      "at": "2026-11-25T19:20+09:00"
-    },
-    {
-     "title": "台湾から200キロ弱　米軍大型機の離着陸可能に　フィリピンが空港改修へ",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRmdnNGtrSVktNFNfSldUUE9VRG5acExGVVZYRkItMmRKOWMtLUtCUjY2dFV0MWtDSG1YMjkxUmVrTkJ1U1VjWXQxYjBuNzFQa1ZWYmhiREh3MXMwdmfSAV5BVV95cUxNWEZnZzRra0lZLTRTX0pXVFBPVURuWnBMRlVWWEZCLTJkSjljLS1LQlI2NnRVdDFrQ0htWDI5MVJla05CdVNVY1l0MWIwbjcxUGtWVmJoYkRIdzFzMHZn?oc=5",
-     "source": "大紀元 エポックタイムズ",
-     "at": "2026-11-25T18:53+09:00"
     },
     {
      "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
@@ -162,10 +162,10 @@
      "at": "2026-11-25T18:53+09:00"
     },
     {
-     "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-25T14:44+09:00"
+     "title": "台湾から200キロ弱　米軍大型機の離着陸可能に　フィリピンが空港改修へ",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85b2dpZElqcmVEMWVDcXRXTzEyYm01N1hMRHU4RzU5TVowUkVBYmh2UFlJdWdUUGplSUxZXzZqVk1PRE5vVjJRSHhXSmNGd183VkRHcEIyOEzSAV5BVV95cUxNWEZnZzRra0lZLTRTX0pXVFBPVURuWnBMRlVWWEZCLTJkSjljLS1LQlI2NnRVdDFrQ0htWDI5MVJla05CdVNVY1l0MWIwbjcxUGtWVmJoYkRIdzFzMHZn?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-25T18:10+09:00"
     },
     {
      "title": "【図解】3度の米中首脳会談、台湾めぐる中国の対米要求に変化 2027年の「4つの波乱要因」 | 楊騰凱（ヨウ・トウガイ） | ニュース",
@@ -282,18 +282,6 @@
      "at": "2026-11-25T22:17+09:00"
     },
     {
-     "title": "英国で家庭備蓄広がる　相次ぐサイバー攻撃　インフラへの不安背景に",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNHlmVlpFUFF5YW9kQjktR1EwQXZZczhtY2g3Y182ZVBrbkx4cjBpOTJXaFI5OUVTdUxmVUxVdkg0U04wSWcxS2dUdlNaRFZjRWlfRHhnRDgtcjJDZ0HSAV5BVV95cUxPaDR5ZlZaRVBReWFvZEI5LUdRMEF2WXM4bWNoN2NfNmVQa25MeHIwaTkyV2hSOTlFU3VMZlVMVXZINFNOMElnMUtnVHZTWkRWY0VpX0R4Z0Q4LXIyQ2dB?oc=5",
-     "source": "大紀元 エポックタイムズ",
-     "at": "2026-11-25T18:53+09:00"
-    },
-    {
-     "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vLXJUWG9jMktlZHlvR2ZUem82RjJ0SlpieHdIVy12bGJvOTQ3aDhYUXVPT3lGNTJvM1pxTWJOS3JiYnpOYnFXUWg0Z1BZdlZpY1c4VkhWUnPSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
-     "source": "大紀元 エポックタイムズ",
-     "at": "2026-11-25T18:53+09:00"
-    },
-    {
      "title": "Mark Rutteは、ロシアとの戦争の可能性に備え、民間人も準備するようNATOに呼びかける",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmFhYXUzYlVfN3J5UU1OQXVLNHcxbmE2aGw3Tjd5QWZtaW5LVzVyeWt3a2NlMkN4a3FicjF1Nmp5RjVZNjRrSi1nVEF4S2NrZVcxTlE3UjVaSmpqMVg4YnNuR1F4aExEd1JfRHktc2s3ZzJZUmluSUF5RVdBSkRfUWxxdHNXUjFmcW1mZ1o4dlM5Rml3bzE2ZzRyX3pHOEc5ZGVZd01ETDM1al9rdDZwSDQxMHFVMFBqbWtLcTNB?oc=5",
      "source": "Informat.ro",
@@ -304,6 +292,18 @@
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXdyTU9pMWZWYTM0R05nbm5HSVF0MnNoOTc1akVkZHNybmRyNGlPZ2JBOWNTM1NRRFRMOFZrSXZMa3lEbEpWZnc2NUxseFFET0JPZkVBUHRwZVBOa0MxaGZmSEF1QXJudjRzWVpkTm1rbGtxMmVJNF9DeWdsbzd5Q1hVWERELWhPcjQ2amNpclVkUGhabmZrNXBYcDVUU1E?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-25T14:33+09:00"
+    },
+    {
+     "title": "ポーランド、NATOにウクライナ上空でのミサイル迎撃を提案 合意には至らず",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWU8zcW81SUQwbFpVTmZuTEY3akdBQkltUldRdExUYnUwUW9KTTZ2eFplZFpTZ3pZcXltZW5ZYnVfdnRhSkVZaTRxejN3bGdtM05fR2J1SjI0SGs1NEUySWppVHh0dw?oc=5",
+     "source": "Mezha.net",
+     "at": "2026-11-25T14:20+09:00"
+    },
+    {
+     "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHd3QVFpVHRXN2M3amJpVExEc1g4WmxqMzNqQVQyOThmUmhVc2gxajhLdUtUdVljbGNSZDFsMUdaUGEzN3NNcjhmNHhmM0c5WXQ5djRTZDdHc1psM1E5OWhBclJHdlRLV2N3Vy10UVpWWTdSaEVFeHczaGo4WnBDS1I0NmJZSFZkakoyeWgzYjd5QVVPNlRFbkFfSWZiekg4YXgyWV9R?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-25T01:12+09:00"
     }
    ]
   }
@@ -363,10 +363,28 @@
  ],
  "cyber": [
   {
-   "title": "ＰａｙＰａｙでシステム障害、クレジットカード連携サービスが利用不可に…サイバー攻撃確認されず",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3cHpjS29QYWNNNGpCWEVhQ2RtYVdmOHRHVEhHd2RnWnZ0ZHByNzJsSEFybk9LSWhBLUx2M2RIdmVZMmlNWlZxaUtoMlhJU0RkOTZmb2JNSWlqNGdKNjlMVi1RODU?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-26T00:25+09:00"
+   "title": "ＰａｙＰａｙでシステム障害、クレジットカード連携サービスが利用不可に…サイバー攻撃確認されず (読売新聞オンライン)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0xRWEpybFd6V1I0SXdsZjZFTjZkSnVyY3p0bGFMa1g4Z0w2Ml9QRHltRzBuaHE1bUpCOWNuQUNLSEZyRVF1NkNMWXMzZjNhclkteUZ3R0tVcDlJZ2VMeXFaeXBiYTlCdG5WTEl5YW1nQ1Y3MmZDb0FkTTFMOFJoRkM0M3dNYnJZQnhDek53?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-26T01:22+09:00"
+  },
+  {
+   "title": "PayPayでシステム障害 PayPayクレジットが使用できず",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpT2hsUzR0TVA5aG1IUmtOZ0RDbkNzTzEzcTZocEJkRnlncXF3REJOT0pORU45QkhjUnVZNnNNSG9QSHNoSmhqMlRpTzdfbXh0VEpIbzNvdzRoaHBVWk5wUy1GQndnX1VlMmZzbkdpSDAydw?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-26T00:50+09:00"
+  },
+  {
+   "title": "PayPayで決済障害、クレカ連携機能が停止 復旧めど立たず",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SNDlNaVpCSFphTjgzTF9GekE3cjc2TkpKcXBKd1ZyeS1adkRudmZsRVhvVmdTVW1YVXBLX3BfT1d5WVN5RnpESFBoRzA3aWtUaF8wQkJZNjl1d3BfWV9NMkt1UDFLUFdYb3E0NU9wMzNZbmVw?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-26T00:40+09:00"
+  },
+  {
+   "title": "ペイペイ、クレカ決済に障害",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iQUs1cG51WTZWZWVTcFN1RWkzRDFVeFlrQ0JLNGM4T1JNLVJTb2F3Tm8za2VpVnNLUGFwQVBVVUNNRUV6TmVZNlZkQjhOOWhGdWpGd29kOHZpYTJrMVV1NERfbjIyRi1DN1hXcm12bjdVRkhuRU9HZtIBhAFBVV95cUxQbzRaZkRabDJvN1FGN0RWLWhIZDlKUThWb2ptNE43akc5TndpMjlnTHRuSU1RM1JnU1ItSFNxejhrX3ZDdVZvMF9DeHZpQjdRNlZtdHFET2M4RlJSbDBpWHpsSkxWdU4zY3BPX0pQSzRZY0V3X0RZWVBjcTRIaFZOZWFDaEU?oc=5",
+   "source": "大分合同新聞",
+   "at": "2026-11-26T00:14+09:00"
   },
   {
    "title": "PayPayで障害、クレカ機能で 25日夜～",
@@ -375,10 +393,28 @@
    "at": "2026-11-26T00:05+09:00"
   },
   {
-   "title": "ペイペイ、クレカ決済に障害 サイバー攻撃は確認されず｜全国の記事｜京都新聞 ON BUSINESS",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9leGs1UGFGMjZ1TzFXOUlhRFBLNE02LXNWemdNU05PaWpUQ0laVFlpNFRuY2tpMy1tSll0RmlPOXJ0X1VxQnhCRmNSU2NfTjhmRVZlbkduNzNLdXM?oc=5",
-   "source": "京都新聞デジタル",
-   "at": "2026-11-25T23:36+09:00"
+   "title": "ドコモ通信障害、「一部復旧」が招く誤解 情報発信にも落とし穴",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Gby1zLXBVTVlDWkRqNTdNV2daRi1nNEFpQ3NjQXQ0OG52VFJ2aUtVZjBpX1VFRnpoOWl0a3dqamlIUWxSVThEQTg1TGlFRTlXZTJ5c2EzVjFKamZCQWRldkxn?oc=5",
+   "source": "日経ビジネス電子版",
+   "at": "2026-11-26T00:00+09:00"
+  },
+  {
+   "title": "ペイペイ、クレカ決済に障害 サイバー攻撃は確認されず (2026年11月25日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DSmhkeVpqS3QyUHlOcG8xX000ZnlOMEpMWmRXZkVMWW0zUGtyaTJlc2NpUjM3U2FHcXlJN0pNWGVvMlYzOVZORnRzZDN3bjFXMmFoVXJseklzZUZLY0E?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-25T23:39+09:00"
+  },
+  {
+   "title": "ペイペイ、アプリ機能でクレカ決済障害　",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJjc2FyNm81QTZIaEczR1lSWTg3LVIzNW55VFB1WWpFNWJBaHhCT3U0Y2hWLUhtUzBXcGRBS3JfNTdmSzJmQVZvTmNZajVKeTNyeDc0Q3NBUTAzcDlxZXFzM3BKRzdQR1hBbzZLYUhXM2J2NzUzVnhQMVZBbnNQYVRtOURlYW4ycUHSAYoBQVVfeXFMUFEyY3NhcjZvNUE2SGhHM0dZUlk4Ny1SMzVueVRQdVlqRTViQWh4Qk91NGNoVi1IbVMwV3BkQUtyXzU3ZksyZkFWb05jWWo1Snkzcng3NENzQVEwM3A5cWVxczNwSkc3UEdYQW82S2FIVzNidjc1M1Z4UDFWQW5zUGFUbTlEZWFuMnFB?oc=5",
+   "source": "サンスポ",
+   "at": "2026-11-25T23:33+09:00"
+  },
+  {
+   "title": "PayPayでシステム障害 カード連携サービスで決済できず | NHKニュース | ＡＩ・ネット・ＩＴ、企業・経営、金融",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEY0JEeW9zb05RblhDSDRVRDBiUFZrbG43dF9tdXpCV2cwNEx0V2E5V3ROM0wwd05EakhSeHM4VW9pU3ROY2hjb1NwSEtTNG16R1U4bXo2Z2lpc3pxbVQ0?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-25T23:16+09:00"
   },
   {
    "title": "ペイペイ、クレカ決済機能で障害（共同通信）",
@@ -387,10 +423,10 @@
    "at": "2026-11-25T23:14+09:00"
   },
   {
-   "title": "東京都の「赤ちゃんファースト」QUOカードPayで不具合 使用ができない事象や残高が減った事象を確認（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb210TDJ3MUk3RGtjTkZmckFZdE1WLUVYN2thZW9vaWJLeUlORnVPb1QtVWQ0MElxNUdhM3VfUzlhUWNBdGZYM2FKaVZ2S2V2dU9vdTBuU0phcGFLSUdfckdqVENpLU1mc2FmTWFiYVQ5MXBZREx3MWE1UENrTGFhU2NmOURiREVxeVVDaXFn?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-25T19:09+09:00"
+   "title": "【速報】ペイペイ、クレカ決済機能で障害",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tVXI5cy0yTTFJYjJvTGptVTVCbDhtTG5sNzlKc2ZmMW9IbU16NTQ3dnFONU5xQ0RtaTdwWnFnTlhzSGloMHJQVGhhOA?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-25T23:14+09:00"
   },
   {
    "title": "米FinCEN、サイバー攻撃受け一部システムを停止",
@@ -399,58 +435,22 @@
    "at": "2026-11-26T00:25+09:00"
   },
   {
+   "title": "サイバー攻撃への対応強化を : ブログ : ❤さかい妙子 練馬区議会議員❤",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNzJHYV9EVXdSNGNYQ05UbHk4cEw0bi0xT1ByZzBXZHJpaVk4OVFkSHVHX0hwS2M3dVNFZGU2d1REMVJiMjlWODFjR21sUC1rdG9GdjREcGVUdXNyNmhrTGdCckFoVzl6SnBhZ0x1LTVINHA5bWREaFZfWnJQOWdwU2FfMlpMaTZmYlRPVzJhVDNKQVBybE0xWURaY0JRbWVRd01XZVFYdDgyN1lRb0JuNi02eC01YnNLWmVwWGVodmIyNU5LWFJTU2FOVk5GYzBONEY0R2ZuRy1YbkhDVEFsSUI1QWFuRjlMTUtWQUVEd1JxdEpBRlFybnlqZGhvNi1YaUhDRF9n?oc=5",
+   "source": "公明党",
+   "at": "2026-11-26T00:13+09:00"
+  },
+  {
    "title": "ウクライナ侵攻によりロシアは50万人近くの死者 サイバー攻撃から流出したロシア連邦統計局の資料で発覚 BBCが報道",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aSWRWSkJ2cENLTHJUV0FmSmpGWHZfZjFldmJjclRxZ3E2bExQX1g2U1dEaU5lUGxsVWY1N3hVRkRQaUR5UVVLZHdid1JrYzU5bk5LUE1HVQ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-25T23:52+09:00"
   },
   {
-   "title": "サイバー攻撃被害防げ 岡山県警が企業向けセミナー",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FY3VYNG5FdGFBMmlKWmpEcXNIQzVrYTdTc3h6NUU1R1V1QkZGWWczdWktNUVmVHFTS1NsZ3MyTHJISlp2VFM5MDFzbk44ODBmSnc?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-25T22:12+09:00"
-  },
-  {
-   "title": "止まらない大規模な情報流出 ～サイバー攻撃をめぐっていま何が起きているのか？",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWU40QkJfMHFmSE9HbFJubVpyQy1XdDFmTm0xWGdoSVFWM3JSTmRLR05OSlpVdGZaTEV5N3lITDd5X3ppQ2JaYUY2Qm53UkJHRWc?oc=5",
-   "source": "TBSラジオ",
-   "at": "2026-11-25T21:51+09:00"
-  },
-  {
-   "title": "大崎電気、27日から順次生産再開＝サイバー攻撃、要求には応じず(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTIwUm9LajBKcng4ODJVcmEwTGI4THVkMTcxZG5Ta0lJM0gtMjJvMVhUUlgyWXFvT0ZmcEJpcW1XN2d1M19aZ3FNNUJ3VUU2RHRESS1hMVNiWGk1a1hSR3l0emJNV2FOS1ZjdUZfeEptLWlIQVFkdkQ4amJlNDJSWUVEMjdNTXM?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-25T21:37+09:00"
-  },
-  {
-   "title": "米CIA・国家情報長官室にサイバー攻撃、非機密情報に影響 FBIの犯罪情報データベース「NCIC」も侵害か",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQlcxMDUtVUV0MzNNM2s1a3RhZE9EbWplZklBRjFJTmpwSkc5d3VkdVdCRlV6VjVTLUlFZ1ZtSS1MblV2MGNlOWx5eUVTb2NreFRVSS1wTlZoV1RFT0RhYVNSc3JHakdjaEs2Y2lzOXF2eF9nQTNsMDE0eWx6a1FCNTl5R0FVdU1uSjFydW1LRjdCeUk?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-25T20:47+09:00"
-  },
-  {
-   "title": "サイバー攻撃による被害が深刻化 近畿総合通信局が勉強会を開催／兵庫県（サンテレビ）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03OExQT1ZlTTFVTXNHc1VLbGdXWlJYb09lRmhaYXN2ZDh6emJUZVBVQWM1VGRTUmRrZkxUSndLbERWNnR6cGpGa1VTX2R2VnNUSGpSdmZyMlRJaFNidGQxTHBRaVdYVXBSNzQ2ekJtLTBod0JnLUVDekFaVk94cDQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-25T20:44+09:00"
-  },
-  {
-   "title": "共立美容外科、2,736名の個人情報漏えい サイバー攻撃で希望施術や相談内容も流出、なりすまし・恐喝に注意",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXhVZ0piOGlNdWswSlNra05Ya3llcEl1OG9pRVktdjFmRUlKS045TzR5dDVWalRxQzJ5UUwyMEhHTTBVQ3ptdU5SZ25Kb3dQMDhXaGdabDc5Q0txc283Um40WU1ndnN4ZkNFX0J3b0JjZ0V1aHl4TnE1eElhZHFDcDNid0dHWlFNSVQ3Sy05RnZ6YlZEa21LaEtfUkJlZw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-25T20:06+09:00"
-  },
-  {
-   "title": "神戸 中小企業がサイバー攻撃への対策学ぶ講習会",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Td0xoTXFGNHA2aUwydU9CNmdud3VQS2NQbkZ4eVBtT2w5X2labjNiNDE5VnhfZ2FMbTNHbEp3aWNoclVCSDFEVmZWOVJEb2tLM1dsZWUzYXY1ek9jazBv?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-25T20:01+09:00"
-  },
-  {
-   "title": "大崎電気工業[6644]：ランサムウェアによるサイバー攻撃に伴う生産停止に関するお知らせ （第三報） 2026年11月25日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hVExQWGpvWU0tRC1RM2xIU0RrSFRfNFFsU2dva0UtNmpwcU9JSVVaQURxQUw3dGo2N1VjTFF5QjJVdUU5bzQ1OHYyTEVpOUllLWp2ekx4alIzQVUzRmRVQzNKU21JcmRNbkE?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-25T17:00+09:00"
+   "title": "米財務省FinCEN、不正アクセスで一部システム停止―CIA系システムへの侵入報道の直後",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11RXVTZFVkV0txazZseUtxVk93OV9oSko5YjY4NGpaTEFtRHdnZmJNM2tnQlplUHpTN1dJUTUwcGFKdWx3U2hyQWo3OEYzbjRNZF9UUlNEODhJcHpwdThwVUFwVdIBaEFVX3lxTE5jTnNOLU1GQVdKMFNQMzkyMmdlM0k0ZzRoZUdmblcyRi04djRkU2xPUUdsQ0luRXJKSnZmLVlvQmhSbFVKb2haS3d2aVVmWTBjQmI0VTUwMXQ5T0tYV0g4emljTUVtVlNZ?oc=5",
+   "source": "財経新聞",
+   "at": "2026-11-25T23:41+09:00"
   }
  ],
  "tokyo": [],
@@ -554,17 +554,17 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hLXU0R29CV2pmZ1VWZ3Rpb2F4ZzZ5b3paWUtpRUl6VUQ5TF9LTnZaNE9GWV9GeE52YjRjVFhYZDhyRC1NdVZQSjVYc25mNEZGbjBjSjVNR19UNnZzWFJob2tKaTlPV1g5NnZUYWFlYjF4akE2NTRRdUFB?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-25T20:03+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02S3BWbV9ubnMtd1puWF9CM0FRNlBLaGdYMzQ3MlJMWlRVSGN5dy1RQnBLS2g2M01aT1RWVkhuUXdnUmJIOTdhWkZDNWF2c2lSZVJVSWU0d1NDc1RLVWRZ?oc=5",
    "source": "ライブドアニュース",
    "at": "2026-11-25T19:20+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "台湾から200キロ弱　米軍大型機の離着陸可能に　フィリピンが空港改修へ",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRmdnNGtrSVktNFNfSldUUE9VRG5acExGVVZYRkItMmRKOWMtLUtCUjY2dFV0MWtDSG1YMjkxUmVrTkJ1U1VjWXQxYjBuNzFQa1ZWYmhiREh3MXMwdmfSAV5BVV95cUxNWEZnZzRra0lZLTRTX0pXVFBPVURuWnBMRlVWWEZCLTJkSjljLS1LQlI2NnRVdDFrQ0htWDI5MVJla05CdVNVY1l0MWIwbjcxUGtWVmJoYkRIdzFzMHZn?oc=5",
-   "source": "大紀元 エポックタイムズ",
-   "at": "2026-11-25T18:53+09:00",
    "topic": "中国・台湾"
   },
   {
@@ -575,18 +575,11 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "英国で家庭備蓄広がる　相次ぐサイバー攻撃　インフラへの不安背景に",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNHlmVlpFUFF5YW9kQjktR1EwQXZZczhtY2g3Y182ZVBrbkx4cjBpOTJXaFI5OUVTdUxmVUxVdkg0U04wSWcxS2dUdlNaRFZjRWlfRHhnRDgtcjJDZ0HSAV5BVV95cUxPaDR5ZlZaRVBReWFvZEI5LUdRMEF2WXM4bWNoN2NfNmVQa25MeHIwaTkyV2hSOTlFU3VMZlVMVXZINFNOMElnMUtnVHZTWkRWY0VpX0R4Z0Q4LXIyQ2dB?oc=5",
+   "title": "台湾から200キロ弱　米軍大型機の離着陸可能に　フィリピンが空港改修へ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85b2dpZElqcmVEMWVDcXRXTzEyYm01N1hMRHU4RzU5TVowUkVBYmh2UFlJdWdUUGplSUxZXzZqVk1PRE5vVjJRSHhXSmNGd183VkRHcEIyOEzSAV5BVV95cUxNWEZnZzRra0lZLTRTX0pXVFBPVURuWnBMRlVWWEZCLTJkSjljLS1LQlI2NnRVdDFrQ0htWDI5MVJla05CdVNVY1l0MWIwbjcxUGtWVmJoYkRIdzFzMHZn?oc=5",
    "source": "大紀元 エポックタイムズ",
-   "at": "2026-11-25T18:53+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
-   "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vLXJUWG9jMktlZHlvR2ZUem82RjJ0SlpieHdIVy12bGJvOTQ3aDhYUXVPT3lGNTJvM1pxTWJOS3JiYnpOYnFXUWg0Z1BZdlZpY1c4VkhWUnPSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
-   "source": "大紀元 エポックタイムズ",
-   "at": "2026-11-25T18:53+09:00",
-   "topic": "欧州・NATO"
+   "at": "2026-11-25T18:10+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "北朝鮮、スイス外交事務所代表に48時間以内の国外退去要求 児童キャンプへの制裁に対抗",
@@ -608,13 +601,20 @@
    "source": "Informat.ro",
    "at": "2026-11-25T17:51+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "イラン、米の海上封鎖を懸念せず 物価上昇抑制へ＝第１副大統領",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfem80Yk9WckV2UV8tSWhXMWwwdl9zY253eUs4MWZoLV9SVjFLSmd3QnJjOUUyNF8wYmJoV05PaDBTTzNXU2ZKU0haMDZFQUwxRF9XREpueUxHMGpjNHMxV3lGektfMHo4UWplZU4xTnJ1bFJPWElDdzYxa2ZkMDg?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-25T17:22+09:00",
+   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
    "level": "yellow",
    "reasons": [
-    "「PayPayで障害、クレカ機能で 25日夜～」"
+    "「PayPayでシステム障害 PayPayクレジットが使用できず」"
    ]
   },
   "japan": {
@@ -628,7 +628,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」4件",
     "ロシア：「攻撃」「侵攻」4件",
-    "欧州・NATO：「攻撃」「ミサイル」3件"
+    "欧州・NATO：「ミサイル」3件"
    ],
    "items": [
     {
