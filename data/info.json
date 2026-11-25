@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-25T22:45+09:00",
- "errors": [
-  "world_topics",
-  "nankai",
-  "outage",
-  "japan",
-  "cyber",
-  "osaka"
- ],
+ "updated": "2026-11-25T23:00+09:00",
+ "errors": [],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -151,12 +144,6 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-25T20:13+09:00"
-    },
-    {
      "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約 (2026年11月25日掲載)",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FT2VlWXNfUGhHQXNZbVJrRkltMDR2VkE2SU1IZUdzZ1prZURXRXcxYk9veEo1eDdPSGx0ZklYSnlJaV9tcFAzdExiYU9INTlMMXJmS3hrXzY4bW05Tmc?oc=5",
      "source": "ライブドアニュース",
@@ -173,6 +160,12 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
      "source": "大紀元 エポックタイムズ",
      "at": "2026-11-25T18:53+09:00"
+    },
+    {
+     "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-25T14:44+09:00"
     },
     {
      "title": "【図解】3度の米中首脳会談、台湾めぐる中国の対米要求に変化 2027年の「4つの波乱要因」 | 楊騰凱（ヨウ・トウガイ） | ニュース",
@@ -259,16 +252,16 @@
      "at": "2026-11-25T18:24+09:00"
     },
     {
-     "title": "2万ドルのドローンにミサイルは割に合わず…ロシアのドローンを次々撃ち落とす\"1970年代就役の兵器\"の名前",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMk83dHZjTFRWSEJfNXFmMEJmR3ZBOW5DQ3ZpNkFGTjVwaHRqWVA3Tk1BSVBTVFhkQnNMdWxBeE0xOWs3ekJLWlZ6UElzekNFbEREYmpyUC00VEZ4a1ZJWGlSWVM3RVRuX2NHRTBXMWtocVZjWkM0T01PejZqbkRleEpIaDR2b0U?oc=5",
-     "source": "Yahoo!ファイナンス",
-     "at": "2026-11-25T18:15+09:00"
-    },
-    {
      "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示 ウクライナを支援する企業に（BBC News）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWVYyMTJQenh1NkllSUZ2eFcybTJZd2FRakl6Sm82TjNYOHVDVVpCZFdEM1lvS00zcU9LSkxhWC02bVk1M0R6RlBjd0YtbzZqVHRrYXNTb0xTcXIwR0JKQ05FWjl4di1lUy1QeFJZWGRSMGJmZWRqeldoMmpkQnM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-25T17:54+09:00"
+    },
+    {
+     "title": "クリミア橋へのミサイル猛攻、背後にロシア人亡命者",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVUzeVp6Wk11ZW1vZE96UEtRaE5VNjlPLXd4eUxtR0Zzc25tMkxTd05lVnpJbElsbmpLWEV4TGV1cnk4US1neFdiWWdpRVozTU5PVXJxSEFjMjVUQTdOcVFKdlkwM0xXUWNCUWpkWnY1SGtRMEY2UHFJRnphVFlGekZqMjZCTUdBOFpGc0E3ZTNNOU5yZmgtUU9xdHFydVlTU0hPbnJmYnlFWkI4aUVueEpn?oc=5",
+     "source": "WSJ",
+     "at": "2026-11-25T17:27+09:00"
     }
    ]
   },
@@ -281,18 +274,6 @@
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHRobW05Q1RkczAycU1qUk1mblpXbUpmNTFrdC1SSkxFNWNHb0dCMmxwNWNtNDNQZjNrOTVWUDVmWFFpSGZlM3JMY0pGZmYwX3JEVy1MU0NtOVR5eDdJY2x4M0JXLTZWVW1iWG4ydl9idG5EeFFVcW1HSUtaM05hWlU3bnM2MlVPalpTLVA5Tm5iUk16Z0plcjN0Q3Z3S1Q3UFRkdHZwTGZNZ1hpWWs1cFhYNlpIcjBV?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-25T22:17+09:00"
-    },
-    {
-     "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
-     "source": "大紀元 エポックタイムズ",
-     "at": "2026-11-25T18:53+09:00"
-    },
-    {
-     "title": "英国で家庭備蓄広がる　相次ぐサイバー攻撃　インフラへの不安背景に",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNHlmVlpFUFF5YW9kQjktR1EwQXZZczhtY2g3Y182ZVBrbkx4cjBpOTJXaFI5OUVTdUxmVUxVdkg0U04wSWcxS2dUdlNaRFZjRWlfRHhnRDgtcjJDZ0HSAV5BVV95cUxPaDR5ZlZaRVBReWFvZEI5LUdRMEF2WXM4bWNoN2NfNmVQa25MeHIwaTkyV2hSOTlFU3VMZlVMVXZINFNOMElnMUtnVHZTWkRWY0VpX0R4Z0Q4LXIyQ2dB?oc=5",
-     "source": "大紀元 エポックタイムズ",
-     "at": "2026-11-25T18:53+09:00"
     },
     {
      "title": "Mark Rutteは、ロシアとの戦争の可能性に備え、民間人も準備するようNATOに呼びかける",
@@ -311,6 +292,18 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWU8zcW81SUQwbFpVTmZuTEY3akdBQkltUldRdExUYnUwUW9KTTZ2eFplZFpTZ3pZcXltZW5ZYnVfdnRhSkVZaTRxejN3bGdtM05fR2J1SjI0SGs1NEUySWppVHh0dw?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-25T14:20+09:00"
+    },
+    {
+     "title": "フィンランド沖でロシア貨物船が炎上…ドローン攻撃でNATO加盟国の領海に漂着、広がる戦争の余波",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RMmxoZGNGbi1ZMEJNbVdDa040NTZrbGk0Z3dTb3ZpSW5TZUpnSEllRnlyLTZhWFZPSjRjeFdEamwzdjJ3b3Zob0FBOFJGLW4zS1c4MXRRZFpVdzJIdzZv?oc=5",
+     "source": "ニューズウィーク日本版",
+     "at": "2026-11-25T02:20+09:00"
+    },
+    {
+     "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHd3QVFpVHRXN2M3amJpVExEc1g4WmxqMzNqQVQyOThmUmhVc2gxajhLdUtUdVljbGNSZDFsMUdaUGEzN3NNcjhmNHhmM0c5WXQ5djRTZDdHc1psM1E5OWhBclJHdlRLV2N3Vy10UVpWWTdSaEVFeHczaGo4WnBDS1I0NmJZSFZkakoyeWgzYjd5QVVPNlRFbkFfSWZiekg4YXgyWV9R?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-25T01:12+09:00"
     }
    ]
   }
@@ -382,6 +375,12 @@
    "at": "2026-11-25T18:30+09:00"
   },
   {
+   "title": "ENEOS、給油向け公式アプリを一時停止 不正アクセス検知で",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LZzNqMmRkbXU3SU9NTFRJeDFsTWtNWVFjR0tSVzN6QTYyU3pOdDBYdnB2b2pLbUc2ZEFCMnNkVVpTYllYR0NpdV9rOVRUYXN2cmNUV1VZVkk4WldVVjUxZVpjZzl3QUF6UG5Law?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-25T22:44+09:00"
+  },
+  {
    "title": "ENEOSに不正アクセス公式アプリ利用停止",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56d2tFM1Z3VUdHenVhdHB6aGNnWFIwTEo2MzFPX1B1bDdqajZRa0JDOU9MMUluVFFxalZUSS1oLXByOGpHOGFSQ1NqS3ZPdmt0WU0yWm1RQk1UTDlrOThYUFNCUXRzbkRIRmVrT2trQzd0WlpCX2c?oc=5",
    "source": "産経ニュース",
@@ -406,10 +405,16 @@
    "at": "2026-11-25T21:58+09:00"
   },
   {
+   "title": "かんぽ生命、顧客管理番号が漏洩 委託先プレイドへの不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQzVkYWRnZlRocGt6TGhEdDlNQUw1YkczcE5hV0o4bEVUeEJ6RlVlTTc1ZnJ0QzNqRFpyU2IwYWptX0kzckVncjREUDFzQjlqU3hsbHVzOHJuVzFpRkJxVmxOd0JtSXpfclhDWg?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-25T21:55+09:00"
+  },
+  {
    "title": "止まらない大規模な情報流出 ～サイバー攻撃をめぐっていま何が起きているのか？",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zYkwyT3p1LTZHSFRBdDlWSU9ibXFqU0dvRmtBZDBNYkVZc0VaTThweDFFSHM1WTNXak9GX3k4aUVVWHN1dFg4RUpWS19vUUpl?oc=5",
-   "source": "www.tbsradio.jp",
-   "at": "2026-11-25T21:52+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWU40QkJfMHFmSE9HbFJubVpyQy1XdDFmTm0xWGdoSVFWM3JSTmRLR05OSlpVdGZaTEV5N3lITDd5X3ppQ2JaYUY2Qm53UkJHRWc?oc=5",
+   "source": "TBSラジオ",
+   "at": "2026-11-25T21:51+09:00"
   },
   {
    "title": "Bithumbの情報漏えい、被害範囲が当初公表より拡大 不正アクセス把握に2週間超",
@@ -424,9 +429,9 @@
    "at": "2026-11-25T21:37+09:00"
   },
   {
-   "title": "都デジタルギフト、9千万円利用不能 業者に不正アクセス、原因調査（朝日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ZW9oRHZVT0FxMVVuU1c5aS03WUs2MzA4WlRVSVZ4VWJNNENvd1lxRWhDWkU2Mm9NTmhqM08wWFJUQTZkUDdXeUhuZ1EwbXd1dnY3ZEowckpmY0lKcWZBbjZLZnlrQTAxbzBwR0VpMlNnbEJUNHp5WmU4MmI3aGs?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "都デジタルギフト、9千万円利用不能 業者に不正アクセス、原因調査 [東京都]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pNjZPM0VRclQteHM2dmtFUHV5bzJabHdRaWpKWEwwYnBXWmZQOU1Td0lveW9DY3phTUt3ZU9LYlFTc3VhMXdsTDJVNGtLc3ZWbWMtZ2xPeWZiSHBkZnU5aFJLdGFpNEE?oc=5",
+   "source": "朝日新聞",
    "at": "2026-11-25T21:28+09:00"
   },
   {
@@ -446,26 +451,14 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KcUt1U2ZIRWxFVTRxLTlDWnZjRGhDbDFlVUhkZkJtWVFzWmdQVVh3d0xDZTd6YXAxZ1N3LXlLVjZ0YmsxQjQyTVZ3cHJJalV6VlpUV2lmc3pwTE9ZQkI5d3FhVTZVcnF4NUJOMDRlQlo3dlJISVFXVk9MQ3NzQVE?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-25T20:49+09:00"
-  },
-  {
-   "title": "米CIA・国家情報長官室にサイバー攻撃、非機密情報に影響 FBIの犯罪情報データベース「NCIC」も侵害か",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQlcxMDUtVUV0MzNNM2s1a3RhZE9EbWplZklBRjFJTmpwSkc5d3VkdVdCRlV6VjVTLUlFZ1ZtSS1MblV2MGNlOWx5eUVTb2NreFRVSS1wTlZoV1RFT0RhYVNSc3JHakdjaEs2Y2lzOXF2eF9nQTNsMDE0eWx6a1FCNTl5R0FVdU1uSjFydW1LRjdCeUk?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-25T20:47+09:00"
-  },
-  {
-   "title": "最大数千社分の情報に漏えいのおそれ、MJS M&Aパートナーズに不正アクセス、M&A資料も",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83WlpzUGRDaDVRbFZ0OV9DdjlDU1NESC1HT1Z5Ukh0NUhSUGxXNGtPdC1jdlEyQ2ZyV1BhMGh5S25YSEFSZHk0YnFKUzh2TGJkS1ln?oc=5",
-   "source": "ビジネス+IT",
-   "at": "2026-11-25T20:45+09:00"
   }
  ],
  "tokyo": [],
  "osaka": [
   {
    "title": "M-1を“体感”できる『M-1感情爆発展』が大阪でスタート! “地元の先輩”たくろう・きむらバンドに芸人ライターも感情爆発「愛媛の王様が…」",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzbUl2eGE2ZGJHWC1vT3pNNWk5UXY4amk0UTRtZDI4TW9qTzNjLTB4N0lBODZBOVRiQzdGUDd3UlNwbjBwNXZWSw?oc=5",
-   "source": "Fany Magazine",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVERTU3RNQjc1V3JXMXFlSmREVGZhLUZTQ3lYMmYzWVl3d0Vkc0FPTWVSa1dTM05JMXkyR3duS09QNlpleVo0RkFrRVItODdMTU5oem5NOENXT3lEQjNRNkk0ak9fb2E1ZUlqYnNaaVFrQ29obU1KalFpOTF3ZXBZVHB2eEQ3a3Q1VE1LM1MtLVpMQdIBlwFBVV95cUxNSnlDZzIxYnppV3YwV3pSSEZiMWtSUTNQQXppanhobkhxM0ZidmM4SloxVVkwTzhqa3VKSzdfMmVscHZqeFpRb1NHTXppOWEyODVBOThiVzgtQ3VCczJCdS0wd2ZmSV9TWWQ5MkI2UEtXTkk5ZWxhQ3VYd21pMkFNQVBGMzNaUGgxVGRudXdub0VwWnFqTFBn?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-25T11:45+09:00"
   },
   {
@@ -498,13 +491,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-25T20:13+09:00",
-   "topic": "中国・台湾"
-  },
-  {
    "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約 (2026年11月25日掲載)",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FT2VlWXNfUGhHQXNZbVJrRkltMDR2VkE2SU1IZUdzZ1prZURXRXcxYk9veEo1eDdPSGx0ZklYSnlJaV9tcFAzdExiYU9INTlMMXJmS3hrXzY4bW05Tmc?oc=5",
    "source": "ライブドアニュース",
@@ -533,13 +519,6 @@
    "topic": "中国・台湾"
   },
   {
-   "title": "英国で家庭備蓄広がる　相次ぐサイバー攻撃　インフラへの不安背景に",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNHlmVlpFUFF5YW9kQjktR1EwQXZZczhtY2g3Y182ZVBrbkx4cjBpOTJXaFI5OUVTdUxmVUxVdkg0U04wSWcxS2dUdlNaRFZjRWlfRHhnRDgtcjJDZ0HSAV5BVV95cUxPaDR5ZlZaRVBReWFvZEI5LUdRMEF2WXM4bWNoN2NfNmVQa25MeHIwaTkyV2hSOTlFU3VMZlVMVXZINFNOMElnMUtnVHZTWkRWY0VpX0R4Z0Q4LXIyQ2dB?oc=5",
-   "source": "大紀元 エポックタイムズ",
-   "at": "2026-11-25T18:53+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ウクライナ南部ザポリッジャをロシア軍が航空攻撃　６名負傷、集合住宅が損傷",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN1ZxNkdDQ1dNVzVrU2xLRE1LUGoyN1JsOGVmVWhnT2tMQVZmelR4UTB2Nmh3RXJGaFVPQVlFMG91dWs3bkd6NE1JZEk4aGxETGc3aFhFTjJtRTc0RnlrQUtiXy1FVUJzOWJwM2xlV0JyNWVSZ04ycXRYcmhTbHExTW9SRzVzNXhQYXZDeTBLUlNGX3ZvTVU0Wld2U1VwWDAwcHZDdHFyTzRvQWNWTEo0ajlUMFJjMlRsWWhyeWMtTjBqNk9CZENlWmVFVF9ITC1Dc1M1eTU2aS1uSFdqNkHSAeMBQVVfeXFMT2NyQkhYVzRYYVBtek1KYS05RTZ3UXZBOTVVUkJvU083OXFQNEFfSU03dW1kWEN2cVZja0NDcmxpQkwtRENfS1JCbS14alU5amVwa0I1QjNSV0ctX0Zwei1FR2JObmRsWnowTERQQmZ1OUR6NXNvMUtydGhpV3lQSkx5Nm5MN3FZV1d4SVRIdHBwOUlYUkFReGJrWGlnd0dwejJWOUcxNHpWZGFyaTF5ck5ienpjbzRMYUpGVVc2R1V5RHpMVmF0UUhRZEZUT3NDMk5QdndZeUJTWlV3S1dNZmJWclE?oc=5",
    "source": "ウクルインフォルム通信",
@@ -551,13 +530,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3NqdEpqekNETVhXNU5ST3c1VlFUSDkxTHFNYzc5MGVoZ3RJSTFhMXV6Wm5NX041TDhtYmIyV3A5R3JCUl9tZ29DM2k5OFJubDJJelBmX2lXM1h6U1F3RnQxRTRYN0NTREZIQ2d3M0dUT0VVODQ5dld6T3VZUG9YVXMxUVZadzR1?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-25T18:24+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "2万ドルのドローンにミサイルは割に合わず…ロシアのドローンを次々撃ち落とす\"1970年代就役の兵器\"の名前",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMk83dHZjTFRWSEJfNXFmMEJmR3ZBOW5DQ3ZpNkFGTjVwaHRqWVA3Tk1BSVBTVFhkQnNMdWxBeE0xOWs3ekJLWlZ6UElzekNFbEREYmpyUC00VEZ4a1ZJWGlSWVM3RVRuX2NHRTBXMWtocVZjWkM0T01PejZqbkRleEpIaDR2b0U?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "at": "2026-11-25T18:15+09:00",
    "topic": "ロシア"
   },
   {
@@ -589,6 +561,13 @@
    "topic": "欧州・NATO"
   },
   {
+   "title": "クリミア橋へのミサイル猛攻、背後にロシア人亡命者",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVUzeVp6Wk11ZW1vZE96UEtRaE5VNjlPLXd4eUxtR0Zzc25tMkxTd05lVnpJbElsbmpLWEV4TGV1cnk4US1neFdiWWdpRVozTU5PVXJxSEFjMjVUQTdOcVFKdlkwM0xXUWNCUWpkWnY1SGtRMEY2UHFJRnphVFlGekZqMjZCTUdBOFpGc0E3ZTNNOU5yZmgtUU9xdHFydVlTU0hPbnJmYnlFWkI4aUVueEpn?oc=5",
+   "source": "WSJ",
+   "at": "2026-11-25T17:27+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "イラン、米の海上封鎖を懸念せず 物価上昇抑制へ＝第１副大統領",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OclZRTGtFSjNpd19NUGZGUXo1a2Q1YVlaYmQ2aFRvNjI3RXhNRVRuVUFycGtZQ3lBRlZuc0xRMDlvQ1hpaUVOQnlGX1pFZzRKeFhxTzZhWnJ2eUh0YkVHSnV3QlU1WlI1T1hXeGlB?oc=5",
    "source": "Infoseek",
@@ -615,6 +594,20 @@
    "source": "NHKニュース",
    "at": "2026-11-25T16:40+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "イランが攻撃、米兵２人死亡 ヨルダン基地で、中央軍は報復",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rNmM0WXNGakJEUHpnbzRkdHJfSFNqR2ZhN2xzcXVzM3dqQ0E3NFVTRHpCZ1NXZUU5S2EwWHUxZnIwSDA0VGV2X19Xa1M4Sk5iZlM5XzJCY0RKQQ?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-25T14:53+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-25T14:44+09:00",
+   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -635,7 +628,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」4件",
     "ロシア：「攻撃」「ミサイル」5件",
-    "欧州・NATO：「攻撃」「ミサイル」3件"
+    "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
     {
