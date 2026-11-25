@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:15+09:00",
+ "updated": "2026-11-26T05:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,26 @@
   "reported": "2026-11-25T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-26T05:18:00+09:00",
+   "place": "釧路地方中南部",
+   "mag": "1.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-26T05:12:00+09:00",
+   "place": "熊本県熊本地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-26T03:06:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -74,26 +94,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-25T16:38:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "2.3",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-25T10:42:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "1.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -101,6 +101,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "古舘伊知郎トーキングブルース「イランとアメリカ、ロシアとウクライナの戦争は同じ戦争」連載５",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiSUw2dWVucThMWGNKRldxWUYtbnNRYlJzeEFSMEw2ZXV1S21zc19tTVZZd3dQajZyY2VFSGxfczd3ZXFwT2ZvNkpBVVhTa0FPQWxUQi1xSTFoRUZWVTZR?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-26T05:00+09:00"
+    },
     {
      "title": "トランプの「戦争も平和もない」対イラン戦略は終わった",
      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPRlNLV3UxbW5lNzBsNzJJUU9QVGxXQjY5VjBXVzRydXVDNXQ1WlJwUWpHVmthVExkOUlIWWRPd1FXdWxiOHUtUmpiQlNka0Nob3RBUlp0WkZJWHRGTWlwQzNXTWx3alZQMVpSMzNfMmMyRnJod3UtUjJ0ZUJCLW13VEROd2pjbW9qRFBWRmVyM05DY2hhcGhkS3V0R1hYYUs0ZC1YMUppRmtCS3JXLWx0eEwxbng4eUNFTkJqZlRfclVsbG5uS2dtaVZTN19zekc1bXFvLXZiQ1EwbW9fNnZZNWcxdHVWcE9BUkJ6NDNkNDdxaVBQNENWUHZMaEc4M3I1NEt2cXJSTUQ3bnl6ODdCTzlnRzV6VFgtRVlnRnhqV3RteHFNT3MwTlpGUkRLdzNlU2hsNjQ0ZkV2UVBWWFRBYjBOV08tQ2pkd2hRWlpQQVdUSnA5am03WmhBcF9aODdIMW1fNmRUaGthWFRBay1FQzNR?oc=5",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OWFJ6N1VKcGNiYklLRnZyR0ZYX1FwbWFxZ09SYkQ3ZEtEVlhaR1pzam80NkpFWldRWkJVMTU0dlJDMVpSZGdOa0pTYWRXVzIwejVnRTEyaEYtUQ?oc=5",
      "source": "山陽新聞",
      "at": "2026-11-25T11:28+09:00"
-    },
-    {
-     "title": "トランプ氏、激化を警告 米イラン再び攻撃の応酬",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDck1NVThvcTZnOEREdVdjaFNiZmsyR0VxNnpCWUJBcG84R3ZPYi1nU2NxS0lZUHlLZ1c4SFN5MGtHQ01Ucmc5dmE1MkVYUDNlMTMyR051clg1T09yRU1xOWJFMVRSZmx4UjFBRUhLMA?oc=5",
-     "source": "山陽新聞",
-     "at": "2026-11-25T09:15+09:00"
     }
    ]
   },
@@ -156,12 +156,6 @@
      "at": "2026-11-25T22:40+09:00"
     },
     {
-     "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hLXU0R29CV2pmZ1VWZ3Rpb2F4ZzZ5b3paWUtpRUl6VUQ5TF9LTnZaNE9GWV9GeE52YjRjVFhYZDhyRC1NdVZQSjVYc25mNEZGbjBjSjVNR19UNnZzWFJob2tKaTlPV1g5NnZUYWFlYjF4akE2NTRRdUFB?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-25T20:03+09:00"
-    },
-    {
      "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02S3BWbV9ubnMtd1puWF9CM0FRNlBLaGdYMzQ3MlJMWlRVSGN5dy1RQnBLS2g2M01aT1RWVkhuUXdnUmJIOTdhWkZDNWF2c2lSZVJVSWU0d1NDc1RLVWRZ?oc=5",
      "source": "ライブドアニュース",
@@ -178,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
      "source": "大紀元 エポックタイムズ",
      "at": "2026-11-25T18:53+09:00"
+    },
+    {
+     "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UY2ZDaHJLTWwyb3FIZUxsaFl6cFlGWjFkeWtQOVFYM2NoeG1Dc1pERHh3b3pnRlZYMVV6Mk9nb1BfQzRJSUNoMk1HUVF5c0lMYk5FTUprMENvUU5Odm4zSE12RnRjN2xCT0JBOGJUU3VKTGRaTDlkMloxRHhBUQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-25T14:44+09:00"
     }
    ]
   },
@@ -228,12 +228,6 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "古舘伊知郎トーキングブルース「イランとアメリカ、ロシアとウクライナの戦争は同じ戦争」連載５",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmTkxHYy1kT182cnhtN1lKUjZmSWtsOGtEeWFUXzhVQjdwSUJoN1ZwdXZHVlgtNG14cW1ZejFmQXFtSGlCdV9sdmFWMUwtNGVhdlNuTkJWdmlrTXk0TzMtMm1FTWl4RmM3WVZSLXpHM0xMdW_SAXhBVV95cUxPbC14Vm5mLXd0cWZJU1Q5emI3TDU4RHZwc29EYlRlYkZrQVZMMXhQeFFqUzlGcGRPekhmaE1WejRXWXlqaUNhQnNOUVlnUU45b3VuelJlTlNwM2kzYjNyeHY3Tk5VUzNSdU5KVmNfZXYtQW9Pd2Nrby0?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-26T05:00+09:00"
-    },
-    {
      "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JcWpOdEFGMHZqMk5XeE9JbC1rWnZNMWY1ZExGZjJMeE95YjNCRkFsUmVvZzRaTVlJZFkxYzk3aktYVkdLR3dWbW1lcl9YX016TTMtODg3U1JtblpvNktYV2JpRl9pcTctMDJrRzhfOFFFRTVC?oc=5",
      "source": "TBS NEWS DIG",
@@ -262,6 +256,12 @@
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aSWRWSkJ2cENLTHJUV0FmSmpGWHZfZjFldmJjclRxZ3E2bExQX1g2U1dEaU5lUGxsVWY1N3hVRkRQaUR5UVVLZHdid1JrYzU5bk5LUE1HVQ?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-25T23:52+09:00"
+    },
+    {
+     "title": "ロシア軍がオデーサを攻撃／3人が負傷し、2地区で一部停電",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkpCVk5VOGVwZVQybGtPWnpQa0NoQ2U5SlNlSWJrTDZCbWg5ZWVrc1dmOVlLS1JaelB2WHZyYjZNTnVmMkJtNXd0X3ZGS0hDLWF2cEtrbGNOTWdzQ3dfNUFqU29zbl9GZl9KTGJDVzNVM2VYUHBweWo5NTVkRVNQTUc5ZklpMFRPcVZrYm1Yb2Q0TktwQmRpaGJjUzI3WW1YQWhkSA?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-25T22:52+09:00"
     }
    ]
   },
@@ -271,7 +271,7 @@
    "items": [
     {
      "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JcWpOdEFGMHZqMk5XeE9JbC1rWnZNMWY1ZExGZjJMeE95YjNCRkFsUmVvZzRaTVlJZFkxYzk3aktYVkdLR3dWbW1lcl9YX016TTMtODg3U1JtblpvNktYV2JpRl9pcTctMDJrRzhfOFFFRTVC?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scFZ3cVBNYTFienFDVUdvcXpzNjd6Rk5qbDVFUU5IdEdWMy02YmVmN3hxdTh0S1hwdDFtMzNrTUJMN3BJRTg1UGZveDA4X1pScmFYeEZ1NnM5MUY5Ulk1OXNCRXo4cnM?oc=5",
      "source": "TBS NEWS DIG",
      "at": "2026-11-26T03:30+09:00"
     },
@@ -288,22 +288,22 @@
      "at": "2026-11-25T22:17+09:00"
     },
     {
+     "title": "英国で家庭備蓄広がる　相次ぐサイバー攻撃　インフラへの不安背景に",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNHlmVlpFUFF5YW9kQjktR1EwQXZZczhtY2g3Y182ZVBrbkx4cjBpOTJXaFI5OUVTdUxmVUxVdkg0U04wSWcxS2dUdlNaRFZjRWlfRHhnRDgtcjJDZ0HSAV5BVV95cUxPaDR5ZlZaRVBReWFvZEI5LUdRMEF2WXM4bWNoN2NfNmVQa25MeHIwaTkyV2hSOTlFU3VMZlVMVXZINFNOMElnMUtnVHZTWkRWY0VpX0R4Z0Q4LXIyQ2dB?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-25T18:53+09:00"
+    },
+    {
+     "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vLXJUWG9jMktlZHlvR2ZUem82RjJ0SlpieHdIVy12bGJvOTQ3aDhYUXVPT3lGNTJvM1pxTWJOS3JiYnpOYnFXUWg0Z1BZdlZpY1c4VkhWUnPSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-25T18:53+09:00"
+    },
+    {
      "title": "Mark Rutteは、ロシアとの戦争の可能性に備え、民間人も準備するようNATOに呼びかける",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmFhYXUzYlVfN3J5UU1OQXVLNHcxbmE2aGw3Tjd5QWZtaW5LVzVyeWt3a2NlMkN4a3FicjF1Nmp5RjVZNjRrSi1nVEF4S2NrZVcxTlE3UjVaSmpqMVg4YnNuR1F4aExEd1JfRHktc2s3ZzJZUmluSUF5RVdBSkRfUWxxdHNXUjFmcW1mZ1o4dlM5Rml3bzE2ZzRyX3pHOEc5ZGVZd01ETDM1al9rdDZwSDQxMHFVMFBqbWtLcTNB?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-25T17:51+09:00"
-    },
-    {
-     "title": "ピョトル・クルパ、ウクライナの防衛産業から兵器を調達する欧州基金の創設を提案",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXdyTU9pMWZWYTM0R05nbm5HSVF0MnNoOTc1akVkZHNybmRyNGlPZ2JBOWNTM1NRRFRMOFZrSXZMa3lEbEpWZnc2NUxseFFET0JPZkVBUHRwZVBOa0MxaGZmSEF1QXJudjRzWVpkTm1rbGtxMmVJNF9DeWdsbzd5Q1hVWERELWhPcjQ2amNpclVkUGhabmZrNXBYcDVUU1E?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-25T14:33+09:00"
-    },
-    {
-     "title": "ポーランド、NATOにウクライナ上空でのミサイル迎撃を提案 合意には至らず",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWU8zcW81SUQwbFpVTmZuTEY3akdBQkltUldRdExUYnUwUW9KTTZ2eFplZFpTZ3pZcXltZW5ZYnVfdnRhSkVZaTRxejN3bGdtM05fR2J1SjI0SGs1NEUySWppVHh0dw?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-25T14:20+09:00"
     }
    ]
   }
@@ -363,6 +363,12 @@
  ],
  "cyber": [
   {
+   "title": "ＰａｙＰａｙシステム障害 クレカ連携使用できず",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNajlBaHZ5RFlpdWxpR2Fua0ZLTG1DcnBmMW4wdVVWeFBMVFBQTTgtcG4yMDNDQ3VPMTdwdk1QWEszY2JkdkhaYUpYNTlKYlM5UFNZYUVZUEhOb1JNb3c1R1FJNA?oc=5",
+   "source": "読売新聞",
+   "at": "2026-11-26T05:00+09:00"
+  },
+  {
    "title": "ＰａｙＰａｙでシステム障害、クレジットカード連携サービスが利用不可に…サイバー攻撃確認されず",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMGxmQm13LXZRamZsZ2JwRkxjQTlfa0xoNUNGSWx0UmdqSzBVLTl1T29NZ3JiMVVmcVRFalRxWXluVFVDcGdTSldDYUprdjhQTEJVbWF5cmZYTnpqdHBQTEczN0hPN1l0ZElIZWxOeUR3aGNBYzZsMHpLLS1BVl9xVzRUaVdXR1hSMk14btIBkgFBVV95cUxPZDY0eGg4S0FZd3NZMVNUbVlvN0VaTklocUYxY19MSWI0WlBuZm1oX05IakEwVDF5aFlDNDJibEJ6djNyZHNRZ0F1VkJyeHYxX0FiS0pvQi1CN0RFVEJidkpwVFZaX2ZQNUEwelRld2ZHd3dQdUZ5YzlWT0RZSmpMeHNjMmFuRzlkVDhlQklwQjBpZw?oc=5",
    "source": "ｄメニューニュース",
@@ -384,7 +390,7 @@
    "title": "PayPayで決済障害、クレカ連携機能が停止 復旧めど立たず",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SNDlNaVpCSFphTjgzTF9GekE3cjc2TkpKcXBKd1ZyeS1adkRudmZsRVhvVmdTVW1YVXBLX3BfT1d5WVN5RnpESFBoRzA3aWtUaF8wQkJZNjl1d3BfWV9NMkt1UDFLUFdYb3E0NU9wMzNZbmVw?oc=5",
    "source": "BigGo ファイナンス",
-   "at": "2026-11-26T00:40+09:00"
+   "at": "2026-11-26T00:35+09:00"
   },
   {
    "title": "スマートフォン決済「PayPay（ペイペイ）」のアイコン - ペイペイ、クレカ決済に障害 サイバー攻撃は確認されず - 写真・画像(1/1)",
@@ -435,9 +441,9 @@
    "at": "2026-11-25T23:14+09:00"
   },
   {
-   "title": "ペイペイ、クレカ決済機能で障害",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRbC1Bbk9EZEJFYnBBa3cyUHNkWldPbURtNWNGMC1KWm9Oa2VCZVNPSF82QzkxSzhVMHVVTzRZczdRX0h5REpzSzB6cWtxTS1lQU5mclhmTi00V2s?oc=5",
-   "source": "京都新聞デジタル",
+   "title": "【速報】ペイペイ、クレカ決済機能で障害",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tVXI5cy0yTTFJYjJvTGptVTVCbDhtTG5sNzlKc2ZmMW9IbU16NTQ3dnFONU5xQ0RtaTdwWnFnTlhzSGloMHJQVGhhOA?oc=5",
+   "source": "47NEWS",
    "at": "2026-11-25T23:14+09:00"
   },
   {
@@ -445,12 +451,6 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMXJ4dG00bnhYYlF1eW8yd0JCRDdkVHR0dFpCVXlLX3JKckphbDNOdXlyNnhEeHp2cjBSR3VscG5Uc1B2NVlMSVdaX0p1bktTSEx3akZLVUN5OGZrcVk3Q3ZrcEk2YmM3M0F1UDZzWlN1VWhiRjkw0gF8QVVfeXFMTVBSTmNDSktEcTZuMFVtRU1MaUYtYWZia1R1VWdOaWd4V2t3TndrTS0zaV9pX2JYUTlSNm12Szc3RDRJZWR3NXJBdFpuel9LX3haeEtpb0ZKWFA3WkhKOEdScnVmRFpZNnh1QUc1M0RnS3VyZmhEU1drdHRrVg?oc=5",
    "source": "四国新聞",
    "at": "2026-11-26T05:03+09:00"
-  },
-  {
-   "title": "サプライチェーンのサイバーリスク管理が必須に、SCS評価制度を活用せよ",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1BoZmZob29pcE90T1UzOEg2dmE0WXJxT28wX1BTSFprNEVMZDBFREFZN0x2Vldod21PTW1xVTFTRnBQNzNtWnd6YWNGVmZrNjBWNk9nOFEwWU9DaHlkSkxBYlBkN2RlMm9zcTZmV2pDWU03aWhWbTVOSlJDdkU2NXFETFlTM1lIRG9iYkJTVlp2bzA?oc=5",
-   "source": "日経クロステック Active",
-   "at": "2026-11-26T05:01+09:00"
   }
  ],
  "tokyo": [],
@@ -470,18 +470,18 @@
  ],
  "world": [
   {
+   "title": "古舘伊知郎トーキングブルース「イランとアメリカ、ロシアとウクライナの戦争は同じ戦争」連載５",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiSUw2dWVucThMWGNKRldxWUYtbnNRYlJzeEFSMEw2ZXV1S21zc19tTVZZd3dQajZyY2VFSGxfczd3ZXFwT2ZvNkpBVVhTa0FPQWxUQi1xSTFoRUZWVTZR?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-26T05:00+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "米台すら読めない中国の「台湾侵攻」最終判断…歴代指導者が直面した《軍事の壁》と、繰り返された《先送り》の歴史",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEFSUHFfYlA2bHVNNTNpcDdBQ3ZBVGE2TElLb2I5TmhXMjhseE83eEd0X2FidE5NM09uRUVhYzhHMFA0TFZuek0ySEd6LUc3dk9zclZmcjMtbmJiWEgyYVhKclBDcGpUWkwzQWExTHhxWTJKcl9mTThtanpmU08zVzNYS0tkWmM?oc=5",
    "source": "Yahoo!ファイナンス",
    "at": "2026-11-26T05:00+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "古舘伊知郎トーキングブルース「イランとアメリカ、ロシアとウクライナの戦争は同じ戦争」連載５",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmTkxHYy1kT182cnhtN1lKUjZmSWtsOGtEeWFUXzhVQjdwSUJoN1ZwdXZHVlgtNG14cW1ZejFmQXFtSGlCdV9sdmFWMUwtNGVhdlNuTkJWdmlrTXk0TzMtMm1FTWl4RmM3WVZSLXpHM0xMdW_SAXhBVV95cUxPbC14Vm5mLXd0cWZJU1Q5emI3TDU4RHZwc29EYlRlYkZrQVZMMXhQeFFqUzlGcGRPekhmaE1WejRXWXlqaUNhQnNOUVlnUU45b3VuelJlTlNwM2kzYjNyeHY3Tk5VUzNSdU5KVmNfZXYtQW9Pd2Nrby0?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-26T05:00+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "北朝鮮、スイスに平壌事務所の閉鎖要求 「制裁は敵対行為」",
@@ -496,6 +496,13 @@
    "source": "TBS NEWS DIG",
    "at": "2026-11-26T03:30+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scFZ3cVBNYTFienFDVUdvcXpzNjd6Rk5qbDVFUU5IdEdWMy02YmVmN3hxdTh0S1hwdDFtMzNrTUJMN3BJRTg1UGZveDA4X1pScmFYeEZ1NnM5MUY5Ulk1OXNCRXo4cnM?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-26T03:30+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "トランプの「戦争も平和もない」対イラン戦略は終わった",
@@ -561,6 +568,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ロシア軍がオデーサを攻撃／3人が負傷し、2地区で一部停電",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkpCVk5VOGVwZVQybGtPWnpQa0NoQ2U5SlNlSWJrTDZCbWg5ZWVrc1dmOVlLS1JaelB2WHZyYjZNTnVmMkJtNXd0X3ZGS0hDLWF2cEtrbGNOTWdzQ3dfNUFqU29zbl9GZl9KTGJDVzNVM2VYUHBweWo5NTVkRVNQTUc5ZklpMFRPcVZrYm1Yb2Q0TktwQmRpaGJjUzI3WW1YQWhkSA?oc=5",
+   "source": "Informat.ro",
+   "at": "2026-11-25T22:52+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "中国軍の偵察・攻撃型無人機と情報収集機に空自戦闘機が緊急発進 日本領空に相次ぎ接近（FNNプライムオンライン）",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FQ1pTdkhLR3M3N2JPcXh4ZU5RQlZtYVE5UV9YTld0QXRQUUVPWEZqLU4wa09OczlZOEZRMzNDNThPMmFCTnNDajU4dU91a0hZdzlmc19xdHRTc0RycU84NzJzTnhRekw2M1JaLTdITmlyQQ?oc=5",
    "source": "ｄメニューニュース",
@@ -582,13 +596,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "防衛分野に活路を見いだす日本の自動車産業 中国市場での影響懸念し大手は慎重",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hLXU0R29CV2pmZ1VWZ3Rpb2F4ZzZ5b3paWUtpRUl6VUQ5TF9LTnZaNE9GWV9GeE52YjRjVFhYZDhyRC1NdVZQSjVYc25mNEZGbjBjSjVNR19UNnZzWFJob2tKaTlPV1g5NnZUYWFlYjF4akE2NTRRdUFB?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-25T20:03+09:00",
-   "topic": "中国・台湾"
-  },
-  {
    "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02S3BWbV9ubnMtd1puWF9CM0FRNlBLaGdYMzQ3MlJMWlRVSGN5dy1RQnBLS2g2M01aT1RWVkhuUXdnUmJIOTdhWkZDNWF2c2lSZVJVSWU0d1NDc1RLVWRZ?oc=5",
    "source": "ライブドアニュース",
@@ -598,13 +605,6 @@
   {
    "title": "台湾から200キロ弱　米軍大型機の離着陸可能に　フィリピンが空港改修へ",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRmdnNGtrSVktNFNfSldUUE9VRG5acExGVVZYRkItMmRKOWMtLUtCUjY2dFV0MWtDSG1YMjkxUmVrTkJ1U1VjWXQxYjBuNzFQa1ZWYmhiREh3MXMwdmfSAV5BVV95cUxNWEZnZzRra0lZLTRTX0pXVFBPVURuWnBMRlVWWEZCLTJkSjljLS1LQlI2NnRVdDFrQ0htWDI5MVJla05CdVNVY1l0MWIwbjcxUGtWVmJoYkRIdzFzMHZn?oc=5",
-   "source": "大紀元 エポックタイムズ",
-   "at": "2026-11-25T18:53+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "EU　ハイブリッド車も輸入規制 中国製の輸入枠は年換算で半分に",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4clp2SGdLM2NfMGVfWTRWZHdvTzBfelFwczNpWEZJUFhuVVhnZ3FPZ3BJX3pDc0paVEFqXzR1bF82MTQ1a1hfekptTlFCMVR2eHlRSWpraFdsQV8yWnfSAV5BVV95cUxQOHJadkhnSzNjXzBlX1k0VmR3b08wX3pRcHMzaVhGSVBYblVYZ2dxT2dwSV96Q3NKWlRBal80dWxfNjE0NWtYX3pKbU5RQjFUdnh5UUlqa2hXbEFfMlp3?oc=5",
    "source": "大紀元 エポックタイムズ",
    "at": "2026-11-25T18:53+09:00",
    "topic": "中国・台湾"
@@ -626,10 +626,10 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「報復」4件",
+    "イラン・アメリカ：「攻撃」「報復」3件",
     "中国・台湾：「攻撃」「侵攻」2件",
-    "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「ミサイル」4件"
+    "ロシア：「攻撃」「ミサイル」5件",
+    "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
     {
