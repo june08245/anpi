@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:00+09:00",
+ "updated": "2026-11-25T12:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -102,12 +102,6 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "米国、イラン攻撃再開を控え指導部排除を検討 : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NeDFRLXhBUEZ4RVZETGMwdG96Z2dxQ1BTV0dNOHhrelN1RlZJTFBTQnpJSmxJVW1hWmFjVWtkeTdhQVpGZ1hXb0h4ZDdDSWd5TlZ5ZmpfUy1weFN4N3ZIVWhQOA?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-25T08:40+09:00"
-    },
-    {
      "title": "米軍、イラン首脳部の排除作戦を検討　米報道",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWViclFJWG5ETGJudV9KUTZ3cGlCc1c2OS1NVS1nemRaUVJxeVBvRTJRczlBc1JjSERCMXpDQlRaWlRYRnhIZkY4WVZacWdQUUx4eEZMeWlkSEdrS2dySE9tam5yOW00dHlybDlmMW0wejVGSjU0REtZZ3BIb1YwelZKQV9jSjBQeHgzOENFaUlxMGY2Y2RWQU90NULSAZwBQVVfeXFMUE1lYnJRSVhuRExibnVfSlE2d3BpQnNXNjktTVUtZ3pkWlFScXlQb0UyUXM5QXNSY0hEQjF6Q0JUWlpUWEZ4SGZGOFlWWnFnUFFMeHhGTHlpZEhHa0tnckhPbWpucjltNHR5cmw5ZjFtMHo1Rko1NERLWWdwSG9WMHpWSkFfY0owUHh4MzhDRWlJcTBmNmNkVkFPdDVC?oc=5",
      "source": "Chosunbiz",
@@ -132,10 +126,16 @@
      "at": "2026-11-24T10:19+09:00"
     },
     {
-     "title": "米イラン交渉に転機！バンス氏がカタール首相と極秘会談、原油市場は供給過剰へ傾き始める",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVc4OENSM3V6VUE1N3R3YWp1NkRfZ2s5aGhYT1VxRU1ONDJpT0RJdF9Sa25DVXpqa2JSYkluMVF5cXhtRDJ3eEtnaDA4VnM4UHVCU2R2WURXMzlZak1tem1US1o5SVhLWDJkdUx6YXhLTjRKbEltV29CajJhTHVuMGp5S09oWHBQM1VQcElmazFzTEpKYnFHS1ZRb0NwS0p5dU1Jc3duQm5VVE1LY2JRT2VNRG12dw?oc=5",
-     "source": "Moomoo",
-     "at": "2026-11-24T10:10+09:00"
+     "title": "米上院民主党、イラン戦争の戦費補填を含む補正予算876億ドルを拒否",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDNfb01jcmFvSVQ1RHpSVUcyYU9BRHIzM3I2My1FT3lvSnkyb3UtYVBqTnZfZVJUb201Ri0tbXQ1TURhZXo1cnBJaEhKcV9TNHc1eEQzQ0J2TUFFVUlOclRocklBSDF0SFIybmZwUlNQY05mZXdmOGpLTTFoaW9zOElteWMtNmlFTzh6VVNWd1dVV0dQOFZITWFjc0NTdVphanBLQThzWGZFbGRFWHNFbUZtX0RQbHk5ZGtEeW5rWElrcDJXV0NnUXg3S0xZbklnbkxTQw?oc=5",
+     "source": "航空万能論GF",
+     "at": "2026-11-24T09:27+09:00"
+    },
+    {
+     "title": "米、イランの影の銀行網に制裁 数十の個人・団体対象",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2YkY0S0lCUlZzNldZeDVjdXUyTXRxdWgtV05GZ3pJQ3BBRnlmVVBHV1NxbFRrWjZFb3p6ZVp5bjdTX294S2dMdDduX2czZXFBWFhMVENyaVlkbGVScEpvdmlQUVZkME5VQ0ZOU3Z6blBER2o4UnRZMk1KNnZWWXM?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-24T07:20+09:00"
     }
    ]
   },
@@ -143,6 +143,12 @@
    "key": "china",
    "label": "中国・台湾",
    "items": [
+    {
+     "title": "習近平指導部が振るう粛清の刃 中国の巨大軍需企業で若手有望株まで次々と消える異常事態",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMTDJ4MGh1eGE4S3E3b2RJRzItODBpeDVxY2U3R0ROekh5U2NGYmo1ZHVqNkNiVkJoMmdnNXhmU0o5ZFVkVzdQYzlQT2ptY204WC1fYlRCLXl4UVJpZXMwcm1Tc3BybkVV0gFuQVVfeXFMTkdvTVJVRnhJN2JUc1c2dTV5RXFUUUxFSjI1cDgzV2RmellxVTMwT2RoSVcwNldWU0syREZkbnhVWTNrczY0b3RmZVZNYlZlUGRfU05JNzNsZm5walpESmhNVTQ4eHJtWV9qZG9QOGc?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-25T10:00+09:00"
+    },
     {
      "title": "【図解】3度の米中首脳会談、台湾めぐる中国の対米要求に変化 2027年の「4つの波乱要因」 | 楊騰凱（ヨウ・トウガイ） | ニュース",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13RlZHQllDNExvNW45d0xHSGpZN0plUzRKLTdhWnY0am9vS0UtY1pVM0t2eHFSbnBBSjRmR19DMlZBbENpNlNkeHV4TU5BeFpO?oc=5",
@@ -163,21 +169,15 @@
     },
     {
      "title": "イラン戦争などで米国の力が低下、アジアでの中国との差が過去最小に―シンガポールメディア",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR1ljOHM0S1E0dVNidjFwd20zek5mdXlMWVI5SWZJX1pROXRmVmNoVUc5U2ZRLWhBSWR3SF85Z0duaWtqSkNrM2pOUUo1TGs5ZkNGMGxKWlQwOExSZ0MwdzFLUGdwNWZpLUNUYkdSbU9VRXFQd0FWMFZHaVdZU0UxaXBUa09RRmdVRVBB0gGLAUFVX3lxTE5HWWM4czRLUTR1U2J2MXB3bTN6TmZ1eUxZUjlJZklfWlE5dGZWY2hVRzlTZlEtaEFJZHdIXzlnR25pa2pKQ2szak5RSjVMazlmQ0YwbEpaVDA4TFJnQzB3MUtQZ3A1ZmktQ1RiR1JtT1VFcVB3QVYwVkdpV1lTRTFpcFRrT1FGZ1VFUEE?oc=5",
-     "source": "ｄメニューニュース",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QWlY0aWh6bDNad19TcWY4el9fM1BCVFdMSU5uV092WU9pT0tmbk9OYUVRTlJnWVRQN09tQ29mVkxtdWJDM1h3NDNBUjJUT195d3J4U1BGZkY5R0pUS19QM0lBRTk5ODNlN0E?oc=5",
+     "source": "Infoseek",
      "at": "2026-11-24T18:00+09:00"
     },
     {
-     "title": "中国関連の計画で軍事情報や装備を扱った陸軍軍曹が有罪を認める、司法省発表",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8tWDFwNEcxdXdzbEY3R2x1TTRlWFRSZ3BsZTVmdjlqM1NYWFR2eVR0dnY5cWx5OWpPbktJTXlvZ25WUks3WDhhNm81ZHNHZGQ3T2dYMUVST2FmclFXMUJNMHZsVWIwN1FvZlJNZDdIZjZVWFY2MXlGZU1LNGRPQUkxY3lITVkycHhTbF9TN0FuOFVwQjFydnZR?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-24T04:58+09:00"
-    },
-    {
-     "title": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DREVlY0g3Y1VqQU92cTA1TGI1YTVGMUQzTHlCVmtwVHdZcjRPbTAzaDZaazVQTHRKaDJTSGJzTnNMc2lFSHF2T3FUWmM1OENROTlqMVg3OHJOTXpoNlJj?oc=5",
-     "source": "東洋経済オンライン",
-     "at": "2026-11-23T11:30+09:00"
+     "title": "ロシア軍機が台湾ADIZに相次ぎ進入 元台湾国安局長が警鐘「大国は利益を再配分している」",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94dXdwVDE3WU90T0RPbERFSUJ0NEgxUEUzc044SEl4cTd3NDZ6WFhiSWdybGpnSlkwVGRlVWpDY3RvRVZLaEpfd2hramlnZWRE?oc=5",
+     "source": "風傳媒日本語版",
+     "at": "2026-11-24T15:43+09:00"
     }
    ]
   },
@@ -185,6 +185,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "スイス、北朝鮮外交拠点の正当性を主張 制裁への反発受け",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92MXE0cG1hRUpjMDZkNHAteVg5ZW9iakhUc2pGZG5Vc2RyU0JMdVludTRBVnJJczJHbVBZWDk0UG1Hai14Rm5pODMyemdoYmFvT2fSAVRBVV95cUxNSzM5QlN4dXFiYk90Z2lISmRZZWE5Q1J3dHQ5SFplTHJBM3lBT29ERF9WQ3BxM18wSWJWbGtuMjdWcnY0X1VKbHlYMGUwM05WbnB0VWg?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-25T12:01+09:00"
+    },
     {
      "title": "金正恩氏娘が使用のスキー用品は「ぜいたく品」 国連制裁違反＝米政府",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjWkdIeU5BZFFCZmhjcjhZR2Q4dnV6R2xqN3dxOEVKWWNjMXNibnNVNkxCLVBUR2Y5NWg5Yk00a3FPd28yNVdyYVFZTmU5bkVxWkdtYS1iUFNkeVZTTUNGWTlHQnpXVDF5Vzg5Nll3OW1oOWNTMFFrWDBCcFlqeFU?oc=5",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wSFVaUGxmSFZsaTRSZ2poMzcwTERsZEE0cXczSk5nemRubXZzOVJxSkNpaDU1REtFc2tYY0FudHdCQWpDT1hlZ1Z0RV9INVdsRjZDOGRn?oc=5",
      "source": "JBpress",
      "at": "2026-11-24T15:00+09:00"
-    },
-    {
-     "title": "北朝鮮・金与正氏、平壌のスイス外交事務所に「撤退を勧告」 制裁に反発",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BS3d6aHpCenJBeW5MSUREQklaQnU5VWZLOE1rRnM1dXNmX1JuMUdBd2hWY0NzQjJMYk53SWNOYk1LcGZlSkdiZ3dEM2E2UVNvMWVxRXI1ckRaaENPSVpkZEgtcy1YWUZseFh6Mw?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-24T13:19+09:00"
     }
    ]
   },
@@ -227,6 +227,12 @@
    "key": "russia",
    "label": "ロシア",
    "items": [
+    {
+     "title": "ウクライナ侵攻によるロシア軍人の死者70万人超と推計 独立系メディアが死亡記録を分析",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PaUoxQ1FKRjhOLW1oVVlEeVU1MGdFdDN5TWc0anNDTHVFOVJxVWo5Q0psLXhPbDd2VHlCY1JxdUJsRjV5VnFDVmJEWEM4eTVCX2JoTGNqVUNmdUt2WE8w?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-25T12:00+09:00"
+    },
     {
      "title": "ウクライナ戦争でロシア兵70万人以上が死亡か",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LTEJsbHplclpkYUd2QjA0TFJkZHRYT0FucGRQR21VUktCeU1wdndpV1plTTRrMm5RNWVoLWpZVzdQSUU0RjF4MTdVWEl2alk?oc=5",
@@ -256,12 +262,6 @@
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0tPLU5tQmN6NXBiUGZaUWFCSzVJVTc3blNEaVNLT0dlY0I0WTJLS25yY05OM3N2TENwUVVOVEhsd0JZd1hQUVZzNS16MjdKQzZRQ1l6cVVzVjhkMkJhWnBXTm9DS2Exc1BLaldaNnU5Rm00NkgwN01qamJKeF9mZUpqanJGby1CbW4yOHh4XzB0aXM?oc=5",
      "source": "Reuters",
      "at": "2026-11-25T09:27+09:00"
-    },
-    {
-     "title": "ロシア軍の戦死者49万人超か ロシア独立系メディアが分析",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YQ0ZkbmJ0QXl5aU5tY0NvVXM3bHRmMlN3MHdFMWZsb1J6amFDdkNFN1cxWmJCRklhajd6M0RDQ0xsTENJWlY2QmRMSDY1ZjRCTktOOUx3aW1BVktDMHo4?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-25T08:45+09:00"
     }
    ]
   },
@@ -310,7 +310,7 @@
  ],
  "nankai": [
   {
-   "title": "南海トラフ臨時情報、防災行動の実施率変わらず 関西大調査",
+   "title": "南海トラフ臨時情報、防災行動の実施率変わらず 関西大教授ら調査",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QXNIQld3dUlyTEUxVTh2N0tTUTFTVWIwdVYzMm1sUUlxSlpVQ2RIcm0xTmw4bmhGUm03MjY1VmJrdkl5NVhXdjFxQjA5MXpkSUhrQm5JZlhHMGN1bW82QXRmVVFPZVVaTFlOeg?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-25T10:30+09:00"
@@ -387,6 +387,12 @@
    "at": "2026-11-25T08:39+09:00"
   },
   {
+   "title": "EUにサイバー攻撃 氏名やメールアドレスが流出",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tVVQ1MWd4MTBQUXVBbzNCNGFLeFVpamRTY2k5bGwwdnFyTnVMcGhqejlvVEV6NkZ1WHVWQnBKVklwQi0zMmFQQ2xrdWJPSU1qQkE?oc=5",
+   "source": "CNET Japan",
+   "at": "2026-11-25T12:10+09:00"
+  },
+  {
    "title": "米CIAへの不正アクセスに関して、どう思いますか？",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OWGR3am45N1FMVWUzWDRRWVg2Ynk0RXVxN096ODgyLWoweUYxSmhBQnZJMWYzVlg4UG5BaFMzQS1HcF9vc0kxcHNWdEo?oc=5",
    "source": "Yahoo!ニュース",
@@ -439,21 +445,9 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JRFZTNkQ4S19DX3FaZ2FGOEIwbGRaUmU3Vy1yaU9qeDFueE9RUU1VTk1yMmM3VHl2YUUtUzJmWnduUUxYRlJxOXJVZHY3WVVlOUNlYkF2enpTa1NCNGtmWDhXMUxmdHYxaEN5MHN3?oc=5",
    "source": "公明新聞電子版プラス",
    "at": "2026-11-25T10:44+09:00"
-  },
-  {
-   "title": "警察庁、通信履歴保全部隊を発足 サイバー被害受けた企業に派遣",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wVzVtLTJhREdUNkxyWXlrMF93UGlRa0lfeEY3eU5ybVJVVmEzX1hqMThmM1lpX05Qd2d3RzN4REk1NUhZT2dCSnVUMmY5Ylo4dGc?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-25T10:33+09:00"
   }
  ],
  "tokyo": [
-  {
-   "title": "東京 大田区池上の集合住宅で火災 炎が上がる",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yTW52OGUxUnd2UFlXUzlRRFFEeHBwMTVWMHFJcUpjVXE2c1JuempPbWFBT0lWdnZVMkVWTjhtbmZMX1FSakwtR1NySlh0RlpkMWVsc0lLWEg5ODUtdTNQN0RUMkFpNFFnSlphc0lmVFk?oc=5",
-   "source": "https://newsdigest.j",
-   "at": "2026-11-24T21:20+09:00"
-  },
   {
    "title": "東京 世田谷区で停電 約2100軒 東京電力",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DaFF5NG50Mjc1bkg3VkNKMWUzUWhjM2FmYTRKWGQyaGRNZmtvWDNUMFhrLVIwWjZ2TDhBVHlGenM3d2NBQ01HQkVabDEwMXJuYnhGMnNaX21PY1NoM2FnaHFMQmRVMXZ0Y3FHZXlDMms?oc=5",
@@ -469,13 +463,33 @@
  ],
  "osaka": [
   {
+   "title": "M-1を“体感”できる『M-1感情爆発展』が大阪でスタート! “地元の先輩”たくろう・きむらバンドに芸人ライターも感情爆発「愛媛の王様が…」",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzbUl2eGE2ZGJHWC1vT3pNNWk5UXY4amk0UTRtZDI4TW9qTzNjLTB4N0lBODZBOVRiQzdGUDd3UlNwbjBwNXZWSw?oc=5",
+   "source": "Fany Magazine",
+   "at": "2026-11-25T11:45+09:00"
+  },
+  {
    "title": "たくろう「まさか本当に会えるとは…」“Googleのジェームズ”とついに対面！！【M-1感情爆発展】大阪で開催スタート！",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tY0RUMFB3Vndzc183d2hsY05Pbl9kOTh3U1k4Tnh2ODcwSC1LVjZoNHRmYkV3RjY1M3Q3eFUybWpBT1RlTTBQS3g4Q2dlUFhfRmdEMkt3TnQ3R0otNGdB?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-24T13:00+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiXzgzV0NQUmFkLVdsWFpzVWZ5eXFuaVlkd3g3WWp5S2xpZldkY0R5RW5GY1NsZTRhSHo1bU01MU9LODktSlJab3FVa3NITGdMTjFlNFZTcw?oc=5",
+   "source": "ABCマガジン",
+   "at": "2026-11-24T13:05+09:00"
   }
  ],
  "world": [
+  {
+   "title": "スイス、北朝鮮外交拠点の正当性を主張 制裁への反発受け",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92MXE0cG1hRUpjMDZkNHAteVg5ZW9iakhUc2pGZG5Vc2RyU0JMdVludTRBVnJJczJHbVBZWDk0UG1Hai14Rm5pODMyemdoYmFvT2fSAVRBVV95cUxNSzM5QlN4dXFiYk90Z2lISmRZZWE5Q1J3dHQ5SFplTHJBM3lBT29ERF9WQ3BxM18wSWJWbGtuMjdWcnY0X1VKbHlYMGUwM05WbnB0VWg?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-25T12:01+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "ウクライナ侵攻によるロシア軍人の死者70万人超と推計 独立系メディアが死亡記録を分析",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PaUoxQ1FKRjhOLW1oVVlEeVU1MGdFdDN5TWc0anNDTHVFOVJxVWo5Q0psLXhPbDd2VHlCY1JxdUJsRjV5VnFDVmJEWEM4eTVCX2JoTGNqVUNmdUt2WE8w?oc=5",
+   "source": "NOVAIST",
+   "at": "2026-11-25T12:00+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "ウクライナ戦争でロシア兵70万人以上が死亡か",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LTEJsbHplclpkYUd2QjA0TFJkZHRYT0FucGRQR21VUktCeU1wdndpV1plTTRrMm5RNWVoLWpZVzdQSUU0RjF4MTdVWEl2alk?oc=5",
@@ -505,6 +519,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "習近平指導部が振るう粛清の刃 中国の巨大軍需企業で若手有望株まで次々と消える異常事態",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMTDJ4MGh1eGE4S3E3b2RJRzItODBpeDVxY2U3R0ROekh5U2NGYmo1ZHVqNkNiVkJoMmdnNXhmU0o5ZFVkVzdQYzlQT2ptY204WC1fYlRCLXl4UVJpZXMwcm1Tc3BybkVV0gFuQVVfeXFMTkdvTVJVRnhJN2JUc1c2dTV5RXFUUUxFSjI1cDgzV2RmellxVTMwT2RoSVcwNldWU0syREZkbnhVWTNrczY0b3RmZVZNYlZlUGRfU05JNzNsZm5walpESmhNVTQ4eHJtWV9qZG9QOGc?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-25T10:00+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "ロシア海軍の最新ステルス艦が「大爆発」 真横から「刺客」が突入し撃沈する瞬間を捉えた映像が公開（1/2 ページ）",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EUW5FU3VxNnJnQXNhN1ZLTTR2dTZvZEFSZTFGSFNFald5b1dMWFBhVk1EcUN1THQ0Q1Q3cVBDNTNEaG9Cbnp6T0VB?oc=5",
    "source": "乗りものニュース",
@@ -531,20 +552,6 @@
    "source": "風傳媒日本語版",
    "at": "2026-11-25T09:13+09:00",
    "topic": "中国・台湾"
-  },
-  {
-   "title": "ロシア軍の戦死者49万人超か ロシア独立系メディアが分析",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YQ0ZkbmJ0QXl5aU5tY0NvVXM3bHRmMlN3MHdFMWZsb1J6amFDdkNFN1cxWmJCRklhajd6M0RDQ0xsTENJWlY2QmRMSDY1ZjRCTktOOUx3aW1BVktDMHo4?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-25T08:45+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "米国、イラン攻撃再開を控え指導部排除を検討 : 国際 : 財経日報",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NeDFRLXhBUEZ4RVZETGMwdG96Z2dxQ1BTV0dNOHhrelN1RlZJTFBTQnpJSmxJVW1hWmFjVWtkeTdhQVpGZ1hXb0h4ZDdDSWd5TlZ5ZmpfUy1weFN4N3ZIVWhQOA?oc=5",
-   "source": "재경일보",
-   "at": "2026-11-25T08:40+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "トランプ氏と金正恩総書記の会談見送り「米側の受け入れられない条件を北朝鮮が提示」…米紙報道",
@@ -608,13 +615,6 @@
    "source": "Reuters",
    "at": "2026-11-24T23:27+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "ポーランド上空でロシアのミサイルへの発砲を許可されたスウェーデンのNATO戦闘機、発砲せず",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXh5SUlQcG9DNWN5dl80cnYxWVpTQS1tSVEtaFlhVTFaVG82WmJQSWV1b1lYRmxyTlJIbFMtVTJxQll4T3lsTnVxXzlXWEU1M1VWY0FJLTJBbEJycVFRLVNrVEQtaFVscnh5UVZtbkI4RzlmZDV4eG5xaHI0Q2t3Ull4dlB6Y0djT3MzYms3T19zeTdDYXhHWXV3?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-24T23:09+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -633,22 +633,22 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」2件",
-    "ロシア：「攻撃」「爆撃」3件",
+    "イラン・アメリカ：「攻撃」1件",
+    "ロシア：「攻撃」「爆撃」4件",
     "欧州・NATO：「攻撃」「ミサイル」3件"
    ],
    "items": [
     {
-     "title": "米国、イラン攻撃再開を控え指導部排除を検討 : 国際 : 財経日報",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NeDFRLXhBUEZ4RVZETGMwdG96Z2dxQ1BTV0dNOHhrelN1RlZJTFBTQnpJSmxJVW1hWmFjVWtkeTdhQVpGZ1hXb0h4ZDdDSWd5TlZ5ZmpfUy1weFN4N3ZIVWhQOA?oc=5",
-     "source": "재경일보",
-     "at": "2026-11-25T08:40+09:00"
+     "title": "イラン革命防衛隊 バーレーンの米軍施設に攻撃と主張",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIcGxDTW40bzFoTFY5WVczWTN6dXQzdnF0aEN1b2toZ3ZTZENmTm5PVWFTeDUxb19tNWNkcHRqSGZHUDhCSjBuN1BPNzJ4cnBRRWZ2TkZ5bEp6QnBwcXM3RDdzaw?oc=5",
+     "source": "テレ東BIZ",
+     "at": "2026-11-24T17:03+09:00"
     },
     {
-     "title": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nRGlYdnNPaDBTUnoyZHhscXNGQlBJc0dub3cxbVpjU0gtUnY0Vl92TmRBYktlQW41VXlLOHQ1emxYUWJ5Vjh0RDJVSDFoMFFld0RZ?oc=5",
-     "source": "CNN",
-     "at": "2026-11-25T10:46+09:00"
+     "title": "ウクライナ侵攻によるロシア軍人の死者70万人超と推計 独立系メディアが死亡記録を分析",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PaUoxQ1FKRjhOLW1oVVlEeVU1MGdFdDN5TWc0anNDTHVFOVJxVWo5Q0psLXhPbDd2VHlCY1JxdUJsRjV5VnFDVmJEWEM4eTVCX2JoTGNqVUNmdUt2WE8w?oc=5",
+     "source": "NOVAIST",
+     "at": "2026-11-25T12:00+09:00"
     },
     {
      "title": "ウクライナを支援する企業に対し、ロシアによる破壊工作攻撃のリスクを英国が警告",
