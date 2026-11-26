@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:15+09:00",
+ "updated": "2026-11-26T19:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -132,10 +132,10 @@
      "at": "2026-11-26T09:01+09:00"
     },
     {
-     "title": "古舘伊知郎トーキングブルース「イランとアメリカ、ロシアとウクライナの戦争は同じ戦争」連載５ (日刊スポーツ)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGVFUVJYMjhOdFVnbnU2LUJYOEswMFlBdUlBbDd3bGJta0ZHSjRtNVBRVnZsLVpBa1VYcUhLX0pyQ1hWSlpQVFRhM3hTeWc1MjlaVFNNTHRVemZtZ1RYOFR0cjRod0Q3cDNCWkpIdFZqMEFWRzVIcFYzb1Q5cGNCVV9ibXkxUHZXZTh3NzdB?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-26T06:47+09:00"
+     "title": "古舘伊知郎トーキングブルース「イランとアメリカ、ロシアとウクライナの戦争は同じ戦争」連載５",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sLXhWbmYtd3RxZklTVDl6YjdMNThEdnBzb0RiVGViRmtBVkwxeFB4UWpTOUZwZE96SGZoTVZ6NFdZeWppQ2FCc05RWWdRTjlvdW56UmVOU3AzaTNiM3J4djdOTlVTM1J1TkpWY19ldi1Bb093Y2tvLdIBeEFVX3lxTE9sLXhWbmYtd3RxZklTVDl6YjdMNThEdnBzb0RiVGViRmtBVkwxeFB4UWpTOUZwZE96SGZoTVZ6NFdZeWppQ2FCc05RWWdRTjlvdW56UmVOU3AzaTNiM3J4djdOTlVTM1J1TkpWY19ldi1Bb093Y2tvLQ?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-26T05:00+09:00"
     }
    ]
   },
@@ -346,14 +346,7 @@
    "at": "2026-11-25T23:33+09:00"
   }
  ],
- "outage": [
-  {
-   "title": "大阪府の停電情報",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iRTZJREIxVWNNU3V0N3ZKcTQ1RWZ4OUVkeHBYdFkySmEwc0UzOHhWSjZ5SXNCNzd3ejBJWGpOTVVJM3duYngwQ011Vi14R0ZZaGFLTHBFSFBFLUVCbkN4QlhweTE?oc=5",
-   "source": "ウェザーニュース",
-   "at": "2026-11-25T16:10+09:00"
-  }
- ],
+ "outage": [],
  "japan": [
   {
    "title": "キーウに弾道ミサイル攻撃、7人負傷＝市長",
@@ -394,6 +387,18 @@
    "at": "2026-11-26T17:03+09:00"
   },
   {
+   "title": "ピーチ、「KARTE」への不正アクセスで最大約944万件の情報が漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OVDlnVy1LRVBES2VubElsNkdyOTVCRlFhTFdiRkVBQ19qNG94TjFYc2xYTWRrUE5mOW5DTmMzbS1tX0h1SnktNnpKMWVYd0pxa1R1SkRPOA?oc=5",
+   "source": "TRAICY（トライシー）",
+   "at": "2026-11-26T19:20+09:00"
+  },
+  {
+   "title": "サイバー攻撃は「対岸の火事ではない」 中小企業も当事者意識を 秋田市で対策学ぶセミナー（秋田テレビ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uWTI0X0V3bF9PNzd3dWYtY3lQdFRNZ1E1YmxnWDJpZEVHV3VJdzFyOTl4d3FkZzR2bVBWaGFXdFhWTGJWYUkxSDl2SUQ3azNZaG1SZ1hnRl9LNnhkUVlXSnRuVmJwNWpKYTdUZ216WTVJQjNZc2lJNGdhRFlyems?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-26T19:20+09:00"
+  },
+  {
    "title": "町民メアド8件流出を確認 浦幌町 アララ不正アクセスで",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lQlU3RHBHcUEzMnRVOWlIUXdxeHJyYVBNY05sdUl1RC0wMGRZOEpLcGctUVYtX2premwxUEN2NFp1OGhzbGxma2FRbFVaNWhIbWFNTktsMmJ1QQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -431,9 +436,9 @@
   },
   {
    "title": "「大企業だけの問題ではない」下請けからの攻撃で出荷・生産停止のリスクも…広島県が初のサイバー対策セミナー開催",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tNG1QdHFFaEpJRl96VkRBdHdyNFhxampTYzB3eld2Q25wOWhnZlBOV01LeWJIR2JTWktLQkVyVFJCcFlJeEg2RTRzX0ZpcmlJdG1mLUpySU45SWd2TEdOck54T2JFVkRsTWJXNEZrNkNBTGxLQ0NCSDAtZTNsX0k?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-26T18:56+09:00"
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Q2E5U3hnVlg4VVRQTE5NWVcwUXNFeDVPVDJmbUNsaUo2dk5rc0RoVEtGN3lJa185VXNDdGZGSnhYTWdqZ3hHbFFOWjZVdnpwcEF2eFBPLW1aWThXOS1sc3U1ZlFZbVk?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-26T18:55+09:00"
   },
   {
    "title": "四国電力ウェブ委託会社に不正アクセス さらに約２５万件流出",
@@ -458,18 +463,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZm9IbGpXWW5zZ2xINmVoVUZISzdGd3Q3ZDV3dzZrOG8yellscmFlenZpVTBCNWhfU1VnblNqUlJ6RDR0QmdCMnpRU1FGTXVpanpvUmxtVkIzZlRfT0dV?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-26T18:07+09:00"
-  },
-  {
-   "title": "自治体や企業を狙う不正アクセス…サイバー攻撃にどう立ち向かう？ 中小企業が対策を学ぶセミナー まずは危機意識から 秋田市（2026年11月26日掲載）｜ABS NEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHJzSU9PR2wxeGY2TThzYzVEZUxRVVFBZ1lMMG9yb0ZVVG5sS1lKcjZjSlNVQ1BIeHhQV0dMc00zdUN5Yl9UR0laUGZQeXN2a1pUSWNpa0Z1d0ZwQ3V2d1M2aVlOZEpBaUdkMWRjaEYtaldjTFdqN0NJNEY2UGNGNkNfamsxVlE?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-26T18:06+09:00"
-  },
-  {
-   "title": "相次ぐサイバー攻撃に思う　【 私の雑記帳 】",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wRV96aEUtYl8zb0g3VTFSdGFsSF9SWjZIMEdFV0tpZE5BVWc0LTVudXRjTVU0N2lZUVB5UFVIM0o2YUk3c0t0czA3RUppMk5wOXRnNkZHa0l2RUlG0gFiQVVfeXFMTWRtVUpTYmVmTFVVZkcyNVRsUXBTcEZXT1NTS3RFVk1qemJHdDJNXzI1dnZWUURVeXl1VXc3aUlpMHRKenB1cEtfNy1FdlNTdEptUUpZNFRLSEhlNjB3blhPUXc?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-26T18:00+09:00"
   }
  ],
  "tokyo": [],
