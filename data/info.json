@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:45+09:00",
+ "updated": "2026-11-26T10:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -115,7 +115,7 @@
     },
     {
      "title": "イラン、米軍のAI利用を国連で非難―パランティアとアンソロピックを名指し",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40aVZuTVFuaUluTVhrQnlBSWd3UzdaV1VIUEpIT3k5Y3JqaUZlVV9ZNkN4alAxcFhZQlJ3SzIzZ0gwd0ZlUDdYZVlTaVR0UGVFZURIc1JwcU43aXk1T3plcGRnbXBCS09B0gFoQVVfeXFMTjRpVm5NUW5pSW5NWGtCeUFJZ3dTN1pXVUhQSkhPeTljcmppRmVVX1k2Q3hqUDFwWFlCUndLMjNnSDB3RmVQN1hlWVNpVHRQZUVlREhzUnBxTjdpeTVPemVwZGdtcEJLT0E?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vU1FTaC0xZmtrR2NmWURZLTFIdU9wRkowbVNNZEMtLV9VbVF0QWsyR18xUlNhN0hRbW9HdUVuWk5TSjhQZDkyd2JHTHJUbUdFaEJ4Y241M29YUzlUbnhUM1ctc9IBaEFVX3lxTE40aVZuTVFuaUluTVhrQnlBSWd3UzdaV1VIUEpIT3k5Y3JqaUZlVV9ZNkN4alAxcFhZQlJ3SzIzZ0gwd0ZlUDdYZVlTaVR0UGVFZURIc1JwcU43aXk1T3plcGRnbXBCS09B?oc=5",
      "source": "財経新聞",
      "at": "2026-11-25T23:13+09:00"
     },
@@ -144,12 +144,6 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45eGtHNTlzb3dRaEoxWC02cWlfaVNpbzNLMk9BaGl0VHcxUnMtRmZiLUxOVnQzdzdSM2swRkd5WGxZOG1OLXpNc0JjLXNUbDVEZ25CeWp1UkFGRXh4M3hDaHFCLTl0NHZTOEdhWmdVdkY?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-26T07:00+09:00"
-    },
-    {
      "title": "これでは中国のやりたい放題ではないか…メディアが報じない、習近平の露骨な「日本潰し」の全貌【米中ロ首脳会談】",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYYUtsLW5BN1JHVlU0dG5KNFJjcGdRVktnZktPWHpaMjhPQU1TUFZ1LXJQdldibFBZNWdIUFNDdm9ZOFdQNmo5R1k4YzFpUXBheUdHRGQxV2ZFRUhqWXpV?oc=5",
      "source": "ライブドアニュース",
@@ -168,16 +162,22 @@
      "at": "2026-11-26T05:00+09:00"
     },
     {
-     "title": "中国軍の偵察・攻撃型無人機と情報収集機に空自戦闘機が緊急発進 日本領空に相次ぎ接近（FNNプライムオンライン）",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FQ1pTdkhLR3M3N2JPcXh4ZU5RQlZtYVE5UV9YTld0QXRQUUVPWEZqLU4wa09OczlZOEZRMzNDNThPMmFCTnNDajU4dU91a0hZdzlmc19xdHRTc0RycU84NzJzTnhRekw2M1JaLTdITmlyQQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-25T22:40+09:00"
+     "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OU5OSnNQdGQ3aGN1RmtjZFUybWVQSTBzeFRuSVpJZkppdFZtTktGLWNWb2xQWTQwN3F4LW1SSHdPU0FjcjcwejVpR2RhcGo0MzlMcW5BME1WZTg?oc=5",
+     "source": "東洋経済オンライン",
+     "at": "2026-11-26T05:00+09:00"
     },
     {
      "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02S3BWbV9ubnMtd1puWF9CM0FRNlBLaGdYMzQ3MlJMWlRVSGN5dy1RQnBLS2g2M01aT1RWVkhuUXdnUmJIOTdhWkZDNWF2c2lSZVJVSWU0d1NDc1RLVWRZ?oc=5",
      "source": "ライブドアニュース",
      "at": "2026-11-25T19:20+09:00"
+    },
+    {
+     "title": "【図解】3度の米中首脳会談、台湾めぐる中国の対米要求に変化 2027年の「4つの波乱要因」 | 楊騰凱（ヨウ・トウガイ） | ニュース",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13RlZHQllDNExvNW45d0xHSGpZN0plUzRKLTdhWnY0am9vS0UtY1pVM0t2eHFSbnBBSjRmR19DMlZBbENpNlNkeHV4TU5BeFpO?oc=5",
+     "source": "風傳媒日本語版",
+     "at": "2026-11-25T09:13+09:00"
     }
    ]
   },
@@ -186,40 +186,40 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "金正恩氏、核開発を加速 敵抑止、米国との交渉材料にせず",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiaGVmRnl4WFBObXYtRVJnYmZxTk55ck5GUDZkZnJqTXdCZ1d3Q0dkeHhCazd2OUJBWkRNNW8xdlJMNV9UUi1nQ1liVUJ2SlRI?oc=5",
-     "source": "日本海新聞",
-     "at": "2026-11-26T09:39+09:00"
+     "title": "金正恩氏「米国に核保有の承認は求めない」 核施設の視察で強調",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04NFRMTEdSR0NXNmNHZFkxVjVLNkZjRlhzaW11ekVYMUxCT3B2eW12aXlsc2JZaXVHaDNhV1Vpc2hsYnJjMFZJeWdFZDZvemdLbjFwTUh4dWc0RjhIbmpydTVMbmtwcEJY?oc=5",
+     "source": "毎日新聞",
+     "at": "2026-11-26T09:54+09:00"
     },
     {
-     "title": "金正恩氏「核物質の生産能力を拡大」 報復用の戦術核開発指示",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wYVNvbFVNbVZPZzI5RU9fM1ZKTnEzTktCd0ozWjdIN0pWdW5oTlZQTjdfcllyNmhSR2ptSHItMkZveXNRYmlQcC16Z1F3TEF5QVRRNEZJclJMbXpuRW1MWkthWHYydVFGelpydQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-26T08:55+09:00"
+     "title": "金正恩委員長、核施設を現地視察…「戦術核の多領域活用に注目すべき」",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94TE5iakRUZnExOHdwcl90cHQtYzRqeEh0aGVVQWZ2VkhxdFJya3JnNURHcHNPOFR2M0JUNDZiRnBkY2ZGWVNTWjdZSXdCTU5mMngxblBBckxDLWl5eUN2X0stbVdzbGPSAWxBVV95cUxQRnNlVGRtOWV3Nm1QZVZEZTF0YktkXzZMd2dsRVlpV3BVd2lmWTBleVR1Nl9GcjU4NXFLS0tleWZPc2hUU1E5NkdNRFZndjdiendMalFpX2FtNXJjQjdzZURHeFJmNVlRaVZpcDE?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-26T09:54+09:00"
+    },
+    {
+     "title": "金正恩氏、核開発を加速",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nbktmWmZ0TmR3ZFBJaDFrNEpNTlRjdmZfcGxGUHowYUdRTXFxZmd1MnJHTm93OW5XMElpX1ZicVpoa19BSVVIWlI1ZlNwX1JxdWQ0X0RGTmNMajR6T2c?oc=5",
+     "source": "下野新聞社",
+     "at": "2026-11-26T09:52+09:00"
+    },
+    {
+     "title": "画像・写真：戦術核の活用領域を拡大 北朝鮮：時事ドットコム",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12R0xEWm10eGVvRW1Ob2RoZ3Q3aHBkdjlHbFdLbTdaaUNsNzJXNXp2S1FTSlJXaGhhUTF1YXFPVWJ4V1doOTB5QXhCOVgxYk04WWxrSkZYU0J1Q2I3bnA1SGIwZnI?oc=5",
+     "source": "時事ドットコム",
+     "at": "2026-11-26T09:47+09:00"
+    },
+    {
+     "title": "金正恩氏、核開発を加速 敵抑止、米国との交渉材料にせず",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MaFZPTURwS2FiVDhYWW9QUXFaS2hZZ0EzVlZhc3Etd04yQlVyRnNVWGNGWHhEdzRtbmg0R1RHT1lRRF9NN284dnYzQnBCV2tscjJjd0pB?oc=5",
+     "source": "西日本新聞me",
+     "at": "2026-11-26T09:39+09:00"
     },
     {
      "title": "金正恩氏が核施設視察 「戦術核の活用」強調",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMUVh2M29yY2lsUEM0cmJRenB1YVBZd3FyRlAzaXR2ZVFKWHBaV3lJQmphaTZON2xwUDJSQ2VOaElvV0hhRmVYamNTWU51c1ZGSVBxX2JGVE5wQQ?oc=5",
      "source": "聯合ニュース",
      "at": "2026-11-26T08:52+09:00"
-    },
-    {
-     "title": "金正恩氏、戦術核兵器の配備拡大訴え 核保有国の地位「不可侵」",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXJYUG0tT08tUWtFLXlDM2hjdlJWZWxpVjV6OThfYXNqRTQxVjNOTGYzdEV3cmt4bWc5TE14ZWZ2MGZfa1RrMnhoUzAxMDlhNEFtdlc3MEY3SmZiQ1Q1WFg4b1NIV1d3ZktZLXpEMDZaZGVWZmc5bVc2S0lSNUhZWkFoclRrWkE?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-26T07:45+09:00"
-    },
-    {
-     "title": "戦術核の活用領域拡大 北朝鮮の金正恩氏、韓国を念頭に",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1QTM3SnpiUjhRbVN2Mk1od0dKZTlyUDVadnZ0dVBCengzSXZ2UUdmTHdIQkZuRGNMTEh3VllwN3NQSFExX0laM2ptYUpxQ1cyYmw4VU9QNjBoZXRFNm9CSE43OA?oc=5",
-     "source": "時事ドットコム",
-     "at": "2026-11-26T07:09+09:00"
-    },
-    {
-     "title": "戦術核の活用領域拡大＝北朝鮮の金正恩氏、韓国を念頭に",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0N2luS3NFWVhtUzQ0ZW00TzdIbGd4c1p1ME1NMVhiYlZjWW1heTg2S0NZcC1aQlllUEZuZzVJOVI5M2JZSUVPbzFMMWpSdl9RS0d3Uw?oc=5",
-     "source": "時事通信ニュース",
-     "at": "2026-11-26T07:09+09:00"
     }
    ]
   },
@@ -240,12 +240,6 @@
      "at": "2026-11-26T08:05+09:00"
     },
     {
-     "title": "ウクライナ侵攻死者４９万人超か＝流出データ分析、当局否定―ロシア",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUtRdndwSlIyZm9TMFpZSDlvQUxsWUtMblRMbTZtNnFTYy1MN1I4dHM2c1hhQmVQSnl5el93eHBqa1RBOVktQjVVSWVFQ0R0d1ZmcmN0amk0V0dnTXp3bzhwVV85RU1HQ1hMS0g1cHVRZHdybWpNbWQ3QWJQX3ZZN1N1OW1ndlRjU2ZaQkRaZ1FXSjY3cS1rZDN4TUNjZ19lQjVieHhMbVRSQkFsdmU1elZXTHE1U2c3dmpqZDZyRGRzQWE3b2hCZGtoYUdqZ9IBfkFVX3lxTE1fMnlNWVN3YUJvMTA1VER6VmlWaUZmVTN2aTFxcU8xSk5iWlMzOEFYTC1WRXNIRDMwdWNtOGZsdHROaDNlNzVrMFE4SURHdi1OVFF5Vzc5Z3ktZmZjTm1MR3l5bUwwM1ZlMG9TZzRGbks3RDc4dlNuY3NIRDl1dw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-26T08:04+09:00"
-    },
-    {
      "title": "ウクライナ軍、ロシア主要空軍基地を攻撃　軍用機5機損傷と表明",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EMkFDaGE0TG9MLUEtTDRKUjZmcXJRZFVtWlhvdUFrSUhJMy1YUzlQa0I0SURYdW8tQWxTN2NwSFJaU2VydXlnVWxwalRrU3E2bXFRWmIyaXdEczdPazdCbFlsam5Qb2R1SU5QVV9GLTd5SXZZOGp4dUtwQ3hRUdIBgwFBVV95cUxPNi1ZcTF4NHdoZjlXYVJYMU9GWGJ3UjhBa3NET3lvaGVqRHZHXzBwV2xtMkNabFJKckRJNE9UcDF5TVB4d25Ta2QtZVFZT0htQzhwR0tjTEYwWF9QU0MxUm0wQVd3YnR2WDNMbWY0TmdCa0JhSmNQbW9kTUtGUS1xcHI0SQ?oc=5",
      "source": "ｄメニューニュース",
@@ -262,6 +256,12 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CNXIxY2QtRzFQc1hxSUdrZG5RdmtOdzdQVnhjTkNJdlJSM2VYUEVkeDVDMzYxS0o2dDZfQWVDUlQwRWZ5RGRFcnVQd2RzSXFlWUdaUkpQckZyWXUzaE5mRzEwdw?oc=5",
      "source": "時事ドットコム",
      "at": "2026-11-26T06:32+09:00"
+    },
+    {
+     "title": "ウクライナ侵攻によりロシアは50万人近くの死者 サイバー攻撃から流出したロシア連邦統計局の資料で発覚 BBCが報道",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtM1FEeUpxakNLcG5FM0QxdVZTeDVjeXdDNWdXa0VaRElQVi1OVWQ1aThpajFIeW5PVFRwaGFXS2R6SzNWT0t4QnM0TWZpdFRiSlhOZHdNdFpPRlZaVXZ6YTE4bUkxUXJGS19FcUlrYzVZWkkwLUZMVGVlTHNyNlE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-26T06:25+09:00"
     }
    ]
   },
@@ -316,6 +316,12 @@
    "at": "2026-11-25T23:14+09:00"
   },
   {
+   "title": "画像 | 阪神･淡路大震災も熊本地震も\"前兆\"だった…京大名誉教授が割り出した南海トラフ巨大地震の｢発生時期｣",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlRFhZUXpmSTlTUzY4cHNtdkJfVlh1eE9UT3JuREFGNVYwVHpNdWJENmpTaVpHMnlhNjFEVjR3TVpjWjhxVTFUaG4zQW5oV0ZEWEM2UQ?oc=5",
+   "source": "PRESIDENT Online（プレジ",
+   "at": "2026-11-25T20:00+09:00"
+  },
+  {
    "title": "南海トラフ臨時情報、防災行動の実施率変わらず 関西大教授ら調査",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QXNIQld3dUlyTEUxVTh2N0tTUTFTVWIwdVYzMm1sUUlxSlpVQ2RIcm0xTmw4bmhGUm03MjY1VmJrdkl5NVhXdjFxQjA5MXpkSUhrQm5JZlhHMGN1bW82QXRmVVFPZVVaTFlOeg?oc=5",
    "source": "日本経済新聞",
@@ -338,12 +344,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54WDVlUVpoVUNkVERmazZkYk9JbjhKaUxtRVp4RzBLVUt2Z2diS2ZaY2NMS2l5UjZZRTdsX1c4YWtOOVQ3b05PcXdRR1VWenltVzFjamJPSEd5eG5ncjNZ?oc=5",
    "source": "TBS NEWS DIG",
    "at": "2026-11-25T06:30+09:00"
-  },
-  {
-   "title": "南海トラフ想定し６府県警が訓練 津波で多数の漂流者救出",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90VzdtdF9DdnNZRmQ0S2cyVkZxcDhTcTFvMUFpQ1RCSnotdC0xS3J6NnhHd3dSTjYxcGNQNG9sMzRIR2N4Qm9MN0ZMMVZnNnRaR1JlSHVxbkp2V28?oc=5",
-   "source": "山陽新聞",
-   "at": "2026-11-25T04:04+09:00"
   }
  ],
  "outage": [],
@@ -368,23 +368,53 @@
   },
   {
    "title": "令和8年度弾道ミサイルを想定した住民避難訓練の実施について",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFVhZThJYS1TQ0c3THVzU2d5OUU3dXBEQ0o1bzZxSHZibFFTTWFXTU1Sdk5NdHZZYkhLRFF1R2RfM19nenRhWTgxSXFTWXRxbkpSOVVhVVJqaWpzTWRoOEl0T29Ycl9acWFNeDY2VlZ2RWlaMTgwM1RGa2xDaGZ0Z0ZCbW9oSkp2ZWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM21xRkxHLUF4a242TTlZbVpXc1NJNS1nczFXT2FMZnBaM081NmFvLWRyelBkZExSWDV1NGt2WVUtS0NkVmJTcGRlcEV0ck5RRlRpVklBSFpVdlNkNDFwZnhKay0xQ1BpVmJUc1lVWjdEQ2FENkhJT0JVS2NJM2RDdy10OThJWm9Y?oc=5",
    "source": "福島県ホームページ",
-   "at": "2026-11-25T15:28+09:00"
+   "at": "2026-11-25T15:15+09:00"
   }
  ],
  "cyber": [
   {
-   "title": "ペイペイ、クレジットカード決済で障害 アプリ機能で サイバー攻撃は確認されず",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YVUxBbFFqcHpaTTV3WnVSaUE5V1BOaVkwNFFLN2RESjM4MWJzTWlyLTJSQmh2U1F2dVF6aGJ6d0NlYVJ0VXgzRkNkZkhtYnBxekVrV0xKWE9TcU5tYklQRlp0Q04xTmZlMG9jczd0bjF0Nk9Vcmc?oc=5",
-   "source": "産経ニュース",
-   "at": "2026-11-26T06:56+09:00"
+   "title": "ペイペイ障害、９時間で復旧",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMWVVYRG9rLS1QZU1NMENsSkFsSlNsSkRFVXJ1a0xyVjh6LWFnSDBEWmQ1NWdCdjgwNmdBSHdEeDNwMlJjU01Fb2Zkc0VMMjROWThTQWxDaWI?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-26T09:53+09:00"
   },
   {
-   "title": "米財務省CIO、FinCENシステム障害続く中でAIエージェントに「文明クローン」ゲームの開発を続行させる",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wS2JmVlowWVB0RXlQcEJsTHllcnFTSHdqZVBGSXlDbkJYUEkxbnQyTXRtM0kwb3dRdmhPVGJHcF92YldoZUF1Mm93V2kyMXdkcURCRDkwNHQ4dHFrV09UMTFma2dqemlGbDY3SldEdGhrZnF0?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-26T06:35+09:00"
+   "title": "JCBがKARTE不正アクセスでMyJCB関連の管理コード最大約15万件の漏えいを発表",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4aklQTWNQQU5rZU1sZExIUXRsYXJMb3I2UkdvY2RacXU2YU1JRkJlSVJsbXpzRGNHSmt0dldKMzVQTGpMVl92SVVybFJ5a0F3X0E?oc=5",
+   "source": "サイバーセキュリティ.com",
+   "at": "2026-11-26T09:55+09:00"
+  },
+  {
+   "title": "精密機器大手THK、問い合わせ利用者の個人情報・チャット会話内容漏えいのおそれ 委託先「ChatPlus」への不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTFhRFZGTW1JeG5xOXFER3VxY0p3Q2Z3elp1dDhrYTFIUkdlbFBFaF82UEMyVVJ3MmhZZ0tHSGpQQk81cDBKdHJLWFZORjJPWnV2SkpOMmRFVkZkcm9FUUJWZ0t5VXVyRktCSzF0Q3dZYzBCTHZSSkI4bzJsLXh6UEJEbWRsNndtU3hKVzNURlpJOFhKSS1lUU9n?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-26T09:51+09:00"
+  },
+  {
+   "title": "三菱ケミカル・クリンスイがGoQSystem不正アクセスで1万466名の情報漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TdFZzT0U3TlQyNTIycWtmYWE1Zm1XemthV3NpX2dzTWx1UXFZMmJNRWZyemo1ZE1OTTJqcHA3U1NQOTF3NGtXWVItakxIOXZrQ2c?oc=5",
+   "source": "サイバーセキュリティ.com",
+   "at": "2026-11-26T09:50+09:00"
+  },
+  {
+   "title": "外部サービスにおける不正アクセスによる個人情報漏えいに関するお詫びとお知らせ",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GRlNOQnFFUWJRZUduYlp4U2xoTk9DaEFqeGJGTmg5dzU5azl2N2o5YXRBSnB0NEM0RjdJSFd1UGF2QXpjWWg2YVB2NDJYdThYQWttTHBHajI3MWVt?oc=5",
+   "source": "ニューバランス",
+   "at": "2026-11-26T09:49+09:00"
+  },
+  {
+   "title": "「1Password」のGitHubアカウントに不正アクセス、顧客管理データの一部漏えい。パスワードの「保管庫」は影響なし",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZmlEWDJEQ2J5VkZpRTJENllQWGJPZUdsMlExUHh1ZWZIeEdiR2UtNUxnZnZZYndFcy1vVktxd2ltcWlFMjlJVVdxbnlsQUNZRjBNb0toV1N2dXFUbTNyOWVSVnhBcGotbGdz?oc=5",
+   "source": "INTERNET Watch",
+   "at": "2026-11-26T09:45+09:00"
+  },
+  {
+   "title": "マイナビ、マイナビウエディングなど5サービスで最大28万1,450件の個人情報漏えいのおそれ プレイド「KARTE」への不正アクセスで|セキュリティニュースのセキュリティ対策Lab",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdE9VaTJvR1FHMjVVTWhhbE5iQy1MbHdadks5VXA0SEswbENxUjFIQ29YNENPU0d1akFVa0Y4ckRlYjJHcjFFaWhrV2VtMG5XWGNsaGxlNXpjbDN3dlV2MFRCM2pWMW1MSEdYQmptNGJtT0J5SE8zejlwVENCMHBxTGo4akVSTFNoSjVvSVpsbnA?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-26T09:45+09:00"
   },
   {
    "title": "小売業にサイバー攻撃の脅威、保険加入低調 ブラックフライデー控え",
@@ -395,6 +425,12 @@
   {
    "title": "ヤマトの問い合わせチャットに不正アクセス 氏名・住所・電話番号漏えいの可能性",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvcGVHbk1Ka1ZQSEUwdE1yR3F2b2IxSmNWWEN3ZGhaZHdndmJnZ1htcG9BOHNkaGY5Ym90NUVOdkQ0VGdnZVpsWQ?oc=5",
+   "source": "株式会社アクト",
+   "at": "2026-11-26T09:28+09:00"
+  },
+  {
+   "title": "ミスターマックス、会員情報最大180万件流出の可能性 KARTE不正アクセスで",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tLVAxQ1I4Z3FUcjhNVFg5Nk5ucUEySjJDeVNOY3A3UXB5T2hGbVpPUjBlZFZOOXhUREMyT3k0UzdNM1VSVGhSNg?oc=5",
    "source": "株式会社アクト",
    "at": "2026-11-26T09:28+09:00"
   },
@@ -411,16 +447,10 @@
    "at": "2026-11-26T09:26+09:00"
   },
   {
-   "title": "イオンシネマのポイント３８２万円相当詐取か、不正アクセス容疑などで元アルバイト逮捕…「後から返済すればいいと」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96eDczNmZObjZ4VjhNTHNkOGgwNmFuSy1WZUJHWmljLXo4TjU5a0RxZmNQOEgzb1VlMWlKZmhQUFRKUjA0UVExNHhCZU05ZVlkV1ZXaE1aVGRsMDlZVTlJM1lIN1ZNS1Q4X29DczFR?oc=5",
-   "source": "au Webポータル",
+   "title": "イオンシネマポイント３８２万円相当詐取か、不正アクセス容疑などで元アルバイト逮捕…「後から返済すればいいと」",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHRnkxdVRJM1R5X1VxUEx6R09fUkZNdTBZZklVb3piV1JYWDIxTXZqSmd6NlBNTzV0UFZZQXRQeTBiTTNUdlpfbDlrN3p1Q0EydHhzbHVOMG1VeDFnV2h4cnc3VGprdw?oc=5",
+   "source": "読売新聞",
    "at": "2026-11-26T09:22+09:00"
-  },
-  {
-   "title": "WHI Holdings子会社のサイダスで情報漏えい 「COMPANY Talent Management 2.0」導入業務用クラウドストレージに不正アクセス|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1VmQUg3eWVYOU43VzFlYnlaUFlFV1RpQWN1cFd1eFNBY1k0MmRtRDBWQW9RVmNpV2JtdHFKMVVZbjRPWnJ4YzhZT3Rnc1U3VGVrcGNLTVdxcGpnZWRPVGRnOWNrQjZHWjVTM1d2NEV6ZmpkRjNGX3k2VVZvelRVRTI3cDJ3M1FjaXRhMVFEbDhTMUlFY3l0SHpvZTNwb1RldF9rWWZEOGlRdw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-26T09:21+09:00"
   },
   {
    "title": "アルバニア政府 イランのサイバー攻撃に警鐘",
@@ -429,40 +459,10 @@
    "at": "2026-11-26T09:05+09:00"
   },
   {
-   "title": "『オンプレとクラウド、バラバラなセキュリティ対策が招くランサムウェア被害リスク』というテーマのウェビナーを開催",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aaHIyN05yOF85YkVjdHAyelVrSElDaVVTeS1jY3h3bnpDbFdqc1RXaGtLMFFfcDduVUNKbm94WlJ1NnRZc1RQcmJUSmk1b2RlTnh5OUFzbEtHRy1ldEk3dDhaWjZXcTN4TlE?oc=5",
-   "source": "PR TIMES",
-   "at": "2026-11-26T09:00+09:00"
-  },
-  {
    "title": "ディーエイチシー、顧客情報1900万件が流出 プレイドの顧客分析サービスに不正アクセス（日本ネット経済新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LUWI1NzRtX2NsQ1Ffa24yLUg5NzJEUWd1YTU1MnRwSnhkN1poTVhxcWhRYnJOUjM2MGhQMUYtckR5U0d6RFNWRXF5NGdCRV9fMGtxY29TeGVjb29iZzZaRHJtRUxtbzNmNTZYS1hKOGFybnBlelR5b3YwTHRwWm8?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-26T09:00+09:00"
-  },
-  {
-   "title": "インフォネットのinfoCMS共用サーバーで不正アクセス 顧客サイトが公開停止",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rYmw3emh2MDNxTm1BQ0x4RGgwQ1VUUm1kZzhXa2RpWmlMMEN2a2NUTHhkeXN0ak1BdDJyd3BoWHdNRFU2VThiWTUwUFo3SThfX0E?oc=5",
-   "source": "サイバーセキュリティ.com",
-   "at": "2026-11-26T08:50+09:00"
-  },
-  {
-   "title": "富士ユナイトHDと富士興産で不正アクセス被害、個人情報を含むデータが漏えいしWeb受注を停止",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c2dsZ2dwXzdDc2RDUFRybzVoeW5WaFVsbkFuNDlWV1hxMnBBRkZlU2tzNWVHc2NnaXBaa19SNXRUbzZQenpucnRweFNpd2lKTVE?oc=5",
-   "source": "サイバーセキュリティ.com",
-   "at": "2026-11-26T08:49+09:00"
-  },
-  {
-   "title": "Palo Alto Networks、ファイアウォール「PAN-OS」のサイバー攻撃に悪用済み脆弱性 Fragnesia（CVE-2026-46300）を修正-PHP2Shellとの連鎖攻撃に注意|セキュリティニュースのセキュリティ対策Lab",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnk0dEc5SGZCR1k1WnV3QjdLWWtHVXBibmRTQnF0bHZoeEJBeXNKc1kxN09Lcms4ejNVbWdqakJ6T2QwT3BBSm1TTldKVy1jR1JsMWhQWTB2R1ZHOG5MVTRSM1hXSzhBV3hFMV9TQ3QxTFg2RWhKTElGX1dPbGh5RHlqOVljM3EyRlYwSVQ4WHplaC0tb0hxV3FnRTV5Zw?oc=5",
-   "source": "合同会社ロケットボーイズ",
-   "at": "2026-11-26T08:45+09:00"
-  },
-  {
-   "title": "M&A検討資料など最大数千社分漏えいか ミロク情報子会社に不正アクセス 役職員の認証情報取得される",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5STHFzOGpmSWxselY5TU1MTjJGdkI5MTVnWW9ibXkzX1gwUzJKaFJXLXVkUjNfLXlHOEl0Vm9lM0hCMFNLUzUtOHlFNVhKcU90M0ZhWWpwZHZZd1N1b1pDOUNQVWJRaGlZeEE?oc=5",
-   "source": "ITmedia",
-   "at": "2026-11-26T08:35+09:00"
   }
  ],
  "tokyo": [],
@@ -476,9 +476,37 @@
  ],
  "world": [
   {
+   "title": "金正恩氏「米国に核保有の承認は求めない」 核施設の視察で強調",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04NFRMTEdSR0NXNmNHZFkxVjVLNkZjRlhzaW11ekVYMUxCT3B2eW12aXlsc2JZaXVHaDNhV1Vpc2hsYnJjMFZJeWdFZDZvemdLbjFwTUh4dWc0RjhIbmpydTVMbmtwcEJY?oc=5",
+   "source": "毎日新聞",
+   "at": "2026-11-26T09:54+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "金正恩委員長、核施設を現地視察…「戦術核の多領域活用に注目すべき」",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94TE5iakRUZnExOHdwcl90cHQtYzRqeEh0aGVVQWZ2VkhxdFJya3JnNURHcHNPOFR2M0JUNDZiRnBkY2ZGWVNTWjdZSXdCTU5mMngxblBBckxDLWl5eUN2X0stbVdzbGPSAWxBVV95cUxQRnNlVGRtOWV3Nm1QZVZEZTF0YktkXzZMd2dsRVlpV3BVd2lmWTBleVR1Nl9GcjU4NXFLS0tleWZPc2hUU1E5NkdNRFZndjdiendMalFpX2FtNXJjQjdzZURHeFJmNVlRaVZpcDE?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-26T09:54+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "金正恩氏、核開発を加速",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nbktmWmZ0TmR3ZFBJaDFrNEpNTlRjdmZfcGxGUHowYUdRTXFxZmd1MnJHTm93OW5XMElpX1ZicVpoa19BSVVIWlI1ZlNwX1JxdWQ0X0RGTmNMajR6T2c?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-26T09:52+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "画像・写真：戦術核の活用領域を拡大 北朝鮮：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12R0xEWm10eGVvRW1Ob2RoZ3Q3aHBkdjlHbFdLbTdaaUNsNzJXNXp2S1FTSlJXaGhhUTF1YXFPVWJ4V1doOTB5QXhCOVgxYk04WWxrSkZYU0J1Q2I3bnA1SGIwZnI?oc=5",
+   "source": "時事ドットコム",
+   "at": "2026-11-26T09:47+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "金正恩氏、核開発を加速 敵抑止、米国との交渉材料にせず",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiaGVmRnl4WFBObXYtRVJnYmZxTk55ck5GUDZkZnJqTXdCZ1d3Q0dkeHhCazd2OUJBWkRNNW8xdlJMNV9UUi1nQ1liVUJ2SlRI?oc=5",
-   "source": "日本海新聞",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MaFZPTURwS2FiVDhYWW9QUXFaS2hZZ0EzVlZhc3Etd04yQlVyRnNVWGNGWHhEdzRtbmg0R1RHT1lRRF9NN284dnYzQnBCV2tscjJjd0pB?oc=5",
+   "source": "西日本新聞me",
    "at": "2026-11-26T09:39+09:00",
    "topic": "北朝鮮"
   },
@@ -488,13 +516,6 @@
    "source": "アラブニュース",
    "at": "2026-11-26T09:01+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "金正恩氏「核物質の生産能力を拡大」 報復用の戦術核開発指示",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wYVNvbFVNbVZPZzI5RU9fM1ZKTnEzTktCd0ozWjdIN0pWdW5oTlZQTjdfcllyNmhSR2ptSHItMkZveXNRYmlQcC16Z1F3TEF5QVRRNEZJclJMbXpuRW1MWkthWHYydVFGelpydQ?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-26T08:55+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "金正恩氏が核施設視察 「戦術核の活用」強調",
@@ -518,46 +539,11 @@
    "topic": "ロシア"
   },
   {
-   "title": "ウクライナ侵攻死者４９万人超か＝流出データ分析、当局否定―ロシア",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUtRdndwSlIyZm9TMFpZSDlvQUxsWUtMblRMbTZtNnFTYy1MN1I4dHM2c1hhQmVQSnl5el93eHBqa1RBOVktQjVVSWVFQ0R0d1ZmcmN0amk0V0dnTXp3bzhwVV85RU1HQ1hMS0g1cHVRZHdybWpNbWQ3QWJQX3ZZN1N1OW1ndlRjU2ZaQkRaZ1FXSjY3cS1rZDN4TUNjZ19lQjVieHhMbVRSQkFsdmU1elZXTHE1U2c3dmpqZDZyRGRzQWE3b2hCZGtoYUdqZ9IBfkFVX3lxTE1fMnlNWVN3YUJvMTA1VER6VmlWaUZmVTN2aTFxcU8xSk5iWlMzOEFYTC1WRXNIRDMwdWNtOGZsdHROaDNlNzVrMFE4SURHdi1OVFF5Vzc5Z3ktZmZjTm1MR3l5bUwwM1ZlMG9TZzRGbks3RDc4dlNuY3NIRDl1dw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-26T08:04+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "金正恩氏、戦術核兵器の配備拡大訴え 核保有国の地位「不可侵」",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXJYUG0tT08tUWtFLXlDM2hjdlJWZWxpVjV6OThfYXNqRTQxVjNOTGYzdEV3cmt4bWc5TE14ZWZ2MGZfa1RrMnhoUzAxMDlhNEFtdlc3MEY3SmZiQ1Q1WFg4b1NIV1d3ZktZLXpEMDZaZGVWZmc5bVc2S0lSNUhZWkFoclRrWkE?oc=5",
-   "source": "Reuters",
-   "at": "2026-11-26T07:45+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ウクライナ軍、ロシア主要空軍基地を攻撃　軍用機5機損傷と表明",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EMkFDaGE0TG9MLUEtTDRKUjZmcXJRZFVtWlhvdUFrSUhJMy1YUzlQa0I0SURYdW8tQWxTN2NwSFJaU2VydXlnVWxwalRrU3E2bXFRWmIyaXdEczdPazdCbFlsam5Qb2R1SU5QVV9GLTd5SXZZOGp4dUtwQ3hRUdIBgwFBVV95cUxPNi1ZcTF4NHdoZjlXYVJYMU9GWGJ3UjhBa3NET3lvaGVqRHZHXzBwV2xtMkNabFJKckRJNE9UcDF5TVB4d25Ta2QtZVFZT0htQzhwR0tjTEYwWF9QU0MxUm0wQVd3YnR2WDNMbWY0TmdCa0JhSmNQbW9kTUtGUS1xcHI0SQ?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-26T07:23+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "戦術核の活用領域拡大 北朝鮮の金正恩氏、韓国を念頭に",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1QTM3SnpiUjhRbVN2Mk1od0dKZTlyUDVadnZ0dVBCengzSXZ2UUdmTHdIQkZuRGNMTEh3VllwN3NQSFExX0laM2ptYUpxQ1cyYmw4VU9QNjBoZXRFNm9CSE43OA?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-26T07:09+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "戦術核の活用領域拡大＝北朝鮮の金正恩氏、韓国を念頭に",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0N2luS3NFWVhtUzQ0ZW00TzdIbGd4c1p1ME1NMVhiYlZjWW1heTg2S0NZcC1aQlllUEZuZzVJOVI5M2JZSUVPbzFMMWpSdl9RS0d3Uw?oc=5",
-   "source": "時事通信ニュース",
-   "at": "2026-11-26T07:09+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45eGtHNTlzb3dRaEoxWC02cWlfaVNpbzNLMk9BaGl0VHcxUnMtRmZiLUxOVnQzdzdSM2swRkd5WGxZOG1OLXpNc0JjLXNUbDVEZ25CeWp1UkFGRXh4M3hDaHFCLTl0NHZTOEdhWmdVdkY?oc=5",
-   "source": "Infoseek",
-   "at": "2026-11-26T07:00+09:00",
-   "topic": "中国・台湾"
   },
   {
    "title": "これでは中国のやりたい放題ではないか…メディアが報じない、習近平の露骨な「日本潰し」の全貌【米中ロ首脳会談】",
@@ -578,6 +564,13 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CNXIxY2QtRzFQc1hxSUdrZG5RdmtOdzdQVnhjTkNJdlJSM2VYUEVkeDVDMzYxS0o2dDZfQWVDUlQwRWZ5RGRFcnVQd2RzSXFlWUdaUkpQckZyWXUzaE5mRzEwdw?oc=5",
    "source": "時事ドットコム",
    "at": "2026-11-26T06:32+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ウクライナ侵攻によりロシアは50万人近くの死者 サイバー攻撃から流出したロシア連邦統計局の資料で発覚 BBCが報道",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtM1FEeUpxakNLcG5FM0QxdVZTeDVjeXdDNWdXa0VaRElQVi1OVWQ1aThpajFIeW5PVFRwaGFXS2R6SzNWT0t4QnM0TWZpdFRiSlhOZHdNdFpPRlZaVXZ6YTE4bUkxUXJGS19FcUlrYzVZWkkwLUZMVGVlTHNyNlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-26T06:25+09:00",
    "topic": "ロシア"
   },
   {
@@ -609,6 +602,13 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OU5OSnNQdGQ3aGN1RmtjZFUybWVQSTBzeFRuSVpJZkppdFZtTktGLWNWb2xQWTQwN3F4LW1SSHdPU0FjcjcwejVpR2RhcGo0MzlMcW5BME1WZTg?oc=5",
+   "source": "東洋経済オンライン",
+   "at": "2026-11-26T05:00+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvZ1VMUG56WElmYWJnSUJMUUNKV2ZsLWhyY0RNcXFQMDdRMXVjWUphS0cyYWZYTmpSUU53Z2Y0SHRwUXJuem1Ja0Q2Z0xPMF9BMjRob1ZqQTJiVTlNOVVEbmZMeXFYQ1Zf0gFoQVVfeXFMUG9nVUxQbnpYSWZhYmdJQkxRQ0pXZmwtaHJjRE1xcVAwN1ExdWNZSmFLRzJhZlhOalJRTndnZjRIdHBRcm56bUlrRDZnTE8wX0EyNGhvVmpBMmJVOU05VURuZkx5cVhDVl8?oc=5",
    "source": "Infoseek",
@@ -633,8 +633,7 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「報復」2件",
-    "中国・台湾：「攻撃」「侵攻」3件",
-    "北朝鮮：「報復」1件",
+    "中国・台湾：「侵攻」2件",
     "ロシア：「攻撃」「ミサイル」5件",
     "欧州・NATO：「攻撃」「ミサイル」5件"
    ],
@@ -646,16 +645,16 @@
      "at": "2026-11-25T17:22+09:00"
     },
     {
-     "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45eGtHNTlzb3dRaEoxWC02cWlfaVNpbzNLMk9BaGl0VHcxUnMtRmZiLUxOVnQzdzdSM2swRkd5WGxZOG1OLXpNc0JjLXNUbDVEZ25CeWp1UkFGRXh4M3hDaHFCLTl0NHZTOEdhWmdVdkY?oc=5",
-     "source": "Infoseek",
-     "at": "2026-11-26T07:00+09:00"
+     "title": "米台すら読めない中国の「台湾侵攻」最終判断…歴代指導者が直面した《軍事の壁》と、繰り返された《先送り》の歴史",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEFSUHFfYlA2bHVNNTNpcDdBQ3ZBVGE2TElLb2I5TmhXMjhseE83eEd0X2FidE5NM09uRUVhYzhHMFA0TFZuek0ySEd6LUc3dk9zclZmcjMtbmJiWEgyYVhKclBDcGpUWkwzQWExTHhxWTJKcl9mTThtanpmU08zVzNYS0tkWmM?oc=5",
+     "source": "Yahoo!ファイナンス",
+     "at": "2026-11-26T05:00+09:00"
     },
     {
-     "title": "金正恩氏「核物質の生産能力を拡大」 報復用の戦術核開発指示",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wYVNvbFVNbVZPZzI5RU9fM1ZKTnEzTktCd0ozWjdIN0pWdW5oTlZQTjdfcllyNmhSR2ptSHItMkZveXNRYmlQcC16Z1F3TEF5QVRRNEZJclJMbXpuRW1MWkthWHYydVFGelpydQ?oc=5",
-     "source": "日本経済新聞",
-     "at": "2026-11-26T08:55+09:00"
+     "title": "キーウにロシアの弾道ミサイル攻撃、商業施設など被害",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3JNX1VqSlFQWGJlVi1oa0pQcWtuS3A0aVNKZ1JOQlpaYmF2VlI0OHJKb1kxeGZRUml5Zi13ZGdGY3RqTmM0a09SZEc2Y0pMTHhySkM3NHlXX0ZUZHRMTUZOLTBsLV9zNFZhZEdiQWFTSU5CcDd1RHJpMGhnSVZRQ29PWXEtQQ?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-26T08:05+09:00"
     }
    ]
   }
