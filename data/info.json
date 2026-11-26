@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:30+09:00",
+ "updated": "2026-11-26T19:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -15,6 +15,26 @@
   "reported": "2026-11-25T04:13:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-26T19:40:00+09:00",
+   "place": "陸奥湾",
+   "mag": "3.6",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
+  {
+   "at": "2026-11-26T19:31:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-26T18:42:00+09:00",
    "place": "鹿児島県薩摩地方",
@@ -71,26 +91,6 @@
    "mag": "4.0",
    "maxi": "3",
    "maxiRank": 3,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-26T05:18:00+09:00",
-   "place": "釧路地方中南部",
-   "mag": "1.8",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-26T05:12:00+09:00",
-   "place": "熊本県熊本地方",
-   "mag": "2.5",
-   "maxi": "1",
-   "maxiRank": 1,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -186,10 +186,16 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "核保有「誰かの承認、求めない」 金正恩総書記が施設を視察",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sY1FYYzB1bVlock9MWmtud2txaE80MEQzdWJLVmJKZ0F4WlJvcEpOT3oxNGNvX0llMWhuWUZDcE91ejg1RU53cV8tT1ZGVjVndmhGMDc0cmFoNmdXTlEwaVBYX2FNdw?oc=5",
+     "source": "朝日新聞",
+     "at": "2026-11-26T19:30+09:00"
+    },
+    {
      "title": "画像・写真：戦術核の活用領域を拡大 北朝鮮：時事ドットコム",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mdmM0c09WUFRFWjMxc01oOGxPVlI4MzZLNmxaUENnZ2hQdWVrWkFCOVZaZXdXYkN3Y3N2c1ZjNWE5UnJ5Wmlld2ZpTktvUXFMVzg3Q3NEVWZFdUhMRDA4MU1xVVk?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12R0xEWm10eGVvRW1Ob2RoZ3Q3aHBkdjlHbFdLbTdaaUNsNzJXNXp2S1FTSlJXaGhhUTF1YXFPVWJ4V1doOTB5QXhCOVgxYk04WWxrSkZYU0J1Q2I3bnA1SGIwZnI?oc=5",
      "source": "時事ドットコム",
-     "at": "2026-11-26T18:22+09:00"
+     "at": "2026-11-26T18:52+09:00"
     },
     {
      "title": "「米国の承認など要らない」金正恩が強調した戦術核の価値…日米韓の対北朝鮮分析に一石（金賢） - エキスパート",
@@ -214,12 +220,6 @@
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCeHc5Mnlqb2ljRF8zajk1RkFxaHdPQlNJVTNRc19tTllNOUF0RllURDdKWWNUTmZLZC1yZXlpVTNIYllFMXc1Q3IwcW9GT2JvSjY1LWtDbFBFS0hLbUpyUNIBZkFVX3lxTFBJN3o1ZGlfQk02UmJxYURFUklGRjhHZjJrZ2JNeDBScDEwand2Z2tvcVBpSVRseUJDT05qNjhUdEFGOVhLdEloRTVoLUNQSjNBZ3ZZMXNBTWljZF9GdmFQSlIyUkVOdw?oc=5",
      "source": "BBC",
      "at": "2026-11-26T16:29+09:00"
-    },
-    {
-     "title": "核保有「誰の承認も求めない」北朝鮮・金正恩総書記が核物質生産工場などを視察 アメリカ念頭に“非核化に応じない”姿勢",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11Mll0Tll5ckhWZGVmYWlZNmRpcUY5aWh3NzB3QVN0QUxOQldjNlE0MVM5ZXRJclROUy0yWTEyMnhOdG5rb0hhejR1UGpFWHowZ0k3Z1pjRQ?oc=5",
-     "source": "TBS NEWS DIG",
-     "at": "2026-11-26T16:18+09:00"
     }
    ]
   },
@@ -294,8 +294,8 @@
      "at": "2026-11-26T05:48+09:00"
     },
     {
-     "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請（TBS CROSS DIG with Bloomberg）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UeEdsTkJsb3QzT0JsMlM3WVRxSTdKV25ROV9jb00xOGtmNDMyMWFKcDVadlROT0g4R2M0Y3dLUGdFSmtUdDQ0NHpZTEwwV1VtVGl5TlJscjB6b190cUFmcXBzdFcyUFdfR2kwdU1ONC02NEpqV0dWSWR0X0ZCQmc?oc=5",
+     "title": "NATOはウクライナ上空でロシアのミサイル撃墜を、ポーランドが要請 (TBS CROSS DIG with Bloomberg)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFlNRlpiUUg3a2E5cVg5ajd6aU5QVFhvSFM5WDJOQVFGbDIzX1E3RDFzOVljbEUxeEhaQXotZXRXQ1VaWWpPSEMwbmN1akpfWmFNS0FfZ045RzlDamRoZVJ1cVQ2ZS1LVElTMy1xd0Z3LUczUE5HejloblR4cEVQZUQxQm0xeFJGQjh2V1ZR?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-26T04:02+09:00"
     },
@@ -340,13 +340,20 @@
    "at": "2026-11-26T10:00+09:00"
   },
   {
-   "title": "南海トラフ地震で災害ごみ最大７１１万トン発生 高知県と高知市が仮置き場の運営訓練、車両誘導や分別を確認",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tZ1oyTEtPSmNfMzJaZm9CeWlCLUMyVTV1TG11WEdBT0wwN1U5SkhLXzkyNnRlcDBHY0xaRV9hN09RUGVVUmhxVllWcmZXalozM29RNTU1RHVqUDQwOXBB?oc=5",
-   "source": "高知新聞",
-   "at": "2026-11-25T23:33+09:00"
+   "title": "旅館組合が合同防災訓練 鳥羽で南海トラフに備え 避難誘導や初期消火 28施設から121人 三重 (伊勢新聞)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRl9sOFlDTFRxU01RWEdoeHg5RTNHS2lEYWRXV2xPeGItYkd5WDVoYzJ2eXlYQmh3VUpDaEY1aXN3U2pwUldBVHVCNGJmaEFfYlVQaE4wOWxlcFZGRmppME8xTkplNDJWSGZuUE9xS1lEeW50NEpremU0MzZPcVZuM0lGMjBBNjdtM1ZxSWJR?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-26T08:01+09:00"
   }
  ],
- "outage": [],
+ "outage": [
+  {
+   "title": "大阪府の停電情報",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iRTZJREIxVWNNU3V0N3ZKcTQ1RWZ4OUVkeHBYdFkySmEwc0UzOHhWSjZ5SXNCNzd3ejBJWGpOTVVJM3duYngwQ011Vi14R0ZZaGFLTHBFSFBFLUVCbkN4QlhweTE?oc=5",
+   "source": "ウェザーニュース",
+   "at": "2026-11-25T16:10+09:00"
+  }
+ ],
  "japan": [
   {
    "title": "キーウに弾道ミサイル攻撃、7人負傷＝市長",
@@ -387,16 +394,34 @@
    "at": "2026-11-26T17:03+09:00"
   },
   {
-   "title": "ピーチ、「KARTE」への不正アクセスで最大約944万件の情報が漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OVDlnVy1LRVBES2VubElsNkdyOTVCRlFhTFdiRkVBQ19qNG94TjFYc2xYTWRrUE5mOW5DTmMzbS1tX0h1SnktNnpKMWVYd0pxa1R1SkRPOA?oc=5",
-   "source": "TRAICY（トライシー）",
-   "at": "2026-11-26T19:20+09:00"
+   "title": "文部科学省 入札システムに不正アクセス 情報漏えいの可能性",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMGs3NXBVdm9lLXBHbUVHWHhqTTZUOWJRVDBjMmJMM2JGUjRpdXV1Vi13NjRBNV9ScHYxdTJxX2lJV1hITFZ1NzdBX3p3ajlGZEVWaXlDVHF5WXNRUDVZ?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-26T19:33+09:00"
+  },
+  {
+   "title": "「エコ・アクション・ポイント」に不正アクセス、最大9万8,000人の個人情報漏えいのおそれ 宇都宮市の登録者6,257人も対象",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzlETWU5NjJtSS00b0lsS1FZZU1nVjhGdmY4dnFaV1BlXzB6bmFodzBWUEg1d1JUZVd5cVRqdnlJdFBTV2dYRWtRTnlHbFIzd0tjMHdZNHVPZmdoZkhqR2YwYkFWaUJzVG54X3ByakpQYWNURVo2QUFabWxYLVhrVmJJOA?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "at": "2026-11-26T19:30+09:00"
+  },
+  {
+   "title": "中小企業向けの “サイバー攻撃” 対策展示会 企業は手探りの状況 「侵入されること」を前提とした備えも必要【岡山】",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12TDkyR1BGNER1QWY1TnpraWdCdlo3SzRzTV8xTlRZMXdXZ2lTYjVnUGVjVFFHM2daU3NnWVhBeXhkd0JIS1hOemlja1RlUTlOdkwyYzdaSVVxSGFLLVFTQU03S3I?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-26T19:30+09:00"
   },
   {
    "title": "サイバー攻撃は「対岸の火事ではない」 中小企業も当事者意識を 秋田市で対策学ぶセミナー（秋田テレビ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uWTI0X0V3bF9PNzd3dWYtY3lQdFRNZ1E1YmxnWDJpZEVHV3VJdzFyOTl4d3FkZzR2bVBWaGFXdFhWTGJWYUkxSDl2SUQ3azNZaG1SZ1hnRl9LNnhkUVlXSnRuVmJwNWpKYTdUZ216WTVJQjNZc2lJNGdhRFlyems?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-26T19:20+09:00"
+  },
+  {
+   "title": "ピーチ、「KARTE」への不正アクセスで最大約944万件の情報が漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OVDlnVy1LRVBES2VubElsNkdyOTVCRlFhTFdiRkVBQ19qNG94TjFYc2xYTWRrUE5mOW5DTmMzbS1tX0h1SnktNnpKMWVYd0pxa1R1SkRPOA?oc=5",
+   "source": "TRAICY（トライシー）",
+   "at": "2026-11-26T19:19+09:00"
   },
   {
    "title": "町民メアド8件流出を確認 浦幌町 アララ不正アクセスで",
@@ -436,43 +461,39 @@
   },
   {
    "title": "「大企業だけの問題ではない」下請けからの攻撃で出荷・生産停止のリスクも…広島県が初のサイバー対策セミナー開催",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Q2E5U3hnVlg4VVRQTE5NWVcwUXNFeDVPVDJmbUNsaUo2dk5rc0RoVEtGN3lJa185VXNDdGZGSnhYTWdqZ3hHbFFOWjZVdnpwcEF2eFBPLW1aWThXOS1sc3U1ZlFZbVk?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-26T18:55+09:00"
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tNG1QdHFFaEpJRl96VkRBdHdyNFhxampTYzB3eld2Q25wOWhnZlBOV01LeWJIR2JTWktLQkVyVFJCcFlJeEg2RTRzX0ZpcmlJdG1mLUpySU45SWd2TEdOck54T2JFVkRsTWJXNEZrNkNBTGxLQ0NCSDAtZTNsX0k?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-26T18:56+09:00"
   },
   {
    "title": "四国電力ウェブ委託会社に不正アクセス さらに約２５万件流出",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yUDdRS0t3eXBVZnB0SllQbjM1RkF6MXB4MlhzNGwtQ2tybm1qWGZJWGt2U0lITU8zQTN5YXJUd1Z3VGZEeHJYbVM2OHYxdlFVSXJoZENyQS1INVZQcFRF?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-26T18:41+09:00"
-  },
-  {
-   "title": "1Passwordに不正アクセス、一部顧客の氏名とメールが流出 保管庫は無事",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFRmdXRLMjk4SE13djNTMEM1UWlZLXA2SS1VNllKMHA5NEZRa2o4dXhrSVVlMm1VbXF5eXZZVHA2Y09ZRGNkNlFmaWZYMFozZ3BqUHdxVlJZRzRXQ19EbWZCWlIzZG1xQVN5eWthY0hLQUYxUjMxeTBFTmZmT3pXX1hld2NSTFo2U09ZN1JBaHgxdmc?oc=5",
-   "source": "Pasquale Pillitteri",
-   "at": "2026-11-26T18:32+09:00"
-  },
-  {
-   "title": "ファンケル子会社アテニア、顧客情報を最大６６万件超流出 不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yd25MZmtENXM1X2c2WjN3dzBTV2dNTTA4a1N4SnFIRjNTd0xMS3hDT0J5ekFOY01OSzhmdU1fUmVMd0JYLTJGR0YwSmtHWW80WTdpVm5HV3lMT2R2a1M0S1pYXzlDbkVQ?oc=5",
-   "source": "カナロコ",
-   "at": "2026-11-26T18:30+09:00"
-  },
-  {
-   "title": "ピーチ 個人情報944万件漏えい KARTE不正アクセスで",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZm9IbGpXWW5zZ2xINmVoVUZISzdGd3Q3ZDV3dzZrOG8yellscmFlenZpVTBCNWhfU1VnblNqUlJ6RDR0QmdCMnpRU1FGTXVpanpvUmxtVkIzZlRfT0dV?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-26T18:07+09:00"
   }
  ],
  "tokyo": [],
- "osaka": [],
+ "osaka": [
+  {
+   "title": "【現場報告】「ドスンという爆発音」大阪市のマンションで火災 周辺の道路にもガラスが飛散 現場は大阪メトロ・堺筋本町駅の近く",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uc0ZIU3pqZWdMclRpdFFTWkg2STBENUdpZ0pDVXZGZ1A3WUZkZ0VkcHdQTnJQUnVNcy1pNV9kT1BhODlNS09TV3IyU05vRXhIV0RKcTI0RThfYkxDdTNsWDlDay10eURCa1pGOUpfend3UFQxRFhKX0V3LUI4S3M?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-26T19:33+09:00"
+  }
+ ],
  "world": [
   {
+   "title": "核保有「誰かの承認、求めない」 金正恩総書記が施設を視察",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sY1FYYzB1bVlock9MWmtud2txaE80MEQzdWJLVmJKZ0F4WlJvcEpOT3oxNGNvX0llMWhuWUZDcE91ejg1RU53cV8tT1ZGVjVndmhGMDc0cmFoNmdXTlEwaVBYX2FNdw?oc=5",
+   "source": "朝日新聞",
+   "at": "2026-11-26T19:30+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "画像・写真：戦術核の活用領域を拡大 北朝鮮：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mdmM0c09WUFRFWjMxc01oOGxPVlI4MzZLNmxaUENnZ2hQdWVrWkFCOVZaZXdXYkN3Y3N2c1ZjNWE5UnJ5Wmlld2ZpTktvUXFMVzg3Q3NEVWZFdUhMRDA4MU1xVVk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12R0xEWm10eGVvRW1Ob2RoZ3Q3aHBkdjlHbFdLbTdaaUNsNzJXNXp2S1FTSlJXaGhhUTF1YXFPVWJ4V1doOTB5QXhCOVgxYk04WWxrSkZYU0J1Q2I3bnA1SGIwZnI?oc=5",
    "source": "時事ドットコム",
-   "at": "2026-11-26T18:22+09:00",
+   "at": "2026-11-26T18:52+09:00",
    "topic": "北朝鮮"
   },
   {
@@ -537,13 +558,6 @@
    "source": "ウクルインフォルム通信",
    "at": "2026-11-26T16:27+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "核保有「誰の承認も求めない」北朝鮮・金正恩総書記が核物質生産工場などを視察 アメリカ念頭に“非核化に応じない”姿勢",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11Mll0Tll5ckhWZGVmYWlZNmRpcUY5aWh3NzB3QVN0QUxOQldjNlE0MVM5ZXRJclROUy0yWTEyMnhOdG5rb0hhejR1UGpFWHowZ0k3Z1pjRQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-26T16:18+09:00",
-   "topic": "北朝鮮"
   },
   {
    "title": "中国海警船2隻、日本領海に侵入 海保が退去するよう警告（ＡＦＰ＝時事）",
@@ -611,8 +625,9 @@
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "red",
    "reasons": [
+    "「【現場報告】「ドスンという爆発音」大阪市のマンションで火災 周辺の道路にもガラス」",
     "「PayPayシステム障害 復旧 不正アクセス・サイバー攻撃は確認されず」"
    ]
   },
