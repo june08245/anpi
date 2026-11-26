@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:30+09:00",
+ "updated": "2026-11-27T04:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -8,6 +8,16 @@
   "reported": "2026-11-26T20:09:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-27T04:33:00+09:00",
+   "place": "父島近海",
+   "mag": "5.5",
+   "maxi": "2",
+   "maxiRank": 2,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-27T00:11:00+09:00",
    "place": "石川県能登地方",
@@ -77,16 +87,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-26T07:59:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "1.2",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -107,14 +107,14 @@
      "at": "2026-11-27T01:00+09:00"
     },
     {
-     "title": "イランが無人機攻撃と発表 クウェート、2人死亡",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYjYtd0F0UkdOV0d0ZmljOWtQM013UTlIMV9MUmQ5QlI2a2VVWkxKazZYRm1sZ3kzbGxpeVRObEx4cDVQbi1fUDdiSjdVaG9vVmpLRWI3R3BBcjloWkZYLUhHR2QxM3pHT0dWRTY1MW8?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-26T23:26+09:00"
+     "title": "イランが無人機攻撃と発表　クウェート、2人死亡",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mdDFBSnNUa1ByXzZfNU1pblJvUVFKRkcxTGFjeWRuTVdOdjF1VUdWQ0l5SlVBQ2RJSzRUU0YyYnZ2OTlwa0pxaG5taDd1STdod3NlR0RKTFZZaVJ4RFJKYko4WUk1eHlHQXctOFFoRlZrdnlE0gF0QVVfeXFMTmZ0MUFKc1RrUHJfNl81TWluUm9RUUpGRzFMYWN5ZG5NV052MXVVR1ZDSXlKVUFDZElLNFRTRjJidnY5OXBrSnFobm1oN3VJN2h3c2VHREpMVllpUnhEUkpiSjhZSTV4eUdBdy04UWhGVmt2eUQ?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-26T23:25+09:00"
     },
     {
      "title": "イランがクウェート攻撃、2人死亡と報道",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDMldkN2NUVGRVRXctc1NjUmVwcXdkLXVvRXZoSk05WmxxSHVGMExlWld3OTlONDljLTFWZTYwWHRlMnpWeGNwX2JXdE4zWkVJbW5xcWgxMUVHaDd2U0tMLXF3eW13S21SNEl3Tl9uRVdxblZ30gF0QVVfeXFMUEMyV2Q3Y1RUZFVFdy1zU2NSZXBxd2QtdW9FdmhKTTlabHFIdUYwTGVaV3c5OU40OWMtMVZlNjBYdGUyelZ4Y3BfYld0TjNaRUltbnFxaDExRUdoN3ZTS0wtcXd5bXdLbVI0SXdOX25FV3FuVnc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KUU5wYVVCaGdheW9rOVVYOXNBanh0Nzh6RHdtQkNXUkpObm1YV3RsVzd0a1JRVFRzM2dLQUxiRzVFYklPRUtDX0NGZVFFVy1pWGVnN3l5eWRUdmlvSXo1akY2eHIzek45ZFJaWHBqTdIBdEFVX3lxTFBDMldkN2NUVGRVRXctc1NjUmVwcXdkLXVvRXZoSk05WmxxSHVGMExlWld3OTlONDljLTFWZTYwWHRlMnpWeGNwX2JXdE4zWkVJbW5xcWgxMUVHaDd2U0tMLXF3eW13S21SNEl3Tl9uRVdxblZ3?oc=5",
      "source": "Infoseek",
      "at": "2026-11-26T23:01+09:00"
     },
@@ -191,10 +191,10 @@
      "at": "2026-11-27T03:57+09:00"
     },
     {
-     "title": "北朝鮮、ロシア軍事支援停止の情報 南北緊張緩和推進発言に反発か (共同通信)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLTVsc3J2ck5CTXNQcmhhS3pLM2ZLN2ZEQmtlVXFZWFo2czZtbkl4MHpqWUo0VXV4ZXlWeE93dTQyeXpfaEU5dDZrYzRCb2cyN2RuVzQ3cXUzQ1pBelU2YUNfVXZReXZHM2lCZVJBUlhsakVfOTlUZGtRWWpaaVNEVll0NWpUZnVtZzhEYnln?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-27T01:28+09:00"
+     "title": "金正恩氏、韓国に「3種の核威嚇」…核弾頭・濃縮施設・原潜炉公開",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnVlS09lV3ZkZVV4cWdYY3BfRFA2c185WlBWMXVSNi05Z2ZubnI2TGhaTUJiZFhyVmtKZTAyV3I0Z051clo4dFZWVEZROGVxa1VxT2RuYXJXYTNSVkh3Y29LTEpQcFpZSjlqaWFFMGhNOXN1OHpGU2FDaTF6V0tqX1Z0RmNqX0t2TGtNMTVR?oc=5",
+     "source": "조선일보",
+     "at": "2026-11-27T00:55+09:00"
     },
     {
      "title": "“北朝鮮がロシアへの軍事支援を一時停止”ウクライナ国防省が分析を公表（日テレNEWS NNN）",
@@ -227,12 +227,6 @@
      "at": "2026-11-27T01:08+09:00"
     },
     {
-     "title": "トランプ氏とNATO事務総長、ロシアに戦争拡大回避を要求―プーチン氏「友人」発言から1週間",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QNWpUWi1qQ01hMlBsWVpLQzllU2dmZUNtOFdTanJaSVFkbGNUNUVSbFlORjM2V04zMGlaQWcxRk1vWE9kQ002UHlDNV8yWm9FdXhlVDhLdG02RzNNLU9ZQ0w1MNIBaEFVX3lxTE5oWGN0MmRjRGhDbXVfMEEzdE1TQUtPN29rWmtCdUpscnJrWElncER5bU1oZkcxRkVicjVKNFV2LXVQNmdDcm5GT3BUN29ITk9LS1RScDVCTF8zN015LURBX0h1RS1zbDBi?oc=5",
-     "source": "財経新聞",
-     "at": "2026-11-27T01:05+09:00"
-    },
-    {
      "title": "北朝鮮、ロシアへの軍事支援を一時中断か　ウクライナ主張",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUVTRHdLTXVkalM1NUpRcXBodkFDSUxIMHAzcjlab0RVM2k4VUh1cHpDdzdIUkc1QklkelBGY21Qb0trVXZ1emZEbmpkek8wVk5HRXh4SGNiNGVja3N6Nnk4VTZYdUpFZTBEdFd3bnR5SElSamhiNGZHNFI3R1FKS2VlZFdFLVpt0gGcAUFVX3lxTE5TZEl2X3FzeG5DYmlZdXNjd01WeGNWNTdRYU9laEhfdFhHV2w3S2pkMExvbURmUnFyX1ZwaG0xOTVCWUNheXRnVFNMRHFiN3E3U2tRRl9TdGVUMDd3aG9NUGFSX2VublphdjFmWTVBS1N0azFzWlViOXQ0T05wdzlnc3dCdTlRaElqaHB2SVRJQnJfUmdwLVQzTG80aw?oc=5",
      "source": "Chosunbiz",
@@ -251,10 +245,16 @@
      "at": "2026-11-27T00:22+09:00"
     },
     {
-     "title": "トランプ米大統領、ウクライナとロシアが早期に合意する可能性は高い",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQzN4Vlk1Q2xpaFVzOF8xejJtTGZUdXhHdFBVZ3ZLZXVPUmdNVVdJWVRTaU5wY2pkRDFSRzREYlYzOXVuaE9JbHpUOTdWS2FHTnpLTFdpdkpMUQ?oc=5",
-     "source": "Moomoo",
-     "at": "2026-11-27T00:05+09:00"
+     "title": "ウクライナ「北朝鮮がロシアへの軍事支援を一時停止した」との情報があると発表",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZWlJCQl9DSXAtbkVLZGtnZjI2SndWZnhoX0I2ZE9MampTb3RNeEZScjhsa1dpZXpkSEU0S2kyZzJ1ckxQUG1EZUl6Y0hGUGRiYUcxemQwSQ?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-26T23:09+09:00"
+    },
+    {
+     "title": "ウクライナのレーザー装置「ブリスク」がロシア軍の自爆型無人機「ゲラン」を撃墜",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcktmVWEta0lZN0NhcVlyeTNtZGFpVkhTQTlxRGM3YnJiSjNEMVlFMWdCZ1NPZU9oNEpMV090MEFHbnk5akhEUDNETWFucXIzZU8tVW5CeDEyYkJuOUFhbmpXMFliMllSaTdLZDNGYnRZVlp5bmxncC1QVWVLWS05XzNjNUN4MUdiZ05jSVhRemtncUg2NExFMEhobHA2OVFZLTZocVdCS0Z1U1l1TjVlR1o0ZFhwR0o5QU9NcmY2ZE5lOG44RHljNF9LTnY2TkZrRzkwdUh30gHbAUFVX3lxTFBGYWxYTHRpR3R1VnZNYTN2SjNrZEVBVjU2OTZtWTh3SzlHUlR4R0RWWFBaX3VIaWJ5c2pERjFEQlllUkRpbnplMXpBR21HWGExMl9UcmphbnlyX0dWbzlvZzRic18zQkdyYzBvczhXVU9RX0F1el9Tc1RhWTFuMnM1a2xiSmdmZmxab282bkNJcWhSMy1NQUFIdmlnZHR1ak5XX3ZrSTVCTEdlYWtfUzlrWUEwR29RNWRfQ0RaRXhyc2MzcXJHM1FuUFF0M0RrSzdpc25WdGNfOC1nUQ?oc=5",
+     "source": "ウクルインフォルム通信",
+     "at": "2026-11-26T22:29+09:00"
     }
    ]
   },
@@ -275,6 +275,18 @@
      "at": "2026-11-27T01:44+09:00"
     },
     {
+     "title": "トランプ氏とNATO事務総長、ロシアに戦争拡大回避を要求―プーチン氏「友人」発言から1週間",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QNWpUWi1qQ01hMlBsWVpLQzllU2dmZUNtOFdTanJaSVFkbGNUNUVSbFlORjM2V04zMGlaQWcxRk1vWE9kQ002UHlDNV8yWm9FdXhlVDhLdG02RzNNLU9ZQ0w1MNIBaEFVX3lxTE5oWGN0MmRjRGhDbXVfMEEzdE1TQUtPN29rWmtCdUpscnJrWElncER5bU1oZkcxRkVicjVKNFV2LXVQNmdDcm5GT3BUN29ITk9LS1RScDVCTF8zN015LURBX0h1RS1zbDBi?oc=5",
+     "source": "財経新聞",
+     "at": "2026-11-27T01:05+09:00"
+    },
+    {
+     "title": "欧州の冷蔵設備攻撃、背後にイランの秘密サイバー部隊",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KUmV1Y0FpeVBQWDQyNFJfcFFuQ1FUNFc4QjdDUWRrLXNuN0tVQ2hEZlBqZjhXVGl4d21VR2YyRVdsbUxTdks0aHVfcktpQ1d4Z3F3VEltRmNtSGttVzBHYlBIN0lWZFhtRnNXQ1dGNVg3eUFuelhR?oc=5",
+     "source": "日本経済新聞",
+     "at": "2026-11-27T00:00+09:00"
+    },
+    {
      "title": "ロシア、ウクライナが地中海やバルト海へ戦争拡大と非難",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTaHhCanhTeVF6RGdscDYxYkRxLUl1R2VOM0RKc0tPbzlmRG43SXBWcXBGNG5jRlg4RDVoQnlUelFjNVFnYkthMFNlbUNPRnFmeno0OXotbHg1TkVidFZjV09Jam1SQnJibWxpdk4ySkRXOVVWU1dHOW1XOWV4QdIBgwFBVV95cUxQVkRqRnhocXFSSDVzSWxwUnVFckxVMDdES2JiWk1EM1ViZzVJdFNvTXBNLWxnQXRESUFwVGNtZ0w4VnRSSlNfb192ejdxWGF1LVkwYVJ3c1REaHNXaktIcHNDUWRjSEppVF9UbllEZDU5OXBodUUyTi1vS2FWaDc0VmFqcw?oc=5",
      "source": "ｄメニューニュース",
@@ -285,18 +297,6 @@
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVaGdpdk9TRHlvZkhNN0FHLUxmcWtlQXJRTkVEejdaUUFxcGRRZW9nXzhzMnUtcDRCUFRvYmZxNzhUM2tlYlprNTF1UzlpVzZfTnNwUnBBRXJtWDA?oc=5",
      "source": "TRT 日本語",
      "at": "2026-11-26T18:08+09:00"
-    },
-    {
-     "title": "リトアニア外相、ロシアによるものとされる攻撃や破壊工作を背景に、EUにGRUをテロ組織に指定するよう要請",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVE9TcVd6YzJ0SFlJaEVLVzNkN0RmQzhwOERKX3RwRW9IS1FnNkhCS0JXN3NYYk12bmJkMXBpdDR5dV9WMjBJYkh4d1VLYktuT2QzbVNQb3VONFVObGpMVnJTUUVJZzdEc2pJSG8tSkdWVXhkTVEwc3psclBJWDViZFR5YzQ1WDVFQkFueXRYajFzd0F4SVhfUXZUaVJlLWdwTVBZUFZMTjNOQmhYQW14YnhvSEM?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-26T16:58+09:00"
-    },
-    {
-     "title": "IISS、ロシアが関与したとされる欧州での破壊工作で多数の死傷者が出る恐れがあると警告",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXZtS0pwNl82aHFYaHZSTkpLUE92RTl4a1V6T2xDcWJMenNTRm45anJXYW03SG1sRmJsbUVZZ01CMUdVaWEwdEZKR0wzMXdGWVRHZzB0NlhWOXNoRl9jODZDRE5nMFBqZTdGc2lRUkI3QTNSeTUyckN1NEducDc2cDV5bThSYmY2NVZ4d0RUNG1yS3JILW5xamQwSmI2SjJjWU1z?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-26T16:07+09:00"
     }
    ]
   }
@@ -429,12 +429,6 @@
    "at": "2026-11-27T00:53+09:00"
   },
   {
-   "title": "【5社限定】FriSti、最新AIが疑似サイバー攻撃をする「AIペネトレーションテスト」の無料モニターを募集",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51NHJZOTBFZ0l2VWViRldGd0xVVDVzYjRBOGxnLTA4ajc1R3BWVHR4Mk4xUlZrTC0zTk0tTm00eUxLMG9rSkljbDA0SzRidGdJY1c2UzdGTTBjajFsTm5oS2JLMkMzd2hPTnRxMlRHWUtSTTlD?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-27T00:40+09:00"
-  },
-  {
    "title": "FIFAにサイバー攻撃 内部情報が流出か ハッカー集団「ハンサムボーイ」 の犯行か",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUek8zRlg3Y3ItMEc2THVMa2JBOHl1Nm9JMDZTaG9weDk4a2cxbmF6S1dzT1dKdHN3QmtrNDB6dmwwNzZBSVpDR1FXNldlTklGZnBVUXZOcTFtY3dlRmFyQmJqMDR6dEhMcFlsYUEwY0drb0dQR3lmYWxR?oc=5",
    "source": "テレ朝NEWS",
@@ -474,6 +468,12 @@
    "title": "文科省に不正アクセス、16万件情報漏えいか（共同通信）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xalhENVhGMjNreTFab3ZnbFF1STMzaUhqZk01VTVmX2VoN19wYVJYdmttbTU5QjdveGhNM2JUZU5ySTkwOHNoelU1UzR3alYyZGVIUHNtekx0Y0htRldza3ZEOXFjVWVIRTh4ZlRLbGVhN2UxYm5KNE1rdzY0OU0?oc=5",
    "source": "Yahoo!ニュース",
+   "at": "2026-11-26T23:32+09:00"
+  },
+  {
+   "title": "文科省に不正アクセス、１６万件情報漏えいか",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZ2xhTjBKQUNRQkhGTkl2YS1Wd2ZSbGpFaU9qWWFwMW92dnEyVTdBbjExZEphTGxPdlZELWZIZUE3LVNmTTlBelJjQ2lNNDNCMWlpQm9CQjhRVGhzU2c?oc=5",
+   "source": "沖縄タイムス社",
    "at": "2026-11-26T23:32+09:00"
   }
  ],
@@ -529,13 +529,6 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "北朝鮮、ロシア軍事支援停止の情報 南北緊張緩和推進発言に反発か (共同通信)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLTVsc3J2ck5CTXNQcmhhS3pLM2ZLN2ZEQmtlVXFZWFo2czZtbkl4MHpqWUo0VXV4ZXlWeE93dTQyeXpfaEU5dDZrYzRCb2cyN2RuVzQ3cXUzQ1pBelU2YUNfVXZReXZHM2lCZVJBUlhsakVfOTlUZGtRWWpaaVNEVll0NWpUZnVtZzhEYnln?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-27T01:28+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "中国・李強首相、アジア開発銀行・神田総裁と会談 笑顔で握手交わす 高市首相発言以降で日本人との会談は“初”",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5seFI4MWxBSGlYX3Y2a1VjUm1iTWV2cDJMRWVwbk9hQ0w1ZnNzSFZGdDByUDA5Q3dCaVAwbC1YWndrc194R2o1TnhMWHlXYUo3RHhkSl9SSmZZTF9hLVEzMFZKZ201OU1nX29jMUtn?oc=5",
    "source": "au Webポータル",
@@ -554,7 +547,7 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QNWpUWi1qQ01hMlBsWVpLQzllU2dmZUNtOFdTanJaSVFkbGNUNUVSbFlORjM2V04zMGlaQWcxRk1vWE9kQ002UHlDNV8yWm9FdXhlVDhLdG02RzNNLU9ZQ0w1MNIBaEFVX3lxTE5oWGN0MmRjRGhDbXVfMEEzdE1TQUtPN29rWmtCdUpscnJrWElncER5bU1oZkcxRkVicjVKNFV2LXVQNmdDcm5GT3BUN29ITk9LS1RScDVCTF8zN015LURBX0h1RS1zbDBi?oc=5",
    "source": "財経新聞",
    "at": "2026-11-27T01:05+09:00",
-   "topic": "ロシア"
+   "topic": "欧州・NATO"
   },
   {
    "title": "クウェート重要施設にイラン攻撃か イタリア人2人死亡 イランは攻撃否定",
@@ -571,6 +564,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "金正恩氏、韓国に「3種の核威嚇」…核弾頭・濃縮施設・原潜炉公開",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnVlS09lV3ZkZVV4cWdYY3BfRFA2c185WlBWMXVSNi05Z2ZubnI2TGhaTUJiZFhyVmtKZTAyV3I0Z051clo4dFZWVEZROGVxa1VxT2RuYXJXYTNSVkh3Y29LTEpQcFpZSjlqaWFFMGhNOXN1OHpGU2FDaTF6V0tqX1Z0RmNqX0t2TGtNMTVR?oc=5",
+   "source": "조선일보",
+   "at": "2026-11-27T00:55+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "“北朝鮮がロシアへの軍事支援を一時停止”ウクライナ国防省が分析を公表（日テレNEWS NNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSVlDeVdTd0FYc0U1REZtaFlhYjJPblJaV01lM00yZG5yNEFMWnZhbjc3cjJ6Q2FUdV9RNHg5bUN6RkdveVY1TEtodkxpV1E3WTd6VmdxbW5GVXVKOUtvQ2ZfX3lCSENqZmE4TTlpQVpYbVZReDBiT3BmS1ZyX28?oc=5",
    "source": "Yahoo!ニュース",
@@ -585,17 +585,17 @@
    "topic": "ロシア"
   },
   {
-   "title": "トランプ米大統領、ウクライナとロシアが早期に合意する可能性は高い",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQzN4Vlk1Q2xpaFVzOF8xejJtTGZUdXhHdFBVZ3ZLZXVPUmdNVVdJWVRTaU5wY2pkRDFSRzREYlYzOXVuaE9JbHpUOTdWS2FHTnpLTFdpdkpMUQ?oc=5",
-   "source": "Moomoo",
-   "at": "2026-11-27T00:05+09:00",
-   "topic": "ロシア"
+   "title": "欧州の冷蔵設備攻撃、背後にイランの秘密サイバー部隊",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KUmV1Y0FpeVBQWDQyNFJfcFFuQ1FUNFc4QjdDUWRrLXNuN0tVQ2hEZlBqZjhXVGl4d21VR2YyRVdsbUxTdks0aHVfcktpQ1d4Z3F3VEltRmNtSGttVzBHYlBIN0lWZFhtRnNXQ1dGNVg3eUFuelhR?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-27T00:00+09:00",
+   "topic": "欧州・NATO"
   },
   {
-   "title": "イランが無人機攻撃と発表 クウェート、2人死亡",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYjYtd0F0UkdOV0d0ZmljOWtQM013UTlIMV9MUmQ5QlI2a2VVWkxKazZYRm1sZ3kzbGxpeVRObEx4cDVQbi1fUDdiSjdVaG9vVmpLRWI3R3BBcjloWkZYLUhHR2QxM3pHT0dWRTY1MW8?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-26T23:26+09:00",
+   "title": "イランが無人機攻撃と発表　クウェート、2人死亡",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mdDFBSnNUa1ByXzZfNU1pblJvUVFKRkcxTGFjeWRuTVdOdjF1VUdWQ0l5SlVBQ2RJSzRUU0YyYnZ2OTlwa0pxaG5taDd1STdod3NlR0RKTFZZaVJ4RFJKYko4WUk1eHlHQXctOFFoRlZrdnlE0gF0QVVfeXFMTmZ0MUFKc1RrUHJfNl81TWluUm9RUUpGRzFMYWN5ZG5NV052MXVVR1ZDSXlKVUFDZElLNFRTRjJidnY5OXBrSnFobm1oN3VJN2h3c2VHREpMVllpUnhEUkpiSjhZSTV4eUdBdy04UWhGVmt2eUQ?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-26T23:25+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -614,10 +614,17 @@
   },
   {
    "title": "イランがクウェート攻撃、2人死亡と報道",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDMldkN2NUVGRVRXctc1NjUmVwcXdkLXVvRXZoSk05WmxxSHVGMExlWld3OTlONDljLTFWZTYwWHRlMnpWeGNwX2JXdE4zWkVJbW5xcWgxMUVHaDd2U0tMLXF3eW13S21SNEl3Tl9uRVdxblZ30gF0QVVfeXFMUEMyV2Q3Y1RUZFVFdy1zU2NSZXBxd2QtdW9FdmhKTTlabHFIdUYwTGVaV3c5OU40OWMtMVZlNjBYdGUyelZ4Y3BfYld0TjNaRUltbnFxaDExRUdoN3ZTS0wtcXd5bXdLbVI0SXdOX25FV3FuVnc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KUU5wYVVCaGdheW9rOVVYOXNBanh0Nzh6RHdtQkNXUkpObm1YV3RsVzd0a1JRVFRzM2dLQUxiRzVFYklPRUtDX0NGZVFFVy1pWGVnN3l5eWRUdmlvSXo1akY2eHIzek45ZFJaWHBqTdIBdEFVX3lxTFBDMldkN2NUVGRVRXctc1NjUmVwcXdkLXVvRXZoSk05WmxxSHVGMExlWld3OTlONDljLTFWZTYwWHRlMnpWeGNwX2JXdE4zWkVJbW5xcWgxMUVHaDd2U0tMLXF3eW13S21SNEl3Tl9uRVdxblZ3?oc=5",
    "source": "Infoseek",
    "at": "2026-11-26T23:01+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "ウクライナのレーザー装置「ブリスク」がロシア軍の自爆型無人機「ゲラン」を撃墜",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcktmVWEta0lZN0NhcVlyeTNtZGFpVkhTQTlxRGM3YnJiSjNEMVlFMWdCZ1NPZU9oNEpMV090MEFHbnk5akhEUDNETWFucXIzZU8tVW5CeDEyYkJuOUFhbmpXMFliMllSaTdLZDNGYnRZVlp5bmxncC1QVWVLWS05XzNjNUN4MUdiZ05jSVhRemtncUg2NExFMEhobHA2OVFZLTZocVdCS0Z1U1l1TjVlR1o0ZFhwR0o5QU9NcmY2ZE5lOG44RHljNF9LTnY2TkZrRzkwdUh30gHbAUFVX3lxTFBGYWxYTHRpR3R1VnZNYTN2SjNrZEVBVjU2OTZtWTh3SzlHUlR4R0RWWFBaX3VIaWJ5c2pERjFEQlllUkRpbnplMXpBR21HWGExMl9UcmphbnlyX0dWbzlvZzRic18zQkdyYzBvczhXVU9RX0F1el9Tc1RhWTFuMnM1a2xiSmdmZmxab282bkNJcWhSMy1NQUFIdmlnZHR1ak5XX3ZrSTVCTEdlYWtfUzlrWUEwR29RNWRfQ0RaRXhyc2MzcXJHM1FuUFF0M0RrSzdpc25WdGNfOC1nUQ?oc=5",
+   "source": "ウクルインフォルム通信",
+   "at": "2026-11-26T22:29+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "対イラン、米国抜きで攻撃も＝「用意できている」とイスラエル軍",
@@ -625,13 +632,6 @@
    "source": "Excite エキサイト",
    "at": "2026-11-26T20:41+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア、ウクライナが地中海やバルト海へ戦争拡大と非難",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTaHhCanhTeVF6RGdscDYxYkRxLUl1R2VOM0RKc0tPbzlmRG43SXBWcXBGNG5jRlg4RDVoQnlUelFjNVFnYkthMFNlbUNPRnFmeno0OXotbHg1TkVidFZjV09Jam1SQnJibWxpdk4ySkRXOVVWU1dHOW1XOWV4QdIBgwFBVV95cUxQVkRqRnhocXFSSDVzSWxwUnVFckxVMDdES2JiWk1EM1ViZzVJdFNvTXBNLWxnQXRESUFwVGNtZ0w4VnRSSlNfb192ejdxWGF1LVkwYVJ3c1REaHNXaktIcHNDUWRjSEppVF9UbllEZDU5OXBodUUyTi1vS2FWaDc0VmFqcw?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-26T19:53+09:00",
-   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -653,7 +653,7 @@
     "イラン・アメリカ：「攻撃」5件",
     "中国・台湾：「攻撃」「侵攻」3件",
     "ロシア：「攻撃」「侵攻」2件",
-    "欧州・NATO：「攻撃」「破壊工作」4件"
+    "欧州・NATO：「攻撃」3件"
    ],
    "items": [
     {
