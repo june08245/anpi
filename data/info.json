@@ -1,18 +1,11 @@
 {
- "updated": "2026-11-26T20:00+09:00",
+ "updated": "2026-11-26T20:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [
-   {
-    "code": "21",
-    "name": "乾燥注意報",
-    "level": 2,
-    "status": "発表"
-   }
-  ],
+  "items": [],
   "headline": "注意報を解除します。",
-  "reported": "2026-11-25T04:13:00+09:00"
+  "reported": "2026-11-26T20:09:00+09:00"
  },
  "quakes": [
   {
@@ -144,10 +137,16 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "中国海警船2隻、日本領海に侵入 海保が退去するよう警告（ＡＦＰ＝時事）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CSGNkQ1VsYVJ2VC1YcnRUeUJYaUFuVkhXdnNteHRoT1JBRENFZXRCOHI5cURycWpWWl9PYlEyQ3hNYjIxQkF1MFpNT0dUTEVEMUc0U3NOcjhjT3UzdnlwOXBWcUlyUk9jR2tNNVpQbl81YzJmb1ZsVGlMSkdXN28?oc=5",
+     "title": "中国艦艇の西太平洋展開を防衛省が相次ぎ公表 中国側は「日本の新軍国主義への抑止」と正当化 #エキスパートトピ",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTVydGhZVTRQeTl0T1hYalJYWDVFTHJHcERJVjdFTmhGNHdiRG1VdWFuaDNuZ0tSaW92eS1XM0pFT0t3cFdnVnE5NU9LNkZYRXNyeloxYWtLVkQ2bW5pLUhRWllROFZrZHMxQmR4VWZWa2ViS01BNFRZN3E0VWl0RE8zNmZNU010TnU2cFJR?oc=5",
      "source": "Yahoo!ニュース",
-     "at": "2026-11-26T15:28+09:00"
+     "at": "2026-11-26T17:06+09:00"
+    },
+    {
+     "title": "中国海警船2隻、日本領海に侵入 海保が退去するよう警告",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01M212STFsc2FSeEcxNy0ycnd4TGFGY1JEWVlMQkF1WWFDVW9XblVydGNjeE5XbmNQM2k3VWhyV0NneW9lcjJiYWN2bjVDZHd1WWtsNXExa1Bsa3oxa3NnQXdnQ3NRTUhyLVc4UjRoZVpxSnRYSWh0WdIBeEFVX3lxTE01M212STFsc2FSeEcxNy0ycnd4TGFGY1JEWVlMQkF1WWFDVW9XblVydGNjeE5XbmNQM2k3VWhyV0NneW9lcjJiYWN2bjVDZHd1WWtsNXExa1Bsa3oxa3NnQXdnQ3NRTUhyLVc4UjRoZVpxSnRYSWh0WQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-26T15:23+09:00"
     },
     {
      "title": "激化する、日本と高市首相を攻撃する中国の言説を追う NYTが分析",
@@ -162,22 +161,16 @@
      "at": "2026-11-26T11:19+09:00"
     },
     {
+     "title": "これでは中国のやりたい放題ではないか…メディアが報じない、習近平の露骨な「日本潰し」の全貌【米中ロ首脳会談】",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02ZzFIWEwzSVdfQWRkRzl3YjdtenJCVUl4V2t4UWVnVFhaNDNnUUZwSjh2ajAyR3R2YUJZRDZLek9GMlFVOUkxODc3VVpfTWIyUkZVOGpiUU8?oc=5",
+     "source": "現代ビジネス",
+     "at": "2026-11-26T08:25+09:00"
+    },
+    {
      "title": "米台すら読めない中国の「台湾侵攻」最終判断…歴代指導者が直面した《軍事の壁》と、繰り返された《先送り》の歴史",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVNuRWk1ZV8yblItNlRVWGZKTlRsTFlOaEVRcV9jQjYtNUcwaW1VYkd6NkF0dEpfUFdHUnlGamRqZFotMFV2Y0dveDlxclNFd0RXc3daWDV6OWlJVUFHbERqUU5YVzhGcWUwajJVWGlYOTNoUGp6TVBid1JXU1NNRjQxS1FSME5CNjRkOVFn?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-26T06:53+09:00"
-    },
-    {
-     "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96OU5OSnNQdGQ3aGN1RmtjZFUybWVQSTBzeFRuSVpJZkppdFZtTktGLWNWb2xQWTQwN3F4LW1SSHdPU0FjcjcwejVpR2RhcGo0MzlMcW5BME1WZTg?oc=5",
-     "source": "東洋経済オンライン",
-     "at": "2026-11-26T05:00+09:00"
-    },
-    {
-     "title": "台湾・楽天モンキーズ、1軍ヘッドコーチに森脇浩司氏 日本人投手とも育成契約",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02S3BWbV9ubnMtd1puWF9CM0FRNlBLaGdYMzQ3MlJMWlRVSGN5dy1RQnBLS2g2M01aT1RWVkhuUXdnUmJIOTdhWkZDNWF2c2lSZVJVSWU0d1NDc1RLVWRZ?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-25T19:20+09:00"
     }
    ]
   },
@@ -186,9 +179,9 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か 露高官発言に反発 ウクライナ情報機関公表",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnhQUmF4YWtjNjN5OElhQ2lEcTJRRVUycnNIbTRLZWRYcVNwaWFEUF9BZE1fNWI3QjVYTndCaS16RWx4OVVrUlVTdzhjTVRIWmVLRmRoNkpmUHpJQXZVdkM2ZUhwTUVrZFM5Vm12OFlMeE9YTWJDckVUdXk3SFJjdFFCc2JYMU5lenJVRw?oc=5",
-     "source": "産経ニュース",
+     "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か　露高官発言に反発　ウクライナ情報機関公表",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPandlRGtfUi1wSnY2em5iWDVuWEpZOGtpNk5zU2thcmkyMzJyRHJoZm82M3JZZTd6TFJxcE1MT0NLdnExMC1XRVYyYXFEcHdJeHRtaVFqRlJsSW5UbDllUzNnQmtxQjQxQ3l3WG9oTHlYVVg1Ym0yRjBBdGNTZ3huaE9IcEpRaWdOTnBidmVaVnFRLTlQdVlCT0dxQ0lQdUkwU1HSAacBQVVfeXFMTXFFR0c5OHdvTVB4UUcza3k5cVpIY1hsbmo4TTM3eklCa3hERmZaUXNNbHJlUGVWLWxIVUZMMnB6MndzV2pGbFpVb1ZkZ3NyRU5OQ0xXQ2F1eUs4dEhnZjdMbGZETmVuQ3pZZTJ2LS1ncHFvcGJoY1JPdUZ2UUc3QzhnZ1NjcHVPTENrRDNZRzNRY21sMVRLYW9qLXExS2lOenRyTk15ajA?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-26T19:54+09:00"
     },
     {
@@ -210,16 +203,16 @@
      "at": "2026-11-26T18:05+09:00"
     },
     {
+     "title": "核保有「誰の承認も求めない」北朝鮮・金正恩総書記が核物質生産工場などを視察 アメリカ念頭に“非核化に応じない”姿勢",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kWjN5eko3MmZ3OXRvNXdyV0YtM3JPQWJQaW5lVzRMY0RNQmJwUUNoS2J6MEJSSThuQTZMUVV4bDVyVUVGQktCQUxGMFBnbFFLYndTNFlvWmMxMEE1?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-26T17:45+09:00"
+    },
+    {
      "title": "北朝鮮が弾道ミサイルの供給を含むロシアへの軍事支援を一時停止中＝ウクライナ情報総局",
      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYUE5N09JdkY4VmRyMEdCendEejFwRFpTZHB1aDd5YWwyWUdHYU5aYjJ1SkhfYkhaZW93UXNhcVdJNXMzX3A1aDlzeUE4bU44d0lXbGtJbE9DZW5nQ2d3SkEwVUlVcW9pQjI0RjNzUkYwYUxMd2xBTWQ1dWdVVGJwWjQ0UVMxRkxoVzNxRmJzUXpWV09tLXIySEtYZXdEX0otVHM0dFFjZmN6UmlBT0ptZVVPM1dJV3NtMkVhczl3THo1T0ZCRjV0ellQNWNkaDZhODRQQjRfMzhRVmpsSnBhQk5PRXdRQmFaRDJIa3lMRThkN29Gb0pQaG9pRTlZTkV2WWpIajB3Unl4QdIBjwJBVV95cUxNNFEtZEh1S2RKUXhXUXhBTHZUQ3FheTA1dGdhTTJDQTYtTjI4eXdnZXhNVTdKSGprRHVTYXBXcjJlT19UY21vbzF0czJRSW9CaG5fcFJLdndVVEk2VC03RDFBdzlnandZWXFnNmJNSE1rMVFvb0M0enFHdWRsNzRMUkNCX0oyQlR5c3BhX3pVUEZLSjZxcGJyLU9rbE43TGU0QnM0anBWcnZvM3hJMGRpSTBQTWRYZkhEcFVRM2hPVGYtWUpGcUhNSjMyUDRBVEg1UHVid0hiTkhWeGhyVEVCS1VQdC1yN0hIc0V0bFNFY29xUU9hX0FCeFVCLVdETm5zYTFtcDBrcEI3blFwaWVN?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-26T17:29+09:00"
-    },
-    {
-     "title": "金正恩氏「戦術核の活用を」 施設視察、開発継続を強調",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wQ1UyU1hzNDZUOExRaFlCb2VES2pKbEtURFgwOFJ1VWVTVTBQVG4wbzBYUmx5M2g1ZTZ3WkdHaFE4V3VOYmx4OGc3VDEwSXdVRkY5LTdOVFllNnZz?oc=5",
-     "source": "朝日新聞",
-     "at": "2026-11-26T16:30+09:00"
     }
    ]
   },
@@ -234,21 +227,21 @@
      "at": "2026-11-26T19:55+09:00"
     },
     {
-     "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か 露高官発言に反発 ウクライナ情報機関公表",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnhQUmF4YWtjNjN5OElhQ2lEcTJRRVUycnNIbTRLZWRYcVNwaWFEUF9BZE1fNWI3QjVYTndCaS16RWx4OVVrUlVTdzhjTVRIWmVLRmRoNkpmUHpJQXZVdkM2ZUhwTUVrZFM5Vm12OFlMeE9YTWJDckVUdXk3SFJjdFFCc2JYMU5lenJVRw?oc=5",
-     "source": "産経ニュース",
-     "at": "2026-11-26T19:54+09:00"
-    },
-    {
      "title": "ロシア、ウクライナが地中海やバルト海へ戦争拡大と非難",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVGhVQnlCWkpVbWxhNFlwR0JncTdRQTkydjNIZkY0cmJkbWt6UHZiSDVDbEZFdmVuOE1XZU56M2RvaDFtZDMwLVlQNjhZVmdEdlItQ1lETE5jSmdESGltZEhrclRxdlYzY28zQnFfVkJSZWx3bDY2SkRSTW80Q0w4T0JBVDFVQQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-26T19:54+09:00"
     },
     {
-     "title": "ウクライナが製油所攻撃強化、ロシアの製油能力半減か…ガソリン供給への影響「ほぼ確実」",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEMtUG50ampSanQ0RTZNUk5aaDRlV09HcWducEROb1FYN21GNmpTeEY1RVRiQUxUOUVBUHlaZ04tanBnemMtd1czSVNyMmpROXJjM213LVM3T0ViVXZQcnBDRHJuLVVDU2lpZFlONy12RTZaUjRKVnpTRExybFZOZzJIWjFPaDdw0gGOAUFVX3lxTE80WjAzRjZkdHNwNXdyR21aYXBPbkdCZnJEdlFQbThVYVNidU96eXFRdGlPS0xKT1hUa3haQnVXRWlWQzBtbmRRMkdqRG1VM1VuekppQzl5dlRWUmd1MzJsTEZ3b3pJdXlDRURJdnFZczkxR0Y5RmJFYXI2VmVtUHVXOXRJSnA2NU9jOUlFOXc?oc=5",
+     "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か　露高官発言に反発　ウクライナ情報機関公表",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPandlRGtfUi1wSnY2em5iWDVuWEpZOGtpNk5zU2thcmkyMzJyRHJoZm82M3JZZTd6TFJxcE1MT0NLdnExMC1XRVYyYXFEcHdJeHRtaVFqRlJsSW5UbDllUzNnQmtxQjQxQ3l3WG9oTHlYVVg1Ym0yRjBBdGNTZ3huaE9IcEpRaWdOTnBidmVaVnFRLTlQdVlCT0dxQ0lQdUkwU1HSAacBQVVfeXFMTXFFR0c5OHdvTVB4UUcza3k5cVpIY1hsbmo4TTM3eklCa3hERmZaUXNNbHJlUGVWLWxIVUZMMnB6MndzV2pGbFpVb1ZkZ3NyRU5OQ0xXQ2F1eUs4dEhnZjdMbGZETmVuQ3pZZTJ2LS1ncHFvcGJoY1JPdUZ2UUc3QzhnZ1NjcHVPTENrRDNZRzNRY21sMVRLYW9qLXExS2lOenRyTk15ajA?oc=5",
      "source": "ｄメニューニュース",
+     "at": "2026-11-26T19:54+09:00"
+    },
+    {
+     "title": "ウクライナが製油所攻撃強化、ロシアの製油能力半減か…ガソリン供給への影響「ほぼ確実」",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0eEF2OFYyck9XaUdpblpiTUxlaUdfUDE4RndHVUQ0ZWEtTlhRQUhsUHJscnp3Wk9TRlhfa0M4T0JPTVZ4QzE3VEpyQzVKZVVRUmlTUTJBdjZCa2RpYnI3LTZn?oc=5",
+     "source": "読売新聞",
      "at": "2026-11-26T19:51+09:00"
     },
     {
@@ -340,10 +333,10 @@
    "at": "2026-11-26T10:00+09:00"
   },
   {
-   "title": "旅館組合が合同防災訓練 鳥羽で南海トラフに備え 避難誘導や初期消火 28施設から121人 三重 (伊勢新聞)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRl9sOFlDTFRxU01RWEdoeHg5RTNHS2lEYWRXV2xPeGItYkd5WDVoYzJ2eXlYQmh3VUpDaEY1aXN3U2pwUldBVHVCNGJmaEFfYlVQaE4wOWxlcFZGRmppME8xTkplNDJWSGZuUE9xS1lEeW50NEpremU0MzZPcVZuM0lGMjBBNjdtM1ZxSWJR?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-26T08:01+09:00"
+   "title": "南海トラフ地震で災害ごみ最大７１１万トン発生 高知県と高知市が仮置き場の運営訓練、車両誘導や分別を確認",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tZ1oyTEtPSmNfMzJaZm9CeWlCLUMyVTV1TG11WEdBT0wwN1U5SkhLXzkyNnRlcDBHY0xaRV9hN09RUGVVUmhxVllWcmZXalozM29RNTU1RHVqUDQwOXBB?oc=5",
+   "source": "高知新聞",
+   "at": "2026-11-25T23:33+09:00"
   }
  ],
  "outage": [
@@ -355,6 +348,12 @@
   }
  ],
  "japan": [
+  {
+   "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か　露高官発言に反発　ウクライナ情報機関公表",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPandlRGtfUi1wSnY2em5iWDVuWEpZOGtpNk5zU2thcmkyMzJyRHJoZm82M3JZZTd6TFJxcE1MT0NLdnExMC1XRVYyYXFEcHdJeHRtaVFqRlJsSW5UbDllUzNnQmtxQjQxQ3l3WG9oTHlYVVg1Ym0yRjBBdGNTZ3huaE9IcEpRaWdOTnBidmVaVnFRLTlQdVlCT0dxQ0lQdUkwU1HSAacBQVVfeXFMTXFFR0c5OHdvTVB4UUcza3k5cVpIY1hsbmo4TTM3eklCa3hERmZaUXNNbHJlUGVWLWxIVUZMMnB6MndzV2pGbFpVb1ZkZ3NyRU5OQ0xXQ2F1eUs4dEhnZjdMbGZETmVuQ3pZZTJ2LS1ncHFvcGJoY1JPdUZ2UUc3QzhnZ1NjcHVPTENrRDNZRzNRY21sMVRLYW9qLXExS2lOenRyTk15ajA?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-26T19:54+09:00"
+  },
   {
    "title": "キーウに弾道ミサイル攻撃、7人負傷＝市長",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQazFoVDQ3Yl9YTlg2RWVHV2JtcGF4MnVQMWxhZlQwX0lwQllkN3liWkp5ck9kUXhXVGozZ01nTXB0Q19yRW1CdFhIU2xvMzVGRUlPUmluUVVhQ2NSWEhTZDRBbFU1QWNxLVBzZ1BGUVZIdzhVaEZoVlNZTkR0YVI3c0FBRHlfdw?oc=5",
@@ -382,10 +381,10 @@
  ],
  "cyber": [
   {
-   "title": "報告期限が12月30日に延長、米財務省FinCEN「サービス障害」と報じられた不正アクセス（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ZWlLTHVaVnhCZ2tXUlZxQVRwM0dhUlBtTnRKTEZLVW1Hc2ViTzNISkdVWk1QNlVtWWNtblFYU0NlTXRtWWs1R3VvaFVpNzUwTXhnUXB0WFlHMFpWeGF2QkkwNUFicjBzZ1dYaEg3cWt0cVh0RmxEOXkxRjVkWFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-26T19:55+09:00"
+   "title": "報告期限が12月30日に延長、米財務省FinCEN「サービス障害」と報じられた不正アクセス ｜FinTech Journal",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBycFAwTmVwNWNvcW9GRUJXZDF5ei15NmVCSnRGd0pqU204TmhfWkpwWkN2eC11cVBLZEJueTR3OHk1ZThXbk1kX2lXUnVGZW8?oc=5",
+   "source": "ビジネス+IT",
+   "at": "2026-11-26T19:45+09:00"
   },
   {
    "title": "PayPayシステム障害 復旧 不正アクセス・サイバー攻撃は確認されず",
@@ -398,6 +397,18 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZHRRZHVwTTRlM3hmWTFiZnlUZ2ozd1MwRjl6U1lDZ3p6WUw5dXE2YVEzU3RfQVJzeTkycFB6a2VmU0tCQTRjNkJMUFZxWmJ4elU2Ui15V3I2N281NXpYMFd5XzNlYmJ4WnNkQlpR?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-26T17:03+09:00"
+  },
+  {
+   "title": "サイバー攻撃で利用できず、滋賀県甲賀市の音声放送システムが仮復旧",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ubzFiT2JrTW85dUhxVDN6M1BMRE14bUZfcllaU2pvdlFxN3U2dFVWQjJ3RE94bzJ6T05zN205c0g1WlVET3BzdlBLUldEWEstYnZsS3lwOEQ?oc=5",
+   "source": "京都新聞デジタル",
+   "at": "2026-11-26T20:00+09:00"
+  },
+  {
+   "title": "四国電力 ウェブ委託会社に不正アクセス さらに25万件情報流出",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DOWYtRjJ0TnY2NWNiYW05Q3BCeThLakNHdkxxWGVMUnNoTG5KR0dYYXA0N3NQMFpJaWNlQWY0ZGRKLWUwV1EtRkVYUkQ5M3NwRjByaVdOTThPUUNza1Nr?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-26T19:47+09:00"
   },
   {
    "title": "三井不動産ポイント会員の個人情報漏えい、３１１万人対象…クレジットカード情報含まれず",
@@ -458,18 +469,6 @@
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HOEUyZDhUNnJBSkM4cVozNlZmVGlKNUs0NWM2YUtGb1V5c2lGR002enZMSGU4RnNyVnIyc1V3Z200Q0tNOHJpRHlDakg2LS1aeVdYTE5sdWlUV3NXOTdMSzBnVU9DMTBOWlJ3SQ?oc=5",
    "source": "日本経済新聞",
    "at": "2026-11-26T19:05+09:00"
-  },
-  {
-   "title": "シンカ[149A]：弊社社内業務システムへの不正アクセスに関するお知らせ 2026年11月26日(適時開示) ：日経会社情報DIGITAL",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLbHhYajl6QnBjX2ZmRDZ6RGcwRk5RN3otZWFYS1lhb3k2ZVJhVWx6X3pIX09XQldaMGEzcmJqWHF5U2J2eUQtcHN6RGVTR0FSbmdyZUFIVVlobGJDSExNeVhkenpyVnZkR0E?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-26T19:00+09:00"
-  },
-  {
-   "title": "四国電力ウェブサービス 委託先への不正アクセス 新たに顧客情報25万件流出判明 愛媛県関係6万件",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWl2Y2kwQ3ktclMxTlhTdWphX2VwZ3k5V2hXY3RFZURGVFJNRU1WVVhISWFQNzJqaTAtZ2IwdERPQXV4Vm8tTUVYUEVQc1F6a3VGa3NJREpaeWM1QWxoaWRIWmNqLVQ3X0g5Q1k2cHBBSE1pVF9IRUczbE5ET0J5dGY1OWZzVjQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "at": "2026-11-26T19:00+09:00"
   }
  ],
  "tokyo": [],
@@ -490,9 +489,9 @@
    "topic": "ロシア"
   },
   {
-   "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か 露高官発言に反発 ウクライナ情報機関公表",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnhQUmF4YWtjNjN5OElhQ2lEcTJRRVUycnNIbTRLZWRYcVNwaWFEUF9BZE1fNWI3QjVYTndCaS16RWx4OVVrUlVTdzhjTVRIWmVLRmRoNkpmUHpJQXZVdkM2ZUhwTUVrZFM5Vm12OFlMeE9YTWJDckVUdXk3SFJjdFFCc2JYMU5lenJVRw?oc=5",
-   "source": "産経ニュース",
+   "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か　露高官発言に反発　ウクライナ情報機関公表",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPandlRGtfUi1wSnY2em5iWDVuWEpZOGtpNk5zU2thcmkyMzJyRHJoZm82M3JZZTd6TFJxcE1MT0NLdnExMC1XRVYyYXFEcHdJeHRtaVFqRlJsSW5UbDllUzNnQmtxQjQxQ3l3WG9oTHlYVVg1Ym0yRjBBdGNTZ3huaE9IcEpRaWdOTnBidmVaVnFRLTlQdVlCT0dxQ0lQdUkwU1HSAacBQVVfeXFMTXFFR0c5OHdvTVB4UUcza3k5cVpIY1hsbmo4TTM3eklCa3hERmZaUXNNbHJlUGVWLWxIVUZMMnB6MndzV2pGbFpVb1ZkZ3NyRU5OQ0xXQ2F1eUs4dEhnZjdMbGZETmVuQ3pZZTJ2LS1ncHFvcGJoY1JPdUZ2UUc3QzhnZ1NjcHVPTENrRDNZRzNRY21sMVRLYW9qLXExS2lOenRyTk15ajA?oc=5",
+   "source": "ｄメニューニュース",
    "at": "2026-11-26T19:54+09:00",
    "topic": "北朝鮮"
   },
@@ -505,8 +504,8 @@
   },
   {
    "title": "ウクライナが製油所攻撃強化、ロシアの製油能力半減か…ガソリン供給への影響「ほぼ確実」",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEMtUG50ampSanQ0RTZNUk5aaDRlV09HcWducEROb1FYN21GNmpTeEY1RVRiQUxUOUVBUHlaZ04tanBnemMtd1czSVNyMmpROXJjM213LVM3T0ViVXZQcnBDRHJuLVVDU2lpZFlONy12RTZaUjRKVnpTRExybFZOZzJIWjFPaDdw0gGOAUFVX3lxTE80WjAzRjZkdHNwNXdyR21aYXBPbkdCZnJEdlFQbThVYVNidU96eXFRdGlPS0xKT1hUa3haQnVXRWlWQzBtbmRRMkdqRG1VM1VuekppQzl5dlRWUmd1MzJsTEZ3b3pJdXlDRURJdnFZczkxR0Y5RmJFYXI2VmVtUHVXOXRJSnA2NU9jOUlFOXc?oc=5",
-   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0eEF2OFYyck9XaUdpblpiTUxlaUdfUDE4RndHVUQ0ZWEtTlhRQUhsUHJscnp3Wk9TRlhfa0M4T0JPTVZ4QzE3VEpyQzVKZVVRUmlTUTJBdjZCa2RpYnI3LTZn?oc=5",
+   "source": "読売新聞",
    "at": "2026-11-26T19:51+09:00",
    "topic": "ロシア"
   },
@@ -546,11 +545,25 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "核保有「誰の承認も求めない」北朝鮮・金正恩総書記が核物質生産工場などを視察 アメリカ念頭に“非核化に応じない”姿勢",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kWjN5eko3MmZ3OXRvNXdyV0YtM3JPQWJQaW5lVzRMY0RNQmJwUUNoS2J6MEJSSThuQTZMUVV4bDVyVUVGQktCQUxGMFBnbFFLYndTNFlvWmMxMEE1?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-26T17:45+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "北朝鮮が弾道ミサイルの供給を含むロシアへの軍事支援を一時停止中＝ウクライナ情報総局",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYUE5N09JdkY4VmRyMEdCendEejFwRFpTZHB1aDd5YWwyWUdHYU5aYjJ1SkhfYkhaZW93UXNhcVdJNXMzX3A1aDlzeUE4bU44d0lXbGtJbE9DZW5nQ2d3SkEwVUlVcW9pQjI0RjNzUkYwYUxMd2xBTWQ1dWdVVGJwWjQ0UVMxRkxoVzNxRmJzUXpWV09tLXIySEtYZXdEX0otVHM0dFFjZmN6UmlBT0ptZVVPM1dJV3NtMkVhczl3THo1T0ZCRjV0ellQNWNkaDZhODRQQjRfMzhRVmpsSnBhQk5PRXdRQmFaRDJIa3lMRThkN29Gb0pQaG9pRTlZTkV2WWpIajB3Unl4QdIBjwJBVV95cUxNNFEtZEh1S2RKUXhXUXhBTHZUQ3FheTA1dGdhTTJDQTYtTjI4eXdnZXhNVTdKSGprRHVTYXBXcjJlT19UY21vbzF0czJRSW9CaG5fcFJLdndVVEk2VC03RDFBdzlnandZWXFnNmJNSE1rMVFvb0M0enFHdWRsNzRMUkNCX0oyQlR5c3BhX3pVUEZLSjZxcGJyLU9rbE43TGU0QnM0anBWcnZvM3hJMGRpSTBQTWRYZkhEcFVRM2hPVGYtWUpGcUhNSjMyUDRBVEg1UHVid0hiTkhWeGhyVEVCS1VQdC1yN0hIc0V0bFNFY29xUU9hX0FCeFVCLVdETm5zYTFtcDBrcEI3blFwaWVN?oc=5",
    "source": "ウクルインフォルム通信",
    "at": "2026-11-26T17:29+09:00",
    "topic": "北朝鮮"
+  },
+  {
+   "title": "中国艦艇の西太平洋展開を防衛省が相次ぎ公表 中国側は「日本の新軍国主義への抑止」と正当化 #エキスパートトピ",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTVydGhZVTRQeTl0T1hYalJYWDVFTHJHcERJVjdFTmhGNHdiRG1VdWFuaDNuZ0tSaW92eS1XM0pFT0t3cFdnVnE5NU9LNkZYRXNyeloxYWtLVkQ2bW5pLUhRWllROFZrZHMxQmR4VWZWa2ViS01BNFRZN3E0VWl0RE8zNmZNU010TnU2cFJR?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-26T17:06+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "リトアニア外相、ロシアによるものとされる攻撃や破壊工作を背景に、EUにGRUをテロ組織に指定するよう要請",
@@ -560,17 +573,10 @@
    "topic": "欧州・NATO"
   },
   {
-   "title": "金正恩氏「戦術核の活用を」 施設視察、開発継続を強調",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wQ1UyU1hzNDZUOExRaFlCb2VES2pKbEtURFgwOFJ1VWVTVTBQVG4wbzBYUmx5M2g1ZTZ3WkdHaFE4V3VOYmx4OGc3VDEwSXdVRkY5LTdOVFllNnZz?oc=5",
-   "source": "朝日新聞",
-   "at": "2026-11-26T16:30+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "中国海警船2隻、日本領海に侵入 海保が退去するよう警告（ＡＦＰ＝時事）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CSGNkQ1VsYVJ2VC1YcnRUeUJYaUFuVkhXdnNteHRoT1JBRENFZXRCOHI5cURycWpWWl9PYlEyQ3hNYjIxQkF1MFpNT0dUTEVEMUc0U3NOcjhjT3UzdnlwOXBWcUlyUk9jR2tNNVpQbl81YzJmb1ZsVGlMSkdXN28?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-26T15:28+09:00",
+   "title": "中国海警船2隻、日本領海に侵入 海保が退去するよう警告",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01M212STFsc2FSeEcxNy0ycnd4TGFGY1JEWVlMQkF1WWFDVW9XblVydGNjeE5XbmNQM2k3VWhyV0NneW9lcjJiYWN2bjVDZHd1WWtsNXExa1Bsa3oxa3NnQXdnQ3NRTUhyLVc4UjRoZVpxSnRYSWh0WdIBeEFVX3lxTE01M212STFsc2FSeEcxNy0ycnd4TGFGY1JEWVlMQkF1WWFDVW9XblVydGNjeE5XbmNQM2k3VWhyV0NneW9lcjJiYWN2bjVDZHd1WWtsNXExa1Bsa3oxa3NnQXdnQ3NRTUhyLVc4UjRoZVpxSnRYSWh0WQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-26T15:23+09:00",
    "topic": "中国・台湾"
   },
   {
@@ -602,25 +608,18 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "これでは中国のやりたい放題ではないか…メディアが報じない、習近平の露骨な「日本潰し」の全貌【米中ロ首脳会談】",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02ZzFIWEwzSVdfQWRkRzl3YjdtenJCVUl4V2t4UWVnVFhaNDNnUUZwSjh2ajAyR3R2YUJZRDZLek9GMlFVOUkxODc3VVpfTWIyUkZVOGpiUU8?oc=5",
+   "source": "現代ビジネス",
+   "at": "2026-11-26T08:25+09:00",
+   "topic": "中国・台湾"
+  },
+  {
    "title": "トランプ氏とNATOトップ、ウクライナでの戦争を拡大させる行動を避けるようロシアに求める",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOWp4UkZrdDM0VkJiTFNweFFONVowR0EzVVVaWVhIdG4xajZqdlEwYkFSNG5PeEFsdkpzeEc3WmpvY18wU0h5RE1GSGQyaFlwRUVncUc3VDA2TUt6TFp3RUMwdWlYd19jOHZmRzBEUDlTV1NlN3ZUa1FOYmNoX0x0ZnJCYXFqczAwLTNueThhaTVDLVZt?oc=5",
    "source": "Mezha.net",
    "at": "2026-11-26T07:28+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "米台すら読めない中国の「台湾侵攻」最終判断…歴代指導者が直面した《軍事の壁》と、繰り返された《先送り》の歴史",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVNuRWk1ZV8yblItNlRVWGZKTlRsTFlOaEVRcV9jQjYtNUcwaW1VYkd6NkF0dEpfUFdHUnlGamRqZFotMFV2Y0dveDlxclNFd0RXc3daWDV6OWlJVUFHbERqUU5YVzhGcWUwajJVWGlYOTNoUGp6TVBid1JXU1NNRjQxS1FSME5CNjRkOVFn?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-26T06:53+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "古舘伊知郎トーキングブルース「イランとアメリカ、ロシアとウクライナの戦争は同じ戦争」連載５ (日刊スポーツ)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGVFUVJYMjhOdFVnbnU2LUJYOEswMFlBdUlBbDd3bGJta0ZHSjRtNVBRVnZsLVpBa1VYcUhLX0pyQ1hWSlpQVFRhM3hTeWc1MjlaVFNNTHRVemZtZ1RYOFR0cjRod0Q3cDNCWkpIdFZqMEFWRzVIcFYzb1Q5cGNCVV9ibXkxUHZXZTh3NzdB?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-26T06:47+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
@@ -632,15 +631,15 @@
    ]
   },
   "japan": {
-   "level": "green",
+   "level": "yellow",
    "reasons": [
-    "大きな地震やミサイルの報道なし"
+    "弾道ミサイルの報道（北朝鮮、ロシアへの弾道ミサイル供与中断か　露高官発言に反発　）"
    ]
   },
   "world": {
    "level": "yellow",
    "reasons": [
-    "中国・台湾：「攻撃」「侵攻」3件",
+    "中国・台湾：「攻撃」「侵攻」2件",
     "北朝鮮：「ミサイル」2件",
     "ロシア：「攻撃」「ミサイル」2件",
     "欧州・NATO：「攻撃」「ミサイル」4件"
@@ -653,15 +652,15 @@
      "at": "2026-11-26T13:00+09:00"
     },
     {
-     "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か 露高官発言に反発 ウクライナ情報機関公表",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnhQUmF4YWtjNjN5OElhQ2lEcTJRRVUycnNIbTRLZWRYcVNwaWFEUF9BZE1fNWI3QjVYTndCaS16RWx4OVVrUlVTdzhjTVRIWmVLRmRoNkpmUHpJQXZVdkM2ZUhwTUVrZFM5Vm12OFlMeE9YTWJDckVUdXk3SFJjdFFCc2JYMU5lenJVRw?oc=5",
-     "source": "産経ニュース",
+     "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か　露高官発言に反発　ウクライナ情報機関公表",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPandlRGtfUi1wSnY2em5iWDVuWEpZOGtpNk5zU2thcmkyMzJyRHJoZm82M3JZZTd6TFJxcE1MT0NLdnExMC1XRVYyYXFEcHdJeHRtaVFqRlJsSW5UbDllUzNnQmtxQjQxQ3l3WG9oTHlYVVg1Ym0yRjBBdGNTZ3huaE9IcEpRaWdOTnBidmVaVnFRLTlQdVlCT0dxQ0lQdUkwU1HSAacBQVVfeXFMTXFFR0c5OHdvTVB4UUcza3k5cVpIY1hsbmo4TTM3eklCa3hERmZaUXNNbHJlUGVWLWxIVUZMMnB6MndzV2pGbFpVb1ZkZ3NyRU5OQ0xXQ2F1eUs4dEhnZjdMbGZETmVuQ3pZZTJ2LS1ncHFvcGJoY1JPdUZ2UUc3QzhnZ1NjcHVPTENrRDNZRzNRY21sMVRLYW9qLXExS2lOenRyTk15ajA?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-26T19:54+09:00"
     },
     {
-     "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か 露高官発言に反発 ウクライナ情報機関公表",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnhQUmF4YWtjNjN5OElhQ2lEcTJRRVUycnNIbTRLZWRYcVNwaWFEUF9BZE1fNWI3QjVYTndCaS16RWx4OVVrUlVTdzhjTVRIWmVLRmRoNkpmUHpJQXZVdkM2ZUhwTUVrZFM5Vm12OFlMeE9YTWJDckVUdXk3SFJjdFFCc2JYMU5lenJVRw?oc=5",
-     "source": "産経ニュース",
+     "title": "北朝鮮、ロシアへの弾道ミサイル供与中断か　露高官発言に反発　ウクライナ情報機関公表",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPandlRGtfUi1wSnY2em5iWDVuWEpZOGtpNk5zU2thcmkyMzJyRHJoZm82M3JZZTd6TFJxcE1MT0NLdnExMC1XRVYyYXFEcHdJeHRtaVFqRlJsSW5UbDllUzNnQmtxQjQxQ3l3WG9oTHlYVVg1Ym0yRjBBdGNTZ3huaE9IcEpRaWdOTnBidmVaVnFRLTlQdVlCT0dxQ0lQdUkwU1HSAacBQVVfeXFMTXFFR0c5OHdvTVB4UUcza3k5cVpIY1hsbmo4TTM3eklCa3hERmZaUXNNbHJlUGVWLWxIVUZMMnB6MndzV2pGbFpVb1ZkZ3NyRU5OQ0xXQ2F1eUs4dEhnZjdMbGZETmVuQ3pZZTJ2LS1ncHFvcGJoY1JPdUZ2UUc3QzhnZ1NjcHVPTENrRDNZRzNRY21sMVRLYW9qLXExS2lOenRyTk15ajA?oc=5",
+     "source": "ｄメニューニュース",
      "at": "2026-11-26T19:54+09:00"
     }
    ]
