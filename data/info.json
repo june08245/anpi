@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-27T09:45+09:00",
+ "updated": "2026-11-27T10:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
-  "items": [],
-  "headline": "注意報を解除します。",
-  "reported": "2026-11-26T20:09:00+09:00"
+  "items": [
+   {
+    "code": "14",
+    "name": "雷注意報",
+    "level": 2,
+    "status": "発表"
+   }
+  ],
+  "headline": "大阪府では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+  "reported": "2026-11-27T09:44:00+09:00"
  },
  "quakes": [
   {
@@ -95,28 +102,10 @@
    "label": "イラン・アメリカ",
    "items": [
     {
-     "title": "イランがクウェートにドローン攻撃か、イタリア人2人死亡 イランは関与否定",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtejRZRHllZzVaVkVtX0VmZ0djbjdLZzFTN0xUZzBDQnQwc2paZ3JDRUFxTW55MGhLUXdEUllnbTNnMGI0ZUxZQnVPY1ZLamRpYUVfUHRVNGlEdHJlVjFSTXcyY2MxOGJRUjZ2Y1JB?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-27T08:26+09:00"
-    },
-    {
      "title": "クウェート「イランのドローン攻撃でイタリア人2人死亡」…イランは否定",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKYUJvY0Q0WDBOZVdETVBvaldXOW1QMDFwaTN0cFB6bG9YcXlUWW0wbmZSWmc5N2dxa2h5dlFLOG9oNkMtakQzVEx6YzZlVkVFSUp3djBNQXdLYVFydVBYbGxsVmZLT3I2R19xV9IBbEFVX3lxTFBKYUJvY0Q0WDBOZVdETVBvaldXOW1QMDFwaTN0cFB6bG9YcXlUWW0wbmZSWmc5N2dxa2h5dlFLOG9oNkMtakQzVEx6YzZlVkVFSUp3djBNQXdLYVFydVBYbGxsVmZLT3I2R19xVw?oc=5",
      "source": "Infoseek",
      "at": "2026-11-27T08:08+09:00"
-    },
-    {
-     "title": "クウェートが攻撃を受け外国人2人死亡 イランは関与否定",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uUzN2YWR2bmp1MFJnRmp2VFpDVmttUDlyTGhoYXl0OUtBTUlpaGEzWVhKS1RWcXhRZFRCb2ozZ2NoOExhMllOVUF4RTNoUmV5d095Q3lLdFVKYXQyQ2tv?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-27T07:56+09:00"
-    },
-    {
-     "title": "クウェートに無人機攻撃＝イタリア人２人死亡、イランは関与否定",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xYWpEWVVHR0d3TDc4MTB6Mm9mWC1PdjZHbTRuUnNLaEFoUnhFVmc5VFdocGRLTkpiRndjVmNiTVVteGFneFRBY0VzVmYtOElRVWF0TkNUZWRpOWwybWMw?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-27T07:52+09:00"
     },
     {
      "title": "クウェート重要施設にイラン攻撃か イタリア人2人死亡 イランは攻撃否定",
@@ -125,10 +114,28 @@
      "at": "2026-11-27T01:00+09:00"
     },
     {
-     "title": "イランが無人機攻撃と発表 クウェート、2人死亡",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GYjYtd0F0UkdOV0d0ZmljOWtQM013UTlIMV9MUmQ5QlI2a2VVWkxKazZYRm1sZ3kzbGxpeVRObEx4cDVQbi1fUDdiSjdVaG9vVmpLRWI3R3BBcjloWkZYLUhHR2QxM3pHT0dWRTY1MW8?oc=5",
+     "title": "イランが無人機攻撃と発表　クウェート、2人死亡",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mdDFBSnNUa1ByXzZfNU1pblJvUVFKRkcxTGFjeWRuTVdOdjF1VUdWQ0l5SlVBQ2RJSzRUU0YyYnZ2OTlwa0pxaG5taDd1STdod3NlR0RKTFZZaVJ4RFJKYko4WUk1eHlHQXctOFFoRlZrdnlE0gF0QVVfeXFMTmZ0MUFKc1RrUHJfNl81TWluUm9RUUpGRzFMYWN5ZG5NV052MXVVR1ZDSXlKVUFDZElLNFRTRjJidnY5OXBrSnFobm1oN3VJN2h3c2VHREpMVllpUnhEUkpiSjhZSTV4eUdBdy04UWhGVmt2eUQ?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-26T23:25+09:00"
+    },
+    {
+     "title": "イランがクウェート攻撃、2人死亡と報道",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDMldkN2NUVGRVRXctc1NjUmVwcXdkLXVvRXZoSk05WmxxSHVGMExlWld3OTlONDljLTFWZTYwWHRlMnpWeGNwX2JXdE4zWkVJbW5xcWgxMUVHaDd2U0tMLXF3eW13S21SNEl3Tl9uRVdxblZ30gF0QVVfeXFMUEMyV2Q3Y1RUZFVFdy1zU2NSZXBxd2QtdW9FdmhKTTlabHFIdUYwTGVaV3c5OU40OWMtMVZlNjBYdGUyelZ4Y3BfYld0TjNaRUltbnFxaDExRUdoN3ZTS0wtcXd5bXdLbVI0SXdOX25FV3FuVnc?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-26T23:01+09:00"
+    },
+    {
+     "title": "対イラン、米国抜きで攻撃も 「用意できている」とイスラエル軍（時事通信）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RcXhPVUpyVGxUUzluanBlVldBeUlLVHhqaVN4cmlzSDlLQy1RTy0wUW00NW5MLVJFUXh3angtNHlQU2wxZWhNOEFVUUx0VGE1QWxkRlNlQndEMGROdE5PN3dKYnRubXhIWE9HVWFGUkdOYWtxN3lOQnI5TFZ2MUE?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-26T20:42+09:00"
+    },
+    {
+     "title": "対イラン、米国抜きで攻撃も＝「用意できている」とイスラエル軍",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92UEppUFJBSFBqM3hXUmRmU3NOMXZUZ2MySG8ycF9KYVF2aUlkdWV2UFJaaklBcTN5Y0F6NGlfV0xaMXEwY0RQY1pzbTRSNFVJYUlYUVZWSnpFLU45LXZZ?oc=5",
      "source": "Excite エキサイト",
-     "at": "2026-11-26T23:26+09:00"
+     "at": "2026-11-26T20:41+09:00"
     }
    ]
   },
@@ -149,12 +156,6 @@
      "at": "2026-11-27T01:22+09:00"
     },
     {
-     "title": "中国艦艇の西太平洋展開を防衛省が相次ぎ公表 中国側は「日本の新軍国主義への抑止」と正当化 #エキスパートトピ",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkxnaVBBS0lxRTQtZVA0TjV6bTl0eFhmNUhpWXR6WEI4RWJKVjU1V3VfV2tsT1R4NjYtN1lzV0hzTUFXaWEwWnpqN21lY0FRTWloNEpXbTdDZ3lpYkhNRXRzWUV3Y1B6T2d0MDNLQWUyV2RJRDhMU0pSTi1UdHNOWEFrV0swSTh1Rzc2VU5B?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-26T17:16+09:00"
-    },
-    {
      "title": "中国海警船2隻、日本領海に侵入 海保が退去するよう警告",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RcndWY0VyRGRac1VyYmhKQ3VZRm03aFF1enlPTnZSUkZVYXV4M1AtQURGWE5IdHJVUnVQcFZpVTltaFlRb1ZsWXZLS1dSamVtdm5TRXNSa2tGN0prbkE00gFkQVVfeXFMT3ZZdnlUTEFXaFJOYWtLczRjSDBld09hanNROG5qalBKcGRzc2Vkd29POGZIYXRTY2JaUkN4WFJjd2xncGptWm5rTEI1VmlPd3o5SG80RnZxMnl5QmtSTHBhVFdmSQ?oc=5",
      "source": "Infoseek",
@@ -171,6 +172,12 @@
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MVy1JaUtVU3BPa3lfS2QtNk1rYW5TYkVpRWhXX0pjWWtraGdJbnR5RDQ5Z0dMWndudDZuRjcyY0k0ZkI4c2xjbDc3eE1nRlpyT3dXbFMzNGVvZVJ3M3RKdUN3b9IBaEFVX3lxTE1UZjZoQWM3OGZxR2t4aW1ST3JkVUhTdWVUVnJWcTg2UGc5LWFUcjU5cXlpWlo1czFRVzF1djJJanBid01NYUlyUmZIOTNZbXcyTU5LVWM1RUU3ODJEbmtxYk50N3lxSVpL?oc=5",
      "source": "財経新聞",
      "at": "2026-11-26T11:19+09:00"
+    },
+    {
+     "title": "これでは中国のやりたい放題ではないか…メディアが報じない、習近平の露骨な「日本潰し」の全貌【米中ロ首脳会談】",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02ZzFIWEwzSVdfQWRkRzl3YjdtenJCVUl4V2t4UWVnVFhaNDNnUUZwSjh2ajAyR3R2YUJZRDZLek9GMlFVOUkxODc3VVpfTWIyUkZVOGpiUU8?oc=5",
+     "source": "現代ビジネス",
+     "at": "2026-11-26T08:25+09:00"
     }
    ]
   },
@@ -179,9 +186,9 @@
    "label": "北朝鮮",
    "items": [
     {
-     "title": "北朝鮮がロシア軍事支援一時停止か　金総書記が決定　ウクライナ情報機関が分析",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEVJYV91enpEQWxKVzJwT0JLbzFBbGNWY3VxaHpxanNNX01ZMFk2XzVPMWlkRk1ZSjNUQ3FzMUw3VTNCZlUzaWptZ01FOFhyekZOd0xieUZqb0ZXNE9GczBRVVptZGtoaGtyaW1HajhoZXMxTndaZ0JHOENtRUlURXR6aWNWUdIBiwFBVV95cUxNbmI1dVdoZTVBN3R3c21FRnBwNnJUVE5fZDBPV01Sc3ZsTEhoSk52N0RBTGY0MTkwYzJzZ19GcVppRGJMbW1ESkd4YnZScVItRE5JaTd6a1lQU3F6aEZWdnU3elN3WFZLOFFYaGhkeGdXc1E5YnM4QzNnUVprQWhIVmx5V214TFdMNUJz?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "北朝鮮がロシア軍事支援一時停止か 金総書記が決定 ウクライナ情報機関が分析",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xckFsd3BqU2JpYXFscW1tWWQ4WHZfUm1tMmpPZ1R5MmxiTngyQU5kdWZmWk1CYjYwT2xUMVlrb3lCR2VIelJwX2hqWW55UTNJY3c0QXVUOWtINVBDWExNSTlwcG90WWxVV3g1RmdSQlJiZUNqVXgwYi1R?oc=5",
+     "source": "テレ朝NEWS",
      "at": "2026-11-27T09:28+09:00"
     },
     {
@@ -221,9 +228,9 @@
    "label": "ロシア",
    "items": [
     {
-     "title": "北朝鮮がロシア軍事支援一時停止か　金総書記が決定　ウクライナ情報機関が分析",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEVJYV91enpEQWxKVzJwT0JLbzFBbGNWY3VxaHpxanNNX01ZMFk2XzVPMWlkRk1ZSjNUQ3FzMUw3VTNCZlUzaWptZ01FOFhyekZOd0xieUZqb0ZXNE9GczBRVVptZGtoaGtyaW1HajhoZXMxTndaZ0JHOENtRUlURXR6aWNWUdIBiwFBVV95cUxNbmI1dVdoZTVBN3R3c21FRnBwNnJUVE5fZDBPV01Sc3ZsTEhoSk52N0RBTGY0MTkwYzJzZ19GcVppRGJMbW1ESkd4YnZScVItRE5JaTd6a1lQU3F6aEZWdnU3elN3WFZLOFFYaGhkeGdXc1E5YnM4QzNnUVprQWhIVmx5V214TFdMNUJz?oc=5",
-     "source": "ｄメニューニュース",
+     "title": "北朝鮮がロシア軍事支援一時停止か 金総書記が決定 ウクライナ情報機関が分析",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xckFsd3BqU2JpYXFscW1tWWQ4WHZfUm1tMmpPZ1R5MmxiTngyQU5kdWZmWk1CYjYwT2xUMVlrb3lCR2VIelJwX2hqWW55UTNJY3c0QXVUOWtINVBDWExNSTlwcG90WWxVV3g1RmdSQlJiZUNqVXgwYi1R?oc=5",
+     "source": "テレ朝NEWS",
      "at": "2026-11-27T09:28+09:00"
     },
     {
@@ -245,16 +252,16 @@
      "at": "2026-11-27T08:42+09:00"
     },
     {
+     "title": "史上初!? ロシアのジェット自爆ドローンが「レーザー」で“炙られ”撃ち落とされる決定的瞬間 もはや未来の戦場（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EeW5EUFFIVTA1UFFyWDMxUFNQbGFTQW9WRDZaM01LZ3pndFBEaGkwa1RxaWJ3UnZsXzdQY1B6YnBKWldKNGk1aWdB?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-27T08:42+09:00"
+    },
+    {
      "title": "「両国関係の改善に寄与することを期待」高市総理とプーチン大統領の対話 ロシア外務省“高市氏の要請”認める ウクライナ侵攻後初 約30分意見交換（TBS NEWS DIG Powered by JNN）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUaUdPVFJSVkRTcTdWa3FHdDZGOUFxeVlZdTdTd0Z3by0tcXB6RG40TFBsWVFZY0dQSWpUVHFtR0dfZ1hocnlONExJSUJSZW9zZm95aGVaQW9HTFduLXd3Z29HY1MwMWNaRmhPZGRtVWxmOGpKdzBxUUN0ZGxGQW8?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-27T08:35+09:00"
-    },
-    {
-     "title": "トランプ大統領 ロシアに欧州への侵攻停止を要求",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZGFtR21qYlBLU2tDdmpfZUQ4Z2pZTS02V0xMTnVkUGtVcFBGZmF1RHlVcFFORUswWU1aaVI4eVJLMkNIanJuZ1NxRlZIT0VxbWEweDZKWl9EUm1KYXFDN2RJQXBMUkFPS0NKUGl3?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-27T08:30+09:00"
     }
    ]
   },
@@ -263,10 +270,22 @@
    "label": "欧州・NATO",
    "items": [
     {
+     "title": "トランプ氏、プーチン氏に自制求める 欧州全域での軍事攻撃巡り",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaDNrRm1ENEhYQ1V6dk1qdXJibVBQNllCXzVhN2Y2TGphQVkxbTl1WGQxOWlRS0EycW56NG5PZ1UxZGJZRUE4cWp6YlhKU1FSbVl2UUFXUHJXNXRKMjVDVDNRMHpmRjMyVGpWeEo0Q0FnRHB3ajA3eUFyMkNlUWc0Rmk2UENoZw?oc=5",
+     "source": "Reuters",
+     "at": "2026-11-27T01:54+09:00"
+    },
+    {
      "title": "ポーランド、ウクライナ上空でのロシア製ミサイル迎撃をNATOに検討要請",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeW1uUjBFRFZfQi1xemlLT1c3SzBkeUJmYkFITUhLcWxubFQta2toVmNua0pMVTF1bTJaZUFoa2syTEI5cGdIQUxQSmkwcEYyTlo3d1gyd2k1OU45Y0dyVzA5TG00aG5wclVGQnQ2bFpVYWNxcTA5Z1pzXzVUbmNTSGkwemJEMGt0bkNvdXI2enY?oc=5",
      "source": "Meta-Defense",
      "at": "2026-11-27T01:48+09:00"
+    },
+    {
+     "title": "トランプ氏、プーチン氏に欧州への攻撃停止を要請",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzMzR1BnZ1FUaUlLRUNaU1k1SGxMek1jaUgxaHFmMG1lSkFzemZibDd6VjlfSEkycEIzY2N1SWxiQVRhYTM5RDVlTjB5WDJTd2hBWUZqR1pSMjNLX2Z5a083QmZqVW1qVTByc2JWWG0wVERfTDgyUUJ2aUYwWkhieGVaSldBS05h0gGcAUFVX3lxTE1QNjViZUJKcFkyaXFqYTVFTXRsNjN4ZGppcDBUMFRlSzRIRUZ3UXlqMVM3eV96akQxWDgwbS13bnhLSFY5Ml9hYWpfeDc0bFdjb3NpMGwtVlc3Y1U3NmJiOTJ1X3c5LVBTZy11cU01ZUF6akpxbDBWNExyU016c29feGliZ1dBWnh5TFgxdWxkMGxvVDNjcnNyUlJxTA?oc=5",
+     "source": "Chosunbiz",
+     "at": "2026-11-27T01:44+09:00"
     },
     {
      "title": "トランプ氏とNATO事務総長、ロシアに戦争拡大回避を要求―プーチン氏「友人」発言から1週間",
@@ -285,18 +304,6 @@
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KUmV1Y0FpeVBQWDQyNFJfcFFuQ1FUNFc4QjdDUWRrLXNuN0tVQ2hEZlBqZjhXVGl4d21VR2YyRVdsbUxTdks0aHVfcktpQ1d4Z3F3VEltRmNtSGttVzBHYlBIN0lWZFhtRnNXQ1dGNVg3eUFuelhR?oc=5",
      "source": "日本経済新聞",
      "at": "2026-11-27T00:00+09:00"
-    },
-    {
-     "title": "ロシア、ウクライナが地中海やバルト海へ戦争拡大と非難",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTaHhCanhTeVF6RGdscDYxYkRxLUl1R2VOM0RKc0tPbzlmRG43SXBWcXBGNG5jRlg4RDVoQnlUelFjNVFnYkthMFNlbUNPRnFmeno0OXotbHg1TkVidFZjV09Jam1SQnJibWxpdk4ySkRXOVVWU1dHOW1XOWV4QdIBgwFBVV95cUxQVkRqRnhocXFSSDVzSWxwUnVFckxVMDdES2JiWk1EM1ViZzVJdFNvTXBNLWxnQXRESUFwVGNtZ0w4VnRSSlNfb192ejdxWGF1LVkwYVJ3c1REaHNXaktIcHNDUWRjSEppVF9UbllEZDU5OXBodUUyTi1vS2FWaDc0VmFqcw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-26T19:53+09:00"
-    },
-    {
-     "title": "トランプ大統領とNATOのルッテ事務総長、ロシア・ウクライナ戦争やイラン情勢を協議",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVaGdpdk9TRHlvZkhNN0FHLUxmcWtlQXJRTkVEejdaUUFxcGRRZW9nXzhzMnUtcDRCUFRvYmZxNzhUM2tlYlprNTF1UzlpVzZfTnNwUnBBRXJtWDA?oc=5",
-     "source": "TRT 日本語",
-     "at": "2026-11-26T18:08+09:00"
     }
    ]
   }
@@ -374,6 +381,12 @@
    "at": "2026-11-27T08:47+09:00"
   },
   {
+   "title": "文科省の入札情報システムに不正アクセス、最大16万3953件の事業者情報が流出か",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52M0JVeTBVeE54U1NPQ0h0cXNOMlNVUDZodlhtWG1BRW55TTA2OG03bFVxRV82U215bVc5Z0VCQ05uZ3VEeDMxQkFfTjl6SjRkdWtpd3o0Z0Fvd0dCMHlHcEFIV2Q1YUQzZUNjLTcwYXh3MVRE?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-27T09:35+09:00"
+  },
+  {
    "title": "QVCジャパン、利用している「KARTE」への不正アクセスの影響を調査 現時点で不正利用被害はなし",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cGg4anpaeTZDWm96cDk5ZkV0OWt0OVFfTFM5Y2NtZklxbUM1MUpTcmxvNTlxZWFVZlRUTzl3TWJpZjFvOWt6T0M0cDhkbXVjRFRXSVln?oc=5",
    "source": "日本ネット経済新聞",
@@ -392,16 +405,16 @@
    "at": "2026-11-27T09:31+09:00"
   },
   {
-   "title": "集英社、「KARTE」への不正アクセスで「ジャンプキャラクターズストア」会員の生年月日約70万件が漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03aGdzaERhNHF1V3VEeDRnd21SYjNYVHk5bXctTzZSeEVxeWxPMW1OSzVRU3dvbVgwWTluRHdERzdtc0NCY2VEeA?oc=5",
+   "title": "三菱地所、「KARTE」への不正アクセスで丸の内・みなとみらい関連など8サービスの情報が漏えい",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xS2ZCajAxSDhPaFA3Sl9zRGFXOEhXNFV5R1B1Q3Bfak5sUUVEWE9oNV9sd1JaMFYxalhFWWNUR0lWZTNHYUM3aw?oc=5",
    "source": "株式会社アクト",
    "at": "2026-11-27T09:31+09:00"
   },
   {
    "title": "【LCCピーチ】顧客の個人情報、最大約944万件漏えい 外部サービス「KARTE」への不正アクセスの影響で",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpUHp6Ujlrb2h4TV82c3hVVDllV0Q4aTA2ZnJ0UzAzUGppbTA5eXdxOWhXMmZnclBGWGxpRTMza0llYWFWSFVTYVN6NFlkNl9CMmNMYU1NNGwtemVMS1UzaExaVUF0VWs?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-27T09:24+09:00"
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfR2I2TGhjQ3ZZNXNhNndtQldNdGd5enRuT3JvQTN3WHktLXJTbVItRXctQWFMbUlPRC1MbzNUYS1qemtodnVITFVlaVlJSGM5U1Y5cWM1Y3VnRlNXSURMd0lZdnQ3NDM3T0J2dENjak83SUMza0c3X2x2TlpINnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-27T09:22+09:00"
   },
   {
    "title": "シンカが社内業務システムへの不正アクセスを公表し5,286件の情報漏えいを確認",
@@ -444,12 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVRIU2xHdTVmQXZ4bTdfR2NzblRwcTUzOThFYkMzbUVZeXRwME83dGVxdGJ0M3lwcS1IUDd5Zk5Fa0dzT0h0Q3dfNk04RHJlcVQxZUhlS0FSbnJRVl81MDhiZjJoelZpMmxaMWJYdHh1THUtXzdvNTNjWkc2RGxqR9IBlAFBVV95cUxQY0hUX0JITjJCclpNaldRNEVhZ2tSN2dxeG5zdGFuZl9wVC1veGRnNk1zTUlSSElOalotTkJGN0ZKUVdFay0zU2pGeFBQdXVPSEVCMmFNWjRYbnVPaGwzWjdsOG9PS09FMHZVUGplbmp3Y3Jxd3pOQVN0eFByM01nMzQxaklrTVZsWV9FeDlGUlYxTE1a?oc=5",
    "source": "Chosunbiz",
    "at": "2026-11-27T08:41+09:00"
-  },
-  {
-   "title": "1Password情報漏えい｜顧客データ流出の内容と今やること",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iTmtuTGNxU0NJQ1BkeTdCWTI2dDc1OWZobksxNjgwWkM5eDNDTmxXYnF5ajJwSmxFajN0WThrTkJPanhDcW1mUjU0SVVZRkxGX3ZHb0h6WkdQdHh5aTJ4WnNfSQ?oc=5",
-   "source": "enjoypclife.net",
-   "at": "2026-11-27T08:38+09:00"
   }
  ],
  "tokyo": [],
@@ -469,9 +476,9 @@
  ],
  "world": [
   {
-   "title": "北朝鮮がロシア軍事支援一時停止か　金総書記が決定　ウクライナ情報機関が分析",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEVJYV91enpEQWxKVzJwT0JLbzFBbGNWY3VxaHpxanNNX01ZMFk2XzVPMWlkRk1ZSjNUQ3FzMUw3VTNCZlUzaWptZ01FOFhyekZOd0xieUZqb0ZXNE9GczBRVVptZGtoaGtyaW1HajhoZXMxTndaZ0JHOENtRUlURXR6aWNWUdIBiwFBVV95cUxNbmI1dVdoZTVBN3R3c21FRnBwNnJUVE5fZDBPV01Sc3ZsTEhoSk52N0RBTGY0MTkwYzJzZ19GcVppRGJMbW1ESkd4YnZScVItRE5JaTd6a1lQU3F6aEZWdnU3elN3WFZLOFFYaGhkeGdXc1E5YnM4QzNnUVprQWhIVmx5V214TFdMNUJz?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "北朝鮮がロシア軍事支援一時停止か 金総書記が決定 ウクライナ情報機関が分析",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xckFsd3BqU2JpYXFscW1tWWQ4WHZfUm1tMmpPZ1R5MmxiTngyQU5kdWZmWk1CYjYwT2xUMVlrb3lCR2VIelJwX2hqWW55UTNJY3c0QXVUOWtINVBDWExNSTlwcG90WWxVV3g1RmdSQlJiZUNqVXgwYi1R?oc=5",
+   "source": "テレ朝NEWS",
    "at": "2026-11-27T09:28+09:00",
    "topic": "北朝鮮"
   },
@@ -511,6 +518,13 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "史上初!? ロシアのジェット自爆ドローンが「レーザー」で“炙られ”撃ち落とされる決定的瞬間 もはや未来の戦場（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EeW5EUFFIVTA1UFFyWDMxUFNQbGFTQW9WRDZaM01LZ3pndFBEaGkwa1RxaWJ3UnZsXzdQY1B6YnBKWldKNGk1aWdB?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-27T08:42+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "「両国関係の改善に寄与することを期待」高市総理とプーチン大統領の対話 ロシア外務省“高市氏の要請”認める ウクライナ侵攻後初 約30分意見交換（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUaUdPVFJSVkRTcTdWa3FHdDZGOUFxeVlZdTdTd0Z3by0tcXB6RG40TFBsWVFZY0dQSWpUVHFtR0dfZ1hocnlONExJSUJSZW9zZm95aGVaQW9HTFduLXd3Z29HY1MwMWNaRmhPZGRtVWxmOGpKdzBxUUN0ZGxGQW8?oc=5",
    "source": "Yahoo!ニュース",
@@ -518,38 +532,10 @@
    "topic": "ロシア"
   },
   {
-   "title": "トランプ大統領 ロシアに欧州への侵攻停止を要求",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZGFtR21qYlBLU2tDdmpfZUQ4Z2pZTS02V0xMTnVkUGtVcFBGZmF1RHlVcFFORUswWU1aaVI4eVJLMkNIanJuZ1NxRlZIT0VxbWEweDZKWl9EUm1KYXFDN2RJQXBMUkFPS0NKUGl3?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-27T08:30+09:00",
-   "topic": "ロシア"
-  },
-  {
-   "title": "イランがクウェートにドローン攻撃か、イタリア人2人死亡 イランは関与否定",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtejRZRHllZzVaVkVtX0VmZ0djbjdLZzFTN0xUZzBDQnQwc2paZ3JDRUFxTW55MGhLUXdEUllnbTNnMGI0ZUxZQnVPY1ZLamRpYUVfUHRVNGlEdHJlVjFSTXcyY2MxOGJRUjZ2Y1JB?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-27T08:26+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
    "title": "クウェート「イランのドローン攻撃でイタリア人2人死亡」…イランは否定",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKYUJvY0Q0WDBOZVdETVBvaldXOW1QMDFwaTN0cFB6bG9YcXlUWW0wbmZSWmc5N2dxa2h5dlFLOG9oNkMtakQzVEx6YzZlVkVFSUp3djBNQXdLYVFydVBYbGxsVmZLT3I2R19xV9IBbEFVX3lxTFBKYUJvY0Q0WDBOZVdETVBvaldXOW1QMDFwaTN0cFB6bG9YcXlUWW0wbmZSWmc5N2dxa2h5dlFLOG9oNkMtakQzVEx6YzZlVkVFSUp3djBNQXdLYVFydVBYbGxsVmZLT3I2R19xVw?oc=5",
    "source": "Infoseek",
    "at": "2026-11-27T08:08+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "クウェートが攻撃を受け外国人2人死亡 イランは関与否定",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uUzN2YWR2bmp1MFJnRmp2VFpDVmttUDlyTGhoYXl0OUtBTUlpaGEzWVhKS1RWcXhRZFRCb2ozZ2NoOExhMllOVUF4RTNoUmV5d095Q3lLdFVKYXQyQ2tv?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-27T07:56+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "クウェートに無人機攻撃＝イタリア人２人死亡、イランは関与否定",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xYWpEWVVHR0d3TDc4MTB6Mm9mWC1PdjZHbTRuUnNLaEFoUnhFVmc5VFdocGRLTkpiRndjVmNiTVVteGFneFRBY0VzVmYtOElRVWF0TkNUZWRpOWwybWMw?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-27T07:52+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -574,10 +560,24 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "トランプ氏、プーチン氏に自制求める 欧州全域での軍事攻撃巡り",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaDNrRm1ENEhYQ1V6dk1qdXJibVBQNllCXzVhN2Y2TGphQVkxbTl1WGQxOWlRS0EycW56NG5PZ1UxZGJZRUE4cWp6YlhKU1FSbVl2UUFXUHJXNXRKMjVDVDNRMHpmRjMyVGpWeEo0Q0FnRHB3ajA3eUFyMkNlUWc0Rmk2UENoZw?oc=5",
+   "source": "Reuters",
+   "at": "2026-11-27T01:54+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "ポーランド、ウクライナ上空でのロシア製ミサイル迎撃をNATOに検討要請",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeW1uUjBFRFZfQi1xemlLT1c3SzBkeUJmYkFITUhLcWxubFQta2toVmNua0pMVTF1bTJaZUFoa2syTEI5cGdIQUxQSmkwcEYyTlo3d1gyd2k1OU45Y0dyVzA5TG00aG5wclVGQnQ2bFpVYWNxcTA5Z1pzXzVUbmNTSGkwemJEMGt0bkNvdXI2enY?oc=5",
    "source": "Meta-Defense",
    "at": "2026-11-27T01:48+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
+   "title": "トランプ氏、プーチン氏に欧州への攻撃停止を要請",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzMzR1BnZ1FUaUlLRUNaU1k1SGxMek1jaUgxaHFmMG1lSkFzemZibDd6VjlfSEkycEIzY2N1SWxiQVRhYTM5RDVlTjB5WDJTd2hBWUZqR1pSMjNLX2Z5a083QmZqVW1qVTByc2JWWG0wVERfTDgyUUJ2aUYwWkhieGVaSldBS05h0gGcAUFVX3lxTE1QNjViZUJKcFkyaXFqYTVFTXRsNjN4ZGppcDBUMFRlSzRIRUZ3UXlqMVM3eV96akQxWDgwbS13bnhLSFY5Ml9hYWpfeDc0bFdjb3NpMGwtVlc3Y1U3NmJiOTJ1X3c5LVBTZy11cU01ZUF6akpxbDBWNExyU016c29feGliZ1dBWnh5TFgxdWxkMGxvVDNjcnNyUlJxTA?oc=5",
+   "source": "Chosunbiz",
+   "at": "2026-11-27T01:44+09:00",
    "topic": "欧州・NATO"
   },
   {
@@ -607,6 +607,13 @@
    "source": "Mezha.net",
    "at": "2026-11-27T01:00+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "欧州の冷蔵設備攻撃、背後にイランの秘密サイバー部隊",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KUmV1Y0FpeVBQWDQyNFJfcFFuQ1FUNFc4QjdDUWRrLXNuN0tVQ2hEZlBqZjhXVGl4d21VR2YyRVdsbUxTdks0aHVfcktpQ1d4Z3F3VEltRmNtSGttVzBHYlBIN0lWZFhtRnNXQ1dGNVg3eUFuelhR?oc=5",
+   "source": "日本経済新聞",
+   "at": "2026-11-27T00:00+09:00",
+   "topic": "欧州・NATO"
   }
  ],
  "status": {
@@ -627,15 +634,15 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」6件",
     "中国・台湾：「攻撃」2件",
-    "ロシア：「攻撃」「侵攻」4件",
-    "欧州・NATO：「攻撃」「ミサイル」2件"
+    "ロシア：「攻撃」「侵攻」3件",
+    "欧州・NATO：「攻撃」「ミサイル」4件"
    ],
    "items": [
     {
-     "title": "イランがクウェートにドローン攻撃か、イタリア人2人死亡 イランは関与否定",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtejRZRHllZzVaVkVtX0VmZ0djbjdLZzFTN0xUZzBDQnQwc2paZ3JDRUFxTW55MGhLUXdEUllnbTNnMGI0ZUxZQnVPY1ZLamRpYUVfUHRVNGlEdHJlVjFSTXcyY2MxOGJRUjZ2Y1JB?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-27T08:26+09:00"
+     "title": "クウェート「イランのドローン攻撃でイタリア人2人死亡」…イランは否定",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKYUJvY0Q0WDBOZVdETVBvaldXOW1QMDFwaTN0cFB6bG9YcXlUWW0wbmZSWmc5N2dxa2h5dlFLOG9oNkMtakQzVEx6YzZlVkVFSUp3djBNQXdLYVFydVBYbGxsVmZLT3I2R19xV9IBbEFVX3lxTFBKYUJvY0Q0WDBOZVdETVBvaldXOW1QMDFwaTN0cFB6bG9YcXlUWW0wbmZSWmc5N2dxa2h5dlFLOG9oNkMtakQzVEx6YzZlVkVFSUp3djBNQXdLYVFydVBYbGxsVmZLT3I2R19xVw?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-27T08:08+09:00"
     },
     {
      "title": "トランプ大統領 プーチン大統領に欧州全域での軍事攻撃の停止を要請 中国での首脳会談で ウクライナ和平の早期実現のため",
