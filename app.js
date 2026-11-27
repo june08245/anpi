@@ -915,9 +915,14 @@ function assessOsaka(info) {
   const out = newsHits(info.outage, ["停電"]).filter(n => !isResolved(n.title));
   if (out.length) yel.push(`停電の報道（${out[0].title.slice(0, 30)}）`);
   // 緊急にするのは大阪市内とはっきり分かる時だけ
-  const lr = realOnly(newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ", "爆発"])).filter(n => ["大阪市", "生野", "旭区"].some(p => n.title.includes(p)));
+  // 緊急は避難指示・テロだけ（6時間以内）。1か所の爆発・火事は「注意」まで
+  const lr = realOnly(newsHits(info.osaka, ["避難指示", "緊急安全確保", "テロ"], 6)).filter(n => ["大阪市", "生野", "旭区"].some(p => n.title.includes(p)));
   if (lr.length) { red.push(`「${lr[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(lr[0])); }
-  else { const ly = newsHits(info.osaka, ["断水", "大規模火災", "延焼", "高齢者等避難"]); if (ly.length) yel.push(`「${ly[0].title.slice(0, 40)}」`); }
+  else {
+    const ly = [...newsHits(info.osaka, ["断水", "大規模火災", "延焼", "高齢者等避難"]),
+      ...realOnly(newsHits(info.osaka, ["爆発", "火災"], 6)).filter(n => ["大阪市", "生野", "旭区"].some(p => n.title.includes(p)))];
+    if (ly.length) yel.push(`「${ly[0].title.slice(0, 40)}」`);
+  }
   pushNankai(info, red, yel, urgent);
   const cy = localCyber(info.cyber);
   if (cy.length) yel.push(`「${cy[0].title.slice(0, 40)}」`);
@@ -950,7 +955,7 @@ function assessTrip(info) {
     else if (q.tokyoRank === 4) yel.push(`東京で震度4の地震（${fmtAt(q.at)}）`);
   }
   const tn = (info.tokyo || []).filter(n => !isResolved(n.title));
-  const tr = realOnly(newsHits(tn, ["避難指示", "緊急安全確保", "テロ", "爆発"])).filter(n => TRIP_STRICT.some(p => n.title.includes(p)));
+  const tr = realOnly(newsHits(tn, ["避難指示", "緊急安全確保", "テロ"], 6)).filter(n => TRIP_STRICT.some(p => n.title.includes(p)));
   if (tr.length) { red.push(`「${tr[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(tr[0])); }
   const ty = newsHits(tn, ["停電", "断水", "大規模火災", "延焼", "通信障害"]).filter(n => TRIP_PLACES.some(p => n.title.includes(p)));
   if (ty.length) yel.push(`「${ty[0].title.slice(0, 40)}」`);
@@ -969,7 +974,8 @@ function assessJapan(info) {
     .filter(n => !["あした", "明日", "予定", "流れるみたい", "流れます", "放送", "お知らせ", "伝達", "点検", "確認"].some(w => n.title.includes(w)))
     .filter(n => ["発射", "ミサイル", "落下", "通過", "上空", "避難", "地下", "建物の中"].some(w => n.title.includes(w)));
   if (ja.length) { red.push(`「${ja[0].title.slice(0, 40)}」`); urgent.push(newsUrgent(ja[0])); }
-  else { const mi = newsHits(info.japan, ["弾道ミサイル"]).filter(n => ["北朝鮮", "日本", "EEZ", "ＥＥＺ", "排他的経済水域", "防衛省", "官房長官", "日本海"].some(w => n.title.includes(w))); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
+  else { const mi = newsHits(info.japan, ["弾道ミサイル"]).filter(n => ["北朝鮮", "日本", "EEZ", "ＥＥＺ", "排他的経済水域", "防衛省", "官房長官", "日本海"].some(w => n.title.includes(w)))
+    .filter(n => ["発射", "落下", "EEZ", "ＥＥＺ", "排他的経済水域"].some(w => n.title.includes(w))); if (mi.length) yel.push(`弾道ミサイルの報道（${mi[0].title.slice(0, 30)}）`); }
   return result(red, yel, "大きな地震やミサイルの報道なし", urgent);
 }
 function withLive(news, live) {

@@ -1,8 +1,8 @@
 // オフラインでもアプリを開けるようにする
-const CACHE = "futari-anpi-v37";
+const CACHE = "futari-anpi-v38";
 const FB = "https://www.gstatic.com/firebasejs/10.12.2/";
 const ASSETS = [
-  "./", "index.html", "data/info.json", "style.css?v=37", "app.js?v=37", "firebase-config.js",
+  "./", "index.html", "data/info.json", "style.css?v=38", "app.js?v=38", "firebase-config.js",
   "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png", "icon-180.png",
   FB + "firebase-app.js", FB + "firebase-auth.js", FB + "firebase-firestore.js"
 ];

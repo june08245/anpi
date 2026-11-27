@@ -92,7 +92,8 @@ OSAKA_FEEDS = [
 ]
 OSAKA_PLACES = ["大阪市", "生野", "旭区", "大阪・", "大阪の", "大阪で", "大阪市内"]
 OSAKA_CITY_STRICT = ["大阪市", "生野", "旭区"]  # 緊急にするのは大阪市内とはっきり分かる時だけ
-OSAKA_RED = ["避難指示", "緊急安全確保", "テロ", "爆発"]
+OSAKA_RED = ["避難指示", "緊急安全確保", "テロ"]
+OSAKA_INCIDENT = ["爆発", "火災", "延焼"]  # 1か所の事故・火事は「注意」まで
 OSAKA_YELLOW = ["断水", "大規模火災", "延焼", "高齢者等避難"]
 
 # サイバー攻撃・通信障害（通信障害は安否連絡に直接響くので一緒に見る）
@@ -376,7 +377,8 @@ def assess_japan(r, now):
     if ja:
         red.append(f"「{ja[0]['title'][:40]}」")
     else:
-        mi = [n for n in hits(jn, ["弾道ミサイル"], now, 24) if any(w in n["title"] for w in JAPAN_MISSILE_PLACES)]
+        mi = [n for n in hits(jn, ["弾道ミサイル"], now, 24) if any(w in n["title"] for w in JAPAN_MISSILE_PLACES)
+              and any(w in n["title"] for w in ["発射", "落下", "EEZ", "ＥＥＺ", "排他的経済水域"])]
         if mi:
             yel.append(f"弾道ミサイルの報道（{mi[0]['title'][:30]}）")
     if red:
@@ -431,12 +433,12 @@ def assess_osaka(r, now):
     if out:
         yel.append(f"停電の報道（{out[0]['title'][:30]}）")
     loc = r.get("osaka") or []
-    lr = [n for n in hits(loc, OSAKA_RED, now, 24)
+    lr = [n for n in hits(loc, OSAKA_RED, now, 6)
           if not any(x in n["title"] for x in RED_EXCLUDE) and any(p in n["title"] for p in OSAKA_CITY_STRICT)]
     if lr:
         red.append(f"「{lr[0]['title'][:40]}」")
     else:
-        ly = hits(loc, OSAKA_YELLOW, now, 24)
+        ly = hits(loc, OSAKA_YELLOW, now, 24) + [n for n in hits(loc, OSAKA_INCIDENT, now, 6) if any(p in n["title"] for p in OSAKA_CITY_STRICT)]
         if ly:
             yel.append(f"「{ly[0]['title'][:40]}」")
     nl, nr = nankai_level(r.get("nankai"), now)
