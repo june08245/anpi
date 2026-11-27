@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:30+09:00",
+ "updated": "2026-11-28T04:45+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -9,12 +9,34 @@
     "name": "雷注意報",
     "level": 2,
     "status": "発表"
+   },
+   {
+    "code": "15",
+    "name": "強風注意報",
+    "level": 2,
+    "status": "発表"
+   },
+   {
+    "code": "16",
+    "name": "波浪注意報",
+    "level": 2,
+    "status": "発表"
    }
   ],
-  "headline": "大阪府では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-  "reported": "2026-11-27T09:44:00+09:00"
+  "headline": "大阪府では、強風に注意してください。",
+  "reported": "2026-11-28T04:41:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-28T04:32:00+09:00",
+   "place": "根室地方南部",
+   "mag": "3.1",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-28T02:19:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -84,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-26T19:40:00+09:00",
-   "place": "陸奥湾",
-   "mag": "3.6",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -106,6 +118,12 @@
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04a09ycjVmUUgxaHFPclFrUVNOYzc2ZGZqYkJmcmYyMmhxbzZUWDUtZ0I0bEFTM1pQaTdtdUlzaHYtOXR0ci0xc3Y2T2JJaVdLLWZXcjJiaGhnQ2hFbjU1NkZDZGtwM0dJckZLMUlVODYtN3U5c2ozQldFUDJZUdIBgwFBVV95cUxQMEtZYTdxTUNDaVhWNUdYckFENy1SbnZEVGFtUjJBLXdwbnluWGN0NVZCLV9xNFhfQ1FVb19sZjhhbTBBa29qeWV2Qnd5WVdnc1hDNG1Mb0JCTEJCYlpNZUYxUjVaRFdwTGZDYVBMSDRMOG1SeS1LRzhoOG9aMkpwTFVCQQ?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-28T02:39+09:00"
+    },
+    {
+     "title": "【巨大速報！『イランの核兵器開発準備が完了した！？』米国＆イスラエルが顔面蒼白！なんと『イラン地下深くに超巨大核開発要塞研究所』が完成していたと発覚！濃縮ウランは既にある！施設も完成した！IAEAが技",
+     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5uWFoxN0JPX19ZMkt2UnJacUNJUU15ZDNESnlnWllBTnBLNnJhbk02cXRSa1o0ZVYycXVN?oc=5",
+     "source": "Howl.Link",
+     "at": "2026-11-28T02:03+09:00"
     },
     {
      "title": "イラン司令官、封鎖打破へ決意表明 「敵は行動覚悟を」",
@@ -130,12 +148,6 @@
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaEpDVUt4YjFIdnBuWExYT1JXUzFybk85QlB6bWowNHZybEw0THNHeF9iUjdSanl1cU5LZldpSVhhblVZdVZUMG9TTUt6ZGR3MWlWS2laZEFBTXVWQ3VldlIya1Z1Z05uY0VlaVNBWVE2ZXl2Zm8tU2dPSEdyQklRYVdON3ZaRU11Qno4NHdsdU5yblJLbElGRkJ3QzRDVEJjYWg2NE8wbVk?oc=5",
      "source": "VOI.ID",
      "at": "2026-11-27T19:10+09:00"
-    },
-    {
-     "title": "中国とイランの「反米ネットワーク」が米国内で交差？ 制裁対象の銀行口座が映す不可解な協力関係の謎",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CUWYyVXNQbGRReUdmbFhlWFlGN05UTm1YNmFQd1pJT3lkT0lKQmNuS1psUGlIZmxJb1g5R2cwMGFndXpRNl9FaUhxb2hWZEk4d3FIR3ZhMEhUNjRuSTNpSEpKWGljRXBDNjMwWkRZZHhxampnVW5UdGdwZG9SV1E?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-27T17:30+09:00"
     }
    ]
   },
@@ -192,10 +204,22 @@
      "at": "2026-11-27T20:21+09:00"
     },
     {
+     "title": "北朝鮮が9月、西部戦線非武装地帯（DMZ）地雷爆発事故以後も持続的に軍事境界線（MDL）を侵犯していることが把握された。 冬が来る前にいわゆる「国境線要塞化」作業に最大限速度を上げ、今年の目標水準を達..",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsWlRSNmpLUHZqTEhiZTdkSUM3aGdBekM0bHF5RXVZMTR5X0NWQVJYVVMzRlNrY3Q0Yl95MkpMSkp4MURjZXpObVhqcFY2QVFDN1Fj?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-27T17:46+09:00"
+    },
+    {
      "title": "北朝鮮 ロシアへの軍事支援を一時停止か（ABEMA TIMES）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tR2dKT0s5MlFscGliM3FOcFdYNWVSYml6cURuQTg4X3daaDNYTHJqbXp5NmRNM3lDcDlwV3lqdVFiX1dXYWNjdzdoaHZUT3JGekJmVHdKcThCeEk2WUg0X2ZEbEczZkNvLUYtYzJ6OE5kaGtTZnNqVUlVMnFIUUk?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-27T16:00+09:00"
+    },
+    {
+     "title": "【社説】露骨に核戦力示威をする金正恩委員長、不安定な韓米協調（中央日報日本語版）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtSVRNRHo4UnltRkxldnF5R3JQYVphZE5DbTdQTkotaWxpbWJPU0tsaUdJaVo0Tm9xQzlIcXZTQm81S1EtSmZySWEyeVcxZjd2azQxRS1lQ0UtT3lmS3dQUmU2dGFfbk13R2FtbnlYLWwzTVEyaks1RTA2bFo3azg?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-27T13:45+09:00"
     },
     {
      "title": "北朝鮮が対露軍事支援を一部中断とウクライナ主張 | スマートニュース",
@@ -208,18 +232,6 @@
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DX05zc0NkS0ZWLU9OX3JuZ3NXc2I2WnFNV09TcFJlLUlndWNteXZqM0xnMEdLTDdNQVVCS0F0TlJ5UHdWVmJ6d1hibldITWEzSUlsNDktT01IV0lCN1p6VzZCYkY0NFZVWmp1aFVnZjBPd9IBVEFVX3lxTFA2V0M4eTRBMVQySG1WZGN1dmp5b1BxVmVnQUg1bGxDcGpzdTNuMUJKZUFyb1ozdzFrbks5TGpGbmJDcnNHV0lwdm9IbFdsWDZfWU5qSQ?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-27T13:07+09:00"
-    },
-    {
-     "title": "北朝鮮がロシア軍事支援を一時停止か、韓国との「関係改善」支援する露高官に反発…ウクライナ情報機関が明らかに",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOREE5N3JKUVdncGwtX2twZzY2N0NEdUZMd1I4LWYwU1lWV2VkOENTT0V0OGxvMUNsLWk1VVdtYzE4LW5SZEJuWW9wT2x0U2RfTHdiNDB5NGJCM1NjNTQ0SW1rZmNhYnZCVng5OGtPdGlVdF9TcnN0aWozNmVtTEcxRFBBM0tRNTYyQUJaVEtB?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-27T12:53+09:00"
-    },
-    {
-     "title": "北朝鮮・金正恩総書記、核施設を視察…「核保有国の地位否定は公然たる宣戦布告」",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84QVVLSUZiRXd2WVRfQXBybWMwLWFQVWo4SGZIM0R6VUY5U2x1MzdJTVF1eVpoNk1GVEtFT3lJVkR6bWtkZnpGbzRIVlZ5SV82NEHSAVRBVV95cUxQNTBPVkhhMGYzeG1qcE03RjBNN3E2YlVCZzZSNEFXUzh3LU0zMkw4R0o3VVE3WC1nU1J4QWVhbVdXT2RoSXJrbzBrRkV3R2dEUXk1V3M?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-27T12:39+09:00"
     }
    ]
   },
@@ -316,9 +328,9 @@
    "at": "2026-11-27T21:00+09:00"
   },
   {
-   "title": "【防災庁発足】卒業・卒園アルバムの「思い出を守る防災」へ。大規模災害時も子どもたちに思い出を。南海トラフ巨大地震などに備え、災害時の「デジタル卒業アルバム」無償提供に向けた事前申込受付を開始。",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTFI1YndyXzYtUFNEcldockNDRVctYzhhSDJ6bHZQYngxSTlGWkJOdGNERHdLRFNScldSeWtPM05HSjBPb2tJVGItUlp0bmlSUFBWbUZtTTltRU54MXdLNU9ldUJ0dU5ZWHc?oc=5",
-   "source": "PR TIMES",
+   "title": "【防災庁発足】卒業・卒園アルバムの「思い出を守る防災」へ。大規模災害時も子どもたちに思い出を。南海トラフ巨大地震などに備え、災害時の「デジタル卒業アルバム」無償提供に向けた事前申込受付を開始。：紀伊民報AGARA｜和歌山県のニュースサイト",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlZ3g0Z1lmLTdjOG5xOEhrNFY2ZE1OU2djM3lJSkFTdldGVGFfSXBGcmZxVWlncVFhWklvRlEzZDBnTk9HSzNsLUt0UmNKVW8?oc=5",
+   "source": "AGARA 紀伊民報",
    "at": "2026-11-27T16:47+09:00"
   },
   {
@@ -326,12 +338,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3RDNjUlBUS0VxNzM3ZGZzbm1nLUo5V0I1ZVBsbDBVOWlzTm1OaHh1UDNrNkdSSmhlZXFVWWI4SmNYNE9zQjIxZWRMd1NvVWtmS3ZvUndOTTdnRWtndlppOGkzZjhlWGM?oc=5",
    "source": "やさしい朝日新聞",
    "at": "2026-11-27T15:04+09:00"
-  },
-  {
-   "title": "スペースデータ、南海トラフ地震で壊れる建物とふさがる道路を街並みの上に示すシミュレーションを開発",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04WlJuTElCUEFsRVNFX1RrNDRuQ05iOU84M1R3eWgzOXR3SmJPOXFpTkNDd2V6LTZlNVVTM21oNnVQM3Bwb1FVUjF5OVZsQjNENFpLQXNtTnptcmxNWmdXOU5BVDd4Nm93UVpROVdjOElCcFpS?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-26T20:15+09:00"
   },
   {
    "title": "南海トラフ地震起きたら…宮崎港で訓練 患者をフェリーで搬送想定 (朝日新聞)",
@@ -344,6 +350,12 @@
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LYXZoSUFtOXp0NFQ4bzZVR1JEa1JJN3FLUHN2R1lpalJUNmxOaExnVThIQ28wOXpYTUM5X1FVWm9sc3ozQ1pDalp3NA?oc=5",
    "source": "47NEWS",
    "at": "2026-11-26T11:01+09:00"
+  },
+  {
+   "title": "スペースデータ、南海トラフ地震で壊れる建物とふさがる道路を街並みの上に示すシミュレーションを開発",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zYW9BWFZobzRIS3Joekd2U2ljUmxucEI2c2pqMndkZmZrd2hKbXJramlQRU5qOFlyVHl2M2luX2M3VjVaS1FZUjZLdDVqeDAyOXdmblFKaGhsRVNGTjJfZEhJZHVmUk9ZS0E?oc=5",
+   "source": "PR TIMES",
+   "at": "2026-11-26T11:00+09:00"
   }
  ],
  "outage": [],
@@ -381,12 +393,6 @@
    "at": "2026-11-27T23:50+09:00"
   },
   {
-   "title": "PayPayクレジット障害でレジ決済できず現金もない…“後で払います”と店を出る前に 利用者がとるべき対処法を弁護士が解説",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqQ3JNVHNpbXZmVUxZbDdHUFFUSU9SZzNJcVFvMm1fNFpHM2ZpbVlhUmFfbldhdHVuaWFVTnBDTUNSR2xvbU9iWE5QS2RaeHdmQ3poejFkZlpnZ1BGSEZFZkg5OVdDSzA?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-27T23:22+09:00"
-  },
-  {
    "title": "パックンと動画で学ぶ「不正アクセスから資産を守る方法」",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lSG03SmtMZURkNWQ0dUZadWROWTZHZmpzRkQ4UnVlRjhnQzlPcF9walhyU1VsSkdfN3pYMnkyS2t0eFMtMjZPSmR2czdoUTBvRjNMb0Z1R3JUN3JiNUVVV2FZOVpPd1IyazE0OA?oc=5",
    "source": "日本経済新聞",
@@ -405,34 +411,28 @@
    "at": "2026-11-28T01:36+09:00"
   },
   {
+   "title": "「トチツーカ」登録者ID流出か 北国銀行の委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEby1VQ21vLWFjREJsanV3VEg4bG53UXVrbkl5OUljR2lGNHNyOERCWjF4WkxqR01wQUlTeDg1RnctQ3dmTWNGVlBIUQ?oc=5",
+   "source": "47NEWS",
+   "at": "2026-11-28T00:15+09:00"
+  },
+  {
    "title": "チケット販売サイト「カンフェティ」がサイバー攻撃で個人情報漏洩、対象件数調査中、退会者や一部のクレジットカード情報・パスワードも対象|情報漏洩のニュース-セキュリティ対策Lab",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTk1YVUN1YmludmVGbEU4NzdadTBQdF9jSUs3aE1XcW9YVnFBbks1QzIzSnFBUXM0MUJZbnlBRWNkeE1mdVRVanZlbkppNElHcXdsMDd3bmh5RThFQmRGQ1BMaTktY2JycFJ0alczYmxNa3dVTlRaYVRET1BnWU5yMjNkbFFRdU5xQmhfVnpXTU9RVEhSWVE?oc=5",
    "source": "合同会社ロケットボーイズ",
    "at": "2026-11-27T23:26+09:00"
   },
   {
+   "title": "日環アリーナ利用者の情報漏えい、栃木県発表 指定管理者のミズノに不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DNDZwSjdld1Z1RVpWOEM0RWo4eFU3OExnSVM2V0pJd0QwbEhBaUpGdTE3eUlHQmlxZnBtbFBlbndsWHd2Zm52b0c2c0Jya2k1RUs0bW4wLVJ0WXc?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-27T23:13+09:00"
+  },
+  {
    "title": "日経新聞 540万件情報漏えい 外部サービスへの不正アクセス",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWNUZhWjBhYnJocGJNUUlDZGNzUTZtM1FYTmJNNUJmMUcxREt6RnM1VVhKWGJQT3FTak9qTUpWYWNkQ3hkMTZsRDBxR2N0bXc2eDZNY0hZNmVXZmc0MHhXRjVMbw?oc=5",
    "source": "テレ東BIZ",
    "at": "2026-11-27T23:00+09:00"
-  },
-  {
-   "title": "日環アリーナ利用者の情報漏えい、栃木県発表 指定管理者のミズノに不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DNDZwSjdld1Z1RVpWOEM0RWo4eFU3OExnSVM2V0pJd0QwbEhBaUpGdTE3eUlHQmlxZnBtbFBlbndsWHd2Zm52b0c2c0Jya2k1RUs0bW4wLVJ0WXc?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-27T23:00+09:00"
-  },
-  {
-   "title": "「トチツーカ」登録者ID流出か 北国銀行の委託先に不正アクセス",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lYnY5QlQwb1BxT0NmN2pTSXNWOGVkZ1p0UUQzWHY5NmVyZWJITjI0YXRXNk5IOVptSUpUM1Jxck53OFV5UnFVZmQwRnZQMUN6WS0ybQ?oc=5",
-   "source": "中日新聞Web",
-   "at": "2026-11-27T22:49+09:00"
-  },
-  {
-   "title": "ランサムウェアグループ「The Gentlemen」がInfflux攻撃を主張",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSlBXckJjMENNSFV0MTdnbXJQUklCT1pNc3Iyc01NMlN0WFBrTmNiQktOSFJpRkMwbGVIdjFiWUt4WnFGblJkTk9UdG9rektnNEFwS0tvZ0UyRzZBa1ctMmpkU1NHYTRobFQ4NWxvOGhSYjN4TDNUVA?oc=5",
-   "source": "Korben",
-   "at": "2026-11-27T22:13+09:00"
   },
   {
    "title": "GMO、サーバー貸出事業で不正アクセス 顧客情報51万件漏洩",
@@ -451,6 +451,18 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kSVhNTkJzY3FUcFhDMEt6MW1RcUM5TlpkeFFVR0pTVDJQNVZIQWxibGhVUlY5blR4U3V5bzAwV0lESXd6WVliQWFHZEZHLWxFUUxBd3REU3BhTmpwZU9yTlYxN1lnLWpMS25iYzNjYk0wazN4c0ZVY2doUUjSAYIBQVVfeXFMUHhFaEh3bUVWTVVERUNtdzc2ek41c2FST29sN0FWdXp6WjFfQWR5eC1NeERRSHE5Q1QzX3pyQmJLekk3U1pUWE9Ld25XRGt4YXpvYmNuVDhXam1uaWlES1A0UkczVjZoLTJvTTdQSHFFbzd2MjA2YzVZbnU4eFllUGdsQQ?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-27T21:50+09:00"
+  },
+  {
+   "title": "GMOが「サイバー・イージス構想」発表、被害前に防ぐ新技術と対策ソフト無償配布へ（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2XzNoS1U2eFNFblZqeTZYVHQ0WFZqZWUwNVM1OEdWRHhrQUpOendlS0RkZ0NzNnZfRkJvYWd0Si1fSjVvRE0wejFOVVJkQ29ESi1HazJleXFHTzNUZzNEMkVyOFNydVVadC10ZldnUmVVdzQ3WTlxaUUzZ3pfVnc?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-27T21:50+09:00"
+  },
+  {
+   "title": "GMO“ガバナンス検証チーム”設置 外部専門家からも助言…対応など審議 不正アクセス受け「対応過程において課題あった」",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHZm5fS1RyZnpxX25fXzJuTDh1LVRVRF95ODdqNXl1R3RvS2Y1NFNZNmlIVFl2ejFBN2Z1c2Q2TVgybk9ES3lIQ0loUm96M1R5a0k4WUxZcDhKUDEwLV9LMzJEdmcxVWZydTRueElMWlotQnlWOFY0Y1JSS3I?oc=5",
+   "source": "日テレNEWS NNN",
+   "at": "2026-11-27T21:25+09:00"
   }
  ],
  "tokyo": [],
@@ -469,6 +481,13 @@
    "source": "Yahoo!ニュース",
    "at": "2026-11-28T02:21+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "【巨大速報！『イランの核兵器開発準備が完了した！？』米国＆イスラエルが顔面蒼白！なんと『イラン地下深くに超巨大核開発要塞研究所』が完成していたと発覚！濃縮ウランは既にある！施設も完成した！IAEAが技",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5uWFoxN0JPX19ZMkt2UnJacUNJUU15ZDNESnlnWllBTnBLNnJhbk02cXRSa1o0ZVYycXVN?oc=5",
+   "source": "Howl.Link",
+   "at": "2026-11-28T02:03+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "ウクライナ、食料輸出に向け黒海停戦案提示 ロシアの回答待ち＝外相（ロイター）",
@@ -576,32 +595,25 @@
    "topic": "中国・台湾"
   },
   {
+   "title": "北朝鮮が9月、西部戦線非武装地帯（DMZ）地雷爆発事故以後も持続的に軍事境界線（MDL）を侵犯していることが把握された。 冬が来る前にいわゆる「国境線要塞化」作業に最大限速度を上げ、今年の目標水準を達..",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsWlRSNmpLUHZqTEhiZTdkSUM3aGdBekM0bHF5RXVZMTR5X0NWQVJYVVMzRlNrY3Q0Yl95MkpMSkp4MURjZXpObVhqcFY2QVFDN1Fj?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-27T17:46+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "露指示とされる破壊工作 欧州激化",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5POHB4SGJ0ODUyN3BBU3dDb3dyUlA2aXhINDFHRnBDUncwMFI0bC16TkNDbVREc25ZMlZNbzZTejFPWGcxR1N0ZDRULTVVQWhM?oc=5",
    "source": "Yahoo!ニュース",
    "at": "2026-11-27T17:37+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "中国李首相が神田アジア開発銀行総裁と会談",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3pldWtYSmdnNWVocFA3SVc5dkZacUEyU1hVSHVYNjl6OEw0MU5wYVNOZHI0YVFNWVZ5dFdmYVZoZzVtWnNpdXp2VDhpUTNBZG5PTnhNOFVNU2d1VElPam1XUUxsTEI4alF2X2JpTGFUQ0U5RDhsbGJZaDQ2NTd4dUtlcHZ0WTAtWXhr0gGLAUFVX3lxTE1XemV1a1hKZ2c1ZWhwUDdJVzl2RlpxQTJTWFVIdVg2OXo4TDQxTnBhU05kcjRhUU1ZVnl0V2ZhVmhnNW1ac2l1enZUOGlRM0Fkbk9OeE04VU1TZ3VUSU9qbVdRTGxMQjhqUXZfYmlMYVRDRTlEOGxsYlloNDY1N3h1S2VwdnRZMC1ZeGs?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-27T17:35+09:00",
-   "topic": "中国・台湾"
-  },
-  {
-   "title": "中国とイランの「反米ネットワーク」が米国内で交差？ 制裁対象の銀行口座が映す不可解な協力関係の謎",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CUWYyVXNQbGRReUdmbFhlWFlGN05UTm1YNmFQd1pJT3lkT0lKQmNuS1psUGlIZmxJb1g5R2cwMGFndXpRNl9FaUhxb2hWZEk4d3FIR3ZhMEhUNjRuSTNpSEpKWGljRXBDNjMwWkRZZHhxampnVW5UdGdwZG9SV1E?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-27T17:30+09:00",
-   "topic": "イラン・アメリカ"
   }
  ],
  "status": {
   "osaka": {
-   "level": "yellow",
+   "level": "green",
    "reasons": [
-    "「PayPayクレジット障害でレジ決済できず現金もない…“後で払います”と店を出る」"
+    "警報なし・大きな揺れや停電の報道なし"
    ]
   },
   "japan": {
