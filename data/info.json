@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-28T22:30+09:00",
- "errors": [],
+ "updated": "2026-11-28T22:45+09:00",
+ "errors": [
+  "nankai"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -27,6 +29,16 @@
   "reported": "2026-11-28T04:41:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-28T22:15:00+09:00",
+   "place": "カムチャツカ半島付近",
+   "mag": "6.8",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-28T21:28:00+09:00",
    "place": "和歌山県北部",
@@ -96,16 +108,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-27T21:58:00+09:00",
-   "place": "秋田県内陸北部",
-   "mag": "2.6",
-   "maxi": "1",
-   "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -113,6 +115,12 @@
    "key": "iran",
    "label": "イラン・アメリカ",
    "items": [
+    {
+     "title": "映画上映通じイラン文化を紹介 米軍基地抱える青森・三沢で",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWk3b21tZWxWWW5wdE9sMWoyQmlzTkFvNnA5VG53ZEQxTkFNUWVzcDRyVHBoS0lwekdOcWtpN1d3QWNwTEFRVmhNcmVpeDhUbEdKNlNuajhFNXhWX2tBMWN2TU1UX0hzVi12VWlUUlctSmJITC1UcXh1WFFnRjZQbXBxRVluUG1X?oc=5",
+     "source": "北海道新聞デジタル",
+     "at": "2026-11-28T20:29+09:00"
+    },
     {
      "title": "映画通じイラン文化紹介 米軍基地抱える三沢で",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGTV9RZHBUV0s4UlRPUUhyRHdUc2Nodk81LUhFd2ZNZDNPdF9peXh0dndZbDlMczVIRGxYZW5qYURjRHVla1c4emx2dFZkN3B1TzM4eUxlUlpQY2NaSnFTdUVLZ1FwYXc?oc=5",
@@ -124,12 +132,6 @@
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVFPY2ZxNmZVQVZ6dXZaVUItV3k5SnNyTTBOdDNEM29oblZuRDBteWZTdWZCNnpER19WSTd0Si16Vm5yb3RoT3BSeVIydVRmQlJ5ZnpYTUZsWU96enRVSjhESFR5T3NnQTNNN3BGdnZOUG5JeWlobmRUeG1GX1FZamlUV09ZOTFCUlk2cUVZa1dBekg1VkppN1hxZHJ2b1lRSzVnUHVNdDR6Mkp5?oc=5",
      "source": "Informat.ro",
      "at": "2026-11-28T18:54+09:00"
-    },
-    {
-     "title": "映画上映通じイラン文化を紹介 米軍基地抱える青森・三沢で",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LaVI1S2NrOU1wdHc3dFVUbjNINW4zeWx5Um93bEMzOTRTOHhFX3Rpa1ZvQWhwSThSakg2ckdVT1VaSnc5WWgzVjdBQ2FYVmlIWWV4MnBfZUE1UjZ2X2hnRDN5QUowTVRLQ0FvdmxCb28?oc=5",
-     "source": "Excite エキサイト",
-     "at": "2026-11-28T18:44+09:00"
     },
     {
      "title": "米軍、英RAF基地でドローンを撃退―イランの関与を疑う声",
@@ -405,10 +407,10 @@
    "at": "2026-11-28T18:25+09:00"
   },
   {
-   "title": "成田空港でシステム障害、チェックイン遅延で長蛇の列…ＪＡＬは復旧・午後６時半過ぎに全体復旧見通し（読売新聞オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52b3RVTzBvbWFOLTRVT3M5YVBWcGFzRnJxak5HVEpRTXplZG9VODZLMVd1ZEY0V0lZM2t4bGxqd3pTajJueVpZTkJSSUREeW1nRjNiaHNXemxkLXBIcDRUQXJuVEhXRzgtSWdTR3otTnF4aGxnNGZTRGRQS0l4Umc?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-28T18:06+09:00"
+   "title": "成田空港でシステム障害、チェックイン遅延で長蛇の列…ＪＡＬは復旧・午後６時半過ぎに全体復旧見通し",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzVEh6RVZJdHF1aTZnTVh0Smg0MjRPZjM2QmJCOVlGUDc5ZGdhVHFiVVRIekxYS3ItZk8zYkNBd3B2Qk5qQkNMMUpHSTdTZWU2VzJCLTU4UGFPOGxTeDBpeHdHa012Rk1LaHlGUnVFZ28?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-28T18:05+09:00"
   },
   {
    "title": "成田空港 システム障害 搭乗手続きに不具合",
@@ -435,12 +437,6 @@
    "at": "2026-11-28T11:56+09:00"
   },
   {
-   "title": "【激増 日本のデータ流出】個情委に半月で830件の不正アクセス報告、漏えい人数延べ2億6000万人超す",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wMGNLTUhZYmMyMHFuVU91emNIcHNoaTN2WE15S0Exa0pWY2otX3BFbk4yMnBSMWtKbVExMkZZcmUzM2JUSi1VWGdfdnZ1RWlQZWRmRThxeVZuVG91TVZj?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-28T20:41+09:00"
-  },
-  {
    "title": "サイバー攻撃の“予兆”はダークウェブに…個人情報5億件超漏えいとインフラ停止の危機 “全通信把握”ブロッキングの懸念【報道特集】（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZaWU5ZkdvZjVVTFlxMVdFSGRaMjlBZ25pN1lEZzk3emhKRnBlb256eGlkSXJBZEh0R3BwTlc4d3ZKY1R0ZnM4ZjNramczaG4xOG9Qc1h3WmFZNFBEaUpfU1lLUzhWTXRWWXRWaXNlZVRiZktOYktYWXhQa1lmZ0k?oc=5",
    "source": "Yahoo!ニュース",
@@ -457,6 +453,12 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tb0k1T2pLTVA5N1ZXUG9MaWw3aVV1WVYxdTlXNDBfZU5jR1l6bUJWXzBrX2lSdXhYOEFNM0ZEd0hFaXUyTEQwNExrcDdwQmNTc1Fj?oc=5",
    "source": "東京新聞",
    "at": "2026-11-28T18:47+09:00"
+  },
+  {
+   "title": "サイバー攻撃被害防げ 岡山県警が企業向けセミナー",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FY3VYNG5FdGFBMmlKWmpEcXNIQzVrYTdTc3h6NUU1R1V1QkZGWWczdWktNUVmVHFTS1NsZ3MyTHJISlp2VFM5MDFzbk44ODBmSnc?oc=5",
+   "source": "山陽新聞",
+   "at": "2026-11-28T18:20+09:00"
   }
  ],
  "tokyo": [],
@@ -468,6 +470,13 @@
    "source": "朝日新聞",
    "at": "2026-11-28T21:00+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "映画上映通じイラン文化を紹介 米軍基地抱える青森・三沢で",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWk3b21tZWxWWW5wdE9sMWoyQmlzTkFvNnA5VG53ZEQxTkFNUWVzcDRyVHBoS0lwekdOcWtpN1d3QWNwTEFRVmhNcmVpeDhUbEdKNlNuajhFNXhWX2tBMWN2TU1UX0hzVi12VWlUUlctSmJITC1UcXh1WFFnRjZQbXBxRVluUG1X?oc=5",
+   "source": "北海道新聞デジタル",
+   "at": "2026-11-28T20:29+09:00",
+   "topic": "イラン・アメリカ"
   },
   {
    "title": "【2026統一地方選】統一地方選の前日、中国軍機や艦船が周辺活動 国軍が厳重監視",
@@ -516,13 +525,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVFPY2ZxNmZVQVZ6dXZaVUItV3k5SnNyTTBOdDNEM29oblZuRDBteWZTdWZCNnpER19WSTd0Si16Vm5yb3RoT3BSeVIydVRmQlJ5ZnpYTUZsWU96enRVSjhESFR5T3NnQTNNN3BGdnZOUG5JeWlobmRUeG1GX1FZamlUV09ZOTFCUlk2cUVZa1dBekg1VkppN1hxZHJ2b1lRSzVnUHVNdDR6Mkp5?oc=5",
    "source": "Informat.ro",
    "at": "2026-11-28T18:54+09:00",
-   "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "映画上映通じイラン文化を紹介 米軍基地抱える青森・三沢で",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LaVI1S2NrOU1wdHc3dFVUbjNINW4zeWx5Um93bEMzOTRTOHhFX3Rpa1ZvQWhwSThSakg2ckdVT1VaSnc5WWgzVjdBQ2FYVmlIWWV4MnBfZUE1UjZ2X2hnRDN5QUowTVRLQ0FvdmxCb28?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-28T18:44+09:00",
    "topic": "イラン・アメリカ"
   },
   {
