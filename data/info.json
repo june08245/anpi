@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:45+09:00",
+ "updated": "2026-11-28T10:00+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-28T04:41:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-28T09:54:00+09:00",
+   "place": "高知県西部",
+   "mag": "3.2",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-28T04:32:00+09:00",
    "place": "根室地方南部",
@@ -96,16 +106,6 @@
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-26T21:36:00+09:00",
-   "place": "熊本県天草・芦北地方",
-   "mag": "3.0",
-   "maxi": "2",
-   "maxiRank": 2,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
   }
  ],
  "world_topics": [
@@ -144,10 +144,10 @@
      "at": "2026-11-28T03:04+09:00"
     },
     {
-     "title": "米軍、感謝祭にイランの封鎖を逃れようとしたタンカーを無力化",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUG5CYmd4MFRXUjNfeDRMWXFidnk2M3Jvc0d4cllWNm1KZUNPMzdGcjRXS2Y2RC1FanJfeFlySTFwX2FPTVhwUmhJVTFFclFmblRDNm9zMmpMVGNySmdjN0JUZGlFZTBoN1BveUhoSGZjS2tQbWxZWmtuY0FrRGpRTnNfYlY3bGtvejdaOWhzd0FYZWJmQl9tejJPQUQ?oc=5",
-     "source": "Mezha.net",
-     "at": "2026-11-27T21:07+09:00"
+     "title": "【巨大速報！『イランの核兵器開発準備が完了した！？』米国＆イスラエルが顔面蒼白！なんと『イラン地下深くに超巨大核開発要塞研究所』が完成していたと発覚！濃縮ウランは既にある！施設も完成した！IAEAが技",
+     "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5uWFoxN0JPX19ZMkt2UnJacUNJUU15ZDNESnlnWllBTnBLNnJhbk02cXRSa1o0ZVYycXVN?oc=5",
+     "source": "Howl.Link",
+     "at": "2026-11-28T02:03+09:00"
     }
    ]
   },
@@ -198,6 +198,12 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "また「金正恩訪中」？ マイアミでのG２０首脳会議を前に米朝首脳会談の条件を提示か（辺真一） - エキスパート",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJkNXJLMGpHYUJycThYaG1ZYTEwSWk0ZE1FQ2xBb1I0bGFmVVNfMHNaREZFdDRYTTI5YXMwbWE2d2lweVZ6RnhUcXBscnZuTGhMZWRiQmZuUlI3WFJfMzE5d3hPZUxwLWpYZmZ4Z2tzZXJHOXFQU1IwYnZVMDRMRWpDNkNCWjZs?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-28T09:23+09:00"
+    },
+    {
      "title": "中国の駐北朝鮮大使、外務次官と会談…2027年も中朝の交流・協力を拡大",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWcnlLTEx2dUxqdXppT0NNMjBXVTBuTHJuS3pNSDRrLUg1azVRVktCc3hjY2tKa2FhUUlKZl9mRmlKMkJzZ3lpcWh1akctaFFIMjBxMlB6YWVpSExQMEI0XzZBMFp4VFM3YjgybGJkNmpfd9IBVEFVX3lxTE5sRmFCcldZVmxHQWlTS1pSVTBvUW4xRjIzQlF4WU8ySmQ4Wlh4cFZQd1k4OVp2dzcyZFd0RHdTWmR5aktKMTl6Ykx1alE5ZWxPelFzcg?oc=5",
      "source": "AFPBB News",
@@ -226,12 +232,6 @@
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DX05zc0NkS0ZWLU9OX3JuZ3NXc2I2WnFNV09TcFJlLUlndWNteXZqM0xnMEdLTDdNQVVCS0F0TlJ5UHdWVmJ6d1hibldITWEzSUlsNDktT01IV0lCN1p6VzZCYkY0NFZVWmp1aFVnZjBPd9IBVEFVX3lxTFA2V0M4eTRBMVQySG1WZGN1dmp5b1BxVmVnQUg1bGxDcGpzdTNuMUJKZUFyb1ozdzFrbks5TGpGbmJDcnNHV0lwdm9IbFdsWDZfWU5qSQ?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-27T13:07+09:00"
-    },
-    {
-     "title": "北朝鮮がロシア軍事支援を一時停止か、韓国との「関係改善」支援する露高官に反発…ウクライナ情報機関が明らかに",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtM1lkd2QzREVjSTBvRUZtN0VTQ3hNS2YyVkh6b1FqOWs1VFlkTnVsYnlNaGs4N3pyMmw5SmFOZFZpR1NWZlF2NDNwQkNyYklUODdLUkFORGFmdUM4Q0RETFNR?oc=5",
-     "source": "読売新聞",
-     "at": "2026-11-27T12:52+09:00"
     }
    ]
   },
@@ -264,7 +264,7 @@
      "at": "2026-11-28T06:00+09:00"
     },
     {
-     "title": "ウクライナ情報局幹部「ロシアに停戦応じる兆候全くみられず」",
+     "title": "ウクライナ情報局幹部「ロシアに停戦応じる兆候全くみられず」 | NHKニュース | ウクライナ情勢、ロシア",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMbjJJcG9KcG1aNXVJOC1jdGJqVTl5RWY4VGc2a1BqWlBNWDIwSXIxMGVqQVlLcEJvYlRPSXlUVW01dmg0WmZRTEZ0X1o5VzBaWi16cllXaFlQUDVoRFVj?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-28T05:23+09:00"
@@ -376,9 +376,9 @@
  "cyber": [
   {
    "title": "相次いだ大規模なシステム障害は、まだ序章にすぎない",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrZ2haVmN4NnZ6OFNEa1J5dVEtVEJvNll0NTNZRHFnNGc0cXRSbF9xZjFZYXZScVVRS1AzYnZuMExLTHFyLXBhLS1XQTZtZ3c5OFZCdzMwQ1hZWG5oaWgw?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-28T09:04+09:00"
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53YmhtUTMwS19YQkJQYXFDSFhUaEJ4YXBNU1BVNlNTZDZLU2xGejRHMnBUS1NVR2sxeXI4dUFIZUYwdVFrU2hHeUVZZGdPbHlFRmd5UlJsalhBeGFtbTlEN2JUcnp4MWJRWDI2amJzY1h5VnBU?oc=5",
+   "source": "WIRED.jp",
+   "at": "2026-11-28T08:00+09:00"
   },
   {
    "title": "【スマグロ】メンテナンスと不具合・通信エラーまとめ【ドラクエスマッシュグロウ】",
@@ -476,6 +476,13 @@
    "topic": "ロシア"
   },
   {
+   "title": "また「金正恩訪中」？ マイアミでのG２０首脳会議を前に米朝首脳会談の条件を提示か（辺真一） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJkNXJLMGpHYUJycThYaG1ZYTEwSWk0ZE1FQ2xBb1I0bGFmVVNfMHNaREZFdDRYTTI5YXMwbWE2d2lweVZ6RnhUcXBscnZuTGhMZWRiQmZuUlI3WFJfMzE5d3hPZUxwLWpYZmZ4Z2tzZXJHOXFQU1IwYnZVMDRMRWpDNkNCWjZs?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-28T09:23+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ウクライナ、レーザー兵器でロシアのドローンを初撃墜（ＡＦＰ＝時事）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQOE0xUnZRc1Ntd2JCVHVWUVhCVjZrNVhYRy1VR1BGZGRtcFRhYWpyUGx1MGN0N3BIWVZHak0zX0h1d2tEaG5JNEFBYXZtWk9kMmFzSm9yRkZBaS13RXM2SkFMMUJmdXl2NE80THVvMXBZcldnSzk1TFJULUl0WDA?oc=5",
    "source": "Yahoo!ニュース",
@@ -532,7 +539,7 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ウクライナ情報局幹部「ロシアに停戦応じる兆候全くみられず」",
+   "title": "ウクライナ情報局幹部「ロシアに停戦応じる兆候全くみられず」 | NHKニュース | ウクライナ情勢、ロシア",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMbjJJcG9KcG1aNXVJOC1jdGJqVTl5RWY4VGc2a1BqWlBNWDIwSXIxMGVqQVlLcEJvYlRPSXlUVW01dmg0WmZRTEZ0X1o5VzBaWi16cllXaFlQUDVoRFVj?oc=5",
    "source": "NHKニュース",
    "at": "2026-11-28T05:23+09:00",
@@ -553,18 +560,18 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "【巨大速報！『イランの核兵器開発準備が完了した！？』米国＆イスラエルが顔面蒼白！なんと『イラン地下深くに超巨大核開発要塞研究所』が完成していたと発覚！濃縮ウランは既にある！施設も完成した！IAEAが技",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5uWFoxN0JPX19ZMkt2UnJacUNJUU15ZDNESnlnWllBTnBLNnJhbk02cXRSa1o0ZVYycXVN?oc=5",
+   "source": "Howl.Link",
+   "at": "2026-11-28T02:03+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
    "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wVU95QUxuV1BmYllUbk5sSEFWZ0pTcHhMZ2ZEYlc2MmhpV3BsM0pkWDlqWFJZeDQydEM1MkhBVHNGWG1LbGdXcV9HNmpjX05sa2FXSkNSS21WbHBGVm9R?oc=5",
    "source": "千葉テレビ放送",
    "at": "2026-11-27T22:56+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "米軍、感謝祭にイランの封鎖を逃れようとしたタンカーを無力化",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUG5CYmd4MFRXUjNfeDRMWXFidnk2M3Jvc0d4cllWNm1KZUNPMzdGcjRXS2Y2RC1FanJfeFlySTFwX2FPTVhwUmhJVTFFclFmblRDNm9zMmpMVGNySmdjN0JUZGlFZTBoN1BveUhoSGZjS2tQbWxZWmtuY0FrRGpRTnNfYlY3bGtvejdaOWhzd0FYZWJmQl9tejJPQUQ?oc=5",
-   "source": "Mezha.net",
-   "at": "2026-11-27T21:07+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "中国、国家機密渡した政府幹部に死刑判決、「エヌビディアスパイ報道に反撃？」と韓国紙",
@@ -600,13 +607,6 @@
    "source": "Reuters",
    "at": "2026-11-27T18:17+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "フフホト新空港開港、超大型機に対応　中国内モンゴル自治区",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFdwWUFXNEp3clM0S2hxLWVUVEFQX0VWcW1QVmJpekFGLXdnbUhleXBEZGN5ZjJUV2l2QS1iMUVBMXlxUTNrZWE1UGE2SUp2ZlBDUUFJY1k2MkhjUE5oaHpmMDRXRVZxWGk2c3I5US1KaFZrX1p0TWhTWjZPXzVRdHdBb0FrbE1vcDd6b1l6aGPSAZABQVVfeXFMT3RXcFlBVzRKd3JTNEtocS1lVFRBUF9FVnFtUFZiaXpBRi13Z21IZXlwRGRjeWYyVFdpdkEtYjFFQTF5cVEza2VhNVBhNklKdmZQQ1FBSWNZNjJIY1BOaGh6ZjA0V0VWcVhpNnNyOVEtSmhWa19adE1oU1o2T181UXR3QW9Ba2xNb3A3em9Zemhj?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-27T18:14+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -625,7 +625,7 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「封鎖」5件",
+    "イラン・アメリカ：「攻撃」「封鎖」4件",
     "ロシア：「侵攻」1件",
     "欧州・NATO：「攻撃」「破壊工作」4件"
    ],
