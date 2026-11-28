@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T19:00+09:00",
+ "updated": "2026-11-28T19:15+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -114,10 +114,16 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "映画通じイラン文化紹介 米軍基地抱える三沢で",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGTV9RZHBUV0s4UlRPUUhyRHdUc2Nodk81LUhFd2ZNZDNPdF9peXh0dndZbDlMczVIRGxYZW5qYURjRHVla1c4emx2dFZkN3B1TzM4eUxlUlpQY2NaSnFTdUVLZ1FwYXc?oc=5",
+     "source": "デーリー東北",
+     "at": "2026-11-28T19:05+09:00"
+    },
+    {
      "title": "映画上映通じイラン文化を紹介 米軍基地抱える青森・三沢で",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzcGdsb0NRU29oSmFHOGdnRmROSTluLXhTZ01jNXRfdGk1NkdrdlhmbHc2SlRQa1JnYXUwbUtDdTZrNG9Wamo1THptX3FNZmRt?oc=5",
-     "source": "日本海新聞",
-     "at": "2026-11-28T18:43+09:00"
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LaVI1S2NrOU1wdHc3dFVUbjNINW4zeWx5Um93bEMzOTRTOHhFX3Rpa1ZvQWhwSThSakg2ckdVT1VaSnc5WWgzVjdBQ2FYVmlIWWV4MnBfZUE1UjZ2X2hnRDN5QUowTVRLQ0FvdmxCb28?oc=5",
+     "source": "Excite エキサイト",
+     "at": "2026-11-28T18:44+09:00"
     },
     {
      "title": "米軍、英RAF基地でドローンを撃退―イランの関与を疑う声",
@@ -130,12 +136,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41MmZLWFRsZ3BuOVBmMGNoMWpTTW1CYUlWcWNfaE9OY1M5S2ktNG5nUmtRb3liY3RySzVjcEViV2ZpLXFyUWctTTIxMzZzTkpvVUp3UlZoeGY3dnNhRTdaakhPczNraVFjOTFuRXZyTHhwWFFTYTFtdUNudGpFWmM?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-28T17:06+09:00"
-    },
-    {
-     "title": "米イラン軍事衝突はアジアのエネルギー危機に発展／ホルムズ海峡封鎖があと2カ月続けば世界経済に甚大な影響",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTDZQbW9vNF9NbEYwZHNXcWpNNFF3T08zbUNTLXBFVko3Q3NQVTg1SjNWOU05eVhoWGVZcXZsQUoyalJEU0xFY2t4cGVyMFRkY3AtSUo3UHpxMUk?oc=5",
-     "source": "東洋経済オンライン",
-     "at": "2026-11-28T16:00+09:00"
     },
     {
      "title": "米軍、英空軍基地で無人機を今月撃退 イラン関与の疑い＝ＦＴ",
@@ -156,10 +156,28 @@
    "label": "中国・台湾",
    "items": [
     {
+     "title": "中国、国家機密渡した政府幹部に死刑判決、「エヌビディアスパイ報道に反撃？」と韓国紙",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDRuUzhxZEx0ZXJaRUtCUE4wa2tnZVh5Y1cyQWRZeGMyR2liMnhQdWVSYjRyejNUdldwYWFhQ1ljSlRxQmNLbW1lcGhIQ055Y0RzYVpNR3I1WEZ2LVBkRk9mZHJ2Ym5xRDFBT3BRZlVqbDZvejFtMHRnR2ZHeEVSZUNydEVjeWRVUllN0gGLAUFVX3lxTFBkNG5TOHFkTHRlclpFS0JQTjBra2dlWHljVzJBZFl4YzJHaWIyeFB1ZVJiNHJ6M1R2V3BhYWFDWWNKVHFCY0ttbWVwaEhDTnljRHNhWk1HcjVYRnYtUGRGT2ZkcnZibnFEMUFPcFFmVWpsNm96MW0wdGdHZkd4RVJlQ3J0RWN5ZFVSWU0?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-27T21:00+09:00"
+    },
+    {
      "title": "米中首脳会談、台湾武器売却問題の行方は？ 協議なら米対台政策転換 揺らぐ「6つの保証」と日本への影響 #エキスパートトピ",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTmVNNnJmZTFaaWFPNUlzS0IzQkVQSVhEdHloZzhCTFBBUC10Z0pubXdPemJNWnFrc3dYdURJTFBnS2RHR2ZoNlkyNXJWNzMteTJhWFM3X3NWblRldGd0WU1zeWZmLUljM1pSYk0tQk05TExnNDFIekd0aWRmVHBFSHRaM1hzQ01wTzJ1Ym53?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-27T18:29+09:00"
+    },
+    {
+     "title": "フフホト新空港開港、超大型機に対応　中国内モンゴル自治区",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFdwWUFXNEp3clM0S2hxLWVUVEFQX0VWcW1QVmJpekFGLXdnbUhleXBEZGN5ZjJUV2l2QS1iMUVBMXlxUTNrZWE1UGE2SUp2ZlBDUUFJY1k2MkhjUE5oaHpmMDRXRVZxWGk2c3I5US1KaFZrX1p0TWhTWjZPXzVRdHdBb0FrbE1vcDd6b1l6aGPSAZABQVVfeXFMT3RXcFlBVzRKd3JTNEtocS1lVFRBUF9FVnFtUFZiaXpBRi13Z21IZXlwRGRjeWYyVFdpdkEtYjFFQTF5cVEza2VhNVBhNklKdmZQQ1FBSWNZNjJIY1BOaGh6ZjA0V0VWcVhpNnNyOVEtSmhWa19adE1oU1o2T181UXR3QW9Ba2xNb3A3em9Zemhj?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-27T18:14+09:00"
+    },
+    {
+     "title": "中国李首相が神田アジア開発銀行総裁と会談",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3pldWtYSmdnNWVocFA3SVc5dkZacUEyU1hVSHVYNjl6OEw0MU5wYVNOZHI0YVFNWVZ5dFdmYVZoZzVtWnNpdXp2VDhpUTNBZG5PTnhNOFVNU2d1VElPam1XUUxsTEI4alF2X2JpTGFUQ0U5RDhsbGJZaDQ2NTd4dUtlcHZ0WTAtWXhr0gGLAUFVX3lxTE1XemV1a1hKZ2c1ZWhwUDdJVzl2RlpxQTJTWFVIdVg2OXo4TDQxTnBhU05kcjRhUU1ZVnl0V2ZhVmhnNW1ac2l1enZUOGlRM0Fkbk9OeE04VU1TZ3VUSU9qbVdRTGxMQjhqUXZfYmlMYVRDRTlEOGxsYlloNDY1N3h1S2VwdnRZMC1ZeGs?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-27T17:35+09:00"
     },
     {
      "title": "中国軍、台湾対岸で民間船舶を使った上陸演習 仮設浮橋の試験を衛星画像で確認",
@@ -172,24 +190,6 @@
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjhmc0ZEZHRwYmRla0dPdV9RWkg4ZnBRNE9lREhHUnNDTzB1SUJhQTJhUWFpZzVWVkV6TTltWm9HLW1IeHNRRk9zTVJQLWxUZUt2QkVLeXBvajhrVDZyU0NMd18xZDNlc0Vrak9QX25FSkE3SUVlZEJrdENQX2x6WW5Xc3NPYUVXSjdzNlpR?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-27T14:04+09:00"
-    },
-    {
-     "title": "トランプ氏　プーチン氏に欧州での軍事侵攻停止を要求　中国での米ロ首脳会談で",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTdRN2VGTmgxRU8yWTB3eHVSbVIwTmg0bGVpdFRaR1NtVGN4TjJrejlydTZNQmtEUHBRTzVicUNLSHd4UzJaYXRKLU1sT21WTnRhRXVCTjM2SU40UTZQb0Y0Z2lRY0MtVXE4UGNrLXpMUFNfWXhyT0d3cXBWS1VDRkV2TjEtZ9IBiwFBVV95cUxNMFpKeWlnZmM1UHpfcTZMUEVfQkNtczlTN09peGJiZW5idjVPaW5MUXdmNU5mQ0g0ZFpEaTFtaDczWi15UjdnMWJnUnhhT2tmUmpjbUhuVHhTZkRHVFlzNkFXSDZjSmpuNHZZbjhCdE9uNmxKbkRQZkI4MkF4d3JqVWdXbFdWMU1NbGFz?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-27T02:50+09:00"
-    },
-    {
-     "title": "中国・李強首相、アジア開発銀行・神田総裁と会談 笑顔で握手交わす 高市首相発言以降で日本人との会談は“初”",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5seFI4MWxBSGlYX3Y2a1VjUm1iTWV2cDJMRWVwbk9hQ0w1ZnNzSFZGdDByUDA5Q3dCaVAwbC1YWndrc194R2o1TnhMWHlXYUo3RHhkSl9SSmZZTF9hLVEzMFZKZ201OU1nX29jMUtn?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-27T01:22+09:00"
-    },
-    {
-     "title": "中国艦艇の西太平洋展開を防衛省が相次ぎ公表 中国側は「日本の新軍国主義への抑止」と正当化 #エキスパートトピ",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkxnaVBBS0lxRTQtZVA0TjV6bTl0eFhmNUhpWXR6WEI4RWJKVjU1V3VfV2tsT1R4NjYtN1lzV0hzTUFXaWEwWnpqN21lY0FRTWloNEpXbTdDZ3lpYkhNRXRzWUV3Y1B6T2d0MDNLQWUyV2RJRDhMU0pSTi1UdHNOWEFrV0swSTh1Rzc2VU5B?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-26T17:16+09:00"
     }
    ]
   },
@@ -197,6 +197,12 @@
    "key": "nk",
    "label": "北朝鮮",
    "items": [
+    {
+     "title": "北朝鮮と中・露を結ぶ「2つの橋」開通の意味 監視困難な陸路を通じ軍事協力を強化 久保田るり子の朝鮮半島ウオッチ",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdXZzS2JMS3NtNVcxMHFUTDJRVF9jbm9HdTdvSnRFaGw1X0pmb1lhU0ZaeEJ5Y215eS14SEczWHNTdHBybElhRk9SYkxtVzBEZk1IQlc4QmU1eklzUFJBTkJDdFRLVHJEdm8wLXpsX1JpRTZWMGc?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-28T19:00+09:00"
+    },
     {
      "title": "北朝鮮 12月下旬に党の重要会議開催 外交や核開発など方針注目",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOHlvUVpTbk1vUUxjOEhqSW5sbnI4NGVCbnhEUVlOVldfd2lORk9PVVZzVlNIaDhXdDQ0LS1JWTdYeFhXYlU0bXFVRmNheFdpalYtcjdhRTk0LXhMTmxz?oc=5",
@@ -210,6 +216,12 @@
      "at": "2026-11-28T17:06+09:00"
     },
     {
+     "title": "北朝鮮が平安南道北倉（ピョンアンナムド·プクチャン）空軍基地の大規模な改修工事を終え、運営を再開した情況が確認された。",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GdmN2N1hiWEhoNVBBRHVTTUt3TUVqWmJxZy1ZQXZfMVROOXktV1FHVHhWWTFTdnpnZTVGOThHR1FDTkJILTlwQXBPcm84M3R1SEdJ?oc=5",
+     "source": "매일경제",
+     "at": "2026-11-28T17:03+09:00"
+    },
+    {
      "title": "ウクライナが攻撃のロシア船 「北朝鮮から武器を輸送」",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4SkozQl8taHJoN0FjdHVOSHpFUVlIa2FGck02T2dZalprN1U5QmJzbFhsOHlONmR2N21SaE83dUFuQ1ZDelpDdVRKMUVsS3RPU1hBNUtPc2JwSUZxbFpZRmFSXzlGTW5QaXZLaXZibXVSSy1lYWdFMVJR?oc=5",
      "source": "テレ朝NEWS",
@@ -220,18 +232,6 @@
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MVU1XU1FReEhnellaSVhQQ0ZibV9BRmRCNFhjZ2FFU3ZtQnZvZ1VSd0dad0V6UmNhdElCcHlWZjgzLXE4eGdsZXZobExTZl9KWUlpQTVEYWJJM1MwMUw5Y2JtWWZfaVFpNWwyaVo5a1ZFZnNvV3c?oc=5",
      "source": "産経ニュース",
      "at": "2026-11-28T10:49+09:00"
-    },
-    {
-     "title": "中国の駐北朝鮮大使、外務次官と会談…2027年も中朝の交流・協力を拡大",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWcnlLTEx2dUxqdXppT0NNMjBXVTBuTHJuS3pNSDRrLUg1azVRVktCc3hjY2tKa2FhUUlKZl9mRmlKMkJzZ3lpcWh1akctaFFIMjBxMlB6YWVpSExQMEI0XzZBMFp4VFM3YjgybGJkNmpfd9IBVEFVX3lxTE5sRmFCcldZVmxHQWlTS1pSVTBvUW4xRjIzQlF4WU8ySmQ4Wlh4cFZQd1k4OVp2dzcyZFd0RHdTWmR5aktKMTl6Ykx1alE5ZWxPelFzcg?oc=5",
-     "source": "AFPBB News",
-     "at": "2026-11-28T08:33+09:00"
-    },
-    {
-     "title": "「韓国との緊張緩和」に金正恩が猛反発か…ロシアへのミサイル供給停止、ウクライナ情報当局が発表（高英起） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYThUSldiTnN6VlNhc3JCWUFQRmpLaWxDNjFoZjRvNXN6ckI4RWMwTGtiNmtBR3ZsUlYxd19PRk9zNS1hQnZMWXAta25MRFItdFZVZkhzVm9nLWdpSUlZMnF3SGpmcWVqdFdsNzNxYjFHRnZuWUdpNHZvaTUydGJBWjR0LUVkMEQx?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-28T06:05+09:00"
     }
    ]
   },
@@ -322,6 +322,12 @@
  ],
  "nankai": [
   {
+   "title": "南海トラフ地震に備えて大阪・阿倍野で防災訓練 子供たちが煙体験テントや消火器で災害対応学ぶ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOUDdwYWtuUzlYNFd6ZTZZQWM4U3pzSldud212ZnJqU0dOU25NV0FoY3NyOUkyb19kVXRDdEFJZW1DMm1yNllRcUp2Rks4b0pOMV94bUtOX0gyZnVjRnpfQWxjb2xwTHk5LUQ3UENlZHU0SDRtLWc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-28T19:00+09:00"
+  },
+  {
    "title": "“巨大地震４日目”病院で何が？ 南海トラフ地震を想定した大規模訓練 愛知・半田市",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnTTUzQk9IXzJiMVRKSTVlX0JUUFhVWWFRYzF5VUs1NHo3SHdVX2Z3UDFIM3NjcTZBamd5V3hQLTFxaXdNdHRRNG5RTQ?oc=5",
    "source": "TVer",
@@ -350,12 +356,6 @@
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KYlhrSVNyOHVTamh2OFhDRkJJRS1EYmVLaTU5OWQ5SHBWM3NpNGlEazV3U1F6eTNvdFRsS1NjNnVxUEJab0dvR0tIbWNlaU9DeG05cGNUR2NtY0t0YUFjYlRSdGt4VW43MkwzbXp1VDJOTEE?oc=5",
    "source": "Excite エキサイト",
    "at": "2026-11-28T12:17+09:00"
-  },
-  {
-   "title": "南海トラフに備え「トイレカー」導入 狭い避難所にも対応 三重・紀宝町（中京テレビＮＥＷＳ）",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3pQUEJmVVJiSXB0XzVxQl9hdHpLUDZLQll4ZUZBX21sSWZfUGtEaHJHb2kxckxVb3BwZElVUHNDay12ZGNycERoeU5NR2lvYmREYWhkY1BrY2l6dnpIdERpcjYwTGt2YU1yNVVjMVBrSGt1NFM5QVJMNmFwV1FNQVVpbjVQS3lzOFRiNl9B?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-28T06:36+09:00"
   }
  ],
  "outage": [],
@@ -369,10 +369,10 @@
  ],
  "cyber": [
   {
-   "title": "【速報】成田空港 搭乗手続きシステムに不具合 “サイバー攻撃”の可能性も含め調査 手動対応に切り替え 第1・第2ターミナルの一部航空会社",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzVlkwVFR2bTFDMWpabXduMGl6VEZzeTlMVkxCYXJZYkFrdGRFU0VNMm5BWmF2Qy1oM0NyTlBQSG8yRENZTDVpNEdoOUd1QXNwTjM3Qm9zbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "at": "2026-11-28T18:25+09:00"
+   "title": "【速報】成田空港 搭乗手続きシステムに不具合 “サイバー攻撃”の可能性も含め調査 手動対応に切り替え 第1・第2ターミナルの一部航空会社（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRQ0pHbWR1a2F2ZzZaMFZDdl9SdldqQlRHeE03QzRmN3Bqa1BDVm0yWG9EOUpPeUxhaV9VcDFiS0VzaDZ4Tm1ON09pNm5ycUhBZ21PaC1fRnhxM2JxZFNveGV5ZkZpZzlQdlVTXzBZT0VXeTVlM1llLXowQ1Y4M2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-28T18:23+09:00"
   },
   {
    "title": "成田空港でシステム障害、チェックイン遅延で長蛇の列…ＪＡＬは復旧・午後６時半過ぎに全体復旧見通し",
@@ -423,12 +423,6 @@
    "at": "2026-11-28T10:19+09:00"
   },
   {
-   "title": "コストコで発電機が売り切れ、非常食にも注文殺到…相次ぐシステム障害とAIへの不安から（海外）",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjBPWndmYlVuM3hYbk5ocjZXRHJPM2s1TzVVbmRmU0UzTWpuczNrMmVjUXQtZlFLYjNiSWY4VVpmU09nVnctMzd6VVZjLUJJUVV6S2Q2dl9idEFTWHBZOWpHLXB4VGt2TTlMaUhORXV1cDZabEdfVHhEYkhfeUdNeGt0N0lGTEpqZVF1bmln?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-28T08:13+09:00"
-  },
-  {
    "title": "米空軍の基幹システム「クラウドワン」にサイバー攻撃…「情報流出が起きれば重大な事態に」と軍関係者",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tb0k1T2pLTVA5N1ZXUG9MaWw3aVV1WVYxdTlXNDBfZU5jR1l6bUJWXzBrX2lSdXhYOEFNM0ZEd0hFaXUyTEQwNExrcDdwQmNTc1Fj?oc=5",
    "source": "東京新聞",
@@ -457,16 +451,36 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93UVRwdGZaWlZnbU41TnVVdmw5cjU4Tmt2TkpEMWhIOGxzNDJ1ejVWOFhhU2dVMUtIWDA0TEQ4ek0wdVhvVzlyanhaOVBreDZhNW5qdXJJWXFiX2JPUFpSbl9Rdk5tSjYwU3BJVW52OFUzQQ?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-28T15:00+09:00"
+  },
+  {
+   "title": "iPhoneやアンドロイドのOSは脆弱…！世界のサイバーセキュリティ界で認められた「最強のOS」の名前",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eVhhWmIzeUNENFFkQ29PMWRQVkgxQlcwNll2VkE0dVdfa1FLRDA1bVdoc2JRYkdYcEFjalZQN0RFc01VZU1ZN3VVNW5OZEtNT2RjSXVmTmk?oc=5",
+   "source": "現代ビジネス",
+   "at": "2026-11-28T14:23+09:00"
   }
  ],
  "tokyo": [],
  "osaka": [],
  "world": [
   {
+   "title": "映画通じイラン文化紹介 米軍基地抱える三沢で",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGTV9RZHBUV0s4UlRPUUhyRHdUc2Nodk81LUhFd2ZNZDNPdF9peXh0dndZbDlMczVIRGxYZW5qYURjRHVla1c4emx2dFZkN3B1TzM4eUxlUlpQY2NaSnFTdUVLZ1FwYXc?oc=5",
+   "source": "デーリー東北",
+   "at": "2026-11-28T19:05+09:00",
+   "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "北朝鮮と中・露を結ぶ「2つの橋」開通の意味 監視困難な陸路を通じ軍事協力を強化 久保田るり子の朝鮮半島ウオッチ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hdXZzS2JMS3NtNVcxMHFUTDJRVF9jbm9HdTdvSnRFaGw1X0pmb1lhU0ZaeEJ5Y215eS14SEczWHNTdHBybElhRk9SYkxtVzBEZk1IQlc4QmU1eklzUFJBTkJDdFRLVHJEdm8wLXpsX1JpRTZWMGc?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-28T19:00+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "映画上映通じイラン文化を紹介 米軍基地抱える青森・三沢で",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzcGdsb0NRU29oSmFHOGdnRmROSTluLXhTZ01jNXRfdGk1NkdrdlhmbHc2SlRQa1JnYXUwbUtDdTZrNG9Wamo1THptX3FNZmRt?oc=5",
-   "source": "日本海新聞",
-   "at": "2026-11-28T18:43+09:00",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LaVI1S2NrOU1wdHc3dFVUbjNINW4zeWx5Um93bEMzOTRTOHhFX3Rpa1ZvQWhwSThSakg2ckdVT1VaSnc5WWgzVjdBQ2FYVmlIWWV4MnBfZUE1UjZ2X2hnRDN5QUowTVRLQ0FvdmxCb28?oc=5",
+   "source": "Excite エキサイト",
+   "at": "2026-11-28T18:44+09:00",
    "topic": "イラン・アメリカ"
   },
   {
@@ -505,18 +519,18 @@
    "topic": "北朝鮮"
   },
   {
+   "title": "北朝鮮が平安南道北倉（ピョンアンナムド·プクチャン）空軍基地の大規模な改修工事を終え、運営を再開した情況が確認された。",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GdmN2N1hiWEhoNVBBRHVTTUt3TUVqWmJxZy1ZQXZfMVROOXktV1FHVHhWWTFTdnpnZTVGOThHR1FDTkJILTlwQXBPcm84M3R1SEdJ?oc=5",
+   "source": "매일경제",
+   "at": "2026-11-28T17:03+09:00",
+   "topic": "北朝鮮"
+  },
+  {
    "title": "ロシア軍基地の「極超音速ミサイル」運用機など複数機が炎上 インフラ攻撃などで脅威な相手（1/2 ページ）",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIZnBGRnNjMXlYODE2dHJFTlNIazEyeDJsZHJsQmxXdmtaaWZZQkFJRUxwTEVGRHRTLURBM2hNTi1mWDU1Rk9BVmhn?oc=5",
    "source": "乗りものニュース",
    "at": "2026-11-28T16:12+09:00",
    "topic": "ロシア"
-  },
-  {
-   "title": "米イラン軍事衝突はアジアのエネルギー危機に発展／ホルムズ海峡封鎖があと2カ月続けば世界経済に甚大な影響",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTDZQbW9vNF9NbEYwZHNXcWpNNFF3T08zbUNTLXBFVko3Q3NQVTg1SjNWOU05eVhoWGVZcXZsQUoyalJEU0xFY2t4cGVyMFRkY3AtSUo3UHpxMUk?oc=5",
-   "source": "東洋経済オンライン",
-   "at": "2026-11-28T16:00+09:00",
-   "topic": "イラン・アメリカ"
   },
   {
    "title": "米軍、英空軍基地で無人機を今月撃退 イラン関与の疑い＝ＦＴ",
@@ -575,20 +589,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "中国の駐北朝鮮大使、外務次官と会談…2027年も中朝の交流・協力を拡大",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWcnlLTEx2dUxqdXppT0NNMjBXVTBuTHJuS3pNSDRrLUg1azVRVktCc3hjY2tKa2FhUUlKZl9mRmlKMkJzZ3lpcWh1akctaFFIMjBxMlB6YWVpSExQMEI0XzZBMFp4VFM3YjgybGJkNmpfd9IBVEFVX3lxTE5sRmFCcldZVmxHQWlTS1pSVTBvUW4xRjIzQlF4WU8ySmQ4Wlh4cFZQd1k4OVp2dzcyZFd0RHdTWmR5aktKMTl6Ykx1alE5ZWxPelFzcg?oc=5",
-   "source": "AFPBB News",
-   "at": "2026-11-28T08:33+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "「韓国との緊張緩和」に金正恩が猛反発か…ロシアへのミサイル供給停止、ウクライナ情報当局が発表（高英起） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYThUSldiTnN6VlNhc3JCWUFQRmpLaWxDNjFoZjRvNXN6ckI4RWMwTGtiNmtBR3ZsUlYxd19PRk9zNS1hQnZMWXAta25MRFItdFZVZkhzVm9nLWdpSUlZMnF3SGpmcWVqdFdsNzNxYjFHRnZuWUdpNHZvaTUydGJBWjR0LUVkMEQx?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-28T06:05+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ドイツ予算案可決、債務膨らむ　防衛費やウクライナ支援",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVdIBjwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVQ?oc=5",
    "source": "ｄメニューニュース",
@@ -619,8 +619,8 @@
   "world": {
    "level": "yellow",
    "reasons": [
-    "イラン・アメリカ：「攻撃」「軍事衝突」3件",
-    "北朝鮮：「攻撃」「ミサイル」3件",
+    "イラン・アメリカ：「攻撃」「封鎖」2件",
+    "北朝鮮：「攻撃」2件",
     "ロシア：「攻撃」「ミサイル」4件",
     "欧州・NATO：「攻撃」「破壊工作」4件"
    ],
