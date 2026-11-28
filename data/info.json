@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:15+09:00",
+ "updated": "2026-11-28T12:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -114,6 +114,12 @@
    "label": "イラン・アメリカ",
    "items": [
     {
+     "title": "米軍、イラン港湾封鎖の突破試みた船を攻撃 航行不能に",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yajhRRVZGSUI3elhvai1GUVJGYUlTQkN4eFJjSmQ2Q3lkeDhtUWx2bmVLOUFneVJiMENSOUQ1ZXRpdC1lVmNpVzc3Q1pEa2tyOFHSAVRBVV95cUxQNUxrRE9GM09JN3psc00yYjVMTzZCc0VjWFg2LWtpNktpYVg3UER1Y3hEZkE2ek5uaEtLLWpKQ0RUNW4wUlBBcXI0d29VbHROMjJFUmY?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-28T12:26+09:00"
+    },
+    {
      "title": "米中央軍、イランから出港し「海上封鎖」を突破しようとした貨物船を攻撃…航行不能に",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2hvcllXRFh0TEh4N28zOEQ5V0hpWFA4bFRrOXVRSGJzVWRaYTJGWjNkU0dUN3hZekxINkdwdXpOSy1NYkZGTkYxU05XM1paWkc1RTlMcmVmTHpqNUU0NnpZMkFNYXkwYUxyMWw4YmJyQzgwNVlSVG8wQzk5VVI3bERNRi0wZWNoWkw3ZG9ZV1dZOF9nMU02TG00a2c1Qzhlc2VvTk5ram9nTWtvQ2s5WDNYUV9OWDhEaWxqOTNta3RZZzRxRFgzOXFQY0MtZXVnM3NLZ0JYUlFZdGlPY2fSAY4BQVVfeXFMUGktbW5EcldhY3hzaGxNai1lcTF5ZXVfZFJmZE4zcm11cFQyWkxPdTEtdVlOMk5xUUNJSkdsMlNBUXEzNU5GUV9ZSF9FaEptSGVoZWNTdXpCYzlVSzRQTFBTbWhjMUZPcDk4UGc2V3k5US1ZWi1EdTBicWxkaDJsTkd3ZkYxOXR4NV9ZdzNtZw?oc=5",
      "source": "ｄメニューニュース",
@@ -142,12 +148,6 @@
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJQTAwNlVJTnRZNllMdktvVFdXakFHdHVHdHFTd2dMNkZPYnpUQ3Btd3E5SnpvWmJQc3l5U3ZUSVJvdlE0aGRpN2NlaFZ1cjRXdVNJdV9zOERfY2RlX21zVzI1YUhvaEJnNG1qRGxNMNIBdEFVX3lxTE83RWkzOFUwX21DMThwMlcybXRoZEZiNS11ZkU3T3ctakxFWVIxd29jbk5ocHoxV1c2WmtFaFJiMW5oNTBtWnJydXJ3NXFtbXpfSTJZQlZxdU5YN3hiVmpuMlY4RmtYZ3ZjNUw3YUhmM196Slcz?oc=5",
      "source": "Infoseek",
      "at": "2026-11-28T05:30+09:00"
-    },
-    {
-     "title": "米軍、オマーン湾で商船を航行不能に　対イラン海上封鎖突破図る",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWVFWGV6S2trX0ZQZEtKZGRrdEhFNHhuV1VpQ2FadEs0c2lZNGR0cy1HMEEySndKemdaNmRkMEJYWGo0U2ZzeXBLdEs1RDZ4dXVGNnh3U3dtb2N5aGF6UHMwRVRhYXFBeGkxN0J2VllaT2ZlY3ZNVHdFY0JJMzRSYUNVTHNRdXdoMkhkMnNGYlXSAYMBQVVfeXFMUDBLWWE3cU1DQ2lYVjVHWHJBRDctUm52RFRhbVIyQS13cG55blhjdDVWQi1fcTRYX0NRVW9fbGY4YW0wQWtvanlldkJ3eVlXZ3NYQzRtTG9CQkxCQmJaTWVGMVI1WkRXcExmQ2FQTEg0TDhtUnktS0c4aDhvWjJKcExVQkE?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-28T02:37+09:00"
     }
    ]
   },
@@ -228,10 +228,10 @@
      "at": "2026-11-27T16:00+09:00"
     },
     {
-     "title": "北朝鮮が対露軍事支援を一部中断とウクライナ主張 | スマートニュース",
-     "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPdkdtMGVWOWdheGZJQnN2SGR4R2pOUjliQlhaVkZpeVRhU1A2cEdPXzdjWmZJdlZsNC1JdFNlRU96RW5uMEFTRUw4OExjaHctUW1TZmNTbGM5TVF0UGpKdU5YcVRYTzVfMHNvWXdxMWRpOEI1NDZ6cTZ3TzZDSW5rSVEzQktnM3diZFZWdkYxNDU3ZkdqdnQ5Mm5iVXM0YUU4Y2pLTGVvczVzR3cyQ0xUQm5DWEQ4VUpTWXJ5bkx2YVV0dlFsV0hEYlp6UFRSTFpYbUxXcXRqRmVob3FZY3VYMGY0bUdPdTM2a2pRRjQ2bmNoUFdjbVhnakpJdjRQVElCRS1iTFJjc1F1b0FvajZOX0s4NXVEVFRCTlM0Q205VlBLNnJXZjcwa0hIbjVwd2QwQUVPbkkzek1TSFhhTnVPYVpJa3JrYlZDZ1Q2WU1ESFJKSW1vUXotZnhsN3VSOXYzRTBoSTJnbTRKaF9XSGVtNW1rSXlDWllDTlpBZkJwWQ?oc=5",
-     "source": "SmartNews",
-     "at": "2026-11-27T13:28+09:00"
+     "title": "北朝鮮、新たな核関連施設と改良型とみられる弾頭を公開…米韓の拡大抑止に課題",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DX05zc0NkS0ZWLU9OX3JuZ3NXc2I2WnFNV09TcFJlLUlndWNteXZqM0xnMEdLTDdNQVVCS0F0TlJ5UHdWVmJ6d1hibldITWEzSUlsNDktT01IV0lCN1p6VzZCYkY0NFZVWmp1aFVnZjBPd9IBVEFVX3lxTFA2V0M4eTRBMVQySG1WZGN1dmp5b1BxVmVnQUg1bGxDcGpzdTNuMUJKZUFyb1ozdzFrbks5TGpGbmJDcnNHV0lwdm9IbFdsWDZfWU5qSQ?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-27T13:07+09:00"
     }
    ]
   },
@@ -252,12 +252,6 @@
      "at": "2026-11-28T09:04+09:00"
     },
     {
-     "title": "そもそもドンバスの親ロシア派の武装蜂起は地元主導ではなく、ロシア極右人脈とロシア軍・情報機関の工作",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUl9qLWk1bkY0MnB0dk9GUFQzLWdBM05PckNLbGFST2hMNktNUjNpNFdxdVd4S1RsZ3hYZkZHSDQ4Ync1T0VOa0ZKeUc1dkg2VHlqRlJSbXJpd0JuWkJXLUdMLXJxektQMmV6Y0t0UjdTM09aX05QZmFnb1VnMkM2TDh2STRaQUM3U2tWRUdn?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-28T06:42+09:00"
-    },
-    {
      "title": "ウクライナ南部ヘルソン州オレシュキで住民らと話す最高会議（議会）のルビネツ人権問題全権代表（左）。10月30日に公開された映像（人権問題全権代表事務所提供・ロイター＝共同） - メラニア夫人のロシア・ウクライナ停戦舞台裏とは… 両国語で書き分けられた合意文書、現地",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wbmVDNjdtZ3hmU0M5RTZfcVc3MEZLOFFpSHhkSHNnVDN2Tk9uTjZoVm4wNFhwUGxEVXR4TXJQVF9pa3lETzZjeHhwc1B5Q0k0aHB6N3Nkbw?oc=5",
      "source": "西日本新聞me",
@@ -274,6 +268,12 @@
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMbjJJcG9KcG1aNXVJOC1jdGJqVTl5RWY4VGc2a1BqWlBNWDIwSXIxMGVqQVlLcEJvYlRPSXlUVW01dmg0WmZRTEZ0X1o5VzBaWi16cllXaFlQUDVoRFVj?oc=5",
      "source": "NHKニュース",
      "at": "2026-11-28T05:23+09:00"
+    },
+    {
+     "title": "ロシア 来年の予算案承認 国防費はウクライナ侵攻以降で最高額",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JbEdRWWN0T013cFhMTVJlREstakpMOFQtVV9GSGlTZDByYmtOWk5YXzhpenVzYUdXSHRFTm54TV9EdnpKdFpKYXNTdEJMbWtaYlBFdGVkdjdBRk5WV21J?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-28T05:16+09:00"
     }
    ]
   },
@@ -281,6 +281,12 @@
    "key": "europe",
    "label": "欧州・NATO",
    "items": [
+    {
+     "title": "ドイツ予算案可決、債務膨らむ　防衛費やウクライナ支援",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVdIBjwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-28T05:10+09:00"
+    },
     {
      "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wVU95QUxuV1BmYllUbk5sSEFWZ0pTcHhMZ2ZEYlc2MmhpV3BsM0pkWDlqWFJZeDQydEM1MkhBVHNGWG1LbGdXcV9HNmpjX05sa2FXSkNSS21WbHBGVm9R?oc=5",
@@ -310,17 +316,29 @@
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2FHMTZlZy1MQVpMdGFPcGs1RjFIMHBpZHdNY3l0LVJmYVg2LUpSaFlvSmtzcFFKM3Q4X2FJWXZPZTRRTkJCejU5Zi1MLXB4SlZqd2R1bHo3ODJIVTFwdlJEaVNkcDRLbWtWaC1sVU01ZmpOUVBIN3RGMWVLdU8wd285Y1lrVy1hdk9MWHVWdDJWb3lER0dZbEk0bW8?oc=5",
      "source": "Laodong.vn",
      "at": "2026-11-27T17:35+09:00"
-    },
-    {
-     "title": "ルーマニアでCBSニュースが制作したルポルタージュ：黒海におけるロシア・ウクライナ戦争がルーマニア海軍に過大な負担をかけ、NATOを紛争に引きずり込む危険がある",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkYtdW5uWGFOdzRKakEzalN4RzlJNmhFcEhPaHM4Mzk0Z2tmajJ3OTVWZ2RySmFZSS1RVEh1VHJRUXlYeGN0N1dnampFbk43VktYeFk0X0FRYzNVRk55NW9TTkFuNVd3T2c5Ums2alRDMmpRWUNtV3lpRHBRTzhZT2hlSUp2VEdWODVOZU1xckp5SU1ySV8xVDRaNVU3bzNvUUYxS1ljeXdBdkpIbU9BMHdmZHloN0pJb21DMnVR?oc=5",
-     "source": "Informat.ro",
-     "at": "2026-11-27T17:10+09:00"
     }
    ]
   }
  ],
  "nankai": [
+  {
+   "title": "南海トラフ地震“発生4日目”を想定…患者の搬送手順を確認する大規模訓練 災害派遣医療チーム「DMAT」等が参加",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zclRTLTR6cXBSdUNNOWNYQmhXSUtGREZ1UnZBR0h5dnlJSzJPWXo2VDYxRTQwemx3OWVNb0lQVHQ1U0xTcW1hbHZPcW1nVFowTVJ3V2t0OWhpU05zTHNwRExqM0U5S1ZfWXp5WXlfZw?oc=5",
+   "source": "locipo.jp",
+   "at": "2026-11-28T12:24+09:00"
+  },
+  {
+   "title": "南海トラフ巨大地震想定訓練 災害時の医療連携を確認 和歌山",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pckZoYlREYUdIQVROeUNacHFOY2FCVDJxUW5PYU5hZHd6SzYyUFdXYkxFRzRuay1iZXpQcU1NUThmb3YwbTdwZVRCNm0zcC11N2Y4UFJnNG1FMDF2ZzF3?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-28T12:21+09:00"
+  },
+  {
+   "title": "“巨大地震４日目”病院で何が？ 南海トラフ地震を想定した大規模訓練 愛知・半田市（中京テレビＮＥＷＳ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cHhiOExQOEhNcnFHejR5WURYc05FSS12Y1FlSy1UU0tkdHgxNWlpNDZXLVVBTTl2TmNQSTFXQXJydkFjdTZwbU9OMWRLb0thdXJFeWZ2OGdReUVNbDlJVlczRHZEYkx2cFFWZlZoWHU3MExuWks1Q2JiOVVrWEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-28T12:20+09:00"
+  },
   {
    "title": "南海トラフに備え「トイレカー」導入 狭い避難所にも対応 三重・紀宝町（中京テレビＮＥＷＳ）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xY21xdi1rS0FKd0ZHRWltRm5Db3VvUDQ1Q0xiSnMyd3dBTk93T0xEbDQtd0F1Y1NndFRuSDVGT3dZbUJrQl9BaDhjT1luVXk2SDBVNjFpaERyY0F0TG9ueENyR1RJaXg2QldzMklOTUZrT1BvUU5yVERvaGxOczA?oc=5",
@@ -338,24 +356,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IMk9vOFN3ek1MY0JTbTZxTzVMU2xndUd0blRkMTVhaUI4R1lZZEYtMUFMNGhwQVRYWFU2WEpWd2Y5NDUxUEp1OTh4SWhZT0U4WmhPNm4xYXFkUjlSdDJEUVIxUURmVkE?oc=5",
    "source": "山陽新聞",
    "at": "2026-11-27T19:39+09:00"
-  },
-  {
-   "title": "【防災庁発足】卒業・卒園アルバムの「思い出を守る防災」へ。大規模災害時も子どもたちに思い出を。南海トラフ巨大地震などに備え、災害時の「デジタル卒業アルバム」無償提供に向けた事前申込受付を開始。",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTFI1YndyXzYtUFNEcldockNDRVctYzhhSDJ6bHZQYngxSTlGWkJOdGNERHdLRFNScldSeWtPM05HSjBPb2tJVGItUlp0bmlSUFBWbUZtTTltRU54MXdLNU9ldUJ0dU5ZWHc?oc=5",
-   "source": "PR TIMES",
-   "at": "2026-11-27T16:47+09:00"
-  },
-  {
-   "title": "南海トラフ地震を想定し、宮崎港でフェリーで患者を運ぶ訓練を行いました",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3RDNjUlBUS0VxNzM3ZGZzbm1nLUo5V0I1ZVBsbDBVOWlzTm1OaHh1UDNrNkdSSmhlZXFVWWI4SmNYNE9zQjIxZWRMd1NvVWtmS3ZvUndOTTdnRWtndlppOGkzZjhlWGM?oc=5",
-   "source": "やさしい朝日新聞",
-   "at": "2026-11-27T15:04+09:00"
-  },
-  {
-   "title": "スペースデータ、南海トラフ地震で壊れる建物とふさがる道路を街並みの上に示すシミュレーションを開発",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04WlJuTElCUEFsRVNFX1RrNDRuQ05iOU84M1R3eWgzOXR3SmJPOXFpTkNDd2V6LTZlNVVTM21oNnVQM3Bwb1FVUjF5OVZsQjNENFpLQXNtTnptcmxNWmdXOU5BVDd4Nm93UVpROVdjOElCcFpS?oc=5",
-   "source": "Excite エキサイト",
-   "at": "2026-11-26T20:15+09:00"
   }
  ],
  "outage": [],
@@ -379,6 +379,12 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yallsWXhZaFVGRlRmUEh4bm1hR2JWQlhCM0U4VFltcE1oaTdCcXZzVTIyOVdLazZEb0ZnZExodXFoS3VxU3NrbU5ScVVPaTlKWkpic2RmSU16cTRGRXMwcllfVEc?oc=5",
    "source": "CRYPTO TIMES",
    "at": "2026-11-28T11:56+09:00"
+  },
+  {
+   "title": "コストコで発電機が売り切れ、非常食にも注文殺到…相次ぐシステム障害とAIへの不安から（海外）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjBPWndmYlVuM3hYbk5ocjZXRHJPM2s1TzVVbmRmU0UzTWpuczNrMmVjUXQtZlFLYjNiSWY4VVpmU09nVnctMzd6VVZjLUJJUVV6S2Q2dl9idEFTWHBZOWpHLXB4VGt2TTlMaUhORXV1cDZabEdfVHhEYkhfeUdNeGt0N0lGTEpqZVF1bmln?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-28T08:13+09:00"
   },
   {
    "title": "相次いだ大規模なシステム障害は、まだ序章にすぎない",
@@ -423,6 +429,12 @@
    "at": "2026-11-28T11:43+09:00"
   },
   {
+   "title": "宇都宮市のメアド漏えい対象者が判明 メールで通知へ アララ不正アクセス問題",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ORU1oWWVfX2p3dWZUNTJ6VGVBQXZqUmFwSE1JSTFRSXAxdmEzTDQycGItcVVlLWJyNlZZVzlXTWZfSWxHby1GNUdhVUJPMTVaWXY3TVNxSHd3akU?oc=5",
+   "source": "下野新聞社",
+   "at": "2026-11-28T11:32+09:00"
+  },
+  {
    "title": "マネックス証券の不正アクセス、本人確認書類462人分の漏えい確認 対象者へ見舞金5000円",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HMkNOdkgxMGlZNDRpRmFqME9RN3d5WUs2VTg3VUpZcm9TdTNRWkZPZ09OYzVmM3VtMDRmS2thc2dnaU1BbzdUcjdDQjVNR19wWlNr?oc=5",
    "source": "東京報道新聞",
@@ -451,23 +463,18 @@
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUmdLR1F5OTN2QXRaMWVLaGh2c01LeGNWLUFEOTA5V3F1anJYX1o2cWtoaXRVdjNvdEY0Wi1pZC1LZkI0UlFpVUo0VEg4RzNBREFINDhwVl9nazNWbVZCWER3?oc=5",
    "source": "読売新聞",
    "at": "2026-11-28T10:45+09:00"
-  },
-  {
-   "title": "ミンカブに不正アクセス、資産管理サービス「アセプラ」口座連携情報など約19,000件流出の可能性",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zN2M4UlRQU0djOVNuR0c4ZFFfdElRWEdmaS04N1Etc01RZnZZUk9aa3lsSkJoTTJQdVZiNk92aDFPdmJ4dkkxUnhzcmIydTFScGFYeElWbHpnWVBuZER3NGpoRkNnMjY0TWc?oc=5",
-   "source": "Media Innovation",
-   "at": "2026-11-28T10:05+09:00"
-  },
-  {
-   "title": "エルテス、内部不正は不信感に 情報漏えい意識調査結果公表",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSnlQVUdSdDFhV0FRLUYzZVBiODNMT2dFRUxXU2hHWWF6TTZHUEJGZ2Jna0k2LXJkTzB6bWlUXzUtT2hjWUEtM2V1VWxhQkduVngwNF9R?oc=5",
-   "source": "日本ネット経済新聞",
-   "at": "2026-11-28T09:03+09:00"
   }
  ],
  "tokyo": [],
  "osaka": [],
  "world": [
+  {
+   "title": "米軍、イラン港湾封鎖の突破試みた船を攻撃 航行不能に",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yajhRRVZGSUI3elhvai1GUVJGYUlTQkN4eFJjSmQ2Q3lkeDhtUWx2bmVLOUFneVJiMENSOUQ1ZXRpdC1lVmNpVzc3Q1pEa2tyOFHSAVRBVV95cUxQNUxrRE9GM09JN3psc00yYjVMTzZCc0VjWFg2LWtpNktpYVg3UER1Y3hEZkE2ek5uaEtLLWpKQ0RUNW4wUlBBcXI0d29VbHROMjJFUmY?oc=5",
+   "source": "AFPBB News",
+   "at": "2026-11-28T12:26+09:00",
+   "topic": "イラン・アメリカ"
+  },
   {
    "title": "北朝鮮が12月下旬に党中央委員会総会を開催、政策方針決定へ 米朝会談への対応に注目",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MVU1XU1FReEhnellaSVhQQ0ZibV9BRmRCNFhjZ2FFU3ZtQnZvZ1VSd0dad0V6UmNhdElCcHlWZjgzLXE4eGdsZXZobExTZl9KWUlpQTVEYWJJM1MwMUw5Y2JtWWZfaVFpNWwyaVo5a1ZFZnNvV3c?oc=5",
@@ -518,13 +525,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "そもそもドンバスの親ロシア派の武装蜂起は地元主導ではなく、ロシア極右人脈とロシア軍・情報機関の工作",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUl9qLWk1bkY0MnB0dk9GUFQzLWdBM05PckNLbGFST2hMNktNUjNpNFdxdVd4S1RsZ3hYZkZHSDQ4Ync1T0VOa0ZKeUc1dkg2VHlqRlJSbXJpd0JuWkJXLUdMLXJxektQMmV6Y0t0UjdTM09aX05QZmFnb1VnMkM2TDh2STRaQUM3U2tWRUdn?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-28T06:42+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "ドナルド·トランプ米国大統領がイランとの戦争で勝利が差し迫ったとし、その時点は「私が望む時にいつでも」と話した。 イランに合意する機会を与えているが、イランがこれを受け入れるかどうかは確信できないとも..",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mTVlLNlkyU29qVF9fSENoQVpEM1UwYnQzakprN0R1dFUtenBFTko1UGg2emtIaHA5b0FVcEJ3M2RlWFF5UjRLaTVMSDRjODA?oc=5",
    "source": "매일경제",
@@ -567,11 +567,18 @@
    "topic": "ロシア"
   },
   {
-   "title": "米軍、オマーン湾で商船を航行不能に　対イラン海上封鎖突破図る",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWVFWGV6S2trX0ZQZEtKZGRrdEhFNHhuV1VpQ2FadEs0c2lZNGR0cy1HMEEySndKemdaNmRkMEJYWGo0U2ZzeXBLdEs1RDZ4dXVGNnh3U3dtb2N5aGF6UHMwRVRhYXFBeGkxN0J2VllaT2ZlY3ZNVHdFY0JJMzRSYUNVTHNRdXdoMkhkMnNGYlXSAYMBQVVfeXFMUDBLWWE3cU1DQ2lYVjVHWHJBRDctUm52RFRhbVIyQS13cG55blhjdDVWQi1fcTRYX0NRVW9fbGY4YW0wQWtvanlldkJ3eVlXZ3NYQzRtTG9CQkxCQmJaTWVGMVI1WkRXcExmQ2FQTEg0TDhtUnktS0c4aDhvWjJKcExVQkE?oc=5",
+   "title": "ロシア 来年の予算案承認 国防費はウクライナ侵攻以降で最高額",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JbEdRWWN0T013cFhMTVJlREstakpMOFQtVV9GSGlTZDByYmtOWk5YXzhpenVzYUdXSHRFTm54TV9EdnpKdFpKYXNTdEJMbWtaYlBFdGVkdjdBRk5WV21J?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-28T05:16+09:00",
+   "topic": "ロシア"
+  },
+  {
+   "title": "ドイツ予算案可決、債務膨らむ　防衛費やウクライナ支援",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVdIBjwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVQ?oc=5",
    "source": "ｄメニューニュース",
-   "at": "2026-11-28T02:37+09:00",
-   "topic": "イラン・アメリカ"
+   "at": "2026-11-28T05:10+09:00",
+   "topic": "欧州・NATO"
   },
   {
    "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
@@ -600,13 +607,6 @@
    "source": "Mezha.net",
    "at": "2026-11-27T19:58+09:00",
    "topic": "欧州・NATO"
-  },
-  {
-   "title": "米中首脳会談、台湾武器売却問題の行方は？ 協議なら米対台政策転換 揺らぐ「6つの保証」と日本への影響 #エキスパートトピ",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTmVNNnJmZTFaaWFPNUlzS0IzQkVQSVhEdHloZzhCTFBBUC10Z0pubXdPemJNWnFrc3dYdURJTFBnS2RHR2ZoNlkyNXJWNzMteTJhWFM3X3NWblRldGd0WU1zeWZmLUljM1pSYk0tQk05TExnNDFIekd0aWRmVHBFSHRaM1hzQ01wTzJ1Ym53?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-27T18:29+09:00",
-   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -626,14 +626,21 @@
    "level": "yellow",
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」5件",
+    "ロシア：「侵攻」1件",
     "欧州・NATO：「攻撃」「破壊工作」4件"
    ],
    "items": [
     {
-     "title": "米中央軍、イランから出港し「海上封鎖」を突破しようとした貨物船を攻撃…航行不能に",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2hvcllXRFh0TEh4N28zOEQ5V0hpWFA4bFRrOXVRSGJzVWRaYTJGWjNkU0dUN3hZekxINkdwdXpOSy1NYkZGTkYxU05XM1paWkc1RTlMcmVmTHpqNUU0NnpZMkFNYXkwYUxyMWw4YmJyQzgwNVlSVG8wQzk5VVI3bERNRi0wZWNoWkw3ZG9ZV1dZOF9nMU02TG00a2c1Qzhlc2VvTk5ram9nTWtvQ2s5WDNYUV9OWDhEaWxqOTNta3RZZzRxRFgzOXFQY0MtZXVnM3NLZ0JYUlFZdGlPY2fSAY4BQVVfeXFMUGktbW5EcldhY3hzaGxNai1lcTF5ZXVfZFJmZE4zcm11cFQyWkxPdTEtdVlOMk5xUUNJSkdsMlNBUXEzNU5GUV9ZSF9FaEptSGVoZWNTdXpCYzlVSzRQTFBTbWhjMUZPcDk4UGc2V3k5US1ZWi1EdTBicWxkaDJsTkd3ZkYxOXR4NV9ZdzNtZw?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-28T10:10+09:00"
+     "title": "米軍、イラン港湾封鎖の突破試みた船を攻撃 航行不能に",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yajhRRVZGSUI3elhvai1GUVJGYUlTQkN4eFJjSmQ2Q3lkeDhtUWx2bmVLOUFneVJiMENSOUQ1ZXRpdC1lVmNpVzc3Q1pEa2tyOFHSAVRBVV95cUxQNUxrRE9GM09JN3psc00yYjVMTzZCc0VjWFg2LWtpNktpYVg3UER1Y3hEZkE2ek5uaEtLLWpKQ0RUNW4wUlBBcXI0d29VbHROMjJFUmY?oc=5",
+     "source": "AFPBB News",
+     "at": "2026-11-28T12:26+09:00"
+    },
+    {
+     "title": "ロシア 来年の予算案承認 国防費はウクライナ侵攻以降で最高額",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JbEdRWWN0T013cFhMTVJlREstakpMOFQtVV9GSGlTZDByYmtOWk5YXzhpenVzYUdXSHRFTm54TV9EdnpKdFpKYXNTdEJMbWtaYlBFdGVkdjdBRk5WV21J?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-28T05:16+09:00"
     },
     {
      "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
