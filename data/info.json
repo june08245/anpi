@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-28T20:45+09:00",
- "errors": [],
+ "updated": "2026-11-28T21:00+09:00",
+ "errors": [
+  "nankai"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -145,8 +147,8 @@
     },
     {
      "title": "米が貨物船攻撃 イラン港湾封鎖の突破を阻止",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XemNVbVg5MVVBNDRNejh3aHA3Z3puNFhjNHpFLVZ4N192eXctSW1tUnQ0WFdCX1NrWDEzWnY5ZWd1TzRLQXN2cGJiTmE3amliVTdxSzhCTVpFajF1TnlTb0Vwa2FSdUlHYklhRnpR?oc=5",
-     "source": "au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ydUlqdS1IaFZZY1l2TGF4eW5zQW1McGU2dndGMnNTQmszRTVsSzRHZV9qOVloZ2FvcUo4OWhHY2hkWDk5RFRqMjhjeVNRcTRKeWZrNGRkOGxCNy1UWVd1WlN5RnJJc2xDdmxLenJmWXBzMlFlclE1TWt4SGRSRg?oc=5",
+     "source": "UQライフ",
      "at": "2026-11-28T17:05+09:00"
     }
    ]
@@ -186,10 +188,10 @@
      "at": "2026-11-27T14:04+09:00"
     },
     {
-     "title": "トランプ氏　プーチン氏に欧州での軍事侵攻停止を要求　中国での米ロ首脳会談で",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTdRN2VGTmgxRU8yWTB3eHVSbVIwTmg0bGVpdFRaR1NtVGN4TjJrejlydTZNQmtEUHBRTzVicUNLSHd4UzJaYXRKLU1sT21WTnRhRXVCTjM2SU40UTZQb0Y0Z2lRY0MtVXE4UGNrLXpMUFNfWXhyT0d3cXBWS1VDRkV2TjEtZ9IBiwFBVV95cUxNMFpKeWlnZmM1UHpfcTZMUEVfQkNtczlTN09peGJiZW5idjVPaW5MUXdmNU5mQ0g0ZFpEaTFtaDczWi15UjdnMWJnUnhhT2tmUmpjbUhuVHhTZkRHVFlzNkFXSDZjSmpuNHZZbjhCdE9uNmxKbkRQZkI4MkF4d3JqVWdXbFdWMU1NbGFz?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-27T02:50+09:00"
+     "title": "中国・李強首相、アジア開発銀行・神田総裁と会談 笑顔で握手交わす 高市首相発言以降で日本人との会談は“初”",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5seFI4MWxBSGlYX3Y2a1VjUm1iTWV2cDJMRWVwbk9hQ0w1ZnNzSFZGdDByUDA5Q3dCaVAwbC1YWndrc194R2o1TnhMWHlXYUo3RHhkSl9SSmZZTF9hLVEzMFZKZ201OU1nX29jMUtn?oc=5",
+     "source": "au Webポータル",
+     "at": "2026-11-27T01:22+09:00"
     }
    ]
   },
@@ -240,6 +242,12 @@
    "label": "ロシア",
    "items": [
     {
+     "title": "ロシア軍基地の「極超音速ミサイル」運用機など複数機が炎上 インフラ攻撃などで脅威な相手（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIZnBGRnNjMXlYODE2dHJFTlNIazEyeDJsZHJsQmxXdmtaaWZZQkFJRUxwTEVGRHRTLURBM2hNTi1mWDU1Rk9BVmhn?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-28T20:37+09:00"
+    },
+    {
      "title": "ロシア、ウクライナの大規模ドローン攻撃を報告――リビア攻撃で緊張高まる",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1bVNVbDZCMjhJZTR3Z3VVN0t5dG5XTEZvbEV3aTdib1A4SlZYdGpFZkdWZzd6VmJoYTgxdjNjY0ROQUVUYVVXRW5MS2o2NngxVUFpdWtEU05pMEtycGlTSjFHam0wYjE0LWc?oc=5",
      "source": "Investing.com - FX",
@@ -268,12 +276,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfOTRvOW55bkRualpGU29rREdNYWF3SXhlajNDOVpPRzRKVE1ocW9BNnJSYzJ1X05HY0h3NDJLY1liLXA0ODF2Y0JtXzdYMlZmVFRIRGpiSDZxZ0hhbjV3VG0tU3JGUnVaOGRsWnYzVkE2SlJTQnZscU9wRjBNS00?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-28T17:06+09:00"
-    },
-    {
-     "title": "ロシア軍基地の「極超音速ミサイル」運用機など複数機が炎上 インフラ攻撃などで脅威な相手（1/2 ページ）",
-     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIZnBGRnNjMXlYODE2dHJFTlNIazEyeDJsZHJsQmxXdmtaaWZZQkFJRUxwTEVGRHRTLURBM2hNTi1mWDU1Rk9BVmhn?oc=5",
-     "source": "乗りものニュース",
-     "at": "2026-11-28T16:12+09:00"
     }
    ]
   },
@@ -435,6 +437,12 @@
    "at": "2026-11-28T10:19+09:00"
   },
   {
+   "title": "サイバー攻撃の“予兆”はダークウェブに…個人情報5億件超漏えいとインフラ停止の危機 “全通信把握”ブロッキングの懸念【報道特集】",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LeHhMakh3cS15dEozQkVKVlJXWlBKTWlETDZmNXdjYmxyRUs5bVRQaWpDaFdlcHllVjVzWGFMU3Q3TlM0YXg4TmhST1o2Z0psSnNsLUZ1RUVhXzMzUXk0U2ZCX3A4c3VrWDFDUFRB?oc=5",
+   "source": "au Webポータル",
+   "at": "2026-11-28T20:39+09:00"
+  },
+  {
    "title": "【スーパーや病院の冷蔵庫がサイバー攻撃の標的に！】遠隔で勝手に温度を変えられる被害を防ぐため、国が緊急対策を呼びかけ",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55UEs1SV81MmdmQ1RKbVV4MXpYbjR3OG5ZSzZEOTZBVEtMTUFYaTZWUmZHQVZELTc4SnBjUzRPdE9nX3IyR2x0aGVHZXFoUQ?oc=5",
    "source": "DXマガジン",
@@ -451,17 +459,18 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FYXNWYjFFeXpSYXdFOTZWUXFHVG1jVzBQc1VzdndMMmJHaG52cWZ1QUdoejRObVpOazJSaWM3V3VFc29zRGxZZXhXY0pyUQ?oc=5",
    "source": "FNNプライムオンライン",
    "at": "2026-11-28T18:15+09:00"
-  },
-  {
-   "title": "【顧客の個人情報漏えいなし】東北電力フロンティア、外部メール配信サービスへの不正アクセスで調査結果公表",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6c1pMdUxOcVM2Nlh5MWVSLVdyMmlnRWFpT1RZQ2R1OEU3enJyZ21tZEMwbnVBWDFLd0F5SjVfazNvbi1I?oc=5",
-   "source": "にいがた経済新聞",
-   "at": "2026-11-28T17:31+09:00"
   }
  ],
  "tokyo": [],
  "osaka": [],
  "world": [
+  {
+   "title": "ロシア軍基地の「極超音速ミサイル」運用機など複数機が炎上 インフラ攻撃などで脅威な相手（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIZnBGRnNjMXlYODE2dHJFTlNIazEyeDJsZHJsQmxXdmtaaWZZQkFJRUxwTEVGRHRTLURBM2hNTi1mWDU1Rk9BVmhn?oc=5",
+   "source": "乗りものニュース",
+   "at": "2026-11-28T20:37+09:00",
+   "topic": "ロシア"
+  },
   {
    "title": "【2026統一地方選】統一地方選の前日、中国軍機や艦船が周辺活動 国軍が厳重監視",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2YW00NUZMRjJYOXNYb0pfYnpVcnI1OW5PTjNReTU3RDFNdG9ET0FsTDJXS2MtLVhMTFplVGJfdGdobHdlbHBvUkRtamwzSnRfVC1kRlB3UEduaF9G?oc=5",
@@ -562,17 +571,10 @@
   },
   {
    "title": "米が貨物船攻撃 イラン港湾封鎖の突破を阻止",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XemNVbVg5MVVBNDRNejh3aHA3Z3puNFhjNHpFLVZ4N192eXctSW1tUnQ0WFdCX1NrWDEzWnY5ZWd1TzRLQXN2cGJiTmE3amliVTdxSzhCTVpFajF1TnlTb0Vwa2FSdUlHYklhRnpR?oc=5",
-   "source": "au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ydUlqdS1IaFZZY1l2TGF4eW5zQW1McGU2dndGMnNTQmszRTVsSzRHZV9qOVloZ2FvcUo4OWhHY2hkWDk5RFRqMjhjeVNRcTRKeWZrNGRkOGxCNy1UWVd1WlN5RnJJc2xDdmxLenJmWXBzMlFlclE1TWt4SGRSRg?oc=5",
+   "source": "UQライフ",
    "at": "2026-11-28T17:05+09:00",
    "topic": "イラン・アメリカ"
-  },
-  {
-   "title": "ロシア軍基地の「極超音速ミサイル」運用機など複数機が炎上 インフラ攻撃などで脅威な相手（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIZnBGRnNjMXlYODE2dHJFTlNIazEyeDJsZHJsQmxXdmtaaWZZQkFJRUxwTEVGRHRTLURBM2hNTi1mWDU1Rk9BVmhn?oc=5",
-   "source": "乗りものニュース",
-   "at": "2026-11-28T16:12+09:00",
-   "topic": "ロシア"
   },
   {
    "title": "露指示とされる破壊工作 欧州激化",
@@ -627,8 +629,8 @@
    "items": [
     {
      "title": "米が貨物船攻撃 イラン港湾封鎖の突破を阻止",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XemNVbVg5MVVBNDRNejh3aHA3Z3puNFhjNHpFLVZ4N192eXctSW1tUnQ0WFdCX1NrWDEzWnY5ZWd1TzRLQXN2cGJiTmE3amliVTdxSzhCTVpFajF1TnlTb0Vwa2FSdUlHYklhRnpR?oc=5",
-     "source": "au Webポータル",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb09ydUlqdS1IaFZZY1l2TGF4eW5zQW1McGU2dndGMnNTQmszRTVsSzRHZV9qOVloZ2FvcUo4OWhHY2hkWDk5RFRqMjhjeVNRcTRKeWZrNGRkOGxCNy1UWVd1WlN5RnJJc2xDdmxLenJmWXBzMlFlclE1TWt4SGRSRg?oc=5",
+     "source": "UQライフ",
      "at": "2026-11-28T17:05+09:00"
     },
     {
@@ -638,10 +640,10 @@
      "at": "2026-11-28T17:06+09:00"
     },
     {
-     "title": "ロシア、ウクライナの大規模ドローン攻撃を報告――リビア攻撃で緊張高まる",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1bVNVbDZCMjhJZTR3Z3VVN0t5dG5XTEZvbEV3aTdib1A4SlZYdGpFZkdWZzd6VmJoYTgxdjNjY0ROQUVUYVVXRW5MS2o2NngxVUFpdWtEU05pMEtycGlTSjFHam0wYjE0LWc?oc=5",
-     "source": "Investing.com - FX",
-     "at": "2026-11-28T19:23+09:00"
+     "title": "ロシア軍基地の「極超音速ミサイル」運用機など複数機が炎上 インフラ攻撃などで脅威な相手（1/2 ページ）",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIZnBGRnNjMXlYODE2dHJFTlNIazEyeDJsZHJsQmxXdmtaaWZZQkFJRUxwTEVGRHRTLURBM2hNTi1mWDU1Rk9BVmhn?oc=5",
+     "source": "乗りものニュース",
+     "at": "2026-11-28T20:37+09:00"
     }
    ]
   }
