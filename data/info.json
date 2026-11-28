@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T18:15+09:00",
+ "updated": "2026-11-28T18:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -145,7 +145,7 @@
     },
     {
      "title": "米中央軍、イランから出港し「海上封鎖」を突破しようとした貨物船を攻撃…航行不能に",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3NYMng3X3dha3owQmNOaWJuWjZUbzYxT0g3cHVodTFJUzA1QU5oUXRYQWtRT0FvVXJaUFZzMjUyZ3hHVU1QUDhHYmI2RjNjbWFxQjBjWFFtRC1rRXFmQTVPYUk4eVpuc2pnbTFuTEhaenU4dEdacjBpdGRPakdEa0lQUGtWQkU20gGOAUFVX3lxTFBpLW1uRHJXYWN4c2hsTWotZXExeWV1X2RSZmROM3JtdXBUMlpMT3UxLXVZTjJOcVFDSUpHbDJTQVFxMzVORlFfWUhfRWhKbUhlaGVjU3V6QmM5VUs0UExQU21oYzFGT3A5OFBnNld5OVEtWVotRHUwYnFsZGgybE5Hd2ZGMTl0eDVfWXczbWc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2hvcllXRFh0TEh4N28zOEQ5V0hpWFA4bFRrOXVRSGJzVWRaYTJGWjNkU0dUN3hZekxINkdwdXpOSy1NYkZGTkYxU05XM1paWkc1RTlMcmVmTHpqNUU0NnpZMkFNYXkwYUxyMWw4YmJyQzgwNVlSVG8wQzk5VVI3bERNRi0wZWNoWkw3ZG9ZV1dZOF9nMU02TG00a2c1Qzhlc2VvTk5ram9nTWtvQ2s5WDNYUV9OWDhEaWxqOTNta3RZZzRxRFgzOXFQY0MtZXVnM3NLZ0JYUlFZdGlPY2fSAY4BQVVfeXFMUGktbW5EcldhY3hzaGxNai1lcTF5ZXVfZFJmZE4zcm11cFQyWkxPdTEtdVlOMk5xUUNJSkdsMlNBUXEzNU5GUV9ZSF9FaEptSGVoZWNTdXpCYzlVSzRQTFBTbWhjMUZPcDk4UGc2V3k5US1ZWi1EdTBicWxkaDJsTkd3ZkYxOXR4NV9ZdzNtZw?oc=5",
      "source": "ｄメニューニュース",
      "at": "2026-11-28T10:10+09:00"
     }
@@ -198,16 +198,16 @@
    "label": "北朝鮮",
    "items": [
     {
+     "title": "北朝鮮 12月下旬に党の重要会議開催 外交や核開発など方針注目",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOHlvUVpTbk1vUUxjOEhqSW5sbnI4NGVCbnhEUVlOVldfd2lORk9PVVZzVlNIaDhXdDQ0LS1JWTdYeFhXYlU0bXFVRmNheFdpalYtcjdhRTk0LXhMTmxz?oc=5",
+     "source": "NHKニュース",
+     "at": "2026-11-28T18:01+09:00"
+    },
+    {
      "title": "ウクライナが攻撃 ロシア船「北朝鮮から武器輸送」（ABEMA TIMES）",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfOTRvOW55bkRualpGU29rREdNYWF3SXhlajNDOVpPRzRKVE1ocW9BNnJSYzJ1X05HY0h3NDJLY1liLXA0ODF2Y0JtXzdYMlZmVFRIRGpiSDZxZ0hhbjV3VG0tU3JGUnVaOGRsWnYzVkE2SlJTQnZscU9wRjBNS00?oc=5",
      "source": "Yahoo!ニュース",
      "at": "2026-11-28T17:06+09:00"
-    },
-    {
-     "title": "北朝鮮 12月下旬に党の重要会議開催 外交や核開発など方針注目",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOHlvUVpTbk1vUUxjOEhqSW5sbnI4NGVCbnhEUVlOVldfd2lORk9PVVZzVlNIaDhXdDQ0LS1JWTdYeFhXYlU0bXFVRmNheFdpalYtcjdhRTk0LXhMTmxz?oc=5",
-     "source": "NHKニュース",
-     "at": "2026-11-28T14:00+09:00"
     },
     {
      "title": "ウクライナが攻撃のロシア船 「北朝鮮から武器を輸送」",
@@ -294,12 +294,6 @@
      "at": "2026-11-28T12:58+09:00"
     },
     {
-     "title": "ドイツ予算案可決、債務膨らむ　防衛費やウクライナ支援",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVdIBjwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVQ?oc=5",
-     "source": "ｄメニューニュース",
-     "at": "2026-11-28T05:10+09:00"
-    },
-    {
      "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wVU95QUxuV1BmYllUbk5sSEFWZ0pTcHhMZ2ZEYlc2MmhpV3BsM0pkWDlqWFJZeDQydEM1MkhBVHNGWG1LbGdXcV9HNmpjX05sa2FXSkNSS21WbHBGVm9R?oc=5",
      "source": "千葉テレビ放送",
@@ -316,6 +310,12 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2d0U1B0ZmtsZUdUYjVKM0cyTEIwRHctTUZnS1JWUGhLTkM0N1NBbXBhMHlRMjMtNkFvQ1hrN2pMRjRVQUVVRlJxMzFsV1o2bDcyUjNsSmhVdUV6S1FyaWswOVhqbk1CQ3R0ckh2R2RDS19UUnJrd05kWElyYXdEcHFrSWM2QQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-27T18:17+09:00"
+    },
+    {
+     "title": "米国はロシアにヨーロッパでの軍事行動の停止を呼びかけ",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2FHMTZlZy1MQVpMdGFPcGs1RjFIMHBpZHdNY3l0LVJmYVg2LUpSaFlvSmtzcFFKM3Q4X2FJWXZPZTRRTkJCejU5Zi1MLXB4SlZqd2R1bHo3ODJIVTFwdlJEaVNkcDRLbWtWaC1sVU01ZmpOUVBIN3RGMWVLdU8wd285Y1lrVy1hdk9MWHVWdDJWb3lER0dZbEk0bW8?oc=5",
+     "source": "Laodong.vn",
+     "at": "2026-11-27T17:35+09:00"
     }
    ]
   }
@@ -369,16 +369,34 @@
  ],
  "cyber": [
   {
+   "title": "【速報】成田空港 搭乗手続きシステムに不具合 “サイバー攻撃”の可能性も含め調査 手動対応に切り替え 第1・第2ターミナルの一部航空会社（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRQ0pHbWR1a2F2ZzZaMFZDdl9SdldqQlRHeE03QzRmN3Bqa1BDVm0yWG9EOUpPeUxhaV9VcDFiS0VzaDZ4Tm1ON09pNm5ycUhBZ21PaC1fRnhxM2JxZFNveGV5ZkZpZzlQdlVTXzBZT0VXeTVlM1llLXowQ1Y4M2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "at": "2026-11-28T18:23+09:00"
+  },
+  {
    "title": "成田空港でシステム障害、チェックイン遅延で長蛇の列…ＪＡＬは復旧・午後６時半過ぎに全体復旧見通し",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jVUVpRzdxdVM3SVpBMFJncWp1SjRYVmRXS2NzSFcxcnVlaTlJLVJ2OEMtLVp4NENxR0pzSFRzRF9rOV8tbWVfcncxMnBCYlRKSFo4aUcyWXVsdGVhektLYVpUVkJtUQ?oc=5",
-   "source": "読売新聞",
-   "at": "2026-11-28T18:05+09:00"
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzVEh6RVZJdHF1aTZnTVh0Smg0MjRPZjM2QmJCOVlGUDc5ZGdhVHFiVVRIekxYS3ItZk8zYkNBd3B2Qk5qQkNMMUpHSTdTZWU2VzJCLTU4UGFPOGxTeDBpeHdHa012Rk1LaHlGUnVFZ28?oc=5",
+   "source": "Infoseek",
+   "at": "2026-11-28T18:06+09:00"
+  },
+  {
+   "title": "成田空港 システム障害 搭乗手続きに不具合",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2RaSkVHSmZvaHItZVFmQUlFYUxDYjFfS1FmanpvM0hybzFsd2VpLVQ4UzB2RjlxSmhGVFV1OUpQUDFWUjh3eHZELTVXRVdvSGxwLXg3S3JEWDlsSk5GZlFZMHU3OEpYekVvZDVYejVVZ2pILWhFT19xSkdDa1VFSg?oc=5",
+   "source": "UQライフ",
+   "at": "2026-11-28T17:59+09:00"
   },
   {
    "title": "成田空港でシステム障害 搭乗手続きに不具合が発生 最新の社会ニュース【随時更新】",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUWpEVDVjcGEwemo5R2F4dnpwSmk0S2NocGJaUC1jcmJHb1NmeWNibklraUtaZERQbmZKSmMyOHotNENUa1dnejVESGl1MVBvY0FzQzlpTUJnOFJJbTlxN3VsSnFIOFg2cXhuX096OWUxblN0b1ZYSzBYSXBabTN3U2ppRnQ3a0xPS1lMWVduQnkyT01JcUE2SHBick9lUi1GR1hGd205Z3pKVHFiaDhyVC11anA?oc=5",
    "source": "ABEMA",
    "at": "2026-11-28T17:49+09:00"
+  },
+  {
+   "title": "ユニバーサルクリップボードが使えない？Xで相次ぐ声と試せる対処法 - iPhone Mania",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBINDA1TXp4NnozRURCdkx2Smdvc0U4VkZvemlkbl9CamNDU3lldWloUnNrQVB1NTVDSmlMSGxfbVFvU1NqSDNILUFqa3lWZ9IBU0FVX3lxTE4xYlVtYlI4OFcxZWk1YnJDWGRRbUVnR3NxLUllOXp3V3RNR0k4WFNKclVVU3VMUWhhODhUX21zNlgtbVMyUmpBLS1DYTEydVpkbVpV?oc=5",
+   "source": "iPhone Mania",
+   "at": "2026-11-28T17:06+09:00"
   },
   {
    "title": "【速報】成田空港でシステム障害 第1･第2ターミナルで搭乗手続きに影響",
@@ -411,6 +429,12 @@
    "at": "2026-11-28T08:13+09:00"
   },
   {
+   "title": "「いつ起きてもおかしくない”災害”」深刻化するサイバー攻撃 企業向けセミナー開催＜福島県福島市＞",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FYXNWYjFFeXpSYXdFOTZWUXFHVG1jVzBQc1VzdndMMmJHaG52cWZ1QUdoejRObVpOazJSaWM3V3VFc29zRGxZZXhXY0pyUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-28T18:15+09:00"
+  },
+  {
    "title": "【顧客の個人情報漏えいなし】東北電力フロンティア、外部メール配信サービスへの不正アクセスで調査結果公表",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6c1pMdUxOcVM2Nlh5MWVSLVdyMmlnRWFpT1RZQ2R1OEU3enJyZ21tZEMwbnVBWDFLd0F5SjVfazNvbi1I?oc=5",
    "source": "にいがた経済新聞",
@@ -433,30 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93UVRwdGZaWlZnbU41TnVVdmw5cjU4Tmt2TkpEMWhIOGxzNDJ1ejVWOFhhU2dVMUtIWDA0TEQ4ek0wdVhvVzlyanhaOVBreDZhNW5qdXJJWXFiX2JPUFpSbl9Rdk5tSjYwU3BJVW52OFUzQQ?oc=5",
    "source": "毎日新聞",
    "at": "2026-11-28T15:00+09:00"
-  },
-  {
-   "title": "iPhoneやアンドロイドのOSは脆弱…！世界のサイバーセキュリティ界で認められた「最強のOS」の名前",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12eVhhWmIzeUNENFFkQ29PMWRQVkgxQlcwNll2VkE0dVdfa1FLRDA1bVdoc2JRYkdYcEFjalZQN0RFc01VZU1ZN3VVNW5OZEtNT2RjSXVmTmk?oc=5",
-   "source": "現代ビジネス",
-   "at": "2026-11-28T14:23+09:00"
-  },
-  {
-   "title": "AIで安く繰り返せるサイバー攻撃──守る企業は、警告を1件ずつ調べていては対応が遅れ費用がかさむ",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsc0MxTHltU2MzYVVKcU51dGotRDh3MTFTTG1xdllmRl84NVdUeGd3Nko1eHV1dDFXNktER0JpMVplVHNWUlppTGtBNmRqWGlyczRUTUVVNnp4Zw?oc=5",
-   "source": "Forbes JAPAN",
-   "at": "2026-11-28T14:10+09:00"
-  },
-  {
-   "title": "米国防総省「全てのシステム維持」 空軍へのサイバー攻撃受け",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85eWYxZlRWejhGMERXU182ZV9KM2htQ0YxamdvLTNoNEcxcWdqOHc1ZkhiOWduOGQ3OUlyc3FaaFNleV9zNVhSX1gyRjRiOEI0bHJLZjFxZ2VyZ18xUHhrQk93NHJJUmt2emxuaA?oc=5",
-   "source": "日本経済新聞",
-   "at": "2026-11-28T12:39+09:00"
-  },
-  {
-   "title": "欧米の重要システム相次ぎサイバー攻撃被害 OpenAI「セキュリティ市場はAIプログラミングを大きく上回る」",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUWhJd3hnTHRpZVBUSUYzd1BmY3ZIUHZzZUY0ZW5HZTBaU1FfMEFKV3FBY3BVWmVrUUtZaW52SEN2amptNmhNOG82QVU4ZG0tOWxFWkpKaFY4NHZVRFZScEFFOGtjZkM3bGFJamxhUkFTeTBI?oc=5",
-   "source": "BigGo ファイナンス",
-   "at": "2026-11-28T12:05+09:00"
   }
  ],
  "tokyo": [],
@@ -468,6 +468,13 @@
    "source": "Investing.com - FX",
    "at": "2026-11-28T18:01+09:00",
    "topic": "イラン・アメリカ"
+  },
+  {
+   "title": "北朝鮮 12月下旬に党の重要会議開催 外交や核開発など方針注目",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOHlvUVpTbk1vUUxjOEhqSW5sbnI4NGVCbnhEUVlOVldfd2lORk9PVVZzVlNIaDhXdDQ0LS1JWTdYeFhXYlU0bXFVRmNheFdpalYtcjdhRTk0LXhMTmxz?oc=5",
+   "source": "NHKニュース",
+   "at": "2026-11-28T18:01+09:00",
+   "topic": "北朝鮮"
   },
   {
    "title": "ウクライナ外相 黒海の停戦を提案 ロシアの回答待ち 農産物の輸出ルートの再開が狙い｜Quebee キュエビー",
@@ -526,13 +533,6 @@
    "topic": "ロシア"
   },
   {
-   "title": "北朝鮮 12月下旬に党の重要会議開催 外交や核開発など方針注目",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOHlvUVpTbk1vUUxjOEhqSW5sbnI4NGVCbnhEUVlOVldfd2lORk9PVVZzVlNIaDhXdDQ0LS1JWTdYeFhXYlU0bXFVRmNheFdpalYtcjdhRTk0LXhMTmxz?oc=5",
-   "source": "NHKニュース",
-   "at": "2026-11-28T14:00+09:00",
-   "topic": "北朝鮮"
-  },
-  {
    "title": "ロシアの対欧州破壊工作、1年で16%増―英IISS「大量死傷の恐れ」と警告",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbTFmWVNGWjVkeUY3Z2szam9HSHZSODhCVEtSMXV6UVo1STVJcXhycEF2ajRhZXhDcTh4YUtBUUw2amtsaXUyX1ZpTWx4OGl3X212V3gxVVNFaXVDbzBoN21Xd9IBaEFVX3lxTE1uVU1lV1V3RHd0SUppQWR2OGdHdFluamk5d3E0RmgtczBIZlFzeUhONDA5SklnLTJlS3IxUHdEMG8tc1k2R2FieGdTdnZ4ZE9CZUhSX1dVeFhjZzZadm1GOWFydThzTkNa?oc=5",
    "source": "財経新聞",
@@ -569,7 +569,7 @@
   },
   {
    "title": "米中央軍、イランから出港し「海上封鎖」を突破しようとした貨物船を攻撃…航行不能に",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3NYMng3X3dha3owQmNOaWJuWjZUbzYxT0g3cHVodTFJUzA1QU5oUXRYQWtRT0FvVXJaUFZzMjUyZ3hHVU1QUDhHYmI2RjNjbWFxQjBjWFFtRC1rRXFmQTVPYUk4eVpuc2pnbTFuTEhaenU4dEdacjBpdGRPakdEa0lQUGtWQkU20gGOAUFVX3lxTFBpLW1uRHJXYWN4c2hsTWotZXExeWV1X2RSZmROM3JtdXBUMlpMT3UxLXVZTjJOcVFDSUpHbDJTQVFxMzVORlFfWUhfRWhKbUhlaGVjU3V6QmM5VUs0UExQU21oYzFGT3A5OFBnNld5OVEtWVotRHUwYnFsZGgybE5Hd2ZGMTl0eDVfWXczbWc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2hvcllXRFh0TEh4N28zOEQ5V0hpWFA4bFRrOXVRSGJzVWRaYTJGWjNkU0dUN3hZekxINkdwdXpOSy1NYkZGTkYxU05XM1paWkc1RTlMcmVmTHpqNUU0NnpZMkFNYXkwYUxyMWw4YmJyQzgwNVlSVG8wQzk5VVI3bERNRi0wZWNoWkw3ZG9ZV1dZOF9nMU02TG00a2c1Qzhlc2VvTk5ram9nTWtvQ2s5WDNYUV9OWDhEaWxqOTNta3RZZzRxRFgzOXFQY0MtZXVnM3NLZ0JYUlFZdGlPY2fSAY4BQVVfeXFMUGktbW5EcldhY3hzaGxNai1lcTF5ZXVfZFJmZE4zcm11cFQyWkxPdTEtdVlOMk5xUUNJSkdsMlNBUXEzNU5GUV9ZSF9FaEptSGVoZWNTdXpCYzlVSzRQTFBTbWhjMUZPcDk4UGc2V3k5US1ZWi1EdTBicWxkaDJsTkd3ZkYxOXR4NV9ZdzNtZw?oc=5",
    "source": "ｄメニューニュース",
    "at": "2026-11-28T10:10+09:00",
    "topic": "イラン・アメリカ"
@@ -589,18 +589,18 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ドイツ予算案可決、債務膨らむ　防衛費やウクライナ支援",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVdIBjwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVQ?oc=5",
-   "source": "ｄメニューニュース",
-   "at": "2026-11-28T05:10+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wVU95QUxuV1BmYllUbk5sSEFWZ0pTcHhMZ2ZEYlc2MmhpV3BsM0pkWDlqWFJZeDQydEM1MkhBVHNGWG1LbGdXcV9HNmpjX05sa2FXSkNSS21WbHBGVm9R?oc=5",
    "source": "千葉テレビ放送",
    "at": "2026-11-27T22:56+09:00",
    "topic": "欧州・NATO"
+  },
+  {
+   "title": "中国、国家機密渡した政府幹部に死刑判決、「エヌビディアスパイ報道に反撃？」と韓国紙",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDRuUzhxZEx0ZXJaRUtCUE4wa2tnZVh5Y1cyQWRZeGMyR2liMnhQdWVSYjRyejNUdldwYWFhQ1ljSlRxQmNLbW1lcGhIQ055Y0RzYVpNR3I1WEZ2LVBkRk9mZHJ2Ym5xRDFBT3BRZlVqbDZvejFtMHRnR2ZHeEVSZUNydEVjeWRVUllN0gGLAUFVX3lxTFBkNG5TOHFkTHRlclpFS0JQTjBra2dlWHljVzJBZFl4YzJHaWIyeFB1ZVJiNHJ6M1R2V3BhYWFDWWNKVHFCY0ttbWVwaEhDTnljRHNhWk1HcjVYRnYtUGRGT2ZkcnZibnFEMUFPcFFmVWpsNm96MW0wdGdHZkd4RVJlQ3J0RWN5ZFVSWU0?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-27T21:00+09:00",
+   "topic": "中国・台湾"
   }
  ],
  "status": {
@@ -622,7 +622,7 @@
     "イラン・アメリカ：「攻撃」「封鎖」4件",
     "北朝鮮：「攻撃」「ミサイル」3件",
     "ロシア：「攻撃」「ミサイル」4件",
-    "欧州・NATO：「攻撃」「破壊工作」5件"
+    "欧州・NATO：「攻撃」「破壊工作」4件"
    ],
    "items": [
     {
