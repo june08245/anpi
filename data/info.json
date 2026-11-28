@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T16:15+09:00",
+ "updated": "2026-11-28T16:30+09:00",
  "errors": [],
  "warnings": {
   "area": "大阪市",
@@ -27,6 +27,16 @@
   "reported": "2026-11-28T04:41:00+09:00"
  },
  "quakes": [
+  {
+   "at": "2026-11-28T16:14:00+09:00",
+   "place": "熊本県天草・芦北地方",
+   "mag": "2.5",
+   "maxi": "1",
+   "maxiRank": 1,
+   "osaka": "",
+   "osakaRank": 0,
+   "title": "震源・震度情報"
+  },
   {
    "at": "2026-11-28T11:57:00+09:00",
    "place": "熊本県天草・芦北地方",
@@ -93,16 +103,6 @@
    "mag": "4.3",
    "maxi": "1",
    "maxiRank": 1,
-   "osaka": "",
-   "osakaRank": 0,
-   "title": "震源・震度情報"
-  },
-  {
-   "at": "2026-11-27T04:33:00+09:00",
-   "place": "父島近海",
-   "mag": "5.5",
-   "maxi": "2",
-   "maxiRank": 2,
    "osaka": "",
    "osakaRank": 0,
    "title": "震源・震度情報"
@@ -216,22 +216,22 @@
      "at": "2026-11-28T10:49+09:00"
     },
     {
-     "title": "【APEC真相発覚】トランプの「電撃会談オファー」を蹴った金正恩の判断「トランプは核保有を認めるハラが決まっていない」",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hVllENDdmeHVZM1QxUUFNRmZGSk8td003YUl6NC1zLVhPUmowNmwxcmZaZVh5RXJ1TlpFYXBmRVVrQ2hRREJicWM2WWwxOVFIeENyT1hNQXNQTWowbGRrYmE3WXFJU0RvZFJuZE93?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-28T10:00+09:00"
-    },
-    {
-     "title": "また「金正恩訪中」？ マイアミでのG２０首脳会議を前に米朝首脳会談の条件を提示か（辺真一） - エキスパート",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJkNXJLMGpHYUJycThYaG1ZYTEwSWk0ZE1FQ2xBb1I0bGFmVVNfMHNaREZFdDRYTTI5YXMwbWE2d2lweVZ6RnhUcXBscnZuTGhMZWRiQmZuUlI3WFJfMzE5d3hPZUxwLWpYZmZ4Z2tzZXJHOXFQU1IwYnZVMDRMRWpDNkNCWjZs?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-28T09:23+09:00"
-    },
-    {
      "title": "中国の駐北朝鮮大使、外務次官と会談…2027年も中朝の交流・協力を拡大",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWcnlLTEx2dUxqdXppT0NNMjBXVTBuTHJuS3pNSDRrLUg1azVRVktCc3hjY2tKa2FhUUlKZl9mRmlKMkJzZ3lpcWh1akctaFFIMjBxMlB6YWVpSExQMEI0XzZBMFp4VFM3YjgybGJkNmpfd9IBVEFVX3lxTE5sRmFCcldZVmxHQWlTS1pSVTBvUW4xRjIzQlF4WU8ySmQ4Wlh4cFZQd1k4OVp2dzcyZFd0RHdTWmR5aktKMTl6Ykx1alE5ZWxPelFzcg?oc=5",
      "source": "AFPBB News",
      "at": "2026-11-28T08:33+09:00"
+    },
+    {
+     "title": "【北朝鮮は\"見返りが足りない\"とロシアに不満か】防衛研究所・兵頭慎治／米中ロ会談でプーチン氏が狙った “核大国\"の印象／日ロ関係は\"日本の態度次第\"／戦場はバルト海・地中海へ\"水平に\"拡大【1on1】",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLYXFqRjBjSUUyZEdKS25QTmxLYkZlc2V5Q3NIVWpWSG1iY0FDODdiNDBXSW1vOFZhdXBmQTV6Tlg0aVlWY2daZ0kyV2tUeWhoVFpEeXYyQ3UtYlBYSVNzVVRkYWJKVFR6ZFh3YTExdzI0bWl0?oc=5",
+     "source": "TBS NEWS DIG",
+     "at": "2026-11-27T20:21+09:00"
+    },
+    {
+     "title": "北朝鮮 ロシアへの軍事支援を一時停止か（ABEMA TIMES）",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTNzMXJFekpPUTE1cGpsQnRwWFJCS2xleHZHTjljSE0wc0UzNzRxUzdMczNmVDVrVjBOZXhueEtPRV9PQmJhUEJXMzh4YWVjWWlyN1VMRmFzVlV3ZWFVcHhJSFpuTVVSRzVMZUFLLThpSjR0X1FWM0VEZ0xuYktFa2x1RFp3Q1A5RUJsNXlB?oc=5",
+     "source": "Yahoo!ニュース",
+     "at": "2026-11-27T16:00+09:00"
     }
    ]
   },
@@ -270,10 +270,10 @@
      "at": "2026-11-28T12:32+09:00"
     },
     {
-     "title": "そもそもドンバスの親ロシア派の武装蜂起は地元主導ではなく、ロシア極右人脈とロシア軍・情報機関の工作",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1FzZGpkbEsyTlBpcVFDNEFXUGxOQmdUSnFTRmd5Q3dPOUx4U3BfYklHMWtuWlR5Q0lReWtvV1V0bHNjaDBtQ1FNTHM3TGYxV2Z1VmVwV3Voc0o3N0lTRVI4eFo0QzBQb25vdWZEaldzaUVzRGY3NlFBblF5Z0ppT0Y2WlJVbWZycU1JV2dR?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-28T11:13+09:00"
+     "title": "ウクライナが黒海停戦をロシアに提案 農産物輸出の再開狙う、露は石油も含めるべきと主張",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yek13Mlk1TEFFalRvX1RRenVBem9kbU1EeElabnJveHBhcTNvdlhOS09uM2lwb3lXamlRTGlKeXlfbUNZR21VR2F1czBvZDZYSGtsYjFIQUhjcUVUNjNFeEpoVC02TU9xX1VVVVFaTmhrQTAxeUE?oc=5",
+     "source": "産経ニュース",
+     "at": "2026-11-28T10:10+09:00"
     }
    ]
   },
@@ -294,6 +294,12 @@
      "at": "2026-11-28T12:58+09:00"
     },
     {
+     "title": "ドイツ予算案可決、債務膨らむ　防衛費やウクライナ支援",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVdIBjwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVQ?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-28T05:10+09:00"
+    },
+    {
      "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wVU95QUxuV1BmYllUbk5sSEFWZ0pTcHhMZ2ZEYlc2MmhpV3BsM0pkWDlqWFJZeDQydEM1MkhBVHNGWG1LbGdXcV9HNmpjX05sa2FXSkNSS21WbHBGVm9R?oc=5",
      "source": "千葉テレビ放送",
@@ -310,12 +316,6 @@
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2d0U1B0ZmtsZUdUYjVKM0cyTEIwRHctTUZnS1JWUGhLTkM0N1NBbXBhMHlRMjMtNkFvQ1hrN2pMRjRVQUVVRlJxMzFsV1o2bDcyUjNsSmhVdUV6S1FyaWswOVhqbk1CQ3R0ckh2R2RDS19UUnJrd05kWElyYXdEcHFrSWM2QQ?oc=5",
      "source": "Reuters",
      "at": "2026-11-27T18:17+09:00"
-    },
-    {
-     "title": "米国はロシアにヨーロッパでの軍事行動の停止を呼びかけ",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2FHMTZlZy1MQVpMdGFPcGs1RjFIMHBpZHdNY3l0LVJmYVg2LUpSaFlvSmtzcFFKM3Q4X2FJWXZPZTRRTkJCejU5Zi1MLXB4SlZqd2R1bHo3ODJIVTFwdlJEaVNkcDRLbWtWaC1sVU01ZmpOUVBIN3RGMWVLdU8wd285Y1lrVy1hdk9MWHVWdDJWb3lER0dZbEk0bW8?oc=5",
-     "source": "Laodong.vn",
-     "at": "2026-11-27T17:35+09:00"
     }
    ]
   }
@@ -423,6 +423,12 @@
    "at": "2026-11-28T12:39+09:00"
   },
   {
+   "title": "英米の重要システム相次ぎ攻撃、OpenAIはサイバーセキュリティ市場がAIプログラミング超えの潜在力と表明",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUWhJd3hnTHRpZVBUSUYzd1BmY3ZIUHZzZUY0ZW5HZTBaU1FfMEFKV3FBY3BVWmVrUUtZaW52SEN2amptNmhNOG82QVU4ZG0tOWxFWkpKaFY4NHZVRFZScEFFOGtjZkM3bGFJamxhUkFTeTBI?oc=5",
+   "source": "BigGo ファイナンス",
+   "at": "2026-11-28T12:05+09:00"
+  },
+  {
    "title": "コンタクトレンズ通販「アットコンタクト」、2万6,547件の個人情報漏洩 プレイド「KARTE」への不正アクセスで住所や電話番号も流出|セキュリティニュースのセキュリティ対策Lab",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVJjR2czbEo0bGlXNEJfRjlScFZjemdNRnZ0SnF1amEzYTJDZnUyWW50UmFHemVQcFNkRmI0aGJlZ3JoZU9hcEJMZkxyRzAzLU55bVBELVJSRHpOMU9leGpDR1pkSWFGc2ZsT0lUT2hzczhIaDdxbmluVTVzR1VON2t6RkxrQkZ2TVlMTFV5eXk1OG9OV2ZSZkloa0p2SDhW?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -433,12 +439,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iMDVBODFIV1lMX2V6S2tjeWdYcjlKX2x6d05NUVZUWmFMZzdocVlTbTlMSHpyY2VHS0RqSlp2R29sZlJoTnpaQWlVLUVJYmMtOUdDTVhBOWVUTi16RzJWZnVBVUxYQllSSVRfeU9R?oc=5",
    "source": "au Webポータル",
    "at": "2026-11-28T11:43+09:00"
-  },
-  {
-   "title": "宇都宮市のメアド漏えい対象者が判明 メールで通知へ アララ不正アクセス問題",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ORU1oWWVfX2p3dWZUNTJ6VGVBQXZqUmFwSE1JSTFRSXAxdmEzTDQycGItcVVlLWJyNlZZVzlXTWZfSWxHby1GNUdhVUJPMTVaWXY3TVNxSHd3akU?oc=5",
-   "source": "下野新聞社",
-   "at": "2026-11-28T11:32+09:00"
   },
   {
    "title": "マネックス証券の不正アクセス、本人確認書類462人分の漏えい確認 対象者へ見舞金5000円",
@@ -533,13 +533,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "そもそもドンバスの親ロシア派の武装蜂起は地元主導ではなく、ロシア極右人脈とロシア軍・情報機関の工作",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1FzZGpkbEsyTlBpcVFDNEFXUGxOQmdUSnFTRmd5Q3dPOUx4U3BfYklHMWtuWlR5Q0lReWtvV1V0bHNjaDBtQ1FNTHM3TGYxV2Z1VmVwV3Voc0o3N0lTRVI4eFo0QzBQb25vdWZEaldzaUVzRGY3NlFBblF5Z0ppT0Y2WlJVbWZycU1JV2dR?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-28T11:13+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "北朝鮮が12月下旬に党中央委員会総会を開催、政策方針決定へ 米朝会談への対応に注目",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MVU1XU1FReEhnellaSVhQQ0ZibV9BRmRCNFhjZ2FFU3ZtQnZvZ1VSd0dad0V6UmNhdElCcHlWZjgzLXE4eGdsZXZobExTZl9KWUlpQTVEYWJJM1MwMUw5Y2JtWWZfaVFpNWwyaVo5a1ZFZnNvV3c?oc=5",
    "source": "産経ニュース",
@@ -554,18 +547,11 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "【APEC真相発覚】トランプの「電撃会談オファー」を蹴った金正恩の判断「トランプは核保有を認めるハラが決まっていない」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hVllENDdmeHVZM1QxUUFNRmZGSk8td003YUl6NC1zLVhPUmowNmwxcmZaZVh5RXJ1TlpFYXBmRVVrQ2hRREJicWM2WWwxOVFIeENyT1hNQXNQTWowbGRrYmE3WXFJU0RvZFJuZE93?oc=5",
-   "source": "au Webポータル",
-   "at": "2026-11-28T10:00+09:00",
-   "topic": "北朝鮮"
-  },
-  {
-   "title": "また「金正恩訪中」？ マイアミでのG２０首脳会議を前に米朝首脳会談の条件を提示か（辺真一） - エキスパート",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWJkNXJLMGpHYUJycThYaG1ZYTEwSWk0ZE1FQ2xBb1I0bGFmVVNfMHNaREZFdDRYTTI5YXMwbWE2d2lweVZ6RnhUcXBscnZuTGhMZWRiQmZuUlI3WFJfMzE5d3hPZUxwLWpYZmZ4Z2tzZXJHOXFQU1IwYnZVMDRMRWpDNkNCWjZs?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-28T09:23+09:00",
-   "topic": "北朝鮮"
+   "title": "ウクライナが黒海停戦をロシアに提案 農産物輸出の再開狙う、露は石油も含めるべきと主張",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yek13Mlk1TEFFalRvX1RRenVBem9kbU1EeElabnJveHBhcTNvdlhOS09uM2lwb3lXamlRTGlKeXlfbUNZR21VR2F1czBvZDZYSGtsYjFIQUhjcUVUNjNFeEpoVC02TU9xX1VVVVFaTmhrQTAxeUE?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-28T10:10+09:00",
+   "topic": "ロシア"
   },
   {
    "title": "中国の駐北朝鮮大使、外務次官と会談…2027年も中朝の交流・協力を拡大",
@@ -589,6 +575,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ドイツ予算案可決、債務膨らむ　防衛費やウクライナ支援",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVdIBjwFBVV95cUxQcFMzUFJ4MGZvd2diSGRvT09oZU1SaGtMZDdpXzNLWERYMUMyUUE3OUFWU0Rqd1hwc2JNbGFSNVB3bWd2VkxTYTB0Uzd4NzNZaHNhVVVVZ3lOS1Vjdm80TEI2MWdvdjJFTXNaQktYS3dZaE9uVl9BS2RKcTNkb1pjUm5CTlF3V1hOb3Z3YzdrVQ?oc=5",
+   "source": "ｄメニューニュース",
+   "at": "2026-11-28T05:10+09:00",
+   "topic": "欧州・NATO"
+  },
+  {
    "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wVU95QUxuV1BmYllUbk5sSEFWZ0pTcHhMZ2ZEYlc2MmhpV3BsM0pkWDlqWFJZeDQydEM1MkhBVHNGWG1LbGdXcV9HNmpjX05sa2FXSkNSS21WbHBGVm9R?oc=5",
    "source": "千葉テレビ放送",
@@ -601,6 +594,13 @@
    "source": "ｄメニューニュース",
    "at": "2026-11-27T21:00+09:00",
    "topic": "中国・台湾"
+  },
+  {
+   "title": "【北朝鮮は\"見返りが足りない\"とロシアに不満か】防衛研究所・兵頭慎治／米中ロ会談でプーチン氏が狙った “核大国\"の印象／日ロ関係は\"日本の態度次第\"／戦場はバルト海・地中海へ\"水平に\"拡大【1on1】",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLYXFqRjBjSUUyZEdKS25QTmxLYkZlc2V5Q3NIVWpWSG1iY0FDODdiNDBXSW1vOFZhdXBmQTV6Tlg0aVlWY2daZ0kyV2tUeWhoVFpEeXYyQ3UtYlBYSVNzVVRkYWJKVFR6ZFh3YTExdzI0bWl0?oc=5",
+   "source": "TBS NEWS DIG",
+   "at": "2026-11-27T20:21+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
