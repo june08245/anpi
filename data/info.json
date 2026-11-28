@@ -1,6 +1,9 @@
 {
- "updated": "2026-11-28T21:45+09:00",
- "errors": [],
+ "updated": "2026-11-28T22:00+09:00",
+ "errors": [
+  "nankai",
+  "osaka"
+ ],
  "warnings": {
   "area": "大阪市",
   "items": [
@@ -156,16 +159,22 @@
    "label": "中国・台湾",
    "items": [
     {
-     "title": "統一地方選投票日の前日 台湾周辺に中国の軍用機33機、艦船12隻",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KT3dHaWtlNnFVMERKTjNkUkNhS2NnZS1XUmtaZ1NHOTJoeEV3ZzJmcThjUklnTUtITks4ZGxWa1hEM3hmTDZMWEw5UFgzTmRrejVYOE5LN1d3S2k3Y0hV?oc=5",
-     "source": "ライブドアニュース",
-     "at": "2026-11-28T21:08+09:00"
-    },
-    {
      "title": "【2026統一地方選】統一地方選の前日、中国軍機や艦船が周辺活動 国軍が厳重監視",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2YW00NUZMRjJYOXNYb0pfYnpVcnI1OW5PTjNReTU3RDFNdG9ET0FsTDJXS2MtLVhMTFplVGJfdGdobHdlbHBvUkRtamwzSnRfVC1kRlB3UEduaF9G?oc=5",
      "source": "Rti 中央廣播電臺",
      "at": "2026-11-28T19:48+09:00"
+    },
+    {
+     "title": "統一地方選投票日の前日 台湾周辺に中国の軍用機33機、艦船12隻",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KT3dHaWtlNnFVMERKTjNkUkNhS2NnZS1XUmtaZ1NHOTJoeEV3ZzJmcThjUklnTUtITks4ZGxWa1hEM3hmTDZMWEw5UFgzTmRrejVYOE5LN1d3S2k3Y0hV?oc=5",
+     "source": "ライブドアニュース",
+     "at": "2026-11-28T19:07+09:00"
+    },
+    {
+     "title": "中国、国家機密渡した政府幹部に死刑判決、「エヌビディアスパイ報道に反撃？」と韓国紙",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDRuUzhxZEx0ZXJaRUtCUE4wa2tnZVh5Y1cyQWRZeGMyR2liMnhQdWVSYjRyejNUdldwYWFhQ1ljSlRxQmNLbW1lcGhIQ055Y0RzYVpNR3I1WEZ2LVBkRk9mZHJ2Ym5xRDFBT3BRZlVqbDZvejFtMHRnR2ZHeEVSZUNydEVjeWRVUllN0gGLAUFVX3lxTFBkNG5TOHFkTHRlclpFS0JQTjBra2dlWHljVzJBZFl4YzJHaWIyeFB1ZVJiNHJ6M1R2V3BhYWFDWWNKVHFCY0ttbWVwaEhDTnljRHNhWk1HcjVYRnYtUGRGT2ZkcnZibnFEMUFPcFFmVWpsNm96MW0wdGdHZkd4RVJlQ3J0RWN5ZFVSWU0?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-27T21:00+09:00"
     },
     {
      "title": "米中首脳会談、台湾武器売却問題の行方は？ 協議なら米対台政策転換 揺らぐ「6つの保証」と日本への影響 #エキスパートトピ",
@@ -174,22 +183,16 @@
      "at": "2026-11-27T18:29+09:00"
     },
     {
-     "title": "中国軍、台湾対岸で民間船舶を使った上陸演習 仮設浮橋の試験を衛星画像で確認",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kakJzU3JBdl9CUUh5UUNaYmdUZDNCSG5NV2pCX1Y3ZVpWY0FuZzc1Qk5OeFBKVzFKRG1wWHYwRHpVU1FCMGNpY0h5LWZLZEl4SzNESUIzU3RCcHhVeVJ5MHFFWGkyMGc?oc=5",
-     "source": "NOVAIST",
-     "at": "2026-11-27T17:24+09:00"
+     "title": "フフホト新空港開港、超大型機に対応　中国内モンゴル自治区",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFdwWUFXNEp3clM0S2hxLWVUVEFQX0VWcW1QVmJpekFGLXdnbUhleXBEZGN5ZjJUV2l2QS1iMUVBMXlxUTNrZWE1UGE2SUp2ZlBDUUFJY1k2MkhjUE5oaHpmMDRXRVZxWGk2c3I5US1KaFZrX1p0TWhTWjZPXzVRdHdBb0FrbE1vcDd6b1l6aGPSAZABQVVfeXFMT3RXcFlBVzRKd3JTNEtocS1lVFRBUF9FVnFtUFZiaXpBRi13Z21IZXlwRGRjeWYyVFdpdkEtYjFFQTF5cVEza2VhNVBhNklKdmZQQ1FBSWNZNjJIY1BOaGh6ZjA0V0VWcVhpNnNyOVEtSmhWa19adE1oU1o2T181UXR3QW9Ba2xNb3A3em9Zemhj?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-27T18:14+09:00"
     },
     {
-     "title": "中国軍、民間船つなぐ上陸演習 台湾対岸で数週間にわたり実施 (ロイター)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjhmc0ZEZHRwYmRla0dPdV9RWkg4ZnBRNE9lREhHUnNDTzB1SUJhQTJhUWFpZzVWVkV6TTltWm9HLW1IeHNRRk9zTVJQLWxUZUt2QkVLeXBvajhrVDZyU0NMd18xZDNlc0Vrak9QX25FSkE3SUVlZEJrdENQX2x6WW5Xc3NPYUVXSjdzNlpR?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-27T14:04+09:00"
-    },
-    {
-     "title": "中国・李強首相、アジア開発銀行・神田総裁と会談 笑顔で握手交わす 高市首相発言以降で日本人との会談は“初”",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5seFI4MWxBSGlYX3Y2a1VjUm1iTWV2cDJMRWVwbk9hQ0w1ZnNzSFZGdDByUDA5Q3dCaVAwbC1YWndrc194R2o1TnhMWHlXYUo3RHhkSl9SSmZZTF9hLVEzMFZKZ201OU1nX29jMUtn?oc=5",
-     "source": "au Webポータル",
-     "at": "2026-11-27T01:22+09:00"
+     "title": "台湾　地方選前に大規模サイバー攻撃　1日平均約258万回",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5VlIxMzM0UG9wZ2RYdzlLV09RbjBHYU9oRGNQUWdKa0JrRnpTRlZvM3Z3ajlFTFA3NDQtdmdfWGF2OWFsM3dnTmVLcXd5NExpQ1hZWWJKMGrSAV5BVV95cUxNcWZYaDl5SFMwMjEtcElkdi1yNWZpeVVaUmVPNjlMTlk2T1paV1p4UHl6SVBkMGRFTkNIaHdPZVNZeFpPczdrZlBtTUJVUEM1MjlfVDRPa0p5bkt1d1dB?oc=5",
+     "source": "大紀元 エポックタイムズ",
+     "at": "2026-11-27T18:09+09:00"
     }
    ]
   },
@@ -252,12 +255,6 @@
      "at": "2026-11-28T20:37+09:00"
     },
     {
-     "title": "ウクライナ外相 ロシアに黒海での停戦提案 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02NGJocjAyaFgxaTNiQTU5REJkOU9Hd2w0ODFZQ2pTbFQ0VFdvWGRXX2MtekFHRm5CSTNyVURXOHVqZ3hRT3N1WHVXY0E3VDBDbXVsQ2kybllwVkE?oc=5",
-     "source": "ABEMA",
-     "at": "2026-11-28T19:49+09:00"
-    },
-    {
      "title": "ロシア、ウクライナの大規模ドローン攻撃を報告――リビア攻撃で緊張高まる",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1bVNVbDZCMjhJZTR3Z3VVN0t5dG5XTEZvbEV3aTdib1A4SlZYdGpFZkdWZzd6VmJoYTgxdjNjY0ROQUVUYVVXRW5MS2o2NngxVUFpdWtEU05pMEtycGlTSjFHam0wYjE0LWc?oc=5",
      "source": "Investing.com - FX",
@@ -274,6 +271,12 @@
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2JjODF1UmFJcGtKbm5oZEtSNUM0c0tRNklqc0dtbWJhYXYzM3M3YkdEczg3eHdoRU5ycF9rRGtaZ0xZV3B3MUhlZFozT1padnFSZ2hIWmdaTXdUaGRhbW9Pd19ZYXZRa1g2UkdEc29CTjQ0ejBuUmtJdWRvbnkzUnBTUEVPbzE5ak5Bbjk2dHFsM1U1bF9uTDFza3phNy1TWS12NXZqSFLSAa4BQVVfeXFMTVRhNlQ1akJCMXdGTUMwTzItTTRucDhtaTd6LTl1VzNCZVRJNWRrVjREWGlrWFI4XzRkOTdnNF8xVkhrVmdKbS1SbGhSeFhCaDF4ZGFZZTNmQ2xWSjZVbUU1Uk14dnY5TFJJWnZ5aG1oUTQtUUw1RzZvZ3hYVS0xdmNuTHFBUUVsNzdVRUE4YWdndEdFOWVydmRZZUl1VG96WFFUV3J6WFN0S2JWQXJ3?oc=5",
      "source": "ウクルインフォルム通信",
      "at": "2026-11-28T18:37+09:00"
+    },
+    {
+     "title": "ウクライナ外相 黒海の停戦を提案 ロシアの回答待ち 農産物の輸出ルートの再開が狙い",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMDBLVlQ1Y1A5OGIwcno1Rm45QzBOQ0pHRjJMMUtqcnBVZ0FCd2VIN1ZPRF93WFl3c1RsNmNKRVBwcnFhUHQwOWRORm5QQkJhYmF1OE0yMDc5Q1ZOT0lROHc5ZmFGRkg4YWpjQUJ1VnFpVzBneGQ2R013?oc=5",
+     "source": "テレ朝NEWS",
+     "at": "2026-11-28T17:59+09:00"
     }
    ]
   },
@@ -282,40 +285,40 @@
    "label": "欧州・NATO",
    "items": [
     {
-     "title": "露指示とされる破壊工作 欧州激化",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5POHB4SGJ0ODUyN3BBU3dDb3dyUlA2aXhINDFHRnBDUncwMFI0bC16TkNDbVREc25ZMlZNbzZTejFPWGcxR1N0ZDRULTVVQWhM?oc=5",
-     "source": "Yahoo!ニュース",
-     "at": "2026-11-28T14:48+09:00"
-    },
-    {
-     "title": "ロシアの対欧州破壊工作、1年で16%増―英IISS「大量死傷の恐れ」と警告",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbTFmWVNGWjVkeUY3Z2szam9HSHZSODhCVEtSMXV6UVo1STVJcXhycEF2ajRhZXhDcTh4YUtBUUw2amtsaXUyX1ZpTWx4OGl3X212V3gxVVNFaXVDbzBoN21Xd9IBaEFVX3lxTE1uVU1lV1V3RHd0SUppQWR2OGdHdFluamk5d3E0RmgtczBIZlFzeUhONDA5SklnLTJlS3IxUHdEMG8tc1k2R2FieGdTdnZ4ZE9CZUhSX1dVeFhjZzZadm1GOWFydThzTkNa?oc=5",
-     "source": "財経新聞",
-     "at": "2026-11-28T12:58+09:00"
-    },
-    {
-     "title": "ロシアの指示とされる破壊工作が欧州で激化、多数の死傷者を出す恐れも シンクタンク警告",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wVU95QUxuV1BmYllUbk5sSEFWZ0pTcHhMZ2ZEYlc2MmhpV3BsM0pkWDlqWFJZeDQydEM1MkhBVHNGWG1LbGdXcV9HNmpjX05sa2FXSkNSS21WbHBGVm9R?oc=5",
-     "source": "千葉テレビ放送",
-     "at": "2026-11-27T22:56+09:00"
-    },
-    {
      "title": "ルーマニア、ハイブリッド攻撃への共同対策をNATOに要請",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1hYYzA1S1g5LTY0QjRobEw3dFdnNXJidHhJTXVPWW9vWF83YVdSY1dIUXZuaWRydzBSdzBRblVxZ2c3RmxTTzVvUEJIOU1EejFfbGxqeW1EMWp6WEhkb19acXFDQTVCNXkzN0lHX2h6amF6Vl9HRnF4eG95cFZQSkxCWmhJd0xjZXRFcUZucDU?oc=5",
      "source": "Mezha.net",
      "at": "2026-11-27T19:58+09:00"
     },
     {
-     "title": "欧州でロシア破壊工作が16％増、手法が巧妙化＝英シンクタンク | ロイター",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2d0U1B0ZmtsZUdUYjVKM0cyTEIwRHctTUZnS1JWUGhLTkM0N1NBbXBhMHlRMjMtNkFvQ1hrN2pMRjRVQUVVRlJxMzFsV1o2bDcyUjNsSmhVdUV6S1FyaWswOVhqbk1CQ3R0ckh2R2RDS19UUnJrd05kWElyYXdEcHFrSWM2QQ?oc=5",
-     "source": "Reuters",
-     "at": "2026-11-27T18:17+09:00"
+     "title": "欧州でロシア破壊工作が16％増、手法が巧妙化＝英シンクタンク",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNcTl5dFFpckNIckVBSHZKZGdVdnI1X2ZHOTlfZzdjcHRQX2JlVC1NclFJSGJVRHpRRzM2RGRUbzAwSkxpd2pGckxRaFBXWFhvSUd0ckJQRmFFeV9PdEJnQ2ZibFM0dXRTYjdFaHVn?oc=5",
+     "source": "Infoseek",
+     "at": "2026-11-27T18:16+09:00"
     },
     {
      "title": "米国はロシアにヨーロッパでの軍事行動の停止を呼びかけ",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2FHMTZlZy1MQVpMdGFPcGs1RjFIMHBpZHdNY3l0LVJmYVg2LUpSaFlvSmtzcFFKM3Q4X2FJWXZPZTRRTkJCejU5Zi1MLXB4SlZqd2R1bHo3ODJIVTFwdlJEaVNkcDRLbWtWaC1sVU01ZmpOUVBIN3RGMWVLdU8wd285Y1lrVy1hdk9MWHVWdDJWb3lER0dZbEk0bW8?oc=5",
      "source": "Laodong.vn",
      "at": "2026-11-27T17:35+09:00"
+    },
+    {
+     "title": "ルーマニアでCBSニュースが制作したルポルタージュ：黒海におけるロシア・ウクライナ戦争がルーマニア海軍に過大な負担をかけ、NATOを紛争に引きずり込む危険がある",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVkYtdW5uWGFOdzRKakEzalN4RzlJNmhFcEhPaHM4Mzk0Z2tmajJ3OTVWZ2RySmFZSS1RVEh1VHJRUXlYeGN0N1dnampFbk43VktYeFk0X0FRYzNVRk55NW9TTkFuNVd3T2c5Ums2alRDMmpRWUNtV3lpRHBRTzhZT2hlSUp2VEdWODVOZU1xckp5SU1ySV8xVDRaNVU3bzNvUUYxS1ljeXdBdkpIbU9BMHdmZHloN0pJb21DMnVR?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-27T17:10+09:00"
+    },
+    {
+     "title": "ドナルド・トランプは、ウクライナでロシアが遂行している戦争に関してNATO事務総長と合意した共同声明を変更／声明に何を追加したのか",
+     "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOLXZmWU5Bd0ZYc1RfZlR5ODAyUWE3bUlFN1N0dkhmSU5UNllUWjRXdko4cl9vSjdNQjh0dERQekZmQjdDZmVGRHRUOXJHVFhwMkVjakwtdE9ST0FMVjJfOHFhSUlqRzByNEYxcGJsTVJETTg5T2pUS2cxNUFRNTJJYmMwWXJiQ0pGRUJxdlNYdXFEd042ZFN4dUdUSkVhMG9lY0NvdzFKdENvaFRvXzJRS1c2VFROUVYxU21pdFZweGpXdFZXa096aTJOdVF4aVRvbUU2czI3b053a0RyM1dneTdMazJLR2Q4aFNXUUwxYURhem1jZ2VKb0Qzdm9fQkl5NzJuejVIaFFBREphMHp4LVlRWTEzSHprLVp5OFg3TElBQQ?oc=5",
+     "source": "Informat.ro",
+     "at": "2026-11-27T16:15+09:00"
+    },
+    {
+     "title": "ラトビア領空にドローン一時侵入、ＮＡＴＯ戦闘機展開　軍が発表",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2Ql8zeklFeVFoMnE2RUxFZXVnYkFTZ29DTFdTZ2Q1M29NMWQ2OU9EVmlqaTQtX1F6VXV0MFRSc3pwTHgwcF9lVk9XQXhhUF9STE9WWXJnZ1BUbkQyX0F4bzhCVFpLWlI0MDV6dHRYeGxXZTViajM3WXNLVV9MZ9IBgwFBVV95cUxNVmR0VnpnY1lXSF84eEVGNW9EX0pzZG5lREdnWEJzSi1yaDBkZ2p2Qm00LVVZemthWmhoMk95SDBpN2lHVm9hTVJXV0ptV3JNWjRDUVVjdzdZSjZlblN1SWZKb1htT3RsYU9PUVNWb2NTWWJrcERyeEVYbExzSUExaUpGaw?oc=5",
+     "source": "ｄメニューニュース",
+     "at": "2026-11-27T15:03+09:00"
     }
    ]
   }
@@ -435,12 +438,6 @@
    "at": "2026-11-28T11:56+09:00"
   },
   {
-   "title": "【激増 日本のデータ流出】個情委に半月で830件の不正アクセス報告、漏えい人数延べ2億6000万人超す",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wMGNLTUhZYmMyMHFuVU91emNIcHNoaTN2WE15S0Exa0pWY2otX3BFbk4yMnBSMWtKbVExMkZZcmUzM2JUSi1VWGdfdnZ1RWlQZWRmRThxeVZuVG91TVZj?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "at": "2026-11-28T20:41+09:00"
-  },
-  {
    "title": "サイバー攻撃の“予兆”はダークウェブに…個人情報5億件超漏えいとインフラ停止の危機 “全通信把握”ブロッキングの懸念【報道特集】（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZaWU5ZkdvZjVVTFlxMVdFSGRaMjlBZ25pN1lEZzk3emhKRnBlb256eGlkSXJBZEh0R3BwTlc4d3ZKY1R0ZnM4ZjNramczaG4xOG9Qc1h3WmFZNFBEaUpfU1lLUzhWTXRWWXRWaXNlZVRiZktOYktYWXhQa1lmZ0k?oc=5",
    "source": "Yahoo!ニュース",
@@ -453,22 +450,21 @@
    "at": "2026-11-28T20:12+09:00"
   },
   {
-   "title": "画像・写真：潜むサイバー脅威に積極対応：時事ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43TFlZSTRzX0dXS2Z0UFpvSll5UHdYN01HWnVPdHIyMzRQTnZBN3JPOUdBam9GclJhOHl6N2dyWHBMNHdfY1IwWFJOUmhDSjZGTTAyQkhQU0E2SG9heHFFdEtUek8?oc=5",
-   "source": "時事ドットコム",
-   "at": "2026-11-28T20:07+09:00"
+   "title": "米空軍の基幹システム「クラウドワン」にサイバー攻撃…「情報流出が起きれば重大な事態に」と軍関係者",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tb0k1T2pLTVA5N1ZXUG9MaWw3aVV1WVYxdTlXNDBfZU5jR1l6bUJWXzBrX2lSdXhYOEFNM0ZEd0hFaXUyTEQwNExrcDdwQmNTc1Fj?oc=5",
+   "source": "東京新聞",
+   "at": "2026-11-28T18:47+09:00"
+  },
+  {
+   "title": "「いつ起きてもおかしくない”災害”」深刻化するサイバー攻撃 企業向けセミナー開催＜福島県福島市＞",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FYXNWYjFFeXpSYXdFOTZWUXFHVG1jVzBQc1VzdndMMmJHaG52cWZ1QUdoejRObVpOazJSaWM3V3VFc29zRGxZZXhXY0pyUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "at": "2026-11-28T18:15+09:00"
   }
  ],
  "tokyo": [],
  "osaka": [],
  "world": [
-  {
-   "title": "統一地方選投票日の前日 台湾周辺に中国の軍用機33機、艦船12隻",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KT3dHaWtlNnFVMERKTjNkUkNhS2NnZS1XUmtaZ1NHOTJoeEV3ZzJmcThjUklnTUtITks4ZGxWa1hEM3hmTDZMWEw5UFgzTmRrejVYOE5LN1d3S2k3Y0hV?oc=5",
-   "source": "ライブドアニュース",
-   "at": "2026-11-28T21:08+09:00",
-   "topic": "中国・台湾"
-  },
   {
    "title": "ロシア、2027年の国防費は歳出の35% ウクライナ侵攻後で最大",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mQmJLUGtjTmJVeXVta2JPWThBTVhGOXI1SW1hSVZOcE9rSmlLX1BQd2gxbGwtdXJjSlJOUmNhSjhZR3RveXNMS1VYNm9QV0szai01TnFOQ1hlbURvWTJUTU5GRjBZU1U?oc=5",
@@ -491,13 +487,6 @@
    "topic": "イラン・アメリカ"
   },
   {
-   "title": "ウクライナ外相 ロシアに黒海での停戦提案 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02NGJocjAyaFgxaTNiQTU5REJkOU9Hd2w0ODFZQ2pTbFQ0VFdvWGRXX2MtekFHRm5CSTNyVURXOHVqZ3hRT3N1WHVXY0E3VDBDbXVsQ2kybllwVkE?oc=5",
-   "source": "ABEMA",
-   "at": "2026-11-28T19:49+09:00",
-   "topic": "ロシア"
-  },
-  {
    "title": "【2026統一地方選】統一地方選の前日、中国軍機や艦船が周辺活動 国軍が厳重監視",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2YW00NUZMRjJYOXNYb0pfYnpVcnI1OW5PTjNReTU3RDFNdG9ET0FsTDJXS2MtLVhMTFplVGJfdGdobHdlbHBvUkRtamwzSnRfVC1kRlB3UEduaF9G?oc=5",
    "source": "Rti 中央廣播電臺",
@@ -517,6 +506,13 @@
    "source": "NHKニュース",
    "at": "2026-11-28T19:10+09:00",
    "topic": "ロシア"
+  },
+  {
+   "title": "統一地方選投票日の前日 台湾周辺に中国の軍用機33機、艦船12隻",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KT3dHaWtlNnFVMERKTjNkUkNhS2NnZS1XUmtaZ1NHOTJoeEV3ZzJmcThjUklnTUtITks4ZGxWa1hEM3hmTDZMWEw5UFgzTmRrejVYOE5LN1d3S2k3Y0hV?oc=5",
+   "source": "ライブドアニュース",
+   "at": "2026-11-28T19:07+09:00",
+   "topic": "中国・台湾"
   },
   {
    "title": "映画通じイラン文化紹介 米軍基地抱える三沢で",
@@ -554,6 +550,13 @@
    "topic": "イラン・アメリカ"
   },
   {
+   "title": "ウクライナ外相 黒海の停戦を提案 ロシアの回答待ち 農産物の輸出ルートの再開が狙い",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMDBLVlQ1Y1A5OGIwcno1Rm45QzBOQ0pHRjJMMUtqcnBVZ0FCd2VIN1ZPRF93WFl3c1RsNmNKRVBwcnFhUHQwOWRORm5QQkJhYmF1OE0yMDc5Q1ZOT0lROHc5ZmFGRkg4YWpjQUJ1VnFpVzBneGQ2R013?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-28T17:59+09:00",
+   "topic": "ロシア"
+  },
+  {
    "title": "木原官房長官が小浜市内の拉致現場を視察 「高市首相は金正恩委員長と首脳会談を行う覚悟がある」 地村さんら5人が帰国してから24年が経過（FBC 福井放送）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95d3JleHQwX3BBWi04NkJ1MFVLYlVCeWtOOHNKaFZybDBya09iZG9GRFBsR09XSUswWVlleldSQ09lYk9CYmp3UUN3NGdKa0lrQjhaOVd2Nlhsbmw2VHNnSFVGQ25DZ25uQ3RwVjZlUWJRMm5fLW9pRFFHS1ZlVTA?oc=5",
    "source": "Yahoo!ニュース",
@@ -582,13 +585,6 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "露指示とされる破壊工作 欧州激化",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5POHB4SGJ0ODUyN3BBU3dDb3dyUlA2aXhINDFHRnBDUncwMFI0bC16TkNDbVREc25ZMlZNbzZTejFPWGcxR1N0ZDRULTVVQWhM?oc=5",
-   "source": "Yahoo!ニュース",
-   "at": "2026-11-28T14:48+09:00",
-   "topic": "欧州・NATO"
-  },
-  {
    "title": "北朝鮮 12月下旬に党の重要会議開催 外交や核開発など方針注目",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOHlvUVpTbk1vUUxjOEhqSW5sbnI4NGVCbnhEUVlOVldfd2lORk9PVVZzVlNIaDhXdDQ0LS1JWTdYeFhXYlU0bXFVRmNheFdpalYtcjdhRTk0LXhMTmxz?oc=5",
    "source": "NHKニュース",
@@ -596,11 +592,18 @@
    "topic": "北朝鮮"
   },
   {
-   "title": "ロシアの対欧州破壊工作、1年で16%増―英IISS「大量死傷の恐れ」と警告",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbTFmWVNGWjVkeUY3Z2szam9HSHZSODhCVEtSMXV6UVo1STVJcXhycEF2ajRhZXhDcTh4YUtBUUw2amtsaXUyX1ZpTWx4OGl3X212V3gxVVNFaXVDbzBoN21Xd9IBaEFVX3lxTE1uVU1lV1V3RHd0SUppQWR2OGdHdFluamk5d3E0RmgtczBIZlFzeUhONDA5SklnLTJlS3IxUHdEMG8tc1k2R2FieGdTdnZ4ZE9CZUhSX1dVeFhjZzZadm1GOWFydThzTkNa?oc=5",
-   "source": "財経新聞",
-   "at": "2026-11-28T12:58+09:00",
-   "topic": "欧州・NATO"
+   "title": "ウクライナが攻撃のロシア船 「北朝鮮から武器を輸送」",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4SkozQl8taHJoN0FjdHVOSHpFUVlIa2FGck02T2dZalprN1U5QmJzbFhsOHlONmR2N21SaE83dUFuQ1ZDelpDdVRKMUVsS3RPU1hBNUtPc2JwSUZxbFpZRmFSXzlGTW5QaXZLaXZibXVSSy1lYWdFMVJR?oc=5",
+   "source": "テレ朝NEWS",
+   "at": "2026-11-28T12:32+09:00",
+   "topic": "北朝鮮"
+  },
+  {
+   "title": "北朝鮮が12月下旬に党中央委員会総会を開催、政策方針決定へ 米朝会談への対応に注目",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MVU1XU1FReEhnellaSVhQQ0ZibV9BRmRCNFhjZ2FFU3ZtQnZvZ1VSd0dad0V6UmNhdElCcHlWZjgzLXE4eGdsZXZobExTZl9KWUlpQTVEYWJJM1MwMUw5Y2JtWWZfaVFpNWwyaVo5a1ZFZnNvV3c?oc=5",
+   "source": "産経ニュース",
+   "at": "2026-11-28T10:49+09:00",
+   "topic": "北朝鮮"
   }
  ],
  "status": {
@@ -621,8 +624,7 @@
    "reasons": [
     "イラン・アメリカ：「攻撃」「封鎖」1件",
     "北朝鮮：「攻撃」2件",
-    "ロシア：「攻撃」「ミサイル」5件",
-    "欧州・NATO：「破壊工作」3件"
+    "ロシア：「攻撃」「ミサイル」5件"
    ],
    "items": [
     {
